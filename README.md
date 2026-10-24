@@ -73,17 +73,25 @@ python3 tools/tradtool.py check     # valida i blocchi tradotti rispetto all'ori
 python3 tools/tradtool.py merge     # ricompone itIT.json
 ```
 
-## 🧠 Come è stata realizzata
+## 🤖 AI disclosure
 
-La traduzione è stata prodotta con l'assistenza dell'intelligenza artificiale (Claude di Anthropic), seguendo un processo strutturato:
+Questa traduzione è stata realizzata **con l'intelligenza artificiale**, usando i modelli **Claude di Anthropic** guidati da un sistema di **prompt engineering proprietario di grado enterprise**. L'architettura è multi-agente:
 
-1. glossario della terminologia ufficiale;
-2. un lotto pilota rivisto per fissare lo stile;
-3. traduzione in parallelo dei 224 blocchi con il glossario come unica fonte di verità;
-4. validazione automatica di ogni tag e segnaposto;
-5. un passaggio dedicato alla concordanza di genere, condotto blocco per blocco.
+- **orchestratori Claude Opus**:
+  - pianificano il lavoro, mantengono glossario e registro dei generi;
+  - distribuiscono i blocchi;
+  - verificano i risultati e risolvono le incoerenze tra un blocco e l'altro.
+- **worker Claude Sonnet**: in pool paralleli, traducono e revisionano i singoli blocchi seguendo le istruzioni e il glossario condiviso.
 
-Errori e imprecisioni sono comunque possibili: le segnalazioni sono benvenute!
+Il processo:
+
+1. glossario della terminologia ufficiale Games Workshop;
+2. un lotto pilota rivisto per fissare stile e registro;
+3. traduzione in parallelo dei 224 blocchi, con il glossario come unica fonte di verità;
+4. validazione automatica di ogni tag e segnaposto del gioco;
+5. verifica della concordanza di genere blocco per blocco, più ricontrolli mirati sui personaggi che condividono lo stesso titolo.
+
+Il lavoro è stato diretto e rivisto da un essere umano, ma resta una traduzione generata da un'IA: errori e imprecisioni sono possibili, e le segnalazioni sono benvenute!
 
 ## 🤝 Contribuire
 
@@ -118,6 +126,6 @@ Progetto amatoriale e non ufficiale, **non affiliato né approvato** da Owlcat G
 
 ### 🏷️ Tag
 
-`warhammer-40k` · `warhammer-40000` · `rogue-trader` · `warhammer-40k-rogue-trader` · `wh40k-rogue-trader` · `owlcat-games` · `traduzione-italiana` · `italian-translation` · `localizzazione-italiana` · `italian-localization` · `patch-italiano` · `italian-patch` · `mod-italiano` · `fan-translation` · `traduzione-amatoriale` · `rpg` · `crpg` · `gioco-di-ruolo` · `videogiochi` · `koronus-expanse` · `distesa-di-koronus` · `imperium` · `adeptus-mechanicus` · `game-localization` · `localization` · `l10n` · `i18n` · `italiano` · `italian` · `pc-game`
+`warhammer-40k` · `warhammer-40000` · `rogue-trader` · `warhammer-40k-rogue-trader` · `wh40k-rogue-trader` · `owlcat-games` · `traduzione-italiana` · `italian-translation` · `localizzazione-italiana` · `italian-localization` · `patch-italiano` · `italian-patch` · `mod-italiano` · `fan-translation` · `traduzione-amatoriale` · `ai-translation` · `traduzione-ai` · `claude` · `llm` · `rpg` · `crpg` · `gioco-di-ruolo` · `videogiochi` · `koronus-expanse` · `distesa-di-koronus` · `imperium` · `adeptus-mechanicus` · `game-localization` · `localization` · `l10n` · `i18n` · `italiano` · `italian` · `pc-game`
 
 **Parole chiave:** traduzione italiana Rogue Trader, Rogue Trader in italiano, patch ITA Warhammer 40K Rogue Trader, Rogue Trader sub ita, mod traduzione italiana Owlcat, Warhammer 40000 Rogue Trader italiano, come mettere l'italiano in Rogue Trader.
