@@ -1,0 +1,1210 @@
+### u018439
+Live Bait
+
+### u018440
+<u>(2 + bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} del famiglio)</u>
+
+### u018441
+Se l'aquila cibernetica è {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, ogni volta che un nemico attacca un alleato con l'effetto {g|f:90f1c90ae52342fda66f67d43e988286}bait{/g}, ogni accumulo di questo effetto permette all'aquila cibernetica di infliggere all'attaccante i {g|Encyclopedia:DamageGlossary}danni{/g} della sua arma. Una volta attivato l'effetto, l'alleato perde −1 accumulo di questo effetto.
+
+### u018442
+Guarding the Bait
+
+### u018443
+Gli attacchi di un nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} contro i suoi alleati ottengono +{uip|DodgeReductionBonus|716db50043764b14802c71e4774d6010}% di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} e infliggono +{uip|WarpDamage|716db50043764b14802c71e4774d6010} {g|Encyclopedia:WarpDamage}danni warp{/g} aggiuntivi, aumentati dal bonus ai danni di protocollo dell'aquila cibernetica.
+
+### u018444
+Shadow of Perdition
+
+### u018445
+<u>(bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} del famiglio × grado di {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} dell'Overseer)</u>
+
+### u018446
+Il personaggio ottiene {uip|tHPNumber|5da89253c7ea493d92a955f101a53349} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}. Può ritirare una volta i tentativi di {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g} falliti e ignora il prossimo colpo di danni subito.
+
+### u018447
+Life-Giving Touch
+
+### u018448
+<u>Grado di {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} dell'Overseer</u>
+
+### u018449
+Quando l'aquila cibernetica si muove attraverso le caselle adiacenti ai suoi alleati, concede loro {g|f:5da89253c7ea493d92a955f101a53349}Life-Giving Touch{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u018450
+Guardian of Life
+
+### u018451
+Finché l'aquila cibernetica è {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, la {g|Encyclopedia:Resolve}determinazione{/g} di tutti gli alleati non xenos aumenta di +{uip|ResolveBonus|8ab6e0555aba4bb691a9e01fce6bef99}. Non è cumulabile.
+Ogni volta che l'aquila cibernetica smette di essere {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, tutti gli alleati non xenos ottengono {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} pari alla loro determinazione. Inoltre, la loro {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} e la loro {g|Encyclopedia:ParryReduction}riduzione della parata{/g} aumentano di +<u>determinazione</u>%. Entrambi gli effetti restano attivi per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u018452
+Vision of Reverence
+
+### u018453
+<u>Grado di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} dell'Overseer</u>
+
+### u018454
+Finché l'aquila cibernetica è in combattimento, ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} concede un {g|Encyclopedia:ExtraTurn}turno extra{/g} a un alleato, quell'alleato ottiene +{uip|AGI Bonus|cd1bc2285bb54db78734297bc404684c} di {g|Encyclopedia:WarhammerAgility}Agility{/g} e +{uip|PER Bonus|cd1bc2285bb54db78734297bc404684c} di {g|Encyclopedia:WarhammerPerception}Perception{/g} fino alla fine del {g|Encyclopedia:Round}round{/g}.
+Se l'aquila cibernetica è {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, questi bonus sono raddoppiati.
+
+### u018455
+Winged Escort
+
+### u018456
+Quando attacca un bersaglio con {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g}, l'aquila cibernetica ottiene lo stesso bonus ai danni inflitti dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}. Il suo attacco rimuove tutti gli {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g} dal bersaglio.
+Quando l'aquila cibernetica infligge {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} a un nemico, quel nemico deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|AGISave|5fc198b41b194129a8d29658840ddf76} o subire +{uip|ExploitNumber|5fc198b41b194129a8d29658840ddf76} {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g}.
+
+### u018457
+Aerial Analysis
+
+### u018458
+<u>({g|Encyclopedia:WarhammerAgility}AGI{/g} del famiglio / 2)</u>
+
+### u018459
+Quando uccide questo bersaglio, l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} o il suo alleato recupera +1 {g|Encyclopedia:ActionPoints}PA{/g} e ottiene un bonus cumulabile di +1 alla {g|Encyclopedia:Resolve}determinazione{/g}.
+
+### u018460
+Promised Death
+
+### u018461
+Ogni volta che l'effetto {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} viene rimosso da un nemico, quel nemico subisce l'effetto {g|f:d683469a1e0e45d48e72a5ed2811f1b0}promised death{/g} fino alla fine del combattimento.
+
+### u018462
+Promise of Death
+
+### u018463
+All'inizio del {g|Encyclopedia:Turn}turno{/g} del suo {g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}, l'aquila cibernetica {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g} infligge {uip|Exploit Number|267f29e1f94d43ec9f9cd5ee25d7427c} {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g} a ogni nemico in combattimento.
+
+### u018464
+Disposition Analysis
+
+### u018465
+<u>(1 + bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} del famiglio / 5)</u>
+
+### u018466
+Quando subisce danni letali per la prima volta in combattimento, l'aquila cibernetica resta in combattimento e inizia immediatamente a {g|f:d8ae4229d77d444fa3bff7e2817541b3}soars{/g}, recuperando il 33% delle sue {g|Encyclopedia:MaxWounds}ferite massime{/g}.
+
+### u018467
+Emergency Protocol
+
+### u018468
+Gli attacchi dell'aquila cibernetica infliggono +{uip|AGI Bonus|1ca2081984db4240b9b0c97d7fe48be0} di danni in più.
+
+### u018469
+Sharpened Talons
+
+### u018470
+<u>(bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} del famiglio + bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} del famiglio)</u>
+
+### u018471
+Ogni volta che l'aquila cibernetica attacca con successo il nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g}, quel nemico subisce {uip|Bleed|489c6f6e95f44cdeb8a00bb7609b0e7e} livelli di {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+
+### u018472
+Bloody Mark
+
+### u018473
+<u>{g|Encyclopedia:SkillAwareness}Awareness{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}</u>
+
+### u018474
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} infligge −{uip|Awareness|c269ba83802c4d8c96584a6738950a1e}% di danni all'aquila cibernetica.
+
+### u018475
+Eagle's Vigilance
+
+### u018476
+Quando l'aquila cibernetica smette di essere {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, ottiene +{uip|AGI Bonus|566eb762e2bd464989b99fbaf6ebc734} di {g|Encyclopedia:Deflection}deviazione{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u018477
+Swift Shadow
+
+### u018478
+Ogni volta che l'aquila cibernetica inizia a essere {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, ottiene +3 alle sue {g|Encyclopedia:Characteristic}caratteristiche{/g} principali. Cumulabile e dura fino alla fine del combattimento.
+
+### u018479
+Wind Currents
+
+### u018480
+Subito prima che l'aquila cibernetica inizi a essere {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, i nemici adiacenti devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con una penalità di −{uip|AGI Bonus|8ccf488b5b5d4c1180ff5e44f1ed6bf1} o restare {g|Encyclopedia:StaggeredEffect}barcollanti{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u018481
+Tenacious Talons
+
+### u018482
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} attacca questa creatura, il mastino cibernetico {g|f:e16934c3dbf44cb997c684a6ddce7575}apprehending{/g} le sferra un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} gratuito, infliggendo −50% di danni. Se questa creatura tenta di allontanarsi dal mastino cibernetico, il mastino cibernetico ottiene una probabilità del {uip|StopChance|e16934c3dbf44cb997c684a6ddce7575}% di annullare il movimento della creatura. Se la creatura si sposta a più di 1 casella di distanza dal mastino cibernetico, questo la segue (durante il {g|Encyclopedia:Turn}turno{/g} della creatura, spendendo 0 {g|Encyclopedia:MovementPoints}PM{/g}) e la attacca.
+
+### u018483
+Apprehended
+
+### u018484
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} attacca il bersaglio {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g}, questo mastino cibernetico gli sferra un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} gratuito, infliggendo −50% di danni. Se il bersaglio tenta di allontanarsi dal mastino cibernetico, il mastino cibernetico ottiene una probabilità del {uip|StopChance|e16934c3dbf44cb997c684a6ddce7575}% di annullare il movimento del bersaglio. Se il bersaglio si sposta a più di 1 casella di distanza dal mastino cibernetico, questo lo segue (durante il {g|Encyclopedia:Turn}turno{/g} della creatura, spendendo 0 {g|Encyclopedia:MovementPoints}PM{/g}) e lo attacca.
+
+### u018485
+Apprehending
+
+### u018486
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} sceglie un nemico nella propria {g|Encyclopedia:LineOfSight}linea di vista{/g}. Il mastino cibernetico tenta immediatamente di correre verso quel nemico. Se non ha abbastanza {g|Encyclopedia:MovementPoints}PM{/g}, si avvicina il più possibile al nemico. Una volta raggiunto il bersaglio designato, il mastino cibernetico sferra un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, infliggendo +50% di danni e applicando l'effetto {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g}, che dura finché il nemico e il mastino cibernetico restano adiacenti o finché non viene impartito un altro ordine.
+Questa {g|Encyclopedia:Ability}abilità{/g} può essere usata più volte per {g|Encyclopedia:Turn}turno{/g}, ma ogni utilizzo successivo nello stesso {g|Encyclopedia:Round}round{/g} ne aumenta il costo di +1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u018487
+Apprehend!
+
+### u018488
+<u>(({g|Encyclopedia:WarhammerWeaponSkill}WS{/g} del famiglio + {g|Encyclopedia:WarhammerStrength}STR{/g} del famiglio) / 3)</u>
+
+### u018489
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} viene attaccato, il suo mastino cibernetico ottiene {uip|Mastiff STR Bonus|582bb17c04754121b4b31647865dfd32} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}. Cumulabile.
+Finché il mastino cibernetico ha ferite temporanee, la sua {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}, i {g|Encyclopedia:DamageGlossary}danni{/g} inflitti, l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}, la {g|Encyclopedia:DodgeGlossary}schivata{/g} e la {g|Encyclopedia:Parry}parata{/g} aumentano di +{uip|Mastiff tHP|582bb17c04754121b4b31647865dfd32}%.
+
+### u018490
+Combat Reflexes
+
+### u018491
+Per 1 {g|Encyclopedia:Round}round{/g}, permette al mastino cibernetico di muoversi attraverso i nemici. Mentre si muove, infligge {uip|Power|50df13d6ecfa472aa818147e0a9a2419} livelli di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} a tutti i nemici adiacenti che supera.
+Ogni nemico colpito aumenta di +{uip|STR|50df13d6ecfa472aa818147e0a9a2419}% la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} del successivo attacco del mastino cibernetico fino alla fine del suo {g|Encyclopedia:Turn}turno{/g}.
+Questa {g|Encyclopedia:Ability}abilità{/g} rimuove le condizioni {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:ProneEffect}a terra{/g} e {g|Encyclopedia:Stun}stordito{/g} dal mastino cibernetico.
+
+### u018492
+Run!
+
+### u018493
+<u>{g|Encyclopedia:Bonus}Bonus{/g} di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g} del famiglio</u>
+
+### u018494
+<u>{g|Encyclopedia:Bonus}Bonus{/g} di {g|Encyclopedia:WarhammerStrength}STR{/g} del famiglio</u>
+
+### u018495
+Il mastino cibernetico emette un ringhio terrificante. Per 1 {g|Encyclopedia:Round}round{/g}, tutti i nemici in un raggio di 2 caselle infliggono −{uip|Damage|364d975f704e46a0bcaaf755278edbb7}% di danni al mastino cibernetico, all'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} e ai suoi alleati.
+
+### u018496
+Growl!
+
+### u018497
+<u>(5 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerStrength}STR{/g} del famiglio / 2)</u>
+
+### u018498
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} sceglie un nemico nella propria {g|Encyclopedia:LineOfSight}linea di vista{/g} entro {uip|Range|f43988eb304d448db74237fcc605f840} caselle dal mastino cibernetico. Il mastino cibernetico scatta immediatamente verso quel nemico ed esegue un attacco speciale. Il bersaglio subisce il doppio dei {g|Encyclopedia:RendingDamage}danni laceranti{/g} e deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una penalità di −{uip|Save|f43988eb304d448db74237fcc605f840} o cadere {g|Encyclopedia:ProneEffect}a terra{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+Questa {g|Encyclopedia:Ability}abilità{/g} rimuove gli effetti delle abilità {g|f:3311f1213a1e452c874ce2cde5c03f59}Apprehend!{/g} e {g|f:78e7771b7c974111887e762d5e999a11}Protect!{/g}.
+
+### u018499
+Bite!
+
+### u018500
+<u>({g|Encyclopedia:MovementPoints}PM{/g} del famiglio / 2)</u>
+
+### u018501
+<u>(5 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g} del famiglio)</u>
+
+### u018502
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} sceglie un alleato nella propria {g|Encyclopedia:LineOfSight}linea di vista{/g} (può essere anche se stesso). Il mastino cibernetico tenta immediatamente di correre verso quell'alleato. Se non ha abbastanza {g|Encyclopedia:MovementPoints}PM{/g}, si avvicina il più possibile all'alleato. Una volta raggiunto, il mastino cibernetico applica {g|f:7d75105e9e224ceab784932c12a26757}protected{/g} all'alleato e sferra un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} {g|Encyclopedia:MeleeAttacksGlossary}in mischia{/g} contro i nemici adiacenti. L'effetto {g|f:7d75105e9e224ceab784932c12a26757}protected{/g} dura finché le {g|Encyclopedia:HitPoints}ferite{/g} del mastino cibernetico o dell'alleato bersaglio scendono a 0 o finché non viene impartito un altro ordine.
+Quando viene usata sull'Overseer per la prima volta in combattimento, l'Overseer recupera 1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u018503
+Protect!
+
+### u018504
+Ogni volta che un nemico attacca questo personaggio, il mastino cibernetico {g|f:a63088cd6402424b8ec0c508e5143083}protecting{/g} sferra all'attaccante, se possibile, un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} gratuito, infliggendo −50% di danni. Per effettuare l'attacco, può spostarsi su qualsiasi casella adiacente a questo personaggio, spendendo 0 {g|Encyclopedia:MovementPoints}PM{/g}. Se questo personaggio si muove, il mastino cibernetico {g|f:a63088cd6402424b8ec0c508e5143083}protecting{/g} lo segue durante il {g|Encyclopedia:Turn}turno{/g} del personaggio, spendendo 0 PM.
+Inoltre, questo personaggio subisce −80% di danni dal mastino cibernetico {g|f:a63088cd6402424b8ec0c508e5143083}protecting{/g}.
+
+### u018505
+Protected
+
+### u018506
+Ogni volta che un nemico attacca l'alleato {g|f:7d75105e9e224ceab784932c12a26757}protected{/g}, questo mastino cibernetico sferra all'attaccante, se possibile, un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} gratuito, infliggendo −50% di danni. Per farlo, può spostarsi su qualsiasi casella adiacente a quell'alleato, spendendo 0 {g|Encyclopedia:MovementPoints}PM{/g}. Se l'alleato {g|f:7d75105e9e224ceab784932c12a26757}protected{/g} si muove, questo mastino cibernetico lo segue durante il {g|Encyclopedia:Turn}turno{/g} di quell'alleato, spendendo 0 PM.
+
+### u018507
+Protecting
+
+### u018508
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} ordina al mastino cibernetico di combattere in autonomia. Il mastino ottiene l'effetto {g|f:11251c47c7b14a87824cffe48ea6374d}battle mode: standby{/g} fino alla fine del combattimento o finché non viene impartito un nuovo ordine.
+
+### u018509
+Battle Mode: Standby
+
+### u018510
+Questo mastino cibernetico combatte in modo indipendente e non può essere controllato direttamente.
+Durante il suo {g|Encyclopedia:Turn}turno{/g}, si muove sempre verso il nemico più vicino e lo attacca.
+
+### u018511
+Questo mastino cibernetico attende il prossimo comando dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}.
+
+### u018512
+Waiting
+
+### u018513
+Quando il mastino cibernetico attacca un bersaglio, infligge +{uip|FireDamage|a02ad192625a4bc289b3a59008ab84ea} {g|Encyclopedia:FireDamage}danni da fuoco{/g} aggiuntivi. Se il bersaglio è soggetto all'effetto {g|Encyclopedia:BurningEffect}in fiamme{/g}, non può {g|Encyclopedia:DodgeGlossary}schivare{/g}, {g|Encyclopedia:Parry}parare{/g} o {g|Encyclopedia:BlockChance}bloccare{/g} l'attacco del mastino cibernetico.
+
+### u018514
+Fiery Beast
+
+### u018515
+<u>Grado di {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} dell'Overseer</u>
+
+### u018516
+Finché un alleato è ancora in combattimento e adiacente al mastino cibernetico, subisce −{uip|DamageReduced|4b7781d804484271947c42e2cdbe1727}% di danni da tutte le fonti e recupera {uip|RestoredWounds|4b7781d804484271947c42e2cdbe1727} {g|Encyclopedia:HitPoints}ferite{/g} all'inizio del proprio {g|Encyclopedia:Turn}turno{/g}.
+
+### u018517
+Loyal Beast
+
+### u018518
+<u>(grado di {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} dell'Overseer + bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g} del famiglio)</u>
+
+### u018519
+Ogni volta che il mastino cibernetico infligge danni attaccando, ottiene +<u>(danni inflitti / 25)</u> accumuli dell'effetto {g|f:6cf8cf0920bd461aa5bddb4d45d49649}frenzied{/g}. Cumulabile fino a 100 volte.
+
+### u018520
+Cyber-Bestial Frenzy
+
+### u018521
+Quando subisce danni letali, il mastino cibernetico resta attivo e recupera {uip|RestoredWounds|6cf8cf0920bd461aa5bddb4d45d49649} {g|Encyclopedia:HitPoints}ferite{/g} se ha più di 30 accumuli di {g|f:6cf8cf0920bd461aa5bddb4d45d49649}Truculence{/g}.
+
+### u018522
+Frenzied
+
+### u018523
+<u>(numero di accumuli di {g|f:6cf8cf0920bd461aa5bddb4d45d49649}frenzied{/g} × grado di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} dell'Overseer)</u>
+
+### u018524
+Quando attacca un bersaglio con {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g}, il mastino cibernetico ottiene lo stesso bonus ai danni inflitti dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}. Il suo attacco rimuove tutti gli {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g} dal bersaglio.
+Se l'Overseer inizia il proprio {g|Encyclopedia:Turn}turno{/g} in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura parziale{/g}, per 1 {g|Encyclopedia:Round}round{/g} il mastino cibernetico ottiene +{uip|Overseer INT Bonus|ce95a986c4044c0ca07fd0db9915388c} {g|Encyclopedia:MovementPoints}PM{/g} e la sua {g|Encyclopedia:DodgeGlossary}schivata{/g} e la sua {g|Encyclopedia:Parry}parata{/g} aumentano di +{uip|Overseer PER Bonus|ce95a986c4044c0ca07fd0db9915388c}%.
+Se l'Overseer inizia il proprio turno in copertura totale, questi bonus sono raddoppiati.
+
+### u018525
+Comprehensive Approach
+
+### u018526
+<u>(bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} dell'Overseer)</u>
+
+### u018527
+<u>(bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} dell'Overseer)</u>
+
+### u018528
+<u>(10 + {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} del famiglio)</u>
+
+### u018529
+<u>Bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} del famiglio</u>
+
+### u018530
+Ogni volta che il mastino cibernetico {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico, ha una probabilità del {uip|Prone Chance|e09dd57609ff429aa33c697e99242c36}% di mandarlo {g|Encyclopedia:ProneEffect}a terra{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u018531
+Fragility
+
+### u018532
+Gli attacchi dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} infliggono {g|f:e09dd57609ff429aa33c697e99242c36}fragility{/g} ai nemici per 1 {g|Encyclopedia:Round}round{/g}.
+I danni dell'arma del mastino cibernetico contro i nemici {g|Encyclopedia:ProneEffect}a terra{/g} aumentano di {uip|Pet WS Bonus|e202927235194d9ba695ea250e904cf0}.
+
+### u018533
+Ferocious Onslaught
+
+### u018534
+Quando un alleato in un raggio di 3 caselle attorno al mastino cibernetico ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g}, il mastino cibernetico sferra immediatamente (prima che inizi il turno extra) un attacco singolo gratuito contro un nemico adiacente, se presente.
+
+### u018535
+Pre-Emptive Attack
+
+### u018536
+Dopo che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa {g|f:e955823f54d24088ae1fdefe88d3684d}Blade Dance{/g}, il mastino cibernetico usa immediatamente {g|f:a82be46a250047dcbaf7fe534441ae6c}Bloody Carnage{/g}.
+
+### u018537
+Blades and Claws
+
+### u018538
+Il mastino cibernetico sferra {uip|Attack Number|a82be46a250047dcbaf7fe534441ae6c} attacchi singoli in mischia contro bersagli adiacenti casuali (alleati compresi), infliggendo −50% di danni.
+
+### u018539
+Bloody Carnage
+
+### u018540
+<u>(2 + bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} del famiglio / 4)</u>
+
+### u018541
+Il mastino cibernetico ottiene un accumulo di {g|f:10672b55534045a19bbbcae01f7e741d}call of blood{/g} per ogni 20% delle {g|Encyclopedia:HitPoints}ferite{/g} attualmente mancanti del suo {g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}.
+
+### u018542
+Shared Blood
+
+### u018543
+Ogni accumulo aumenta di +{uip|Damage Increase|10672b55534045a19bbbcae01f7e741d} i danni inflitti dal mastino cibernetico e i suoi {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u018544
+Call of Blood
+
+### u018545
+<u>((bonus di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g} del famiglio + bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} del famiglio) / 2)</u>
+
+### u018546
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}, il suo effetto viene applicato anche al suo mastino cibernetico.
+
+### u018547
+Special Training
+
+### u018548
+Gli attacchi del mastino cibernetico non rimuovono più gli {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g} dai suoi bersagli (ottenendo comunque il bonus ai danni).
+
+### u018549
+Precise Mauling
+
+### u018550
+Gli alleati in un raggio di 2 caselle attorno al mastino cibernetico vedono il costo della {g|Encyclopedia:Reload}ricarica{/g} ridotto di −1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u018551
+Ammunition Bags
+
+### u018552
+Ogni volta che il mastino cibernetico {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} il nemico {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g} o un nemico adiacente all'alleato {g|f:7d75105e9e224ceab784932c12a26757}protected{/g}, ottiene +1 alle sue {g|Encyclopedia:Characteristic}caratteristiche{/g} principali. Dura fino alla fine del combattimento. Cumulabile.
+
+### u018553
+Battle Mode: Terror
+
+### u018554
+Ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} successivo messo a segno dal mastino cibernetico contro il nemico {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g} infligge +{uip|Damage|c3cffc6b88cb47f3867b194fbcdb8b03} di danni in più. Cumulabile. Gli accumuli si azzerano quando {g|f:078bea05041540fa87a53b93d639f243}Apprehend!{/g} viene usata di nuovo.
+
+### u018555
+Chain-Maw
+
+### u018556
+Ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} successivo messo a segno dal mastino cibernetico contro il nemico {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g} infligge +{uip|Damage|c406fc4338014f25bf5cbc7234685e5e} di danni in più. Cumulabile. Gli accumuli si azzerano quando {g|f:078bea05041540fa87a53b93d639f243}Apprehend!{/g} viene usata di nuovo.
+
+### u018557
+Il nemico {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g} subisce +{uip|Stat|cb6744a50f65438a8f20fd90efdbaff1}% di danni dall'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}.
+
+### u018558
+Relentless Pursuit
+
+### u018559
+<u>(2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u018560
+L'alleato {g|f:7d75105e9e224ceab784932c12a26757}protected{/g} ignora gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u018561
+Automatic Protection
+
+### u018562
+Se {g|f:78e7771b7c974111887e762d5e999a11}Protect!{/g} viene usata sull'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}, i {g|Encyclopedia:MovementPoints}PM{/g} del mastino cibernetico sono raddoppiati quando si muove verso di lui.
+
+### u018563
+Perimeter Defence
+
+### u018564
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} lo stesso bersaglio subito dopo che il mastino cibernetico in {g|f:11251c47c7b14a87824cffe48ea6374d}battle mode: standby{/g} lo ha colpito, gli attacchi dell'Overseer mettono sempre a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+
+### u018565
+Weakest Link
+
+### u018566
+Se il mastino cibernetico subisce {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}in fiamme{/g} o {g|Encyclopedia:ToxinEffect}tossina{/g}, all'inizio del {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} il livello di quell'effetto si riduce di −{uip|Bonus|c15a6be91f594d72ab087a8522d39fae}.
+
+### u018567
+Auto-Medicae
+
+### u018568
+Ogni volta che il mastino cibernetico ottiene bonus da {g|f:582bb17c04754121b4b31647865dfd32}Combat Reflexes{/g}, se il suo {g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} si trova in un raggio di 3 caselle, ottiene anch'egli questi bonus (tranne le {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}).
+
+### u018569
+Joint Hunting
+
+### u018570
+Il corvo psibernetico infligge {uip|ShockDamage|7962a71f962946258a64df9cd4b7c36a} {g|Encyclopedia:ShockDamage}danni da shock{/g} ai 3 nemici più vicini in un raggio di 4 caselle attorno a sé.
+
+### u018571
+Purification Discharge
+
+### u018572
+<u>({g|Encyclopedia:PsyRating}livello psichico{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del famiglio)</u>
+
+### u018573
+Il {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} attraverso il corvo psibernetico in questo {g|Encyclopedia:Round}round{/g} viene {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} ancora una volta.
+### u018574
+Complete the Cycle
+
+### u018575
+Il corvo psibernetico subisce 9 {g|Encyclopedia:WarpDamage}danni warp{/g}, e ogni creatura in un raggio di 4 caselle attorno a esso subisce <u>(9 × numero di creature colpite)</u> danni warp. Dopodiché, le creature colpite (escluso il corvo psibernetico) il cui numero di {g|Encyclopedia:HitPoints}ferite{/g} è divisibile per 9 perdono il 9% delle loro {g|Encyclopedia:MaxWounds}ferite massime{/g}.
+
+### u018576
+Immaterium's Embrace
+
+### u018577
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} ordina al proprio corvo psibernetico di smettere di {g|f:3159a138a7ee4cc48f4c88ebd3399d96}relaying{/g}.
+
+### u018578
+Halt Relay
+
+### u018579
+I nemici in un raggio di 4 caselle attorno al corvo psibernetico subiscono <u>(da {uip|MinDamage|319b06b3dbad4d47ae1dff5c1647f904} a {uip|MaxDamage|319b06b3dbad4d47ae1dff5c1647f904})</u> {g|Encyclopedia:WarpDamage}danni warp{/g} e +1 accumulo di {g|Encyclopedia:PerplexedEffect}confuso{/g} fino alla fine del combattimento.
+
+### u018580
+Evil Eye
+
+### u018581
+<u>({g|Encyclopedia:WarhammerWillpower}WP{/g} del famiglio / 5)</u>
+
+### u018582
+<u>({g|Encyclopedia:WarhammerWillpower}WP{/g} del famiglio / 2)</u>
+
+### u018583
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} ordina al proprio corvo psibernetico di spostarsi immediatamente di un massimo di {uip|MP|5f6ef4bf13754f7285ac540bfd2ee80f} caselle. Il corvo può attraversare le caselle occupate e non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u018584
+Relocate
+
+### u018585
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} non offensivi a bersaglio singolo (tranne quelli che concedono {g|Encyclopedia:ExtraTurn}turni extra{/g}) sul proprio corvo psibernetico, questi vengono applicati a <i>tutti</i> i bersagli pertinenti (alleati o nemici) in un raggio di 4 caselle attorno a esso, senza alcun effetto sul corvo psibernetico stesso.
+I nemici in un raggio di 4 caselle attorno al corvo psibernetico sono {g|f:a115669547864ccc816f0598a404e816}under surveillance{/g}.
+
+### u018586
+Warp Relay
+
+### u018587
+Questa creatura si trova nell'{g|Encyclopedia:AreaOfEffect}area d'effetto{/g} dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:3159a138a7ee4cc48f4c88ebd3399d96}Warp Relay{/g} del corvo psibernetico.
+
+### u018588
+Warp Relay-Influenced
+
+### u018589
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa poteri psichici non offensivi a bersaglio singolo su questo corvo psibernetico, questi vengono applicati immediatamente a <i>tutti</i> i bersagli pertinenti (alleati o nemici) in un raggio di 4 caselle attorno a esso, senza alcun effetto sul corvo psibernetico stesso. L'effetto di tali {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} viene calcolato usando le {g|Encyclopedia:Characteristic}caratteristiche{/g} del corvo psibernetico (tranne il {g|Encyclopedia:PsyRating}livello psichico{/g}).
+Questo corvo psibernetico è considerato il {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} meno rilevante per i nemici.
+
+### u018590
+Relaying
+
+### u018591
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} del corvo psibernetico ignora la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} di questa creatura. Inoltre, questa creatura non può {g|Encyclopedia:BlockChance}bloccare{/g} gli attacchi dell'Overseer usando uno scudo.
+
+### u018592
+Under Surveillance
+
+### u018593
+Gli alleati in un raggio di 4 caselle attorno al corvo psibernetico ottengono +{uip|THP|d9580c9bca3d4b068905ba234623cf6a} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} e +{uip|Armor|d9580c9bca3d4b068905ba234623cf6a}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u018594
+Stabilise
+
+### u018595
+<u>(3 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del famiglio)</u>
+
+### u018596
+<u>(bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del famiglio + bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} del famiglio)</u>
+
+### u018597
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} aumenta di +<u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWillpower}WP{/g} del corvo psibernetico × bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} del corvo psibernetico)</u>%.
+
+### u018598
+Stabilised
+
+### u018599
+Ogni accumulo di questo effetto aumenta di +5 {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerStrength}Strength{/g} e di +1 la {g|Encyclopedia:Resolve}determinazione{/g}.
+
+### u018600
+Warp Solace
+
+### u018601
+Tutti gli alleati in un raggio di 4 caselle attorno al corvo psibernetico ottengono +{uip|WPBonus|1ff86f1bc340493d9ca708f838c7678c} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}, subiscono −50% di danni dai demoni e sono immuni all'effetto {g|f:423e91ce057d4e2489043ded7306f3e2}horrors of the warp{/g}.
+Se un alleato inizia il proprio {g|Encyclopedia:Turn}turno{/g} in un raggio di 4 caselle attorno al corvo psibernetico, ottiene +1 accumulo dell'effetto {g|f:d601afbd98d44f7fb57fe84c12f2dc59}warp solace{/g} fino alla fine del combattimento. Cumulabile fino a 5 volte.
+
+### u018602
+Warp Anchor
+
+### u018603
+<u>Bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del famiglio</u>
+
+### u018604
+Il primo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} di un {g|Encyclopedia:Round}round{/g} {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} attraverso il corvo psibernetico brucia i nemici in un raggio di 4 caselle attorno al famiglio, infliggendo loro {uip|FireDamage|6a40ad34e6fa4400a96b82ebd140fcaa} {g|Encyclopedia:FireDamage}danni da fuoco{/g}.
+Tali danni aumentano di +100% contro xenos, psyker e nemici demoniaci.
+
+### u018605
+Conflagration
+
+### u018606
+<u>(10 + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del famiglio × grado di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} dell'Overseer)</u>
+
+### u018607
+Se vengono inflitti danni all'Overseer mentre si trova in un raggio di 4 caselle attorno al corvo psibernetico, tali danni vengono inflitti invece a un personaggio alleato scelto a caso.
+
+### u018608
+Just Pawns
+
+### u018609
+Questa creatura è collegata al corvo psibernetico. Quando subisce la prossima istanza di {g|Encyclopedia:DamageGlossary}danni{/g}, il {uip|SharedDamage|1054900271274ed5a11b7a8c5b1406d8}% di tali danni (fino a un massimo del 100%) viene inflitto a tutti i bersagli collegati come {g|Encyclopedia:MentalDamage}danni mentali{/g}. Una volta attivato, questo effetto viene rimosso.
+
+### u018610
+Ogni volta che viene usata {g|f:7962a71f962946258a64df9cd4b7c36a}Purification Discharge{/g}, i bersagli colpiti subiscono {g|f:70a18b24f69f4dfb905cb3d9420d0b19}bonds of pain{/g}, che li collegano al corvo psibernetico. Un nemico può essere collegato a un solo corvo psibernetico alla volta.
+
+### u018611
+Bonds of Pain
+
+### u018612
+<u>({g|Encyclopedia:WarhammerWillpower}WP{/g} del famiglio / 3)</u>
+
+### u018613
+Mentre si muove, il corvo psibernetico infligge {uip|WarpDamage|1d49df8923274b3d88ab61d275990b52} {g|Encyclopedia:WarpDamage}danni warp{/g} a ogni nemico che supera.
+
+### u018614
+Impure Force
+
+### u018615
+<u>(2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del famiglio)</u>
+
+### u018616
+Quando l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relays{/g} un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} attraverso il corvo psibernetico per la prima volta in un {g|Encyclopedia:Round}round{/g}, recupera +1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u018617
+Psy-Resonator
+
+### u018618
+I nemici in un raggio di 4 caselle attorno al corvo psibernetico vedono la propria {g|Encyclopedia:WarhammerWillpower}Willpower{/g} ridotta di −<u>(2 × bonus di WP del corvo psibernetico)</u>.
+
+### u018619
+Bound by Warp
+
+### u018620
+Se l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} si trova entro 4 caselle dal corvo psibernetico, ogni volta che l'Overseer scatena i {g|Encyclopedia:PerilsOfWarp}pericoli del Warp{/g}, questi colpiscono un nemico casuale all'interno di quell'area al posto dell'Overseer. I nemici eccezionalmente potenti possono essere immuni agli effetti di morte istantanea. Se non ci sono nemici in quest'area, i pericoli del Warp colpiscono l'Overseer come di consueto.
+
+### u018621
+Warp Buffer
+
+### u018622
+L'effetto dei {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} attraverso il corvo psibernetico viene calcolato come se il {g|Encyclopedia:PsyRating}livello psichico{/g} fosse aumentato di +1
+
+### u018623
+Castigating Echoes
+
+### u018624
+All'inizio di ogni {g|Encyclopedia:Round}round{/g}, se il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} è pari o superiore a 15, tutte le creature in un raggio di 4 caselle attorno al corvo psibernetico subiscono {uip|WarpDamage|397d0c905d074ac183684d5547868253} {g|Encyclopedia:WarpDamage}danni warp{/g}.
+
+### u018625
+Ruinous Flows
+
+### u018626
+<u>(9 + 3% delle {g|Encyclopedia:MaxWounds}ferite massime{/g} della creatura)</u>
+
+### u018627
+Ogni volta che un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} viene {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} attraverso il corvo psibernetico, subisce 3 {g|Encyclopedia:DirectDamage}danni diretti{/g} e ottiene +3 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}. Cumulabile.
+
+### u018628
+Sacrificial Penance
+
+### u018629
+Questa creatura si trova nell'{g|Encyclopedia:AreaOfEffect}area d'effetto{/g} dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:215d9f42b7e6435e9ed77337156e0fc3}Extrapolation{/g} dello sciame di servoteschi.
+
+### u018630
+Extrapolation-Influenced
+
+### u018631
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} dello sciame di servoteschi ignora la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} di questa creatura. Inoltre, questa creatura non può {g|Encyclopedia:BlockChance}bloccare{/g} gli attacchi dell'Overseer usando uno scudo.
+
+### u018632
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa {g|Encyclopedia:Ability}abilità{/g} non offensive a bersaglio singolo su questo sciame di servoteschi, queste vengono applicate immediatamente a <i>tutti</i> i bersagli pertinenti (alleati o nemici) in un raggio di 4 caselle attorno a esso, senza alcun effetto sullo sciame di servoteschi stesso. L'effetto di tali abilità viene calcolato usando le {g|Encyclopedia:Characteristic}caratteristiche{/g} di questo sciame di servoteschi.
+Questo sciame di servoteschi è considerato il {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} meno rilevante per i nemici e ha immunità a ogni tipo di movimento forzato.
+
+### u018633
+Extrapolation
+
+### u018634
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa {g|Encyclopedia:Ability}abilità{/g} non offensive a bersaglio singolo (tranne i {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}, le abilità del Navigatore e quelle che concedono {g|Encyclopedia:ExtraTurn}turni extra{/g}) sul proprio sciame di servoteschi, queste vengono applicate a <i>tutti</i> i bersagli pertinenti (alleati o nemici) in un raggio di 4 caselle attorno a esso, senza alcun effetto sullo sciame di servoteschi stesso.
+Se l'Overseer usa un'abilità che concede un {g|Encyclopedia:Turn}turno{/g} extra a un alleato in quell'area (tranne {g|f:33c8c9db91694ca6ad3eff26e36dd0af}Finest Hour!{/g}), anche l'alleato più vicino al bersaglio iniziale ottiene un turno extra.
+I nemici in un raggio di 4 caselle attorno allo sciame di servoteschi sono {g|f:5fcfda67ccb14a66a0ff79d2b9ee250c}under surveillance{/g}.
+
+### u018635
+All'inizio del proprio {g|Encyclopedia:Turn}turno{/g}, ogni nemico in un raggio di 4 caselle attorno allo sciame di servoteschi effettua una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una penalità di −{uip|WILSave|6fe07c288ab442c4b70d4e9d535a6cb6}. Ogni nemico che la fallisce sferra, se possibile, un attacco gratuito contro la creatura più vicina (alleata o nemica). Dopodiché, agisce normalmente.
+! Questo effetto di segnale dura finché lo sciame di servoteschi non viene distrutto o usa un'altra {g|Encyclopedia:Ability}abilità{/g} di segnale.
+
+### u018636
+Provocation Signal
+
+### u018637
+<u>(5 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del famiglio)</u>
+
+### u018638
+All'inizio del proprio {g|Encyclopedia:Turn}turno{/g}, ogni nemico in un raggio di 4 caselle attorno allo sciame di servoteschi effettua una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una penalità di −{uip|WILSave|42ed520aeaf2480ba43afc9290b36663}. Ogni nemico che la fallisce considera lo sciame di servoteschi il proprio {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} fino alla fine del proprio turno.
+Finché questo effetto di segnale dura, l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e la {g|Encyclopedia:DodgeGlossary}schivata{/g} dello sciame di servoteschi aumentano di +{uip|ArmorBonus|42ed520aeaf2480ba43afc9290b36663}% per ogni nemico nell'area.
+! Questo effetto di segnale dura finché lo sciame di servoteschi non viene distrutto o usa un'altra {g|Encyclopedia:Ability}abilità{/g} di segnale.
+
+### u018639
+Priority Signal
+
+### u018640
+<u>(5 × bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} del famiglio)</u>
+
+### u018641
+<u>(2 + bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} del famiglio)</u>
+
+### u018642
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} ordina al proprio sciame di servoteschi di spostarsi immediatamente di un massimo di {uip|MP|57e2562dac5c40268e27f87317f008d0} caselle. Lo sciame può attraversare le caselle occupate e non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u018643
+Relocation
+
+### u018644
+All'inizio del proprio {g|Encyclopedia:Turn}turno{/g}, ogni alleato in un raggio di 4 caselle attorno allo sciame di servoteschi ottiene {uip|Heal|9af122965c3c4decad673e9ccf58c628} {g|Encyclopedia:HitPoints}ferite{/g} e una probabilità del {uip|Chance|9af122965c3c4decad673e9ccf58c628}% (massimo 90%) di rimuovere 1 {g|Encyclopedia:Injury}lesione{/g}. Non ha effetto sugli alleati {g|Encyclopedia:UnconsciousEffect}privi di sensi{/g}.
+! Questo effetto di segnale dura finché lo sciame di servoteschi non viene distrutto o usa un'altra {g|Encyclopedia:Ability}abilità{/g} di segnale.
+
+### u018645
+Medicae Signal
+
+### u018646
+<u>(2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del famiglio)</u>
+
+### u018647
+<u>({g|Encyclopedia:SkillMedicae}Medicae{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} / 2)</u>
+
+### u018648
+Finché l'Overseer si trova in un raggio di 4 caselle attorno allo sciame di servoteschi, gli alleati non xenos in quell'area ottengono +{uip|ResolveBonus|e5265e74557c4069b8312921f4c640b1} di {g|Encyclopedia:Resolve}determinazione{/g}.
+Tutti gli xenos, i demoni e gli psyker in quell'area subiscono +{uip|DamageModifier|e5265e74557c4069b8312921f4c640b1}% di danni da qualsiasi fonte.
+
+### u018649
+Flame of Faith
+
+### u018650
+<u>(bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} del famiglio × grado di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} dell'Overseer)</u>
+
+### u018651
+Dopo che un totale di cinque creature sono morte o personaggi alleati sono caduti privi di sensi in un raggio di 4 caselle attorno allo sciame di servoteschi, l'Overseer e i personaggi alleati che iniziano il proprio {g|Encyclopedia:Turn}turno{/g} in quell'area ottengono +1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u018652
+Bloody Mass
+
+### u018653
+Quando un personaggio alleato cade privo di sensi o subisce una {g|Encyclopedia:Injury}nuova lesione{/g} in un raggio di 4 caselle attorno allo sciame di servoteschi, lo {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} del gruppo non si riduce. Al contrario, aumenta di +{uip|DeathMomentum|7118f19ea17a4fa9bf849fe70766fbbb} per ogni personaggio alleato ancora in combattimento.
+
+### u018654
+True Courage
+
+### u018655
+All'inizio del {g|Encyclopedia:Turn}turno{/g} del suo {g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}, lo sciame di servoteschi infligge immediatamente {uip|ExploitNumber|1946e3294827418889bca99e190cfd92} {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g} a ogni nemico in un raggio di 4 caselle.
+
+### u018656
+<u>(bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} del famiglio / 2)</u>
+
+### u018657
+Ogni volta che un alleato entro un raggio di 4 caselle attorno allo sciame di servoteschi ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g}, la sua prossima abilità non offensiva costa −1 {g|Encyclopedia:ActionPoints}PA{/g} e può usare un consumabile spendendo 0 PA. Se in combattimento ci sono più sciami di servoteschi, l'effetto non è cumulabile.
+
+### u018658
+Optimisation
+
+### u018659
+Ogni volta che Pasqal usa {g|f:95cdd5f42ef5480d9fadd9e0acee641b}Machine Spirit Communion{/g}, lo sciame di servoteschi imita l'effetto di questa abilità, creando una seconda area centrata su di sé. Se le aree si sovrappongono, l'effetto non è cumulabile.
+
+### u018660
+Refuge for Machine Spirit
+
+### u018661
+Ogni volta che viene concesso un {g|Encyclopedia:ExtraTurn}turno extra{/g} in un raggio di 4 caselle attorno allo sciame di servoteschi, fino alla fine del combattimento il suo {g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} ottiene +3 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e i suoi danni aumentano di +{uip|BonusDamage|94f07339271446e1bd2ee4b667d3bfc7}%. Cumulabile.
+
+### u018662
+Kinetic Module
+
+### u018663
+<u>Bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} del famiglio</u>
+
+### u018664
+Ogni volta che un nemico in un raggio di 4 caselle attorno allo sciame di servoteschi viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g} o diventa bersaglio di {g|f:fbdba5fe2a264c25bada29aecd64049a}Expose Weakness{/g}, ogni {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploit{/g} rimosso da quel nemico concede allo sciame di servoteschi +1% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e {g|Encyclopedia:DodgeGlossary}schivata{/g} fino alla fine del combattimento. Ogni 10 {g|f:66e7b370e32b43118315ab0fd24a7f0d}exploits{/g} rimossi gli concedono +1 di {g|Encyclopedia:Deflection}deviazione{/g}.
+
+### u018665
+Field Modification
+
+### u018666
+Mentre si muove, lo sciame di servoteschi infligge {uip|Damage|75a2610727ad4d95878c6a940dd9b265} {g|Encyclopedia:ShockDamage}danni da shock{/g} a ogni nemico che supera.
+
+### u018667
+<u>(2 × bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} del famiglio)</u>
+
+### u018668
+Quando l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} {g|f:215d9f42b7e6435e9ed77337156e0fc3}extrapolates{/g} un'{g|Encyclopedia:Ability}abilità{/g} attraverso lo sciame di servoteschi per la prima volta in un {g|Encyclopedia:Round}round{/g}, recupera +1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u018669
+Symbiosis
+
+### u018670
+Se l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} o i suoi alleati sono protetti da {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} parziale in un raggio di 4 caselle attorno allo sciame di servoteschi, sono considerati protetti da copertura totale.
+
+### u018671
+Safe Shelter
+
+### u018672
+Ogni volta che un'{g|Encyclopedia:Ability}abilità{/g} {g|f:215d9f42b7e6435e9ed77337156e0fc3}extrapolated{/g} attraverso lo sciame di servoteschi colpisce degli alleati, lo sciame di servoteschi ottiene +1 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}. Ogni volta che una tale abilità colpisce dei nemici, lo sciame di servoteschi ottiene +1 di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}. Cumulabile.
+
+### u018673
+Self-Learning Algorithms
+
+### u018674
+Finché l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} si trova a 5 o più caselle di distanza dallo sciame di servoteschi, la sua {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} aumenta di +{uip|Bonus|4cd606a241884135b1253e705eff88e6}.
+
+### u018675
+Unseen Support
+
+### u018676
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa {g|f:5bfccf14d8604ae1a041fb347fb8f19f}Bring It Down!{/g} e viene concesso un {g|Encyclopedia:ExtraTurn}turno extra{/g} anche a un secondo alleato entro un raggio di 4 caselle attorno allo sciame di servoteschi, lo sciame di servoteschi ottiene +5 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g}. Cumulabile.
+
+### u018677
+Energy Multiplier
+
+### u018678
+Una volta per combattimento, lo sciame di servoteschi può salvare un alleato. Se quell'alleato subisce danni letali in un raggio di 4 caselle attorno allo sciame di servoteschi, recupera il <u>(bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dello sciame di servoteschi / 3)</u>% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g} e resta in combattimento. Poi lo sciame di servoteschi subisce il <u>(100 − {g|Encyclopedia:SkillMedicae}Medicae{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} / 5)</u>% di {g|Encyclopedia:ShockDamage}danni da shock{/g}.
+
+### u018679
+Emergency Stimulation
+
+### u018680
+<u>Bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del famiglio</u>
+### u018681
+Un po' di riposo e del buon cibo autorizzati dal Lord Capitano hanno fatto un'enorme differenza nella lotta degli Astropati contro le macchinazioni del Warp.
+
+### u018682
+Revitalised
+
+### u018683
+Senza la protezione di un potente psyker, le anime dei partecipanti al rituale sono indifese contro i tormenti dei terrori del Warp.
+
+### u018684
+A ogni Astropate che cade, il potere del Warp cresce.
+
+### u018685
+La protezione psichica offerta dal Rogue Trader riempie di coraggio i partecipanti al rituale.
+
+### u018686
+Il Warp ti vede. Il Warp ti conosce. Il Warp sta venendo a prenderti.
+
+### u018687
+Bared Soul
+
+### u018688
+"Come si diventa Astropate?"
+
+### u018689
+"Parlami del Coro Astropatico."
+
+### u018690
+"Ricordami, chi sei?"
+
+### u018691
+"Ti è piaciuto servire sotto Lady Theodora?"
+
+### u018692
+"Temevo che l'autore di quella confessione potesse essere pericoloso. Spiegati."
+
+### u018693
+"Quello strano rumore all'interno della cappella. Non ti disturba?"
+
+### u018694
+"Ho assistito alla morte di uno dei tuoi Astropati. Cos'è successo?"
+
+### u018695
+"Parleremo più tardi, Maestro del Coro. Ho degli affari da sbrigare."
+
+### u018696
+"Sono {mf|confuso|confusa}. Allora, quanti anni hai?"
+
+### u018697
+"Voglio parlare d'altro."
+
+### u018698
+"Mi ha spinto la curiosità. Di cosa parlava la tua confessione?"
+
+### u018699
+"Quindi, se volessi nascondermi certe informazioni, potresti farlo?"
+
+### u018700
+"Ho sentito dell'angoscia in quella confessione. Volevo aiutarti."
+
+### u018701
+"Se succede qualcosa al tuo Coro, dove posso trovare nuovi Astropati?"
+
+### u018702
+"Andrò a fondo di quel messaggio."
+
+### u018703
+"Oh, i miei incubi ti hanno scottato?"
+
+### u018704
+Hai mostrato interesse per il coro della nave fornendogli dei rifornimenti.
+
+### u018705
+"Se la tua macchina conosce il significato dei simboli, perché non può decifrare da sola i messaggi?"
+
+### u018706
+[Indica il tamburo meccanico] "Che dispositivo è questo?"
+
+### u018707
+"Lascia stare."
+
+### u018708
+{n}Il Maestro del Coro Zacchary Weisz, un vecchio alto in una lunga tonaca verde, se ne sta immobile davanti a un cogitatore. Più ti avvicini, più chiaramente senti il suo continuo sussurro incomprensibile. Stai per chiamarlo per nome quando lui tace di colpo e si volta verso di te per primo. {/n} "Lord Capitano."
+
+### u018709
+"Una visita del Rogue Trader è un onore per noi." {n}Come gli altri {g|Encyclopedia:AstropathGlossary}Astropati{/g} della cappella, il Maestro del Coro ha gli occhi bendati con antichi rotoli consunti di sacri manoscritti. Eppure non riesci a scrollarti di dosso la sensazione che il suo sguardo ultraterreno e luminoso ti stia studiando con attenzione.{/n} "In cosa posso esservi utile, Vostra Signoria?"
+
+### u018710
+"Vostra Signoria. A cosa devo l'onore della vostra visita?"
+
+### u018711
+"Qualcosa si muove dall'altra parte della {g|Encyclopedia:Maw}Fauce{/g}, Lord Capitano. Qualcosa di infinitamente sinistro. Qualcosa di disastroso. I frammenti di immagini mentali che ci giungono dall'Imperium portano il marchio della rovina. Le immagini che provengono da laggiù sono come una belva che mostra i denti."
+
+### u018712
+"Conosco un paio di posti dove puoi trovare nuovi Astropati." {n}Idira ghigna con malizia.{/n} "Sempre che tu non pretenda che siano tutti eleganti e a modo come questa banda di occhi fritti."
+
+### u018713
+"Non ne dubito, Vostra Signoria."
+
+### u018714
+"Non si è mai troppo prudenti, e io più di chiunque altro dovrei saperlo. Vi ringrazio per la vostra vigilanza. Devo riflettere di più su ciò che posso fare per i vivi. È il modo migliore per ripagare il proprio debito con i morti, sempre che sia possibile ripagarlo."
+
+### u018715
+"Per noi Astropati, questo luogo è la culla e la tomba, Lord Capitano. Vi trovate alla confluenza di ogni missiva segreta, di ogni ordine di primaria importanza, di ogni intrigo ordito dietro le quinte. Vi trovate in un luogo dove ciascuno dei vostri fedeli Astropati è pronto a dare la vita per qualche briciola di informazione, se tale è il vostro volere."
+
+### u018716
+"Certamente, Lord Capitano. C'è qualcosa in particolare che desiderate sapere?"
+
+### u018717
+{n}Il volto rugoso e gli angoli cadenti della bocca appaiono al tempo stesso concentrati e cortesi.{/n} "Mi chiamo Zacchary Weisz, Vostra Signoria. Sono il Maestro del Coro Astropatico. Fui assegnato a questa nave subito dopo il mio rituale del Legame dell'Anima sulla {g|Encyclopedia:HolyTerraGlossary}Sacra Terra{/g}. Si potrebbe dire che servo la Casata von Valancius da tutta la vita."
+
+### u018718
+"La servii per due decenni, e non conobbi nessun altro Lord Capitano prima della vostra ascesa. Con lei ho vissuto..." {n}Il Maestro del Coro tace, come se per un attimo la sua mente fosse stata trasportata altrove. Un'ombra di rimpianto gli attraversa il volto.{/n} "...molte cose."
+
+### u018719
+"Al contrario, Lord Capitano. È una tecnica di concentrazione mentale usata dal Coro della vostra nave ammiraglia, una che ho inventato io stesso. Questa musica è stata scritta da un Astropate. Ciò che i miei sottoposti e io vi sentiamo non è ciò che sentono le persone comuni. La sua vera profondità e bellezza non si possono comprendere senza la benedizione dell'Imperatore. La musica protegge le nostre menti dai pensieri rudimentali, le purifica e le affila. Ma soprattutto, funge da faro in mezzo al tumultuoso Mare delle Anime, un filo che ci riporta a casa dal labirinto mortale."
+
+### u018720
+{n}Il Maestro del Coro sospira e fa il segno dell'Aquila.{/n} "Possa il Dio-Imperatore concedere riposo alla sua anima e proteggerlo dagli artigli tenaci dei {g|Encyclopedia:ChaosGlossary}Poteri Rovinosi{/g}. Era il quinto questo mese. Le nostre voci più giovani non riescono a reggere le tempeste warp che infuriano nella Distesa, e finiscono per perdere la ragione." {n}Aggiunge, appena udibile,{/n} "Se sono fortunati..."
+
+### u018721
+"Addio, Vostra Signoria." {n}Il Maestro del Coro ti segue con il suo sguardo ultraterreno e luminoso mentre te ne vai, poi si volta di nuovo verso il cogitatore.{/n}
+
+### u018722
+"Che strano." {n}Fa una smorfia, come per il dolore.{/n} "Strano che abbiate ascoltato la mia confessione, e strano che abbiate scelto di avvicinarmi dopo. Perché?"
+
+### u018723
+"Vi ascolto con attenzione, Lord Capitano."
+
+### u018724
+"Gli Astropati raramente muoiono di vecchiaia, Vostra Signoria. A meno che non si consideri una sorta di vecchiaia l'inesorabile logorio che il nostro servizio infligge alle nostre forze vitali. Più spesso è il Warp a reclamarci, nei suoi modi crudeli, e io ho... perso molti compagni." {n}Si strofina l'attaccatura del naso, con l'aria stanca.{/n}
+
+### u018725
+"La mia confessione vi ha reso {mf|ansioso|ansiosa} per me, facendovi sprecare tempo, e me ne scuso. Vi sono grato per la vostra premura." {n}Sorride di un sorriso agrodolce.{/n}
+
+### u018726
+"La morte è sempre vicina agli Astropati, e le sue punizioni per l'arroganza e la debolezza sono severe. Ho visto morire i miei compagni, e a volte i ricordi sono estremamente difficili da sopportare. Purtroppo quasi ogni Coro ha una storia simile... e un sopravvissuto che da allora porta con sé i loro fantasmi." {n}Weisz emette un respiro rotto.{/n} "Perdonatemi, ma non posso continuare a rigirare il coltello in queste vecchie ferite. Dirigere un Coro richiede una mente lucida e salda."
+
+### u018727
+"Come preferisci."
+
+### u018728
+"Lady Theodora comprendeva bene la mia importanza nel meccanismo complessivo dei servizi della nave." {n}Un'irritazione mal celata si insinua nell'espressione di rimpianto sul suo volto.{/n} "Il che, tuttavia, non le ha impedito di trascurare i miei avvertimenti."
+
+### u018729
+{n}La luce che filtra da sotto le bende tremola di strane sfumature mentre il Maestro del Coro si stringe la tempia. La sua espressione cambia in un modo che conosci bene. È lo sguardo di chi ha intravisto i {d|Encyclopedia:CharGen_DH_Signs}segni sinistri{/d} che il male ha lasciato sulla tua anima.{/n}
+
+### u018730
+"Perdonatemi, Vostra Signoria. Ho percepito... una stranezza in voi, e la mia mente si è protesa da sola. Non ho visto molto, ma quel poco è bastato. Mi addolora sapere che questo... marchio... vi pesi tanto. Credetemi, conosco bene l'oppressivo fardello della rovina."
+
+### u018731
+{n}Weisz ti rivolge un sorriso cortese.{/n} "Suppongo che conosciate già la risposta, Vostra Signoria. Avete percorso voi {mf|stesso|stessa} una {d|Encyclopedia:CharGen_Psyker}strada simile{/d}, anche se avete svoltato in modo diverso da me."
+
+### u018732
+"Purtroppo per tutti noi, Vostra Signoria, i messaggi astropatici non sono dispacci cifrati, bensì impronte psichiche contenenti informazioni. Solo un Astropate può leggere per intero ciò che è creato attraverso il medium del Warp. Inoltre, mentre attraversano l'Immaterium, i messaggi possono essere distorti da intenti malevoli. Spetta ai vostri soli servitori proteggere la propria mente con la fede e separare il vero significato dall'influenza dei Poteri Rovinosi."
+
+### u018733
+"Se i miei calcoli sono esatti, tenuto conto dei nostri spostamenti attraverso il Warp, ho compiuto trentaquattro anni un mese e mezzo fa." {n}Segue una pausa. Non riesci a capire se il vecchio davanti a te stia scherzando, ma sul suo volto non c'è la minima traccia di un sorriso.{/n}
+
+### u018734
+{n}Hai sentito resoconti di perturbazioni nel Warp che colpiscono gli psyker, soprattutto gli Astropati, che si immergono più a fondo nell'Immaterium. Ma ultimamente le storie sono sempre più allarmanti. {g|Encyclopedia:CicatrixMaledictumGlossary}Qualcosa infuria nel Warp{/g}, qualcosa che rappresenta una minaccia particolare per chi possiede poteri psichici.{/n}
+
+### u018735
+{n}Il Warp è imprevedibile e pericoloso: non si può che provare compassione per gli Astropati il cui dovere li costringe a immergere la mente nelle profondità dell'Immaterium.{/n}
+
+### u018736
+{n}Il Sanzionamento è una procedura brutale, che priva ogni Astropate del dono della vista. Ma in cambio, ottengono un nuovo tipo di visione che permette loro di vedere ciò che le persone comuni non possono.{/n}
+
+### u018737
+{n}Il bagliore alieno che filtra da sotto le bende di Weisz ti fa chiedere se possa davvero vederti o se stia solo fingendo con abilità.{/n}
+
+### u018738
+"Sconsiglio di prendere anche solo in considerazione una simile opzione. Gli psyker non sanzionati sono porte d'accesso per le forze dell'{g|Encyclopedia:ChaosGlossary}Arcinemico{/g}, a dispetto di quanto sostengono i meno informati sulla questione."
+
+### u018739
+"Il compilatore confronta le immagini del messaggio con i suoi dati e inoltra i risultati al {g|Encyclopedia:Cogitator}cogitatore{/g} centrale e a me, così che io possa iniziare il rituale di decodifica. Non conosco nessun altro Coro che possieda un meccanismo tanto sapiente, e lodo il Dio-Imperatore per la sua esistenza... Tuttavia, sebbene il compilatore acceleri l'estrazione di un significato intelligibile da immagini sconcertanti, un Astropate deve comunque aprire la propria mente all'interpretazione, il che non è meno pericoloso dei riti di ricezione o di invio di un messaggio astropatico."
+
+### u018740
+"Riceviamo e inviamo messaggi. Per ore che diventano giorni, vaghiamo nelle oscure profondità dell'{g|Encyclopedia:WarpGlossary}Immaterium{/g} portando la nostra voce attraverso l'eterna notte del Warp. La portiamo ai nostri compagni in qualche remoto rifugio. Accogliamo nella nostra dimora le voci, i segnali e le missive altrui. Quelle sono il più delle volte destinate a voi, Vostra Signoria, e a volte... non sono destinate a nessuno."
+
+### u018741
+"Un tempo facevamo tutti parte della Decima Imperiale. Psyker consegnati a Terra sulle {g|Encyclopedia:BlackShipGlossary}Navi Nere{/g}. Ma solo pochi candidati avevano ciò che serviva per studiare l'astropatia. Ancora meno completarono con successo l'estenuante addestramento necessario per accedere al Legame dell'Anima, e quasi nessuno sopravvisse all'iniziazione."
+
+### u018742
+{n}Getta indietro la testa.{/n} "Ci è stato concesso il privilegio di contemplare la luce dell'Imperatore, una luce impeccabile e rovente." {n}Un pio sorriso gli sfiora le labbra.{/n} "Ti cambia. Ti ferisce in modo irreparabile, ti toglie la vista, ma in cambio... entri in comunione con la grandezza. La Sua presenza nelle nostre anime le fortifica mentre ci opponiamo a poteri malvagi."
+
+### u018743
+"Dopo il rituale, a un Astropate viene assegnato il suo incarico. Presso questo o quell'Adeptus, un ripetitore astropatico, o una nave. Il più delle volte, il nostro primo luogo di servizio è anche l'ultimo."
+
+### u018744
+{n}L'espressione sul suo volto rugoso si fa ancora più seria.{/n} "Sarebbe più corretto dire 'quando' qualcosa accadrà. La benedizione dell'Imperatore ci protegge dalle varie influenze del Warp. Tuttavia, ci sono orrori che dimorano nel vuoto per i quali nemmeno questa difesa sarebbe un ostacolo. Soprattutto se si trascorre tanto tempo in loro compagnia quanto ne trascorriamo noi."
+
+### u018745
+"C'è un solo modo per procurarsi Astropati, ed è tramite l'{g|Encyclopedia:AdeptusAdministratumGlossary}Adeptus Administratum{/g}. Con un po' di fortuna, Astropati senza assegnazione del settore verranno destinati alla nave: persone che, per un motivo o per l'altro, hanno perso il proprio posto di servizio. In caso contrario, la richiesta andrà a Terra e dovremo attendere. A lungo."
+
+### u018746
+"Detto questo, ci sono altre opzioni. Opzioni blasfeme, proibite." {n}Il Maestro del Coro fa una smorfia.{/n} "Psyker non sanzionati. Anime non protette e spezzate che raramente sopravvivono alle prime sedute. Ma anche quelli andrebbero bene, se il Dio-Imperatore sottoponesse le nostre anime a prove severe. E a giudicare da quanto il Warp sia stato rabbioso di recente, dal numero di Astropati morti, quelle prove ci raggiungeranno prima che le nostre preghiere possano arrivare a Terra."
+
+### u018747
+{n}Il Maestro del Coro risponde, leggermente perplesso,{/n} "Vi chiedo perdono, Vostra Signoria?"
+
+### u018748
+"È un compilatore sacro che ci aiuta a registrare, conservare e, in una certa misura, sciogliere l'enigma dei messaggi. Gli Astropati ricevono dapprima questi messaggi sotto forma di immagini confuse, dettando ciò che vedono alla macchina, che registra ogni loro parola. Dalle bobine dei ricevitori sul soffitto, le parole registrate dalla macchina vengono instradate attraverso linee sotto il pavimento fino ai trascrittori e poi al nucleo del thesaurus. Questo nucleo è la parte più importante del meccanismo, poiché contiene un vasto catalogo di simboli di ogni tipo e dei metodi per interpretarli."
+
+### u018749
+"Suppongo che ne abbiate un'idea migliore della mia. È qualcosa a cui non ho mai pensato prima e su cui difficilmente ho un'opinione degna di essere condivisa, Lord Capitano."
+
+### u018750
+{n}Il volto di Weisz si contorce in una smorfia amara.{/n} "Il mio dovere è proteggervi dalle mostruose comunicazioni che filtrano attraverso il Warp. Le urla dei fedeli servitori dell'Imperatore, morti ormai da secoli. Le immagini da incubo, che fanno impazzire, del {g|Encyclopedia:WarpGlossary}Mare delle Anime{/g}. I simboli maledetti che fanno contorcere gli Astropati in violente crisi di frenesia. I messaggi di abomini in cerca di menti deboli da divorare... Nascondervi tutto questo è il mio dovere."
+
+### u018751
+"Possiamo trovare uno psyker che ti aiuti a eseguire il rituale."
+
+### u018752
+"Quanto è stato grave?"
+
+### u018753
+"Potrebbe essere un messaggio di Voigtvir?"
+
+### u018754
+"Riconsiderare cosa? Non ho ancora fatto la mia domanda."
+
+### u018755
+"Esci dai miei pensieri, Weisz. Questo è il tuo primo e ultimo avvertimento."
+
+### u018756
+"Quindi preferiresti non partecipare alla ricerca degli ammutinati?"
+
+### u018757
+"Il candidato selezionato è già arrivato?"
+
+### u018758
+"Capisco."
+
+### u018759
+"Stiamo per fare qualcosa di pericoloso."
+
+### u018760
+"Perché sei così preoccupato per il rituale?"
+
+### u018761
+"Non ho tempo di trovarti un assistente, Weisz. Inizia subito il rituale."
+
+### u018762
+"E Idira?"
+
+### u018763
+"Mettiti in contatto con Vistenza Vyatt, Governatrice di Janus. La convoco da me."
+
+### u018764
+"Heinrix è uno psyker. Potrebbe aiutare."
+
+### u018765
+"Potrei aiutarti io con il rituale."
+
+### u018766
+"Fidati, Vistenza possiede conoscenze che si riveleranno estremamente utili."
+
+### u018767
+"Mi fido di Idira e la nomino tua assistente. Non è negoziabile."
+
+### u018768
+"Ti aiuterò io. Inizia i preparativi."
+
+### u018769
+"Hai detto di conoscere un potente psyker al servizio dei Winterscale. Chi è?"
+
+### u018770
+"Sono il vostro nuovo {mf|signore|signora}."
+
+### u018771
+"Il viaggio fino alla mia nave è andato senza problemi?"
+
+### u018772
+"Il Maestro Weisz ti ha spiegato il compito?"
+
+### u018773
+"Cominciamo."
+
+### u018774
+"Quando è stato inviato il segnale?"
+
+### u018775
+"Cosa dice il messaggio?"
+
+### u018776
+"Mi occuperò del rapporto. Ora c'è un'altra cosa di cui voglio parlare con te."
+
+### u018777
+"Che natura ha questo rituale?"
+
+### u018778
+"Quello che mi interessa davvero sapere è: il rituale ebbe successo quella volta? Hai trovato ciò che cercavi?"
+
+### u018779
+"Dai la colpa a Theodora, ma è stato sotto la tua sorveglianza che il rituale ha portato a un disastro."
+
+### u018780
+"Si può dire che la mia predecessora fosse in quel caso fedele a se stessa."
+### u018781
+"Come è anche solo possibile un rituale del genere? È quasi un'eresia!"
+
+### u018782
+"I miei ordini non si discutono."
+
+### u018783
+"Va bene. Come vuoi. Discutiamo altre opzioni."
+
+### u018784
+"Devi occuparti del tuo Coro. Farò consegnare del buon cibo, recaf e balsami rilassanti."
+
+### u018785
+"Sì, ho alcune conoscenze con una notevole esperienza in rapimenti. Chiedono soltanto un compenso modesto per i loro servizi."
+
+### u018786
+[Alza l'arma] "Che cos'è questo? Insubordinazione? Hai i tuoi ordini, Maestro del Coro, e li seguirai. Non un passo indietro!"
+
+### u018787
+"Sono riluttante a rischiare la vita per questo rituale, e anche la ricerca dei ribelli è diventata piuttosto stancante."
+
+### u018788
+"No, Weisz, aspetta. Se questa è davvero la nostra unica possibilità di trovarli, non dobbiamo sprecarla."
+
+### u018789
+"Non intendo sprecare altro tempo o altre energie per cercare di trovare gli ammutinati. Al vuoto questa indagine: ho già abbastanza da fare."
+
+### u018790
+"Come sei sopravvissuto?"
+
+### u018791
+"Assumerò dei professionisti per organizzare la sua fuga. Manda un messaggio a chi di dovere."
+
+### u018792
+"Quindi dici di aver già eseguito il rituale per Theodora?"
+
+### u018793
+"Come hai ripopolato il Coro?"
+
+### u018794
+"Troveremo un modo più onorevole."
+
+### u018795
+"Devo rifletterci ancora un po'."
+
+### u018796
+{n}La strana sensazione passa all'improvviso com'era arrivata. Il Maestro del Coro scuote la testa.{/n} "So perché siete qui, Vostra Signoria. E con tutto il rispetto, vi chiedo di riconsiderare."
+
+### u018797
+{n}Il Maestro del Coro Weisz si volta verso di te molto prima che tu lo raggiunga. Un brivido ti corre lungo la schiena, come se qualcuno ti osservasse dall'interno del tuo stesso essere.{/n}
+
+### u018798
+"Peggio di quanto possiate immaginare, Vostra Signoria. È bastata una frazione di secondo all'interno di un'altra mente perché uno degli Astropati perdesse il controllo della propria. Il morbo si è propagato lungo la catena come il fuoco. Nessuno è stato risparmiato. Le menti dei miei sottoposti non hanno retto la tensione. Le loro coscienze sono state risucchiate in un vortice di pensieri alieni. I fortunati sono morti subito. Quanto agli altri..."
+
+### u018799
+"Molti anni fa. Era un periodo in cui Lady Theodora era diventata... ansiosa. Forse l'interesse del Lord Inquisitore per i suoi affari aveva intaccato, per così dire, la fiducia nei propri sudditi. Si aspettava un tradimento, e alla fine la sua paranoia l'ha condotta da me. Eseguii il rituale, ma il Coro... cessò di esistere."
+
+### u018800
+{n}Provi una strana ansia mentre gli occhi bruciati del vecchio sembrano scandagliare il tuo animo.{/n} "Le vostre intenzioni sono abbastanza facili da dedurre. Cercate degli ammutinati, e l'unico motivo per cui verreste dal vostro Maestro del Coro è ordinarmi di rivolgermi al Warp per avere risposte."
+
+### u018801
+"Non saprei dirlo con certezza, Vostra Signoria. Dopo i lavori di riparazione, ho esaminato dei testi che prima si erano rifiutati di farsi decifrare. Questo segnale si era perso nelle viscere del meccanismo. Potrebbe avere una settimana, o anni."
+
+### u018802
+"La vostra predecessora venne da me una volta con gli stessi ordini. Non ne uscì nulla di buono. Credetemi, Lord Capitano, quando dico che una montagna di cadaveri fu il minore dei problemi che affrontammo quella volta."
+
+### u018803
+{n}Il Maestro del Coro fa una smorfia ironica, come se lo aveste colto a fare qualcosa di riprovevole.{/n} "Perdonatemi, Vostra Signoria. È stata... forza dell'abitudine. Giuro che non mi intrometterò mai più nella pace della vostra mente senza permesso."
+
+### u018804
+"Ed è meraviglioso, Vostra Signoria! Mille grazie per avermi liberato dal mio precedente padrone! Vivere alla corte del Governatore Iskandor è... indescrivibile. L'{g|Encyclopedia:WarpGlossary}Immaterium{/g} stesso sussurra alla sua mente disturbata idee per nuove perversioni. Perciò sono infinitamente grato di essere stato liberato da lui. La mia vita ora vi appartiene."
+
+### u018805
+"Mi avete salvato da una vita di servitù che sarebbe stata cento volte peggiore della più crudele delle morti, e sono in debito con Vostra Signoria. Se dovrò dare la vita per ripagare quel debito, che sia."
+
+### u018806
+"È mio desiderio essere utile a Vostra Signoria, ma ciò per cui siete venuti... metterà la nave in pericolo. Un rituale di questo genere può — e di certo lo farà — andare nel peggiore dei modi possibili."
+
+### u018807
+"Lord Capitano, conoscete il proverbio su chi fissa troppo a lungo l'abisso? Ciò che chiedete equivale a gettare l'intero Coro in quell'abisso. Un rituale simile richiederà una concentrazione incredibile da parte di ciascuno dei partecipanti. Basterà un solo pensiero incauto, un solo sguardo nella direzione sbagliata, perché la via del ritorno vada perduta. Menti umane che si fondono l'una nell'altra, organi vetrificati dentro corpi ancora vivi, fantasie perverse che si manifestano nella carne... Niente impedirà agli orrori del Warp di diffondersi per tutta la nave in un batter d'occhio."
+
+### u018808
+"E anche se acconsentissi... sarebbe impossibile. Mi servirebbe un secondo potente telepate come difensore per schermare la mia mente. L'ultima volta lo fece la mia migliore apprendista, Adeline, ma ora non è più con noi. Era straordinariamente dotata, rivaleggiava... persino con me. Ora conosco un solo psyker in tutta la Distesa che sia al suo livello, ma è legato al servizio di uno dei governatori planetari della Casata Winterscale, e dunque non è disponibile per noi. Il che rende la vostra pericolosa impresa un'impossibilità."
+
+### u018809
+{n}Il volto del Maestro del Coro è contorto in una maschera di orrore, che si trasforma rapidamente in una smorfia di rabbia sincera.{/n} "Questo è un errore, {name}. Non avete idea di a cosa ci state condannando! Condannando questa nave! E la vostra dinastia!"
+
+### u018810
+"Assolutamente no!" {n}È la prima volta che senti il Maestro del Coro alzare la voce.{/n} "È una strega... un abominio! Non farà che peggiorare la situazione! Le bestie del Warp percepiranno la sua anima incline all'eresia e piomberanno su di noi a frotte."
+
+### u018811
+"Avete firmato la nostra condanna a morte." {n}La rabbia di Weisz sembra quasi accendere il suo sguardo ultraterreno, facendolo bruciare attraverso di te. Tuttavia, il suo volto non resta a lungo contorto dalla furia. C'è una netta freddezza nella sua voce quando dice,{/n} "Ebbene, Vostra Signoria... portate qui la vostra strega."
+
+### u018812
+"Ma certo, oggi l'abisso farà molto di più che fissarci. Gli getteremo sassi e lo imploreremo di divorarci." {n}Il Maestro del Coro pronuncia le ultime parole con il ghigno amaro di un condannato a cui è appena stato comunicato il giorno dell'impiccagione.{/n}
+
+### u018813
+"Guarda un po'! Il grande Maestro del Coro, spaventato dai miei piccoli sussurri!" {n}Idira scoppia in trilli di risa. La sua ilarità sembra quasi eccessiva.{/n} "Smettila di tremare, vecchio. Proteggerò te e i tuoi amici dagli occhi sporgenti da ciò che c'è dietro la porta. Prima o poi mi ringrazierai."
+
+### u018814
+{n}Weisz aggrotta la fronte, chiaramente tormentato da cupi sospetti.{/n} "Tutta questa reticenza e queste omissioni mi preoccupano, ma... non mi permetterò di discutere con Vostra Signoria. Il viaggio da Janus richiederà del tempo. Vi riferirò quando Lady Vyatt sarà arrivata."
+
+### u018815
+"Il Maestro van Calox è un brillante biomante, Vostra Signoria, ma per quanto ne so non è particolarmente versato nella telepatia o nei rituali protettivi degli psyker, non è vero?"
+
+### u018816
+"Ha ragione, {name}. Conosco alcuni rudimenti, ma non è il mio campo principale."
+
+### u018817
+{n}Weisz si morde le labbra, come se assaporasse le vostre parole.{/n} "Suppongo che potreste, Vostra Signoria. Tuttavia, non oserei mettere a rischio la vostra incolumità. Che razza di Maestro del Coro fa uccidere il proprio Lord Capitano?"
+
+### u018818
+{n}Il sorriso di Weisz ha una punta di condiscendenza.{/n} "Con tutto il rispetto per i vostri indiscutibili talenti, Lord Capitano, mi serve uno psyker in grado di lavorare con un ramo specifico della conoscenza psichica, ovvero la telepatia."
+
+### u018819
+"Come desiderate. Il Maestro Herimon accoglierà con gioia la notizia del suo imminente rilascio. Il suo attuale signore è piuttosto... sgradevole. Vi riferirò non appena il Maestro Herimon sarà stato portato a bordo."
+
+### u018820
+"Lord Capitano, non dubito nemmeno per un istante dei vostri poteri, ma insisto perché evitiate di correre questo rischio inutile."
+
+### u018821
+"I miei piccoli sussurri sono eccitatissimi all'idea che la tua preziosa testa sia la prossima a cui far visita. Forse dovresti ripensarci, se è davvero ciò che vuoi."
+
+### u018822
+{n}L'Interrogatore ti guarda con una curiosità spudorata.{/n} "Considerata l'esperienza di combattimento che abbiamo condiviso, {name}, sono certo che se qualcuno è all'altezza di una sfida simile, siete voi. D'altro canto, vale davvero la pena di tentare l'{g|Encyclopedia:ChaosGlossary}Arcinemico{/g} quando non è necessario?"
+
+### u018823
+"L'Imperatore non manderebbe una sfida estenuante a chi non ne fosse all'altezza. A volte il sentiero più spinoso è anche il più giusto."
+
+### u018824
+{n}Il volto del Maestro del Coro si fa cupo. Per molto tempo fissa il pavimento, senza dire nulla. Infine alza la testa per guardarti. Il suo volto pieno di rughe è disteso. Un'espressione reverente vi è comparsa, e c'è un accenno di sorriso sulle sue labbra.{/n} "Sia, Vostra Signoria."
+
+### u018825
+"Il Maestro Herimon è un telepate esperto, ma il suo signore non si separerebbe mai da uno specialista tanto prezioso. Servirà una somma considerevole per organizzare la... fuga del Maestro Herimon."
+
+### u018826
+{n}Il Maestro del Coro alza le sopracciglia.{/n} "Lady Vyatt? La governatrice? Per quanto ne so, non è una psyker."
+
+### u018827
+"Lady Vyatt ha già iniziato a preparare il rituale." {n}Weisz indica le iscrizioni rosso scuro in una lingua sconosciuta.{/n} "Percepisco un potere strano e distante in questi glifi... Una potenza ultraterrena, empia... E prego l'Imperatore che sappiate quello che fate."
+
+### u018828
+"Il Maestro Herimon, assegnato alla cappella per vostro ordine allo scopo di eseguire il rituale, ha quasi terminato i preparativi, Lord Capitano."
+
+### u018829
+{n}Il Maestro del Coro emette un profondo sospiro.{/n} "Bene. Avete fatto la vostra scelta, Lord Capitano."
+
+### u018830
+"Lord Capitano. Desiderate ancora eseguire il rituale?"
+
+### u018831
+"Riuscii a lanciare una richiesta di aiuto e feci del mio meglio per contenere i fantasmi da solo prima dell'arrivo di Lady Theodora. Fui l'unico sopravvissuto di tutto il Coro. Sua Signoria mi permise di trascorrere un mese in una cella isolata, sul cui pavimento e sulle cui pareti tracciai gli esagrammi protettivi più potenti che conoscessi. Ero distrutto. Ero spezzato. E, peggio di tutto, avevo paura. Paura di incontrare lo stesso destino di Adeline e degli altri miei apprendisti... Un Astropate non deve mai avere paura, Vostra Signoria. Chi cede alla paura muore e condanna chi lo circonda."
+
+### u018832
+"Oh sì, Vostra Signoria, il Maestro del Coro mi ha descritto il rituale con dovizia di particolari. Direi persino con un lieve eccesso." {n}Vistenza sorride con aria maliziosa, come un baro a un tavolo da gioco.{/n} "Conosco certe tecniche che potrebbero... frenare il rapace interesse dell'{g|Encyclopedia:WarpGlossary}Immaterium{/g} durante il rituale."
+
+### u018833
+"Vi ringrazio per questa opportunità di servire a beneficio della vostra dinastia, Vostra Signoria." {n}Vistenza si inchina davanti a te con un sorriso radioso.{/n} "Il vostro invito è stato incredibilmente emozionante. Non ho spesso occasione di lasciare Janus."
+
+### u018834
+"Salute, {name} von Valancius. Sarò onorato di servire il mio {mf|salvatore|salvatrice}." {n}Uno psyker di mezza età si inchina con trasporto. Il suo viso paffuto porta molti segni di ogni sorta di vizio assecondato.{/n}

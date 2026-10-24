@@ -1,0 +1,825 @@
+### u072726
+[Guarda le persone raggruppate nell'angolo]
+
+### u072727
+"Può bastare. Nessun altro morirà."
+
+### u072728
+[Alza l'arma] "Li finirò io stess{mf|o|a}."
+
+### u072729
+"Ve li concedo. Divertitevi."
+
+### u072730
+"Perché non ci intrattengono loro stessi? Voi lì, feccia! Finitevi da soli, altrimenti lo faremo noi, e cento volte più dolorosamente!"
+
+### u072731
+"Basta! Questo massacro insensato è finito!"
+
+### u072732
+[Tendi la mano verso di lui] "Sì."
+
+### u072733
+[Respingilo] "No! Ne ho avuto abbastanza!"
+
+### u072734
+{n}Imbrattato di sangue e brandelli di carne strappata, Marazhai ansima, non per la fatica ma per l'eccitazione: il suo volto appare più luminoso e vivace, i suoi occhi di solito scuri ora brillano di un profondo fuoco turchese e la sua bocca è tesa in un ghigno vorace. Il Drukhari sembra sul punto di esplodere per quella travolgente ondata di energia.{/n} "Guarda... un altro mucchio di carne messa all'angolo."
+
+### u072735
+{n}Marazhai riesce a malapena a trattenersi dal gettarsi sugli umani.{/n} "Qual... qual è il tuo desiderio, {name}? In che modo ti farà piacere distruggere questo bestiame?" {n}Marazhai ti rivolge uno sguardo febbrile.{/n} "Dimmelo e obbedirò."
+
+### u072736
+{n}Marazhai risponde con una risata beffarda.{/n} "Almeno hai resistito fino alla fine, {name}! Che le urla dei tuoi servi morenti ti risuonino nelle orecchie per sempre: considera questa sinfonia il mio dono d'addio!"
+
+### u072737
+{n}I marinai del vuoto tremanti fissano te e Marazhai con un terrore palese. Uno piange senza riuscire a controllarsi, mentre un altro brandisce titubante una patetica baionetta ricavata da una barra di plastacciaio, puntandola verso di te con mano tremante: un pietoso tentativo di convincersi di poter scongiurare l'inevitabile.{/n}
+
+### u072738
+{n}Marazhai lascia sfuggire un ringhio gutturale.{/n} "Pensi di poterti tirare indietro adesso, alla fine? No, {name}, le tue mani sono già macchiate di sangue. È troppo tardi per nasconderti dietro il senso di colpa dei mon-keigh!"
+
+### u072739
+{n}Il ringhio di Marazhai si trasforma in un ruggito.{/n} "Kae-morag! Sapevi a cosa andavi incontro!"
+
+### u072740
+{n}Marazhai solleva le sue lame.{/n} "Guarda. Non battere nemmeno ciglio."
+
+### u072741
+{n}Un'ondata sembra attraversare il gruppo di persone: grida, singhiozzi e maledizioni lacerano l'aria. E poi...{/n}
+
+### u072742
+{n}La voce di Marazhai si trasforma in un sibilo frenetico:{/n} "Molto bene, {name}. Fallo!"
+
+### u072743
+{n}Un ruggito agghiacciante riempie il buio compartimento: Marazhai, che ormai ha perso del tutto la testa, ride, con tutto il corpo scosso da convulsioni.{/n} "Sì! Ecco! Quell'odore di sangue che fa venire l'acquolina, quell'ondata di terrore che toglie il fiato! È questo che rende la vita degna di essere vissuta, è questo che dà un senso a ogni cosa!" {n}Un istante dopo, è all'improvviso davanti a te, chino dalla sua altezza torreggiante, il volto contorto nel ghigno felice di un maniaco sazio.{/n}
+
+### u072744
+"E tu! Tu, il mio piccolo animale obbediente!" {n}Marazhai ti afferra per il mento e ti fissa in fondo agli occhi.{/n} "Senti questo calore? Questa fiamma che ti dilania dall'interno? Questa sete inestinguibile, placata per un attimo da un mare di sangue? Capisci ora che cosa cerco di insegnarti?"
+
+### u072745
+"Tu, {name}..." {n}Marazhai riesce a stento a trattenersi dal tendere la mano verso di te: i suoi occhi, colmi di un'ossessione implacabile, ti divorano da vicino.{/n} "Senti questo calore? Questa fiamma che ti dilania dall'interno? Questa sete inestinguibile, placata per un attimo da un mare di sangue? Sei... {mf|soddisfatto|soddisfatta} di me?"
+
+### u072746
+{n}Marazhai fa un passo avanti, poi si ferma di colpo e ti guarda.{/n} "Mio piccolo animale, sei {mf|stato un allievo|stata un'allieva} così diligente... Perché non scegli tu come morirà questo bestiame?" {n}Gli occhi di Marazhai seguono ogni movimento del tuo volto.{/n}
+
+### u072747
+{n}Ebbro dell'aria impregnata di miseria, Marazhai non esita un istante: ti trascina a sé e ti copre la bocca con la sua. Il dolore dei suoi artigli di metallo che ti affondano nel collo si mescola al sapore salato del sangue delle tue labbra morse, e sprofondi, sprofondi, sprofondi in un abisso oscuro, viscoso e senza fine...{/n}
+
+### u072748
+{n}È come se Marazhai fosse stato attraversato da una scarica elettrica: le sue mani tremano per l'esaltazione e una spalla ha un lieve spasmo, ma sul suo volto resta fissa una furiosa smorfia di rabbia.{/n} "Non metterti mai tra me e la mia preda, {name}. Hai accettato la mia offerta solo per rovinarmi il finale? Allora dimentica tutto quello che ti ho detto. Non ho più alcuna intenzione di assecondare le tue debolezze da mon-keigh."
+
+### u072749
+"Ora so quali 'desideri personali' ti rendevano necessari i servigi dell'Haemonculus."
+
+### u072750
+[Bacia Marazhai]
+
+### u072751
+"Cosa... è successo... esattamente?"
+
+### u072752
+"Non prenderò più parte a questo."
+
+### u072753
+"Voglio continuare."
+
+### u072754
+"Non è ciò che sono. Io non faccio cose simili."
+
+### u072755
+"È stato un esperimento divertente. Da non ripetere."
+
+### u072756
+"In realtà... ho cambiato idea. Forse potremmo rifarlo, prima o poi."
+
+### u072757
+"Deciderò io quando."
+
+### u072758
+{n}Marazhai ti fissa da sotto le palpebre socchiuse. Il suo corpo nudo sembra intrecciato di corde di muscoli magri e agili, e la sua pelle pallida, segnata dalle stesse tracce di violenza della tua, sembra brillare debolmente nella penombra. Il sangue si è raccolto negli incavi delle clavicole: lo asciuga e si lecca le dita, assaporando i resti del 'banchetto'.{/n} "Sei {mf|sveglio|sveglia}, mio animale."
+
+### u072759
+"L'oblio dell'estasi... è passato tanto tempo dall'ultima volta che vi sono sprofondato." {n}Si stiracchia con tutto il corpo.{/n} "I tuoi servi non conoscevano la vera paura da molto tempo, e il terrore che hanno provato quando le mie lame hanno cominciato a squarciare i loro corpi è stato particolarmente... potente. E tu... sei stat{mf|o|a} brav{mf|o|a}. Meglio di quanto avessi immaginato. Sei come una spugna, assorbi tutto ciò che posso darti."
+
+### u072760
+"Bene... ora andrò. Fino alla prossima volta. Sono certo che il nostro prossimo banchetto sarà ancora più... intenso."
+
+### u072761
+{n}Gli angoli delle sue labbra si piegano in un sorriso.{/n} "Le parole sono un pallido riflesso della realtà. Ma c'è ancora molta carne sulla tua nave. E molte altre... occasioni per ripetere lo spettacolo."
+
+### u072762
+{n}Marazhai inclina la testa in quel modo ormai familiare.{/n} "Mmm? Perché no?"
+
+### u072763
+"Non ne dubito." {n}Marazhai colma in silenzio la distanza tra voi e si china su di te, il suo respiro ti solletica l'orecchio.{/n} "Non farmi aspettare."
+
+### u072764
+{n}Marazhai aggrotta appena la fronte.{/n} "Hai ragione. Mescolarsi con un mon-keigh è un passo troppo lungo... anche in un'orgia che nessuno dei due ricorderà."
+
+### u072765
+{n}La risata di Marazhai suona come il gracchiare di un rapace.{/n} "Ah, il pensiero fuorviato dei mon-keigh! Hai appena cominciato a scoprire la tua vera natura e già scappi..."
+
+### u072766
+{n}Si raddrizza e getta un'occhiata alla camera da letto.{/n} "Bene. In tal caso, ti lascerò solo con i tuoi rimpianti."
+
+### u072767
+{n}L'oblio ti libera dalla sua presa artigliata e risali lentamente dalle tenebre del tuo sonno febbrile. Tutto il corpo ti duole e brucia: la pelle è costellata di innumerevoli tagli e lividi, e un dolore sordo e roditore si irradia attraverso i polsi e i fianchi. Un ricordo confuso, quasi impercettibile, aleggia ai margini della tua coscienza: il ricordo del dolore... e del piacere raccolto nelle sue profondità.{/n}
+
+### u072768
+{n}Marazhai si limita a ridacchiare in risposta.{/n}
+
+### u072769
+{n}La sua mano accarezza pigramente un oggetto posato accanto a lui. Nella luce fioca, riesci a malapena a distinguere l'agonizzatore, ricoperto di sangue.{/n}
+
+### u072770
+{n}Si ritrae da te, con il labbro increspato dal disgusto.{/n} "Risparmiami queste assurdità da mon-keigh, {name}."
+
+### u072771
+"All'inizio è stato difficile per me, e poi... diciamo che la tua oscura passione si è rivelata contagiosa."
+
+### u072772
+"I nostri piccoli giochi?"
+
+### u072773
+"Non sembri molto sottomesso."
+
+### u072774
+"Sì. Finiamo il banchetto."
+
+### u072775
+"Mi avevi promesso che avrei compreso le passioni dei veri Aeldari. Non è successo."
+
+### u072776
+"Niente di tutto questo era un gioco per me."
+
+### u072777
+"Ho fatto tutto questo per me stess{mf|o|a} e per il mio piacere, naturalmente!"
+
+### u072778
+"No. No, non ho tratto piacere dalle atrocità che ho commesso."
+
+### u072779
+"È la prima volta che ti sento parlare in modo così... aperto."
+
+### u072780
+"E ora cosa succede?"
+
+### u072781
+"Non hai paura che ti superi nell'arte della tortura e dell'uccisione?"
+
+### u072782
+"Non mi interessa. Credo di aver giocato abbastanza con te."
+
+### u072783
+"Perché ti sei fermato? Ci sono ancora persone vive sul ponte..."
+
+### u072784
+"L'eternità. Suona allettante."
+
+### u072785
+"Attento ora: potrei stancarmi di te nel corso di un'eternità."
+
+### u072786
+[Nascondi una lama nella manica] "Sì. La conclusione di questo banchetto sarà indimenticabile."
+
+### u072787
+"Sì. Consolami."
+
+### u072788
+[Respingi Marazhai] "No! Non sono il tuo giocattolo né il tuo trastullo! Ne ho avuto abbastanza!"
+
+### u072789
+"Ora detto io le regole. Baciami. Sul serio."
+
+### u072790
+"Basta così. È finita."
+
+### u072791
+"Molto bene. Resterò."
+
+### u072792
+"Nella tua voce non sento abbastanza suppliche."
+
+### u072793
+"Volevo starti più vicino."
+
+### u072794
+{n}Lo sguardo cupo e distratto di Marazhai segue la scia di sangue che si allunga dietro di te. Un angolo della sua bocca ha un tremito, ma non sorride: invece, esala un respiro, si asciuga il cremisi dal viso con una mano appena tremante e volge lentamente la testa verso di te.{/n}
+
+### u072795
+"Forse è giunto il momento di ringraziarti, {name}." {n}Miele avvelenato cola dalla sua voce.{/n} "I nostri piccoli giochi... sono una splendida distrazione dal richiamo di Sai'lanthresh e dalla gelida compagnia della tua gente. La tua... disponibilità a fare qualunque cosa ha trasformato questa nave in un palazzo del dolore. Delizioso. Non avrei potuto desiderare di più."
+
+### u072796
+{n}Marazhai ride piano, inclinando la testa.{/n} "Quindi anche tu nutri una scintilla dell'ossessione che governa me, e io sono riuscito ad attizzarla fino a farla divampare. Bene. Molto bene."
+
+### u072797
+"Magnifico..." {n}C'è qualcosa di nuovo nella voce di Marazhai, qualcosa di diverso dalla sua solita eccitazione vibrante: è un appagamento totale, travolgente. Ti guarda con serena estasi negli occhi.{/n} "Nessun banchetto che abbiamo tenuto su questa nave è mai stato così... perfetto. Ripenso alle mie migliori incursioni... e il ricordo impallidisce al confronto con ciò che accade quando condividiamo questa estasi l'uno con l'altro."
+
+### u072798
+"Sì? Come altro chiameresti ciò che facciamo?" {n}Strizza gli occhi.{/n} "Ho promesso di mostrarti il mio mondo, di soddisfare la tua curiosità, e l'ho fatto. Di chi è la colpa se rimani comunque un mon-keigh, con i tuoi sensi ottusi e la tua morale ristretta in cui sei immerso fin dall'infanzia?"
+
+### u072799
+{n}Marazhai osserva il tuo volto, seguendone ogni movimento. La sua voce assume la qualità vellutata che ormai ti è familiare.{/n} "Avverto le fitte di delusione nella tua anima... ma ti ho forse dato motivo di provarla? Stiamo bene insieme. E oltre questo... oltre questo ci sarà solo altra passione e altra follia. Dopotutto, hai accettato le regole. Hai inseguito ciò che ti offrivo. Sei stat{mf|o|a} guidat{mf|o|a} dalla tua stessa volontà, che reclamava piacere... Se non è così, allora la tua posizione è davvero poco invidiabile, perché saresti {mf|diventato|diventata} un mostro per la tua stessa specie cercando di compiacere i miei gusti e di tenermi vicino a te. Non può essere... Vero?" {n}Lo sguardo degli occhi turchese scuro si fa rovente, e non sai se Marazhai ti stia deridendo o chiedendo sul serio.{/n}
+
+### u072800
+"No? Suppongo di no. A volte mi stanco di questa maschera: dammi un minuto e torneremo al nostro gioco." {n}Marazhai china il capo in finta deferenza.{/n}
+
+### u072801
+"Quindi non ti sei arreso del tutto a ciò che cercavo di rivelarti." {n}Marazhai inclina la testa di lato e ti guarda intensamente.{/n} "Superare la tua stessa natura... si è rivelato oltre le tue capacità. Il mio piccolo gioco è rimasto un gioco: è colpa mia se non è diventato qualcosa di più?"
+
+### u072802
+{n}Marazhai scruta il tuo volto, poi scuote la testa.{/n} "Sciocc{mf|o|a}. Un'ammissione sciocca, {name}. Sei così {mf|fiducioso|fiduciosa} da mettere a nudo la tua anima davanti a uno come me? Sei {mf|fortunato|fortunata} che io non abbia intenzione di spezzarti qui e ora: altrimenti una simile debolezza ti costerebbe cara."
+
+### u072803
+{n}Marazhai sogghigna.{/n} "La risposta che aspettavo! Nessuno, una volta nelle mie mani, resta com'era prima, e tu non fai eccezione, {name}."
+
+### u072804
+{n}Marazhai ti fissa per qualche secondo come se assorbisse ogni tua emozione. Poi sogghigna e si avvicina.{/n} "Avanti, {name}. Non vedo motivo di fermarsi. Per oggi ne ho avuto abbastanza, ma tu... vieni, so come confortarti." {n}Il suo respiro ti solletica l'orecchio e le sue mani sottili scivolano lungo il tuo corpo, insinuandosi con noncuranza sotto i tuoi vestiti.{/n}
+
+### u072805
+"Davvero?" {n}Marazhai si china verso di te.{/n} "Volevi così disperatamente starmi vicino? Desideravi così tanto la mia attenzione, il mio tocco? Mio piccolo animale, che ammissione commovente... e debole."
+
+### u072806
+{n}Marazhai esita un istante, soppesando le parole successive. Poi si avvicina, chinandosi leggermente, e ti guarda negli occhi. C'è un sottile tremito nella sua voce.{/n} "Quando abbiamo... iniziato, pensavo fosse tutto un piccolo gioco, un'occasione per scacciare la noia di stare tra i mon-keigh condividendo le vere passioni degli Aeldari con uno di loro. Pensavo che il tuo cuore da mon-keigh sarebbe presto crollato sotto il peso delle mie verità e che saresti fuggit{mf|o|a}, e allora avrei avuto un nuovo motivo per tormentarti... eppure eccoti qui. E nei tuoi occhi vedo la stessa ossessione che spinge me. Incredibile." {n}La sua voce si abbassa a un sussurro.{/n}
+
+### u072807
+{n}Marazhai ride.{/n} "Mi sfidi, dunque? Bene, vedremo."
+
+### u072808
+"Dopo? L'eternità." {n}Marazhai ti sfiora leggermente il volto.{/n} "Molte eternità formate dai momenti che viviamo mentre ci dimentichiamo di noi stessi insieme in una foschia sanguinosa. Ogni momento vale secoli quando la tua ossessione è condivisa da un tuo pari."
+
+### u072809
+{n}Lo sgomento balena sul volto di Marazhai, come se si rendesse conto di aver appena rivelato una debolezza al suo avversario. Un attimo dopo, sbuffa con disprezzo.{/n} "Non cercare di entrarmi sotto la pelle, {name}. E non scambiare la franchezza per debolezza."
+
+### u072810
+{n}Gli occhi di Marazhai si stringono a fessura.{/n} "Ragione di più... So a quali poteri servi, {name}. Se pensi che resterò al tuo fianco quando il Velo ti divorerà finalmente... no. No, non accadrà. Ma, lo ammetto, il rischio mi dà solo ai nervi, ed è per questo che sono ancora qui. Sul filo della lama."
+
+### u072811
+{n}Gli occhi di Marazhai si spalancano per l'incredulità.{/n} "Cosa?" {n}Si blocca, chiaramente confuso.{/n} "No. No, non puoi... non puoi... abbandonarmi! Siamo legati dai vincoli del possesso, {name}! Un tempo magari era un gioco, ma dopo tutto ciò che hai passato sotto la mia custodia... dopo il marchio..." {n}La voce di Marazhai trema di rabbia, e di una paura che non riesce a nascondere.{/n}
+
+### u072812
+{n}Marazhai sussulta e per un istante il suo volto si contorce in una smorfia di disgusto... eppure si costringe a restare immobile mentre ti avvicini e premi le labbra sulle sue. Per qualche altro istante non cede... finché una corda tesa dentro di lui sembra spezzarsi e si abbandona alla tua mercé.{/n}
+
+### u072813
+"No. No, basta sangue." {n}Marazhai sogghigna e si avvicina con un movimento fluido.{/n} "Anche se il fatto che tu ne voglia sempre di più conferma soltanto la mia opinione su di te."
+
+### u072814
+{n}Marazhai chiude gli occhi. Quando li riapre, il velo di follia intrisa di sangue è di nuovo sceso su di lui. La sua bocca si distende nel solito ghigno e la sua mano artigliata e guantata scivola sul tuo petto.{/n} "Allora... continuiamo. Non qui."
+
+### u072815
+{n}Marazhai sbatte le palpebre e l'arrogante spocchia che sei {mf|abituato|abituata} a vedere sul suo volto torna al suo posto. La sua mano scivola lungo la tua gola, le dita che ripercorrono il marchio.{/n} "Davvero, mio piccolo animale? Se continui a parlarmi così, sarò costretto a inventare per te punizioni sempre nuove..."
+
+### u072816
+{n}Marazhai sbatte le palpebre e la servile sottomissione che sei {mf|abituato|abituata} a vedere sul suo volto torna al suo posto. Inclina la testa verso il basso e di lato, mostrandoti il marchio, poi si china ancora più vicino.{/n} "Mi darò un gran daffare per evitare una simile sorte. E comincerò... subito."
+
+### u072817
+{n}Marazhai emette un sospiro deluso.{/n} "Davvero? Ora che ho deciso di essere sincero con te, decidi di offenderti per la verità? Non è un po'... tardi per i rimpianti?" {n}Ride con scherno.{/n} "Ma fai come vuoi. Ho ottenuto ciò che volevo. Quanto ai tuoi sentimenti... sono affar tuo."
+
+### u072818
+{n}Marazhai ti morde dolorosamente l'orecchio.{/n} "Certo."
+
+### u072819
+{n}Marazhai ti sorride in modo sinistro.{/n} "Il tuo atteggiamento mi piace. Vieni ora, {name}. Una rivelazione ci attende."
+
+### u072820
+{n}Marazhai trasale, chiaramente combattuto tra disperazione e orgoglio. Serra la mascella e ti fissa in silenzio, ma nei suoi occhi puoi leggere la risposta.{/n}
+
+### u072821
+{n}Per un istante, pensi che la luce si sia spenta negli occhi di Marazhai, ma solo per un istante: lo sguardo dello xenos è inondato di un odio rovente. Brandisce le lame con un ringhio gutturale... alza il braccio per colpire... e poi, come rendendosi conto che restare sulla nave dei mon-keigh senza il suo patrono equivarrebbe alla morte, cede. Serrando la mascella, lo xenos ti lancia un'ultima occhiata, poi si volta e corre via, senza mai guardarsi indietro.{/n}
+
+### u072822
+{n}Marazhai solleva le lame con un ghigno.{/n} "Va'. E io... io ti seguirò, {name}."
+
+### u072823
+{n}Marazhai, il respiro affannato, getta lo sguardo sulla scia di sangue che ti sei {mf|lasciato|lasciata} alle spalle. I suoi occhi sono velati di follia e le sue labbra sono tese in un ghigno storto.{/n} "Bellissimo. Squisito. Più vittime che mai... Sono soddisfatto." {n}Si lecca le labbra e sposta lo sguardo su di te.{/n}
+
+### u072824
+{n}Quando ti stacchi, una scintilla brilla negli occhi di Marazhai. Resta in silenzio, ma ti sembra che nel suo sguardo covi qualcosa di simile alla speranza.{/n}
+
+### u072825
+{n}Le sue parole risuonano come una sirena nel tuo petto, nel tuo stesso essere, intrise del sangue e della sofferenza di decine e decine di anime innocenti torturate in nome di una nera passione. Il dubbio ti attraversa la mente: questa sensazione ha qualcosa a che fare con gli antichi Aeldari?... ma viene subito spazzato via da un'ondata di appagamento e lussuria. Ne vuoi di più. Di più.{/n}
+
+### u072826
+"E ora lo sei." {n}Le palpebre di Marazhai si abbassano.{/n} "Abbiamo condiviso la mia passione. La mia ragione di vita. La mia natura. Questo è quanto possiamo essere vicini restando ciò che siamo."
+
+### u072827
+{n}Marazhai si avvicina a te, con il sorriso che si fa lascivo.{/n} "Basta indugiare: il sangue si raffredda e le urla delle vittime nelle nostre vene si sono già placate. Ripuliamo questo ponte e poi concluderemo il nostro banchetto... nel modo consueto." {n}Marazhai fa scorrere la mano sul tuo petto.{/n}
+
+### u072828
+"Sono abituat{mf|o|a} a parlare in privato, io e te..."
+
+### u072829
+"Una marcia di sangue suona magnifico. Lo farò."
+
+### u072830
+"Perché è necessario?"
+
+### u072831
+"No, Marazhai, basta così. Niente più massacri e uccisioni del mio equipaggio!"
+
+### u072832
+"Questo non sarà il nostro ultimo banchetto, vero?"
+
+### u072833
+"Molto bene. Ucciderò per te."
+
+### u072834
+"Uccidi per me, Marazhai."
+
+### u072835
+"Io... non posso farlo."
+
+### u072836
+[Rivolgiti all'equipaggio] "Tutori dell'ordine! Uccidete questo xenos!"
+
+### u072837
+"Ci sarà un massacro. È la volontà del Lord Capitano. Chi rifiuta sarà gettato fuori da un portello stagno."
+
+### u072838
+"Factotum Danrok."
+
+### u072839
+"Maestra del Vox Vigdis."
+
+### u072840
+"Primo Timoniere Ravor."
+
+### u072841
+"Basta. Non torturerò né tormenterò più i miei fedeli servitori."
+
+### u072842
+"Marazhai, forse possiamo cercare di giungere a un accordo?"
+
+### u072843
+"Basta, Marazhai! Seminerò carneficina nei ponti inferiori, ma non ti darò i miei ufficiali più preziosi!"
+
+### u072844
+Hai offerto a Marazhai la tua vita in cambio di quella del tuo ufficiale.
+
+### u072845
+"Non sono {mf|libero|libera} di consegnare chi mi ha affidato la propria vita... ma posso offrire me stess{mf|o|a} in cambio. Per il loro errore, prendi la mia vita."
+
+### u072846
+{n}Senti il mormorio indignato di voci e maledizioni soffocate prima di registrare la scena che hai davanti: Marazhai, che ha preso il seggio del Lord Capitano, osserva con pigro e beffardo interesse la folla di ufficiali radunata sotto di lui. Quando ti nota, si raddrizza senza fretta.{/n} "Mio piccolo animale. Mi hai fatto aspettare. Che scortesia."
+
+### u072847
+{n}I passi appena udibili di Marazhai sembrano coprire ogni altro suono sul ponte di comando. Gli ufficiali interrompono i loro compiti e gli lanciano sguardi timorosi e carichi d'odio. Marazhai sembra crogiolarsi in quell'ondata di attenzione ostile, con un sorriso soddisfatto che gli aleggia sulle labbra. Ma quando ti guarda, si inginocchia su un ginocchio e china il capo con sottomissione.{/n} "{name}. Chiedo il tuo permesso."
+
+### u072848
+"Affrontare una simile battaglia senza prima scaldarsi il sangue con la sofferenza e il dolore potrebbe essere pericoloso. E questa volta il banchetto dev'essere molto più sontuoso di qualsiasi altro prima. Una marcia di sangue attraverso la nave, né più né meno. Ti supplico..." {n}Marazhai si sforza di mantenere deferente la voce, ma trema quasi d'attesa.{/n} "Dà gli ordini ai tuoi servi. Prepara tutto ciò che occorre. E... permettimi di accompagnarti."
+
+### u072849
+"Entrambi sappiamo che sta per arrivare un'incursione, {name}. Abbiamo affrontato l'Arconte del Cuore Nero solo di recente... La nuova sfida potrebbe rivelarsi ancora più ardua. Una che richiede una maggiore padronanza della morte. Una ancora più... estenuante." {n}Marazhai getta un'occhiata affamata sulla folla radunata.{/n}
+
+### u072850
+{n}Inclina la testa di lato, trascinando con sottigliezza i suoi artigli affilati lungo la tua mascella.{/n} "Bramo il brivido del dolore e il canto della sofferenza nelle mie vene. Con te, mio piccolo animale. E questa volta il banchetto dev'essere magnifico. Non un solo ponte, no. Una marcia di sangue attraverso la nave... Congeda le tue guardie. Sottometti chiunque osi intromettersi. E unisciti a me."
+
+### u072851
+"Perché chiedi l'ovvio? Perché è così che troverai l'ispirazione per le battaglie future. È così che metterai alla prova le tue armi e i tuoi riflessi, e scoprirai i difetti nei tuoi movimenti e nelle tue tecniche. Ed è così che risveglierai finalmente la tua fame e la tua attesa per la sfida che ti aspetta, lasciandoti impaziente di gettarti nella mischia!"
+
+### u072852
+{n}La bocca di Marazhai si distende in un ghigno soddisfatto.{/n} "Oh no. In nessun modo. Ogni volta che sentirai la tua anima cominciare ad avere fame di dolore..."
+
+### u072853
+{n}Marazhai comincia a dire qualcosa, ma la sua voce è sommersa dalle acclamazioni degli ufficiali che riempiono il ponte di comando. Con una smorfia di disgusto, il Drukhari fa un passo indietro.{/n} "Avanti... crogiolati nel patetico tripudio del tuo bestiame, {name}. Alla fine ti sei rivelat{mf|o|a} miope quanto tutti gli altri."
+
+### u072854
+{n}Le dita del Drukhari ti stringono il volto e la sua voce si abbassa a un sussurro.{/n} "La tua docilità, mio animale, ti dona. Ora..."
+
+### u072855
+"Basta!" {n}grida Ravor, interrompendo Marazhai, che fulmina con lo sguardo il nato nel vuoto.{/n} "Maledizione, basta con questa depravazione a bordo della nave ammiraglia! Lord Cap'!" {n}Ravor si volta verso di te.{/n} "Magari perderò la testa per la mia insolenza, ma non starò più zitto! Da quando quella cosa si è arrampicata a bordo, voi... non siete più {mf|voi stesso|voi stessa}. Siamo i vostri sudditi o i vostri giocattoli?"
+
+### u072856
+"Il Factotum ha ragione, Lord Capitano." {n}La voce di Vigdis è appena udibile.{/n} "L'unico argomento di conversazione su ogni ponte è chi riceverà la prossima visita dei macellai e cosa faranno a persone innocenti e... e... e... tra di loro." {n}La Maestra del Vox si rattrappisce.{/n} "Abbiate pietà! Nessun ufficiale vi ha mai messo in discussione, e non metteremo alla prova la vostra pazienza neppure dopo questo... ma ascoltateci ora! Vi supplichiamo! Lo supplica l'intero equipaggio!"
+
+### u072857
+{n}Janris, benché pallido come un lenzuolo, fa un passo avanti.{/n} "Lord Capitano, abbiate pietà! Sì, il Mandato vi concede la libertà di fare ciò che volete a bordo di questa nave, ma... ma... considerate almeno le perdite economiche! Al momento siamo tagliati fuori dalla Distesa, in spazio inesplorato... un ammutinamento è l'ultima cosa di cui abbiamo bisogno! Ma da tempo tra l'equipaggio si mormora della considerazione che il Lord Capitano ha per il suo xenos assetato di sangue... e di come non lo sopporteranno!"
+
+### u072858
+{n}Marazhai si guarda intorno con aria pigra, passando in rassegna la folla che mormora. Le sue dita artigliate, che un attimo prima ti accarezzavano distrattamente il viso, scivolano giù e si chiudono mollemente attorno alla tua gola.{/n} "È così che tieni a freno i tuoi servi, mio piccolo animale? La loro insolenza mi offende. Uccidi uno dei caporioni, per il mio divertimento."
+
+### u072859
+{n}Marazhai getta uno sguardo sulla folla che mormora da sotto le palpebre socchiuse. Poi mormora,{/n} "I tuoi servi ti sfidano, {name}. Ordinami di dar loro una lezione. Fa' di uno dei caporioni un esempio per tutti gli altri."
+
+### u072860
+{n}Le sue parole sono pronunciate piano... eppure sembrano raggiungere ogni orecchio sul ponte di comando. I membri dell'equipaggio ammutoliti sembrano aver appena inghiottito la lingua... e i loro occhi corrono terrorizzati verso gli ufficiali superiori, paralizzati.{/n}
+
+### u072861
+"Ho detto..." {n}Le dita di Marazhai ti stringono la gola e la sua voce si trasforma in un sibilo.{/n} "Uccidi. Uno. Dei caporioni. Per il mio. Divertimento."
+
+### u072862
+{n}Marazhai ti guarda con derisoria sorpresa.{/n} "Non lascerai l'insolenza dei tuoi servi senza risposta, vero? Permetti che ti accontenti rimettendoli al loro posto. Sai che la punizione è un'arte in cui eccello: non resterai deluso!"
+
+### u072863
+"Sei {mf|sicuro|sicura}? O è il residuo della tua primitiva morale da mon-keigh a parlare? Considera con attenzione la tua risposta, {name}."
+
+### u072864
+{n}Marazhai ti guarda con gli occhi stretti, le labbra contorte in una smorfia.{/n} "Ebbene, {name}, ti lascerai dettare legge da loro?"
+
+### u072865
+{n}Non saprai mai con certezza il significato dell'espressione di Marazhai. Sorpresa? Rabbia? O delusione? Ma vedi chiaramente il fuoco folle nei suoi occhi spegnersi come spento dall'acqua. Sfoderando le lame, il Drukhari accoglie gli umani che gli si lanciano contro con la risata arrogante di chi è condannato a morire.{/n}
+
+### u072866
+{n}Marazhai sogghigna.{/n} "Molto bene. Ti lascerò perfino scegliere: indica la tua vittima."
+
+### u072867
+{n}Le lame del Drukhari tintinnano mentre schizzano fuori dai foderi.{/n} "Dammi un bersaglio!"
+
+### u072868
+{n}La Maestra del Vox sussulta, stringendosi le mani al petto.{/n}
+
+### u072869
+{n}Il volto di Janris passa dal pallore al bianco bluastro. La sua compostezza lo abbandona e cade in ginocchio.{/n} "Vostra Signoria, non uccidetemi!"
+
+### u072870
+{n}Ravor stringe i pugni, fulminando con lo sguardo prima te e poi Marazhai. Non un muscolo si muove sul suo viso, contorto in una smorfia di disappunto.{/n}
+
+### u072871
+{n}Marazhai alza l'arma.{/n} "Per te, {name}."
+
+### u072872
+{n}La risata di Marazhai sembra riecheggiare contro il soffitto, rimbombando per tutto il compartimento. Guardando il macabro ammasso ai suoi piedi, lo xenos alza la testa e si volta lentamente, passando in rassegna il ponte di comando e le persone tremanti.{/n} "Guarda, {name}! Ecco come dovrebbero essere i veri servi: umiliati, tremanti, striscianti! Troppo spaventati per alzare gli occhi verso {mf|il loro padrone|la loro padrona}, perché la sua ira è più terribile della morte! Ora nessuno dei miserabili che ti servono oserà più contraddire te o me, perché conoscono il loro posto!"
+
+### u072873
+{n}Marazhai si volta verso di te, con sul volto un'espressione strana, insolita, un misto della prevedibile follia intrisa di sangue di un Drukhari e di qualcosa di simile a... stupore estasiato? Ti guarda come se gli fosse stata appena concessa una qualche rivelazione.{/n} "{name}... vieni. Non vedo l'ora di condividere con te il nostro più grande banchetto."
+
+### u072874
+{n}Gli occhi di Marazhai ardono di eccitazione prima che chini di nuovo il capo in un inchino, questa volta in una deliberata dimostrazione di gratitudine.{/n} "Devo affilare le mie lame. Quando mi chiamerai..."
+
+### u072875
+{n}I mormorii sul ponte sono troncati dal grido beffardo di Marazhai:{/n} "Dunque, qualche volontario per aprire il nostro banchetto?" {n}Mentre l'equipaggio piomba in un silenzio terrorizzato, Marazhai ti guarda.{/n} "Comincerò i preparativi. Dà gli ordini. Ci attende... qualcosa di indimenticabile."
+
+### u072876
+{n}La voce dello xenos precipita in un ringhio furioso.{/n} "Vuoi sottometterti ai tuoi servi? Fa' pure come ti pare, ma non osare nemmeno sperare che io mi pieghi alla volontà di questi mon-keigh!"
+
+### u072877
+{n}Marazhai si sposta di lato, lasciandoti libero il passaggio.{/n} "Divertimi."
+
+### u072878
+{n}L'espressione nei suoi occhi cambia in modo sottile: il fuoco che vi ardeva scompare, lasciando dietro di sé delusione... e noia.{/n} "Bene. Sono venuto sul ponte con una domanda, e ora ho la risposta. È tempo di prepararci al nostro banchetto." {n}Il Drukhari lancia un'ultima occhiata agli ufficiali, che non sembrano credere alla loro fortuna, poi si volta e si allontana a grandi passi.{/n}
+
+### u072879
+"Hai qualcosa da nascondere ai tuoi servi?" {n}Marazhai ti rivolge un sorriso sottile, senza lasciare dubbi sul fatto che la sua comparsa sul ponte affollato sia una mossa deliberata, non un errore.{/n}
+
+### u072880
+{n}Marazhai ti brucia con uno sguardo in cui si mescolano sorpresa, sconcerto e... un diletto covante, che cresce lentamente fino a divampare. Il Drukhari inclina la testa di lato, ammirandoti come se fossi una sua creazione. Gli artigli affilati del suo guanto scivolano lungo la tua mascella, mentre la sua voce si abbassa a un sussurro che solo tu puoi udire:{/n} "Mio ingenuo piccolo animale... Credi di poterti liberare così facilmente di ciò che sei {mf|diventato|diventata} sotto la mia influenza? No, {name}. Ma per la tua obbedienza... ti farò dono della vita che hai appena offerto in cambio della tua."
+
+### u072881
+{n}Getta uno sguardo intenso sul ponte di comando come per assicurarsi che tutti abbiano udito le tue parole e ride con disprezzo.{/n} "Lasciamoci alle spalle questa carogna. Un grande banchetto ci attende."
+
+### u072882
+"Una strana proposta. Perché dovrei volerlo?"
+
+### u072883
+"Non mi fido di te."
+
+### u072884
+"Non abbiamo tempo per questo."
+
+### u072885
+[Avvicinati a Marazhai e guarda in basso]
+
+### u072886
+{n}Marazhai balza con leggerezza dal bordo della piattaforma dentro l'incursore e comincia a ispezionarlo dall'interno. Senti scatti e sibili mentre il Drukhari apre e chiude vari scomparti nascosti nello scafo del velivolo, accompagnati da borbottate imprecazioni xenos.{/n}
+
+### u072887
+{n}Dopo un minuto, Marazhai si raddrizza di scatto e si blocca, chiaramente alle prese con la propria irritazione. Un istante dopo, allunga il collo per guardare giù nell'abisso sotto i suoi piedi.{/n} "Vieni qui, {name}. Dai un'occhiata a questa vista."
+
+### u072888
+{n}Marazhai ti rivolge uno sguardo enigmatico, con un sorriso che gli si disegna lentamente sul volto.{/n} "Commorragh è la cosa più grande mai creata da una razza intelligente. Di certo desideri vederla come dev'essere vista, contemplarla in tutto il suo magnifico dettaglio?"
+
+### u072889
+{n}I suoi occhi scuri si stringono a fessura.{/n} "Non ho bisogno della tua fiducia, {name}. Ti sto offrendo un'occasione... per imparare qualcosa di nuovo."
+
+### u072890
+{n}L'abisso si spalanca senza fine sotto di te, le guglie ciclopiche di Commorragh che si innalzano trafiggendo la penombra. I dettagli di queste vaste strutture sono nascosti dalla foschia crepuscolare: le tante luci sulle terrazze della guglia, simili a gas di palude, sono tutto ciò che porta colore a questo panorama desolato e maestoso. L'altezza vertiginosa ti toglie il fiato e quasi svieni... poi una spinta leggera alla schiena ti fa perdere l'equilibrio.{/n}
+
+### u072891
+{n}I momenti si dilatano in un'eternità: l'appoggio saldo ti viene strappato da sotto i piedi, il cuore smette del tutto di battere, l'abisso sotto di te sembra precipitarsi verso l'alto, pronto a inghiottirti intero... poi dita artigliate si chiudono attorno al tuo polso, arrestando la caduta ma tenendoti sospeso sopra il baratro. La risata di Marazhai risuona di oscuro diletto quando alla fine ti tira di nuovo dentro l'incursore.{/n}
+
+### u072892
+{n}Marazhai schiocca la lingua.{/n} "Una mente così ristretta. Che delusione. O forse è codardia, {name}? Ma quella è la tua debolezza, non la mia." {n}Scavalca la fiancata dell'incursore, tornando sulla piattaforma.{/n}
+
+### u072893
+"Terrore! Terrore sfrenato, squisito! Ha molto più mordente del dolore stantio e prevedibile delle vittime di tortura. Quel bruciore nel petto, quel sapore in bocca... Senti il sangue ruggire nelle vene? Il cuore che batte una marcia trionfale? La vita si fa più vivida quando la morte può arrivare in qualsiasi momento, {name}. Continuerò a ricordartelo." {n}Senza darti la possibilità di rispondere, Marazhai scavalca la fiancata dell'incursore e torna sulla piattaforma.{/n}
+
+### u072894
+"I Kabalite della Tempest hanno già ripulito l'incursore. Questo significa che ciò che cerco dev'essere nascosto da qualche parte nella guglia. Credo... credo sia nella camera di tortura. Una volta dentro, dobbiamo attraversare le prime camere dritto davanti a noi e svoltare a sinistra, poi ancora a sinistra. Vieni: intendo reclamare ciò che è mio."
+
+### u072895
+"Anche se non tutti i miei averi mi sono stati restituiti, sono comunque... soddisfatto. Possiamo andare. Hai servito i miei desideri in modo tollerabile, {name}." {n}Marazhai ti rivolge un sogghigno insolente e annuisce.{/n}
+
+### u072896
+"Muoviti. Non aspetterò a lungo."
+
+### u072897
+"Sbrigati, Marazhai, o me ne vado senza di te."
+
+### u072898
+"Marazhai, che posto è questo?"
+
+### u072899
+[Sbadiglia in segno di noia] "Non vedo nulla di interessante qui."
+
+### u072900
+"Vorrei restare ancora un po'. Per saperne di più su chi frequenta questo posto."
+
+### u072901
+[Avvicinati agli strumenti di tortura]
+
+### u072902
+{n}Marazhai avanza tra i misteriosi dispositivi xenos e preme il palmo su uno degli strani pezzi simili a un piedistallo: con un sibilo, uno dei suoi lati si apre all'improvviso come un portello stagno. Il Drukhari comincia a esaminare il contenuto del contenitore: tonfi e clangori di oggetti spostati risuonano aspri nello spazio altrimenti silenzioso. Nel frattempo, i tuoi occhi sono involontariamente attratti dagli strani dispositivi che riempiono la stanza.{/n}
+
+### u072903
+{n}Dopo l'Opera Anatomica, non hai il minimo dubbio sullo scopo dei dispositivi che ti circondano. Ti sembra di averne già visti alcuni nel laboratorio dell'Haemonculus. Altri hanno un design ancora più oscuro, ma gli aghi lucenti, le lame da taglio e i tubi e le fiale colmi di liquidi ripugnanti danno un'indicazione chiara degli orrori che possono infliggere a un corpo vivente.{/n}
+
+### u072904
+{n}Mentre osservi le strane articolazioni delle macchine, i tubi che terminano in aghi dalla punta affilata e gli strumenti dalle forme più bizzarre, cominci ad avere un vago sospetto su ciò che questi dispositivi fanno alle loro vittime. Iniezioni chimiche, smembramento, tormento mentale... per un attimo ti si rivolta lo stomaco al pensiero di cosa significhi essere sottoposti a questi strumenti.{/n}
+
+### u072905
+"Pazienza, {name}," {n}risponde Marazhai con aria deliberatamente tranquilla, facendoti cenno con noncuranza di aspettare. Dopo aver sigillato il contenitore, passa a un altro lì vicino.{/n} "Devo assicurarmi che i servi di Tervantias non abbiano messo gli artigli sulle mie cose. Trova un modo per divertirti finché non ho finito."
+
+### u072906
+{n}La bocca di Heinrix si riduce a una linea dura e sottile mentre getta un'occhiata a uno degli strumenti di tortura, ma resta in silenzio.{/n}
+
+### u072907
+"Non ho bisogno di essere un Veggente per sentire con tutto il mio essere il dolore che permea questo luogo."
+
+### u072908
+"La Camera della Sazietà." {n}Il Drukhari si volta verso di te, con qualcosa tra le mani.{/n} "Un luogo di riflessione... e di piacere. Qui i Wrack armeggiano, lavorando su nuovi prigionieri in attesa di un Kabalite affamato che apprezzerà la loro arte."
+
+### u072909
+{n}Heinrix emette un suono basso dalla gola.{/n} "Una curiosità che andrebbe impiegata meglio."
+
+### u072910
+"Ma perché, shereen? Questo luogo immondo ha già fatto il suo effetto su di te: ti ha offuscato la mente. Solo un folle vorrebbe restare qui anche un secondo più del necessario."
+
+### u072911
+"Se i servi di Tervantias fossero qui, potrei mostrarti di più, {name}..." {n}Marazhai ridacchia come se avesse appena fatto una battuta, e i suoi occhi sono braci ardenti.{/n} "Per esempio, come scuoiare un mon-keigh senza ucciderlo. O come trasformare un Aeldari in materia prima per un incantevole ninnolo che ti delizierà per il resto della vita. Ma, ahimè, sarà per un'altra volta."
+
+### u072912
+"Il tuo interesse mi fa piacere. Tieni, prendi questo: consideralo una ricompensa per la tua diligenza." {n}Marazhai ti scarica con noncuranza tra le braccia gli oggetti che ha recuperato dal contenitore.{/n}
+
+### u072913
+"Senti il dolore, cugina?" {n}Marazhai non si volta nemmeno a guardare Yrliet.{/n} "La tua rieducazione ha evidentemente già dato i suoi frutti."
+
+### u072914
+"Non abbiamo controllato il mio incursore: dovrebbe trovarsi al molo aereo, fuori dalla guglia. Forse non ci sono ancora arrivati."
+
+### u072915
+"Le camere nel cuore della guglia, non lontano dal Portale della Tela... forse lì troverò ciò che la mia anima brama con tanta disperazione. Affrettiamoci."
+
+### u072916
+{n}I dispositivi ti nascondono i loro segreti: la natura della xenotecnologia è così depravata che non riesci a discernere lo scopo di questi strumenti. Un istante dopo, senti Marazhai richiudere con violenza un contenitore e rialzarsi.{/n}
+
+### u072917
+{n}Marazhai sibila irritato e sigilla il contenitore. Percepisci che non è arrabbiato per la perdita dei suoi averi, ma con te, per non aver fatto qualcosa che tacitamente si aspettava da te.{/n} "No. Anche questo posto è vuoto. Hmm..."
+
+### u072918
+"Lord Capitano..." {n}Abelard si guarda intorno con cautela.{/n} "Per amor dell'Imperatore, dobbiamo muoverci."
+
+### u072919
+{n}Marazhai si raddrizza e si volta verso di te, con qualcosa tra le mani.{/n} "Non ti basta ciò che hai già sperimentato nell'intrico della Città Oscura? Ha. Una lodevole sete di conoscenza."
+
+### u072920
+"Puoi tenere l'agonizzatore."
+
+### u072921
+"Qualsiasi oggetto tu definisca il tuo 'giocattolo preferito' non può essere niente di buono."
+
+### u072922
+"Qualunque cosa sia, non ti permetterò di portarla con te."
+
+### u072923
+"Non ne ho idea."
+
+### u072924
+"L'umanità ha strumenti simili. Per il bestiame e i contadini."
+
+### u072925
+[Tendi il braccio] "Fallo."
+
+### u072926
+"Mostramelo. Su di te."
+
+### u072927
+"Metti via quella cosa immonda."
+
+### u072928
+[Spezza l'agonizzatore nella mano di Marazhai] "Finché sei nel mio seguito, puoi scordarti di simili abomini."
+
+### u072929
+"Perché questa cosa è così importante per te?"
+
+### u072930
+{n}Marazhai passa diversi minuti a rovistare tra gli oggetti sui tavoli finché non si ferma, avendo notato qualcosa. Con un grugnito soddisfatto, estrae dal mucchio una lunga frusta flessibile e chiodata. Senti uno scatto e un bagliore azzurro gelido si propaga sulla liscia superficie della frusta con un leggero crepitio.{/n}
+
+### u072931
+"Perché? È un artefatto inestimabile che mi appartiene, e l'ho recuperato prima che i miei simili riuscissero a rubarlo. È proprietà della Reaving Tempest e non deve cadere nelle mani degli altri Kabal, e quando ci sbarazzeremo di Yremeryss, la guglia verrà certamente attaccata. E infine... posso concedermi un po' di sentimentalismo, no?"
+
+### u072932
+{n}Il Drukhari si strozza per l'indignazione, davvero scioccato dalla tua risolutezza. Stringendo nella mano l'agonizzatore spezzato, ti fulmina con lo sguardo, quasi tremando di rabbia... eppure non perde il controllo. Con deliberata noncuranza, getta via i pezzi.{/n}
+
+### u072933
+"Tsk. Dubito che la tua specie sia capace di una creazione così sofisticata: con ogni probabilità è una grossolana copia."
+
+### u072934
+{n}Marazhai scuote la testa.{/n} "Al contrario. Ho un gusto eccezionale."
+
+### u072935
+"Un agonizzatore. Un disintegratore elettrico che agisce sugli impulsi nervosi. Questo in particolare è un pezzo troppo pregiato per essere usato in combattimento, ma in una camera di tortura..." {n}Il Drukhari solleva la frusta, chiaramente a suo agio con la sensazione e il peso nella mano.{/n} "Uno squisito strumento di dolore. Controllo totale dell'impulso. Può provocare sensazioni sottili come un sussurro... o incenerire le sinapsi."
+
+### u072936
+{n}Gli occhi di Marazhai si stringono.{/n} "Mi negheresti una simile sciocchezza senza nemmeno sapere cosa sia? Hai così paura di ciò che non conosci? Che tragedia."
+
+### u072937
+{n}La voce di Marazhai si abbassa a un ringhio sussurrato.{/n} "Volevi conoscere il mio mondo, {name}. Dov'è ora quel desiderio?"
+
+### u072938
+{n}Marazhai mugola piano nella gola.{/n} "Dopotutto dovrei esprimerti la mia gratitudine per essere scampato all'arena. Quale modo migliore che condividere con te ciò che mi eccita davvero?"
+
+### u072939
+{n}Marazhai fa roteare il braccio senza esitare e la coda flessibile dell'agonizzatore si avvolge attorno al tuo polso. Sul momento non senti nulla... poi un fiore infuocato di agonia sboccia nel tuo cuore, spingendo radici velenose lungo le vene e in ogni angolo del tuo corpo. La vista si oscura, boccheggi in cerca d'aria, le ginocchia minacciano di cedere sotto di te, e poi il dolore si ritira come una marea, lasciando dietro di sé il folle martellare del cuore e scosse di assestamento che danzano nelle terminazioni nervose.{/n}
+
+### u072940
+{n}Gli occhi del Drukhari scintillano di diletto e scherno.{/n} "Era una potenza minima. Appena percettibile, direi. Pensavi davvero che avrei avuto tanta fretta di rompere... il mio nuovo giocattolo?"
+
+### u072941
+{n}Marazhai socchiude gli occhi e con un colpo di polso avvolge la coda flessibile dell'agonizzatore attorno al proprio braccio. Un istante dopo, un'ondata attraversa il corpo del Drukhari, facendogli rovesciare gli occhi all'indietro e inarcare la schiena gettando la testa all'indietro. Spasmo dopo spasmo percorre il suo corpo, finché alla fine un ansito soffocato si fa strada fuori dalla sua gola. La coda dell'agonizzatore scivola dal polso di Marazhai, ed egli ti guarda con occhi sfuocati.{/n}
+
+### u072942
+"Io... sono abituato al dolore. A differenza di te, {name}." {n}Cogli un barlume di interesse nello sguardo del Drukhari.{/n} "Mi piacerebbe vederti... sopportare qualcosa di simile. Ma non ora. Un'altra volta."
+
+### u072943
+"Andiamo. Non ho più alcuna voglia di vagare per la guglia."
+
+### u072944
+{n}Marazhai fa schioccare la lingua deluso, ma avvolge comunque l'agonizzatore e lo aggancia alla cintura.{/n}
+
+### u072945
+"Non ho trovato il mio generatore di campo d'ombra, e anche il mio kit di tossine è sparito... ma almeno ho ritrovato il mio giocattolo preferito." {n}Il Drukhari ti mostra il suo ritrovamento.{/n} "Sai cos'è, {name}?"
+
+### u072946
+{n}Marazhai soppesa ancora una volta la frusta nella mano e ti rivolge uno sguardo valutativo. Alla fine dice piano,{/n} "Vuoi provarla, {name}? Una piccola... dimostrazione?" {n}I suoi occhi scattano verso il tuo braccio.{/n}
+
+### u072947
+[Fa' baciare la tua eco a quella di Yrliet]
+
+### u072948
+[Fa' abbracciare la tua eco a quella di Yrliet]
+
+### u072949
+[Resisti alla tentazione]
+
+### u072950
+[Fa' toccare la mano dell'eco di Yrliet alla tua eco]
+
+### u072951
+"Potrò vedere il tuo mondo?"
+
+### u072952
+"Grazie per avermi mostrato questa parte di me."
+
+### u072953
+"Wow. Mi sento come se fossi rinat{mf|o|a}."
+
+### u072954
+"Non sono rifiuti, è il mio mondo interiore!"
+
+### u072955
+[Osserva da vicino le figure spettrali]
+
+### u072956
+"Mi aiuterai di nuovo con la meditazione?"
+
+### u072957
+"Quando meditavamo, non sembravi sorpresa dalle mie... relazioni con le nostre conoscenze comuni."
+
+### u072958
+"Perché sei così sorpresa da questi particolari echi del mio mondo?"
+
+### u072959
+"Quando cerchi di conoscere qualcuno, inevitabilmente diventa parte di te."
+
+### u072960
+{n}Il volto di Yrliet si tende per la sorpresa, i suoi lineamenti si fanno ancora più affilati mentre fissa confusa le figure spettrali. Non dice nulla, lanciandoti occhiate furtive, poi guardando di nuovo le figure, come se aspettasse qualcosa.{/n}
+
+### u072961
+"Certo, il tuo mondo non è bello e sereno come il mio, ma sono stata lieta di vederlo."
+
+### u072962
+{n}Quando l'eco della tua anima tocca la pelle spettrale dell'Aeldari, la vera Yrliet si ritrae inorridita.{/n} "Dunque questi sono i desideri sopiti che si nascondono nelle profondità della tua anima, mon-keigh! Ho promesso di non giudicarti, ma questo... questo non è qualcosa che posso tollerare. Basta."
+
+### u072963
+{n}Tu e Yrliet restate insieme in completo silenzio per un po': teso e imbarazzato all'inizio, poi morbido e avvolgente. Senti Yrliet sospirare appena, e senti la tristezza nascosta nella sua voce. Ma lei resta in silenzio finché le figure spettrali attorno a voi non cominciano a svanire.{/n}
+
+### u072964
+{n}Quando l'eco della tua anima tocca la mano spettrale dell'Aeldari, la vera Yrliet trasalisce per la paura e ritrae involontariamente la propria mano.{/n} "Ti prego, elantach! Questo sarà anche il tuo mondo, ma io... Non farlo mai più."
+
+### u072965
+"{name}, sei {mf|sveglio|sveglia}." {n}Yrliet sussulta alle sue stesse parole, rendendosi conto che è la prima volta che ti chiama per nome.{/n} "La tua anima risplende troppo per un umano, nonostante tutti i rifiuti che vi si erano accumulati. I rifiuti si possono eliminare, ma la luce... Cerca di preservarla, {name}. Attira lo sguardo come stelle brillanti nel cielo notturno."
+
+### u072966
+{n}Ti risvegli dalla meditazione con un senso di vigore e una calma insolita. Come se avessi appena fatto una doccia sotto una cascata gelida. O pronunciato un discorso davanti a migliaia di sudditi con il cuore che si gonfia per l'adulazione della folla.{/n}
+
+### u072967
+{n}Yrliet scuote semplicemente la testa.{/n} "Non credo, elantach. È impossibile conoscere tutto in questo mondo, per quanto lo vorremmo. Eppure il mio cuore canta, perché ti ho aiutato a trovare la pace. Anche se solo per breve tempo."
+
+### u072968
+"Il mio cuore canta, perché ti ho aiutato a trovare la pace. Anche se solo per breve tempo."
+
+### u072969
+{n}Yrliet distoglie lo sguardo incerto.{/n} "Non pensavo ci sarebbe stato un posto per me nell'anima di un umano. E il ricordo in sé... Pulito. Non distorto. È qualcosa su cui devo riflettere. E meditare in solitudine."
+
+### u072970
+"Non intendevo ferirti con le mie parole, elantach. Hai visto quanto peso si era accumulato nel tuo cuore. Cerca di prendertene cura."
+
+### u072971
+{n}Yrliet ti rivolge uno sguardo strano.{/n} "Le tue parole mi turbano per la loro sincerità, elantach. La tua mente è... molto più pulita ed elevata di quanto immaginassi. Diventare parte di qualcuno..." {n}Per un istante, Yrliet si perde nei suoi pensieri.{/n}
+
+### u072972
+"Non lo so. Forse. Un giorno?" {n}risponde in modo vago.{/n}
+
+### u072973
+{n}Le parole di Yrliet riecheggiano nel tuo mondo e le figure spettrali cominciano a svanire. Il mondo attorno a te comincia ad allungarsi all'infinito.{/n} "È tempo di tornare, elantach. La tua anima non è ancora abbastanza forte da sopportare un'immersione prolungata. Fa' un respiro profondo e..."
+
+### u072974
+{n}La testa ti gira per il brusco risveglio e senti la nausea risalirti in gola. Ma tutto questo passa in secondo piano di fronte agli occhi smeraldini e furiosi che ti fissano.{/n} "Mon-keigh."
+
+### u072975
+"Fino al nostro prossimo incontro, elantach. Che le stelle ci guidino lungo strade sicure."
+
+### u072976
+{n}Una strana sensazione avvolge il tuo corpo: ti senti {mf|più leggero|più leggera} dell'aria e nella tua mente i pensieri corrono a una velocità incredibile. Non sei ancora consapevole di guardare attraverso gli occhi della tua eco spettrale e di osservare da lontano, tutto nello stesso momento. Il mondo interiore cambia sotto la forza della tua volontà e ora puoi controllare la tua eco. Ora puoi fare qualcosa che non oseresti fare nel mondo reale.{/n}
+
+### u072977
+"Che cos'è questo, mon-keigh?" {n}La voce dell'eco incorporea che ha fatto della tua anima la sua dimora sembra risuonare solo nella tua testa.{/n}
+
+### u072978
+{n}Le parole di Yrliet sono simili alle sferzate di una frusta infuriata.{/n} "Dopo tutti gli avvertimenti e le conversazioni che abbiamo avuto, decidi di mostrare la tua natura meschina. E proprio nel momento in cui ti stavo aiutando ad alleggerire il peso della tua anima." {n}Scuote la testa con delusione.{/n} "A volte mi chiedo: potremo mai arrivare a capirci del tutto? Ma le tue azioni nelle profondità della tua anima hanno mostrato quanto siamo diversi. Basta, elantach. Non cercare mai più di entrare nella mia anima: le sue porte ti sono ormai strettamente chiuse."
+
+### u072979
+"È tempo di tornare, elantach. La tua anima non è ancora abbastanza forte da sopportare un'immersione prolungata. Fa' un respiro profondo e..."
+
+### u072980
+"Questa è la purificazione della tua anima, elantach. Spero che ora tu comprenda l'importanza di mantenerla libera da rifiuti inutili."
+
+### u072981
+{n}Yrliet scrolla le spalle con indifferenza.{/n} "Brami ciò che la natura umana desidera: l'intimità con i tuoi simili. Posso capirlo."
+
+### u072982
+"I tuoi simili? Non hai mai chiamato così i Drukhari prima d'ora."
+
+### u072983
+"Perché ti scusi? Non è colpa tua."
+
+### u072984
+"Non avrei dovuto sottovalutare i miei nemici. Non commetterò di nuovo lo stesso errore."
+
+### u072985
+"Che c'è? Ho qualcosa sul viso?"
+
+### u072986
+[Ricambia il suo sguardo in silenzio]
+
+### u072987
+"Che cosa intendi? Mi sento benissimo!"
+
+### u072988
+"Il peso delle mie responsabilità mi ha davvero gravato molto, ultimamente."
+
+### u072989
+"In che modo esattamente intendi aiutarmi?"
+
+### u072990
+"Non ho bisogno che qualcuno si prenda cura di me, né tu né nessun altro."
+
+### u072991
+"Scavare nel proprio mondo interiore: fa male?"
+
+### u072992
+"È la stessa meditazione che usavi prima per immergerti?"
+
+### u072993
+"E sei un po' curiosa di vedere cosa c'è nella mia testa, vero?"
+
+### u072994
+"Molto bene. Yrliet, mostrami il mio mondo interiore."
+
+### u072995
+"Ammettilo e basta. Non c'è niente di male nel voler conoscere l'anima di un umano."
+
+### u072996
+"Mi sembra troppo rischioso. Rifiuto."
+
+### u072997
+"È tutto? O volevi dirmi qualcos'altro?"
+
+### u072998
+"Le tue scuse non riporteranno indietro ciò che è andato perduto."
+
+### u072999
+"Grazie. Davvero, grazie."
+
+### u073000
+"Elantach, ti ho trovato finalmente in questa dimora." {n}Yrliet si avvicina e compie con grazia un gesto sconosciuto con le mani.{/n} "Questo simbolo ha molti significati: umiltà, dolore, perdita, vergogna, rimpianto. Spero che li accetterai tutti. Perché mi dispiace per ciò che è accaduto al tuo mondo, ai tuoi sudditi, al tuo palazzo... e per ciò che i miei simili hanno fatto loro."
+

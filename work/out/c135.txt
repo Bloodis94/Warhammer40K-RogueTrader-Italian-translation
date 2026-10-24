@@ -1,0 +1,900 @@
+### u047040
+"Senza un attimo di esitazione. Ti ho dato la possibilità di tornare sulla via della rettitudine, ma l'hai rifiutata. Ho giurato di estirpare la corruzione. Se ne sei {mf|stato sopraffatto|stata sopraffatta}, compirò il mio dovere a qualunque costo."
+
+### u047041
+"Di cosa parli, mon-keigh? Sei {mf|lontano|lontana} dal comprendere la mia anima quanto la luce delle fredde stelle spente lo è dai tuoi miseri mondi. Ti stai aprendo con entusiasmo al male che distrusse il mio popolo all'alba dei tempi. Comprensione? No. Per te ho solo pietà."
+
+### u047042
+{n}Argenta digrigna i denti e stringe più forte l'arma tra le mani.{/n} "Brucia nell'abisso, {name}."
+
+### u047043
+{n}Argenta si limita a distogliere lo sguardo, con gli occhi cupi.{/n}
+
+### u047044
+{n}Ulfar aggrotta le sopracciglia in modo minaccioso.{/n} "Prega che il mio prossimo verso non parli di un arrogante Rogue Trader che ha avuto ciò che si meritava. Non ti piacerebbe."
+
+### u047045
+"Le ragioni dietro le loro macchinazioni sarebbero pura speculazione, a questo punto. Portatemi dei prigionieri da interrogare e forse otterremo qualche indizio di cui abbiamo un gran bisogno."
+
+### u047046
+"Pregiudizio? Bel modo di chiamare la mia fede nel Padre di Tutti. Ti avevo avvertito, {name}. Hai fatto la tua scelta."
+
+### u047047
+{n}Lo Space Marine emette un ringhio gutturale mentre il suo volto si contorce in un'espressione bestiale.{/n} "Ti perdonerò questo unico, sfacciato insulto, Rogue Trader. Non pronunciarne un altro."
+
+### u047048
+"Se vuoi irritarmi, impegnati di più. Ne ho sentite di peggiori. Di solito erano le ultime parole di un eretico."
+
+### u047049
+"'Ancora' è la parola chiave, {name}. Non sopravvalutare la tua utilità."
+
+### u047050
+"Soprattutto il sangue di eretici, xenos e traditori, {name}. I metodi dell'Inquisizione non sono sempre decorosi e spesso richiedono grandi sacrifici. Ma io sono leale all'Imperium. Mantenerlo al sicuro a ogni costo è la mia massima priorità. E questo include proteggerlo da quelli come te."
+
+### u047051
+"Risparmia il tuo rimpianto per il destino che ti attende, mon-keigh."
+
+### u047052
+{n}Non c'è alcun disprezzo nello sguardo che Yrliet ti rivolge in risposta, solo freddezza e distacco. Non si degna più di risponderti, perché parlare con un mon-keigh è una sciocca perdita di tempo per un'Asuryani.{/n}
+
+### u047053
+"Il mio Sentiero dell'Emarginato mi ha insegnato a non fidarmi di nessuno, mon-keigh. E tu hai rafforzato la mia convinzione che cercare un terreno comune con la tua specie fosse un esercizio di futilità."
+
+### u047054
+{n}Calcazar, che ha osservato in silenzio la scena che si svolgeva, prende un lento sorso dalla sua tazza.{/n} "Bene, dunque. Spero che un seguito ridotto non sia d'ostacolo all'adempimento del vostro dovere, {name}. Potete andare."
+
+### u047055
+"Molto saggio da parte vostra."
+
+### u047056
+"La Flotta Esploratrice Divine Cognisance 78-21 ha richiamato le sue unità più pronte al combattimento per riconquistare il mondo. Erano sostenute dalla mia più potente flotta d'assalto e da un gruppo di alleati... più letali. Ho inviato un branco di Space Wolves a dare la caccia ai trasgressori."
+
+### u047057
+{n}Heinrix annuisce in silenzio a Calcazar, che risponde chinando appena il capo.{/n}
+
+### u047058
+{n}Calcazar rivolge al vostro seguito un'occhiata distratta, finché il suo sguardo si posa su Marazhai.{/n} "Incendia ha permesso a uno xenos della specie più pericolosa di aggirarsi liberamente su Footfall. L'illustre Lady Chorda ha un rispetto francamente sorprendente per i privilegi concessi dal vostro Mandato."
+
+### u047059
+"Penso piuttosto che la mon-keigh tema ciò che potrebbe capitarle se provasse a sbarazzarsi di me." {n}Il Drukhari fissa Calcazar senza alcun ritegno e con nessuna deferenza. Forse non ha idea di chi abbia davanti.{/n}
+
+### u047060
+"State tranquillo, Sua Signoria dovrà affrontare le conseguenze delle proprie azioni."
+
+### u047061
+{n}In risposta alla domanda di Calcazar, gli occhi di Heinrix si assottigliano, ardendo di rabbia.{/n} "Emelina è morta. Per mano mia."
+
+### u047062
+"Davvero? Bene, spero di poter continuare a contare sul fatto che saprete riconoscere quando una risorsa utile è finalmente esaurita e va eliminata."
+
+### u047063
+{n}Marazhai inclina leggermente la testa di lato, studiando Calcazar con aria valutativa. Tuttavia il Drukhari non ha fretta di esprimere ad alta voce i propri pensieri.{/n}
+
+### u047064
+{n}Lo sguardo beffardo di Marazhai si posa su di te.{/n} "Una piega degli eventi del tutto imprevedibile... Non è vero, {name}?"
+
+### u047065
+{n}Yrliet sospira con voce roca. Parla appena sopra un sussurro:{/n} "E così la tua sete di vendetta ha portato una nuova era di sofferenza per i mon-keigh, elantach. Sei {mf|soddisfatto|soddisfatta}?"
+
+### u047066
+"Vi ricordo che le particolarità del lavoro dell'Inquisizione sono ben oltre la competenza di un Rogue Trader, ma, date le circostanze... Sì, le parole dell'Accolita Lichtenhart sono vere. Sono passati diversi anni da quando ho stabilito un contatto con i Drukhari. Mi informavano delle incursioni imminenti, e io le sventavo. Ho mantenuto la Distesa al sicuro mentre gli xenos erano assorbiti dalle loro beghe interne, che mi interessano ben poco."
+
+### u047067
+"Devo ricordarvi che sono ancora il Lord Inquisitore della Distesa di Koronus, non un semplice... come dite sempre, Froscher?... un 'villano che bada ai grox'. Se certi Rogue Trader a volte si permettono di parlarmi in modo fin troppo... ostinato, questo non deve darvi motivo di dubitare della mia autorità."
+
+### u047068
+"Notizie intriganti sul destino del mio Kabal. Più di quanto mi aspettassi."
+
+### u047069
+{n}Idira si fa piccola sotto lo sguardo di Calcazar e sembra tentare di sgattaiolare dietro di te, ma il Lord Inquisitore non si degna nemmeno di rivolgere una parola alla psyker.{/n}
+
+### u047070
+{n}Calcazar nota Argenta e inclina il capo con aria dignitosa.{/n} "Sorella."
+
+### u047071
+"Heinrix, devo dire che sono deluso dalla facilità con cui le informazioni sulla sicurezza della Distesa giungono alle orecchie di chi non dovrebbe conoscerle. Sarà annotato nel vostro registro. Volete placare le mie preoccupazioni e dirmi che Emelina non se ne va in giro a fare danni nel mio settore, continuando a seminare disordini?"
+
+### u047072
+"Mi rammarico di aver incontrato la vostra disapprovazione, Lord Inquisitore. Imparerò da questo errore. Emelina... non rappresenta più una minaccia. Me ne sono occupato io."
+
+### u047073
+"A rigor di termini, le mie azioni in questa situazione potrebbero essere considerate quantomeno poco ortodosse. In realtà, però, sono senza dubbio benefiche. L'Accolita Lichtenhart ha dimostrato la sua incapacità di superare i confini della convenzione, e se fosse stata al mio posto, la Distesa sarebbe con ogni probabilità già caduta sotto i colpi dell'attuale crisi. Per vostra fortuna, non lo è, e i Drukhari, logorati dalle loro lotte di potere e privati dei loro migliori predoni, non possono fare altro che fuggire davanti alle mie flotte."
+
+### u047074
+"Vostra Signoria, spero sia superfluo dire che apprezzerei se in futuro non diffondeste voci pericolose e fuorvianti, e se teneste riservato il contenuto di questa conversazione. Dato lo stato attuale delle cose, dovrei considerare simili azioni sovversive, perciò vi ringrazio in anticipo per il vostro premuroso silenzio."
+
+### u047075
+"Molto {mf|obbligato|obbligata}, Interrogatore. In futuro, cercate di evitare di coinvolgere terzi nelle questioni interne del nostro conclave."
+
+### u047076
+{n}Gli occhi della Sorella della Battaglia brillano mentre il Lord Inquisitore si rivolge a lei.{/n} "Che il vostro cammino sia benedetto! È gratificante vedere che le prove sopportate dalla Distesa non sono riuscite a spegnere la fiamma della vostra forza d'animo!"
+
+### u047077
+{n}Pasqal alza di scatto la testa, riconoscendo chiaramente il nome che Calcazar ha appena pronunciato.{/n}
+
+### u047078
+"Che la misericordia dell'Imperatore faccia in modo che non abbiate mai motivo di sperimentare l'ospitalità dell'Inquisizione. Froscher, occupatevi del nostro ospite." {n}La voce di Calcazar sembra donare al servitore una fenomenale capacità di spostarsi istantaneamente nello spazio: una tazza di recaf appare davanti a te prima che il suono della voce del Lord Inquisitore si spenga.{/n}
+
+### u047079
+{n}Abelard soffoca un grugnito di disappunto, borbottando in modo che solo tu possa sentirlo:{/n} "'Riconquisterete Eufrates II per me'... L'illustre Lord Inquisitore ha ormai messo da parte ogni finzione e ogni cortesia. I suoi ordini non hanno più nemmeno la parvenza di una richiesta..."
+
+### u047080
+{n}Abelard alza la mano con ritardo, come se cercasse di fermarti.{/n}
+
+### u047081
+{n}Una risatina velenosa sfugge dalle labbra di Marazhai. Sta guardando alternativamente te e Calcazar con grande interesse.{/n}
+
+### u047082
+"Registrazione di una missione prioritaria Sanctity Alpha. Il flagello di miscredenti corrotti che dominano officine benedette riempie di angoscia i fedeli dell'Omnissiah. Attivazione del protocollo di autoascesi: elevo una preghiera per la liberazione del mondo sacro." {n}Da sotto la veste cremisi di Pasqal giunge il suono di meccanismi che si mettono in moto, e scure macchie di sangue striano il tessuto.{/n}
+
+### u047083
+"Lady Navigatrice Cassia Tisiphia Evriaella." {n}Le labbra del Lord Inquisitore si piegano in un sottile sorriso mentre scorge un lampo di occhi scarlatti.{/n} "Mi dicono che la Casata Orsellio stia attraversando un momento difficile: il cambiamento è alle porte. Spero sinceramente che sia in meglio."
+
+### u047084
+"I vostri colori, Lord Inquisitore, sono tanto ricchi quanto sfaccettati. Non ho mai incontrato nulla di simile prima d'ora: tinte limpide che scorrono l'una nell'altra... Un'armonia straordinaria. Straordinaria e... spaventosa." {n}Cassia solleva il mento e annuisce con modestia.{/n} "Che un uomo di tale rango e talento si sia interessato al benessere di una Casata della Navis Nobilite è un grande onore."
+
+### u047085
+{n}Jae si tocca l'Aquila sul petto e china il capo in un inchino inutilmente profondo.{/n} "O Lord Inquisitore, lancia fulminante dell'Imperium, con l'oro della fede che fende le nebulose della Distesa di Koro—"
+
+### u047086
+{n}Calcazar alza una mano in segno di avvertimento.{/n} "Se fossi in voi, Signora Heydari, mi sforzerei di non attirare l'attenzione dell'Inquisizione sulla mia persona."
+
+### u047087
+"Un Mercatum Tabula Officiale può fare molte cose. Riattaccare una testa a un corpo non è una di quelle."
+
+### u047088
+{n}Froscher annuisce con deferenza, e sul suo volto anziano e flaccido compare un'espressione sospesa tra lealtà eterna, affetto materno e devozione religiosa.{/n}
+
+### u047089
+"Cosa fa credere a Calcazar di potermi convocare come un lacchè?"
+
+### u047090
+"Farò visita al Lord Inquisitore appena possibile."
+
+### u047091
+"Calcazar dovrà aspettare. Ho questioni urgenti di cui occuparmi."
+
+### u047092
+{n}L'uomo anziano davanti a te si muove con la silenziosità di un servitore esperto. S'inchina con compostezza e dice, con voce rauca,{/n} "Il Lord Inquisitore mi ha incaricato di informarvi che sarà un piacere per lui ricevere Vostra Signoria al suo palazzo. Ci sono questioni della massima urgenza di cui desidera discutere, e spera che troviate il tempo di incontrarlo nel prossimo futuro."
+
+### u047093
+"Mi chiamo Froscher, Vostra Signoria. Ho l'onore di essere il maggiordomo del Lord Inquisitore." {n}L'uomo è disarmato e non porta alcuna insegna dell'Inquisizione, ma la rigidità militare della sua postura eretta suggerisce che sia un servitore che fa anche da guardia del corpo.{/n}
+
+### u047094
+"Riferirò la buona notizia al Lord Inquisitore." {n}L'uomo s'inchina di nuovo con rispetto.{/n}
+
+### u047095
+{n}Il volto del servitore si contrae un poco, ma la sua voce resta perfettamente piatta e cortese.{/n} "Riferirò la vostra risposta al Lord Inquisitore. Non oso rubare altro tempo a Vostra Signoria."
+
+### u047096
+"La tua gestione di Footfall è stata troppo dura, Incendia. Condividi la colpa della loro ribellione."
+
+### u047097
+"Ti ha tradito, quindi dovresti essere tu a giudicarlo."
+
+### u047098
+"Vladaym, hai qualcosa da dire in tua difesa?"
+
+### u047099
+"Suggerirei una dimostrazione di clemenza. Abbiamo mostrato la nostra forza. Non oseranno ribellarsi di nuovo."
+
+### u047100
+"Li giudicherò io {mf|stesso|stessa}."
+
+### u047101
+"Giustiziate questa feccia."
+
+### u047102
+"Molto interessante. Spero che siate creativa nelle punizioni, Incendia!"
+
+### u047103
+"Condanniamo Vladaym."
+
+### u047104
+Hai difeso il Reverendo Hieronymus al processo di Incendia.
+
+### u047105
+"Stava cercando di impedire che un nuovo Aspyce venisse al mondo."
+
+### u047106
+"Ho un eccellente uomo empio da proporvi. Il suo nome è Hieronymus Doloroso."
+
+### u047107
+[Indica Ryzza] "Deve affrontare il tribunale."
+
+### u047108
+[Uccidi Vladaym] "Non disturbarti a ringraziarmi. Mi prenderò semplicemente ciò che è mio."
+
+### u047109
+"Hieronymus ti ha mentito. È stato lui a condannarti ad anni di torture in una cripta criogenica. Ha fatto di te il suo fedele boia personale."
+
+### u047110
+"Siamo in guerra. Non abbiamo il diritto di sprecare combattenti."
+
+### u047111
+"Non c'è una sola ragione. Merita di morire."
+
+### u047112
+"Ha sabotato la tua cripta criogenica, condannandoti a soffrire, e ha sterminato i tuoi parenti."
+
+### u047113
+"Lascia perdere. Era solo uno scherzo... E nemmeno bello."
+
+### u047114
+[Sorridi con acidità] "Sbarazziamoci di lui come lui si sbarazzava della gente: facciamogli fare un bel giro."
+
+### u047115
+"Hieronymus, dicci perché l'hai tradita."
+
+### u047116
+"Capisci ora di essere stata manipolata? Riempita di odio e lanciata contro la gente?"
+
+### u047117
+"Dichiara i tuoi crimini."
+
+### u047118
+"Che cos'hai da dire in tua difesa?"
+
+### u047119
+"Il verdetto sarà clemente. Incendia Chorda, ti bandisco da Footfall. Vattene."
+
+### u047120
+"Sii giudice di te stessa."
+
+### u047121
+"Hieronymus può averti tradito, ma era spinto dalla fede."
+
+### u047122
+"Dunque, hai intenzione di impiccarlo come traditore, Incendia?"
+
+### u047123
+Hai giustiziato il Reverendo Hieronymus al processo di Incendia.
+
+### u047124
+[Uccidi Hieronymus] "Come favore a te, sorella Incendia, me ne occuperò io {mf|stesso|stessa}."
+
+### u047125
+Hai preteso che al Reverendo Hieronymus venisse assegnata una penitenza al processo di Incendia.
+
+### u047126
+"Hieronymus merita una penitenza severa, ma non un'esecuzione. Dategli una punizione diversa."
+
+### u047127
+"Ripulite questa stazione dai miscredenti di Chorda."
+
+### u047128
+"Non voglio che gli sgherri di Chorda subiscano rappresaglie. Lasciateli andare."
+
+### u047129
+"Ti rendi conto che il modo in cui Footfall viene governata deve cambiare?"
+
+### u047130
+"Probabilmente non ci crederai, Incendia, ma niente di tutto questo è ciò che pensi. Io—"
+
+### u047131
+"Su questo, possiamo concludere il processo."
+
+### u047132
+Hai accusato Incendia di ipocrisia e preteso che il Reverendo Hieronymus fosse portato davanti alla giustizia.
+
+### u047133
+"Emetti condanne a morte, ma perdoni il tuo confessore assassino? Una simile doppiezza è tipica del modus operandi del tuo predecessore."
+
+### u047134
+[Attacca] "Che sopravviva chi ha ragione."
+
+### u047135
+Hai esortato Incendia a pentirsi dei suoi crimini.
+
+### u047136
+"Pentiti, Incendia. Ti sei allontanata dalla via della rettitudine e sei diventata un mostro!"
+
+### u047137
+"Non mi lasci altra scelta, Incendia."
+
+### u047138
+"Ho visto la tua sete di sangue. Ti diletti a emettere sentenze e a eseguirle. Hai intenzione di negarlo? Sto mentendo?"
+
+### u047139
+"I tuoi verdetti non hanno alcuna relazione con la giustizia codificata dell'Imperium. La tua giustizia è arbitraria e stai creando una legge tutta tua — in sostanza... un Imperium tutto tuo! Questa è eresia!"
+
+### u047140
+"Mi arrendo. È un esercizio di futilità."
+
+### u047141
+"Sapevi che era un'eretica fin dall'inizio?"
+
+### u047142
+"Forse è stata la tua crudeltà a spingerla tra le braccia dell'Arcinemico."
+
+### u047143
+"È stata un'esecuzione giusta."
+
+### u047144
+[Fingi rabbia giusta] "Il veleno della corruzione, di cui Hieronymus è stato il tramite, è entrato anche nei cuori dei suoi seguaci! Sono tutti complici del suo crimine, e perciò devono condividerne la punizione."
+
+### u047145
+Hai preteso che tutti i Drusiani di Footfall fossero puniti per i crimini del Reverendo Hieronymus.
+
+### u047146
+[Rivolgiti a Incendia] "Cos'era quello?"
+### u047147
+Hai suggerito a Incendia di trasformare Vladaym Tocara in uno spazzino di ponte.
+
+### u047148
+"Può ancora espiare i suoi crimini. Consegnamelo. Che purifichi la sua anima spazzando i ponti della mia nave."
+
+### u047149
+Hai proposto che Vladaym Tocara fosse servitorizzato al processo di Incendia.
+
+### u047150
+"La morte è la Pace dell'Imperatore, e va guadagnata. Lascia che ne faccia un servitore sulla mia nave. Gli insegnerà l'obbedienza."
+
+### u047151
+"Una lezione di umiltà. Il suo potere è in rovina e la sua ribellione non è mai decollata. Vladaym non esiste più: resta solo un servitore dell'Imperatore che ha smarrito la strada. La servitù lo riporterà sulla retta via."
+
+### u047152
+"Hai ragione. Merita una punizione più severa."
+
+### u047153
+Hai accusato di eresia la pirata Ryzza al processo di Incendia.
+
+### u047154
+[Indica Ryzza] "È colpevole. La sua anima è piena di corruzione. Permettimi di eseguire personalmente la sua condanna."
+
+### u047155
+"Ultime parole, eretica?"
+
+### u047156
+[Alza l'arma in silenzio]
+
+### u047157
+"Hai ragione. Non mi vedrai mai più."
+
+### u047158
+"Ryzza, schierandoti con l'Arcinemico, hai tradito l'Imperatore stesso. Per questo sei condannata a morte. Muori, eretica!"
+
+### u047159
+[Uccidi la serva dell'Arcinemico]
+
+### u047160
+Hai proposto che Vladaym Tocara fosse torturato a morte e che le sue urla venissero trasmesse sul sistema vox di Footfall.
+
+### u047161
+"La gente deve sapere cosa accade ai traditori. Torturatelo a morte e trasmettete le sue urla in diretta sulla vox-stazione di Footfall. Metterò a vostra disposizione i miei migliori boia per l'occasione."
+
+### u047162
+Hai dichiarato Footfall dimora di fede e pietà.
+
+### u047163
+"I metodi di Chorda erano crudeli, ma il suo scopo era giusto. D'ora in poi Footfall sarà un baluardo di fede e pietà. Il rispetto delle leggi dell'Imperium sarà controllato più da vicino."
+
+### u047164
+Hai ordinato di organizzare dei ricoveri per i bisognosi di Footfall.
+
+### u047165
+"Footfall è esausta e ferita dalla crudeltà di Chorda. Farò allestire dei ricoveri dove chi è nel bisogno e nel dolore possa trovare un tetto, sostentamento e assistenza medica."
+
+### u047166
+Hai annunciato l'inizio di un'era di illegalità e impunità su Footfall.
+
+### u047167
+"All'abisso il Credo Imperiale. Non ha posto su Footfall. D'ora in poi la libertà assoluta sarà l'unica legge di questo luogo. Chi non è d'accordo può dirigersi al portello stagno più vicino e farsi una passeggiata nel vuoto."
+
+### u047168
+"Lascia che le cose tornino gradualmente com'erano. Non interferirò negli affari della stazione."
+
+### u047169
+Hai raccolto di nascosto il sangue della pirata Ryzza al processo di Incendia.
+
+### u047170
+[Asciuga con discrezione il sangue di Ryzza con un fazzoletto per usarlo in un rituale oscuro]
+
+### u047171
+"Che tentativo patetico. Si è meritata quello che le è successo."
+
+### u047172
+"Aspetta, il suo pentimento non le vale una pena più lieve?"
+
+### u047173
+[Giustizia] "Incendia Chorda, dopo aver soppesato i tuoi crimini, io, {name} von Valancius, ti condanno a morte."
+
+### u047174
+"La tua sentenza è giusta."
+
+### u047175
+"Hieronymus, forse puoi farla ragionare?"
+
+### u047176
+"Datali in pasto alla folla."
+
+### u047177
+"Il corpo di Lady Incendia dev'essere trasportato nel dominio della Casata Chorda. Intatto."
+
+### u047178
+"Non mi importa. Fatene ciò che volete."
+
+### u047179
+Hai proposto che Vladaym Tocara fosse impiccato al processo di Incendia.
+
+### u047180
+"La legge stabilisce che questi sono reati da forca."
+
+### u047181
+Hai concesso a Vladaym Tocara una morte facile al processo di Incendia.
+
+### u047182
+[Uccidi Vladaym] "Lo farò io {mf|stesso|stessa}."
+
+### u047183
+"Cosa hai intenzione di fare ora?"
+
+### u047184
+Hai proposto che Vladaym Tocara fosse assegnato a un'unità penale al processo di Incendia.
+
+### u047185
+"Che lui e la sua gente espiino versando sangue in nome dell'Imperatore."
+
+### u047186
+"Ora è il momento di deporre le armi e sedersi al tavolo delle trattative."
+
+### u047187
+{n}Incendia lancia un'occhiata di condanna a Vladaym, che si dimena in una pozza del proprio sangue. Dice con severità,{/n} "Footfall sarà sollevata di sapere che la legge è stata finalmente ripristinata in ogni settore della stazione."
+
+### u047188
+"Footfall... sarà felice di sapere... che sei morta... maledetta rossa..."
+
+### u047189
+"Non sono d'accordo. Qui vedo un'altra cospiratrice pericolosa." {n}Il dito di Incendia punta Ryzza.{/n}
+
+### u047190
+"Riprenderò il controllo della stazione. Libererò i prigionieri e restituirò ai mercanti i carichi sequestrati. Sostituirò i tipacci messi al comando da Sua Signoria con i miei tipacci. Mi occuperò dei settori della stazione che stanno morendo lentamente nell'isolamento. E, naturalmente, manderò un emissario dal Lord Inquisitore per portargli la notizia e informarlo della mia disponibilità a collaborare."
+
+### u047191
+{n}Incendia sussurra piano e con passione,{/n} "Non menti. Mi hai fatta tu come sono. Ed ero già corrotta e malvagia prima."
+
+### u047192
+"Footfall è sempre stata sporca, come la soglia di un tempio è sporca di tutte le scarpe che vi sono state strofinate. Ma è sempre stata, e resterà, la soglia della Distesa. Qui è cominciata la nostra conquista di questi sistemi. Se non ti piace com'è... be', allora sei troppo {mf|schizzinoso|schizzinosa} e non hai idea di come appaia una frontiera di qualsiasi epoca. Non che mi importi giustificarmi con una pazza. Tutti sanno che è ossessionata dal giudicare la gente."
+
+### u047193
+"E se è così, affronteranno tutti lo stesso processo degli altri. Non massacrerò indiscriminatamente i servitori della fede per le azioni del loro predicatore che si è allontanato dalla retta via."
+
+### u047194
+"Vladaym Tocara, sarai impiccato per i tuoi crimini. Che la vista del tuo cadavere freddo sia la prova che il Commercio Freddo non ha più posto su Footfall."
+
+### u047195
+"Fuori discussione. Non lascerò che sfuggano di nuovo alla morsa della legge."
+
+### u047196
+"Avete contribuito al ripristino dell'ordine su Footfall, {name}. Perciò presiederemo il processo insieme."
+
+### u047197
+"Con chi cominciamo, {name}?"
+
+### u047198
+{n}Chorda scruta il bar e chiede con voce spietata,{/n} "Chi sarà il prossimo a essere processato?"
+
+### u047199
+{n}Vincendo il desiderio di sputare sul cadavere di Incendia, evidente sul suo volto, Vladaym torna davanti ai tuoi occhi da teppista a freddo burocrate. Dice seccamente a uno dei suoi soci,{/n} "Mettete il corpo di Sua Signoria in una cripta criogenica e portatelo alla sua nave. Assicuratevi che non subisca danni, nessun altro danno, intendo. Eravamo nemici, certo, ma non è una ragione per non comportarsi in modo civile."
+
+### u047200
+"E per questo dovremmo perdonarti le tue offese passate? Popolana Ryzza, sei accusata di pirateria, di aver aiutato e favorito dei ribelli, e di eresia blasfema e di adorazione dei Poteri Rovinosi. Brucia in eterno, miserabile empia."
+
+### u047201
+"Vladaym Tocara, ti accuso davanti allo sguardo severo dell'Imperatore di disprezzo per il Credo che Egli ci ha donato, di aver dato rifugio a eretici fuorilegge, di crimini contro i Suoi fedeli servitori e di ribellione armata contro la Sua volontà!"
+
+### u047202
+"Sì, è quello che dicono di me. E quello che dicono di te è che sei una maniaca che sniffa obscura e uccide la gente per sport."
+
+### u047203
+"Io?" {n}Ryzza scopre i denti, afferra l'arma e fissa gli sgherri come una belva braccata.{/n} "Ma io non ho mai combattuto contro di voi! Non ho mai appoggiato Vladaym!"
+
+### u047204
+"Cosa?" {n}Le grida di stupore di Hieronymus e Incendia si fondono.{/n}
+
+### u047205
+"Hai ragione. Vladaym Tocara, sei dichiarato colpevole. La corte ti condanna a una vita di penitenza. Tu e i tuoi soci sarete arruolati in una squadra d'abbordaggio penale che opera dalla mia nave ammiraglia. Come parte di quella squadra, combatterete i nemici dell'Umanità per il resto della vostra vita."
+
+### u047206
+{n}Cala il silenzio. Incendia e Hieronymus ti fissano, sbigottiti. L'espressione di lei è confusa, quella di lui nasconde una paura segreta. La palpebra di Incendia ha un tremito nervoso.{/n}
+
+### u047207
+"Un'idea eccellente. Vladaym Tocara, per i tuoi crimini sarai espulso attraverso una camera del vuoto. Portate via questa feccia e smaltitela come si deve con i rifiuti."
+
+### u047208
+"Non menti. Io... ci provo gusto."
+
+### u047209
+"Per un Rogue Trader, il crimine supremo è... rifiutare la protezione dell'Imperatore e rendere assoluto il proprio dominio, diventando uno sfacciato rivale di Dio e un blasfemo eresiarca tirannico."
+
+### u047210
+"Sciocchezze da traditori! L'Imperatore non ha mai condannato un Suo servitore per l'assiduità e il rigore! Io non faccio una legge mia: rendo assoluta la Sua legge!"
+
+### u047211
+"Non vi offenderò dicendo una menzogna, Incendia. È stato per mio ordine che la vostra cripta criogenica è stata manomessa e che gli altri aspiranti eredi di Aspyce sono stati uccisi. Ammetto il mio crimine."
+
+### u047212
+{n}Incendia china la testa, e le ombre nella stanza sembrano farsi più scure. Il bagliore svanisce dai suoi occhi.{/n} "Basta. Io... mi pento. Anelavo a servire l'Imperatore, ma vendicarmi dei Suoi nemici era così delizioso che ho abbandonato il mio dovere per la mia gratificazione. Ho fatto di Footfall la mia casa dei piaceri. Sono stata una giudice severa non perché fosse ciò che Egli voleva, ma perché era ciò che volevo io. Ho giustiziato coloro che la Sua legge vietava di giustiziare. Porsi al di sopra dell'Imperatore è l'atto più terribile che un Rogue Trader possa commettere. Sono caduta nell'eresia... e devo essere condannata."
+
+### u047213
+"Giudicami, {name}. Io, che mi sono smarrita, mi affido alla Sua misericordia e alla Sua severità."
+
+### u047214
+"E sia. La corte dichiara Incendia Chorda... colpevole." {n}Con un movimento aggraziato, la Rogue Trader estrae una pistola ornata dalla fondina, se la porta alla tempia e chiude gli occhi.{/n} "Abbi pietà di me, Imperatore, Protettore dell'Umanità, Padrone della Sacra Terra."
+
+### u047215
+"La Casata Chorda si era macchiata, e non solo per le gesta della pirata Aspyce. Anche voi tutti, suoi eredi, eravate corrotti: il seme cattivo germogliato nella sua cupa ombra. Eravate avidi ed egoisti. Avevate dimenticato le leggi e i comandamenti dell'Imperatore... Dopo la scomparsa di Aspyce, uno di voi avrebbe preso il suo posto, ma non sareste stati migliori di lei. E così ho sarchiato il campo."
+
+### u047216
+"Non merito alcuna clemenza. Ma accetto la mia punizione e andrò in esilio a scontare la mia penitenza. Addio, {name}."
+
+### u047217
+"Io... Io sognavo soltanto di essere una servitrice degna dell'Imperatore: di compiere la Sua volontà, di punire i Suoi nemici, di trasformare questo sistema corrotto e decrepito in un luogo degno della Sua luce che non sminuisca la Sua grandezza."
+
+### u047218
+"L'arroganza è nata nel mio cuore e ha calpestato il mio senso del dovere. Ho dimenticato i comandamenti dell'Imperatore, severi quanto misericordiosi, e sono diventata una portatrice di morte e nient'altro. Non servivo l'Imperium dell'Umanità. Stavo costruendo una patetica parodia della Sua creazione."
+
+### u047219
+"No!" {n}Hieronymus grida di dolore e scruta la stanza con occhi feroci.{/n} "Incendia non sarà stata lo strumento più santo e puro dell'Imperatore, ma chi resterà qui quando se ne sarà andata? Lui? Lei?" {n}Hieronymus punta il dito contro Vladaym, poi contro Ryzza, e infine contro di te.{/n} "Voi? Proteggerete voi la legge e la fede?"
+
+### u047220
+"Eppure è stato commesso un tradimento. Come pure gli assassinii dei miei parenti e un attentato alla mia stessa vita. È un assassino, e un assassino deve affrontare il processo."
+
+### u047221
+"Ha commesso un crimine... anche se non vedo il marchio del giudizio sulla sua fronte. Non era eresia, ma qualcosa di diverso..."
+
+### u047222
+{n}Hieronymus crolla sul ponte, soffocando nel proprio sangue, con gli occhi spalancati. All'improvviso grida con voce tonante,{/n} "Sventura! La sventura sta arrivando... Un bagliore funebre che oscura il cielo... Una folla rapace di nemici alla porta... Traditori simili alla ruggine, che divorano le paratie di questa casa... Tradimento e corruzione ovunque... Persino i custodi della purezza sono essi stessi contaminati... Nessuno... è incontaminato..." {n}Il sangue riempie la gola del predicatore, che ammutolisce.{/n}
+
+### u047223
+"Hieronymus Doloroso, sei colpevole di aver causato morte e sofferenza, e sei colpevole di aver assassinato membri della Casata Chorda. Eppure non vedo corruzione nella tua anima, e perciò non ho il diritto di giudicarti. Sarai giudicato dall'Imperatore. Ti assegno un atto di fede da compiere. I sistemi di sostegno dell'atrio centrale sono stati danneggiati in un recente attacco terroristico dei seguaci di Tocara."
+
+### u047224
+{n}Vladaym accoglie la morte con un sorriso beffardo, senza mai distogliere lo sguardo da Incendia, che serra le labbra con irritazione.{/n}
+
+### u047225
+"Dammi una ragione per cui dovrei mostrare clemenza a questo miserabile traditore."
+
+### u047226
+"Giustizia è fatta. Sgherri, arrestate tutti i ribelli minori. Affronteranno il processo a tempo debito." {n}La voce di Incendia è maestosa e imperiosa, e fa chinare il capo a tutti in segno di obbedienza.{/n} "Grazie per il vostro aiuto nella purificazione di Footfall, {name}. L'Imperatore protegge."
+
+### u047227
+"Hieronymus Doloroso... la Casata Chorda ti perdona i tuoi crimini. Eri uno strumento dell'Imperatore destinato a punire la nostra casata. Perciò va'... e che la tua coscienza sia il tuo giudice."
+
+### u047228
+"Uno scopo nobile non è una scusa. Non può esserci alcuna scusa! Niente giustifica il fare pace con la corruzione!"
+
+### u047229
+"Non sono un macellaio. Gli sgherri di Sua Signoria possono lasciare la stazione... Tranne quelli personalmente complici dell'uccisione di amici e cari dei miei dipendenti. Ho una responsabilità verso di loro."
+
+### u047230
+"È stata una punizione troppo clemente. Non servirà da lezione agli altri. La vostra impulsività mi delude, {name}."
+
+### u047231
+"Non sono Aspyce!" {n}Un crampo incontrollabile contorce il volto di Incendia.{/n} "La legge è uguale per tutti! Chiunque può essere processato, e nessuno di noi è immune! Hieronymus Doloroso, sei condannato a morte!"
+
+### u047232
+"Vedo come cercate di controllarmi invocando il suo spettro empio. Smettetela, o vi accuserò di tentata ingerenza nella Sua giustizia!"
+
+### u047233
+"Fedeli dell'Imperatore! La nostra protettrice è stata presa in una rete di cospirazione! Le hanno mentito! Perciò vendichiamola e portiamo avanti la sua causa! Quando avrai messo piede nel nido della corruzione, distruggi chi vi dimora! Colpiscili e tormentali come Suo strumento d'ira che non conosce paura! Vendica il Suo dolore e rifuggi la pietà in nome del tuo amore per Lui! In battaglia, per Incendia Chorda e per l'Imperatore!"
+
+### u047234
+"Capisco. Un tempo di guerra richiede che le libertà pubbliche di Footfall siano temporaneamente limitate. Questa stazione non vi darà alcun problema e fornirà tutto l'aiuto necessario. Lo comunicherò a quei... miei soci che hanno avuto la fortuna di sopravvivere al governo di Lady Chorda."
+
+### u047235
+"Congratulazioni, Vostra Signoria. Avete un rivale in meno nella Distesa."
+
+### u047236
+"Cosa? Maledi—" {n}La testa di Vladaym esplode, spruzzando sangue ovunque. Liege, boss criminale, ribelle armato: tutto ciò che era, ora ridotto a un cadavere che cade al suolo con un tonfo. Gli occhiali gli volano via dal naso e restano lì, crepati, a luccicare senza vita.{/n}
+
+### u047237
+"In tal caso, non vedo il senso di discutere. Quale debba essere la sentenza del furfante è ovvio."
+
+### u047238
+"L'idiota non ha mai capito chi fosse il nuovo padrone della stazione. Bene, dunque, congratulazioni per la vostra nuova acquisizione, Vostra Signoria."
+
+### u047239
+"Non tratto con gli eretici. Né con i morti."
+
+### u047240
+"Hai avuto una scelta: restare leale all'Imperatore o unirti ai ranghi degli eretici. L'hai fatta."
+
+### u047241
+"I nostri missionari hanno scoperto per caso il nascondiglio in cui Aspyce teneva prigionieri i suoi parenti. E ho scelto te, Incendia, come restauratrice dell'onore della Casata Chorda. Ti ho causato agonia. Ti ho condotta lungo un sentiero di sofferenza. Ti ho scorticato la pelle di vanità e autocompiacimento. Ti ho fatto credere in Lui e riporre in Lui le tue speranze. Ti ho fatta ciò che sei ora."
+
+### u047242
+"Sei una traditrice, proprio come Theodora! La tua dinastia ha bisogno da tempo di una lezione di obbedienza."
+
+### u047243
+"Ragazzi, buttate fuori questo pazzo dal mio bar."
+
+### u047244
+"Accetto il vostro giudizio e ringrazio l'Imperatore per questa occasione di servirLo ancora un po'."
+
+### u047245
+{n}Incendia solleva un sopracciglio e chiede con voce preoccupata,{/n} "L'orrore vi ha fatto perdere la ragione, {name}?"
+
+### u047246
+"Come l'intera tua spregevole ribellione. Bene che tu l'abbia finalmente capito."
+
+### u047247
+"Cosa? Hieronymus... vedo che nascondi qualcosa. Pentiti, Reverendo."
+
+### u047248
+"Menzogne! Non provo alcun piacere nell'abbassarmi alle cose spregevoli e ripugnanti che fanno gli eretici! Le detesto!"
+
+### u047249
+{n}Incendia si irrigidisce e non cerca di fermarti. Si limita a fissarti in silenzio.{/n}
+
+### u047250
+"Imperatore, abbi pietà di me! Avevo dei dubbi, ma ora vedo che erano infondati. Fra tutti i difensori della Distesa, solo lei era degna di essere il Suo scudo. Il suo pentimento ne è un'ulteriore prova. Sono stato uno sciocco a non credere in lei. È così che finisce la purificazione di Footfall?"
+
+### u047251
+"Ho letto dentro di lei. Ogni suo crimine. Ogni suo pensiero contaminato. Ho percepito il seme della corruzione che portava sul petto: un voto empio e il pegno delle promesse fattele dai servitori dell'Arcinemico. Sì, lo sapevo... L'ho sentito nell'istante in cui ho posato lo sguardo su quella vecchia miserabile e corrotta."
+
+### u047252
+"Allora avrebbe dovuto supplicare, non ribellarsi! Avrebbe dovuto venire da me, inginocchiarsi davanti a me e implorare clemenza! Allora la misericordia era possibile, ora no! Ribellarsi all'autorità significa ribellarsi a Lui!"
+
+### u047253
+"No. Questo tradimento non cambia nulla. Dimostra soltanto che nessuno è puro, nemmeno il Reverendo Hieronymus. Questo rende la mia missione di bandire l'impurità ancora più importante per il trionfo di ciò che Gli è gradito. Mi occuperò io stessa del reverendo, una volta estirpata la tua corruzione."
+
+### u047254
+"Credi di potermi giudicare?" {n}Ryzza estrae un amuleto con la testa zannuta di una bestia coronata di corna. Ghigna in modo sinistro.{/n} "Non avresti dovuto. Ho un asso nella manica, nel caso il peggio fosse arrivato al peggio. Io, Ryzza, rifiuto la tua maledetta giustizia e il tuo maledetto Imperatore! Accetto l'accordo che mi è stato offerto e mi consegno all'Edge of Daybreak! Muori, mostro dai capelli rossi!" {n}La testa zannuta apre la bocca, ruggisce e sputa una freccia infuocata contro Incendia.{/n}
+
+### u047255
+{n}Qualcosa cambia sul volto di Incendia, rivelando vergogna e nuda vulnerabilità. Hai già visto quell'espressione tormentata sul suo viso una sola volta, alla menzione della sua spregevole predecessora, Aspyce Chorda. Incendia si fa piccola e si irrigidisce, come se sapesse che puoi percepire la sua debolezza.{/n}
+
+### u047256
+"Sono la debolezza, il libero pensiero e la malvagità interiore a creare gli eretici, non io. Io li distruggo."
+### u047257
+"L'Imperatore mi ha indicato la malvagità, e io l'ho distrutta."
+
+### u047258
+{n}Vladaym sorride amaramente e dice con voce strascicata,{/n} "Dunque... darete un'arma anche a me? Fantastico. Accetto umilmente la mia sentenza."
+
+### u047259
+{n}Vladaym guarda te e nessun altro.{/n} "Se hai intenzione di condannarmi, fallo in fretta. Non consegnarmi a quella vecchia delirante." {n}Uno sputo ben mirato atterra ai piedi di Incendia.{/n}
+
+### u047260
+"Ho fatto di te il Suo guerriero. Tutti gli uomini sono ingiusti. Solo le belve selvagge, le stelle fiammeggianti e gli elementi sono senza colpa... E io ho fatto di te la bestia dell'Imperatore. La stella fiammeggiante della Sua ira. La giustizia elementare del Protettore dell'Umanità. Ho spento in te ogni passione tranne quella di difendere la Sua legge. Ti ho elevata al di sopra delle debolezze, della morale e della pietà dell'umanità. Sei un mostro incatenato al Trono d'Oro che ne mette in atto la volontà. La punizione perfetta."
+
+### u047261
+{n}Vladaym osserva la carneficina e dice, con tono asciutto e cupo,{/n} "Che pasticcio. Vi ringrazio per avermi aiutato a risolverlo, Vostra Signoria. Il vostro aiuto è stato inestimabile, ma la Missione Kasballica cercherà comunque di approssimarne e eguagliarne il valore nei termini più generosi."
+
+### u047262
+"Abbi pietà di me, Imperatore, Protettore dell'Umanità, Padrone di Terra."
+
+### u047263
+"Il diritto di morire per l'Imperatore è un privilegio, non una punizione. Questo miserabile non ne è degno."
+
+### u047264
+"Sì. Un assassino deve affrontare il processo."
+
+### u047265
+{n}Le mani di Incendia si congiungono rapide nel segno dell'Aquila, che accoglie il colpo come uno scudo. Una fiamma tremolante le corre lungo le dita pallide, senza lasciare ustioni. Lei sfodera l'arma e un raggio luminoso acceca tutti. Cento volte più potente di quanto qualsiasi pistola inferno possa produrre, il colpo atomizza Ryzza prima che abbia il tempo di pronunciare la sua ultima maledizione.{/n}
+
+### u047266
+"Mi piace l'idea di negoziare. Appena un erede succederà formalmente a Lady Chorda, manderò subito un emissario di tregua."
+
+### u047267
+"Io... sono la Punizione."
+
+### u047268
+"Incendia, figlia mia, {d|Encyclopedia:Ch4_Footfall_HieronimusAlly}non so che dire{/d}. Persegui uno scopo nobile, eppure dove sei passata germogliano semi d'orrore. Dove hai giustiziato un eretico, la paura che susciti ne crea altri tre. La giustizia dell'Imperatore deve riempire i cuori di fervore e reverenza, ma tu semini solo dolore e miseria. I piani dei nemici dell'Umanità attecchiscono facilmente in un simile terreno."
+
+### u047269
+"Allora anche tu sei caduto preda del loro inganno e della loro astuzia, Reverendo. Non eri tu a predicare che la clemenza genera connivenza con la corruzione? Ebbene... Come eri solito dire, nessuno è incontaminato. Compreso te."
+
+### u047270
+{n}Hieronymus ti fa un cenno furtivo del capo e congiunge le mani nel segno dell'Aquila.{/n}
+
+### u047271
+{n}Nello sguardo furioso di Chorda infuria la fiamma mentre scruta il bar. La sua figura sembra emanare un'aura spietata e crudele, come il sole rovente di un mondo desertico.{/n} "Ribelli ed eretici! Io, Rogue Trader Incendia Chorda, Padrona di Footfall e Difenditrice della Giustizia, vi ordino di deporre le armi! Una giustizia severa attende chi si arrende. Una morte ignobile attende tutti gli altri!"
+
+### u047272
+"Al momento è un inferno di veleno bollente. Vi andrete come parte di un equipaggio penale e riparerete i danni. Niente respiratore, niente tuta per il vuoto. Se l'Imperatore sarà misericordioso con voi, sopravviverete."
+
+### u047273
+"Vedo eresia! Chi medita un colpo contro la legge dell'Imperatore? Chi osa alzare la mano contro il Suo amministratore? Voi fedeli! Combattiamo e {d|Encyclopedia:Ch4_Footfall_HieronimusNotAlly}moriamo per la pia Incendia, scacciatrice della corruzione{/d}, per non lasciare che si compia la blasfemia!"
+
+### u047274
+{n}Incendia stringe i pugni e affonda i denti nel labbro inferiore. È tormentata dal dubbio. Alla fine dice, cupa,{/n} "Una sola goccia di veleno basta a inquinare un intero lago. E i suoi fratelli e le sue sorelle hanno bevuto copiosamente da quel lago. La missione di San Drusus su Footfall sarà decimata, e ai sopravvissuti saranno imposte severe penitenze. Che espiino i crimini del loro culto con la sofferenza. Quanto a Hieronymus... è colpevole."
+
+### u047275
+{n}Vladaym fa una smorfia.{/n} "Lo ammetto, è perfido. Che ogni mio urlo sia una maledizione sui vostri nomi."
+
+### u047276
+{n}Gli occhi di Incendia si accendono di un'eccitazione maligna.{/n} "E sia. Vladaym Tocara, per i tuoi crimini sarai sottoposto a un'esecuzione agonizzante. Che le tue urla di morte riecheggino per sempre tra le pareti di questa stazione come lezione per tutti coloro che sono inclini alla corruzione e alla disobbedienza."
+
+### u047277
+"C'è del vero nelle vostre parole, {name}. Il bene nasce dalla servitù. Vladaym Tocara, per i tuoi crimini subirai la Servitude Imperpituis e passerai in proprietà della Casata von Valancius."
+
+### u047278
+{n}Incendia solleva un sopracciglio con sorpresa.{/n} "Quella sentenza è troppo clemente, {name}. Cosa guadagnerete facendone il vostro servitore? Quale lezione si trarrà da quella dimostrazione di pietà?"
+
+### u047279
+{n}Vladaym ti guarda deluso.{/n} "Quindi mi negate una morte rapida? D'altra parte, un'eternità come mucchio di rottami ambulante e senza cervello sulla vostra nave è meglio di un altro secondo accanto a questo mostro folle."
+
+### u047280
+{n}Vladaym estrae lentamente la pistola e dice con voce strascicata e svogliata,{/n} "Incendia Chorda, io, Vladaym il Vackemo, ti ordino di levarti dal mio territorio prima che ti faccia saltare le cervella e ti faccia fare un bel giro col cadavere."
+
+### u047281
+{n}Incendia ti rivolge un lungo sguardo e si rivolge a Vladaym.{/n} "Vladaym Tocara, sei dichiarato colpevole. La corte ti condanna a una vita di penitenza. Come servo a bordo dell'ammiraglia dei von Valancius, espierai i tuoi crimini con umile lavoro per il resto della tua vita."
+
+### u047282
+"No! Solo il sangue può lavare il tradimento. Non c'è via di ritorno per chi ha rinnegato l'Imperatore!"
+
+### u047283
+{n}Vladaym soffoca un sorriso soddisfatto e dice,{/n} "Be', sono bravo a mettere ordine e a sporcarmi le mani. L'ho fatto per un'intera stazione, quindi penso di potermela cavare con un paio di ponti di nave. Tutto per la mia espiazione, naturalmente. Accetto umilmente la mia sentenza."
+
+### u047284
+"E per questo dovremmo perdonarti le tue offese passate? Popolana Ryzza, sei accusata di pirateria, di aver aiutato e favorito dei ribelli, e di eresia blasfema e di adorazione dei Poteri Rovinosi. {name}, vi concedo il diritto di eseguire la giustizia dell'Imperatore."
+
+### u047285
+"Credi di potermi giudicare?" {n}Ryzza estrae un amuleto con la testa zannuta di una bestia coronata di corna. Ti guarda, ghignando in modo sinistro.{/n} "Non avresti dovuto. Ho un asso nella manica, nel caso il peggio fosse arrivato al peggio. Io, Ryzza, rifiuto la tua maledetta giustizia e il tuo maledetto Imperatore! Accetto l'accordo che mi è stato offerto e mi consegno all'Edge of Daybreak! Muori, {name} von Valancius!" {n}La testa zannuta apre la bocca, ruggisce e sputa una freccia infuocata contro di te.{/n}
+
+### u047286
+{n}Le tue mani si congiungono rapide nel segno dell'Aquila, che accoglie il colpo come uno scudo. Una fiamma tremolante ti corre lungo le dita, senza lasciare ustioni. Prima che Ryzza capisca cosa sia successo, sfoderi l'arma e la ferisci, facendola cadere in ginocchio davanti a te. L'amuleto si riduce in cenere tra le mani della pirata.{/n}
+
+### u047287
+{n}La pirata tende le mani, terrorizzata.{/n} "Risparmiatemi, Vostra Signoria, vi prego! Non avevo scelta, io... Dovevo proteggermi! Aspettate, lasciate che..." {n}Ryzza tira fuori una piccola tavoletta dati e te la porge.{/n} "Qui ci sono le coordinate del mio nascondiglio segreto. Potete prendervi tutto quello che c'è dentro. Lasciatemi andare e non mi rivedrete mai più!"
+
+### u047288
+{n}L'arma tra le tue mani comincia a brillare in modo accecante. Il tuo attacco santo atomizza Ryzza prima che abbia il tempo di pronunciare la sua ultima maledizione.{/n}
+
+### u047289
+"Fede. Lo scudo e la lama fulminante furono donati dall'Imperatore ai Suoi servitori. Ho visto la luce del nostro Protettore in voi fin dall'inizio, {name}. Sono lieta che Egli vi abbia scelto per eseguire la Sua punizione." {n}Chorda appare serena e la sua voce si è addolcita. Il suo volto è completamente calmo, non più visitato dal tic nervoso.{/n}
+
+### u047290
+{n}Un sorriso aspro compare sulle labbra di Vladaym.{/n} "Giusto. Addio, e che siate tutti dannati."
+
+### u047291
+"Ora che abbiamo risolto le questioni urgenti, avete altre istruzioni riguardo al governo della stazione d'ora in poi? Dopotutto, Footfall è ora sotto la vostra esclusiva protezione personale." {n}Vladaym e tutti nel bar vi guardano pieni di attesa.{/n}
+
+### u047292
+{n}Gli occhi di tutti i presenti nel bar convergono su di te. Trattengono il respiro in attesa che {mf|il nuovo sovrano|la nuova sovrana} di Footfall emetta il suo primo decreto.{/n}
+
+### u047293
+{n}Tutti i presenti fanno il segno dell'Aquila e si uniscono in una preghiera all'Imperatore. Vedi ansia e dubbio negli occhi di molti. Le recenti atrocità sono ancora fresche nella memoria di tutti, ma nessuno osa mettere in discussione la tua volontà. La luce dell'Imperatore tornerà su Footfall. Si può accettarla, oppure essere inceneriti da essa.{/n}
+
+### u047294
+{n}L'intera assemblea esalta il tuo nome con un canto gioioso. Nei loro occhi vedi speranza con un pizzico di diffidenza. Gli abitanti della stazione non sono abituati a una simile magnanimità. Tuttavia, qualcosa nella tua voce dà loro la speranza che tu non stia recitando, e che forse questo sia l'inizio di un periodo nuovo e meno cupo nella storia della stazione.{/n}
+
+### u047295
+{n}Furiose grida di esultanza scuotono le pareti del locale. Gli occhi di tutti si accendono nell'attesa di una vita libera dalle leggi dell'Imperium, e molti sono già impegnati a pensare a chi pugnaleranno alle spalle per conquistare il loro agognato posto al sole.{/n}
+
+### u047296
+{n}La gente emette un sospiro di sollievo ed esalta a gran voce il tuo nome. Dopo un periodo di tribolazioni e stenti, gli abitanti di Footfall sono lieti che almeno qualcosa di familiare e immutato resterà in questo mondo.{/n}
+
+### u047297
+{n}Il tessuto è intriso del sangue dell'eretica votata ai Poteri Rovinosi. Le gocce cremisi conservano minuscoli echi dell'agonia della sua anima empia. Queste particelle appena percettibili erano Ryzza fino a pochi istanti fa, e sai che sono tutto ciò che serve per evocare nello spazio reale un essere dall'altra parte del velo. Ti metti in tasca il fazzoletto.{/n}
+
+### u047298
+{n}Ryzza {d|Encyclopedia:Ch4_RizzaRedeemed}si inginocchia docilmente{/d} e guarda Incendia negli occhi con determinazione.{/n} "Confesso i miei crimini. Ho lasciato entrare nella mia anima la corruzione dell'eresia e ho rifiutato la luce dell'Imperatore. Accetterò il mio destino, ma ti supplico di essere clemente verso l'equipaggio della mia nave del vuoto. Solo io sono contaminata. Loro non sapevano nulla del mio tradimento."
+
+### u047299
+"In tal caso, sono pronta a pronunciare la tua sentenza. Popolana Ryzza, sei accusata di pirateria, di aver aiutato e favorito dei ribelli, e di eresia blasfema e di adorazione dei Poteri Rovinosi. Visto il tuo pentimento, ti concederò una morte rapida. Quanto al tuo equipaggio, affronterà il processo a tempo debito, alle stesse condizioni degli altri su questa stazione."
+
+### u047300
+"Una morte rapida è l'unica misericordia che si possa mostrare a una serva dell'Arcinemico. L'eresia non può essere perdonata."
+
+### u047301
+"Fede. Uno scudo donato dall'Imperatore ai Suoi servitori. Non avete riconosciuto la luce del nostro protettore, {name}?" {n}Chorda appare serena e la sua voce si è addolcita. Il suo volto è completamente calmo, non più visitato dal tic nervoso.{/n}
+
+### u047302
+"Faccio solo ciò che l'Imperatore mi comanda di fare."
+
+### u047303
+{n}Incendia eleva una preghiera all'Imperatore, poi trafigge il cuore di Ryzza con un colpo rapido e ben mirato della sua pistola. La pirata incontra la morte con dignità, tenendo gli occhi su Incendia fino alla fine.{/n}
+
+### u047304
+{n}Lancia un'occhiata al corpo di Incendia e chiede con cupa compostezza,{/n} "Vostra Signoria ha qualche preferenza riguardo a cosa fare dei resti di... la signora?"
+
+### u047305
+"Gli abitanti di Footfall troveranno molti modi per rendere omaggio a Sua Signoria. Sono... piuttosto agitati per tutta questa faccenda."
+
+### u047306
+{n}Con l'arma in pugno, Kibellah chiede con calma, persino con rispetto,{/n} "Cosa vuoi che facciamo dei tuoi resti quando avremo finito qui, Lady Chorda?"
+
+### u047307
+"Sfacciata sgualdrina! Farò impiccare i TUOI resti insieme ai cadaveri della tua patetica setta che ha pervertito il Suo Credo!"
+
+### u047308
+"Se riuscirai ancora a parlare dopo la tua sconfitta, ripeterò allora la mia domanda. Ti sei guadagnata un riposo onorevole."
+
+### u047309
+"No, Incendia, non invocare il nome dell'Imperatore per giustificare i tuoi errori. Esistono diversi tipi di autorità: sei stata tu a spingere queste persone sull'orlo del baratro, quindi sei responsabile della carneficina che ne è seguita."
+
+### u047310
+"A ogni Arbitrator viene insegnato come reprimere una ribellione senza scatenarne una più grande. Invece di compiere il tuo dovere a mente fredda, hai lasciato che il tuo odio ribollente per gli eretici avesse la meglio: servirai da esempio perfetto di come non si deve fare questo lavoro."
+
+### u047311
+"Quindi mi impiccherete come un pirata? Bene, in qualunque brutto posto vada la mia anima, una volta diventatone sovrano, tornerò a prendervi."
+
+### u047312
+Detenuto
+
+### u047313
+Sgherro di Chorda
+
+### u047314
+Prigioniero sotto processo
+
+### u047315
+Vittima di Chorda
+
+### u047316
+Conoscenza utile
+
+### u047317
+Froscher
+
+### u047318
+Zeta-42//33-Mu
+
+### u047319
+Teppista di Vladaym
+
+### u047320
+"Come ha fatto un miserabile tremante come te a diventare il successore di Ryzza?"
+
+### u047321
+"Chi ha riconsiderato la propria condotta dovrebbe essere perdonato. La tua iniziativa è lodevole."
+
+### u047322
+"Mostrami cosa hai saccheggiato."
+
+### u047323
+"Sei un pirata, povero sfortunato?"
+
+### u047324
+"Se fai parte dell'equipaggio di Ryzza, sei un eretico anche tu, non è vero?"
+
+### u047325
+[Giustizia] "Me la caverò benissimo anche senza."
+
+### u047326
+"Non ho tempo di continuare questa conversazione."
+
+### u047327
+"'Ultramassimo' non è una parola. Come circa un quarto del tuo vocabolario."
+
+### u047328
+"Non pensare che i tuoi crimini siano stati perdonati. Li pagherai, non solo in troni ma anche in sangue."
+
+### u047329
+"Cosa ci fate ancora su Footfall, voi pirati? Non avete ancora capito che è ora di scappare?"
+
+### u047330
+"Calmati. Era una prova del tuo carattere. Il tuo potrebbe essere migliorato."
+
+### u047331
+"Davvero? Strano come la tua lunga tolleranza verso la corruzione si sia improvvisamente esaurita."
+
+### u047332
+"Penso che ti condannerò a morte. Per contrabbando e pirateria."
+
+### u047333
+{n}L'uomo ha una barba sfilacciata e una placca di metallo sulla fronte. Trema come una foglia e si guarda attorno con ansia. Quando ti vede, si mette sull'attenti e tenta goffamente un inchino deferente.{/n}
+
+### u047334
+"V-Vostra Signoria! Come posso esservi di... servizievolità? Io sono dell'equipaggio di Ryzza... il suo ex equipaggio, suppongo, ora che {d|Encyclopedia:Ch4_RyzzaDead}ha conosciuto la pace dell'Imperatore{/d} e tutto il resto. Comunque, sono il nuovo, ehm, agente commerciaiolo della Fellowship of the Void su Footfall. Desidero assicurare a Vostra Signoria il mio ultramassimo rispetto e offrire i miei servigi. Gli affari vanno fatti, regno del terrore o non regno del terrore, non è vero?"
+
+### u047335
+{n}Il pirata distoglie lo sguardo, imbarazzato.{/n} "Ho pescato la sigaretta di lho più corta. Dopo che Ryzza se n'è andata, sapete, per la sua ultima incursione, nessuno di noi si è volontarizzato per sostituirla alla stazione."
+
+### u047336
+"Daremo il massimo e non ci risparmieremo! Ci uniremo a qualsiasi battaglia per la giusta causa, per ridimerci con fatiche e impegnamento! Per l'Imperatore e per Vostra Signoria! Basta che non ci bandiate da Footfall o non ci facciate svanire del tutto!"
+
+### u047337
+"S-subito! Per voi, solo i migliori preziosi e le più rarissime rarità!"
+
+### u047338
+"Cosa? No, Vostra S-Signoria! Io... Io sono..." {n}Il non-pirata comincia a tremare.{/n} "Sono un mercantiere indipendente che vende proprità confiscatate — cioè proprietà confiscate — a clienti della più alta reputazione. Chiamatemi... anzi, non chiamatemi in nessun modo, Vostra Signoria. In tempi come questi, un nome è solo un guaio in più. Lasciate che sia solo il vostro ami... conoscenza utile!"
+
+### u047339
+"Lo s-sappiamo, Vostra Signoria, ma dove scappiamo? La Distesa è un incubo, in questo momento, con tutti quegli xenos ferocissimosi, quegli eretici atrocimali e quei demoni furiosanti. Preferiamo aspettare qui, vicino alla gente normale! Ri-riponiamo le nostre speranze nella misericordiosità di Vostra Signoria!"
+
+### u047340
+"M-mai e poi mai! Ryzza... è semplicemente diventata del tutto insanitaria, Vostra Signoria. Ha cominciato a farsi amici pericolosi e a fare a-affari con certi tizi dall'aria decisamente losca. Tutti hanno cercato di dissuaderla. Una cosa è vendere ninnoli eretici e roba simile. Un'altra è indossarli. Ma con lei non si discute, vero? È tutto vecchia Ryzza di qua e vecchia Ryzza di là, e non farmi la predica o ti sventro. È im-impazzita, ecco tutto." {n}Il pirata sputa con rabbia e subito si spaventa per quello che ha appena fatto.{/n}

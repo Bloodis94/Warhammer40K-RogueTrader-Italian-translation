@@ -1,0 +1,819 @@
+### u047341
+"Comunque, se l'è cercata. Appena io e i ragazzi abbiamo saputo che per Ryzza era finita, abbiamo spedito tutte le sue amichette a fare una passeggiata sotto le stelle e gli abbiamo sbattuto il portello stagno in faccia. Noi non vogliamo saperne, grazie tante! Siamo i sacerdoti del pro-Imperatore! Io, la mia fede si è fatta molto più forte quando ho scoperto che la Sua giusta giustizia aveva sistemato la vecchia eretica!" {n}Giunge i palmi callosi in un segno dell'Aquila goffamente sbilenco ma sentito.{/n}
+
+### u047342
+"Sarò qui se avrete bisogno di me, Vo-Vostra Signoria! Al vostro servitudilio!"
+
+### u047343
+"V-Vostra Signoria! Vi saluto con ultrassimo rispetto! Facciamo un po' di affari, che ne dite?"
+
+### u047344
+"Non siate troppo {mf|duro|dura} con noi, miseri sfortunabili, Vostra Signoria! Siamo, sapete, vittime anche noi!"
+
+### u047345
+"Ma certo, c-certo che anche allora non avremmo dato loro scampo! Ma, sapete, Ryzza... Era una donna orribile che teneva tutti terrorizzati fino al midollo ultrassimo. M-molti hanno tentato di rovesciarla, e lei li ha liquidati in modi davvero da rivoltare lo stomaco. Le sue atroxità facevano venire i brividi a tutto l'equipaggio."
+
+### u047346
+{n}L'impianto a forma di piastra cade sul ponte con un sonoro clangore. Adesso ha un foro, e brandelli di cervello del pirata gli sono rimasti attaccati. Nel bar scende per un attimo il silenzio, poi le chiacchiere riprendono con la stessa rapidità. A nessuno interessa granché un altro sfortunato morto per essere stato tanto sciocco da far arrabbiare un Rogue Trader.{/n}
+
+### u047347
+{n}Il pirata si rialza dalle ginocchia, ansimando e cercando di coprire la macchia sui calzoni.{/n} "Ma c-certo, Vo-Vostra Signoria. M-molto appropriato. Teneteci in timore pio, così non avremo mai un cattivo pensiero, corruttuosi come siamo!"
+
+### u047348
+"È un piacere, Vostra Signoria! Facciamo estremulosamente in fretta con gli eretici!"
+
+### u047349
+"Il vostro precedente capobanda sapeva bene una regola: mai avvicinarsi a una nave della decima, e nemmeno guardare nella sua direzione. Altrimenti..." {n}Il Proctor fa un gesto e Glaito digrigna i denti, chinandosi verso l'"agente commercionario".{/n}
+
+### u047350
+"M-mio errore, Vostra Signoria! Imploro la vostra graziosa condiscendenza! Non sono versato nelle lingue della nobiltà, ma non desidero nemmeno offendere il vostro grazioso orecchio con il mio umile nervacolare!"
+
+### u047351
+{n}Dopo aver lanciato un'occhiata scettica al grassoccio laico, il Lupo ringhia,{/n} "Questi sono i vostri pirati? Vedo un segno sconfortante della degradazione che ha investito la Distesa."
+
+### u047352
+"V-vi prego! Siamo ben a conoscenza di come vanno le cose e dell'espassamento del disonorevolissimo Capitano Sargona. Non penseremmo mai, mai di intaccare il sacro tributo. Mai!"
+
+### u047353
+{n}Il pirata cade in ginocchio.{/n} "P-pietà, Vo-Vostra Signoria! Faremo tutto quello che ci direte di fare: ci pentiremo come si deve, accetteremo qualsiasi punizione e combatteremo gli xenos per voi e per il trionfante splendore dell'Imperium! E poi, se mi esecutate, i nostri avranno troppa paura per continuare a commerciare con voi. La nostra Fellowship of the Void non vi serve più?"
+
+### u047354
+"Non sei un semplice servitore. Dove hai imparato a colpire così?"
+
+### u047355
+"Dov'è Calcazar?"
+
+### u047356
+"Ti ha abbandonato qui, dunque?"
+
+### u047357
+"Desidero sapere dove è andato."
+
+### u047358
+"Dimmi dov'è andato! Altrimenti..."
+
+### u047359
+"Heinrix, convincete di grazia il vostro vecchio conoscente a parlare."
+
+### u047360
+"Che cosa stai facendo, miserabile?"
+
+### u047361
+[Ferisci Froscher] "Lascia che te lo chieda di nuovo. Dov'è andato Calcazar?"
+
+### u047362
+"Ti tortuerò a lungo. Molto a lungo. Ma alla fine mi dirai tutto."
+
+### u047363
+[Lascia Froscher nelle sue attuali condizioni] "Che questa sia una lezione per tutti coloro che ci si oppongono."
+
+### u047364
+[Pesta il servitore finché non cede]
+
+### u047365
+[Uccidi Froscher] "Basta. Non ho più bisogno di te."
+
+### u047366
+[Uccidi Froscher] "Non mi servi più."
+
+### u047367
+[Lascia il braccio di Froscher] "Vattene. Non ti ucciderò."
+
+### u047368
+"Qual era il piano che Calcazar stava per eseguire?"
+
+### u047369
+[Uccidi il servitore] "Sono informazioni riservate. E la loro riservatezza va protetta."
+
+### u047370
+"Allora devo andare."
+
+### u047371
+"Dimmi dov'è andato Calcazar e vivrai. Non vedi che ti ha abbandonato?"
+
+### u047372
+"Marazhai. Fai parlare questo testardo."
+
+### u047373
+"Vattene, Froscher. Heinrix e io ti risparmiamo la vita."
+
+### u047374
+[Finisci Froscher] "Accetta quest'ultima grazia da parte mia."
+
+### u047375
+{n}Il vecchio servitore ti lancia un'occhiata acuta e valutativa.{/n} "In che modo posso essere utile a Vostra Signoria?"
+
+### u047376
+"Cadian... assalto... Data e circostanze dell'arruolamento nel seguito del Lord Inquisitore... riservato..." {n}Il servitore sfoggia un sorriso velenoso.{/n}
+
+### u047377
+{n}Ulfar ringhia cupo,{/n} "Cadian. Ho visto all'opera quelli della tua stirpe: veri guerrieri. E tu non sei nato con un buco al posto del cuore, lo vedo nei tuoi occhi. Come può una belva simile accettare di essere il cane dell'Inquisitore? E ti sei fatto strada fino alla sua cerchia più stretta: perché lo vuole così vicino? Per terrorizzare e uccidere innocenti? Per fare la spia?"
+
+### u047378
+{n}Il salone porta i segni di una ripulita: rapida, accurata e sbrigativa. L'odore di cenere dei rapporti bruciati aleggia nell'aria. Ogni traccia del soggiorno del Lord Inquisitore a palazzo è stata distrutta. L'unico ricordo è l'anziano servitore, che spicca come un chiodo in mezzo allo spazio svuotato.{/n}
+
+### u047379
+"Il Lord Inquisitore è assente per una missione urgente." {n}La voce scolorita di Froscher si accorda con la sua risposta così poco utile.{/n}
+
+### u047380
+"Mi dispiace dire che nessuna istruzione specifica è stata data nei vostri riguardi, Maestro van Calox."
+
+### u047381
+"Il mio padrone non ha bisogno dei miei servigi nella sua attuale spedizione. Mi è stato affidato il compito di fare pulizia." {n}Appena la conversazione si sposta su Calcazar, toni deferenti ed estatici illuminano la voce secca del servitore.{/n}
+
+### u047382
+{n}Abelard fa una smorfia.{/n} "E ancora una volta il Lord Inquisitore si permette di trattare il Rogue Trader come un comune servitore... Mi sconcerta che siate ancora {mf|disposto|disposta} a tollerare questa sfrontatezza, Lord Capitano."
+
+### u047383
+"Il Lord Inquisitore mi ha avvertito che Vostra Signoria avrebbe chiesto di questo. Mi ha lasciato {d|Encyclopedia:Ch4_XavierTrust}istruzioni{/d}." {n}Il volto del servitore si rilassa, come se si fosse addormentato. Ciò che dice subito dopo reca l'eco della voce rombante di Calcazar.{/n} "Vostra Signoria, mi rincresce che non abbiamo mai parlato. Una questione di particolare importanza mi ha costretto a lasciare Footfall."
+
+### u047384
+"Mi è stato ordinato di riferire a Vostra Signoria che il Lord Inquisitore sconsiglia di fare questa domanda." {n}Le parole oltraggiosamente sgarbate sono pronunciate con un tono impeccabilmente cortese.{/n}
+
+### u047385
+"Come potete immaginare, ho un piano per difendere la Distesa, ma gli eventi su Eufrates II hanno mostrato che il piano è compromesso. La violazione della segretezza non ha lasciato tempo per i preparativi. Devo compiere qualcosa di... monumentale. E pericoloso. Alcuni direbbero troppo pericoloso. Ma spero che la vostra lealtà e la vostra mente agile vi porteranno ad apprezzare appieno ciò che intendo fare."
+
+### u047386
+{n}Jae schiocca la lingua con delusione.{/n} "Sappi, shereen, che qui su Footfall aiutano gli ashmag insolenti come questo a rilassarsi e a sciogliere la lingua. E i metodi che usano non sono dei più piacevoli..."
+
+### u047387
+"È stato un errore." {n}Una lama appare nella mano di Froscher: un comune coltello-baionetta modello Cadian, dal filo monomolecolare, con l'impugnatura coperta di graffi per anni di uso.{/n}
+
+### u047388
+"{name}." {n}Il tono di Heinrix è gelido.{/n} "Vi offro i miei servigi come Interrogatore, qualora riteniate necessario estorcere le informazioni di cui avete bisogno a questo individuo recalcitrante."
+
+### u047389
+{n}La lama scintillante lascia una serie di bagliori persistenti sulle tue retine. Schivi per un soffio i colpi diretti ai tuoi occhi e alla tua gola, afferri il polso dell'uomo, che potrebbe essere di pietra, e inizi a torcerlo fuori dalla giuntura scricchiolante. Una gomitata devastante ti raggiunge alla mascella, ma il corpo a corpo fulmineo si conclude con la tua vittoria prima ancora che tu ti renda conto di essere {mf|stato attaccato|stata attaccata}.{/n}
+
+### u047390
+{n}Riesci a scansare la testa dal colpo serpentino, salvandoti gli occhi, ma la lama ti squarcia la carne. Uno dopo l'altro, trova i tuoi organi interni: il fegato, i polmoni, i reni. Superando il dolore, afferri la sua mano, che potrebbe essere di roccia, e inizi a torcerla fuori dalla giuntura scricchiolante. Il dolore induce il tuo avversario a cessare la resistenza, e ti rendi conto che lo scontro che ti è quasi costato la vita non è durato più di pochi secondi.{/n}
+
+### u047391
+{n}Froscher rantola con ostinazione,{/n} "Il mio padrone mi ha detto di restare indietro per impedire la possibilità di... un inseguimento. Il vostro intromettervi negli affari dell'Inquisizione è un errore."
+
+### u047392
+{n}Heinrix si volta verso Froscher e alza una mano. Un freddo ultraterreno ti avvolge.{/n} "Vi porrò questa domanda una volta sola..."
+
+### u047393
+"No!" {n}La voce di Froscher si spezza insieme alla sua risolutezza, mentre le sue gambe cedono sotto l'influsso invisibile della biomanzia.{/n} "Maestro van Calox, fermatevi... Ho visto il vostro lavoro con i miei occhi. So che cosa resta delle persone che interrogate... Porta Septentum. Portale dimensionale."
+
+### u047394
+{n}Uno spirito coraggioso può superare qualsiasi cosa, ma la carne debole, che teme il dolore, no. Quando i nervi di Froscher cominciano a cedere sotto la tua pressione, lui sbotta,{/n} "Porta... Septentum... portale dimensionale..." {n}Il servitore si morde la lingua con furia, livido per l'infedele debolezza del proprio corpo.{/n}
+
+### u047395
+{n}Soddisfatto, Marazhai accarezza teneramente la guancia di Froscher.{/n} "Vorrei non avere così poco tempo... Avrei impiegato qualcosa di molto più raffinato. Ma, suppongo, anche un lavoro così frettoloso ha prodotto i risultati desiderati."
+
+### u047396
+{n}Heinrix abbassa la mano.{/n} "Molto assennato da parte vostra, vecchio. Bene."
+
+### u047397
+{n}Senti lo scricchiolio di un'articolazione frantumata, di nervi che si spezzano, di tendini che cigolano. Ma è tutto ciò che senti; le labbra del servitore restano ostinatamente sigillate.{/n}
+
+### u047398
+{n}Froscher coglie qualcosa nei tuoi occhi e sospira, sconfitto.{/n} "È vero. Nessuno può sopportare la tortura per sempre. È entrato nella Porta Septentum, il portale dimensionale. E io l'ho deluso."
+
+### u047399
+"Non sono più giovane. Scommetto la mia testardaggine contro il mio cuore debole. Vediamo quale cede per primo."
+
+### u047400
+{n}Ci vuole tempo per estorcere risposte al mucchio di carne che un tempo si faceva chiamare Froscher. A un certo punto, tra i suoni umidi dei tuoi colpi e lo schiocco delle ossa rotte, riesci a strappargli di bocca alcune parole. "Porta Septentum. Portale dimensionale."{/n}
+
+### u047401
+{n}Marazhai emette un sospiro deluso ma non interviene.{/n}
+
+### u047402
+"Sì. L'ho deluso."
+
+### u047403
+{n}Il servitore, ormai un uomo spezzato, ti guarda con odio negli occhi.{/n} "Non fermerete comunque il mio padrone. Non seguitelo... Meglio che scappiate."
+
+### u047404
+"Di questo sono all'oscuro, Vostra Signoria. Per motivi di segretezza è stato deciso che non dovessi conoscere i dettagli."
+
+### u047405
+"Capisco, Vostra Signoria." {n}L'uomo non fa alcun tentativo di difendersi. Accetta la morte come si accetterebbe una procedura medica sgradevole ma necessaria.{/n}
+
+### u047406
+"Addio, Vostra Signoria. Spero che aiutiate il mio padrone a compiere ciò che si è prefisso."
+
+### u047407
+{n}Froscher scuote la testa con un sorriso triste.{/n} "Sempre fedele, Vostra Signoria."
+
+### u047408
+"Una retorica finemente affinata significa dire moltissimo senza rivelare nulla." {n}Eogunn sorride appena.{/n} "Una scelta solo di nome. Questa convocazione è tutt'altro che una richiesta, Rogue Trader."
+
+### u047409
+{n}Il volto di Abelard diventa rosso scuro.{/n} "Maledetto..." {n}Con evidente sforzo, ingoia l'insulto che stava per sputare.{/n}
+
+### u047410
+"Tuttavia sarebbe un peccato perdere l'occasione di vedere all'opera le capacità di alcuni membri del tuo seguito." {n}Jae getta un'occhiata da sopra la spalla.{/n}
+
+### u047411
+"{name}..." {n}La voce di Marazhai è nauseabondamente dolce.{/n} "Vedo che questo mon-keigh è poco incline a parlare... Lascia che me ne occupi a modo mio."
+
+### u047412
+"Frecce di Kurnous, siamo arrivati troppo tardi... Elantach, a una tua parola, darò la caccia a quel mon-keigh fino ai confini della galassia." {n}La furia risuona nella voce di Yrliet.{/n}
+
+### u047413
+{n}Marazhai si muove con una velocità quasi impercettibile. Froscher riesce appena ad afferrare l'impugnatura di un coltello-baionetta prima nascosto, quando Marazhai gli compare davanti e gli trafigge il dotto lacrimale con una lama sottile. Froscher si immobilizza, le mani penzoloni, mentre il Drukhari comincia a trapanare l'uomo ancora vivo.{/n}
+
+### u047414
+{n}Dopo un po', Marazhai getta da parte un pezzo insanguinato del cranio di Froscher e vi inserisce la lama. L'uomo sussulta e comincia a ululare piano un'unica nota, la bocca che sbava e gli occhi che si rovesciano. L'ululato sale fino a un urlo assordante, poi lui farfuglia,{/n} "P-P-Port-ta Sept-t-tentum... P-p-portale dimensio... d-dimen..."
+
+### u047415
+{n}Con una risata di scherno, Marazhai si allontana dalla sua vittima mutilata.{/n}
+
+### u047416
+{n}Froscher stringe le labbra con ostinazione e cerca di raggiungere lo stivale alto. Eserciti più pressione sul suo polso straziato per fargli desistere.{/n}
+
+### u047417
+"Per questo vi offro la possibilità di trovarmi e, spero, di unirvi a me. Sto viaggiando verso l'antico portale dimensionale nel Sistema Porta Septentum, e oltre. Se lo desiderate, potete seguirmi e condividere con me il peso della responsabilità per ciò che verrà. E se no, pregate per me, perché mi servirebbe ogni aiuto possibile. L'Imperatore protegge, {name} von Valancius."
+
+### u047418
+{n}Potresti decidere di mostrare pietà... Più tardi. Quando avrai le risposte. Qualcosa di quasi tangibile sembra toccarti la gola, congelandoti le parole. Il destino strattona il guinzaglio con insistenza, e le dita sulla mano straziata di Froscher stringono più forte la presa.{/n}
+
+### u047419
+{n}Con un debole sorriso, Froscher risponde con calma,{/n} "Per il mio coraggio, signore."
+
+### u047420
+"Qualcosa mi dice, shereen, che abbiamo mancato il nostro appuntamento con il Lord Inquisitore. Davvero molto scortese da parte sua essere partito con tanta fretta, lasciandoci a chiederci che cosa stia progettando..."
+
+### u047421
+"Tutto qui?" {n}Heinrix guarda Froscher con confusione e rabbia.{/n}
+
+### u047422
+{n}La morbida risata di Trazyn è accompagnata da un brivido gelido lungo la tua schiena.{/n} "So bene di che cosa parla questo servitore. Conosco questi antichi portali e ciò che si nasconde dietro di essi. Questo sentiero ti condurrà a me."
+
+### u047423
+{n}Argenta aggrotta la fronte, elaborando con fatica ciò che ha appena sentito.{/n} "Una chiamata del Suo servitore non deve restare senza risposta, ma... qual è questo piano per difendere la Distesa che il Lord Inquisitore nasconde nell'ombra? Queste notizie recano inquietudine al mio cuore, Rogue Trader."
+
+### u047424
+"Che cosa è successo alla tua gamba?"
+
+### u047425
+"E questa è la verità. Versa via fino all'ultima goccia di quel carburante dell'eresia, subito."
+
+### u047426
+"Io e Ryzza dobbiamo farci una bella chiacchierata."
+
+### u047427
+"Alla salute mia e della Casata von Valancius!"
+
+### u047428
+"Che ne dici di un accordo? Aiutami e ti lascerò usare il mio nome per scopi commerciali: 'l'Adeptus Amasecus: il bar preferito del Rogue Trader von Valancius.' Non è un premio generoso?"
+
+### u047429
+Hai promesso di far pagare alla pirata Ryzza i suoi crimini.
+
+### u047430
+"La giustizia dell'Imperatore non perdona gli eretici. Ricorda le mie parole, Ryzza, la affronterai molto presto."
+
+### u047431
+"Mi interessano le merci della Fellowship of the Void."
+
+### u047432
+"Hai qualcosa di forte, Octaviana?"
+
+### u047433
+"Non temi che i tutori dell'ordine finiranno per venire a prenderti?"
+
+### u047434
+"Vladaym ha bisogno del tuo aiuto."
+
+### u047435
+"Nel caso tu abbia bisogno che te lo dicano: se mai ti passa per la testa di aiutare Vladaym, scaccia quel pensiero. Non ha molto da vivere."
+
+### u047436
+"Non credo che arriveremo a un accordo."
+
+### u047437
+[Mostrale una tavoletta dati con una somma esorbitante] "Una ricompensa piuttosto immodesta per una modesta commerciante, non trovi?"
+
+### u047438
+"Anche se sopravviverai a Vladaym, ho i mezzi per far sì che non sia per molto."
+
+### u047439
+"Parole da vecchia codarda, non da temibile capitana pirata."
+
+### u047440
+"Perché non tratti sul prezzo anche con me già che ci sei, vecchia canaglia."
+### u047441
+"Cercherò di proteggerti dal finire sotto processo."
+
+### u047442
+[Menti] "Certo! Metterò una buona parola per te. Incendia mi ascolterà."
+
+### u047443
+"L'Imperatore proteggerà la mia anima dai poteri perniciosi di questa eresia liquida. Versamene uno."
+
+### u047444
+"Finiamola insieme per la gloria della Casata von Valancius."
+
+### u047445
+"Allora alla salute di Calligos e alla sua lungimiranza!"
+
+### u047446
+"Non tornerà. L'ho ucciso io. Avanti, versamene uno."
+
+### u047447
+"Alla caduta di Incendia Chorda!"
+
+### u047448
+[Frantuma la bottiglia] "Che ospitalità verso un furfante come Winterscale!"
+
+### u047449
+"Come te la sei cavata qui senza di me?"
+
+### u047450
+"Vi lascio alla vostra conversazione."
+
+### u047451
+"Pensi che i tuoi datori di lavoro della Kasballica saranno contenti di sapere che ti sei rifiutata di aiutarmi?"
+
+### u047452
+"Hai visto Jae? Ha lasciato la mia nave e da allora non si è più vista."
+
+### u047453
+Hai convinto Ryzza ad allontanarsi dall'eresia.
+
+### u047454
+"Ryzza, le forze a cui ti sei aperta saranno la tua rovina. E per di più anche il tuo equipaggio ne pagherà il prezzo con la propria anima. A causa tua."
+
+### u047455
+Hai convinto Octaviana ad aiutare la ribellione contro Chorda per il bene della gente di Footfall.
+
+### u047456
+[Indica le persone nella sala con un ampio gesto del braccio] "Non importa di chi sia l'idea, ma per chi lo facciamo. Per la gente di Footfall. Per te, Octaviana. Per la tua libertà dal regno del terrore di una fanatica folle."
+
+### u047457
+Hai rivelato alla pirata Ryzza che voi due avete un comune "alleato influente".
+
+### u047458
+[Disegna il simbolo del Caos con le gocce versate sul bancone, poi cancellalo] "E se ti dicessi che io e te abbiamo un altro alleato molto influente?"
+
+### u047459
+"Octaviana, abbiamo un piano per fermare Chorda. Il tuo aiuto sarebbe gradito."
+
+### u047460
+"Bere questo veleno e farla finita? Le cose non vanno ancora così male."
+
+### u047461
+"Farò parte di quel piano. E rischierò la pelle insieme a te."
+
+### u047462
+[Alza la voce] "Il tuo tempo sta finendo. Aspetterai la morte, o proverai comunque a opporre resistenza?"
+
+### u047463
+"Quindi questa è la vera te."
+
+### u047464
+"Ho concluso molti affari con la Fellowship of the Void. Hai intenzione di rovinare la nostra alleanza così, di punto in bianco?"
+
+### u047465
+"Non ho altro da dire."
+
+### u047466
+"La tua anima è piena di corruzione. Non ti sei mica unita alle forze dell'Arcinemico, vero, Ryzza?"
+
+### u047467
+{n}Octaviana sembra stanca ma {d|Encyclopedia:Ch2_FootfallAlly}trova la forza di sorridere con vivacità{/d}. Versa due bicchierini di un liquido giallastro e trasparente con striature di promethium e ne fa scivolare uno verso Ryzza.{/n} "Brindiamo alla clemenza e al buon giudizio di Sua Infallibile Signoria Chorda. Ovunque si trovino ora!"
+
+### u047468
+{n}Octaviana sembra {d|Encyclopedia:Ch2_FootfallNotAlly}esausta. Ha le guance incavate, i capelli fiammanti arruffati e la mascella augmetica che vibra{/d}. La mano le trema mentre posa un bicchierino sporco, lo riempie di un liquido torbido striato di promethium unto e lo fa scivolare verso Ryzza.{/n} "Ti consiglio di prendertela comoda. È l'ultimo goccio di acquavite scadente rimasto su tutta Footfall."
+
+### u047469
+{n}Ryzza butta giù il bicchierino, facendo una smorfia di soddisfazione.{/n} "Con le parole ci sai fare, Octy! Sì, davvero, sarebbe un peccato se la cattiva salute di Lady Chorda intaccasse anche la nostra. Per caso, nei vostri viaggi vi siete {mf|imbattuto|imbattuta} nel buon giudizio di Lady Chorda, Vostra Signoria?" {n}La pirata ride roca.{/n}
+
+### u047470
+{n}Ryzza butta giù il bicchierino in un sorso e fissa cupa Octaviana, o meglio, attraverso di lei. L'augmetica raffazzonata che le sostituisce la gamba tamburella nervosamente sul pavimento.{/n} "{mf|Benvenuto|Benvenuta} nella stazione dei morti, Vostra Signoria."
+
+### u047471
+"Come posso servirvi, {mf|mio signore|mia signora}?"
+
+### u047472
+"Zitta, Heydari. Sei tornata viva, e questo basta!" {n}Il volto di Octaviana si contrae in una smorfia, ma tutto il suo corpo si protende verso la vecchia amica.{/n} "E non girarci intorno. So perfettamente perché sei venuta su Footfall con tanta fretta. Ma Jae... i tuoi uomini sono stati uccisi, fino all'ultimo, prima ancora che Chorda mettesse piede sulla stazione. Alcuni sono stati trovati smembrati nei Quartieri d'Ombra. Altri sono diventati un mucchio di cenere al crematorio. E Falco ha lanciato i più fortunati in orbita attorno alla stazione, perché tutti potessero vedere quanto disprezzava te e il tuo patrono, se il Rogue Trader mi perdona il modo di dirlo!"
+
+### u047473
+{n}Octaviana sorride con tenerezza.{/n} "Se si presentano, farò saltare in aria la Martyr's Endurance prima di lasciare che quei macellai mi prendano viva. E per ora starò dietro al bancone, a fare il pieno ai miei scaricatori. È una brutta cosa per un capitano abbandonare la nave, non è vero, Vostra Signoria?"
+
+### u047474
+"Che razza di capitana. Fossi in te, me la filerei finché si può. So che sei affezionata all'Amasecus, ma questo buco non vale la pena di morirci. Ho una navetta nascosta qui vicino, potremmo decollare subito..."
+
+### u047475
+"Più che altro la fossa comune preferita del Rogue Trader von Valancius. In altri tempi avrei dato un braccio per una pubblicità del genere, ma... non oggi."
+
+### u047476
+"Vostra Signoria, quel suo cosiddetto piano non è altro che gli spasmi di morte di un uomo messo con le spalle al muro e condannato, che si aggrappa a pagliuzze immaginarie. Il Vackemo era un tipo sveglio, scaltro e astuto, ma ora si rifiuta semplicemente di ammettere di aver già perso. Noi modesti commercianti non siamo all'altezza di un Rogue Trader. Sarebbe diverso, naturalmente, se avessimo una forte motivazione o un Rogue Trader dalla nostra parte..." {n}Ryzza ti guarda dritto negli occhi, e il suo significato è piuttosto chiaro.{/n}
+
+### u047477
+"Mi dispiace sentirlo, Vostra Signoria."
+
+### u047478
+{n}Gli occhi di Ryzza si spalancano.{/n} "Sapete proprio come arrivare al cuore della vecchia Ryzza! {mf|Attento|Attenta} che non scoppi. Certo, affrontare Chorda è una follia... Ma d'altronde non ti pagano così bene per niente di meno che follia."
+
+### u047479
+"Oh, al diavolo, io e la mia ciurma parteciperemo alla vostra piccola rivolta. Ma non chiedetemi i dettagli. La vecchia Ryzza preferisce tacere sui retroscena dei suoi attacchi insidiosi e improvvisi."
+
+### u047480
+{n}Ryzza impallidisce.{/n} "Siete molto {mf|persuasivo|persuasiva}, Vostra Signoria. Mi sento decisamente motivata a mettermi subito al lavoro."
+
+### u047481
+{n}Ryzza sorride con aria asciutta.{/n} "Sarebbe deplorevole. Detto questo, rintracciare una vecchia marinaia del vuoto nella sterminata Distesa potrebbe essere piuttosto complicato..."
+
+### u047482
+{n}Gli occhi di Ryzza lampeggiano e lei si acciglia.{/n} "Non parlatemi così, Vostra Signoria. Ai tempi in cui viviamo! Nella Distesa quasi nessuno ricorda chi sia la vecchia Ryzza... Non ricevo più alcun rispetto. Vuol dire che serve un promemoria. E lo avranno!"
+
+### u047483
+"Era un pezzo che nessuno mi provocava a fare qualcosa, Vostra Signoria." {n}Ryzza scoppia a ridere.{/n} "'Vecchia codarda'! Pensate un po'!"
+
+### u047484
+"Mi dispiace, Vostra Signoria, è l'unico modo che conosco." {n}La pirata ride di una risata tesa.{/n} "È tutto. Non mi permetterei di disturbare oltre il grazioso Rogue Trader con le mie preoccupazioni."
+
+### u047485
+{n}Ryzza sorride soddisfatta.{/n} "Un ottimo accordo, Vostra Signoria. Sono lieta che abbiamo avuto una conversazione tanto franca."
+
+### u047486
+"Per voi, sempre, {mf|mio signore|mia signora}." {n}Una bottiglia verdastra, impolverata ma di pregevole fattura, con un sigillo di cera appare sul bancone.{/n} "La miscela preferita di Lord Winterscale. Tanto buona da non essere del tutto legale. Comunque, durante la sua ultima visita Sua Signoria mi ha detto di metterne da parte una bottiglia fino al suo ritorno. E chissà se tornerà mai, ormai? Sarebbe uno spreco."
+
+### u047487
+"Solo acquavite scadente, {mf|mio signore|mia signora}. L'ultima bottiglia. E Ryzza ne ha già tracannata la maggior parte. Hanno messo al bando l'amasec. Hanno detto che è perniciosa per il corpo e per la mente, e indirizza l'anima verso l'eresia."
+
+### u047488
+{n}Octaviana trova il bicchierino più pulito, lo strofina qualche volta in più per sicurezza e lo riempie con il liquido giallastro e malsano della bottiglia. La bevanda ti brucia le viscere senza pietà e lascia un sottile retrogusto di muffa, ma il suo sapore si fonde in modo sorprendente con l'atmosfera del bar.{/n}
+
+### u047489
+"Giusto. Un vero Rogue Trader si prende cura della gente semplice. A differenza della megera che l'Imperatore ci ha servito. Possa la gloriosa Casata von Valancius prosperare e moltiplicare le proprie ricchezze. E la vecchia Ryzza è sempre pronta a dare una mano."
+
+### u047490
+"L'hai ucciso? Immagino che possiamo saltare i dettagli. È pericoloso fare troppe domande {mf|all'uomo|alla donna} che ha abbattuto Sua Signoria Winterscale. Va bene, allora, alla salute del tuo coraggio in battaglia!"
+
+### u047491
+"Se c'è qualcosa al mondo che Sua Infallibile Signoria odia più di noi, è Calligos Winterscale. Quindi mi unirò di cuore al brindisi!"
+
+### u047492
+"Il vostro coraggio e la vostra franchezza sono ammirevoli, {mf|mio signore|mia signora}! Abbasso Chorda!"
+
+### u047493
+{n}Octaviana impallidisce mentre sposta lo sguardo tra i cocci della bottiglia e te.{/n} "Pietà, {mf|mio signore|mia signora}! Non sapevo che foste anche voi {mf|un nemico|una nemica} dei Winterscale. Vi prego, non arrabbiatevi! Non succederà più!"
+
+### u047494
+"Male. Ma non abbiamo ancora voglia di sdraiarci e morire. Ci sono ancora persone che non sopportano il regime di Chorda, e stanno combattendo. Una puntura al giorno, sempre in un posto nuovo. Vladaym sarà anche in fuga, ma ha ancora gente fedele."
+
+### u047495
+"Male, {mf|mio signore|mia signora}. Sua Infallibile Signoria è entrata a Footfall {d|Encyclopedia:Ch2_FootfallNotAlly}in sella alla carestia{/d} e ha subito cominciato a gestire il posto a modo suo. All'inizio le cose erano solo pessime, ma poi è arrivato il vero massacro. Vladaym ha provato a scatenare una rivolta, ma non aveva alcuna possibilità. La gente moriva di fame. Metà si è arruolata al servizio di Chorda per una razione. Gli altri sono stati impiccati."
+
+### u047496
+{n}Con un'espressione docile e stanca del mondo, Octaviana apre la bottiglia e versa il contenuto giallastro sul pavimento. Dichiara con aria asciutta,{/n} "Niente più ordinazioni di acquavite scadente, allora. Un bicchiere d'acqua, {mf|mio signore|mia signora}?"
+
+### u047497
+{n}Octaviana si unisce subito a gran voce:{/n} "Salute a {name} von Valancius!"
+
+### u047498
+{n}Octaviana si sfrega la mascella augmetica con ansia.{/n} "Quella sciocca ragazza se n'è andata da sola per sottrarre i suoi uomini alle grinfie di Falco. Le avevo detto di aspettare un po' finché non avessimo sistemato la faccenda in corso. Poi avremmo potuto dissanguarlo insieme. Ma no, non Heydari. Quella è testarda come una mandria di grox. Ha detto che i suoi non avevano così tanto tempo, e poi è sparita."
+
+### u047499
+"Quell'ashmag..." {n}La voce di Jae è piena di rabbia e sete di vendetta.{/n} "No, c'è ancora qualcosa che vuole da me. Quindi non sono tutti morti, o comunque, per lui sarà meglio che non lo siano alcuni. Dov'è, Octy? Parla!"
+
+### u047500
+"Tranciata da una pala di ventola. C'è stata una retata dei tutori dell'ordine e ho dovuto passare per il condotto di ventilazione. Era una via di fuga affidabile. Avevamo messo in corto la ventola poco prima. Be', i bastardi l'hanno scoperto e l'hanno rimessa in funzione. Tutti ridotti a carne tritata, e io sono stata fortunata." {n}Ryzza dà una pacca senza gioia alla protesi.{/n} "Quel giorno ho capito che la guerra contro Chorda non era più la mia guerra."
+
+### u047501
+{n}Ryzza lancia un'occhiata a Octaviana, aspetta che capisca l'antifona e distolga lo sguardo, poi dice,{/n} "Al servizio di Vostra Signoria."
+
+### u047502
+"Ah, Octy, mi era mancato il tramonto infuocato dei tuoi capelli, shereen! Scusa se oggi non ho portato regali, ma di certo ci scoleremo ancora un giro o due..."
+
+### u047503
+"Lo sai benissimo dove." {n}Octaviana fa un cenno verso una porta dall'aspetto dimesso, coperta da una lastra di metallo.{/n} "Le fogne sono il posto di quel ratto. Sai, voleva vendere tutti noi a Chorda. Compreso Vladaym. Avresti dovuto vedere la faccia di Falco quando Vladaym gli ha portato addosso per primi i cani dell'Inquisitore, ah ah!"
+
+### u047504
+"Non ho combattenti, ma ho un carico di armi xenos. Letali, ma senza garanzie di qualità. Capire come funzionano è già abbastanza difficile. Ma resta meglio della robaccia con cui sono armati i bravacci di Vladaym. Un giro lo offre la casa."
+
+### u047505
+{n}La donna vi guarda pensierosa.{/n} "E con 'noi' intendete voi e Vladaym? Lui ha sempre un piano. Ma di certo non è sempre il piano migliore. Perché dovrei fidarmi della vostra idea?"
+
+### u047506
+"Siete {mf|disposto|disposta} a opporvi a lei di persona? Questo cambia parecchio le cose. Con voi la resistenza ha una possibilità... Sapete davvero come ribaltare una situazione, Vostra Signoria."
+
+### u047507
+"Mi dispiace, Vostra Signoria, ma se il vostro piano fallisce, saremo tutti appesi mentre Sua Infallibile Signoria non vi toccherà con un dito. Il vostro rischio e il nostro sono poli opposti."
+
+### u047508
+{n}Octaviana distoglie lo sguardo. Sembra che le tue parole abbiano toccato un nervo scoperto.{/n} "Avete ragione. Il tempo sta finendo. Ne resta pochissimo. Non me ne importa un accidente di quale sia il vostro piano. Ci sto."
+
+### u047509
+"Forse. O forse domani Sua Infallibile Signoria farà arrabbiare il Lord Inquisitore, partirà per una campagna e cadrà in battaglia contro i nemici dell'Umanità, o semplicemente soffocherà nel suo stesso veleno. E allora io sarò viva, e lei no."
+
+### u047510
+"Hmm... È generoso, Vostra Signoria. Molto generoso. Se non ci faremo ammazzare tutti, l'Amasecus sarà inondato di troni. D'accordo, affare fatto, ma ho una condizione. Scrivetemi un documento in cui i vostri eredi rinunciano al diritto di rimangiarsi la promessa. Perché, come potete capire, se questa cosa non funziona, molto presto ci sarà un nuovo Rogue Trader von Valancius."
+
+### u047511
+"È un onore per la vecchia Ryzza conversare con Vostra Signoria, così, su due piedi."
+
+### u047512
+"Siete in una posizione invidiabile, è tutto ciò che posso dire, Vostra Signoria. Nell'Atrium troverete centinaia di persone in attesa di processo che darebbero qualsiasi cosa per una dose di veleno letale."
+
+### u047513
+"Non sprecate la vostra lingua d'argento con me, Vostra Signoria. Non arriveremo a un accordo. E poi, a cosa vi servirei io in questa vostra guerra?"
+
+### u047514
+{n}Ryzza sfoggia un sorriso malvagio e risponde piano,{/n} "Posso assicurarvi che non avevo intenzione di farlo. Vladaym il Vackemo non ha futuro. Lui non lo vede, ma io sì. E anche voi. Quando verrete a prendere la sua testa, o ci verrà Sua Signoria Chorda, potete fidarvi che la vecchia Ryzza si farà da parte... Specie se mi garantite la sicurezza."
+
+### u047515
+{n}I tuoi occhi vedono subito attraverso la pirata, e percepisci che il peso delle sue colpe è così grande che presto la trascinerà a fondo. La sua paura ha permesso a una volontà malevola di affondarle gli artigli nell'anima e di farla a pezzi lentamente.{/n}
+
+### u047516
+{n}Octaviana abbassa la voce.{/n} "Vladaym ha lasciato che la stazione gli sfuggisse di mano. Molti non ne sono contenti, soprattutto i suoi soci in affari. Se dovesse succedere qualcosa a Tocara, venite qui. {d|Encyclopedia:KasballicaRep_Mid}I vostri rapporti con la Kasballica{/d} non dovrebbero risentire delle ambizioni del vecchio Liege."
+
+### u047517
+{n}La pirata socchiude gli occhi.{/n} "Cosa, quindi ora siete come {mf|Sua Signoria|l'altra Signora}? Un'occhiata e distinguete i malvagi dai giusti? Suppongo sia facile indovinare che una pirata abbia una o due malefatte sulla coscienza, ma nessuno mi ha mai accusata di servire l'Arcinemico. Mi ferite, Vostra Signoria!"
+
+### u047518
+{n}Per quanto Ryzza cerchi di trasformare tutto in uno scherzo, c'è ansia nei suoi occhi, e la sua mano va inconsciamente verso qualcosa nascosto sotto la camicia sul petto, come se cercasse di nasconderlo ancora di più al tuo sguardo.{/n}
+
+### u047519
+{n}Ryzza cerca chiaramente di trasformare la tua domanda in uno scherzo, ma la sua ansia è comprensibile. La situazione sulla stazione non aiuta a rasserenare gli animi dei suoi abitanti, soprattutto di chi è coinvolto in attività illecite.{/n}
+
+### u047520
+"Meno male che non sono un'eretica, come senza dubbio sapete. Riporrò le mie speranze nella vostra clemenza, Vostra Signoria." {n}Ryzza sorride cupa, cercando di nascondere agitazione e smarrimento, mentre la mano tremante porta alle labbra un bicchiere vuoto.{/n}
+
+### u047521
+{n}L'espressione di Ryzza si fa di pietra. Scruta con tensione nel bicchiere, come per cercarvi sul fondo una risposta. Infine solleva gli occhi su di te, con un aspetto incredibilmente stanco.{/n} "Siete crudele, sapete, Vostra Signoria. Il modo in cui avete scovato dove questa vecchia pirata nascondeva la sua coscienza e l'avete trascinata alla luce scalciante e urlante."
+
+### u047522
+"Mi ero cacciata in un guaio troppo grosso e ho quasi trascinato giù i miei con me. Sarei una pessima capitana se lasciassi che la paura uccida il mio equipaggio. Ringraziate la vostra eccellenza per avermi rimesso in testa un po' di buonsenso. Avete da accendere?"
+
+### u047523
+{n}La pirata si strappa con noncuranza dal collo una specie di amuleto, raffigurante una belva zannuta coronata di corna. Lo getta nel suo bicchiere quasi vuoto di acquavite scadente e vi getta dietro il fiammifero che le hai offerto. Il contenuto del bicchiere viene subito avvolto da una fiamma viola e blasfema. Un minuto dopo, non restano che cenere e un'orrenda pozza di metallo nero sul fondo. Soddisfatta del risultato, Ryzza frantuma il bicchiere sul pavimento.{/n}
+
+### u047524
+{n}Gli avventori accolgono la tua ultima frase con un ruggito entusiasta. Il tuo discorso sentito ha trovato eco tra la gente comune e sembra aver scosso anche Octaviana.{/n} "Sapete davvero come essere {mf|persuasivo|persuasiva}, Vostra Signoria. Avete ragione. Siete {mf|pronto|pronta} a rischiare la vita per noi, e io qui a fare la schizzinosa come una nobile a cui offrono una barretta nutritiva fatta di amido di cadavere. Potete contare su di me."
+
+### u047525
+{n}I tuoi occhi vedono subito attraverso la pirata, e percepisci che il peso delle sue colpe è così grande che presto la trascinerà a fondo. Spingerla oltre il limite non richiederebbe molto sforzo. La pirata stessa sembra quasi ansiosa di tuffarsi a capofitto nelle acque torbide.{/n}
+
+### u047526
+"Vostra Signoria sta cercando di trascinare la vecchia Ryzza in una faccenda pericolosa. Lasciate perdere. Tengo troppo alla mia pelle."
+
+### u047527
+{n}Gli occhi di Ryzza si spalancano.{/n} "Anche voi? Non avrei mai pensato che la vostra eccellenza... Questo cambia tutto. Ora vedo che ho fatto la scelta giusta quando ho riposto la mia fiducia nel... nostro alleato influente."
+
+### u047528
+"Ne avrebbe avuti di più se non fosse stato per il Reverendo Hieronymus. Molti sono caduti vittima dei suoi sermoni e si sono dati al pentimento e alla confessione. Ha convertito così tanti alla fede che non osano più toccarlo. Il vecchio è una forza con cui fare i conti, ormai."
+
+### u047529
+"State premendo sul punto più vulnerabile, Vostra Signoria: la tasca. I miei soci saranno molto delusi se rovino il nostro rapporto. Temo che non mi lasciate altra scelta che dire di sì."
+
+### u047530
+"Il Reverendo Hieronymus è l'unico che è fiorito in mezzo a questa follia. Lui e i suoi missionari passano giorni e notti a predicare fino a rimanere senza voce, parlando della sofferenza che ci siamo attirati addosso. È quasi come se da un giorno all'altro stesse per afferrare lui stesso un lanciafiamme. E a spaventarmi non sono tanto i suoi sermoni infuocati, quanto il fatto di essere sul punto di crederci io stessa..."
+
+### u047531
+"Smettila, Ryzza. Non ti trattengo qui, quindi smetti di cercare di trascinarmi via con te."
+
+### u047532
+"Credetemi, Vostra Signoria, se avessi voluto partecipare a guerre e ribellioni, sarei diventata una bandita, non una barista."
+
+### u047533
+{n}Octaviana aggrotta la fronte e scuote la testa.{/n} "Non ne saranno contenti. I miei superiori apprezzano soci in affari come voi. Il che significa che dovrei aiutarvi se non voglio morire di una morte brutta, lunga e dolorosa."
+
+### u047534
+"Come te la cavi sotto il governo di Incendia Chorda?"
+
+### u047535
+"Vorrei fare un accordo."
+
+### u047536
+"Dov'è Opticon-22?"
+
+### u047537
+"Richiedo l'accesso all'interfaccia commerciale."
+
+### u047538
+[Mostra la tavoletta dati] "Ho dati sui pianeti che interesseranno i tuoi proprietari."
+
+### u047539
+"Perché continui a dire 'Gloria all'Omnissiah'?"
+
+### u047540
+{n}Il Tecnoprete, che porta un emblema da Explorator sulla veste scarlatta, rivolge su di te lo sguardo fisso delle sue lenti oculari potenziate e dice, con voce sibilante,{/n} "Funzionalità di saluto avviata. Gloria alla Casata von Valancius. Terminale commerciale Zeta-42//33-Mu, proprietà della Explorator Cognisance Fleet dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g}, pronto a elaborare le richieste in arrivo. Formula la tua richiesta. Gloria all'Omnissiah."
+### u047541
+"Riproduzione di notifica automatica. Ascolta e obbedisci. Grazie alla tua collaborazione, i settori di competenza della linea di rifornimento Kappa Thread sono stati esplorati per intero. Come stabilito dal protocollo, ulteriori richieste di scambio di informazioni con l'unità Zeta-42//33-Mu riguardanti l'esplorazione planetaria sono bloccate. Questo terminale commerciale sta avviando un trasferimento di dati al conclave della Cognisance Fleet."
+
+### u047542
+"I dati relativi al contributo dell'unità {name} von Valancius alla causa della comprensione totale sono stati aggiunti al pacchetto di informazioni da trasferire alla Cognisance Fleet. In base alla subroutine di incoraggiamento del mutuo soccorso, nel tuo fascicolo sarà annotato che ti è stato concesso lo status di servizio privilegiato. Gloria all'Omnissiah."
+
+### u047543
+"Richiesta di informazioni respinta. Risposta accettabile non trovata per il seguente motivo. Ascolta e obbedisci. La richiesta esula dalle funzionalità di Elaborazione di commercio e di Richieste e offerte di informazioni. Prova a riformulare la richiesta." {n}Senza perdere un colpo, il Tecnoprete aggiunge con sicurezza,{/n} "Gloria all'Omnissiah."
+
+### u047544
+"Canale di elaborazione richieste aperto. Il terminale commerciale Zeta-42//33-Mu ascolta e obbedisce. Formula la tua richiesta. Gloria all'Omnissiah."
+
+### u047545
+"Richiesta di identificazione accettata. Risposta accettabile trovata. Ascolta e obbedisci. L'identificativo di questa unità è Terminale commerciale Zeta-42//33-Mu. Scopo designato: elaborare le richieste e le offerte di commercio e di informazioni rivolte alla Explorator Cognisance Fleet dell'Adeptus Mechanicus. Formula la tua richiesta. Gloria all'Omnissiah."
+
+### u047546
+"Richiesta di informazioni accettata. Risposta accettabile trovata. Ascolta e obbedisci. All'unità Logis Opticon-22 è stato ordinato di lasciare la località Footfall e dirigersi verso la località strategica Eufrates II per fornire supporto alla Explorator Cognisance Fleet. Dopo l'esecuzione dei riti standard sul Terminale commerciale Zeta-42//33-Mu, questo è stato ritenuto un adeguato sostituto funzionale e ha ricevuto la benedizione di elaborare le richieste nella località Footfall. Formula la tua richiesta. Gloria all'Omnissiah."
+
+### u047547
+"Richiesta di scambio di informazioni accettata. Risposta accettabile trovata. Ascolta e obbedisci. Le informazioni fornite sono state giudicate conformi alla norma e sono accettabili. Questa unità è grata alla Casata von Valancius per la sua collaborazione. Sarà ricompensata in conformità alla subroutine di incoraggiamento del mutuo soccorso. Gloria all'Omnissiah."
+
+### u047548
+"Funzionalità di elaborazione richieste sospesa. Gloria all'Omnissiah."
+
+### u047549
+"Richiesta di informazioni accettata. Risposta accettabile trovata. Ascolta e obbedisci. L'unità Rogue Trader Incendia Bastaal-Chorda e le azioni dell'unità specificata non hanno effetti significativi sul funzionamento di questa missione della Explorator Cognisance Fleet, poiché l'unità specificata non ha alcuna giurisdizione sull'Adeptus Mechanicus né su alcuno dei suoi beni. Gloria all'Omnissiah."
+
+### u047550
+"Analisi della richiesta fallita. Intendi accedere all'interfaccia commerciale? Gloria all'Omnissiah."
+
+### u047551
+"Riproduzione di notifica automatica. Ascolta e obbedisci. La Cognisance Fleet approva il tuo desiderio di contribuire alla causa dell'acquisizione della conoscenza totale. La Cognisance Fleet è aperta a ulteriori donazioni di dati."
+
+### u047552
+"Liege Tocara. I miei saluti."
+
+### u047553
+"Chi abbiamo qui? Una coppia di insorti incalliti?"
+
+### u047554
+"Non badate a me, continuate pure."
+
+### u047555
+"Perché dovrei partecipare a questa cosa?"
+
+### u047556
+"Di quali forze disponi?"
+
+### u047557
+"Sei così docile! Ma volevo solo vedere con quanta rapidità avresti rinnegato la tua fede e cominciato a strisciare. Ovviamente da qui non uscirai vivo."
+
+### u047558
+"Qual è il problema di Ryzza?"
+
+### u047559
+[Guarda Vladaym]
+
+### u047560
+"Come se la passa la stazione?"
+
+### u047561
+"La notizia della morte di Incendia non farà certo piacere al Lord Inquisitore."
+
+### u047562
+"Non vedo problemi a far sapere a Incendia che sei qui. Preparati. I tuoi nemici arriveranno presto."
+
+### u047563
+"Avresti dovuto inchinarti davanti a Chorda."
+
+### u047564
+"Vedo che la tua posizione di autorità non ti ha cambiato. Sei rimasto il bandito che sei sempre stato."
+
+### u047565
+[Ridi] "Che spettacolo pietoso: il vecchio fuorilegge, braccato e nascosto come un ratto."
+
+### u047566
+"Be', tra Incendia e te, lei ha fatto un lavoro migliore nell'imporre l'ordine."
+
+### u047567
+Hai attaccato i ribelli guidati da Vladaym Tocara.
+
+### u047568
+[Sguaina l'arma e grida] "In nome della legge, ogni insorto presente qui è in arresto!"
+
+### u047569
+"Vado a dare un'occhiata in giro."
+
+### u047570
+Hai accettato di rovesciare Chorda per salvare quante più vite possibile.
+
+### u047571
+"Ti aiuterò a rovesciare Chorda. Ogni secondo del suo dominio costerà la vita a centinaia di innocenti."
+
+### u047572
+"Sarà fatto."
+
+### u047573
+"Perché Hieronymus si è presentato qui?"
+
+### u047574
+"Sei al corrente che Octaviana sta già ambendo alla tua posizione nella Kasballica?"
+
+### u047575
+[draft] Jae and I are looking for Falco.v
+
+### u047576
+"Vado a vedere Calcazar. Ci sono cose serie di cui devo discutere con lui."
+
+### u047577
+"Jae ha qualche domanda per te. Riguardo a Falco e alla sua banda."
+
+### u047578
+"Perché Ryzza ti ha chiamato Vackemo?"
+
+### u047579
+"Che tipo di aiuto ti aspetti da me?"
+
+### u047580
+"Come sta andando la stazione? Vedo che hai di nuovo tutto sotto controllo."
+
+### u047581
+"Ho capito il tuo piano."
+
+### u047582
+Hai accettato di distruggere Chorda e hai denunciato la giustizia dell'Imperatore.
+
+### u047583
+"Abbasso Chorda. La giustizia dell'Imperatore ha finalmente rivelato il marciume che ha nel cuore. Anneghiamolo nel sangue dei paladini autoproclamati della fede!"
+
+### u047584
+"Commerciamo. Mi serve la merce della vostra organizzazione."
+
+### u047585
+Hai fatto inginocchiare Vladaym Tocara davanti al Grande Faro.
+
+### u047586
+"Vuoi il mio aiuto? Puoi averlo, a una condizione. Nel mio protettorato sono {mf|venerato|venerata} come una divinità. Cadi in ginocchio, rinnega ogni altro patrono e giura fedeltà a me, il Grande Faro, {mf|dio vivente|dea vivente}."
+
+### u047587
+"Vorrei fare un accordo con la Kasballica."
+
+### u047588
+"Non hai altre opzioni, Ryzza. Se abbandoni Footfall a Chorda e fuggi, dove andrai a vendere la tua merce? O a rifornirti? Sarà solo una lenta agonia per tutti voi, senza munizioni, senz'acqua e senz'aria. Quindi smettila di mercanteggiare col destino e attieniti al piano."
+
+### u047589
+{n}Vladaym si fa scivolare gli occhiali lungo il naso e ti guarda. I suoi occhi sono stanchi ma accesi di rabbia.{/n} "Vostra Signoria?"
+
+### u047590
+"Un piano? Più che altro un patto suicida. Non hai alleati, non hai armi, non hai... niente!" {n}Vladaym e Ryzza ti notano, e la vecchia pirata ghigna sarcastica.{/n} "Sei un pivello che cerca di giocare con i grandi, Vackemo. Hai sfidato una dinastia di Rogue Trader con una manciata di scagnozzi e un paio di pistole. A me pare che la tua marcia verso la forca sia più che altro un galoppo."
+
+### u047591
+{n}Vladaym risponde con tono rigido e formale,{/n} "Chiedo scusa se non ho potuto ricevere Vostra Signoria nel mio ufficio. Il mio attuale status mi impone certe... limitazioni."
+
+### u047592
+{n}Con un sorriso ironico, Vladaym ti corregge:{/n} "Sobillatori empi e senza legge che sono una minaccia per la sicurezza di questa stazione. Vi prego di rivolgervi a noi con i nostri titoli completi."
+
+### u047593
+"È difficile ignorarvi, Vostra Signoria. Avete l'abitudine di alterare radicalmente lo stato delle cose in qualsiasi situazione vi gettiate."
+
+### u047594
+"Salute, Vostra Signoria. Quanto a te, Vackemo... non ho altro da aggiungere. Il tuo piano è una vera schifezza: io non scommetto con probabilità del genere. Ti lascio a riflettere sulle tue prospettive. Magari ti renderai conto che usare la mia navetta sarebbe un'idea migliore... finché io e la mia navetta siamo ancora qui."
+
+### u047595
+"Un piccolo gruppo dei miei tagliagol... membri del personale più audaci, che erano al mio fianco quando sono salito al potere. Soci in affari che ricordano ancora che ogni impresa è affidabile solo quanto la presa dell'imprenditore sulla sua pistola. A questo aggiungete il gruppo di mercenari xenos che i miei... colleghi della Missione Kasballica mi hanno fornito. Una soluzione radicale, lo so, ma a loro non importa chi uccidono finché li pago, e io ho i mezzi per pagarli."
+
+### u047596
+"Saremmo di più se Ryzza non fosse così maledettamente prudente, e se Hieronymus ci facesse il favore di chiudere la sua bocca da predicatore..." {n}Vladaym stringe i denti e aggiunge piano,{/n} "Avrei messo in difficoltà il buon reverendo già da un pezzo, se non fosse per la folla fanatica che accorrerebbe qui a vendicarlo."
+
+### u047597
+{n}L'ex Liege sembra {d|Encyclopedia:Ch2_FootfallNotAlly}esausto{/d}. Gli occhiali non riescono a nascondere le occhiaie. Il colletto del cappotto è unto e sbottonato, e lascia intravedere la trama dell'armatura rinforzata in ceramite nascosta sotto. Accanto alla gola c'è un'evidente ammaccatura, lasciata da un proiettile. Tuttavia, per quanto stanco, l'uomo non mostra segni di resa: le labbra sono serrate in una linea dura, i movimenti sono netti, e i tatuaggi da bandito sotto le maniche rimboccate ricordano chi era Vladaym Tocara prima di salire al trono di Liege.{/n}
+
+### u047598
+{n}L'ex Liege sembra {d|Encyclopedia:Ch2_FootfallAlly}furioso e concentrato{/d}. Il colletto del cappotto è sbottonato e lascia intravedere la trama dell'armatura rinforzata in ceramite nascosta sotto. Al fianco porta una fondina con una pistola. Ora che Vladaym ha gettato la maschera del burocrate scontento, ha le maniche rimboccate, che mostrano i suoi vecchi tatuaggi da bandito. Emana un'aura di crudeltà imperiosa.{/n}
+
+### u047599
+{n}Noti il congegno che sostituisce la gamba destra di Ryzza: un groviglio di grossi cavi attorno a pistoni cilindrici industriali. Un'augmetica di fortuna, assemblata con quello che c'era a disposizione ai moli. La pirata {d|Encyclopedia:Ch2_FootfallNotAlly}non la porta da molto{/d}, a giudicare dai punti ancora freschi sul moncone. Ogni tanto la gamba emette scintille.{/n}
+
+### u047600
+"È diventato un regno di morte. Giustiziare i manifestanti, reprimere i commercianti corrotti e soffocare il dissenso sono tutte politiche buone e utili entro limiti ragionevoli. Le ho usate anch'io, in effetti. Tuttavia, con Lady Chorda i limiti ragionevoli sono ormai un lontano ricordo."
+
+### u047601
+"E vi avevo avvertito, no?, che sarebbe successo se non ci aveste aiutato con le provviste. Quando Chorda è arrivata qui, ci siamo opposti alla sua dittatura, ma i ranghi dei miei soci fedeli si assottigliavano di giorno in giorno. Alla fine è bastato un solo bel pugno sui denti perché la stazione si arrendesse e implorasse pietà. Pochi hanno trovato la forza di resistere."
+
+### u047602
+"Per fortuna mi stavo preparando a questa svolta fin da quando quella megera ha tentato di prendere Footfall la prima volta. Voi ci avete aiutato allora, dandomi il tempo di organizzarmi. Ho allestito depositi di armi, arruolato altri combattenti e cancellato i dati dei miei agenti dalla rete dei cogitatori. Quando Chorda ha preso il potere, pensava di aver vinto, ma la stazione era ancora mia... in una certa misura."
+
+### u047603
+"Il mio piccolo esercito sta facendo la guerra ai tutori dell'ordine. Massacriamo le pattuglie, strappiamo di nuovo i detenuti, e puniamo chi collabora col nemico... o è vicino a qualcuno che lo fa." {n}Il sorriso spietato di Vladaym è come una tagliola d'acciaio dentata.{/n} "Incendia conduce le sue rappresaglie e io conduco le mie. Tutti devono ricordare che collaborare con la forza occupante ha delle conseguenze."
+
+### u047604
+{n}Vladaym ridacchia cupo.{/n} "Arrendermi? Strisciare sulla pancia, implorando clemenza? Se aveste idea di quanti cadaveri ho lasciato sparsi sui ponti di questa stazione durante la mia scalata al potere, sapreste che preferirei morire in una camera del vuoto piuttosto che vedere quella cagna posseduta distruggere la mia stazione."
+
+### u047605
+{n}Vladaym sorride asciutto.{/n} "Le vecchie abitudini sono dure a morire. Ammetto che non rimpiangevo esattamente i giorni della mia giovinezza, ma ritrovarmi di nuovo sulla linea di fuoco è... corroborante."
+
+### u047606
+{n}Vladaym serra le labbra in una linea sottile.{/n} "Mi sono trovato in ogni genere di situazione quando ero giovane... comprese quelle disperate. Questo ratto è stato messo alle strette più di una volta. Ma è sempre uscito da quell'angolo con la pancia piena della carne del suo cacciatore. Vi assicuro che non ho alcuna intenzione di rinnegare i miei vecchi princìpi."
+
+### u047607
+{n}L'ex Liege fa una smorfia come per un mal di denti.{/n} "Non c'è niente da obiettare. E io che pensavo che l'ordine andasse imposto uccidendo chi è dannoso per Footfall e proteggendo chi è utile, impiccando i sobillatori e incoraggiando commercianti ed esploratori. Più sciocco io. A quanto pare avrei dovuto impiccare chiunque mi capitasse a tiro e mettere davanti al plotone d'esecuzione tutto il commercio del settore."
+
+### u047608
+{n}Vladaym annuisce con attenzione, poi abbassa lo sguardo su una tavoletta dati che mostra una mappa dei sistemi della stazione. La scruta con espressione pensierosa.{/n}
+
+### u047609
+{n}Vladaym è fulmineo nell'estrarre la pistola dalla fondina e... sorride.{/n} "Mi era mancato. Tutti quanti: se vi pago in troni, vuol dire che voi... in battaglia!"
+
+### u047610
+"Sono lieto che siate con noi, Vostra Signoria. È una battaglia per cui dobbiamo essere ben preparati. Come diceva un... mio collega, se il cervello non ti fa male a furia di pensare a dove nasconderti, scoprirai che nemmeno il tuo cranio è abbastanza duro quando la battaglia comincia. Il che suona particolarmente ironico, considerando come è morto. Vorrei chiedere la vostra opinione su quanto siamo preparati a intrattenere Lady Incendia."
+
+### u047611
+{n}Uno sguardo fisso si posa su di te.{/n} "Spero che lo troviate promettente."
+
+### u047612
+"Perché una stazione di importanza critica nella Distesa sta per diventare un cimitero. Quando il commercio morirà, i mercanti si volgeranno alla pirateria. Che altro potrebbero fare? I collegamenti tra i mondi si indeboliranno, dato che Chorda farà presto piazza pulita degli Astropati non appena li raggiungerà. E Chorda, pensate che Footfall le basterà? No, marcerà oltre... forse anche verso i vostri mondi."
+
+### u047613
+{n}Il Liege, appena reintegrato, sembra stanco ma... {d|Encyclopedia:Ch4_Footfall_VladaymLiege}soddisfatto di ciò che accade attorno a lui{/d}. Le sue dita tamburellano sulla tavoletta dati mentre invia istruzione dopo istruzione.{/n} "Vostra Signoria? C'è qualcosa che Footfall può fare per ringraziarvi della sua liberazione?"
+
+### u047614
+"Ha dei dubbi sulla... prospettiva della nostra cooperazione. La vecchia canaglia preferisce non cercare lite a meno che la vittoria non sia già scontata. E in questo momento sembra intenzionata a fuggire piuttosto che a combattere. Ha bisogno della giusta motivazione... Peccato che non ci sia nessuno a cui quella gelida cagna tenga abbastanza da permettermi di prenderlo in ostaggio."

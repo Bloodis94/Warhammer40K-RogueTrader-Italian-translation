@@ -1,0 +1,724 @@
+### u016156
+"Che significa tutto questo?"
+
+### u016157
+"Voigtvir, feccia doppiogiochista! Sei tu il responsabile di questo caos!"
+
+### u016158
+"Che c'è, consanguineo degenerato? Il tuo sangue è troppo debole per la Sentinella?"
+
+### u016159
+"Quale misera, patetica scusa hai per la tua apostasia, lurido, miserabile sacco di merda di grox?"
+
+### u016160
+"Non ho alcuna intenzione di aiutarti!"
+
+### u016161
+"Ti aiuterò. Purché tu risparmi la mia vita."
+
+### u016162
+"Va' nel vuoto!"
+
+### u016163
+"Farò ciò che richiedi... ma troverò il modo di fartela pagare, feccia."
+
+### u016164
+"Basta minacce. Acconsentirò alle tue richieste."
+
+### u016165
+"Perché lo stai facendo?"
+
+### u016166
+[Usa i tuoi poteri psichici contro Voigtvir]
+
+### u016167
+"Attenzione! Attenzione! Siate gentili col nostro ospite: {mf|lui|lei} ha un compito importante da svolgere durante la nostra visita alla Camera del {g|Encyclopedia:Warrant}Mandato{/g}, e per questo mi serve {mf|vivo|viva}." {n}Voigtvir ti guarda dall'alto.{/n} "Vedo che sei {mf|tornato|tornata} tra noi. Delizioso."
+
+### u016168
+{n}Voigtvir inclina la testa.{/n} "Hmm... Potrei prenderlo in considerazione. Una volta che avrai fatto ciò di cui ho bisogno."
+
+### u016169
+{n}Le voci nella tua testa persistono nelle loro pretese, eppure senti questo coro invisibile vacillare per un istante sotto la forza della tua determinazione... finché l'influenza intrusa ti costringe ad alzarti e ti spinge verso i portali che incombono al centro della camera.{/n}
+
+### u016170
+"Devi aver battuto la testa più forte di quanto pensassi... Non importa: di te serve pochissimo. Soltanto il tuo sangue, che puoi offrire di tua spontanea volontà, oppure te lo farò versare io."
+
+### u016171
+"Che perspicacia, {name}. Ti aiuterò con la prossima intuizione: mi servi qui per il tuo sangue. Puoi offrirlo volontariamente, oppure te lo spremerò fuori io stesso."
+
+### u016172
+"Siamo nell'anticamera della Camera del Mandato, il sacrario più sacro di questa nave del vuoto. Là dentro, oltre quei portali, giace la reliquia che dà a Theodora tutto il suo potere: il sacro {g|Encyclopedia:Warrant}Mandato di Commercio{/g}. Sul mio cammino per ottenerlo resta un solo ostacolo: i portali della Camera sono sorvegliati dalla Sentinella, un antico dispositivo che aprirà la porta solo a un vero erede della dinastia. Mi aspettavo di occuparmene io stesso, ma... non importa. Offrirai il tuo sangue alla Sentinella."
+
+### u016173
+"Al contrario. La benedizione del warp mi ha elevato troppo al di sopra della tua specie, von Valancius. La Sentinella si è rifiutata di sottomettersi a me... ma tu puoi aiutarmi: in fondo, a che serve la famiglia?"
+
+### u016174
+"Bravo {mf|ragazzo|ragazza}. Allora va' dalla Sentinella ai portali della Camera del Mandato e adempi al tuo destino. Speravo di dare in pasto Edelthrad alla macchina — in fondo è lui ad aver attirato l'attenzione di Theodora — ma dato che procurarmelo si è rivelato difficile, dovrai bastare tu."
+
+### u016175
+"Temo che tu, {name} von Valancius, non abbia scelta." {n}Voigtvir estrae uno strano oggetto: una lama senza impugnatura che brilla di azzurro alla luce.{/n} "Prova a resistere e ti mostrerò il potere che il warp esercita sui mortali. A pensarci bene, potrei perfino trarne un certo piacere."
+
+### u016176
+{n}La lama lampeggia nella luce fioca e sul tuo palmo compaiono gocce di sangue. Per un breve istante senti la nausea, la testa ti gira... poi sussurri sommessi iniziano a inondarti la mente. Sempre più voci senza fonte si fanno eco a vicenda, sovrastando i tuoi pensieri... sostituendoli con un unico impulso... Va'. Al portale. Va'. Al portale. Va'. Al portale.{/n}
+
+### u016177
+"Ne dubito, mia cara {name}. Ma basta chiacchiere. Adempi al tuo destino."
+
+### u016178
+{n}Qualcosa — il tuo tono o le parole velenose — fa perdere per un attimo l'equilibrio a Kunrad, mentre una furia carica d'odio divampa da sotto la maschera del freddo professionista.{/n} "Miserabile? Che ne sai tu della miseria, cane di Theodora? Speri di comprarti un granello della sua indulgenza con la tua cieca lealtà? Oh, conosco bene questa illusione, ma, grazie agli dei, non ha più alcun potere su di me. L'umanità può marcire: io non servo più il genere mortale."
+
+### u016179
+{n}Voigtvir esita per un secondo, poi estrae una strana arma: una lama senza impugnatura che brilla di azzurro alla luce.{/n} "Quando il mio lavoro sarà finito, farò assistere quella pomposa sgualdrina di von Valancius al sacrificio della sua intera dinastia, il cui destino affiderò agli dei... e tu, {name}, sarai lo strumento con cui compirò questo giusto atto."
+
+### u016180
+"Perché? Perché eseguo un ordine. Ciò che sta accadendo ora sulla nave è in preparazione da moltissimo tempo. Non resta che ottenere ciò per cui i miei padroni mi hanno mandato. Il Mandato di Commercio."
+
+### u016181
+{n}Chiudi gli occhi e provi a {d|Encyclopedia:CharGen_Psyker}concentrarti{/d}... poi senti il tocco di qualcosa di affilato: Voigtvir ha in qualche modo percepito un mutamento nel warp e ha sferrato un attacco preventivo.{/n}
+
+### u016182
+{n}Le voci nella tua testa ridacchiano e scherniscono il tuo grido disperato. Senti questa {d|Encyclopedia:Prologue_CutByKnife}influenza intrusa{/d} costringerti ad alzarti e a fare un passo verso i portali che incombono al centro della camera.{/n}
+
+### u016183
+"In qualunque stato? Che significa?"
+
+### u016184
+"Ammutinamento? Ma chi tenterebbe mai un ammutinamento qui, nel warp?"
+
+### u016185
+"Un ammutinamento contro l'unto dell'Imperatore! Giustiziate i traditori, fino all'ultimo!"
+
+### u016186
+"Dobbiamo prestare soccorso immediato a chi è rimasto sui ponti intermedi. Forse allora potremo fermare l'espandersi di quest'ondata."
+
+### u016187
+"Se si tratta davvero di un grave caso di follia da warp, la situazione è disperata..."
+
+### u016188
+"Odo e obbedisco, Lord Capitano."
+
+### u016189
+"Farò tutto ciò che è in mio potere."
+
+### u016190
+"Non posso promettere che non perderò il nostro carissimo erede da qualche parte lungo la strada..."
+
+### u016191
+"Mi arrangerò. Fate strada."
+
+### u016192
+"Ho una proposta: dato che qui sono io la persona più importante, tu puoi andare davanti a farmi da scudo contro eventuali minacce."
+
+### u016193
+"Farete meglio a non deludermi. Il Lord Capitano ha chiarito che affidarsi a voi è carico di rischi."
+
+### u016194
+{n}Kunrad Voigtvir emette un sospiro di sollievo nel vederti.{/n} "Sia ringraziata la provvidenza, siete {mf|vivo|viva} e in salute..."
+
+### u016195
+"Maestro dei Sussurri, che sta succedendo sulla mia nave? La {g|Encyclopedia:Vox}rete vox{/g} è muta, il Maestro del Vox non risponde, assalitori armati hanno preso d'assalto il ponte degli ufficiali e il mio Arch-Militant ha appena distrutto altri eretici lungo la strada fin qui. È un grave caso di follia da {g|Encyclopedia:Warp}warp{/g}? Alcuni membri del mio equipaggio hanno perso la ragione e dimenticato chi sono e chi servono? Rapporto!"
+
+### u016196
+"Non ho ancora ricevuto notizie dall'enginarium su eventuali guasti al campo Geller... ma le comunicazioni erano già instabili mezz'ora fa e ora sono cessate del tutto. Qualunque sia la causa, le conseguenze si diffondono in fretta. Ricevo rapporti frammentari dai ponti intermedi, e le uniche trasmissioni vox dalle stive inferiori sono farneticazioni eretiche a senso unico." {n}Voigtvir fa una pausa.{/n} "Il fatto che i folli abbiano già raggiunto il ponte degli ufficiali suggerisce che questo oltraggio sia stato pianificato in anticipo. Forse si tratta di un ammutinamento organizzato."
+
+### u016197
+{n}L'Arch-Militant ti guarda.{/n} "Che c'è, il Lord Capitano ti ha mandato a farci fretta? Qui abbiamo finito, faccio rapporto subito..." {n}Mort estrae il vox dalla cintura e riferisce in fretta sulla situazione.{/n}
+
+### u016198
+"Pazzi. Sciocchi. Eretici. Questa nave ospita migliaia e migliaia di persone: pensieri perniciosi e deliri indotti dal warp potrebbero aver contaminato chiunque. È una nozione difficile da accettare, ma rischi simili sono inevitabili."
+
+### u016199
+"Prima dobbiamo confermare che il ponte di comando e il Sanctum del Navigatore siano al sicuro... e io ho i mezzi per fare entrambe le cose insieme." {n}La sua espressione cambia mentre i suoi occhi lampeggiano in modo sinistro.{/n}
+
+### u016200
+"Non ne sai neanche la metà." {n}Mort sta controllando il proprio arsenale.{/n} "C'è una sola cosa peggiore del warp che ci intontisce il cervello dell'equipaggio, ed è il warp stesso che striscia sui nostri ponti... Bah, non dovrei nemmeno pensarci: porta sfortuna! I vostri ordini, Lord Capitano?"
+
+### u016201
+{n}Theodora guarda Voigtvir.{/n} "Edelthrad: dov'è? Devo sapere se è illeso! Uno psyker a bordo di una nave potenzialmente assalita dal warp potrebbe rappresentare una minaccia maggiore per sé e per gli altri di un intero esercito di folli con armi improvvisate!"
+
+### u016202
+"Ho provato a localizzarlo, ma l'ultima cosa che si sa dei suoi spostamenti è che è arrivato al Ponte di Transizione 18..."
+
+### u016203
+"Maledizione! Maestro dei Sussurri, trova subito Edelthrad. Siniscalco, localizza Tlass e la Sorella della Battaglia: entrambe resteranno al mio fianco. Arch-Militant, con me: devo andare nel mio studio, e a quanto pare potremmo incontrare eretici lungo la strada. {name}..." {n}Theodora ti lancia uno sguardo pensieroso.{/n}
+
+### u016204
+"Se posso, Lord Capitano?" {n}La voce di Voigtvir è sommessa e cauta.{/n} "Il Ponte di Transizione 18 è al centro del disordine e, se il nostro obiettivo è riportare indietro Edelthrad, mi servirebbe un supporto. Dopotutto, non sono abile quanto l'illustre Arch-Militant nell'affrontare direttamente i nemici della casata... e considerando i poteri psyker di Edelthrad..."
+
+### u016205
+"Allora è deciso. {name}, trova Edelthrad e portalo qui, in qualunque stato lo trovi. Questo ascensore..." {n}Indica le massicce porte.{/n} "...porta a compartimenti riservati come i miei alloggi personali e il ponte di comando. Non deludermi. Ho bisogno di entrambi, è chiaro?"
+
+### u016206
+{n}Theodora agita una mano con impazienza.{/n} "Allora in marcia! Mort, vieni!"
+
+### u016207
+{n}Theodora sibila di furia.{/n} "Non 'tutto ciò che è in vostro potere': farete come dico io! Se fallite avrò le vostre teste! È chiaro? Allora in marcia! Mort, vieni!"
+
+### u016208
+{n}Theodora scuote la testa.{/n} "Kunrad... tieni d'occhio il nostro vivace ospite. Ne sei personalmente responsabile. Mort!"
+
+### u016209
+{n}Voigtvir ti rivolge un cenno.{/n} "Siete {mf|pronto|pronta} per andare al 18? È una lunga camminata, e non avete nemmeno un equipaggiamento adeguato..."
+
+### u016210
+"Certo che lo farete." {n}Rovista in tasca alla ricerca di qualcosa.{/n} "Lady Theodora non vorrebbe mai tra i suoi eredi qualcuno di cui non possa fidarsi... ma questo non ha più importanza."
+
+### u016211
+{n}Sorride appena.{/n} "Certamente. Lady Theodora sarebbe devastata se perdesse uno dei suoi preziosi eredi... ma questo non ha più importanza."
+
+### u016212
+{n}Impallidisce alle tue parole, ma non sai dire se per vergogna o per furia.{/n} "Vedo che vi siete {mf|guadagnato|guadagnata} in fretta la fiducia di Lady Theodora, se già condivide con voi i suoi segreti più gelosamente custoditi... ma questo non ha più importanza."
+
+### u016213
+{n}Qualcosa ti colpisce con forza, con un secco crepitio, e vieni {mf|travolto|travolta} da un dolore insopportabile, viscerale.{/n}
+
+### u016214
+"Sempre puntuale, eh, Kunrad? Appena finiamo di dare la caccia alla marmaglia lungo il ponte, ecco che ti fai vedere! Sempre subito dopo che il combattimento è finito. Ci si potrebbe regolare il cronometro..."
+
+### u016215
+{n}Kunrad distoglie di proposito lo sguardo dall'Arch-Militant e lo rivolge a te.{/n} "Mort. Datti un contegno."
+
+### u016216
+{n}Kunrad tossisce.{/n} "Siamo nel warp. Considerato l'attacco... potrebbe esserci un'interruzione nel campo Geller e un'infiltrazione di forze malevole sui ponti. Gli psyker... possono reagire a simili cose nei modi più imprevedibili..."
+
+### u016217
+"Basta! Maestro dei Sussurri, non devi permettere che il mio erede si trasformi in un mutante senza mente e perisca sotto il fuoco dei tutori dell'ordine! Fa' qualunque cosa serva per riportarmi Edelthrad!"
+
+### u016218
+"Che sta succedendo?"
+
+### u016219
+"L'incidente dei servitori impazziti potrebbe essere collegato a ciò che sta accadendo ora."
+
+### u016220
+"Quali sono i vostri ordini?"
+
+### u016221
+"Come possono esserci persone armate tra i ranghi dell'equipaggio che osano attaccare il Lord Capitano?"
+
+### u016222
+{n}Theodora agita la mano in un gesto imperioso.{/n} "Mort! Prendi una squadra con te e fatti largo fino alla linea di trasporto! Non lasciare vivo nemmeno un figlio di puttana!"
+
+### u016223
+{n}Il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} volge gli occhi su di te.{/n} "Non hai battuto ciglio quando quella feccia è piombata sul ponte, eh? Niente male. Ho visto molti ufficiali farsi prendere dal panico alla vista di un combattimento sui ponti superiori: il falso senso di sicurezza offerto dalla loro posizione li rende ancora più vulnerabili alle dure realtà del viaggio nel {g|Encyclopedia:Warp}warp{/g}." {n}Guarda il {g|Encyclopedia:Vox}vox{/g} che ha in mano. Tutto ciò che senti è un'inerte statica.{/n}
+
+### u016224
+"Da ciò che abbiamo visto, {name}, posso ipotizzare che si tratti di una qualche forma di follia indotta dal viaggio nel warp." {n}Il Siniscalco è sorprendentemente calmo per qualcuno che è appena sopravvissuto a un attacco improvviso.{/n} "Simili episodi non sono rari tra i marinai del vuoto che si sono trovati fuori dai confini dello spazio reale... anche se raramente si estendono ad altri ponti."
+
+### u016225
+{n}Theodora fa scattare il vox un paio di volte.{/n} "I trasmettitori non funzionano. O sono stati sabotati. O il warp si sta prendendo gioco di noi, oppure qualcuno si è dato un gran daffare per tagliare le comunicazioni della nave. Mi serve un canale diretto con l'{g|Encyclopedia:Enginseer}Enginseer{/g} Primo prima di poter capire cosa abbiamo di fronte. Qualunque cosa sia, tenete le armi pronte. Immagino che passerà un po' di tempo prima che non ci servano più."
+
+### u016226
+{n}Il Siniscalco ti rivolge un'occhiata cupa.{/n} "Fidatevi, {name}, non c'è nulla di sorprendente per un equipaggio di migliaia di persone. I ponti inferiori sono un terreno fertile per il malcontento e l'eresia, per quanto ci si sforzi di incenerire ogni seme prima che attecchisca. Basta un accenno di influenza del warp per annebbiare le menti di bestiame normalmente obbediente."
+
+### u016227
+"Forse. Molto probabilmente." {n}Theodora fa una smorfia e aziona l'interruttore del vox un paio di volte.{/n} "Indagheremo più tardi. Ora dobbiamo isolare i compartimenti colpiti e provare a valutare la situazione."
+
+### u016228
+{n}Distoglie lo sguardo da te.{/n} "Mort è andato avanti per aprirci un varco. Se vuoi renderti utile, seguilo e vedi se l'Arch-Militant ha bisogno di aiuto. E sbrigati."
+
+### u016229
+"Le sommosse sporadiche sui ponti inferiori non raggiungono mai questi compartimenti!" {n}La rabbia di Theodora fa rimpicciolire leggermente il Siniscalco.{/n} "No, i tumulti della plebaglia restano sempre confinati nel loro territorio. Questo è troppo ben organizzato. Si sta diffondendo troppo in fretta..."
+
+### u016230
+Intendente dei Mercenari
+
+### u016231
+"Non sopporto più di vedere la sua agonia. Preferisco porvi fine."
+
+### u016232
+[Avvicinati]
+
+### u016233
+[Rivolgiti al Navigatore] "Ehi! Sei vivo?"
+
+### u016234
+[Rivolgi ad Abelard uno sguardo eloquente]
+
+### u016235
+[Rivolgiti a Idira] "Che cos'ha?"
+
+### u016236
+"Il tempo a nostra disposizione è breve per fare cosa?"
+
+### u016237
+"Stai bene?"
+
+### u016238
+"Hai bisogno di aiuto. Dobbiamo tirarti fuori da quella sedia."
+
+### u016239
+"Chi ti tormenta?"
+
+### u016240
+"Voglio aiutarti. Dimmi come."
+
+### u016241
+[Rivolgiti ai tuoi compagni] "Che cosa dovrebbe significare?"
+
+### u016242
+[Rivolgiti ad Abelard] "Il Navigatore è ancora vivo, ma a malapena. Che facciamo adesso?"
+
+### u016243
+{n}La creatura sulla sedia sembra essersi fusa con il proprio trono: vedi pelle rosea, simile a pergamena, tesa tra il sedile e arti con troppe articolazioni per un essere umano normale. Il {g|Encyclopedia:Navigator}Navigatore{/g} respira affannosamente, l'aria sibila uscendo dalle due scure fessure simili a branchie sulle sue guance. Gli occhi della creatura sono chiusi: i due occhi normali e il terzo, al centro della fronte.{/n}
+
+### u016244
+"La sua marcia tuona sotto il peso delle speranze! Dischiudete i vostri cuori e inonderò le vostre anime di miriadi di parole e significati, ciascuno presagio di salvezza dentro di me!" {n}Il Navigatore continua a contorcersi violentemente sul suo seggio, urlando e ridacchiando, ma poi la sua crisi cessa di colpo. Il suo volto è fradicio di nero e cremisi: la secrezione scura da sotto la terza palpebra è passata da un rivolo a un fiume misto al sangue che esce dal naso, e attorno all'occhio c'è un gonfiore violaceo.{/n}
+
+### u016245
+{n}Il Navigatore non ti risponde. Lacrime nere miste a sangue scorrono da sotto le palpebre chiuse, e il vox alla base della sedia ruggisce statica intervallata da echi lontani di una risata ultraterrena.{/n}
+
+### u016246
+{n}Ogni parola risuona nella tua testa come il rintocco di una campana, come se {d|Encyclopedia:Prologue_CutByKnife}innumerevoli voci{/d} si fossero unite, urlandoti nelle orecchie. Per un momento perdi l'orientamento: questo coro empio deve star cercando di confonderti con suoni non destinati a questo mondo.{/n}
+
+### u016247
+{n}Il Navigatore si agita, a stento in grado di sollevare la testa e socchiudere i suoi occhi normali. Una goccia scura scivola da sotto la palpebra chiusa del terzo occhio lungo il suo volto, lasciandosi dietro una scia nera.{/n} "Il vostro tempo... è breve..." {n}La voce proviene dalla {g|Encyclopedia:Vox}griglia vox{/g} alla base della bizzarra sedia. Non è chiaro come faccia il Navigatore a produrre un linguaggio umano.{/n}
+
+### u016248
+{n}Abelard si schiarisce la gola.{/n} "Maestro Vespiadas..."
+
+### u016249
+{n}Idira sussulta.{/n} "Ferito. Esausto. Impegnato a respingere gli orrori infiniti del warp che si fanno strada a forza nella sua testa. Scegli tu."
+
+### u016250
+{n}All'improvviso il corpo del Navigatore inizia a dibattersi sul posto: si getta in avanti, poi ricade sul sedile, poi si protende di nuovo mentre le ossa si spezzano e la pelle si squarcia. Tuttavia la fusione tra il corpo e la sedia sembra più forte di questi selvaggi impulsi: il mutante resta seduto ma si sporge in avanti quanto può, la sua veste a strati che diventa lentamente cremisi. Le fessure delle branchie si spalancano, formando due orrende fosse urlanti simili a bocche.{/n} "In ginocchio, mortali, e contemplate l'alba finale!"
+
+### u016251
+{n}Idira strilla di terrore.{/n} "È venuto dall'aldilà! Il suo corpo non è più suo!"
+
+### u016252
+"Fuggite... Lasciate questo luogo finché ho ancora la forza..." {n}Le parole escono dal vox come un rantolo affaticato.{/n} "Posso contenere... l'intrusione... ma non a lungo. Dobbiamo iniziare la traslazione... lasciare il warp... ma non si può fare senza l'aiuto del Primo Timoniere..."
+
+### u016253
+{n}Il Navigatore trae un respiro spezzato.{/n} "Fuggite. Il Sanctum verrà sigillato. Lo terrò a bada... resisterò... e attenderò il segnale del Primo Timoniere. Allora darò inizio alla traslazione. Quindi... fuggite. Fuggite!"
+
+### u016254
+"L'Edge..." {n}Il Navigatore riprende a dibattersi, le sue bocche-branchie esplodono in risate folli.{/n} "Inginocchiatevi davanti all'ascesa di un nuovo campione! Quando il rito sarà compiuto, questo guscio esploderà, e migliaia di fauci accoglieranno il sacrificio offerto all'Edge of Daybreak dall'araldo del crepuscolo, colui che è segnato dalla volontà degli dei!"
+
+### u016255
+{n}Il Navigatore, o meglio la cosa che è così determinata a impossessarsi del suo corpo, esplode in una risata di scherno.{/n} "I passi dell'araldo del crepuscolo sono velati dalla volontà dei suoi padroni. Strappatevi gli occhi, voi che diverrete serva del campione, perché non vi serviranno più!"
+
+### u016256
+"Un rito... Un sacrificio offerto... Oh, il cuore mi dice che Kunrad non si è lasciato scoraggiare dalla sconfitta nella Camera del Mandato!"
+
+### u016257
+"Cosa? Kunrad ha tradito Lady Theodora?" {n}Idira si stringe la testa.{/n} "Ma come è possibile... Come... Era fedele come un cane! E io non ho sentito niente, lo giuro!"
+
+### u016258
+{n}Il Siniscalco fissa la figura sulla sedia.{/n} "La nave può iniziare la traslazione solo con l'assistenza del Primo Timoniere... se è ancora vivo. Vale la pena tentare. Dobbiamo raggiungere il ponte di comando, ma ci servirà un supporto. La nostra unica opzione è aprirci la strada combattendo fino al ponte degli ufficiali e unire le forze con Edelthrad e la sua gente. Credo che lì troveremo anche Lady Theodora: deve aver sentito la chiamata alle armi che il servoteschio ci ha trasmesso poco fa."
+
+### u016259
+{n}Idira tende la mano verso il Navigatore, ma la ritira all'ultimo momento.{/n} "Vespiadas... buona fortuna. E grazie."
+
+### u016260
+"Credo che il Maestro Vespiadas sia ancora in vita..." {n}Abelard sussulta alla vista della pelle tesa e dei segni scuri sul volto della creatura.{/n} "I servitori sono morti... ma la camera, sia ringraziato l'Imperatore, è ancora sigillata dal warp. Bene, abbiamo una possibilità di uscire vivi da qui..."
+
+### u016261
+"Non puoi! È solo grazie al Maestro Vespiadas se siamo ancora vivi. Se cade lui, l'intera nave è condannata!" {n}Riprende fiato.{/n} "Lascia che faccia il suo dovere. Sai che sarà l'ultima cosa che farà... se resisterà abbastanza."
+
+### u016262
+{n}Il grido di Idira trova eco nelle urla silenziose nella tua testa: la {d|Encyclopedia:Prologue_CutByKnife}creatura invisibile{/d} trionfa alla vista del Navigatore che soccombe ai parossismi della corruzione.{/n}
+
+### u016263
+"No! Abelard, fermo! Mi rifiuto!"
+
+### u016264
+{n}Ravor si volta e alza lo sguardo su di te. Esita per qualche istante, poi si rivolge ad Abelard, che è in piedi accanto a te.{/n} "Siniscalco, il Sanctum del Navigatore è silenzioso. Il segnale vox è stabile, il che significa..."
+
+### u016265
+{n}Abelard annuisce soprappensiero.{/n} "Il Navigatore ha dato la vita combattendo la tempesta che ha quasi inghiottito la nave ammiraglia dei von Valancius. Onoreremo la sua memoria insieme a quella di tutti coloro che sono morti oggi."
+
+### u016266
+{n}Ravor non distoglie lo sguardo. Ti fissa duramente, le bianche sopracciglia corrugate.{/n} "Siniscalco... Ce lo direte adesso? Chi è questo? Dov'è il Lord Capitano?"
+
+### u016267
+{n}Abelard impiega del tempo a rispondere: lo guardi serrare i denti, incapace di dire qualcosa. Alla fine si sistema il cappotto macchiato di sangue, si raddrizza e comincia a parlare,{/n} "In qualità di Primo Ufficiale, è mio dovere... informarvi, con il più grande rammarico e un dolore indelebile, che il Lord Capitano Theodora von Valancius è morta. Che la sua memoria non svanisca mai dagli annali della dinastia."
+
+### u016268
+{n}Dopo aver atteso che passi la prima ondata di grida sconvolte, Abelard ti guarda e prosegue,{/n} "Per diritto di successione di sangue e in assenza di altri parenti che possano contestare questa decisione..."
+
+### u016269
+{n}Il Siniscalco si volta verso di te. Sembra invecchiato di almeno mezzo decennio.{/n} "Il dado è tratto, {name}... Le mie scuse. Intendevo dire, Lord Capitano."
+
+### u016270
+"...si dichiara con la presente che il successore di Theodora von Valancius è {name}, legittimo erede del Mandato di Commercio e del titolo di Rogue Trader. La cerimonia ufficiale di ascesa si terrà in un secondo momento. Nel frattempo..." {n}Abelard si interrompe di colpo e fulmina con lo sguardo gli ufficiali sconcertati.{/n} "Avete perso la lingua? Rendete omaggio {mf|al vostro signore|alla vostra signora}: è grazie alle sue fatiche se siamo tutti ancora vivi!"
+
+### u016271
+"Sono {mf|pronto|pronta}. Iniziate il rituale."
+
+### u016272
+"Cosa devo fare?"
+
+### u016273
+"Dobbiamo ristabilire il contatto con il Sanctum del Navigatore. È la nostra unica possibilità di fuggire dal warp."
+
+### u016274
+"Voi come avete fatto a sopravvivere qui dentro?"
+
+### u016275
+"Per l'Imperatore, è il Siniscalco! Vivo e vegeto!" {n}L'uomo dai capelli bianchi e dalla pelle di un pallore malsano ti saluta.{/n} "Ebbene, è una domanda insidiosa: tutto il posto è così invaso da una malvagità immonda che staremo a ripulirne gli schermi video per il Trono sa quanto tempo..."
+
+### u016276
+"Ripristinate il canale vox con il Sanctum del Navigatore. Preparate l'equipaggio. Preparatevi alla traslazione nello spazio reale!" {n}Abelard fa una pausa di qualche secondo prima di voltarsi verso di te.{/n} "{name}, potete chiamarmi superstizioso, ma la traslazione non è il momento di trascurare le regole. Siete {mf|l'unico|l'unica} che parla per la Casata von Valancius. Forse non siete il Lord Capitano, ma voi, più di chiunque altro, meritate di prendere il suo posto nel rito che sta per cominciare." {n}Attira la tua attenzione verso l'alto, sul trono che siede alla sommità dell'alta scalinata.{/n}
+### u016277
+"Prendete il seggio del Lord Cap'. Ordinate gli ultimi preparativi. Aspettate che gli ufficiali riferiscano... bah, al diavolo tutto! La traslazione è un'arte, non qualcosa che si spiega in un attimo! Salite al trono, {mf|Signore|Signora} {name}: queste persone stanno per compiere l'impossibile, il minimo che meritano è il conforto di vedere una figura seduta al solito posto. Vi prego, fate in fretta! Ogni secondo che sprechiamo è un rischio terribile!"
+
+### u016278
+"Ravor! Primo Timoniere! Rapporto sullo stato dei sistemi!"
+
+### u016279
+{n}Le tue parole sembrano scuotere gli ufficiali dal loro stupore, e l'aria attorno a te si riempie di voci e di comandi impartiti. Senti qualcuno singhiozzare: uno dei sopravvissuti che cede sotto la tensione. Abelard rifila uno scapaccione all'ufficiale in lacrime senza nemmeno guardarlo.{/n}
+
+### u016280
+{n}L'uomo si guarda attorno sul ponte di comando.{/n} "Dev'essere stata la provvidenza... speriamo fosse quella dell'Imperatore, non di qualcun altro. Quando sono piombati qui, quelli col Maestro dei Sussurri, alcuni ufficiali li hanno attaccati, ma non è stata nemmeno una vera battaglia... Ho preso chi potevo e l'ho trascinato dietro i cogitatori, poi ho pregato di essere salvati."
+
+### u016281
+"Come siete arrivati qui?"
+
+### u016282
+"Non senti... dolore?"
+
+### u016283
+"Questo è... impossibile."
+
+### u016284
+Hai ceduto alle promesse di potere e hai permesso a "Theodora" di condurti fuori dalla trappola di fuoco.
+
+### u016285
+[Accetta l'offerta di aiuto] "Portami via il dolore. E dammi il potere."
+
+### u016286
+Hai attraversato le fiamme, rifiutando l'aiuto di "Theodora".
+
+### u016287
+[Attraversa il fuoco] "L'Imperatore guiderà i giusti lungo il loro cammino."
+
+### u016288
+Hai condotto la gente fuori dalla trappola di fuoco, rifiutando l'aiuto di "Theodora".
+
+### u016289
+[Porta la gente via dal ponte di comando] "Non abbandonerò il mio popolo in pericolo!"
+
+### u016290
+{n}Il ruggito delle fiamme ti rimbomba nelle orecchie e il fumo soffocante ti fa tossire e boccheggiare. Indietreggi d'istinto dal calore rovente, asciugandoti il viso. Un attimo dopo, una sagoma indistinta prende forma nella furiosa parete di fuoco. Sei {mf|circondato|circondata} da un frastuono assordante e da urla, eppure senti distintamente il suono di passi, poi vedi la figura uscire dal fuoco verso di te. È Theodora von Valancius.{/n}
+
+### u016291
+{n}La sua espressione è calma, in modo terrificante per qualcuno il cui corpo è avvolto da un inferno. Una mano riposa sull'elsa della spada potenziata, l'altra è sollevata in un gesto d'invito.{/n} "Ti sei {mf|perso|persa}, mio erede?"
+
+### u016292
+{n}Ti viene l'acquolina in bocca: ogni parola di Theodora è musica per le tue orecchie. L'{d|Encyclopedia:Prologue_CutByKnife}entità{/d} che ora dimora negli anfratti più profondi della tua mente ti implora, ti supplica, esige una risposta immediata, e quella risposta non può essere altro che l'accettazione.{/n}
+
+### u016293
+{n}Argenta si fa immobile come una statua, poi solleva lentamente l'arma.{/n} "Un'apparizione... Un'apparizione stregonesca! Un inganno del warp!"
+
+### u016294
+"Sorella, abbassate l'arma!" {n}Nonostante il tono autoritario, Abelard non sembra molto sicuro: sta fissando il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} e noti un muscolo che gli guizza sulla guancia.{/n} "Minacciare il Lord Capitano è oltraggioso..."
+
+### u016295
+"Dubito che tu conosca i limiti di ciò che è possibile, {name}, perché la tua visione del mondo è appena un'inezia di ciò che un Rogue Trader sa e vede. Ma capisco che vorresti che condividessi quella conoscenza con te. Quel potere sulla realtà."
+
+### u016296
+"Il dolore è solo il riflesso della propria debolezza, {name}. Rinunciare alla debolezza dello spirito nella ricerca della grandezza è l'unica via verso vette degne di un Rogue Trader."
+
+### u016297
+"Io sono un Rogue Trader, {name}. Sono ovunque la mia volontà richieda che io sia. Preferiresti essere altrove in questo momento? Indubbiamente. Ma sei {mf|pronto|pronta}?"
+
+### u016298
+{n}Theodora ti osserva senza battere ciglio. Il suo sguardo da serpente ti fa quasi dimenticare il fuoco che ti brucia, lasciandoti ustioni sulla pelle.{/n} "Posso condurti fuori da queste fiamme, {name}. Mostrarti una via. Liberarti dal dolore. E darti un'arma per sconfiggere i tuoi nemici. Decidi."
+
+### u016299
+"Non ascoltate questa abominazione! {name}, se voi... Se non c'è altro che la Sua luce nel vostro cuore, se siete {mf|risoluto|risoluta} nella fede, allora entrate tra le fiamme! L'{g|Encyclopedia:Emperor}Imperatore{/g} protegge. I Suoi fedeli non si lasceranno scoraggiare né dall'oscurità né da promesse ingannevoli. E il fuoco non brucerà chi porta nell'anima la torcia della fede!"
+
+### u016300
+"Va' nel vuoto... Dobbiamo seguire Lady Theodora! Prima di soffocare in questa fornace!"
+
+### u016301
+"La gente...!" {n}Abelard si volta a guardare le persone che tossiscono e sono confuse attorno a te.{/n} "{name}! I sopravvissuti dei ponti intermedi! Dobbiamo aiutare l'equipaggio... condurlo fuori... trovare un'altra via..." {n}Sopra il ruggito delle fiamme, senti suoni lontani... voci spaventate, urla... attutite e distorte, come se tra voi e loro ci fosse una massa d'acqua.{/n}
+
+### u016302
+"Allora perderemo l'occasione di incontrare Ede—" {n}Idira si interrompe e inizia a tossire violentemente. Le cedono le ginocchia e sembra sul punto di cadere.{/n} "{name}, che stiamo aspettando?"
+
+### u016303
+{n}Offri la mano a Theodora, e l'aria attorno a te sembra stringersi, farsi densa e viscosa, avvolgendo te e i tuoi compagni in un velo impenetrabile. Theodora ti sorride. I suoi occhi azzurri, radiosi e penetranti, ti ricordano all'improvviso quelli di Voigtvir.{/n}
+
+### u016304
+{n}Fai un passo avanti, e l'illusione si spezza. Un'ondata di dolore lancinante si abbatte su di te, e la voce di Theodora svanisce nella tempesta di fuoco. Senti le voci dei tuoi compagni che ti chiamano da dietro... e le urla dei deboli che muoiono nel rogo inevitabile.{/n}
+
+### u016305
+{n}Distogli lo sguardo, e l'illusione si spezza. L'insopportabile calore ti brucia subito la pelle, e le voci delle persone oltre la cortina di fumo si fanno più forti... e piene di speranza, quando tu e i tuoi compagni tornate di corsa, abbaiando ordini e guidando i sopravvissuti. Nella tua determinazione dimentichi del tutto Theodora, e quando giri la testa non vedi altro che il fuoco ruggente.{/n}
+
+### u016306
+"Ti mostrerò la via. Avanti, chiudi gli occhi..."
+
+### u016307
+{n}{d|Encyclopedia:Prologue_CutByKnife}Migliaia di aghi{/d} ti trafiggono la coscienza, ma sono impotenti a fermarti.{/n}
+
+### u016308
+"La mia esperienza mi dice che, dove c'è ricchezza, qualcuno cerca di appropriarsene. Sembra l'operato di un sindacato criminale che ruba estrattori sotto la copertura di riti barbarici. Sono {mf|pronto|pronta} a scendere sul pianeta con una squadra d'assalto ed emettere giudizio sui ladri."
+
+### u016309
+"Non siete stato voi a mandarmi a chiamare?"
+
+### u016310
+[Osserva la stanza]
+
+### u016311
+[Ascolta in silenzio]
+
+### u016312
+"Sono qui per parlare con il Lord Capitano."
+
+### u016313
+"Sono {mf|un ex Commissario|un'ex Commissaria}. Continuerei a mandare altra gente. Un equipaggio dopo l'altro, finché qualcuno non riuscisse nel proprio servizio all'Umanità e nella conquista di Aion VI."
+
+### u016314
+"Attività sismica, dite? Vorrei poter dare un'occhiata ad alcune letture degli augur, ma, in teoria, un paio di bombardamenti orbitali ben piazzati sommergerebbero Aion VI e tutti i suoi orrori in un oceano di magma."
+
+### u016315
+"Ho mantenuto alcuni contatti nell'Astra Militarum... Qualche reggimento della Guardia Imperiale si occuperebbe dei nativi, dei loro 'spiriti' e del magma: le fortificazioni solide non mi hanno mai deluso."
+
+### u016316
+"Credo di poter usare le mie capacità personali per accertare se su Aion VI ci sia stregoneria. Ma richiederebbe di scendere di persona in superficie."
+
+### u016317
+"Perché dovrei preoccuparmi di prendere questa decisione? Ho sempre servitori a portata di mano a cui delegare questioni come questa, proprio come voi l'avete delegata a me."
+
+### u016318
+"Se le mie... particolari esperienze di vita sono indicative, alcuni nativi tradirebbero volentieri i loro capi in cambio di una vita tranquilla al servizio a bordo della mia nave. Lascerei quindi la gestione di Aion VI a chi la conosce meglio."
+
+### u016319
+"I nativi di Aion VI sono anime perdute che hanno bisogno di un pastorale... o di una frusta. Sono {mf|un sacerdote|una sacerdotessa} dell'Ecclesiarchia. So come instillare riverenza per l'Imperatore. Ci sono molti modi."
+
+### u016320
+"Io... non lo so?"
+
+### u016321
+"Questi resoconti di spiriti suonano certamente come prove di eresia... tuttavia metterei i miei interessi al primo posto. Quali che siano i mezzi che dovrei usare, le ricchezze di Aion VI sarebbero mie."
+
+### u016322
+"Aion VI deve essere purgato. Per il bene dell'Imperium, sterminerò le credenze eretiche e i poteri ultraterreni che governano gli apostati nativi."
+
+### u016323
+"Esistono modi per confermare se ciò che accade su Aion VI sia stregoneria o no. Potrebbe costare diversi psyker, ma ci darà la risposta."
+
+### u016324
+"Magnanimo Lord Capitano! Di certo esistono modi in cui posso dimostrarmi un erede {mf|degno|degna}?"
+
+### u016325
+"Navigatore? Traslazione? Di che cosa state parlando?"
+
+### u016326
+"Non ho altre domande."
+
+### u016327
+"Ho dato una risposta schietta a una domanda semplice. Il che, a quanto ne so, era comunque più di quanto tu sapessi fare, Edelthrad."
+
+### u016328
+"Siamo entrambi servitori del Dio-Imperatore e di Lady Theodora. Si addice forse a persone del nostro rango impegolarsi in meschine faide?"
+
+### u016329
+"Trovo il tuo tono quanto mai sgradevole, Edelthrad. Ti prego di cambiare il modo in cui ti rivolgi a me, altrimenti vivrai abbastanza da pentirtene."
+
+### u016330
+"Chiudi la bocca, Edelthrad, prima che decida di chiuderla io per te."
+
+### u016331
+"È tutto troppo improvviso per me."
+
+### u016332
+"'Uno dei'? Significa che ci sono altri eredi?"
+
+### u016333
+"Se siete soddisfatta di Edelthrad, che senso ha avere questa conversazione? Perché sprecate il vostro tempo con me?"
+
+### u016334
+"Ho sentito bene? Il Maestro dei Sussurri è un vostro parente?"
+
+### u016335
+"Grazie per il chiarimento. Posso fare le mie domande, ora?"
+
+### u016336
+"Quali sono le mie responsabilità attuali?"
+
+### u016337
+"Dove è diretta la vostra nave?"
+
+### u016338
+"Sul ponte degli ufficiali c'è stato un incidente: alcuni servitori sono andati fuori controllo e hanno attaccato l'equipaggio."
+
+### u016339
+"Ci sono domande a cui desidero avere risposta."
+
+### u016340
+"Non lo so ancora. Spero che voi me lo chiarirete."
+
+### u016341
+"Quegli 'spiriti' potrebbero benissimo essere il nome che i nativi danno ad alieni pericolosi: prima verificherei se sia davvero così e se la popolazione di Aion VI pratichi il culto degli xenos."
+
+### u016342
+"Sono {mf|pronto|pronta} ad assumermi questo sacro compito."
+
+### u016343
+"È semplicemente irrazionale, Lady Theodora," {n}dice l'uomo vestito in modo peculiare, la voce tesa dalla tensione. Il suo volto, per metà coperto da pelle sintetica, è contorto in una smorfia di disappunto e incredulità.{/n} "L'assimilazione nella struttura commerciale sarebbe un suicidio politico ed economico, praticamente un'ammissione di eresia!"
+
+### u016344
+{n}La donna alta dai capelli grigi lo inchioda con lo sguardo, il suo occhio cibernetico che lampeggia di cremisi.{/n} "Allora suggerisci un'alternativa che mi soddisfi. Ho descritto la situazione, non peggio di come avrebbe fatto il mio Siniscalco. Prendi una decisione: che ne farai di Aion VI, Edelthrad?"
+
+### u016345
+"Che cos'è questo?" {n}Edelthrad si volta verso di te e ti guarda con indignazione.{/n} "È qualcuno del vostro seguito, Theodora? Permettete ai vostri di interrompere le vostre conversazioni in questo modo?"
+
+### u016346
+"Concedo quel permesso a chi ha qualcosa di sostanzioso da dire. Vediamo se ne è valsa la pena." {n}Theodora inclina la testa. Le sue labbra si distendono in un freddo sorriso.{/n} "Questo è {name}, {mf|il secondo candidato|la seconda candidata} al titolo di mio successore." {n}Il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} ti guarda con uno sguardo imperioso, predatorio e opprimente.{/n} "Fatti avanti, {name}."
+
+### u016347
+"Oh sì, lo saresti, vero? La domanda è: sono pronta a sceglierti al posto degli altri? Sei {mf|salito|salita} a bordo poche ore prima del salto warp e non ti sei ancora {mf|distinto|distinta} in alcun modo. Allo stato attuale, ho dei dubbi che tu sia {mf|adatto|adatta} al ruolo di Rogue Trader."
+
+### u016348
+"Forse. Ieri eri solo un altro servitore dell'Imperium, uno dei molti senza volto. Oggi dei visitatori con i colori dei von Valancius vengono da te senza alcuna spiegazione e ti scortano su un vascello che parte per la lontana {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}. Ma questa è la natura della mia posizione, {name}. Il mio diritto su di te è sacro e non negoziabile. Esigo tutti coloro che possiedono anche solo una goccia di sangue von Valancius, chiunque essi siano."
+
+### u016349
+"Naturalmente. Alcuni devono ancora salire a bordo, ma hai avuto il piacere di conoscerne uno. Edelthrad potrebbe essere un po' sconcertato dalla portata delle responsabilità che potrebbero ricadere sulle sue spalle... Tuttavia, ho una buona impressione di lui come candidato."
+
+### u016350
+{n}Theodora sbuffa.{/n} "Hai ceduto l'opportunità che ti era stata offerta in una desolante dimostrazione di remissività. Certo, questa tendenza è altrettanto forte in tutti coloro che faticano al servizio dell'Imperatore. Gerarchia immutabile, obbedienza assoluta, servilismo, bisogno compulsivo di compiacere... non apprezzo nulla di tutto questo. Dal momento in cui i miei emissari sono venuti a prenderti, i termini della tua esistenza sono cambiati."{g|Encyclopedia:Imperium}{/g}
+
+### u016351
+{n}Theodora inarca un sopracciglio.{/n} "Ragionevole e prudente. Tuttavia, dare la caccia a creature eteree potrebbe rivelarsi un'impresa piuttosto lunga e infruttuosa."
+
+### u016352
+"Senza dubbio ispirando ogni nuovo equipaggio in partenza con discorsi appassionati?" {n}Theodora sospira con stanchezza.{/n} "Non ho mai creduto nel potere della propaganda. È efficace solo nelle circostanze peggiori: quando vuoi che le persone muoiano in nome di qualcuno, non che prevalgano e riescano."
+
+### u016353
+"Cerchi di applicare metodi familiari a un problema nuovo?" {n}Theodora inarca un sopracciglio.{/n} "La malavita di {g|Encyclopedia:Calixis}Calixis{/g} è ben lontana da un selvaggio pianeta di frontiera..."
+
+### u016354
+{n}Theodora lascia andare una risata di scherno.{/n} "Che comoda sistemazione! Finché uno di quei servitori non si rende conto che gli converrebbe rimuovere un simile {mf|padrone|padrona} e sostituir{mf|lo|la} con qualcun altro."
+
+### u016355
+"Trasporto, schieramento, l'infinita burocrazia dell'{g|Encyclopedia:AdeptusAdministratum}Adeptus Administratum{/g}... tutto per ottenere un risultato imprevedibile. Le persone sono fragili, specialmente se mal equipaggiate e addestrate, e di fronte a un avversario sconosciuto."
+
+### u016356
+{n}Theodora stringe gli occhi.{/n} "Come intendi esattamente convertire persone che si spalmano i propri escrementi sui corpi nudi e scagliano lance alla prima vista di estranei? Il tuo passato ostacola la tua valutazione del presente: davvero deplorevole."
+
+### u016357
+"Fenomenale... E quanti secoli credi che passerebbero prima che questa palla di fuoco si raffreddi e si possa iniziare a mandare gente in superficie? Sempre che si raffreddi: non c'è alcuna garanzia che accada."
+
+### u016358
+"Ah, sì... l'intervento personale. Il modo più sicuro per restare vulnerabili." {n}Theodora tocca distrattamente una delle sue numerose {g|Encyclopedia:Augmentation}augmetiche{/g}.{/n} "Che ne dici, Edelthrad? Il tuo {mf|fratello|sorella} nella stregoneria non teme di affrontare il pericolo... a differenza di te."
+
+### u016359
+{n}Le spalle di Theodora si afflosciano. Ti lancia un'ultima occhiata prima di voltarsi verso Edelthrad.{/n} "Bene, dunque. Sono delusa. Devo ancora incontrare gli eredi che sono ancora in viaggio verso la nave... ma tra i candidati qui riuniti non ne vedo nessuno con la scintilla di un Rogue Trader."
+
+### u016360
+"Il mio nome è Theodora von Valancius Massimo af Scarus. Sono un {g|Encyclopedia:RogueTrader}Rogue Trader{/g} al servizio del {g|Encyclopedia:Emperor}Dio-Imperatore{/g} dell'Umanità, e i miei diritti e le mie libertà sono sanciti da una reliquia sacrosanta: il {g|Encyclopedia:Warrant}Mandato di Commercio{/g} custodito a bordo di questo stesso vascello. Mio è l'onore di addentrarmi nell'oscurità oltre l'Imperium e di portare la luce dell'Umanità dove regnano poteri malvagi ed eretici che presagiscono morte e rovina per tutti noi."
+
+### u016361
+{n}In netto contrasto con Edelthrad, i lineamenti di Theodora von Valancius sembrano scolpiti nel marmo, eterni e indistruttibili. Testa alta, postura fiera, mani intrecciate con noncuranza dietro la schiena: tutto sembra sottolineare la differenza di rango tra lei ed Edelthrad.{/n}
+
+### u016362
+"Sei {mf|diretto|diretta}. Approvo. Ma dovrai aspettare. C'è qualcosa che voglio che tu capisca prima."
+
+### u016363
+{n}Theodora sorride con ironia.{/n} "Chiarezza. Un lusso che pochi di noi possono permettersi. C'è un motivo per cui non ti ho spiegato tutti i dettagli della domanda che ti ho posto prima. Oltre i confini dell'{g|Encyclopedia:Imperium}Imperium{/g}, di rado si ha l'opportunità di godere di informazioni in abbondanza. Questa, tuttavia, è una di quelle occasioni."
+
+### u016364
+{n}Edelthrad sbuffa.{/n} "Oltre agli {g|Encyclopedia:Xenos}xenos{/g}, un pianeta inesplorato potrebbe brulicare di miriadi di orrori ben più pericolosi e difficili da sradicare. Sospetto che tu, {name}, semplicemente ignori la loro esistenza."
+
+### u016365
+{n}Edelthrad emette una risata acuta e fragile.{/n} "Decisioni così difficili non sono affatto adatte a chi passa il tempo a schioccare la frusta su greggi senza cervello: il costo potrebbe superare il guadagno molte volte... non è vero, {name}?"
+
+### u016366
+"La malavita di Calixis?" {n}Edelthrad ti esamina e increspa le labbra con disgusto.{/n} "Lady Theodora, devo dire che il vostro gusto in fatto di compagnia è piuttosto... esotico. O vedete questa come un'occasione per estirpare l'eresia tra la vostra progenie e recidere i rami marci del vostro albero dinastico?"
+
+### u016367
+{n}Edelthrad fa eco alla risata di Theodora.{/n} "Cedere l'autorità equivale a invitare tra voi eresia dilagante e pericoloso libero pensiero. A giudicare dalla tua mentalità svogliata, {name}, scommetterei che un simile destino sia già toccato al tuo dominio."
+
+### u016368
+"La sola attesa potrebbe durare un'eternità. Per non parlare del fatto che un simile pianeta potrebbe opporre una forza non materiale." {n}Edelthrad agita la mano.{/n} "Reggimenti ed eserciti non sono sempre la soluzione a difficoltà come quella descritta. A quanto pare non lo sai, {name}."
+
+### u016369
+"Vascelli come questo sono in grado di lasciare lo spazio reale e di addentrarsi nel warp, una dimensione ultraterrena di forze crudeli e impensabili. Entrandovi sotto la protezione del campo Geller, accorciamo la rotta verso la nostra destinazione, attraversando in poche settimane distanze che richiederebbero centinaia di anni... a volte in giorni o addirittura in ore. È così che l'Umanità si è diffusa nella galassia. È così che abbiamo potuto costruire l'Imperium, che si estende su milioni di stelle."
+
+### u016370
+{n}Edelthrad sorride appena.{/n} "È deplorevole vedere un membro dell'{g|Encyclopedia:AdeptusMinistorum}Ecclesiarchia{/g} non cogliere la linea tra anime perdute ed eretici conclamati, il cui destino è bruciare nelle {g|Encyclopedia:Emperor}Sue{/g} fiamme purificatrici."
+
+### u016371
+{n}Edelthrad assume una patina di totale sfinimento.{/n} "Non mi degnerò nemmeno di commentare questo suggerimento, se così si può chiamare."
+
+### u016372
+"L'anima di uno psyker è un portale spalancato per i Poteri Rovinosi." {n}Lo sguardo di Edelthrad ti brucia mentre sibila ogni parola tra i denti.{/n} "Difficilmente ci si potrebbe fidare di un servitore dell'{g|Encyclopedia:Imperium}Imperium{/g} così ansioso di introdurre la corruzione."
+
+### u016373
+"Ma, Lady Theodora! Vi prego, la mia risposta è stata forse insoddisfacente in qualche modo? I precetti del {g|Encyclopedia:Emperor}Dio-Imperatore{/g} sono ciò che protegge l'Umanità e ciò a cui ciascuno di noi deve obbedire senza eccezioni. {name} non è capace nemmeno di ricordare quella semplice regola, mentre io—"
+
+### u016374
+{n}L'espressione di Theodora si inacidisce.{/n} "Un altro... Suppongo che la tua risposta sia rigorosamente corretta. Ma non qui. Non sulla frontiera. Non quando giochiamo una partita con una posta così alta."
+
+### u016375
+{n}Edelthrad sorride appena.{/n} "Lady Theodora, la vostra delusione mi lascia perplesso. Vi ho dato la stessa risposta fin dall'inizio, anche se in una forma più completa e convincente. I precetti del {g|Encyclopedia:Emperor}Dio-Imperatore{/g}—"
+
+### u016376
+"In tal caso, andrò a—" {n}Il vox di Theodora si risveglia ancora una volta: stavolta cogli delle grida. Il Lord Capitano si blocca, ascolta la trasmissione vox, poi annuisce ed estrae l'arma.{/n} "Disordini segnalati sui ponti adiacenti. Siniscalco, se necessario, proteggi il sangue nuovo." {n}Ti lancia un'occhiata.{/n} "È possibile che l'occasione per dimostrare il tuo valore si presenti prima di quanto tu possa aspettarti."
+
+### u016377
+{n}Il colore abbandona il volto di Edelthrad, il che ne distorce ulteriormente i lineamenti.{/n} "Insolente, ignorante parvenu! Come osi—"
+
+### u016378
+"Edelthrad." {n}Il tono di Theodora lo riduce al silenzio.{/n} "Credo di averti affidato un incarico su questa nave. Spiegami dunque perché il mio Congregatore Anziano se ne sta ancora a perdere tempo sul ponte degli ufficiali invece di recarsi ai ponti intermedi per iniziare l'ispezione dei compartimenti di sua competenza?"
+
+### u016379
+{n}Edelthrad ti guarda con sospetto.{/n} "Perfino tra il Suo gregge, non tutti sono della stessa pasta, {name}. Ti suggerisco di familiarizzare con questo fatto prima di essere duramente—"
+
+### u016380
+{n}Edelthrad inclina la testa.{/n} "Ebbene, trovo la tua compagnia sgradevole, {name}, eppure sono costretto a sopportare una simile—"
+
+### u016381
+{n}Senti la temperatura nella stanza calare. Edelthrad ti rivolge un'occhiata funesta, gli occhi ridotti a fessure.{/n} "Ti invito a provarci, miserabile verme. Sono curioso di vedere come la tua patetica vita—"
+
+### u016382
+{n}Theodora sorride appena.{/n} "Sì... Ora vedo il sangue della dinastia nelle tue vene. Avidità camuffata da orgoglio e vanità. Che ne dici, Edelthrad? Esiste una risposta ben diversa dalla tua, non è vero?"
+
+### u016383
+{n}Edelthrad impallidisce.{/n} "Forse non ho ancora preso familiarità con tutti i risvolti del servizio sulla frontiera... ma la mia lealtà al {g|Encyclopedia:Emperor}Dio-Imperatore{/g} vieta perfino l'ombra di simili pensieri. L'eresia, in qualunque forma si presenti, deve essere sterminata, e non c'è posto per ambizioni meschine. Conosco bene i Suoi precetti, a differenza della nostra nuova conoscenza."
+
+### u016384
+{n}Theodora sogghigna.{/n} "Meticoloso ma presuntuoso. Mi è costato non poco trovare un solo {g|Encyclopedia:Psyker}psyker{/g} in grado di servirmi bene per molti anni, eppure tu ne citi parecchi..."
+
+### u016385
+{n}Edelthrad ti guarda con la cordialità di un serpente.{/n} "Gli psyker sanzionati sono strumenti rari e preziosi del {g|Encyclopedia:GoldenThrone}Trono d'Oro{/g}. Oppure suggerisci, {name}, di servirci di eretici che sono un'offesa alla luce del {g|Encyclopedia:Emperor}Dio-Imperatore{/g}? Sarebbe piuttosto sconsiderato da parte tua proferire una simile profanità in presenza dei Suoi fedeli servitori."
+
+### u016386
+"Ho tracciato la rotta per Rykad su richiesta di—" {n}Theodora fa una smorfia. Ti rivolge un'occhiata severa, poi scrolla le spalle.{/n} "Per una ragione molto specifica. Forse ti metterò ancora al corrente dello scopo di questo viaggio. Ma ora non è il momento."
+
+### u016387
+"Inoltre..." {n}Theodora sorride lievemente.{/n} "Il tuo {d|Encyclopedia:CharGen_MOT_GreatDeed}coraggio{/d} ti ha reso molto più {mf|famoso|famosa} di quanto probabilmente {mf|tu stesso|tu stessa} ti renda conto. Le vere imprese di eroismo vivranno per sempre negli annali dell'Imperium e porteranno onore alla stirpe dei von Valancius."
+
+### u016388
+"Inoltre..." {n}Theodora inclina leggermente il capo.{/n} "Le tue {d|Encyclopedia:CharGen_MOT_Mind}notevoli capacità mentali{/d} sono state annotate nel tuo profilo. Se riuscirai a trovare il modo di metterle in mostra al servizio della dinastia von Valancius... be'. Tanto meglio."
+
+### u016389
+"Inoltre..." {n}Theodora ridacchia lievemente.{/n} "Nemmeno cambiare cognome ti libererà della {d|Encyclopedia:CharGen_MOT_Glory}fama che hai guadagnato in precedenza{/d}. Spero che ti aiuterà anche a portare gloria alla dinastia von Valancius, a cui ora appartieni."
+
+### u016390
+"Hai dato la caccia ai trasgressori della legge per così tanto tempo che ora li vedi ovunque. La tua aspettativa di trovare un'unica, specifica minaccia su Aion VI potrebbe lasciarti impotente di fronte ad altri nemici, che potrebbero nemmeno essere umani."
+
+### u016391
+"Ti è stato conferito il grado di Maresciallo dell'Adeptus Arbites. È più di un semplice titolo. Rappresenta decenni di servizio pericoloso, decine di verdetti emessi ed esemplare lealtà all'Imperium. La tua conoscenza della legge, e il timore che sei in grado di incutere, sono una via per mantenere l'ordine nel protettorato. Inoltre, la severità della nostra giustizia deve essere impressa non solo nei sudditi della dinastia, ma anche nei molti concorrenti che bramano i nostri possedimenti. Anch'essi devono essere tenuti in riga."
+
+### u016392
+{n}Theodora scuote la testa.{/n} "Impazienza... Ho una certa simpatia per le persone impazienti: sono meno inclini a rassegnarsi alle circostanze e più desiderose di mostrare iniziativa. Anche se sceglierò Edelthrad come successore, avrò comunque bisogno di consiglieri leali. Le competenze e le conoscenze che hai acquisito nella tua vita precedente potrebbero rivelarsi preziose qui nella Distesa di Koronus."
+
+### u016393
+"La sua parentela con me è molto distante, come la tua. Ciononostante porta il nome von Valancius, anche se evita di usarlo in pubblico, e in quanto tale, a rigore, può essere considerato un mio erede. Quella porta, però, gli è chiusa. Il rendimento di Voigtvir nel suo ruolo attuale è soddisfacente... o almeno lo era."
+
+### u016394
+{n}Il {g|Encyclopedia:Vox}vox{/g} fissato all'abito di Theodora si anima all'improvviso, ma tutto ciò che senti è un rumore incomprensibile. Theodora fa una smorfia, interrompe la trasmissione e ti rivolge un cenno imperioso.{/n} "Ho un po' di tempo prima che il {g|Encyclopedia:Navigator}Navigatore{/g} dia il segnale di avviare la traslazione della nave del vuoto fuori dal {g|Encyclopedia:Warp}warp{/g}, e la mia presenza è richiesta sul ponte di comando."
+
+### u016395
+"Il solo diritto di sangue non basta per meritare l'alto onore di diventare portatore di un Mandato di Commercio. Ciononostante, le tue capacità e i tuoi talenti potrebbero ancora rivelarsi utili: se non per il ruolo di Lord Capitano, per quello del suo più stretto alleato." {n}Theodora sospira e distoglie lo sguardo, pensierosa, per un breve istante.{/n} "Ahimè, perfino quelle responsabilità possono a volte essere troppo gravose per chi condivide il tuo sangue. Kunrad Voigtvir mi ha servita per molti anni prima di commettere il suo errore."
+
+### u016396
+"Un tempo eri {mf|un Commissario|una Commissaria} della {g|Encyclopedia:AstraMilitarum}Guardia Imperiale{/g}. Un ufficiale politico che non temeva di affrontare la propria morte né di mandare i propri sottoposti incontro alla loro. Determinazione, fede, implacabilità: tutto ciò dà una prospettiva unica di fronte a una situazione in cui un individuo meno saldo potrebbe vacillare. Fidati, nel tuo futuro ci sono molte situazioni in cui il tuo impegno verso il dovere, o verso gli interessi della tua casata, sarà uno dei tuoi punti di forza."
+
+### u016397
+"Un tempo eri {mf|tu stesso|tu stessa} un Lord Capitano, a bordo della tua nave. Sai tutto ciò che c'è da sapere sulla vita di questa gargantuesca bestia e dei suoi migliaia di membri d'equipaggio. Sai quanto possano essere capricciosi gli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g}, quanto siano deboli di volontà i miserabili dei ponti inferiori, come una singola decisione tattica possa far voltare le sorti di una battaglia. Pochi possono vantare un'esperienza così preziosa e tanto ricercata nella mia vocazione."

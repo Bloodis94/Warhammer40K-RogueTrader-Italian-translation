@@ -1,0 +1,1032 @@
+### u042556
+"{name}, hai preso troppi colpi in testa? Non vorrai mica...? Vero?"
+
+### u042557
+"Sciocco mon-keigh! L'ex Dracon della Reaving Tempest è proprietà del Culto e solo le Succubi hanno il diritto di—"
+
+### u042558
+"Ha! Bella battuta! Scherza, vero?" {n}Ulfar incrocia il tuo sguardo, e l'ilarità svanisce dal suo volto.{/n} "Palle di troll, non stai scherzando!"
+
+### u042559
+{n}Abelard sospira e commenta a mezza voce:{/n} "Benvenuto nella nostra confraternita dei perplessi, mio signore Ulfar! Fatevene una ragione. Il Rogue Trader non smette mai di sbalordire."
+
+### u042560
+[Resta in silenzio e volta le spalle al mostro]
+
+### u042561
+"Andrai dal tuo padrone, adesso?"
+
+### u042562
+[Attacca] "Pagherai per il tuo tradimento!"
+
+### u042563
+[Attacca] "Achilleas Scalander, ti concedo il perdono finale dell'Imperatore."
+
+### u042564
+"Nonostante le tue trasgressioni... ti auguro buona fortuna."
+
+### u042565
+"Ti finirei qui e subito, se non sperassi che Commorragh sia più crudele con te di qualunque punizione io possa infliggerti."
+
+### u042566
+"Andrai da Tervantias, adesso?"
+
+### u042567
+"Mi sembra strano dirlo, ma... buona fortuna."
+
+### u042568
+"Spero che la tua morte sia sufficientemente atroce."
+
+### u042569
+[Attacca] "Non posso resistere al piacere di ucciderti!"
+
+### u042570
+"Vieni. Ti porto fuori di qui."
+
+### u042571
+{n}Il mostro ti fissa a lungo, poi dice con una voce tonante che nasconde una sfumatura di rispetto,{/n} "Ti attendono avversari forti. Una sfida degna."
+
+### u042572
+{n}Un mostro sconosciuto, ancora più terrificante del precedente fra i servi dell'Haemonculus, ti sbarra la strada. La sua voce è arida come la morte stessa.{/n} "Il Maestro Tervantias mi ha mandato."
+
+### u042573
+{n}La voce di Achilleas si abbassa, facendosi morbida e suadente, quasi come ai tempi della sua vita passata.{/n} "Vi auguro buona fortuna, Vostra Signoria. Non credo che avrete la meglio, ma forse riuscirete a uscire di scena in modo più onorevole di quanto abbia fatto io."
+
+### u042574
+"Il padrone desidera che tu mandi Keykeross in un rapido viaggio da Colei che ha Sete. Non aspettarti uno scontro leale. Questa è la tua esecuzione. Tuttavia Keykeross è incapace di valutare adeguatamente ciò che non riesce a comprendere, e quindi hai una possibilità... sia pure trascurabile."
+
+### u042575
+{n}Achilleas lascia sfuggire un ringhio che ormai deve valere come risata, poi tace per un po'. Alla fine dice con un sordo brontolio,{/n} "Un ritorno nell'Imperium non promette nulla di buono per me. Traditore, mostro, progenie della corruzione: là troverò solo un rogo. Ma forse è la strada giusta."
+
+### u042576
+"Dubito che mi sorriderà, Vostra Signoria. Ma vi ringrazio comunque."
+
+### u042577
+"Non posso biasimarvi. E sia." {n}Achilleas non fa alcun tentativo di schivare il tuo attacco, come se fosse ansioso di porre fine alla sua esistenza contorta e miserabile che si è protratta troppo a lungo.{/n}
+
+### u042578
+"Eh?" {n}L'abominio ti fissa per un po', poi annuisce.{/n} "Sì."
+
+### u042579
+{n}L'abominio scrolla le spalle con indifferenza.{/n} "Forse. Questa è la vita fra le guglie."
+
+### u042580
+{n}La mostruosità sussulta, preparandosi al tuo attacco, ma poi qualcosa esplode dentro il suo corpo e gli arti le si afflosciano.{/n}
+
+### u042581
+"L'aiuto promesso sarà fornito. Il {d|Encyclopedia:Ch3_PatchedMonster}Cercatore di Angoscia{/d} porterà alle Wych l'estasi dell'agonia."
+
+### u042582
+"Credo che le vostre speranze siano ben riposte, Vostra Signoria. Addio."
+
+### u042583
+"Un traditore non può essere guarito, né riportato nemmeno a una frazione di ciò che era. Eppure lasciarlo in questo stato deturpato... è senza pietà." {n}Eogunn posa lo sguardo sulla tua arma, poi ti guarda dritto negli occhi.{/n} "Rogue Trader, vi prego, siate {mf|misericordioso|misericordiosa}."
+
+### u042584
+"No. Il suo interesse per me si era esaurito, così mi ha lasciato andare. Ora... non so. Forse proverò a vivere. O forse proverò a morire. Sto ancora decidendo."
+
+### u042585
+"Se dovessi sopravvivere, non tornare qui: le Wych cercheranno vendetta, ed è per questo che il padrone ha già lasciato la Voragine e ha trovato nuovi patroni. Ti suggerisce di fare lo stesso. Così dice il padrone." {n}La monotonia e la precisione con cui il mostro ripete le parole di Tervantias ti ricordano il modo in cui comunicano i servitori.{/n}
+
+### u042586
+"Il padrone mi ha mandato a dirti che lui... ha dotato il suo servo di misure di emergenza... affinché nessun male possa toccarti." {n}Anche mentre muore, il mostro non riesce a smettere di ripetere come un pappagallo le parole del suo traditore padrone.{/n}
+
+### u042587
+"Il padrone non ha più bisogno di me. Andrò a uccidere qualcuno. A prenderne i pezzi. E a rendermi più forte."
+
+### u042588
+"Aveva quasi finito per convincermi di essere un mostro. Un mostro non vi seguirebbe. Se verrò con voi, gli dimostrerò che si sbaglia. Vostra Signoria, accetto la vostra offerta di tornare al vostro servizio... per quanto breve possa essere. Permettetemi di entrare per primo nella mischia."
+
+### u042589
+"Di certo non lasceremo il Maestro Scalander a soffrire in questo corpo condannato, vero? La morte deve giungere come espiazione dei suoi crimini. E come una misericordia che laverà via da quella sua anima sfigurata queste... orribili, dolorose e velenose tinte."
+
+### u042590
+"E per quale motivo? Che cosa mi attende nell'Imperium? Sono un'anima maledetta e devo restare fra anime maledette quanto me. In ogni caso vi sono grato per la vostra misericordia, Vostra Signoria."
+
+### u042591
+"Dunque siamo stati gettati in pasto alle Wych. Anche se sopravvivessimo a questo scontro, non sopravvivremo alla rappresaglia della Città Oscura. Spero che l'Arebennian sappia esattamente come finirà il suo gioco."
+
+### u042592
+Hai convinto i gladiatori dell'arena a combattere insieme contro gli xenos maledetti.
+
+### u042593
+[Rivolgiti ai combattenti] "Questo abominio dice che la nostra morte è certa. Ma anche nella morte c'è una scelta: essere macellati come bestiame o morire per l'Imperium. Non lasciate che siano gli xenos a decidere il vostro destino! Possiate lasciare questa vita con il nome dell'Imperatore sulle labbra!"
+
+### u042594
+"Commissario, è un'imboscata!"
+
+### u042595
+"Il Commissario ci ha traditi, compagni! È una trappola!"
+
+### u042596
+"Sono {mf|pronto|pronta} a combattere."
+
+### u042597
+"Che cosa mi hai fatto, immonda progenie?"
+
+### u042598
+[Rivolgiti al mostro] "Vorrei un accordo. Non abbiamo alcun desiderio di partecipare ai combattimenti."
+
+### u042599
+"Che cosa riceverò se uscirò {mf|vittorioso|vittoriosa}?"
+
+### u042600
+[Cadi in ginocchio] "Ti supplico, portami via da questo posto! Non sono {mf|un gladiatore|una gladiatrice}, sono {mf|un dignitario|una dignitaria}!"
+
+### u042601
+"Il Commissario si è rivelato l'ennesimo traditore. Credo di cominciare a capire come funziona questo gioco."
+
+### u042602
+[Esamina il mostro]
+
+### u042603
+[Aspetta in silenzio]
+
+### u042604
+[Estrai l'arma] "Pensi di potermi costringere a fare ciò che vuoi, eh?"
+
+### u042605
+[Rivolgi al mostro un sorriso crudele] "Mi stai offrendo la possibilità di scuoiare qualche tuo amico? Non vedo l'ora!"
+
+### u042606
+"Ma se dovessi uccidere qualcosa, fallo con dolore. Se la sete di agonia dei padroni non viene saziata, mi libereranno nell'arena. E tu te ne pentirai. Chiaro?"
+
+### u042607
+"Fuori dai piedi, carne."
+
+### u042608
+{n}I gladiatori intorno a te si scambiano sorrisi nervosi. Qualunque cosa vi attenda li riempie di un misto di terrore e di attesa.{/n}
+
+### u042609
+{n}Nel momento in cui varchi il portale, capisci che qualcosa non va. Le migliaia di Drukhari tutt'intorno, la mole imponente di muscoli abnormemente gonfi con il volto nascosto da una maschera nera: niente di tutto ciò corrisponde alla descrizione di una "banchina tranquilla" fatta dal Commissario.{/n}
+
+### u042610
+"Stanno per sguinzagliare combattenti e bestie che cercheranno di sventrarti, quindi cerca di sopravvivere fino alla fine dello scontro, carne. Nessuno si aspetta di più da te."
+
+### u042611
+{n}Vedendo che sei cosciente, il mostro incombe su di te e dice con voce roca di rabbia,{/n} "Non giocare più con me, carne, o ti getterò fuori, rotto per sempre."
+
+### u042612
+{n}Il mostro ti fissa con aria sprezzante e si volta, senza degnarsi di prendere in considerazione una proposta così ridicola.{/n}
+
+### u042613
+"No. Ma loro possono." {n}La creatura sogghigna compiaciuta, è evidente.{/n}
+
+### u042614
+{n}Una risata compiaciuta proviene da dietro la maschera nera.{/n} "Allora cerca di non farti straziare la dignità."
+
+### u042615
+"Allora cerca di non fare la morte più patetica."
+
+### u042616
+{n}La creatura si china per osservarti meglio, poi dice con acidità,{/n} "La tua vita. Ma non preoccuparti. Non vincerai."
+
+### u042617
+"Addio, compagni. Ingannarvi, manipolarvi e spingervi verso la morte è stato un onore e un piacere!" {n}Il Commissario si getta nel portale che si sta chiudendo prima che qualcuno possa fermarlo.{/n}
+
+### u042618
+{n}Il Commissario ti ride in faccia.{/n} "Che perspicacia! Dovresti unirti all'Inquisizione!"
+
+### u042619
+"Impossibile... Lui—" {n}Gli occhi di Argenta lampeggiano di furia.{/n} "Pagherete, serpe traditrice! Pagherete per tutti i nostri fratelli e le nostre sorelle! Quanti ne avete condotti alla morte? Confessate!"
+
+### u042620
+{n}Con un ruggito, alcuni dei combattenti fanno il segno dell'Aquila e preparano le granate. Le loro dita pallide stringono le spolette mentre si preparano a una lotta fino all'inevitabile morte, decisi a portare con sé quanti più nemici dell'Umanità possibile.{/n}
+
+### u042621
+{n}Il mostro schernisce.{/n} "Belle parole. Spero che la tua morte sia abbastanza bella da meritarle."
+
+### u042622
+"Non preoccuparti, la prossima volta non sarai così ingenuo. Oh, aspetta: non ci sarà una prossima volta!" {n}Il Commissario non si sforza di nascondere il sarcasmo beffardo nella sua voce.{/n}
+
+### u042623
+"Kae-morag, un'altra trappola!" {n}Yrliet arretra, stringendo l'arma fra le mani, poi si volge bruscamente verso il Commissario.{/n} "Sapevi che ci stavi conducendo al massacro, mon-keigh! Sì... lo sapevi."
+
+### u042624
+"Sangue dei Santi, ti strapperò la gola con queste mani!"
+
+### u042625
+"Sei divertente. Gli sciocchi presuntuosi come te muoiono sempre per primi."
+
+### u042626
+{n}Un ruggito soffocato sfugge dalla gola di Solomorne, e Glaito scopre i denti, con i lumen che lampeggiano furiosamente.{/n} "Quanti altri bastardi come voi devo ancora..."
+
+### u042627
+{n}L'Arbitrator si stringe la fronte con la mano di metallo.{/n} "No! Non ora, non di nuovo!"
+
+### u042628
+{n}Il Proctor espira con forza.{/n} "No, non perderò di nuovo il controllo. Non per feccia come voi. Vi condannerò con dignità, come si addice a un Arbitrator."
+
+### u042629
+{n}Una risata soddisfatta rimbomba da dietro la maschera nera del mostro.{/n} "Carne sciocca! Cade ogni volta nello stesso trucco. Ecco che cosa ti succede adesso."
+
+### u042630
+{n}La coscienza ritorna in un lampo di luce. Ti è capitato troppo spesso, di recente.{/n}
+
+### u042631
+"Oh, tanti, Sorella! Ancora più del solito, ultimamente, da quando i volontari hanno cominciato ad accorrere al suono dei vostri dolci sermoni!"
+
+### u042632
+"L'arena dei gladiatori del Culto della Sete Fatale. È qui che i padroni vengono a cercare una nuova giovinezza e dove la patetica carne della Voragine viene portata a morire."
+
+### u042633
+"...sventrarti, quindi cerca di sopravvivere fino alla fine dello scontro, carne. Nessuno si aspetta di più da te." {n}La voce cava appartiene al gigante che ti ha neutralizzato con tanta astuzia usando il gas.{/n}
+
+### u042634
+{n}La voce del mostro si fa stranamente calma, quasi umana.{/n} "Non lo farò. Ma loro non ti lasceranno scelta."
+
+### u042635
+"Hai portato della buona carne. Hai fatto bene, Commissario." {n}La voce gutturale della creatura trasuda minaccia.{/n}
+
+### u042636
+"Non può essere! Combattete con valore, miei compagni d'arme! L'Imperium non vi dimenticherà!" {n}Il Commissario non si sforza di nascondere il sarcasmo beffardo nella sua voce.{/n}
+
+### u042637
+Entra nel portale
+
+### u042638
+Taglia via un pezzo di carne
+
+### u042639
+Spezza il soppressore del warp
+
+### u042640
+Rilascia l'energia contenuta
+
+### u042641
+"Ma perché? Che cosa ci guadagni?"
+
+### u042642
+"Feccia xenos! Mi avete incastrato! Non sono {mf|uno|una} dei vostri gladiatori!"
+
+### u042643
+[Consegna la pietra] "Affare fatto."
+
+### u042644
+"Perché ti chiamano Malice?"
+
+### u042645
+"Chi sono gli Shriekers? Una banda di criminali?"
+
+### u042646
+"Com'è strutturata Commorragh?"
+
+### u042647
+"Ho qualche domanda."
+
+### u042648
+"In questo stato non gli serve a nulla. Cerchiamo di trarne il beneficio che possiamo: potrà reclutare nuovi Shriekers per noi."
+
+### u042649
+"Per quanto fosse un reprobo, il pensiero che tu, uno xenos, lo tenga in uno stato così miserabile mi ripugna. Basta così."
+
+### u042650
+"Parlami della tua specie."
+
+### u042651
+"C'è davvero qualcosa di dignitoso in questa cupa prontezza a morire."
+
+### u042652
+"Dunque vi siete semplicemente rassegnati? Una scelta piuttosto... vile."
+
+### u042653
+"Avvolgetelo pure in nobili sciocchezze, se volete, ma alla fine siete animali tenuti per lo sport del sangue."
+
+### u042654
+"Una bella bugia. Ci credono davvero tutti? La vendi bene!"
+
+### u042655
+[Mostra la testa del Commissario] "È questo quello che ti dava problemi? Era l'unico Commissario che sono {mf|riuscito|riuscita} a trovare."
+
+### u042656
+"Sei un lurido bugiardo, xenos!"
+
+### u042657
+"Non è certo una sorpresa."
+
+### u042658
+"Allora chi può aiutarmi?"
+
+### u042659
+"Hai mentito solo sulla tua capacità di estrarre il parassita, o anche sulla sua stessa esistenza?"
+
+### u042660
+"Mi serve dell'equipaggiamento."
+
+### u042661
+"Se devo uccidere il Commissario, avrò bisogno di un equipaggiamento decente."
+
+### u042662
+[Attacca] "Il Commissario ti saluta!"
+
+### u042663
+"Perché fermarsi alla testa? Potresti cucirgli addosso qualcos'altro."
+
+### u042664
+"Voglio sapere di più sull'arena."
+
+### u042665
+[Mostragli la pietra spirituale di Yrliet] "Sei disposto a darmi qualcosa di utile in cambio?"
+
+### u042666
+"Posso fare a meno dei tuoi scarti mezzi morti."
+
+### u042667
+[Attacca] "Il tuo regno è finito. Assumerò io il controllo."
+
+### u042668
+"Commissario, so del tuo tradimento. Perché hai commesso un atto così infame?"
+
+### u042669
+[Indica il Commissario] "Non ti ho portato la sua testa l'ultima volta?"
+
+### u042670
+"Perché secondo te sono {mf|finito|finita} qui?"
+
+### u042671
+"Dove siamo esattamente a Commorragh?"
+
+### u042672
+"Mi hai mentito. Mi devi qualcosa."
+
+### u042673
+[Attacca] "Capirai più in fretta quando ti strapperò la tua lingua biforcuta da bugiardo."
+
+### u042674
+"Bene. Sono {mf|vivo|viva}, ed è tutto ciò che conta."
+
+### u042675
+"Eccellente. Lo ucciderò di nuovo."
+
+### u042676
+"Si merita una fine simile. Un traditore, un bugiardo e un assassino."
+
+### u042677
+{n}Le membrane translucide delle palpebre di Malice sono chiuse. La sua voce è assonnata e languida.{/n} "Sei {mf|vivo|viva}, {mf|umanuccio|umanuccia}? Dev'essere proprio qualcuno, dopotutto, se l'arena ti ha risparmiato. Bene, dovresti festeggiare: da oggi sei uno Shrieker. La mia protezione, il mio rifugio e il mio equipaggiamento ora sono tuoi da reclamare."
+
+### u042678
+"{mf|Umanuccio|Umanuccia}. Rilassati con noi. Prendi uno stimolante e divertiti."
+
+### u042679
+"Mmh. Non mi importa affatto perché sei qui. Immagino che ti abbiano scaricato. La Voragine è una fogna. Ci buttano dentro di tutto: rifiuti, cadaveri, prigionieri... Ribolle tutto insieme finché i padroni Drukhari non pescano dal pentolone ciò che serve loro. Combattenti. Intrattenimento. Carne viva."
+
+### u042680
+"Questa è la Voragine. Il posto dove sopravvivono i destinati all'arena del Culto delle Wych della Sete Fatale. È anche dove finiscono gli scarti dell'Haemonculus. Tervantias del Coven della Baleful Thorn: ha il suo piccolo angolo in cui conduce i suoi esperimenti. La Voragine è una fonte inesauribile di... materia prima per il suo lavoro, e i risultati migliori sono destinati al Kabal della Reaving Tempest, il patrono del Culto delle Wych e di Tervantias in particolare."
+
+### u042681
+"Siamo gladiatori: entriamo nell'arena per fare a pezzi carne indifesa, poi diventiamo noi stessi la carne indifesa. Quando la fine è predeterminata — e fra le guglie lo è sempre — cominci a vedere la morte in termini più semplici. Smetti di temerla e impari a goderti la vita. Siamo una banda di persone che si godono la vita."
+
+### u042682
+"Come vuoi. Sarà divertente se la tua stessa avidità e arroganza ti faranno ammazzare."
+
+### u042683
+"Sei {mf|permaloso|permalosa}, {mf|umanuccio|umanuccia}. Va bene, va bene, ti devo qualcosa." {n}Malice fruga con noncuranza nel proprio equipaggiamento, stacca qualcosa dalla cintura senza guardare e te lo lancia.{/n} "Ecco il tuo compenso."
+
+### u042684
+"Non avresti dovuto farlo. Non sai quando fermarti, {mf|umanuccio|umanuccia}. Ora i miei Shriekers dovranno finire ciò che l'arena ha iniziato. E io guarderò mentre esali l'ultimo respiro."
+
+### u042685
+"Il nome rispecchia fedelmente la mia natura, più o meno. Me l'ha dato Gipaeral, Arconte del Kabal della Sheared Tongue. Era un padrone competente e conosceva bene i suoi servi, ed è per questo che non si fidava di nessuno di loro e mi ha dato l'onore di fargli da guardia."
+
+### u042686
+"Hmm... Quindi sai come divertirti. Magari prenderò in considerazione il tuo suggerimento. Senti, Commissario? Che cosa dovremmo cucirti addosso?"
+
+### u042687
+"Chiedi pure, {mf|umanuccio|umanuccia}. Ma cerca di non annoiarmi con le tue chiacchiere."
+
+### u042688
+"Criminali... A Commorragh la parola suona come uno scherzo. Gli Shriekers sono una banda di condannati. Vivono nell'attesa della loro inevitabile morte nell'arena. E quella morte ha molto più senso di tutte le altre morti offerte dalla Città Oscura."
+
+### u042689
+{n}La voce di Malice si fa malinconica.{/n} "Commorragh è nascosta nel lato inferiore dell'esistenza ed è cucita insieme con frammenti di varie dimensioni e spazi. Molto tempo fa gli Aeldari crearono questo luogo come porto, ma ora è il loro rifugio da Colei che ha Sete. Commorragh ha più guglie sanguinanti di quante tu possa contarne, alimentate dall'energia di soli rubati. Qui infuria un'eterna guerra per il potere: ambizioni e passioni sono il combustibile di un conflitto senza fine fatto di scontri aperti e tradimenti occulti."
+
+### u042690
+"E che cosa farai? Mi costringerai a ucciderlo? A lasciarlo andare? E se mi rifiuto, combatterai contro di me? Per amore di questo — come lo hai chiamato? Reprobo? Mi piacerebbe vederlo."
+
+### u042691
+"Gli Sslyth? La mia gente era avida. Volevamo sempre di più, ed è per questo che eravamo rapaci e indomabili. Niente poteva saziare il nostro appetito crescente. Avremmo potuto conquistare metà dell'universo... se ce ne fosse stato bisogno. I legami che ci tenevano uniti si sono dissolti, sostituiti da alleanze più vantaggiose e attraenti. E la mia gente si è dispersa... Alcuni la chiamarono la caduta della nostra civiltà. Ma non capivano la consapevolezza a cui eravamo giunti: che nessuno ha bisogno degli altri. Tutto ciò che ti serve sei tu stesso."
+
+### u042692
+"Bene. A Commorragh le domande inutili possono ucciderti più in fretta di una lama."
+
+### u042693
+"Ti ho appena salvato e ora cerchi di uccidermi. Vedo che hai imparato a vivere fra le guglie. Shriekers, uccidete {mf|l'umanuccio|l'umanuccia} lentamente. Voglio gustarmi il suo tormento."
+
+### u042694
+{n}Il serpente ride e si china verso di te.{/n} "Oh sì, siamo davvero dignitosi. La morte è un evento raro e squisito che capita una sola volta nella vita. Solo un idiota la temerebbe ed eviterebbe di pensarci."
+
+### u042695
+{n}Il serpente ride e si china verso di te.{/n} "Questo pensi tu. Sì, sono solo bestiame, ma io sono il pastore che li raduna in un gregge così che i servi dell'Haemonculus non debbano scomodarsi a correre per tutta la Voragine a catturare carne per l'arena."
+
+### u042696
+{n}Il serpente ride e si china verso di te.{/n} "Ma non ti rassegnerai, è così? Non mi chiedi aiuto, non lavorerai per me, non ucciderai in cambio di sicurezza e comodità? Giusto?"
+
+### u042697
+"Non credo che tu capisca. Non ancora, almeno. Ma assisti a qualche altra morte, e allora vedrai davvero."
+
+### u042698
+{n}Il serpente ride e si china verso di te.{/n} "Credono a ogni parola. E finché ci saranno abbastanza credenti, i servi dell'Haemonculus non mi trascineranno nell'arena. Perché dovrebbero faticare a catturare carne per l'arena quando è tutta qui ad aspettarli?"
+
+### u042699
+{n}La bocca di Malice si spalanca in modo inquietante, rivelando lunghi denti simili a pugnali. Fissa la testa con fame nuda negli occhi.{/n} "Un'ottima offerta. Il suo cervello rognoso sarebbe lo spuntino perfetto, ma... ho un'idea migliore. Ben fatto, {mf|umanuccio|umanuccia}."
+
+### u042700
+{n}La tua conversazione viene bruscamente interrotta da un fragore e da passi rimbombanti.{/n}
+
+### u042701
+"Adesso dovrei tener fede alla mia parte dell'accordo e rimuovere la larva mentale dal tuo corpo... Ma anche se ci provassi, dubito che sopravvivresti. Sono un combattente, non uno squartatore di carne. Ho mentito per farti agire in fretta. È solo la vita fra le guglie, vedi."
+
+### u042702
+"Perché gridi, {mf|umanuccio|umanuccia}? Non sto negando niente."
+
+### u042703
+"È dentro di te. E morirai presto. L'unica cosa su cui ho mentito era la possibilità di salvarti. Il resto è vero."
+
+### u042704
+"Bello vedere con che rapidità ti stai ambientando a Commorragh. È davvero un bel modo di vivere."
+
+### u042705
+{n}Malice scrolla le spalle.{/n} "Come faccio a saperlo? Nessuno dei rifiuti vivi che trovi in giro qui nella Voragine, questo è certo. Forse un Haemonculus potrebbe tagliare quella merda via dal tuo corpo senza... cambiarti troppo nel processo."
+
+### u042706
+"Vediamo che cosa Malice ha da elargire a uno dei suoi Shriekers."
+
+### u042707
+"Se te lo dessi, sarebbe tutto troppo facile per te. Quando te ne andrai, mi divertirò a chiedermi se la prossima volta che ti vedrò sarai {mf|tutto intero|tutta intera} o a pezzi. Non rovinarmi il divertimento."
+
+### u042708
+"Stai cominciando a capire come facciamo le cose qui nella Voragine, {mf|umanuccio|umanuccia}. Pensa al futuro, non al passato, e non fidarti di nessuno."
+
+### u042709
+"Come tutti qui. No, il suo crimine era un altro: mi ha intralciato. Quanto al tradimento e agli omicidi, non ho nulla da ridire."
+
+### u042710
+"I due umanucci hanno complottato contro di me — che prevedibile! Shriekers, uccidete {mf|l'umanuccio|l'umanuccia} lentamente, voglio gustarmi il suo tormento."
+
+### u042711
+"Impara da me finché sei ancora {mf|vivo|viva}. Voi umanucci non avete il senso dell'umorismo, ma siete fortunati ad avermi incontrato."
+
+### u042712
+"Che cosa intendi con 'noi'? {mf|Attento|Attenta} a come usi quella parola: mi mette a disagio. Ci sono io, la mia banda e le mie reclute. Quanto al Commissario, mi va benissimo averlo in questo stato inutile. È un enorme miglioramento rispetto a com'era prima: insolitamente dannoso."
+
+### u042713
+"Non ne ho idea. Ma un maestro ha bisogno di un'orchestra, e fra le guglie c'è un solo tipo di musica: le urla di agonia. Andrei a cercare il tuo maestro nell'Opera Anatomica."
+
+### u042714
+"Interessante. C'è un'anima dentro, giusto? Mi chiedo se sia possibile farla soffrire... Ti darò in cambio il mio Shrieker più abile e scaltro. Un buon combattente ti farebbe comodo, no?"
+
+### u042715
+{n}Malice convoca uno dei gladiatori, un umano magro e nervoso con una brutalità animale negli occhi.{/n} "Questo è... non conosco il nome di questo umanuccio. Chiamiamolo Carne. Carne è un buon combattente, ed è il mio dono per te. Carne, questo è il tuo nuovo {mf|padrone|padrona}. Combatti bene e muori per {mf|lui|lei}."
+
+### u042716
+{n}Il gladiatore annuisce impassibile. Forse gli intossicanti e gli stimolanti gli hanno bollito il cervello, o forse non gli importa per ordine di chi uccide.{/n}
+
+### u042717
+"La Voragine è controllata dalla Sete Fatale: non il Culto delle Wych più grande, ma antico e rispettato. A capo ci sono tre Succubi — Tazarra, Keykeross e Sinisthoria, la più influente di tutte. Ma Tazarra è scomparsa non molto tempo fa, e Sinisthoria si tiene in disparte da quando ha stretto un'alleanza fra il suo Culto e la Reaving Tempest. Così la letale Keykeross comanda l'arena."
+
+### u042718
+{n}Il Commissario si limita a guardarti negli occhi con un ghigno sfacciato. Sembra riuscire a divertirsi anche in una situazione come questa.{/n}
+
+### u042719
+"Mi piace guardarlo. Sofferente, indifeso, così... confortante. E quando comincia a minacciarmi con quella vocina rauca—"
+
+### u042720
+{n}Il Commissario emette un rantolo gorgogliante. È sorprendente quanta furia omicida si possa infondere in un suono così breve.{/n}
+
+### u042721
+{n}Malice ride con cattiveria.{/n} "Volevi il mio aiuto, no? Be', io aiuto gli Shriekers. E quando un messaggero Drukhari arriva al mio covo, vanno nell'arena buoni buoni e cercano di sopravvivere. Questa è la vita fra le guglie."
+
+### u042722
+"Ma ora veglierò su di te. Ti darò un riparo, buone armi, armature e stimolanti da combattimento che renderanno la tua mente leggera e fluida. Che cosa c'è da non amare, {mf|umanuccio|umanuccia}?" {n}Malice sembra rilassato, ma la pigra cadenza nella sua voce pare forzata.{/n}
+
+### u042723
+"Non ci guadagno niente. Fra le guglie un sacco di cose si fanno senza un buon motivo, tanto per fare, o per piacere. Questa è Commorragh: un attimo di piacere qui è spesso l'unica sottile linea fra la tua vita e la tua morte. Io me la stavo spassando deliziosamente mentre tu eri ancora nel buio. Ecco che cosa ci ho guadagnato."
+
+### u042724
+"All'Arconte piaceva guardarmi massacrare gli assassini mandati a ucciderlo, e mi chiamò Malice. Ho respinto cento attentati alla vita di Gipaeral, e una sola volta sono stato troppo lento, ma è bastato per perdere il mio datore di lavoro. Ed eccomi qui."
+
+### u042725
+"Le cime delle guglie sono il dominio degli Arconti dei Kabal, e su tutti regna Asdrubael Vect, il Sommo Signore del Kabal del Cuore Nero. Li vedrai, l'élite dominante, quando morirai nell'arena, e si nutriranno della tua sofferenza e ne trarranno nuova giovinezza. Sembrano eterni, vivono così a lungo... ma un giorno moriranno. La stessa Commorragh morirà: sta già morendo da migliaia di anni, disgregandosi alle fondamenta. Niente in questo mondo è eterno."
+
+### u042726
+"L'arena è la donatrice di vita di Commorragh. Senza il sostentamento psichico creato da dolore e sofferenza, i padroni della Città Oscura morirebbero: sono fatti così. Gli affamati vengono all'arena per rimpinzarsi. E i Culti delle Wych che governano le arene offrono ai loro ospiti spettacoli sanguinosi e torture efferate."
+
+### u042727
+{n}Gli occhi del serpente brillano di malevolenza.{/n} "Sì. Mi sono accorto che non avevo ancora finito con questo pezzo di carne, così l'ho ricucito. Il risultato è stato... imperfetto. Del resto la vostra razza è difettosa fin dall'inizio, quindi qualche altro difetto come la follia e i regolari tentativi di bere il proprio sangue non si nota granché."
+
+### u042728
+"Non correre troppo. Lo hai ucciso una volta, e basta. Ora è il mio giocattolo, e sarò solo io a ucciderlo. Tutte le volte che voglio."
+
+### u042729
+[Strappagli l'iniettore dalle mani e usalo su di te] "Mi serve più a me che a te, serpente."
+
+### u042730
+"Ti imploro, o potente Malice, concedimi la salvezza!"
+
+### u042731
+"No, può bastare."
+
+### u042732
+"Forse cercherò un altro modo per guadagnarmi il tuo favore."
+
+### u042733
+"Il convettore è stato riparato. Aiutami."
+
+### u042734
+[Mettiti in ginocchio] "Ti prego! Ho bisogno di aiuto."
+
+### u042735
+[Osserva lo xenos squamato]
+
+### u042736
+"L'offerta di strisciare ai tuoi piedi in cambio di aiuto è ancora valida?"
+
+### u042737
+[Rivolgiti al capo] "Possiamo parlare?"
+
+### u042738
+"Credo che alla fine rifiuterò."
+
+### u042739
+"Imploro umilmente la tua indulgenza!"
+
+### u042740
+"Ho bisogno di aiuto. Sono {mf|ferito|ferita}."
+
+### u042741
+[Rivolgiti allo xenos squamato] "Tu sei Malice, suppongo?"
+
+### u042742
+"Posso pagarti generosamente per la tua assistenza."
+
+### u042743
+"Ho potere. Posso renderti ricco."
+
+### u042744
+[Spara al Drukhari in testa] "Hai problemi di udito? Sono {mf|venuto|venuta} da te con una proposta d'affari."
+
+### u042745
+[Attacca] "Muori, bestia infame!"
+
+### u042746
+"Desidero tornare al mio dominio nella Distesa di Koronus."
+
+### u042747
+"Mi serve un guaritore."
+
+### u042748
+[Spara a Malice] "Prenderò da me tutto ciò che mi serve."
+
+### u042749
+"Ne discuteremo più tardi..."
+
+### u042750
+"Bella giornata, vero?"
+
+### u042751
+"Che cosa intendi? Sto benissimo!"
+
+### u042752
+"Hai ragione. Mi servirebbero le cure di un guaritore."
+
+### u042753
+[Sorridi] "Il dolore? Lo adoro! In questo mondo maledetto è la mia promessa sposa!"
+
+### u042754
+"Parecchio, devo dire. Mi servirebbero delle bende."
+
+### u042755
+[Affonda le dita nelle ferite]
+
+### u042756
+"Come?"
+
+### u042757
+"Non farò niente del genere."
+
+### u042758
+Hai squarciato la gola della compagna di Malice e hai bevuto il suo sangue.
+
+### u042759
+[Strappa la gola alla Drukhari e comincia a bere il suo sangue]
+
+### u042760
+"Credo che inginocchiarmi davanti a te debba bastare."
+
+### u042761
+"Renderò preziosi servigi in cambio di assistenza."
+
+### u042762
+[Allontanati dallo xenos]
+
+### u042763
+"Mi occuperò io del problema."
+
+### u042764
+"Aiutami, ti prego!"
+
+### u042765
+"Basta. Non striscerò più davanti a te."
+
+### u042766
+"Questo è indegno di me."
+
+### u042767
+"Sono all'altezza del compito, ma... mi stai prendendo in giro, vero, affidandomi questo lavoretto sporco?"
+
+### u042768
+"Neanche per sogno."
+
+### u042769
+"La mia razza è a sangue freddo. Ci piacciono i nidi caldi. Nessuno della mia banda ha il talento per i macchinari, quindi se riesci a riparare il convettore, avrò pietà di te." {n}Compiaciuto e beffardo, Malice ti fissa senza battere ciglio.{/n}
+
+### u042770
+{n}Il covo in cui ti trovi è pieno di fumo denso e inebriante, e le pareti sono rivestite di ombre vive. Al centro dell'attenzione c'è uno xenos simile a un serpente. È impegnato in una conversazione con un Drukhari pallido e dall'aria tormentata e non ti presta attenzione, come tutti gli altri qui dentro.{/n}
+
+### u042771
+{n}Metti il massimo impegno in questa messinscena autodistruttiva, ma il volto dello xenos si fa acido mentre ti osserva.{/n} "Basta. La tua risata non è sincera. Non conosci il dolore e non ti piace. Stai solo fingendo."
+
+### u042772
+{n}Lo xenos ora è chiaramente più a suo agio: il sonnolento torpore indotto dalla bassa temperatura ha lasciato il posto alla languida disinvoltura di un capo indiscusso nel suo elemento.{/n}
+
+### u042773
+{n}Tutti i presenti sono armati. Portano tutti cicatrici, e alcuni hanno persino ferite fresche. Noti alcuni umani fra gli xenos. Schiamazzano in un miscuglio di lingue, e le loro risate risuonano di follia e sete di sangue. L'aria è satura di un pervasivo senso di rovina.{/n}
+
+### u042774
+{n}Attraverso il rullo del tuo cuore senti la voce di Malice da qualche luogo lontano:{/n} "Rattoppate {mf|l'umanuccio|l'umanuccia}. Le sue suppliche mi hanno divertito."
+
+### u042775
+{n}Il tuo occhio esperto non manca di notare che praticamente tutti qui sono sotto l'effetto di qualche sostanza, e anche potente. Pare che tu sia {mf|finito|finita} in un covo di narcotici.{/n}
+
+### u042776
+{n}Un bagliore assetato di sangue lampeggia negli occhi di Malice mentre dice,{/n} "Non avresti dovuto smettere. Ho preso gusto alle tue suppliche. Se voglio sentirti supplicare, supplicherai."
+
+### u042777
+{n}Il capo di questa banda ha una corporatura possente: la sua pelle squamata è rinforzata in vari punti da metallo inciso. La lunga coda si avvolge e si riavvolge mentre la testa da serpente ondeggia dolcemente da un lato all'altro: lo xenos gode di uno stato di beata rilassatezza. La sua compagna, la Drukhari emaciata, lo guarda in modo ossequioso. Tutto il suo corpo è ornato da centinaia di sfere d'acciaio incastonate e migliaia di segni rossi di iniettori.{/n}
+
+### u042778
+"Oh, sì. Fai pure."
+
+### u042779
+{n}Lo xenos squamato prosegue la sua pigra conversazione con la Drukhari dall'aria sfinita.{/n}
+
+### u042780
+{n}La sua coda si avvolge in una molla stretta per l'irritazione.{/n} "Mi sto stancando delle tue esitazioni, {mf|umanuccio|umanuccia}."
+
+### u042781
+{n}Lo xenos serpentino o non si accorge della tua presenza o semplicemente ti ignora. Membrane palpebrali iridescenti scivolano sugli occhi, oscurandoli per un attimo: senza dubbio uno sguardo eloquente fra quelli della sua specie.{/n}
+
+### u042782
+"Che cosa ti fa pensare che m'importi? No, non rispondere. Non m'importa che cosa te lo faccia pensare."
+
+### u042783
+{n}Socchiudendo gli occhi con soddisfazione, Malice ringhia,{/n} "Ancora un po'."
+
+### u042784
+{n}La testa serpentina si volge verso di te con una fluidità inumana, la lingua biforcuta che assaggia l'aria.{/n} "Sono Malice. Tu sei un fastidio. Sparisci, o scoprirai come Malice tratta i fastidi, {mf|umanuccio|umanuccia}."
+
+### u042785
+"Non hai niente. Non farmi perdere tempo." {n}Lo xenos tiene l'attenzione fissa sulla Drukhari, ma le sue dita squamate che stringono un elegante iniettore si contraggono per il disappunto. Parla lentamente e con indolenza, come un serpente che sta per entrare in brumazione.{/n}
+
+### u042786
+{n}Il tono disinvolto dello xenos è pieno di disprezzo.{/n} "Questo posto non crede nelle promesse, {mf|umanuccio|umanuccia}. Commorragh crede solo nella forza e nel sangue versato. Hai versato parecchio del tuo sangue sul mio pavimento, e non vedo alcuna forza in te."
+
+### u042787
+{n}Senza perdere tempo, ti avvicini al capobanda squamato di questa marmaglia.{/n}
+
+### u042788
+{n}Fa un gesto imperioso con le dita, come per congedarti. Il movimento è lento e pieno di dolce pigrizia.{/n}
+
+### u042789
+{n}La testa della Drukhari esplode e alcuni frammenti si appiccicano al volto dello xenos serpentino. Ora hai la sua piena attenzione, e quella di tutti gli altri nella stanza.{/n}
+
+### u042790
+{n}L'ozio apatico dello xenos svanisce in un istante, la coda si avvolge mentre si prepara a colpire, ma... si blocca. I suoi occhi sono inchiodati sulla canna della pistola puntata contro il suo volto. Con un sibilo soddisfatto, dice,{/n} "Rispetto chi non ha paura. Che cosa vuoi?"
+
+### u042791
+{n}L'ozio apatico dello xenos svanisce in un istante, e la coda si avvolge mentre si prepara a colpire. Tenti di anticipare il suo attacco con un colpo di pistola, ma è troppo veloce.{/n}
+
+### u042792
+{n}Con un sibilo minaccioso, lo xenos dice cupamente,{/n} "Pensavi che bastasse a uccidermi?"
+
+### u042793
+"Ha! Molti lo sognano... E come immagini che funzionerebbe? Pensi che ti ci porterò con la mia nave del vuoto? Non ne ho una."
+
+### u042794
+"E che cosa mi darai in cambio?"
+
+### u042795
+{n}Il poco vigore rimasto nel tuo corpo si è esaurito. Crolli a terra, e l'oscurità che ha quasi spento la tua mente per sempre avvolge di nuovo la tua vista.{/n}
+
+### u042796
+{n}Attraverso il rullo del tuo cuore senti la voce di Malice da qualche luogo lontano:{/n} "Rattoppate {mf|l'umanuccio|l'umanuccia}. Ha carattere. Mi piacciono, quelli così."
+
+### u042797
+{n}Ti lancia un'occhiata di traverso e dice con scetticismo,{/n} "Non per te, a giudicare dall'aspetto."
+
+### u042798
+"Allora vai a cercarli altrove."
+
+### u042799
+{n}Gli occhi dello xenos cominciano a baluginare in modo ipnotico. Percepisci nel suo tono una sottile, malsana curiosità mentre indica le tue ferite:{/n} "Stai sanguinando come una carcassa macellata. Senti dolore?"
+
+### u042800
+{n}Non nasconde la delusione.{/n} "Parole, parole, parole. È tutto ciò di cui siete capaci, voi patetici umanucci."
+
+### u042801
+{n}Lo xenos ti fissa con uno sguardo affamato.{/n} "Dimostralo."
+
+### u042802
+{n}Gli occhi di Malice lampeggiano di minaccia e dice con scherno,{/n} "Tieni, ti aiuto io."
+
+### u042803
+{n}A giudicare dalla sua espressione compiaciuta, lo xenos si sta divertendo.{/n} "Fatti del male. Adesso."
+
+### u042804
+{n}La sua espressione si trasforma in una pigra irritazione e ti scaccia con scarso impegno.{/n} "Allora vai a morire per conto tuo. Ucciderti sarebbe troppo noioso."
+
+### u042805
+{n}Questa particolare razza di abominevole xenos ti è sconosciuta, ma il suo solo aspetto parla di una natura feroce e di una malvagità innata.{/n}
+
+### u042806
+"Era un agente che noi Sslyth ci iniettiamo per proteggerci dal freddo. Posso solo immaginare che cosa stia facendo al tuo sangue in questo momento... Ma sono colpito dalla tua tempra, e dalla tua sfacciataggine senza limiti. Che cosa vuoi da me?"
+
+### u042807
+{n}Senza degnarsi di guardarti, la Drukhari cadaverica borbotta,{/n} "Malice vuole che tu sparisca, patetico cucciolo."
+
+### u042808
+{n}Osservi con distaccata sorpresa gocce di qualcosa di rosso che si spargono lentamente nell'aria. È il tuo sangue? La mano artigliata che ti ha squarciato la gola lascia dietro di sé una scia cremisi. La sorpresa è l'ultima emozione che provi prima che la tua coscienza si spenga per sempre.{/n}
+
+### u042809
+{n}Lo xenos ora ti fissa intensamente, con lo sguardo depravato.{/n} "Ancora."
+
+### u042810
+{n}Le ginocchia ti cedono, e cadi. Un grido stridulo di agonia erompe dalla tua gola.{/n}
+
+### u042811
+"A che cosa potresti mai servirmi...?" {n}Lo xenos sbadiglia assonnato, aprendo la bocca in modo sproporzionato.{/n} "Ma se vuoi servire, ho un compito per te. La temperatura del covo è controllata da un convettore atmosferico. Il recuperante che me l'ha venduto ha dimenticato di dirmi che era difettoso. Purtroppo per lui, non è riuscito a ripararlo. Ora il recuperante è morto, e io devo patire il disagio."
+
+### u042812
+"Perché dovrei?" {n}Malice ti guarda con disprezzo.{/n} "Il convettore è già riparato. Che senso ha che ti aiuti?"
+
+### u042813
+{n}Malice sibila deluso.{/n} "Sei stato interessante per un tempo pietosamente breve, {mf|umanuccio|umanuccia}. Non scontentarmi di nuovo. Detesto l'incostanza."
+
+### u042814
+"Davvero? Riporrai le tue speranze nella mia natura buona e gentile, famosa in tutta la Voragine?"
+
+### u042815
+"Perché no? Mi è permesso divertirmi. O forse è solo che non credo tu sia capace di niente di più."
+
+### u042816
+"Allora puoi usare il tuo orgoglio per fasciarti le ferite e tappare i buchi nella pelle con l'onore."
+
+### u042817
+"Sbrigati. A guardare le tue ferite, non hai molto tempo per portare a termine il lavoro."
+
+### u042818
+{n}Attraverso il rullo del tuo cuore senti la voce di Malice da qualche luogo lontano:{/n} "Bene, rattoppate {mf|l'umanuccio|l'umanuccia}. {mf|Si è dimostrato|Si è dimostrata} più utile di tutti voi messi insieme."
+
+### u042819
+{n}Prima che qualcuno possa reagire, afferri la compagna dello xenos squamato e le affondi i denti nel collo. Uno schiocco, e una fontana di sangue scarlatto ti inonda il viso, mentre la Drukhari gorgoglia per lo stupore. Ingoi con avidità il caldo liquido rosso, fissando Malice negli occhi, e senti un calore diffondersi euforicamente nel corpo.{/n}
+
+### u042820
+{n}Malice osserva rapito, immobile come un piccolo animale che ha avvistato un predatore. Per quanto cerchi di nasconderla, senti la paura sprigionarsi da lui a ondate. Quando hai placato la sete, dice lentamente,{/n} "Sei {mf|un bastardo malato|una stronza perversa}. Che cosa vuoi?"
+
+### u042821
+{n}Stringi i denti e sopporti il tormento senza emettere un suono. Hai provato di peggio. Hai {d|Encyclopedia:CharGen_DH_Torture}conosciuto{/d} un dolore ben più straziante e sconfortante.{/n}
+
+### u042822
+{n}Ma ti imponi di mantenere la calma invece di crollare a terra rotolandoti e urlando di dolore.{/n}
+
+### u042823
+{n}Lo xenos sibila la sua approvazione mentre strizzi e maciulli la tua stessa carne. Se all'inizio il dolore è insopportabile, ti ci abitui sempre di più e cominci a trovarlo... dolce? Senti il sangue pulsarti nelle orecchie, senti la risata sghignazzante dello xenos... e la tua.{/n}
+
+### u042824
+{n}Qualunque cosa tu ti sia appena iniettato nel corpo, non ti ha fatto bene: ti sembra che le fiamme ti avvolgano, e ogni muscolo è contratto come se fosse stato colpito da un fulmine.{/n}
+
+### u042825
+{n}Hai sentito parlare di questa razza di xenos: gli Sslyth. Queste creature si trovano spesso nel seguito di potenti signori Drukhari, dove fanno da guardie del corpo e campioni. Sono depravati e feroci quanto i loro padroni, ma hanno un intelletto più primitivo e sono guidati da bisogni più bassi.{/n}
+
+### u042826
+{n}Risponde con un tono beffardo ma soddisfatto,{/n} "Implori? Avanti, fammi vedere. Mi piace quando si prostrano davanti a me."
+
+### u042827
+{n}La voce dello xenos si fa perentoria.{/n} "Ho. Detto. Striscia."
+
+### u042828
+"Era un agente che noi Sslyth ci iniettiamo per proteggerci dal freddo. Ma posso solo immaginare che cosa stia facendo al tuo corpo in questo momento. Suppongo che qualunque cosa accada ora possa essere considerata un atto di misericordia."
+
+### u042829
+"Mi servirà un'arma più seria."
+
+### u042830
+"Grazie per il tuo aiuto."
+
+### u042831
+"Basta chiacchiere. Aiutami ad alzarmi."
+
+### u042832
+"Ti sono {mf|debitore|debitrice}. Qual è il tuo prezzo?"
+
+### u042833
+[Aspetta in silenzio che lo xenos continui]
+
+### u042834
+"Perché alla fine hai deciso di aiutarmi?"
+
+### u042835
+"Che cos'è una larva mentale?"
+
+### u042836
+"Che cosa vuoi da me?"
+
+### u042837
+"Chi è questo Commissario?"
+
+### u042838
+"Il Settore Straziato? Che nome ripugnante."
+
+### u042839
+"Perché vuoi che lo faccia io?"
+
+### u042840
+"Molto bene. Lo ucciderò."
+
+### u042841
+"Non ho alcun interesse a uccidere qualcuno per te."
+
+### u042842
+"Dove sono?"
+
+### u042843
+{n}La sensibilità ritorna lentamente. Il tuo corpo è ancora dolorante, ma non sei più sull'orlo della morte. Le tue ferite sono state chiuse grossolanamente con fermagli di metallo, e la tua gola è butterata da segni di iniettori, come se avessi portato un cuscino da collo fatto di aghi. Chi ti ha prestato questo primo soccorso non era certo un chirurgo qualificato, di quelli che di norma avrebbero il permesso di prendersi cura della persona dell'illustre Rogue Trader.{/n}
+
+### u042844
+"Sembra che tu sia {mf|tornato|tornata} fra noi. Non so se farti le mie congratulazioni o le mie condoglianze." {n}Lo xenos squamato ti guarda senza la minima deferenza.{/n}
+
+### u042845
+{n}Lo xenos serpentino sibila soddisfatto.{/n} "Commorragh. La Città Oscura: il lato inferiore dell'esistenza, il regno dei Drukhari. Ne hai sentito parlare, {mf|umanuccio|umanuccia}?"
+
+### u042846
+"Sono Malice, e la marmaglia che vedi sono i miei Shriekers. Siamo gladiatori, la carne sanguinante dell'arena da combattimento della Sete Fatale. Siamo le bestie che escono là fuori a uccidere e a morire di una morte senza gloria per il divertimento della Città Oscura. E questo covo è il nostro terreno di piacere."
+
+### u042847
+"Non voglio i tuoi ringraziamenti, {mf|umanuccio|umanuccia}. Mi ripagherai ogni stimolante che ho speso per te."
+
+### u042848
+{n}Lo xenos non si muove.{/n} "Non fraintendere, {mf|umanuccio|umanuccia}: il fatto che ti abbia salvato non mi impedirà di ucciderti in questo preciso istante. Rimettiti in piedi."
+
+### u042849
+"Dritto al sodo: mi piace. Mi devi davvero qualcosa, ma ne discuteremo quando non sarai più {mf|sdraiato|sdraiata} a terra come un pezzo di carne morta."
+
+### u042850
+"Basta stare sdraiati. Alzati e discuteremo di come pagherai per il tuo salvataggio."
+
+### u042851
+"Uccidi per me. Vai nel Settore Straziato e trova un mostro chiamato il Commissario — uno della tua specie — e sbudellalo per me. Fallo e guadagnerai il mio favore. E nella Voragine conta parecchio."
+
+### u042852
+"Un prigioniero dei Drukhari che si dà troppe arie. Invece di morire nell'arena senza fare storie, si nasconde, raccoglie intorno a sé altri schiavi della tua razza e fa patetici piani per vendicarsi. E molti della tua specie lo ascoltano: vedi quanto pochi sono gli umanucci Shriekers? Prima venivano tutti da me, ma ora ascoltano il Commissario e non vengono più."
+
+### u042853
+"È un posto ripugnante. È la base della guglia in cui viviamo. Commorragh è cucita insieme con frammenti di varie dimensioni, e nel Settore Straziato le cuciture cominciano a strapparsi. Lo spazio collassa su se stesso e la radiazione entropica è fuori scala, generando ogni sorta di abomini, e il settore stesso si sta lentamente ma inesorabilmente trasformando in nulla..."
+
+### u042854
+"Non voglio trascinare tutta la mia banda nel Settore Straziato: quel posto ucciderà tre volte più combattenti di quanti ne ucciderà la banda del Commissario. Ciò significa che devo mandare un assassino. I combattenti del Commissario conoscono i miei Shriekers. Ma nessuno conosce te. E poi non hai scelta, il che significa che andrai fino in fondo."
+
+### u042855
+"Portami la sua testa. E in cambio condividerò i miei giocattoli con te. Sono ciò che rende possibile sopravvivere a Commorragh."
+
+### u042856
+"Questo è quello che pensi tu. Non ti punirò nemmeno per la tua disobbedienza: ci penserai e capirai {mf|da solo|da sola} che non sopravvivrai a Commorragh senza amici. Ti servono un riparo, armi, un guaritore. E a me serve quello che sta sulle spalle del Commissario."
+
+### u042857
+"E se pensi di mentirmi e scappare... Quando sei per strada, cerca un umanuccio vestito di rosso con un ingranaggio sul petto e il volto pieno di miseria. Guarda come muore solo, senza nessuno ad aiutarlo. La tua morte sarà identica."
+
+### u042858
+"Le tue suppliche mi hanno divertito. Erano così... patetiche... e deliziose."
+
+### u042859
+"Come segno del mio favore, ti darò il tuo schiavo combattente. È entrato nel covo mentre ti curavo, e ha detto di essere la tua guardia del corpo."
+
+### u042860
+"Una specie di lumaca traslucida. È un parassita che si trova solo da questa parte della realtà. Le larve mentali si nutrono della tua memoria e ti iniettano nella mente allucinazioni tossiche per impedirti di resistere. I Drukhari possono addestrare queste creature e usarle per mostrare alle loro vittime subdole illusioni."
+
+### u042861
+"Oppure puoi rifiutare la mia generosa offerta e cercare aiuto altrove. Hai sentito parlare di quell'umanuccia che bazzica sempre vicino al cancello dell'Opera Anatomica, boccheggiando, a supplicare l'Haemonculus di salvarla? Non riesce a respirare normalmente, perfino il modo in cui dice il proprio nome è buffo: J-Jae H-Heyd-hari, come se stesse per soffocare."
+
+### u042862
+"Servimi bene, e non ti metterò alle calcagna un certo qualcuno... C'è un appassionato di arena che ha acquisito una bestia da fiuto, feroce e dentata. Al momento sta provando il suo nuovo giocattolo sui rifiuti vicino alla discarica dei cadaveri, ma presto cercherà prede più grosse, e tu non vuoi esserlo."
+
+### u042863
+"Tieni, puoi prenderti questa cosa disobbediente. Si rifiuta di fare ciò che dico, quindi o diventerà carne per l'arena o ti permetterà di assestare un colpo in più al Commissario."
+
+### u042864
+{n}Appena ti alzi, ti coglie uno strano senso di irrealtà. È come se fossi ancora là, nell'oscurità malvagia, e tutto ciò che ti circonda fosse soltanto un'illusione distorta. Il dubbio si insinua nella tua mente come un veleno, spezzandone il contatto con il corpo. Devi fare uno sforzo deliberato per aggrapparti al pensiero di essere proprio tu.{/n}
+
+### u042865
+"Che c'è, la tua larva mentale ti dà problemi? L'ho vista attaccarsi al tuo midollo spinale mentre ti rattoppavano. Un grosso bruco ben nutrito, pieno di denti. Ora sta morendo — hanno una vita breve — e questo significa che il suo veleno è particolarmente tossico. Perderai il contatto con la realtà di tanto in tanto, e quando la larva mentale morirà, la dose finale di veleno ti farà pensare che il tuo corpo non sia affatto il tuo. E poi il tuo cuore smetterà semplicemente di battere."
+
+### u042866
+"Avrei potuto tirarti fuori quella cosa, certo, ma ho pensato: perché dovrei? Consideralo una garanzia della tua gratitudine verso di me. Quando ti sarai {mf|guadagnato|guadagnata} la guarigione, ti libererò." {n}La bocca senza labbra si distende in un ghigno assetato di sangue.{/n}
+
+### u042867
+"Sei un cucciolo sfrontato, ma debole come tutti quelli della tua razza. La tua sfrontatezza non ti ha ancora fatto ammazzare, il che significa che devi essere qualcuno di importante. E potresti rivelarti utile."
+
+### u042868
+"Dovresti essere {mf|pazzo|pazza} per mettere piede in un posto simile. Pazzo, o un reietto come il Commissario, nascosto dalla caccia... o come te."
+
+### u042869
+"Un umanuccio squilibrato c'è andato di recente. Come lo chiamavano? Wersorean? Era vecchio, ma forte... e troppo rumoroso. La sua visita avrà probabilmente agitato tutti i mostri. Dovresti essere più {mf|cauto|cauta} e {mf|silenzioso|silenziosa} di lui."
+
+### u042870
+"Dimostra prima di essere utile. Fallo e Malice farà in modo che tu abbia dei bei giocattoli con cui giocare. Ma non prima. Nel frattempo puoi scegliere qualcosa dal mucchio di ciarpame." {n}Malice indica un contenitore mezzo pieno di equipaggiamento scadente.{/n}
+
+### u042871
+"Come segno del mio favore, ti darò i tuoi schiavi combattenti. Sono entrati nel covo mentre ti curavo, e si sono definiti le tue guardie del corpo."
+
+### u042872
+"No. Tieniti i tuoi segreti."
+
+### u042873
+"Fai il tuo dovere, Idira. Il sangue dei von Valancius sarà vendicato."
+
+### u042874
+"Ma?"
+
+### u042875
+"Sei sconvolta per la sorte di Vigastes e per la morte di quanti sono stati traditi dal Commissario?"
+
+### u042876
+"Resta salda. Usciremo da quest'oscurità."
+
+### u042877
+"Avresti dovuto dirmi la verità. Non vedo motivo di condannarti. Theodora meritava di morire per il suo tradimento. Quanto alle altre vittime... era un danno collaterale accettabile."
+
+### u042878
+"E lo confessi con tanta leggerezza?"
+
+### u042879
+"Se la preghiera ti aiuta ad affrontare tutto questo, ne sono {mf|lieto|lieta}."
+
+### u042880
+"L'oscurità, la tempra spirituale... Personalmente, mi sto godendo parecchio il mio tempo qui!"
+
+### u042881
+"Ti affiderei la mia vita."
+
+### u042882
+"Sì. Sei un'alleata fedele."
+
+### u042883
+"Non c'è nessuno di cui mi fidi completamente. È uno dei principi in cui credo fermamente."
+
+### u042884
+"No. Non posso contare su di te."
+
+### u042885
+"Idira, fermati! Subito!"
+
+### u042886
+"Hai tenuto nascosto questo segreto per tutto questo tempo."
+
+### u042887
+"Idira, sei accecata dal dolore. Fermati. Nessuno di noi è perfetto."
+
+### u042888
+"Non ho niente di meglio da fare. Parla, se vuoi."
+
+### u042889
+"Ciò che è fatto è fatto. Spero che imparerai da questo. Adesso dobbiamo pensare a come fuggire."
+
+### u042890
+"Basta. Questa lite finisce qui. Argenta, ho delle parole per te."
+
+### u042891
+"Hai assassinato i miei congiunti e mi hai nascosto la verità. È imperdonabile. Lascia il mio seguito. Che Commorragh ti prenda."
+
+### u042892
+[Non fare nulla per fermare Idira]
+
+### u042893
+"Fermati. Te lo ordino."
+
+### u042894
+"Almeno ti penti di ciò che hai fatto? Le tue mani non sarebbero macchiate del sangue degli innocenti se non avessi agito d'impulso."
+
+### u042895
+[Fai un cenno del capo ad Argenta]
+
+### u042896
+"Se Tu vedi in me una colpa, colpiscimi..." {n}I rochi sussurri di Argenta non assomigliano per nulla alla voce solita, chiara, quasi melliflua, che usa per pregare.{/n} "Colpiscimi..."
+
+### u042897
+{n}Alza lo sguardo su di te. I suoi occhi scuri brillano d'ansia.{/n} "Rogue Trader. Mi trovate in preghiera. L'oscurità ci circonda, e avremo bisogno di tutta la tempra spirituale che i nostri cuori devastati riusciranno a trovare."
+
+### u042898
+"In qualunque altro caso, raccomanderei che la Sorella della Battaglia fosse processata davanti a una corte suprema... ma date le circostanze — e la confessione volontaria — possiamo accontentarci di un processo celebrato {mf|dal diretto erede|dalla diretta erede} della defunta. Voi." {n}Heinrix ti guarda dritto negli occhi.{/n}
+
+### u042899
+"Ha! Portiamo tutti una maschera, anche i più giusti." {n}Jae scuote la testa, delusa.{/n}
+

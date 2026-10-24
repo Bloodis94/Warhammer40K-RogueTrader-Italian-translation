@@ -1,0 +1,16 @@
+# Ambiente locale
+.claude/
+.idea/
+__pycache__/
+
+# Testo originale del gioco (Owlcat Games): non ridistribuito.
+# Copia enGB.json dal gioco e rigenera i file con `tradtool.py prepare`.
+enGB.json
+work/units.json
+work/chunks/
+work/compare/
+
+# Intermedi e copie locali
+work/parts/
+work/out_proxy/
+esES.json

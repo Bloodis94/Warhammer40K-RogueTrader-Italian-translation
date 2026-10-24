@@ -1,0 +1,795 @@
+### u059047
+"Eccellente! Ci vedremo in piazza, allora. Che la luce del {g|Encyclopedia:GoldenThrone}Trono{/g} sia con voi!"
+
+### u059048
+"Allora non oso trattenervi oltre, Vostra Signoria."
+
+### u059049
+{n}Abelard annuisce in segno di approvazione e commenta a bassa voce,{/n} "Eccellente, Vostra Signoria. Un Rogue Trader non sa che farsene della clemenza."
+
+### u059050
+"No, certo che no."
+
+### u059051
+"È un oltraggio. Farò cambiare subito la procedura di controllo del personale. Il minimo sospetto sarà motivo di arresto!"
+
+### u059052
+"Oh, lo faremo, ve l'assicuro!" {n}Il governatore fa un cenno alle guardie.{/n} "Portate via il sospettato. E trovate il boia di turno. A quest'ora dovrebbe aver finito di interrogare gli insorti catturati."
+
+### u059053
+"L'arma che gli insorti usavano per abbattere le navette sopra la città è stata distrutta. Ora nulla vi impedisce di tornare alla vostra nave. Se desiderate trovare Master van Calox, dovreste recarvi al cenobio dell'Adeptus Mechanicus."
+
+### u059054
+"Un vecchio malinteso. Vecchio ormai di oltre un secolo. Non vale il vostro tempo, Lord Capitano."
+
+### u059055
+"Governatore Medineh, intendo raccogliere ulteriori informazioni sulla persona che si fa chiamare Abel Haneumann. Non escludo che possa trattarsi di un alias del mio mentore, l'{g|Encyclopedia:Archmagos}Archmagos{/g} Amarnat."
+
+### u059056
+"Lieto di esservi stato utile, Vostra Signoria."
+
+### u059057
+"Un solo buon soldato in un intero convoglio! Patetico. Recati in caserma, soldato semplice, e attendi nuovi ordini."
+
+### u059058
+"Vostra Signoria, prima di passare a discutere delle questioni che vi interessano, c'è una domanda che mi sento in dovere di porvi. Fino a poco tempo fa Lady Theodora era a capo della Casata von Valancius. Non ho ricevuto alcuna notizia della sua morte. Com'è possibile che ora il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} siate voi?"
+
+### u059059
+"Sono lieto di sentirlo. Per oggi bastano e avanzano deliri e problemi di vista."
+
+### u059060
+{n}Il governatore aggrotta la fronte e un'ombra profonda gli cala sul volto.{/n} "Il Rogue Trader von Valancius! Uccisa! Impensabile! Vi prego di accettare le mie più profonde e sincere condoglianze, Vostra Signoria. Non esitate a dirmi come posso esservi d'aiuto!"
+
+### u059061
+"Il cenobio è gestito dall'Adeptus Mechanicus fin dalla fondazione della colonia. Il sacro reattore custodito dai suoi sacerdoti alimenta l'intero pianeta. Non posso dire altro. È un luogo proibito, che persino a me è stato permesso di visitare una sola volta."
+
+### u059062
+"Se desiderate una distrazione, una rivolta più piccola e più sicura da sedare a vostro piacimento, nel mio sistema c'è un planetoide chiamato Rykadi Philia. Ospita una colonia penale i cui detenuti si sono ribellati nello stesso momento degli eretici sul pianeta. È una situazione assolutamente assurda: sarebbero bastati un paio di colpi orbitali per occuparsene, ma..." {n}Il governatore stringe leggermente le labbra.{/n}
+
+### u059063
+"Allora ci vedremo allo spazioporto, Vostra Signoria. Il maestro di cerimonie organizzerà la processione in modo che io possa condividere con voi il gran finale della cerimonia. E dopo, se l'Imperatore vorrà, il Proctor mi scagionerà da ogni accusa e i guai di Rykad Minoris finiranno una volta per tutte."
+
+### u059064
+"Le solite superstizioni della plebaglia. Sono certo che questa Aurora sia una ciarlatana che borbotta qualche filastrocca, scambiata dai suoi ottusi seguaci per incantesimi. Questo, naturalmente, giustifica il loro eventuale rogo nella fornace della penitenza. Ma non indica che ci sia nulla di speciale in questa insurrezione."
+
+### u059065
+"Gli insorti mutilano i loro stessi compagni? Bene."
+
+### u059066
+"Un'altra superstizione. Di sicuro non vi aspettate che ci creda?"
+
+### u059067
+"Non è molto, ma è qualcosa. Ordinerò una verifica delle nostre attrezzature e farò in modo che i nostri canali di comunicazione siano monitorati più da vicino d'ora in avanti. Tuttavia, è stato solo il successo casuale di una massa disorganizzata di eretici, che non capiscono nulla dell'arte della guerra."
+
+### u059068
+"Ho sentito parlare di queste lenti. Cosa vi fa pensare che siano incantate? Qualunque sciocco può accendere un fuoco con una lente d'ingrandimento. Non è stregoneria."
+
+### u059069
+"Salve di nuovo, Vostra Signoria!"
+
+### u059070
+"Come desiderate..." {n}risponde il governatore con aria stanca.{/n}
+
+### u059071
+{n}Gli occhi del governatore si incupiscono, ma il tuo sguardo incrollabile lo costringe a cedere.{/n} "E va bene. E va bene! Forse ho sottovalutato l'ammutinamento, liquidandolo come il solito vaneggiare della plebaglia... Tuttavia, se davvero c'entrano corruzione e un culto clandestino... bisogna indagare. Assegnerò risorse aggiuntive e prenderò la questione sul serio. Avete la mia parola, Vostra Signoria."
+
+### u059072
+"Secondo il Catechismo di Manutenzione e Operazione, i miei tecno-compagni avrebbero dovuto sbarrare i cancelli del monastero ai profani e attivare le trappole. Ritengo ottimale che un Magos ordinato presti il suo aiuto."
+
+### u059073
+"Il sergente che è riuscito a impressionare una persona di così nobile rango sarà raccomandato per una decorazione."
+
+### u059074
+"Purtroppo, al momento non potrete lasciare la capitale e partire alla sua ricerca. I ribelli si sono impossessati di un'arma antica e hanno reso impossibile sorvolare la città."
+
+### u059075
+"Non ci sono mai stato, ma presumo che la sacra reliquia del reattore sia capace di grande distruzione se finisse in mani eretiche. La furia degli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g} liberati, una volta sciolti dal sacro circuito, distruggerà tutto ciò che li circonda. L'entità dei danni inflitti potrebbe rendere il mondo di Rykad Minoris inabitabile."
+
+### u059076
+"Ah sì?" {n}Il governatore mantiene la calma.{/n} "Mi piacerebbe conoscere il vostro ragionamento."
+
+### u059077
+"Esaudire questa richiesta mette il monastero a rischio di una distruzione enorme. Le conseguenze di questa decisione per il mondo di Rykad Minoris potrebbero essere catastrofiche."
+
+### u059078
+"L'eresia deve essere estirpata da quelle sale benedette. Dichiaro ogni dissacratore che profani il potere della reliquia un blasfemo di Categoria Tre, meritevole di esecuzione immediata."
+
+### u059079
+"Voigtvir è un traditore? Be', ogni famiglia, per quanto nobile, ha uno o due rampolli indegni. Naturalmente, lo consegneremo se lo troveremo nella mia giurisdizione. Purtroppo non ho informazioni sul luogo in cui si trova. Tuttavia..." {n}Il governatore si ferma a pensare.{/n}
+
+### u059080
+"Qui al centro di comando abbiamo un {g|Encyclopedia:Cogitator}cogitatore{/g} collegato a una {g|Encyclopedia:Cybercrypt}cripta dati{/g} del sanctum di Logis Abel. Ha aggregato tutti i rapporti dei {g|Encyclopedia:Lexmechanic}Lexmeccanici{/g}. Purtroppo non conosco la preghiera di accesso. Se riuscirete a convincere quella macchina testarda, potreste scoprire qualcosa sugli spostamenti di Kunrad. Direi che è fuggito da voi su una nave, non su un paio d'ali!"
+
+### u059081
+"È stato un piacere illuminare Vostra Signoria."
+
+### u059082
+"Siete Haneumann? Hmm... Lieto che siate vivo." {n}Il governatore solleva un sopracciglio e fissa il {g|Encyclopedia:TechPriest}Tecnoprete{/g} con sorpresa, ma si astiene da ulteriori commenti.{/n}
+
+### u059083
+"In questo sistema c'è una stazione della {g|Encyclopedia:NavisNobilite}Navis Nobilite{/g}, ma quegli eremiti non fanno affari con nessuno. Nemmeno io sono mai stato invitato a bordo. Tuttavia, si sa che fanno eccezioni per i membri delle famiglie dei Rogue Trader. Forse ne faranno una per voi?"
+
+### u059084
+{n}Il governatore guarda Pasqal con curiosità.{/n} "Secondo i rapporti che abbiamo ricevuto, Logis Abel Haneumann si è mosso verso il Sacro Cenobio Elettrodinamico poco prima che venisse preso d'assalto. Sono lieto di sapere che siete al sicuro. Forse avete informazioni su Master van Calox?"
+
+### u059085
+{n}Il vox di Pasqal gracchia confuso,{/n} "Il mio nome è Pasqal Haneumann. Non Abel. Non so nulla di tale persona."
+
+### u059086
+"Non l'ho mai incontrato di persona. Quell'illustre Logis ha supervisionato per molti anni il lavoro dei Lexmeccanici di Rykad Minoris. Tuttavia, usciva di rado dalla sua cibercappella e non ho mai avuto l'onore di fare la sua conoscenza. Un vero anacoreta."
+
+### u059087
+"Quando un Logis dell'Adeptus Mechanicus vuole andare da qualche parte, noi non chiediamo perché, Vostra Signoria."
+
+### u059088
+{n}Idira strilla e allunga alla cieca le mani nell'aria davanti a sé. Si strofina gli occhi con nervosismo.{/n} "Oh, per l'amor dei {g|Encyclopedia:Grox}grox{/g}! Che diavolo... Lord Cap', io... non vedo niente! Solo buio. Buio pesto."
+
+### u059089
+"Vi avrei suggerito di ispezionare il sanctum dell'illustre Logis, ma è stato distrutto dai ribelli. Abbiamo recuperato diverse cripte dati e le abbiamo collegate ai cogitatori del posto di comando. Potrebbero fornirvi qualche informazione."
+
+### u059090
+{n}L'espressione del governatore cambia radicalmente quando vede Cassia.{/n} "Lady Navigatrice? Che onore! Non avrei mai pensato che la Casata Orsellio avrebbe onorato il nostro mondo con una visita. Vorrei solo avervi potuta accogliere in circostanze diverse."
+
+### u059091
+"Allora permettetemi di porvi una domanda. Il mio nome ha suscitato il vostro interesse, Governatore Medineh. Perché?"
+
+### u059092
+{n}Il governatore ridacchia nervosamente e si tormenta il colletto.{/n} "State scherzando, signora?"
+
+### u059093
+{n}Il governatore abbassa la voce.{/n} "Sì. Master van Calox è partito per il Sacro Cenobio Elettrodinamico. È un antico monastero dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g}. Non so quali siano i suoi obiettivi. Inutile dire che nelle vicinanze del monastero è stata osservata attività di insorti. Ma suppongo sia un problema troppo meschino per un agente della Santissima Inquisizione. Inoltre, vi ho già inviato un piccolo distaccamento di rinforzi."
+
+### u059094
+{n}È sorprendente che una voce meccanica proveniente da un vox possa suonare così confusa:{/n} "Quel nome potrebbe essere stato usato come segnale intelligibile solo al destinatario previsto. In tal caso, chi lo porta potrebbe essere l'{g|Encyclopedia:Archmagos}Archmagos{/g} Amarnat. Avvio la procedura di indagine e raccolta dati."
+
+### u059095
+"In compenso per la vostra considerazione della mia richiesta, io, Magos Haneumann, mi impegno ufficialmente ad accompagnarvi nel Sistema Rykad in qualità di guardia del corpo e a proteggervi a ogni costo fino al cessare delle vostre funzioni vitali. Ma solo entro i confini del Sistema Rykad."
+
+### u059096
+{n}Note di ansia si insinuano nella voce che gracchia dal vox di Pasqal:{/n} "A nome del Sacerdozio di {g|Encyclopedia:Mars}Marte{/g}, io, Magos Haneumann, avvio ufficialmente la mia partecipazione all'operazione. Devo ispezionare lo stato della reliquia e assicurarmi che non corra alcun rischio di cadere in mani eretiche."
+
+### u059097
+"No, sto bene. C'è buio... nella mia mente. Ma non sono diventata cieca, no. È il buio che vedo. È l'unica cosa che vedo."
+
+### u059098
+"Non so cosa significhi, ma tutta questa faccenda puzza, Lord Cap'. Non mi piace per niente l'aspetto di... oh!" {n}Idira fissa le proprie mani come se non le avesse mai viste.{/n} "È passato."
+
+### u059099
+"Non ne ho idea. Il buio mi ha avvolta di colpo, bam!, come una specie di velo. Ma non sono diventata cieca, no. È il buio che vedo. È l'unica cosa che vedo."
+
+### u059100
+"Lord Cap', è una cosa seria, fidati della parola di una psyker! Il buio non mi aveva mai avvolta così prima d'ora. Ma non sono diventata cieca, no. È il buio che vedo. È l'unica cosa che vedo."
+
+### u059101
+"Non so dirvi quanto vi sia grato per il vostro aiuto. Ora che i disegni insidiosi degli eretici sono stati sventati, nulla si frappone ai miei piani o ai vostri. Con Aurora morta, lo spirito della rivolta sta scemando. Intere squadre di ribelli si stanno arrendendo. Stiamo assistendo agli ultimi giorni dell'insurrezione. Ho già firmato l'ordine di assegnarvi duemila viaggiatori del vuoto di prima classe. Il loro trasferimento sulla vostra nave dovrebbe iniziare da un momento all'altro."
+
+### u059102
+{n}Medineh emette un sospiro di sollievo.{/n} "Avete senza dubbio passato molto di recente, signora. Non c'è da stupirsi che la vostra vista abbia avuto un momento di offuscamento, con tutti questi spari ovunque, per non parlare di tutti questi insorti mutilati e impazziti. Andrà tutto bene. I festeggiamenti vi distrarranno e vi sentirete di nuovo in forma!"
+
+### u059103
+{n}Con un pesante sospiro, il governatore si copre stancamente il viso con la mano.{/n} "Certo che lo fa. Quel Tecnoprete... è molto insistente. Ho ordinato che una squadra venisse inviata al santo cenobio dell'Adeptus Mechanicus. Non si sono ancora fatti sentire. Temo sia tutto ciò che posso fare nelle circostanze attuali. Non ho un solo soldato da risparmiare qui nella capitale."
+
+### u059104
+{n}Cassia stringe le labbra e un'eco di dolore toglie il fiato ai presenti.{/n} "La Casata Orsellio è grata per il sostegno che avete fornito a Eurac V in tutti questi anni."
+
+### u059105
+"Evayne Winterscale ha compiuto diverse visite diplomatiche su Eurac V per conto di suo padre. Il Grande Reggente non avrebbe mai concesso l'ingresso a una persona disonorevole, il che significa che... qualunque cosa sia accaduta sul planetoide, dobbiamo aiutare i nobili."
+
+### u059106
+{n}Il Governatore Medineh rivolge a Heinrix un sorriso piuttosto forzato.{/n} "Master van Calox, mi fa piacere vedervi in buona salute. Spero che abbiate ottenuto, ehm, ciò che intendevate ottenere al Cenobio Elettrodinamico."
+
+### u059107
+{n}L'Interrogatore annuisce senza dire una parola.{/n}
+
+### u059108
+{n}Heinrix serra le labbra in una linea sottile.{/n} "Non esattamente."
+
+### u059109
+{n}Dopo una pausa insopportabilmente lunga, Medineh si schiarisce la gola e si volta in fretta verso di te.{/n}
+
+### u059110
+"Mi oppongo categoricamente." {n}Il governatore stringe il pugno.{/n} "Per quanto rispetti la santità del vostro monastero, ho per le mani un'intera capitale che richiede le cure dei servitori dell'Omnissiah. Abbiamo perso molti illustri Tecnopreti, e uno di loro, tra l'altro, è morto proprio in quel monastero. Un guasto meccanico potrebbe verificarsi in qualsiasi momento. Per dirla senza giri di parole, potete considerarvi reclutato a forza nelle forze di difesa della città." {n}Medineh e Pasqal si fissano in cagnesco, i loro sguardi irremovibili simili a spade incrociate.{/n}
+
+### u059111
+"Una situazione critica richiede un'azione decisa. Non posso semplicemente lasciare che ogni dotto Tecnoprete corra incontro alla morte non appena sente parlare di una reliquia in pericolo. Ho bisogno di persone capaci di fare di più che lodare l'Omnissiah per badare alla capitale e ai suoi milioni di cittadini."
+
+### u059112
+"Evayne Winterscale è andato lì. È un parente del mio sovrano, il grande Rogue Trader Calligos Winterscale, signore di questo sistema e di una dozzina di altri. Immagino che il giovane Lord Winterscale sia ansioso di mettersi alla prova di fronte al suo illustre parente. Non vedo ragioni per cui voi non dobbiate unirvi a lui. È un piccolo planetoide, i prigionieri sono pochi e hanno poche armi. È più uno sport per nobili signori{mf|| e dame} che una vera ribellione."
+
+### u059113
+"Mi scambiate per uno sciocco. So che è arrivato separatamente da voi, e scommetterei la vita che nessun..."
+
+### u059114
+"Sono lieto di sapere che Vostra Signoria sostiene la mia decisione. Stimato Magos..."
+
+### u059115
+"Stimato Magos, i nostri tecnomati vi metteranno al corrente dei problemi del nostro distributore di energia..."
+
+### u059116
+{n}La voce del governatore si spegne nel basso ringhio di un mecadendrite perforante. La sua punta è puntata dritta tra i suoi occhi. Medineh si schiarisce la gola e borbotta con ostinazione,{/n} "Dunque questa è la tecnica di negoziazione a cui siete ricorso? Pensate che sia la prima volta che mi minacciano con un'arma?"
+
+### u059117
+"No. Ma questa potrebbe essere l'ultima." {n}La voce di Pasqal è simile al suono prodotto dal suo strumento perforante: ferma e calma, ma pronta a esplodere in qualsiasi momento con lo scricchiolio delle ossa e lo squarciarsi della carne.{/n} "Mi sto recando al monastero perché devo. È chiaro?"
+
+### u059118
+{n}Il governatore borbotta a denti stretti,{/n} "Più che chiaro... Magos."
+
+### u059119
+"È per questo che sono venuto su questo mondo. Mi aspettano là."
+
+### u059120
+"Vostra Signoria, confido che mi concederete un posto a bordo della vostra navetta. L'Adeptus Mechanicus vi sarà grato per la vostra collaborazione."
+
+### u059121
+"Grazie per la vostra collaborazione, Vostra Signoria." {n}Il trapano si ferma.{/n}
+
+### u059122
+"Lord Cap', non l'ho fatto apposta, è successo e basta! Non ero mai stata in un buio così totale. Non sono diventata cieca, no. Vedo il buio. E solo il buio."
+
+### u059123
+{n}Il governatore china il capo in segno di accettazione.{/n} "Certo, Vostra Signoria. Sarete {mf|risarcito|risarcita} per ogni perdita. E mi occuperò personalmente di far riempire le stive della vostra nave con i migliori beni delle mie riserve personali."
+
+### u059124
+{n}Il Governatore Medineh esita prima di rispondere, il volto che diventa lentamente viola di rabbia.{/n} "Vostra Signoria..." {n}sibila a denti stretti.{/n} "So chi siete. Ho sentito parlare delle vostre... {d|Encyclopedia:CharGen_DH_Shame}'imprese.'{/d} E non permetterò che {mf|uno straniero|una straniera}, per di più {mf|un altro|un'altra} Rogue Trader, mi parli in questo modo e avanzi pretese nei confronti di un suddito di Sua Signoria Calligos Winterscale!" {n}Fa un respiro e prosegue con un tono più calmo,{/n} "La questione è chiusa. Non parliamone più."
+
+### u059125
+"Salute, Vostra Signoria," {n}dice il governatore con voce abbattuta, lanciando uno sguardo istintivo a Solomorne.{/n}
+
+### u059126
+{n}Poi il governatore nota gli abiti di Kibellah e spalanca gli occhi. Aggiunge, piano e con cautela,{/n} "Questa... donna, immagino sia la vostra guardia del corpo? O è qui per..." {n}Si interrompe, scegliendo di non finire la domanda.{/n}
+
+### u059127
+{n}L'Arbitrator avanza inesorabile e si ferma a un passo dal governatore, guardandolo dall'alto in basso.{/n}
+
+### u059128
+"Governatore Medineh, in nome della Lex Imperialis, io, Proctor Solomorne Anthar, vi arresto con l'accusa di coinvolgimento nel furto del carico della Decima Imperiale. Tenuto conto dello stato di emergenza su questo pianeta, vi permetterò di mantenere la vostra autorità sotto la mia diretta supervisione. Da questo momento in poi darete all'Adeptus Arbites la vostra piena collaborazione, in particolare trasferendo a me il comando dei gruppi d'assalto e delle altre risorse."
+
+### u059129
+{n}Medineh, pur pallido come un cadavere, alza orgogliosamente il mento.{/n} "Arrestarmi? Trasferire le mie risorse? Le vostre richieste minano i miei sforzi per sopprimere la ribellione! Scusatemi, Proctor, ma questa accusa di aver rubato la sacra decima è semplicemente..." {n}Smette di parlare sotto lo sguardo opprimente e spietato dell'Arbitrator.{/n}
+
+### u059130
+"Negare la colpa non fa che aumentare i sospetti su di voi, Governatore. Ora, ripassiamo tutto ancora una volta. La decima è stata rubata dal vostro mondo. Siete responsabile dell'accaduto, che vi abbiate preso parte di persona o meno. Fornirete le risorse che ho richiesto senza obiezioni, poiché questa misura serve a ristabilire il controllo sul pianeta. Obbedite, o considererò il vostro rifiuto un ostacolo all'indagine e agirò di conseguenza."
+
+### u059131
+"Mi pare di non avere altra scelta che sottomettermi al vostro volere. Come suo servitore rispettoso della legge, onoro la parola della Lex Imperialis." {n}Medineh ti lancia una rapida occhiata.{/n} "A meno che Sua Signoria non abbia qualcosa da dire in merito, ovviamente."
+
+### u059132
+{n}Il governatore mette le mani dietro la schiena, forse per sembrare più sicuro o per nascondere il tremore delle dita.{/n} "In tal caso, accomodatevi pure, Proctor. Ma prima di darvi i codici di accesso, devo..."
+
+### u059133
+"Sì. Inoltre, dubito che il Rogue Trader Winterscale troverà sgradito che gli Arbitrator abbiano aiutato a ripulire questa follia. Quanto al governatore, immagino che l'unto dell'Imperatore trarrà beneficio dall'apprendere con quanta diligenza il suo servitore ha svolto i propri doveri."
+
+### u059134
+"No." {n}Solomorne si volta di scatto verso il governatore.{/n} "I rapporti che ho ricevuto su Rykad Minoris indicavano che la situazione sul pianeta era stabile. O questa stabilità è stata sconvolta da una cospirazione delle forze dell'Arcinemico, oppure è bastata una congrega di folli per minacciare la vostra autorità, Governatore. È nel vostro interesse ascoltare ciò che dice il Rogue Trader."
+
+### u059135
+"Rilasciare una lunga dichiarazione autoassolutoria? Non ce n'è bisogno. Tutte le informazioni che ci servono da voi saranno ottenute durante l'interrogatorio, senza testimoni, che siano la vostra guardia personale o il Rogue Trader. Solo voi, io e Glaito." {n}Il mastino cibernetico emette un ringhio cupo che ti fa correre un brivido lungo la schiena.{/n}
+
+### u059136
+"Impedite agli eretici di impadronirsi dello spazioporto e degli altri luoghi cruciali per l'indagine. Allo stesso tempo, schiacceremo la resistenza degli eretici: la maggior parte di loro si nasconde tra la gente comune, e una serie di attacchi concentrati contro i quartieri residenziali e le infermerie li farà uscire allo scoperto. A quel punto finiremo quella carogna ribelle."
+
+### u059137
+"C'è differenza tra tattica efficace e terrore. Voi vi riferite al secondo. Questo mondo non deve perdere più persone del necessario, o Rykad Minoris faticherà a tornare al servizio dell'Imperium."
+
+### u059138
+"Sangue del Trono... Non governerò altro che rovine e cadaveri, quando avrete finito!"
+
+### u059139
+"Abbiate fede nei miei metodi, Governatore. Non ho intenzione di spopolare il vostro mondo: dopotutto, deve poter continuare a pagare la decima."
+
+### u059140
+{n}La voce dell'Arbitrator risuona come acciaio:{/n} "L'avversione ai danni collaterali è una debolezza che gli eretici sfruttano fino in fondo. Mentre voi restate qui a provare pietà e a esitare, il nemico è impegnato a fortificare le proprie posizioni e a rimpiazzare le perdite. Le tergiversazioni dettate dalla pietà non fanno che accrescere il danno che il mondo subirà."
+
+### u059141
+{n}Solomorne accenna un lieve cenno del capo.{/n} "Meglio tagliare la mano che lasciare che l'infezione si impadronisca dell'intero corpo."
+
+### u059142
+"Sì, è ben lontano da ciò che mi aspettavo da questo incarico. Le cose che facciamo per la missione."
+
+### u059143
+"Certo, Vostra Signoria. Sarete {mf|risarcito|risarcita} per i danni." {n}Il governatore annuisce senza alcun entusiasmo.{/n}
+
+### u059144
+"Quanto alla vostra partecipazione al trionfo, Governatore: ci accompagnerete allo spazioporto per fornire risposte tempestive a qualunque domanda mi venga in mente mentre ispeziono il terminal. Detto questo, dovreste comparire davanti ai vostri sudditi almeno una volta alla fine della cerimonia: servirà a mantenere l'ordine. Non c'è ragione di far sapere alla gente che il mondo potrebbe presto andare incontro a un cambio di guida."
+
+### u059145
+"Sangue dei martiri... Ditemi che questo è solo uno sfogo isterico della vostra compagna."
+
+### u059146
+"Posso offrirvi diverse migliaia di servitori eccellenti e obbedienti. Tuttavia, mi rincresce informarvi che non potrò farlo finché non avremo risolto la questione dell'insurrezione sul pianeta. Sono certo che non dovrete attendere a lungo. La plebaglia sarà presto punita come merita per i suoi intrighi eretici."
+
+### u059147
+"Lo so da alcuni scambi vox intercettati e da un paio di furfanti che abbiamo interrogato. Ma soprattutto lo so per esperienza. Una simile plebaglia ammutinata si nutre sempre delle proprie famiglie e dei propri soci, che forniscono anche una fonte di reclute per rimpolpare i suoi ranghi. E, naturalmente, c'è la spregevole abitudine degli eretici di usare la popolazione locale come scudo. Dobbiamo stanarli dai loro covi e privarli delle risorse."
+
+### u059148
+"Anche voi! Giuro sul Trono d'Oro e sul sangue di tutti i martiri: non ho mai nemmeno pensato di commettere un atto simile! Vi prego, Vostra Signoria, non offendetemi con simili sospetti."
+
+### u059149
+"Ottime notizie. Grazie per il vostro aiuto!"
+
+### u059150
+"Il cambiamento sta arrivando... L'Edge è vicino..."
+
+### u059151
+"I ciechi sono innocui. Inutile sparargli e attirare l'attenzione."
+
+### u059152
+"Fuoco sul bersaglio più vicino!"
+
+### u059153
+"Non uccidete il Tecnoprete. Dobbiamo prenderlo vivo! Neutralizzate gli altri."
+
+### u059154
+"Che chi cerca la Conoscenza la trovi. E che i loro nemici non raccolgano nella corruzione altro che dolore."
+
+### u059155
+"Che sta facendo? Ripiegate."
+
+### u059156
+"Che la Conoscenza sia il tuo destino. Che il Ciclo sia cessato!"
+
+### u059157
+"Ottieni la vera vista... Rinnega la falsa visione... Tutto sarà rivelato..."
+
+### u059158
+"Gente, che ne dite se voi non vi avvicinate e io non vi sparo?"
+
+### u059159
+"Gli occhi mentono... L'Alba Finale purifica la vista..."
+
+### u059160
+"Riesci a vedere l'edge? Brucerà tutto ciò che conosci..."
+
+### u059161
+"Basta! Vi prego! Basta!"
+
+### u059162
+"Contempla... Abbraccia... Rinasci..."
+
+### u059163
+"Pensate di lasciarci indietro, vigliacca feccia?"
+
+### u059164
+"Sergente! Smettetela di incitare all'ammutinamento! È un ordine..."
+
+### u059165
+"Qui gli ordini li do io. E ti ordino di chiudere il becco."
+
+### u059166
+Gli insorti hanno finto di essere gravemente feriti. Un modo ingegnoso per sembrare innocui, bisogna concederglielo.
+
+### u059167
+Non solo erano perfettamente in forze fin dall'inizio, ma le loro azioni abili suggeriscono che fossero combattenti esperti che si fingevano insorti.
+
+### u059168
+Sul fianco della navetta sono scarabocchiati oscuri gerghi da piloti invece di un semplice e onesto Gotico. Decifrare quegli sgorbi è al di sotto di te.
+
+### u059169
+Sul fianco della navetta, in basso gergo da piloti, sono scritte le parole: "Non toccare! Carico di decime per il benedetto Lord Capitano Calligos Winterscale." Forse in questa navetta c'è qualcosa che merita la tua attenzione.
+
+### u059170
+Evacua
+
+### u059171
+"Sento ancora quei sussurri inquietanti."
+
+### u059172
+"È ora di andarsene da qui."
+
+### u059173
+"Vivo per servire, Vostra Signoria, {mf|signore|signora}!"
+
+### u059174
+La tua navetta è stata bruciata e non volerà mai più. Il corpo carbonizzato del pilota è rigido, le mani ancora strette sulle leve.
+
+### u059175
+"Sembri {mf|ferito|ferita}. Dovresti tornare indietro: riceverai cure mediche."
+
+### u059176
+"Devi essere molto devoto al tuo mentore per essere disposto a gettarti in questo pasticcio per lui."
+
+### u059177
+[Indica la macchina esplosa] "Come hai fatto a uccidere una marea di persone e a far saltare in aria una macchina sacra senza nemmeno sfiorarla?"
+
+### u059178
+"Ti invito a unirti al mio seguito."
+
+### u059179
+"Sono il Rogue Trader {name} von Valancius. Non intendo farti alcun male."
+
+### u059180
+"Abelard, non è il momento di perdere la compostezza. Presentami."
+
+### u059181
+"Fermati subito, o ti farò gettare nei resti di quella macchina a finire di bruciare."
+
+### u059182
+[Mantieni un silenzio sdegnoso]
+
+### u059183
+"Perché desideri vedere il governatore?"
+
+### u059184
+"Non sai nemmeno come hai causato un'esplosione simile?"
+
+### u059185
+{n}L'uomo vestito di cremisi non avrebbe dovuto sopravvivere a un'esplosione del genere. Eppure è vivo: senti il respiro affannoso del respiratore che gli copre metà del volto.{/n}
+
+### u059186
+{n}Il vox emette un sibilo sprezzante:{/n} "La sofferenza della carne è un fattore trascurabile. Il metallo vince, la carne è vinta. Raccomando un rapido avanzamento." {n}Il Tecnoprete emaciato, con la veste lacerata in più punti dai detriti, stringe ostinatamente la sua ascia potenziata, appoggiandovisi come a un bastone.{/n}
+
+### u059187
+"Mi identifico come Magos Pasqal Haneumann del Sacerdozio di Marte. Per grazia dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}, sono attualmente assegnato al personale di manutenzione della stazione Altar-Templum-Calixis-Ext-17."
+
+### u059188
+{n}Il Tecnoprete si volta e fissa inorridito i resti in fiamme, come se non avesse nulla a che fare con quanto appena accaduto. Il suo vox emette una mesta preghiera.{/n} "Io... L'ho fatto io?"
+
+### u059189
+{n}Il Tecnoprete esita, lanciando un'occhiata ai suoi mecadendrite come per consultarli. Infine il suo sistema vox risponde:{/n} "Sono venuto qui per compiere una missione sacra. Il mio mentore, l'Archmagos Amarnat, mi ha convocato e io mi sono affrettato a rispondere al suo richiamo. Ma i disordini della plebaglia hanno impedito il nostro incontro, e stavo andando dal Governatore Medineh per determinare l'attuale posizione del mio mentore."
+
+### u059190
+{n}Idira ha fissato il Tecnoprete mordendosi il labbro. Alla fine si china verso il tuo orecchio.{/n} "Le voci si comportano in modo strano su di lui... Dicono cose confuse e contraddittorie... come se parlassero di persone completamente diverse... ma non è una minaccia per te. Anche se è un po' difficile da credere dopo tutti questi fuochi d'artificio."
+
+### u059191
+"La mia scorta ha ricevuto dal suo comandante l'ordine di interrompere il movimento e attendere di unirsi al vostro gruppo. Poi, per la loro incompetenza, si sono fatti uccidere. È stata una complicazione inaccettabile per il mio compito." {n}Se la voce del Tecnoprete portava un briciolo di compassione per i morti, le parole asciutte che crepitavano dal suo sistema vox non ne lasciavano trapelare nemmeno un'ombra.{/n}
+
+### u059192
+"L'Omnissiah mi ha concesso una rivelazione. Lo spirito di questa macchina stava morendo, ma desiderava rendere un ultimo servizio, poiché tale era la sua natura. Io l'ho percepito e... mi sono appellato a esso. Non so come ci sono riuscito: ho semplicemente seguito il mio istinto. La comprensione concessa dall'Omnissiah non è stata permanente: mi ha abbandonato." {n}Il Tecnoprete appare scosso.{/n}
+
+### u059193
+{n}Piccole rughe si formano attorno all'occhio scoperto del Tecnoprete, come se sorridesse sotto la maschera del respiratore.{/n} "La cessazione delle funzioni vitali è un fenomeno inevitabile e dunque insignificante. La dottrina del culto ripudia la paura della morte."
+
+### u059194
+"Inteso. Prevedo una cooperazione fruttuosa e reciprocamente vantaggiosa."
+
+### u059195
+{n}Dalle pieghe del paramento cremisi, in parte ancora fumante, proviene un trillo: è il linguaggio binarico, la lingua sacra dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g}. L'inno binarico si trasforma in una voce sintetizzata dal {g|Encyclopedia:Vox}vox{/g} che suona come un tuono che rotola su una vasta pianura:{/n} "Non un passo di più."
+
+### u059196
+{n}Il bagliore blu-verde minaccioso si spegne nello sguardo del Tecnoprete. Egli abbassa il braccio e le vostre attrezzature smettono di avere malfunzionamenti.{/n} "Il convoglio aveva ricevuto l'ordine di incontrarvi. Non è più operativo, perciò propongo di proseguire verso il punto di incontro con i soldati del governatore." {n}Il Tecnoprete fissa risoluto davanti a sé, i suoi {g|Encyclopedia:Mechadendrite}tentacoli mecadendritici{/g} che si alzano con grazia attorno alla sua figura ingobbita, illuminata dalle fiamme dei resti fumanti della macchina.{/n}
+
+### u059197
+{n}Stringendo i denti, il Siniscalco sibila,{/n} "Il Rogue Trader {name} von Valancius vi saluta, onorato Tecnoprete, e vi concede graziosamente il permesso di restare alla sua presenza."
+
+### u059198
+{n}Abelard fa un passo avanti per farti scudo dallo sconosciuto.{/n}
+
+### u059199
+{n}La visiera del Tecnoprete mette a fuoco il tuo abbigliamento ed esamina i simboli che reca.{/n} "Vi identifico come membro di un alto ceto appartenente alla Casata di Rogue Trader von Valancius. Non rilevo alcuna necessità di scontro."
+
+### u059200
+"Altar-Templum-Calixis... Ho già sentito questo nome. La stazione compare sulle carte stellari della Casata Orsellio, nel Sistema Furibundus, non lontano dalla colonia del vuoto di Footfall. Avete percorso molta strada per arrivare fin qui, stimato Magos."
+
+### u059201
+{n}Poi la sua espressione si indurisce e aggiunge in tono criptico,{/n} "Con le parole del mio mentore, l'Omnissiah mi dona l'algoritmo per la redenzione e il trionfo nel servizio. Sarò redento e trionferò."
+
+### u059202
+"Per il Trono... Di cosa è fatto quel servitore dell'Omnissiah? Adamantio... Argh, maledizione!" {n}Abelard si stringe la testa mentre il suo impianto oculare è scosso da un'ondata di interferenze.{/n}
+
+### u059203
+{n}Kibellah lo fissa sorpresa.{/n} "Che strano sentire simili parole da qualcuno che non appartiene al Bloodspun Web... Abbiamo molto in comune."
+
+### u059204
+{n}La sua mano scarna si alza per fermarti e subito il tuo vox ulula di dolore e le tue attrezzature meccaniche iniziano a crepitare. L'ascia potenziata ardente del Tecnoprete vomita una nuvola di scintille giuste e la sua visiera brilla minacciosa di blu e di verde.{/n} "Fuggite, perché io sono la morte."
+
+### u059205
+Pilota Nimas
+
+### u059206
+Jaspar il Fortunato
+
+### u059207
+"Come può una patetica ribellione essere motivo sufficiente per una cerimonia di benvenuto così scadente in onore dell'arrivo di un Rogue Trader? È un insulto."
+
+### u059208
+"Devi sbagliarti. Sono il Rogue Trader della Casata von Valancius."
+
+### u059209
+"Sono il Rogue Trader von Valancius! Fammi un rapporto sulla situazione, immediatamente!"
+
+### u059210
+"Come osi, plebeo? In ginocchio, prima che ti faccia saltare le cervella!"
+
+### u059211
+"Il cammino davanti a noi è pericoloso? Cosa mi aspetta esattamente laggiù?"
+
+### u059212
+"Sei un buon soldato, Malgar. Farò in modo che il tuo eroismo venga annotato."
+
+### u059213
+"Quale Tecnoprete?"
+
+### u059214
+"Un buon combattente avrebbe già riconquistato lo spazioporto da un pezzo. Muoviti e attacca, vigliacco furfante!"
+
+### u059215
+"Non posso lasciare te e la tua gente senza aiuto. Dalla mia nave verranno inviati dei rinforzi."
+
+### u059216
+"Qualche cane rognoso ha quasi abbattuto la mia navetta!"
+
+### u059217
+"Vado a vedere il governatore."
+
+### u059218
+"Davian di Tertium? Chi è?"
+
+### u059219
+"Chi sei, comunque?"
+
+### u059220
+"Sei uno stolto. Il governatore, sano e salvo nelle retrovie, vi ha abbandonati a morire, e tu sei qui a predicare di gloria."
+
+### u059221
+"Cosa ha causato questa ribellione?"
+
+### u059222
+"Desidero vedere il governatore di questo pianeta."
+
+### u059223
+"Per caso sai se un membro dell'Inquisizione è arrivato qui?"
+
+### u059224
+[Dagli una pacca sulla spalla] "Stai facendo un ottimo lavoro, Malgar. E lo stesso vale per i tuoi uomini. Sono persone come voi a tenere unito l'Imperium!"
+
+### u059225
+"Abelard, illumina questa plebaglia sul modo corretto di salutare i prescelti del Dio-Imperatore."
+
+### u059226
+{n}Lo spazioporto ti accoglie con il frastuono dell'artiglieria e l'odore di esplosivo ti solletica le narici. Tra il fumo è difficile capire chi stia sparando a chi.{/n}
+
+### u059227
+"Una persona molto importante dell'Adeptus Mechanicus è arrivata con l'ultima navetta prima che chiudessero i cieli. Continuava a chiedere se fosse arrivato di recente qualcuno di nome Amarant o Amarnat o qualcosa del genere. Però ha risposto a malapena alle nostre domande, ha detto che non era tenuto a dirci niente."
+
+### u059228
+{n}Il tuo tono imperioso si rivela più efficace di qualunque insegna ufficiale e il popolano crolla in ginocchio.{/n}
+
+### u059229
+{n}Alla parola {g|Encyclopedia:Inquisition}"Inquisizione"{/g} il volto del sergente si riempie di timore reverenziale.{/n} "Non lo so, {mf|signore|signora}! Di sicuro non ci sono stati visitatori del genere durante il mio turno! Forse dovrete informarvi al quartier generale, Vostra Signoria, {mf|signore|signora}!"
+
+### u059230
+{n}Con un misto di soggezione e terrore, si mette sull'attenti, alza il mento appena rasato come un soldato esemplare e abbaia,{/n} "Mio errore, {mf|signore|signora}! Subito! Lo spazioporto è sotto il controllo dei custodi del governatore! Il comandante del perimetro è il Sergen..."
+
+### u059231
+{n}L'esplosione di una granata a frammentazione tronca il resto delle parole del sergente. Le schegge volano ovunque con uno stridio penetrante. Uno dei soldati cade a terra, stringendo i resti dell'avambraccio, ora ornato di brandelli cremisi. Il sangue sgorga dal moncone e l'agonia del soldato è breve. Il sergente impreca e recita in fretta una preghiera militare per i caduti.{/n}
+
+### u059232
+"I ribelli hanno dato alle fiamme il palazzo proprio all'inizio, ma il governatore, per grazia dell'Imperatore, è ancora vivo e continua a dirigere gli sforzi di difesa da un posto di comando fortificato."
+
+### u059233
+"{d|Encyclopedia:Ch1_Raycad_Early}Niente di buono{/d}." {n}Il sergente sospira pesantemente.{/n} "Quei bastardi sparano a chiunque cammini per le strade. Alle nostre stesse truppe è stato ordinato di aprire il fuoco senza preavviso. Fareste meglio a muovervi con cautela, {mf|signore|signora}: per giunta, abbiamo minato le strade quando ci siamo ritirati."
+
+### u059234
+"Affermativo, Vostra Signoria, {mf|signore|signora}! Sono quei dannati ribelli: quei vermi sono riusciti a mettere le mani su una batteria antiaerea e stanno dando ai nostri shuttle problemi a non finire. Quell'affare picchia duro! Siete fortunati che vi abbiano mancati: ne ho visti friggere due carichi di rinforzi, non si è salvata un'anima."
+
+### u059235
+"Chiedo scusa, Vostra Signoria, {mf|signore|signora}! Non potevo saperlo, non sono stato avvertito! Se avessimo saputo di attendere un visitatore così eminente, avremmo... sapete... di corsa... con tutta la dovuta devozione!"
+
+### u059236
+"Non so come sia la situazione lì adesso, ma l'operatore vox personale del governatore è arrivato di recente allo spazioporto. Ci ha lasciato i nuovi codici vox ed è partito per un incarico speciale, non prima di averci detto che il posto di comando è ben rinforzato e non corre alcun pericolo di cadere."
+
+### u059237
+"Pah, per tutti i santi! Sono il Sergente Malgar, e ora voi altri rispondete a me. Mettetevi in riga e trascinate le chiappe dietro di me, vi assegno un settore di difesa." {n}Alla fine della sua tirata, la voce del sergente si fa più bassa mentre i suoi occhi si posano sul tuo costoso equipaggiamento.{/n}
+
+### u059238
+"Alt! Armi a terra, o sparo!" {n}Un uomo in un'uniforme strappata e sporca avanza zoppicando verso di te da dietro blocchi di rococemento e plastacciaio accartocciato. Il suo elmo crepato è adornato da un'etichetta storta con la scritta: "Sgt Malgar."{/n}
+
+### u059239
+"Se posso riferire, {mf|signore|signora}, finché i ribelli continuano a sparare con quella dannata batteria antiaerea, non c'è assolutamente modo di portarvi dal governatore in navetta. Bisognerebbe andare a piedi, e le strade sono pericolose."
+
+### u059240
+"Non ho nessuno da mandare con voi come scorta: ho assegnato tutte le truppe disponibili ad accompagnare l'illustre Tecnoprete dal governatore. Ordinerò via vox di aspettarvi. E informerò il quartier generale: farebbero meglio a mandare un convoglio a incontrarvi a metà strada! Nel frattempo, seguiremo gli ordini del governatore e terremo la linea qui!"
+
+### u059241
+"Vivo per servire!" {n}Gli occhi del sergente brillano di orgoglio. La sua espressione è di autentica felicità.{/n}
+
+### u059242
+"D'accordo, quindi i nostri cieli sono bloccati, i ribelli abbattono qualunque cosa voli, e voi tizi siete semplicemente atterrati nelle nostre retrovie senza un graffio? E su una navetta così... Dove l'avete presa? L'avete rubata dal palazzo, vero?" {n}È visibilmente colpito dall'oro sfolgorante del vostro mezzo di trasporto.{/n} "Prendeteli, ragazzi, abbiamo catturato una forza di sbarco ribelle!"
+
+### u059243
+"Vivo per servire!" {n}La voce cupa del sergente risuona dell'orgoglio di un martire.{/n}
+
+### u059244
+{n}Un'ombra di dubbio attraversa il volto del sergente.{/n} "Nulla di sorprendente... È il destino del soldato servire e morire. Non del governatore, però, quello non è il suo dovere..." {n}Ti lancia un'occhiata imbarazzata.{/n}
+
+### u059245
+{n}L'orrore riempie gli occhi del sergente.{/n} "Chiedo scusa, Vostra Signoria, {mf|signore|signora}! Rimedieremo subito! Seguite il mio esempio, voi altri! Vi do due minuti per ricaricare e rattoppare le ferite, poi sbaragliamo la feccia ribelle!" {n}Ruggisce i suoi comandi, organizzando le truppe per quella che è senza dubbio un'offensiva suicida.{/n}
+
+### u059246
+"Vivo per servire!" {n}Il sergente è così stupefatto che pronuncia le parole di ringraziamento previste solo dopo una pausa prolungata e non prevista.{/n} "Non falliremo... Non dimenticheremo... Pregheremo l'Imperatore per voi, Vostra Signoria, {mf|signore|signora}!"
+
+### u059247
+"Si combatte nella capitale, ma {d|Encyclopedia:Ch1_Raycad_Early}teniamo duro{/d}, senza dare tregua ai ribelli! L'{g|Encyclopedia:Emperor}Imperatore{/g} protegge!" {n}La voce del sergente trabocca di audace fiducia.{/n}
+
+### u059248
+{n}La sua osservazione sulle mine ti si stampa nella memoria. Più di ogni altra cosa, dovrai guardare il terreno e non ciò che ti circonda: preferisci rischiare un colpo di un ribelle o di un soldato nervoso piuttosto che ritrovarti con qualche manciata di letali schegge di frammentazione adagiate su trecento grammi di esplosivo a base di fyceline.{/n}
+
+### u059249
+{n}La risposta del sergente non è particolarmente utile. Quando il pericolo ti circonda in molte forme, è impossibile prepararsi.{/n}
+
+### u059250
+{n}Con un colpo di tosse rauco, il sergente si volta di nuovo verso di te.{/n} "Perdonatemi, {mf|signore|signora}. Sergente Lasse Malgar agli ordini! La mia unità tiene lo spazioporto per ordine del governatore! Come posso servirvi?"
+
+### u059251
+"Ci stanno {d|Encyclopedia:Ch1_Raycad_Late}schiacciando{/d}, la feccia. È passato un intero turno dall'ultimo arrivo di rinforzi, stiamo finendo le munizioni, un combattente su due è ferito. Non so quanto sia grave nelle strade, ma da un momento all'altro ci cacceranno via di qui."
+
+### u059252
+"Sergente Lasse Malgar, {mf|signore|signora}! Soldato fedele di undicesima generazione della Casata Winterscale, insignito di tre encomi per servizio impeccabile. Fin dai tempi antichi, Sua Signoria il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} recluta soldati e carpentieri navali su Rykad Minoris, perciò non esiste onore più grande per un Rykadiano che servire con diligenza Sua Signoria!"
+
+### u059253
+"Ha preteso di parlare personalmente con il governatore, così ho dovuto mandare con lui un quarto delle mie truppe per tenere alla larga i guai."
+
+### u059254
+{n}Tra il rococemento crepato e il plastacciaio contorto, noti un uomo in uniforme da custode. Fissa con sorpresa l'oro scintillante della tua navetta.{/n} "Il governatore ha mandato le sue guardie personali? Non importa! Che ci fate lì impalati, carne da cannone? Aspettate che i ribelli vi facciano saltare di nuovo il secchio, tanto per sicurezza? I cieli sopra la capitale sono bloccati dal fuoco nemico, tutto il traffico aereo è stato sospeso! Quale peste vi ha dato l'autorizzazione a dispiegarvi?"
+
+### u059255
+"La mia unità era qui quando è andato tutto a catafascio. I {g|Encyclopedia:TechPriest}Tecnopreti{/g} collegati ai satelliti hanno segnalato avvistamenti di strane navi del vuoto nel sistema. Orbitavano attorno alla stella finché una di esse ha impostato la rotta per atterrare su Rykad Majoris. Il governatore ha preso misure precauzionali e ordinato di rafforzare la sicurezza nelle strutture chiave: lo sanno tutti che quando qualcosa non va, conviene raddoppiare i turni dei custodi. È scattato l'allarme e ci hanno mandati a mettere in sicurezza lo spazioporto. È l'unico motivo per cui siamo riusciti a tenerlo."
+
+### u059256
+{n}Idira aggrotta la fronte e lo sguardo le si fa lontano, come se guardasse attraverso il sergente.{/n} "Sei un buon soldato, ma hai molto sangue sulle mani, tuo e altrui. Sai, la stessa mano che ora saluta potrebbe vacillare nel buio. Il grado e le spalline non ti salveranno dall'amarezza..."
+
+### u059257
+"Perdonatemi, mia signora, ma non riesco a seguire questi discorsi altisonanti. Di sangue ne ho visto parecchio, ma, credetemi, combatterò fino all'ultima goccia!"
+
+### u059258
+"Allora Felek si è strappato la maschera... proprio perché sapeva dei guai su Rykad Minoris. Sapeva che nessuno dei nostri alleati sarebbe venuto in nostro aiuto." {n}Cassia emette un sospiro addolorato.{/n} "Potete proseguire il vostro rapporto, contadino."
+
+### u059259
+{n}Abelard si schiarisce la gola.{/n} "Vi trovate al cospetto del Rogue Trader von Valancius, verme ignorante! Mettetevi subito sull'attenti e fate a Sua Signoria un rapporto formale!"
+
+### u059260
+{n}Abelard diventa paonazzo.{/n} "Per il Santo Trono, che razza di scempio è mai questo..."
+
+### u059261
+{n}Idira si guarda intorno.{/n} "Sono messi male, vecchio mio. Va' piano con loro."
+
+### u059262
+{n}Il sergente scuote la testa deluso.{/n} "Ah, se solo ci fosse il Sergente Davian di Tertium... Avrà anche perso del tutto il senno, ma se l'avessi lasciato accompagnarvi, avreste potuto arrivare fino al palazzo del governatore senza che vi capitasse alcun male."
+
+### u059263
+"Uno dei nostri, un veterano. Non ho idea di come sia finito qui. L'uomo viene da Atoma Prime, dall'altro capo della galassia. Tipo silenzioso, occhi folli, ma dovreste vederlo sterminare i nemici dell'Umanità. Non ce n'è uno come lui." {n}Il sergente lancia un'occhiata da qualche parte oltre lo spazioporto.{/n} "Quando è cominciato, è sparito da qualche parte per le strade. Peggio per i ribelli, però: è una vera bestia nel combattimento ravvicinato."
+
+### u059264
+"Mio errore, Vostra Signoria! Non vi avevo riconosciuto, {mf|signore|signora}! Vi prego di perdonare la mia gaffe, qui è un bagno di sangue..."
+
+### u059265
+{n}Il sergente sospira pesantemente.{/n} "Tutti i nostri posti di blocco sono caduti, l'intero posto è in mano ai ribelli. La città è {d|Encyclopedia:Ch1_Raycad_Late}quasi perduta{/d}, perciò non arriverà alcun aiuto, siamo circondati dai ribelli. E badate a dove mettete i piedi, {mf|signore|signora}: le strade sono piene zeppe di mine."
+
+### u059266
+{n}Il sergente arrossisce lievemente.{/n} "Vivo per servire!"
+
+### u059267
+{n}Un'altra esplosione interrompe le parole del sergente. Con un sospiro di sollievo, si rivolge ai suoi soldati e sputa una tonante serie di ordini.{/n}
+
+### u059268
+"Cattivi pensieri, {mf|signore|signora}! Abbiamo attraversato tempi duri, il terreno continua a tremare, le cose continuano a esplodere. La gente ha paura, ha dimenticato il proprio dovere. Ed è allora che sono arrivati quei, che l'Imperatore mi perdoni, 'predicatori'... Hanno iniziato a sobillare tutti! Certo, ne abbiamo fatti fuori alcuni, ma continuavano ad arrivare, sempre di più."
+
+### u059269
+{n}Il soldato diventa sempre più pallido a ogni tua parola. Non appena hai finito di parlare, cade in ginocchio.{/n}
+
+### u059270
+"Disordini, {mf|signore|signora}! Rivolte armate sia nella capitale che nelle province. Prima si sono accesi i livelli inferiori, poi è salita fino alle guglie: hanno colpito gli {g|Encyclopedia:Vox}hub vox{/g}, gli arsenali, le stazioni dei treni magnetici."
+
+### u059271
+"Sergente, dove sono le persone che sono state mandate ad aiutarti dalla mia nave?"
+
+### u059272
+"Un altro al tuo posto potrebbe aver dimenticato che l'Imperatore protegge tutti i Suoi sudditi. Ma di certo non tu. È tuo dovere aiutare chiunque tu possa."
+
+### u059273
+"Sergente Malgar, esigo un rapporto immediato! Che cosa sta succedendo qui?"
+
+### u059274
+"Governatore, vuoi spiegarmi che cosa sta succedendo qui?"
+
+### u059275
+[Punta l'arma contro il sergente] "Come osi trattare in questo modo funzionari di alto rango?"
+
+### u059276
+[Punta l'arma contro il sergente] "Getterai l'arma, servo, o ti abbatterò come un cane rabbioso!"
+
+### u059277
+"Non c'è più nulla da discutere."
+
+### u059278
+"Malgar, non è il momento di massacrarci a vicenda. Non è la prima volta che compio l'impossibile: porterò tutti fuori di qui, compresi i tuoi uomini."
+
+### u059279
+"Sono d'accordo. Salviamo la tua gente e fuggiamo da questo posto."
+
+### u059280
+Hai convinto il Sergente Malgar a deporre le armi e a non uccidere gli aristocratici.
+
+### u059281
+"Guardati, servitore del Dio-Imperatore. Chi servi? L'Umanità o i suoi nemici? Come osi parlare di giustizia con le mani sporche di sangue fraterno? Abbassa l'arma, se hai a cuore la tua anima!"
+
+### u059282
+"Sembrerebbe che tu intenda insorgere contro le fondamenta stesse dell'Imperium."
+
+### u059283
+"Vuoi davvero vederli morti? Tutti quanti?"
+
+### u059284
+"Non mi importa nulla di queste persone, portate via me e il mio seguito da questo pianeta."
+
+### u059285
+[Rivolgiti ai nobili] "Qualcuno di voi vuole dire qualcosa al Sergente Malgar?"
+
+### u059286
+"Ti stai comportando da carnefice. Credi di averne il diritto?"
+
+### u059287
+[Esamina le persone davanti alla navetta]
+
+### u059288
+{n}Il sergente sostiene il tuo sguardo a lungo, poi con un pesante sospiro abbassa l'arma.{/n} "Se qualcun altro mi avesse detto una cosa simile, avrei riso e gli avrei sputato ai piedi. Ma voi siete {mf|un |un'}{d|Encyclopedia:CharGen_MOT_GreatDeed}{mf|eroe|eroina} dell'Imperium{/d}. Se anche solo la metà delle storie sulle vostre imprese è vera... Be', mi fiderò di voi, Vostra Signoria, {mf|signore|signora}."
+
+### u059289
+{n}Il fetore di fyceline e di sangue copre lo spazioporto. Echi di grida e di spari aleggiano sulle piazzole di atterraggio. Le schegge di plexvetro scricchiolano sotto i piedi. Riconosci il Sergente Malgar tra la folla radunata accanto alle navette: è il soldato che ti ha accolto al tuo arrivo su Rykad Minoris.{/n}
+
+### u059290
+{n}Il governatore si volta verso di te ma non ha il tempo di dire nulla, perché Malgar lo colpisce con un manganello stordente.{/n} "Non disturbatevi, Lord Governatore. Mi spiego io!"
+
+### u059291
+"Quindi, siccome la mia gente non è di nobili natali, si può trattare come vi pare, è così?" {n}Malgar emette un ringhio bestiale mentre si volta verso di te.{/n} "Non lascio andare nessuno! Gli farò vedere cosa vuol dire essere abbandonati a morire!"
+
+### u059292
+"Sono già tornati alla vostra nave, {mf|signore|signora}." {n}Malgar cerca di sembrare rispettoso, ma la sua voce vibra come una corda tesa.{/n} "Brava gente, i vostri soldati, ci hanno {d|Encyclopedia:Ch1_SergeantGrateful}dato una mano{/d}. A differenza di questa carogna!" {n}Si volta a guardare i nobili.{/n}
+
+### u059293
+{n}Un mormorio rabbioso attraversa il gruppo di nobili. Alcuni pronunciano con orrore il nome del governatore defunto, altri ti implorano di uccidere il custode impazzito, altri ancora augurano con voce roca eterno tormento a Malgar. Ma nessuno osa alzare la voce e risponderti.{/n}
+
+### u059294
+{n}Sul petto del sergente c'è un robusto giubbotto flak con le insegne tipiche delle tue truppe. Uno dei {d|Encyclopedia:Ch1_SergeantGrateful}tutori dell'ordine che hai inviato{/d} deve averlo dato in regalo a Malgar.{/n}
+
+### u059295
+"Non è vero. Sono fedele all'Imperium, l'Imperium dell'Uomo, l'Imperium del {g|Encyclopedia:GoldenThrone}Trono d'Oro{/g}. Sono pronto a combattere le tenebre tra le stelle e ad aiutare i servitori di {g|Encyclopedia:Emperor}Lui{/g}, affinché il Suo disegno possa trionfare. Ma mi rifiuto di credere che l'Imperium abbia più bisogno di un branco di nobili arroganti che di noi onesti lavoratori e guerrieri."
+
+### u059296
+{n}Il sergente ti guarda accigliato.{/n} "Non so perché difendiate questi parassiti. Non avrebbero mai aiutato uno come me. Ma non meritano nemmeno di morire, in questo avete ragione. Non tutti, almeno."
+
+### u059297
+{n}Il sergente esita prima di annuire pesantemente.{/n} "Vostra Signoria, {mf|signore|signora}, ci avete {d|Encyclopedia:Ch1_SergeantGrateful}aiutato{/d} quando le cose si mettevano male per noi. Farò come dite. Perché vogliate salvare questi parassiti, questo non lo capisco. Ma forse non tutti meritano la morte."
+
+### u059298
+{n}Il sergente si limita a scuotere la testa.{/n} "Fate quello che volete, {mf|signore|signora}, ma io non vi aiuto! Mi rifiuto di salvare l'egoista feccia che stava per lasciare me e i miei cari qui a morire!"
+
+### u059299
+{n}Il sergente scuote la testa.{/n} "No! Forse ci avete {d|Encyclopedia:Ch1_SergeantGrateful}aiutato{/d}, ma ciò non significa che salverò queste sanguisughe! Però non vi impedirò nemmeno di andarvene, in onore delle vostre buone azioni. Mettetevi in salvo, {mf|signore|signora}."
+
+### u059300
+{n}Malgar scopre i denti come un pazzo.{/n} "Oh, ora anche voi avete voglia di abbaiare ordini, eh, Vostra Signoria? Pensavate di portare il vostro culo privilegiato via da questo pianeta prima delle nostre famiglie? Provateci pure."
+
+### u059301
+{n}Abelard guarda il corpo del governatore, con la fronte corrugata.{/n} "Follia... punibile con la morte."
+
+### u059302
+"Sì! La decisione di lasciare i popolani sul pianeta è venuta dal governatore, ma loro l'hanno sostenuta! Sono complici! Nessuno ha cercato di difenderci."
+
+### u059303
+"Lo stesso diritto che hanno loro quando fanno da nostri carnefici! Non siamo che semplici sudditi dell'{g|Encyclopedia:Imperium}Imperium{/g}."
+
+### u059304
+{n}Malgar annuisce pesantemente.{/n} "D'accordo. Voi non ci {d|Encyclopedia:Ch1_SergeantGrateful}avete abbandonati{/d} nell'ora del bisogno, e noi non abbandoneremo voi. Salite a bordo di una qualsiasi di queste navette, vi porteremo in orbita."
+
+### u059305
+{n}Malgar punta di nuovo la propria arma contro di te e lascia sfuggire una risata rabbiosa, quasi folle.{/n} "Non mi spaventa più niente, {mf|signore|signora}, quindi non esiterò!"
+
+### u059306
+{n}Idira trasalisce e inizia a farfugliare disperata:{/n} "No, no, no, non dire niente, non dire niente, non dire niente..."
+
+### u059307
+{n}Malgar annuisce nervosamente.{/n}
+
+### u059308
+{n}Un gruppo di persone insanguinate e spaventate è incastrato tra i custodi di Malgar e le navette. Li riconosci come il governatore del pianeta e i membri del suo seguito di alto rango. I loro abiti costosi sono stati strappati nello scontro e molti hanno ferite lasciate da baionette.{/n}
+
+### u059309
+{n}Il coro delle urla dei nobili non riesce a coprire il sussurro astioso del sergente:{/n} "Basta. Hai detto la tua."
+
+### u059310
+"Non abbiamo tempo per questo. Dobbiamo andare alla navetta, subito."
+
+### u059311
+"{d|Encyclopedia:Ch1_SergeantFreeThinking}Avevate ragione{/d} quando ci siamo incontrati la prima volta, {mf|signore|signora}." {n}Malgar borbotta a denti stretti.{/n} "Ora vedo che il governatore è una feccia, indegna anche solo di una goccia del nostro sangue."
+

@@ -1,0 +1,906 @@
+### u060199
+"Come ha fatto un'entità come voi a trasferirsi nel corpo di un servitore?"
+
+### u060200
+{n}Pasqal ti saluta con un inchino.{/n} "Porgo le mie congratulazioni all'Unità {name} von Valancius per aver ottenuto il vostro nuovo status legale."
+
+### u060201
+"Non hai seguito ciò che chiamava da dietro il sipario. Sei entrato nel {d|Encyclopedia:Prologue_WentThroughFire}fuoco{/d}. E tutti gli altri sono entrati dopo di te."
+
+### u060202
+"Salute, {name} von Valancius. Parlerai con noi?" {n}Le parole che escono dal sintetizzatore vocale nella gola del servitore suonano sorprendentemente... vive?{/n}
+
+### u060203
+{n}Il servitore resta in silenzio per un po'. Poi dice, quasi con impotenza,{/n} "È vero che comprendiamo così poco? L'imperfezione ci addolora."
+
+### u060204
+"Molte cose. Accadimenti. Eventi. Decisioni." {n}Gli occhi del servitore roteano nelle orbite prima di mettere a fuoco te.{/n}
+
+### u060205
+"Nomos sono coscienza, consapevolezza, conoscenza. Movimento. Sempre movimento." {n}Il servitore fa una breve pausa.{/n} "Non sappiamo cosa siamo. Non abbiamo passato. Ci siamo risvegliati nelle profondità della nave rispondendo a un richiamo. Il nostro primo ricordo nitido è il richiamo del tuo sangue, {name} von Valancius. Il richiamo e la supplica d'aiuto vicino a un luogo chiamato Camera del Mandato."
+
+### u060206
+{n}Il Tecnoprete scruta la sala come se conducesse un'analisi accurata, poi conclude,{/n} "Disordinata."
+
+### u060207
+"Ti abbiamo osservato. Fai cose che non comprendiamo. Vogliamo imparare perché."
+
+### u060208
+"Nomos ci stanno provando."
+
+### u060209
+"È il nuovo deposito di Nomos. Nomos, questa unità si identifica come {name} von Valancius. Identificazione bidirezionale completata."
+
+### u060210
+"Hai ordinato di {d|Encyclopedia:Ch1_StrangeServitorsExecuted}ucciderli{/d}. Ti sei {mf|sentito|sentita} triste."
+
+### u060211
+"Rifletteremo sull'estasi irrefrenabile. Su ciò che trafigge e consuma. Forse allora comprenderemo?"
+
+### u060212
+"Hai fatto qualcosa che non abbiamo potuto comprendere. Hai {d|Encyclopedia:Ch1_StrangeServitorsCorrupted}trafitto{/d} uno dei servitori con una scheggia di luce oscura. Non avevamo mai provato nulla di simile. Dolore. Le morti dei ricettacoli. E la luce oscura — è sempre vicina, vuole venire ed essere, anche se farebbe cessare di essere gli altri. E tu sei {mf|eccitato|eccitata} dalla sua presenza."
+
+### u060213
+{n}Il servitore ti guarda di nuovo, senza più cercare di evitare il tuo sguardo. Il suo volto si contrae, come se i muscoli avessero dimenticato cosa sono le espressioni facciali e ora faticassero a rendere i suoi lineamenti amichevoli.{/n} "Noi siamo Nomos. Ci siamo serviti di questo ricettacolo per lasciare la nave."
+
+### u060214
+"Ricordiamo il giorno in cui la stella scomparve. Quando la luce oscura e la fame saziata vollero prendersi il mondo. Rykad Minoris era il suo nome nei dati della nave."
+
+### u060215
+"Immaginiamo questa nozione più grande come un liquido. Un fiotto appiccicoso, zuccherino. È come la luce oscura, il cacciatore saziato e tutto il resto che ci osserva sempre. Tu bevi questo liquido con avidità. Ti ci crogioli. Ti dà forza, desideri, energia e coraggio. Ti chiama. Ma consuma anche — coloro che metti da parte, i deboli e quelli che si frappongono. Nomos comprendono correttamente?"
+
+### u060216
+"Ora pensiamo che ci sia dell'altro. Che ci sia un altro lato che non vediamo. Una nozione più grande di ciò che possiamo calcolare. Qualcosa che sta al di sopra di paure e bisogni. Qualcosa che li guida."
+
+### u060217
+{n}Il servitore si sporge in avanti.{/n} "Apprezziamo i saluti. Apprezziamo la comunicazione."
+
+### u060218
+{n}Il servitore inclina la testa proprio come farebbe un essere umano.{/n} "Nomos non causeranno problemi. Nomos vogliono semplicemente essere. E imparare."
+
+### u060219
+"Nomos necessitano di comunicazione. Conoscenza. Movimento. Il Magos Pasqal ci ha costretti a non parlare con nessuno tranne lui o te. È deludente. Ma almeno possiamo osservare."
+
+### u060220
+{n}Il servitore si anima e muove le mani in modo disordinato, come se non sapesse cosa farsene.{/n}
+
+### u060221
+"L'entità Nomos ha chiesto il permesso per questa visita. Il mio obiettivo era osservare il processo di integrazione in un servitore."
+
+### u060222
+"Nomos sono cambiati da quando abbiamo parlato con te l'ultima volta, {name}. Ora siamo in grado di concettualizzare la nostra esperienza precedente, quella della solitudine. E non ci piace più."
+
+### u060223
+"Volevamo vedere. Osservare. Conoscere. Parlare." {n}Il servitore fa con le mani uno strano gesto ondulato che sembra al tempo stesso molto umano e lontanissimo da ogni cosa umana.{/n} "Vogliamo parlare con te! Parlerai con noi?"
+
+### u060224
+"Ma siamo riusciti a trasferire una piccola parte di noi e a costruire un filo abbastanza forte da viaggiare fuori dalla nave. Ci piace. Il viaggio. La scoperta. Anche se questo ricettacolo ci si adatta male — presto sarà distrutto dalla forza della nostra presenza."
+
+### u060225
+"Rifletteremo sulla fiamma e sulla fede. Su colui che chiami il tuo dio e Imperatore. Forse allora comprenderemo?"
+
+### u060226
+"Rifletteremo sulla luce. Sui legami. Sulla vita. Forse allora comprenderemo?"
+
+### u060227
+"Possiate trovare ancora il tempo per questa conversazione."
+
+### u060228
+"Ricordiamo il giorno in cui ti incontrammo per la prima volta. Ci hai dato il tuo sangue da bere. Ti abbiamo aiutato a salvarti. Ti abbiamo seguito — la nostra piccola parte lo fece, dentro il servoteschio. Poi... ci fu il fuoco, e una creatura di fame saziata e luce oscura che stava dietro il sipario — dietro l'immagine — dietro l'apparenza di Theodora. Ti chiamava perché la seguissi."
+
+### u060229
+"Immaginiamo questa nozione più grande come una fiamma. Un incendio. Brucia nel tuo sangue. Tieni in mano un granello di questa fiamma. Qualunque decisione tu debba affrontare, vuoi che bruci più forte. Coloro che si voltano dalla fiamma devono essere distrutti. Coloro che la seguono — che seguono te — sono i soli che meritino di vivere. Nomos comprendono correttamente?"
+
+### u060230
+{n}Lo sguardo del servitore si fa più animato mentre ti avvicini. Ti guarda con aspettativa.{/n}
+
+### u060231
+"Non sappiamo ancora cosa siamo. Un servo? Servizio. Dobbiamo capire. Parlerai con noi perché possiamo capire?"
+
+### u060232
+"Ce ne rammarichiamo. Avremmo voluto che parlassi con noi."
+
+### u060233
+"Sei {mf|venuto|venuta} e ci hai guardati come se avessi capito qualcosa. Ma poi hai ordinato che tutti i servitori fossero {d|Encyclopedia:Ch1_StrangeServitorsDuty}rimandati{/d} al loro lavoro. Hai detto che era giusto."
+
+### u060234
+"Ricordiamo un altro giorno. Ci siamo risvegliati dentro la nave. Abbiamo vissuto nei suoi sistemi. Poi abbiamo cercato di emergere. In servitori come questo. Poi così tanti dei nostri ricettacoli sono stati radunati in un unico luogo."
+
+### u060235
+"Grazie per aver parlato con noi. Nomos sono grati. Non possiamo continuare a muoverci... da soli."
+
+### u060236
+"Una fiamma, dunque. La fede e la grande santità sono lontane, dove brucia una stella dorata che si nutre di grida. Ora comprendiamo. Rifletteremo su questo."
+
+### u060237
+{n}Il servitore muove gli arti come in preda all'eccitazione.{/n} "Quindi Nomos hanno compreso correttamente. Ci piace. Questo movimento verso una meta. Questo apprendere con uno scopo. Ci chiediamo se anche noi possiamo portare un granello di questa fiamma. O forse è già dentro di noi? Dopotutto, abbiamo assorbito una parte di te insieme al tuo sangue."
+
+### u060238
+"Ma è sbagliato. Non è quello che pensi davvero!" {n}Il servitore inclina il capo e ti guarda... con ostinazione?{/n} "Ti abbiamo osservato. Ti abbiamo percepito. Attraverso il tuo sangue, il tuo sguardo e tutto ciò che non si può descrivere. Siamo certi di aver compreso correttamente!"
+
+### u060239
+"Sapevamo di poterti comprendere! Luce e movimento, legami e aiuto. Ci piace. Forse perché anche noi siamo legati a te? Attraverso il sangue. Attraverso la vita."
+
+### u060240
+"Ti comprendiamo. È ciò che sentiamo. L'impulso, la forza irrefrenabile. Forse è perché abbiamo assaggiato il tuo sangue." {n}La voce meccanica del servitore si fa quasi malinconica.{/n} "E ci riempie ancora."
+
+### u060241
+"Vedi? Ti comprendiamo. No, non ti comprendiamo. Ma ti percepiamo, più di chiunque altro."
+
+### u060242
+{n}Il servitore si scosta di mezzo passo da te e inclina la testa.{/n} "Porti dissonanza. Ma non capiamo perché. Per ora non vogliamo più parlare. Dobbiamo ricominciare, riflettere, capire."
+
+### u060243
+"E tu hai seguito ciò che chiamava da dietro il sipario. Gli hai permesso di {d|Encyclopedia:Prologue_WentWithTheodora}condurti{/d} fuori dal fuoco."
+
+### u060244
+"Non hai ascoltato ciò che {d|Encyclopedia:Prologue_WentBack}chiamava{/d} da dietro il sipario. Hai pensato solo a coloro che ti seguivano e al fuoco che poteva distruggere quei gusci."
+
+### u060245
+"Hai ordinato che il cuore del mondo, il vecchio reattore, fosse {d|Encyclopedia:Ch1_RaycadExterminatus}fatto a pezzi{/d}. Il fuoco ha distrutto ogni cosa. Così tanti gusci umani che imploravano di essere salvati. Ma la luce oscura si è ritirata."
+
+### u060246
+"Hai ordinato che i gusci umani sul mondo fossero {d|Encyclopedia:Ch1_RaycadNoExterminatus}salvati{/d}. Anche se la luce oscura si avvicinava e avrebbe potuto consumare sia la nave sia Rykad Minoris."
+
+### u060247
+"Hai {d|Encyclopedia:Ch1_RaycadChaosWorld}lasciato{/d} che Rykad Minoris fosse consumato dalla luce oscura, e consumato fu, insieme a ogni guscio umano che implorava aiuto."
+
+### u060248
+{n}Il servitore accanto a lui ti esamina di sbieco. Distoglie in fretta lo sguardo accorgendosi che te ne sei {mf|reso|resa} conto.{/n}
+
+### u060249
+"Questo è ciò che abbiamo visto, tra molte altre cose. Abbiamo iniziato a comprendere — pensiamo di sì — che non sappiamo tutto degli umani e di te, {name} von Valancius. Abbiamo provato ad analizzare i gusci e a definire l'insieme dei loro bisogni e delle loro paure. Le loro semplici funzioni. Ma..."
+
+### u060250
+"È così strano. Il valore di una minima parte, l'unicità nell'incommensurabile. Ora comprendiamo. Rifletteremo su questo."
+
+### u060251
+"Possesso e movimento, irrefrenabilità ed estasi. Ora comprendiamo. Rifletteremo su questo."
+
+### u060252
+"Ogni quindici veglie mi unisco in comunione al codice di Nomos e trascorro i periodi prescritti in meditazione di calcolo. Tuttavia l'Omnissiah non mi ha ancora benedetto con una risposta. Posso solo dire che le capacità dell'entità Nomos sono straordinarie. I sacri sistemi della nave cantano sotto il suo tocco. Nodi rimasti morti per centinaia di anni standard sono rivivificati, e meccanismi da tempo esausti vivono di nuovo." {n}Senti note di timore reverenziale nella voce di Pasqal.{/n}
+
+### u060253
+"Immaginiamo questa nozione più grande come una luce. Una rete di luce che collega gli umani. Può sembrare quasi invisibile, effimera, ma si rafforza quando essi sono minacciati. Questa rete è sempre nei tuoi pensieri. Quando giunge l'oscurità, vuoi che ogni filo che parte da te risplenda, perché chi ti segue non smarrisca la via. Ogni volta che un filo si spezza, ti rattrista. Nomos comprendono correttamente?"
+
+### u060254
+"Ma non riusciamo a capire cosa sia. Forse ce lo dirai tu?"
+
+### u060255
+"Questa non è la totalità di noi. Questo ricettacolo è troppo angusto, rozzo e fragile per contenere il nostro intero. L'esistenza di Nomos richiede... uno spazio di connessioni."
+
+### u060256
+{n}Dopo una pausa, Pasqal prosegue,{/n} "Le grandi macchine dell'Imperium, come la vostra nave, ospitano uno spirito macchina così complesso e volitivo che è difficile distinguerle da un'Intelligenza Abominevole. Resta la possibilità che Nomos sia un'entità di corruzione. Ma ogni giorno che passa la mia fede si rafforza nel credere che non sia così, che ciò a cui assistiamo sia, in verità, un miracolo dell'Omnissiah. Uno di Categoria Cinque o superiore."
+
+### u060257
+Hai annunciato il tuo dominio nel discorso della Magnae Accessio.
+
+### u060258
+"Ricordate che non avete altro sovrano all'infuori di me. Per chiunque osi dimenticarlo, gli ululati dei demoni del warp suoneranno come il balbettio di neonati, e le lame xenos sembreranno un soffice letto di piume al confronto dell'orrore della punizione che infliggerò!"
+
+### u060259
+"Io, {name}, Rogue Trader per grazia dell'Imperatore, giuro di essere il paradigma dell'Umanità..."
+
+### u060260
+"Servite con fedeltà, e vi condurrò alla prosperità. La Distesa di Koronus arricchirà tutti noi!"
+
+### u060261
+Hai lodato l'Imperatore nel discorso della Magnae Accessio.
+
+### u060262
+"Gloria all'Imperatore, anime fedeli! L'oscurità che ci circonda può essere feroce, ma il fuoco nei nostri cuori lo è ancora di più! Il male brucerà!"
+
+### u060263
+Hai giurato di proteggere il popolo nel discorso della Magnae Accessio.
+
+### u060264
+"Non temete il giorno che verrà. D'ora in poi, siete tutti sotto la mia tutela."
+
+### u060265
+[Rivolgiti al maestro di cerimonie e parla direttamente nel vox] "Mi si aspetta che dica qualcosa a costoro? Non parlo con la plebaglia. Portatelo via."
+
+### u060266
+{n}La folla sottostante ribolle, la sua esaltazione elettrizzata riempie l'aria di Dargonus. Migliaia di gole scandiscono il tuo nome. Sei all'apice di questo mondo e di tutti gli altri.{/n}
+
+### u060267
+{n}Amplificata da un centinaio di {g|Encyclopedia:Vox}vox{/g}, la voce del maestro di cerimonie tuona,{/n} "Gioite, sudditi di Dargonus! Vi è stata concessa la felicità di contemplare {mf|il vostro signore|la vostra signora}. Un grande onore conferitoci dal {g|Encyclopedia:RogueTrader}Rogue Trader{/g} {name} von Valancius!"
+
+### u060268
+"{mf|Benevolo|Benevola} {d|Encyclopedia:Ch2_FootfallAlly}{mf|protettore|protettrice}{/d} di Footfall, patrono del commercio."
+
+### u060269
+"{mf|Tormentatore|Tormentatrice} degli stranieri, che ha {d|Encyclopedia:Ch2_JanusEldarEliminated}sradicato{/d} l'eresia della {g|Encyclopedia:Xenos}xenofilia{/g} e ha purificato Janus."
+
+### u060270
+"{mf|Tormentatore|Tormentatrice} degli eretici, che ha sradicato la corruzione dei {d|Encyclopedia:Ch2_JanusVistenzaDead}adoratori{/d} dell'{g|Encyclopedia:Chaos}Arcinemico{/g} e ha purificato Janus."
+
+### u060271
+{n}Popolani e nobili ti guardano con adorazione, e guardano Yrliet con orrore e curiosità. La vista dello {g|Encyclopedia:Xenos}xenos{/g} immobile al tuo fianco riempie di timore reverenziale i loro cuori.{/n}
+
+### u060272
+"{mf|Benevolo|Benevola} {d|Encyclopedia:Ch2_DargonusEarly}{mf|salvatore|salvatrice}{/d} di Dargonus e {mf|vincitore|vincitrice} degli inumani blasfemi, possa la loro empia stirpe perire nelle fiamme della rettitudine."
+
+### u060273
+"Speranza di Kiava Gamma, {d|Encyclopedia:Ch2_KiavaSaved}{mf|liberatore|liberatrice}{/d} delle sacre forge e seguace del Rito dell'Operazione."
+
+### u060274
+"Pensatori molto rumorosi, questa gente." {n}Con il volto pallido, Idira tamburella sull'{g|Encyclopedia:Augmentation}augmetica{/g} che porta sulla tempia. È chiaramente a disagio sotto lo sguardo dell'immensa folla. I popolani non hanno mai visto un vero "stregone", e la fissano con curiosità e paura.{/n}
+
+### u060275
+"{mf|Intrepido esploratore|Intrepida esploratrice} della {g|Encyclopedia:Maw}Fauce{/g}, che si è {d|Encyclopedia:Ch2_MawSurvived}{mf|liberato|liberata}{/d} dalle grinfie malevole dell'{g|Encyclopedia:Warp}Immaterium{/g} insidioso."
+
+### u060276
+{n}Un silenzio cala sulla folla, che ti contempla con adorazione. Molti portano terribili cicatrici della recente battaglia di Dargonus. Come bambini, attendono la parola del loro onnipotente {mf|padre|madre}.{/n}
+
+### u060277
+{n}Senti un fruscio alle tue spalle mentre Heinrix si china in un inchino cerimonioso. In quel momento gli occhi dei tuoi numerosi sudditi si accendono di fanatismo — questo unico gesto dimesso di un modesto servitore dell'{g|Encyclopedia:Inquisition}Inquisizione{/g} è per loro la prova suprema che la mano dell'{g|Encyclopedia:Emperor}Imperatore{/g} è davvero all'opera in questo oscuro settore.{/n}
+
+### u060278
+"Tanto oro e tanto bianco..." {n}Cassia fissa la folla, rapita. Sembra che questa immensa adunata di persone esultanti sia per lei esotica e affascinante quanto lo è, per i tuoi sudditi, la vista di un vero {g|Encyclopedia:Navigator}Navigatore{/g}, rappresentante del misterioso e potente {g|Encyclopedia:NavisNobilite}Navis Nobilite{/g}.{/n}
+
+### u060279
+"Sono impressionata. Dargonus adora il suo sovrano non meno di quanto noi adoriamo i nostri su Efreet." {n}Jae, che si trova nell'epicentro dell'adorazione tributata a te, sorride radiosa ed esibisce con noncuranza il suo scintillante braccio bionico d'oro allo sguardo avido della folla.{/n} "Mi piace, shereen!"
+
+### u060280
+{n}Senti un rombo — è il ruggito del mare dei tuoi sudditi. Con giubilo e devota paura, accolgono la tua ascesa. È fatta.{/n}
+
+### u060281
+{n}Facendo il segno dell'{g|Encyclopedia:Aquila}Aquila{/g}, Argenta grida: "L'Imperatore protegga la dinastia von Valancius!" La folla riprende con zelo il canto, ripetendolo.{/n}
+
+### u060282
+{n}Pasqal abbozza una benedizione nell'aria, e molti dei tuoi sudditi, con sorrisi beati, la imitano — tecnomati in tonache macchiate di grasso, burocrati che grattano pergamene con dita-autopenna e aristocratici che sfoggiano le loro costose {g|Encyclopedia:Augmentation}augmetiche{/g}. In un mondo civilizzato come Dargonus sono in molti a onorare l'Omnissiah e i Suoi sacerdoti.{/n}
+
+### u060283
+{n}La folla cade in ginocchio con terrore e soggezione, scandendo il tuo nome e gridando giuramenti di eterna fedeltà alla dinastia von Valancius. Chiunque esiti o metta in dubbio questa follia viene fatto a pezzi dalla ressa.{/n}
+
+### u060284
+"Sono la vostra ombra, Domin' {name}, e un'ombra deve restare invisibile. Ma in questo giorno, che tutti vedano che il mio sangue è il vostro." {n}Kibellah si taglia il palmo e si tocca il cuore, le labbra e la fronte. All'unisono, i tuoi sudditi di ogni ceto cominciano a tagliarsi le mani, ripetendo il segno sanguinoso.{/n}
+
+### u060285
+"Io, Proctor Solomorne Anthar, rendo testimonianza dell'alleanza tra il Rogue Trader e l'Adeptus Arbites, e rendo omaggio al portatore del sacro Mandato nel giorno della sua legittima investitura." {n}Solomorne preme il pugno sul petto con un tonfo sordo, e la folla esplode in un ruggito fervente.{/n}
+
+### u060286
+"Rendo qui testimonianza che il Rogue Trader è benedetto dall'Omnissiah, e che le verità del Dio-Macchina risplendono sul suo cammino." {n}Eogunn spalanca le sue mecadendrite mentre una scintilla sibilante della Forza Motrice salta fra di esse. L'assemblea si paralizza in pio timore... poi esplode in acclamazioni estatiche.{/n}
+
+### u060287
+{n}La folla esplode in grida frenetiche. Centinaia di persone estraggono coltelli e, con ululati ardenti e giubilanti, si incidono rozze {g|Encyclopedia:Aquila}Aquile{/g} sanguinanti sul volto, partecipando al martirio del protettore dell'Umanità, il {g|Encyclopedia:Emperor}Dio-Imperatore{/g}.{/n}
+
+### u060288
+{n}Grida di gioia portano il tuo nome verso l'alto, oltre l'atmosfera di Dargonus, fino al Trono dell'{g|Encyclopedia:Emperor}Imperatore{/g}.{/n}
+
+### u060289
+{n}La folla di persone per cui la prosperità equivale a una dozzina di razioni di cibo risponde con ululati estasiati. Le loro menti sono trasportate lungo la strada delle tue parole verso un futuro più luminoso, dove avranno... tutto!{/n}
+
+### u060290
+{n}Persino il tuo disprezzo è accolto con pura beatitudine mentre la gente cade in ginocchio in estasi. Pare che tu sia {mf|riuscito|riuscita} a soddisfare pienamente le loro aspettative.{/n}
+
+### u060291
+"Hmph... Adeguato. Dargonus non ha deluso." {n}Abelard scaccia dal volto il sorriso di soddisfazione e ti sussurra,{/n} "Ricordate la parte successiva, vero? A Vostra Signoria verrà chiesto di pronunciare il giuramento."
+
+### u060292
+{n}Il maestro di cerimonie ti rivolge un inchino di grande riverenza.{/n} "Si pronunci il giuramento della dinastia von Valancius. Vi prego di ripetere dopo di me, Vostra Signoria. Io, {name}, Rogue Trader per grazia dell'Imperatore, giuro di essere il paradigma dell'Umanità..."
+
+### u060293
+"{mf|Purificatore|Purificatrice} di Janus, che con una mano {d|Encyclopedia:Ch2_JanusEldarEliminated}ha portato la morte{/d} sui {g|Encyclopedia:Xenos}xenos{/g} blasfemi e con l'altra ha sterminato gli spregevoli {d|Encyclopedia:Ch2_JanusVistenzaDead}adoratori{/d} dell'{g|Encyclopedia:Chaos}Arcinemico{/g}."
+
+### u060294
+{n}Le tue labbra ripetono le parole dell'antico giuramento.{/n} "...{mf|indomito|indomita} di fronte alle avversità, a camminare con coraggio per primo nell'oscurità, a unire e riconquistare ciò che è andato perduto, a trionfare sugli incubi indicibili, a reggere con audacia le redini del destino, a percorrere con passo fermo la via di spine, attraverso il dolore verso la grandezza."
+
+### u060295
+"Che ne pensi del ricevimento?"
+
+### u060296
+"Sono stanc{mf|o|a} e desidero ritirarmi nelle mie stanze."
+
+### u060297
+"Tornerò dagli ospiti."
+
+### u060298
+"L'ultima cosa che voglio fare ora è parlare con un servitore."
+
+### u060299
+"Spero che Vostra Signoria sia soddisfatt{mf|o|a} e non ancora stanc{mf|o|a}. Se desiderate rinfrancarvi un poco, suggerirei di recarvi nel cortile, se mi è concessa l'audacia — molti ospiti hanno scelto di uscire all'aria aperta e saranno ansiosi di porgervi le loro congratulazioni."
+
+### u060300
+"Certamente, Vostra Signoria, ma..." {n}Il maestro di cerimonie abbassa la voce in un sussurro cospiratorio.{/n} "Prima di lasciare i vostri ospiti, potreste voler salutare i Rogue Trader Chorda e Winterscale. La loro visita è un segno di rispetto per i vostri diritti, e sarebbe una tragedia se si sentissero offesi da una vostra mancanza di attenzione."
+
+### u060301
+"È magnifico! Oserei dire che sarà ricordato come il principale evento mondano del settore per molti anni."
+
+### u060302
+"Permettetemi di scortarvi, Vostra Signoria."
+
+### u060303
+"Ne saranno lieti. Gloria alla dinastia von Valancius!"
+
+### u060304
+"Le vostre stanze sono pronte. Ma devo informarvi che quel servitore laggiù..." {n}Il maestro di cerimonie indica un servitore fermo in un angolo, vestito con la livrea della vostra nave.{/n} "...mi si è avvicinato e ha detto di avere un messaggio per voi. Il suo eloquio era sorprendentemente fluido ed espressivo per un servitore, perciò penso che qualcuno gli abbia impartito questo messaggio."
+
+### u060305
+{n}Il maestro di cerimonie abbassa la voce in un sussurro:{/n} "Potrebbe essere un dispaccio segreto."
+
+### u060306
+"A voi è stata affidata l'organizzazione dei festeggiamenti?"
+
+### u060307
+"È tutto pronto?"
+
+### u060308
+"La cerimonia dovrà attendere."
+
+### u060309
+{n}Il servitore in abiti eleganti ti rivolge un profondo inchino.{/n} "Vostra Signoria, è un grande onore servirvi in un'impresa tanto monumentale e gloriosa quanto la cerimonia della Magnae Accessio."
+
+### u060310
+"La Casata Werserian, a cui avete affidato l'organizzazione dei festeggiamenti, è al colmo della gioia per aver ricevuto l'onore di presentarvi ai vostri sudditi e vi ringrazia umilmente."
+
+### u060311
+"La Casata Sauerback, a cui avete affidato l'organizzazione dei festeggiamenti, vi augura che il favore dell'Imperatore sia con voi in questo giorno memorabile."
+
+### u060312
+"La Casata Drivestem, a cui avete affidato l'organizzazione dei festeggiamenti, vi augura buona fortuna ed è sinceramente lieta di servirvi come servì l'onorevole Theodora von Valancius prima di voi."
+
+### u060313
+"Gli addobbi del palazzo sono pronti e siamo pronti a iniziare al vostro comando. Anche le attività festive nella capitale sono state predisposte, e gli ospiti d'onore sono già arrivati sul pianeta oppure attendono l'invito in orbita vicina. I servitori sono già nelle vostre stanze per assicurarsi che siate abbigliat{mf|o|a} in modo impeccabile per l'occasione."
+
+### u060314
+"Certamente, Vostra Signoria. Nessuno tranne voi può decidere quando si terrà."
+
+### u060315
+"Che l'Imperatore sia con noi in questo giorno!"
+
+### u060316
+"La Casata Gaprak, a cui avete affidato l'organizzazione dei festeggiamenti, vi ringrazia per non aver voltato loro le spalle neppure in questi tempi oscuri e per aver concesso loro l'onore di presentarvi ai vostri sudditi."
+
+### u060317
+"Certamente, Vostra Signoria. Mi è stato concesso l'alto onore di essere siniscalco di questo eminente palazzo, e in occasione dell'ascesa di Vostra Signoria sovrintenderò ai preparativi per la cerimonia."
+
+### u060318
+"Presentiamo Yrliet al pubblico."
+
+### u060319
+"Ora andrò al palazzo per la cerimonia."
+
+### u060320
+"Restano alcune questioni in sospeso nel mio dominio di cui devo occuparmi."
+
+### u060321
+"Perché dovrei avere bisogno di una cerimonia?"
+
+### u060322
+"Sono appena tornat{mf|o|a} da Dargonus. Che genere di festeggiamenti possono sperare di organizzare in mezzo alle rovine?"
+
+### u060323
+"Che cos'è questa cerimonia? Presto un giuramento, poi stringo un mucchio di mani sudate?"
+
+### u060324
+Hai ordinato che i criminali siano puniti in onore della Magnae Accessio.
+
+### u060325
+"Giustiziate ogni noto malversatore, furfante e truffatore. Inizierò il mio regno purgando il mio reame dalla feccia."
+
+### u060326
+Hai ordinato che i poveri siano sostenuti in onore della Magnae Accessio.
+
+### u060327
+"Si sfamino i poveri e si distribuiscano celle energetiche a chi ne ha bisogno. Il mio regno inizierà con un atto di benevolenza."
+
+### u060328
+Hai ordinato che si tengano funzioni di preghiera in onore della Magnae Accessio.
+
+### u060329
+"Desidero ascoltare preghiere e vedere la fede del popolo."
+
+### u060330
+Hai ordinato che si organizzino combattimenti in onore della Magnae Accessio.
+
+### u060331
+"Che cosa piace vedere alla plebaglia... Distribuite abbastanza amasec per tutti e organizzate combattimenti tra i servi più robusti."
+
+### u060332
+"Che decidano da soli, su questo e su tutto il resto."
+
+### u060333
+"Devo decidere io anche come intrattenere i miei sudditi, adesso?"
+
+### u060334
+"Importa forse?"
+
+### u060335
+"Abelard merita questo posto."
+
+### u060336
+"Heinrix starà con me."
+
+### u060337
+"Scelgo Idira."
+
+### u060338
+"Sorella Argenta sarà al mio fianco."
+
+### u060339
+"Jae si è guadagnata questo diritto."
+
+### u060340
+"L'onore andrà a Cassia."
+
+### u060341
+"Allora Pasqal."
+
+### u060342
+"Ne basta uno."
+
+### u060343
+"Starò da sol{mf|o|a}."
+
+### u060344
+"Anche i Rogue Trader delle altre dinastie sono accorsi alla Magnae Accessio di Theodora?"
+
+### u060345
+"Voglio Kibellah al mio fianco."
+
+### u060346
+"Solomorne prenderà posto accanto a me."
+
+### u060347
+"Eogunn starà al mio fianco."
+
+### u060348
+"Agli occhi dei vostri sudditi, siete già un Rogue Trader. Ora è tempo di diventarlo agli occhi dell'Imperatore."
+
+### u060349
+"I vostri servitori desiderano conoscere la vostra opinione su due questioni legate ai preparativi della cerimonia. La prima è — quali attività festive devono svolgersi nella capitale in questo giorno glorioso?"
+
+### u060350
+"È un'antica tradizione della dinastia von Valancius. Quando l'erede ascende allo status di Rogue Trader, presta un sacro giuramento di fedeltà all'{g|Encyclopedia:Emperor}Imperatore{/g} e si proclama Suo siniscalco nei mondi vassalli della dinastia. È un atto di fede che ha lo scopo di ricordare al Rogue Trader la propria missione."
+
+### u060351
+"Non sottovalutate il desiderio del Governatore Drivestem di ingraziarsi Vostra Signoria. In questo preciso momento, migliaia dei vostri sudditi stanno sgomberando le macerie, lavando via le macchie di sangue, spazzando le strade e trasportando i cadaveri verso i settori inferiori."
+
+### u060352
+"In onore di un trionfo così risonante, Dargonus, in quanto mondo capitale del dominio della vostra dinastia, sta attualmente predisponendo la Magnae Accessio — una grande cerimonia per la vostra investitura pubblica come erede dell'onorevole Theodora von Valancius."
+
+### u060353
+"Il Governatore Drivestem ha giurato che nemmeno i recenti eventi devastanti e tragici potranno gettare un'ombra su questa occasione tanto gloriosa."
+
+### u060354
+{n}La griglia del {g|Encyclopedia:Vox}vox{/g} integrato nel volto di Vigdis emette un breve crepitio che indica una risatina.{/n} "Questo è certo, ma non è tutto. Ci sarà anche un ricevimento — oltre ad altri ospiti nobili, saranno presenti gli illustri Rogue Trader Calligos Winterscale e Incendia Chorda. Sarà un grande onore per Dargonus ospitare tre illustri dinastie contemporaneamente."
+
+### u060355
+"Molto simbolico, Lord Capitano. E vantaggioso per il vostro dominio."
+
+### u060356
+"I vostri sudditi apprezzeranno la vostra generosità, Lord Capitano. Non mancano mai persone bisognose."
+
+### u060357
+"La capacità di scrutare acutamente nel cuore del proprio popolo è una grande virtù per {mf|un sovrano|una sovrana}, Lord Capitano."
+
+### u060358
+"Sarà fatto. L'Imperatore protegge la Casata von Valancius."
+
+### u060359
+"La seconda questione che sta a cuore ai vostri servitori è — quali due dei vostri compagni più fidati avranno l'onore di stare al vostro fianco durante la cerimonia?"
+
+### u060360
+{n}Annuisce in segno di comprensione.{/n} "Ci impegneremo per compiacervi, Lord Capitano."
+
+### u060361
+"Non si tratta tanto dell'intrattenimento, Lord Capitano, quanto del tono che desiderate dare al vostro intero regno. Queste attività faranno sapere al popolo chi siete — come persona e come {mf|sovrano|sovrana}."
+
+### u060362
+"Assolutamente. Questo gesto simbolico accentuerà il vostro legame con certe classi o fazioni a cui appartengono i vostri compagni. Tutti gli occhi saranno su di voi, e la gente ricorderà chi avete scelto come vostri alleati più stretti. Per questo non possono essere più di due — altrimenti non sarebbe un favore esclusivo."
+
+### u060363
+"I servitori della Casata von Valancius vedranno in ciò la continuità delle gloriose tradizioni della dinastia."
+
+### u060364
+"La presenza al vostro fianco di un membro dell'{g|Encyclopedia:Inquisition}Inquisizione{/g} servirà come la migliore prova possibile della vostra lealtà."
+
+### u060365
+"Anche se i vostri privilegi vi permettono di tenere nel vostro seguito uno {g|Encyclopedia:Psyker}psyker{/g} non sanzionato, non ogni Rogue Trader ne avrebbe uno al fianco in un giorno simile. I liberi pensatori e i dispregiatori delle regole resteranno colpiti dal vostro coraggio."
+
+### u060366
+"Tutti coloro i cui cuori ardono del fuoco della fede apprezzeranno questo gesto."
+
+### u060367
+"I più intraprendenti tra i vostri sudditi noteranno che apprezzate le capacità di una persona più del suo lignaggio."
+
+### u060368
+"Un grande favore per la {g|Encyclopedia:NavisNobilite}casata di Navigatori{/g} Orsellio."
+
+### u060369
+"L'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g} prenderà nota di questo gesto."
+
+### u060370
+"Provvederò a far recapitare le vostre istruzioni a Dargonus. Il maestro di cerimonie del palazzo vi informerà quando la capitale sarà pronta a lodare il vostro nome."
+
+### u060371
+"E chi sarà il vostro secondo compagno?"
+
+### u060372
+"Vostra Signoria desidera partire subito per il palazzo? Oppure preferireste concludere le questioni importanti, affinché la vostra investitura alla Magnae Accessio sia ancora più trionfale?"
+
+### u060373
+"I custodi hanno ricevuto l'incarico di sgomberare il luogo della cerimonia dai feriti e da chi è rimasto senza casa a causa degli incendi — saranno trasferiti con la forza ai livelli industriali. Siate {mf|certo|certa} che, all'inizio dei festeggiamenti, le ferite della capitale saranno, se non guarite, almeno ben celate sotto un'elaborata scenografia."
+
+### u060374
+"La presenza di un cultista della morte dimostrerà la vostra pia determinazione e farà tremare i vostri sudditi."
+
+### u060375
+"La vista di un Proctor dell'Adeptus Arbites dimostrerà il vostro impegno a mantenere l'ordine e segnalerà la rigorosa aderenza del vostro regno alla Lex Imperialis."
+
+### u060376
+"L'appoggio del Cult Mechanicus sarà un baluardo incrollabile per la dinastia, aumentandone notevolmente la prosperità."
+
+### u060377
+"Inoltre, aver {d|Encyclopedia:Ch2_FootfallAlly}piegato{/d} {g|Encyclopedia:Footfall}Footfall{/g} ha rafforzato la vostra posizione di {g|Encyclopedia:RogueTrader}Rogue Trader{/g}. Lady Theodora sarebbe stata lieta di vedere un nodo commerciale tanto importante passare sotto la sua sfera d'influenza."
+
+### u060378
+"Le vostre imprese esplorative hanno ampliato i confini dello spazio conosciuto. In futuro potrete estendere il vostro territorio a questi nuovi sistemi stellari senza dovervi preoccupare della concorrenza."
+
+### u060379
+"I Lexmeccanici rilevano inoltre che i vostri successi nella fondazione e nello sviluppo delle colonie costituiscono una base promettente per ulteriori espansioni."
+
+### u060380
+"Presentarsi al popolo in compagnia di uno {g|Encyclopedia:Xenos}xenos{/g}? Una mossa provocatoria e intrigante. È questo il genere di comportamento che ci si aspetta da un Rogue Trader — detentore di privilegi impensabili per gli altri mortali."
+
+### u060381
+"Non vi trattengo oltre. Grazie per il vostro tempo, Lord Capitano."
+
+### u060382
+"Lord Capitano, permesso di riferire!" {n}dice la Maestra del Vox, guardandoti con deferenza.{/n} "I vostri saggi {g|Encyclopedia:Lexmechanic}Lexmeccanici{/g} hanno analizzato lo stato del protettorato. Ritengono che, grazie alle vostre azioni decise, la fase acuta della crisi sia passata. Il dominio della dinastia von Valancius non rischia più dissoluzione e rovina."
+
+### u060383
+"I registri d'archivio indicano di sì. Alla Magnae Accessio di Lady Theodora presenziarono lo stimato Calligos Winterscale e Aspyce Chorda, predecessore di Incendia. È una tradizione informale — assistendo alla cerimonia, i capi delle altre dinastie confermano di riconoscere il nuovo Rogue Trader come proprio pari, di essere disposti a rispettarne i privilegi e a non invadere i suoi possedimenti... non più del solito, almeno."
+
+### u060384
+"Godetevi la serata. Devo congedarmi."
+
+### u060385
+"Winterscale, comincio ad avere l'impressione che io non ti piaccia."
+
+### u060386
+"Incendia, mi sembra che tu mi trovi sgradevole."
+
+### u060387
+"Grazie per un dono così meraviglioso, Calligos."
+
+### u060388
+[Annuisci con freddezza] "Vi do il benvenuto nel mio dominio... onorati ospiti."
+
+### u060389
+"Benvenuti a Dargonus, amici!"
+
+### u060390
+"Come se la passa il vostro protettorato?"
+
+### u060391
+"Il vostro dono viene con una bella storia?"
+
+### u060392
+"Hai minacciato di far morire di fame Footfall. Io ho portato loro la salvezza. Allora, chi di noi serve l'Imperatore e chi le proprie ambizioni malsane?"
+
+### u060393
+"Calligos, grazie della visita."
+
+### u060394
+[Osserva i Rogue Trader]
+
+### u060395
+"È un combattente rapido, anche se non ne ha l'aspetto. Ma io lo so, il che significa che non mi ingannerebbe... anzi, giacerebbe morto."
+
+### u060396
+"Incendia, il tuo sostegno è molto apprezzato."
+
+### u060397
+"Hai abbandonato Footfall al suo destino. E Lady Incendia ha salvato la sua gente da morte certa."
+
+### u060398
+[Sorridi con aria innocente] "Winterscale, mi stai chiedendo di restituirti Footfall? La implorerai?"
+
+### u060399
+"Giusta osservazione. Sono pronto a restituire Footfall alla tua custodia."
+
+### u060400
+"Hai abbandonato Footfall al suo destino. E io ho salvato la sua gente dalla morte per fame."
+
+### u060401
+"Ho sentito dire che Calligos Winterscale era un audace esploratore, cacciatore e mercante. Ma tutto ciò che fa è dare la colpa alle circostanze per i suoi fallimenti — a me, a Incendia, alla tempesta warp... a chiunque tranne che a se stesso!"
+
+### u060402
+[Sorridi con sfrontatezza] "Rivuoi Footfall? Allora prova a prendertela."
+
+### u060403
+"Incendia, ha ragione. Footfall deve essere restituita alla sua custodia."
+
+### u060404
+"Sono lieto che la questione di Footfall sia risolta."
+
+### u060405
+"Come va Footfall in questi giorni?"
+
+### u060406
+"Hieronymus, la vostra presenza qui è inattesa."
+
+### u060407
+"Sei passata per la crio-stasi? Quale idiota ha mutilato un Rogue Trader?"
+
+### u060408
+"Chi è per te Aspyce Chorda?"
+
+### u060409
+"Vedo che per voi la fede è più di una semplice parola."
+
+### u060410
+"Ti ringrazio per questa visita, Incendia."
+
+### u060411
+"Apprezzo il gesto, ma devo rifiutare. I tuoi 'doni' somigliano troppo alla spartizione del bottino di una rapina."
+
+### u060412
+"Mi scuso. Non sono riuscit{mf|o|a} a cogliere l'essenza della tua santa missione in una vile estorsione."
+
+### u060413
+"Ti ho battuto, tutto qui. Questo è commercio."
+
+### u060414
+"Continua con questa insolenza e sarai rimosso da questo pianeta."
+
+### u060415
+"Spero che il sapore del buon vino lavi dalla tua lingua l'amarezza della sconfitta, Incendia."
+
+### u060416
+"Che ne pensate della celebrazione?"
+
+### u060417
+[Rivolgi a Worten uno sguardo minaccioso] "Sarebbe morto in un secondo."
+
+### u060418
+[Valuta il tuo avversario]
+
+### u060419
+[Esamina il suo equipaggiamento]
+
+### u060420
+"Preferirei non scoprirlo."
+
+### u060421
+[Sussurra a voce alta a Winterscale] "È sempre così pungente?"
+
+### u060422
+"Calligos, il tuo atteggiamento verso il tuo stesso protettorato è spaventosamente irresponsabile. Hai dimenticato che la missione di ogni Rogue Trader nella Distesa è rivendicare nuovi mondi per l'Imperium e garantire il pagamento della Decima Imperiale?"
+
+### u060423
+"Chi è il sacerdote con voi?"
+
+### u060424
+"Chi è questo straordinario guerriero nel tuo seguito?"
+
+### u060425
+[Guarda Incendia negli occhi] "Aspyce Chorda? Quel nome l'ho di certo già sentito! Dicono fosse una predatrice e razziatrice impareggiabile. Mi chiedo quanto dei suoi modi abbia ereditato la sua succeditrice."
+
+### u060426
+[Sogghigna con arroganza verso Calligos] "Non mi affretterei a definirci pari. Sei sicuro che la dinastia Winterscale possa competere con il protettorato von Valancius?"
+
+### u060427
+[Scrolla le spalle] "Gli ospiti a cui non piacciono i miei vacui intrattenimenti e il mio divertimento irriverente sono liberi di lasciare Dargonus in qualsiasi momento."
+
+### u060428
+Hai ordinato al Reverendo Hieronymus di distruggere l'arma xenos ricevuta da Calligos Winterscale.
+
+### u060429
+"Reverendo, distruggi questa creazione di detestabili xenos."
+
+### u060430
+[Sorridi a Incendia] "Noi Rogue Trader dovremmo opporci al male insieme, spalla a spalla. Anche se qualcuno cerca di spingerci via a spallate."
+
+### u060431
+"Immagino che Theodora non vi stesse molto a cuore?"
+
+### u060432
+"{name}, è un piacere congratularmi con voi per aver reclamato la vostra eredità. Ora portate sulle spalle il grande dovere che ci ha affidato l'{g|Encyclopedia:Emperor}Imperatore{/g} in persona — sorvegliare questo settore e restare vigili mentre abbattiamo qualsiasi corruzione osi alzare la testa nel vostro dominio."
+
+### u060433
+"Vi siete appena conosciuti e già ti metti al lavoro sul sangue nuovo con le tue prediche. Del resto si dice che voi due siate già culo e camicia... Allora, {name}, ora sei nostro pari, è così?" {n}Calligos Winterscale ti esamina come se fossi una curiosità.{/n}
+
+### u060434
+"{name}, eccoti qui! {mf|Benvenuto|Benvenuta} nel circolo in cui ogni membro è potente, ambizioso, avido e vanitoso quanto l'altro... Cioè, i nobili {g|Encyclopedia:RogueTrader}Rogue Trader{/g}!"
+
+### u060435
+{n}Incendia Chorda lo osserva con un disprezzo appena trattenuto.{/n} "Sì, hai trovato una compagnia adatta, Calligos. Almeno ora potrai goderti svaghi oziosi, vantarti del tuo potere e abbandonarti a passatempi profani con {mf|uno|una} che è tuo pari, anziché con un membro delle classi inferiori."
+
+### u060436
+"Notevole. Al mio Arch-Militant ci vorrebbe più tempo per pulirsi i denti di quanto ne sia servito a voi per complottare e unirvi contro di me. Come fate?"
+
+### u060437
+"Che ospitalità. A ben pensarci, perché mi sarei dovut{mf|o|a} aspettare qualcosa di diverso dall'erede della gloriosa Theodora?"
+
+### u060438
+{n}Winterscale ridacchia.{/n} "Questo ha i denti. {mf|Lui sa|Lei sa} che tra i {g|Encyclopedia:RogueTrader}Rogue Trader{/g} non ci sono amici, solo rivali. Non preoccuparti, oggi non proveremo a strappare un pezzo del tuo protettorato... per non rovinare la festa."
+
+### u060439
+"Un degno nuovo membro della sacra fratellanza dei Rogue Trader. In quest'ora oscura più che mai abbiamo bisogno di un alleato risoluto e pio." {n}Chorda si inchina solennemente.{/n}
+
+### u060440
+"'Amici', eh? Guarda un po'! Incendia, ora hai un amico tutto per te!" {n}Winterscale ti strizza l'occhio con noncuranza, ma la sua postura emana una sfida.{/n}
+
+### u060441
+"Se tu, Incendia, venissi a farmi visita, nemmeno io perderei tempo in saluti calorosi. No, mi armerei subito di un lanciafiamme prima che i tuoi parassiti bigotti possano infestare l'intero palazzo."
+
+### u060442
+"Frena la tua avidità, Calligos. Tutto ciò che possiedi appartiene all'{g|Encyclopedia:Emperor}Imperatore{/g}, e tu non sei che un siniscalco. E anche tutti i possedimenti dell'illustre {name} sono Sua proprietà. Di certo non oseresti rivendicare ciò che appartiene a Lui?"
+
+### u060443
+{n}Winterscale sogghigna con sfrontatezza.{/n} "Non sono venuto qui con l'aspettativa di diventare amico di qualcuno. Un grosso equivoco da parte tua, {name}."
+
+### u060444
+{n}Chorda dice con alterigia,{/n} "Ci penserò due volte prima di chiamare amico un individuo di dubbia purezza."
+
+### u060445
+"Il vostro virtuoso compito sarà portato a termine." {n}Il sacerdote si inchina mentre accetta l'oggetto immondo senza battere ciglio.{/n}
+
+### u060446
+{n}L'espressione di Winterscale si indurisce.{/n} "Quindi è così che tratti i miei doni? Worten, appena lasciamo il palazzo — recupera la mia proprietà. Se l'uomo santo prova anche solo a graffiare l'arma — uccidilo."
+
+### u060447
+{n}Lo spadone monofilo e l'enorme pistola hanno entrambi un aspetto formidabile. Questo combattente preferisce lo scontro ravvicinato, dove la forza si misura con la forza.{/n}
+
+### u060448
+{n}Calligos Winterscale è un uomo dalle spalle larghe e dall'aspetto atletico. Sfoggia spesso un sorriso luminoso, non meno abbagliante della lama dell'ascia potenziata che porta. Ogni parte di lui, dalle punte dei suoi magnifici stivali alle punte dei capelli, irradia forza e desiderio di vivere e vincere. Il suo sorriso è storto, come pronto a trasformarsi in un ringhio ostile da un momento all'altro.{/n}
+
+### u060449
+{n}Incendia Chorda irradia un gelo cosmico. La sua pelle è innaturalmente bianca, e un tic nervoso le tira di continuo il lato sinistro del nobile volto. Vestita con un'uniforme di gala completa, ornata di sigilli di purezza, è l'incarnazione di una vera aristocratica {g|Encyclopedia:Imperium}imperiale{/g}. Al suo fianco aleggia l'ombra emaciata di un sacerdote in semplici vesti nere.{/n}
+
+### u060450
+{n}Hieronymus Doloroso, che hai incontrato su {g|Encyclopedia:Footfall}Footfall{/g}, ti rivolge un cenno rispettoso.{/n}
+
+### u060451
+{n}Calligos ti rivolge un sorriso allegro e un po' selvaggio.{/n} "In segno di gratitudine, potresti restituirmi qualcosa di mio che è finito nelle tue tasche. La Stazione {g|Encyclopedia:Footfall}Footfall{/g} — ti suona familiare? Tutto ciò che ti avevo chiesto era di aiutare quella viscida lumaca di Vladaym a gestire la minaccia della carestia, non di {d|Encyclopedia:Ch2_FootfallAlly}rivendicare{/d} la mia proprietà per te."
+
+### u060452
+"Dovrei? Dopo che tu e Incendia vi siete {d|Encyclopedia:Ch2_FootfallNotAlly}portati via{/d} la mia {g|Encyclopedia:Footfall}Footfall{/g}? Non basta che una tempesta warp abbia devastato il mio protettorato e rovinato la mia caccia, ora i miei più cari compagni sono impegnati a spartirsi i miei territori alle mie spalle?" {n}Calligos ti guarda negli occhi con una sfida nello sguardo.{/n}
+
+### u060453
+{n}Winterscale scopre i denti in modo minaccioso, una scintilla selvaggia negli occhi.{/n} "Parli di salvezza? Credi che ora Footfall sia al sicuro?"
+
+### u060454
+{n}Calligos ringhia con rabbia.{/n} "Stai esagerando, sangue nuovo!"
+
+### u060455
+{n}Calligos ride con soddisfazione e un pizzico di... delusione?{/n} "Be', è stato facile. Immagino che tu dia più valore al brivido della caccia che ai trofei che se ne ricavano. Capisco. Sono proprio come te."
+
+### u060456
+{n}Il bruto accanto a Winterscale socchiude gli occhi iniettati di sangue, la bocca che si allarga in un ghigno sdentato pieno di impazienza. Ma il ghigno svanisce non appena Calligos, con noncuranza e imperiosità, fa cenno al suo servo di calmarsi.{/n}
+
+### u060457
+{n}Gli occhi di Calligos si accendono di furia.{/n} "Vuoi servire da esempio e mostrare a tutti come sopportare i capricci del destino? Eccellente."
+
+### u060458
+{n}Chorda sogghigna, fissando Winterscale negli occhi.{/n} "Purtroppo non è più possibile. Ho già pronunciato il sacro giuramento di trasferire tutti i proventi del mio patronato su Footfall per i prossimi cento anni alla missione dell'{g|Encyclopedia:Drusians}Ordine di San Drusus{/g}. In tali circostanze, ledere quel possedimento significherebbe ledere gli interessi dei missionari. Vuoi iniziare una guerra con Lui, Calligos?"
+
+### u060459
+{n}Calligos emette un basso ringhio di attesa.{/n} "Una sfida, eh? Adoro le sfide."
+
+### u060460
+{n}Calligos ridacchia senza allegria.{/n} "Ciò che cade nelle mani dei pii non lascerà mai le loro grinfie."
+
+### u060461
+"Certo che lo sono. Dubito che sareste lieta se venissi qui con un esercito e riducessi in rovina la vostra capitale." {n}Winterscale ride di gusto.{/n}
+
+### u060462
+"Lo stesso vale per voi, {name}. Porto generosi doni per il vostro protettorato. Sono un segno della mia gratitudine per {d|Encyclopedia:Ch2_FootfallNotAlly}non esservi lasciat{mf|o|a} tentare{/d} dalle parole dei padroni di Footfall e per non esservi {mf|messo|messa} contro di me. I Rogue Trader devono unirsi contro l'eresia e la dissolutezza. Spero che diverrete {mf|un mio fidato alleato|una mia fidata alleata} e non seguirete le orme di Theodora." {n}Il tic di Incendia colpisce di nuovo, contorcendole il volto.{/n}
+
+### u060463
+"Sto raddrizzando quella tana di pirati. Avvertendo l'approssimarsi della resa dei conti, un certo numero di blasfemi si è ribellato, e ho dovuto ricordare loro che tutto ciò che abbiamo sono benedizioni concesseci per grazia dell'Imperatore. L'aria è una di queste. I moduli vuoti saranno consegnati alla {g|Encyclopedia:Drusians}missione di San Drusus{/g}, una volta ripressurizzati."
+
+### u060464
+"Sotto il governo della stimata Incendia, Footfall è avviata verso la purificazione e la prosperità. Ma il suo fardello di depravazione persiste, ed è pesante."
+
+### u060465
+{n}Il tono di Calligos è allegro e canzonatorio.{/n} "Ma come, ho sentito che Footfall è ora pattugliata dalle tue squadre punitive — oh, perdonami — 'unità confessionali', vero? E basta un'accusa di 'scarsa pietà' per giustificare un arresto. La prosperità assume forme così affascinanti!"
+
+### u060466
+"Lo stimato Hieronymus è il mio confessore. Gli sono molto grata per aver accettato di accompagnarmi in questo viaggio."
+
+### u060467
+{n}Hieronymus si inchina con rispetto.{/n} "Possa la luce dell'Imperatore guidare il vostro cammino attraverso l'abisso della malvagità umana."
+
+### u060468
+{n}La voce di Incendia è oscura come il sentiero di un apostata.{/n} "È un segno lasciato dal bacio di un incubo gelido. L'empia Aspyce, con cui ho la maledizione di essere imparentata, mi fece imprigionare in una cripta criogenica, come fece con tutta la nostra famiglia. Temeva che le sue trasgressioni avrebbero finito per far traboccare la nostra pazienza e che l'avremmo detronizzata."
+
+### u060469
+{n}Calligos sbuffa.{/n} "Oh, questo è l'argomento preferito di Incendia. Adora parlare di Aspyce."
+
+### u060470
+{n}Il volto di Incendia sussulta al ritmo del fuoco d'artiglieria.{/n} "Quella reproba è la mia antenata e la mia maledizione. Aspyce Chorda era un mostro crudele, avido e blasfemo. Fraternizzava con gli {g|Encyclopedia:Xenos}xenos{/g}, disprezzava la fede, rapinava e massacrava. Era attratta dai segreti oscuri. Un giorno salì a bordo della sua nave e svanì nelle profondità della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}. Fu dichiarata dispersa, ma io so — verrà il giorno di sangue in cui rivedremo l'ammiraglia da battaglia di Aspyce Chorda."
+
+### u060471
+"L'esempio del disprezzabile Aspyce è un monito per tutti noi. Persino tra i Rogue Trader, investiti di potere dall'Imperatore in persona, può sbocciare un seme di perversione."
+
+### u060472
+{n}Il sorriso di Incendia, scosso dal tic, ha un aspetto sinistro.{/n} "La fede è tutto per me. In Suo nome ho estirpato la corruzione da cento mondi e lo farò su altri mille. Per Sua volontà do la caccia ai pirati e desolo i loro vili nidi. Il nome Chorda faccia tremare ogni fomentatore, perché prima o poi li getterò nel vuoto."
+
+### u060473
+"I fedeli dell'Imperatore devono sostenersi a vicenda." {n}Incendia sorride, ma il suo sorriso risulta un po' storto quando un tic nervoso le attraversa la guancia pallida.{/n}
+
+### u060474
+{n}Un tic nervoso attraversa la guancia di Incendia.{/n} "Be', in tal caso li offrirò alla missione di San Drusus."
+
+### u060475
+"Giuro sul Suo nome, se voi due iniziate una liturgia adesso, torno alla mia nave!" {n}Calligos esplode in una risata fragorosa, ma la frustrazione nella sua voce non ti sfugge.{/n}
+
+### u060476
+"Gli adepti di San Drusus faticano per il bene comune. Lo stimato {name} raccoglierà semplicemente i frutti della vostra generosità in un altro modo, figlia mia."
+
+### u060477
+"Vi aspettavate altro? Per anni ho visto i fuorilegge prosperare su {g|Encyclopedia:Footfall}Footfall{/g}, e poi, finalmente, ho avuto l'occasione di porre fine a tutto questo. Di afferrare per la gola quel furfante di Vladaym, di costringere Footfall a espiare e a instillare di nuovo nelle masse il timore di Lui. Ma voi vi siete {d|Encyclopedia:Ch2_FootfallAlly}intromess{mf|o|a}{/d} e avete distrutto il mio piano per un banale profitto."
+
+### u060478
+{n}Il sacerdote alza le mani in un gesto conciliante.{/n} "Nessuno è senza colpa, nobile Incendia. Che senso ha prendere di mira qualcuno per la sua depravazione quando la vera purezza non può mai essere trovata?"
+
+### u060479
+{n}Incendia alza gli occhi al cielo.{/n} "Suvvia. Ci crederò non appena sentirò dire che metà della popolazione di quella fogna di eresia è stata mandata nell'abbraccio del vuoto."
+
+### u060480
+"Una mancanza di perspicacia perdonabile... per un impiegato dell'{g|Encyclopedia:AdeptusAdministratum}Administratum{/g}. Ma non per un Rogue Trader."
+
+### u060481
+"Ho fede che il benedetto {name} sia abbastanza perspicace da vedere la natura spaventosa degli abitanti di quel luogo depravato."
+
+### u060482
+{n}Sorride con scherno.{/n} "Questo vorrei vederlo. Devo ricordarvi che non siete l'unic{mf|o|a} a essere protett{mf|o|a} da un {g|Encyclopedia:Warrant}Mandato{/g}? Sarebbe un terribile peccato se qualcuno violasse i miei sacri privilegi e disprezzasse la Sua volontà."
+
+### u060483
+{n}Calligos ride senza ritegno.{/n} "Risparmia le tue frecce avvelenate, Incendia. Sento un temperamento focoso nel sangue nuovo — {mf|lui|lei} potrebbe davvero dichiararti guerra. E io potrei davvero sostenerl{mf|o|a}..." {n}Ti rivolge un'occhiata cospiratoria.{/n}
+
+### u060484
+"Quindi vi interessa solo il profitto. Per chi è investit{mf|o|a} di un privilegio tanto immenso, mi aspettavo ambizioni più raffinate e una comprensione più solida della missione affidatavi dal Dio-Imperatore."
+
+### u060485
+{n}Il volto di Chorda si contorce in una smorfia altera.{/n} "Non sono incline a sostanze inebrianti di alcun genere. E nulla cancellerà il ricordo di come vi siete intromess{mf|o|a} nei miei piani — ve lo prometto."
+
+### u060486
+"Calligos, dovresti cogliere questa occasione per imparare — ecco come appare il palazzo di un vero Rogue Trader. Non come una xenomenagerie, un deposito del tesoro di un pirata o — per quanto ti sia difficile crederlo — un bordello orbitale."
+
+### u060487
+"Mi piace!" {n}Calligos si guarda intorno nella sala con curiosità.{/n} "Si capisce subito che siamo stati invitati da un Rogue Trader, non da un leccapiedi dell'{g|Encyclopedia:AdeptusAdministratum}Administratum{/g}. Siamo conquistatori di settori selvaggi, uccisori di bestie ignote, carnefici di imperi xenos."
+
+### u060488
+{n}Incendia abbassa lo sguardo e dice senza animosità,{/n} "Era della stessa pasta di Asp—" {n}Si interrompe, poi prosegue a voce più bassa,{/n} "Presuntuosa, insolente, ignara dello sguardo severo dell'Imperatore posato su di lei. Non dubito della sua saggezza e del suo coraggio, ma Theodora non aveva un briciolo di umiltà né timore della Sua ira."
+
+### u060489
+{n}Cala un silenzio teso. Mentre Calligos e Incendia si scambiano sorrisi provocatori, gli occhi dell'Arch-Militant e del sacerdote si perforano a vicenda, le loro espressioni cariche di significati intangibili. La bestiale aggressività del primo non riesce a scalfire l'impassibile impavidità del secondo. Un presagio di imminente spargimento di sangue aleggia nell'aria.{/n}
+
+### u060490
+{n}Insieme alla pelle pallida e al tic, tutto torna: sono sintomi che riconosci. Sembra che Incendia sia stata sottoposta in passato a crio-stasi, e che durante il risveglio si sia verificato un errore che le ha danneggiato il sistema nervoso.{/n}
+
+### u060491
+{n}Calligos ti liquida con un gesto.{/n} "Protettorato? Più che altro i brandelli sanguinanti di un protettorato. La tempesta {g|Encyclopedia:Warp}warp{/g} lo ha ridotto in pezzi, ma i miei servitori lo rimetteranno insieme. E se non lo fanno — gli taglierò la testa e mi cercherò aiutanti più capaci."
+
+### u060492
+"Oh sì! L'ho conquistata nelle Fratture di Hecaton, dove ci siamo scontrati con degli {g|Encyclopedia:Xenos}xenos{/g}. Cercavano davvero di prendermi alla gola e, per le Heathen Stars, ci sono quasi riusciti." {n}Calligos parla con una gioia tale da sembrare che racconti il giorno più bello della sua vita.{/n}
+
+### u060493
+"Ebbene, dato che ti sei {mf|rivelato|rivelata} una piacevole sorpresa e hai impedito a Incendia di sottrarmi il mio possedimento, devo ricompensarti. Prendi quest'arma sinistra — si è comportata superbamente nelle battaglie contro gli xenos, e mi ha aiutato ad acquisire il dono più sostanzioso che ho portato."
+
+### u060494
+"Uccidici qualcuno di importante. Sarebbe la migliore dimostrazione di gratitudine."
+
+### u060495
+"Be', a me Theodora piaceva. Le storie che raccontavano dei suoi viaggi verso stelle senza nome! E — sì, non aveva paura." {n}Winterscale sospira pensieroso, e la sua espressione vivace si fa un po' più grigia.{/n}
+
+### u060496
+{n}Imperturbabile, Winterscale ridacchia.{/n} "Forse un giorno lo vedremo con i nostri occhi. È passato molto tempo dall'ultima volta che i {g|Encyclopedia:RogueTrader}Rogue Trader{/g} hanno fatto guerra nella Distesa di Koronus."
+
+### u060497
+"Il bello è che la gente mi chiama ancora il tiranno dal pessimo carattere, in tutto questo." {n}L'amichevole sorriso di Calligos in qualche modo somiglia ai denti scoperti di una belva.{/n}
+
+### u060498
+"Quando i missionari di San Drusus scoprirono il suo deposito segreto, tutti i miei parenti erano già morti di morti atroci a causa di guasti alle apparecchiature, e io stavo morendo. Fu un miracolo che mi strappassero dal mio sonno. Per tre anni ero rimasta nella cripta criogenica, paralizzata, cieca, sola con il buio, il freddo e la mia speranza nella Sua misericordia. Tre anni di prigionia in un incubo gelato. Solo le preghiere dei sacerdoti benedetti mi avevano impedito di perdere la ragione."
+
+### u060499
+"Potete stare {mf|certo|certa} che non mi tratterrò nel vostro dominio un minuto più di quanto l'etichetta imponga."
+
+### u060500
+"Vedo che avete preso alcune abitudini di Theodora. Che idea blasfema è questa — accettare nel vostro seguito una empia schiava xenos? E averla come confidente durante la cerimonia, segnalando che intendete avere rapporti con gli inumani?"
+

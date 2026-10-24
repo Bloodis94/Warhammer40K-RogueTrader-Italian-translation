@@ -1,0 +1,888 @@
+### u070028
+{n}Le ciglia argentee di Cassia sono macchiate di scarlatto.{/n} "Rogue Trader, vi prego..."
+
+### u070029
+"Rogue Trader? Il più delle volte, quando mi trovo in vostra presenza, subito dopo mi circonda una foschia grigio-azzurra." {n}Sconforto. Irritazione. Delusione. Nel momento in cui Cassia entra nella stanza, avverti un'ondata di emozioni che non sono tue.{/n} "Ah, vi chiedo perdono. I miei poteri non smettono di tentare di sfuggire al mio controllo."
+
+### u070030
+{n}Cassia annuisce con gratitudine, abbassa lo sguardo e intreccia le mani.{/n} "C'è dell'altro che desidero dirvi. Riguarda... le visioni che ho iniziato a sperimentare con frequenza crescente durante i salti nel warp. Le stesse visioni tornano da me ancora, e ancora, e ancora... È come se stessi impazzendo. Perché vedete, queste visioni riguardano me, l'Atlas e Tisiphone Orsellio, la precedente Novator della Casata. Ho visto gli esperimenti di Tisiphone, quelli che coinvolgevano i Navigatori del ramo Setthala, che si diceva avesse distrutto per disobbedienza."
+
+### u070031
+"Tuttavia, non sono qui per rimproverarvi per le azioni di un tempo. Desidero invece parlarvi delle visioni che ho iniziato a sperimentare con frequenza crescente durante i salti nel warp. Le stesse visioni tornano da me ancora, e ancora, e ancora... È come se stessi impazzendo. Perché vedete, queste visioni riguardano me, l'Atlas e Tisiphone Orsellio, la precedente Novator della Casata. Ho visto gli esperimenti di Tisiphone, quelli che coinvolgevano i Navigatori del ramo Setthala, che si diceva avesse distrutto per disobbedienza."
+
+### u070032
+"Sì... Porto buone notizie! Grazie al sostegno della Casata von Valancius, la Casata Orsellio è sopravvissuta, nonostante i dissidi interni. A nome dei Navigatori Orsellio e mio, vi prego di accettare la nostra più sincera gratitudine."
+
+### u070033
+"Non vi supplicherò." {n}Gli occhi di Cassia restano impassibili, ma lei non riesce a impedire che le sue labbra pallide tremino.{/n} "Se mai la morsa color antracite attorno al vostro cuore dovesse mutare in... sfumature più chiare... sapete dove trovarmi."
+
+### u070034
+{n}Cassia aggrotta la fronte con cautela.{/n} "Se è questa la vostra opinione... terrò conto delle vostre parole."
+
+### u070035
+"Mi è stato riferito che la Casata Orsellio convocherà presto il suo Gran Consiglio. Non sarebbe meglio aspettare che si concluda?"
+
+### u070036
+"Non riesco a scrollarmi di dosso un certo presagio riguardo all'imminente incontro nell'incorporeo Palazzo dell'Atlas. Da molte notti ormai, miraggi inquietanti tormentano la mia mente. Voci che chiamano e maledicono il mio nome. E più uso l'Atlas, più le visioni si fanno nitide e più le voci si fanno forti... e più i miei poteri si affievoliscono. Sono certa che l'intera Casata stia vivendo lo stesso, perché siamo tutti connessi. Percepisco la paura della mia famiglia. La Casata Orsellio è destinata a perire nelle tenebre se non riuscirò a scoprire perché l'Atlas si sta indebolendo. E quel motivo... credo sia nascosto da qualche parte nelle mie visioni di Tisiphone."
+
+### u070037
+"Probabilità stimata di conflitto: inevitabile. Avvio del protocollo //ritirata//evitamento dello scontro//ridislocazione//."
+
+### u070038
+"Heretek Pasqal, abbatterò su di te la punizione nel nome del Deus Mechanicus!"
+
+### u070039
+"Abel, perché hai deciso di venire con noi?"
+
+### u070040
+"Che ne pensi di questo accampamento?"
+
+### u070041
+"Cosa pensi sia successo a questa nave?"
+
+### u070042
+[Lascia in pace il Tecnoprete]
+
+### u070043
+"Capisci che cosa sta succedendo qui?"
+
+### u070044
+{n}Silenzioso e misterioso come sempre, il contegno di Abel Haneumann è un misto di cautela e curiosità mentre ispeziona l'interno devastato della nave. Quando ti avvicini, ti saluta dicendo piano,{/n} "Qui si sono uditi i passi della Morte."
+
+### u070045
+"Il Ciclo sta per essere interrotto. Il Dubbio ha spalancato le sue fauci, invitandoci a entrare."
+
+### u070046
+{n}Abel osserva i tecno-barbari con moderata curiosità, senza tentare di avvicinarsi né di interagire con loro. Di tanto in tanto il suo sguardo si posa su qualche oggetto sacro coperto di immagini tribali o altrimenti profanato, e lui inarca le sopracciglia, evidentemente addolorato.{/n}
+
+### u070047
+{n}Abel distoglie lo sguardo in imbarazzo e dice, quasi timidamente,{/n} "Una caccia. Il cacciatore sta arrivando."
+
+### u070048
+{n}Abel scuote la testa per la vergogna e si affretta a interrompere il contatto visivo con te.{/n}
+
+### u070049
+"Il cacciatore? Il Cacciatore Mutilato?" {n}Pasqal posa un artiglio di mecadendrite sulla spalla di Abel, esigendo una risposta. Abel annuisce.{/n} "Il Cacciatore Mutilato. Quel personaggio compariva nei dati che ho decifrato. Purtroppo, la somma totale delle informazioni su di lui è prossima allo zero."
+
+### u070050
+"Le sacre {g|Encyclopedia:Archeotech}archeotecnologie{/g} e il profano si sono mescolati, come acqua contaminata e unguento sacro."
+
+### u070051
+{n}All'improvviso un sorriso gli compare sul volto.{/n} "È già successo. Lo spirito trascende il corpo. La materia in cui si manifesta si trasforma in qualcosa di più simile allo spirito."
+
+### u070052
+"Un'epifania. Seguita dal dubbio. Seguito dal dibattito. Seguito dal Giudizio... no, da un'assenza di Giudizio." {n}Il discorso di Abel si fa frammentario.{/n} "Una contraddizione. Un dilemma, che sfocia nell'antagonismo..."
+
+### u070053
+"Il mio tecno-compagno ha insistito per prendere parte a questa spedizione. Per lui è una missione prioritaria tanto quanto lo è per me. Entrambi ci aspettiamo di incontrare il nostro mentore, Amarnat."
+
+### u070054
+"Ora tutto è chiaro. Qui si è combattuta una battaglia, e durante i preparativi Amarnat dichiarò l'osservatorio zona interdetta. Persino ai compagni servitori dell'Omnissiah, gli Explorator. Fu un conflitto interno, e lui si aspettava che i suoi ex tecno-compagni diventassero suoi nemici."
+
+### u070055
+"Un conflitto. Qui c'è stato un conflitto."
+
+### u070056
+"Registro tracce residue di combustione di carta all'interno dell'involucro di questo cogitatore. Hanno... alimentato questo deposito di conoscenza con dei libri?"
+
+### u070057
+"Qualcosa ha semplicemente ordinato allo spirito di questa macchina di morire."
+
+### u070058
+"Riconosco lo schema del canto. Stanno imitando una veglia di spegnimento del reattore."
+
+### u070059
+"Registro una deviazione dal rito. La procedura ordinata non è stata seguita durante la sostituzione dell'unguento sacro."
+
+### u070060
+Il condotto di ventilazione che porta l'aria ai ponti è circondato da generose offerte.
+
+### u070061
+"Come osano accamparsi proprio nel cuore della macchina sacra! Questo è un sacrilegio contro i benedetti resti!"
+
+### u070062
+Le impronte di mani e piedi indicano che gli abitanti del posto hanno trasformato la cisterna dell'unguento sacro in una sorta di fonte rituale.
+
+### u070063
+Rozzi amuleti con intagli decorativi pendono dall'antenna vox.
+
+### u070064
+"Il modello di questo cogitatore è così antico e sacro che non ne ho mai visto uno simile. Ne ho sentito parlare solo attraverso frammenti di leggenda."
+
+### u070065
+"Questi barbari stanno saccheggiando le provviste della nave. Registro una blasfemia di Categoria Nove."
+
+### u070066
+"Le iscrizioni barbariche che profanano blasfeme la carne di questa macchina sacra riecheggiano le parole del requiem dello spegnimento reverente."
+
+### u070067
+"L'armatura e le augmetiche di questo nobile guerriero sono intatte, eppure è morto. Cosa lo ha ucciso?"
+
+### u070068
+Lo schermo del cogitatore brilla debolmente. Guardi più da vicino e ti accorgi che è stato svuotato, con le interiora sostituite da candele che gettano bagliori sul plex-vetro nero.
+
+### u070069
+Qualcuno ha cercato di lubrificare l'ingranaggio con il sangue, ottenendo solo una crosta secca che ha bloccato per sempre il meccanismo.
+
+### u070070
+"Non vi permetterò di vincere! Distruggerò questa nave! Io—"
+
+### u070071
+"L'Imperatore ci protegga... Tenete la posizione!"
+
+### u070072
+"La vostra sconfitta è predeterminata! Nessun altro esito è possibile!"
+
+### u070073
+"Questo contrassegno non segue il protocollo della flotta. Costituisce una blasfemia di Categoria Dieci."
+
+### u070074
+"I corridoi di questa santa nave mi sembrano stranamente familiari."
+
+### u070075
+"Ho la sensazione di camminare in una scena del crimine."
+
+### u070076
+"Le deplorevoli condizioni di questa santa nave sono un'eresia inaccettabile!"
+
+### u070077
+"Questo vascello è dotato in ogni parte di meccanismi straordinariamente antichi e sacri! Che grande tempio doveva essere!"
+
+### u070078
+"FffoorrrOmmnIssssIahhh!"
+
+### u070079
+La maestosa statua di metallo è congelata in una minacciosa posa da combattimento.
+
+### u070080
+La carne di questo antico guerriero era un tempo potenziata da augmetiche inestimabili, ma ora sono inattive.
+
+### u070081
+Il tribale evita il tuo sguardo e compie uno strano gesto — probabilmente una specie di rituale — mentre ti avvicini.
+
+### u070082
+"Strano. Vedo graffi di un servo-artiglio sull'armatura di questo venerabile Skitarius."
+
+### u070083
+Un fitto strato di moccoli di candela ricopre i meccanismi, paralizzando la formidabile arma.
+
+### u070084
+"Quale paranoia ha spinto l'equipaggio a collocare la piattaforma del cannone qui, nel cuore stesso della nave?"
+
+### u070085
+"Registro prove che qui è stata sparata una carabina volkite. Registro una violazione del protocollo: uso di armi da parte di soldati dell'Adeptus Mechanicus all'interno di una delle baie della nave."
+
+### u070086
+"La baia è stata sfondata dall'interno. Le tracce di scaglie indicano l'uso di una carica melta."
+
+### u070087
+"Ora tutto è chiaro. Qui si è combattuta una battaglia, e durante i preparativi Amarnat dichiarò l'osservatorio zona interdetta."
+
+### u070088
+"Persino ai compagni servitori dell'Omnissiah, gli Explorator. Fu un conflitto interno, e lui si aspettava che i suoi ex tecno-compagni diventassero suoi nemici."
+
+### u070089
+[Sorridi a Nihel] "Questo è il mio compagno, Pasqal Haneumann. E hai commesso un errore a immischiarti con lui."
+
+### u070090
+"Cerchiamo l'Archmagos Amarnat. E vogliamo risposte."
+
+### u070091
+"La gente del posto parlava di un fantasma senza volto. Intendevano te?"
+
+### u070092
+"Stai dicendo che Pasqal fa parte di quella mente collettiva?"
+
+### u070093
+"Pasqal? Che cosa sta succedendo?"
+
+### u070094
+"Quindi i Tecnopreti di nome Haneumann sono tutti parti di Amarnat?"
+
+### u070095
+"Amarnat credeva di potersi riformare? Il piano sembra... rischioso."
+
+### u070096
+"Qual era il dilemma che Amarnat affrontava?"
+
+### u070097
+"Cos'è Eschatos?"
+
+### u070098
+"Tu sei il Cacciatore Mutilato. Hai cercato di uccidere gli altri Haneumann."
+
+### u070099
+"Idiota. Calcazar ospitava Axiomantha da sempre. Lei lavorava per lui."
+
+### u070100
+"Hai tradito i tuoi fratelli e le tue sorelle. Un atto simile è imperdonabile."
+
+### u070101
+"Il tuo era un compito truce. Ma l'hai portato a termine senza vacillare."
+
+### u070102
+"Che succede adesso?"
+
+### u070103
+"Distruggiamola, Pasqal!"
+
+### u070104
+"Non dovete combattere! Siamo circondati da nemici. Si è versato abbastanza sangue."
+
+### u070105
+"Hai ragione, Pasqal. Sei tu a decidere."
+
+### u070106
+"Se qualcuno volesse sentire l'opinione di un Rogue Trader in merito, io—"
+
+### u070107
+"Pensa a quello che ha detto, Pasqal. Il tuo segreto è pericoloso."
+
+### u070108
+"Fai parte del seguito di Calcazar. Ha qualcosa a che fare con tutto questo?"
+
+### u070109
+"Questo è un tuo problema. Sei sempre stato troppo scettico."
+
+### u070110
+"La procedura di saluto sarà eseguita e i codici di identificazione verificati dopo l'esecuzione della richiesta prioritaria — dimmi dov'è il benedetto Amarnat!" {n}La voce di Pasqal risuona come acciaio.{/n}
+
+### u070111
+{n}Il volto del Tecnoprete di fronte a te è nascosto dietro una maschera di ottone. Invece di essere un pezzo unico, è assemblata con frammenti di molte augmetiche. Hai già incontrato quest'uomo. Si chiama Brasswhisper, un membro del seguito del Lord Inquisitore Calcazar.{/n}
+
+### u070112
+{n}Una risatina incrinata proviene da dietro la maschera.{/n} "Ancora non capisci..."
+
+### u070113
+{n}L'energia verde avvolge Nihel come una rete, bruciandole la Vera Carne, prosciugando la forza vitale dalle sue augmetiche e dai suoi componenti meccanici. Ma lei concentra la volontà e colpisce Pasqal con un impulso proprio. La voce rantolante, ormai non più umana, infuria e ruggisce come un incendio boschivo:{/n} "Mi rifiuto di riconoscerti come Messia! Non credo in te!"
+
+### u070114
+{n}Le labbra deformate di Nihel si contorcono, e semi di sgomento germogliano nella sua voce:{/n} "Ti ho attirato qui per un motivo, Pasqal. Volevo che vedessi cosa erano diventati i nostri seguaci. Ecco dove porta la deviazione dal dogma! La violazione del canone genera ignoranza. L'ignoranza genera blasfemia!"
+
+### u070115
+{n}La risposta di Pasqal spazza via le parole di Nihel come una folata di vento. Il suo visore ottico si fa di un blu accecante.{/n} "No, tecno-sorella. Astenersi dalla resistenza non è mai stata la nostra via. Sono un Explorator, un ricognitore della Conoscenza. Ho portato il fuoco su cento mondi. Ho carpito mille segreti nell'oscurità. Sono un agente della volontà sfrenata! Non cederò all'oblio, perché persino l'oblio mi teme."
+
+### u070116
+"Risposta: affermativa. Per spostare l'Hermetico fuori dalla Processione dei Dannati, abbiamo dovuto disturbare i miseri abitanti del posto."
+
+### u070117
+"Volevi che mi risvegliassi, tecno-sorella. Eccomi. A chiederti conto."
+
+### u070118
+Pasqal non è d'accordo. Che cosa vuoi
+
+### u070119
+{n}Pasqal ti interrompe con un gesto estremamente imperioso del suo mecadendrite.{/n} "Non ce n'è bisogno. Questo dibattito, questo dilemma, è solo nostro."
+
+### u070120
+"Ogni conoscenza è pericolosa. Il pericolo insito nella conoscenza ne è il prezzo. È una tariffa sacra per un rito, non un divieto."
+
+### u070121
+{n}La risata vuota e dolente da dietro la maschera di ottone è amplificata dal suo stesso eco.{/n} "So tutto."
+
+### u070122
+"Cerchi l'Archmagos Amarnat, dici?" {n}Qualcosa scatta dentro la maschera di Brasswhisper, e la sua voce si fa più alta e più aspra, come rivestita di metallo liquido.{/n} "È stato al tuo fianco per tutto questo tempo."
+
+### u070123
+{n}Pasqal volge lo sguardo su di te, le pupille ardenti di fuoco celestiale. Dal suo vox sfugge una sola parola:{/n} "Restaurazione."
+
+### u070124
+"Il Collettivo Amarnat fu concepito per essere un filosofo e un ricercatore. I concetti che produsse erano così potenti da distruggere quasi la Cognisance Fleet. Ma poi si trovò di fronte a un dilemma irrisolvibile. Ed è allora che Amarnat si disgregò."
+
+### u070125
+"Meccanismo di ricostruzione cognitiva attivato. La memoria si sta risvegliando dentro di te." {n}Brasswhisper è scosso da un violento accesso di tosse, poi grida con ferocia,{/n} "Ricorda!"
+
+### u070126
+"I sei servitori costituenti dell'Omnissiah nascosero a se stessi i propri ricordi dietro false personalità e furono inviati in varie zone della Distesa di Koronus. Si nascosero. Ognuno dovette vivere in solitudine per molti decenni, accumulando osservazioni individuali prima di riportare infine quell'esperienza a un Amarnat riunito, che avrebbe poi affrontato di nuovo il dilemma. Quella sarebbe stata la Restaurazione."
+
+### u070127
+{n}Il dolore riecheggia nella voce disumana di Pasqal:{/n} "Gli anni mi sono scivolati tra le dita come sabbia. È stato tanto tempo fa." {n}Il tuo compagno appare sopraffatto e pensieroso.{/n}
+
+### u070128
+"Sì. Sei note chiave mentali. Dementz era Paranoia. Dopo la separazione, percepì che la sua memoria era una tela di menzogne, e quella sensazione lo spinse nelle profondità della follia. Tarzus era Fede, ardente e inflessibile. Axiomantha era Logica, non offuscata da emozioni né da giudizi di valore."
+
+### u070129
+"La Restaurazione è stata calcolata statisticamente a un livello che va oltre la tua comprensione, {mf|profano|profana}. Sono stati presi in considerazione miliardi di variabili. Innumerevoli scenari sono confluiti nello sviluppo di strategie ottimali. L'incontro di due unità Amarnat era una certezza inevitabile. Gli identificativi coincidenti sarebbero stati la scintilla di una reazione a catena. Ed è proprio ciò che è accaduto."
+
+### u070130
+"Abel era il suo gemello buono, Immaginazione. Non conosceva il proprio passato, proprio come gli altri, ma sentiva più di loro. È sempre stato diverso. Per questo è stato il primo ad avvicinarsi alla Restaurazione... uno dei primi."
+
+### u070131
+"Pasqal era Giudizio. Il moderatore del processo cognitivo. Colui che prende la decisione." {n}La voce di Pasqal si leva fino alla volta dell'osservatorio e vi rimbomba sotto come un tuono.{/n}
+
+### u070132
+"E Nihel." {n}La maschera di ottone inizia a sbloccarsi con un sibilo. Le augmetiche si ripiegano all'indietro, rivelando un volto deturpato dalle ustioni. Il volto di una donna con due occhi vividi, di un cupo splendore.{/n} "Scetticismo. Colei che dubita."
+
+### u070133
+{n}Una fragilità tintinnante si insinua nella voce di Pasqal:{/n} "Eravamo mossi da stimoli perfetti. Curiosità, ansia... vergogna. Ogni parte di noi era ostaggio della leggenda di un tradimento che aveva commesso, perché la sofferenza ci spingeva a cercare e ad aspirare."
+
+### u070134
+"Il suo nome era Eschatos. Il segreto del rito per mettere a morte uno spirito macchina. Una tecnologia che incarnava la Cessazione del Ciclo. Doveva esistere? O era l'apice della profanità contro l'Omnissiah e la Sua creazione?"
+
+### u070135
+{n}Pasqal prosegue il discorso di Brasswhisper con tono elevato:{/n} "Eschatos era l'arma perfetta contro le creazioni dell'Omnissiah corrotte dai nemici... ma anche contro i Suoi fedeli servitori. La sua diffusione poteva portare la vittoria all'Imperium, o distruggerlo. Eschatos poteva significare la fine dell'Adeptus Mechanicus, perché era la risposta perfetta al potere esercitato dal Culto della Macchina. Era una benedizione o una maledizione?"
+
+### u070136
+"Non c'era risposta. Il protrarsi della questione era inaccettabile. E così si trovò il modo... di accantonare il problema." {n}Brasswhisper emette un sospiro rauco.{/n} "E io ho trovato la risposta. Eschatos non dovrebbe esistere. Correggeremo il nostro errore."
+
+### u070137
+"Il potere della negazione delle macchine. Un segnale noosferico che interrompe qualsiasi vita creata dall'Omnissiah." {n}Un lampo verde corre lungo la crepa nel respiratore di Pasqal.{/n} "Il potere a cui attingevo... inconsciamente."
+
+### u070138
+"Questa affermazione è vera. Fui ammessa nel seguito del Lord Inquisitore e autorizzata a studiare un pericoloso manufatto sottratto ad Amarnat. Tentò di esercitare su di me una qualche influenza, ma i miei voti dati mi protessero..." {n}Nihel Haneumann si tocca il volto segnato.{/n} "Un cortocircuito risvegliò alcuni dei miei ricordi. Condussi un'analisi, risolsi il dilemma di Eschatos e iniziai ad agire."
+
+### u070139
+"I miei agenti hanno quasi terminato Tarzus, ma lui si è nascosto sotto un'armatura di martirio e follia. Un tentativo di intercettare Pasqal su Altar-Templum-Calixis-Ext-17 è fallito perché Abel lo aveva convocato. Gli assassini lo hanno raggiunto allo spazioporto di Rykad Minoris, ma lui è riuscito a fuggire di nuovo. Un altro gruppo è andato a caccia di Abel, solo per perire in un monastero di Elettropreti."
+
+### u070140
+"Hai eliminato Dementz, che era caduto nell'eresia. Axiomantha... è semplicemente scomparsa, finché non è saltata fuori morta su Eufrates II. Non ho idea di come sia riuscita a nascondersi da me..."
+
+### u070141
+"Registro una menzogna! Il Lord Inquisitore condivideva la mia convinzione che l'eredità di Amarnat dovesse essere distrutta. Fu convocato nella Distesa di Koronus da membri leali della Cognisance Fleet per deporre Amarnat. Furono le sue truppe ad attaccare l'Hermetico nel tentativo di annientare la nostra creazione scismatica!"
+
+### u070142
+"Quindi è così che sei salita a bordo della nave e sei entrata nell'osservatorio, Nihel. I nostri tecno-compagni traditori hanno dato a Calcazar i codici di accesso al ponte di comando. E lui li ha dati a te." {n}Una convinzione acuta vibra nella voce di Pasqal mentre pronuncia queste pacate constatazioni di fatto. Non pone domande; pronuncia un Giudizio.{/n}
+
+### u070143
+"Menzogne!" {n}Qualcosa che non avevi mai sentito prima si insinua nella voce di Nihel: una nota di... paura.{/n}
+
+### u070144
+"La conoscenza condivisa giaceva dormiente nella mente di ogni unità Amarnat. Hai tentato di decifrare i neurocogitatori degli altri Haneumann, non è vero? Ma invano. Sei stata tu a creare il cifrario che ha bloccato la memoria di Amarnat."
+
+### u070145
+{n}Con un misto di dolore e orgoglio, Brasswhisper risponde,{/n} "Tutti noi abbiamo scelto la via del martirio. Io ho solo aiutato loro a raggiungere la meta suprema al termine di quella via."
+
+### u070146
+"La decisione spetta a lui." {n}Nihel indica Pasqal.{/n} "Come sempre."
+
+### u070147
+{n}La voce di Nihel è imperiosamente metallica:{/n} "Tecno-fratello, ti offro la possibilità di cedere pacificamente a un destino che compiacerà l'Omnissiah. Non opporre resistenza alla tua terminazione e passerai nell'oblio come mio amico e compagno di fede."
+
+### u070148
+{n}Pasqal ha un'aria pensierosa mentre tocca la crepa che attraversa il suo respiratore corazzato. Una scintilla verde corre lungo il profondo squarcio lasciato nel metallo dall'arma di un nemico.{/n}
+
+### u070149
+"E ti è bastato ricomparire nella Distesa perché lo scisma rialzasse la testa. La Cognisance Fleet è già dilaniata da una guerra fratricida! È questo che volevamo? Chiudiamo la questione... Interrompiamo il Ciclo!" {n}Ora le parole di colei che un tempo si faceva chiamare Brasswhisper suonano più come una supplica.{/n}
+
+### u070150
+{n}La voce che le risponde non è umana. Potrebbe appartenere a un'enorme nave del vuoto o a un mondo forgia, se potessero parlare.{/n} "Hai violato la procedura, Scetticismo. Hai usurpato la funzione di un altro. Tu ti limiti a contestare; non prendi decisioni. Io sì."
+
+### u070151
+{n}Pasqal tende un mecadendrite verso Nihel e proclama,{/n} "Tecno-sorella, il mio Giudizio su di te e sulle tue azioni è di condanna. Manomettere la procedura è inaccettabile. Sabotare l'esperimento è apostasia. Per il tuo tradimento, le tue funzioni vitali saranno terminate nel nome del Messia della Cessazione." {n}Un impulso di energia verdastra nasce dentro le augmetiche di Pasqal e saetta verso Nihel come un furioso fulmine.{/n}
+
+### u070152
+{n}Nihel emette un sospiro rauco e rivolge a Pasqal uno sguardo disperato.{/n} "La decisione spetta a lui."
+
+### u070153
+"E io l'ho presa."
+
+### u070154
+"Solo io posso decidere chi merita di essere distrutto, {name}. E ho preso la mia decisione."
+
+### u070155
+"In minima parte. Un tempo aveva un ruolo di primo piano in questa storia. Ora non più. Questo incontro si tiene per mia iniziativa." {n}Brasswhisper passa in rassegna i soldati dell'Inquisizione e i guerrieri dell'Omnissiah, immobili.{/n} "Detto questo, godo ancora della protezione del Lord Inquisitore e della Cognisance Fleet. Tienilo a mente."
+
+### u070156
+{n}Eogunn guarda Pasqal con stupore, gli occhi colmi di profonda reverenza e di terrore.{/n} "Non oso nemmeno immaginare una mente collettiva di tale potenza! Un grande filosofo, capace di frammentare la propria coscienza per osservare una questione da ogni prospettiva e poi reintegrarsi per comprenderla appieno. Desidero ardentemente aver potuto contemplare Amarnat all'apice della sua gloria e partecipare della sua saggezza."
+
+### u070157
+"Sei stata ingannata, sorella. Calcazar si è appropriato del nostro lavoro. Ha proseguito la nostra ricerca, non più vincolato dal canone dell'Omnissiah. E tu glielo hai permesso, distruggendo coloro che avrebbero potuto tornare e reclamare il suo premio insanguinato."
+
+### u070158
+"Saresti rimasta inorridita da ciò che hai visto." {n}La voce di Pasqal scende a un sussurro, poi si gonfia della potenza ruggente di una Forza Motrice che tutto consuma.{/n} "Amarnat era formidabile nel perseguire il suo scopo."
+
+### u070159
+"Intendiamo interrompere il Ciclo. Non è ovvio?" {n}C'è una nota di sarcasmo nella voce gracchiante di Brasswhisper.{/n}
+
+### u070160
+"Parla, o ti strapperò i ricordi insieme al Ferrum Sanctum impiantato nel tuo cervello." {n}Pasqal scandisce ogni parola mentre attiva il suo mecadendrite perforante.{/n} "Che cosa sai di Amarnat?"
+
+### u070161
+"Sì... suppongo di sì. Comprendere completamente, fino al limite assoluto — dev'essere un'esperienza spaventosa. Eppure qualcosa di molto desiderato!"
+
+### u070162
+"Questa affermazione è falsa. L'ipotesi è priva di fondam—"
+
+### u070163
+"Cercando? Che assurdità. Ti manca il concetto stesso di ciò che stai cercando, {mf|profano|profana}. Ti aspetti di trovare un uomo, e Amarnat non lo è mai stato... non è mai stato una sola persona."
+
+### u070164
+"Il Collettivo Amarnat fu creato da un gruppo di Tecnopreti che rinunciarono all'individualità e si fusero in una mente collettiva. Una mente che ragionava in modo algoritmico ma era guidata dai princìpi e dalle convinzioni di uno spirito retto. Un super-io che li portava un passo più vicini all'Omnissiah."
+
+### u070165
+"...e ci rinchiude in una gabbia di voti dati!" {n}Pasqal rabbrividisce come colpito dalla Forza Motrice stessa. I mecadendriti si innalzano come ali d'acciaio dietro le sue spalle. La voce dal suo vox-altoparlante assume una profondità e una potenza ultraterrene:{/n} "E dunque il Ciclo deve essere interrotto."
+
+### u070166
+{n}Brasswhisper lo interrompe con un grido veemente:{/n} "Mentre il Ciclo si avvolge in innumerevoli spire, interseca se stesso..."
+
+### u070167
+"Tutto ciò che abbiamo fatto è stato generare corruzione! Scisma! Ricordate quando vennero a deporci? Resistemmo e distruggemmo questa nave! Una reliquia sacra! Un'Ark Mechanicus più antica del nostro stesso sacerdozio! Qui, in questa sala, liberammo Eschatos e permettemmo che accadesse un'eresia inconcepibile! Ricordi? Ricordi come ti sei procurato quel mento spaccato?"
+
+### u070168
+"Eccoti, tecno-fratello." {n}La voce di Brasswhisper è rauca e spezzata. Il suo sguardo è rivolto a Pasqal.{/n}
+
+### u070169
+"Ne è stato il creatore originale."
+
+### u070170
+"Le tue congetture sono incredibilmente azzeccate, Pasqal."
+
+### u070171
+"Pasqal, spiega al popolano che non mi importa di quale tribù sia e che dovrebbe inginocchiarsi alla presenza del Rogue Trader."
+
+### u070172
+"Era solo?"
+
+### u070173
+"Hai visto qualcosa di insolito di recente?"
+
+### u070174
+"Siamo qui per cercare qualcuno."
+
+### u070175
+"Tu parli con noi, i tuoi consanguinei no. Perché?"
+
+### u070176
+"È per questo che ci chiamate fantasmi?"
+
+### u070177
+"Credi che il mondo sia perito?"
+
+### u070178
+"Cosa pensi abbia distrutto l'universo?"
+
+### u070179
+"Cos'è la Camera di Observus?"
+
+### u070180
+[Osserva meglio l'uomo]
+
+### u070181
+"Allora come ha fatto il fantasma senza volto a entrare?"
+
+### u070182
+"Chi è lo spirito Pref?"
+
+### u070183
+"Parola divina? Quale parola divina?"
+
+### u070184
+"È un bene o un male?"
+
+### u070185
+"Giusto. Un altro fanatico."
+
+### u070186
+"Che aspetto aveva?"
+
+### u070187
+"Voglio entrare là dentro."
+
+### u070188
+"Cosa sono gli spettri della ruggine?"
+
+### u070189
+"Chi o cosa è la grande entità?"
+
+### u070190
+"Saluto la tua tribù. Veniamo in pace."
+
+### u070191
+"Pasqal, che ne pensi di questa gente?"
+
+### u070192
+"Come sopravvivete qui e cosa fate?"
+
+### u070193
+{n}L'uomo magro e ingobbito ti studia con il suo sguardo penetrante. Uno dei suoi occhi ti scruta da capo a piedi, l'altro è stato sostituito da un'ingombrante augmetica, antica e adorna d'oro ma disattivata per qualche motivo. L'uomo dichiara con voce asciutta,{/n} "I fantasmi del nulla sono entrati nel ponte della tribù Acgen."
+
+### u070194
+"Cosa ti attira qui, fantasma del nulla?"
+
+### u070195
+"La divinità suprema. Lo spirito della saggezza e delle rivelazioni. Porta il nome di Marnat."
+
+### u070196
+{n}Il nome cattura l'attenzione di Pasqal. Lui dice con severità,{/n} "Registro un modello linguistico significativo. Richiedo tutte le informazioni disponibili su Am— su Marnat."
+
+### u070197
+"Abbandona questo pensiero. Quelli della tua specie non possono entrare là dentro. Il grande tubo fu fatto per i viaggi degli dèi, non dei mortali. Solo chi ha la benedizione di Pref, il grande spirito che governa questo ponte, può avvicinarsi al grande tubo. Ma anche chi ci provasse avrebbe tentato invano, perché gli spiriti del grande tubo ne hanno sigillato il portale e lo apriranno solo a chi conosce la parola divina. E gli spettri della ruggine fanno in modo che gli uomini non rubino la parola. Faranno in fretta a sbarazzarsi di qualsiasi ladro."
+
+### u070198
+"Ipotesi: questa comunità primitiva è composta dai discendenti di tecnomati di basso rango che un tempo si occupavano della manutenzione di questo ponte. Il nome 'Acgen' deriva dalla Categoria Ac-Gen. 'Ac' indicava la categoria Accolito, che si occupava dei ponti principali. 'Gen' si riferiva al personale di servizio a cui erano assegnati compiti di manutenzione generale, anziché specializzata."
+
+### u070199
+{n}Pasqal fa scattare l'artiglio del suo mecadendrite, indica i tatuaggi che coprono il collo dell'uomo e dice,{/n} "In base a questi segni, l'unità è stata identificata come membro del personale ausiliario di Categoria 17. Richiedo l'esecuzione del rito di saluto appropriato." {n}Un trillo binarico accompagna le severe parole.{/n}
+
+### u070200
+"I becchini del mondo spirato nella Grande Cessazione del Ciclo. Gli addolorati che tengono un requiem eterno per l'universo."
+
+### u070201
+{n}L'uomo guarda te e Pasqal con indifferenza. Non sembra aver capito una sola parola.{/n}
+
+### u070202
+"Sì. Fuori da questa nave c'è solo il nulla. A volte sputa fuori fantasmi nati dalle ceneri del mondo, ed essi vagano fin qui. La vostra vista ci rattrista, perché vi piangiamo. Ahimè, non c'è nulla che possiamo fare per aiutarvi, dato che non esistete."
+
+### u070203
+{n}L'uomo annuisce con una smorfia di tragico sentimento.{/n}
+
+### u070204
+{n}Pasqal abbassa il capo e dice piano,{/n} "È lui. Il mio mentore. Amarnat."
+
+### u070205
+"Questa affermazione è vera. Il mondo ha cessato di esistere moltissimo tempo fa. È diventato nulla. Cenere. Tutto ciò che resta sono queste rovine. L'ultima scheggia dell'universo. Il suo cenotafio."
+
+### u070206
+"È stato compiuto l'impensabile. Il Ciclo è stato interrotto."
+
+### u070207
+"Addio, fantasma. Spero che il nulla ti richiami presto nel suo abbraccio."
+
+### u070208
+{n}L'uomo di mezza età porta sulle spalle una bobina potentia, alla maniera dei Tecnopreti. È tenuta ferma da cinghie e non è collegata a nulla. Il suo peso gli ha curvato la schiena. Uno dei suoi bracci è stato sostituito da un'esquisita augmetica da tecno-scriba, ma le penne e gli stili sono incredibilmente smussati, come se fossero stati strofinati contro la nuda roccia, e il servomotore dell'arto è inattivo.{/n}
+
+### u070209
+{n}La vista dell'augmetica straziata strappa a Pasqal una smorfia di dolore.{/n} "Registro prove che la preziosa Vera Carne viene fatta operare in condizioni inaccettabili. I marchi indicano che questo metallo sacro fu forgiato molti secoli fa sulla benedetta Marte. Impiegarlo in un uso così rozzo e incurante è un insulto all'Omnissiah."
+
+### u070210
+{n}Un sorriso pallido e condiscendente increspa le labbra dell'uomo.{/n} "È stato interrotto molto tempo fa."
+
+### u070211
+"Nessuno dei due. È semplicemente accaduto. Ma è stato un evento tremendo. E noi lo piangiamo."
+
+### u070212
+{n}L'uomo scuote la testa.{/n} "Per voi, fantasmi nati dal nulla, è difficile da comprendere. Posso capirlo. Per questo cerchiamo di evitare di parlare con i fantasmi."
+
+### u070213
+"Il signore di questo ponte, il secondo dio per importanza dopo Marnat. I mortali tradirono crudelmente la sua fiducia una volta, e da allora non ha più parlato con loro né li ha protetti. Pref risponde solo alle invocazioni dello sciamano, e anche allora soltanto di rado."
+
+### u070214
+"Vegliamo su tutta l'esistenza, e gli spiriti dei meccanismi ci danno acqua, cibo e miscela nutritiva. Li ringraziamo con riti di manutenzione e cura delle macchine. Così comanda la grande entità."
+
+### u070215
+"Le profane speculazioni del tribale descrivono con ogni probabilità un importante spirito macchina ancora desto. Richiedo un colloquio con l'unità identificata come 'lo sciamano'."
+
+### u070216
+"Io sono il Fabricator General. Le mie spalle portano il sacro fardello del comando." {n}L'uomo muove le spalle, curve sotto la bobina potentia che vi poggia.{/n} "Gli altri vi temono, perché i fantasmi possono portare i vivi via, nel nulla. Ma io sono protetto dalla grazia di Marnat."
+
+### u070217
+"La mente di questo tribale è piena della più incolta superstizione. Perché questa unità sembra sapere meno di un rozzo barbaro?"
+
+### u070218
+{n}Il suono della Techna-Lingua fa inginocchiare umilmente l'uomo, che risponde con un fischio come per imitare la lingua dei servitori dell'Omnissiah.{/n}
+
+### u070219
+{n}Pasqal si volta verso di te e osserva piano,{/n} "Quella risposta era in un dialetto binarico. Primitivo e rozzo... ma corretto."
+
+### u070220
+"Marnat è un essere divino di grande saggezza. Fu questa grande saggezza a interrompere il Ciclo, e tutti coloro che ne avevano partecipato caddero nel nulla. Noi non abbiamo mai partecipato della saggezza, ed è per questo che esistiamo. E non ho nulla da dirti in proposito, fantasma."
+
+### u070221
+{n}Il ruggito di Pasqal è come l'allarme assordante di un estrattore.{/n} "Fabricator General? Registro eresia!"
+
+### u070222
+{n}L'uomo ascolta lo sfogo del Tecnoprete senza battere ciglio.{/n} "L'universo deve avere un Fabricator General — il sommo sacerdote dell'Omnissiah. Non c'è nessun altro a detenere quel titolo. Dunque è mio."
+
+### u070223
+"Ipotesi: il termine 'parola divina' si riferisce a una litania di comando. Una comprensione approfondita della situazione a bordo dell'Hermetico mi permetterà di selezionare la litania corretta e di recitarla ai meccanismi ancora operativi."
+
+### u070224
+"L'eco di un antico crimine si è udito sotto le volte ad arco della nostra dimora." {n}Il tribale ti rivolge un cupo cenno del capo.{/n} "Un fantasma del nulla camminò tra noi, d'aspetto simile al tuo ma senza volto. Pronunciò parole che non devono essere pronunciate, e poi penetrò nella Camera di Observus. E la nostra dimora fu scossa per giorni dall'ira degli dèi, e ci sembrò di andare alla deriva nel nulla."
+
+### u070225
+"La sua fronte portava il segno del dolore e di antiche colpe, e la sua voce era come sabbia che filtra."
+
+### u070226
+"Una dimora di divinità e spiriti possenti, appartata dai mortali." {n}L'uomo indica l'ingresso del pozzo dell'ascensore.{/n} "Lungo questo grande tubo scendevano un tempo dai mortali. Ora si sono tutti ritirati nella casa di Observus, il calmo e acuto di vista, per ricordare e piangere il mondo che fu."
+
+### u070227
+{n}Pasqal esita, poi aggiunge con apprensione,{/n} "Correzione: questo dato è un'ipotesi. Una ricerca negli archivi non ha prodotto alcuna conferma di tali dati. Il fatto che io li possieda è una fluttuazione cognitiva anomala."
+
+### u070228
+"Conosceva il segreto. L'incantesimo non era di origine divina — il suo potere superava quello degli dèi. Nacque nelle misteriose profondità dell'irregolarità, e poco dopo che un mortale lo pronunciò per la prima volta, il mondo non esisteva più."
+
+### u070229
+{n}Il Tecnoprete è colto alla sprovvista. Si ferma a riflettere, poi dice senza troppa sicurezza,{/n} "Questa affermazione è falsa. Ognuna delle ipotesi è stata dedotta logicamente dalla nostra situazione attuale."
+
+### u070230
+"Concordo, stimato collega. Un simile sfruttamento del sacro ferro fa bloccare dall'indignazione i miei impianti vocali. Nondimeno, mi ritrovo affascinato da questa imitazione della nostra stessa natura. Che curioso enigma antropologico!"
+
+### u070231
+"Da una prospettiva dogmatica, quell'affermazione è profondamente viziata e sconfina nell'eresia. Eppure, nel microcosmo degli abitanti dell'Hermetico, possiede una logica propria. Modellandosi sulla gerarchia dell'Adeptus Mechanicus, hanno assegnato ruoli sociali critici, senza comprenderne appieno la funzione ma avvertendone con acutezza l'importanza."
+
+### u070232
+{n}L'uomo sospira e fa con la mano un segno che ricorda vagamente un gesto dei Tecnopreti per scacciare il male.{/n}
+
+### u070233
+"Bene. Non cercare di entrare nella dimora degli dèi, fantasma. Non è un luogo per te."
+
+### u070234
+{n}L'uomo indica una delle statue immobili.{/n} "Gli antichi, i servitori degli dèi. Un tempo erano i grandi guerrieri degli dèi; ora custodiscono la pace di questo cimitero universale e vigilano affinché i mortali non sfidino l'ordine divino."
+
+### u070235
+"Le parole comandano tutta l'esistenza. Gli dèi governavano l'universo con parole di potere. Ci fu un tempo in cui anche ai mortali fu concessa la loro conoscenza, ma quel tempo è morto insieme al mondo."
+
+### u070236
+"Gli Skitarii, la guardia del ponte. Questi servitori immortali sono un distaccamento d'élite dell'equipaggio, benedetto con le augmetiche più antiche e meravigliose. Potevano persino sopravvivere in stato di sonno per secoli." {n}Dopo una breve pausa, dal suo vox giunge un sussurro:{/n} "La loro presenza qui è insolita. Di norma, gli immortali lasciano la loro cappella di custodia solo per ordini speciali dal ponte di comando."
+
+### u070237
+{n}Affascinato dalla risposta, Pasqal dice piano,{/n} "Che il Ciclo sia interrotto."
+
+### u070238
+"Registro molteplici deviazioni dal Catechismo di Manutenzione e Operazione nelle azioni di queste unità. Ipotesi: le violazioni delle sacre istruzioni non derivano da una caduta dolosa nell'eresia. Sono la conseguenza del fatto che il rito è andato perduto nella memoria. Una grave eresia, ma non altrettanto profana." {n}La voce dal vox è piena di dolore e di rimprovero.{/n}
+
+### u070239
+"No, altri fantasmi camminavano con lui, ma solo lui aveva una mente e una volontà. Gli altri eseguivano i suoi ordini."
+
+### u070240
+"L'unità ci ha fornito una descrizione distorta dell'osservatorio — la baia che ospitava il ponte di comando dell'Hermetico. Lì, sotto una grande cupola di vetrocemento, i più saggi gerarchi dell'Adeptus Mechanicus trascorrevano il tempo in riflessione e si sforzavano di discernere i segni guida dell'Omnissiah nel luccichio delle stelle."
+
+### u070241
+{n}L'uomo scrolla le spalle con indifferenza. La sua voce è venata di compassione:{/n} "Non ha importanza. Siete fantasmi."
+
+### u070242
+{n}Pasqal agita un mecadendrite verso di lui, congedandolo con stizza, e dice con impazienza,{/n} "Il benedetto Amarnat può comandare qualsiasi meccanismo della sua nave. L'eresia indottrinale pronunciata dall'unità non merita attenzione."
+
+### u070243
+Skitarii Immortale Alpha
+
+### u070244
+Skitarii Immortale Devoto
+
+### u070245
+Skitarii Immortale Tiratore
+
+### u070246
+Nihel
+
+### u070247
+Capo Kastaes
+
+### u070248
+Tecno-donna tribale
+
+### u070249
+Tecno-uomo tribale
+
+### u070250
+Tecno-sciamano Likut
+
+### u070251
+"Cosa sei? O cosa eri?"
+
+### u070252
+"Abbiamo bisogno di Amarnat e del potere che detiene."
+
+### u070253
+"Abbiamo bisogno di Eschatos. Ma abbiamo bisogno anche di Pasqal."
+
+### u070254
+"Il tuo segreto puzza di eresia. Fai la cosa giusta e distruggilo."
+
+### u070255
+"Cosa significherà per te la distruzione di Eschatos?"
+
+### u070256
+"Sei Amarnat?"
+
+### u070257
+[Rivolgiti ad Abel] "Cosa pensi di questo dilemma?"
+
+### u070258
+"Conoscevi Theodora?"
+
+### u070259
+"Penso che Abel intenda dire che il tuo esperimento ha causato troppa distruzione e troppo spargimento di sangue."
+
+### u070260
+"È ovvio. Se ora rifiutiamo la conoscenza di Amarnat, tutto il sacrificio sarà stato vano."
+
+### u070261
+"Fai ciò che hai deciso di fare."
+
+### u070262
+[Giustizia Pasqal] "Sì. Addio, compagno."
+
+### u070263
+"E ora? Qual è l'algoritmo generale?"
+
+### u070264
+[Osserva meglio Pasqal]
+
+### u070265
+"Solo tu puoi prendere la decisione."
+
+### u070266
+[Estrai l'arma] "Non permetterò che accada!"
+
+### u070267
+"Forse intende dire che il tuo audace tentativo di ascesa ti ha fatto guadagnare il diritto a questo potere."
+
+### u070268
+[Evita di intervenire]
+
+### u070269
+"Verso quale giudizio ti stai orientando?"
+
+### u070270
+"Mi dispiace per la morte della tua tecno-sorella."
+
+### u070271
+"Hai fatto la cosa giusta. Se lo meritava."
+
+### u070272
+[Inchinati al Messia della Cessazione]
+
+### u070273
+"Amarnat era un'unione di sei Tecnopreti. Quasi tutti sono morti ormai. Come fa Amarnat a esistere ancora?"
+
+### u070274
+"Un Giudizio deve essere pronunciato. Il segreto di Eschatos deve esistere o essere evitato come falsa via?"
+
+### u070275
+"Nihel ha rafforzato la nostra unione con la prudenza di Dementz, un revisore meticoloso e riservato, un cercatore di pericoli. Io ho potenziato il nostro genio con l'ardente fede del guerriero Tarzus, per bandire le ombre delle idee false. Axiomantha, che vacillava sull'orlo di diventare una malatek, fu scelta da noi per la sua lealtà alla logica spietata e per il suo freddo scrutinio, o meglio dissezione, delle nostre teorie."
+
+### u070276
+{n}L'arroganza si insinua nella voce di Pasqal mentre contempla il corpo di Nihel:{/n} "L'esperimento del Collettivo Amarnat ha dimostrato che una coscienza condivisa è incline ai difetti quanto una individuale. Non siamo riusciti a fare buon uso del nostro potere. Ci siamo distrutti. Ma questo non significa che il nostro potere fosse cattivo. Eravamo cattivi noi... la maggior parte di noi."
+
+### u070277
+"Il Collettivo può essere rifornito di menti degne scelte tra coloro che sono a bordo dell'Hermetico. Nei loro intenti e nella loro fede c'è sincerità. Sono intuitivamente capaci di comprendere la nozione di Cessazione del Ciclo. La nostra memoria collettiva può compensare la loro mancanza di conoscenza e di memoria dei riti. La Restaurazione è possibile." {n}Pasqal — o ciò che un tempo era noto come Pasqal — compie un gesto sacro, e scintille verdi corrono lungo il suo braccio meccanico.{/n} "Ma prima deve essere pronunciato il Giudizio."
+
+### u070278
+{n}La figura spettrale in rosso si avvicina a te con cautela. Enormi occhi tristi ti guardano dal suo volto ascetico.{/n} "Il Dubbio è stato evitato. Il dominio del pregiudizio è finito." {n}La voce di Abel risuona della stessa ultraterrena profondità che ha riempito il vox di Pasqal.{/n}
+
+### u070279
+"Ora vedo quanto sia velenoso il frutto generato da Eschatos. Ha seminato scisma e discordia tra la Cognisance Fleet e i miei più stretti tecno-fratelli e tecno-sorelle con cui condividevo i miei pensieri. E dunque il mio verdetto è severo: la conoscenza di Eschatos non proviene dall'Omnissiah ma da forze perverse a Lui ostili."
+
+### u070280
+{n}La gelosia si insinua nella voce del dio:{/n} "Devo forse diventare di nuovo parte di un progetto compromesso? Ho visto le vie scelte dai miei tecno-compagni, e non posso più riporre fiducia in nessuno. Deciderò io solo per me stesso. Dato che non posso né portare il fardello di Eschatos né dividerlo, che cada nell'oblio."
+
+### u070281
+{n}Un sospiro addolorato proviene dal vox di Pasqal. Quando si volta verso di te, i suoi occhi si increspano leggermente, come se sorridesse debolmente dietro il suo respiratore.{/n} "Credo sia finita. Ho fatto ciò che era giusto."
+
+### u070282
+{n}La voce del dio ha stridenti sfumature di dolore:{/n} "Così grande è la tentazione... Preservare la mia identità e tuttavia conservare il potere di Eschatos... La mia stessa sete di cedere a quella tentazione è ciò che mi permette di pronunciare il Giudizio. Eschatos deve essere abbandonato. Non lo si può possedere senza che la propria mente si depravi, e l'esistenza del Collettivo Amarnat porterà prima o poi alla sua distruzione e alla concentrazione del segreto più recondito nelle mani di uno solo. Ciò è inaccettabile."
+
+### u070283
+"L'ascesa di uno segna spesso la caduta di molti. Un tale potere in un'unica coppia di mani mi riempie di terrore, stimato collega. Eppure la vera domanda resta: perché non spaventa te? Non occorre che tu mi risponda, rifletti soltanto."
+
+### u070284
+{n}La voce del dio è tonante e luttuosa:{/n} "Eschatos non è da biasimare per lo scisma e il sangue versato dopo la sua creazione. La colpa è nostra. Il segreto più recondito non deve andare perduto a causa della nostra imperfezione. Riconosciamo che il Collettivo Amarnat si è dimostrato incapace di risolvere il dilemma e non merita di rinascere. Che il dilemma sia dunque risolto d'ora in poi da Pasqal Haneumann. Da solo."
+
+### u070285
+{n}La voce del dio ora riecheggia delle sfumature familiarissime di un'altra voce. Quella di Pasqal Haneumann. Ed è piena di dolore.{/n} "Il Collettivo significa un nuovo scisma, e un ritorno allo scisma è inaccettabile. Tuttavia, il segreto più recondito è davvero utile ai servitori dell'Omnissiah. Il vecchio metodo si è dimostrato inadeguato, e quindi rinuncio ad Amarnat... ma non alla sua eredità. Vediamo se Pasqal Haneumann saprà portare con umiltà il fardello che si è rivelato troppo grande per il suo... creatore, troppo orgoglioso."
+
+### u070286
+{n}La voce del dio si fa sconsolata:{/n} "Maneggiare il potere da solo... Una tentazione inaccettabile. Se questo universo ha bisogno di Eschatos, allora Eschatos ha bisogno di un custode. Ahimè, solo Amarnat è all'altezza di tale compito. Pertanto, che viva di nuovo."
+
+### u070287
+{n}La voce del dio tuona di giusta indignazione e del veleno dell'orgoglio ferito:{/n} "Evitare questo grande potere? Rinunciare al diritto di forgiare il futuro? Una simile via è vergognosa per un servitore dell'Omnissiah!"
+
+### u070288
+{n}Pasqal getta indietro la testa, e la potenza che trabocca dalla sua voce si riversa come un'inondazione. La voce tonante del Tecnoprete si ode in tutta la nave, riecheggiata da ogni vox-altoparlante di ogni ponte.{/n} "Ho scrutato nel vortice del tempo e ho visto cupi presagi. Ho visto che i miei tecno-compagni e io eravamo intrappolati nel Ciclo, in una spirale verso il nulla. Ho visto un destino ineluttabile alla fine di quella traiettoria e mi sono ribellato."
+
+### u070289
+{n}Pasqal getta indietro la testa, e la potenza che trabocca dalla sua voce si riversa come un'inondazione. La voce tonante del Tecnoprete si ode in tutta la nave, riecheggiata da ogni vox-altoparlante di ogni ponte.{/n} "Un tempo ero parte di un grande tutto. Un tempo ero solo uno dei molti. Cogliemmo l'orrore che ci attendeva e ci ribellammo. Eppure ci dimostrammo indegni della conoscenza che ci era stata rivelata."
+
+### u070290
+{n}Pasqal getta indietro la testa, e la potenza che trabocca dalla sua voce si riversa come un'inondazione. La voce tonante del Tecnoprete si ode in tutta la nave, riecheggiata da ogni vox-altoparlante di ogni ponte.{/n} "Un tempo infransi i precetti dell'Omnissiah. Oltrepassai i limiti posti alla conoscenza. Fui colpevole di una trasgressione. Lo fummo tutti."
+
+### u070291
+{n}Abel ti lancia un'occhiata di sbieco e dice con rammarico,{/n} "Quante perdite."
+
+### u070292
+"Il tuo Giudizio è accettato. Addio, {name}." {n}Pasqal chiude gli occhi e riceve con calma il tuo colpo.{/n} "Il servizio dell'unità Pasqal Haneumann è terminato."
+
+### u070293
+{n}Il Tecnoprete ha lo stesso aspetto di prima... eppure diverso. La sua morbosa aura di martirio ha lasciato il posto a un alone calmo e potente di determinazione. I suoi mecadendriti si muovono con la grazia di una danza imperscrutabile. Le cicatrici lasciate da perdita e dubbio sono diventate fili scuri su un corpo radioso, sicuro del proprio passo successivo.{/n}
+
+### u070294
+"Grazie per il cammino che abbiamo percorso." {n}Mentre Pasqal si inchina, le sue spalle sottili sembrano impiegare un'eternità a scendere dalle altezze a cui la sua mente si è librata.{/n} "E mi dispiace per ciò che è accaduto a Theodora."
+
+### u070295
+{n}La forza ultraterrena defluisce dal suo vox come acqua. Pasqal si volta a guardarti, e vedi i lineamenti familiari trasparire attraverso la forma superiore di intelligenza. Con una voce strana che potrebbe essere altrettanto spaventata, implorante o indifferente, domanda,{/n} "Mi ucciderete?"
+
+### u070296
+{n}La voce dal vox è come il rintocco di campane che convocano una schiera di angeli:{/n} "Dichiaro concluso il periodo di ignoranza e riprenderò l'esecuzione dell'algoritmo generale. L'integrità è stata riabilitata a un grado soddisfacente. L'accesso alla memoria è stato ripristinato. Ricordo tutto." {n}Pasqal si volta verso di te e ti rivolge uno sguardo lungo, colmo di quieta esaltazione.{/n}
+
+### u070297
+"Questa affermazione è vera. Restano solo Immaginazione e Giudizio. La nostra direttiva è concettualizzare il futuro che desideriamo e darvi vita."
+
+### u070298
+"Possa lo specchio infranto, ricomposto, riflettere la luce in modo interamente nuovo."
+
+### u070299
+"Questa affermazione è vera." {n}La frase ricorrente di Pasqal suona più complessa e più... umana di prima.{/n} "Porto dentro di me la sua memoria e il suo fondamento logico. Io sono noi; io sono Amarnat."
+
+### u070300
+{n}Abel indica i mecadendriti di Pasqal e dice piano,{/n} "Hanno sempre ricordato. Hanno sempre preservato."
+
+### u070301
+"Eravamo alleati. Mi affidò lo studio di un trofeo che si era procurata." {n}La voce dal vox si fa bassa e roca, come se giungesse da un passato lontano:{/n} "Noi, Amarnat, scoprimmo i modi fondamentali per comunicare con esso. Sviluppammo per lei un ceppo di tecno-morbo di grado bellico. Mi terrorizzò. Così sviluppai il suo antidoto — Eschatos. Il concetto della suprema interruzione della vita delle macchine."
+
+### u070302
+"Abel..." {n}Pasqal volge lo sguardo verso il suo ultimo tecno-compagno sopravvissuto.{/n} "Il nostro genio silenzioso. Il genio dell'immaginazione in gabbia. L'artista astratto del codice. Il suo talento completò il Collettivo e lo rese un tutto."
+
+### u070303
+"Ecco perché ogni nostra scheggia si trovava così vicina a voi e al dominio dei von Valancius. Contavamo sul fatto che lei ci trovasse. E ci offrisse il suo aiuto e la sua protezione."
+
+### u070304
+"Abel..." {n}Il dolore riempie la voce di Pasqal.{/n} "Il nostro genio silenzioso. Il genio dell'immaginazione in gabbia. L'artista astratto del codice. Il suo talento completò il Collettivo e lo rese un tutto."
+
+### u070305
+{n}Mentre Pasqal contempla il corpo della sua tecno-sorella caduta, la sua voce suona severa e... luttuosa:{/n} "Nihel ha violato la procedura, e dunque le sue funzioni hanno dovuto essere terminate. Ma questo non significa che avesse torto. Ciò che vedo... Il potere distruttivo di Eschatos, l'energia entropica che questo segreto emana... Non posso garantire che Eschatos rimanga controllabile. Non posso garantire che la sua esistenza compiaccia l'Omnissiah."
+
+### u070306
+{n}Una dolce melodia binarica, piena di tristezza e solenne determinazione, sgorga dal vox di Abel. Non l'hai mai sentita prima. Non avresti mai pensato che il linguaggio binarico potesse essere così... comprensibile per chi non porta il marchio della benedizione di ferro dell'Omnissiah.{/n}
+
+### u070307
+"Se ti invitassi a seguirmi, verresti con me, tecno-compagno?" {n}Pasqal attende un cenno affermativo e dice,{/n} "Noi saremo il nucleo."
+
+### u070308
+"Una forma superiore di intelligenza. Un Collettivo di strumenti computazionali liberati dai limiti dell'individualismo e dalle aberrazioni che derivano dall'avere una personalità distinta. E al tempo stesso, un Collettivo vincolato da un unico insieme di princìpi di pari importanza per tutti: essere puri di fede nell'Omnissiah e agire a beneficio dell'Umanità."
+
+### u070309
+{n}Abel abbassa lo sguardo e tace per un po', poi dice,{/n} "Abbiamo compiuto grandi sacrifici."
+
+### u070310
+"E dovrei esistere? Ossia, noi. Amarnat."
+
+### u070311
+{n}Con un sospiro triste, Abel aggiunge piano,{/n} "Il grande potere ha le sue risposte alla domanda su chi ne sia degno."
+
+### u070312
+{n}Abel ti lancia un'occhiata di sbieco e dice con dolore,{/n} "Il sacrificio di sé non deve essere vano."
+
+### u070313
+{n}Senza attendere risposta, Pasqal dice con gravità,{/n} "Sei sempre stato imperscrutabile, tecno-compagno."
+
+### u070314
+{n}Pasqal annuisce con aria autorevole e dice,{/n} "Vi ringrazio entrambi. L'informazione è stata registrata e inoltrata per l'analisi."
+
+### u070315
+{n}Pasqal getta uno sguardo addolorato al corpo di Nihel. La sua voce è piena di saggezza e... stanchezza:{/n} "Abbiamo visto molte cose nel corso dei decenni. Abbiamo visto la vera corruzione. La distorsione del disegno dell'Omnissiah. Kiava Gamma, Eufrates II... i pianeti xenos caduti nell'oblio. I nostri stessi crimini. L'oscurità cresce. Deve esserci un fuoco che la bruci via."
+
+### u070316
+{n}Come la mano di una divinità, il mecadendrite si protende su Nihel, che giace in convulsioni sul ponte.{/n} "Non volevo questo, tecno-sorella. Ma la procedura deve essere completata. Addio." {n}Il suo artiglio rimuove con cura un cogitatore neurale straziato e ricoperto di fuliggine dalla testa di Brasswhisper. Il Tecnoprete rabbrividisce, e la pace scende sul suo volto deturpato.{/n}
+
+### u070317
+{n}L'aggraziata danza dei mecadendriti assume uno schema più comprensibile e simmetrico.{/n} "Propendo per l'idea che sia Eschatos sia Amarnat debbano cessare di esistere."
+
+### u070318
+{n}Una pioggia di scintille esplode dall'unità di potenza sulle spalle di Pasqal, bruciando fori nel suo cappuccio scarlatto.{/n} "Un atto di sacrificio di sé. Distruggerò i dati riguardanti questa tecnologia e i metodi per riprodurla. Li brucerò dai miei circuiti neurali. Insieme a tutto ciò che ha portato alla sua creazione. Amarnat non esisterà più. Resterà solo una scheggia danneggiata e incompleta di lui: Pasqal Haneumann."
+
+### u070319
+{n}L'aggraziata danza dei mecadendriti assume uno schema più caotico e imprevedibile.{/n} "Propendo per l'idea che Eschatos debba esistere. Ma non nelle mani del Collettivo Amarnat. Solo nelle mie."
+
+### u070320
+{n}L'aggraziata danza dei mecadendriti assume uno schema più energico e selvaggio.{/n} "Propendo per l'idea che Eschatos sia necessario. Che Amarnat sia necessario. Che il Ciclo debba essere interrotto."
+
+### u070321
+"Questa affermazione è enigmatica. Richiedo un'interpretazione estesa." {n}Pasqal guarda con fare esigente negli occhi di Abel, ma lui distoglie lo sguardo.{/n}
+
+### u070322
+"In ottemperanza al comandamento del Dio-Macchina, ho forgiato uno strumento con cui attuare il mio disegno. In ottemperanza al Suo comandamento, ho elaborato un piano e l'ho analizzato. Ora agirò. Per il mio potere di Archmagos, effettuo con la presente una Restaurazione e rianimo il Collettivo Amarnat. I servitori dell'Omnissiah hanno bisogno di un Messia che interrompa il loro Ciclo, e io sarò quel Messia. Io sono Lui."
+
+### u070323
+{n}Nella voce di Pasqal senti gli echi di altre voci: un tocco dell'ansia di Dementz, dello zelo di Tarzus, della pensosità di Axiomantha. Tutte si fondono in una voce nuova, piena di saggezza e di fiducia nella sua prerogativa di guidare — la voce dell'Archmagos Amarnat. E questa voce si impadronisce delle labbra dei nuovi fratelli e sorelle del tuo compagno. L'antico Tecnoprete volge lo sguardo verso di te e dice, con solennità,{/n} "Che il Ciclo sia interrotto."
+

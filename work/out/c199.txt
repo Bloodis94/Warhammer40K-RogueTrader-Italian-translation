@@ -1,0 +1,702 @@
+### u066631
+[Indica il vecchio] "Il sacerdote."
+
+### u066632
+[Indica il giovane] "L'operaio."
+
+### u066633
+"Prima di scegliere, parlami dei meriti di tutti e tre."
+
+### u066634
+"A dire il vero, io e Nuncius avevamo previsto questo esito. Dobbiamo inseguirlo!"
+
+### u066635
+Hai fondato la rettitudine del Triasomata sulla devozione agli ideali dell'Imperium.
+
+### u066636
+"Ha montato la guardia in modo impeccabile fino alla fine. La rettitudine è donare la propria vita al servizio del Trono d'Oro."
+
+### u066637
+Hai fondato la rettitudine del Triasomata sul sacrificio di sé.
+
+### u066638
+"Si è sacrificato per molti. L'altruismo è la più alta espressione della rettitudine."
+
+### u066639
+"Portare la parola dell'Imperatore e accendere il Suo fuoco nel cuore degli altri è la missione più importante dell'Umanità. Lui è retto."
+
+### u066640
+"Nell'ora più buia, la gente trova forza nella fede. Lui è retto non per ciò che ha predicato, ma per chi lo ha fatto."
+
+### u066641
+"Faticare per la gloria dell'Imperatore è il dovere di ogni persona. Non tutti sanno sopportare questo fardello senza lamentarsi. Lui lo ha portato bene, e perciò è retto."
+
+### u066642
+"Avrebbe potuto salvarsi, ma ha scelto di sacrificarsi per il settore. L'altruismo è la più alta espressione della rettitudine."
+
+### u066643
+Hai fondato la rettitudine del Triasomata sull'utilità per la dinastia.
+
+### u066644
+"Solo i forti sono degni di sopravvivere, gli altri sono sacrificabili. Non temeva la morte, quindi è forte.
+
+### u066645
+"Un uomo le cui parole sono ascoltate dalla folla, e che sa far seguire le masse, è più che utile. L'utilità è un ottimo criterio di rettitudine."
+
+### u066646
+"I popolani sono più facili da domare. Sono ottusi, ma sono resistenti e ligi al dovere. L'obbedienza è la tua rettitudine!"
+
+### u066647
+"La mia opinione non è cambiata."
+
+### u066648
+Hai ritenuto che l'unità e il recupero dei mondi perduti siano la più grande missione dell'Umanità.
+
+### u066649
+"L'unità: dobbiamo trovare i mondi perduti nel tempo e aiutarli. Insieme siamo più forti."
+
+### u066650
+[Sbadiglia in modo plateale] "Aspettare che la smettiate di farmi domande?"
+
+### u066651
+[Copri il naso con un fazzoletto] "Che... odori pungenti e carcasse disgustose. Quali atti abominevoli si compiono qui?"
+
+### u066652
+"Nuncius, vuoi gettare un po' di luce su questi esperimenti?"
+
+### u066653
+"Perché questo esperimento è così importante per te?"
+
+### u066654
+Hai ritenuto che la ricerca del piacere sia la più grande missione dell'Umanità.
+
+### u066655
+"La solita: trarre piacere dalla vita soddisfacendo i nostri bisogni più bassi."
+
+### u066656
+"Sono {mf|pronto|pronta} a decidere."
+
+### u066657
+"Organismi? Non sono cose, Eogunn. Stai parlando di persone."
+
+### u066658
+"Triasomata? Che cos'è?"
+
+### u066659
+"Tutto questo parlare di deviazioni dai canoni e di componenti misteriosi somiglia in modo sospetto all'eresia."
+
+### u066660
+"In che cosa dissente Nuncius?"
+
+### u066661
+"Perché non unire semplicemente tutte e tre le menti per farne la base?"
+
+### u066662
+[Interrompi l'esame e torna alla conversazione]
+
+### u066663
+"Eogunn, che genere di esperimento intendi condurre su questi uomini?"
+
+### u066664
+"Grazie, Vigdis. Il Genetor Februs e io partiremo subito."
+
+### u066665
+"Almeno sappiamo con esattezza dove cercare la tua creazione, Eogunn. Maestra del Vox, siamo in viaggio."
+
+### u066666
+Hai ritenuto che lo sterminio dei nemici sia la più grande missione dell'Umanità.
+
+### u066667
+"Sterminare i nemici dell'Umanità. Xenos, mutanti ed eretici devono cadere: solo allora l'Imperium si leverà."
+
+### u066668
+"Qual è il significato pratico del tuo esperimento?"
+
+### u066669
+"Perché tutti e tre i soggetti sono così orribilmente mutilati?"
+
+### u066670
+{n}Il Settore Bionica è stranamente silenzioso. Non c'è quasi nessuno in giro, e la maggior parte dei tavoli operatori è vuota. Solo i servitori addetti alle pulizie si affaccendano, spruzzando soluzioni decontaminanti e diffondendo litanie binariche di purificazione.{/n}
+
+### u066671
+{n}Sui tavoli operatori giacciono diversi corpi, con le mutilazioni esposte all'aria gelida. Le cavità toraciche e addominali si spalancano, svuotate degli organi augmetici, che ora riposano in ampolle, ancora collegati ai corpi da tubi e cavi. A giudicare dalle contrazioni ritmiche, gli organi funzionano ancora. Eogunn si libra accanto ai tavoli, prendendo misurazioni con zelo e infilando {g|Encyclopedia:Mechadendrite}mecadendriti{/g} negli organi estratti o dentro i corpi. Nuncius monta la guardia lì vicino con stoicismo, osservatore impassibile di questo grottesco spettacolo.{/n}
+
+### u066672
+{n}Tre uomini di età diverse giacciono davanti a te: un giovane, uno di mezza età e un vecchio. Guardando bene, si vede che conservano ancora una parvenza di vita. A ciascuno è stata asportata con delicatezza la sommità del cranio, e ora degli elettrodi sono attaccati al tessuto cerebrale color rosato, reticolato di vasi sanguigni. Sotto il collo c'è un'unica, continua ferita aperta, con i bordi divaricati e tenuti fermi da un complesso sistema di morsetti. {/n}
+
+### u066673
+{n}Il tuo {g|Encyclopedia:CommBead}auricolare vox{/g} gracchia, portando la voce ansiosa della Maestra del Vox:{/n} "Lord Capitano, rapporto urgente della Signora Sauerback. Una strana creatura simile a un {g|Encyclopedia:Servitor}servitore{/g} malfunzionante si sta dirigendo verso i ponti inferiori, gridando suppliche che fanno riferimento a voi e al Genetor Februs. Sono stati inviati dei tutori dell'ordine per intercettarla, ma hanno supposto che preferireste valutare la situazione di persona."
+
+### u066674
+{n}La corporatura patologicamente emaciata e gli arti sottili, quasi trasparenti, indicano che si tratta di un nato nel vuoto. Uno sguardo alla gabbia toracica aperta rivela segni di danni: il sacco attorno al cuore è lacerato e i vasi sono stati rinforzati con punti metallici. Il cuore del povero ragazzo è per metà {g|Encyclopedia:AugmentationGlossary}augmetico{/g}: entrambi i ventricoli sono stati sostituiti da pompe, collegate a tubi opachi che arrivano al serbatoio del dispositivo medicae. Sul collo del giovane sono tatuati il suo codice di baia e la sua mansione. Sembra un semplice operaio dei ponti inferiori.{/n}
+
+### u066675
+"Due ragioni. La prima è che in precedenza erano stati feriti in modo letale. Ho eseguito numerosi riti e manipolazioni per far sì che ciascuno potesse evitare un esito fatale. La seconda è che ho condotto le misurazioni necessarie a valutare appieno la compatibilità delle configurazioni di Ferrum Sanctum e dei componenti organici per un risultato sperimentale ottimale. Questo richiede spesso l'estrazione dei suddetti componenti."
+
+### u066676
+"Ci sono validi argomenti a favore di ciascuno di loro." {n}Il {g|Encyclopedia:Genetor}Genetor{/g} solleva un mecadendrite artigliato e comincia a flettere i suoi manipolatori a tempo con le parole.{/n} "Primo, tutti hanno svolto il proprio servizio in modo impeccabile, il che denota qualità umane eccezionali. Secondo, ogni corpo è abbastanza robusto da ricevere la Benedizione dell'Omnissiah. E terzo, per nessuno di loro esiste un'altra possibilità di salvezza."
+
+### u066677
+{n}Eogunn solleva i mecadendriti in trepida attesa.{/n} "Chi formerà la base del Triasomata?"
+
+### u066678
+"Una reazione naturale, del tutto comprensibile. Naturale, ma precipitosa. Lasciate che vi ponga una domanda: qual è la missione primaria dell'Umanità? A cosa aspiriamo?"
+
+### u066679
+"La combinazione di innumerevoli fattori che uniscono i pensieri e le azioni di una persona nella quintessenza del valore del suo essere all'interno della sua specifica società. Mi trovo in difficoltà a fornire una definizione meno vaga, ma non importa. Molto più importante è come definite la rettitudine. Il soggetto che sceglierete determinerà la risposta a tale questione."
+
+### u066680
+{n}Serrando le labbra, il Manipulus grugnisce:{/n} "Per condensare la sua risposta troppo pedante: Nuncius non considera la rettitudine un fattore significativo, in alcun modo, per questa ricerca. Se avessi meno rispetto per il mio carissimo collega, direi che ciò costituisce un grossolano fraintendimento del concetto di Triasomata, e denota un'estrema ristrettezza mentale. Ma simili osservazioni sono al di sotto di me."
+
+### u066681
+{n}Eogunn contempla l'uomo mezzo morto disteso sulla superficie galvanizzata.{/n} "La scelta è fatta, ma vi degnerete di rispondere alla mia domanda: perché lui? Devo conoscere il vostro processo mentale."
+
+### u066682
+{n}Infine Eogunn tocca il giovane nato nel vuoto.{/n} "Mikosh, uno strisciatore dei condotti di ventilazione del Centro di Smistamento 10. Bruciava con dedizione la muffa viscida e i parassiti, ed era il primo a infilarsi nei condotti ostruiti, rischiando la vita per portare aria riciclata nel settore. Era un vero credente e non si lamentava mai della sua sorte. Nella sua ultima missione ha salvato centinaia di operai usando il proprio corpo per tappare una falla in una conduttura di gas combustibile. La tossicità ha provocato un arresto cardiaco e un'intossicazione del sangue."
+
+### u066683
+{n}Eogunn lo fissa stupefatto mentre si allontana. {/n} "Impossibile! I calcoli erano perfettamente calibrati, tutti i fattori presi in considerazione! Il campione era difettoso? Devo trovare subito il Triasomata e determinare che cosa è andato storto!"
+
+### u066684
+{n}È come se dentro Eogunn si fosse spenta una luce. Reprimendo visibilmente un sospiro, si rivolge ai suoi soggetti. {/n} "È frustrante che non abbiate compreso il mio intento, ma forse era davvero discutibile. Accetto il vostro verdetto, Lord Capitano."
+
+### u066685
+{n}Eogunn chiude l'occhio organico, assorto nei suoi pensieri. Infine il suo volto si apre in un sorriso.{/n} "Grazie, {name}. Ecco, questa è la soluzione al nostro dilemma. Darò inizio alla procedura di triasomia. Che la carne organica e il sacro meccanismo siano una cosa sola!"
+
+### u066686
+{n}Con uno scricchiolio appena udibile, il mecadendrite iniettore di Eogunn trafigge il tessuto cerebrale. Il volto dell'uomo si contrae in un'espressione di angoscia, e la sua schiena si inarca in un accesso di spasmi. Aggrottando la fronte, il Genetor eroga un potente impulso di Forza Motrice, e lo sfortunato ricade inerte sul tavolo. I manipolatori del Tecnoprete guizzano tra i tre corpi, separando organi, augmetiche e arti, e trapiantandoli nel nuovo ospite. Scariche di energia balenano attorno alla figura massiccia di Eogunn, facendosi sempre più luminose finché il lampo finale ti lascia temporaneamente {mf|accecato|accecata}. Quando la vista ti ritorna, vedi il Manipulus che libera con cura gli arti del soggetto dalle cinghie.{/n} "Il processo è completo."
+
+### u066687
+{n}La creatura, che un attimo fa somigliava a un grumo umanoide di carne sanguinolenta tempestato di metallo, balza in piedi all'improvviso con un vigore inatteso, scagliando Eogunn all'indietro ed emettendo un ululato di sofferenza incomprensibile. Prima che qualcuno possa reagire, l'uomo amalgama si lancia verso l'ingresso del Settore Bionica, riempiendo i corridoi deserti dei suoi lamenti.{/n}
+
+### u066688
+"Una decisiva! Posso dettagliare la composizione e il rapporto umorale di ciascun soggetto sperimentale, misurare la massa del loro lobo frontale, o rispondere con precisione al picosecondo a quanto spesso si contrae il loro cuore. Ma come si calcola la rettitudine di un uomo? Come si pesa la diligenza nel servizio? Mi aiuterete a rispondere a queste domande scegliendo la base per il Triasomata. Il vostro giudizio sarà il fulcro da cui dipende questo esperimento."
+
+### u066689
+"Comunque vada, dobbiamo portare l'esperimento a termine."
+
+### u066690
+"La sopravvivenza, {name}. Tra miriadi di nemici che cercano di sterminarci, tra stelle crudeli che celano orrori inconoscibili, tra traditori che promettono la morte ai nostri simili. Noi vogliamo sopravvivere. La morte è inevitabile: è un fatto incontrovertibile. Ma sopravvivere abbastanza a lungo perché chi resta possa realizzare ciò che noi non siamo riusciti a fare: questa è un'impresa degna dell'Umanità."
+
+### u066691
+"Questi tre sono condannati. Se mi ordinate di fermare l'esperimento, obbedirò senza discutere e porrò fine alle loro funzioni vitali. Ma allora il loro sacrificio sarà stato vano. Se mi permettete di portarlo a termine, uno di loro sopravvivrà: no, diventerà qualcosa di più grande di quello che era prima."
+
+### u066692
+{n}Ricordando la tua osservazione, Eogunn diffonde una specie di vapore caustico da un alambicco che porta sulla spalla. Il naso ti si intorpidisce per un momento, ma gli odori non ti disturbano più.{/n}
+
+### u066693
+{n}Nuncius accende con obbedienza il {g|Encyclopedia:Lumen}lumen{/g} integrato, illuminando i soggetti sui tavoli. Sembra restio a rivelare le sottigliezze dell'esperimento, cedendo in silenzio a Eogunn il diritto di rispondere.{/n}
+
+### u066694
+"Il nocciolo! Tutti e tre gli organismi sono stati trovati in condizioni critiche. Mi sono chiesto: la loro utilità e capacità produttiva sono davvero giunte al termine? Assurdo. Passare da uno stato di essere a uno stato di non essere non comporta alcun beneficio né significato. Mi sono assicurato di persona che le loro funzioni vitali fossero preservate. Il nostro obiettivo non potrebbe essere più semplice: sconfiggere la morte creando l'uomo retto perfetto, quello che ho battezzato Triasomata."
+
+### u066695
+"Nelle loro condizioni attuali, ciascuno dei soggetti è condannato. Ma come le parti di meccanismi moribondi possono essere ricombinate per creare una macchina funzionante, così questi soggetti possono essere combinati in un'unica entità, garantendo loro una vita prolungata grazie alla corretta configurazione del Ferrum Sanctum e dei componenti organici di tutti e tre. L'unica cosa che mi occorre per proseguire l'esperimento è la soluzione al mio dilemma: quale soggetto dovrà fare da base?" {n}Eogunn volge su di te il suo sguardo ardente.{/n}
+
+### u066696
+{n}Una scintilla furiosa corre lungo i pistoni nella barba del Manipulus. Egli si solleva più in alto, rivolgendo lo sguardo torvo al soffitto del settore.{/n} "Perché non posso tollerare lo spreco insensato di potenziale. Non posso accettare che un incidente sciocco e la fragilità della carne organica possano, in un istante, privare l'Imperium di servitori degni. E se posso prolungare la loro vita di servizio, lo farò. A qualunque costo."
+
+### u066697
+{n}L'appassionato discorso di Eogunn potrebbe essere scambiato per orgoglio e presunzione. Ma dietro c'è qualcos'altro, una tenacia nata da un'esperienza profondamente personale. Quest'uomo porta un pesante fardello, e l'esperimento è solo uno dei suoi molti tentativi di liberarsene una volta per tutte.{/n}
+
+### u066698
+{n}Scendendo di nuovo, Eogunn chiede con calma:{/n} "Altre domande che vi tormentano, Rogue Trader?"
+
+### u066699
+"L'edonismo è un impulso comprensibile. Il desiderio di vivere la vita appieno. Ma alla radice di questo si trova un'altra spinta, più primitiva."
+
+### u066700
+"La coesione porta a un maggior potenziale. Il tutto è più grande delle singole parti. Ma da dove nasce l'impulso a stare uniti? La risposta è semplicissima."
+
+### u066701
+"Lottare, sforzarsi di stare in cima alla catena alimentare. Una risposta comprensibile. Ma alla radice di quell'impulso se ne trova un altro, più primitivo."
+
+### u066702
+"Il mio carissimo collega e io abbiamo tenuto più di un consilium, ma non abbiamo mai raggiunto un consenso. Nuncius è uno scettico, e le nostre posizioni raramente coincidono, ma di solito alla fine troviamo un compromesso. Ma, ahimè, non in questa occasione. L'unica cosa su cui concordiamo è la necessità di un terzo parere. Solo voi potete fornircelo: è un fatto incontrovertibile."
+
+### u066703
+"Tre menti non possono coesistere in un solo corpo. A parte il fatto che nemmeno io sarei in grado di compiere una simile impresa in pratica, in teoria porterebbe di certo alla completa decostruzione di tutte e tre le menti. Alcuni pensatori... meno flessibili potrebbero persino considerarla eresia."
+
+### u066704
+{n}Con la sua muscolatura sviluppata e le ossa robuste, quest'uomo si distingue nettamente dagli altri. Gli manca il braccio sinistro, insieme a parte della spalla. Dal moncone ben rifilato sporgono brandelli dei vasi principali: sono stati chiusi con strani terminali collegati con dei fili a un braccio metallico che giace lì accanto. Sul collo dell'uomo è tatuato l'emblema dei tutori dell'ordine, sormontato dallo stemma dei von Valancius.{/n}
+
+### u066705
+{n}Percepisci un certo assenso nel silenzio di Nuncius.{/n}
+
+### u066706
+"Come giustamente nota il mio carissimo collega, nel corso degli anni abbiamo incontrato molti di questi... punti di contesa."
+
+### u066707
+{n}Un mecadendrite tocca il tavolo con l'uomo di mezza età.{/n} "Il tutore dell'ordine Lorinque. Ha servito con diligenza sulla nave fin dalla nascita. Partecipante a innumerevoli sbarchi di combattimento, dove è stato un modello di valore e fermezza. Era noto sui ponti inferiori per essere duro ma giusto. Il suo ultimo atto di eroismo è stato il salvataggio di una pattuglia di tutori dell'ordine e di diversi operai sul ponte 515-E-2: Lorinque ha coperto con il proprio corpo una granata krak lanciata dalla folla da un ammutinato."
+
+### u066708
+{n}Poi tocca al vecchio.{/n} "Il Predicatore Cleophanes. Assegnato in origine al reliquiario della nave, rifiutò il lusso della cappella in favore di un eterno pellegrinaggio sui ponti dove nessun servitore dell'Ecclesiarchia aveva mai messo piede. Con l'esempio e la parola, incoraggiò e istruì gli emarginati e i dimenticati. Migliaia di anime che altrimenti avrebbero perso la fede e sarebbero cadute nell'eresia, giunsero a conoscere la parola dell'Imperatore. Ma bastò una sola persona per porre fine per sempre alla predicazione di Cleophanes: un pazzo lo aggredì durante un sermone, riuscendo a strappargli l'impianto vocale prima che la folla lo facesse a pezzi."
+
+### u066709
+"Ah, vedo che abbiamo trovato una lacuna nella vostra conoscenza della sintassi scientifica. Un organismo è..."
+
+### u066710
+{n}Eogunn si interrompe e lancia a Nuncius uno sguardo confuso.{/n}
+
+### u066711
+"Chiedo scusa, Rogue Trader. Non sono versato nel contatto con i profani: Nuncius mi supera in tutto quando si tratta di comunicare. Riconosco che questi individui hanno una mente, desideri e bisogni. Non ho tentato di interferire con le loro personalità: al contrario, ammiro ciascuno per i suoi tratti. Uso il termine 'organismo' con il più profondo rispetto per questi uomini e per le loro funzioni vitali."
+
+### u066712
+{n}Il servoteschio resta sospeso in un altezzoso silenzio, rotto solo dai sospiri di esasperazione di Eogunn.{/n}
+
+### u066713
+{n}Le palpebre del vecchio sono chiuse e il suo volto è sereno. Potrebbe sembrare che dorma in pace, se non fosse per il pallore mortale del viso e il collo orrendamente dilaniato. In passato gli era stato applicato un impianto vocale, ma di recente gli era stato strappato dal corpo. Di tanto in tanto, il tubo metallico che ora gli fa da trachea emette un sibilo sottile. Stringe forte qualcosa nella mano destra: è una elaborata serie di grani di preghiera, del tipo usato dai servitori consacrati dell'Ecclesiarchia.{/n}
+
+### u066714
+"L'essenza triplice, l'amalgama delle migliori parti costitutive di tre individui che si sono distinti nel servizio. Dal punto di vista metafisico, consta di tre princìpi: la carne mortale, il Ferrum Sanctum e la rettitudine. Creando la combinazione perfetta, otterremo una totalità di gran lunga superiore ai suoi componenti per qualità e utilità per l'{g|Encyclopedia:ImperiumGlossary}Imperium{/g}."
+
+### u066715
+"Inutile dire che la procedura è altamente sperimentale e richiede una certa larghezza di interpretazione riguardo ai canoni dell'augmentazione, nonché l'integrazione di componenti che attirerebbero la... disapprovazione dell'Imperium. Ma l'Omnissiah ci insegna a superare ogni ostacolo in nome della conoscenza, specialmente quando si persegue un obiettivo di tale portata!"
+
+### u066716
+"Tutt'altro. È un rischio calcolato, corso per un esperimento la cui importanza supera molte volte qualsiasi possibile complicazione. Sovrintendo alla procedura con grande diligenza, quindi non c'è motivo di allarmarsi."
+
+### u066717
+{n}Assorto nel lavoro, Eogunn si ferma un momento ad ascoltare Nuncius, poi lancia un'occhiata ai {g|Encyclopedia:Cogitator}cogitatori{/g} e scuote la testa.{/n} "No, carissimo collega, sarebbe eccessivo."
+
+### u066718
+{n}La massa imponente del {g|Encyclopedia:Manipulus}Manipulus{/g} si volta verso di te, con gli occhi che danzano di eccitazione.{/n} "Rogue Trader! Il vostro arrivo ha scatenato una cascata di impulsi nella corteccia prefrontale del mio cervello. Gioia: ecco la parola che cercavo! Scacciate le vostre preoccupazioni: i soggetti dell'esperimento sono stati preservati grazie a una combinazione di composti alchemici, transazioni locali di Forza Motrice e procedure di augmentazione moderatamente invasive. In altre parole, tutti e tre sono più che vivi." {n}Durante tutto il discorso, i mecadendriti di Eogunn continuano a manipolare i corpi.{/n}
+
+### u066719
+"Quali sono le circostanze? Dove è andato esattamente?"
+
+### u066720
+"E non abbiamo idea del perché sia ricorso a un simile gesto?"
+
+### u066721
+"La ricerca di Eogunn non può essere rimandata. Grazie per la tua vigilanza, Vigdis."
+
+### u066722
+"Non possiamo mollare tutto e correre a Footfall. Me ne occuperò io."
+
+### u066723
+"Lord Capitano, ho un rapporto urgente. Il Genetor Extremis Eogunn Februs ha lasciato la nave ammiraglia dopo aver violato tutti i protocolli di sbarco. Date le circostanze, le sue azioni vanno considerate altamente sospette. Il Maestro d'Armi ha già aperto un'indagine interna in merito."
+
+### u066724
+"Attesto che l'unità designata 'Eogunn Februs' ha commesso una violazione sacrilega dei circuiti difensivi che proteggono la navetta dalle intrusioni. Le prove del suo abominevole atto non sono sfuggite allo {g|Encyclopedia:MachineSpirit}spirito macchina{/g} della nave e sono chiaramente registrate nei log dei sistemi di bordo. In nome del Dio-Macchina, impongo con la presente una tecno-penitenza alla suddetta unità, da eseguirsi al momento della sua cattura."
+
+### u066725
+"Per violazione dei protocolli intendiamo la manomissione grossolana del {g|Encyclopedia:Cogitator}cogitatore{/g} di bordo di una delle navette passeggeri di Vostra Signoria per uso personale non autorizzato. Tuttavia, gli {g|Encyclopedia:Augur}augur{/g} di bordo hanno continuato per un certo tempo a captare il segnale del faro di navigazione della navetta. I dati più recenti indicano che ha attraccato a una delle navi mercantili dirette a {g|Encyclopedia:FootfallGlossary}Footfall{/g}, dopodiché la trasmissione è cessata."
+
+### u066726
+"Date le tendenze eretiche dell'"illustre Genetor", non trovo nulla di sorprendente in una simile bravata. Le mie raccomandazioni: condurre una perquisizione accurata del laboratorio e degli alloggi privati del fuggitivo, e fare rotta su Footfall. È probabile che la nave possa essere intercettata se il suo {g|Encyclopedia:NavigatorGlossary}Navigatore{/g} percorre rotte lunghe attraverso il {g|Encyclopedia:WarpGlossary}warp{/g}."
+
+### u066727
+{n}La risposta della Maestra del Vox è preceduta da una netta pausa.{/n} "Temo di no, Lord Capitano. I tutori dell'ordine, sotto la direzione del Maestro d'Armi, hanno interrogato chiunque fosse legato al Genetor Februs nell'ultima settimana. Non è stato possibile ottenere informazioni utili, a parte la menzione del suo stato emotivo altamente instabile. È stato dato l'ordine di forzare l'accesso al suo servoteschio personale per ispezionarlo, ma si è scoperto che l'illustre Genetor aveva portato l'unità con sé."
+
+### u066728
+"Ricevuto. Che il Dio-Imperatore vi protegga, Lord Capitano."
+
+### u066729
+"Sei pronto?"
+
+### u066730
+"Bene, procediamo. Dichiaro che siamo pronti per l'atterraggio."
+
+### u066731
+"Non è il momento di essere frettolosi. Meglio essere preparati all'ignoto che ci attende laggiù."
+
+### u066732
+"Ricordami un'altra volta, che cosa stiamo cercando esattamente?"
+
+### u066733
+{n}Il disco del pianeta è avvolto in una foschia traslucida di atmosfera. La sua superficie ghiacciata brilla e scintilla alla luce delle stelle come un enorme diamante dalle mille sfaccettature.{/n}
+
+### u066734
+{n}Eogunn dice con voce spenta:{/n} "È giunto il momento?"
+
+### u066735
+"Sono pronto...?" {n}Per qualche secondo il collegamento vox sembra interrompersi, poi Eogunn risponde.{/n} "No. È impossibile prepararsi a questo: è la crudele scienza che ho dovuto imparare, Vostra Signoria. Ma dove è cominciato, là deve finire: non c'è scampo dal destino, si può solo affrontarlo di petto e accettare l'inevitabile. Devo vedere l'opera delle mie mani e porvi fine. Fate strada."
+
+### u066736
+"Che la saggezza dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g} sia con noi." {n}Con un sospiro stranamente sommesso, Eogunn conclude la sessione vox.{/n}
+
+### u066737
+"Un vero mondo di ghiaccio, Aett-Vater." {n}La voce ringhiante di Ulfar irrompe senza complimenti sul vox.{/n} "Vederlo mi ricorda quanto sia glorioso tornare a casa dopo una lunga assenza e dividere un calice di buon mjod con i miei fratelli. Per chi non è stato temprato dai venti di Fenris, solo un equipaggiamento scelto con abilità lo salverà in mezzo a un freddo simile. Senza, il sangue ti si gelerà nelle vene prima che tu possa dire una parola."
+
+### u066738
+"Suppongo che abbiate ragione. Predisporrò tutto il necessario in fatto di equipaggiamento e navette adatti alle condizioni estreme del clima locale e attenderò il vostro ordine per toccare il suolo." {n}Il tono di Eogunn è di nudo sollievo.{/n}
+
+### u066739
+{n}La voce lieve e stranamente incrinata di Eogunn arriva sul canale vox.{/n} "Questo è il luogo. Qui ho fatto ciò che rimpiango a ogni istante degli ultimi cinquant'anni della mia esistenza. Vi prego, Vostra Signoria, finiamo questa faccenda il più in fretta possibile: temo che la determinazione della mia anima non sia grande quanto la vostra."
+
+### u066740
+"Il mio laboratorio. Be', ex laboratorio, per la precisione. Secondo le coordinate, si trova sul lato oscuro del pianeta, nel quinto segmento dell'emisfero settentrionale." {n}Ogni parola pronunciata dal Manipulus è scandita con tale precisione da risultare priva di vita. Il suo modo di parlare, di solito ricco di sfumature, sembra svuotato di ogni colore.{/n} "Vi raccomando di portare con voi {g|Encyclopedia:Lumen}lumen{/g} sufficientemente potenti, Vostra Signoria. Temo che il livello di insolazione in superficie difficilmente vi soddisferà."
+
+### u066741
+[Attacca] "Ti annienterò, vile verme!"
+
+### u066742
+"I tuoi patetici tentativi di mascherare un'imboscata non mi ingannano, xenos."
+
+### u066743
+"Conosco abbastanza queste creature da capire il loro linguaggio. Il servitore non serve."
+
+### u066744
+"Mi sto stancando di questa conversazione."
+
+### u066745
+"Mi annoi. Puoi restare qui."
+
+### u066746
+"Eogunn, fanne ciò che vuoi."
+
+### u066747
+"Ti toglierò la vista e la lingua, così le tue false parole non faranno più danni."
+
+### u066748
+"Che cosa hai fatto a Nuncius e come possiamo invertirlo?"
+
+### u066749
+"Risvegliati... i dormienti? I Necron?"
+
+### u066750
+"Strumento? Proprio l'artefatto che ha causato tutto questo?"
+
+### u066751
+{n}Persino tra le pinze, le lame e le spirali di Forza Motrice e le altre attrezzature tecniche, la creatura racchiusa nella macchina appare aliena. Tutto ciò che resta del suo corpo è uno scheletro grigio-nerastro sormontato da una testa a forma di teschio. Mentre ti avvicini, una scintilla di intelligenza malvagia e curiosa si desta nell'unico occhio dell'alieno, che brilla di una luce verde opaca.{/n}
+
+### u066752
+{n}Quello che sembrava soltanto un ammasso di pezzi accanto al prigioniero si agita all'improvviso. Il servitore Elucidator, sopravvissuto per miracolo in mezzo al ghiaccio perenne, comincia con uno stridio a tradurre in Basso Gotico i suoni ultraterreni:{/n} "Ora tre volte tanti... umili sono venuti... come prima."
+
+### u066753
+"Che cosa notevole che questa creatura innaturale resista mentre altri più degni ne sono caduti vittima." {n}Eogunn si libra verso il {g|Encyclopedia:Servitor}servitore{/g} e aziona alcuni interruttori d'ottone nel suo cranio.{/n} "Spero che il cogitatore dell'Elucidator integrato sia ancora funzionante."
+
+### u066754
+"Un primitivo cognitivamente dotato. Ma questo non ti salverà. Con le tue stesse mani hai risvegliato i guerrieri immobili attivando la tua rozza fonte di energia." {n}Alte figure scheletriche di xenos emergono dalla penombra circostante, con le armi strette in pugno.{/n}
+
+### u066755
+"L'ingenuità degli umili... è sconfinata. Aveva fame... di conoscenza. Ha... rubato il mio strumento. Ha... distrutto l'altro... e risvegliato i dormienti." {n}La maschera metallica dello xenos non si muove, ma il gioco delle ombre su di essa dà l'illusione di un cipiglio solenne.{/n}
+
+### u066756
+{n}Lo xenos volge la testa verso di te con uno stridore metallico.{/n} "Sento che la creazione umile dell'antico nemico ha compreso un granello del grande. Lo zelo di una mente limitata è notevole, per quanto vano, e capace per ora di offrire svago."
+
+### u066757
+{n}Idira trasalisce e si guarda attorno nervosa.{/n} "Sussurri, silenzio... io sento, sì, pericolo, sì..." {n}Ti lancia un'occhiata di avvertimento.{/n}
+
+### u066758
+"Il nome si è dissolto negli eoni del tempo, umile. Un tempo ero colui che conquistò il firmamento, un Geomante di una grande dinastia." {n}I moncherini degli arti superiori del Necron si contraggono impotenti, come se tentasse di fare un qualche gesto.{/n}
+
+### u066759
+{n}La voce stridula del servitore si sovrappone quasi alle parole vibranti dello xenos.{/n} "Il nome... si è... dissolto... nel tempo... umile. Un tempo ero... colui... che conquistò... il firmamento... Mi chiamavano... Geomante."
+
+### u066760
+"Il ghiaccio... avanzava sul mausoleo... la natura... ha... vinto... secoli... sono passati... i predoni... mi hanno... trovato." {n}La traduzione del servitore Elucidator è punteggiata da pause brusche. Lo spirito macchina sembra interpretare con estrema difficoltà i clangori e gli ululati che fungono da linguaggio per lo xenos.{/n}
+
+### u066761
+"Il mio collega e io abbiamo scoperto questo esemplare in uno stato di crioestasi naturale. La sua capacità di funzionare nonostante lo stato danneggiato ha catturato la mia immaginazione. Rinunciare all'occasione di studiarlo era quasi impensabile. Da allora è rinchiuso in un contenitore destinato a... dissezioni sorvegliate."
+
+### u066762
+"Il ghiaccio avanzava sul mausoleo, stritolandone il guscio senza tregua, e i protocolli di rianimazione mi hanno invocato, risvegliandomi. Natura e idea si sono scontrate, e la natura ha prevalso, schiacciando sia il mausoleo sia il fedele che aveva tentato di domarla. Da allora sono trascorsi secoli, e i predoni mi hanno trovato annegato nelle loro acque."
+
+### u066763
+{n}Lo xenos emette un clic derisorio che si trasforma in un clangore.{/n} "Patetico... inutile... nullità."
+
+### u066764
+{n}La creatura emette una serie di clangori staccati simili a una risata.{/n} "Mi stupisco dei limiti del tuo ragionamento, ammesso che chi è catturato e ridotto alla disfunzione ne sia capace. Solo il primitivo affamato di conoscenza che ti sta accanto è colpevole di..." {n}Il Necron si interrompe, come per scegliere le parole.{/n} "Aver estinto le funzioni vitali dell'intelletto che lo completava. È irreversibile."
+
+### u066765
+{n}Scintille guizzano attorno a Eogunn.{/n} "Forse è stato il mio orgoglio a decidere l'esito, ma sei tu la fonte di questo male, vile xenos. Tu, e tutta la tua specie. E condividerai la colpa con me, che tu lo voglia o no."
+
+### u066766
+"L'ingenuità delle coscienze inferiori è insondabile, e la credulità sconfinata. O forse la memoria del primitivo è danneggiata, e non ricorda come, affamato di conoscenza, cercò di strapparla alla mia carne immortale? Come rubò il mio strumento senza comprenderne l'essenza? Come distrusse l'altro, il cui valore ora rimpiange, e risvegliò i dormienti perché potessero governare il pianeta senza ostacoli?"
+
+### u066767
+"La mia più grande colpa è non averti distrutto subito, miserabile. Non esiste segreto abbastanza prezioso da giustificare la tua esistenza. Ne sono certo, ora."
+
+### u066768
+{n}Lo xenos annuisce lentamente.{/n} "Quanto è stata appagante la vendetta che hanno scatenato sugli altri umili dopo la vergognosa fuga del predone."
+
+### u066769
+"Taci! Sei tu il responsabile di ciò che è accaduto! Il tuo richiamo li ha fatti uscire dalla stasi!" {n}In un impeto di emozione, il Tecnoprete dimentica sé stesso, strappandosi il berretto nero dal capo augmetico. Il volto di Eogunn è deformato quasi fino a diventare irriconoscibile in una smorfia di angoscia mentale.{/n}
+
+### u066770
+"Una menzogna che si moltiplica all'infinito. Oh, se solo potessi rifiutare la mia deficienza e invocare i protocolli di rianimazione, ma..." {n}Il Necron getta indietro la testa con evidente disprezzo, fissando con aria compiaciuta il Manipulus.{/n} "La logica difettosa dei predoni è bastata a garantire che mi privassero di quella possibilità."
+
+### u066771
+{n}C'è del vero nelle parole dello xenos, abilmente celato dietro un eufemismo. Se il laboratorio è diventato un luogo di nidificazione per xenos, la loro assenza non è casuale. Pare che qui tu non sia {mf|solo|sola}.{/n}
+
+### u066772
+{n}La risata dello xenos rimbomba sulle pareti, somigliando al tempo stesso a un latrato gutturale animale e al sibilo del plasma che si raffredda. Trova la tua confusione estremamente divertente.{/n}
+
+### u066773
+"Uno più potente di quanto la tua limitata immaginazione possa abbracciare. Devastatore di pianeti, non rivelò la sua potenza ai primitivi che cercavano di comprenderlo, ma concesse solo sofferenza infinita a uno di loro. La fine naturale di un intelletto umile."
+
+### u066774
+"Un'altra falsa affermazione. Credo che la ragione sia che l'esemplare ha originariamente riconfigurato lo strumento in quel modo per proteggersi dall'esposizione non autorizzata. Sarebbe... ragionevole dal punto di vista di una mente razionale?" {n}Il Manipulus si sforza di reprimere il tremito traditore nella voce.{/n}
+
+### u066775
+{n}Gli ululati furiosi dello {g|Encyclopedia:XenosGlossary}xenos{/g} incatenato si fondono con i suoni dell'{g|Encyclopedia:Elucidator}Elucidator{/g} sovraccarico in un'unica cacofonia.{/n} "Maledetti... marmocchi... dell'entropia universale... umili creature del nemico... sconfitto!" {n}Il Necron tenta invano di liberarsi dalla sua prigione.{/n}
+
+### u066776
+"Metterò fine a te e alle tue false parole una volta per tutte." {n}Il Manipulus ti rivolge un cenno di gratitudine e si china sulla console della macchina di contenimento, facendoti segno di farti indietro. Pochi minuti dopo, getti di plasma sfrigolante erompono dal cuore della macchina, senza lasciare del prigioniero altro che una pozza di metallo ribollente.{/n}
+
+### u066777
+{n}Lo xenos vomita diverse maledizioni intraducibili che degenerano in uno stridore stridulo e ticchettante, mentre il cutter al plasma lascia solo buchi fusi al posto degli occhi e della bocca.{/n}
+
+### u066778
+{n}Il discorso del Necron è simile a un clangore metallico, inframmezzato da note stranamente dissonanti.{/n} "Ancora una volta, la valle dell'ignoranza è piena di chi si aggira nelle sue tenebre, ma ora sono venuti tre volte tanti umili come prima."
+
+### u066779
+"Una mente difettosa non è capace nemmeno di riconoscere una trappola. Con le tue stesse mani hai risvegliato i guerrieri immobili attivando la tua rozza fonte di energia. Invoco il protocollo di annientamento!" {n}Diverse figure alte e contorte appaiono dalla penombra, circondandoti in un batter d'occhio.{/n}
+
+### u066780
+{n}Lo xenos annuisce lentamente, dilatando le parole del suo strano linguaggio. Lo stridore del servitore Elucidator le riecheggia:{/n} "Quanto... appagante... la vendetta... dopo la fuga del... predone."
+
+### u066781
+{n}Il Necron getta indietro la testa con evidente disprezzo. Nella sua voce c'è un sibilo insinuante, come quello di una vipera velenosa. {/n} "Se... solo... potessi. I predoni... ebbero l'accortezza di... privarmi di quella possibilità."
+
+### u066782
+"Più di... immaginazione... abbracciare" {n}L'Elucidator emette diversi bip binarici, non riuscendo a gestire la costruzione complessa della frase.{/n} "Non rivelò... la sua potenza ai primitivi... solo sofferenza infinita per uno. La fine di... di un intelletto umile."
+
+### u066783
+"Limiti del... tuo ragionamento... umile." {n}Lo xenos emette una risata metallica, fermandosi solo per valutare la tua reazione.{/n} "Solo quello accanto a te... è colpevole... dell'estinzione dell'intelletto che lo completava... Irreversibilmente."
+
+### u066784
+"Hai idea di che cosa stia facendo esattamente là?"
+
+### u066785
+"Vado subito."
+
+### u066786
+"Ti do il permesso di occuparti di lui da solo, ma non disturbarmi più su questa faccenda."
+
+### u066787
+"Vostra Signoria, l'illustre {g|Encyclopedia:Genetor}Genetor{/g} Ferrenz richiede un'udienza vox. Riguarda il Manipulus Februs e gli esperimenti che sta conducendo nel Settore Bionica."
+
+### u066788
+{n}Il Genetor parla in fretta, con le parole che si fondono quasi in un ronzio indistinto.{/n} "Lord Capitano, le operazioni nel Settore Bionica sono praticamente ferme. Il Genetor Extremis Eogunn Februs sta sperimentando in modo unilaterale con il trono di impianto, attingendo Forza Motrice dai circuiti del compartimento e ostacolando così la corretta amministrazione del rito di augmentazione."
+
+### u066789
+"Analisi..." {n}Ferrenz si ferma un attimo.{/n} "Dati insufficienti. Rilevato un alto afflusso di Forza Motrice al trono di impianto del Settore Bionica. Registrate violazioni del Catechismo di Manutenzione e Operazione, insieme a un accesso limitato per gli altri Tecnopreti. Tuttavia, il rango della forma di vita designata 'Eogunn Februs' è troppo elevato per essere ostacolato senza l'intervento della forma di vita designata 'Lord Capitano'."
+
+### u066790
+"Attesto: secondo i log dei sistemi del Settore Bionica, il Genetor Eogunn Februs sta compiendo un uso non autorizzato del trono di impianto, contrario al suo scopo designato. Sanzioni raccomandate: imposizione di una tecno-penitenza abbinata a una riduzione temporanea di rango."
+
+### u066791
+"Vi aspetteremo, Lord Capitano. Che l'Omnissiah vi benedica."
+
+### u066792
+"In realtà sta giocando con la morte, Vostra Signoria. Continua a cercare di afferrarla, ma quella gli sfugge, gli vola sopra la spalla, e non lo lascerà mai del tutto. Pensavo di essere matto io, ma no, quella latta deve avere problemi più grossi dei miei, se non riesce a decidere se vivere o morire."
+
+### u066793
+"Che cosa gli hai sussurrato?"
+
+### u066794
+"Questo cubo è l'artefatto?"
+
+### u066795
+"È ora di porre fine all'esperimento, Eogunn. Che cosa farai?"
+
+### u066796
+"Allora non indugiare. Fa' ciò che devi."
+
+### u066797
+"In realtà... Fa' come vuoi."
+
+### u066798
+"Non hai molto tempo. Di' ciò che devi dire."
+
+### u066799
+"Aspetta. Non sei costretto a farlo. Puoi fare una scelta diversa."
+
+### u066800
+"Che cosa hai fatto?"
+
+### u066801
+Hai aiutato Nuncius a vedere la luce del Dio-Imperatore prima di morire.
+
+### u066802
+[Fai il segno dell'Aquila e recita una preghiera] "Scaccia la paura e il dolore. Eclissali con la Sua luce e lascia che bruci ogni corruzione fino a ridurla in polvere."
+
+### u066803
+"Ti vedo, figlio dell'Imperium. Possa essere concessa a te la Misericordia dell'Imperatore."
+
+### u066804
+"Eogunn. Il suo impianto si è fuso, porti dentro di te solo i suoi resti. Nuncius è morto."
+
+### u066805
+"Nuncius è un servitore dell'Imperatore. Il suo servizio è finito: concedigli la Misericordia dell'Imperatore e rendilo immortale in un servoteschio."
+
+### u066806
+"Devi dire addio a Nuncius e lasciarlo andare. Stai semplicemente con lui. Devi farlo per lui e per te stesso, non per nessun altro."
+
+### u066807
+"Lavori a questo da cinquant'anni e vuoi arrenderti ora? Sei o non sei un grande Genetor? Salvalo!"
+
+### u066808
+"Lascialo qui."
+
+### u066809
+"Portalo alla nave e ricavane un'arma."
+
+### u066810
+"Hai fatto la cosa giusta. È un fatto incontrovertibile."
+
+### u066811
+[Sorridi] "Ho sentito parlare molto di te. Eogunn non fa che parlare di te."
+
+### u066812
+"Che cosa farai con l'artefatto?"
+
+### u066813
+"Il melodramma è finito? Possiamo andarcene ora?"
+
+### u066814
+"Quanto ancora?"
+
+### u066815
+[Estrai l'arma] "È stato un errore. Porrò fine alle sue sofferenze."
+
+### u066816
+"E lo hai lasciato così? È mostruoso."
+
+### u066817
+"Salve, Nuncius."
+
+### u066818
+"Eogunn, è ora."
+
+### u066819
+"Eogunn, lui non vuole questo."
+
+### u066820
+"Perché le mutazioni continuano anche in stasi?"
+
+### u066821
+{n}All'interno del campo di stasi del sarcofago è avvolto qualcosa che si farebbe fatica a identificare come un essere umano. Il corpo è bloccato in posizione fetale, la bocca aperta in un'agonia muta, e solo le lacrime che scorrono dagli occhi, simili a quelle di una qualche statua sacra piangente, rivelano che la persona è viva. Ondate spietate di trasmutazione rimodellano lentamente e inesorabilmente il corpo: le dita augmetiche sono ricoperte di vene, vasi e ossa, e il sangue che ne gocciola si trasforma in mica. Tutto in un silenzio sepolcrale, rotto solo dal respiro dell'apparato del sacello di stasi. Un funerale che si trascina da mezzo secolo, al quale non assiste nessuno. Fino a oggi.{/n}
+
+### u066822
+{n}Eogunn sfiora con delicatezza il sacello con la punta delle dita, come se temesse che la macchina e il suo contenuto possano sbriciolarsi in polvere.{/n} "Ci rivediamo, carissimo collega. Darei qualunque cosa perché tu mi guardassi ora, con gli occhi colmi di rimprovero, risentimento, perfino odio. Ma in essi non vedo altro che dolore e nostalgia. È nostalgia della vita o dell'oblio? Non lo so. Ho smesso di capire me stesso da molto tempo: follia e senso di colpa sono sconcertanti, confondono il cervello. Ci ho fatto l'abitudine. Ma di aver smesso di capire te... non potrò mai perdonarmelo."
+
+### u066823
+{n}Con le ultime vestigia di forza, Nuncius stringe una mano straziata su quella di Eogunn e annuisce.{/n}
+
+### u066824
+"Non molto."
+
+### u066825
+"Salverò Nuncius. Cinquant'anni di ricerche, calcoli ed esperimenti non possono essere stati vani: ho viaggiato troppo lontano per arrendermi proprio alla fine. È un debito che devo al mio collega. No, all'umanità. Se domino la morte qui e ora, aprirò la strada a una nuova era nell'{g|Encyclopedia:ImperiumGlossary}Imperium{/g}. {d|Encyclopedia:Ch4_EogunnFinalMadness}I metodi non contano{/d}. Qualcuno ricorda le centinaia di tentativi falliti e i sacrifici compiuti nella ricerca della soluzione a un problema, se quella soluzione si rivela l'unica corretta?" {n}chiede Eogunn con veemenza, senza guardare Nuncius.{/n}
+
+### u066826
+"La xenotecnologia ha legato Nuncius e me, e ci ha anche condannati. Credendo che fosse possibile dominare la tecnologia degli {g|Encyclopedia:XenosGlossary}xenos{/g} e usarla a fin di bene, ho permesso alla corruzione di entrare in me e l'ho coltivata per anni finché non ha raccolto il suo frutto. Tutto questo luogo, insieme allo xenos e al suo maledetto artefatto, avrebbe dovuto essere {d|Encyclopedia:Ch4_EogunnFinalService}raso al suolo{/d} non appena abbiamo messo piede su questo mondo. Non è stato lo xenos a uccidere Nuncius, né il trasmutatore, e nemmeno l'avidità dell'{g|Encyclopedia:InquisitionGlossary}Inquisizione{/g}. Sono stato io. Ogni scelta, ogni decisione che ho preso ha formato, alla fine, un'equazione con una sola risposta possibile: la morte di Nuncius. Che cosa resta di lui? Un guscio straziato che non ha conosciuto altro che tormento in questi ultimi cinquant'anni."
+
+### u066827
+"Mi sono abituato a recitare la parte del mentore, e questa abitudine mi ha reso un crudele disservizio: se solo avessi smesso di parlare e ascoltato, avrei potuto imparare moltissimo. Da te ho imparato {d|Encyclopedia:Ch4_EogunnFinalAcceptance}accettazione e misericordia{/d}. Sopravvivere non equivale a vivere. Ho sostenuto che la morte non ha significato: continua a non averne, è insondabile e spietata. Tuttavia lo stesso vale per la vita: il significato è qualcosa che le diamo noi, sia esso il servizio all'{g|Encyclopedia:ImperiumGlossary}Imperium{/g}, la Ricerca della Conoscenza, o la creazione di legami più forti del sangue. Io ho fatto del mio significato l'autodistruzione attraverso il senso di colpa e la falsa speranza."
+
+### u066828
+{n}L'angolo delle labbra dove resta della carne si sforza di sollevarsi in un sorriso riconoscente. Faticando a spingere fuori ogni parola, Nuncius rantola:{/n} "Sono contento... che non fosse... solo..."
+
+### u066829
+"Sì, è passato da un pezzo il momento."
+
+### u066830
+{n}Eogunn inspira a fondo, poi inserisce una catena di comandi nel cogitatore del sacello di stasi. Il campo vacilla e si spegne, poi il silenzio è infranto dalle urla disumane di Nuncius. Il {g|Encyclopedia:Mechadendrite}mecadendrite{/g} di Eogunn si tuffa nel cubo nero e lo strappa dalle mani del collega. Prima che le mutazioni possano diffondersi nel suo tentacolo, Eogunn ne recide l'estremità con un cutter al plasma e lo scaglia insieme al cubo nel contenitore dove un tempo era custodito l'artefatto. I mecadendriti rimanenti iniettano a Nuncius degli stimolanti. Il Tecnoprete smette di dimenarsi, ma è chiaro che gli resta poco tempo.{/n}
+
+### u066831
+"Pensavo che le nostre opinioni sulla situazione fossero simili. Che cosa proponi?"
+
+### u066832
+{n}Eogunn emette una risata rimbombante, come se tu avessi detto una menzogna ridicola.{/n} "Assurdo, {name}! Come può essere morto se lo vedo davanti a me, se lo sento dentro di me? Sì, Nuncius, è proprio quello che ho detto a {mf|lui|lei}: sei vivo, siamo vivi entrambi! Questo è un fatto incontrovertibile."
+
+### u066833
+{n}Il servoteschio tace cupo. Le sue orbite sono vuote come una tomba profanata.{/n}
+
+### u066834
+{n}Eogunn aggrotta la fronte, chiude l'occhio organico e resta per un po' assorto in profondi pensieri.{/n} "Ho... rivalutato la situazione. Sono tormentato dai dubbi, e non sono del tutto sicuro di fare la cosa giusta. Ma mi fiderò di voi. Questa è la mia decisione finale."
+
+### u066835
+{n}Eogunn scuote la testa.{/n} "Con tutto il rispetto, Rogue Trader, questa non è una vostra scelta. Nuncius è una mia responsabilità, e deciderò io stesso che cosa farne. Non negatemelo. E ora devo iniziare."
+
+### u066836
+{n}Nuncius si sforza di dire qualcosa, ma Eogunn non gliene dà la possibilità. I mecadendriti affondano nella sua carne, estraendo e sostituendo gli organi uno a uno: Eogunn si strappa qualcosa direttamente dal proprio corpo, sostituendolo in fretta con impianti o strani oggetti di apparente origine xenos. Uno dei mecadendriti emette in continuazione Forza Motrice, puntandola su organi e augmetiche, costringendoli a funzionare contro ogni probabilità. Eogunn non emette un suono per tutta la durata dell'operazione.{/n}
+
+### u066837
+{n}Nuncius afferra la mano del Tecnoprete con immenso sforzo.{/n} "Eo... gunn... Lasciami... andare... e basta..."
+
+### u066838
+"Eo...gunn... Devi... Ti prego..."
+
+### u066839
+{n}Eogunn chiude gli occhi a Nuncius. Fissa il corpo in silenzio per un po', poi richiama il {g|Encyclopedia:ServoSkulls}servoteschio{/g} e impartisce un comando in binarico. L'orbita del servoteschio si spegne e i suoi manipolatori si bloccano, e il Tecnoprete lo depone ai piedi del sacello.{/n} "Ora l'ho lasciato andare per sempre. {name}, grazie per questa opportunità. E grazie per essere {mf|stato|stata} qui con me."
+
+### u066840
+"Come desiderate. Andiamocene, Rogue Trader. Non abbiamo più nulla da cercare nel regno dei morti. Le azioni dei vivi ci attendono."
+
+### u066841
+"Creerò un Triasomata di me stesso, di Nuncius e della xenotecnologia. Il tentativo precedente è fallito, ma da allora ho compreso le vere ragioni: la sola tecnologia imperiale non basta a contenere questa corruzione. Devo ricorrere alla conoscenza proibita. Qui ci sono ancora campioni dei nostri ritrovamenti Necron. Mi permetteranno di eseguire il trasferimento perfetto."
+
+### u066842
+"Il mio battito cardiaco è più alto del solito, e la mia mente è sommersa dal dolore. Ma provo anche... sollievo. Può sembrare strano o cinico, ma ora che l'ho lasciato andare, sento di poter continuare a vivere. Ma non oserò mai più dimenticare Nuncius: è un dolore che porterò dentro di me fino alla fine, e sarò... lieto di averlo con me."
+
+### u066843
+"Allora comincia."
+
+### u066844
+{n}Eogunn sorride.{/n} "Questa affermazione è vera, collega."
+
+### u066845
+{n}Eogunn esamina il moncone del suo mecadendrite.{/n} "È pericoloso. Il rischio che una situazione simile si ripeta è alto. Suggerisco di seppellirlo qui. Ma se decidete altrimenti, credo di poterne studiare le proprietà e sviluppare un'arma basata su di esso. Mi fiderò della vostra decisione."
+
+### u066846
+{n}Eogunn prende con dolcezza la mano di Nuncius nella propria. Si china più vicino e sussurra qualcosa, poi si ritrae:{/n} "È ora. Non hai sempre avuto ragione, e nemmeno io, ma non hai mai sbagliato sulle cose che contano davvero. Perdonami, e addio, carissimo collega."
+
+### u066847
+{n}Con le ultime briciole di forza, Nuncius stringe in modo appena percettibile la mano di Eogunn, prima di lasciar cadere il braccio sul metallo freddo del sacello. Un ultimo tentativo di sorriso rimane congelato sulle sue labbra.{/n}
+
+### u066848
+"Sì, Rogue Trader. Resta solo la questione dell'artefatto."
+
+### u066849
+{n}Eogunn posa una mano sul petto di Nuncius.{/n} "Zitto, vecchio amico. Sono tornato per porre fine alla tua agonia. Morirai per mano mia, non per la lordura dello xenos. A farne da testimone c'è {name}, che ci ha riuniti."
+
+### u066850
+{n}Forse è solo un luccichio o un riflesso di uno dei dispositivi, ma per un istante un fascio di luce sembra illuminare il volto di Nuncius. Le sue pupille si dilatano, e la sua mano si solleva, come se cercasse di toccare qualcosa. Il suo respiro si fa più chiaro e regolare. In un sussurro appena udibile, dice:{/n} "Omnissiah... finalmente... comprendo..."
+
+### u066851
+"Genetor Extremis Nuncius, per la Misericordia dell'Imperatore, pongo fine ai tuoi algoritmi e ai tuoi processi cognitivi. In virtù del diritto che mi è conferito dal rango di {g|Encyclopedia:Magos}Magos{/g}, davanti allo sguardo onniveggente del Dio-Macchina onnipensante, ti proclamo martire degno di essere santificato come {g|Encyclopedia:ServoSkulls}servoteschio{/g}. La tua Ricerca della Conoscenza è giunta al termine, ma il tuo servizio non è finito." {n}Posando entrambe le mani sul petto di Nuncius, Eogunn chiede con dolcezza:{/n} "Sei pronto, carissimo collega?"
+
+### u066852
+{n}Le bobine galvaniche di Eogunn crepitano, e una potente scarica passa dalle sue mani direttamente nel petto di Nuncius in un lampo azzurro. L'intero corpo di Nuncius sussulta, poi resta immobile per sempre. Staccando con delicatezza dalla propria la mano del morto, Eogunn lo fissa per un po'. Infine, con un deciso colpo del mecadendrite, gli recide la testa e la prende con sé. Poi prende il servoteschio che gli fluttuava alla spalla e lo posa ai piedi del sacello di stasi.{/n} "Ho fatto ciò che dovevo fare. Ora sono pronto a percorrere io stesso il sentiero dell'espiazione. Mi scomunico dalla setta xenarita e mi dedico alla Ricerca della Conoscenza come è stata stabilita nei Suoi patti. {name}, grazie per essere {mf|stato|stata} con me."
+
+### u066853
+"Sì. Per la prima volta dopo molto tempo, la mia mente è completamente lucida. Non ho rimpianti per ciò che ho fatto. Nuncius è finalmente libero dalla corruzione, e sono lieto di aver avuto la forza d'animo di porre fine io stesso alla sua vita. Ho imparato una lezione dura che non oserò dimenticare, ma se la mia memoria dovesse iniziare a sbiadire, avrò sempre un promemoria di ciò a cui porta la deviazione dal dogma." {n}Eogunn guarda con tristezza la testa di Nuncius.{/n}
+
+### u066854
+"La voglio! Nuncius... mi ringrazierà più tardi."
+
+### u066855
+{n}All'improvviso, Nuncius comincia a contorcersi in convulsioni, un attacco così violento che si morde via la lingua mutata e comincia a soffocare nel proprio sangue.{/n} "No, maledizione, no!" {n}Eogunn ruggisce con voce gutturale, mandando i mecadendriti a brulicare in preda al panico. Dopo un attimo, il corpo di Nuncius resta immobile.{/n}
+
+### u066856
+"Sono ancora... Sì, Nuncius, sì, resisti ancora un poco, saremo una cosa sola..." {n}Il Manipulus ha perso l'ultimo barlume di razionalità: il suo sguardo è ormai in totale balia della follia. Estrae disperatamente le augmetiche distorte dal cadavere e le riattacca senza pietà dentro di sé, incurante del dolore e del sangue. Per ultimo, rimuove l'impianto corticale dalla testa di Nuncius, un pezzo fuso di metallo morto coperto di grumi di materia cerebrale. Sussurrando parole che non riesci a distinguere, Eogunn lo salda accanto al proprio cuore.{/n}
+
+### u066857
+"Non osare! Sono sull'orlo di una svolta!"
+
+### u066858
+{n}Tossendo sangue, Eogunn crolla pesantemente al suolo.{/n} "Il Triasomata... è completo. Nuncius è in me."
+
+### u066859
+{n}Stretto tra le sue mani, anzi fuso con le sue dita, c'è un cubo nero di un materiale nero innaturalmente liscio. Nell'infinito ciclo di metamorfosi strazianti, è l'unico oggetto immobile e immutabile.{/n}
+
+### u066860
+"Io sono il Triasomata, redenzione dalla morte. Nuncius e io siamo uniti per sempre, non mi separerò più da lui." {n}Guardando da qualche parte oltre di te, Eogunn sorride beato.{/n} "Sono così lieto di essere riuscito finalmente a salvarti, carissimo collega."
+
+### u066861
+"Sono estasiato! Ora che Nuncius è con me per sempre, insieme possiamo perfezionare la procedura di triasomia. Quanti trionfi ci attendono, quanto bene doneremo all'Umanità! E per questo dobbiamo ringraziare te, {name}. Non è vero, Nuncius?"
+
+### u066862
+"Non lo so. Questo dispositivo è più antico dell'Umanità stessa: chissà di che altro è capace? La stasi può solo rallentarne gli effetti."
+
+### u066863
+"Sì, lo è. I mostri nascono dalla speranza e dalla paura. Io sono stato spinto da entrambe."
+
+### u066864
+"Non può sentirti. Ma apprezzo che tu lo veda ancora come un essere umano."
+

@@ -1,0 +1,825 @@
+### u054352
+"Al contrario, Vostra Signoria! Ho avvicinato la Signora Kibellah per conversare, ed è stata lei stessa a suggerire che un altro evento sarebbe stato appropriato e perfino desiderabile!"
+
+### u054353
+"Esattamente! Sono rimasto piuttosto sbalordito dalla proposta, devo ammetterlo, ma se tale è il desiderio della Signora Kibellah, come potrei non provare ancora una volta a compiacere entrambi?"
+
+### u054354
+"Meraviglioso! Ho già qualche idea in mente... Stavolta un incontro più riservato su Dargonus, con vista dalla guglia! Comincerò i preparativi non appena arriveremo sul mondo capitale. Quando sarete {mf|pronto|pronta}, trovatemi al palazzo, e questa piacevolissima serata potrà avere inizio!"
+
+### u054355
+"Vostra Signoria! Le mie scuse se vi ho contrariato avvicinandovi in un momento inopportuno! Ma, ehm... non credete che un rifiuto così brusco potrebbe allontanare la Signora Kibellah? Ultimamente sembra piuttosto... smarrita. Siete {mf|certo|certa} che la vostra decisione non la spingerà a ritirarsi del tutto dal mondo?"
+
+### u054356
+"Oh... Sì, certamente, Vostra Signoria. Io... riferirò la vostra risposta alla Signora Kibellah. Non oso disturbarvi oltre."
+
+### u054357
+"Non ancora. Prima devo occuparmi di una cosa."
+
+### u054358
+{n}Janris Danrok raddrizza le spalle al tuo avvicinarti e ti rivolge un sorriso abbagliante.{/n} "Vostra Signoria! Desiderate dare l'ordine di cominciare il vostro incantevole incontro con la Signora Kibellah?"
+
+### u054359
+"Favoloso! Mi occuperò io di tutti i preparativi. Ci sarà una breve attesa, ma vi assicuro: sia voi sia la vostra compagna troverete questa serata indimenticabile!"
+
+### u054360
+"Custodirò per sempre il ricordo del giorno in cui ti vidi per la prima volta. Anche tu mi hai aperto un mondo nuovo."
+
+### u054361
+"Sapevo di aver smosso qualcosa nella tua anima — allora, la nostra prima sera."
+
+### u054362
+"Che sta succedendo?"
+
+### u054363
+"Non possiamo semplicemente... dimenticare il labirinto?"
+
+### u054364
+"E tu sei mia. Per sempre."
+
+### u054365
+[Entra nel labirinto] "Bene, allora. Segui il suono delle mie parole."
+
+### u054366
+"Fuori dai miei alloggi. Subito."
+
+### u054367
+"Mi hai sentito! Ne ho abbastanza dei tuoi 'Precetti' e delle tue 'Reti' — e di tutto il resto della tua eresia!"
+
+### u054368
+[Pausa] "Mi sono {mf|spaventato|spaventata} e ho parlato a sproposito. Mi dispiace. Che cosa stavi dicendo?"
+
+### u054369
+[Guida Kibellah attraverso il labirinto senza infrangerne le regole]
+
+### u054370
+[Trova un modo per far passare Kibellah tra le linee del labirinto] "Non dobbiamo per forza giocare sempre secondo le regole, no?"
+
+### u054371
+[Canta] "Segui il mio canto, Kibellah. Canto di te."
+
+### u054372
+[Prega] "Segui la mia preghiera. Prego per te."
+
+### u054373
+"Non tormentarti. Torna al tuo mondo. Potremo anche essere {mf|lontani l'uno dall'altra|lontane l'una dall'altra}, ma il nostro amore vivrà."
+
+### u054374
+"Troveremo un modo per stare insieme. Per quanto diversi siano i nostri mondi, possiamo superare qualsiasi ostacolo."
+
+### u054375
+"Sono {mf|lieto|lieta} di vedere che hai capito il tuo... potenziale."
+
+### u054376
+"Ma io non so nulla della Grazia della Rete..."
+
+### u054377
+[Indica le linee sul pavimento] "Che ne sarà di tutto questo, adesso?"
+
+### u054378
+"Siamo fuori dal labirinto. Ci attende una nuova eternità."
+
+### u054379
+{n}I tuoi alloggi hanno subito una profonda trasformazione: motivi familiari si estendono dall'ingresso fino all'estremità opposta della sala, formando un intricato dedalo. I suoi passaggi si incontrano e divergono, tutti fusi insieme in un'esperienza quasi ipnotica, e l'aroma di sacri unguenti ti solletica le narici.{/n}
+
+### u054380
+{n}Kibellah appare piuttosto fuori posto nella soffice penombra degli alloggi — un tralcio sottile e spigoloso, un'intrusa in un regno di ombre rassicuranti.{/n} "Domin'{name}, è ora di lasciare il labirinto."
+
+### u054381
+"La fine di una strada. L'inizio di un'altra. Ho vagato nel labirinto in cerca di risposte, ma tutto ciò che ho fatto è stato confondermi. La soluzione... eravate voi. Ora dobbiamo trovare la via d'uscita dal luogo in cui vi ho condotto, ma non mi fido più di me stessa per riuscirci. Conosco troppo bene il dedalo. È troppo... familiare. Sarete voi la mia guida."
+
+### u054382
+"Riuscite davvero a leggere la mia anima così facilmente, Domin'{name}? O vi state solo mettendo in mostra davanti a chi si fida di voi?" {n}Ride piano.{/n}
+
+### u054383
+"Da quando siete {mf|comparso|comparsa} nella mia vita, cerco una via d'uscita da ciò che la mia esistenza è diventata." {n}Kibellah sospira e ti sorride con dolcezza.{/n} "E ho capito... che non posso farcela da sola. Stavolta sarete voi la mia guida. Vi prego... portatemi fuori da questo labirinto. Quando saremo liberi da questa trappola in cui vi ho condotto... potremo guardare a ciò che il futuro ci riserva."
+
+### u054384
+{n}Kibellah ride piano. Il suono è un misto di fusa e ringhio.{/n} "Questo dedalo... voglio lasciarmelo alle spalle — andare oltre questi vincoli che sono diventati troppo stretti per me, per entrambi. Venite con me. La nostra nuova vita non può cominciare finché le nostre ombre si dibattono tra le pareti della trappola in cui vi ho condotto."
+
+### u054385
+{n}Kibellah si immobilizza come una statua.{/n} "Cosa? Ma, Domin'{name}..."
+
+### u054386
+"Un'eternità nell'abbraccio di ciò che accoglierà entrambi."
+
+### u054387
+{n}Invece di rispondere, indica il dedalo con un gesto.{/n}
+
+### u054388
+{n}Kibellah emette un grido acuto. Si afferra la gola come se soffocasse — o come se cercasse di soffocare l'impulso ad attaccare. Inarca la schiena... e prima che tu possa battere ciglio, è sparita.{/n}
+
+### u054389
+{n}Fai un passo e Kibellah lo ripete, addentrandosi con te nella rete intricata. Noti una serie di minuscoli punti di sutura sulle sue palpebre chiuse. Cammina affidandosi all'udito, rimettendosi completamente alla tua volontà.{/n}
+
+### u054390
+"Quando misi piede per la prima volta sui ponti superiori... quando entrai per la prima volta nel vostro mondo... fui accecata. Lo splendore del vostro regno era opprimente, e più restavo al vostro fianco, più la confusione cresceva. Il filo della Rete mi sfuggiva da sotto i piedi. Stavo perdendo il mio scopo. Eppure... continuai a cercare. Sapevo che non dovevo rinunciare al mio passato per tuffarmi nel futuro."
+
+### u054391
+"Quando misi piede per la prima volta nel vostro mondo, mi accecò, e così mi aggrappai alla mia maschera di calma concentrazione. Qualunque altro filatore al mio posto sarebbe stato sopraffatto da ciò che vidi nel vostro regno. Quando i pensieri su di voi cominciarono a offuscarmi la mente e ad allontanarmi dai Precetti, me ne accorsi. Il nostro legame sta recidendo, un po' alla volta, i fili tra me e il mio scopo."
+
+### u054392
+"Quando misi piede nel vostro mondo, un mondo di beatitudine e lusso, ero ancora vincolata da giuramenti e insegnamenti..." {n}Avanza con la grazia di un predatore in agguato.{/n} "Da tutto ciò che il Bloodspun Web racchiude. Mi ci è voluto del tempo per capire che quei vincoli non erano per me. Sono fatti per chi teme persone come noi — persone che stanno al di sopra di loro, che sono più forti. Non sarò paragonata a quelle misere creature."
+
+### u054393
+{n}Guidi Kibellah attraverso il dedalo, lontano dal centro, sempre più vicino all'uscita. I suoi movimenti sono precisi, e segue con cura ogni tua istruzione.{/n}
+
+### u054394
+{n}Noti una minuscola interruzione in una linea — forse la mano di Kibellah ha avuto un sussulto mentre la tracciava. La guidi lungo quel percorso e le dici dove camminare in seguito.{/n}
+
+### u054395
+{n}I corridoi si intrecciano e si uniscono, si incrociano e si ramificano, nel tentativo di confondere chiunque vi si aggiri. L'odore che si leva dalle linee sul pavimento ti dà le vertigini.{/n}
+
+### u054396
+"I Precetti del Bloodspun Web sono tutto il mio mondo, ma per voi la mia realtà è strana e aliena quanto i ponti superiori lo sono per un filatore. Quando l'ho capito... dopo che mi avevate guidata con cura, lasciandomi trovare un nuovo filo, senza intervenire, senza pressioni... ne ho visto l'inizio: la Grazia della Rete — un insegnamento che il Vizsier non conosceva. Questo insegnamento è mio. E vostro."
+
+### u054397
+"Ho cercato a lungo... ho provato maschere diverse... mi sono sforzata di trovare un nuovo filo, uno che accogliesse voi senza respingere me. Ma la verità è questa: io sono il mio passato. Il Bloodspun Web è la mia casa e il mio destino. È tutto ciò che so dell'universo... e non sono pronta a lasciarmelo alle spalle. Se lo facessi, la vostra Kibellah scomparirebbe. La rete si tende attraverso di me, nutrendo la mia anima e la mia mente. E così sarà sempre."
+
+### u054398
+"È stata una lotta riuscire finalmente a vedere il potere che stringo tra le mani. Non sono una semplice filatrice: sono la migliore tra loro, la prescelta. Ho il diritto e la volontà di dettare le regole. Sono abbastanza forte da camminare sulla Rete senza essere edificata da chi si è già unito all'Imperituro!"
+
+### u054399
+{n}Nel momento in cui inizi a cantare, Kibellah si unisce a te, come un'eco di ogni tua nota. Le vostre voci scorrono in un duetto mentre guidi Kibellah verso l'uscita...{/n}
+
+### u054400
+{n}Riconosce la preghiera e si unisce subito a te. Recita le parole familiari, fondendosi con te in un'unica supplica all'Imperituro, e avanza sicura in direzione dell'uscita...{/n}
+
+### u054401
+{n}Insieme, voi due emergete dal dedalo contorto. Le mani di Kibellah scattano a toccare le tue, le dita che si intrecciano alle tue in un silenzioso saluto — poi ritira le mani e le porta al viso. Un pugnale lampeggia nella luce fioca, recidendo i delicati punti di sutura. Kibellah ti guarda con occhi nuovi.{/n} "Amore mio..."
+
+### u054402
+{n}Kibellah abbassa lentamente il capo. Un singhiozzo soffocato e doloroso sale dal profondo del suo essere.{/n} "Accetto la vostra decisione, Domin'{name}." {n}Torna a tacere, in attesa di udire la tua voce guida.{/n}
+
+### u054403
+{n}Ascolti il suono confortante dell'acqua che scorre. Per un istante, una scena orribile affiora nella tua mente: sangue che sgorga dai tubi in un torrente che affoga... ma l'immagine viene dissolta dal tocco di Kibellah. È calda. Viva. E così vicina.{/n}
+
+### u054404
+"I Precetti sono effimeri." {n}La voce di Kibellah è appena più forte dell'acqua.{/n} "La morte è la fine di ogni cosa, e nemmeno loro possono evitare quella fine. Il loro tempo è giunto."
+
+### u054405
+"Possano queste acque riparare gli errori dei perduti." {n}Kibellah si preme una mano sul petto, fissando la superficie increspata.{/n} "Possano lavare via i passi falsi, purificare le mani sporche, schiarire la mente offuscata... e mentre vi entriamo, possano donarci la forza di seguire il nostro filo."
+
+### u054406
+"Una vasca di acqua limpida non è qualcosa che si trovi nelle viscere di una nave..." {n}La mano di Kibellah scivola lungo la tua spalla, attirandoti più vicino.{/n} "Oggi possiamo concederci un po' di... sollievo. Dimenticare tutto dei Precetti e del Bloodspun Web... Anche se, chissà — forse ai miei apprendisti gioverebbe una lezione di piacere. Forse la loro maestra gliela darà un giorno."
+
+### u054407
+{n}Ti sfiora la guancia e preme la fronte contro la tua.{/n} "L'unione di due. L'intreccio dei destini. La tessitura delle anime. Così nasce la Grazia della Rete. Il nostro filo. Il nostro mondo. Il nostro destino. Vi amo."
+
+### u054408
+{n}Solleva il capo e ti guarda dritto negli occhi.{/n} "Ricordate sempre, Domin'{name}, che vi amo. Porterò questo amore nell'abbraccio della morte quando verrà il momento della mia fine. Ricordate. Ricordate..."
+
+### u054409
+{n}Ti posa sulle labbra un bacio ardente.{/n} "Basta parole. Oggi apparteniamo soltanto {mf|l'uno|l'una} all'altra, a nessun altro. Maschere, facciate... sono cose di domani. Non di adesso. Amatemi, e amate solo me."
+
+### u054410
+"Domin'{name}..." {n}Parla con tale tenerezza da restare senza fiato.{/n} "Sfiderei i Precetti — no, ogni legge dell'Imperium — solo per avere la possibilità di essere felice con voi... ma so che non lo sarò." {n}Torna a tacere, in attesa di udire la tua voce guida.{/n}
+
+### u054411
+"Posso ancora amarvi, dall'ombra della rete. Se questo non vi basta... mi ritirerò nell'oscurità. Porterò con me i nostri sentimenti e li terrò lontani da voi."
+
+### u054412
+"Sì, lo sai. La conoscenza risiede dentro di te — nel profondo della tua anima. La Grazia della Rete è su di te."
+
+### u054413
+{n}Ride.{/n} "E chi è stato la mia luce guida? Chi mi ha condotta attraverso l'oscurità fino a questa rivelazione? Guidatemi, dunque. Verso la libertà. La nostra libertà. Per sempre."
+
+### u054414
+{n}Kibellah ride con una spensieratezza che non le avevi mai sentito.{/n} "I Precetti della Rete sono alle mie spalle — perché dunque pensare a qualcosa che è già passato? Prendete la mia mano — laviamoci dalle ceneri del passato e facciamo il passo verso il futuro."
+
+### u054415
+{n}Kibellah ti posa le mani sul petto.{/n} "Perché non bruciamo tutto? Allontaniamoci da questa assurdità e festeggiamo insieme. Ho anche qualcosa in mente..."
+
+### u054416
+{n}Kibellah ti guarda, con un sorriso calmo e triste.{/n} "Abbiamo superato la rete del labirinto. Davanti a noi..." {n}Le lacrime le brillano negli occhi.{/n} "...ci sono nuove prove. Ma credo che finché ci terremo {mf|l'un l'altro|l'un l'altra} nel cuore, prevarremo sempre. Venite, Domin'{name}." {n}Sussurra così piano che a malapena la senti.{/n} "Purifichiamoci prima di tornare ai nostri fili."
+
+### u054417
+{n}Le sue mani ti avvolgono, unendosi dietro la tua nuca. Le sue labbra incontrano le tue, e insieme vi dissolvete nel fiume della sua tenerezza e della sua passione mentre lei si perde nel bacio.{/n} "Vi amo, {name}. Vi amerò sempre. Fino alla fine dell'ultima stella nel vuoto oscuro."
+
+### u054418
+"Per sempre..." {n}L'espressione di Kibellah si tende — vorrebbe guardarti, ma non perde il controllo.{/n}
+
+### u054419
+{n}Scuote il capo.{/n} "Ho lasciato troppe tracce tra le sue pareti. Devo portare a termine il viaggio."
+
+### u054420
+"Prima eri diversa. Più... sensibile."
+
+### u054421
+"Cucirmi gli occhi? Cosa, per sempre?"
+
+### u054422
+"Perché dovrei intraprendere questo... viaggio?"
+
+### u054423
+"Bene... Sono {mf|pronto|pronta}."
+
+### u054424
+"Sono {mf|contrario|contraria} a esperimenti simili."
+
+### u054425
+[Concentrati sulla sua voce]
+
+### u054426
+[Concentrati sul dolore]
+
+### u054427
+"No... basta! Toglimi i punti. Non voglio più saperne!"
+
+### u054428
+[Supera la sensazione di soffocamento]
+
+### u054429
+[Vinci la tua debolezza]
+
+### u054430
+"Mi stai chiamando. Dove?"
+
+### u054431
+[Prendi la mano di Kibellah e fai un passo avanti] "Mi fido di te."
+
+### u054432
+[Prendi la mano di Kibellah e attirala a te] "Fidati di me. Seguimi."
+
+### u054433
+"Grazie per il rituale."
+
+### u054434
+"È stata un'esperienza difficile, ma ce l'abbiamo fatta insieme."
+
+### u054435
+"Preferirei non passare di nuovo attraverso una cosa simile."
+
+### u054436
+"Ho visto un labirinto luminoso — proprio come quello che hai tracciato sul ponte degli ufficiali..."
+
+### u054437
+[Immergiti nel dolore del tuo passato e affidati a Kibellah perché ti guidi]
+
+### u054438
+{n}Kibellah china il capo in un breve saluto. I suoi occhi brillano quasi d'attesa.{/n} "Tra queste mura, sotto la vigilanza spettrale dei morti, nella terra che le nostre azioni hanno purificato dalla pestilenza... desidero condurvi in un viaggio: il rituale del ritrovamento della luce."
+
+### u054439
+{n}Porta lentamente una mano al tuo viso e ti tocca l'angolo dell'occhio.{/n} "La vista è vostra alleata e vostra nemica, perché esiste solo per percepire le azioni e ignorare le intenzioni. Vi insegnerò a vedere senza occhi, Domin'{name}, come fu insegnato a me un tempo. Mi permetterete di cucirvi gli occhi e guidarvi attraverso il rituale, lungo un filo invisibile?"
+
+### u054440
+{n}L'oscurità è spietata. L'hai imparato mentre cercavi di nasconderti dagli {d|Encyclopedia:CharGen_DH_Signs}incubi{/d} che ti tormentano. Per quanto strettamente chiudessi gli occhi in quelle lunghe notti, le visioni ossessive non ti lasciavano in pace, né nel sonno né da {mf|sveglio|sveglia}. Nel momento in cui Kibellah applica l'ultimo punto, lo senti: gli orrori sono già qui, in attesa che tu faccia anche un solo passo falso. E quando lo farai, ti affogheranno in quell'oscurità spietata.{/n}
+
+### u054441
+"No, Domin'{name}. I miei punti saranno precisi e la mia mano attenta. Una volta superato il rituale, vi scucirò gli occhi e non vi sarà stato fatto alcun male."
+
+### u054442
+{n}Kibellah si fa indietro, la mano che scivola via da te e ricade inerte lungo il fianco. La senti appena mentre dice,{/n} "Capisco. Forse la distanza tra noi non era destinata a essere attraversata. Andate, dunque."
+
+### u054443
+{n}Nella penombra della cripta, l'ago tra le mani di Kibellah potrebbe essere scambiato per il lampo di una delle sue lame.{/n} "Chiudete gli occhi, Domin'{name}, e umiliate il vostro respiro in una preghiera silenziosa all'Imperituro."
+
+### u054444
+{n}Le palpebre ti fanno male, dopo essere state forate e cucite insieme con del filo. La sensazione offusca i tuoi pensieri ed evoca un'angoscia inquietante dal profondo del cuore. Sei {mf|cieco|cieca}. Nemmeno un raggio di luce può insinuarsi nel tuo mondo, e la consapevolezza di ciò che ti circonda si basa solo su rumori sottili. Attraverso il velo del dolore, senti la voce quieta di Kibellah:{/n} "Accogliamo le Sue benedizioni con un unico scopo: servirLo nella nostra unità, più forte di qualsiasi catena. Venite da me, Domin'{name}. Il suono della mia voce vi mostrerà la via, se riuscirete a liberare il vostro cuore..."
+
+### u054445
+{n}Fa una pausa prima di rispondere. Muove la mano verso il basso, toccando con cautela il tuo petto.{/n} "C'è... molto tra noi che devo ancora comprendere. Ponti e paratie ci separano, ma ancora più grande è la distanza spirituale. Voi siete {mf|entrato|entrata} nel mio labirinto, e io sono stata nel vostro mondo. Ma c'è ancora così tanto che dobbiamo imparare {mf|l'uno|l'una} dell'altra. Vi invito a percorrere i miei sentieri affinché possiate vedere dentro di me. E io dentro di voi."
+
+### u054446
+{n}Ti spingi fuori dalle profondità del dolore, abbandonandoti completamente alla voce di Kibellah. Un attimo dopo, comincia a farsi più forte e più chiara. Il dolore inquietante non scompare, ma ora sai dove andare — e segui la tua guida.{/n}
+
+### u054447
+{n}La perdita della vista deve aver agito su di te a un livello subconscio. Non riesci a scacciare dalla mente il dolore pulsante. Le gambe ti tremano... Ti senti {mf|perso|persa} per sempre nell'oscurità, senza via d'uscita, se non la flebile speranza di seguire l'eco della voce di Kibellah.{/n}
+
+### u054448
+{n}Concentri tutta la tua attenzione sulla sofferenza fisica... e il dolore si ritrae, come intimidito dalla tua risolutezza. Fai un passo e poi un altro.{/n}
+
+### u054449
+{n}All'improvviso la voce di Kibellah sembra moltiplicarsi, come se ogni parola fosse pronunciata all'unisono da più copie di lei:{/n} "Lungo i fili che formano la rete; lungo i raggi della stella il cui cuore trasforma il ghiaccio in fiamma; lungo le tracce che abbiamo lasciato {mf|l'uno|l'una} per l'altra, ci riuniremo in un'unità che diverrà la nostra rivelazione — nella morte che concede la vera vista; nella morte a cui tutti sono destinati..." {n}Le ginocchia ti cedono — l'angoscia che ti accompagna dall'inizio del rituale ora si stringe attorno alla tua gola come un collare d'acciaio.{/n}
+
+### u054450
+"Dove l'unione degli opposti genera un crollo, un crollo che diverrà un atto di creazione: dalle rovine del significato sorgeranno sacre sale, ed Egli ne sarà compiaciuto..." {n}Il suo tono muta sottilmente — come se la preghiera rituale si stesse in qualche modo trasformando in una canzone d'amore.{/n}
+
+### u054451
+{n}Raccogli le forze e rinneghi i terrori fantasma. Dimentica la tua debolezza, segui il filo guida che brilla nella tua mente — il filo della voce di Kibellah.{/n}
+
+### u054452
+{n}Incanali la forza di volontà per respingere il soffocamento, rifiutandoti di lasciare che ti costringa in ginocchio... e quasi senti il tintinnio del metallo mentre il collare attorno alla tua gola si allenta finalmente. Il filo guida della voce di Kibellah continua a brillare nella tua mente.{/n}
+
+### u054453
+{n}Sei impotente di fronte a questa paura soffocante. L'angoscia ti inghiotte per intero come un'onda e, mentre vieni {mf|trascinato|trascinata} sotto, per qualche lungo secondo non riesci più a sentire la voce di Kibellah.{/n}
+
+### u054454
+"Tutti coloro che riposano in queste sale vi riposano come ricompensa per le imprese compiute nel Suo nome. Possa la fine del nostro viaggio essere gloriosa quanto quella di tutti coloro che vennero prima di noi..." {n}La voce di Kibellah si spegne. Alla fine aggiunge, piano e sommessamente,{/n} "Prendete la mia mano. Così cammineremo verso le sale a cui siamo destinati."
+
+### u054455
+{n}Fai un passo...{/n}
+
+### u054456
+{n}Senti una lieve resistenza... ma poi lei lascia uscire un sospiro tremante e si fa verso di te, posando la mano nella tua.{/n}
+
+### u054457
+{n}Ti coglie una strana sensazione, come se voi due vi foste ritrovati in uno spazio angusto, deliranti per la mancanza d'aria e {mf|inebriati dal calore l'uno dell'altra|inebriate dal calore l'una dell'altra}. Vedi Kibellah — e un dedalo di linee cremisi dal fioco sfarfallio sotto i tuoi piedi. Lei espira,{/n} "È sbagliato... È tutto sbagliato..." {n}Ti stringe le dita.{/n} "Ma mi fido di voi. Vengo verso di voi. La distanza svanisce."
+
+### u054458
+{n}...e senti l'oscurità toccarti. Proprio davanti a te vedi Kibellah, che ti tiene la mano. I suoi occhi, così pieni di calore, ti guardano.{/n} "Mi avete trovata... nonostante tutto. Ora, immergetevi più a fondo... immergetevi in ciò che ci unisce a questo crocevia..."
+
+### u054459
+{n}...e anche se i tuoi occhi sono ancora ciechi e il tuo corpo trema, senti calore — il suo calore. Nonostante tutto, hai percorso la strada dell'oscurità — e hai raggiunto colei che ti ha {mf|guidato|guidata} con la sua voce. Senti il suo respiro sul collo e odi le sue parole all'orecchio:{/n} "Siamo scesi più a fondo. Ora siamo più vicini. Più vicini che mai."
+
+### u054460
+{n}La penombra comincia a diradarsi mentre una lama affilatissima recide uno a uno i punti sulle tue palpebre. Senti tocchi gentili, le ferite pungono un poco... e alla fine puoi vedere di nuovo. La fioca luce della cripta ti acceca così tanto che Kibellah ti appare come una sagoma scura e senza volto.{/n}
+
+### u054461
+"E ancora una volta avete assistito alla mia verità, Domin'{name}." {n}Kibellah non ti guarda — il suo sguardo sembra rivolto verso l'interno o, forse, verso il nulla.{/n} "La luce è stata trovata. Abbiamo superato un altro cerchio lungo il cammino verso la verità al cuore del nostro legame."
+
+### u054462
+{n}Ti sfiora la guancia con la punta delle dita.{/n} "No. Dovrei essere io a ringraziarvi. Pochi sono degni di questo rituale. Non l'ho mai eseguito per nessuno prima d'ora..." {n}Un sorriso le sboccia sulle labbra.{/n}
+
+### u054463
+{n}Ti guarda con un sorriso sfuggente.{/n} "Sì, l'abbiamo fatto. È così che si compie il rituale del ritrovamento della luce: non da soli, ma insieme, da chi è legato nella Sua luce, nel Suo nome."
+
+### u054464
+"Non ce n'è bisogno. Il rituale è compiuto. E quanto all'esperienza... non cercate di darle un senso — accettatela semplicemente, come si accetterebbe la morte."
+
+### u054465
+{n}Kibellah trae un respiro profondo.{/n} "Voi... l'avete vista? Allora state percorrendo i suoi sentieri tortuosi... insieme a me. Dovete aver davvero imparato a conoscermi, se le nostre menti si sono toccate così." {n}Aggrotta la fronte.{/n} "Non mi aspettavo che la vostra trance si spingesse così in profondità. Io... devo rifletterci."
+
+### u054466
+"Dovete tornare dalle sale della morte nel mondo. E vi prego..." {n}Kibellah ti preme una mano sul petto.{/n} "Tutto ciò che il rituale vi ha rivelato — custoditelo nel cuore. È solo il vostro tesoro."
+
+### u054467
+{n}Senti il silenzio... e all'improvviso l'eterea atmosfera attorno a te viene sostituita da qualcos'altro, qualcosa di normale. Senti dei passi avvicinarsi, poi un sussurro:{/n} "Sono qui. Non muovetevi. Lasciate che ve li tolga."
+
+### u054468
+{n}Apri gli occhi e vedi di nuovo la luce — e Kibellah, con un'espressione rattristata.{/n} "Non avrei dovuto distogliervi dalle vostre fatiche, Domin'{name}. Vi prego... tornate al vostro filo. Rifletterò su tutto ciò che è accaduto qui."
+
+### u054469
+"Portiamo maschere sui nostri volti, non sulle nostre anime." {n}Gli angoli della sua bocca si contraggono.{/n} "Posso essere una filatrice di morte, ma dentro sono pur sempre un'umana... come voi."
+
+### u054470
+{n}Un dolore nuovo e sconosciuto cerca di consumarti, così trovi rifugio nel dolore più antico e familiare. Il tormento che hai attraversato nel {d|Encyclopedia:CharGen_DH_Torture}passato{/d}, il tormento che non è riuscito a spezzarti, allevia la tua sofferenza nel presente. Fai un passo e poi un altro.{/n}
+
+### u054471
+{n}Non è una metafora. Il tuo {d|Encyclopedia:CharGen_Psyker}dono{/d} ti rende chiaro che la tua mente e quella di Kibellah condividono ora una connessione psichica, che entrambi contribuite a sostenere.{/n}
+
+### u054472
+"Certo. Arrivo tra poco."
+
+### u054473
+"Sono {mf|occupato|occupata}."
+
+### u054474
+{n}La voce di Kibellah ti distoglie da una pila di rapporti.{/n} "Domin'{name}... desidero vedervi. Incontratemi nella cripta sacra, dove abbiamo distrutto i servitori dell'eresia. È importante."
+
+### u054475
+"Non c'è alcuna minaccia. Mi è stata concessa una rivelazione e desidero mostrarvi una cosa. Ora che la cripta è stata purgata, non c'è luogo più adatto."
+
+### u054476
+{n}Senti una genuina eccitazione nella voce di Kibellah.{/n} "Vi aspetterò, Domin'{name}."
+
+### u054477
+{n}Il vox rimane in silenzio per un po', salvo il crepitio dell'elettricità statica. Poi Kibellah chiude il canale senza aggiungere altro.{/n}
+
+### u054478
+"Siamo certamente diventati più vicini. Questo mi fa piacere."
+
+### u054479
+"Non voglio parlare di anime. Voglio semplicemente godermi te e la tua compagnia."
+
+### u054480
+"Non sapevo che l'intimità fisica avesse qualche interesse per i filatori."
+
+### u054481
+"Ti è piaciuta questa serata?"
+
+### u054482
+"Non sono {mf|certo|certa} che ci sarà una seconda volta. Questo non influirà sul nostro rapporto, vero?"
+
+### u054483
+"Devo occuparmi di altre faccende."
+
+### u054484
+{n}Kibellah traccia con un dito una lunga linea fluida sulla pelle pallida, dalla curva del fianco alla cresta affilata della clavicola, attraverso il disegno di ferite rituali e cicatrici di battaglia.{/n} "Abbiamo acquisito conoscenza {mf|l'uno|l'una} dell'altra, {name}. Attraverso la rivelazione della carne, abbiamo tessuto tra noi un legame spirituale più forte. Lo sentite?"
+
+### u054485
+"Il Bloodspun Web non incoraggia i piaceri della carne, ma non li vieta nemmeno. Un filatore è libero di godere dell'amore carnale, ma ciò che lo attira è di solito la curiosità più che la passione. Oppure... un sentimento speciale, un sentimento sacro che non va sacrificato all'ascesi."
+
+### u054486
+{n}Kibellah scrolla le spalle.{/n} "Se non provate desiderio, non costringetevi. Per ora i nostri fili sono legati da vincoli invisibili — il resto non ha importanza."
+
+### u054487
+{n}Gli occhi di Kibellah si chiudono lentamente.{/n} "Sì. È stata... una sensazione nuova. Ogni istante con voi era pieno di significato. La lussuria vuota non concederebbe una simile profondità di sentimento."
+
+### u054488
+"Credo che questa sia solo la prima delle molte rivelazioni che riceveremo." {n}Si stiracchia languidamente sul letto.{/n} "Ogni nuovo incontro promette l'occasione di conoscervi meglio e di... rivelarmi a voi. Esploreremo i nostri corpi e le nostre anime per raggiungere l'unità totale."
+
+### u054489
+{n}Un sorriso pallido le sfiora brevemente il volto.{/n} "Allora l'ombra tacerà. La volontà del Domin' è legge."
+
+### u054490
+"E devo trascorrere un po' di tempo da sola. Devo percorrere il labirinto con una nuova conoscenza... di noi."
+
+### u054491
+"Dubito che a Kibellah piacerà..."
+
+### u054492
+"Splendido, Danrok. Convoca i miei illustri ufficiali."
+
+### u054493
+"Ho cambiato idea: annulla il ricevimento. Kibellah non ha bisogno di simili cerimonie."
+
+### u054494
+"Molto bene. Mostriamole pure il mondo del Rogue Trader."
+
+### u054495
+"Stai forse discutendo con me, in questo momento?"
+
+### u054496
+{n}La voce dell'Alto Factotum risuona di orgoglio.{/n} "Lord Capitano, ho eseguito quanto ordinato: tutto è pronto per il vostro 'rituale' per la Signora Kibellah! Alcuni ufficiali scelti dei ponti superiori sono pronti a lasciare i loro posti per partecipare a questo ricevimento formale e lodare il nome di Vostra Signoria. Possiamo cominciare a vostra discrezione."
+
+### u054497
+"Sono certo che la Signora Kibellah apprezzerà lo sforzo, il vostro e il mio! Cosa potrebbe rappresentare meglio la cerchia ristretta del Lord Capitano di un evento formale in compagnia dei membri più eminenti dell'equipaggio?"
+
+### u054498
+"Sarà fatto. Avviserò i servitori e informerò subito gli invitati. Mostriamo alla Signora Kibellah quanto sia davvero forte lo spirito di cameratismo della nostra nave!"
+
+### u054499
+"Ma... ma il morale degli ufficiali! E la Signora Kibellah!"
+
+### u054500
+"A-assolutamente no, Lord Capitano! Non farò più alcun cenno alla questione!"
+
+### u054501
+"I miei rituali? Che cosa intendi?"
+
+### u054502
+"Che cosa faremo esattamente?"
+
+### u054503
+"Cos'è tutta questa roba sul pavimento?"
+
+### u054504
+"Sono {mf|pronto|pronta}, Kibellah. Cominciamo."
+
+### u054505
+"Sbrigati. Prima finiamo, meglio è."
+
+### u054506
+"Grazie per aver eseguito questo rituale, Kibellah. Credo che qui abbiamo finito."
+
+### u054507
+"Possiamo smetterla con queste sciocchezze, ora?"
+
+### u054508
+"Questo combattimento — che espressione affascinante della tua cultura."
+
+### u054509
+"Puoi dirmi cos'era davvero? Qual è il vero significato di questo rito?"
+
+### u054510
+"Cerco solo di capire perché questo sia importante per te — di capire te."
+
+### u054511
+"Lascia perdere."
+
+### u054512
+"Non volevo offenderti."
+
+### u054513
+"Il mio mondo è più di un semplice sfarzo. Forse ti aiuterebbe dare un'occhiata più da vicino alla mia vita."
+
+### u054514
+"Vorresti vedere il mio mondo, Kibellah? Mi hai permesso di assistere al tuo rituale — è giusto che io te ne mostri uno dei miei."
+
+### u054515
+"Hmph. Sì, hai ragione. I nostri rituali sono semplicemente troppo diversi perché possiamo capirci."
+
+### u054516
+{n}Kibellah si muove in una peculiare parvenza di esercizio atletico, i suoi movimenti che tracciano un disegno imperscrutabile.{/n} "Siete {mf|pronto|pronta} a entrare nel labirinto, Domin'{name}?"
+
+### u054517
+"Siete {mf|investito|investita} dalla volontà dell'Imperituro Stesso, eppure... quando guardo la vostra vita, sono sorpresa: seguite un filo diverso, che non sembra così rigido nei pensieri e nelle azioni. C'è così tanto..." {n}Riflette per un momento.{/n} "...sfarzo."
+
+### u054518
+{n}Una ruga compare sulla fronte di Kibellah, ma a parte questo nulla nel suo contegno potrebbe essere interpretato come un segno di irritazione.{/n}
+
+### u054519
+{n}Kibellah estrae una lama ricurva e te la porge.{/n} "La vostra arma per il rituale. Osservate le linee sul pavimento: potete passare solo attraverso gli spazi. Il resto non dovete saperlo." {n}Si inchina brevemente e assume una posizione di combattimento.{/n} "Entrate nel labirinto, Domin'{name}."
+
+### u054520
+"Questo è il rituale del legame. Per volontà dell'Imperituro, i nostri destini sono ora uniti, ma devo ancora guidarvi nel dedalo della mia mente. Sebbene sia solo mia predestinazione percorrerne i corridoi in cerca di risposte, la vostra immagine deve diventare parte dell'intrico. Perché io sono la vostra ombra, Domin'{name}, e la vostra presenza mi aiuterà a percepire qualunque minaccia possa incombere su di voi."
+
+### u054521
+"Istruzioni. Indicazioni. Una raffigurazione dell'enigma che può essere risolto solo all'interno della propria coscienza, seguendone curve e svolte. Io non ho bisogno di queste linee per trovare la strada, ma per voi serviranno da filo guida."
+
+### u054522
+{n}Il respiro di Kibellah è regolare e la sua espressione solenne non muta.{/n} "Ora siete sul sentiero. La vostra ombra percorre ora il labirinto, e il mio sguardo ora può vedere quando il pericolo si avvicina a voi." {n}Le sue labbra continuano a muoversi ancora per un po', gli occhi che seguono le linee sul pavimento.{/n}
+
+### u054523
+"Grazie, Domin'{name}. Credetemi quando vi dico che era importante. Per me. Per il nostro legame."
+
+### u054524
+{n}Kibellah alza lo sguardo su di te. Risponde con un cenno riservato.{/n}
+
+### u054525
+"Non lo facciamo per vostro divertimento, Domin'{name}, e non è nemmeno una 'espressione'. Ciò che non comprendete ha comunque un significato."
+
+### u054526
+{n}Kibellah ti lancia un'occhiata apprensiva.{/n} "Non siete {mf|tenuto|tenuta} a capire. Avete preso parte al rituale. Basterà."
+
+### u054527
+{n}Il suo volto resta impassibile.{/n} "Le vostre parole non hanno causato alcuna offesa."
+
+### u054528
+{n}Solleva il mento.{/n} "Comprendere... me? Perché, Domin'{name}? Il mio destino è preordinato e i nostri posti assegnati. Entrambi dobbiamo servire l'Imperituro come il Suo disegno ha predetto." {n}Kibellah esita. Vedi il suo sopracciglio inarcarsi per poi raddrizzarsi subito.{/n} "Ma se tale è davvero il vostro desiderio..."
+
+### u054529
+"Il mio cammino di servizio all'Imperatore Imperituro è fatto di molte svolte e insidie. Ogni mente è carica di debolezza, e solo affinandola senza sosta si può raggiungere la concentrazione e acuire la propria percezione. Immagino i Precetti della Rete come un dedalo di intrichi e vicoli ciechi. Ogni volta che entro in trance, che sia dell'anima o di battaglia, percorro questo sentiero dall'inizio alla fine. E ora che ne fate parte, sarete lì con me la prossima volta che entrerò nel labirinto."
+
+### u054530
+"Potreste giudicarlo strano. Vivete in un mondo così lontano dal mio che tali rituali devono sembrarvi assurdi." {n}Si concede un sorriso appena accennato agli angoli della bocca, e una scintilla di imbarazzata curiosità si accende nel suo sguardo di solito distaccato.{/n} "Sono certa che troverei i vostri rituali altrettanto misteriosi."
+
+### u054531
+"Partecipare a una delle vostre cerimonie?" {n}Kibellah si ferma a pensare, poi ti rivolge un inchino rispettoso.{/n} "'Ricambiare la cortesia' — è così che si dice quassù, non è vero? Attenderò il vostro invito."
+
+### u054532
+{n}Socchiude gli occhi.{/n} "Il vostro mondo mi è alieno, Domin'{name}. Eppure, conoscerlo un poco potrebbe aiutarmi a migliorare il mio servizio sia a voi sia all'Imperituro. Permettetemi dunque di osservare uno dei rituali che riempiono la vostra vita. Lo farò con gratitudine."
+
+### u054533
+{n}Annuisce.{/n} "Rispettiamo {mf|ciascuno|ciascuna} il proprio filo."
+
+### u054534
+{n}Kibellah si raddrizza, ripone l'arma e ti rivolge un breve inchino.{/n} "Il labirinto vi ha {mf|accettato|accettata}. Abbiamo danzato tra linee e menti che si incrociano, e con la danza ora siamo legati."
+
+### u054535
+{n}Per un osservatore esterno, ciò che è accaduto qui sarebbe sembrato un normale combattimento, ma i tuoi sensi colgono... qualcosa di più. Ti permettono di percepire un legame fragile che si è formato tra voi due nel mezzo di questa danza di lame. È come se la mente di Kibellah si fosse aperta, si fosse protesa verso la tua e... l'avesse conosciuta. Una sorprendente dimostrazione di potere e direzione per qualcuno che non possiede alcuna capacità psichica — o che sembra ignorare il proprio dono.{/n}
+
+### u054536
+"Vedo che hai trovato una prelibatezza di tuo gradimento?"
+
+### u054537
+[Avvicinati a Kibellah] "Non rimpiangere mai un'azione che ti ha dato ciò che desideri. Tu e io siamo qui, {mf|soli|sole}. Che importanza ha una piccola bugia?"
+
+### u054538
+"Come ti sembrano le 'cerimonie' dei ponti superiori?"
+
+### u054539
+"È ora che questa serata noiosa finisca. Dovremmo tornare ai nostri doveri."
+
+### u054540
+"Cameratismo. Passare tutti i giorni a faticare può essere... deprimente".
+
+### u054541
+"Gratitudine. Il mio equipaggio è disposto a dare la vita per la dinastia, e questo è il mio modo di lodare il loro servizio."
+
+### u054542
+"Potere. Queste persone sono accorse a uno schiocco delle mie dita. Mi guardano, pendono da ogni mia parola e gesto, sperando contro ogni speranza che io li degni di un sorriso o di uno sguardo."
+
+### u054543
+"Sei una mia compagna — non posso semplicemente ignorare te e i tuoi desideri!"
+
+### u054544
+"Ho imparato ad apprezzare la tua compagnia."
+
+### u054545
+"Volevo mostrarti che nella vita ci sono altre cose oltre al servizio e al dovere."
+
+### u054546
+"Grazie per questa serata. Spero che non sia l'ultima."
+
+### u054547
+[Guarda gli altri presenti] "Possibile che qualcuno qui trovi inquietante la condotta dell'ospite del Lord Capitano?"
+
+### u054548
+[Sorridi a Kibellah] "Vedo che hai già padroneggiato l'arte di attirare l'attenzione. Sembri decisamente nel tuo elemento."
+
+### u054549
+"Ho la sensazione che questo ricevimento sia stato un terribile errore."
+
+### u054550
+"Non so che farmene di una lama che cerca di ingannarmi e di prendersi gioco di me. Ricordalo."
+
+### u054551
+[Avvicinati] "Sembra promettente."
+
+### u054552
+"È la prima volta che sei sincera con me sui tuoi desideri. Vedere la tua sincerità — questo è il dono davvero inestimabile qui."
+
+### u054553
+"Sei il mio strumento, la mia lama — una che intendo mantenere."
+
+### u054554
+"Voglio restare con te, da qualche parte in privato."
+
+### u054555
+[Bacia Kibellah]
+
+### u054556
+[Indica la sua maschera da filatrice e le sue insegne] "La tua scelta d'abbigliamento non è consueta per simili ricevimenti."
+
+### u054557
+"Che significa 'perché'?"
+
+### u054558
+"Sei tutto ciò di cui ho bisogno."
+
+### u054559
+"Non posso farlo."
+
+### u054560
+[Rivolgi a Danrok un'occhiata eloquente]
+
+### u054561
+"Mi sono {mf|stancato|stancata} della folla. Fai due passi con me."
+
+### u054562
+{n}Kibellah spicca nettamente tra gli ufficiali presenti — sia perché preferisce le insegne complete di un membro del Bloodspun Web all'abito formale, sia per il vuoto che la circonda. Gli altri invitati mantengono le distanze, come se un'aura di pericolo mortale li respingesse dalla tua compagna.{/n}
+
+### u054563
+"Domin'{name}. Siete qui." {n}Kibellah non suona né entusiasta né solenne — il suo tono è indifferente mentre i suoi temibili artigli di metallo stringono una fetta di frutta presa da uno dei piatti.{/n}
+
+### u054564
+{n}Sorride.{/n} "Un cibo come questo è impossibile da trovare nelle baie inferiori. Non so cosa sia, ma ha un sapore incredibile." {n}Il succo le cola lungo le dita e la mano. Sembra essere l'unica qui a non aver perso l'appetito — i volti degli ufficiali sono diventati maschere pallide e allarmate, e nessuno ha fretta di godersi il banchetto.{/n}
+
+### u054565
+"Sto tentando di scrutare oltre il guscio fiorito fino al nucleo, ma continua a sfuggirmi." {n}Kibellah ti guarda negli occhi.{/n} "Qual è lo scopo di questo rituale, Domin'{name}? Spiegatemelo."
+
+### u054566
+{n}Kibellah evita il tuo sguardo mentre voi due vi allontanate dagli altri ospiti. Sembra calma, ma il lieve tremito che le scorre lungo la mano destra tradisce la sua agitazione. Una volta {mf|soli|sole}, ti guarda dritto in faccia.{/n}
+
+### u054567
+"Ho capito cosa state facendo qui, e so che chiamarlo rituale era un sotterfugio. I veri rituali sono costanti, immutabili, come i cicli dei macchinari di raffreddamento nelle viscere della nave o i turni dei servitori delle baie. Questo era... spontaneo, qualcosa che avete preparato solo per me, e poi siete {mf|rimasto|rimasta} al mio fianco per tutto il tempo. Ora eccovi qui, ad accordarmi un'altra richiesta. Perché?"
+
+### u054568
+{n}Il volto di Kibellah si rabbuia per un istante, ma subito dopo il suo debole sorriso si allarga.{/n} "È un lusso che nessun filatore può permettersi." {n}La sua voce scende in un sussurro dolce.{/n}
+
+### u054569
+"Deprimente? Servire il proprio filo non è la gioia più grande che esista? Voi più di chiunque altro dovreste saperlo, Domin'{name}."
+
+### u054570
+"Sono troppo appariscente accanto al resto dei vostri servitori." {n}Kibellah guarda gli altri ospiti, che distolgono subito lo sguardo.{/n} "Una maschera adatta — è ciò che serve per un rituale come questo. Sono venuta impreparata. Non accadrà più."
+
+### u054571
+"Si merita gratitudine per ciò che il dovere richiede? Queste persone agirebbero diversamente senza la vostra ostentazione di riconoscenza? Spero di no."
+
+### u054572
+"Davvero? Spero che questo potere che tanto amate serva a uno scopo diverso dalla vuota vanità."
+
+### u054573
+"Ho visto abbastanza per capire quali maschere e quali gesti i Suoi servitori usano attorno a voi. Basta così. Torniamo {mf|ciascuno|ciascuna} al proprio filo e aspiriamo a dare tutto all'Imperituro, ora e per sempre."
+
+### u054574
+"Mi sento a disagio. Persone strane, suoni e gesti strani..." {n}Kibellah emette un respiro brusco. Lo sguardo le si fa vuoto e la mano cerca il coltello da tavola.{/n} "Mi sto... perdendo in questo vortice."
+
+### u054575
+{n}Stringendo il coltello, comincia a incidere linee direttamente sul costoso piano di legno del tavolo. Un mormorio nervoso corre tra la folla. Gli sguardi tesi sono fissi sull'utensile di metallo dall'aria innocua, appena affilato, nella mano della cultista del Bloodspun Web.{/n}
+
+### u054576
+{n}Inclina il capo, studiando il tuo volto.{/n} "'Altre cose', Domin'{name}?"
+
+### u054577
+{n}Kibellah ti guarda con lieve confusione.{/n} "Il mio aspetto dice a chi mi circonda chi sono. Qui ognuno indossa una maschera per il proprio filo. Non è un requisito dei vostri rituali?" {n}Lancia un'occhiata alla sala sontuosa, ai decori abbaglianti e agli ufficiali elegantemente vestiti.{/n}
+
+### u054578
+{n}Le tue parole disperdono l'attenzione timorosa puntata su Kibellah come un incrociatore d'assalto disperde uno squadrone di predoni. Gli ufficiali smettono di fissare la tua intimidatoria compagna.{/n}
+
+### u054579
+{n}Le tue parole costringono gli altri presenti a distogliere lo sguardo, ma nell'aria permane un senso di apprensione — ogni ufficiale sembra ora tendere l'orecchio per cogliere il minimo movimento di Kibellah.{/n}
+
+### u054580
+{n}Sbatte le palpebre sorpresa e alza lo sguardo su di te. Guarda a destra e a sinistra, come se cogliesse il senso delle tue parole... e poi la sua risata limpida e genuina riempie la sala, facendo trasalire tutti attorno a lei.{/n} "Suppongo sia vero, Domin'{name}! Non turberò oltre i vostri sudditi."
+
+### u054581
+{n}La tua battuta le passa sopra la testa — è troppo concentrata, e né le tue parole né l'attenzione opprimente degli altri ospiti possono interrompere il suo processo simile a una trance.{/n}
+
+### u054582
+{n}È chiaramente consapevole degli sguardi che riceve e dei sussurri spaventati che le fluttuano attorno, eppure la sua espressione resta impassibile.{/n}
+
+### u054583
+"Allora portatemi là... {name}." {n}Senti appena la voce di Kibellah mentre pronuncia il tuo nome in modo semplice per la prima volta.{/n}
+
+### u054584
+{n}Kibellah guarda il dedalo che ha tracciato e sospira.{/n} "Ogni volta che perdo il mio filo... ogni volta che il mondo esterno mi costringe a deviare... torno al labirinto. Ha tutte le risposte. La mia meditazione aiuta. Trovando la via d'uscita, ritrovo me stessa e lodo la rettitudine di servire l'Imperituro."
+
+### u054585
+"Perché? Voi avete guardato dietro il sipario della mia esistenza, e ora io ho guardato la vostra." {n}Kibellah ti fissa intensamente.{/n} "Non credo che abbiamo udito tutte le parole che oggi qui avrebbero dovuto essere pronunciate. È perché non desiderate dirle davanti a... testimoni?"
+
+### u054586
+{n}Kibellah si immobilizza.{/n} "Le vostre parole suonano pericolose, Domin'{name}." {n}Ti porta una mano al collo e la fa scivolare in basso.{/n} "Ma posso capire perché lo pensiate. Tale è il destino del Domin': il peso del potere... Il peso di vivere da predatore."
+
+### u054587
+{n}Le labbra di Kibellah si stendono in un sorriso. Ti posa lentamente una mano sulla spalla.{/n} "Io... condivido la vostra attesa, Domin'{name}."
+
+### u054588
+{n}Kibellah trae un respiro spezzato e si allontana da te, gli occhi ardenti che guardano altrove.{/n} "Il tempo della mia visita è giunto al termine. Grazie per il rituale, Domin'{name}, e per aver risposto alla mia domanda. Ora devo tornare al mio filo."
+
+### u054589
+{n}Con la dignità di un vero nobile, l'Alto Factotum fulmina con lo sguardo i presenti e li zittisce con un sorriso crudele. Le voci ansiose si spengono.{/n}
+
+### u054590
+"Volevate affilarmi." {n}L'espressione di Kibellah si indurisce.{/n} "Siete {mf|saggio|saggia}. Ora che ho studiato il vostro mondo, posso eccellere come vostra protettrice, vostra serva. Grazie per avermi donato questa chiarezza."
+
+### u054591
+{n}Kibellah ricambia — dapprima con esitazione, poi con passione. Le sue labbra sono calde e morbide — sorprendentemente, per qualcuno che sembra tessuto di muscoli e indomabile volontà.{/n}
+
+### u054592
+{n}I suoi occhi si spalancano leggermente.{/n} "Dunque è così, Domin'{name}..."
+
+### u054593
+{n}Kibellah chiude gli occhi, le labbra segnate da un lieve sorriso che sembra custodire un segreto inespresso.{/n} "Come vi aggrada, Domin'{name}."
+
+### u054594
+{n}Danrok sospira pesantemente e abbassa lo sguardo.{/n}
+
+### u054595
+{n}All'improvviso distoglie lo sguardo. Un sorriso le sfiora le labbra.{/n} "Quando mi avete chiesto se volevo osservare i rituali del vostro mondo... non sono stata del tutto sincera nella risposta. Sì, vedere il mondo del Domin' è un dono inestimabile, ma... ciò che desideravo davvero era vederlo con voi." {n}Ti rivolge uno sguardo indagatore, socchiudendo gli occhi.{/n} "Che ne pensate, Domin'{name}? La vostra lama vi ha deluso?"
+
+### u054596
+{n}Si interrompe bruscamente, gli occhi tesi.{/n} "Devo chiederlo. Tutti sanno che il vostro cuore è già preso — vi siete già {mf|legato|legata} a un altro filo. Intendete dire che spezzereste questo legame perché io possa diventare la vostra sola e unica prescelta?"
+
+### u054597
+{n}La tensione nella sua voce svanisce, lasciando posto a calore e fiducia.{/n} "Dunque... quale sarà il vostro prossimo passo, Domin'{name}?"
+
+### u054598
+"Non c'è posto per la benevolenza oziosa, né lungo il vostro filo né lungo il mio." {n}Gli occhi di Kibellah sembrano quasi brillare nel buio.{/n} "Eppure mi offrite attenzioni e privilegi che sono al tempo stesso immeritati e superflui. Perché?"
+
+### u054599
+{n}Kibellah abbassa il capo, poi ti guarda con calore.{/n} "Qui, in alto, il sangue di tutti porta ancora il desiderio di ciò che il mio culto considera debolezza: attaccamenti, intimità. Capisco, ma io non ne ho bisogno. Eppure, vi sono grata per l'offerta." {n}Si scuote leggermente, come gettandosi sulle spalle un familiare mantello di distacco.{/n} "Ora dobbiamo tornare {mf|ciascuno|ciascuna} al proprio filo. Grazie."
+
+### u054600
+{n}Kibellah ti rivolge un cenno secco.{/n} "Avete mantenuto la promessa. Ciascuno di noi ha intravisto il mondo dell'altro, ma ora dobbiamo tornare al nostro. Grazie, Domin'{name}." {n}Si inchina solennemente e prende congedo.{/n}
+
+### u054601
+{n}Danrok, il cui sguardo acuto e preoccupato è fisso su Kibellah e la cui bocca è tesa nel più cortese dei sorrisi, ti rivolge un inchino frettoloso.{/n} "Vostra Signoria!"
+
+### u054602
+"Pensavi a me?"
+
+### u054603
+"Non volevo complicare il tuo rituale."
+
+### u054604
+[Sogghigna] "Che confessione. Ti sei sottomessa a un avversario che non ti ha nemmeno inflitto un singolo colpo! Come ci si sente?"
+
+### u054605
+"Dubito che il Dio-Imperatore vieti il nostro legame."
+
+### u054606
+"Pensare a qualcuno a cui si tiene è perfettamente normale."
+
+### u054607
+"Perché sei così sconvolta? Non puoi riservare nemmeno una piccola parte della tua vita a te stessa?"
+
+### u054608
+"Mi rifiuto di rispondere a questa domanda."
+
+### u054609
+"Continuerei a fare il mio dovere."
+
+### u054610
+"Accetterei che la comparsa di qualcuno di importante nella mia vita non potesse che gettare un po' di scompiglio."
+
+### u054611
+"Desideri e passioni non mi fermeranno. I predatori non chinano il capo. Né si lasciano scoraggiare dagli ostacoli."
+
+### u054612
+"Sono {mf|stufo|stufa} dei tuoi tormenti. Non ci sarà più nulla a distrarti, perché io e te abbiamo finito."
+
+### u054613
+{n}Kibellah compie un gesto rituale, ma noti che le sue dita tremano.{/n} "Domin'{name}, dovete sapere cos'è accaduto. Voi e nessun altro."
+
+### u054614
+"Durante la divinazione che mi ha rivelato il tradimento di Adalbert, la mia trance è stata interrotta. Invece di convergere su un unico punto, i miei pensieri sono stati sviati dal percorso previsto, e ho perso il mio filo." {n}Ti guarda con angoscia negli occhi.{/n} "Ciò che mi ha distratta... erano pensieri su di voi."
+
+### u054615
+{n}Annuisce.{/n} "La vostra immagine si è insinuata nella mia mente quando avrebbe dovuto agire come una lama in cerca del bersaglio — quando tutto il mio essere era concentrato sull'adempimento del mio dovere. La mia trance si è spezzata, e ho commesso un'offesa contro l'Imperituro."
+
+### u054616
+{n}Scuote il capo.{/n} "Lo so, ma la vostra ombra mi ha ostruito la vista mentre cercavo un segno da Lui."
+
+### u054617
+{n}Aggrotta la fronte.{/n} "Avete scelto un brutto momento per scherzare. Con l'addestramento e l'astinenza, la mia mente è stata plasmata per essere impenetrabile alle influenze esterne. Eppure vi siete {mf|fatto|fatta} strada con la forza nell'occhio della mia mente e avete messo a rischio l'intero rituale."
+
+### u054618
+"Sono riuscita a ristabilire la trance e a bandire tutti i pensieri che non appartenevano. Ma che sia accaduto è comunque preoccupante." {n}Fa una pausa.{/n} "Voi... mi siete {mf|caro|cara}, più di quanto avessi capito all'inizio. Ma il mio dovere è servire l'Imperituro. E se..." {n}Esita, poi ti guarda intensamente.{/n} "E se la vostra presenza nella mia mente, nel mio labirinto... fosse contraria ai Precetti?"
+
+### u054619
+{n}I suoi occhi lampeggiano.{/n} "Ogni vita diventa morte. Ogni filo di scelta fa parte del Bloodspun Web. Ogni movimento della mia anima appartiene ad Ahn—" {n}Si interrompe bruscamente.{/n}
+
+### u054620
+"Non capite. Può essere normale per i profani, ma non all'interno del Bloodspun Web. Non per me. Se perdo il controllo di ciò che fa di me un'arma impeccabile — cosa resterà di me?"
+
+### u054621
+{n}Gli occhi di Kibellah si riducono a fessure.{/n} "Attenzione, Domin'{name}. Nemmeno voi potete presumere di parlare per Lui. I Suoi disegni sono imperscrutabili — il meglio che possiamo fare è leggere i segni e sperare che il nostro servizio Gli sia gradito."
+
+### u054622
+"Domin'{name}... i nostri destini sono connessi. Percorriamo lo stesso labirinto. Ditemi... che fareste se le preoccupazioni della vostra mente intorpidissero la vostra risolutezza e guastassero il vostro spirito?"
+
+### u054623
+"Ma..." {n}esclama prima di tacere per un istante. Il suo sguardo ti brucia... ma poi la sua espressione cambia.{/n} "Capisco. I Precetti non sono il vostro destino. Non potete dirmi cosa fare. Potremo anche percorrere lo stesso labirinto, ma il sentiero devo trovarlo io."
+
+### u054624
+{n}Kibellah ti rivolge uno sguardo di dubbio doloroso — e di tenerezza.{/n} "Basta. Torniamo indietro." {n}Prima di voltarsi per andare, le sue dita si avvolgono attorno alla tua mano e la stringono con passione.{/n}
+
+### u054625
+{n}Kibellah annuisce, anche se con una certa incertezza.{/n} "Certo. Sarebbe strano aspettarsi che diciate altrimenti, Domin'{name}."
+
+### u054626
+{n}Lascia andare una risata sommessa.{/n} "La vostra vita è già abbastanza in disordine così com'è. Eppure, la vostra capacità di esistere nel pandemonio senza perdere di vista il vostro obiettivo merita qualche lode..."
+

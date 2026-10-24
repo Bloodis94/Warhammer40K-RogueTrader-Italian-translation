@@ -1,0 +1,771 @@
+### u050132
+"Allora di cos'altro hai bisogno, {name}?"
+
+### u050133
+"Eviscerator di Illiridos, Fiamma del Regno di Barkhag e Massacratore di Carrocius il Pallido... Illiridos era un mondo abitato dai nostri lontani cugini Aeldari — finché non vi guidai un'incursione di mietitura. Il Regno di Barkhag era un ammasso a sé stante ai margini di Commorragh, prima che entrasse in guerra con la Reaving Tempest. E quando me ne andai, guadavo nel sangue dei suoi abitanti."
+
+### u050134
+"Il Dracon è il primo tra le lame del Kabal della Reaving Tempest, e il Drukhari che sta un solo gradino sotto l'Arconte. Il Dracon guida le incursioni e muove guerra agli altri Kabal, tiene a bada gli arroganti Trueborn e gli arrivisti nati a metà, e può scegliersi qualunque avversario in qualunque battaglia. Yremeryss un tempo aveva altri nella sua cerchia ristretta... ma io mi assicurai che sparissero tutti, uno dopo l'altro, e che i loro successori fossero troppo terrorizzati per prenderne il posto. Fu allora che mia sorella ingaggiò un Ordine degli Incubi come guardia del corpo. Gli Incubi... non rispondono alla paura né alle mazzette."
+
+### u050135
+{n}Il volto di Marazhai si apre in un sorriso.{/n} "Quando un mon-keigh viene lasciato solo con me e la mia arte del dolore, lo getto in un pozzo profondo di sofferenza da cui farebbe qualunque cosa pur di fuggire. La vostra specie ha anime fragili. Le vostre convinzioni e i vostri princìpi sono un'illusione che dà un miraggio di significato alle vostre vite. Io e Achilleas abbiamo avuto parecchio tempo da soli prima del tuo arrivo. Quando è uscito a incontrarti, era già mio. Mi sono comprato la sua lealtà con una promessa — non toccare mai più il suo corpo né la sua mente."
+
+### u050136
+{n}Marazhai si china verso di te, con l'interesse che gli cova negli occhi.{/n} "E di cosa vuoi parlare, {name}?"
+
+### u050137
+"Cospirare? No, no. Non c'era alcun complotto fra noi — lei si è semplicemente gettata sulla mia esca. All'inizio avevo in mente di usare quello di cui ti fidavi — il mon-keigh ustionato con cui avevamo passato lunghe, lunghissime ore ad aspettare il tuo arrivo. Ma mia cugina fu così rapida che poi rintracciò il mon-keigh, lo uccise e prese il dispositivo che usava per contattarmi."
+
+### u050138
+"Quando Yremeryss ci ordinò di devastare gli insediamenti dei mon-keigh, io e Tazarra incontrammo resistenza. Ho cacciato la tua specie troppo a lungo per non accorgermi di quanto bene respingessi proprio tu i nostri attacchi. La disfatta nell'arena di Tazarra, la comparsa sulla nave saccheggiata... la tua specie di solito è impotente contro di noi, ma non in quell'occasione. Cominciai a sospettare che non ci saresti {mf|riuscito|riuscita} senza un aiuto esterno. Un aiuto dal nostro lato."
+
+### u050139
+"Non avevo alcuna intenzione di finire i miei giorni facendo la carne da macello nell'arena. E poi tu..." {n}Marazhai si sporge e ti inchioda con lo sguardo.{/n} "Mi hai offerto con noncuranza un'alleanza. Dopo ciò che ti avevo fatto... Perché?"
+
+### u050140
+"Perché l'estasi della sofferenza è la più alta forma di piacere, accessibile solo agli esseri superiori. Per la tua stessa natura, creature come te sono incapaci di conoscere una tale gratificazione."
+
+### u050141
+"Spodestare un Arconte è tutt'altro che facile, anche uno che ha già infangato la propria reputazione. Ogni membro di un Kabal ha i suoi sostenitori, e Yremeryss non fa eccezione. Nazrakhei mi promise un processo farsa nella Corte d'Ossidiana, dall'esito già stabilito. Yremeryss doveva essere condannata e deposta. Io avrei dovuto prendere il suo posto e trasformare la Reaving Tempest in un vassallo fedele del Cuore Nero."
+
+### u050142
+"No. Con mio profondo rammarico. Forse dovrei essere io a mostrare un po' di iniziativa, adesso." {n}Marazhai ghigna ai suoi pensieri inespressi.{/n}
+
+### u050143
+"Piantai i primi semi avvelenati nella sua anima fin dal nostro primo incontro. Lasciai cadere un'allusione: sapevo che ne era stato del suo mondo. La attirai... e la lasciai con te. Il tempo fece il resto... quello, e una spiacevole scoperta a bordo della tua stessa nave."
+
+### u050144
+"Mi ha raccontato ciò che aveva visto nei tuoi alloggi... un pezzo della sua casa, distrutto, stravolto fino a diventare irriconoscibile, ridotto a trofeo su una parete! Sì, quello fu il punto di rottura. L'ultima goccia in un pozzo profondo di dubbio, che dissolse una volta per tutte la sua ingenua fiducia nei mon-keigh... E poi venne a cercare risposte dal suo cugino oscuro."
+
+### u050145
+"Non le chiesi di consegnarti a me — no, farlo avrebbe indotto la mia povera cugina a dubitare di sé ancor più di quanto già facesse. Le dissi semplicemente dove cercare le tracce del suo mondo astronave, e le risposte alle sue domande — un favore a una consanguinea, nulla di più. E poi mi preparai al tuo arrivo, perché l'unico modo in cui lei avrebbe raggiunto quel luogo era con te."
+
+### u050146
+"Mandrakes... una razza immonda che si annida nelle viscere di Commorragh. La loro capacità di trovare vie attraverso le ombre è stata messa a buon frutto. Ho promesso loro trofei proibiti dai forzieri della Reaving Tempest, una volta divenuto Arconte..." {n}Marazhai esita, poi fa un gesto per indicare di aver finito di parlare.{/n}
+
+### u050147
+"Fui consegnato al Culto delle Wych perché ne facessero ciò che volevano. Prima mi costrinsero a combattere la feccia nell'arena, e poi, quando si furono saziate della mia degradazione, mi fu concesso l'ingresso fra i Proseliti Insanguinati."
+
+### u050148
+{n}La bocca di Marazhai si tende in un ghigno.{/n} "Hai già provato una volta ad assicurarti un animale da compagnia — e com'è andata? Di certo non pensi che il tuo guinzaglio immaginario, che non è riuscito a trattenere Yrliet, riesca a tenere me?"
+
+### u050149
+{n}Le labbra di Marazhai si tendono in un ghigno.{/n} "Vedremo chi di noi si sottomette più prontamente all'addestramento."
+
+### u050150
+"Il Kabal del Cuore Nero è il più antico di tutti i Kabal. E il più grande. Proietta la sua ombra su tutta Commorragh, e quando il Cuore Nero colpisce, ti sottometti o muori. La Reaving Tempest non era pronta a perire, così quando l'ombra del Cuore Nero si allungò fino a noi, i predecessori di Yremeryss scelsero di piegare il ginocchio e di diventarne vassalli."
+
+### u050151
+"In tutto. Gli Asuryani sono pallide ombre dei nostri antenati — noi siamo i loro veri eredi. Gli Asuryani si nascondono da Colei che ha Sete dietro i loro Sentieri, affidandosi alle visioni dei loro preziosi Veggenti, ciechi alla realtà che li circonda. Noi Drukhari ridiamo in faccia all'ignoto — prosperiamo sul massacro e sul dolore che infliggiamo."
+
+### u050152
+"La continuazione della mia esistenza. Quando ho perso il mio rango, sono diventato preda per chiunque fosse tentato dall'idea di uccidere un Kabalite caduto in disgrazia — per vendetta o solo per il piacere di uccidere. A Commorragh, un Drukhari solitario è un bersaglio. I miei talenti saranno anche prodigiosi, ma non mi faccio illusioni sulle mie possibilità."
+
+### u050153
+{n}Il sorriso di Marazhai si fa feroce.{/n} "Sei {mf|un pessimo bugiardo|una pessima bugiarda}, {name}."
+
+### u050154
+"Non puoi sperare di comprendere i meandri di Commorragh e di come è strutturata, {name}. Qui siamo tutti alleati e peggiori nemici gli uni degli altri, torri di forza e traditori ipocriti insieme. I Culti sono sempre stati mezzo passo sotto i Kabal nella gerarchia, e le Wych hanno gustato la possibilità di maltrattare qualcuno che un tempo le guardava dall'alto in basso."
+
+### u050155
+"Se la nostra conversazione è finita..." {n}Marazhai schiocca le dita con impazienza.{/n}
+
+### u050156
+"Ora che ho preso piede nello spazio reale, devo trovare un modo per riconquistare il mio Kabal. Yremeryss è morta e la Reaving Tempest verrà fatta a pezzi da Commorragh... Ma se si lasciano massacrare, non proverò alcuna pietà particolare per quella feccia inutile."
+
+### u050157
+"Su una montagna di cadaveri, immersi nelle lacrime e nel sangue dei nostri nemici." {n}Marazhai si lecca le labbra.{/n} "Non illuderti pensando che usciremo vivi da questo posto senza violenza. Io, per parte mia, spero che ce ne sia in abbondanza."
+
+### u050158
+"Ma c'è un particolare spiacevole. Un Arebennian si è messo sul tuo cammino — uno della tribù di Cegorach, che si annidano nell'intrico della Tela. Nella vostra lingua li ho sentiti chiamare Arlecchini. Quello comparso nella Corte d'Ossidiana è il più pericoloso e imprevedibile di tutti. Comincio a pensare che la sua visita sia un segno che gli eventi che si dipanano intorno a noi non sono stati lasciati al caso. Forse sono il risultato di un'interferenza... per volere della più alta autorità."
+
+### u050159
+"Non ho avuto parte nel furto di alcun sole, {name}. Ma posso garantire che non sia stata opera di Kabalite che agivano per ordine di altri capi della Reaving Tempest?" {n}Marazhai si acciglia.{/n} "No. Non posso parlare per Yremeryss e i suoi sgherri."
+
+### u050160
+"Non farmi attendere troppo, {name}. La mia arma è stanca di languire nel fodero."
+
+### u050161
+"E inoltre..." {n}Marazhai fa scorrere le dita artigliate lungo la tua guancia, lasciando solchi insanguinati.{/n} "Non ho ancora finito con te. No, nemmeno per metà."
+
+### u050162
+"La Città Oscura è il bastione dei Drukhari, la più magnifica di tutte le nostre roccaforti. I Kabal, i Culti delle Wych e gli Incubi la abitano, con sciami di Flagelli che volano sopra le teste e una miriade di reietti e di orrori, tra cui i Covi degli Haemonculi, che sguazzano sotto i piedi. Su quale vuoi sapere?"
+
+### u050163
+"E infine, Carrocius il Pallido... Era un antico Haemonculus che tradì gli Aezyrraesh per conto di un altro Kabal. Non fu una vittoria militare, ma personale. Nei suoi tentativi di rendersi invincibile, Carrocius si era cucito dentro le creature più letali delle profondità di Commorragh. Non lo salvò — gli strappai tutti e otto i cuori e li mandai al suo antico Covo come monito per gli altri."
+
+### u050164
+{n}Marazhai si lecca le labbra. Poi ghigna.{/n} "Fu una punizione. Una delle mie incursioni fu... meno fruttuosa di quanto avrebbe dovuto, e Yremeryss ordinò a Tervantias di impiantarmi a forza nella mente la conoscenza della ripugnante lingua dei mon-keigh — ufficialmente perché potessi almeno essere utile al Kabal convincendo i mon-keigh a entrare nelle loro gabbie. Cinque giorni trascorsi sotto un bruciatore cerebrale nel salone principale della guglia, per la gioia del seguito di Yremeryss. Mi slogai ogni articolazione dibattendomi nell'agonia contro le catene — ma sopporterei tutto di nuovo pur di espellere questo veleno dalla mia testa."
+
+### u050165
+{n}Marazhai annuisce, gli occhi che ti trapassano.{/n}
+
+### u050166
+"I Kabal sono le fondamenta su cui poggia il potere di colui che governa Commorragh — Asdrubael Vect. Che si tratti di una massa di berserker o di un cartello organizzato, la loro essenza è la stessa — un esercito di assassini pronti a devastare interi mondi per volere dei loro capi, o a strappare la gola a un Kabal vicino in una guerra dichiarata dagli Arconti."
+
+### u050167
+"I distaccati Incubi... dedicano la vita all'arte di uccidere, al punto da non tramare né inseguire deliziosi tormenti. Tutto il loro odio e la loro brama di sofferenza sono incanalati nel perfezionare la loro abilità."
+
+### u050168
+"Drukhari alati che hanno scelto di sottoporsi a un processo straziante per diventare una simile mostruosità. Scortano le navi da incursione e infliggono il primo colpo al nemico. A Commorragh, queste creature si accalcano in stormi per non cadere vittime dei più temibili fra i loro simili."
+
+### u050169
+"Che altro hai bisogno di sapere che non abbia già visto con i tuoi occhi? Sono le padrone delle arene, e sono le gladiatrici che nutrono il pubblico, nella sua agonia famelica, con spettacoli squisiti. I Culti spesso viaggiano nello spazio reale con le incursioni dei Kabal, per godere del dolore e catturare carne fresca per le loro arene."
+
+### u050170
+"Artisti della carne che preferiscono nascondersi nei loro laboratori e creare incubi con i materiali forniti dai loro servitori. Macchine del Dolore, Grotesque, Wrack — sono tutti frutti della loro sottile arte."
+
+### u050171
+"Ne sei {mf|sicuro|sicura}?" {n}Per un secondo, l'angolo della bocca di Marazhai si increspa verso l'alto in un ghigno.{/n}
+
+### u050172
+"Yremeryss non ha mai sopportato la posizione subordinata del Kabal. Le sue parole, e a volte le sue azioni, dirette contro il Cuore Nero, suscitavano mormorii di scontento e di paura fra coloro che la servivano. Io non ero disposto a rinunciare alla protezione del Kabal stesso di Asdrubael Vect — se fossi riuscito a spodestare Yremeryss con l'aiuto di Nazrakhei, molti nella Reaving Tempest mi avrebbero sostenuto."
+
+### u050173
+{n}Gli occhi di Marazhai si assottigliano e ti fissa per diversi secondi come se tentasse di forarti il cranio proprio in mezzo agli occhi.{/n} "Un divertente esempio di mente primitiva... Qualunque Drukhari sovrasta qualunque mon-keigh, e non nascondiamo il nostro atteggiamento verso il bestiame. Ma i miei consanguinei Kabalite? Ognuno di loro va trattato con cautela, e quelli che hanno già dimostrato forza e potenza sono una minaccia mortale di per sé. Io non mi bea nella sottomissione — accetto le cose come stanno. E aspetto che un punto debole si riveli e chiami la mia lama."
+
+### u050174
+"Farkaza Aezyrraesh, Avvelenatore di Asdruzhar ed Eletto di Shaimesh, era uno di questi esaltati capi dei Drukhari. Il risultato..." {n}Marazhai agita con noncuranza una mano, invitandoti ad ammirare la sua persona.{/n} "...è valso la fatica."
+
+### u050175
+"Che cosa fa uno qualunque della mia specie nello spazio reale, {name}? Mietevamo. Commorragh reclamava carne — la Città Oscura aveva subito perdite nell'ultima disgiunzione. Ci servivano fonti di dolce dolore per innescare le sue menti e i suoi corpi. Quando l'Arconte ordinò al mio Kabal di raccogliere il raccolto della regione, non sospettavo che si sarebbe trasformato in questo gioco fra te e me."
+
+### u050176
+{n}Un lieve mutamento passa sul volto di Marazhai, come se vi fosse appena calata un'ombra.{/n} "No. Nessuno parla del signore di Commorragh senza buoni motivi. Divertirti non è certo un motivo sufficiente."
+
+### u050177
+{n}Gli occhi scuri e divoranti brillano di interesse.{/n} "Fa' le tue domande. Deciderò io quale sia degna di risposta."
+
+### u050178
+{n}Marazhai distoglie lo sguardo da te.{/n} "Allora vai, {name}. Troverò qualcosa con cui divertirmi."
+
+### u050179
+"Ci deve essere un'altra ragione oltre alla sopravvivenza e all'ambizione? Commorragh non tollera la debolezza. Commorragh rispetta solo la forza e l'astuzia. O sali sui cadaveri dei tuoi nemici, o diventi uno dei gradini sotto i piedi."
+
+### u050180
+"Forse. Che altro?"
+
+### u050181
+"Dalla prima volta mi sto lentamente abituando a viaggiare attraverso il velo. Solo i mon-keigh potevano concepire un metodo di viaggio galattico tanto suicida. Eppure, è una novità. Ed è esaltante." {n}Marazhai fa un gesto con la mano.{/n} "Almeno ora so cosa sto affrontando. E di conseguenza troverò il modo di resistervi."
+
+### u050182
+{n}La bocca di Marazhai si tende in un ampio ghigno ferino.{/n} "{mf|Attento|Attenta}, {name}. La mia tolleranza per simili osservazioni finirà prima o poi — anche data la tua mente deprimentemente semplicistica e il tuo istinto di autoconservazione inesistente."
+
+### u050183
+{n}Marazhai ride.{/n} "Le parole di una debole cugina di una razza abituata a incolpare delle proprie sventure forze fuori dal proprio controllo. Vuoi la verità, o la menzogna che gli Asuryani si raccontano mentre vacillano sull'orlo dell'estinzione?"
+
+### u050184
+{n}Marazhai ghigna.{/n} "Hai fatto in modo che {d|Encyclopedia:CompMarazhai_Free}nessuno dei miei desideri venisse negato{/d}. Il tuo equipaggio avverte il mio potere su di loro e mi teme — mi immergo nel loro terrore ogni volta che metto piede sul ponte di comando. Bene. Il bestiame deve conoscere il proprio posto."
+
+### u050185
+{n}Le labbra di Marazhai si increspano in un ghigno.{/n} "Mi hai concesso {d|Encyclopedia:CompMarazhai_Compartment}territorio{/d}... non del genere a cui sono abituato, ma più che sufficiente a tenermi occupato mentre questa carretta fende il velo. Il tuo equipaggio sa quale settore della nave mi appartiene... e, a quanto pare, lo ha designato come discarica per chi infrange le regole. Non importa. Le loro urla suonano tutte uguali."
+
+### u050186
+{n}Marazhai ti fulmina con lo sguardo.{/n} "Osi pormi questa domanda, {name}? Ogni volta che questa chiatta penetra il velo, sono {d|Encyclopedia:CompMarazhai_Locked}lasciato solo{/d} con tutti gli incubi di Colei che ha Sete. Mi costa tutta la mia forza d'animo e il mio vigore tenerli a bada... e non c'è mai nessuno a portata di mano con cui concedermi uno sfogo — solo freddi muri e un portello stagno sigillato!"
+
+### u050187
+"So che esiste. So che il mio Kabal lo trovò, inerme e immobile, incapace di proteggere i suoi figli e le sue figlie. So che i consanguinei di Yrliet cominciarono a comparire come prigionieri nella guglia della Reaving Tempest, dove erano fonti di un dolore squisito, delizioso. Ho passato troppo tempo oltre i confini della nostra casa per sapere altro... ma bastò a tentare Yrliet con una falsa speranza."
+
+### u050188
+{n}Marazhai emette uno strano suono, metà tosse e metà risata.{/n} "Un lapsus, di certo? Sembra quasi che tu stia cercando di sbarazzarti di me."
+
+### u050189
+{n}Marazhai ride a lungo e profondamente.{/n} "Perché dici così? Ho promesso di riunirla ai suoi simili. Un ricongiungimento tanto atteso in una camera di tortura — lo trovo... molto commovente. Avrebbero avuto tanto di cui discutere, ma ci sarebbe stato tempo anche per divertirsi — noi cugini ci incontriamo così di rado, dopotutto."
+
+### u050190
+"Abbiamo già parlato, {name}. Non ho motivo di nascondere la verità, ormai — Yrliet ha esaurito la sua utilità per me. Osservare il suo volto mentre apprendeva la verità non ha prezzo."
+
+### u050191
+"No, non lo farà. Sei {mf|stato|stata} così gentile da sbarazzartene prima che le mie parole frantumassero il suo fragile cuoricino."
+
+### u050192
+"C'è altro, {name}?"
+
+### u050193
+"Ti intrigo? Un'espressione interessante." {n}Marazhai si china ancora più vicino e allunga la mano verso di te, afferrandoti il mento con le dita artigliate.{/n} "Non hai paura di me, ma... ne sei {mf|intrigato|intrigata}? Bene. Forse mi degnerò di soddisfare la tua curiosità. Se ti sottometti a me."
+
+### u050194
+{n}Lo sguardo del Drukhari si fa assassino. Sembra pronto a scagliarsi su di te... ma all'ultimo momento si guarda intorno e si trattiene.{/n} "Prega il tuo signore delle carogne che le nostre strade non si incrocino mai più, mon-keigh."
+
+### u050195
+"Dunque, i nostri interessi coincidono. Per ora."
+
+### u050196
+"{mf|Attento|Attenta}, {name} — sono i mon-keigh a correre e a nascondersi, non la nostra gente. Commorragh è l'eredità dei nostri antenati. Essi trovarono il modo di penetrare nell'intrico della Tela e di muoversi attraverso i suoi labirinti contorti. Pochi oserebbero viaggiare in questo regno frammentato, figurarsi erigervi dei bastioni. I Drukhari sono gli unici Aeldari a non temere gli orrori della Tela, perché ogni pericolo che superiamo ci rende più forti."
+
+### u050197
+"Hmm. Una decisione d'impulso, direi. La tentazione ha avuto la meglio su di te, eh? Dovresti valutare più attentamente le tue azioni, {name}."
+
+### u050198
+"Il mio bravo, obbediente animale..." {n}Marazhai ti guarda da sotto le palpebre abbassate.{/n} "Troverò il modo di illuminarti... e di trarre piacere dalla tua istruzione."
+
+### u050199
+"Non mi hai sentito quando ti ho risposto la prima volta? Non mi piace ripetermi."
+
+### u050200
+{n}Marazhai lascia sfuggire un sussulto appena udibile, e non sai dire se la sua sorpresa sia vera o finta.{/n} "Ah, un intenditore del potere in tutte le sue sfumature? Allora..." {n}Con un unico movimento, libera il braccio dalla tua presa e ti guarda da sotto le palpebre socchiuse.{/n} "Ti sei {mf|spiegato|spiegata} bene, {name}. Questo potrebbe essere... interessante."
+
+### u050201
+{n}Il Drukhari alza leggermente la testa, fissando intensamente la distanza.{/n} "Se verranno a bussare di nuovo, riceveranno la stessa accoglienza che riservai loro la volta scorsa. Perciò, tempera la tua paura — i Mandrakes vogliono solo arrivare a me, e io so come trattare i visitatori sgraditi."
+
+### u050202
+{n}Marazhai si scosta con una risatina.{/n} "Allora smetti di dire cose che non pensi, {name}. È pericoloso per quelli della tua specie."
+
+### u050203
+{n}Marazhai si guarda attorno sul ponte di comando. Per un attimo, ti sembra di cogliere incertezza in quegli occhi beffardi.{/n} "Io... devo adattarmi alle mie nuove circostanze. E a questo secchio che voi mon-keigh chiamate nave del vuoto. Queste paratie di lega... così primitive..."
+
+### u050204
+"Presentarmi al luogo dell'incontro con ciò che resta della Reaving Tempest. Sono sopraffatto dalla curiosità — è una trappola? O i miei ex vassalli sono così disperati da giocare davvero a carte scoperte? Hmm... Vedremo."
+
+### u050205
+"Questo concetto di 'dopo' è inutile qui. Quando sarà il momento, tornerò a Commorragh e {d|Encyclopedia:CompMarazhai_Archont}rivendicherò il trono dell'Arconte{/d}, il seggio che mi spetta di diritto. Ma per ora... per ora resterò qui, al tuo fianco. Sento che ci aspettano molto sangue e molta sofferenza — sarebbe un peccato perderseli."
+
+### u050206
+{n}Marazhai scrolla le spalle.{/n} "Il Kabal è praticamente morto... e {d|Encyclopedia:CompMarazhai_Corsair}tutti quelli che mi volevano morto{/d} sono periti insieme a esso. Ora che non sono più braccato dagli assassini, sono libero di scegliere i miei prossimi passi." {n}Il Drukhari emette un suono pensieroso.{/n} "È una sensazione strana. Me la vedrò più tardi, ma per ora sangue nuovo e sofferenza fresca ci attendono. Detesterei perdermi tutto il divertimento."
+
+### u050207
+"Allora di cos'altro hai bisogno di sapere?"
+
+### u050208
+"Hmm. Una spiegazione divertente di qualcosa che non puoi sperare di comprendere. Ma prevedibile."
+
+### u050209
+"Uh. Hai abbandonato in fretta l'argomento — perché non mi sorprende?"
+
+### u050210
+{n}Marazhai schiocca la lingua.{/n} "Furono i Mandrakes che usai per arrivare a te, la volta scorsa — creature delle profondità di Commorragh. Pensavano di potermi tendere un'imboscata qui, su questa tua chiatta. Diedi loro una dolorosa lezione. Incisi il simbolo degli Aezyrraesh sulla gola di uno e lo ributtai nelle ombre — perché servisse da messaggio a chiunque osi venire a prendermi la prossima volta."
+
+### u050211
+"È una casta di Commorragh. Nobili Drukhari nati in certe circostanze — la loro culla prima della nascita non era una provetta gestazionale amniotica, ma un grembo vivo. Portare un feto per un periodo così lungo equivale a una condanna a morte per una femmina Drukhari — è troppo vulnerabile agli attacchi dei nemici e non serve a nulla in un'incursione. A Commorragh, solo i Drukhari più potenti, in grado di circondarsi della migliore protezione, possono permettersi una simile stravaganza."
+
+### u050212
+{n}Marazhai sembra sincero, ma è chiaramente la sua verità quella che sta dicendo. Qualcosa nel suo volto ti fa pensare che ci sia un altro motivo per cui la razza dei Drukhari scelse una dimensione tanto turbolenta come propria casa.{/n}
+
+### u050213
+{n}Marazhai parla senza fretta, quasi pigramente, e con un orgoglio mal celato.{/n}
+
+### u050214
+"E ora è tempo di scoprire cosa sta accadendo al Kabal della Reaving Tempest, senza guida e abbandonato alla mercé di Commorragh. Hmm... i sopravvissuti verranno probabilmente scacciati nello spazio reale, a cadere preda di Sai'lanthresh... {name}, devi trovarli. Se incontriamo i resti del Kabal in questa dimensione, vorrò parlare con loro."
+
+### u050215
+"Condividevamo lo stesso sangue ed emergemmo nel mondo dallo stesso grembo. Eravamo entrambi Trueborn, ed entrambi stavamo al di sopra della feccia che nasce da provette e fiale."
+
+### u050216
+{n}Marazhai socchiude gli occhi.{/n} "Tieni a freno la tua arroganza, {name}. Yremeryss era astuta e letale, e se avessi sottovalutato le sue capacità e la sua forza, sarei stato cibo per gli ur-ghul da molto tempo. Il solo fatto che mi abbia superato parla da sé. Mi sono rifiutato di darle motivo di cacciarmi come traditore. No, la nostra rivalità, il nostro piccolo gioco che andava avanti dalla nascita, richiedeva tempo. E un'altra cosa... quando sei al vertice, hai bisogno di qualcosa che tenga a bada la noia. Questo gioco divertiva noi e terrorizzava il resto del Kabal."
+
+### u050217
+{n}Le labbra di Marazhai si tendono in un sorriso e ti fa cenno con indolenza.{/n} "Vieni, mio piccolo animale. Vedo come ti consuma il desiderio di starmi vicino."
+
+### u050218
+{n}Marazhai abbassa il capo al tuo avvicinarsi. Gli angoli della sua bocca si sollevano in un sorriso pieno di promesse.{/n} "Io e la mia attenzione siamo tuoi, {name}."
+
+### u050219
+{n}Alla tua vista, gli occhi di Marazhai si accendono.{/n} "Cosa brami, {name}?"
+
+### u050220
+{n}Con un sibilo furioso, Marazhai riporta indietro il braccio come per schiaffeggiarti — e poi, con un'incredibile forza di volontà, si trattiene e abbassa il braccio.{/n} "Pronuncia ancora una volta la parola 'pietà' davanti a me, {name}, e te ne pentirai amaramente, amaramente. La nostra conversazione è finita."
+
+### u050221
+"Cominciai a mandare spie e assassini. I miei occhi e le mie orecchie si infiltrarono nella tua nave, nelle tue città, e scoprirono una pista che portava a uno dei tuoi mondi. Una pista che finiva con un mon-keigh ustionato — la fonte delle informazioni su dove e quando il mio Kabal avrebbe colpito. Un piccolo stratagemma per attirarti lontano dal pianeta..." {n}Marazhai agita la mano.{/n} "...e il tuo piccolo informatore era nelle mie mani."
+
+### u050222
+{n}Marazhai ti lancia un'occhiata.{/n} "Hmm. È vero. Ma non sono un semplice mercenario, {name}. Strano che tu non ci abbia pensato quando mi hai offerto un'alleanza. Ma... non importa."
+
+### u050223
+{n}Il fuoco nello sguardo di Marazhai si spegne all'istante, ed egli si allontana, lo sguardo rivolto altrove.{/n}
+
+### u050224
+{n}Il Drukhari ti guarda, la testa inclinata in segno di scherno.{/n} "Che c'è, {name}? Hai paura di ciò che ho cominciato a scoprire dentro di te? Il tuo debole cuore da mon-keigh non regge la mia verità?"
+
+### u050225
+{n}Marazhai ghigna e si passa la lingua sulle labbra.{/n} "Ho avvertito la tua brama nell'istante in cui hai messo piede sul ponte di comando... E io bramo lo stesso. Vieni."
+
+### u050226
+{n}Marazhai scoppia in una risata sprezzante.{/n} "Mi avevi quasi convinto, {name}! Mi avevi quasi fatto pensare che fossi... qualcosa. Bene, ora hai infranto quell'illusione — e non ho più nulla da dirti."
+
+### u050227
+"Con grande piacere, {name}. Non ho alcun desiderio di indugiare su una simile delusione."
+
+### u050228
+"Oh no, {name}. Non te la caverai così facilmente. Troverò una punizione adeguata per questa mancanza."
+
+### u050229
+"Ascolto e obbedisco, {name}," {n}dice Marazhai, senza nemmeno un accenno di vera sottomissione.{/n}
+
+### u050230
+"Tervantias era alleato di Yremeryss, non mio. La Reaving Tempest è la sua patrona, e patrona anche delle Wych dell'arena. Ho avuto motivo di cercare la sua arte diverse volte, e ogni volta con difficoltà — ultimamente è stato lontano da Commorragh più spesso di quanto vi sia stato. Probabilmente era in una delle sue tane dove nasconde i suoi altri esperimenti e le sue altre creazioni."
+
+### u050231
+{n}Marazhai solleva un sopracciglio, annoiato.{/n} "Ricordo qualcosa. Che t'importa?"
+
+### u050232
+{n}Il Drukhari ti lancia uno sguardo carico d'odio.{/n} "Va detto che Nazrakhei non ha dovuto sforzarsi molto per mettermi contro la corte — non dopo il numero che hai fatto davanti agli Arconti riuniti."
+### u050233
+"Dopo che Tervantias litigò con le Wych e fu privato della protezione del Kabal, i suoi rifugi a Commorragh furono trasformati in trappole mortali — immagino siano stati saccheggiati e distrutti, ormai. I suoi altri nascondigli potrebbero trovarsi da qualche parte nell'intrico della Tela... o nello spazio reale. Ma quest'ultima possibilità è follia, perfino per un Haemonculus."
+
+### u050234
+"Quando il Grotesque di un Kabal rivale mi strappò il braccio all'altezza della spalla. Quando mi serviva una sostanza per estorcerti la verità nella Corte d'Ossidiana. Quando avevo desideri personali che solo un maestro della carne poteva soddisfare."
+
+### u050235
+{n}Marazhai incrocia le braccia e ti rivolge un sorriso allusivo.{/n} "Muori dalla voglia di saperlo, non è vero, {name}?"
+
+### u050236
+{n}Marazhai annuisce.{/n}
+
+### u050237
+{n}Marazhai guarda oltre te.{/n} "Nazrakhei doveva essere l'ascia che calava sul suo collo... ma è calata sul mio. Fu subdolo e degno di lode... ma perché? Un patto segreto con Yremeryss? O c'è un'altra ragione? Gli strapperò la risposta dalla gola insieme al suo ultimo respiro."
+
+### u050238
+{n}La bocca di Marazhai si allarga in un sorriso malvagio.{/n} "Certo. Se non sbaglio, hai incontrato {mf|tu stesso|tu stessa} l'infiltrato — un Kabalite che lasciò una larva di Tervantias in uno dei mon-keigh. O non hai mai capito il motivo del tradimento durante l'incursione sulla tua nave, ormai tanto tempo fa? Hmm. Allora non c'è bisogno che io menzioni gli agenti dormienti nascosti sui tuoi mondi."
+
+### u050239
+"Chi?" {n}Ti guarda con aria sconcertata.{/n} "Non ho idea di cosa tu abbia visto nel tuo stupore. La creatura dell'Haemonculus non evoca immagini specifiche — confonde la mente, costringendola a dipingere scene adatte a evocare confusione o paura. Né Tervantias né io ci curiamo dei rituali pignoli dei mon-keigh. La larva deve aver creato per te un ambiente adatto, in cui saresti {mf|stato più disposto|stata più disposta} a rispondere alle mie domande nella Corte d'Ossidiana."
+
+### u050240
+{n}Marazhai allunga la mano e tocca il marchio inciso sul tuo collo.{/n} "Mio piccolo animale, quanto è bello il mio marchio sulla tua carne. Dà un senso alla tua esistenza. Dice al mondo a chi appartieni. Perfezione."
+
+### u050241
+{n}Mentre ti avvicini, Marazhai volta la testa con studiata noncuranza per mostrare il marchio sul collo.{/n} "Come posso servirti, {name}?"
+
+### u050242
+{n}Il Drukhari ti socchiude gli occhi addosso, ma non dice nulla in risposta.{/n}
+
+### u050243
+{n}Marazhai ti guarda con beffarda condiscendenza.{/n} "Ammetto che mi hai divertito moltissimo, {name}. Hai {d|Encyclopedia:MiniJealousyRomanceBroken}perso il coraggio e te la sei data a gambe{/d} senza dire una parola! Ti sei {mf|umiliato|umiliata} così a fondo che non riesco a concepire degradazione più profonda." {n}Il Drukhari ride con autentico gusto.{/n} "Ah, dopo questo non voglio nemmeno sporcarmi le mani uccidendoti! Puoi vivere — con tutta l'ignominia {mf|di un miserabile e vigliacco buono a nulla|di una miserabile e vigliacca buona a nulla}."
+
+### u050244
+{n}Il Drukhari sbuffa con disprezzo.{/n} "Che vengano a prendersi ciò che è loro dovuto. Se ne pentiranno." {n}Nonostante le parole sicure di sé, la preoccupazione increspa la fronte di Marazhai.{/n}
+
+### u050245
+"Ah, hai capito chi era, eh?" {n}Marazhai ghigna, ma l'espressione svanisce subito dal suo volto.{/n} "Le bestie non si sono calmate dopo il fiasco nella guglia della Reaving Tempest. Vogliono il mio sangue e il mio dolore, ed è per questo che hanno deciso di venire sulla tua chiatta e di provare a cogliermi di sorpresa. Hanno fallito."
+
+### u050246
+"Hai vissuto in isolamento in una stazione chiusa finché Felek non ha compiuto il suo sabotaggio? Allora devi essere la succeditrice del Novator!"
+
+### u050247
+"Andiamo nel mio studio — lì nessuno ci disturberà."
+
+### u050248
+"Alcuni Navigatori della tua Casata temono i poteri dell'Atlas."
+
+### u050249
+"Permettimi di farti qualche domanda personale."
+
+### u050250
+"Mi piace il rumore che fa la gente qui. Riempie di vita la nave."
+
+### u050251
+"Perché non invitiamo il Grande Reggente?"
+
+### u050252
+"Rispondere a una semplice domanda è così difficile? Ti ho chiesto di parlarmi di te, non della tua famiglia."
+
+### u050253
+"I Navigatori si identificano così fortemente con la loro Casata. Dev'essere difficile per te non poter contare sui tuoi anziani. Ma hai la mia parola che mi prenderò cura di te."
+
+### u050254
+"Ora devo chiedere congedo."
+
+### u050255
+"Il mio amico potrebbe considerare l'immortalium una sorta di dichiarazione?"
+
+### u050256
+"Quindi non hai mai vissuto altrove che su Eurac V?"
+
+### u050257
+"Non hai menzionato lo Starway Atlas quando ci siamo conosciuti."
+
+### u050258
+"Perché non parliamo d'altro?"
+
+### u050259
+"Parlami della Casata Orsellio."
+
+### u050260
+"E se il mio amico non volesse accettare affatto il dono...?"
+
+### u050261
+"Chi governa la Casata?"
+
+### u050262
+"Il sistema della Profezia di Orsellio prende il nome da un tuo antenato?"
+
+### u050263
+"Con il tuo permesso, vorrei parlare d'altro."
+
+### u050264
+"Immagino che la Casata Orsellio abbia una storia ricca."
+
+### u050265
+"Non sei obbligata a portare questo fardello da sola. È dovere dei sudditi prendersi cura del loro futuro sovrano."
+
+### u050266
+"Non osare toccarmi con i tuoi poteri abominevoli!"
+
+### u050267
+"Accetto le tue cure."
+
+### u050268
+"So che il dono viene da te. Non vuoi dirmi cos'è?"
+
+### u050269
+"Suppongo che mi congederò da te per un po'."
+
+### u050270
+"La vecchia ti somiglia un po' troppo, non credi?"
+
+### u050271
+"Cosa rivela la tua vista speciale?"
+
+### u050272
+"Sì, hai decisamente perso la ragione."
+
+### u050273
+"Basta giochi, Cassia. Rifiuto il tuo immortalium."
+
+### u050274
+"Come vuole la tradizione, dichiaro risolutamente di accettare la tua amicizia."
+
+### u050275
+[Chiudi gli occhi e cedi alla volontà di Cassia]
+
+### u050276
+"Cosa attende ora i Navigatori della tua Casata?"
+
+### u050277
+"Attraversare la tempesta warp sembra averti cambiata in qualche modo."
+
+### u050278
+"Quindi ora sei la Novator a pieno titolo della Casata Orsellio?"
+
+### u050279
+"Vorrei discutere di altre faccende."
+
+### u050280
+"E non conosci quella vecchia?"
+
+### u050281
+"Quale congettura?"
+
+### u050282
+"Puoi fermarti qui — non mi interessano queste cose."
+
+### u050283
+"Molto bene, mi hai dato indizi a sufficienza. Capirò da me cosa devo fare ora."
+
+### u050284
+"Una relazione? A dire il vero, Lady Cassia, starti vicino mi ha reso {mf|sconsiderato|sconsiderata}. Accetterai i miei sentimenti come dono ricambiato?"
+
+### u050285
+"No, certo che no. Dimentichiamo questa conversazione."
+
+### u050286
+"Il tuo terzo occhio — lo nascondi sempre?"
+
+### u050287
+"Che sensazione si prova a guidare una nave attraverso il warp?"
+
+### u050288
+"Quindi l'Atlas è una specie di cristallo che viene impiantato alla nascita nei Navigatori della Casata Orsellio?"
+
+### u050289
+"Non posso biasimarli. I Navigatori sono mutanti, seppur mutanti di nobili natali."
+
+### u050290
+"Non sembri ripugnante, Cassia."
+
+### u050291
+"Chi si cura dell'opinione della plebaglia miope? Può servirci e morire per noi, e tenere i propri pensieri per sé."
+
+### u050292
+"Hai detto che non avresti condiviso il tuo segreto con chiunque. Significa che per te sono qualcuno?"
+
+### u050293
+"Hai ragione, è ora di rendere i ponti più silenziosi. Farò togliere le corde vocali ai ranghi inferiori."
+
+### u050294
+"Un sovrano non può mutilare le persone solo perché ne ha il potere. Al contrario, è dovere di ogni sovrano prendersi cura dei propri sudditi."
+
+### u050295
+"Potresti faticare a crederlo, ma la pratica di privare i servitori della voce non è particolarmente diffusa al di fuori della Casata Orsellio."
+
+### u050296
+"Grazie per avermelo detto."
+
+### u050297
+"Non c'è bisogno di scusarsi — hai padroneggiato il potere per aiutare un altro. Per aiutare me. Te ne sono {mf|grato|grata}."
+
+### u050298
+"Sei bellissima, Cassia. Non lasciare che nessuno o niente ti convinca del contrario."
+
+### u050299
+"Non c'è nulla di vergognoso nel voler aiutare. Ma la prossima volta dovresti chiedermi il permesso."
+
+### u050300
+"Non azzardarti mai più a usare i tuoi poteri contro di me."
+
+### u050301
+"Scusa, Cassia, ma vorrei sapere di più su di te personalmente, non sulla tua famiglia."
+
+### u050302
+"Ho deciso di aiutarti nella tua ricerca dell'Atlas. Seguiremo le tracce di Tisiphone."
+
+### u050303
+"Ho sentito voci secondo cui non vai molto d'accordo con l'equipaggio."
+
+### u050304
+"Quindi stiamo intraprendendo una spedizione suicida?"
+
+### u050305
+"Che effetto fa essere tagliata fuori dall'Atlas che ti ha nutrita fin dalla nascita?"
+
+### u050306
+"Quindi ora tutto il potere dell'Atlas è nelle mani della Novator?"
+
+### u050307
+"Non credi che i rinnegati faranno un altro tentativo di distruggere te e l'Atlas?"
+
+### u050308
+"Hai detto di non essere stata sola nell'oscurità del manufatto. Era un parto di una ragione offuscata — o c'era davvero qualcun altro con te?"
+
+### u050309
+"Spero che tu capisca perché ho fatto giustiziare la delegazione della tua Casata."
+
+### u050310
+"Spero che ti senta un po' più al sicuro, ora che Elina Orsellio è stata giustiziata."
+
+### u050311
+"Spero che tu capisca perché ho fatto giustiziare il Grande Reggente."
+
+### u050312
+"Come te la cavi?"
+
+### u050313
+"Ho notato che il tuo amore per la pittura si riflette anche nel tuo modo di parlare. Associ così tante immagini a tinte e colori."
+
+### u050314
+"Ho passato parecchio dolore per causa tua."
+
+### u050315
+"Purtroppo, molto di ciò che i tuoi occhi hanno visto nei membri del mio seguito si è rivelato vero."
+
+### u050316
+[Vattene] "Presto fuggiremo da questo posto."
+### u050317
+"Jae non è una principessa di un pianeta delle meraviglie. È una soldatessa qualunque che recita bene la parte che ha scelto."
+
+### u050318
+"Argenta ha ucciso Theodora durante l'attacco alla nave, non i cultisti né Kunrad."
+
+### u050319
+"Come avrai notato, siamo qui a causa di Yrliet."
+
+### u050320
+"Parliamo di altre questioni."
+
+### u050321
+"Sai dove ci troviamo?"
+
+### u050322
+"Mi chiedo quali colori vedi intorno a te."
+
+### u050323
+"Non credo che tu sia folle, ma non so nemmeno spiegarmi cosa stia accadendo."
+
+### u050324
+"Dimentica che ne ho parlato. Non avrei dovuto tirarlo fuori."
+
+### u050325
+"Non facciamolo."
+
+### u050326
+"Non posso farci nulla — la tua vista mi riempie la mente solo di pensieri sconvenienti."
+
+### u050327
+"Non prendere le mie parole troppo a cuore — sono nate da semplice cortesia."
+
+### u050328
+"Diciamo che un mio caro amico, di cui non rivelerò il nome, ha ricevuto di recente un immortalium in dono. Come dovrebbe rispondere, secondo te?"
+
+### u050329
+"Ho ricevuto un dono inestimabile — un fiore vivo sotto una cupola di cristallo. Ti dice qualcosa?"
+
+### u050330
+"Perché non parliamo di doni? Se non ti dispiace, naturalmente."
+
+### u050331
+"Il tuo valletto mi ha recapitato un dono raro. Su tua richiesta, mi permetto di supporre?"
+
+### u050332
+"In realtà... lascia perdere."
+
+### u050333
+"Hai avuto amici? Qualcuno a cui rivolgerti per una semplice conversazione, non per la discussione dell'ennesima lezione?"
+
+### u050334
+"E se il mio amico fosse disposto ad accettarne tutte le diverse sfaccettature?"
+
+### u050335
+"Hai detto che il mio amico potrebbe scegliere di accettare solo un aspetto del dono?"
+
+### u050336
+"Grazie per aver condiviso con me i tuoi pensieri. Il mio amico ha molto su cui riflettere."
+
+### u050337
+"E tu quale dono sceglieresti? Se fossi il mio amico, naturalmente."
+
+### u050338
+"Quindi... la Casata Orsellio è rimasta senza Novator?"
+
+### u050339
+"Parliamo di noi, vuoi?"
+
+### u050340
+[Baciale la mano] "Posso?"
+
+### u050341
+[Baciala] "Mia signora?"
+
+### u050342
+"Ci sono diversi libri di cui vorrei discutere con te... nei miei alloggi."
+
+### u050343
+"Parlami della tua vita sulla stazione."
+
+### u050344
+"È meglio per noi porre fine alla nostra relazione."
+
+### u050345
+"Parliamo d'altro."
+
+### u050346
+"Sono {mf|lieto|lieta} che alla fine tu abbia accettato la mia offerta... Anche se è stato del tutto inaspettato."
+
+### u050347
+"Niente affatto. Ma le persone si avvicinano e poi si allontanano. È la natura delle cose."
+
+### u050348
+"Stavo solo scherzando. Volevo vedere la tua reazione."
+
+### u050349
+"Che tipo di dono pensi farebbe piacere a Jae?"
+
+### u050350
+"Lady Navigatrice, è tempo di chiudere il capitolo della nostra collaborazione."
+
+### u050351
+"La mia decisione è definitiva. Lady Cassia, sbarcherai al prossimo porto."
+
+### u050352
+"Lady Cassia, starti vicino mi ha reso {mf|sconsiderato|sconsiderata}. E dunque ti chiedo di accettare il mio ardente sentimento come dono pari al tuo."
+
+### u050353
+{n}Un istante dopo, una forza invisibile ti avvolge in un turbine vorticoso di emozioni, e il tuo cuore salta un battito su due — a tempo con il respiro della Lady Navigatrice.{/n}
+
+### u050354
+{n}Quando i poteri di Cassia si ritirano, l'austera riservatezza sul suo volto è sostituita per la prima volta dalla passione — negli occhi, nella curva delle labbra, nella lieve inclinazione del capo. Con un piccolo cenno del capo e un sorriso sulle labbra arrossate, ti porge la mano, pallida e tremante.{/n}
+
+### u050355
+[Baciale la mano] "Non osavo sperare."
+
+### u050356
+[Copri la mano di Cassia con la tua] "Se qualcuno mi avesse detto che un giorno avrei perso la testa in questo modo, non gli avrei mai creduto."
+
+### u050357
+[Stringi teneramente la sua mano tesa] "Finalmente ci siamo avvicinati un po' di più."
+
+### u050358
+[Ritraiti con garbo] "Certi tesori non andrebbero toccati, nemmeno da chi più li brama, mia signora."
+
+### u050359
+{n}Le pupille inumane degli occhi rosso rubino di Cassia si restringono, e il pavimento comincia a sembrarti instabile sotto i piedi.{/n} "Avete agito nei vostri diritti, Lord Capitano. Ciò che i rappresentanti della Casata Orsellio si sono permessi sul mondo capitale del Rogue Trader... è semplicemente inaccettabile."
+
+### u050360
+{n}Cassia scrolla le spalle in modo vago, alzando verso di te il suo sguardo rubino carico di domanda.{/n}
+
+### u050361
+"Assolutamente! È quello che farò la prossima volta!"
+
+### u050362
+"Salute a voi, {name}. L'aiuto che state prestando alla Casata Orsellio è davvero inestimabile." {n}Cassia accenna un sorriso timido.{/n} "Di quale argomento parleremo questa volta?"
+
+### u050363
+"Ci vorrà del tempo perché la Casata si riprenda, ma senza l'Atlas principale... e la loro più grande paura — io — i clan della Casata potranno ritrovare la pace. Forse troveranno persino un modo per tornare su quel pianeta maledetto in mezzo alla tempesta warp e distruggere la pietra degli Aeldari... o sfruttarne il potere. Ma continuo a sperare che lo Starway Atlas muoia con l'attuale generazione di Navigatori della Casata Orsellio, e che sorga una nuova era per la nostra— per la loro Casata."
+
+### u050364
+"Siete {mf|l'unico|l'unica} di cui mi fidi abbastanza da ascoltare questa confessione — l'idea di essere {g|Encyclopedia:Novator}Novator{/g} mi spaventa e mi disgusta al tempo stesso. Come posso guidare un'intera Casata se non riesco nemmeno a controllare i miei poteri? Io... io vi sono solo grata per essermi sempre {mf|vicino|vicina} e per guidarmi sulla retta via. Grazie, Rogue Trader. Sarà un onore continuare a guidare la vostra nave attraverso il Mare delle Anime — finché non deciderete altrimenti."
+
+### u050365
+"Allora fate strada — e risponderò a tutte le vostre domande."
+
+### u050366
+"Avete il mio permesso, Lord Capitano."
+
+### u050367
+"Può essere difficile da descrivere... Vedete, ogni Navigatore percepisce il {g|Encyclopedia:Warp}warp{/g} in modo diverso. Il mio mentore, il Grande Reggente Aaronto, descriveva sempre i suoi viaggi attraverso l'Immaterium come un cammino in un vasto bosco con innumerevoli sentieri. E io, assistendolo nei primi viaggi, cercavo invano di seguire il suo esempio. Ma il bosco non voleva rivelarsi a me."
+
+### u050368
+"Da me non udrete obiezioni, Lord Capitano."
+
+### u050369
+"Grazie per avermi ascoltata." {n}Rivolgendoti un lieve sorriso, Cassia annuisce in segno di ringraziamento.{/n}
+
+### u050370
+"Quando il ghiaccio blu scuro della mia anima ha fermato il cuore di Felek su Eurac V... l'ho capito all'istante. E ormai non aveva senso mentire a me stessa."
+
+### u050371
+"N-no? No, non credo." {n}Cassia si agita a disagio, non sapendo cos'altro dire.{/n}
+
+### u050372
+"Voi... non potete certo chiedermi di esprimermi sui sentimenti e sulle intenzioni di un'altra persona?" {n}Cassia si sforza di restare disinteressata, ma le sue sopracciglia si inarcano per la curiosità.{/n} "Ma dato che lo chiedete... penso che il vostro amico dovrebbe riconoscere la piena gravità del rituale. Un immortalium è un dono dai molti significati — non può essere inteso come portatore di uno solo. Il vostro amico è disposto ad accettarne tutte le sfaccettature? O solo una? O forse... non è disposto ad accettarlo affatto?"
+
+### u050373
+"Non più la nebbia plumbea grava sulla Sorella della Battaglia. Argenta l'ha liberata, e la nebbia è diventata ombra — l'ombra senza la quale nessuna luce può esistere. Una tinta pura, l'unico pilastro di pace ancora in piedi in mezzo alle fiamme ruggenti dentro la sua anima. Il fuoco arde scarlatto e dorato... Se per il bene o per il male, non è in mio potere saperlo."
+
+### u050374
+"Il Siniscalco Werserian è tra i pochi i cui colori sono un piacere da guardare." {n}Lo sguardo severo di Cassia si fa un po' più caldo.{/n} "Ogni volta che il Siniscalco parla, una limpidezza cristallina e celestiale si diffonde intorno a lui. E ogni volta che si adira, nubi blu scuro si addensano sopra di lui. E nei suoi rari momenti di gioia, un puro bagliore di rosa tramonto accarezza le anime di chi gli sta vicino. Di tutto il vostro seguito, Lord Capitano, è l'unico a cui affiderei la mia vita."
+
+### u050375
+"Come unica voce della nostra famiglia su questa nave, è un onore. Finché le vostre domande saranno cortesi, risponderò a ciascuna di esse."
+
+### u050376
+"Oh sì! I Navigatori della Casata sono giunti nella {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} piuttosto di recente — appena duecentootto anni fa. Prima di allora, i nostri antenati ampliavano i confini del dominio dell'Umanità per la gloria dell'Imperatore, aprendo piste verso i diversi angoli della galassia."
+
+### u050377
+{n}La giovane donna inspira bruscamente, un minuscolo solco le compare tra le sopracciglia per una frazione di secondo.{/n} "Un {g|Encyclopedia:Navigator}Navigatore{/g} riceve la vita solo per servire la sua Casata. Ogni nostro respiro, ogni parola, ogni azione è per il bene e la prosperità della nostra Casata. Guardandomi senza vedere la Casata, vedete solo un'ombra fugace. Se è questo che vi interessa, chiedete."
+
+### u050378
+"La vostra compagnia mi è stata gradita, {name}. Grazie per la conversazione."
+
+### u050379
+"Difficilmente. Secondo le cronache della Casata, sono nata su uno dei mondi degli Orsellio. Virt... Irtvi... Oh, com'era..." {n}Cassia si massaggia distrattamente la tempia.{/n} "Perdonatemi, Lord Capitano, i miei ricordi d'infanzia sono troppo vaghi. A volte sogno gli uccelli colorati che facevano il nido nel giardino. O i servitori in livrea viola. O la nebbia blu che scendeva sulle pianure dietro il palazzo... Ma tutto è coperto da una foschia rosata. Forse è la mia immaginazione, non la memoria, a dipingere queste immagini."
+
+### u050380
+"C'era solo buio pesto dentro il manufatto dell'Haemonculus, ma non c'è molta più luce nelle strade della Città Oscura, nella cui foschia blu-nera sono quasi accecata dal dolore." {n}Cassia si acciglia mentre osserva le ombre danzare negli angoli.{/n} "Grumi di marrone e verde scuro si fondono con la cenere di miseria che si posa, tutti intrecciati in un arazzo di ogni sfumatura di oscurità."
+
+### u050381
+"Avete... ragione. Fare altrimenti sarebbe egoistico e troppo irrispettoso verso entrambe le nostre dinastie. Riferirò l'invito alla mia Casata." {n}Cassia si strofina stancamente la corazza nel punto in cui nasconde l'Atlas.{/n}
+
+### u050382
+"Proprio come un {g|Encyclopedia:RogueTrader}Rogue Trader{/g} sta a capo di un protettorato, un {g|Encyclopedia:Novator}Novator{/g} guida una Casata di Navigatori. È il Novator a decidere dove cercare alleanze e quale strada la sua stirpe è destinata a percorrere. Quanto alla nostra Casata..." {n}La giovane donna stringe appena le labbra.{/n} "Il passaggio di poteri a un successore è attualmente in corso. Nel frattempo, il Grande Reggente Aaronto Orsellio garantisce la stabilità della Casata."
+
+### u050383
+"{name}? Che gentile da parte vostra onorarmi della vostra presenza. Stavo giusto ripensando al nostro viaggio al Palazzo dell'Atlas... Cioè, al mondo degli xenos." {n}Cassia si porta una mano alla bocca e ride piano.{/n} "Ricordare quell'atto sconsiderato ha avvolto la mia mente in un'intera tavolozza di tinte. Ma quando penso al grande rischio che avete corso per amore della Casata Orsellio e mio, uno scialle azzurro mi scende subito sulle spalle, e scintille ambrate guizzano dentro la mia anima. Vi prego di accettare la mia più sincera gratitudine."
+
+### u050384
+"Siete {mf|avvolto|avvolta} da nubi color terra d'ombra scura. Portano un vecchio dolore. E... dubbio?" {n}Come in trance, Cassia allunga la punta delle dita verso la tua spalla. Una strana sensazione di sollievo ti pervade — come se i polmoni si fossero aperti del tutto, permettendoti di respirare a fondo per la prima volta da un'eternità. La giovane donna nota la tua espressione e si ritrae di scatto, spaventata.{/n}
+
+### u050385
+{n}Cassia si tocca la corazza dove si trova l'Atlas.{/n} "{d|Encyclopedia:CassiaQ2_NaviClearSoulstone}La Casata Orsellio ha fatto in modo{/d} che le anime dei nostri antenati venissero liberate dalla loro prigionia all'interno del manufatto xenos. La loro memoria e la loro saggezza serviranno la nostra Casata, aiutando a costruire, sulle rovine del presente, solide fondamenta per le generazioni a venire. Ci credo come credo nella luce divina dell'Imperatore."
+
+### u050386
+{n}Cassia si tocca la corazza dove si trova l'Atlas.{/n} "{d|Encyclopedia:CassiaQ2_HarlequinsClearSoulstone}Gli xenos sono riusciti a liberare le anime dei nostri antenati{/d} dalla loro prigionia. La memoria e la saggezza di coloro che ci hanno preceduto serviranno la nostra Casata, aiutando a costruire, sulle rovine del presente, solide fondamenta per le generazioni a venire. Ci credo come credo nella luce divina dell'Imperatore."
+
+### u050387
+"Libertà e creazione." {n}La voce di Cassia è addolorata, chissà perché.{/n} "Le future generazioni della Casata Orsellio dovranno ancora una volta {d|Encyclopedia:CassiaQ2_BrokenAtlas}contare su sé stesse e sul loro sangue nobile{/d}. Il potere maledetto del manufatto xenos sarà un ricordo del passato. Sarà uno sforzo estenuante, ma i miei sudditi lo comprendono. Noi... resisteremo."
+
+### u050388
+"I traditori all'interno della Casata non accetteranno semplicemente la {d|Encyclopedia:CassiaQ2_SavedAtlas}decisione di conservare l'Atlas{/d}. Soprattutto ora che la verità sulla sua creazione non può più essere soppressa — dopotutto, ogni Navigatore Orsellio ha un legame con me, e io sono legata a loro." {n}Cassia si tocca la corazza nel punto in cui si trova l'Atlas.{/n} "Eppure non rinuncerò a cercare di unire la mia Casata. Poiché le discordie ci indeboliscono dall'interno, i membri di altre dinastie dei Navis Nobilite potrebbero essere tentati di farci a pezzi. Ma non glielo permetterò."
+
+### u050389
+"D-davvero?" {n}Cassia inclina la testa di lato e sorride timidamente, ma nei suoi occhi cogli comunque una lieve delusione.{/n} "Allora, a mia volta, accetto con piacere il vostro. E spero che il legame speciale tra noi e le nostre dinastie attraversi molti secoli."

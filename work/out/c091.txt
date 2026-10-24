@@ -1,0 +1,1197 @@
+### u033180
+"Tentiamo un atterraggio di emergenza! Tenetevi forte, Vostra Signoria! {g|Encyclopedia:EmperorGlossary}Dio-Imperatore{/g}, abbiate pietà di noi..."
+
+### u033181
+"Abbiamo rilevato strani segnali in superficie, Vostra Signoria. Chiediamo il permesso di condurre una scansione mirata con gli augur."
+
+### u033182
+"Lord Capitano, ci sono segni di attività umana. Il pianeta è abitato: rilevate grandi concentrazioni di persone. E anche strutture costruite dall'uomo, per quanto rozze."
+
+### u033183
+{n}Quando raggiungi l'hangar, la navetta è già stata preparata a dovere. Un giovane pilota si inchina rispettosamente e ti saluta facendo il segno dell'Aquila. Entri nell'asfissiante vano passeggeri, che odora di unguenti sacri e di cuoio.{/n}
+
+### u033184
+{n}Il volo verso il pianeta procede senza intoppi. Poi il pilota annuncia l'ingresso nell'atmosfera e ti invita a guardare dagli oblò. La navetta scivola tra radici e rampicanti colossali, che avvolgono il pianeta in un vasto mantello tremulo. {mf|Incantato|Incantata}, osservi il movimento all'interno di quelle escrescenze, finché il pilota segnala di aver perso il contatto vox con la nave ammiraglia. E poi un colpo violento si abbatte sullo scafo...{/n}
+
+### u033185
+"È fatto, Lord Capitano."
+
+### u033186
+"Devo portare la nave ammiraglia su un vettore d'orbita, Lord Capitano?"
+
+### u033187
+{n}Senti la voce vellutata di Danrok nel tuo auricolare vox:{/n} "Vostra Signoria! Con la massima umiltà e urgenza chiedo di avere udienza con voi sul ponte di comando. Dobbiamo discutere una situazione su uno dei mondi chiave del protettorato. Il vostro stimato antenato, Lord Seberian, desidera risolverla da solo, ma ho ritenuto mio sacro dovere informarvi. Vi assicuro che non vi ruberà molto tempo."
+
+### u033188
+"Scenderò subito al Settore Bionica."
+
+### u033189
+"Verrò, e spero davvero che questa reliquia meriti la mia attenzione."
+
+### u033190
+"La reliquia è unica e antica quanto la nave stessa. Fu danneggiata durante l'ammutinamento del traditore Voigtvir. Nonostante le incessanti preghiere dei Tecnopreti, i suoi spiriti macchina continuano a spegnersi. Presto potrebbe andare perduta in modo irrimediabile."
+
+### u033191
+{n}L'Alto Factotum sospira di sollievo.{/n} "Attendo umilmente il vostro arrivo."
+
+### u033192
+"Vostra Signoria, chiedo perdono, ma la cosa non può aspettare. Il Maestro dei Motori Zi-Ra Tallar vi supplica di visitare il Settore Bionica non appena vi sia possibile. L'antica archeotecnologia, il sacro trono di impianto, rischia di andare perduta per sempre."
+
+### u033193
+"Seberian von Valancius...? Che cosa sappiamo di lui?"
+
+### u033194
+"Controllerò subito la porta e il guardiano."
+
+### u033195
+"Sono {mf|incuriosito|incuriosita}, ma me ne occuperò più tardi. I misteri del Settore Bionica possono aspettare."
+
+### u033196
+"Vostra Signoria, devo segnalare uno strano evento rilevato nel Settore Bionica. Si è manifestato in seguito ai riti della macchina condotti dallo stimato Manipulus Februs."
+
+### u033197
+{n}L'{g|Encyclopedia:CommBead}auricolare vox{/g} nel tuo orecchio si anima con un crepitio.{/n}
+
+### u033198
+"Qui sta il problema, Vostra Signoria. Nessun Rogue Trader di nome 'Seberian' figura in alcuna cronaca dinastica. Anche gli storici della nave ammiraglia non conoscono questo nome. Perché il guardiano creda che appartenga a un proprietario mai esistito è un mistero. E solo voi, in quanto vero capo della dinastia, potete trovare la risposta."
+
+### u033199
+"La vostra decisione è la più grande ricompensa per un servitore fedele."
+
+### u033200
+"Come desiderate, Vostra Signoria. L'Alto Factotum si è assunto il compito di fare i preparativi necessari. Vi incontrerà là."
+
+### u033201
+"Lord Capitano." {n}Abelard tossisce lievemente.{/n} "Dopo i riti di guarigione eseguiti dallo stimato Manipulus Februs sul trono di impianto nel Settore Bionica, gli spiriti macchina che dimorano nella reliquia ci hanno rivelato qualcosa di straordinario."
+
+### u033202
+"Al risveglio, la sacra archeotecnologia ha riportato alla veglia molte altre macchine. Dopo aver eseguito i rituali diagnostici, i Tecnopreti hanno scoperto una porta segreta dietro uno dei dispositivi: vi era incisa un'antica arma araldica dei von Valancius. Non appena i Tecnopreti hanno tentato di entrare, un guardiano genetico ha bloccato il passaggio. Si è rifiutato di aprire la porta a chiunque non fosse il Rogue Trader Seberian von Valancius o il suo erede."
+
+### u033203
+"Come desiderate, Vostra Signoria. Scenderò al Settore Bionica senza indugio per fare i preparativi necessari, e là vi attenderò."
+
+### u033204
+"Vado al ponte medicae. Avvisa le parti interessate."
+
+### u033205
+"Non vedo alcuna urgenza. Vigdis, mi occuperò di questo problema più tardi."
+
+### u033206
+"Curare la gente è affar vostro. Perché dovrei risolvere io i vostri problemi?"
+
+### u033207
+"Voglio saperne di più, per assicurarmi che ne valga la pena."
+
+### u033208
+"È una misera baruffa, indegna della mia attenzione. Non voglio sentirne più parlare."
+
+### u033209
+"Due ufficiali giunti al Settore Bionica si rifiutano categoricamente di rispettare le istruzioni degli ufficiali medicae e pretendono apertamente di essere curati fuori turno. Che cos'è questo, se non insubordinazione e sabotaggio?"
+
+### u033210
+"Lord Capitano." {n}Nella voce meccanica del {g|Encyclopedia:Genetor}Genetor{/g} Ferrenz si sente il fremito dell'irritazione.{/n} "È stato rilevato un tentativo di sabotaggio di sacre {g|Encyclopedia:AugmentationGlossary}augmetiche{/g}. Si richiede un intervento del più alto livello per prevenire conseguenze indesiderabili."
+
+### u033211
+"Vostra Signoria!" {n}Il Vivisettore Martinax è così sopraffatto dall'indignazione che la sua voce risuona e riempie l'aria. {/n} "Alcuni pazienti infrangono deliberatamente le regole di ammissione, e questo si ripercuote direttamente sul lavoro dei chirurghi. Chiedo umilmente il vostro intervento!"
+
+### u033212
+"Motivo della richiesta: interferenza della forma di vita Jaze Martinax nel processo di recupero di augmetiche da un portatore che ha perso il proprio valore di servizio. La motivazione della forma di vita è ignota."
+
+### u033213
+"Avviserò il Settore Bionica del vostro imminente arrivo, Lord Capitano."
+
+### u033214
+{n}Il Genetor impiega un po' di tempo a rispondere.{/n} "L'atto di sabotaggio segnalato è classificato come estremamente nocivo per la disciplina nel settore. Priorità: critica."
+
+### u033215
+"Come Vostra Signoria si degna di disporre."
+
+### u033216
+"Lord Capitano, uno dei nostri esperti del Settore Bionica desidera parlarvi. Trasferisco una trasmissione vox in arrivo dal ponte corrispondente."
+
+### u033217
+"Qual è la vostra volontà, Lord Capitano?"
+
+### u033218
+"Non è solo una questione di disciplina, Vostra Signoria." {n}Il Vivisettore parla a bassa voce ma con sicurezza, soppesando ogni parola.{/n} "È anche una questione di prestigio del Settore Bionica tra l'equipaggio. E della forza delle regole che avete stabilito."
+
+### u033219
+"Che cosa vogliono, esattamente?"
+
+### u033220
+"Che vengano. Non ho nulla contro la gratitudine."
+
+### u033221
+"Aspetteranno. Ho questioni più urgenti da sbrigare."
+
+### u033222
+"Lord Capitano, un gruppo di Tecnopreti della nave, guidato dal Maestro dei Motori, chiede il permesso di tenere una cerimonia di ringraziamento sul ponte. A quanto ne so, riguarda l'attenzione che avete dedicato al Settore Bionica. Quali sono i vostri ordini?"
+
+### u033223
+"Processioni di ringraziamento al Lord Capitano... Lady Theodora le adorava. Le considerava un mezzo economico ed efficace per mantenere alto il morale dell'equipaggio."
+
+### u033224
+"Farò in modo che i tutori dell'ordine raddoppino la vigilanza e tengano la folla a una distanza tale che nessun assassino nascosto tra la marmaglia abbia serie possibilità di fare del male al Rogue Trader."
+
+### u033225
+"Lord Capitano, una processione di lavoratori della nave sta tenendo una marcia di ringraziamento sui ponti e supplica di essere ammessa sul ponte di comando. A quanto ne so, riguarda i vostri decreti sulle {g|Encyclopedia:AugmentationGlossary}augmetiche{/g}. Quali sono i vostri ordini?"
+
+### u033226
+"Nulla di insolito, Lord Capitano. Solo una processione di festeggiamento in riconoscimento delle vostre gesta. I predicatori e gli ufficiali della nave ammiraglia tengono di tanto in tanto queste cerimonie per coltivare la gratitudine dell'equipaggio verso la mano che lo nutre. Curiosamente, stavolta la processione non è stata organizzata dagli ufficiali."
+
+### u033227
+"Informerò i tutori dell'ordine della vostra decisione. Si assicureranno che la gente sia sorvegliata. Se desiderate onorare di persona la processione con la vostra presenza, parlatemi sul ponte di comando."
+
+### u033228
+"Informerò l'equipaggio della vostra decisione. Se desiderate comunque benedire la processione con la vostra attenzione, parlatemi sul ponte di comando."
+
+### u033229
+{n}Vigdis si ferma un istante, ascoltando una trasmissione parallela, poi riferisce:{/n} "Entrambi gli specialisti del Settore Bionica sono stati avvistati nella processione. Sembra che i chirurghi siano riusciti a riportare il vostro servitore dall'orlo della morte."
+
+### u033230
+"Che cosa vogliono, Vigdis?"
+
+### u033231
+"Voglio scendere laggiù e sentire che cos'hanno da dire queste persone."
+
+### u033232
+"Sauerback, fa' in modo che la marmaglia ricordi qual è il suo posto."
+
+### u033233
+"La marmaglia ha dimenticato il volto del suo Lord Capitano. Rinfrescherò io la sua memoria."
+
+### u033234
+"Lord Capitano, la Maestra d'Armi ha segnalato disordini nei pressi del Settore Bionica." {n}Nella voce della Maestra del Vox senti un'inquietudine camuffata con tatto.{/n} "La marmaglia dei ponti inferiori ha bloccato le uscite e pretende che vi presentiate davanti a loro."
+
+### u033235
+"I tutori dell'ordine attendono i vostri ordini." {n}Il timbro d'acciaio nella voce di Jocasta Sauerback segnala con eloquenza la sua prontezza al combattimento.{/n} "Date l'ordine, e tutti quei piantagrane saranno subito sottomessi."
+
+### u033236
+"Stando ai rapporti ricevuti, il lavoro degli ufficiali medicae nel Settore Bionica ha scatenato questo tumulto tra i lavoratori. Pare che la marmaglia cerchi di accedere alle sacre {g|Encyclopedia:AugmentationGlossary}augmetiche{/g}."
+
+### u033237
+"Non una parola di più. Vado là immediatamente."
+
+### u033238
+"Sauerback e i suoi uomini sono già là? Il mio intervento è davvero necessario?"
+
+### u033239
+"Spedirò personalmente questo furfante nel vuoto."
+
+### u033240
+"Lord Capitano," {n}dice Vigdis, con parole stranamente secche.{/n} "La Maestra d'Armi ha segnalato un tentativo di sabotaggio armato nel Settore Bionica. Il colpevole ha usato una granata a frammentazione. Ci sono molti feriti tra il personale. La presenza del Lord Capitano è richiesta."
+
+### u033241
+"Se questo è ciò che chiamate 'sotto controllo', allora io sono un impiegato dell'{g|Encyclopedia:AdeptusAdministratumGlossary}Administratum{/g}," {n}irrompe senza complimenti la voce di Solomorne sul vox.{/n} "Ho sentito abbastanza per capire che serve un intervento immediato, Rogue Trader. E mi piacerebbe molto venire con voi."
+
+### u033242
+"Che l'Imperatore vi guidi, Lord Capitano."
+
+### u033243
+"Il responsabile ha ferito gravemente uno dei nostri massimi esperti e ha preso in ostaggio l'altro, esigendo la presenza di Vostra Signoria. I tutori dell'ordine hanno la situazione sotto controllo, ma la vita degli stimati ufficiali medicae è ancora in pericolo."
+
+### u033244
+"Arch-Militant, siamo pronti a procedere?"
+
+### u033245
+"Seberian, verrai con me a riprendere i beni rubati della dinastia?"
+
+### u033246
+"Vigdis, chiedo un aggiornamento sullo stato dei preparativi dell'Adeptus Mechanicus."
+
+### u033247
+"Eccellente. È ora di cominciare!"
+
+### u033248
+{n}L'assalto nemico si è placato. Gli xenos continuano a opporre una debole resistenza, ma le forze principali del loro squadrone di guardia sono state distrutte senza appello grazie al valore e all'abilità dei piloti dell'Imperium. In questa battaglia, la vittoria è tua.{/n}
+
+### u033249
+{n}Nulla impedisce alla nave ammiraglia di entrare nell'orbita del mondo morto. Ora non resta che confermare la prontezza di coloro che ti accompagneranno nella difficile missione di restituire il Mandato al suo legittimo proprietario, e annunciare l'inizio dell'operazione sul canale vox.{/n}
+
+### u033250
+"Sì, Lord Capitano." {n}La risposta dell'Arch-Militant è asciutta e concisa, come ci si aspetta da un uomo d'arme.{/n} "Una squadra dei migliori soldati scelti tra quelli in servizio sulla Zarkov è completamente equipaggiata e pronta a partire."
+
+### u033251
+{n}Il tuo antenato non esita nemmeno un secondo.{/n} "Il ladro che ha rubato ciò che l'Imperatore in persona ha concesso alla nostra stirpe dovrà subire la più terribile delle punizioni, così che non tenti mai più di incrociare il nostro cammino. Sono pronto."
+
+### u033252
+"I servitori dell'Omnissiah sono pronti a procedere, Vostra Signoria. Il distaccamento comprende sia Skitarii sia explorator."
+
+### u033253
+{n}Obbedendo alla tua volontà, la Maestra del Vox segnala l'inizio della missione a tutti i partecipanti.{/n} "Che l'Imperatore vi protegga, Lord Capitano."
+
+### u033254
+"Sì, Lord Capitano!" {n}La voce di Dunawski vibra di eccitazione.{/n} "I miei soldati stanno ultimando i preparativi finali prima dell'assalto. Al vostro comando, siamo pronti a dare inizio all'operazione!"
+
+### u033255
+[Osserva il pianeta più da vicino]
+
+### u033256
+"Quali sono la stima numerica e la composizione delle forze nemiche?"
+
+### u033257
+[Dai l'ordine di dare battaglia] "In nome dell'Imperatore, io, Rogue Trader {name} von Valancius, chiamo la flotta a battaglia!"
+
+### u033258
+"Distruggete il comandante xenos e impadronitevi della chiave della nostra gloriosa vittoria!"
+
+### u033259
+"Distruggete quante più di queste piccole creature potete. Non dobbiamo permettere che ci sopraffacciano con il loro numero!"
+
+### u033260
+{n}Nella luce spenta delle stelle, il pianeta sembra uno strano manufatto dalle molte sfaccettature affilate che scintillano in modo misterioso. Una sottile spirale lucente si avvolge attorno al pianeta, cambiando direzione di tanto in tanto. Se guardi con attenzione, vedi che la spirale è composta da moltissimi puntini minuscoli: bombardieri nemici.{/n}
+
+### u033261
+{n}Vigdis si rivolge a te con riserbo, quasi con freddezza:{/n} "Lord Capitano, la nave ammiraglia è nel punto di arrivo calcolato. Durante la traslazione non sono stati rilevati incidenti imprevisti. La piena prontezza al combattimento è confermata. Gli ufficiali superiori sono in ascolto e attendono i vostri ordini."
+
+### u033262
+{n}L'orrore tecnologico ha soggiogato completamente ogni forma di vita su questo mondo. Più di ogni altra cosa, il pianeta somiglia a una stazione del vuoto di proporzioni grandiose, contorta e deturpata dalla ripugnante tecnostregoneria degli {g|Encyclopedia:XenosGlossary}xenos{/g}. Le torri colossali, gli obelischi e le piramidi, disposti in una simmetria rigida e priva di vita, si vedono perfino dall'orbita e sembrano ossa nere che sporgono dalla carcassa di una creatura antica.{/n}
+
+### u033263
+"I dati sono incompleti. Il pianeta nemico emette emanazioni di natura ignota, che disturbano la scansione degli {g|Encyclopedia:Augur}augur{/g}." {n}La Maestra del Vox esita per un attimo prima di proseguire.{/n} "Durante l'assalto incontreremo almeno un'ala di intercettori guidata da un incrociatore."
+
+### u033264
+{n}Mentre la nave attraversava il {g|Encyclopedia:WarpGlossary}warp{/g}, i tuoi ufficiali hanno elaborato diversi piani tattici adatti alla missione. Ora hai davanti una scelta: concentrare il fuoco sull'incrociatore nemico oppure eliminare prima la sua scorta.{/n}
+
+### u033265
+{n}La risposta all'ordine è stato il fragore di molte voci eccitate sul canale vox. La trasmissione si interrompe, e la tua armata di caccia, obbedendo agli ordini dei comandanti, si dispone in formazione di battaglia.{/n}
+
+### u033266
+"Ho estratto il nucleo d'ancoraggio e desidero presentarlo al vostro chiostro."
+
+### u033267
+"Sapevate che sulla piattaforma erano stati scoperti segni di xenotecnologia?"
+
+### u033268
+"Quindi sapevate che sulla stazione c'era uno scisma?"
+
+### u033269
+"La distruzione degli eretici è responsabilità di ogni suddito dell'Imperium. Sono {mf|stato lieto|stata lieta} di compiere il mio dovere."
+
+### u033270
+"E la mia ricompensa?"
+
+### u033271
+[Termina la connessione]
+
+### u033272
+"Sapevate dell'esistenza del nucleo d'ancoraggio?"
+
+### u033273
+"Lord Capitano! Altar-Templum-Calixis-Ext-17 è pronto a stabilire il contatto per discutere l'accordo tra voi."
+
+### u033274
+"L'accuratezza dei calcoli benedetti tende all'assoluto, ma l'assoluto è dominio dell'Omnissiah soltanto!"
+
+### u033275
+{n}Il suono crepita di una breve statica, poi la voce di Logis Tetria-Lemma torna a occupare le onde.{/n} "Che la Sua sacra legge sia udita da tutti!"
+
+### u033276
+"Il tecnoclero di Altar-Templum-Calixis-Ex-17 invia i dati dei sacri rituali necessari a uno specialista per elevare uno spirito macchina."
+
+### u033277
+"Affermazione vera! La probabilità tende a uno."
+
+### u033278
+"Certamente no! In quel sito la produttività dell'estrazione di promethium ha superato il cento per cento della capacità delle sacre tecnologie, ma la causa di questa irregolarità non è stata accertata."
+
+### u033279
+"Le benedizioni dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g} siano su di voi! L'ipotesi nulla dell'adempimento del Patto TR-3 è stata soddisfatta in conformità alle aspettative matematiche. Il {g|Encyclopedia:AdeptusMechanicusGlossary}Sacerdozio di Marte{/g} elogia l'impegno del Rogue Trader." {n}Logis Tetria-Lemma intona una breve preghiera binarica.{/n} "L'oscurità dell'ignoranza non confonde più i nostri dati su Tirkuaz-4."
+
+### u033280
+"Che l'Omnissiah vi conceda la Sua benedizione per aver aiutato a distruggere i Suoi nemici! La probabilità di una violazione delle Leggi Universali nel sito era bassa, ma il tecnoclero ha preteso che la stima fosse precisata al decimo di un terzo di grado."
+
+### u033281
+"Che l'Omnissiah vi conceda la Sua benedizione per aver aiutato ad aprire i Suoi occhi! La probabilità di una violazione delle Leggi Universali nel sito era estremamente alta, ma il tecnoclero di Altar ha preteso che la stima fosse precisata al decimo di un terzo di grado."
+
+### u033282
+{n}Un lieve clic rivela che il tuo interlocutore ha chiuso il canale vox nello stesso istante in cui lo hai chiuso tu.{/n}
+
+### u033283
+"Lo status del Rogue Trader sale al rango di 'alleato stimato'. In segno di gratitudine per la consegna di un oggetto prezioso che favorisce la Ricerca della Conoscenza, il tecnoclero di Altar-Templum-Calixis-Ext-17 invia offerte reciproche, benedette dall'Omnissiah!" {n}Un trionfante inno binarico rimbomba dal vox.{/n}
+
+### u033284
+"Preparate la navetta. Desidero scendere {mf|io stesso|io stessa} in superficie."
+
+### u033285
+"Ci sono allarmi attivi? Navi nemiche?"
+
+### u033286
+"Volete dire che la stazione sta affondando?"
+
+### u033287
+"Penso che rimanderò la mia visita, per ora."
+
+### u033288
+"Lord Capitano, Tirkuaz-4 non riceve segnali vox dall'orbita. I nostri {g|Encyclopedia:Augur}augur{/g} registrano che il livello dell'acqua attorno alla stazione supera di molto la norma."
+
+### u033289
+"Sì, Lord Capitano."
+
+### u033290
+"No, Lord Capitano. Nessuna richiesta di aiuto, nessuna segnalazione di attacco."
+
+### u033291
+"Pare di sì. Il livello dell'acqua sale gradualmente, ma la causa resta ignota."
+
+### u033292
+"Lord Capitano, rapporto urgente. Lord Seberian si sta dirigendo verso la Camera del {g|Encyclopedia:WarrantGlossary}Mandato{/g}, accompagnato da coloro che gli sono personalmente fedeli. Ogni tentativo di accertare le sue intenzioni o di contattare Sua Signoria è fallito."
+
+### u033293
+Nelle antiche rovine di Zarkov, il Lord Capitano è riuscito a trovare un'augmetica antica, ma ancora intatta.
+
+### u033294
+Augmetica antica
+
+### u033295
+L'augmetica è in cattive condizioni, ma forse gli ufficiali tecnici della tua nave ammiraglia possono ripararla.
+
+### u033296
+Porta il braccio bionico al Settore Bionica della nave ammiraglia
+
+### u033297
+Gli xenos hanno compromesso le batterie che alimentano l'ascensore. Per riattivarlo occorre deviare l'energia e scollegare dalla rete i dispositivi dell'insediamento.
+
+### u033298
+Il Lord Capitano ha respinto l'attacco a Zarkov. La fonte della minaccia si trova nelle rovine dove, per ordine del Rogue Trader, sono iniziati gli scavi. Le stesse rovine dove le tracce di Seberian si interrompono.
+
+### u033299
+Da Zarkov giungono notizie inquietanti. Un nemico ha attaccato a tradimento la colonia, minacciando le forze dell'Umanità sul pianeta.
+
+### u033300
+I Morti Risvegliati
+
+### u033301
+Il mondo appena scoperto ha bisogno dell'aiuto del Lord Capitano.
+
+### u033302
+Va' su Zarkov
+
+### u033303
+Aiuta il Governatore Batoshski a respingere l'attacco.
+
+### u033304
+Tieni in vita il Sergente istruttore Dankosh.
+
+### u033305
+Aiuta il Governatore Dunawski a respingere l'attacco.
+
+### u033306
+Tieni in vita il Sergente istruttore Jovakha.
+
+### u033307
+Aiuta il Quartiermastro Kuravich a respingere l'attacco.
+
+### u033308
+Proteggi il chirurgo Lukha.
+
+### u033309
+Il Lord Capitano è arrivato appena in tempo: la Gabbia, il principale insediamento del mondo, è stata attaccata da nemici ignoti dell'Umanità.
+
+### u033310
+Difendi l'insediamento
+
+### u033311
+Ora che la colonia è al sicuro, è chiaro che le creature di metallo provenivano dalle rovine dove si interrompono le tracce di Seberian.
+
+### u033312
+Va' alle rovine
+
+### u033313
+Il tuo istinto ti dice che nelle stanze del Lord Capitano manca qualcosa. Controlla che tutto sia al suo posto.
+
+### u033314
+Un brutto presentimento
+
+### u033315
+Il Lord Capitano è riuscito ad accertare che la spia dell'Inquisizione non era altri che Juvenna von Valancius.
+
+### u033316
+Un traditore è emerso nel campo di Seberian, un agente attraverso le cui mani l'Inquisizione arriva fino al cuore del palazzo.
+
+### u033317
+Tradimento giusto
+
+### u033318
+Il traditore opera con il nominativo "Elana".
+
+### u033319
+I rinforzi dei Gaprak sono stati annientati. Bisogna stabilire se il traditore abbia avuto un ruolo in questo.
+
+### u033320
+Il traditore ha disattivato la batteria antiaerea, aprendo la strada a un assalto aereo del nemico.
+
+### u033321
+È stato scoperto un vox-trasmettitore clandestino. La sua fattura raffinata indica l'alto rango del suo proprietario.
+
+### u033322
+Il voltagabbana deve nascondersi nella cerchia ristretta di Seberian, altrimenti non avrebbe alcun valore per l'Inquisitore.
+
+### u033323
+Smaschera il traditore
+
+### u033324
+Il Lord Capitano ha trovato non una reliquia perduta, ma Seberian in persona, vivo e vegeto.
+
+### u033325
+Il Lord Capitano ha schiacciato i morti di ferro. Seberian perì un tempo proprio fra queste rovine: quale ricompensa maggiore potrebbe esserci del recupero della lama reliquia, perduta da tanto tempo?
+
+### u033326
+Ultimi omaggi
+
+### u033327
+I registri di Exalt-117 mostrano che Seberian è passato dal cancello laterale ed è svanito nel cuore delle rovine. Devi seguire le sue tracce.
+
+### u033328
+All'ingresso della tomba giacciono gli antichi resti essiccati di un servitore dell'Omnissiah. È possibile che portasse con sé registri sulla sua sorte.
+
+### u033329
+Seberian e la sua spada sono scomparsi nelle profondità di questa tomba intrisa di sangue. Ma non può essere morto senza lasciare traccia.
+
+### u033330
+Esamina le xenorovine
+
+### u033331
+Anche l'Angelo dell'Imperatore è stato fatto prigioniero dagli xenos. Impotente di fronte al proprio destino, desidera comunque continuare il suo servizio. Ora la sua vita è nelle mani del Lord Capitano.
+
+### u033332
+Lastre di trasporto fluttuanti sfidano la gravità grazie a una xenotecnologia avanzata. Non spetta all'Umanità comprenderne i princìpi, ma proprio questi meccanismi potrebbero ancora trarre il Rogue Trader fuori dalla trappola.
+
+### u033333
+La tomba si è trasformata, sigillando il passaggio alle sue spalle. Il Lord Capitano si ritrova bloccato su una lastra fluttuante.
+
+### u033334
+Fuggi dalla trappola
+
+### u033335
+Il guardiano xenos del Museion ha ammesso che la Crimson Dance of Khaine è stata rubata e trasformata in un pezzo da esposizione. Per recuperarla, devi prima trovare il "diorama interattivo".
+
+### u033336
+La sala è piena di innumerevoli diorami fluttuanti. L'unico modo per spostarsi dall'uno all'altro è usare le lastre di trasporto antigravità.
+
+### u033337
+Il Lord Capitano ha scoperto antichi segni lasciati dal {mf|suo|suo} leggendario antenato.
+
+### u033338
+Il Rogue Trader ha decifrato i princìpi di controllo delle lastre antigravità. Ognuna reca un glifo di comando. Attivarlo fa scattare i segnali di arrivo sulle lastre raggiungibili.
+
+### u033339
+La colossale sala si è rivelata una parodia xenos di un museo. Ora il Lord Capitano deve scoprire le tracce di Seberian e riprendersi la lama reliquia.
+
+### u033340
+Ripercorri i passi di Seberian
+
+### u033341
+La replica blasfema del palazzo su Dargonus è una mera facciata, un diorama interattivo di uno xenos folle. Ma è là che devono trovarsi i resti di Seberian e la Crimson Dance of Khaine.
+
+### u033342
+Entra nel diorama del palazzo
+
+### u033343
+Il trono di impianto è stato rimesso in servizio grazie agli sforzi del Rogue Trader.
+
+### u033344
+L'antico trono di impianto appartenente alla dinastia fu danneggiato durante l'ammutinamento di Kunrad Voigtvir. Spetta al Rogue Trader riportare la macchina archeotech in condizioni di funzionamento.
+
+### u033345
+Reliquia spezzata
+
+### u033346
+Janris Danrok ha invitato il Rogue Trader a scendere al Settore Bionica per ispezionare di persona l'apparato malandato.
+
+### u033347
+Trova l'Alto Factotum nel Settore Bionica
+
+### u033348
+La sacra archeotecnologia è danneggiata e può essere riparata solo da un servitore del Dio-Macchina di alto rango e dotato della benedizione della Forza Motrice. Una simile persona si può cercare sulla stazione di clausura Altar-Templum-Calixis-Ext-17, nel Sistema Furibundus.
+
+### u033349
+Va' nel Sistema Furibundus
+
+### u033350
+I Tecnopreti di Altar-Templum-Calixis-Ext-17 hanno risposto al richiamo del Rogue Trader e ti invitano a visitare la loro dimora per uno scambio di informazioni di reciproco vantaggio.
+
+### u033351
+Visita Altar-Templum-Calixis-Ext-17
+
+### u033352
+Settore Bionica, nave del vuoto von Valancius
+
+### u033353
+Il Rogue Trader è sfuggito al ciclo temporale, liberando nel frattempo il {mf|suo|proprio} antenato, Seberian von Valancius.
+
+### u033354
+Il Rogue Trader ha scoperto una replica del palazzo di Dargonus sotto assedio.
+
+### u033355
+Tra la vita e la morte
+
+### u033356
+Dargonus è assediata dalle forze dell'Inquisizione. Seberian von Valancius, un uomo che dovrebbe essere morto da secoli, è stato giustiziato appena pochi istanti fa. Bisogna scoprire la verità su ciò che sta accadendo.
+
+### u033357
+Scopri che cosa sta succedendo
+
+### u033358
+Il Rogue Trader è caduto in un ciclo temporale che ricrea ancora e ancora l'assedio di Dargonus. Bisogna trovare un modo per evitare di diventare parte di questo spettacolo per l'eternità.
+
+### u033359
+Libera {mf|te stesso|te stessa} dalla cronoanomalia
+
+### u033360
+Laria sta cercando di persuadere Seberian ad agire con cautela e a fidarsi dei propri alleati. Forse, se il consiglio può essere convinto a schierarsi dalla sua parte, il ciclo temporale si spezzerà.
+
+### u033361
+Laria ha rivelato la frase in codice destinata ai suoi agenti fidati.
+
+### u033362
+Juvenna propone che Seberian negozi con l'Inquisizione. Se il consiglio può essere persuaso a sostenerla, questo esito potrebbe spezzare il ciclo temporale.
+
+### u033363
+Exalt-117 può essere convinto dell'esistenza della cronoanomalia e il suo appoggio nel consiglio può essere assicurato.
+
+### u033364
+Isimond ha ucciso il rampollo dei Gaprak per ordine di Camilla, ma l'artefice dell'intera cospirazione era Juvenna. L'ereditiera ha usato le mani altrui per stornare da sé i sospetti.
+
+### u033365
+Camilla ha reagito con sospetto all'idea di diventare governatrice. Ambisce al ruolo? E con quali mezzi potrebbe ottenerlo?
+
+### u033366
+Il traditore che opera con il nominativo "Elana" si è rivelato essere proprio Juvenna.
+
+### u033367
+Chi è intrappolato nel ciclo temporale non comprende dove si trovi. Qualcosa ostacola la loro percezione di tutto ciò che esula da questo mostruoso spettacolo. Si adoperano per intessere il Rogue Trader nella propria realtà.
+
+### u033368
+Seberian ripone fiducia solo nella sua lama, una fede che lo rende sordo ai consigli del suo seguito durante il consiglio. Finché la spada resta al suo fianco, le possibilità di indirizzare gli eventi su un altro corso sono scarse.
+
+### u033369
+Il mistero della scomparsa di Seberian von Valancius è stato risolto. E non solo risolto: eccolo qui, in carne e ossa, sul ponte di comando della nave ammiraglia. In verità, il Dio-Imperatore è stato misericordioso con lui.
+
+### u033370
+Dalle profondità del tempo è riemerso il nome di Seberian von Valancius, un Rogue Trader di cui negli archivi dinastici non sopravvive alcuna menzione. Il Lord Capitano deve scoprire quali terribili segreti o inestimabili tesori abbia lasciato questo enigmatico antenato.
+
+### u033371
+Sulle orme di una leggenda
+
+### u033372
+Su una delle pareti della stanza è appeso un ritratto a mezzo busto. Forse la figura raffigurata farà luce sull'identità del proprietario della stanza.
+
+### u033373
+La camera segreta non somiglia affatto al Settore Bionica. Sembra piuttosto lo studio privato di qualcuno. Perciò qui devono essere nascosti dei registri di qualche genere.
+
+### u033374
+Recati al Settore Bionica della nave ammiraglia e apri la serratura genetica dietro il trono di impianto.
+
+### u033375
+Il risveglio dell'antica archeotecnologia nel Settore Bionica ha rivelato la via per una camera segreta bloccata da una serratura genetica. Il Rogue Trader deve avventurarsi all'interno e scoprire la verità sul misterioso proprietario della camera.
+
+### u033376
+Entra nella camera segreta
+
+### u033377
+Nella camera segreta del Settore Bionica, il Lord Capitano ha trovato i registri del {mf|suo|proprio} antenato, Seberian, perito nella Distesa di Koronus insieme a un potente artefatto. Questi registri rivelavano il codice di accesso a una sezione riservata del cogitatore su Dargonus.
+
+### u033378
+Accedi al cogitatore personale su Dargonus
+
+### u033379
+Il 32° Reggimento Penale di Merov un tempo servì Seberian. Il capitano-quartiermastro ha chiesto che i loro giuramenti siano rinnovati e che vengano riammessi in servizio. Il Colonnello Batoshski, tuttavia, non gradisce l'idea. C'è ancora la speranza che il Lord Capitano possa conquistare il suo rispetto.
+
+### u033380
+Rinnova i giuramenti del 32° Reggimento di Merov
+
+### u033381
+Il Capitano-Quartiermastro Dunawski non ha lasciato il Lord Capitano a combattere {mf|da solo|da sola} contro il mostro ed è comparso di persona per aiutarlo.
+
+### u033382
+Il Colonnello Batoshski ha deciso di inviare al Lord Capitano dei rinforzi nella persona del Sergente Janur.
+
+### u033383
+Il Drover è una creatura pericolosa, ma ha un'unica debolezza nota: il fuoco. Secondo i Meroviani, il fuoco è ottimo per distruggere la corazza naturale della creatura.
+
+### u033384
+Parla al Colonnello Batoshski del Drover.
+
+### u033385
+Scopri che cosa vuole il Capitano-Quartiermastro Vedka Dunawski.
+
+### u033386
+La creatura nota come Drover impedisce al Lord Capitano di contattare la nave ammiraglia e di lasciare Zarkov. Inoltre, ha fatto la sua tana vicino alla cripta di Seberian von Valancius, la cui spada {name} sta cercando.
+
+### u033387
+Distruggi il Drover
+
+### u033388
+Sconfitto il mostro, il Lord Capitano può finalmente ispezionare la cripta del {mf|suo|suo} antenato.
+
+### u033389
+Esamina la cripta di Seberian
+
+### u033390
+Qualcosa ha abbattuto la navetta del Lord Capitano. Il velivolo è precipitato vicino a un insediamento umano rilevato dagli augur. Forse lì si può trovare un modo per contattare la nave ammiraglia.
+
+### u033391
+Nel sistema stellare noto come Tear of Solar, il Lord Capitano ha scoperto un'antica navetta con l'insegna dell'Inquisizione e un pilota del 32° Reggimento Penale di Merov. La registrazione vox sopravvissuta ha rivelato che il patrono del reggimento è morto, lasciando l'unità sul mondo GH-89-717.
+
+### u033392
+Si è saputo che Seberian partì alla ricerca di certi artefatti che si dice potessero salvare la dinastia. Portando con sé la sua spada reliquia, il Rogue Trader scomparve da qualche parte nell'ammasso che comprende i sistemi Tear of Solar, Ignis Corona e Fortis Porta.
+
+### u033393
+Esplora l'ammasso di sistemi attorno a Tear of Solar
+
+### u033394
+Secoli fa, Seberian von Valancius si addentrò nelle rovine nascoste tra le radici del mondo. È possibile che il suo corpo giaccia ancora laggiù, in attesa di riposare in un cenotafio dinastico. Appena {mf|tornato|tornata} sulla nave ammiraglia, il Lord Capitano dovrebbe scandagliare con gli augur il presunto luogo della morte di Seberian.
+
+### u033395
+Individua le rovine perdute dall'orbita di Zarkov
+
+### u033396
+Grazie al Rogue Trader, l'ago della bilancia ha premiato Juvenna von Valancius.
+
+### u033397
+L'Inquisizione ha bisogno dell'aiuto del Rogue Trader per indurre Seberian a negoziare.
+
+### u033398
+Negoziati sussurrati
+
+### u033399
+Il Rogue Trader ha stretto un'alleanza con l'Inquisitore. Il passo successivo è trovare il contatto che usa il nominativo "Elana".
+
+### u033400
+Trova "Elana"
+
+### u033401
+Branek Zarkov agisce per ordine di Laria. Dagli ordini diversi, oppure toglilo di mezzo.
+
+### u033402
+Laria è devota a suo padre fino al fanatismo. Servirà qualcosa di davvero importante per convincerla a sostenere i negoziati con l'Inquisizione.
+
+### u033403
+Il Magos Exalt-117 non sostiene il piano di Juvenna. Va convinto, oppure eliminato con altri mezzi.
+
+### u033404
+Il seguito di Seberian ha troppa paura della Danza Cremisi di Khaine per opporsi a lui.
+
+### u033405
+Devi ottenere i codici di accesso ai cancelli del palazzo e consegnarli a Juvenna.
+
+### u033406
+Camilla Drivestem e Isimond Sauerback sono favorevoli al piano di Juvenna. Il loro sostegno va mantenuto.
+
+### u033407
+Fai pendere la bilancia a favore di Juvenna
+
+### u033408
+Juvenna propone di cercare un'alleanza con l'Inquisizione tramite negoziati, e ha bisogno dell'aiuto del Rogue Trader per convincere Seberian.
+
+### u033409
+Il codice maestro dei cancelli è stato trovato. La scoperta va riferita a Juvenna.
+
+### u033410
+Isimond Sauerback è leale a Juvenna: il suo sostegno va mantenuto.
+
+### u033411
+Juvenna deve essere convinta a fidarsi del Rogue Trader.
+
+### u033412
+Camilla Drivestem è dalla parte di Juvenna: il suo sostegno va mantenuto.
+
+### u033413
+I cancelli del palazzo sono sbarrati, perciò Juvenna non può agire in modo decisivo. La soluzione è apprendere la litania dei cancelli o trovare un altro modo per aprirli.
+
+### u033414
+Devi ottenere i codici di accesso ai cancelli del palazzo e consegnarli a Juvenna.
+
+### u033415
+Il seguito di Seberian è diviso, perciò egli non ascolterà nessuna delle due parti. Bisogna ottenere la maggioranza.
+
+### u033416
+Grazie al Rogue Trader, l'ago della bilancia ha premiato Laria Voigtvir.
+
+### u033417
+Al consiglio di guerra, nessuna delle due parti può far pendere la bilancia senza l'intervento del Rogue Trader. La proposta di Laria è contare sugli alleati della dinastia e mantenere la difesa.
+
+### u033418
+Appello agli alleati
+
+### u033419
+Branek Zarkov è dalla parte di Laria: il suo sostegno va mantenuto.
+
+### u033420
+Exalt-117 dà ascolto a Laria: il suo sostegno va mantenuto.
+
+### u033421
+Il quartier generale che ha resistito al bombardamento è un forte argomento a favore della difesa.
+
+### u033422
+Le parole di Isimond Sauerback vanno contro il piano del Siniscalco. Va convinto a schierarsi con Laria, oppure eliminato con altri mezzi.
+
+### u033423
+La voce di Juvenna come erede ha un peso particolare. Bisogna trovare un modo per toglierla di mezzo.
+
+### u033424
+Camilla Drivestem ostacola il piano del Siniscalco. Va convinta a cambiare schieramento, oppure eliminata con altri mezzi.
+
+### u033425
+Seberian si affida troppo alla sua lama xenos. Questo gli impedisce di fidarsi dei suoi alleati.
+
+### u033426
+Dimostra al Siniscalco che il ciclo temporale è reale.
+
+### u033427
+Guadagna la fiducia di Laria risolvendo il caso dei rinforzi Gaprak scomparsi.
+
+### u033428
+Il funzionamento regolare del sistema di difesa aerea è un ulteriore argomento a favore della difesa.
+
+### u033429
+Fai pendere la bilancia a favore di Laria
+
+### u033430
+La trappola xenos è stata distrutta dall'esplosione della replica del Palazzo di Dargonus, permettendo al Lord Capitano di liberarsi.
+
+### u033431
+Sembra che la lunga presenza di un ospite indesiderato all'interno del ciclo temporale abbia danneggiato il meccanismo un tempo preciso della trappola. Si è aperta una breccia nella muratura della replica.
+
+### u033432
+Teca in frantumi
+
+### u033433
+Il Rogue Trader ha scoperto un dispositivo di tecnologia xenos e ora deve scegliere: tentare di far detonare la replica dall'interno, oppure continuare a cercare un'altra via di fuga
+
+### u033434
+Fai detonare Dargonus
+
+### u033435
+I Tecnopreti che soccombono alla tentazione dell'eresia devono affrontare l'esecuzione pubblica.
+
+### u033436
+Distruggi i Tecnopreti ribelli dell'Adeptus Mechanicus
+
+### u033437
+La frattura nel campo dell'Adeptus Mechanicus è più profonda e complessa di quanto possa sembrare. Il Rogue Trader dovrebbe indagare più a fondo per prendere la decisione giusta.
+
+### u033438
+Indaga sul conflitto
+
+### u033439
+Le spedizioni di sacro promethium verso Altar-Templum-Calixis-Ext-17 sono state interrotte. Chiunque ne sia responsabile dovrà rispondere della propria trasgressione ed essere punito con la massima severità.
+
+### u033440
+Scopri che cosa è successo alla stazione di estrazione del promethium Tirkuaz-4
+
+### u033441
+Per riscuotere la ricompensa promessa, il Rogue Trader deve tornare alla stazione Altar-Templum-Calixis-Ext-17 e parlare con i Tecnopreti.
+
+### u033442
+Torna ad Altar-Templum-Calixis-Ext-17
+
+### u033443
+La situazione alla stazione di estrazione del promethium su Tirkuaz-4 è stata risolta.
+
+### u033444
+Perché i Tecnopreti di Altar-Templum-Calixis-Ext-17 accettino di lavorare al miglioramento del trono di impianto nel Settore Bionica, il Rogue Trader deve aiutarli a risolvere la questione dell'interruzione dei rifornimenti di promethium.
+
+### u033445
+Sabotaggio industriale
+
+### u033446
+La spada di Seberian all'interno del ciclo temporale si è rivelata una fragile contraffazione, non il prezioso artefatto che sembrava.
+
+### u033447
+Si dice che Jarub sia un uomo dai talenti criminali.
+
+### u033448
+Se Seberian verrà privato della sua spada, ma il suo seguito continuerà a tirarlo in direzioni diverse durante il consiglio, accuserà il Rogue Trader di furto e {mf|lo|la} farà giustiziare. Bisogna occuparsi sia della spada sia del seguito.
+
+### u033449
+La Danza Cremisi di Khaine deve essere sottratta. Servirà l'aiuto di qualcuno con la destrezza di un ladro. Per fortuna il palazzo pullula di coscritti penali meroviani.
+
+### u033450
+Impadronisciti della reliquia
+
+### u033451
+Jarub ha promesso di aspettare il Rogue Trader accanto all'ospedale per consegnargli la lama.
+
+### u033452
+Jarub ha bisogno di condizioni adatte. Il Rogue Trader può distrarre le guardie oppure approfittare della confusione causata dal bombardamento.
+
+### u033453
+Il bombardamento del quartier generale offre un'occasione eccellente per il furto.
+
+### u033454
+Isimond tiene d'occhio Jarub più da vicino degli altri, in quanto il meno affidabile tra i Meroviani. Jarub va avvertito di stare in guardia contro il tutore dell'ordine.
+
+### u033455
+Si dice che Jarub possieda i talenti necessari. I dettagli vanno discussi con lui.
+
+### u033456
+Assicurati il sostegno di Jarub
+
+### u033457
+Se, durante il consiglio di guerra, gli ultimi dubbi di Seberian e del suo seguito sono legati alla spada, la lama può essere presentata come un falso.
+
+### u033458
+Distruggi la spada
+
+### u033459
+Ora che la lama di Seberian gli è stata sottratta, gli sarà più facile vedere nel suo seguito una vera fonte di sostegno.
+
+### u033460
+Seberian è in preda a un'ossessione per la Danza Cremisi di Khaine, un'ossessione che fa tremare di paura il suo seguito e lo rende dipendente solo da se stesso.
+
+### u033461
+Sull'orlo della furia
+
+### u033462
+Hai attraversato il portale dimensionale, e ora resta un solo compito: cercare il Museion di Trazyn e mostrare a quel presuntuoso xenos la vera potenza di un Rogue Trader della dinastia von Valancius. L'assalto è imminente.
+
+### u033463
+Tra i diorami in frantumi, il Lord Capitano ha scoperto un trasporto antigravità Drukhari identico a quello che {mf|lo|la} ha portato alla Guglia della Reaving Tempest. Finalmente la pista che conduce al ladro.
+
+### u033464
+Seberian von Valancius, venuto a conoscenza della richiesta di Trazyn, ha accettato la proposta dello xenos. La sua lealtà va alla sua dinastia, e senza il Mandato la Casata von Valancius semplicemente non può esistere.
+
+### u033465
+Assalta il Museion
+
+### u033466
+Il responsabile della scomparsa del Mandato di Commercio è Trazyn l'Infinito, dalla cui prigionia il Lord Capitano aveva in precedenza liberato Seberian. Lo xenos ha fatto sapere che restituirà il Mandato in cambio dell'antenato di Sua Signoria, e ora attende il Rogue Trader in uno dei sistemi oltre il portale warp proibito per concludere l'accordo.
+
+### u033467
+Trova la strada per il Museion
+
+### u033468
+Il Rogue Trader ha finalmente messo alle strette Trazyn l'Infinito. È il momento di riprendersi ciò che lo xenos orgoglioso ha rubato.
+
+### u033469
+La strada del Rogue Trader è bloccata da barricate. Per fortuna non c'è nulla che una quantità sufficiente di fyceline, o un carro armato, non possa spazzare via.
+
+### u033470
+Il Rogue Trader ricorda la camera in cui la carne si dissolveva in luce smeraldina. Il Mandato della dinastia deve essere nascosto lì, e ora il dovere impone di trovare un modo per entrare in questa empia camera blindata.
+
+### u033471
+Recupera il Mandato
+
+### u033472
+Il Mandato di Commercio è stato riportato nella sua camera protetta e riconsacrato con il sangue di {name} von Valancius, {mf|il suo attuale legittimo detentore|la sua attuale legittima detentrice}.
+
+### u033473
+Il Mandato di Commercio, la reliquia più preziosa della dinastia von Valancius, che conferisce tutti i suoi diritti e le sue libertà più fondamentali, è svanito dalla sua camera sacra. Senza il Mandato, la dinastia semplicemente non può esistere. Recuperarlo è essenziale se vuoi rimanere un Rogue Trader.
+
+### u033474
+Diritto rubato
+
+### u033475
+Il Rogue Trader ha stretto un'alleanza con l'Inquisitore. Ora deve trovare l'agente che opera con il nominativo "Elana".
+
+### u033476
+Il Magos Exalt-177 non sostiene il piano di Juvenna. Deve essere convinto oppure rimosso con altri mezzi.
+
+### u033477
+La Danza Cremisi di Khaine terrorizza troppo il seguito perché osi opporsi a Seberian.
+
+### u033478
+Laria è devota a suo padre fino al fanatismo. Per convincerla a sostenere i negoziati con l'Inquisizione, bisogna presentarle qualcosa di davvero convincente.
+
+### u033479
+Branek Zarkov esegue qualunque ordine gli dia Laria. Bisogna dargli un comando diverso oppure neutralizzarlo del tutto.
+
+### u033480
+Camilla Drivestem e Isimond Sauerback sostengono il piano dell'ereditiera. Il loro appoggio va preservato.
+
+### u033481
+Fai pendere la bilancia a favore di Juvenna
+
+### u033482
+I cancelli del palazzo sono sigillati, perciò Juvenna non può agire con forza decisiva. Bisogna apprendere la litania del cancello o trovare un altro modo per aprirlo.
+
+### u033483
+Il Rogue Trader ha scoperto il percorso del cavo di alimentazione del cancello. È giunto il momento di privarlo di energia.
+
+### u033484
+Il codice maestro del cancello è stato trovato. Juvenna va informata.
+
+### u033485
+Juvenna propone di cercare un'alleanza con l'Inquisizione tramite negoziati, e ha bisogno dell'aiuto del Rogue Trader per convincere Seberian della bontà di questa via.
+
+### u033486
+Sussurri di trattativa
+
+### u033487
+Il quartier generale, sopravvissuto al bombardamento, è un potente argomento a favore della difesa.
+
+### u033488
+Le parole di Isimond Sauerback vanno contro il piano del Siniscalco. Deve essere convinto a schierarsi con Laria oppure neutralizzato con altri mezzi.
+
+### u033489
+In quanto ereditiera, la voce di Juvenna ha un peso particolare. Bisogna trovare un modo per toglierla dai giochi.
+
+### u033490
+Camilla Drivestem ostacola il piano del Siniscalco. Deve essere convinta a cambiare schieramento oppure neutralizzata con altri mezzi.
+
+### u033491
+Seberian ripone troppa fiducia nella lama xenos. Questo gli impedisce di fare affidamento sui suoi alleati.
+
+### u033492
+Il corretto funzionamento della batteria antiaerea è un ulteriore argomento a favore della difesa.
+
+### u033493
+Il Magos Exalt-117 e Branek Zarkov sostengono il piano del Siniscalco. Il loro appoggio va preservato.
+
+### u033494
+Fai pendere la bilancia a favore di Laria
+
+### u033495
+Durante il consiglio di guerra, nessuna delle due parti può far pendere la bilancia senza l'intervento del Rogue Trader. Laria propone di confidare negli alleati e di mantenere la difesa.
+
+### u033496
+La chiamata dei compagni
+
+### u033497
+Il Vivisettore Jaze Martinax si occupa di rimettere insieme la carne mortale. Attende il Rogue Trader nel reparto chirurgico del Settore Bionica.
+
+### u033498
+Valutazione di idoneità
+
+### u033499
+Il Custode dei Riti di Impianto, il Genetor Ferrenz, attende la visita del Rogue Trader nel reparto augmetico.
+
+### u033500
+Diagnostica augmetica
+
+### u033501
+Recati al Settore Bionica per una valutazione di idoneità. Questo compartimento è riservato alla cura e all'augmetica dell'élite della nave. La procedura sarà condotta dai due specialisti responsabili.
+
+### u033502
+Sottoponiti a una valutazione di idoneità completa
+
+### u033503
+La valutazione medicae conferma che il Rogue Trader è in perfetta salute.
+
+### u033504
+Le recenti calamità hanno messo il Rogue Trader alla prova con le più crudeli delle sofferenze. Bisogna stabilire se abbiano lasciato il segno sul rampollo di un'antica dinastia.
+
+### u033505
+Valutazione medicae
+
+### u033506
+Le prove scoperte all'avamposto vanno mostrate al Siniscalco Voigtvir.
+
+### u033507
+La bruciatura da plasma trovata all'avamposto somiglia più al segno di un singolo colpo che alle conseguenze di un lungo scontro a fuoco.
+
+### u033508
+All'avamposto è stato trovato un anello con sigillo macchiato di sangue, recante lo stemma della casata Gaprak.
+
+### u033509
+Sono state scoperte tracce di un corpo trascinato, che indicano come qualcuno abbia tentato deliberatamente di gettarlo oltre il precipizio.
+
+### u033510
+All'avamposto è stato trovato un elenco dei rinforzi attesi. Secondo quanto riporta, i rinforzi Gaprak erano attesi da tempo.
+
+### u033511
+Se un qualche messaggio sui rinforzi è stato inviato al palazzo, non è andato oltre l'avamposto. L'avamposto va ispezionato.
+
+### u033512
+Ispeziona l'avamposto
+
+### u033513
+Le prove puntano a Isimond. Resta da vedere se bastino a convincere Laria della colpevolezza del tutore dell'ordine.
+
+### u033514
+Laria è pronta ad arrestare Isimond in base alle prove raccolte, ma il Rogue Trader desidera prima parlare con il tutore dell'ordine.
+
+### u033515
+I Meroviani affermano che Isimond è stato di guardia all'avamposto di recente e ha preteso che l'intera guarnigione fosse sostituita con uomini suoi.
+
+### u033516
+Isimond possiede una pistola al plasma con un nome proprio.
+
+### u033517
+Isimond è disposto a tutto pur di assicurare il titolo alla sua casata.
+
+### u033518
+Isimond sostiene di aver subito una ferita da schegge, ma la lesione è stata inflitta da un'arma da taglio.
+
+### u033519
+L'erede dei Gaprak è stato ucciso all'avamposto dalla scarica di un'arma al plasma. Il corpo è stato eliminato gettandolo oltre il precipizio. Bisogna trovare il colpevole.
+
+### u033520
+Trova l'assassino dell'erede dei Gaprak
+
+### u033521
+È emerso che Juvenna ha orchestrato l'omicidio dell'erede dei Gaprak. Questa rivelazione interesserebbe di certo il Siniscalco Voigtvir.
+
+### u033522
+Isimond è stato spinto a commettere l'omicidio da Camilla. Bisogna stabilire perché la duchessa abbia dato inizio a questa congiura.
+
+### u033523
+Scopri i motivi di Camilla Drivestem
+
+### u033524
+L'assassino è stato arrestato, ma le ragioni che l'hanno spinto a correre un simile rischio restano poco chiare. Il Rogue Trader può ancora tentare di trovare la risposta.
+
+### u033525
+Movente non accertato
+
+### u033526
+Grazie agli sforzi del Rogue Trader, l'assassino dell'erede dei Gaprak è stato trovato. Si tratta di Isimond Sauerback, che agiva per ordine di Camilla Drivestem. Tutti loro, però, erano semplicemente vittime di una raffinata manipolazione ideata da Juvenna von Valancius.
+
+### u033527
+Le forze della Casata Gaprak avrebbero dovuto accorrere in aiuto di Dargonus, ma i rinforzi non sono mai arrivati. Bisogna scoprire qualunque informazione sulla loro sorte.
+
+### u033528
+I rinforzi smarriti
+
+### u033529
+Incontra Seberian
+
+### u033530
+"Sono io il Lord Capitano, e le accuse di debolezza non cambieranno questo fatto. Ti chiedo di frenare la tua collera fuori luogo."
+
+### u033531
+"Ho sentito le tue condizioni. Sarà il tempo a giudicare tra noi."
+
+### u033532
+"È la prima volta che sento parlare di questa rivolta, Janris. Si tratta di un errore, o mi hai nascosto qualcosa?"
+
+### u033533
+"Meraviglioso, Alto Factotum, specialmente il fatto che io venga a sapere dell'ammutinamento solo dopo che è già stato sedato."
+
+### u033534
+"Incantevole... Mi dirai subito che cosa è successo su Janus e chi vi ha inviato le truppe."
+
+### u033535
+"Ti concedo un minuto di vita. Spiega da dove viene questo 'dono' e che cosa è successo con Janus. Il tuo tempo comincia ora."
+
+### u033536
+"Non intrometterti, Seberian. Non ti ho dato il permesso di parlare."
+
+### u033537
+"Alto Factotum, io, il Lord Capitano, non ti permetto di congedarti."
+
+### u033538
+"Voglio ancora sentire i dettagli, Danrok."
+
+### u033539
+"Basta, Seberian! La tua ostilità ha passato il segno. Spiegati!"
+
+### u033540
+"Chi sarebbe questo Seberian, perché tu debba obbedirgli?"
+
+### u033541
+"Lasciamo da parte i sentimentalismi. Factotum, che cosa è successo esattamente sul mondo agricolo di Janus?"
+
+### u033542
+"Il quadro è chiaro. Ora bisogna scoprire la causa di questi eventi."
+
+### u033543
+"Comincio a sospettare una congiura. Se si rivelerà vero, ti attende una punizione."
+
+### u033544
+"In ginocchio, verme negligente! Mi racconterai ogni dettaglio, oppure perderai la testa."
+
+### u033545
+"E quale sarebbe, precisamente, questo grande prezzo di cui parli?"
+
+### u033546
+"Te lo ordino, Seberian: taci!"
+
+### u033547
+"Ho fatto molto per rafforzare questi possedimenti. I tuoi rimproveri sono privi di fondamento."
+
+### u033548
+"Chi ti ha dato l'autorità di comandare il 32° Reggimento di Merov senza informarmi?"
+
+### u033549
+[Sorridi {mf|sardonico|sardonica}] "Visto che sei così intelligente, forse potresti condividere la tua saggezza e rimettermi sulla retta via."
+
+### u033550
+"Ecco: un fossile di ruggine e amido di cadavere, venuto a farmi la predica sul buon senso!"
+
+### u033551
+"Non ho alcuna intenzione di ingraziarmi il tuo favore, Seberian."
+
+### u033552
+"Tieni a freno la lingua e vattene, o farò buttare fuori da tutori dell'ordine con disonore."
+
+### u033553
+"Ah sì? Allora esigo un duello, qui e subito."
+
+### u033554
+"Hai perso il senno? Sono {mf|stanco|stanca} di ascoltare i tuoi vecchi deliri su glorie ormai lontane!"
+
+### u033555
+"Non pronunciare parole di cui potresti pentirti."
+
+### u033556
+"Potresti per cortesia astenerti dal darmi consigli, venerato antenato?"
+
+### u033557
+"Che assurdità! È ovvio che il protettorato sarebbe crollato se non avessi assunto io il comando."
+
+### u033558
+{n}L'Alto Factotum si inchina con rispetto davanti al trono, porgendoti un contenitore ornato.{/n} "Vostra Signoria, ho il piacere di riferire che i recenti disordini su Janus sono stati sedati grazie agli sforzi dei soldati della Guardia di Merov. L'aristocrazia del mondo manda questo dono in segno di gratitudine."
+
+### u033559
+"Non c'è motivo di preoccuparsi, erede {mf|mio|mia}. L'ordine di piegare Janus è stato impartito da me, perché quel mondo richiedeva la mano ferma del Rogue Trader."
+
+### u033560
+"Non sta bene perdere la faccia davanti ai servi, erede {mf|mio|mia}. L'ordine di piegare Janus è stato impartito da me, perché quel mondo richiedeva la mano ferma del Rogue Trader."
+
+### u033561
+{n}Janris fa un minuscolo passo indietro, un movimento quasi impercettibile per un uomo della sua stazza.{/n} "Come potete vedere, Vostra Signoria, la spiacevole situazione è stata risolta in piena conformità con gli interessi della dinastia. Vorrei congedarmi. Faccende non meno importanti attendono la mia attenzione."
+
+### u033562
+"Certamente, Factotum Danrok. La tua lealtà alla stirpe dei von Valancius è fuori discussione. Ora va' e svolgi i tuoi doveri con il consueto zelo."
+
+### u033563
+{n}Danrok boccheggia in modo convulso.{/n} "Obbedisco a Vostra Signoria e resterò qui finché lo vorrete."
+
+### u033564
+"Un vero Rogue Trader non ha bisogno del permesso di nessuno." {n}Nel tono gracchiante e modulato dal vox di Seberian si avverte un'ombra di scherno.{/n} "Concentrati, erede {mf|mio|mia}, e prosegui la tua inchiesta."
+
+### u033565
+"P-p-perdonatemi, Lord Capitano! L'ordine è stato impartito dal vostro antenato a nome della dinastia! Non mi è nemmeno pa-passato per la mente che voi poteste non saperlo!" {n}Janris si strozza con le parole, riuscendo a stento a controllare le proprie corde vocali. Lo sguardo del Factotum corre da te a Seberian e di nuovo a te, poi si fissa sul pavimento.{/n}
+
+### u033566
+"Il vostro illustre antenato, membro della dinastia von Valancius, Conquistatore di Janus e Rogue Trader..." {n}Gli occhi del Factotum restano fissi verso il basso.{/n} "Ex Rogue Trader."
+
+### u033567
+"Circa due cicli standard fa, gli Astropati hanno ricevuto una richiesta di aiuto inviata dalle casate nobili del pianeta. L'aristocrazia stava rapidamente perdendo il controllo dei sudditi, e serviva una decisione senza indugio. Voi eravate {mf|lontano|lontana} dalla nave ammiraglia in quel momento, Lord Capitano, e non sono riuscito a raggiungervi. Il vostro antenato si è assunto l'onere della responsabilità e ha autorizzato l'invio di soldati della Guardia di Zarkov in una missione di pacificazione."
+
+### u033568
+{n}Il Factotum si rialza dalle ginocchia con evidente affanno e inclina il volto, ora ancora più pallido.{/n} "Lieto di essere stato utile, Vostra Signoria."
+
+### u033569
+{n}Le guance paffute di Danrok diventano violacee per l'afflusso di sangue. Ansima, tirando il colletto della giacca.{/n} "Vostra Signoria... Ho agito unicamente per il bene del protettorato... Ho prove consistenti."
+
+### u033570
+"E così arriviamo alla prima domanda sensata." {n}Con i servomotori che ronzano costanti, Seberian si pone di fronte al trono, fissandoti in volto con aria di sfida.{/n} "Non sei degno di governare questa dinastia. Sei debole. Ti occupi di tutto fuorché delle tue responsabilità dirette, e i disordini su Janus ne sono la prova. Ho pagato un prezzo altissimo per portare quel mondo nel protettorato, e non potevo restare a guardare mentre veniva rovinato. Ci sono stati troppi fallimenti inaccettabili, erede {mf|mio|mia}."
+
+### u033571
+"Vedi, erede {mf|mio|mia}? Non ho bisogno di pretendere obbedienza dai sottoposti. La gente segue i miei ordini perché è l'ordine naturale delle cose. Tu, invece, ne sei ben lontano."
+
+### u033572
+"Detto in breve. Noterò che solo la tua miopia ha reso necessario il mio intervento. Se avessi dedicato più tempo a governare il protettorato anziché avventurarti all'estero con obiettivi oscuri, le cose sarebbero andate diversamente."
+
+### u033573
+"Dunque questo servo non subirà alcuna punizione per la sua grave trasgressione? Con un approccio così noncurante all'autorità, è sorprendente che tu conservi ancora il dominio su questa dinastia, erede {mf|mio|mia}."
+
+### u033574
+"La mia risposta è no, e le ragioni sono due. Primo: resisti alle critiche ragionevoli, e ne consegue che nessuno tranne me ti ha mai fatto notare le tue debolezze. Secondo: questa nave ammiraglia appartiene alla dinastia von Valancius, proprio come me. Entro i suoi confini, ho il diritto di fare come meglio credo."
+
+### u033575
+{n}Il tuo antenato mantiene una postura rilassata, fissandoti con aria di sfida.{/n} "Queste minacce faranno solo morire di apoplessia il tuo fedele servitore. A me non fanno alcuna impressione, perciò risparmiati la fatica."
+
+### u033576
+"Quel mondo era popolato dalla più selvaggia delle sottospecie degli Aeldari. Si facevano chiamare Exodites, e ebbero l'audacia di attaccarmi nel preciso istante in cui misi piede sulla superficie del pianeta e lo proclamai proprietà dell'Umanità. Passai decenni a sterminarli fino all'ultimo, purgando i nuovi possedimenti da ogni sozzura xenos. Così mi guadagnai il titolo di Conquistatore di Janus."
+
+### u033577
+"A causa dei tuoi sforzi, Janus è diventato un giocattolo nelle mani di una nobile sazia che in esso vede solo una fonte del proprio arricchimento. Questo non gli promette altro che declino e desolazione, e solo io so come evitare un simile destino."
+
+### u033578
+"E in quest'epoca, xenos arroganti vagano di nuovo per Janus, considerandolo il proprio dominio. È il risultato della tua indulgenza. Trovo il fatto assolutamente abominevole, e intendo porvi rimedio."
+

@@ -1,0 +1,696 @@
+### u028972
+"La richiesta è già stata inviata. Ci aspettiamo una risposta entro pochi cicli. La aggiungeremo al fascicolo come informazione supplementare. Per ora non vi sarà di alcun aiuto."
+
+### u028973
+"Qualunque vostro servitore direbbe ciò che serve pur di ingraziarsi chi porta il volto del Rogue Trader. La sua testimonianza non ha alcun peso in questo caso."
+
+### u028974
+"Secondo le informazioni in nostro possesso, la dama di compagnia Maive è stata sottoposta alla Servitude Imperpituis. Astuto, Rogue Trader, davvero astuto."
+
+### u028975
+{n}Strachs inarca un sopracciglio.{/n} "Dovete essere molto {mf|sicuro|sicura} di voi se vi offrite all'esame di uno psyker..."
+
+### u028976
+"In caso di stregoneria, il tribunale opera in base alla presunzione di colpevolezza."
+
+### u028977
+{n}Anche la prefetta ti fissa con uno sguardo freddo e silenzioso, con gli occhi colmi di odio.{/n}
+
+### u028978
+{n}La prefetta sfoglia alcune pagine di una cartella.{/n} "Il tribunale prende inoltre atto degli effetti perniciosi del modo in cui il Rogue Trader ha trattato i servitori dell'Imperatore affidati alla sua autorità. Da quando è {mf|giunto|giunta} da Thassera, il Rogue Trader ha compiuto il proprio dovere emettendo sentenze su diversi sudditi entro le mura di questa sacra aula..." {n}La prefetta prende il foglio di appunti e arriccia il naso.{/n}
+
+### u028979
+{n}La voce del cardinale si sente chiaramente sopra il sussurro dell'elettricità statica.{/n} "Ho supplicato, ho implorato... Ma non mi avete ascoltato! Oh, come pregavano, come gridavano a me, come... come puzzavano di corruzione! Se non potevo purificare me stesso, allora posso purificare loro! Tutti quanti! Le donne, i bambini, i vecchi! Tutti!" {n}Emette un suono a metà tra un colpo di tosse e una risata stridula.{/n}
+
+### u028980
+"Prima l'Administratum non è in grado di assolvere ai propri doveri e chiede aiuto, e ora osa persino criticare i verdetti del Rogue Trader. Prefetta, le vostre accuse non si limitano a gettare ombre sulla competenza dell'Administratum: mettono in discussione la sacralità delle decisioni dell'unto dell'Imperatore."
+
+### u028981
+{n}Strachs non si volta a guardare Inscribia, ma non hai dubbi su chi stia apostrofando.{/n} "L'Adeptus Administratum, come l'Adeptus Arbites, si limita a sovrintendere alla ripartizione della decima. Non ho bisogno di ricordarvelo, vero, Prefetta?"
+
+### u028982
+"Che cosa sta succedendo su Dargonus? Qual è la causa del panico, e perché questa conversazione privata?"
+
+### u028983
+"È stato tutto uno spettacolo orchestrato con cura, vero?"
+
+### u028984
+[Afferra l'arma]
+
+### u028985
+"Il tuo unico scopo è sempre stato mettere le mani sulla decima di Leethus!"
+
+### u028986
+"Volevi andare tu stessa a Leethus. Un errore sciocco, Prefetta: la tua impazienza era fin troppo evidente."
+
+### u028987
+"Ammettilo: mi hai {mf|incastrato|incastrata}!"
+
+### u028988
+"I tuoi goffi tentativi di manipolazione erano penosi da osservare: il lavoro rozzo di una vecchia megera senza talento che si crede degna di giudicare chi le è superiore sotto ogni aspetto."
+
+### u028989
+[Lasciati scortare al processo] "E sia. Vediamo che cosa hai preparato per me."
+
+### u028990
+[Attacca la prefetta]
+
+### u028991
+"Basta con queste sciocchezze! Rispondimi chiaramente!"
+
+### u028992
+"Hai distorto il mio rapporto su Thassera per dipingermi come {mf|un eretico|un'eretica}."
+
+### u028993
+"Mi hai spiato. Conoscevi ogni parola che dicevo. Che effetto fa lanciare occhiate furtive a {mf|colui|colei} che non potrai mai sperare di diventare?"
+
+### u028994
+"Dove vuoi arrivare?"
+
+### u028995
+"Perché le chiatte della decima sono state trattenute?"
+
+### u028996
+"Il mondo è sotto attacco? Ci sono vittime?"
+
+### u028997
+"Qualunque forma assuma, l'eresia avanza sempre in silenzio, all'insaputa della sua vittima ultima. Credo che entrambi vi abbiamo riflettuto, in questi ultimi giorni."
+
+### u028998
+"Chi diavolo credi di essere?"
+
+### u028999
+"Un processo? Questo è il mio protettorato! Qui la legge sono io!"
+
+### u029000
+"A causa dei recenti sospetti di eresia per occultamento della sacra decima, è stata avviata un'ispezione d'emergenza. Fino al termine di tale ispezione, la decima resterà in custodia all'Administratum per un periodo pari a 145 cicli planetari e 17 cicli solari secondo la cronometria di Dargonus."
+
+### u029001
+{n}La prefetta, che stava per voltarsi, si ferma e ti rivolge un'occhiata stanca.{/n} "Cosa?"
+
+### u029002
+"Volevo semplicemente fare ciò che voi, come {mf|successore|successora} di Theodora, avreste dovuto fare: proteggere la sacra decima. Non ha senso cercare di mostrare il mio ragionevole desiderio sotto una luce sfavorevole."
+
+### u029003
+{n}Vultur trae qualche respiro tremante mentre finalmente si calma e sembra rendersi conto del proprio sfogo. Senza rivolgerti un altro sguardo, fa un cenno agli Arbitratori.{/n} "Scortate {mf|l'accusato|l'accusata} al suo posto."
+
+### u029004
+{n}La prefetta sospira pesantemente.{/n} "Non avrei dovuto nemmeno provare ad ascoltarvi, Rogue Trader..." {n}Fa un cenno agli Arbitratori, ordinando loro di scortarti al banco degli accusati.{/n}
+
+### u029005
+"Non raccomando questa linea d'azione, Rogue Trader. Non potete fermare la macchina della giustizia: le sue macine sono già in moto. Una simile avventatezza non farà che peggiorare ulteriormente la vostra situazione."
+
+### u029006
+{n}La prefetta rivolge un freddo cenno agli Arbitratori alle tue spalle e si volta.{/n}
+
+### u029007
+{n}Riesci a mettere a segno un colpo prima che uno degli Arbitratori ti butti a terra con un colpo tramortente. Senti un lamento senile lì vicino: nonostante i tuoi sforzi, la prefetta è ancora viva.{/n}
+
+### u029008
+{n}La prefetta ti guarda in modo diverso da prima, e la stanchezza secolare nei suoi occhi si dissolve per un istante. Nella sua espressione c'è sorpresa e una curiosità stuzzicata, che però nasconde subito dietro il consueto velo di distacco.{/n}
+
+### u029009
+{n}La Prefetta Inscribia Vultur alza gli occhi su di te.{/n} "Rogue Trader von Valancius. {mf|Bentornato|Bentornata} al Palazzo di Giustizia."
+
+### u029010
+"È per questo che siete qui, non è vero? Per capire perché il mondo è in angoscia, perché l'aria è carica di trasmissioni vox... Qualunque amministratore degno del suo rango sarebbe preoccupato: le interruzioni dei processi stabiliti portano sempre a... Be', non importa."
+
+### u029011
+"No, nessun danno fisico ha colpito il vostro protettorato durante la vostra assenza." {n}Vultur scuote il capo.{/n} "Tuttavia, la minaccia di un diverso tipo di eresia incombe sulla capitale."
+
+### u029012
+{n}La prefetta ti scruta il volto. La sua voce suona strana: più profonda, più calma, meno scontrosa del solito.{/n} "Vi siete mai {mf|interrogato|interrogata} sulla natura dell'eresia, von Valancius? Forse, nella vostra mente, l'eresia si limita a xenos, progenie del warp e insorti... Ma esistono altre eresie, la cui esistenza si dimentica molto più facilmente: quelle della negligenza, dell'avidità, della confusione e del disordine..."
+
+### u029013
+"Rogue Trader {name} von Valancius, in conformità con l'emendamento al Decreto 64-98/DF emesso dall'Adeptus Administratum e dall'Adeptus Arbites, siete {mf|accusato|accusata} di innumerevoli eresie contro la sacra decima e il benessere del protettorato. Tutte le dichiarazioni relative sono state formulate e le prove dei vostri crimini registrate: il procedimento avrà inizio non appena voi e i vostri complici vi presenterete come imputati..." {n}La prefetta ti guarda con occhi da serpente.{/n} "Vi attende un processo, {name}."
+
+### u029014
+"Sono Sua serva e devota della prosperità dell'Imperium. Non posso restare a guardare mentre calpestate la gloriosa eredità della vostra stirpe."
+
+### u029015
+"Ed è proprio questa convinzione che vi ha {mf|trasformato|trasformata} in un mostro che, nella sua corsa verso l'abisso, mira a trascinare con sé l'intero dominio." {n}Gli occhi della prefetta sembrano bruciarti da parte a parte.{/n} "La gravità dei vostri crimini basta a deporre la vostra intera dinastia. Non opponetevi alla legge, von Valancius: ciò non farà che peggiorare la vostra situazione."
+
+### u029016
+{n}Gli Arbitratori ti anticipano: la tua sfida viene punita prima che tu riesca a sferrare un solo colpo alla prefetta.{/n}
+
+### u029017
+{n}Le labbra della prefetta si serrano in una linea sottile, e sembra che la prima vera emozione che abbia mai mostrato stia ora affiorando dalla sua facciata: furia giusta.{/n} "Sono l'ultima speranza del vostro protettorato contro le fauci dell'anarchia, dell'irresponsabilità e del completo disfacimento! Solo io posso salvare questa parte dell'Imperium che ha avuto la sventura di cadere nelle mani di chi ha come uniche motivazioni il profitto, l'eccitazione e il nutrire il proprio ego!"
+
+### u029018
+{n}La prefetta ti guarda negli occhi senza battere ciglio. Le sue labbra si distendono lentamente in un lieve sorriso visibile solo a te.{/n} "Ricorrere agli insulti di fronte a una caduta imminente? Che bassezza, von Valancius. Non dissimile da voi." {n}Fa un gesto verso gli Arbitratori e si volta.{/n}
+
+### u029019
+"Mi sono limitata a fornire un riassunto dei risultati della vostra spedizione: un riassunto privato di attributi dubbi come le dichiarazioni di buone intenzioni e le conseguenze minimizzate."
+
+### u029020
+{n}Vultur sospira.{/n} "Non tutti sono spinti dall'avidità e dalla ricerca di emozioni, Rogue Trader. Vedo che la vostra posizione vi ha offuscato la mente... Increscioso, ma non sorprendente: senza la dovuta disciplina nel giudizio e nelle azioni, è solo il capolinea più probabile."
+
+### u029021
+{n}La tua provocazione colpisce nel segno: una smorfia di rabbia attraversa il volto della prefetta. Lei si ricompone all'istante, ma è troppo tardi: hai visto quanto le tue parole l'abbiano offesa, e lei sa che ti sei {mf|accorto|accorta} della sua reazione.{/n}
+
+### u029022
+{n}Un'altra dolorosa ruga compare sulla fronte della prefetta. Hai la certezza che il tuo commento l'abbia colpita.{/n}
+
+### u029023
+"Congetture infondate mischiate a un senso esagerato della propria importanza. Sono onorata di adempiere al mio dovere ovunque la Sua volontà mi ponga."
+
+### u029024
+{n}Per un istante gli Arbitratori si scambiano occhiate: potranno anche essere pronti a prenderti in custodia, ma lo sfogo furioso della prefetta non è passato inosservato.{/n}
+
+### u029025
+"Voglio ascoltare le opinioni del mio seguito."
+
+### u029026
+"Perché mettono degli oggetti sulla bilancia?"
+
+### u029027
+"Dammi dei dettagli sulle parti in causa. Voglio vedere chi tra loro è degno di fiducia."
+
+### u029028
+"Vediamo Sorella Juth dimostrare la propria fede: potrà giustiziare Pras se riconosce che l'Host è un piccolo esercito dell'Ecclesiarchia, poiché in essenza lo è davvero. Se la sorella accetta, dopo l'esecuzione di Pras il Doleful Host sarà condannato all'esilio e all'esproprio, perché non sia tentato di riprendere le armi."
+
+### u029029
+"Ho sentito bene? Il cardinale chiede di essere torturato a morte per la sua malvagità?"
+
+### u029030
+"Ma Solomorne, la Fauce è chiusa."
+
+### u029031
+"Condanno con la presente Lady Molles-Secundas a un incarico di esplorazione e sviluppo dei mondi di frontiera del protettorato. Datele tutto ciò che le serve per condurre i suoi affari. Mi aspetto risultati impressionanti. Poiché è stata riconosciuta colpevole, Lord Molles è da considerarsi vivo."
+
+### u029032
+"Concedo ai Drusiani il diritto di decidere la sorte del cardinale. Credo che il Reverendo Hieronymus sia impareggiabile nella comprensione dell'umiltà e della santità."
+
+### u029033
+"La situazione è complessa e richiede ulteriori indagini."
+
+### u029034
+"Vi ho ascoltati e sono {mf|pronto|pronta} a emettere il mio giudizio."
+
+### u029035
+"Bene, Prefetta, parliamo del crimine commesso all'interno dell'Administratum che ha portato a questa udienza."
+
+### u029036
+"Concordo con Solomorne: entrambe le parti in causa sono colpevoli. Giustiziatele."
+
+### u029037
+"Dichiaro Pras colpevole. Scortatelo qui per la sua esecuzione."
+
+### u029038
+"Con la presente assolvo il Maestro del Coro da ogni accusa e ordino che Sorella Juth venga giustiziata."
+
+### u029039
+Hai presieduto il processo di Lady Molles-Secundas e hai permesso al marito della criminale di decidere la sorte di coloro che gli avevano fatto torto.
+
+### u029040
+"Come vedi, Inscribia, il tuo sistema è imperfetto. Ma io sono {mf|misericordioso|misericordiosa}: risarcite Lord Molles per il danno subito e lasciate che sia lui a decidere la sorte di sua moglie e del venale impiegato."
+
+### u029041
+Hai presieduto il processo di Lady Molles-Secundas e hai ordinato l'esecuzione sommaria di tutti i partecipanti alla disputa.
+
+### u029042
+"Al termine di questa seduta si terrà un'esecuzione pubblica di fronte al Palazzo di Giustizia: quella di Lady Molles-Secundas, di entrambi i suoi mariti, dei figli e del vostro impiegato. Tutti voi che mi avete fatto perdere il mio prezioso tempo. Vieto di rimuovere i corpi: che siano un monito, se qualcuno dovesse mai osare distrarmi di nuovo."
+
+### u029043
+"Possiamo chiudere un occhio su questo caso. Desidero emettere un verdetto diverso."
+
+### u029044
+"Cosa ha da dire il mio seguito?"
+
+### u029045
+"Sono {mf|pronto|pronta} a emettere il mio giudizio."
+
+### u029046
+"Vedo la profondità della contrizione del cardinale e gli concedo il diritto di abbracciare la morte che ha scelto. Spero che l'Imperatore abbia misericordia della sua anima."
+
+### u029047
+"Non oserei infliggere un destino tanto orribile a un uomo che l'Ecclesiarchia ha ritenuto santo. In ore buie come queste abbiamo più che mai bisogno della luce della fede."
+
+### u029048
+"Sono {mf|stanco|stanca} e non ho voglia di prendere parte a tutto questo. Prefetta, date ragione all'Administratum e chiudiamola qui."
+
+### u029049
+"Cosa ha da dire 'Lord Molles'?"
+
+### u029050
+"Cosa fa la famiglia Molles?"
+
+### u029051
+"Ora il caso mi è chiaro. Sono {mf|pronto|pronta} a emettere il mio verdetto."
+
+### u029052
+"Lord Molles va dichiarato vivo e ripristinato pienamente nei suoi diritti. Tutte le conseguenze della sua morte sono da considerarsi nulle e prive di effetto."
+
+### u029053
+"Ordino che Lord Molles sia dichiarato vivo. Gli siano pienamente restituiti la vita e i beni. Lady Molles-Secundas è pertanto riconosciuta colpevole di falsificazione di documenti e condannata a morte. Che l'Imperatore protegga la sua anima."
+
+### u029054
+"Giustiziate l'impostore. Nessuno può essere vivo quando tutto indica che è morto."
+
+### u029055
+"Non ci sono altre dispute attive nel mio dominio? Avanti, portatemi qualche altra anima sviata!"
+
+### u029056
+"Questa intera corte è una farsa! La chiamano Palazzo di Giustizia, ma ciò che accade qui è tutt'altro!"
+
+### u029057
+"All'inizio era divertente, ma non per molto. Se abbiamo finalmente finito, me ne vado."
+
+### u029058
+"Kibellah ha fatto un buon suggerimento. Il cardinale subirà la sacra tortura secondo l'usanza consolidata della Bloodspun Web. Mi aspetto che nel processo riveda le sue opinioni sulla morte."
+
+### u029059
+"Cardinale Anvylas, chiedendo il permesso di torturare un uomo santo, violate sia la legge secolare sia quella ecclesiastica. Per questo vi condanno a morte!"
+
+### u029060
+"L'idea di Jae è eccellente. Lady Molles-Secundas avrà due mariti, e la sua crescente produzione continuerà a essere una benedizione per il protettorato."
+
+### u029061
+"Ora lasciate parlare il mio seguito."
+
+### u029062
+"La prospettiva di Cassia sul matrimonio nell'Imperium è corretta. Lady Molles-Secundas potrà restare con il suo nuovo marito, ma restituirà l'azienda di famiglia a Lord Molles. D'ora in poi il mio protettorato opererà secondo un nuovo concetto di coniugio legale."
+
+### u029063
+"Riporrò la mia fiducia nel consiglio di Solomorne. Se il cardinale vuole contestare la propria santificazione, deve recarsi su Terra."
+
+### u029064
+"Prefetta, riferite le parole di Solomorne a Lady Molles-Secundas."
+
+### u029065
+"Lasciatemi indovinare i dettagli del rapimento di Lord Molles: i pirati sono comparsi dal nulla, sapevano esattamente quando attaccare, e a quel punto sua moglie aveva già preparato tutti i documenti necessari per richiedere l'emissione del suo certificato di morte."
+
+### u029066
+"Avete dimenticato che sono {mf|un Rogue Trader|una Rogue Trader} e che posso amministrare la giustizia qui e adesso?"
+
+### u029067
+Hai presieduto il processo di Lady Molles-Secundas e hai emesso un verdetto severo, condannando a morte la criminale e punendo duramente l'Administratum.
+
+### u029068
+"Lady Molles-Secundas è condannata a morte. L'Administratum condurrà un audit interno e giustizierà l'impiegato fraudolento insieme a tutti i suoi superiori, voi esclusa, Prefetta. Un altro caso come questo e il cannone della legge sarà puntato contro di voi."
+
+### u029069
+"Vorrei ascoltare le parti."
+
+### u029070
+"Giustiziate Pras. Abelard, che il mondo dei Chorda ceda il proprio Maestro del Coro a Dargonus."
+
+### u029071
+"Solomorne, non è eccessivo giustiziare entrambe le parti?"
+
+### u029072
+"Avete sentito Pasqal. Il Cardinale Anvylas morirà di una morte onorevole e continuerà a servire la fede come parte di una sacra macchina."
+
+### u029073
+"Heinrix ha ragione sull'importanza delle scartoffie. Se Lady Molles-Secundas non possiede il certificato in questione, i suoi figli erediteranno i suoi beni. Il caso è pertanto chiuso per decesso dell'imputato."
+
+### u029074
+"Non ci sarà nessuna esecuzione! Congedati."
+
+### u029075
+[Accendi il vox] "Vigdis, presto, chiedi al Maestro del Coro della nostra nave se Maestro Pras di Dargonus sia mai stato noto per comportamenti compromettenti."
+
+### u029076
+"È una questione di famiglia. Lasciate che se la sbrighino loro."
+
+### u029077
+{n}La voce tetra di Inscribia Vultur, amplificata dal vox, risuona per la sala.{/n} "La corte esaminerà ora il Caso DP-1453/2, il Doleful Host contro il Coro Astropatico di Dargonus. I rappresentanti delle parti presenteranno le proprie argomentazioni secondo la procedura standard."
+
+### u029078
+"Le argomentazioni sono state recepite e saranno pesate sulle Bilance della Giustizia! Il rappresentante si ritirerà nella Cappella della Pazienza in attesa del verdetto."
+
+### u029079
+"Le Bilance della Giustizia sono una sacra reliquia installata a testimonianza dell'alleanza tra la dinastia von Valancius da un lato e l'Adeptus Arbites e l'Administratum dall'altro. Le leggende dicono che antichi spiriti macchina dimorino all'interno della reliquia. Le Bilance della Giustizia si usano solo in occasioni straordinarie, quando è necessario l'intervento del Rogue Trader. Il cerimoniale prescrive che sulle bilance vengano posti oggetti che simboleggiano le argomentazioni delle parti e, una volta annunciato il verdetto, gli spiriti macchina pesano la decisione presa e mostrano approvazione o rifiuto attraverso la posizione dei piatti. Tuttavia, non è mai accaduto che il Rogue Trader e gli spiriti delle bilance fossero in disaccordo sul verdetto."
+
+### u029080
+{n}Mentre la prefetta si sporge verso di te, avverti un sentore di inchiostro e cera di candela.{/n} "Il Doleful Host è un rispettato culto del Dio-Imperatore. L'Adeptus Ministorum li ha ritenuti modelli di virtù che combattono ogni genere di eresia e ha richiesto il loro aiuto in vari... conflitti. Naturalmente l'Ecclesiarchia si guarda dall'annoverarli tra i propri guerrieri, ma li impiega in modi molto simili."
+
+### u029081
+"Passiamo all'ultimo caso di oggi. La corte esaminerà ora il Caso DP-1646/7, Lady Molles-Secundas contro il defunto Lord Molles. Essendo Lord Molles deceduto, sarà rappresentato dalla sua progenie, Agartha e Sjyllas Molles. I rappresentanti delle parti presenteranno le proprie argomentazioni secondo la procedura standard."
+
+### u029082
+"Subito, Lord Capitano." {n}Il Palazzo di Giustizia cade nel silenzio per diversi minuti, finché la voce di Vigdis non ritorna.{/n}
+
+### u029083
+"Come desiderate, Vostra Signoria! Chi dovrà affrontare la pena di morte?"
+
+### u029084
+"Il Rogue Trader ha preso la sua decisione. Arbitratori, eseguitela."
+
+### u029085
+"Io sono... Molles. Quando i pirati mi hanno catturato pensavo di essere perduto, ma il destino si è dimostrato più clemente. Mi sono affrettato a tornare a casa, solo per essere... dalla mia stessa casa dai miei servitori e scoprire che Lady Molles mi aveva già fatto dichiarare morto e aveva sposato Lord Secundas. Aveva anche preso il controllo della nostra... di tutto. Agartha e Sjyllas mi hanno riconosciuto... Sto perdendo la ragione..."
+
+### u029086
+{n}Una donna con righe di scritture sacre su tutta la pelle incrocia le braccia a formare un'Aquila.{/n} "Mi chiamo Sorella Juth e rappresento il Doleful Host. O unto del Dio-Imperatore, ci siamo imbattuti in un gruppo di eretici le cui menti traboccavano dei pensieri più sfrontati. Li abbiamo catturati e torturati come si conviene alle loro trasgressioni. Da quanto abbiamo potuto discernere dai loro lamenti e dalle loro grida, il capo del Coro Astropatico trama per tradire la Casata von Valancius. Nessuno mente quando la fiamma gli accarezza la carne! Il Doleful Host ha circondato l'edificio del Coro e ha preteso che l'eretico venisse consegnato. È stato solo per rispetto verso l'unto che ci siamo trattenuti dal dare alle fiamme sul posto la tana dell'eretico traviato. Tuttavia, dite solo una parola e lo prenderemo, perché possa subire una giusta purificazione."
+
+### u029087
+"Ciò non intacca minimamente le disposizioni della Lex Imperialis. Inoltre, attenersi alla lettera della legge vi esime dalla necessità di macchiarvi le mani del sangue di un potenziale santo: o il cardinale attraverserà la Fauce, dimostrando così la propria santità, o perirà se l'Imperatore lo vorrà. Come vedete, la Lex Imperialis ha tutte le risposte."
+
+### u029088
+{n}L'uomo smunto, vestito con le vesti da Astropate, se ne sta ritto, ma la sua voce trema di furia.{/n} "Sono Maestro Anjelio. Rappresento il Coro Astropatico di Dargonus. Queste persone subdole e ignoranti spacciano per verità i deliri delle loro vittime! Vostra Signoria, sotto tortura la gente dice qualunque cosa pur di far cessare l'agonia. Serviamo la Casata von Valancius con fedeltà da decenni, Maestro Pras più di tutti! Vi prego, ordinate loro di ritirarsi."
+
+### u029089
+"Saranno senza dubbio i più appassionati seguaci del cardinale a seguirlo in quel pericoloso viaggio, desiderosi di vederlo santificato. Suppongo che ciò ridurrebbe al minimo i potenziali disordini a cui sono inclini i credenti dal fervore estatico."
+
+### u029090
+{n}Le dita aride della prefetta premono le rune sulla sua tavoletta dati.{/n} "Come pensavo... Con profondo rammarico devo informarvi che le ulteriori indagini di cui si diceva sono impossibili. I combattenti dell'Host stanno già sfondando le porte del Coro. Ritardare la decisione porterebbe a conseguenze incontrollabili."
+
+### u029091
+{n}Elabori una raffinata formulazione della sentenza, una che convincerà tutti che hai ragione e ti salverà dall'essere {mf|bollato come uccisore|bollata come uccisora} di santi. Tutto ciò che devi fare è accusare il cardinale di voler assassinare una persona ormai quasi canonizzata.{/n}
+
+### u029092
+{n}Ti rendi conto che il cardinale stesso è in qualche modo responsabile di ciò che è accaduto, ma le tue congetture si ostinano a non cristallizzarsi in un verdetto chiaro e convincente.{/n}
+
+### u029093
+"Gli Arbitratori saranno inviati a prelevare il criminale condannato immediatamente. Tutti i presenti devono attendere che sia fatta giustizia."
+
+### u029094
+"Allora, vi prego, esprimete la vostra volontà, Vostra Signoria."
+
+### u029095
+{n}Vultur trasale.{/n} "Riuscite anche solo a immaginare tutto lo sconvolgimento procedurale che seguirebbe all'esecuzione di così tante persone..." {n}Si rimpicciolisce sotto il tuo sguardo implacabile, quasi scomparendo nella veste.{/n} "Il verdetto è chiaro. Ogni sentenza sarà eseguita sotto la mia personale supervisione."
+
+### u029096
+"Un lord giudicherà l'Administratum?" {n}La prefetta emette un respiro tremante.{/n} "Il verdetto è accettato. Si terrà una seduta a porte chiuse con Lord Molles nel ruolo di... giudice."
+
+### u029097
+{n}Vultur ti fissa con gli occhi sgranati dall'orrore.{/n} "Tutto sarà eseguito come desidera Vostra Signoria." {n}La vecchia espira profondamente, scrollandosi di dosso la paura, e proclama con voce impassibile,{/n} "Arbitratori, eseguite la sentenza!"
+
+### u029098
+"Attenzione! Parla il Rogue Trader!"
+
+### u029099
+"Il Rogue Trader ha reso chiara la sua volontà! Il Cardinale Anvylas lascerà il Palazzo di Giustizia e accetterà il proprio destino."
+
+### u029100
+{n}Un uomo smunto alza su di te gli occhi iniettati di sangue. Per un istante ogni suono cessa, persino il raschiare delle penne degli innumerevoli servoteschi. Lo sguardo dell'uomo è colmo di un dolore così forte e puro che il respiro ti si blocca in gola.{/n} "Sono impuro, o unto dell'Imperatore. Sono assediato da pensieri impuri, ma nessuno crede alle mie confessioni. Ho regalato i tesori che possedevo, e la gente me ne ha portati altri. Peggio ancora è sapere che sto portando le persone fuori strada. Mi guardano e credono che uno stato di grazia perfetta sia raggiungibile, mentre io... sono molto stanco..."
+
+### u029101
+{n}Il cardinale ricaccia indietro una lacrima e prosegue:{/n} "Ma la cosa più terribile di tutte è che i miei fratelli, i predicatori della Distesa di Koronus, mi considerano un uomo santo. La loro illusione è stata così ostinata che hanno inviato una petizione alla Sacra Terra, chiedendo che io venga fatto santo. Fu allora che divenni fermo nella mia decisione di sottopormi alla tortura di fronte alla mia congregazione, ricordando loro che non esiste santità se non concessa in dono dal Dio-Imperatore. Anche i chierici del mio rango possono e devono pentirsi, diventando così ogni giorno più puri. Vi prego, permettetemi di subire una tortura mortale nel Suo nome di fronte ai miei parrocchiani!"
+
+### u029102
+"Secondo la Lex Imperialis, un candidato alla santità può contestare di persona la propria santificazione presentando una petizione all'Ecclesiarca sulla Sacra Terra. Aggirare il capo del Culto Imperiale è una violazione della Legge dell'Imperatore. Poiché la comunicazione astropatica con il resto dell'Imperium è stata interrotta, propongo di imbarcare il Cardinale Anvylas su una nave che attraversi la Fauce, così che possa presentare la sua richiesta nel rispetto di ogni formalità."
+
+### u029103
+"Vostra Signoria, io sono Lady Molles-Secundas! Solo otto cicli fa, un uomo si è introdotto in casa mia fingendosi mio marito, il defunto Lord Molles. Contrariamente a ciò che so, nega di essere stato ucciso dai pirati. Sostiene invece di essere sopravvissuto, grazie alla provvidenza del Dio-Imperatore. Tuttavia, io qui ho il suo certificato di morte, emesso dall'Administratum, che afferma chiaramente che mio marito è deceduto. Esigo che questa frode sia giustiziata!" {n}La donna agita con aria bellicosa una pergamena su cui sono ben visibili le parole "dichiarato morto".{/n}
+
+### u029104
+"Vostra Signoria, nostro padre è sopravvissuto. È stato davvero catturato dai pirati, che volevano chiedere un riscatto, ma la Flotta Imperiale è riuscita ad abbordare la nave e a salvarlo. Dopo la sua scomparsa, nostra madre, Lady Molles, ha fatto emettere un certificato di morte prima che ricevessimo la buona notizia. Ora ci troviamo nella posizione umiliante di dover dimostrare che nostro padre è vivo, mentre nostra madre vive con il suo nuovo marito, Lord Secundas, e ha rilevato l'azienda di famiglia. Vi imploriamo di restituire a Lord Molles la sua vita e il suo nome! Egli attende umilmente la vostra decisione nella Cappella della Pazienza."
+
+### u029105
+{n}La prefetta riproduce una registrazione vox su uno dei servoteschi. La voce dolce è inframmezzata da scariche statiche, ma riesci a distinguere le parole.{/n}
+
+### u029106
+{n}La prefetta accende una delle sue innumerevoli tavolette dati.{/n} "La famiglia Molles produce razioni nutritive. Rifornisce l'Astra Militarum e i mondi privi di produzione alimentare propria. Con il lord al timone, coprivano il fabbisogno di tre reggimenti e cinque mondi. Ora sono cinque reggimenti e dodici mondi. Si potrebbe dire che Lady Molles-Secundas abbia fatto molto meglio di suo marito."
+
+### u029107
+"Come dite, Vostra Signoria. L'uomo che si spacciava per Lord Molles è riconosciuto colpevole di aver ingannato deliberatamente la famiglia Molles e di aver rubato l'identità di un nobile. La sua pena sarà la morte. Eseguite la sentenza!"
+
+### u029108
+"Silenzio! Qual è la vostra decisione, Vostra Signoria?"
+
+### u029109
+"Presumo siate consapevole che, se dichiarate vivo il lord, ciò smentirà l'autenticità dei documenti presentati da Lady Molles-Secundas. Falsificare i certificati dell'Administratum è un crimine punibile con la morte."
+
+### u029110
+{n}La prefetta guarda te e poi l'Interrogatore con una lieve apprensione.{/n} "No... nessuna contraddizione rilevata. Immagino che i giovani Molles restituiranno le redini dell'azienda di famiglia all'uomo che considerano loro padre. La vostra decisione influirà anche sul lavoro dell'Administratum: possiamo certamente aspettarci di essere sommersi dalle richieste di certificati di 'vivo a norma di legge', ma ciò aiuterà a scoprire false identità e nobiltà inesistenti. Questa seduta è conclusa!"
+
+### u029111
+"Lady Molles-Secundas è condannata a morte per aver falsificato un documento legale dell'Administratum! Arbitratori, eseguite la sentenza!"
+
+### u029112
+{n}Mentre gli ultimi presenti lasciano l'aula, la prefetta si volta verso di te con un'espressione deliziata.{/n} "Lady Theodora teneva udienze come questa per rafforzare la fede dei suoi sudditi nella Lex Imperialis e il loro timore di infrangerla. Una pratica utilissima, non trovate?"
+
+### u029113
+"Certamente, Vostra Signoria. Non oso sottrarvi altro tempo."
+
+### u029114
+"Il vostro entusiasmo è lodevole ma, come certo comprenderete, qualsiasi procedura richiede una registrazione preventiva, che a sua volta comporta la compilazione di moduli ufficiali e la firma di documenti approvati dai regolamenti. È per questo motivo che, ahimè, non posso dar seguito alla vostra richiesta. Con il vostro permesso, ora tornerò ai miei doveri. Grazie."
+
+### u029115
+"Amministrare la giustizia è un lavoro estremamente impegnativo, che richiede una conoscenza approfondita della Lex Imperialis. Oggi avete sfiorato solo un piccolo frammento di questo sacramento. Grazie per la vostra partecipazione. E ora è tempo che io torni ai miei doveri. Buona giornata."
+
+### u029116
+"Esatto. Inoltre, egli insiste affinché i vostri sudditi ne siano testimoni, per darne loro una lezione, per così dire. Rifiutare un cardinale è di per sé empio, ma giustiziarne uno che è un santo in tutto tranne che nel nome..."
+
+### u029117
+"Tutte le argomentazioni sono state recepite. Sia pronunciato il verdetto del Rogue Trader."
+
+### u029118
+{n}Nello sguardo della prefetta rivolto a te si intravede un barlume di rispetto.{/n} "Una decisione molto equilibrata. Crea un precedente che, per ragionamento analogico, aiuterà a ottimizzare altri casi giudiziari su Dargonus."
+
+### u029119
+"Lord Capitano, senza un Maestro del Coro, il potere degli Astropati di Dargonus sarebbe notevolmente ridotto. A meno che non si trovi un degno sostituto per Maestro Pras, non può essere giustiziato." {n}Il Siniscalco aggrotta la fronte.{/n} "C'è un mondo dei Chorda che ci deve un vecchio debito, saldabile con un Astropate esperto. Possiamo avanzare la richiesta, anche se lascerebbe il pianeta in questione con a malapena qualche mezzo di comunicazione."
+
+### u029120
+"Se Lady Molles-Secundas ha ragione, allora i suoi figli sono complici dell'impostore e colpevoli di aver diffamato l'autenticità dei documenti dell'Administratum." {n}Ora Solomorne ha abbastanza sangue freddo da bastare a un reggimento.{/n} "Fate sapere alla donna che i suoi eredi dovranno affrontare la stessa sorte del criminale, poiché così stabilisce la Legge dell'Imperatore."
+
+### u029121
+{n}Idira si abbraccia, dondolando avanti e indietro.{/n} "Il cieco non ascolta più la luce lontana... Nascosta dietro il falso oro, l'abominio giace nel suo cuore, e brucia, brucia, brucia!" {n}L'intero corpo della psyker è scosso da un brivido.{/n} "Oh cielo, Lord Capitano. Pare che il nostro Astropate sia davvero perduto per la corruzione. Giuro che nasconde qualcosa sotto quella veste: un amuleto o qualche marchio empio! E quei fanatici rabbiosi lo troveranno addosso a lui, vivo o morto. Ma le vocine stanno ridendo e dicono che puoi pure uccidere il traditore, ma non aspettarti niente di buono..."
+
+### u029122
+"Il {g|Encyclopedia:AstropathGlossary}Coro Astropatico{/g} difficilmente ha bisogno di presentazioni. Sono tra i servitori più preziosi dell'Imperium, senza i quali ogni comunicazione tra i vostri mondi crollerebbe. Il Coro di Dargonus ha subito perdite orribili nella recente grande tempesta warp. Maestro Pras ha compiuto uno sforzo enorme per ripristinare almeno in parte le comunicazioni. Pur non avendo prove della sua innocenza, la dedizione di Pras al proprio dovere è fuori discussione." {n}La vecchia intreccia le dita rinsecchite.{/n} "Come vedete, è una situazione intricata."
+
+### u029123
+"Il Maestro del Coro Weisz conosce Maestro Pras da parecchio tempo. Ha rilasciato una dichiarazione molto misurata, secondo cui da qualche tempo le immagini mentali trasmesse da Pras hanno assunto una sfumatura di profonda ansia e sono diventate nel complesso più distaccate e remote. Zacchary Weisz lo attribuisce all'orribile esperienza di Pras durante la {g|Encyclopedia:WarpGlossary}tempesta warp{/g}, ma non ne è del tutto sicuro, perché c'è ancora qualcosa che distingue i messaggi del Maestro del Coro di Dargonus da quelli dei suoi compagni sopravvissuti."
+
+### u029124
+"Purtroppo il Maestro del Coro facente funzione Qadd non è in grado di fornire informazioni affidabili. Conosce a malapena Maestro Pras, e il defunto Zacchary Weisz non ha mai fornito una valutazione dettagliata dell'Astropate di cui chiedete."
+
+### u029125
+{n}Ora vedi chiaramente che, qualunque decisione tu prenda, ti si ritorcerà contro. Tuttavia, c'è un modo per trarne vantaggio: permettere all'Host di amministrare la sua giustizia sommaria, poi accusare i fanatici di aver violato un antico accordo che vietava all'Ecclesiarchia di avere un proprio esercito, e procedere a confiscare i beni dell'Host.{/n}
+
+### u029126
+{n}Non hai modo di sapere quale sia la decisione giusta. Sembra davvero un caso complicato.{/n}
+
+### u029127
+"Parole da {mf|vero erede|vera erede} di Lady Theodora, che sapeva spremere oro da una roccia. Sorella Juth non ritratterebbe mai la sua dichiarazione. Non avrà altra scelta che accettare le tue condizioni."
+
+### u029128
+"Analisi della situazione completata. Cessi il paradosso; trionfi la funzionalità. Suggerimento: usare i resti organici dell'unità Cardinale Anvylas per costruire un araldo servoteschio e collocarlo in una cappella automatizzata. Lo status di santità sarà esteso al meccanismo liturgico."
+
+### u029129
+{n}Argenta scuote il capo.{/n} "Qui serve un saggio consiglio, e non lo si troverà tra queste mura. Il Reverendo Hieronymus comprenderebbe i meccanismi dell'anima del cardinale. Affidatelo al buon pastore dei Drusiani."
+
+### u029130
+"Il capo dei Drusiani difficilmente negherebbe la singolare richiesta del cardinale. Tuttavia, a quel punto la questione esulerà dalla nostra giurisdizione, e il Reverendo Hieronymus apprezzerà la vostra grande fiducia in lui in materia di fede."
+
+### u029131
+"Come poteva quella donna sapere con certezza che suo marito sarebbe uscito vivo da un bel pasticcio come quello? L'azienda era ferma, così ha preso in mano la situazione. Anzi, shereen, su Efreet è consentito prendere più coniugi proprio nel caso in cui accada una cosa del genere. Per te sarebbe una sciocchezza modificare le leggi del mondo natale di Lady Molles-Secundas. Lascia che continui a riempirti le casse: è più che capace di gestire due mariti!"
+
+### u029132
+{n}Heinrix si strofina la radice del naso, con aria stanca.{/n} "Questa assurdità è andata avanti troppo a lungo... E sia. L'Imperatore mi sia testimone, sono riluttante a ripercorrere la mia prima esperienza di addestramento nell'Administratum, ma dovrò farlo. Lady Molles-Secundas possiede un documento che attesti che è viva? In caso contrario, l'imputato va considerato morto, con tutto ciò che ne consegue."
+
+### u029133
+{n}I talenti di Lady Molles-Secundas sono evidenti: potrebbe aumentare con facilità la produzione su qualsiasi pianeta. Quella che si potrebbe definire la sua promozione sotto le spoglie di una punizione porterebbe benefici concreti. Ti vengono in mente proprio alcuni mondi sperduti che hanno buone potenzialità ma mancano di una gestione capace all'altezza.{/n}
+
+### u029134
+{n}Per quanto vorresti volgere la situazione a tuo vantaggio, non riesci a pensare a una soluzione.{/n}
+
+### u029135
+"Be', un gesto simile è destinato a riverberare in tutto il protettorato, ma un verdetto è un verdetto. Questa seduta è conclusa!"
+
+### u029136
+{n}La prefetta, stordita, apre e chiude la bocca come un pesce fuor d'acqua.{/n} "Io... faccio fatica a commentare. Qualcuno vuole comunicare l'incredibile notizia a Lady Molles-Secundas? Questa seduta è conclusa!"
+
+### u029137
+"Lady Molles-Secundas partirà per il suo luogo d'esilio prima che finisca la giornata. Arbitratori, eseguite la sentenza!"
+
+### u029138
+"Come desiderate." {n}Le dita aride della prefetta picchiettano rapide sulla tavoletta dati. Poco dopo lei alza lo sguardo dal videoschermo e dice con voce incolore,{/n} "Lady Molles-Secundas ha confessato di aver corrotto un funzionario dell'Administratum e implora che la sua prole sia risparmiata."
+
+### u029139
+{n}La prefetta indignata scuote la testa con energia.{/n} "È una madre che cerca di salvare i suoi figli! Potrebbe essere stata una falsa confessione! E, quel che è peggio, una falsa accusa contro il sacro servizio dell'Administratum!"
+
+### u029140
+{n}La vecchia serra le labbra in una linea sottile.{/n} "Non sia mai. La vostra posizione di giudice benedetto dall'Imperatore è indiscutibile."
+
+### u029141
+"No. Un simile verdetto ricorderà ai vostri sudditi che solo il Rogue Trader ha il diritto di amministrare la giustizia. Inoltre, se vi schierate con l'Host, ispirerete nuovi giustizieri autoproclamati, e se assolvete l'Astropate e poi si scopre che era colpevole, altri eretici si sentiranno al sicuro nell'agire impunemente. Ecco perché vi consiglio di essere {mf|severo|severa}: la Lex è dalla vostra parte."
+
+### u029142
+"Immagino che il verdetto inorridirà il cardinale, ma d'altra parte, fra secoli i suoi seguaci potranno ancora ascoltare i suoi sermoni registrati e venerare le sue spoglie con lo stesso zelo fanatico di quando il presunto santo era in vita. Aspettatevi generose donazioni per la costruzione della cappella automatizzata, dato che in molti vorranno avere parte in un evento così epocale."
+
+### u029143
+"La Bloodspun Web conosce modi per tormentare la carne senza giungere all'Imperituro prima del tempo. Domin, permettici di aiutare il Cardinale Anvylas a raggiungere l'illuminazione e a sperimentare la purezza di uno stato di quasi morte. Sottoporsi al nostro rito dovrebbe fargli capire che non spetta a lui recidere il proprio filo."
+
+### u029144
+"È una situazione complicata, ma... Lady Molles-Secundas agiva nell'interesse dell'Imperium. Si era fatta carico dell'azienda di famiglia e non poteva permettersi di crogiolarsi nel dolore per cicli e cicli." {n}Cassia raddrizza le spalle e dice con voce dignitosa,{/n} "Un matrimonio tra persone di nobile nascita è l'unione di due servitori dell'Imperatore. Il dovere verso l'Imperium è al centro di quell'unione. Se arriva un lungo periodo in cui uno dei coniugi non è in grado di adempiere ai propri obblighi, il matrimonio perde significato. Se poteste codificare questa concezione in una legge, ciò aiuterebbe a risolvere la situazione."
+
+### u029145
+"Sembra una decisione favorevole agli occhi dell'Imperatore. Inoltre, immagino che renderà i rapimenti a scopo di riscatto sostanzialmente più rari. Questa seduta è conclusa!"
+
+### u029146
+"Entrambe le parti hanno dimostrato disprezzo per l'autorità dell'Imperium. Il Doleful Host pratica la giustizia sommaria della folla, e l'imputato non si è nemmeno degnato di presentarsi di persona al processo. Condannateli a morte entrambi: sarebbe l'esito ottimale."
+
+### u029147
+"Se è l'Astropate a cui penso, il Coro di Dargonus sarà guidato da uno psyker molto più forte di Pras. Questo migliorerà senza dubbio la comunicazione tra i mondi del protettorato."
+
+### u029148
+"Un verdetto severo, ma d'ora in poi i vostri sudditi difficilmente oseranno spingere le situazioni fino allo scontro aperto, in casi simili a questo, naturalmente."
+
+### u029149
+"Il cardinale era piuttosto disperato di essere sollevato dalla sua vita mortale. Ma ora che sia l'Ecclesiarchia sia il Rogue Trader glielo hanno negato, non ha altra scelta che restare un vivente modello di santità."
+
+### u029150
+"Oggi il popolo di Dargonus assisterà all'ultima penitenza del cardinale. I maestri torturatori si assicureranno che la richiesta di questo uomo santo sia esaudita alla lettera."
+
+### u029151
+"Come desiderate, Vostra Signoria. L'uomo che si spacciava per Lord Molles è stato riconosciuto colpevole di aver deliberatamente ingannato la famiglia Molles e di essersi appropriato dell'identità di un nobile. La sua pena è la morte."
+
+### u029152
+"Una descrizione sommaria degli eventi, eppure notevolmente vicina alla verità. Di certo non pensi che sia stata Lady Molles-Secundas in persona a orchestrare il rapimento del marito? Anche se, si potrebbe dire, tu sei {mf|un |un'}{d|Encyclopedia:CharGen_Criminal}{mf|esperto|esperta}{/d} in simili faccende."
+
+### u029153
+{n}Ai tempi in cui {d|Encyclopedia:CharGen_Ministorum}servivi come arcidiacono{/d}, hai risolto dispute religiose molto più precarie di questa. Il cardinale ha ammesso la propria intenzione di uccidere un uomo grande e giusto, e questo ti basta per emettere un verdetto deciso.{/n}
+
+### u029154
+{n}Tu, {d|Encyclopedia:CharGen_Militarum}meglio di chiunque altro{/d}, comprendi l'importanza di rifornire un esercito. Concepisci subito un piano audace: mandare Lady Molles-Secundas in uno dei mondi di frontiera con il pretesto dell'esilio e farle avviare lì la produzione di razioni.{/n}
+
+### u029155
+{n}Ricordi una sfumatura cruciale che in numerose occasioni {d|Encyclopedia:CharGen_Nobility}ha protetto la nobiltà{/d} dagli zeloti che cercavano di amministrare una giustizia arbitraria: all'Ecclesiarchia è vietato allestire un proprio esercito. Dovrebbe essere facile dichiarare che l'Host viola questo patto e, come piacevole extra, sequestrarne poi tutti i beni, naturalmente solo come lezione di umiltà.{/n}
+
+### u029156
+"Ancora? Temo che abbiano già detto ciò che dovevano dire e attendano umilmente la loro sorte. Qualunque domanda abbiate, potete pormela."
+
+### u029157
+{n}È assai improbabile che un simile artefatto esista davvero: a giudicare dalla struttura del dispositivo, non è altro che una normale bilancia a piatti, per quanto enorme e magistralmente realizzata, priva di spiriti macchina di qualsiasi genere. Qualcuno deve manipolare di nascosto i piatti per conferire maggiore solennità al verdetto del Rogue Trader.{/n}
+
+### u029158
+{n}La dinastia dovrebbe essere orgogliosa di avere un meccanismo così grande e saggio installato nel suo dominio.{/n}
+
+### u029159
+{n}Il maestro della corte ripete la stessa formula monotona, invitando l'altro rappresentante a lasciare l'aula.{/n}
+
+### u029160
+{n}La prefetta passa con distacco alla pergamena successiva.{/n} "La corte esaminerà ora la Petizione CR-1547/33, riformulata. Il richiedente è il Cardinale Anvylas. Le vostre argomentazioni, prego, Cardinale."
+
+### u029161
+{n}La vecchia si mordicchia le labbra con ansia.{/n} "Questo accoglie la richiesta solo in parte, ma..." {n}Lancia una rapida occhiata a Kibellah.{/n} "Siete probabilmente l'unica a credere che il cardinale sopravviverà alla prova del culto della morte. Se tutto andrà come immaginate, il cardinale rinuncerà al suo proposito e il suo gregge non sarà privato del proprio santo."
+
+### u029162
+"Il Rogue Trader ha emesso il suo verdetto! Sorella Juth è condannata a morte per aver attentato alla vita del capo del Coro Astropatico!"
+
+### u029163
+"Maresciallo Gregoras Strachs, tenuto conto dei vostri trascorsi, vi nego l'esecuzione e vi condanno invece a una pena di lavoro. Vi nomino sovrintendente supremo del mondo Vheabos VI. Lì resterete per il resto della vostra vita."
+
+### u029164
+"Un discorso infuocato, davvero, Inscribia. Dobbiamo aspettarci emendamenti, integrazioni... o forse delle scuse?"
+
+### u029165
+"L'ultima volta hai avuto difficoltà a morire. Correggiamo questo errore burocratico."
+
+### u029166
+"La punizione per il vostro tradimento è la retrocessione. Pattuglierete i livelli inferiori di uno dei formicai di Dargonus. Glaito può restare con voi."
+
+### u029167
+"Provare cosa? A prendermi il mio protettorato?"
+
+### u029168
+"Sai, ripensandoci... Giustiziatela."
+
+### u029169
+"Prefetta Vultur, per aver tentato di calunniare e uccidere uno degli unti dell'Imperatore e per aver usurpato la Decima Imperiale, ti condanno a morte!"
+
+### u029170
+"Sarebbe un peccato perdere una professionista così preziosa. Ti condanno a lavorare nei depositi della decima, dove catalogherai il loro contenuto in solitudine fino al giorno della tua morte."
+
+### u029171
+"Avresti potuto negoziare con me, esprimere il tuo malcontento, e avremmo trovato una soluzione. Invece hai scelto di complottare alle mie spalle. Giustiziatela."
+
+### u029172
+"Maresciallo Strachs! Permettendo le macchinazioni di Inscribia Vultur sotto la vostra sorveglianza, avete dimostrato un'ignoranza e un lassismo criminali. Vi ritengo meritevole di morte."
+
+### u029173
+"Maresciallo, la vostra unica colpa è di essere credulone e rigido nei vostri modi. Non vedo motivo di condannarvi."
+
+### u029174
+"Mi hai tradito, Solomorne. Per questo morirai."
+
+### u029175
+"Leale ai tuoi principi anche di fronte a morte certa, eh? È qualcosa che merita rispetto. Sei perdonato e puoi riprendere il tuo posto nel mio seguito."
+
+### u029176
+"La Distesa di Koronus non può essere lasciata senza la Lex Imperialis e i suoi custodi. L'Adeptus Arbites sceglierà un nuovo Maresciallo, più degno del suo rango, e continuerà a proteggere l'Imperium dall'illegalità!"
+
+### u029177
+"L'Adeptus Arbites ha bisogno di un capo più capace. Vi ordino di scegliere un nuovo Maresciallo. E che sappia bene che la dinastia von Valancius non accetterà mai più interferenze degli Arbites nelle questioni del protettorato."
+
+### u029178
+"Proctor Solomorne Anthar, in quanto sovrano di Dargonus e capo della dinastia von Valancius, ti nomino nuovo Maresciallo dell'Adeptus Arbites nella Distesa di Koronus! Fa' in modo che, sotto la tua guida, gli Arbites tornino a essere fedeli servitori della Lex Imperialis."
+
+### u029179
+"L'Adeptus Arbites è un cancro marcio e corrotto sul volto della Distesa di Koronus. Dichiaro l'inizio di un'epurazione nelle sue file. Tutti coloro che riterrò indegni saranno sterminati. Chi resterà, il meglio del meglio, continuerà a proteggere la legge."
+
+### u029180
+"Per diritto di {mf|portatore|portatrice} del Mandato di Commercio, sciolgo con la presente l'Adeptus Arbites. Tutti i membri di questa organizzazione sono da ora messi fuori legge e privati del diritto di giudicare i miei sudditi. Da questo giorno in avanti, la Distesa di Koronus ha un solo esecutore del giudizio e della legge: io, {name} von Valancius!"
+
+### u029181
+"Giustizia è fatta. Il mio giudizio è compiuto."
+
+### u029182
+"Mi hai aiutato a sconfiggere la prefetta. Perché dovrei condannarti?"
+
+### u029183
+"Ti offro la vita, a te e a Glaito. Andatevene e non fatevi mai più vedere entro i confini del protettorato."
+
+### u029184
+"Assicurati di agire strettamente entro i limiti della tua autorità... questa volta."
+
+### u029185
+{n}La Prefetta Vultur si inginocchia davanti a te. Decine di fragili impianti sparsi per il suo corpo si contorcono convulsamente, dandole l'aspetto di un insetto schiacciato.{/n}
+
+### u029186
+{n}Solomorne respira a fatica, stringendosi una ferita al petto. Non ti guarda: la sua attenzione è tutta su Glaito. Le sue dita metalliche sfiorano con cautela il dorso insanguinato del mastino cibernetico, appena vivo, con il volto fisso in un'espressione di disperazione.{/n}
+
+### u029187
+{n}La prefetta tossisce. Poi sulle sue labbra compare un sorriso inquietante.{/n} "Almeno dovevo provarci. Ho servito fedelmente il protettorato von Valancius per oltre cent'anni, coltivando con fatica l'ordine dove altri avevano fallito. Mentre voi e i vostri antenati seminavate anarchia e devastazione con i vostri capricci mutevoli, io restavo il perno che impediva a questo dominio di sprofondare nel caos criminale. È grazie a me che questo gargantuesco sistema ha continuato a funzionare con a malapena un difetto: l'unica fonte di disturbo eravate voi, i Rogue Trader. Sì, almeno dovevo provarci."
+
+### u029188
+{n}Lo sguardo del Maresciallo Strachs è fermo come sempre. Nemmeno un muscolo trema nella sua dura scorza. Persino nella sconfitta, messo alle strette, rispetto agli altri appare come un indistruttibile pilastro di roccia.{/n}
+
+### u029189
+{n}I pochi Arbitratori sopravvissuti annuiscono cupamente.{/n}
+
+### u029190
+"Il protettorato non è vostro, e non lo è mai stato. Non avete mai letto il vostro Mandato, nemmeno una volta? Ogni conquista, ogni pianeta rivendicato da un Rogue Trader appartiene all'Imperium: dovreste agire come suo vassallo, nulla di più. Ma i Rogue Trader sono incapaci di governare con efficienza: tutto ciò che vi muove è la sete di profitto e le imprese sconsiderate. L'illimitato potenziale del protettorato è sprecato nelle mani di sciocchi viziati... E sono stanca di vedervi profanare le fondamenta stesse dell'Imperium. Se non fosse per voi, il protettorato opererebbe per il bene del Trono in modo impeccabile come una sacra macchina dell'Omnissiah!"
+
+### u029191
+{n}Gli occhi della prefetta si stringono con malizia. Apre la bocca per dire qualcosa, ma viene interrotta prima di poter pronunciare una sola parola.{/n}
+
+### u029192
+"Non ho la forza di tentare di nuovo una cosa simile." {n}Vultur ha un tono stanco e... sincero, come se avessi colto uno scorcio della donna che questa azzeccagarbugli era un tempo.{/n}
+
+### u029193
+{n}Il Maresciallo Gregoras Strachs fa un passo misurato in avanti, con l'armatura che risuona.{/n} "Dovete giudicare anche me, Rogue Trader. Ho disonorato l'Adeptus Arbites cedendo alle manipolazioni della Prefetta Vultur e ho tradito la Lex Imperialis, la stessa legge che avrei dovuto difendere. Sono colpevole. Insisto affinché pronunciate la sentenza e la eseguiate immediatamente."
+
+### u029194
+"Il rimorso non mi assolve dalla colpa per ciò che è accaduto. Ho tradito la Lex. Per i traditori non c'è ritorno."
+
+### u029195
+{n}Strachs posa lo scudo, stacca la sua carapace e la depone sopra lo scudo. Ora vestito solo della sua uniforme da sottotuta, sembra più piccolo senza armatura, e molto stanco.{/n} "Io, Maresciallo Gregoras Strachs, lascio il mio incarico. Non sono più degno di indossare questa armatura. Che il suo nuovo portatore rechi onore alla Lex."
+
+### u029196
+{n}Inscribia Vultur non risponde: affronta la morte con la testa orgogliosamente alta e le labbra increspate di disprezzo.{/n}
+
+### u029197
+{n}La prefetta fa una smorfia.{/n} "Essere risparmiata per il resto della vita dal dover assistere alla rovina dei territori dell'Imperium causata da voi? Questa è una ricompensa, Rogue Trader. Ma suppongo abbiate ragione: catalogare le cronache delle spedizioni è un'arte che da tempo necessita di una rigorosa supervisione, e nessuno in tutto il vostro dominio, tranne me, è in grado di svolgere adeguatamente questa funzione."
+
+### u029198
+{n}Vultur ridacchia.{/n} "Mai. La controparte piega sempre i termini a proprio vantaggio..."
+
+### u029199
+{n}Il Maresciallo porta un pugno chiuso al petto e dice solennemente,{/n} "E il vostro giudizio è definitivo. Ho combattuto per proteggere la Lex Imperialis e chi ne fa rispettare la parola. Ho sbagliato nel mio dovere. La morte non mi spaventa, ma devo chiedervi una cosa: trovate agli Arbites un Maresciallo migliore."
+
+### u029200
+{n}Strachs scatta all'istante con voce d'acciaio,{/n} "No. Ho disonorato l'Adeptus Arbites cedendo alla manipolazione della Prefetta Vultur. Ho tradito la Lex Imperialis, la stessa legge che avevo il dovere di difendere. Sono colpevole. Insisto affinché pronunciate la sentenza e la eseguiate immediatamente."
+
+### u029201
+"Accetto la morte per essere rimasto leale alla vera Lex Imperialis, e lo faccio senza rimpianti. La mia unica richiesta è questa: prendetevi cura di Glaito." {n}Solomorne chiude gli occhi e grida un comando:{/n} "Protocollo di rifiuto: abbandona DX-1. Addio... amico mio."
+
+### u029202
+{n}Per un po' Solomorne non dice nulla.{/n} "Ammetto la sconfitta. Ammetto che siete {mf|un Rogue Trader, uno|una Rogue Trader, una} che è al di là del mio giudizio. Accetto con gratitudine il mio perdono e vi giuro un giuramento di servizio."
+
+### u029203
+{n}Solomorne saluta e fa un cenno cupo.{/n} "Lo farò, Rogue Trader."
+

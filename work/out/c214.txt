@@ -1,0 +1,741 @@
+### u070851
+"La persecuzione sarebbe iniziata dal nulla, dite? Mi è stato riferito che uno di voi è stato trovato in possesso di un amuleto da cultista e che qui si nascondono degli eretici."
+
+### u070852
+"Abelard, hai qualcosa da aggiungere?"
+
+### u070853
+"Che ne pensi, Abelard?"
+
+### u070854
+"Diffondere l'anarchia sulla nave è il primo passo verso l'abbraccio del Caos. Mettere le armi in mani inesperte sarebbe ancora peggio. Per di più, i tutori dell'ordine servono a mantenere controllo e disciplina. Ritirate quelle richieste e prenderemo in considerazione il resto."
+
+### u070855
+"E sia. Darò l'ordine di ritirare i tutori dell'ordine da questo settore. E vi verranno consegnate delle armi. Vediamo come ve la cavate a governarvi da soli e che differenza fa."
+
+### u070856
+"Non siete riusciti a convincermi della vostra affidabilità. Questo disordine finisce adesso. Tutti coloro che vi hanno preso parte saranno eliminati."
+
+### u070857
+"Allora è deciso. La persecuzione cesserà. E mi aspetto che mi aiutiate a individuare gli amuleti o le armi rimasti in mano ai cultisti."
+
+### u070858
+"Allora è deciso. Le vessazioni finiranno. Mi aspetto che i clan che hanno accettato qui aiutino a individuare amuleti e armi dei cultisti. Chiunque rifiuti sarà punito."
+
+### u070859
+"Che cambiamenti volete?"
+
+### u070860
+"Qual è la situazione?"
+
+### u070861
+"È tutto quello che hai da dire? Sei sicura di essere degna del grado di ufficiale, Tenente Vent?"
+
+### u070862
+"Maestra d'Armi, tu da che parte stai?"
+
+### u070863
+"Sauerback, era davvero necessario torturare questa gente con il freddo?"
+
+### u070864
+{n}Il suono di una discussione accesa riecheggia tra le baie della nave. La Tenente Avrilla Vent dei tutori dell'ordine di bordo sta sbarrando la strada alla sua superiore, la Maestra d'Armi Jocasta Sauerback, giunta in armatura. A giudicare dalle loro espressioni e dal tono, lo stallo si trascina ormai da un po' e ha raggiunto il punto di ebollizione.{/n}
+
+### u070865
+{n}Una dozzina di paia di occhi ti fissano con apprensione. Le persone che hai davanti sono tipici abitanti dei ponti inferiori: noti i loro abiti semplici, le armi rozze e i volti che mostrano vari livelli di mutazione, dal quasi impercettibile allo strano, fino all'apertamente grottesco.{/n}
+
+### u070866
+"Zitto, Rivet," {n}sbotta la vecchia, volgendo su di te i suoi occhi scuri e ostili.{/n} "Ecco come stanno le cose, Vostra Signoria. Quei vostri maledetti tutori dell'ordine ci stanno addosso qui sotto. Dicono che cercano 'cultisti'. Basta una parola sbagliata e già mettono mano ai manganelli. E se vogliono punire qualcuno, spengono il riscaldamento di intere baie per una settimana, così ci ammaliamo e ghiacciamo! Nel mio clan sono morti due piccoli per un'infiammazione ai polmoni, tutto per colpa di quei tutori." {n}La vecchia sputa per terra e strofina lo sputo con la punta della scarpa logora.{/n}
+
+### u070867
+{n}Abelard aggrotta la fronte e abbassa la voce perché le sue parole non raggiungano gli altri ufficiali:{/n} "E valeva la pena lasciare il ponte di comando per questo? Avreste potuto impartire l'ordine da lassù..."
+
+### u070868
+"Un amuleto da cultista? Che sarebbe? Quel ninnolo che hanno trovato addosso all'ubriacone morto? Se era qualcosa di malvagio o proibito, di certo non lo sapevamo... I tutori hanno solo detto che cercavano eretici tra noi e che chiunque intralciasse le indagini sarebbe stato punito. Ma come potrebbero esserci eretici qui? Conosciamo la nostra gente, non si sono visti volti nuovi."
+
+### u070869
+"Assolutamente no! E se ce ne fossero, saremmo i primi a denunciarli!"
+
+### u070870
+{n}La bocca di Abelard si contrae, ma lui si trattiene e non dice nulla.{/n}
+
+### u070871
+"Avete ragione, Lord Capitano! Permettetemi di augurarvi buona fortuna!" {n}La speranza brilla negli occhi della Tenente Vent.{/n}
+
+### u070872
+"Scusate. Ho deluso tutti." {n}Non è chiaro a chi si riferiscano le sue parole: ad Abelard, ai suoi compagni o agli operai in sciopero, ormai condannati a morire. Vent si sporge in avanti e afferra la canna dell'arma puntata sulla folla.{/n}
+
+### u070873
+{n}Un sussurro attraversa la folla, e nelle loro reazioni cogli un misto di paura, stupore e gioia. Alla fine tre persone si staccano dalla massa: una donna anziana e due uomini. Devono essere i capi. Si inchinano goffamente davanti a te.{/n} "L-Lord Capitano! Siete {mf|sceso|scesa} fin da noi!"
+
+### u070874
+"I nostri clan sono tutti nella baia che è stata sigillata. Ma i ponti inferiori sono vasti, e sono sicuro che c'è chi ne ha avuto abbastanza. Ci stanno stringendo da ogni lato, i soldati hanno circondato quelli che si sono sollevati, è appena arrivata una squadra della morte... non c'è da stupirsi se la gente si ribella."
+
+### u070875
+"Guardate un po', {mf|l'eccelso|l'eccelsa} Lord Capitano in persona viene a chiedere a noi topi di sentina cosa vogliamo. Bene, ecco cosa: vogliamo che teniate a freno quei vostri maledetti tutori, che la smettano di spegnere il riscaldamento e di pestare tutto ciò che si muove. No, non è questo. Vogliamo che i tutori se ne vadano da qui, e vogliamo essere armati! Dateci delle armi e ci governeremo da soli, ci difenderemo da soli se questi cultisti si fanno vedere. Sono a capo del mio clan da vent'anni, e sbarazzarsi di questi bruti col manganello non può che migliorare le cose da queste parti."
+
+### u070876
+"Hai esagerato, Vecchia Nan. Non lasceranno mai vivere i vermi dei ponti inferiori senza i tutori che gli fiatano sul collo. Probabilmente vorranno i tutori anche sui ponti superiori. Quanto alle armi, a che ci servono? Prima che finisca il primo giorno, qualcuno sparerà al vicino per stupidità o per sbronza. Non ci serve: se i tutori smettono di tormentarci, ci basta. In cambio troveremo i rovistatori che hanno depredato i corpi dei cultisti e parleremo con loro, da uno di quelli dei ponti inferiori a un altro. Se ci sono altri di quei maledetti amuleti in giro, li consegneremo noi stessi ai tutori."
+
+### u070877
+"Parla per te e per il tuo clan, io parlo per me e per i miei. Non voglio gesti vuoti: voglio un cambiamento vero. Adesso ci prometteranno il mondo, ma appena {mf|l'unto|l'unta} volge le spalle, questi bruti ci saranno addosso più duramente di prima. Tutto perché abbiamo osato farci sentire!"
+
+### u070878
+{n}Lo sguardo dell'operaio alto guizza tra i due capi che litigano. Ogni pochi secondi apre la bocca come se volesse dare ragione a qualcuno, ma ogni volta tace, limitandosi a emettere qualche vago verso di approvazione.{/n}
+
+### u070879
+{n}L'operaio alto che chiamano Rivet scrolla le spalle e lancia un'occhiata di sbieco alla vecchia.{/n} "Vecchia Nan, ascolta! Ascolta! Il Lord Capitano in persona è {mf|sceso|scesa} fin da noi e offre concessioni! E non conosco una sola persona in tutto il Deposito 4 che sia mai stata accanto al {g|Encyclopedia:RogueTrader}Rogue Trader{/g}, figuriamoci parlarci! Fai un passo indietro, adesso non è il momento di fare la vecchia megera testarda!"
+
+### u070880
+{n}L'operaio alto che chiamano Rivet sussulta nervosamente sotto il tuo sguardo, ma lancia un'occhiata alla vecchia e non dice nulla.{/n}
+
+### u070881
+"La storia di andare a recuperare stivali e di 'raccogliere per caso un amuleto eretico' non mi convince. Queste persone erano a un passo dalla ribellione e, forse, dal diventare servi dell'Arcinemico. Non dobbiamo dare loro ciò che vogliono. Anche se hanno acquisito qualcosa in modo innocente, per pura stupidità, non significa che non siano contaminati dalla corruzione."
+
+### u070882
+{n}La mano della vecchia fende l'aria.{/n} "Preferisco essere abbattuta dai tutori piuttosto che cedere adesso! Tanto ci faranno ammazzare tutti, prima o poi."
+
+### u070883
+"Non mi piace vedere i clan del Deposito 4 l'uno contro l'altro. Ma sono d'accordo con il Lord Capitano: non chiederò lo scioglimento dei tutori dell'ordine."
+
+### u070884
+"Ascoltaci, Vecchia Nan. I tre clan del Deposito 4 devono agire come uno solo. Noi abbiamo deciso, ora tocca a te. Non chiedere che sciolgano i tutori o che ci diano le armi: non ci serve niente di tutto questo."
+
+### u070885
+{n}La vecchia sibila con disappunto.{/n} "Vi siete messi in due contro di me, eh? Che coraggio, contro una vecchia! Ma starò zitta. Davvero. Non andrò contro due capiclan da sola. Se volete fare pace con i tutori, fate pure la vostra pace."
+
+### u070886
+"Magnifico, semplicemente fantastico! Lord Capitano, siamo tutti d'accordo!"
+
+### u070887
+"Ho autorizzato tutte le misure necessarie per individuare gli adoratori del Caos nascosti in questo settore. Le azioni specifiche intraprese dagli ufficiali non mi sono state riferite." {n}Abelard aggrotta la fronte, chiaramente contrariato di dover dare spiegazioni davanti agli operai.{/n} "Tuttavia, sono certo che il loro operato fosse giustificato. I cultisti non sono ubriaconi di scaricatori: sono il nemico e una minaccia per la nave. Neutralizzarli richiede un'azione decisa."
+
+### u070888
+"Ecco una spiegazione per voi: la gente è stata spinta al limite e ora si ribella. Come se non sapessimo perché queste unità dei ponti superiori vengono mandate quaggiù, come quella laggiù che la tenente non lascia passare."
+
+### u070889
+"Siamo più che ansiosi di aiutare! Ci mettiamo subito all'opera, Lord Capitano!"
+
+### u070890
+"Certamente, Vostra Signoria. Estirperemo ogni losco affare più in fretta dei tutori e non lasceremo nulla di intentato."
+
+### u070891
+{n}Il volto di Abelard si fa di pietra e lui serra la mascella. Ti guarda, gli occhi socchiusi che brillano di rabbia.{/n}
+
+### u070892
+{n}La vecchia alza le braccia trionfante.{/n} "Buon viaggio ai carnefici! Libertà per il Deposito 4!"
+
+### u070893
+"Potete contare su di noi, Vostra Signoria. Troveremo la lordura dei cultisti, se qualcuno della nostra gente ne è venuto in possesso."
+
+### u070894
+"No! Lord Capitano! Vi giuro fedeltà! Vi supplico! Abbiate pietà!"
+
+### u070895
+{n}La vecchia ti sputa in faccia.{/n} "{mf|Maledetto|Maledetta} te!"
+
+### u070896
+{n}Lo sguardo di Vent è pieno di preoccupazione e di rammarico.{/n} "La gente sta diventando disperata, evidentemente... Hanno visto l'unità d'assalto e hanno deciso di non avere più nulla da perdere. Cioè, mi scuso, Lord Capitano. È oltraggioso. Sono certa che non vi abbiano semplicemente riconosciuto: altrimenti non sarebbe successo. Ce ne occuperemo, una volta risolta la situazione attuale..."
+
+### u070897
+{n}Le loro parole ti sembrano sincere. Il linguaggio del corpo e le occhiate che si scambiano rivelano che la notizia dell'attacco li ha sconvolti.{/n}
+
+### u070898
+{n}Sono troppo tesi e spaventati perché tu possa leggere con facilità le loro intenzioni. Potrebbero dire la verità, ma potrebbero anche mentire per proteggersi.{/n}
+
+### u070899
+"Vostra Signoria, grazie! Non ci avete abbandonato, a noi dei ponti inferiori! Siete {mf|venuto|venuta} di persona e avete sistemato tutto! Lo racconterò ai miei nipoti!"
+
+### u070900
+"Salve al Lord Capitano! Salve!"
+
+### u070901
+"Tenente Vent, la mia pazienza si sta esaurendo. Vi ho dato un ordine. Ora levatevi di mezzo."
+
+### u070902
+"Non posso eseguire quell'ordine, signora!" {n}Vent appare scossa, ma i suoi occhi ardono.{/n} "Questo è il mio ponte e il mio settore. Finché quest'area resta sotto la speciale supervisione del Lord Capitano, nessuna azione può essere intrapresa senza il mio esplicito permesso. Solo tre persone sono autorizzate a farmi desistere: il primo ufficiale, il Rogue Trader e l'Imperatore in persona!"
+
+### u070903
+"Vostra Signoria, i miei uomini hanno isolato la baia dove si trovano gli scioperanti, compresi i loro capi. Abbiamo la situazione sotto controllo, per quanto le risorse lo consentano."
+
+### u070904
+{n}Sauerback dà il segnale ed è la prima a sollevare l'arma.{/n} "Sì, Lord Capitano!"
+
+### u070905
+"Confermo le informazioni sulla corretta cura degli spiriti macchina in questo settore. I {g|Encyclopedia:Servitor}servitori{/g} indicano che questi popolani stanno compiendo i sacramenti che è loro permesso conoscere."
+
+### u070906
+{n}All'improvviso la Tenente Vent si pone di nuovo sulla strada dei carnefici. Il suo volto sembra una maschera di cera e i suoi occhi sono sgranati dalla paura, ma le labbra sono serrate in una linea decisa.{/n} "Se volete falciare tutti nel Deposito 4, potete cominciare da me!"
+
+### u070907
+"Vent, fermatevi! Questo è tradimento!"
+
+### u070908
+"S-sciopero? Questa è nuova per noi, V-Vostra Signoria," {n}dice un uomo alto e magro in abiti da operaio.{/n} "Tutto quello che facciamo è... fare domande... dire quello che pensiamo..."
+
+### u070909
+"Ciò che comincia come un piccolo furto può trasformarsi in un problema ben più grave. Lo so per esperienza." {n}Il volto di Abelard si oscura per un istante.{/n} "Nella mia seconda guerra, c'era un sergente di un reggimento della {g|Encyclopedia:AstraMilitarum}Guardia Imperiale{/g} di stanza lì vicino. Il sergente prese un normale coltellino dal corpo di un eretico, e la sua intera unità ci rimise la vita. Quando finalmente riuscirono a fare irruzione nelle baracche, non trovarono un solo sopravvissuto, solo il coltellino, che era cresciuto attraverso tutte le file di letti come un rampicante metallico soffocante. Perciò, quando si tratta di rovistatori, scontenti, scioperanti o qualunque cosa diventeranno poi, il mio verdetto è semplice: nessuna pietà."
+
+### u070910
+{n}Per una frazione di secondo Vent si blocca dalla paura, ma si ricompone, si raddrizza e dice in tono secco,{/n} "Perdonatemi, Lord Capitano. Prenderò provvedimenti perché una cosa simile non accada più."
+
+### u070911
+"Bambini ingenui! Non vi hanno insegnato fin da piccoli i pericoli delle creazioni dell'{g|Encyclopedia:Chaos}Arcinemico{/g}? Non vi hanno avvertito che qualsiasi oggetto sconosciuto potrebbe essere una di esse?"
+
+### u070912
+"Ce l'hanno detto, santa sorella. Ma è stato tanto tempo fa. L'ultima volta che abbiamo visto un confessore nel nostro settore è stato subito dopo la nascita del mio terzo piccolo."
+
+### u070913
+"È deplorevole. Ma non potete scaricare il peso di condurre una vita retta sulle spalle dei santi padri. Chi darete la colpa quando delle bestie strisceranno fuori da quegli amuleti che avete rubato agli eretici? Il santo padre che non c'era, o il rovistatore che ha attirato il male su di sé e sui suoi vicini?"
+
+### u070914
+{n}Argenta non interrompe gli operai, ma vedi la tristezza affiorarle negli occhi quando si accenna alla morte dei bambini. Sussurra piano una preghiera di requiem e si fa un segno sul petto.{/n}
+
+### u070915
+{n}La Tenente Vent diventa pallida come un cadavere. I suoi occhi sono sgranati dalla paura, ma le labbra sono serrate in una linea decisa.{/n} "Se volete falciare tutti nel Deposito 4, dovrete cominciare da me!"
+
+### u070916
+"Sotto controllo, Tenente? Sono venuta qui a guidare un'unità investigativa, e cosa vedo? La plebaglia è sull'orlo dell'ammutinamento! Non c'è nulla da indagare: servono semplicemente repressioni immediate e plotoni d'esecuzione! E voi, Vent, siete a un passo dall'essere incriminata voi stessa!"
+
+### u070917
+"Date alla plebaglia un grox e si prenderà un mondo agricolo, Lord Capitano. Capiscono solo la forza bruta e interpreteranno qualsiasi concessione come un segno di debolezza. Dar loro delle armi e richiamare i tutori dell'ordine sarebbe una follia. Sarebbe solo questione di tempo prima di ritrovarci con un ammutinamento su vasta scala!"
+
+### u070918
+"Quindi non tutte le mie lezioni cadono nel vuoto..." {n}borbotta Abelard con un'approvazione scontrosa. Non chiarisce se si riferisca a Vent, a Sauerback che incombe su di lei, o a entrambe.{/n}
+
+### u070919
+"La plebaglia capisce un solo linguaggio, Lord Capitano: quello della violenza. Come da regolamento, se i lavoratori persistono nel rifiuto di collaborare, il passo successivo è limitare l'aria e tagliare l'acqua, il che quasi certamente ristabilirà l'ordine. I contadini possono brontolare quanto vogliono, ma alla fine sono la fonte della propria miseria: basta che chinino il capo e si mettano in riga, e la necessità di misure punitive scomparirà."
+
+### u070920
+"Vostra Signoria!" {n}Notandoti, i due ufficiali scattano sull'attenti e salutano, seguiti un attimo dopo dai loro subordinati.{/n}
+
+### u070921
+"È tutto vero. Vent è l'unica ufficiale dei tutori che ha preso le nostre parti. È chiaro come il sole chi aveva una madre dei ponti inferiori e chi è cresciuto a centro nave e non prova alcuna solidarietà per noi!" {n}L'uomo torvo dal volto segnato da una cicatrice alza le braccia.{/n} "Vostra Signoria, qui non siamo dei malfattori, siamo onesti lavoratori, vostri servitori. Non abbiamo tramato alcun disordine, abbiamo scioperato apertamente, e ora ci puntano le armi contro. Tutto quello che chiediamo è di poter lavorare in pace, senza essere molestati."
+
+### u070922
+{n}Il volto della vecchia impallidisce, ma lei si limita a stringere i denti e a sputare di nuovo per terra.{/n}
+
+### u070923
+"Spiacente, Vecchia Nan. Non metto in gioco la mia vita e quella di tutto il mio clan per la tua testardaggine."
+
+### u070924
+"E quanto a questo amuleto, o quel che è, l'hanno preso da un cadavere. Non c'è più nessun cultista vivo nel nostro settore, questo è certo. Ma quando è scoppiata quella rissa, alcuni intraprendenti hanno depredato i corpi. Gli stivali con cui sono tornati... nessuno ha mai calpestato questi ponti con stivali così fini, vi assicuro. Mi sa che questi cultisti hanno comandanti migliori dei nostri."
+
+### u070925
+"Oh, sì! Quegli stivali erano proprio belli! E non c'era niente di male a prenderli, no? Quanto all'amuleto... deve averlo intascato qualcuno che non ne sapeva niente. Non ci servono amuleti qui. Adoriamo tutti l'{g|Encyclopedia:Emperor}Imperatore{/g}, e quando lavoriamo ci inchiniamo davanti agli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g} del Trasformatore Grande, del Trasformatore Piccolo e del Servomotore, proprio come ha insegnato a mio nonno cent'anni fa un Tecnoprete di passaggio! Credeteci, Vostra Signoria: siamo gente di fede."
+
+### u070926
+"Che cos'è il Deposito 4?"
+
+### u070927
+"Che c'entra il Siniscalco Werserian in tutto questo?"
+
+### u070928
+"Sauerback, spiegati."
+
+### u070929
+"Com'è cominciato tutto questo?"
+
+### u070930
+"Abelard, vuoi rispondere?"
+
+### u070931
+"Ascolterò quello che hai da dire. Parla, Tenente."
+
+### u070932
+"Puoi parlare, ma voglio un rapporto, non una lite a squarciagola. Due ufficiali che bisticciano in piena vista del ponte di comando è inaccettabile."
+
+### u070933
+"Non tollererò una simile condotta sulla mia nave. Abelard, assegna alla tenente una punizione adeguata. Tenente, hai un minuto per esporre i tuoi affari!"
+
+### u070934
+"A quanto pare ho riportato alla luce una vecchia questione. Preferirei restarne fuori."
+
+### u070935
+"Tenente Vent, diresti che il Siniscalco ti abbia distinta in qualche modo dai tuoi pari?"
+
+### u070936
+"Sta per scoppiare un'insurrezione a bordo della mia nave e nessuno mi ha {mf|informato|informata}?"
+
+### u070937
+"Ne ho sentito abbastanza. Scenderò ai ponti inferiori e risolverò il problema di persona."
+
+### u070938
+"Questa faccenda non merita il tempo del Rogue Trader. Abelard, hai agito con un'incompetenza sbalorditiva. D'ora in poi risolverai i tuoi problemi da solo. Fuori di qui, e porta con te quell'arrivista."
+
+### u070939
+"Sono {mf|certo|certa} che il Siniscalco abbia agito entro la sua autorità, ma verificherò di persona la solidità delle sue decisioni."
+
+### u070940
+"Maestra d'Armi, i tutori dell'ordine della nave rispondono a te, eppure sembri esitare a esporre la tua prospettiva."
+
+### u070941
+"Abelard, tu che ne dici di tutto questo?"
+
+### u070942
+{n}I rumori quotidiani del ponte di comando sono interrotti da voci alzate per la rabbia, quella di Abelard la più forte di tutte:{/n} "Questa non è la condotta di un ufficiale! Questi sono i capricci di un moccioso altolocato in cerca di svago! Spiegatevi, Tenente!"
+
+### u070943
+{n}La giovane donna davanti ad Abelard si sforza con tutte le sue forze di non vacillare sotto l'assalto della collera del suo superiore. Esita, ma poi riesce a guardarlo negli occhi e a dire,{/n} "Io... mi scuso, signore. Ma devo parlare con il Lord Capitano."
+
+### u070944
+"Molto bene, Tenente. Potete rivolgervi al Lord Capitano, non da ultimo perché vedo che avete già ritenuto opportuno disturbar{mf|lo|la}. La vostra comparsa non autorizzata sul ponte di comando e la vostra ostilità verso un ufficiale di grado superiore saranno annotate senza indugio nel vostro fascicolo personale."
+
+### u070945
+"Lord Capitano! Tenente Avrilla Vent, chiedo il permesso di parlare." {n}Vent tace, e poi aggiunge avventatamente,{/n} "Su una questione di estrema importanza e urgenza!"
+
+### u070946
+"La situazione potrebbe esplodere da un momento all'altro, quindi vi darò la versione sintetica... Tutto è cominciato quando i tutori dell'ordine hanno trovato un amuleto da cultista sul corpo di qualcuno ucciso in una rissa tra ubriachi. L'abbiamo segnalato subito ai superiori, abbiamo fatto eseguire un rito di purificazione e aperto un'indagine. Non sono stati trovati eretici vivi. Ma la ricerca ha portato al culmine le tensioni tra tutori e lavoratori."
+
+### u070947
+"Signora Sauerback, ricordate un'occasione in cui io abbia incoraggiato un ufficiale a disobbedire al suo superiore? O in cui io abbia annullato un suo ordine? O mostrato favoritismo verso chi non lo meritava?"
+
+### u070948
+"Ma su questa nave la parola del Lord Capitano pesa più di una salva di cento bolter. Sono certa che se il Rogue Trader si rivolge direttamente agli scontenti, sedarà i disordini."
+
+### u070949
+"Il Deposito 4 è povero e turbolento. Ma al peggio questo significa risse tra ubriachi e distillazione illegale di acquavite scadente. In passato abbiamo gestito i lavoratori del Deposito 4. Lo avremmo fatto di nuovo, se la repressione sul Deposito 4 non fosse stata così dura. E un altro punto importante da tenere a mente: il problema non è limitato a questo settore. Si trova su uno dei ponti inferiori più popolati, e tutto ciò che vi accade ha ripercussioni su tutti i settori vicini."
+
+### u070950
+"Aspettate! Ma..."
+
+### u070951
+"Mi dispiace, Lord Capitano. Io... pensavo che tempi disperati richiedessero misure disperate!" {n}esclama Vent con foga.{/n}
+
+### u070952
+{n}Rosso di rabbia e imbarazzo, il Siniscalco tuona,{/n} "Basta! Tenente, sapete dov'è l'uscita. Voi e io discuteremo della rivolta in preparazione, nonché della vostra grave violazione del protocollo di oggi."
+
+### u070953
+"Questa faccenda non può aspettare. Da un momento all'altro un'unità d'assalto verrà inviata ai ponti inferiori con l'ordine di stroncare lo sciopero dei lavoratori con ogni mezzo necessario. Ma sono convinta che questo passo sia ingiustificato e che la crisi stessa sia stata provocata... dalle azioni di uno degli ufficiali superiori." {n}Vent trema quasi per la tensione mentre pronuncia il suo discorso, il volto estremamente pallido.{/n}
+
+### u070954
+{n}Abelard, senza fretta di intervenire, emette uno sbuffo scettico. Lancia un'occhiata a Sauerback, che sta non lontano da lui, ma lei mantiene un'espressione di pietra.{/n}
+
+### u070955
+"Lord Capitano! Vi esorto a indagare sulle azioni del Siniscalco Werserian. E a intervenire in ciò che sta accadendo ai ponti inferiori, perché molto presto avremo tra le mani un ammutinamento o un massacro." {n}Vent snocciola le ultime parole come se le sapesse a memoria: è chiaro che si preparava a dirle da tempo. Quando ha finito, getta un'occhiata ansiosa ad Abelard, poi a te.{/n}
+
+### u070956
+"Non lo riterrei un problema degno dell'attenzione del {g|Encyclopedia:RogueTrader}Rogue Trader{/g}. I ponti inferiori, a quanto pare, sono in rivolta. Una trentina d'anni fa avemmo persino un capo rivoluzionario che osò instaurare il governo degli operai sull'intera nave. Ci volle un mese per ristabilire l'ordine, ma anche otto anni dopo combattevamo ancora le voci secondo cui l''eroe' fosse sopravvissuto all'esecuzione e stesse per radunare di nuovo la gente contro la tirannia." {n}Abelard schernisce.{/n} "Inutile dire che le voci erano infondate. Quanto alla situazione attuale, abbiamo abbastanza tutori dell'ordine per occuparcene."
+
+### u070957
+{n}Abelard serra leggermente i denti.{/n} "Un'impresa al limite dell'infantile, ma fate come credete, Lord Capitano. Tuttavia, insisto categoricamente per scortarvi."
+
+### u070958
+"Spiegherò io," {n}intona cupamente Abelard.{/n}
+
+### u070959
+"Tremo al pensiero di quale problema vorrete usare per disturbare il Rogue Trader la prossima volta. Forse {mf|gli|le} chiederete di sedare le risse in mensa? Vi ho già dato i mezzi per risolvere questo problema: dovete solo usarli."
+
+### u070960
+"Che il Trono vi protegga, Lord Capitano! Vi ringrazio per il vostro sostegno!"
+
+### u070961
+"Non avrò fretta: dato che la mia competenza è sotto esame, parlerò per tutto il tempo che riterrò opportuno. Esiste un ordine consolidato nel modo di fare le cose su questa nave, e uno dei pilastri di quel sistema è che l'attenzione del Rogue Trader non venga distratta da faccende banali. Compito del Siniscalco è garantirlo. Ho sempre gestito io stesso i problemi interni, quindi, naturalmente, quando ho ricevuto informazioni su cultisti nascosti ai ponti inferiori, ho preso in mano la questione. Finché vivrò, nessuno dei parassiti che hanno assassinato Theodora von Valancius troverà rifugio sulla sua nave."
+
+### u070962
+"Il regolamento della nave stabilisce che la Maestra d'Armi è responsabile di risolvere tutte le questioni relative ai tutori dell'ordine di bordo. Eppure non è un segreto che il Siniscalco abbia la tendenza a... mostrare parzialità. Quei tutori e ufficiali che egli ha giudicato particolarmente promettenti ottengono a volte il permesso di avvicinarlo per essere istruiti."
+
+### u070963
+"Lord Capitano, mi rammarico che i tutori dell'ordine non siano stati in grado di gestire la situazione, il che ha portato al vostro coinvolgimento e a quello del Siniscalco. Considero mio dovere recarmi di persona al Deposito 4 e provvedere alla rapida risoluzione di questo incidente."
+
+### u070964
+"Lord Capitano, a differenza della Tenente Vent, io rispetto la catena di comando e comprendo che non è mio diritto sfidare i miei superiori." {n}Sauerback china il capo in direzione di Abelard. Tuttavia, un attimo dopo, un sorriso serpentino compare sulle sue labbra.{/n} "Detto questo, pur condividendo appieno l'opinione del Maestro Werserian su quale sorte meriti il Deposito 4, devo osservare che questa insubordinazione è una diretta conseguenza di pratiche che egli stesso ha introdotto."
+
+### u070965
+"Signora Sauerback, vedo che alla fine avete deciso di seguire l'esempio della tenente. Un simile comportamento non vi fa onore."
+
+### u070966
+"Non posso negare l'esperienza e la perspicacia del Maestro Werserian: il Siniscalco ha un curriculum di allievi formati che hanno davvero ottenuto molto e dimostrato prestazioni impeccabili. Tuttavia, estendere un tale patrocinio scavalcando il superiore diretto incoraggia il disprezzo per la gerarchia tra i servitori di Vostra Signoria. Oggi un tutore va dal Siniscalco a riferire un ordine della Maestra d'Armi con cui non è d'accordo. Domani andrà dal Lord Capitano a contestare l'ordine del Siniscalco. Noto uno schema in queste azioni."
+
+### u070967
+"Nessuna, Siniscalco, poiché non ci sono stati casi simili in tutto il tempo in cui ho servito a bordo di questa nave. Se qualcuno sostenesse il contrario, gli farei pagare col sangue l'offesa al vostro onore. La vostra condotta in questo senso è sempre stata impeccabile. Tuttavia, data la vostra eminente posizione, una semplice dimostrazione di attenzione da parte vostra basta a erodere la correttezza degli ufficiali subalterni, a gonfiare il loro senso di importanza e a minare la disciplina."
+
+### u070968
+"Non oso far perdere il vostro tempo con simili faccende banali, Vostra Signoria."
+
+### u070969
+"Evidentemente i miei ufficiali oggi sono tutt'altro che un fulgido esempio di unità e aderenza. Immagino di dover incolpare solo me stesso."
+
+### u070970
+"Lord Capitano, giuro che il Siniscalco Werserian non mi ha mai concesso alcun privilegio, non ha mai perorato la mia causa né agevolato le mie promozioni. Anche se... è l'uomo che mi ha convinta a diventare ufficiale in primo luogo. Mi ha offerto una guida estesa nel mio servizio, e gliene sono grata. E sebbene non tutti i miei colleghi ricevano tale attenzione, conosco almeno una dozzina di ottimi ufficiali che il Siniscalco tiene d'occhio perché continuino a impegnarsi."
+
+### u070971
+"Che ne distinguiate alcuni e li conosciate per nome equivale a girare per il ponte degli ufficiali distribuendo regali a quelli che hanno attirato il vostro sguardo. Riempie di ambizione e audacia quelli che mettete da parte, li fa spiccare tra gli altri. I tutori devono essere servitori senza volto, combattenti pronti a morire, con il proprio destino affidato al comandante e a nessun altro. Questo è l'unico fondamento dell'ordine."
+
+### u070972
+"Preparare nuove generazioni di servitori della dinastia, istruirle e separare chi ha potenziale da chi lo ha esaurito: questo è il mio dovere di Siniscalco. Questa nave ha baie intere di piloti, tutori, ufficiali, tecnici e domestici che ho cresciuto personalmente. Per il Trono, una persona su tre su questo ponte di comando in questo momento è stata un mio allievo."
+
+### u070973
+"Siete stato troppo pesante di mano, Siniscalco Werserian! Arresti, interrogatori, punizioni di massa per interi settori... Avete spinto la gente sull'orlo del baratro!" {n}dice Vent con amarezza.{/n} "Ora c'è uno sciopero ai ponti inferiori, al Deposito 4 per la precisione. Sono coinvolti tre clan di lavoratori, ma molti altri li sostengono passivamente. La situazione potrebbe degenerare in un'insurrezione totale. Ma quando ho riferito le mie preoccupazioni, l'unica risposta è stata l'ordine di inviare un'unità d'assalto e stroncare lo sciopero con la massima forza."
+
+### u070974
+"Se posso, Vostra Signoria, mandare una squadra di sicari a stroncare la ribellione è un modo di ignorare il problema, non di risolverlo."
+
+### u070975
+"Il Deposito 4 è uno dei settori più poveri dei ponti inferiori. Ospita clan di manovali generici. Non hanno lo stesso valore per la nave delle famiglie che servono da generazioni i suoi sistemi specializzati. Sono una risorsa facilmente sostituibile, e per di più una che ora dà asilo a cultisti e servi dell'Arcinemico."
+
+### u070976
+"Vi prego di fare in fretta. Il tempo sta scadendo..."
+
+### u070977
+"Sia lodato l'Imperatore!" {n}Vent non riesce a contenere il sollievo.{/n} "Grazie, Lord Capitano!"
+
+### u070978
+"Sì, Lord Capitano! Ascoltate il mio rapporto e punitemi come desiderate, ma l'importante è che mi ascoltiate fino in fondo!" {n}dice Vent, con una nota supplichevole nella voce.{/n}
+
+### u070979
+"Non vedo la necessità di aggiungere altro. Ho agito entro i limiti della mia autorità, guidato esclusivamente dal migliore interesse del vostro protettorato e dalla vostra incolumità personale. Se desiderate verificare di persona la rettitudine delle mie azioni, non ho obiezioni."
+
+### u070980
+"Da parte mia, esorto il Lord Capitano a scendere ai ponti inferiori, fermare l'unità d'assalto e parlare direttamente alla gente. Vedrete che non mentono e non ospitano eretici! In questo modo fermerete la rivolta prima che cominci."
+
+### u070981
+"Quali sono le accuse contro la Casata Werserian?"
+
+### u070982
+"Perché ci sono dei cadaveri all'ingresso del mio palazzo?"
+
+### u070983
+"Clementia, desidero ascoltare la tua versione."
+
+### u070984
+"Le tue sole parole non bastano a farmi dubitare della lealtà della Casata Werserian. Come Rogue Trader, ordino di rilasciarli dalla custodia immediatamente."
+
+### u070985
+"Drivestem, non starai accusando di tradimento una delle principali casate nobili di Dargonus senza prove inconfutabili, vero?"
+
+### u070986
+[Parla con i capi delle casate presenti] "Sostenete le accuse del governatore?"
+
+### u070987
+"Che cosa è successo su Dargonus in mia assenza?"
+
+### u070988
+"Sabotaggio della logistica, rivolte, cospirazione... Il caso sembra debole. Voglio saperne di più prima di prendere la mia decisione finale."
+
+### u070989
+"Non ho tempo per occuparmi di questo. Drivestem, accetto le conclusioni della tua indagine e dichiaro colpevoli i Werserian."
+
+### u070990
+[Osserva più da vicino il figlio del governatore]
+
+### u070991
+{n}Clementia cerca di fare un passo verso di te, ma il custode accanto la ferma. Il suo volto è velato di paura e stanchezza.{/n} "Vostra Signoria! Siete qui. Vi prego, dovete ascoltarci."
+
+### u070992
+"In circostanze diverse non avrei osato disobbedire alla vostra parola, Vostra Signoria, ma temo che questa situazione richieda che i colpevoli ricevano la giusta punizione. Questo sabotaggio delle catene logistiche perpetrato sul mondo capitale della vostra dinastia ha naturalmente avuto effetto sulla riscossione della decima. Il Maresciallo in persona arriverà sicuramente prima o poi a indagare sulla questione. Ahimè, la sua attenzione mette a rischio sia voi personalmente sia l'intero protettorato. Tuttavia, abbiamo ancora la possibilità di placare il suo disappunto risolvendo noi stessi questo incidente e punendo i colpevoli."
+
+### u070993
+"Ci conosciamo da molti decenni ormai e abbiamo avuto la nostra buona dose di disaccordi, ma... credete davvero che il mio stesso sangue calpesterebbe la definizione stessa di onore e lealtà?" {n}La voce di Abelard trema di rabbia.{/n}
+
+### u070994
+{n}Il governatore passa lo sguardo su Abelard, poi risponde, con una lieve ombra di dubbio nella voce:{/n} "Abbiamo prove che li incriminano, Abelard... Sono certo che Sua Signoria giungerà a un giudizio equo."
+
+### u070995
+"Dunque è così." {n}Abelard ti fissa per qualche istante, poi si volta e guarda il volto pallido e provato di Clementia. Il Siniscalco cerca di dire qualcosa, ma riesce solo a tossire:{/n} "Pregate, Clementia. Non lasciate che vi vedano umiliata."
+
+### u070996
+{n}Clementia apre la bocca come per prendere le difese della sua famiglia, ma non trova le parole giuste. La giovane Astartia accanto a lei vacilla visibilmente, sul punto di svenire, ma riesce a riprendersi.{/n}
+
+### u070997
+"Vi ringrazio per la vostra fiducia, Vostra Signoria." {n}Il governatore si inchina profondamente davanti a te.{/n} "La famiglia Werserian è colpevole di ribellione contro Sua Signoria il Rogue Trader e viene condannata a morte. Immediatamente!"
+
+### u070998
+"Come desiderate, Vostra Signoria..." {n}Il governatore china il capo in un inchino rigido.{/n} "Parlate con me quando sarete {mf|pronto|pronta} ad annunciare il vostro verdetto."
+
+### u070999
+"Vi ringrazio per la vostra disponibilità ad aiutare, Lord Capitano. Sono certo che tutte le accuse siano false e vi sarei grato per il vostro aiuto nel dimostrarlo. Credo che dovreste parlare con tutti i presenti... i nobili signori e le nobili dame."
+
+### u071000
+"Quando abbiamo colto le voci della vostra scomparsa, abbiamo atteso con pazienza notizie del vostro ritorno, ma poi Dargonus è stata colpita da una serie di eventi terribili. Il primo è stato il sabotaggio della logistica che ha intralciato le spedizioni. Poi il malcontento di massa si è diffuso sull'intero pianeta e le casate nobili minori hanno cominciato a litigare tra loro, cercando di addossare la colpa ai rivali... Ci siamo dati un gran daffare per calmarli e siamo riusciti a soffocare la rivolta, anche se non senza un aiuto esterno, purtroppo."
+
+### u071001
+"Certo che ho delle prove, Vostra Signoria. L'indagine ha stabilito che membri della famiglia Werserian, responsabile sia della flotta di Dargonus sia della sua logistica, hanno usato i loro contatti e la loro influenza per falsificare una miriade di documenti allo scopo di minare le rotte di rifornimento e l'economia del pianeta, fomentando così il malcontento tra gli abitanti."
+
+### u071002
+"Questo giovane è avvolto in una foschia di grigio e blu. Malsane ombre di paura gli svolazzano attorno." {n}Cassia parla così piano che solo tu puoi sentirla.{/n}
+
+### u071003
+{n}Notando la stretta attenzione del Rogue Trader, il giovane distoglie lo sguardo. Il suo lungo viso suda e preme le labbra secche in una linea sottile. Sembra temere qualcosa.{/n}
+
+### u071004
+{n}Notando la stretta attenzione del Rogue Trader, il giovane distoglie lo sguardo.{/n}
+
+### u071005
+"Questi eventi sono stati oscurati anche dalle... mi vergogno persino a dirlo ad alta voce davanti a voi, Vostra Signoria... voci che circolano tra le casate più alte..." {n}Il governatore balbetta, poi respira a fondo.{/n} "Alcuni invocavano che il vero erede di Theodora fosse posto a capo della vostra casata... Kunrad Voigtvir. Non tutti i vostri sudditi hanno dimenticato i suoi sforzi passati a beneficio del protettorato commerciale." {n}Drivestem smette di parlare, osservandoti con espressione tesa.{/n} "Quando è stata avviata l'indagine... le prove ci hanno condotto ai Werserian."
+
+### u071006
+"Vi ricordo che la Casata Werserian non si è certo coperta di gloria in passato: ha permesso a degli xenos di attaccare il pianeta." {n}Il Governatore Drivestem lancia un'occhiata rapida e arrogante a una Clementia dal volto rosso.{/n}
+
+### u071007
+{n}Gli aristocratici presenti si scambiano occhiate, i nobili signori distolgono lo sguardo e le nobili dame si nascondono dietro i ventagli: nessuno vuole essere il primo a rispondere.{/n}
+
+### u071008
+"Nei suoi molti anni di servizio, il Governatore Drivestem si è guadagnato la fiducia di Theodora, e ricopre la sua alta carica per una ragione." {n}Il tono di Sauerback è severo e imperioso.{/n} "A nome della Casata Sauerback, sostengo le sue accuse."
+
+### u071009
+"Vostra Signoria, il Governatore Drivestem ha sempre servito fedelmente i Rogue Trader della Casata von Valancius e si è preoccupato del futuro della vostra dinastia commerciale, e quindi... la Casata Gaprak ritiene fondate le sue accuse contro la Casata Werserian." {n}Le augmetiche nascondono l'emozione di Toriana, ma la sua voce suona leggermente timorosa.{/n}
+
+### u071010
+"Chiedo umilmente di poter parlare in difesa dell'onore della mia famiglia. Le prove fornite dal governatore sono del tutto false. Non posso confutarle, ma posso dire con sicurezza che nessuno della mia famiglia ha mai tentato di falsificare documenti dell'Adeptus Administratum, tantomeno di minare l'economia della vostra capitale."
+
+### u071011
+"Permettetemi di parlare anch'io, Vostra Signoria!" {n}Hetka Sauerback ti rivolge un inchino zelante.{/n} "L'opportunità di servire sulla vostra nave è un grande onore per me e per la mia famiglia. Queste accuse sono davvero gravi e richiedono pertanto l'attenzione del Rogue Trader. Se decideste di condurre un'indagine, sarei lieto di assistervi."
+
+### u071012
+"Vostra Signoria, permettetemi di parlare anch'io. Sono grato per il privilegio di servire ai vostri ordini. Le prove contro la Casata Werserian sono piuttosto solide, ma io... dubito della loro colpevolezza. Se decideste di risolvere personalmente questo caso, allora vi chiedo umilmente di parlare con me. Forse posso esservi utile."
+
+### u071013
+"Le mie scuse, Vostra Signoria, ma desidero parlare anch'io..." {n}Regina ti guarda negli occhi con un tenero mezzo sorriso, poi volge lo sguardo al marito.{/n} "Naturalmente, sono d'accordo con mio marito. Il Governatore Drivestem non muoverebbe accuse contro nessuno se non fosse assolutamente certo dell'autenticità delle prove che ha scoperto."
+
+### u071014
+"Penso che chiunque qui concorderebbe che chiunque dubiti dell'autorità del vero Rogue Trader debba essere perseguito. Sono certa, Vostra Signoria, che estirperete la piaga dell'eresia dal vostro dominio." {n}Regina si inchina deferente davanti a te mantenendo il contatto visivo.{/n}
+
+### u071015
+"Vostra Signoria! È un onore!" {n}Il Governatore Urbend Drivestem sembra materializzarsi dal nulla, tanto improvvisamente emerge dalla folla.{/n} "Mi rammarico che circostanze così spiacevoli abbiano occasionato la visita del Rogue Trader nella capitale."
+
+### u071016
+"Interruzione delle linee logistiche, corruzione di funzionari dell'Adeptus Administratum, falsificazione di documenti e organizzazione di insurrezioni eretiche. Oltre all'evidente impatto economico devastante che ciò ha avuto sul vostro protettorato, questi atti criminali hanno ostacolato la consegna della Decima Imperiale, il che ha attirato l'attenzione dell'Administratum. Inutile dire che neppure l'illustre Adeptus Arbites può ignorare questa situazione, e prima che i suoi rappresentanti arrivino al palazzo, abbiamo l'obbligo di identificare e punire i responsabili."
+
+### u071017
+"Il Rogue Trader è senza dubbio qui per ascoltare la testimonianza di ognuno di noi, e per punire i traditori." {n}Le parole del governatore, rivolte a Clementia, sono aspre. Sono echeggiate dai sogghigni sprezzanti e dai bisbigli dei nobili radunati.{/n}
+
+### u071018
+"Permettetemi di presentarvi mio figlio, Cornelius." {n}Il governatore indica il giovane allampanato accanto a lui. Quello si inchina brevemente ma evita di incrociare il tuo sguardo.{/n} "Cornelius ricopre una posizione prestigiosa al Palazzo dell'Administratum ed è grazie a lui che siamo riusciti a identificare e ricostruire l'intera catena di documenti falsificati. L'indagine ci ha condotto ai responsabili, che hanno ammesso di aver agito su ordine di membri della Casata Werserian. Erano loro a voler diffondere l'idea di restituire il titolo di Rogue Trader al 'vero' erede."
+
+### u071019
+"Vostra Signoria, imploro umilmente il vostro perdono..." {n}Drivestem si inchina di nuovo, cercando di placarti.{/n} "Vedete, poco prima del vostro arrivo, la guardia del palazzo ha scoperto un complotto per assassinarvi. Fortunatamente i malfattori sono stati eliminati prima che potessero farvi del male."
+
+### u071020
+"Vostra Signoria, la Casata Werserian nega tutte le accuse mosse contro di essa." {n}Clementia lancia un'occhiata di sfida al governatore.{/n} "Questi ultimi mesi sono stati davvero difficili per Dargonus, ma abbiamo fatto del nostro meglio per rimediare alla situazione. Ogni sforzo della mia famiglia è stato concentrato sulla stabilizzazione della logistica e dell'economia della capitale, al punto da non accorgerci della rete di intrighi che si dipanava alle nostre spalle."
+
+### u071021
+"Sono già qui, il che significa che l'Adeptus Arbites ha avviato la sua inchiesta ufficiale. Puoi raffreddare il tuo entusiasmo, Governatore: sei già troppo in ritardo per rimediare ai tuoi errori."
+
+### u071022
+"Vostra Signoria! Queste accuse contro la mia famiglia non hanno semplicemente senso. Vi imploro umilmente di parlare con Clementia."
+
+### u071023
+I vestiti economici e pacchiani degli aggressori sono macchiati di sangue.
+
+### u071024
+Nella tasca interna della giacca inzuppata di sangue di uno degli aggressori c'era una lettera accartocciata.
+
+### u071025
+All'ombra dietro una panca giace nascosta una piccola bottiglia di vino. Emana un profumo squisito e stranamente familiare.
+
+### u071026
+"Il Trono ci preservi... Che cosa è successo qui?"
+
+### u071027
+"Signore e signori, vi prego, fatevi da parte! Non serve affollarsi. Il Governatore Drivestem penserà a tutto..."
+
+### u071028
+"Questo è ridicolo! Una cosa simile proprio nel palazzo del Rogue Trader!"
+
+### u071029
+"V-Vostra Signoria! Siete qui. Permettetemi di spiegare..."
+
+### u071030
+I corpi presentano molteplici ferite. È evidente che sono morti da poco.
+
+### u071031
+"Vostra Signoria, state... già andando via? Ma tutti attendono con tanta ansia il vostro verdetto... Vi chiedo umilmente di parlare con il Governatore Drivestem prima di partire..."
+
+### u071032
+"Vostra Signoria! Potete trovare il Governatore Drivestem nella sala del trono."
+
+### u071033
+"Tutta l'alta società di Dargonus è scesa oggi sul palazzo..."
+
+### u071034
+"I custodi del palazzo... sono di guardia, Vostra Signoria! Nessuno disturberà voi e i vostri ospiti d'ora in poi."
+
+### u071035
+"Tutto questo trambusto per i Werserian. Non meritano tanta attenzione..."
+
+### u071036
+"Ehi! Dove sono finiti tutti i servitori? Voglio del vino."
+
+### u071037
+"I Werserian sono sotto guardia nella sala del trono. Il mio istinto mi dice che presto verrà versato altro sangue... Che emozione!"
+
+### u071038
+"Le mie scuse, {mf|mio signore|mia signora}, ma non potete andare oltre. Ordini del Governatore Drivestem."
+
+### u071039
+"Questo è ridicolo! Presenterò un reclamo!"
+
+### u071040
+"Fate largo! Lasciate passare Sua Signoria il Rogue Trader!"
+
+### u071041
+"I-imploro umilmente il vostro perdono, Vostra Signoria..."
+
+### u071042
+"Vostra Signoria, prego, da questa parte..."
+
+### u071043
+"Lasciatemi passare! Ho un appuntamento con la Cancelliera Clementia Werserian!"
+
+### u071044
+L'uomo, ondeggiando leggermente, mormora una preghiera all'Imperatore.
+
+### u071045
+"Ho visto Lord Gaprak conversare con qualcuno qui, Vostra Signoria..."
+
+### u071046
+"È stato un onore assistervi..."
+
+### u071047
+"Il governatore ricopre la sua alta carica per una ragione. La sua lealtà e il suo servizio al Rogue Trader sono fuori discussione."
+
+### u071048
+"I Werserian si sono spinti troppo oltre. Per fortuna Lord Urbend è riuscito a scoprire così in fretta il loro sporco complotto."
+
+### u071049
+"I Werserian non sono altro che un gruppo di arrivisti. Che cosa hanno mai fatto per meritare il loro rango?"
+
+### u071050
+"Siamo fedeli servitori del nostro Rogue Trader, il vero erede di Theodora von Valancius..."
+
+### u071051
+"Per ordine del Rogue Trader, i membri della Casata Drivestem sono condannati a morte per eresia e crimini contro la dinastia commerciale von Valancius!"
+
+### u071052
+"Per ordine del Rogue Trader, i membri della Casata Gaprak sono condannati a morte per eresia e crimini contro la dinastia commerciale von Valancius!"
+
+### u071053
+"Per ordine del Rogue Trader, Regina Sauerback è condannata a morte per eresia e crimini contro la dinastia commerciale von Valancius!"
+
+### u071054
+"Per ordine del Rogue Trader, i membri della Casata Sauerback sono condannati a morte per eresia e crimini contro la dinastia commerciale von Valancius!"
+
+### u071055
+"Per ordine del Rogue Trader, i membri della Casata Werserian sono condannati a morte per eresia e crimini contro la dinastia commerciale von Valancius!"
+
+### u071056
+"Vostra Signoria! La Casata Gaprak vi ringrazia per l'onore di servirvi!"
+
+### u071057
+"Hai visto Halen oggi? Siamo venuti insieme, ma non l'ho più visto da allora. Si perderà tutto il divertimento se non si sbriga."
+
+### u071058
+"Halen? Sì, l'ho visto brevemente. Sembrava terribilmente teso, pronto a esplodere. Credo si dirigesse verso l'atrio d'ingresso, dove ci sono gli altari. Pensi che sappia qualcosa dei crimini dei Werserian?"
+
+### u071059
+"Lui? Figuriamoci! Non ha mai avuto a che fare con quei... arroganti parvenu."
+
+### u071060
+"Il Governatore Drivestem ha davvero le prove della colpevolezza dei Werserian?"
+
+### u071061
+"Come hanno potuto i Werserian agire contro Sua Signoria? Impensabile..."
+
+### u071062
+"Gli eretici meritano di essere smascherati e giustiziati. Anche quelli tra di noi."
+
+### u071063
+"La gente dice che Theodora volesse nominare qualcun altro come erede... Assurdo! C'è un solo vero Rogue Trader."
+
+### u071064
+"Sostenete di non sapere nulla dell'attacco, è così? Lo metterò nel vostro fascicolo. Quando finirete su un mondo penale, il direttore sarà interessato a leggerlo..."
+
+### u071065
+"I Werserian si credevano troppo. Per fortuna il loro incontro col potere è stato breve."
+
+### u071066
+"Finché Macharius sarà a capo della nostra casata, non abbiamo nulla di cui preoccuparci."
+
+### u071067
+"La Casata Sauerback ha servito fedelmente la dinastia di Rogue Trader von Valancius. Non abbiamo mai dato a nessuno motivo di dubitare della nostra lealtà."
+
+### u071068
+"Sua Signoria prenderà la decisione giusta e punirà i colpevoli: potete starne certi."
+
+### u071069
+"Riconosco questo bouquet. La Casata Sauerback di solito serve questo vino."
+
+### u071070
+"Oh, che profumo! Speziato, un po' aspro... Sono quasi certa di aver già assaggiato un vino con questo bouquet... Mon cher, la Casata Sauerback di solito serve questo vino ai suoi ospiti."
+
+### u071071
+"Rapporto sulle azioni in corso: l'estrazione dei dati dal deposito di memoria del servitore richiederà tre cicli terrani standard. La decodifica dei dati richiederà 30 cicli terrani standard."
+
+### u071072
+"Vi prego, lasciatemi andare, {mf|mio signore|mia signora}... Non ho visto niente!"
+
+### u071073
+"Sono solo un servitore, {mf|mio signore|mia signora}... Sono un fedele suddito dell'Imperatore. Servo solo Lui e il nostro stimato Rogue Trader!"
+
+### u071074
+"Vi prego, non mandatemi nelle miniere! Vi dirò tutto quello che ho visto..."
+
+### u071075
+"Tutte queste accuse... non possono esserci prove a sostegno! Non siamo coinvolti in alcun complotto."
+
+### u071076
+"Ogni Werserian ha dedicato la vita a servire la dinastia von Valancius. Non tradiamo i nostri ideali."
+
+### u071077
+"Lady Clementia... Non permetterà che ci uccidano, vero?"
+
+### u071078
+"Accuse montate sono l'unica ragione per cui siamo qui oggi, nient'altro."
+
+### u071079
+"Signora, ti prego, calmati. Hai visto cos'è successo qui?"
+
+### u071080
+"È stato terribile! Sembravano aristocratici ordinari di basso rango, con quei vestiti di cattivo gusto e pacchiani, e poi... hanno estratto delle armi! Santo cielo! Passatemi il vino, per favore."
+
+### u071081
+"Grazie, signora. Ricordi per caso qualcos'altro?"
+
+### u071082
+"Non ricordo nient'altro... Il Trono abbia pietà, sono sopraffatta! Ho bisogno di sedermi..."
+
+### u071083
+"I migliori soldati della Casata Sauerback, ai vostri ordini, Vostra Signoria!"
+
+### u071084
+[Perquisisci le tasche]
+
+### u071085
+[Cerca di determinare la causa della morte]
+
+### u071086
+{n}Un uomo di mezza età, elegantemente vestito, è inginocchiato davanti all'altare, con i palmi giunti in preghiera vicino al volto. Le parti di pelle prive di impianti hanno un colorito bluastro e malsano. Il nobile non reagisce alla tua presenza: non solleva la testa, non sbatte le palpebre, non respira nemmeno. Solo avvicinandoti ti rendi conto che è morto.{/n}
+
+### u071087
+{n}Abelard guarda l'uomo, con occhi cupi.{/n} "I colori della Casata Gaprak. Non credo che abbia deciso di togliersi la vita in un modo così stravagante."
+
+### u071088
+{n}La visiera di Pasqal emette una serie di clic. Indica senza esitazione il collo del morto.{/n} "Registro un punto di iniezione."
+
+### u071089
+"Per quanto ne so, qui c'è un posto di guardia dei custodi, ma non vedo alcun custode." {n}Il Siniscalco si guarda intorno.{/n} "Non c'è nessuno a cui chiedere cosa sia successo qui o con chi quest'uomo abbia parlato prima di morire. Vorrei chiedere a Urbend dove sia sparita all'improvviso la guardia del palazzo..."
+
+### u071090
+{n}Heinrix si china verso il morto.{/n} "Una vista familiare. Esistono veleni che danneggiano rapidamente il sistema nervoso, causando spasmi paralitici in tutto il corpo una volta iniettati. Le vittime di solito soffocano lentamente e dolorosamente, incapaci di chiedere aiuto."
+
+### u071091
+{n}La morte è venuta a prenderlo all'improvviso e ha devastato il suo corpo con spasmi convulsi che gli hanno impedito di cadere a terra. Alcuni rari veleni hanno questi effetti collaterali. La vittima soffoca lentamente senza poter muoversi né chiedere aiuto.{/n}
+
+### u071092
+{n}La morte ha trovato quest'uomo nel mezzo di una santa preghiera all'Imperatore, ma è impossibile determinare la causa di una morte così rapida e inquietante.{/n}
+
+### u071093
+{n}Non ci sono ferite visibili sul corpo, ma vicino al bordo del colletto rifinito d'oro noti una minuscola puntura nella pelle blu, probabilmente una ferita causata da un ago sottile.{/n}
+
+### u071094
+{n}Yrliet ti osserva mentre esamini il corpo, poi indica il collo.{/n} "Guarda meglio."
+
+### u071095
+{n}Sei quasi {mf|certo|certa} che di solito i custodi siano di stanza nelle vicinanze... ma il loro posto è vuoto. Dove sono andati? Sarebbe un'ottima domanda da porre al Governatore Drivestem.{/n}
+
+### u071096
+{n}Esamini attentamente il corpo. Non riesci a individuare alcuna ferita né altra causa evidente di morte.{/n}
+
+### u071097
+{n}Scopri una tasca segreta nella fodera della lussuosa giacca del morto. Dentro trovi un foglio di carta piegato, nascosto dietro un fazzoletto ricamato con le iniziali "H.G."{/n}
+

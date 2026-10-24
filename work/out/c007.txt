@@ -1,0 +1,1203 @@
+### u002879
+Alcune {g|Encyclopedia:Ability}abilità{/g} (ad esempio il {g|f:93d58dfeb6c648858c130e0a902f6ed6}Forceful Strike{/g} di un {g|Encyclopedia:CareerFighterGlossary}Warrior{/g}) e alcune armi (ad esempio i martelli tuono) possono spingere i bersagli lontano dal personaggio. I bersagli vengono spinti in linea retta, allontanandosi dal personaggio.
+Se il bersaglio spinto urta un ostacolo o un'altra creatura, sia il bersaglio spinto sia quello contro cui si scontra subiscono {g|Encyclopedia:DamageGlossary}danni{/g} (sempre che possano subirne). I danni sono pari a <b><u>(2 × la distanza che il bersaglio avrebbe dovuto percorrere)</u></b>, indipendentemente da quanta ne abbia effettivamente percorsa durante la spinta. Questi danni ignorano l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} ma possono essere ridotti in altri modi (ad esempio con la proprietà di {g|Encyclopedia:Deflection}deviazione{/g} dell'{g|Encyclopedia:HeavyArmour}armatura pesante{/g}).
+La distanza massima di spinta è di 5 caselle.
+
+### u002880
+Spinte e collisioni
+
+### u002881
+Alcuni {g|Encyclopedia:Talent}talenti{/g} e alcune {g|Encyclopedia:Ability}abilità{/g} possono modificare ulteriormente i {g|Encyclopedia:DamageGlossary}danni{/g} da {g|Encyclopedia:PushGlossary}collisione{/g} o gli altri effetti provocati dalle spinte di un personaggio. Se due effetti di spinta avvengono nello stesso momento (ad esempio usando l'abilità {g|f:bd5f109c46684a09b07fb13743d2a6d7}Harsh Shove{/g} di un martello insieme a un {g|f:93d58dfeb6c648858c130e0a902f6ed6}Forceful Strike{/g}), le distanze si sommano.
+Le creature più grandi sono più difficili da spingere. Le creature che occupano quattro caselle sul campo di battaglia percorrono metà della distanza di qualsiasi spinta, mentre quelle ancora più grandi non possono essere spinte affatto.
+
+### u002882
+Alcune armi {g|Encyclopedia:Range}a distanza{/g} permettono di eseguire {g|Encyclopedia:AreaOfEffect}<b>attacchi ad area</b>{/g} e {g|Encyclopedia:HitSequenceGlossary}colpire{/g} più bersagli contemporaneamente.
+Quando esegue un attacco di questo tipo, il personaggio effettua una {g|Encyclopedia:Test}prova{/g} per colpire contro ogni bersaglio secondo le regole dei {g|Encyclopedia:SingleRangedAttacksGlossary}colpi singoli{/g}: i {g|Encyclopedia:DamageGlossary}danni{/g} di questi attacchi vengono subiti sia dai nemici sia dagli alleati che si trovano nell'area interessata. Se la prova per colpire fallisce contro uno o più bersagli, questi subiranno comunque i danni di un {g|Encyclopedia:GrazingHit}colpo di striscio{/g}, pari al 50% dei danni normali, ma aumentabili tramite {g|Encyclopedia:Talent}talenti{/g} e {g|Encyclopedia:Ability}abilità{/g}.
+
+### u002883
+Attacco ad area a distanza
+
+### u002884
+Nella maggior parte degli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g}, la traiettoria del proiettile viene calcolata a partire dal centro dell'area interessata. Se tra il centro dell'area interessata e il bersaglio non c'è alcuna {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}, il bersaglio non potrà ripararsi. Gli attacchi ad area tengono comunque conto della {g|Encyclopedia:Range}gittata{/g} efficace dell'arma e della distanza dal bersaglio nel calcolo della probabilità di {g|Encyclopedia:HitSequenceGlossary}colpire{/g}.
+Se il nemico si trova dietro una copertura, ha una probabilità di sfruttarla: la copertura parziale dà il 35% di probabilità di evitare un attacco, quella totale la porta al 60%. Inoltre, questa probabilità può cambiare in base alle {g|Encyclopedia:Ability}abilità{/g} del personaggio e agli effetti positivi e {g|Encyclopedia:NegativeEffectTypesGlossary}negativi{/g}. Se il bersaglio si ripara, subisce i {g|Encyclopedia:DamageGlossary}danni{/g} di un {g|Encyclopedia:GrazingHit}<b>colpo di striscio</b>{/g}, ma può comunque evitare del tutto i danni se riesce a {g|Encyclopedia:DodgeGlossary}schivare{/g}. La probabilità base di schivata è <b><u>(30 + {g|Encyclopedia:WarhammerAgility}Agility{/g} del bersaglio − {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} dell'attaccante)</u>%</b>. La probabilità totale di schivata può essere ulteriormente influenzata da abilità ed effetti che concedono {g|Encyclopedia:Bonus}bonus{/g} o penalità alla schivata del bersaglio o alla riduzione della schivata dell'attaccante. Con una schivata riuscita, il nemico può evitare completamente i danni e lasciare l'area d'effetto: la distanza massima di una schivata di questo tipo è di tre caselle. Se per qualche motivo il bersaglio schiva ma non può lasciare l'area, subisce automaticamente i danni di un <b>colpo di striscio</b>.
+
+### u002885
+Attacchi ad area a distanza
+
+### u002886
+Ogni arma {g|Encyclopedia:Range}a distanza{/g} ha due zone di tiro, determinate dai parametri di gittata dell'arma: la <b>gittata efficace</b> e la <b>gittata massima</b>. La gittata massima indica la distanza più lontana a cui è possibile colpire un bersaglio. La gittata efficace è pari al 50% della gittata massima dell'arma e indica la distanza a cui fare fuoco è più vantaggioso.
+
+### u002887
+Zone di tiro
+
+### u002888
+Un personaggio non può prendere di mira un altro personaggio con un {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g} o una {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} se il bersaglio si trova oltre la gittata massima della sua arma.
+La gittata efficace e quella massima variano da arma ad arma.
+Un attacco a distanza contro un bersaglio entro la gittata efficace dell'arma non subisce alcuna {g|Encyclopedia:Penalty}penalità{/g} dovuta alla distanza del bersaglio.
+Quando si attacca a distanza un bersaglio che si trova tra la gittata efficace e la gittata massima dell'arma:
+-<indent=5%>la probabilità di {g|Encyclopedia:HitSequenceGlossary}colpire{/g} dei colpi singoli è dimezzata rispetto agli attacchi contro bersagli entro la gittata efficace.</indent>
+-<indent=5%>la probabilità che i colpi in raffica seguano la traiettoria centrale è dimezzata, e il numero di possibili traiettorie di deviazione raddoppia a causa dell'ampliamento del cono di fuoco.</indent>
+
+### u002889
+Quando è attivato, gli attacchi con arma dotati di {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g} hanno <i>invece</i> la stessa probabilità di rimbalzare.
+In caso di rimbalzo, i danni vengono inflitti a una creatura o a un oggetto casuale entro un piccolo raggio attorno al bersaglio iniziale. Questi danni sono spesso ridotti.
+
+### u002890
+Sebbene il rimbalzo sostituisca la {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g}, la quantità di danni inflitti e la probabilità di infliggerli restano regolate dalle regole della sovrapenetrazione. Pertanto, tutti i modificatori che si applicano alla sovrapenetrazione si applicano anche al rimbalzo.
+
+### u002891
+Oltre allo {g|Encyclopedia:HullIntegritySpace}scafo{/g}, una nave del vuoto possiede un certo numero di <b>componenti</b>, come armi, motori e altre parti della nave. La maggior parte dei componenti può essere sostituita con altri dello stesso tipo, qualora riusciate a procurarveli. Potete effettuare queste sostituzioni in qualsiasi momento fuori dal combattimento.
+
+### u002892
+Componenti della nave
+
+### u002893
+Ci sono molti modi per ottenere nuovi componenti per la nave: potete raccoglierli come bottino di guerra, riceverli durante certi eventi, ottenerli come ricompensa dalle vostre colonie, oppure acquistarli da un {g|Encyclopedia:VendorsAndReputationGlossary}mercante{/g} del Sistema Furibundus, purché abbiate una reputazione sufficientemente alta presso la sua fazione.
+Oltre ai componenti sostituibili, la vostra nave del vuoto ha anche due componenti di sistema: elementi della struttura della nave che non possono essere sostituiti ma possono essere potenziati.
+C'è un'altra limitazione: non potete installare due armi dello stesso tipo negli alloggiamenti di {g|Encyclopedia:ProwSpace}prua{/g}.
+
+### u002894
+La vostra {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} trasporta una scorta di {g|Encyclopedia:ScrapSpace}<b>rottami</b>{/g}: pezzi di ricambio e materiali utilizzabili per le riparazioni. I rottami possono essere spesi per riparare l'{g|Encyclopedia:HullIntegritySpace}integrità dello scafo{/g} della nave dopo una battaglia, per migliorare i {g|Encyclopedia:ShipComponentsGlossary}componenti{/g} di sistema o per adattare le postazioni della nave.
+
+### u002895
+Rottami e riparazioni
+
+### u002896
+Potete recuperare {g|Encyclopedia:ScrapSpace}rottami{/g} dalle navi nemiche distrutte e da poche altre fonti.
+Se vi trovate in disperato bisogno di rottami per effettuare delle riparazioni, potete smantellare un potenziamento di uno dei {g|Encyclopedia:ShipComponentsGlossary}componenti{/g} di sistema e ricevere una parte dei rottami spesi per quel potenziamento.
+
+### u002897
+Esistono tre tipi di armi per navi del vuoto: le {g|Encyclopedia:LanceWeaponSpace}<b>lance</b>{/g}, i {g|Encyclopedia:MacroCannonsSpace}<b>macrocannoni</b>{/g} e i {g|Encyclopedia:TorpedoLaunchersSpace}<b>tubi lanciasiluri</b>{/g}.
+
+### u002898
+Tipi di armi per navi
+
+### u002899
+Le {g|Encyclopedia:LanceWeaponSpace}<b>lance</b>{/g} hanno grande gittata e grandi danni, ma sono poco maneggevoli e perciò spesso hanno un {g|Encyclopedia:FiringArcSpace}arco di tiro{/g} più ridotto. Le lance possono essere installate sulla {g|Encyclopedia:ProwSpace}prua{/g} della nave, mentre le loro versioni più leggere trovano posto nell'alloggiamento {g|Encyclopedia:DorsalSpace}dorsale{/g}. Le lance sparano diversi brevi impulsi, ma l'armatura del bersaglio viene applicata una sola volta all'intero attacco. Questo le rende particolarmente efficaci contro bersagli pesantemente corazzati, come le grandi navi.
+I {g|Encyclopedia:MacroCannonsSpace}<b>macrocannoni</b>{/g} hanno una gittata inferiore ma di solito sono più numerosi, e ciascuno dei loro colpi viene conteggiato in modo indipendente. Un'armatura spessa può ridurre drasticamente i danni che i macrocannoni sono in grado di infliggere.
+I {g|Encyclopedia:TorpedoLaunchersSpace}<b>tubi lanciasiluri</b>{/g} sparano salve di siluri, che agiscono come entità separate sul campo di battaglia. Potete controllare il movimento dei siluri nel round successivo a quello in cui vengono lanciati.
+I siluri, come le navi, possono essere bersagliati. Tuttavia i siluri non hanno {g|Encyclopedia:HullIntegritySpace}integrità dello scafo{/g}: ogni volta che una {g|Encyclopedia:TorpedoSalvoSpace}salva{/g} viene colpita da un'arma qualsiasi, un siluro viene distrutto, riducendo così i danni potenziali della salva.
+I siluri possono infliggere due tipi di danni: diretti e ad area. Quando una salva di siluri entra in collisione con un bersaglio, ogni siluro rimasto nella salva lo attacca con la stessa probabilità di colpirlo che avrebbe una normale arma di una nave. Se il siluro colpisce, esplode infliggendo danni elevati ma solo al bersaglio stesso. Se il siluro manca, detona all'esterno dello scafo del bersaglio, infliggendo danni ad area ridotti sia al bersaglio sia a tutti gli altri oggetti in un raggio di 1 casella. I siluri possono anche essere fatti detonare manualmente con un comando di autodistruzione, con lo stesso risultato di un siluro che manca il bersaglio.
+
+### u002900
+Un tipo di attacco {g|Encyclopedia:Range}a distanza{/g} diretto contro un singolo bersaglio. Questi colpi non possono {g|Encyclopedia:HitSequenceGlossary}colpire{/g} gli avversari che si trovano tra il tiratore e il bersaglio, ma in caso di mancato colpo, {g|Encyclopedia:DodgeGlossary}schivata{/g} riuscita o {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g} riuscita possono {g|Encyclopedia:DamageGlossary}danneggiare{/g} i personaggi dietro il bersaglio principale (sia nemici sia alleati).
+Quando un personaggio attacca con un <b>colpo singolo</b>, tira per colpire un bersaglio con una probabilità base di successo di <b><u>(30 + {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g})</u>%</b>. Dopo il tiro, eventuali {g|Encyclopedia:Bonus}bonus{/g} che aumentano la probabilità di colpire vengono aggiunti al risultato. Questa probabilità è dimezzata se il nemico si trova oltre la gittata efficace dell'arma (di solito metà della gittata massima).
+
+### u002901
+La {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} non può superare il 95%. Ogni 1% di probabilità di colpire in eccesso rispetto al 95% si trasforma in un 1% di probabilità in più di mettere a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+Se il nemico si trova dietro una {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}, ha una probabilità di sfruttarla con successo: la copertura parziale dà il 35% di probabilità di evitare un attacco, quella totale la porta al 60%. Inoltre, questa probabilità può cambiare in base alle {g|Encyclopedia:Ability}abilità{/g} dei personaggi e agli effetti positivi e {g|Encyclopedia:NegativeEffectTypesGlossary}negativi{/g}. Se il bersaglio non riesce a ripararsi, tenterà di {g|Encyclopedia:DodgeGlossary}schivare{/g} l'attacco. La probabilità base di schivata è <b><u>(30 + {g|Encyclopedia:WarhammerAgility}Agility{/g} del bersaglio − {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} dell'attaccante)</u>%</b>. La probabilità totale di schivata può essere ulteriormente influenzata da abilità ed effetti che concedono {g|Encyclopedia:Bonus}bonus{/g} o penalità alla schivata del bersaglio o alla riduzione della schivata dell'attaccante.
+Il bersaglio subisce {g|Encyclopedia:DamageGlossary}danni{/g} se non riesce né a ripararsi né a schivare il colpo singolo.
+
+### u002902
+Prove di caratteristica e di competenza
+
+### u002903
+I vostri personaggi si troveranno in situazioni che mettono alla {g|Encyclopedia:Test}prova{/g} le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} e {g|Encyclopedia:Skills}competenze{/g}. Per queste prove, il gioco simula il tiro di un <b>dado a 100 facce</b>.
+Perché un personaggio superi una prova di caratteristica o di {g|Encyclopedia:SkillTestsGlossary}competenza{/g}, deve ottenere un numero inferiore al valore della caratteristica o della competenza corrispondente.
+Ogni prova ha anche una difficoltà associata, che agisce come modificatore del valore della caratteristica o della competenza in questione.
+
+### u002904
+Supponiamo che un personaggio stia cercando di disinnescare una trappola. La difficoltà di questa prova è −10 e la competenza Demolition del personaggio è 50.
+Il gioco simula il tiro del dado, con risultato 75.
+Poiché il personaggio doveva ottenere 40 o meno per superare la prova (Demolition + modificatore di difficoltà = 50 + (−10)), e il risultato del tiro è 75, che è maggiore di 40, la prova è fallita.
+Se il personaggio avesse ottenuto 17 con il dado, dato che 17 < 40, la prova sarebbe stata superata.
+
+### u002905
+Il sistema delle <b>convinzioni</b> tiene traccia delle vostre decisioni e trasforma il vostro Rogue Trader sia sul piano narrativo sia su quello del gameplay. Le convinzioni influiscono molto su come si sviluppa la storia del gioco e su come finirà. Offrono inoltre vari {g|Encyclopedia:Bonus}bonus{/g} meccanici ai personaggi.
+Il vostro Rogue Trader può ottenere <b>punti convinzione</b> scegliendo determinate opzioni durante i dialoghi, gli eventi di esplorazione e lo sviluppo delle colonie.
+Quando uno dei rami di convinzione raggiunge il grado III: <b>Votary</b>, diventa il fulcro principale del personaggio. Quando ciò accade, gli altri due rami di convinzione non possono essere portati oltre il grado II: <b>Adherent</b>.
+
+### u002906
+Ogni ramo di {g|Encyclopedia:SoulmarkTypesGlossary}<b>convinzione</b>{/g} ha 5 gradi. Quando il vostro personaggio ha accumulato abbastanza punti per passare a un nuovo grado di convinzione, riceve un {g|Encyclopedia:Bonus}bonus{/g}, di solito un'{g|Encyclopedia:Ability}abilità{/g} passiva o attiva.
+Esistono tre rami di convinzione che incarnano certe filosofie di interpretazione.
+{g|Encyclopedia:SoulMarkFaith}<b>Dogmatic</b>{/g}: la via del Credo Imperiale, che salva l'Umanità distruggendo tutto ciò che è ignoto, non ortodosso e alieno.
+{g|Encyclopedia:SoulMarkHope}<b>Iconoclast</b>{/g}: la via dell'idealista che crede che anche in un universo crudele ci sia posto per la nobiltà e la compassione.
+{g|Encyclopedia:SoulMarkCorruption}<b>Heretical</b>{/g}: la via del Caos e della corruzione dell'anima. Questa convinzione cresce sia in base alle decisioni che prendete, sia usando oggetti corrotti e acquisendo conoscenze proibite.
+Alcuni oggetti del gioco hanno proprietà aggiuntive che diventano disponibili solo a chi ha una determinata convinzione, o una determinata convinzione e un determinato grado.
+
+### u002907
+Quando attaccano, le <b>armi della nave</b> cercano prima di tutto di colpire il bersaglio. La probabilità di colpire è determinata dall'<b>auspex</b> della nave e ridotta dall'{g|Encyclopedia:EvasionSpace}<b>evasione</b>{/g} del bersaglio. Molte navi del gioco hanno evasione 0, ma alcune navi xenos possono avere un certo valore di evasione, e bersagli relativamente piccoli come le salve di siluri hanno sempre un'evasione elevata.
+
+### u002908
+Calcolo dei danni in combattimento
+
+### u002909
+Quando il colpo è confermato, c'è una probabilità che l'attacco metta a segno un colpo critico e infligga danni doppi. Questa probabilità può essere influenzata dall'auspex della nave.
+Se il bersaglio ha gli {g|Encyclopedia:VoidshipShieldsGlossary}<b>scudi</b>{/g} attivi, una parte dei danni dell'attacco in arrivo verrà assorbita da essi. I danni non assorbiti vengono poi ridotti di una quantità fissa in base all'armatura, e infine lo {g|Encyclopedia:HullIntegritySpace}scafo{/g} del bersaglio subisce il resto dei danni dell'attacco.
+
+### u002910
+Le navi del vuoto hanno una massa enorme e quindi una grande inerzia. Non possono fermarsi o accelerare all'istante: questi processi richiedono tempo.
+Di conseguenza, ogni nave deve percorrere una certa distanza durante il proprio turno e può terminarlo solo durante la <b>fase finale</b>, quando la maggior parte del suo movimento è compiuta. La zona di movimento finale è evidenziata come l'area a tinta piena del movimento della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g}.
+
+### u002911
+Terminare il proprio turno nel combattimento spaziale
+
+### u002912
+Le dimensioni della zona di movimento finale (e della zona di accelerazione, la fase iniziale del movimento della nave, in cui si possono usare certe abilità) dipendono dal <b>motore</b> installato sulla nave. Alcuni motori sono più dinamici e quindi hanno zone di movimento finale e di accelerazione più ampie (uno di questi motori è installato sulla nave all'inizio del gioco), mentre altri modelli offrono una {g|Encyclopedia:SpeedSpace}velocità{/g} maggiore, permettendo alla nave di spostarsi più lontano in un singolo turno.
+
+### u002913
+Le navi in combattimento agiscono a turni in base alla loro priorità. Più la nave è piccola, più alta è la sua priorità: le navi piccole agiscono prima di quelle grandi. La {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} del Rogue Trader ha una priorità inferiore a quella delle navi nemiche, perché queste tendono ad anticipare il vostro arrivo e quindi ad agire per prime. Tuttavia può accadere anche il contrario, se riuscite a cogliere di sorpresa i vostri avversari.
+
+### u002914
+Priorità
+
+### u002915
+Man mano che migliorate le capacità della vostra nave, potrete aumentarne la priorità scegliendo certe caratteristiche, in modo da agire prima dei vostri nemici.
+
+### u002916
+Mentre controllate la {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} del Rogue Trader in combattimento, avete a disposizione da gestire un totale di 6 postazioni, che rappresentano vari sistemi della nave. Salendo di livello con la nave, potete scegliere nuove abilità che le postazioni possono usare. Ogni postazione può avere fino a due abilità di base. Queste possono essere usate a ogni round, ma hanno un {g|Encyclopedia:Cooldown}tempo di ricarica{/g} casuale e ogni postazione può attivare una sola delle sue abilità per round.
+
+### u002917
+Postazioni della nave
+
+### u002918
+Oltre alle abilità di base, ogni postazione può avere un'{g|Encyclopedia:UltimateAbilities}abilità suprema{/g}. Queste abilità richiedono tempo per caricarsi. L'indicatore si riempie gradualmente a ogni round di combattimento, alla fine del combattimento e durante certi eventi fuori dal combattimento. Potete avere più abilità supreme di postazioni diverse cariche contemporaneamente, ma in una singola battaglia ne può essere usata solo una.
+È consigliabile assegnare a ogni postazione uno dei vostri compagni come ufficiale responsabile. Per ogni postazione è richiesta una competenza specifica o un'altra condizione, ma i vostri compagni hanno caratteristiche speciali che possono migliorare alcune abilità della nave.
+
+### u002919
+Quando gli psyker attingono più a fondo al warp per alimentare le proprie abilità, c'è sempre la possibilità che l'Empireo trabocchi nella realtà, un fattore invariabilmente distruttivo e dannoso.
+All'inizio del combattimento, il degrado del Velo è di solito 0. Il degrado del Velo aumenta di +1 per ogni uso di un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} minore e di +3 per ogni uso di un potere psichico maggiore. Il degrado del Velo diminuisce di −1 a ogni {g|Encyclopedia:Round}round{/g}.
+
+### u002920
+<b>Finché il degrado del Velo è 14 o inferiore:</b>
+-<indent=5%>I poteri psichici minori hanno una probabilità di <u>(5 + {g|Encyclopedia:PsyRating}livello psichico{/g})</u>% di scatenare {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g}.</indent>
+-<indent=5%>I poteri psichici maggiori hanno una probabilità di <u>(20 + 4 × livello psichico)</u>% di scatenare fenomeni psichici.</indent>
+-<indent=5%>Gli psyker sanzionati che usano poteri psichici minori hanno una probabilità di <u>((5 + livello psichico) / 2)</u>% di scatenare fenomeni psichici.</indent>
+-<indent=5%>Gli psyker sanzionati che usano poteri psichici maggiori hanno una probabilità di <u>(10 + 2 × livello psichico)</u>% di scatenare fenomeni psichici.</indent>{br}
+<b>Dopo che il degrado del Velo raggiunge 15:</b>
+-<indent=5%>Le probabilità di scatenare fenomeni psichici quadruplicano.</indent>
+-<indent=5%>I poteri psichici maggiori possono scatenare i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.</indent>
+-<indent=5%>Gli psyker non sanzionati che usano poteri psichici minori hanno una probabilità di <u>(20 + 4 × livello psichico)</u>% di scatenare fenomeni psichici.</indent>
+-<indent=5%>Gli psyker non sanzionati che usano poteri psichici maggiori hanno una probabilità di <u>(20 + livello psichico + degrado del Velo)</u>% di scatenare fenomeni psichici ogni volta che non si verificano i Pericoli del Warp.</indent>
+-<indent=5%>Gli psyker sanzionati che usano poteri psichici minori hanno una probabilità di <u>(10 + 2 × livello psichico)</u>% di scatenare fenomeni psichici.</indent>
+-<indent=5%>Gli psyker sanzionati che usano poteri psichici maggiori hanno una probabilità di <u>(10 + livello psichico + degrado del Velo)</u>% di scatenare fenomeni psichici ogni volta che non si verificano i Pericoli del Warp.</indent>
+
+### u002921
+Il Rogue Trader può procurarsi vari oggetti di interesse presso diverse fazioni della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}.
+I principali venditori che incontrerete nel gioco sono rappresentanti di una delle cinque fazioni: i <b>Drusiani</b>, gli <b>Explorator</b>, la <b>Missione Kasballica</b>, la <b>Fellowship of the Void</b> e la <b>Flotta Imperiale</b>. Il Rogue Trader costruirà rapporti d'affari con loro nel corso di tutto il gioco.
+Nel gioco compare anche un piccolo numero di mercanti speciali non affiliati a queste cinque fazioni.
+
+### u002922
+Commercio e reputazione
+
+### u002923
+Potete migliorare la vostra reputazione presso i mercanti consegnando carichi completi di vari tipi di merce.
+Quando acquistate oggetti dai mercanti non spendete alcuna risorsa, ma dovete soddisfare una o entrambe le seguenti condizioni: un certo livello di {g|Encyclopedia:ProfitFactorFullGlossary}Fattore di Profitto{/g} e un certo grado di reputazione.
+Gli oggetti possono essere acquistati solo quando tutti i requisiti necessari sono soddisfatti.
+A partire dal Capitolo 2, il Rogue Trader potrà contattare i mercanti parlando con l'Alto Factotum sul ponte di comando della nave del vuoto.
+
+### u002924
+La maggior parte delle navi dell'Imperium utilizza scudi del vuoto: campi energetici che proteggono il vascello dal fuoco nemico. Per ogni punto di danno assorbito da uno scudo, questo perde un punto di carica. Il vostro scudo del vuoto ha 4 settori distribuiti lungo i lati della nave. Ogni settore ha una propria carica indipendente, e se uno di essi si esaurisce, quel {g|Encyclopedia:ShieldSectorSpace}settore dello scudo{/g} non potrà più assorbire danni, anche se il resto degli scudi è intatto.
+
+### u002925
+Scudi della nave
+
+### u002926
+La carica degli scudi non si ripristina automaticamente a metà combattimento, ma viene ripristinata completamente tra una battaglia e l'altra e può essere ricaricata con l'abilità {g|f:bd61b300bcd84e06a80c8cf3b699c78b}Restart Shields{/g}.
+Gli scudi non assorbono sempre la totalità dei danni inflitti alla nave. A seconda della carica di un settore dello scudo, questo può assorbire tutti i danni, metà di essi o nessuno. Più carica ha un settore dello scudo, maggiore è la probabilità che assorba i danni. Uno scudo a piena carica assorbe sicuramente tutti i danni che può. Quando la carica è al 50% o più, lo scudo assorbe tutti i danni o metà di essi. Quando la carica è al 50% o meno, lo scudo assorbe metà dei danni o nessuno.
+
+### u002927
+L'armatura è un parametro che un personaggio o un oggetto può avere e che riduce di una certa percentuale i {g|Encyclopedia:DamageGlossary}danni{/g} in arrivo.
+L'armatura è sempre espressa in percentuale. Se un personaggio con il 30% di armatura dovesse subire 9 danni, ne subisce invece solo 6, e se dovesse subirne 300, ne subirebbe solo 210.
+Se si infliggessero 300 danni a un personaggio con il 90% di armatura, il personaggio subirebbe solo 30 danni.
+
+### u002928
+Il valore dell'armatura di un personaggio o di un oggetto può cambiare a causa dell'equipaggiamento o degli effetti di certe {g|Encyclopedia:Ability}abilità{/g}.
+Nel calcolo dei {g|Encyclopedia:DamageGlossary}danni{/g} di un attacco, il parametro di armatura del bersaglio può essere ridotto dalla {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} dell'attacco.
+La penetrazione dell'armatura non può mai ridurre l'armatura di un bersaglio al di sotto dello 0%.
+
+### u002929
+Gli spostamenti tra i sistemi avvengono sulla mappa della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}. Per prima cosa, il Navigatore della nave esplora il warp attorno al sistema attuale in cerca di altri sistemi e di possibili rotte che li colleghino. In questo modo ottenete l'intuizione del Navigatore, una risorsa che può essere spesa per tracciare nuove rotte o abbassare il livello di pericolo di quelle esistenti. Potete ottenere l'{g|Encyclopedia:NavigatorsInsight}intuizione del Navigatore{/g} anche risolvendo certi eventi che si verificano nel warp.
+
+### u002930
+Navigatori e viaggi nel warp
+
+### u002931
+Nel gioco esistono quattro tipi di rotte del warp: verdi (sicure), gialle (poco sicure), arancioni (pericolose) e rosse (letali). Il colore della rotta influisce sulla frequenza e sulla difficoltà degli eventi del warp che possono verificarsi percorrendola. Ad esempio, le rotte verdi hanno quasi nessun evento avverso, mentre quelle rosse preannunciano gli incontri più pericolosi. A volte un evento del warp può causare un'incursione sulla vostra nave, a cui dovrete reagire usando certi oggetti o intervenendo di persona.
+
+### u002932
+Ogni volta che un personaggio perde una grossa parte delle proprie {g|Encyclopedia:HitPoints}ferite{/g}, può subire {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g} permanenti noti come {g|Encyclopedia:Injury}lesioni{/g} e {g|Encyclopedia:Traumas}traumi{/g}.
+Se le ferite di un personaggio scendono a 0, questi perde i sensi e subisce un trauma che applica consistenti {g|Encyclopedia:Penalty}penalità{/g} alle sue {g|Encyclopedia:Characteristic}caratteristiche{/g}, a seconda del tipo di trauma.
+Se un personaggio perde il <b>N%</b> delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g} non temporanee in un singolo {g|Encyclopedia:Round}round{/g} di combattimento, subisce una lesione.
+Ogni lesione riduce la {g|Encyclopedia:Resolve}determinazione{/g} del personaggio.
+
+### u002933
+Lesioni e traumi
+
+### u002934
+Quando un personaggio riceve <b>K</b> {g|Encyclopedia:Injury}lesioni{/g}, tutte le lesioni vengono rimosse e il personaggio subisce invece un {g|Encyclopedia:Traumas}trauma{/g}.
+Per i primi <b>M</b> {g|Encyclopedia:Round}round{/g} (o <b><u>(M × 6)</u></b> secondi fuori dal combattimento), una lesione è considerata recente. Trascorso questo periodo di tempo, la lesione recente diventa una lesione vecchia.
+I diversi tipi di lesioni possono essere curati con mezzi diversi.
+Le variabili <b>N</b>, <b>K</b> e <b>M</b> cambiano in base alla difficoltà del gioco. Alla difficoltà Daring, queste variabili sono pari rispettivamente a <b>50/3/3</b>.
+I traumi possono essere rimossi:
+-<indent=5%>Riposando sulla nave o in altri luoghi adatti al riposo. I traumi guariscono nel momento in cui il personaggio entra nel ponte di comando. Non sono richieste azioni specifiche (come dormire, parlare con i chirurghi o attendere il passare del tempo).</indent>
+<indent=5%>Il vostro gruppo potrebbe trovarsi nell'impossibilità di tornare alla nave, ma la zona in cui vi trovate potrebbe offrire qualche mezzo per riposare o riprendersi, come una stazione {g|Encyclopedia:SkillMedicae}medicae{/g}, un guaritore o semplicemente un luogo adatto a una pausa. In questo caso, potete curare i vostri personaggi tramite un'interazione di qualche tipo, come un dialogo o un pulsante.</indent>
+-<indent=5%>Usando oggetti consumabili rari e costosi.</indent>
+Le lesioni possono essere rimosse:
+-<indent=5%>Riposando sulla nave o in altri luoghi adatti al riposo.</indent>
+-<indent=5%>Usando oggetti consumabili rari e costosi.</indent>
+-<indent=5%>Usare un kit medico rimuove automaticamente una lesione recente. Se sul bersaglio non ci sono lesioni recenti, il personaggio che somministra il trattamento effettua una {g|Encyclopedia:Test}prova{/g} di competenza Medicae (difficoltà 0). Se ha successo, rimuove una lesione vecchia.</indent>
+
+### u002935
+Mantello dell'Arch-Militant
+
+### u002936
+Ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico messo a segno da chi lo indossa con un'{g|Encyclopedia:RangeAreaAttacksGlossary}arma a distanza{/g} aumenta di +{unit_stat|WarhammerStrength|bonus} i {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} delle sue armi da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} fino alla fine del combattimento.
+
+### u002937
+Le fibre mimetiche fondono la colorazione di chi lo indossa con l'ambiente circostante. Il mantello concede a chi lo indossa +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u002938
+Mantello camaleolina
+
+### u002939
+Mantello mimetico
+
+### u002940
+Finché chi lo indossa è adiacente a una {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura totale{/g}, la sua probabilità di {g|Encyclopedia:DodgeGlossary}schivata{/g} viene calcolata senza considerare il valore di {g|Encyclopedia:WarhammerPerception}Perception{/g} dei nemici.
+
+### u002941
+L'abilità {g|f:e8164ac219f44e69b95de4853569da3b}Lidless Stare{/g} di chi lo indossa non infligge più danni agli alleati colpiti. Questi alleati ottengono invece {unit_stat|WarhammerFellowship|bonus} ferite temporanee.
+
+### u002942
+Mantello della Clemenza
+
+### u002943
+Chi lo indossa ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:e8e9fbe8696e4820b84c733ceba629af}Get Back in the Fight!{/g}, che costa 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u002944
+Mantello del Commissario
+
+### u002945
+Ogni volta che chi lo indossa {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco a distanza nemico, esegue immediatamente un singolo attacco con l'arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} equipaggiata contro un nemico adiacente a caso. Questo attacco ha +35% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e di {g|Encyclopedia:ParryReduction}riduzione della parata{/g} e può essere eseguito solo tre volte in un singolo {g|Encyclopedia:Round}round{/g}.
+
+### u002946
+Dark Reaver
+
+### u002947
+Ogni volta che chi lo indossa esegue un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g}, questo attacco infligge {g|Encyclopedia:DirectDamage}danni diretti{/g} aggiuntivi pari alla {g|Encyclopedia:Deflection}deviazione{/g} del bersaglio.
+
+### u002948
+Cappuccio Doombringer
+
+### u002949
+Mantello ricamato
+
+### u002950
+Concede a chi lo indossa un {g|Encyclopedia:Bonus}bonus{/g} di +5 a {g|Encyclopedia:SkillPersuasion}Persuasion{/g}.
+Ogni volta che chi lo indossa è influenzato dall'{g|Encyclopedia:Ability}abilità{/g} di un alleato, ottiene +3% di {g|Encyclopedia:DodgeGlossary}schivata{/g} fino alla fine del combattimento. Cumulabile.
+
+### u002951
+Chi indossa questo mantello è immune allo stato {g|Encyclopedia:BurningEffect}In fiamme{/g}.
+Inoltre, ogni volta che chi lo indossa termina il proprio {g|Encyclopedia:Turn}turno{/g}, lo stato In fiamme viene rimosso da tutti gli alleati adiacenti.
+
+### u002952
+Mantello ignifugo
+
+### u002953
+Ogni volta che chi lo impugna subisce {g|Encyclopedia:DamageGlossary}danni{/g}, 1 carica di questo effetto viene rimossa per prevenirli.
+Se non restano cariche, i danni non vengono prevenuti e chi lo impugna diventa {g|Encyclopedia:StaggeredEffect}barcollante{/g} fino alla fine del combattimento.
+
+### u002954
+Holo-Field
+
+### u002955
+Emettitore di campo olografico
+
+### u002956
+Chi lo impugna ottiene 3 cariche di holo-field all'inizio del combattimento. Ogni volta che chi lo impugna subisce {g|Encyclopedia:DamageGlossary}danni{/g}, 1 carica di holo-field viene rimossa per prevenirli.
+Se non restano cariche, i danni non vengono prevenuti e chi lo impugna diventa {g|Encyclopedia:StaggeredEffect}barcollante{/g} fino alla fine del combattimento
+
+### u002957
+<u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerToughness}TGH{/g} + 3 × grado di {g|Encyclopedia:SoulMarkHope}Iconoclast{/g})</u>
+
+### u002958
+<u>(2 × {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g})</u>
+
+### u002959
+Ogni volta che chi lo indossa infligge danni con un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, ottiene +{uip|THP|fb13409a1d7b4784b229adddf99d59ec} {g|Encyclopedia:HitPoints}ferite{/g} temporanee.
+Gli attacchi in mischia di chi lo impugna infliggono +{uip|Damage|fb13409a1d7b4784b229adddf99d59ec}% di danni in più.
+
+### u002960
+Mantello di ferro
+
+### u002961
+Mantello della retribuzione
+
+### u002962
+Chi lo indossa ottiene un {g|Encyclopedia:Bonus}bonus{/g} del +15% ai {g|Encyclopedia:DamageGlossary}danni{/g} contro i nemici che gli hanno inflitto danni in questo {g|Encyclopedia:Round}round{/g}.
+
+### u002963
+Chi lo indossa diventa il {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} meno probabile finché non ha nemici né alleati adiacenti.
+
+### u002964
+Mantello Shadowguide
+
+### u002965
+<u>(2 × bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g})</u>
+
+### u002966
+Ogni volta che chi lo impugna compie un {g|Encyclopedia:HeroicAct}atto eroico{/g} o una {g|Encyclopedia:DesperateMeasure}misura disperata{/g}, ottiene +2 {g|Encyclopedia:ActionPoints}PA{/g}, +6 {g|Encyclopedia:MovementPoints}PM{/g} e {uip|THP|a70164cbc0e54e168449793ecc448367} {g|Encyclopedia:HitPoints}ferite{/g} temporanee.
+
+### u002967
+Sudario dell'intrepidezza
+
+### u002968
+Mantello da spadaccino
+
+### u002969
+Ogni volta che chi lo indossa ha equipaggiate due armi da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, ottiene +10 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e +15% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g}.
+
+### u002970
+Questo personaggio ottiene +{uip|Dodge|b1ac612ecbbb423c9618e1797376bf67}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} fino al prossimo {g|Encyclopedia:Turn}turno{/g} di chi indossa il mantello swiftshroud.
+
+### u002971
+Swiftshroud
+
+### u002972
+<u>(2 × (bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} + {g|Encyclopedia:PsyRating}livello psichico{/g} di chi lo indossa))</u>
+
+### u002973
+<u>((bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} + {g|Encyclopedia:PsyRating}livello psichico{/g}) / 2)</u>
+
+### u002974
+<u>(5 × accumuli di swiftshroud)</u>
+
+### u002975
+Ogni volta che chi lo indossa è bersaglio di un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g}, ottiene +1 accumulo dell'effetto swiftshroud e +{uip|Dodge|47ef5ac73a7b424e91767416f3612116}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro quell'attacco.
+Inoltre, chi lo indossa ottiene +{uip|MP|47ef5ac73a7b424e91767416f3612116} {g|Encyclopedia:MovementPoints}PM{/g} ogni volta che è bersaglio di un attacco di opportunità.
+Alla fine del proprio turno, chi lo indossa consuma tutti i propri accumuli di swiftshroud per concedere a tutti gli alleati +{uip|AllyDodge|47ef5ac73a7b424e91767416f3612116}% di schivata fino al proprio turno successivo.
+
+### u002976
+Mantello Swiftshroud
+
+### u002977
+<u>(5 + bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g})</u>
+
+### u002978
+Ogni volta che chi lo indossa {g|Encyclopedia:DodgeGlossary}schiva{/g} un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, ottiene +{uip|Crit|2e62de08f5a3452a98526b3771009a6e}% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico fino alla fine del proprio {g|Encyclopedia:Turn}turno{/g} successivo. Cumulabile.
+
+### u002979
+Mantello Sworddancer
+
+### u002980
+Mantello tattico
+
+### u002981
+Ogni volta che chi lo indossa {g|Encyclopedia:Reload}ricarica{/g} la propria arma, ottiene +10% di {g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} e +10% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} fino all'inizio del proprio {g|Encyclopedia:Turn}turno{/g} successivo. Questi effetti non si cumulano.
+
+### u002982
+<u>(bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g} / 4)</u>
+
+### u002983
+<u>(3 × bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g})</u>
+
+### u002984
+Finché l'arma di chi lo indossa ha una {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} o un numero di colpi base pari a <u>(da 2 a 4)</u>, quel parametro aumenta di +{uip|RoF|10d27d1253ac42148b8b016e3765fb57}. Se è un'arma a distanza, il suo {g|Encyclopedia:Recoil}rinculo{/g} raddoppia.
+Finché l'arma di chi lo indossa ha una cadenza di fuoco o un numero di colpi base pari o superiore a 5, la {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} degli attacchi in {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} di chi lo indossa aumenta di +{uip|Burst|10d27d1253ac42148b8b016e3765fb57}%. Se è un'arma a distanza, il suo rinculo viene annullato.
+
+### u002985
+Zaino d'élite carapace Tempestus
+
+### u002986
+Finché chi lo indossa ha tutte le sue {g|Encyclopedia:HitPoints}ferite{/g}, ottiene +5 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g}.
+
+### u002987
+Mantello Von Valancius
+
+### u002988
+Concede +10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+Finché chi lo indossa ha eseguito in questo {g|Encyclopedia:Turn}turno{/g} sia attacchi in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} sia {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}, ogni nemico entro un raggio di 5 caselle più piccolo di chi lo indossa subisce +1 accumulo di {g|Encyclopedia:PerplexedEffect}confuso{/g}. Cumulabile.
+
+### u002989
+Mantello di pelle di lupo
+
+### u002990
+I {g|Encyclopedia:DamageGlossary}danni{/g} degli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} aumentano del +10% per ogni accumulo dell'effetto zealot.
+
+### u002991
+Zealot
+
+### u002992
+Quando chi lo indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un alleato con un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g}, ottiene +1 accumulo dell'effetto zealot fino alla fine del combattimento.
+<i>Zealot</i>: chi lo indossa infligge +10% di {g|Encyclopedia:DamageGlossary}danni{/g} con i propri attacchi ad area per ogni accumulo dell'effetto zealot.
+
+### u002993
+Mantello Zealot
+
+### u002994
+Chi lo indossa ottiene {unit_stat|WarhammerPerception|bonus}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} fino all'inizio del proprio {g|Encyclopedia:Turn}turno{/g} successivo per ogni nemico colpito dal suo potere psichico o dall'attacco con il bastone da psyker. Cumulabile.
+
+### u002995
+Stivali del psyker da battaglia
+
+### u002996
+Stivali del Decadimento
+
+### u002997
+Ogni volta che chi li indossa usa un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} maggiore, tutti i nemici nella sua {g|Encyclopedia:LineOfSight}linea di vista{/g} perdono il 30% della propria {g|Encyclopedia:Deflection}deviazione{/g} fino all'inizio del {g|Encyclopedia:Turn}turno{/g} successivo di chi li indossa.
+
+### u002998
+Stivali dei Kasrkin
+
+### u002999
+Quando è in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}, chi li indossa ha il 100% di efficacia della copertura contro gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g}, ma non li {g|Encyclopedia:DodgeGlossary}schiva{/g} mai. Inoltre, subisce il −50% di {g|Encyclopedia:DamageGlossary}danni{/g} in meno dagli attacchi ad area.
+Ogni volta che chi li indossa usa una granata e questa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} almeno 3 nemici contemporaneamente per la prima volta nel combattimento, questa azione non spende {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u003000
+Ogni volta che l'{g|Encyclopedia:AreaOfEffect}attacco ad area{/g} di chi li indossa {g|Encyclopedia:DamageGlossary}danneggia{/g} almeno due nemici entro un raggio di 2 caselle da lui, chi li indossa ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:e7836ee2419b46d68da401547aaf630c}Kick{/g}, che costa 0 {g|Encyclopedia:ActionPoints}PA{/g}, fino alla fine del proprio {g|Encyclopedia:Turn}turno{/g}.
+
+### u003001
+Stivali da sfondamento
+
+### u003002
+Stivali Breezecatcher
+
+### u003003
+Ogni volta che chi li indossa attraversa una casella occupata da un nemico, ottiene +15% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro gli attacchi di quel nemico fino al {g|Encyclopedia:Turn}turno{/g} successivo di chi li indossa.
+
+### u003004
+Ogni volta che chi li indossa esegue un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g}, provoca istantaneamente {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} da parte di tutti i nemici adiacenti.
+Chi li indossa ottiene +{unit_stat|WarhammerToughness|bonus} {g|Encyclopedia:HitPoints}ferite{/g} temporanee per ogni attacco di opportunità provocato da un attacco ad area.
+
+### u003005
+Stivali da attaccabrighe
+
+### u003006
+<u>(bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} / 2)</u>
+
+### u003007
+<u>(bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} di chi li indossa / 2)</u>
+
+### u003008
+Ogni volta che chi li indossa sceglie un alleato come bersaglio della propria {g|Encyclopedia:Ability}abilità{/g}, ottiene immediatamente +{uip|SelfMP|6e3b70f210d24bcf8c87db1890023ac5} {g|Encyclopedia:MovementPoints}PM{/g}.
+L'alleato bersaglio ottiene +{uip|AllyMP|6e3b70f210d24bcf8c87db1890023ac5} PM all'inizio del proprio {g|Encyclopedia:Turn}turno{/g} successivo.
+
+### u003009
+Stivali da commissario
+
+### u003010
+<u>{g|Encyclopedia:MovementPoints}PM{/g} massimi</u>
+
+### u003011
+Ogni volta che i {g|Encyclopedia:MovementPoints}PM{/g} di chi li indossa scendono a 0, chi li indossa infligge {uip|Damage|02b02020fbd24a5191a6528dbef3ec78} {g|Encyclopedia:ImpactDamage}danni da impatto{/g} a tutti i nemici adiacenti.
+
+### u003012
+Stivali del danzatore letale
+
+### u003013
+Aumenta di +3 i {g|Encyclopedia:MovementPoints}punti movimento{/g} di chi li indossa.
+
+### u003014
+Stivali Dynamo
+
+### u003015
+Stivali leggeri da tutore dell'ordine
+
+### u003016
+Ogni volta che chi li indossa {g|Encyclopedia:Parry}para{/g} un attacco, contrattacca immediatamente l'aggressore.
+Se questo attacco infligge {g|Encyclopedia:DamageGlossary}danni{/g}, chi li indossa esegue un {g|f:e7836ee2419b46d68da401547aaf630c}Kick{/g} per {g|Encyclopedia:PushGlossary}spingere{/g} via il nemico.
+
+### u003017
+Aumenta di +5 l'{g|Encyclopedia:WarhammerAgility}Agility{/g} di chi li indossa e di +10 la sua {g|Encyclopedia:SkillAthletics}Athletics{/g}.
+
+### u003018
+Stivali Ergo
+
+### u003019
+<u>(2 × bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g})</u>
+
+### u003020
+<u>(5 × bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g})</u>
+
+### u003021
+Chi li indossa ottiene +{uip|Parry|b94daa0387c640f29b5b561dc37ff673}% di {g|Encyclopedia:Parry}parata{/g} quando usa spade.
+Ogni volta che chi li indossa para con una spada, contrattacca immediatamente, facendo diventare {g|Encyclopedia:StaggeredEffect}barcollante{/g} il nemico attaccante.
+Se l'attaccante è barcollante, la parata di chi li indossa aumenta di +{uip|StaggerParry|b94daa0387c640f29b5b561dc37ff673}%.
+
+### u003022
+Stivali da schermidore
+
+### u003023
+Chi li indossa diventa immune agli effetti {g|Encyclopedia:SlowedEffect}rallentato{/g} e {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}.
+
+### u003024
+Stivali da freerunner
+
+### u003025
+Stivali da intendente
+
+### u003026
+Ogni volta che chi li indossa usa un oggetto consumabile, ottiene +2 {g|Encyclopedia:MovementPoints}PM{/g} e +20% di {g|Encyclopedia:DodgeGlossary}schivata{/g} fino all'inizio del proprio {g|Encyclopedia:Turn}turno{/g} successivo.
+
+### u003027
+Stivali del martire
+
+### u003028
+Chi li indossa può attraversare le caselle adiacenti ai nemici spendendo la normale quantità di {g|Encyclopedia:MovementPoints}punti movimento{/g}.
+Inoltre, chi li indossa ottiene {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} pari alla propria {g|Encyclopedia:Resolve}determinazione{/g} ogni volta che subisce {g|Encyclopedia:DamageGlossary}danni{/g} da {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u003029
+Quando l'{g|Encyclopedia:AreaOfEffect}attacco ad area{/g} di chi li indossa {g|Encyclopedia:DamageGlossary}danneggia{/g} almeno due nemici entro un raggio di 2 caselle da lui per la prima volta nel {g|Encyclopedia:Round}round{/g}, chi li indossa ottiene +2 {g|Encyclopedia:ActionPoints}PA{/g} e questo attacco non conta ai fini del suo limite di attacchi. Chi li indossa diventa poi {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g} fino all'inizio del proprio {g|Encyclopedia:Turn}turno{/g} successivo.
+
+### u003030
+Stivali da sfondamento della Flotta
+
+### u003031
+Usare l'{g|Encyclopedia:Ability}abilità{/g} {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} costa −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+
+### u003032
+Stivali pneumatici
+
+### u003033
+Chi li indossa non può subire l'effetto {g|Encyclopedia:BurningEffect}In fiamme{/g} camminando sulle caselle in fiamme.
+Chi li indossa infligge +3 accumuli aggiuntivi di In fiamme ogni volta che si trova su caselle in fiamme.
+
+### u003034
+Stivali da piromane
+
+### u003035
+<u>({g|Encyclopedia:SkillAwareness}Awareness{/g} / 4)</u>
+
+### u003036
+Ogni volta che chi li indossa esegue un attacco a distanza con {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g} da una qualsiasi {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}, questo attacco ottiene +{uip|Pen|64b0f8074bab45d4850cbb3cd5bae3a7}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u003037
+Stivali da tiratore scelto
+
+### u003038
+Ogni volta che chi li indossa infligge {g|Encyclopedia:DamageGlossary}danni{/g} a un nemico, ha il 25% di probabilità di ottenere 2 {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u003039
+Stivali da schermagliatore
+
+### u003040
+Calzature da spedizione
+
+### u003041
+Ogni volta che chi li indossa usa un potere da Navigatore, ottiene +15% di {g|Encyclopedia:DodgeGlossary}schivata{/g} fino alla fine del {g|Encyclopedia:Round}round{/g}. Cumulabile.
+
+### u003042
+Stivali delle Sororitas
+
+### u003043
+Chi li indossa porta lo {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} a 175 ogni volta che uccide 5 nemici di fila in un {g|Encyclopedia:Turn}turno{/g}.
+
+### u003044
+<u>(5 × livello di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} di chi li indossa)</u>
+
+### u003045
+All'inizio del combattimento, chi li indossa si infligge {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (4).
+Ogni volta che chi li indossa esegue un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} ad area, infligge sanguinamento (4) a tutte le creature {g|Encyclopedia:HitSequenceGlossary}colpite{/g}.
+Questo attacco in mischia ad area infligge inoltre +{uip|Damage|cdb2305218224a638cb83c6845ac4bb5}% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u003046
+Stivali chiodati
+
+### u003047
+Stivali del valoroso
+
+### u003048
+Chi li indossa e gli alleati adiacenti non possono cadere {g|Encyclopedia:ProneEffect}a terra{/g} e diventano immuni agli effetti di movimento forzato.
+
+### u003049
+Ogni volta che chi li indossa esegue un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} dopo un attacco a distanza, il bersaglio dell'attacco in mischia deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −15, altrimenti viene scagliato {g|Encyclopedia:ProneEffect}a terra{/g}.
+
+### u003050
+Stivali dell'Arch-Militant
+
+### u003051
+Ogni volta che chi li indossa uccide 2 o più nemici con un singolo attacco, l'attacco non spende tutti i {g|Encyclopedia:MovementPoints}PM{/g} di chi li indossa.
+
+### u003052
+Stivali del guerrafondaio
+
+### u003053
+Stivali Windrunner
+
+### u003054
+Ogni volta che un nemico si sposta in una casella adiacente a chi li indossa per la prima volta nel {g|Encyclopedia:Round}round{/g}, chi li indossa ottiene immediatamente un {g|Encyclopedia:ExtraTurn}turno extra{/g} con 3 {g|Encyclopedia:MovementPoints}PM{/g} e 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+Chi li indossa non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} durante questo {g|Encyclopedia:Turn}turno{/g}.
+
+### u003055
+Le armi a catena infliggono +25% di {g|Encyclopedia:DamageGlossary}danni{/g} critici.
+
+### u003056
+Chain Weapon
+
+### u003057
+Hekatarii Serration
+
+### u003058
+<u>(3 × grado {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u003059
+Lo sciame di servoteschi ottiene +10 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+Non subisce {g|Encyclopedia:DamageGlossary}danni{/g} dagli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g}. Ogni volta che viene colpito da un attacco in mischia, infligge immediatamente {uip|Damage|d9b527f50267467f9c2d10542c92b90a} {g|Encyclopedia:MentalDamage}danni mentali{/g} all'attaccante.
+
+### u003060
+Beyond Sanity
+
+### u003061
+Lo sciame di servoteschi ottiene +10 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+Non subisce {g|Encyclopedia:DamageGlossary}danni{/g} dagli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g}.
+
+### u003062
+Beyond Logic
+
+### u003063
+Il corvo psibernetico ottiene +30 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+I bersagli del primo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} in un {g|Encyclopedia:Turn}turno{/g} falliscono automaticamente le proprie {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro quel potere psichico.
+Se il primo potere psichico {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} in un turno colpisce 3 o più creature, l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} recupera +1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u003064
+Harbinger of Death
+
+### u003065
+Il mastino cibernetico ottiene +10 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerStrength}Strength{/g} e infligge +200% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+All'inizio del {g|Encyclopedia:Turn}turno{/g} del nemico {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g}, quel nemico deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −{unit_stat|WarhammerStrength|bonus}. Se la fallisce, il mastino cibernetico attacca il nemico, infliggendo +100% di danni in più.
+L'alleato {g|f:7d75105e9e224ceab784932c12a26757}protected{/g} ottiene l'effetto {g|f:ebfe1f63501a4134962d0b2ff6ab6655}combat master{/g}.
+
+### u003066
+The Smell of Fear
+
+### u003067
+<u>(2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u003068
+<u>(bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} / 2)</u>
+
+### u003069
+Il corvo psibernetico ottiene +15 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+Alla fine del {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}, gli alleati in un raggio di 4 caselle attorno al corvo psibernetico vedono il proprio livello di {g|Encyclopedia:BurningEffect}In fiamme{/g}, {g|Encyclopedia:ToxinEffect}Tossina{/g} e {g|Encyclopedia:BleedingEffect}Sanguinamento{/g} ridotto di −{uip|Lose|3ac984bef2744d90a505b620767816e8}, mentre i nemici in quell'area che subiscono uno qualsiasi di questi effetti vedono il proprio livello aumentato di +{uip|Gain|3ac984bef2744d90a505b620767816e8}.
+
+### u003070
+Law of Equilibrium
+
+### u003071
+Quando lo sciame di servoteschi ottiene il quinto accumulo di questo effetto, concede un {g|Encyclopedia:ExtraTurn}turno extra{/g} a un alleato casuale (escluso l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}) entro un raggio di 4 caselle. Poi tutti gli accumuli vengono rimossi.
+
+### u003072
+Added Stimulus
+
+### u003073
+Lo sciame di servoteschi ottiene +20 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+Ogni volta che lo sciame di servoteschi {g|f:d68b6efac32b4db7afaf7de694eab819}extrapolates{/g} l'{g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}, ottiene +1 accumulo di {g|f:731a8efa918847c0828cb53018147a23}added stimulus{/g}. A 5 accumuli, concede un {g|Encyclopedia:ExtraTurn}turno extra{/g} all'alleato più vicino (escluso l'Overseer). Poi tutti gli accumuli vengono rimossi.
+
+### u003074
+Stimulation Protocol
+
+### u003075
+L'aquila cibernetica ottiene +20 di {g|Encyclopedia:WarhammerPerception}Perception{/g} e infligge +300% di danni.
+I suoi {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} contro i bersagli in {g|Encyclopedia:BleedingEffect}sanguinamento{/g} aumentano di +25%. Quando il {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} termina, l'aquila cibernetica attacca il nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g}. Questo attacco ha i seguenti possibili effetti:
+-<indent=5%>Se il nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} ha il 100% delle {g|Encyclopedia:HitPoints}ferite{/g} prima di quell'attacco, deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} oppure subire {unit_stat|WarhammerPerception|bonus} livelli di sanguinamento.</indent>
+-<indent=5%>Se il nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} ha il 50% o meno delle ferite prima di quell'attacco, l'attacco ottiene +50% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico.</indent>
+-<indent=5%>Se il nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} è stato colpito dall'Overseer in questo round, l'attacco dell'aquila cibernetica ottiene +20% di danni critici.</indent>
+
+### u003076
+Blood Feast
+
+### u003077
+L'aquila cibernetica ottiene +25 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} e infligge +200% di danni.
+
+### u003078
+Sky Hunter Mk I
+
+### u003079
+Il mastino cibernetico ottiene +15 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerStrength}Strength{/g}. Le sue {g|Encyclopedia:MaxWounds}ferite massime{/g} aumentano di +25% e infligge +250% di danni in più.
+
+### u003080
+Steel Predator Mk I
+
+### u003081
+Il corvo psibernetico ottiene +30 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g} e +75% di {g|Encyclopedia:MaxWounds}ferite massime{/g}.
+
+### u003082
+Black Omen Mk I
+
+### u003083
+Lo sciame di servoteschi ottiene +15 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}. I danni in arrivo sono ridotti di −15%.
+
+### u003084
+Modulo di calcolo FI-DR-Alpha
+
+### u003085
+L'aquila cibernetica ottiene +35 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} e infligge +350% di danni.
+
+### u003086
+Sky Hunter Mk II
+
+### u003087
+Il mastino cibernetico ottiene +25 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerStrength}Strength{/g}. Le sue {g|Encyclopedia:MaxWounds}ferite massime{/g} aumentano di +75% e infligge +300% di danni in più.
+
+### u003088
+Steel Predator Mk II
+
+### u003089
+Il corvo psibernetico ottiene +35 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g} e +100% di {g|Encyclopedia:MaxWounds}ferite massime{/g}.
+
+### u003090
+Black Omen Mk II
+
+### u003091
+Lo sciame di servoteschi ottiene +30 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}. I danni in arrivo sono ridotti di −30%.
+
+### u003092
+Modulo di calcolo FI-DR-Beta
+
+### u003093
+<u>(3 × grado {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u003094
+Il mastino cibernetico ottiene +15 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerStrength}Strength{/g} e infligge +150% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+Gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} del mastino cibernetico contro il bersaglio {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g} annullano sempre il movimento del bersaglio.
+La {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} contro il bersaglio {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g} aumenta di +{uip|Crit|2cf043106e4e42a6b5c1b49ac70f760a}%.
+
+### u003095
+Living Snare
+
+### u003096
+<u>(4 × bonus di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>
+
+### u003097
+L'aquila cibernetica ottiene +10 di {g|Encyclopedia:WarhammerPerception}Perception{/g} e infligge +150% di danni in più. Ottiene +{uip|Dodge|cdd71475a76f46adb072f009748e5c1a}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} del nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g}.
+Se l'aquila cibernetica schiva l'attacco in mischia del nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g}, quel nemico {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} immediatamente un suo alleato adiacente a caso con l'attacco di minor costo in {g|Encyclopedia:ActionPoints}PA{/g}, mettendo a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} garantito.
+
+### u003098
+Claustrophobia
+
+### u003099
+Il mastino cibernetico ottiene +10 di {g|Encyclopedia:WarhammerStrength}Strength{/g} e infligge +100% di danni in più.
+Se alla fine del {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} il mastino cibernetico è adiacente a un nemico, l'Overseer ottiene +1 di {g|Encyclopedia:Resolve}determinazione{/g} fino alla fine del combattimento. Se l'Overseer ha {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Adherent, ottiene anche un bonus di +2 a una caratteristica casuale. Cumulabile.
+
+### u003100
+Domination and Elimination
+
+### u003101
+Il corvo psibernetico ottiene +10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+Se il corvo psibernetico è adiacente a 2 o più creature dopo che su di esso è stato usato {g|f:5f6ef4bf13754f7285ac540bfd2ee80f}Relocate{/g}, i {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} trasmessi tramite questo corvo psibernetico vengono calcolati come se il {g|Encyclopedia:PsyRating}livello psichico{/g} fosse aumentato di +1 fino alla fine del {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}.
+Se l'Overseer ha {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Adherent, può usare {g|f:5f6ef4bf13754f7285ac540bfd2ee80f}Relocate{/g} due volte per turno.
+
+### u003102
+Synergy
+
+### u003103
+Il mastino cibernetico ottiene +10 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e infligge +75% di danni in più.
+
+### u003104
+Combat Algorithms
+
+### u003105
+L'aquila cibernetica ottiene +5 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} e infligge +100% di danni in più.
+Quando l'aquila cibernetica inizia a {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, i nemici adiacenti devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con un bonus di +20, altrimenti subiscono +1 accumulo di {g|Encyclopedia:PerplexedEffect}confuso{/g}.
+L'aquila cibernetica infligge +100% di danni in più ai bersagli confusi.
+
+### u003106
+Winged Delusion
+
+### u003107
+Il mastino cibernetico ottiene +5 di {g|Encyclopedia:WarhammerStrength}Strength{/g} e {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e infligge +100% di danni in più.
+Ogni volta che il mastino cibernetico cade {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g}, ottiene un bonus cumulabile di +100% ai danni inflitti fino alla fine del combattimento.
+
+### u003108
+Death Grip
+
+### u003109
+Lo sciame di servoteschi ottiene +5 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+Finché è attivo un qualsiasi effetto signal, lo sciame di servoteschi ottiene +{uip|Deflection|eb8d903b792a4ea5bf1874da3b29142c} di {g|Encyclopedia:Deflection}deviazione{/g}, non può essere sovrapenetrato e conta come {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} parziale per i suoi alleati.
+
+### u003110
+Inanimate Shield
+
+### u003111
+L'aquila cibernetica ottiene +20 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} e infligge +400% di danni.
+Ogni volta che l'attacco dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, l'aquila cibernetica mette a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} contro il nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} e ne riduce la Perception di −{uip|Debuff|d1aa3f6ae4a542f693759c53bebd9692} fino alla fine del {g|Encyclopedia:Round}round{/g}. Questa penalità non si cumula.
+Ogni volta che l'aquila cibernetica inizia a {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, i nemici adiacenti perdono tutte le {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} e restano {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} per 1 round.
+
+### u003112
+Falconry
+
+### u003113
+L'aquila cibernetica ottiene +15 di {g|Encyclopedia:WarhammerPerception}Perception{/g} e +{uip|Crit|f4beea717feb4fa3b3293f258c516502}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}. Infligge inoltre +150% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+
+### u003114
+Eye of the Righteous
+
+### u003115
+L'aquila cibernetica ottiene +15 di {g|Encyclopedia:WarhammerPerception}Perception{/g} e infligge +150% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+
+### u003116
+Enhanced Optics
+
+### u003117
+Lo sciame di servoteschi ottiene +20 di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+All'inizio del {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}, gli alleati in un raggio di 4 caselle attorno allo sciame di servoteschi vedono il proprio livello di {g|Encyclopedia:BurningEffect}In fiamme{/g}, {g|Encyclopedia:ToxinEffect}Tossina{/g} e {g|Encyclopedia:BleedingEffect}Sanguinamento{/g} ridotto di −{unit_stat|WarhammerFellowship|bonus}.
+Alla fine del turno dell'Overseer, il suo sciame di servoteschi esplode, riproducendo gli effetti di una {g|f:088ba04da57c434b86b65eb603d52608}fire grenade{/g}.
+
+### u003118
+Thermodynamic Protocol
+
+### u003119
+<u>(bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} / 2)</u>
+
+### u003120
+L'aquila cibernetica ottiene +20 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} e infligge +250% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+Ogni volta che il nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g} da un qualsiasi attacco (esclusi quelli dell'aquila cibernetica) per le prime {uip|Count|a2d3b06bb12c4fa9ab73a1273eb4c3d0} volte in un {g|Encyclopedia:Round}round{/g}, l'aquila cibernetica attacca a sua volta quel nemico, infliggendo +100% di danni in più. Se questo attacco colpisce, il nemico diventa {g|Encyclopedia:StaggeredEffect}barcollante{/g}.
+
+### u003121
+Targeted Harassment
+
+### u003122
+<u>(2 × bonus di {g|Encyclopedia:WarhammerStrength}STR{/g})</u>
+
+### u003123
+Il mastino cibernetico infligge +150% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+Ogni volta che l'alleato {g|f:7d75105e9e224ceab784932c12a26757}protected{/g} del mastino cibernetico {g|Encyclopedia:DodgeGlossary}schiva{/g} o {g|Encyclopedia:Parry}para{/g} un attacco, il mastino cibernetico ottiene +{uip|THP|69f357995ff74dc0bd37ea1657a919c7} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} e infligge +{uip|Damage|69f357995ff74dc0bd37ea1657a919c7}% di danni in più per 1 {g|Encyclopedia:Round}round{/g}. Non si cumula.
+{g|f:78e7771b7c974111887e762d5e999a11}Protect!{/g} può essere usata più volte per {g|Encyclopedia:Turn}turno{/g}, ma ogni uso successivo nello stesso round ne aumenta il costo di +1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u003124
+Protective Instinct
+
+### u003125
+<u>(5 × grado {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u003126
+Lo sciame di servoteschi ottiene +15 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, +{uip|Dodge|20f00bda7d544f34b361e3015afdde4a}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} e +{uip|Deflection|20f00bda7d544f34b361e3015afdde4a} di {g|Encyclopedia:Deflection}deviazione{/g}.
+Lo sciame di servoteschi diventa il {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} per i nemici in un raggio di 4 caselle. Ogni volta che viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g}, i danni in arrivo sono ridotti di −{unit_stat|WarhammerFellowship|bonus} e la sua {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} aumenta di +{uip|Armour|20f00bda7d544f34b361e3015afdde4a}%. Dura fino alla fine del {g|Encyclopedia:Round}round{/g}. Cumulabile.
+
+### u003127
+Fortification Protocol
+
+### u003128
+<u>(3 × (bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g}))</u>
+
+### u003129
+Lo sciame di servoteschi ottiene +10 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+Quando le {g|Encyclopedia:HitPoints}ferite{/g} dello sciame di servoteschi scendono a 0, questo infligge {uip|Damage|c1c33574340f43979a8ecab4c8af708e} {g|Encyclopedia:ShockDamage}danni da shock{/g} con 50% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} a ogni nemico in un raggio di 4 caselle.
+
+### u003130
+Self-Destruct Algorithm
+
+### u003131
+<u>({g|Encyclopedia:WarhammerIntelligence}INT{/g} / 3)</u>
+
+### u003132
+<u>({g|Encyclopedia:WarhammerFellowship}FEL{/g} / 3)</u>
+
+### u003133
+Ogni volta che un'{g|Encyclopedia:Ability}abilità{/g} {g|f:215d9f42b7e6435e9ed77337156e0fc3}extrapolated{/g} tramite lo sciame di servoteschi colpisce altre creature, lo sciame di servoteschi ottiene un bonus cumulabile di +5 a {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} e {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} fino alla fine del {g|Encyclopedia:Turn}turno{/g} successivo dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}.
+Se l'Overseer ha {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} — Adherent, quando lo sciame di servoteschi ha {g|f:215d9f42b7e6435e9ed77337156e0fc3}extrapolated{/g} 5 abilità in totale, infligge immediatamente {uip|DMG|69fd340db26640ceaf4d43ce7de18680} {g|Encyclopedia:ShockDamage}danni da shock{/g} con {uip|PEN|69fd340db26640ceaf4d43ce7de18680}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} a ogni nemico in un raggio di 4 caselle. Poi il contatore delle abilità viene azzerato.
+
+### u003134
+Analytics Module
+
+### u003135
+Lo sciame di servoteschi ottiene +25 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+Nel calcolo degli effetti delle {g|Encyclopedia:Ability}abilità{/g} signal, le {g|Encyclopedia:Characteristic}caratteristiche{/g} dello sciame di servoteschi sono considerate aumentate di +30.
+
+### u003136
+Enhanced Radio Signal
+
+### u003137
+L'aquila cibernetica ottiene +30 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} e infligge +300% di danni.
+Ogni volta che l'aquila cibernetica infligge danni a un bersaglio affetto da {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}In fiamme{/g} o {g|Encyclopedia:ToxinEffect}tossina{/g}, quel bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} oppure subire +1 accumulo di {g|Encyclopedia:PerplexedEffect}confuso{/g}.
+
+### u003138
+Scourge of the Feeble
+
+### u003139
+<u>(2 × bonus di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>
+
+### u003140
+L'aquila cibernetica ottiene +10 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} e infligge +150% di danni in più.
+Finché l'aquila cibernetica è in stato {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} ottiene +{uip|Chance|e6e323339782401881d5bae55641bf03}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} per gli attacchi a distanza.
+I danni critici inflitti al nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} aumentano di +{uip|Damage|e6e323339782401881d5bae55641bf03}%. Inoltre, un nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} infligge −{uip|Resist|e6e323339782401881d5bae55641bf03}% di danni in meno.
+
+### u003141
+Air Support
+
+### u003142
+Il mastino cibernetico ottiene +25 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}. Le sue {g|Encyclopedia:MaxWounds}ferite massime{/g} aumentano di +50% e infligge +300% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+Finché è in {g|f:11251c47c7b14a87824cffe48ea6374d}battle mode: standby{/g}, la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} del mastino cibernetico aumenta di +{uip|Critchance|0428b4d435254ec4af3db36b75bfd64c}%, e i suoi {g|Encyclopedia:HitSequenceGlossary}colpi{/g} critici infliggono {unit_stat|WarhammerStrength|bonus} livelli di {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+
+### u003143
+Bloodlust
+
+### u003144
+<u>(5 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u003145
+<u>(bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} / 2)</u>
+
+### u003146
+Il mastino cibernetico ottiene +20 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerStrength}Strength{/g}. Le sue {g|Encyclopedia:MaxWounds}ferite massime{/g} aumentano di +50% e infligge +300% di danni in più.
+Il mastino cibernetico {g|f:e16934c3dbf44cb997c684a6ddce7575}apprehending{/g} attacca il bersaglio {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g} ogni volta che un alleato (diverso dall'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}) lo attacca con successo per le prime {uip|Count|a07bc75d755f4a7cab924d138fa23298} volte in un round.
+Ogni volta che il mastino cibernetico uccide un nemico per la prima volta in un {g|Encyclopedia:Round}round{/g}, recupera il 20% delle proprie {g|Encyclopedia:HitPoints}ferite{/g} massime.
+
+### u003147
+Pack Hunting
+
+### u003148
+<u>(5 × bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u003149
+Il mastino cibernetico infligge +300% di {g|Encyclopedia:DamageGlossary}danni{/g} in più e ottiene +{uip|Chance|4c57dca794ad4f6a93959ab85fe0e680}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+I nemici {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g} non possono {g|Encyclopedia:DodgeGlossary}schivare{/g} gli attacchi del mastino cibernetico. I suoi {g|Encyclopedia:HitSequenceGlossary}colpi{/g} critici li scagliano {g|Encyclopedia:ProneEffect}a terra{/g}.
+
+### u003150
+Merciless Onslaught
+
+### u003151
+<u>(2 × grado {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u003152
+Ogni volta che il corvo psibernetico {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relays{/g} uno dei {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} non offensivi dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}, ottiene +5 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e +{uip|AGI|34b85b2841514256aac25560b25da4cc} di {g|Encyclopedia:WarhammerAgility}Agility{/g} per 1 {g|Encyclopedia:Round}round{/g}. Cumulabile.
+Se alla fine del {g|Encyclopedia:Turn}turno{/g} dell'Overseer la Willpower del corvo psibernetico è 80 o più, questo guarisce immediatamente del tutto. Se ha già tutte le {g|Encyclopedia:HitPoints}ferite{/g}, concede +1 di {g|Encyclopedia:Resolve}determinazione{/g} a ogni alleato in un raggio di 4 caselle.
+
+### u003153
+Life Emanations
+
+### u003154
+Il corvo psibernetico ottiene +25 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+All'inizio del {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}, i nemici in un raggio di 4 caselle attorno al corvo psibernetico si spostano immediatamente di 1 casella verso di esso e devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Willpower con un bonus di +20 oppure diventare {g|Encyclopedia:StaggeredEffect}barcollanti{/g}.
+
+### u003155
+Step into the Abyss
+
+### u003156
+Il corvo psibernetico ottiene +15 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+I nemici colpiti da un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} oppure diventare {g|Encyclopedia:SlowedEffect}rallentati{/g}.
+Se il nemico è già rallentato, deve superare una {g|Encyclopedia:Test}prova{/g} di resistenza di Agility con un bonus di +20 oppure diventare {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}. I bersagli immuni a immobilizzato subiscono {g|Encyclopedia:WarpDamage}danni warp{/g} pari al <u>5% delle {g|Encyclopedia:MaxWounds}ferite massime{/g}</u>.
+
+### u003157
+Immaterium Shroud
+
+### u003158
+<u>(2 × bonus di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g})</u>
+
+### u003159
+<u>(2 × grado {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u003160
+Il mastino cibernetico ottiene +10 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e infligge +100% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+Quando il mastino cibernetico {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} il nemico {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g}, ottiene un {g|Encyclopedia:Bonus}bonus{/g} cumulabile di +{uip|STR|cfced9bbf78741568fc1d5eb5f55c219} a {g|Encyclopedia:WarhammerStrength}Strength{/g} e un bonus cumulabile di +{uip|TGH|cfced9bbf78741568fc1d5eb5f55c219} a {g|Encyclopedia:WarhammerToughness}Toughness{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u003161
+Wrath of the Meek
+
+### u003162
+Il mastino cibernetico ottiene +10 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e infligge +100% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+Quando il mastino cibernetico {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} il nemico {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g}, ottiene un {g|Encyclopedia:Bonus}bonus{/g} cumulabile di +{uip|STR|5346c7803ffe4101b9b901ac7623a42c} a {g|Encyclopedia:WarhammerStrength}Strength{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u003163
+Indomitable Rage
+
+### u003164
+Lo sciame di servoteschi ottiene +20 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}.
+Lo sciame di servoteschi può mantenere più effetti signal contemporaneamente.
+
+### u003165
+Phasing Radiation
+
+### u003166
+Lo sciame di servoteschi ottiene +10 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}.
+All'inizio del {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}, i nemici adiacenti allo sciame di servoteschi devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con un bonus di +20 oppure subire +1 accumulo di {g|Encyclopedia:PerplexedEffect}confuso{/g}. La {g|Encyclopedia:Deflection}deviazione{/g} dello sciame di servoteschi aumenta di +1 per ogni nemico confuso in un raggio di 4 caselle.
+
+### u003167
+Dangerous Neighbourhood
+
+### u003168
+Questo servoteschio è progettato per diffondere la gloria e lo splendore del suo potente padrone.
+
+### u003169
+Servoteschio Araldo
+
+### u003170
+L'aquila cibernetica ottiene +10 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e infligge +100% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+Ogni volta che {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco nemico, il {g|Encyclopedia:BlockChance}blocco{/g}, la schivata e la {g|Encyclopedia:Parry}parata{/g} di quel nemico sono ridotti di −10%. Se l'Overseer ha {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Adherent, quel nemico subisce un'ulteriore penalità di −5 a tutte le caratteristiche. Dura fino alla fine del combattimento. Cumulabile.
+
+### u003171
+Steel Talons
+
+### u003172
+L'aquila cibernetica ottiene +20 di {g|Encyclopedia:WarhammerAgility}Agility{/g}, infligge +300% di {g|Encyclopedia:DamageGlossary}danni{/g} e mette a segno {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g} garantiti contro i bersagli {g|Encyclopedia:ProneEffect}a terra{/g}.
+Quando l'aquila cibernetica inizia a {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, i nemici adiacenti devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con un {g|Encyclopedia:Bonus}bonus{/g} di +20 oppure venire scagliati a terra.
+
+### u003173
+Hurricane Squall
+
+### u003174
+<u>(bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} × grado {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u003175
+Il corvo psibernetico ottiene +20 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e +50% di {g|Encyclopedia:MaxWounds}ferite massime{/g}. Ogni volta che {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relays{/g} un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g}, ottiene {uip|THP|08a0dd40cf694dd9a7f32c9b0f6a9e65} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+
+### u003176
+Telaio warp-conduttivo
+
+### u003177
+Il corvo psibernetico ottiene +20 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e +50% di {g|Encyclopedia:MaxWounds}ferite massime{/g}.
+
+### u003178
+Telaio psiconduttivo
+
+### u003179
+Se il mastino cibernetico sta:
+-<indent=5%>...{g|f:e16934c3dbf44cb997c684a6ddce7575}apprehending{/g}, recupera il 50% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g}.</indent>
+-<indent=5%>...{g|f:a63088cd6402424b8ec0c508e5143083}protecting{/g}, l'alleato {g|f:7d75105e9e224ceab784932c12a26757}protected{/g} ottiene {uip|THP|6087d39917384fea9ad6ffc479bacc92} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.</indent>
+-<indent=5%>...in {g|f:11251c47c7b14a87824cffe48ea6374d}battle mode: standby{/g}, il suo prossimo attacco mette a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} garantito.</indent>
+Poi il mastino cibernetico si sposta in una casella adiacente al proprio {g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} e inizia a {g|f:7e87f215637d45dfb80d7291177ed6c8}waiting{/g}.
+
+### u003180
+Heel!
+
+### u003181
+<u>(3 × bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} del famiglio)</u>
+
+### u003182
+Il mastino cibernetico ottiene +25 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerStrength}Strength{/g} e infligge +400% di danni in più.
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:6087d39917384fea9ad6ffc479bacc92}Heel!{/g}.
+
+### u003183
+Protocollo "Heel!"
+
+### u003184
+Il prossimo attacco di questo mastino cibernetico mette a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} garantito.
+
+### u003185
+Il corvo psibernetico ottiene +30 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+Finché si trovano in un raggio di 4 caselle attorno al corvo psibernetico, i {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} offensivi {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} infliggono +{uip|Damage|de0326772ec8408d8b8e1614cec43697}% di danni in più e non contano ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g}. Ma ogni volta che il corvo psibernetico {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relays{/g} un potere psichico offensivo, l'Overseer subisce danni pari al 10% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g}. Inoltre, in quest'area l'Overseer è {g|Encyclopedia:SlowedEffect}rallentato{/g} e non può {g|Encyclopedia:DodgeGlossary}schivare{/g} gli attacchi.
+
+### u003186
+Blessing of the Immaterium
+
+### u003187
+Il corvo psibernetico ottiene +40 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+Ogni volta che {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relays{/g} un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g}, l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} ottiene +{uip|MP|4c948aef7d49439dab9a3cb033b991d7} {g|Encyclopedia:MovementPoints}PM{/g}. Ogni volta che viene {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} un potere psichico offensivo, i danni del successivo potere psichico offensivo {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} aumentano di +{uip|Damage|4c948aef7d49439dab9a3cb033b991d7}%.
+
+### u003188
+Ether Wind
+
+### u003189
+Il corvo psibernetico ottiene +30 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+All'inizio del combattimento, il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} aumenta di +5.
+Finché il degrado del Velo è 10 o più, il corvo psibernetico non subisce {g|Encyclopedia:DamageGlossary}danni{/g} e qualsiasi {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relayed{/g} infligge ai nemici colpiti {uip|Damage|cedb3ce1e67344f9bfe120ed3b81aae3} {g|Encyclopedia:WarpDamage}danni warp{/g} aggiuntivi.
+
+### u003190
+Grave Chill
+
+### u003191
+Marchio del Sovrano
+
+### u003192
+Gli attacchi di questa pistola infliggono l'effetto {g|Encyclopedia:MeltingEffect}In fusione{/g}.
+<indent=5%>+5 di {g|Encyclopedia:SkillPersuasion}Persuasion{/g}</indent>
+
+### u003193
+Pistola del negoziatore
+
+### u003194
+Chi lo indossa riceve −5 di {g|Encyclopedia:DamageGlossary}danni{/g} in meno dai {g|Encyclopedia:HitSequenceGlossary}colpi{/g} critici.
+Chi lo indossa ottiene +10 di {g|Encyclopedia:SkillCoercion}Coercion{/g}.
+
+### u003195
+Mantello di xenopelle
+
+### u003196
+Ogni seconda volta che si usa il {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} unico di un bastone da psyker, questo infligge +{uip|Damage|b5ce0059e2f74fe8ac938a92125ac344} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u003197
+Condotto abissale
+
+### u003198
+Gli alleati bersaglio delle {g|Encyclopedia:Ability}abilità{/g} di chi li indossa ottengono +20% della {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} di chi li indossa e +30% dei suoi {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+Se quell'alleato mette a segno un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico prima dell'inizio del {g|Encyclopedia:Turn}turno{/g} successivo di chi li indossa, il prossimo attacco di chi li indossa è sempre un colpo critico.
+
+### u003199
+Guanti Abyss Spinner
+
+### u003200
+Aumenta di 10 la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} di chi li indossa e del 10% la sua {g|Encyclopedia:Parry}parata{/g}.
+
+### u003201
+Guanti adattivi
+
+### u003202
+Concede a chi li indossa +10 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e +5 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u003203
+Guanti con augmetiche
+
+### u003204
+Guanti d'arme del vendicatore
+
+### u003205
+Tutti gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} infliggono +{unit_stat|WarhammerAgility|bonus} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u003206
+I {g|Encyclopedia:DamageGlossary}danni{/g} di chi li indossa aumentano di +1% per ogni 2% di {g|Encyclopedia:HitPoints}ferite{/g} perso.
+
+### u003207
+Guanti Tear-Blade
+
+### u003208
+Aumenta di +1 la {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} dell'arma di chi li indossa. Ogni volta che un nemico viene ucciso, {g|Encyclopedia:PerplexedEffect}confuso{/g} viene inflitto a tutti gli altri nemici in un raggio di 2 caselle.
+
+### u003209
+Guanti della rapida desolazione
+
+### u003210
+Ogni volta che chi li indossa esegue un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} contro un nemico, quell'attacco infligge +1 accumulo dell'effetto black hunt.
+Se un nemico ha almeno 1 accumulo di black hunt, ogni attacco di un alleato contro quel nemico infligge 1 accumulo in più di black hunt.
+Ogni accumulo di black hunt concede +1% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico e +1% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} a tutti gli attacchi contro quella creatura.
+
+### u003211
+Artigli della caccia nera
+
+### u003212
+<u>({g|Encyclopedia:WarhammerBallisticSkill}BS{/g} / 2)</u>
+
+### u003213
+Chi li indossa ignora il {g|Encyclopedia:Recoil}rinculo{/g} dell'arma quando esegue attacchi a distanza in {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}. La {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} dell'arma di chi li indossa aumenta di +{uip|RoF|6b05d079fd9548d9b504205aef4f2362}%. La cadenza di fuoco viene arrotondata per difetto all'intero più vicino.
+
+### u003214
+Guanti compensatori
+
+### u003215
+Ogni volta che chi li indossa infligge {g|Encyclopedia:DamageGlossary}danni{/g} a un nemico con un'arma pesante, quel nemico subisce +1 accumulo di {g|Encyclopedia:PerplexedEffect}confuso{/g}.
+Se sul bersaglio ci sono già 3 o più accumuli di confuso, gli attacchi di chi li indossa infliggono anche {g|Encyclopedia:StaggeredEffect}barcollante{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u003216
+Guanti a piastre della Crociata
+
+### u003217
+I {g|Encyclopedia:DamageGlossary}danni{/g} di chi li indossa aumentano di +2% per ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico e per ogni nemico ucciso fino alla fine del combattimento.
+
+### u003218
+Guanti del seminatore di morte
+
+### u003219
+Chi li indossa ottiene +15 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+
+### u003220
+Guanti da tiratore scelto d'élite
+
+### u003221
+<u>(3 × bonus di {g|Encyclopedia:WarhammerStrength}STR{/g})</u>
+
+### u003222
+Ogni volta che chi li indossa {g|Encyclopedia:PushGlossary}spinge{/g} un nemico con un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, quel nemico subisce −{uip|Penalty|9098d7052be2442c999672a46b5d595e}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e di {g|Encyclopedia:DodgeGlossary}schivata{/g} fino al turno successivo di chi li indossa.
+Quel nemico deve inoltre superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Toughness con una penalità di −30 oppure diventare {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g} fino al turno successivo di chi li indossa.
+
+### u003223
+Guanti carapace leggeri da tutore dell'ordine
+
+### u003224
+Chi li indossa ottiene +10 di {g|Encyclopedia:WarhammerStrength}Strength{/g} e +5 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u003225
+Guanti esoscheletrici
+
+### u003226
+Chi li indossa ottiene +25 di {g|Encyclopedia:SkillDemolition}Demolition{/g} e +25 di {g|Encyclopedia:SkillTechUse}Tech-Use{/g}.
+

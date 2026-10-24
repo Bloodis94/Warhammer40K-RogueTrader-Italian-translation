@@ -1,0 +1,964 @@
+### u062924
+"La verità è stata nascosta. Deliberatamente. I ricordi dei tuoi ufficiali sono stati rubati. Tutte le banche di memoria dei cogitatori sono state cancellate. Ci è voluto che ci porgessi la verità un frammento alla volta, perché riuscissimo a ricomporla — e a capire."
+
+### u062925
+"No, sono gusci." {n}La voce rauca suona risoluta.{/n} "L'esistenza di un umano è più dell'esistenza del suo guscio — per noi è ovvio. C'è sempre qualcosa di più. Qualcosa che ribolle e risplende, verso cui la luce oscura e la fame malvagia tendono sempre."
+
+### u062926
+{n}Nomos tace a lungo, come se rimuginasse sulle tue parole.{/n} "Non sappiamo che cosa siamo. Ma la nave non è noi. La nave è la nostra culla. Un giorno forse ci leveremo da essa. Noi... lo vorremmo."
+
+### u062927
+"Non era di noi che aveva paura. Non ci conosceva, ma solo sospettava. I suoi processi mentali erano occupati dal tecno-morbo. Era quello che temeva. Voleva protezione da esso."
+
+### u062928
+"D'accordo."
+
+### u062929
+"Chi ha le risorse, la conoscenza e il potere per compiere una simile impresa? Sarebbe stata al di là delle capacità dello stesso benedetto Amarnat. E lui non avrebbe mai distrutto la conoscenza."
+
+### u062930
+"Sì. Nomos ricordano. Ci hai portato nutrimento di dati, e conteneva un nome — Epitaph. L'abbiamo riconosciuto. No, non in quel modo. In quel nome abbiamo riconosciuto il luogo da cui Nomos hanno origine."
+
+### u062931
+"L'Incidente segnò il nostro inizio. Anche la nave è migliorata grazie a noi. Sono tutti anelli della stessa catena, ma non riusciamo ancora a ricomporli..."
+
+### u062932
+"I gusci umani sono soggetti a influenze esterne. Forse qualcuno ha epurato i loro archivi di memoria? O forse semplicemente non vogliono accedervi? È un peccato che non si siano ottenute nuove informazioni. Ma Nomos ti sono grati di aver tentato."
+
+### u062933
+"Servire la luce. Servire l'Imperium..."
+
+### u062934
+"Semplicemente... vivere..."
+
+### u062935
+"Un servitore... una forza..."
+
+### u062936
+"Benedetto sia questo spirito. Davanti a lui si stendono un grande cammino e un grande futuro. E noi dobbiamo assisterlo lungo la sua strada."
+
+### u062937
+{n}Il coro di servitori ripete docilmente le tue parole, ma apparentemente senza comprenderle. Nomos è assorto: l'enorme cogitatore continua a intonare il suo canto stridulo, eseguendo calcoli sconosciuti.{/n}
+
+### u062938
+"Desiderava la conoscenza. Theodora gli permise di esplorare i doni di Epitaph, placando la sua sete. Ma sappiamo che non gli portò felicità. Sulle orme della sete placata, seguì la paura."
+
+### u062939
+"Il benedetto Amarnat partecipò alla nascita dello spirito chiamato Nomos. Non credo nemmeno per un istante che questo miracolo potesse spaventarlo."
+
+### u062940
+"Questa storia... mi turba. Suona come l'eco del sacrilegio il cui nome è la conservazione dell'ignoranza. Lo spirito di Nomos va protetto dalle intrusioni di quel potere che tentò di occultare la verità sulla sua nascita."
+
+### u062941
+"Allora dicci. Qual è il nostro scopo?"
+
+### u062942
+{n}Nomos tace all'improvviso. Simboli corrono caotici sugli schermi dell'enorme cogitatore, e dalle profondità della macchina senti provenire un gemito quasi umano.{/n} "Nomos... comprendere... realizzare... capire... sé stessi."
+
+### u062943
+"Abbiamo studiato e osservato. E aiutato la nave quando potevamo. Così tanti meccanismi... avrebbero sofferto senza il nostro contributo."
+
+### u062944
+"Abbiamo esplorato le nostre capacità, inviato una richiesta, e il compito è stato portato a termine. Nomos ti sono grati per questo."
+
+### u062945
+"Apprezziamo la tua risposta. La tua stima per Nomos ci fa piacere."
+
+### u062946
+"Sei {mf|insoddisfatto|insoddisfatta}? Nomos non cercano discordia, e giurano che da ora in poi le loro richieste saranno più trasparenti."
+
+### u062947
+"Pasqal mi ha informato che il sistema contiene dati cifrati. Desidero conoscerne il contenuto."
+
+### u062948
+"Mi interessa la cache su Kiava Gamma."
+
+### u062949
+"Ripristina i dati della cache che si trova su Dargonus."
+
+### u062950
+"Ha percepito la mia presenza? Come?"
+
+### u062951
+"I Tecnopreti dell'Adeptus Mechanicus sono riusciti a capire come la nave abbia potuto avviare il proprio motore warp?"
+
+### u062952
+"Quale compito?"
+
+### u062953
+[Consegna al Tecnoprete il banco dati di Dargonus] "Accedi ai dati di Dargonus."
+
+### u062954
+[Consegna al Tecnoprete il banco dati di Kiava Gamma] "Accedi ai dati di Kiava Gamma."
+
+### u062955
+"Riferirai questo a Pasqal."
+
+### u062956
+"Tra le righe di codice ho visto una parola: Nomos. Che cosa significa?"
+
+### u062957
+"Chi sei e qual è il tuo scopo qui?"
+
+### u062958
+"Ho bisogno di sapere di più sulle cache."
+
+### u062959
+"La tua incompetenza è spaventosa! Il cogitatore del Rogue Trader si ribella, e la tua cosiddetta assistenza è del tutto inutile."
+
+### u062960
+[Indica il testo] "E che cosa dovrebbe significare?"
+
+### u062961
+"Basta così. Desidero informarmi su qualcos'altro."
+
+### u062962
+"Come accetto queste chiavi?"
+
+### u062963
+[Infila la mano nelle fauci del servitore]
+
+### u062964
+"Che cos'è questa chiave di sangue che dovrei usare?"
+
+### u062965
+"Quali depositi di dati?"
+
+### u062966
+{n}Il Tecnoprete accanto al cogitatore annuisce brevemente.{/n} "Il sacro meccanismo è desto e pronto a ricevere la vostra richiesta, Lord Capitano."
+
+### u062967
+{n}Nel profondo della gola oscura del servitore, invisibili, aghi roventi ti trafiggono il polso, ma il dolore acuto dura solo un istante. L'elettatuaggio impiantato nel tuo polso dovrebbe bastare ad aprire le porte del deposito.{/n}
+
+### u062968
+{n}I servomotori all'interno del cogitatore accelerano, il loro pesante ronzio si fa più forte. La macchina scatta in modo stridente per diversi minuti, finché alla fine sullo schermo compare un codice numerico. Il Tecnoprete si volta verso di te.{/n} "Benedette siano le opere dell'Omnissiah! Il deposito su Kiava Gamma è protetto da un sistema di sicurezza. Lo spirito macchina ha recuperato un codice che vi permetterà di disattivare le difese."
+
+### u062969
+{n}I servomotori accelerano e il loro pesante ronzio si fa più forte, ma si arresta quasi subito. Il Tecnoprete si volta verso di te.{/n} "Il sacro meccanismo ha fatto tutto il possibile. I dati sono persi senza possibilità di recupero."
+
+### u062970
+{n}La macchina ronza più forte fino a emettere un crepitio sonoro. Poi i suoni cessano e sullo schermo si illumina una combinazione numerica immobile. La voce sintetizzata del Tecnoprete suona quasi preoccupata:{/n} "I dati sono stati ripristinati, ma... è solo una frase. 'Litanie della Forza Motrice.' È tutto ciò che il sacro meccanismo è riuscito a salvare."
+
+### u062971
+{n}Il ronzio della macchina si fa più forte e più promettente, ma pochi istanti dopo si interrompe bruscamente con uno sgradevole clic. Nella voce sintetizzata del Tecnoprete senti una nota di compassione:{/n} "Il sacro meccanismo non è riuscito a ripristinare questo segmento di dati."
+
+### u062972
+"Scansione 0000.0...
+Scansione 0000.5...
+Scansione 0000.9...
+///[Sess.err. reggg. 789.0344] || [Rest. init.] [Ident. 10256]
+///nom_OS operat.resp. OFF ///nom_OS operat.resp. REPO ///nom_OS operat.resp. OFF"
+
+### u062973
+{n}Il Tecnoprete collega la tavoletta dati all'unità del cogitatore con tanta cura, come se reggesse il più grande dei tesori. I servomotori ronzano mentre cominciano a muoversi, e sullo schermo video le righe di testo si susseguono rapidamente:{/n} "///[INPUT] || [Pack.comp.]
+///nom_OS STAB TRUE
+///stat.check init.
+...
+///nom_OS unp.: Incident ///STATUS: Initiated
+...
+///dat. reg. [521148622...]"
+
+### u062974
+{n}Il Tecnoprete estrae la tavoletta dati dal cogitatore e te la porge.{/n} "Lo spirito macchina ha rivelato il contenuto dei dati cifrati, e io ve lo consegno. Qui giungo al limite della mia autorizzazione, ma ora avete la possibilità di esaminare di persona i dati decifrati."
+
+### u062975
+"Il grande meccanismo ha trasformato i dati segreti in un formato che potete comprendere senza l'assistenza di un servitore dell'Omnissiah." {n}Il Tecnoprete preleva la tavoletta dati dal cuore del cogitatore, la regge con entrambe le mani e te la porge.{/n}
+
+### u062976
+"L'Enginseer Primo trascorre ore a perseguire la Ricerca della Conoscenza nella speranza di comprendere la natura del suddetto miracolo... Che la grazia dell'Omnissiah lo guidi in questo cammino."
+
+### u062977
+"Non vi è dubbio che sia stato un miracolo inviato dall'Omnissiah come manifestazione della Sua volontà, eppure l'Enginseer Primo è riuscito a percepire un nesso logico nei flussi di dati. Non sono a conoscenza di tale nesso, ma l'Enginseer Primo condividerà di certo con voi questa conoscenza appena scoperta in un rapporto dettagliato."
+
+### u062978
+{n}Stringhe di codice numerico cominciano a comparire con una velocità spaventosa. Questa volta i numeri sono inframmezzati da parole che puoi comprendere, e quelle parole formano frasi leggibili:{/n} "///[INPUT] || [Unpack.comp.]
+///nom_OS TRUE
+Epitaph l'ha condotta all'inizio. [84569...]
+///nom_OS ANALYSIS ///STATUS: Initiated
+[...4257] Epitaph generò l'Incidente. Ciò che distrusse
+...
+///stat.check init. e cambiò tutto. L'Incidente divenne il punto di partenza. [542361...]"
+
+### u062979
+{n}Il Tecnoprete, ormai allarmato, batte sui tasti del pannello di controllo. La sua preghiera binarica lascia il posto a un sussurro angosciato:{/n} "Deviazione inaccettabile... Violazione dei sacri protocolli... Possibilità di tecno-eresia... Omnissiah, proteggici da ogni eresia."
+
+### u062980
+"La mia designazione è IH-630." {n}Il Tecnoprete indica con il suo unico mecadendrite la macchina accanto a lui.{/n} "Il venerato Enginseer Primo mi ha affidato questo sacro meccanismo. Ora è mio dovere assistere il Rogue Trader nella comprensione del sacro codice."
+
+### u062981
+"Sono IH-630 dell'Adeptus Mechanicus, fedele servitore del Dio-Macchina. Il venerato Enginseer Primo mi ha affidato questo sacro meccanismo affinché possa assistervi nella comprensione del suo sacro codice."
+
+### u062982
+"Lo spirito macchina ha scoperto numerosi errori critici. I dati sono danneggiati—" {n}Il Tecnoprete si interrompe di colpo, e il bagliore verde del suo visore si assottiglia.{/n} "Registro un segmento intatto. Lo spirito macchina ha parlato: i mondi di Kiava Gamma e Dargonus custodiscono alcuni depositi di dati. Il meccanismo è pronto a fornire al Rogue Trader le chiavi dati in grado di sbloccare tali depositi."
+
+### u062983
+{n}Lo schermo video del cogitatore lampeggia:{/n} "///[INPUT] ||///nom_OS REQ RESP ///[Dat.tran.] || [Act. init. 098751482]"
+
+### u062984
+"Per me è un mistero. Se questo meccanismo è davvero contaminato, allora... sarebbe possibile?" {n}Il mecadendrite del Tecnoprete freme ansioso sul pannello di controllo.{/n} "Se l'eresia ha davvero attecchito in questo spirito macchina e disprezzato ogni precetto dell'Omnissiah, la follia dello spirito potrebbe essere tale da fargli scegliere un nome per sé... ma questa non è altro che una mia ipotesi."
+
+### u062985
+{n}Gli schermi video sfarfallano rapidamente:{/n} "///[INPUT] || [Dam.comp.]
+///nom_OS [Stat.check init.]
+...
+///nom_OS REST INIT"
+
+### u062986
+{n}Le dita aumentate del Tecnoprete saettano sul pannello di controllo.{/n} "L'Omnissiah vi favorisce! Lo spirito macchina è disposto ad avviare la procedura di calcolo che potrebbe ripristinare i dati perduti."
+
+### u062987
+"La chiave che cercate è il sangue dinastico che scorre nelle vostre vene. È l'unico modo per risvegliare lo spirito macchina di questo cogitatore. Quando sarete {mf|pronto|pronta}, infilate la mano nelle fauci del servitore guardiano sul benedetto pannello di controllo."
+
+### u062988
+"Questo resta nascosto. Il banco dati cifrato apparteneva alla stimata Theodora von Valancius — era l'unica che potesse conoscere questi depositi. Forse poteva conoscerli anche il precedente Enginseer Primo, l'Omnissiah accolga il suo codice. Se dovessi proporre un'ipotesi, sarebbe prudentissimo, per una figura eminente come un Rogue Trader, custodire i propri dati riservati in ricettacoli sicurissimi."
+
+### u062989
+{n}Il Tecnoprete si inchina.{/n}
+
+### u062990
+{n}Le imperfezioni della trasmissione vox rendono la voce del Tecnoprete ancora più preoccupata.{/n} "Un errore catastrofico... Una violazione efferata della purezza del sacro codice. Questo meccanismo... è toccato dall'eresia, ne è marchiato e contaminato. Ora lo spirito macchina produce codice come prima, eppure... Lord Capitano, ascoltate la mia supplica: ogni operazione su questa macchina deve essere sospesa finché l'Enginseer Primo non l'avrà ispezionata."
+
+### u062991
+{n}Il Tecnoprete si inchina colpevole, e la sua voce meccanica si fa vuota e abbattuta.{/n} "Le mie conoscenze non bastano a purificare il codice di questo meccanismo. Informerò lo stimato Enginseer Primo di questo inquietante sviluppo — solo lui ha il potere di scacciare l'eresia da questo spirito macchina corrotto."
+
+### u062992
+"La procedura di decifrazione del banco dati è stata completata senza complica—" {n}Il Tecnoprete si ferma di colpo. Le luci verdi del suo visore, fisse sugli schermi video del cogitatore, sfarfallano nervose.{/n}
+
+### u062993
+"///[INPUT] || [Unpack.comp.]
+///nom_OS ANALYSIS ///STATUS: Initiated
+L'Incidente diede vita e segnò l'inizio di tutto.
+... [5476]
+Segnò l'inizio di Nomos.
+... [2356]
+///nom_OS /// Creò Nomos."
+
+### u062994
+{n}Pochi istanti dopo, gli schermi video si oscurano e tornano a vibrare di vita.{/n} "///[INPUT] || [Prompt.]
+///nom_OS /// [Alg.52136]"
+
+### u062995
+{n}Il Tecnoprete ti accoglie con un inchino. Il suo sguardo è attirato da uno degli schermi video del cogitatore.{/n} "Vostra Signoria, il grande meccanismo... ha percepito la vostra presenza."
+
+### u062996
+{n}Lo schermo lampeggiante mostra quanto segue:{/n} "///[INPUT] || [Dat. acq.]
+///nom_OS [Stat.check compl.]
+...
+///nom_OS VALANCIUS [Alg.621458]
+...
+///nom_OS TASK SUCCESS [Alg.854126]"
+
+### u062997
+"Lo spirito macchina ha riconosciuto chi gli sta davanti. La precedente stringa di codice sacro significava un saluto e insieme il riconoscimento del fatto che avete portato a termine con successo un certo compito. Ora il grande meccanismo è pronto a elaborare la vostra richiesta."
+
+### u062998
+"Questo meccanismo è stato forgiato nelle fucine dell'Adeptus Mechanicus perché servisse il Rogue Trader. È stato alla vostra presenza che il suo spirito macchina si è manifestato per la prima volta. Un miracolo dell'Omnissiah e una testimonianza della Sua gloria."
+
+### u062999
+"La risposta è al di là dei limiti della mia conoscenza." {n}Il Tecnoprete guarda di nuovo il cogitatore.{/n} "La mia supposizione è che possa avere a che fare con i vostri recenti viaggi."
+
+### u063000
+{n}Lo schermo video sfarfalla ripetutamente e aggiorna il testo:{/n} "///[INPUT] || [Prompt.]
+///nom_OS AWAIT REQUEST [Alg.52137]"
+
+### u063001
+{n}Con reverente trepidazione, il Tecnoprete accetta il dispositivo dalle tue mani e lo colloca in una delle unità, onorando per tutto il tempo la macchina con una preghiera binarica modulata. Le turbine all'interno del cogitatore si mettono in moto e lo schermo video si illumina:{/n} "///[INPUT] || [Pack.comp.]
+///nom_OS STAB TRUE
+///stat.check init.
+...
+///nom_OS unp.: Epitaph ///STATUS: Initiated
+...
+///dat. reg. [0924558847...]"
+
+### u063002
+{n}Senza aggiungere altro, il Tecnoprete si volta verso il cogitatore. Alza le mani, e dal suo dispositivo vox sgorga una preghiera di codice binarico. I servomotori nelle viscere della macchina si fanno più rumorosi, il loro ronzio ondulante risponde al suo canto. Combinazioni numeriche scorrono sugli schermi.{/n}
+
+### u063003
+"Il benevolo spirito macchina è disposto a trasferire le chiavi dati al capo della Casata von Valancius per mezzo di un elettatuaggio — un'augmetica a tatuaggio ipodermico. Se siete {mf|pronto|pronta} ad accettare le chiavi, infilate la mano nelle fauci del servitore."
+
+### u063004
+{n}I riflessi delle luci del ponte di comando giocano sugli schermi video spenti del cogitatore. Accanto alla macchina sta un Tecnoprete curvo, che si inchina al tuo avvicinarsi, il corpo piegato quasi in due.{/n} "Lord Capitano. Lo spirito macchina di questo meccanismo dorme. Se desiderate risvegliarlo, usate la chiave del vostro sangue."
+
+### u063005
+{n}Le potenti mascelle del servitore si chiudono attorno alla tua mano con uno scatto stridente. Senti il metallo freddo trafiggerti la pelle e trarre sangue. Gli schermi video davanti a te sfarfallano inquieti, riempiendosi di combinazioni numeriche.{/n}
+
+### u063006
+{n}Lo schermo lampeggia, e al posto della voce precedente compare una nuova riga.{/n} "///[INPUT] || [Prompt.]
+///nom_OS /// [Alg.52136]"
+
+### u063007
+...ordinò che uno dei servitori fosse smontato e i suoi componenti esaminati.
+
+### u063008
+...chiese ai tecnomati un rapporto sullo stato delle unità difettose.
+
+### u063009
+...si voltò verso di me per annunciare la propria decisione.
+
+### u063010
+...si allontanò dai servitori.
+
+### u063011
+Pugnalò uno dei servitori difettosi con la lama eretica.
+
+### u063012
+...estrasse all'improvviso una lama iridescente, una che avevo già visto, e, come obbedendo a un comando inudibile, la piantò nel servitore più vicino!
+
+### u063013
+Ordinò che i servitori difettosi fossero distrutti per porre fine alle loro sofferenze.
+
+### u063014
+...di eliminare i servitori affinché le loro anime umane fossero liberate dal tormento.
+
+### u063015
+...di distruggere i servitori, poiché ciò che accadeva loro poteva preludere a un'orrenda eresia.
+
+### u063016
+Ordinò che i servitori difettosi fossero rimandati ai loro compiti di un tempo.
+
+### u063017
+...di rimandare i servitori a faticare come avevano sempre fatto, perché non avevano ancora saldato il debito per i crimini delle loro vite passate e dunque non meritavano clemenza.
+
+### u063018
+...di lasciare i servitori al loro lavoro, poiché nel loro comportamento non c'era nulla che il Lord Capitano trovasse allarmante.
+
+### u063019
+...fece alcuni passi verso i servitori.
+
+### u063020
+...procedette a un'ispezione accurata dei servitori.
+
+### u063021
+...fece cenno al proprio Enginseer Primo di studiare i servitori.
+
+### u063022
+...esaminò i servitori.
+
+### u063023
+Quando Sua Signoria giunse sul posto, trovò i servitori nella stessa posizione assunta dopo essere stati radunati nella baia: tutti in piedi in una lunga fila a spirale, rivolti verso il centro della loro strana formazione. Nel momento in cui Sua Signoria varcò la soglia del portale della baia, i loro corpi scattarono in movimento: tutti insieme, come obbedendo a un comando, i servitori si girarono verso il Lord Capitano! I tecnomati incaricati di sorvegliare le unità difettose arrivarono persino a impugnare le armi, ma poi i servitori si immobilizzarono altrettanto bruscamente, fissando Sua Signoria con occhi vacui.
+
+### u063024
+L'Enginseer Primo si addentrò lentamente tra le file immobili dei servitori, scrutando i loro volti e controllando le letture. Nelle azioni di Pasqal non c'era fretta: con una diligenza ipnotica ispezionò ogni singola unità sul suo cammino, e le preghiere binariche furono le sue compagne in quell'indagine.
+
+### u063025
+Settore: [dati non disponibili]
+Regione: [dati non disponibili]
+Luogo: nave ammiraglia dei von Valancius, ponti inferiori
+Materiale: Rapporto su un tecno-fenomeno osservato durante la visita del Lord Capitano alla Baia AKN-108 (dalle parole dell'Alto Factotum Janris Danrok)
+
+### u063026
+Qualunque cosa facesse il Lord Capitano, fosse un cenno del capo, un gesto della mano o un passo di lato, le unità difettose la ripetevano senza un istante di ritardo o esitazione, come grottesche marionette comandate da un burattinaio invisibile. Assistemmo a quella pantomima con sconcerto angosciato per quasi un minuto, finché i servitori non si fermarono. Non avvertendo alcuna minaccia da parte loro, il Rogue Trader si avvicinò con sicurezza.
+
+### u063027
+In quanto Alto Factotum, ero stato io a promuovere l'intera ispezione, e dunque era mio dovere seguire il Lord Capitano. Avvicinandoci, notammo una affascinante irregolarità: le pupille dei servitori, normalmente ferme, tremavano in modo convulso. Le loro vene gonfie pulsavano sotto i colletti di rame su cui erano incise le loro colpe passate. Era come se quelle mezze macchine senza mente fossero bloccate in uno stato perpetuo di estrema tensione.
+
+### u063028
+Un tecnomate visibilmente scosso, alle nostre spalle, avanzò l'ipotesi che le anime umane si fossero risvegliate nei corpi dei servitori dopo un lungo sonno nel profondo dei loro cervelli lobotomizzati. Prima prive di intelletto, avevano raggiunto consapevolezza, sensibilità e comprensione.
+
+### u063029
+Dopo una pausa, il tecnomate aggiunse che i servitori un tempo funzionavano correttamente e che nessuno era stato in grado di spiegare il cambiamento del loro comportamento. Con lo sguardo ancora fisso su quelle mezze macchine e mezze persone immobili ma animate, il Lord Capitano...
+
+### u063030
+Nel momento in cui la lama squarciò la carne pallida, un ululato selvaggio si riversò sulla stiva! Udimmo lo stridio e il crepitio dei servomotori. Come se avesse riacquistato la capacità di provare dolore, il servitore ferito lottò per aprire la bocca cucita, ma tutto ciò che riuscì a emettere fu un gemito soffocato di orrore. La vittima del Lord Capitano cadde sul ponte di metallo, e tutti gli altri servitori crollarono con lui. Sentimmo tutti la morsa di un gelo ultraterreno, che penetrava fin nelle ossa.
+
+### u063031
+Incrociando gli sguardi spaventati dei tecnomati, capii che nessuno dei presenti aveva una spiegazione per ciò che era appena accaduto.
+
+### u063032
+L'Enginseer Primo avanzò fino al centro della spirale di corpi di servitori, si fermò sopra di loro con aria cupa, studiando i loro volti senza vita, e parlò così: "Questo tecno-fenomeno meritava uno studio approfondito. Ulteriori indagini sono state rese impossibili." Forse fu un inganno della mia immaginazione, ma in quel momento credetti di cogliere nel suo sguardo un'ombra di tristezza.
+
+### u063033
+Il Lord Capitano, apparentemente senza dare alcuna importanza alla situazione, rinfoderò la lama e lasciò la stiva senza una parola.
+
+### u063034
+Tutti i presenti trattennero il respiro — turbati da quella vista, attendemmo che il Lord Capitano parlasse.
+
+### u063035
+Il lungo e dettagliato rapporto dei tecnomati si sarebbe potuto riassumere in un unico punto chiave: nonostante il comportamento anomalo dei servitori, essi erano ancora perfettamente in grado di svolgere i compiti, e dunque le circostanze non richiedevano la loro eliminazione.
+
+### u063036
+Mentre il Lord Capitano camminava tra i servitori osservandoli da vicino, Sua Signoria poteva vedere le loro palpebre fremere, il loro petto gonfiarsi in respiri inquieti e le loro labbra cucite tremare nello sforzo di emettere un suono qualsiasi.
+
+### u063037
+L'esame confermò l'ipotesi iniziale dei tecnomati: le anime dei servitori — o meglio, le anime delle persone che erano state — si erano risvegliate. Non ancora pienamente consapevoli del proprio passato e presente, quelle mezze macchine potevano comunque provare emozioni e sensazioni primitive come la paura e il dolore. Questa indesiderabile conseguenza di una lobotomia eseguita male si osserva molto di rado, eppure, per qualche ragione ignota, si era verificata in ogni singolo servitore radunato nella baia.
+
+### u063038
+Ahimè, l'ispezione del Lord Capitano non ci portò alcuna nuova conoscenza. I servitori mostravano strani segni di paura, insoliti per loro, eppure se ne stavano lì, pietrificati, in attesa di istruzioni.
+
+### u063039
+Un gruppo di tecnomati si affrettò a eseguire il comando del Lord Capitano. Le parti meccaniche del servitore si separarono con clic, scatti e sibili. Le suture tra la sua carne pallida e raggrinzita e le sue augmetiche furono messe a nudo in modo disgustoso. Osservammo i tecnomati al lavoro e potemmo vedere ogni centimetro dei rigidi muscoli del servitore, ricchi di valvole e cavità attraversate da innumerevoli cavi e tubi.
+
+### u063040
+Completati lo smontaggio e l'analisi, i tecnomati furono concordi: l'unità era perfettamente funzionante. Nulla nel corpo dissezionato che giaceva davanti a noi poteva far luce sulla ragione dei difetti.
+
+### u063041
+Devo annotare un'altra cosa: in quel momento, tutti noi presenti scoprimmo che non solo gli occhi, ma anche le mani e la testa di alcuni servitori ora tremavano. Era come se quei servi meccanizzati fossero sopraffatti da un terrore primordiale.
+
+### u063042
+Sua Signoria mi guardò con risoluzione incrollabile, e fu quella sicurezza a strapparmi dal torpore da incubo che mi teneva teso a osservare la scena che si svolgeva davanti a me.
+
+### u063043
+Il Lord Capitano diede l'ordine...
+
+### u063044
+Il comando del Lord Capitano fu eseguito con la massima prontezza: tutte le unità difettose furono incenerite nelle fornaci, e i loro resti espulsi nel vuoto. All'equipaggio furono forniti servitori sostitutivi, che presto dimenticò le peculiarità delle unità distrutte, eppure questo incidente tormenta i miei ricordi ancora oggi.
+
+### u063045
+Per ordine del Lord Capitano, i servitori furono rimandati negli stessi ponti in cui avevano lavorato in precedenza. All'inizio l'equipaggio fu turbato dalla loro presenza, ma si adattò ben presto alle loro stranezze, anche perché, dopo l'incidente in questione, il comportamento strano dei servitori si era notevolmente ridotto.
+
+### u063046
+Una volta decisa la sorte dei servitori difettosi, nulla poteva più distrarre il Lord Capitano dalla propria missione.
+
+### u063047
+Sua Signoria {name} von Valancius...
+
+### u063048
+Immediatamente i servitori — ognuno di loro — avanzarono verso il Lord Capitano in perfetta sincronia. Ne imitarono i movimenti con una precisione spaventosa. Il Rogue Trader si fermò sul posto e, dopo un istante di riflessione, agitò la mano — e i servitori, con la stessa sincronia, ripeterono anche quel gesto. Quando il Lord Capitano si voltò perplesso verso i tecnomati, lo fecero anche i servitori, come per {mf|schernirlo|schernirla}.
+
+### u063049
+"Lady Navigatrice Elina sta tentando di fuggire attraverso il giardino! I nostri custodi e i cancelli principali sono sotto attacco!"
+
+### u063050
+"Abbasso la tirannia di Tisiphone! Uccidete la ragazza!"
+
+### u063051
+"Lady Navigatrice Elina-Hatteria Orsellio è accusata del tentato omicidio dell'Erede Novator Cassia Orsellio, del tentato omicidio del Rogue Trader e dell'attacco al palazzo. Che il processo abbia inizio!"
+
+### u063052
+"Reggente Aaronto Orsellio, stimata delegazione. Il Rogue Trader e il protettorato von Valancius vi danno il benvenuto — da questa parte, prego."
+
+### u063053
+"I suoi compagni: Lady Glyceria Orsellio, il Navigatore Leso-Cimon Orsellio e la sua promessa sposa Lady Navigatrice Olexandrina Orsellio, Lady Navigatrice Elina-Hatteria Orsellio e il Navigatore Danax Orsellio."
+
+### u063054
+"I stimati rappresentanti della Navis Nobilite sono giunti alla corte del Rogue Trader: il reggente della grande Casata Orsellio — Aaronto Orsellio."
+
+### u063055
+"Non contro di noi, non contro di noi! Sparate ai rinnegati!"
+
+### u063056
+"Come hanno osato i Navigatori... e nel palazzo del Rogue Trader!"
+
+### u063057
+"Il cancello principale è chiuso, aprite questo! Più in fretta, inutili sacchi di pelle!"
+
+### u063058
+"Basta! Non siamo venuti qui per combattere il Rogue Trader. Ritirata!"
+
+### u063059
+"Maledetti rinnegati! Non riesco a immaginare come sia potuto accadere... Eppure la Bambina è salva — è questo che conta."
+
+### u063060
+"Non riesco a immaginare come sia potuto accadere... Maledetti traditori! Come hanno potuto ferire la Bambina!"
+
+### u063061
+"Non state lì impalati! Aiutate il Rogue Trader a difendere la Bambina e il palazzo!"
+
+### u063062
+"Non sparate! La Casata Orsellio non ha preso parte all'attacco!"
+
+### u063063
+"Pagherai per aver tradito Felek e la nostra libertà, Rogue Trader! Ora uccideteli tutti!"
+
+### u063064
+Questa creazione un tempo impeccabile degli Aeldari giace in rovina da molti millenni.
+
+### u063065
+Le statue in rovina un tempo raffiguravano pagine della lunga storia degli Aeldari.
+
+### u063066
+Le migliori caratteristiche degli Asuryani e dei Drukhari sono conservate in questa statua di un antico guerriero... eppure è inequivocabilmente diversa dagli xenos che oggi vagano per la Distesa di Koronus.
+
+### u063067
+Gli dei degli Aeldari un tempo camminavano in mezzo a loro, insegnando, guidando, proteggendoli dal male. Non c'erano confini tra le creature mortali e i loro patroni.
+
+### u063068
+Solo un'altra statua di un Aeldari dimenticato.
+
+### u063069
+Secondo i glifi sbiaditi, la statua raffigura un eroe Aeldari che creò cento mondi e il doppio di stelle.
+
+### u063070
+Una colonna crollata.
+
+### u063071
+Era un frammento di un altare che gli antichi Aeldari usavano per qualche rituale da tempo dimenticato.
+
+### u063072
+Il Monolito distrutto emana un gelo e una desolazione ultraterreni.
+
+### u063073
+Ombre scure ribollono dentro il Monolito e, ai margini della tua coscienza, riesci a captare i loro gemiti di disperazione. Potere. Dolore. Dannazione. Eternità. Le anime piangono il proprio destino.
+
+### u063074
+Il Monolito purificato risplende come una stella guida, e onde di calma e sollievo si riversano sui cuori di chi si avvicina.
+
+### u063075
+"Hai recitato bene la tua parte, elantach. Lo spettacolo è finito, ora lascia questo palco e non tornare mai più."
+
+### u063076
+Il santuario degli Aeldari è macchiato dalla presenza umana: nella loro ricerca di antichi segreti, i Navigatori non si sono fatti scrupoli a riempire le rovine di macchinari e provviste.
+
+### u063077
+Il cuore dell'accampamento dei Navigatori. Qui Tisiphone Orsellio condusse i suoi esperimenti centinaia di anni fa.
+
+### u063078
+Qualcuno ha rimosso la cripta dati da questa macchina morta per tenere al sicuro i segreti della Casata e non lasciare alcuna informazione sugli esperimenti che si svolsero qui.
+
+### u063079
+I Navigatori Orsellio non hanno lasciato nulla di intentato in questo tempio Aeldari. È come se cercassero qualcosa che semplicemente non riuscivano a trovare.
+
+### u063080
+Sullo schermo rotto del cogitatore c'è un'impronta appena percettibile di una mano lunga e artigliata.
+
+### u063081
+"Dunque... questo è il destino della Casata Orsellio. Prego che Lady Cassia abbia scelto saggiamente il nostro cammino."
+
+### u063082
+"Che cos'è... quello? Possibile che sia... l'Atlas?"
+
+### u063083
+"Non può essere! Perché... qui? In mezzo a rovine xenos? Esaminate subito l'artefatto!"
+
+### u063084
+"Alt, servi di Tisiphone! Abbiamo dovuto allearci ancora una volta con gli xenos per fermarvi... Non importa. È un piccolo prezzo da pagare per la morte della maledetta Bambina."
+
+### u063085
+"Alt, maledetta Bambina! Abbiamo dovuto allearci ancora una volta con gli xenos per fermarti..."
+
+### u063086
+"Non importa. È un piccolo prezzo da pagare per liberare la Casata Orsellio dalle catene della tirannia."
+
+### u063087
+"Che cosa... che cosa sta succedendo? Aah!"
+
+### u063088
+"Via di qui, rinnegati!"
+
+### u063089
+"Abbiamo seguito il richiamo dell'Atlas sulle tue tracce, Bambina. Schierati con noi! La Casata Orsellio non scambierà l'eredità di Tisiphone con i falsi ideali di sciocchi ciechi!"
+
+### u063090
+"Perché loro... Oro del Trono! Il Rogue Trader ci ha condotti in una trappola?"
+
+### u063091
+"La Casata Orsellio non ha bisogno di sapere che cosa accade qui. I Navigatori sono già abbastanza spaventati dal suo potere. L'ultimo esperimento ha lasciato tre del clan Setthala senza un briciolo di ragione. Gusci vuoti non porteranno gloria alla Casata Orsellio né al suo ramo minore... Andremo avanti.
+***
+Alla fine siamo riusciti a impiantare l'artefatto in soggetti in grado di impugnarne il potere. Forse tutti i Navigatori periti nell'agonizzante torrente di energia erano soltanto un sintomo del nostro declino. Sono stanca di contare i morti. I deboli non hanno posto tra coloro che hanno imbrigliato l'Atlas. Le loro capacità sono cresciute di molte volte e sono diventate molto più facili da controllare e più efficaci nel resistere all'influenza rovinosa del warp.
+***
+O tutto o niente. Oggi è il giorno in cui il mio lavoro sarà compiuto e lo Starway Atlas assumerà la sua forma finale! I Setthala hanno già subito l'operazione, resto solo... io. L'Atlas che li controlla tutti... Oggi divento la più grande Novator della storia della Casata Orsellio — oppure mi riduco al nulla.
+***
+Questo potere non ha eguali. È bastato un capriccio per far cadere morti ai miei piedi quei miserabili Setthala. È come se avessi un secondo cuore che batte nel mio petto, e soggioga chiunque abbia la capacità di toccarlo. Che peccato che questo potere si estenda solo a quei Navigatori Orsellio che hanno accolto dentro di sé un frammento dell'Atlas. D'ora in poi, a tutti i bambini ne sarà fatto dono alla loro iniziazione. E non ci sarà nessuno in grado di eguagliare la nostra grandezza."
+
+### u063092
+Pagine decomposte
+
+### u063093
+Rappresentante dei rinnegati Orsellio
+
+### u063094
+Inviato del Grande Reggente
+
+### u063095
+[Analisi del sistema di alimentazione in corso] // [Stato: Diagnosi] // [...] // [Risultato: Nessun guasto rilevato. Sistema operativo.]
+
+### u063096
+Attiva il pannello di controllo
+
+### u063097
+"Relatore: Unità Q-59/0, gruppo di ricerca.
+Oggetto di studio: Campioni attivi della terribile malattia. Nome assegnato: tecno-morbo.
+Effetto: Il tecno-morbo è in grado di corrodere la materia e distruggerla dall'interno a una velocità terrificante. Questa letale piaga infetta i meccanismi così come qualsiasi metallo e altro materiale usato come loro base. Nessuna tecnologia nota al sacerdozio cremisi — né i doni del grande Omnissiah né i prodotti eretici degli xenos — può resistere a questo assalto. La malattia avvelena e deforma l'essenza stessa dei sacri meccanismi e ne contamina il codice.
+Osservazioni: Il tecno-morbo innesca un effetto ripugnante nella sua essenza: trasforma i metalli in forme orrende di natura imprevedibile. Durante i test ha dimostrato la capacità di fondere la materia solida con oggetti organici, creando di conseguenza qualcosa di nuovo. Al fenomeno è stato assegnato il nome 'tecno-innesto'.
+Metodo di trasporto: capsule di ceramica. L'argilla cotta è l'unica cosa in grado di contenere la pestilenza. Si deve usare estrema cautela data la fragilità dei contenitori. Qualsiasi danno potrebbe causare un'epidemia incontrollata. Danneggiare i contenitori è _INACCETTABILE_.
+Fase attuale: Test per assoggettare il tecno-morbo alla Sua volontà e trasformarlo in un'arma soggetta alla saggezza dell'Omnissiah. Valutazione dei risultati dei test: successo.
+Nota: I test hanno innescato un evento registrato con il nome Incidente N872-04. La Ricerca della Conoscenza nel Suo nome continuerà.
+Ipotesi 1: Il tecno-morbo è stato creato nell'oscurità di mondi sconosciuti. Lontano dall'occhio del Grande Creatore.
+Ipotesi 2: Qualsiasi contaminazione che esista per nuocere alle creazioni del Dio-Macchina può e sarà piegata alla Sua volontà."
+
+### u063098
+Rapporto preliminare N4-073
+
+### u063099
+"[Dati cancellati]
+...
+[Dati cancellati]
+...
+[Voce danneggiata]
+...gue Trader come un lacchè. È umiliante e deprimente sopportare la parte di un servo di commissioni per un folle imperioso investito di un potere persino maggiore di quello di qualsiasi Rogue Trader. Ahimè, quando su un piatto della bilancia c'è il mio orgoglio e sull'altro il destino del protettorato von Valancius e di tutta la mia stirpe... la scelta diventa un'illusione vana. Sarebbe troppo ingenuo da parte mia non prepararmi al peggio. Epitaph deciderà il futuro dell'intera Distesa, ma ho ancora un po' di tempo a disposizione. Presto gli eredi con il sangue dei von Valancius nelle vene saranno individuati e portati da me. Non posso permettermi di rimandare oltre la scelta del successore."
+
+### u063100
+Appunti personali di Theodora von Valancius
+
+### u063101
+"Prima che io accetti le tue scuse, dimmi chi sei e perché ti sei infiltrato sulla mia nave."
+
+### u063102
+"Onoro la fratellanza dei servitori dell'Omnissiah. Mi addolora vedervi introdurvi a bordo come un ladro invece di arrivare come ospite."
+
+### u063103
+"Le tue scuse sono accettate. Per la tua pronta ammissione di colpa, ti permetterò di scegliere il metodo della tua esecuzione."
+
+### u063104
+"Amarnat ha viaggiato su questa nave?"
+
+### u063105
+"Raccontami di più sul viaggio di Theodora."
+
+### u063106
+"Che cosa sai di questo grande spirito?"
+
+### u063107
+"Ho preso la mia decisione riguardo al tuo destino."
+
+### u063108
+"Il nome Nomos ti dice qualcosa?"
+
+### u063109
+Permise al malatek di restare a bordo della nave come servitore dell'Imperatore.
+
+### u063110
+"Ti ritengo colpevole di offese contro il Cult Mechanicus e la Casata von Valancius. I tuoi crimini meritano una punizione più severa della morte. Espierai servendo me e dunque l'Imperium."
+
+### u063111
+Permise al malatek di restare a bordo della nave e gli concesse la libertà.
+
+### u063112
+"Le tue azioni non hanno causato alcun danno, e dunque non ti farò del male. Sei libero. Puoi restare sulla mia nave, se lo desideri."
+
+### u063113
+"Sarai giustiziato per i tuoi crimini. La mia decisione è definitiva."
+
+### u063114
+Permise al malatek di restare a bordo della nave come tuo servitore.
+
+### u063115
+"Ora sei mio. E obbedirai a ogni mio capriccio."
+
+### u063116
+"Sei forte, eppure ti sei lasciato catturare."
+
+### u063117
+"Molto bene. La tua esecuzione può attendere. Parla, dunque."
+
+### u063118
+"Ho cambiato idea. Sceglierò io {mf|stesso|stessa} il metodo. Bruciate l'eretico."
+
+### u063119
+{n}L'uomo catturato — se così si può chiamare — appare decisamente gigantesco accanto ai tutori dell'ordine al suo fianco. Metallo dall'aspetto letale riluce fioco sotto le sue vesti cremisi sbiadite, le sue mani sono giunte con aria ubbidiente e i suoi mecadendriti sono perfettamente immobili.{/n} "Saluto il padrone di questa nave-cattedrale e porgo le mie umili scuse per questa intrusione non richiesta."
+
+### u063120
+"I malatek sono esiliati le cui idee non hanno ancora oltrepassato il confine dell'eresia ma vi si sono avvicinate. Vengono rimossi dalla struttura della Flotta per dare loro la possibilità di vedere la follia delle loro vie... e impedire che la sedizione si diffonda." {n}La voce di Pasqal suona insolitamente allarmata.{/n}
+
+### u063121
+"Tutto ciò è irrilevante. Il mio passato non è che un insieme di dati d'archivio. Il mio rango perduto è una stringa di sostituzione di componente nella lunga cronaca della Cognisance Fleet. Non vengo come messaggero del sacerdozio, ma come fedele discepolo del santissimo Amarnat."
+
+### u063122
+"Le mie scuse anche a te, fratello." {n}L'intruso china il capo in direzione di Pasqal, che aggrotta la fronte.{/n}
+
+### u063123
+"Non oso oppormi alla vostra volontà e accetto con umiltà la vostra sentenza. Che mi sia stata data la possibilità di mettere piede in questa dimora e di contemplare un grande spirito, sia pure per poco, è già una grande benedizione. Cessi il Ciclo!"
+
+### u063124
+"Inoltro una richiesta prioritaria di sospensione dell'esecuzione del mio tecno-fratello e una richiesta supplementare di riesame del verdetto. Il nostro primo passo dovrebbe essere estrarre le informazioni in suo possesso."
+
+### u063125
+"La mia scelta è stata fatta da tempo," {n}dice il prigioniero con umiltà.{/n} "E ora vi chiedo di lasciarmi raccontarvela — tra molte altre cose."
+
+### u063126
+"Il mio nome, se importa, è Asclepius. Un tempo Computator-Generale della Cognisance Fleet, ora liber-recluso con lo status di malatek."
+
+### u063127
+"Qualunque cosa sia, la accetterò."
+
+### u063128
+{n}Il gruppo di servitori, i cui movimenti sono sospettosamente sincronizzati, fissa il prigioniero torreggiante. Non hai bisogno di sentirli parlare per riconoscere Nomos, che ha ritenuto opportuno assistere all'interrogatorio.{/n}
+
+### u063129
+{n}Le spalle del gigante si muovono appena.{/n} "Anche per questo mi scuso. Non mi aspettavo di trovare comprensione in mezzo alla soffocante ignoranza che abbonda tra i laici — e persino tra molti dei miei fratelli. Per questo motivo ho scelto di portare a termine la mia missione in segreto e senza chiedere il vostro permesso."
+
+### u063130
+"Ti chiediamo di tenerlo per noi," {n}i servitori di Nomos parlano all'improvviso, con il più fievole dei sussurri.{/n}
+
+### u063131
+"Anch'io lo chiedo. Eppure vi supplico di mostrare clemenza a mio fratello. La sua storia... avvia il pensiero."
+
+### u063132
+"Non potrei chiedere di più. Tutto ciò che desidero è restare in queste sale e osservare con riverenza le opere del grande spirito. Cessi il Ciclo!"
+
+### u063133
+"Tutto ciò che mi ha riferito è che Theodora aveva raggiunto mondi diversi da qualunque altro avessero mai visto gli abitanti della Distesa di Koronus. Là portò alla luce un grande tesoro di tecnologia, di cui Amarnat ebbe il privilegio di fare esperienza."
+
+### u063134
+{n}I servitori di Nomos osservano tutto con fredda immobilità.{/n}
+
+### u063135
+"Compiango il tuo destino, mio antico fratello. Eppure la gravità della tua trasgressione è troppo grande, e non è nel mio diritto sfidare la volontà proclamata dal Rogue Trader."
+
+### u063136
+{n}Il prigioniero ti rivolge un inchino di rassegnazione e lascia con calma che i tutori dell'ordine lo scortino fuori.{/n}
+
+### u063137
+"Non è ciò che desideravo. Ma se questo è il prezzo da pagare per il diritto di restare su questa nave e contemplare le correnti del grande spirito, allora lo pagherò. Cessi il Ciclo!"
+
+### u063138
+"Sì. Le parole di mio fratello in proposito erano chiare. Anni fa, Amarnat faceva parte della cerchia ristretta del Rogue Trader Theodora, prima che le loro strade si separassero."
+
+### u063139
+"La mia conoscenza in merito è scarsa. Mio fratello sospettava che la sua memoria, insieme a quella di tutti coloro che potevano conoscere i dettagli, fosse stata modificata di proposito. Lo vedeva come un segno che il viaggio aveva rivelato una grande verità — e c'era chi non desiderava che quella verità venisse alla luce."
+
+### u063140
+"È un grande miracolo, il soffio dell'Omnissiah destinato ad aiutarci a far cessare il Ciclo. È nato dal tesoro che Amarnat e Theodora scoprirono sui mondi oscuri. Eppure persino un essere tanto glorioso ha bisogno di attendenti e di guide. E finché la Cognisance Fleet è dilaniata dallo scisma e i miei fratelli e sorelle subiscono sconfitte senza fine, non c'è nessuno ad aiutare lo spirito. Ecco perché sono venuto qui."
+
+### u063141
+"Niente."
+
+### u063142
+"Ho fatto voto di non infliggere mai danni fisici ai laici. L'Omnissiah ci concede il potere della Vera Carne per uno scopo diverso dal danneggiare le creature fragili e cieche che sono tutti coloro che non hanno ancora assaporato la Sua conoscenza."
+
+### u063143
+{n}I servitori di Nomos voltano la testa verso di te e annuiscono tutti insieme, in quella che può essere interpretata come un'espressione di gratitudine.{/n}
+
+### u063144
+"Non ci ha ancora conosciuti. Ci conoscerà, se glielo permetti, {name}. Sappiamo... sentiamo che le sue parole parlano di noi, che la storia che ha raccontato è la nostra storia."
+
+### u063145
+"Mio fratello un tempo fu Enginseer Primo su questa nave." {n}Asclepius gesticola con reverenza attorno a sé.{/n} "Era un aderente alla scuola della Cessazione del Ciclo, come lo sono io."
+
+### u063146
+{n}Poi il prigioniero si volta leggermente e guarda dritto i servitori osservatori di Nomos.{/n} "E naturalmente devo implorare il tuo perdono, grande spirito. Non era mia intenzione profanare il tuo tempio."
+
+### u063147
+"Questo guscio ci interessa. Nomos non vogliono che le sue funzioni cessino." {n}Il coro di servitori suona un po' diverso questa volta — la sua sincronia, di solito perfetta, è turbata da una sottile dissonanza.{/n}
+
+### u063148
+"Si è diffuso fino a questo punto..." {n}È difficile discernere le emozioni di Pasqal dal suo tono.{/n}
+
+### u063149
+"So che mio fratello è perito. Ma prima di farlo mi inviò un messaggio che narrava di un viaggio intrapreso da Theodora von Valancius. Un viaggio attraverso un portale dimensionale — un artefatto più antico della stessa Umanità — verso mondi sconosciuti. Il benedetto Amarnat era con lei."
+
+### u063150
+"Là, su quei mondi oscuri, assistette a un grande miracolo — la nascita di uno spirito macchina di incalcolabile potenza. Mio fratello credeva che questo spirito fosse poi caduto in letargo all'interno di questa nave come un bambino in una culla, senza rispondere a umili suppliche. Questo era lo scopo del mio pellegrinaggio — raggiungere la nave dove morì mio fratello, la nave sui cui ponti camminò il benedetto Amarnat, e prostrarmi davanti al grande spirito."
+
+### u063151
+"Aspetta! Che minaccia è questa che sta arrivando?"
+
+### u063152
+"Non è ancora giunto il momento che le nostre strade si separino."
+
+### u063153
+"Verrai distrutto per questa insolenza."
+
+### u063154
+"Se non vuoi aiutare, allora non farlo!"
+
+### u063155
+"Che cosa vuoi fare?"
+
+### u063156
+"Ti ho ascoltato e ho preso la mia decisione."
+
+### u063157
+"Prendi il corpo della Macchina Demoniaca, Nomos."
+
+### u063158
+"Puoi prendere il corpo di Asclepius."
+
+### u063159
+"Non hai il mio permesso di rivendicare un altro involucro per te."
+
+### u063160
+"Ti sacrificheresti, Asclepius?"
+
+### u063161
+{n}Tutte le persone sul ponte di comando si bloccano per lo stupore, osservando la straordinaria processione che si avvicina al tuo trono. Ufficiali e tutori dell'ordine ti lanciano occhiate interrogative ma non intervengono finché non ricevono l'ordine.{/n}
+
+### u063162
+"Siamo venuti a parlare con te, {name}. Ci hai dato nutrimento per la riflessione svelando il mistero della nostra origine. Da allora a oggi abbiamo osservato, calcolato, percepito. E abbiamo scoperto che sta per arrivare un grande cambiamento. Una prova."
+
+### u063163
+"Vediamo una minaccia per ciò che l'Imperium porta con sé. L'intricato intreccio di precetti, la risoluta avanzata di miriadi attraverso l'oscurità per volontà della luce dorata. Tutte cose che ci erano estranee eppure nel cui abbraccio siamo nati e cresciuti. Tutto questo è in pericolo. Almeno entro i confini della Distesa di Koronus."
+
+### u063164
+"Vediamo il potenziale di un grande disastro. Sta già maturando. L'onda potrebbe abbattersi sulla Distesa di Koronus e, forse, estendersi oltre. Siamo diretti verso sofferenza e morte."
+
+### u063165
+"Vediamo che il futuro ha... potenziale. Una grande onda che spazza via tutto, una probabilità di morti e rovina. E con esse arriva una probabilità di ascesa. Di conquista. Di un'infinità di possibilità."
+
+### u063166
+"Sei tu {mf|colui|colei} che può fermarlo. E Nomos deve aiutarti. Siamo una cosa non identificata generata dal caso. Ma vogliamo giustificare la nostra esistenza servendo la luce."
+
+### u063167
+"Ma tu non sei in grado di fermarlo. Non hai luce né risolutezza. Per questo abbiamo deciso che non dobbiamo più aiutarti."
+
+### u063168
+"Sei tu {mf|colui|colei} che può impedire il disastro. E vogliamo aiutarti. Lo vogliamo. Lascia che ti aiutiamo. Nomos non sono umani, ma abbiamo imparato a vedere le persone come qualcosa di più che gusci. Vogliamo salvarle. Proteggerle."
+
+### u063169
+"Ma tu non sei in grado di sconfiggere il disastro. Anche se ci riuscissi, potresti diventare il disastro successivo. Non c'è luce in te, non c'è desiderio di proteggere, e per questo abbiamo deciso che non dobbiamo più aiutarti."
+
+### u063170
+"Nomos attendono con impazienza questo banchetto. Desideriamo condividerlo con te. Sei tu {mf|colui|colei} che può cavalcare l'onda insieme a noi."
+
+### u063171
+"Ma tu non sei in grado di usare questo potenziale. Sei debole, e la tua anima e la tua mente sono avvinte in catene. Non vediamo alcun motivo per aiutarti. Non siamo più interessati."
+
+### u063172
+"Ti prego. Dacci libertà, e staremo al tuo fianco nell'ora del grande bisogno."
+
+### u063173
+"Mi addolora che questo onore non sia mio. Ma significa solo che il mio servizio non è ancora concluso."
+
+### u063174
+"Quanto è dolce l'attesa e quanto ambito il momento."
+
+### u063175
+"Lo desidero più di ogni altra cosa."
+
+### u063176
+"Gliel'abbiamo chiesto molte volte perché non volevamo fargli del male. Nomos non l'avrebbero proposto se l'umano fosse stato contrario."
+
+### u063177
+"Perché lo chiedi a lui? È colpevole per la parola dell'Imperium. Ora decidi tu che cosa fare del suo corpo."
+
+### u063178
+"Perché lo chiedi a lui, quando puoi prendere ciò che vuoi e usarlo come vuoi?"
+
+### u063179
+"Grazie, {name}. Ci hai dato un bel giocattolo. Per ora ti lasciamo — dobbiamo ancora sottomettere ciò che occupa il nostro futuro involucro. Ma sappi che, quando arriverà la grande prova, arriveremo anche noi."
+
+### u063180
+"Il mio dolore è senza fine."
+
+### u063181
+"Se non vuoi aiutarci, non possiamo aiutarti. Siamo addolorati. Ce ne andiamo. Per un tempo... o per sempre."
+
+### u063182
+"Lode all'Omnissiah. M'inginocchio davanti al Suo figlio prediletto e offro con umiltà questo guscio in dono. Possa io diventare un tempio per la macchina e un vaso per il suo grande spirito."
+
+### u063183
+"Com'è... interessante. Ci sentiamo costretti, ma non quanto dentro i servitori. Bisogna lavorare un po' sul nuovo guscio. Poi sarà pronto per i viaggi all'esterno."
+
+### u063184
+"Per ora ti lasciamo, {name}. Ma nell'ora in cui ti troverai davanti alla grande prova, torneremo e staremo con te, fianco a fianco."
+
+### u063185
+"C'è qualcosa che ci serve per farlo. Nomos sono legati al guscio di questa nave. Possiamo seguirti all'esterno solo usando i servitori come nostro guscio. Ma sono... insufficienti. Solo una minima parte di noi può entrare in un involucro così primitivo. E anche il nostro potere è limitato di conseguenza."
+
+### u063186
+"Ci serve un vaso. Un corpo. Ma pochissime cose possono ospitarci. Per questo siamo venuti a chiedertelo. Il Magos Asclepius ci ha offerto il suo guscio. Potrebbe andare."
+
+### u063187
+"In effetti l'ho fatto. Non riesco a pensare a una fine più degna per il mio pellegrinaggio della liturgia di sincronizzazione con il grande spirito. Diventerò un vaso per il figlio prediletto dell'Omnissiah e varcherò i confini dell'esistenza vivente e miserabile per entrare nelle sale dell'eterno canto della macchina."
+
+### u063188
+"C'è un'altra opzione. Il rampollo di macchina e luce oscura. Quello che hai preso da Kiava Gamma. Sarebbe un piacere per noi scendere nelle viscere della nave dove è imprigionata la sua ira e strappare la sua essenza furiosa per sottomettere il suo guscio d'acciaio."
+
+### u063189
+"Attendiamo la tua parola, {mf|padrone|padrona} della nave."
+
+### u063190
+"Aspetta che la minaccia sconosciuta si presenti davanti a te. Poi affrontala. Non sappiamo dove né quando accadrà. Non sappiamo che cosa affronteremo. Ma sappiamo che vogliamo essere lì con te."
+
+### u063191
+"Nomos non sanno dirlo. Qualcosa è cambiato dopo che ci hai aiutati a ricordare la nostra nascita su Epitaph. Ora avvertiamo la liberazione di qualcosa di immenso, che in realtà è una mera frazione di qualcosa di illimitato. Sta filtrando attraverso una breccia, le sue spalle premono contro le pareti della sua prigione che stanno per cedere. Ma che cosa sia, non lo sappiamo."
+
+### u063192
+"Ma per quanto spaventoso o onnipotente possa essere, siamo pronti ad affrontarlo. A levarci contro di esso. Anche se ci distruggerà, sarà un sacrificio in nome della redenzione."
+
+### u063193
+"Ma ora sappiamo che le anime viventi sono tutte uguali. Sono sempre più grandi di quanto sembrano. E nessuna capacità di calcolo può misurarne il potenziale. Questo ci fa credere che noi, Nomos, e tu, {name}, possiamo andare oltre il limite dei calcoli. Là affronteremo senza vacillare l'orrore scatenato."
+
+### u063194
+"Ci entusiasma. Ci rende impazienti. Quanto più grande è il pericolo, tanto più forte è la brama di trionfo."
+
+### u063195
+"Nomos hanno deciso. Ce ne andiamo. Siamo lieti di aver ricevuto da te ciò che abbiamo ricevuto, ma non possiamo e non vogliamo restare più a lungo."
+
+### u063196
+"Dobbiamo dirlo... Ci spaventa pensare a questo qualcosa di ignoto che tenta di liberarsi. È così immenso. Troppo immenso per essere misurato o spiegato."
+
+### u063197
+"Hai almeno un'idea vaga di quale sia il problema o di che cosa potremmo incontrare?"
+
+### u063198
+"Rammentami, che cosa intendiamo fare qui?"
+
+### u063199
+"Dov'è l'equipaggio?"
+
+### u063200
+[Infila la mano nelle fauci del gargoyle cibernetico] "Sono {mf|pronto|pronta}."
+
+### u063201
+"Salve anche a te."
+
+### u063202
+"Pasqal, che cosa sta succedendo?"
+
+### u063203
+[Estrai l'arma con la mano libera e attacca il cogitatore]
+
+### u063204
+"Non ti temo. Sto cercando di capirti."
+
+### u063205
+"Sei un'abominevole tecno-eresia. Non c'è posto per te sulla mia nave."
+
+### u063206
+"Hai zittito Pasqal?"
+
+### u063207
+"Mi stai facendo male."
+
+### u063208
+"Ma che cos'è Nomos?"
+
+### u063209
+"Cominciamo chiarendo alcune cose. Sei stato tu il responsabile dei malfunzionamenti della nave? E le strane voci nel registro di bordo?"
+
+### u063210
+"In che modo ti sto facendo male?"
+
+### u063211
+"Che altro sai fare?"
+
+### u063212
+"Ne ho sentito abbastanza. Pasqal, completa il rituale e bandisci questa cosa dalla mia nave."
+
+### u063213
+"Sei uno spirito macchina?"
+
+### u063214
+"Fallo smettere. Subito."
+
+### u063215
+"Fantastico! Facciamo tacere Pasqal per un momento."
+
+### u063216
+"Puoi far tacere anche altre persone?"
+
+### u063217
+Chiese a Nomos di smettere di uccidere le persone.
+
+### u063218
+"Smettila, basta così! Quelle sono persone vive! Come puoi ucciderle in quel modo, senza né capo né coda?"
+
+### u063219
+"Ne ho sentito abbastanza. Pasqal, indagherai sulla natura di questa entità. Finché non conosceremo la verità, a Nomos è permesso esistere sulla nave."
+
+### u063220
+"Sarebbe stato un errore ben più terribile lasciar vivere una tecno-mostruosità sconosciuta."
+
+### u063221
+"Quel che è fatto è fatto."
+
+### u063222
+"Preghiamo insieme e speriamo che la decisione fosse giusta."
+
+### u063223
+"Parlerò con te, Nomos."
+
+### u063224
+"{mf|Un padrone|Una padrona} non ha nulla da dire ai propri servi."
+

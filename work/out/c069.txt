@@ -1,0 +1,879 @@
+### u026712
+"Solomorne, vuoi ballare con me?"
+
+### u026713
+[Prendi l'iniziativa] "Sii audace. Non pensare a nulla."
+
+### u026714
+"Ho concluso la mia ricerca."
+
+### u026715
+"Sinceramente, non saprei dirlo. Credo di aver apprezzato parecchio la moda locale. Forse dovrei portarmi via qualche costume."
+
+### u026716
+"Meglio fermarsi qui, finché ho ancora un piede funzionante."
+
+### u026717
+"Fate tacere l'orchestra."
+
+### u026718
+"Lascia che i servitori continuino a suonare."
+
+### u026719
+"Un altro passatempo locale? Molto bene. Spero non sia patetico come l'ultimo."
+
+### u026720
+[Sorridi nonostante il dolore] "Grazie per il ballo, ma... fermiamoci per ora. Potremo riprendere un'altra volta, quando non sarai così distratto."
+
+### u026721
+"Solomorne, puoi porre al governatore le tue domande."
+
+### u026722
+"Garra?"
+
+### u026723
+"Che cos'è questa caccia di cui hai parlato?"
+
+### u026724
+"Non ho né il tempo né la voglia di intrattenere la tua marmaglia. La decima, Governatore: mi interessa soltanto la decima."
+
+### u026725
+[Fai l'occhiolino a Solomorne e togli l'auricolare vox dall'orecchio] "Mi è stata data questa perla che sussurra grandi segreti e misteri. Che meraviglia! Mi hanno detto che è un manufatto di Idex."
+
+### u026726
+"Le tue risposte sono piuttosto reticenti e incerte, Ruoldo, quasi fossi un semplice passante e non il governatore."
+
+### u026727
+"Vorrei passare a discutere della decima il più in fretta possibile."
+
+### u026728
+"E se anche tu fossi un impostore, Ruoldo?"
+
+### u026729
+"Al termine della caccia, teniamo un grande banchetto. Se indovinerete almeno un impostore, vincerete anche voi un bel premio. Se li indovinerete tutti e quattro, ci sarà una ricompensa ancora più speciale. Ricordo che, a una delle cacce, un servo recitò la parte di un barone così bene che tutti i signori all'unanimità gli accordarono il loro favore e gli lasciarono il titolo e i privilegi della nobiltà. Cose simili accadono di rado, ma... chi può dire che cosa porterà la serata? Perché stanotte siete voi a stabilire chi è degno, {mf|mio Signore Celestiale|mia Signora Celestiale}."
+
+### u026730
+"Mi pare di ricordare... Nel trattato 'Il linguaggio silenzioso dei Signori Celestiali: leggere i loro gesti' si dice: 'Se Sua Altezza volge il proprio sguardo prima verso di voi e solo poi verso i cieli, avete parlato bene e siete {mf|benedetto|benedetta} nel proseguire.' In verità, è confortante sapere che rispettate le nostre tradizioni e acconsentite a partecipare alla caccia, Vostra Celestiale Altezza! Maive, presenta il marchio dati! Vi prego di tornare quando avrete trovato tutti gli impostori!"
+
+### u026731
+"Solo tre persone sono riuscite a domare lo shrimperius stanotte, e tutte quante sono inferiori a voi per raffinatezza e rapidità nell'arte della forchetta!" {n}Il governatore brinda frettolosamente alla vostra salute, rovesciando il suo bicchiere nel farlo.{/n}
+
+### u026732
+"Certamente, mio signore. La Caccia agli impostori si tiene ogni luna. Poco prima dell'evento, i servi vengono accuratamente ripuliti da sporcizia e lordura, pettinati, vestiti con abiti costosi e maschere, e invitati nel cortile insieme al resto degli ospiti. Anche i nobili nascondono il volto, e poi tentano di indovinare chi siano gli impostori. Distinguere gli uni dagli altri è talvolta una vera sfida."
+
+### u026733
+"Mio signore! Ricordate che cosa vi ha detto il medico: la temperanza è la migliore cura per i vostri mali! Temo che oggi abbiate di nuovo disobbedito ai suoi desideri."
+
+### u026734
+{n}Affondi i denti nel boccone untuoso e lo spolpi abilmente fino all'osso davanti all'intera corte, che ti osserva con morbosa fascinazione.{/n}
+
+### u026735
+{n}Il glut blu ti punge la lingua e perdi ogni voglia di continuare a mangiare questo piatto. Lo mandi giù subito con dell'amasec gelato, lasciando che la miscela di fuoco e ghiaccio ti pervada l'intero essere.{/n}
+
+### u026736
+{n}Maneggiando con destrezza un set di forchette e coltelli, tagli le vie di fuga allo shrimperius. Infine tutte e cinque le sue code sono inchiodate al tavolo con punte dorate, e la sesta forchetta sferra il colpo di grazia, permettendoti di portarti alla bocca lo squisito pasto.{/n}
+
+### u026737
+{n}Le tue parole fanno sobrio il governatore all'istante.{/n} "T-tutto è pronto, {mf|mio signore|mia signora}! Tutti i registri delle consegne e dei contributi. È davvero una tragedia che non possiate godervi la nostra Caccia agli impostori, un evento preparato con tanta cura per deliziare gli occhi e la mente di Vostra Celestiale Altezza... A meno che voi non... ripensiate? {mf|Mio signore|Mia signora}...?"
+
+### u026738
+"Magnifico! Nemmeno il serpentide delle rocce che di recente ha mangiato il nostro calzolaio saprebbe eguagliarvi. A differenza di Vostra Celestiale Altezza, ci ha messo cinque interi soli a masticarlo!" {n}Il governatore brinda con entusiasmo alla tua salute.{/n}
+
+### u026739
+"Temo che in quel libro ci fosse una seconda interpretazione, meno lusinghiera... che non riesco a ricordare. Godetevi la caccia, {mf|mio signore|mia signora}!" {n}aggiunge Maive con umiltà.{/n}
+
+### u026740
+{n}Il governatore si rianima di colpo.{/n} "E questa è la parte migliore! Vi consiglio caldamente di provare, Vostra Celestiale Altezza. È un cambio di ritmo molto interessante. E, in questa occasione, il privilegio di marchiare, per così dire, spetta interamente a voi, {mf|nostro onorato ospite|nostra onorata ospite} celeste."
+
+### u026741
+"Ascolto e obbedisco subito, Vostra Celestiale Altezza!"
+
+### u026742
+"Sento nel cuore di non essere riuscito a compiacervi. E poi, naturalmente, c'erano quei mostri che correvano liberi! Tutta questa festa, tutta questa impresa, è stata un tremendo spreco!" {n}Le ultime parole si dissolvono in un borbottio incoerente mentre la mano tremante dell'uomo cerca l'amasec.{/n}
+
+### u026743
+"Mi hanno interessato i servitori musicisti. Possono esservi stati portati solo dai {g|Encyclopedia:AdeptusMechanicusGlossary}sacerdoti cremisi{/g}, giusto? Sapresti dirmi perché sono venuti sul pianeta?"
+
+### u026744
+"Non saprei dirvelo su due piedi. Non ci sono forse molti pianeti che hanno dei lacerax? Ho ricevuto queste bestie molto tempo fa, in dono."
+
+### u026745
+{n}Il governatore scrolla le spalle, impotente.{/n} "Ero troppo felice del loro arrivo per chiedere. Un gesto di deferenza, suppongo? Chi può mai capire quei misteriosi sacerdoti cremisi?"
+
+### u026746
+"Peccato. Avevo ancora delle domande."
+
+### u026747
+"Vostra Celestiale Altezza, come potete dire una cosa simile! Non ho mai nemmeno visto da vicino un villaggio di bassi natali. Se ne stanno rintanati laggiù, grazie al Dio-Imperatore." {n}Il governatore svuota un altro calice portatogli dai servi.{/n} "Portateci altro {g|Encyclopedia:Amasec}amasec{/g}! Subito! Che cosa state a guardare? Via, via! Buoni a nulla di fannulloni..."
+
+### u026748
+"{mf|Mio signore|Mia signora}, temo che uno dei miei sudditi abbia spacciato una propria creazione per un dono di Idex, forse per dare più peso all'offerta."
+
+### u026749
+"In verità, Vostra Celestiale Altezza!" {n}Allunga la mano ingioiellata verso il calice, ma si ferma al suono della voce di Maive.{/n}
+
+### u026750
+{n}Affondi i denti nel prosciutto untuoso e mastichi lentamente, con tutte le tue forze, la carne salmastra e fibrosa. Al settimo boccone la mascella comincia a dolerti e sei {mf|costretto|costretta} a ritirarti dalla battaglia.{/n}
+
+### u026751
+"E ora ne pago il prezzo con un senso dell'equilibrio compromesso e una deplorevole incapacità di ammirare gli impostori travestiti... E la caccia è già in pieno svolgimento!"
+
+### u026752
+"Per poco non mi staccava un dito insieme a una fetta di alcedont. È colpa mia se ho dimenticato che sono predatori, per quanto addomesticati."
+
+### u026753
+"La moderazione è saggezza! E la saggezza è l'attributo dei veri sovrani. Alla vostra prudenza imperialissima, Vostra Celestiale Altezza!" {n}Il governatore svuota solennemente un calice di amasec.{/n}
+
+### u026754
+{n}Ti armi di forchetta e infilzi una delle code dello shrimperius. Con grande delusione del tuo pubblico partecipe, la creatura ti lascia un'estremità scartata e schizza via dal tavolo con le quattro rimaste.{/n}
+
+### u026755
+"Avete ridotto una bestia, nata per cacciare e uccidere, a un animale domestico. Senza scopo e disciplina, uomo e animale sono destinati al degrado." {n}Solomorne fa un cenno a Glaito, del tutto indifferente alla moltitudine di prelibatezze.{/n} "Vedete? Questo è il livello di obbedienza e dignità a cui dovremmo aspirare."
+
+### u026756
+"Non siate {mf|dispiaciuto|dispiaciuta}, Vostra Celestiale Altezza. Uno di quegli shrimperius sta ancora scorrazzando nelle mie viscere! Che birbanti sono quelle bestiole..."
+
+### u026757
+{n}Ti metti in bocca un guscio di blaberid fritto, prima uno, poi un altro, e un altro ancora. Il glut blu ti punge lingua e gola, ma {name} von Valancius è fatto di una pasta più dura di tutti questi smidollati. Alla fine schiacci l'ultimo blaberid tra le mascelle, poi ti passi un tovagliolo sul mento e lo getti vittorioso sul tavolo.{/n}
+
+### u026758
+"Incredibile! Ma come? Come ci siete {mf|riuscito|riuscita}? Miei compagni di festa, alziamo i calici alla forza indistruttibile dell'emissario del Dio-Imperatore!" {n}L'intera nobiltà thasseriana solleva i calici dorati in vostro onore.{/n}
+
+### u026759
+"Lo vedo nei vostri occhi: lo avete sentito anche voi, le ali ritrovate alle spalle, la fresca brezza marina nella muffa della vita, la scintilla dello scopo nel vicolo buio della coscienza! Non è divino?" {n}Ispirato dal tuo esempio, il governatore si posa un guscio di blaberid sulla lingua, rabbrividisce e svuota subito un nuovo calice di amasec.{/n}
+
+### u026760
+"Delizioso! Convocherò subito la corte per un'ultima celebrazione dell'ipocrisia! E chissà: forse, oggi, uno degli impostori avrà la fortuna di guadagnarsi il vostro favore."
+
+### u026761
+"Capisco, Vostra Celestiale Altezza! Come dicono i nostri nobili, misura dieci volte la tortura; puoi decapitare un uomo una volta sola."
+
+### u026762
+"Sarebbe un buon adagio se non fosse per i costumi locali. Scommetto che su Thassera tra la tortura e l'esecuzione ci sono almeno cinque cambi di portata, e con la musica."
+
+### u026763
+{n}Maive estrae una tavoletta scintillante recante una fila di fini iscrizioni.{/n} "Questo è un marchio dati, uno dei nostri tesori di altri mondi. Lo maneggiamo con la massima cura. Eppure tutti i gioielli e i miracoli di Thassera non reggono il confronto con lo splendore della vostra gloria, {mf|mio Signore Celestiale|mia Signora Celestiale}. Quando troverete un impostore, vi basterà marchiarlo con questo meraviglioso marchio."
+
+### u026764
+"Allora sarà inutile. Che mi mostri prima i rotoli dei registri."
+
+### u026765
+"La mia cara bestiola. Sta facendo la guardia agli shrimperius. Ogni tanto riceve un premio sotto forma di ossa di alcedont."
+
+### u026766
+"Con piacere. Basta con i festeggiamenti, Governatore. È ora di discutere della decima."
+
+### u026767
+"Allora stiamo per avere la Caccia agli impostori più breve della storia di Thassera! Dritti al finale, proprio come avete ordinato!"
+
+### u026768
+{n}Ruoldo fa un cenno a Maive:{/n} "Sii un tesoro e racconta al nostro ospite dei nostri divertimenti. Sono un po'... esausto."
+
+### u026769
+{n}La mano del governatore si tende verso l'amasec, ma sussulta sotto il tuo sguardo e cambia bruscamente traiettoria verso gli antipasti.{/n} "Oggi è una giornata molto nervosa, Vostra Celestiale Altezza. E quando sono nervoso, mangio. E bevo. E mangio ancora! Sono fatto così. Ma, Imperatore abbia pietà, oggi il cibo è da morire! Ne gradite un po'?"
+
+### u026770
+"Hai appena ammesso che tra i nobili thasseriani c'è della marmaglia in maschera? Analfabeti, che non sanno come riscuotere la decima o... Per il Trono, questo spiega davvero parecchie cose." {n}Il Proctor sbuffa e getta un'occhiata agli ospiti entusiasti.{/n} "Avanti, Governatore. Dai inizio alla tua farsa. Prima cominciamo, prima finiamo."
+
+### u026771
+{n}Il governatore inghiotte con un rumore udibile.{/n} "Sarà fatto, Maestro Giudicatore."
+
+### u026772
+"Se posso intrattenere l'illustre giudicatore con la conversazione, sarò più che lieto di..."
+
+### u026773
+"Forse dovreste restare qui, mio signore?" {n}Lo sguardo di Maive è pieno di sincera preoccupazione.{/n}
+
+### u026774
+"Sento che potresti avere ragione, Maive. Aspetterò qui, circondato da piatti saporiti e abbondante amasec. Buona caccia, Vostra Celestiale Altezza!"
+
+### u026775
+"Ma certo. Ho sempre voluto cimentarmi con la conversazione leggera." {n}Solomorne incrocia le braccia sul petto con fare imperioso, diventando in qualche modo ancora più alto e più largo di spalle.{/n} "Parlami dei lacerax, Governatore. Creature affascinanti: dove te li sei procurati?"
+
+### u026776
+"Oh, sì! Le celebri perle della rivelazione di Idex. Le uso spesso anch'io per mantenere la mente ricettiva a nuove idee."
+
+### u026777
+"Poiché i lacerax servono per l'intrattenimento, su Thassera non durano a lungo e vengono portati a lotti, da qui il 'molto tempo fa'. Sinceramente, le bestie di mondi lontani non sono un argomento di conversazione così interessante. Parliamo d'altro, che ne dite?"
+
+### u026778
+"Ehm, credo fossero le tonache rosse arrivate a festeggiare l'ascesa di un nuovo governatore. Cioè io." {n}Lo sguardo malinconico di Ruoldo segue uno shrimperius in fuga dal tavolo.{/n}
+
+### u026779
+"Infatti. I Tecnopreti sono famosi per avere molte vocazioni al di fuori della tecnologia e della scoperta di nuove conoscenze. Come la musica e le visite di cortesia..."
+
+### u026780
+"Giù, Garra! Brutta bestia, molto brutta! Chiedo scusa, Vostra Celestiale Altezza. Come procede la vostra Caccia agli impostori?"
+
+### u026781
+{n}Il governatore alza le braccia al cielo.{/n} "Possono? E io che li credevo bestiole comuni! Forse mi sono messo in imbarazzo da solo, ma parlerei volentieri d'altro."
+
+### u026782
+"Non giudicarmi con severità. Sto solo cercando di entrare nello spirito della festa come meglio posso. Possiamo certamente cambiare argomento. Vorrei farti notare che trovo straordinaria la tua procedura di trapianto del volto che prolunga la giovinezza. Thassera possiede altre conoscenze o oggetti unici portati dal tuo mondo natale? A proposito, come si chiama quel mondo?"
+
+### u026783
+"Non sono proprio abiti di Idex, ma chi se ne importa? Basta una parola e la stiva della vostra nave celeste sarà presto colma di vesti thasseriane. Dopo la celebrazione, naturalmente."
+
+### u026784
+"Io... non lo so? Preferirei parlarvi di cose che conosco molto meglio, come l'amasec thasseriano, per esempio."
+
+### u026785
+{n}Il governatore beve un bel sorso dal suo calice.{/n} "Sono un po' brillo, quindi non posso farne a meno! In un giorno come questo sarebbe un crimine non brindare a ospiti così importanti!"
+
+### u026786
+{n}Solomorne si china verso di te:{/n} "Rogue Trader, quando ne avrete abbastanza del governatore, lasciate che gli faccia qualche domanda."
+
+### u026787
+"Ah, la mia amata Idesk... Idex. Purtroppo non ho introdotto molto da essa, oltre all'arte di cambiare volto. Ma forse {mf|il Signore Celestiale|la Signora Celestiale} ha preso a cuore qualcuna delle creazioni originali di Thassera?"
+
+### u026788
+"Vostra Celestiale Altezza deve aver ascoltato molti pettegolezzi. Chi si cura di dove vada la marmaglia dopo? Posso comunque assicurarvi che i vincitori vengono spesso mandati al mio servizio personale. Lo chiamiamo il Sommo Favore e oggi toccherà a voi scegliere su chi concederlo!"
+
+### u026789
+"Meraviglioso! Non appena avrete finito la vostra ricerca, io sarò..." {n}Il governatore tenta di alzarsi da tavola, ma la gravità si rivela più forte di lui.{/n}
+
+### u026790
+{n}Il governatore trascina le parole, come se non ne fosse del tutto sicuro lui stesso, oppure come se ti nascondesse qualcosa.{/n}
+
+### u026791
+"Che cosa?" {n}Uno shrimperius si divincola dalla forchetta del governatore e cade nel suo calice.{/n} "Sì, sono stati degli stranieri a portare i musicisti meccanici... Sono certo di non averli ancora menzionati..."
+
+### u026792
+{n}Il volto dell'uomo si tende al limite sui suoi fissaggi, segno di profonda offesa.{/n} "{mf|Mio Signore Celestiale|Mia Signora Celestiale}! Vi chiedo di non insultarmi così! Magari non sono abituato a conversazioni così elevate, ma credetemi: sono senza alcun dubbio il governatore di Thassera!"
+
+### u026793
+"Grazie per la conversazione, Governatore. Ho appreso tutto ciò che volevo sapere."
+
+### u026794
+"Non metterei mai in dubbio il tuo titolo, Governatore." {n}Solomorne ti rivolge un lungo sguardo.{/n} "E nemmeno il Rogue Trader desidera offenderti."
+
+### u026795
+{n}La voce del governatore è malferma. Sembra già bello alticcio.{/n}
+
+### u026796
+{n}Con un sorriso distratto in direzione della sua orchestra, il governatore aggiunge come di sfuggita:{/n} "La musica... Solleva lo spirito, migliora la digestione e permette di ristorarsi tra una portata e l'altra con un bel ballo in compagnia di un cavaliere galante." {n}Lancia un'occhiata intensa a Solomorne, in piedi accanto a te.{/n}
+
+### u026797
+"Sarebbe un onore." {n}Il volto di Solomorne è un cipiglio impenetrabile. Ti prende la mano, con il palmo saldo e coperto di calli dall'impugnatura delle armi.{/n}
+
+### u026798
+{n}Solomorne cerca chiaramente di muoversi a tempo con la musica, ma con scarso successo: i suoi movimenti rigidi lo fanno sembrare un servitore guasto. La sua presa su di te è delicata, come se fossi un vaso fragile, ma nel suo tocco non c'è alcun brivido di passione. Evita di incrociare il tuo sguardo e guarda di lato, sorvegliando gli ospiti riuniti. Durante il passo successivo, ti calpesta il piede con forza e molto dolorosamente.{/n}
+
+### u026799
+{n}Con un cipiglio ancora più cupo, Solomorne borbotta imbronciato,{/n} "Chiedo scusa."
+
+### u026800
+"Da come parlano, dalla loro mancanza di ritegno: le prelibatezze sconosciute li sopraffanno al punto da farli perdere il controllo. Gli impostori sono spesso spaventati dalla responsabilità caduta sulle loro deboli spalle e cercano di restare vicini ai veri nobili, imitandone i modi raffinati. Durante la caccia, conviene soprattutto prestare attenzione ai gruppi separati dove la conversazione è già iniziata: un impostore spaventato cercherà probabilmente di nascondersi dietro le spalle altrui... Questo è tutto ciò che so, {mf|Signore Celestiale|Signora Celestiale}."
+
+### u026801
+"Ho l'impressione che queste persone abbiano dei mirini al posto degli occhi. E voi e io siamo un bersaglio accoppiato."
+
+### u026802
+{n}Riesci a trascinare Solomorne nel tuo slancio improvviso, i suoi movimenti diventano più aggraziati, i vostri sguardi si incontrano... finché una nuova fitta di dolore ti trafigge l'altro piede.{/n}
+
+### u026803
+{n}La musica si spegne e Solomorne porta la mano all'arma con evidente sollievo, e i suoi movimenti riacquistano subito la loro fluidità predatoria.{/n}
+
+### u026804
+"Analisi in corso... Questo marchio è proprietà della fabbrica alimentare Idex-Venteris. Veniva usato per marcare la carne di esemplari ad alto contenuto proteico della fauna del pianeta. L'iscrizione in proto-Gotico si traduce: 'grox da mangime di cadaveri'."
+
+### u026805
+{n}Jae sbuffa cupa.{/n} "Una rivelazione del genere dà una prospettiva tutta nuova a questo grazioso giochino."
+
+### u026806
+{n}Marazhai inclina la testa di lato, guardando Maive con sconcerto.{/n} "Siete davvero una specie primitiva se i vostri finti nobili sono così facili da smascherare."
+
+### u026807
+"Abomini come voi non vedranno mai la vera luce della fede giusta. Noi siamo i figli del Dio-Imperatore, e voi siete una ferita purulenta sul corpo della galassia, la cui caduta è solo questione di tempo."
+
+### u026808
+"Vedi una bestia priva di libero arbitrio come un esempio da seguire? Io vedo solo uno spirito spezzato, avvinto nelle catene della crudeltà."
+
+### u026809
+"Se la tua lama non obbedisce alla tua mano, un giorno potrebbe trafiggerti la gola." {n}Le parole di Kibellah fanno rabbrividire il governatore.{/n}
+
+### u026810
+"Ma certo, certo... Fermate la musica! Sua Celestiale Altezza desidera silenzio!" {n}L'orchestra semimeccanizzata si ferma scricchiolando, fissando davanti a sé con occhi ciechi.{/n}
+
+### u026811
+"Vi consiglio di assaggiare l'alcedont fritto, le cui corna perforavano ancora i miei cacciatori proprio l'altro giorno. E qui abbiamo degli shrimperius a cinque code in umido, in salsa di occhio nero. Questi tipi vanno mangiati in fretta, prima che schizzino via dal piatto! Quanto ai contorni, dovete assolutamente assaggiare questi croccanti gusci di blaberid conditi con glut blu. Questa spezia vi brucia la lingua, ma fatela seguire da un po' di amasec e vi sembrerà l'acqua stessa della vita!"
+
+### u026812
+{n}Il governatore batte le mani con prontezza.{/n} "Orchestra, musica!"
+
+### u026813
+{n}I tavoli cedono sotto il peso di piatti fumanti, grondanti di grasso e dai profumi piccanti e invitanti. Una bella sfida per uno stomaco non avvezzo, ma {d|Encyclopedia:CharGen_Nobility}tu{/d} hai partecipato a banchetti ben più sontuosi di questo.{/n}
+
+### u026814
+{n}Il governatore scuote la testa con tristezza.{/n} "Oh, che peccato! Ma forse almeno voi vorreste..."
+
+### u026815
+"Preferiresti che interrogassi te al posto del Rogue Trader? Sappi che sono un uomo d'azione, non di parole."
+
+### u026816
+"Possiate essere l'uno il pilastro dell'altro. Otterremo tutto ciò a cui aspiriamo e prevarremo, ma solo insieme potremo farlo, perché non esiste forza più grande della nostra unità."
+
+### u026817
+"Siamo uniti nella nostra fede e nella nostra missione comune: portare alla luce il futuro vittorioso dell'Umanità. Possiate tutti faticare per l'indistruttibile fortezza dell'Imperium e non desiderare alcun'altra vita, perché il Dio-Imperatore è l'unica vera via attraverso le tenebre dell'universo. Gloria all'Imperatore!"
+
+### u026818
+"Preferisco il giovane sacerdote."
+
+### u026819
+"Sì, ce n'è una: la lavandaia, Edytka."
+
+### u026820
+"Scelgo il sarto."
+
+### u026821
+"Servo di Sir Timeus, ti concedo il mio favore."
+
+### u026822
+"Sir Timeus, sei libero di andare."
+
+### u026823
+"Scelgo la dama dalla maschera dorata, che tende trappole ai suoi rivali con tanta maestria."
+
+### u026824
+"Solomorne, forse hai qualcosa da dire?"
+
+### u026825
+[Rivolgi al tuo Siniscalco uno sguardo eloquente] "Abelard?"
+
+### u026826
+"Mi stai prendendo in giro, Ruoldo?"
+
+### u026827
+[Indica a caso uno degli impostori marchiati] "Visto che voi gente amate tanto cianciare di destino, lasceremo che sia la sorte a scegliere!"
+
+### u026828
+"Aspetta. Perché ci sono delle persone qui che non ho marchiato con il marchio dati?"
+
+### u026829
+"Che cos'è il 'Sommo Favore', Ruoldo? Fa parte delle regole del gioco?"
+
+### u026830
+"La vittima del sarto. Sei libero e perdonato."
+
+### u026831
+"Quando la mia nave mi porta tra le stelle, solcando l'infinito vuoto, mi chiedo che cosa possa portare il nuovo giorno. E poi mi ritrovo qui, fino al naso nella sporcizia, in mezzo a un branco di idioti convinti che un cogitatore sia un ninnolo a molla. Vuoi sapere i miei desideri? Be', il mio desiderio è andarmene da questo pianeta il prima possibile. Fine."
+
+### u026832
+"Il vecchio sacerdote. Il Sommo Favore è tuo."
+
+### u026833
+"Tuttavia, mentre la maggior parte di noi si concedeva, direi persino si crogiolava, nell'emozione della Caccia agli impostori, Sua Celestiale Altezza ha distolto i propri nobili pensieri da questi svaghi variopinti per volgerli al dovere. Come può essere questa se non una vera vittoria della volontà sul capriccio? Maive, vieni a presentare il nostro dono al nostro ospite celeste!"
+
+### u026834
+{n}I lumen dei lacerax cibernetici si accendono di un rosso sangue. Prima ancora che i condannati possano gridare, le bestie balzano sulle prede con ringhi affamati.{/n}
+
+### u026835
+"Siete davvero molto gentile, {mf|mio Signore Celestiale|mia Signora Celestiale}." {n}La donna sorride con esitazione e si volge verso il castello. Con un respiro tremante che tradisce le lacrime recenti, si dirige verso le scale.{/n}
+
+### u026836
+"Questa è la brillante decisione di Sua Celestiale Altezza, che per qualcuno potrebbe essere stata davvero fatale! E infine, l'ora che tutti avete atteso: la parte conclusiva della nostra, ehm, conclusione! Il grande banchetto!" {n}La pazienza della folla si è esaurita. Riempiendosi i polmoni, il governatore grida:{/n} "Lacerax! LA CENA È SERVITA!"
+
+### u026837
+"Se fossi stato io al vostro posto, Vostra Celestiale Altezza, non ne avrei indovinato nemmeno uno, anzi oserei dire che avrei... anti-indovinato! Dopotutto, persino una sguattera sembrerebbe una principessa se la si vestisse di sete e merletti. Ma voi siete in grado di vedere attraverso qualunque inganno! Maive, avanti, presenta il nostro dono speciale al nostro ospite celeste!"
+
+### u026838
+"E ora, buoni signori e signore, è giunto il momento delle decisioni fatali! Non esiste che un'unica vera ricompensa, il Sommo Favore, che ogni impostore marchiato desidera. Vi prego, Vostra Celestiale Altezza, ditecelo: tra queste persone ce n'è una degna del favore del Rogue Trader?"
+
+### u026839
+{n}Dalla folla, da qualche parte, senti la voce del buffone:{/n} "Un {d|Encyclopedia:FW_NobleMarkedDecision}torso nobile{/d}, marchiato per volere del Rogue Trader in persona... Oh, che amara ironia! Il mio plauso a voi!"
+
+### u026840
+"Vostra Celestiale Altezza, come ospite d'onore di Thassera, desiderate rivolgere qualche parola di guida al nostro splendido mondo?"
+
+### u026841
+"Gloria!" {n}rispondono le persone mascherate, facendo il segno dell'Aquila sul petto.{/n}
+
+### u026842
+"Come piace a Vostra Magnanimità." {n}Stringendo la gonna sudicia, Edytka si abbassa in una riverenza sgraziata, poi se ne va trascinando i piedi con aria abbattuta.{/n}
+
+### u026843
+"Tutti questi impostori sono stati smascherati da nientemeno che... il nostro ospite celeste, {name} von Valancius! Uno spettacolo insuperabile, Vostra Celestiale Altezza! Bravo, bravo! Maive, presenta il nostro dono!"
+
+### u026844
+"Ma certo, grazie, Vostra Celestiale Altezza! Sapevo che avevate un cuore d'oro e una mente acuta!" {n}La donna ti rivolge una riverenza dignitosa e si avvia verso il castello.{/n}
+
+### u026845
+"Grazie, {mf|mio signore|mia signora}. Sono lieto che il Suo Occhio abbia visto la verità e non abbia lasciato che miseri inganni offuscassero i vostri poteri di intuizione." {n}Con un'aria di profonda saggezza e avvolto nelle sue ricche vesti, il sacerdote si dirige verso il castello.{/n}
+
+### u026846
+"Il Dio-Imperatore vi protegga, {mf|mio signore|mia signora}. L'Imperatore vede nelle nostre anime e ci tiene sempre sulla retta via." {n}Il volto scavato del sacerdote è colmo di umiltà. Si inchina, piegandosi come un albero secco, poi si avvia verso il castello.{/n}
+
+### u026847
+"Grazie, Vostra Celestiale Altezza." {n}L'uomo ti rivolge un breve cenno, poi si volta con sicurezza e si dirige verso il castello.{/n}
+
+### u026848
+"Sono piuttosto bravo a dire la parola 'colpevole'. Ti basterebbe?"
+
+### u026849
+{n}Abelard si aggiusta la giacca.{/n} "Sua Signoria il Rogue Trader {name} von Valancius, sovrano del più grande protettorato della Distesa di Koronus, augura alla vostra patria una rapida crescita e molti secoli di prosperità. Ricordate il vostro dovere e possiate faticare instancabilmente per la gloria del possente Imperium."
+
+### u026850
+{n}Sforzandosi di dare una nota di gravità alla voce, il governatore proclama:{/n} "Radiosissime dame e nobili signori! Dichiaro ufficialmente conclusa la Caccia agli impostori!" {n}La folla risponde con clamorosi applausi.{/n}
+
+### u026851
+"È stato... un grande discorso! Grazie!" {n}Ruoldo tira su col naso rumorosamente, tamponandosi il viso con un fazzoletto.{/n}
+
+### u026852
+"Ben detto! Gloria al nostro sovrano celeste! Gloria! Gloria!" {n}Le maschere ti esaltano, infiammate dalle tue parole.{/n}
+
+### u026853
+"E ora è arrivato il momento fatidico. Chi tra i marchiati riceverà... il Sommo Favore..." {n}Accorgendosi troppo tardi che non hai preso parte alla caccia, il governatore si interrompe e vi lancia un'occhiata timida.{/n}
+
+### u026854
+"N-niente affatto, no! Be', allora..." {n}Il governatore si aggiusta in fretta la veste.{/n} "Voglio dire, l'ora che tutti attendevamo è finalmente arrivata: che il grande banchetto abbia inizio!"
+
+### u026855
+"L'unica vera via attraverso le tenebre dell'universo..." {n}Ripetendo dopo di te, la Sorella della Battaglia sussurra le parole con fervore.{/n}
+
+### u026856
+"Gloria al Padre di Tutti!" {n}La voce di Ulfar tuona sulla folla. Ispirata dalla potenza della sua fede, la gente loda l'Imperatore, gridandone il Nome fino a diventare rauca.{/n}
+
+### u026857
+"Quel buffone è esasperante come un pidocchio di lupo, e altrettanto sfuggente. Perché gli permettono di campare alle spalle della corte del governatore? Non certo per la sua lingua lorda, di sicuro..."
+
+### u026858
+{n}Anche dopo che il diluvio di grida cede il posto a un silenzio reverente, gli occhi di Argenta restano accesi di fuoco zelante.{/n} "Che il Dio-Imperatore sia misericordioso con questo mondo immerso in credenze errate."
+
+### u026859
+{n}Ruoldo si china leggermente verso di te, regalandoti il forte odore dell'amasec.{/n} "E il fatto che vediate davanti a voi più impostori del previsto, serve solo ad accrescere il vostro divertimento, Vostra Celestiale Altezza. Una folla arde più luminosa, come diceva sempre mia madre. Arde, ehm... di rettitudine, naturalmente. Di feroce rettitudine!"
+
+### u026860
+"Secondo le regole, tutti i popolani travestiti devono essere mostrati al pubblico nel finale, così da sapere chi è riuscito a spacciarsi per un vero nobile. Per questo ci sono impostori... che avete scelto di non marchiare." {n}Ruoldo tira nervosamente il colletto dorato, che gli affonda nel collo.{/n} "Dunque... Volete concedere a Thassera qualche parola di commiato?"
+
+### u026861
+"Esatto, Vostra Celestiale Altezza! Colui al quale concederete il vostro favore sarà ricoperto di ogni sorta di onori e andrà a servire nel palazzo del governatore."
+
+### u026862
+{n}I partecipanti alla caccia abbassano la testa, e i loro occhi si spengono.{/n}
+
+### u026863
+"Come desideri." {n}Con una risatina, l'uomo fa roteare le forbici attorno al dito e si avvia verso il castello.{/n}
+
+### u026864
+{n}Senti una risata velenosa tra la folla e riconosci la voce di Bluff. Mentre la piazza annega nel clamore e negli applausi dei curiosi che assistevano al gioco, ti guardi intorno in cerca del giullare di corte, ma non riesci a scorgerlo da nessuna parte.{/n}
+
+### u026865
+"I partecipanti alla nostra mascherata sono già davanti a voi! Avete indovinato? Li avete smascherati tutti? Vi prego, indossate i vostri oculari e osservate bene..." {n}Ruoldo si volta verso di te e sussurra in tono cospiratorio,{/n} "Questa volta a nessun nobile è stato permesso di dare la caccia agli impostori, {mf|mio signore|mia signora}. Eppure, conoscendo la loro passione per questi giochi, sospetto che abbiano tentato comunque di indovinare, in silenzio, tra di loro."
+
+### u026866
+{n}Cade una pausa imbarazzante. Il governatore sorride nervosamente:{/n} "Capisco, Vostra Celestiale Altezza. Tutte queste chiacchiere, cerimonie e protocolli: bastano a far cadere chiunque! Ma credetemi, siamo vicini alla fine."
+
+### u026867
+"Sono assolutamente perplesso dalla logica delle vostre azioni, Vostra Celestiale Altezza, ma almeno non sarò più costretto a tollerare questa feccia. Buona serata." {n}L'uomo si inchina, si aggiusta nervosamente gli abiti e si allontana in direzione del castello.{/n}
+
+### u026868
+"Come faccio a sapere di potermi fidare di te, Maive?"
+
+### u026869
+[Chiudi le palpebre del lacerax] "Riposa in pace."
+
+### u026870
+"Allora, chi bisogna considerare governatore adesso?"
+
+### u026871
+"Ruoldo ha pronunciato il tuo nome prima di morire..."
+
+### u026872
+"Sei davvero scioccata? O fa parte anche questo della recita?"
+
+### u026873
+"Devo dare un'occhiata in giro."
+
+### u026874
+"Portaci al castello."
+
+### u026875
+"Che motivo potrebbe avere tuo fratello per voler sporcarsi le mani con il sangue di un Arbitratore?"
+
+### u026876
+"Per l'anima di chi stai pregando, Maive?"
+
+### u026877
+"Pensavi cosa?"
+
+### u026878
+"Ruoldo ha detto di essere stato marchiato prima di morire... Puoi scansionare anche lui, Solomorne?"
+
+### u026879
+"Dovrei farti giustiziare all'istante, Maive, prima che tu mi pugnali alle spalle..."
+
+### u026880
+"Quello che è successo non è stato un incidente. E se i miei sospetti sono giusti..." {n}L'Arbitratore osserva pensieroso il palmo della propria mano, poi lo porge al suo mastino cibernetico.{/n} "Glaito, analizza."
+
+### u026881
+{n}La visiera del cane brilla mentre scansiona la pelle con una rete di raggi. Infine, si sente un clic metallico e il ronzio decrescente dei servomotori che si raffreddano. Le augmetiche del Proctor rispondono con un lieve ronzio.{/n}
+
+### u026882
+"Lo giuro sull'Imperatore in persona, davanti a voi sono immacolata nello spirito e nel pensiero!"
+
+### u026883
+"Ma io non c'entravo davvero nulla, mio signore! Tutto ciò che mi è stato detto di fare era intrattenere i nostri ospiti celesti e accompagnarli al castello per i colloqui. E invece c'è solo sangue e morte dappertutto!"
+
+### u026884
+"Non ora. Deve accompagnarci al castello. La sua assenza desterebbe i sospetti del nemico, e la rivelazione che sappiamo ciò che sappiamo arriverebbe troppo presto."
+
+### u026885
+"È un mistero anche per me, {mf|mio Signore Celestiale|mia Signora Celestiale}. Ci penso e non riesco nemmeno a immaginare il perché. Ma ultimamente... ultimamente è come se non fosse più lui. Continua a borbottare queste orribili filastrocche su sangue e destino. Ed è come se aspettasse qualcosa, ma io proprio non riesco a capire che cosa."
+
+### u026886
+"Vi prego..." {n}Maive si interrompe mentre Solomorne passa, sfiorandola con la spalla prima di esaminare l'ascensore con occhio critico. Non osando più parlare, la giovane donna fa un gesto d'invito e sale lei stessa sulla piattaforma.{/n}
+
+### u026887
+"Un marchio dati. Il giullare di corte me lo ha messo quando mi ha stretto la mano. Poi i lacerax hanno attaccato tutti coloro che erano stati marchiati. Tuttavia, le bestie non erano affatto ansiose di farvi a pezzi, Rogue Trader. Pare che vi vogliano {mf|vivo|viva}, ma senza la mia protezione."
+
+### u026888
+"Quindi il giullare di corte è tuo fratello?"
+
+### u026889
+"Di mio fratello, {mf|mio signore|mia signora}. Avevo la sensazione che ultimamente non fosse in sé. Se avessi saputo che era finito in cattiva compagnia, li avrei trovati e strangolati con le mie stesse mani!"
+
+### u026890
+"Siete {mf|pronto|pronta}, {mf|mio Signore Celestiale|mia Signora Celestiale}?"
+
+### u026891
+{n}Non appena sei {mf|entrato|entrata} nell'ascensore, da qualche parte sopra di te giunge un breve clangore metallico...{/n}
+
+### u026892
+{n}Poco distante giace il corpo senza vita del lacerax "Numero 4", che hai liberato dalla gabbia. Il pelo è aggrovigliato e appiccicoso di sangue, gli occhi feroci vitrei. Dare la propria vita per proteggere un altro è stato un atto sorprendentemente umano per una bestia.{/n}
+
+### u026893
+"Mio signore giudicatore, vi piacciono gli animali, non è vero? Non avrei mai pensato che aveste un lato... gentile come questo." {n}Il sorriso di Maive è dolce e triste. Per la prima volta, guarda Solomorne senza paura.{/n}
+
+### u026894
+"Quello con gli impianti danneggiati... Forse è stato il motivo per cui la bestia ha disobbedito all'ordine che il resto del branco ha seguito: distruggere tutti i portatori di marchi dati. Oppure forse..." {n}Solomorne ha un'aria pensierosa mentre raddrizza il collare di Glaito.{/n} "Forse era un bell'animale che ha avuto la sfortuna di avere dei cattivi padroni. È la prima creatura incontrata su Thassera che sia stata degna di rispetto."
+
+### u026895
+{n}Solomorne rivolge alla giovane donna un'occhiata pesante.{/n} "Oppure forse è solo che non sopporto le persone."
+
+### u026896
+"Pensavo che fosse mio fratello a chiamare il mio nome, non Lord Ruoldo. Ma Daen non era lì, quindi devo averlo solo immaginato per lo spavento."
+
+### u026897
+{n}Ripensi agli ultimi istanti di Ruoldo. È difficile dirlo con certezza, ma sembrava davvero che la sua voce fosse cambiata, che suonasse più giovane e meno tesa, come se si fosse tolto una maschera.{/n}
+
+### u026898
+{n}Maive si porta un fazzoletto alla bocca e impallidisce, probabilmente ricordando lo spettacolo grottesco della violenta morte del governatore.{/n}
+
+### u026899
+{n}La giovane donna chiude strettamente gli occhi e comincia a sussurrare una preghiera silenziosa.{/n}
+
+### u026900
+{n}Al comando del suo padrone, Glaito dirige i raggi di scansione sulla mano mozzata dell'uomo morto, che in qualche modo è sfuggita all'essere ridotta a brandelli insieme al resto del corpo. Le augmetiche del mastino cibernetico emettono un segnale di avvertimento.{/n}
+
+### u026901
+"Ruoldo era marchiato anche lui. Non poteva saperlo, altrimenti non si sarebbe condannato in quel modo. Suppongo che anche questo sia opera di quel buffone: resta solo da capire se agiva di propria iniziativa o per conto di qualcuno di più importante."
+
+### u026902
+"Non ho idea di cosa stia succedendo! Sono così... confusa." {n}Maive fissa il cadavere dilaniato di Ruoldo con occhi spalancati.{/n} "È solo un orribile incubo? Potrei starmelo sognando? Per un attimo ho pensato... No, mi dispiace. È impossibile."
+
+### u026903
+"È ciò che giurerebbe qualunque eretico messo alle strette per salvarsi la vita."
+
+### u026904
+"Se solo lo sapessi, {mf|mio Signore Celestiale|mia Signora Celestiale}. Se solo lo sapessi..." {n}Gli occhi lucidi di Maive sono pieni di shock.{/n}
+
+### u026905
+"O Dio-Imperatore!" {n}Maive si preme le mani sul petto nel segno dell'Aquila. Le sue labbra sussurrano una preghiera:{/n} "Perdona e proteggi la sua anima! Perdona e proteggi..."
+
+### u026906
+"Sì, mio signore." {n}Maive abbassa lo sguardo.{/n} "Siamo piccola nobiltà ed è un grande onore essere l'intrattenitore di corte personale del governatore..."
+
+### u026907
+"Bravo cavallo! Non stavi cercando di mangiarmi, vero?"
+
+### u026908
+[Esamina il cavallo]
+
+### u026909
+[Guardati intorno nella stalla]
+
+### u026910
+[Lancia il pezzo di cadavere oltre la porta della stalla]
+
+### u026911
+[Grida al cavallo] "Indietro!"
+
+### u026912
+"Ehi, stalliere! Sto per macellare tutti i cavalli qui dentro!"
+
+### u026913
+[Indietreggia]
+
+### u026914
+{n}La creatura che ti ha trascinato fuori dall'incoscienza si rivela essere un cavallo marrone fangoso. Dall'oscurità, la bestia ti segue con i suoi grandi occhi neri: sembra affamata e spaventata.{/n}
+
+### u026915
+{n}Senti un pigro sospiro dall'altra parte. Non sembra che le tue parole abbiano convinto chiunque si trovi là.{/n}
+
+### u026916
+{n}Il cavallo sbuffa e ti mostra i grossi denti. Non è chiaro di che cosa si nutra di solito questa creatura, ma in questo momento mangerebbe volentieri le tue dita.{/n}
+
+### u026917
+{n}Il cavallo si comporta in modo strano, acquattato nell'ombra. Devi averlo spaventato quando hai ripreso i sensi.{/n}
+
+### u026918
+{n}Il cavallo deve aver sfondato il box per raggiungerti. Noti subito la mangiatoia vuota e il mucchio fetido di foglie di ortaggi sotto i tuoi piedi. Per il momento, l'accesso ai rifiuti in putrefazione è bloccato da una recinzione di ferro. Il cavallo nitrisce con inquietudine mentre getta lo sguardo verso la barriera.{/n}
+
+### u026919
+{n}Le narici dell'animale si dilatano per l'agitazione. Si ferma per un secondo, osservando la traiettoria del braccio, poi trotta dietro al bocconcino con un borbottio.{/n}
+
+### u026920
+{n}Sbuffando freneticamente, il cavallo si scaglia contro la porta della stalla e la sfonda di netto.{/n}
+
+### u026921
+{n}La nota d'acciaio nella tua voce spaventa l'animale: il cavallo emette un ringhio e si precipita via.{/n}
+
+### u026922
+{n}Il cavallo sbuffa e mostra i denti. Ha troppa fame per non vederti come una possibile aggiunta alla sua cena.{/n}
+
+### u026923
+{n}Passano alcuni secondi e senti un sommesso borbottio:{/n} "Maledizione. Un altro disgraziato si è intrufolato per il mangime." {n}La porta della stalla si apre sferragliando.{/n}
+
+### u026924
+{n}Il cavallo ti osserva con cautela. Vedi spessi filamenti di saliva colargli dalle labbra.{/n}
+
+### u026925
+[Esamina il lacerax]
+
+### u026926
+"Ed ecco che arriva carne fresca. È l'ora di cena, mostriciattolo!"
+
+### u026927
+[Sblocca la gabbia]
+
+### u026928
+[Uccidi il lacerax]
+
+### u026929
+"Allontanati, Maive. È un ordine."
+
+### u026930
+[Allontanati dal lacerax]
+
+### u026931
+[Prova a riparare l'augmetica della creatura]
+
+### u026932
+"Che cosa stai facendo? Ti ucciderà!"
+
+### u026933
+{n}Le augmetiche di questo lacerax sono altrettanto arrugginite e bisognose di manutenzione, ma la creatura sembra in condizioni molto peggiori delle altre. Emaciata e debole, quasi miserabile, la bestia ti guarda con occhi vitrei mentre ti avvicini. Sulla porta noti un cartello scarabocchiato che dice: "Animale Numero 4. Nom dare da mangiarre!" Lo stesso numero è bruciato sulla pelle del lacerax.{/n}
+
+### u026934
+{n}Lo strano lacerax si rannicchia nell'angolo della gabbia, senza mostrare alcun interesse per te.{/n}
+
+### u026935
+{n}Individui il guasto e lo ripari con facilità: uno dei circuiti era rotto, forse danneggiato in uno scontro con le altre bestie. Quando hai finito le riparazioni, ti coglie una consapevolezza: ora non c'è più nulla tra te e questo enorme predatore...{/n}
+
+### u026936
+{n}Passi i minuti successivi cercando di fare qualcosa per l'augmetica danneggiata del lacerax, ma senza risultato. La stessa concezione di questa tecnologia è troppo incomprensibile e non ti permette di alleviare la sofferenza della bestia.{/n}
+
+### u026937
+{n}Non conosci il funzionamento della serratura meccanica, ma ciò non ti impedisce di disattivarla. La porta della gabbia si apre con uno scricchiolio; tuttavia la bestia all'interno non mostra alcuna reazione.{/n}
+
+### u026938
+{n}La carcassa si accascia pesantemente a terra. Il tormento della creatura è finito.{/n}
+
+### u026939
+{n}Esamini il lacerax, ma non vedi nulla che possa spiegare il suo strano comportamento.{/n}
+
+### u026940
+{n}Provi a infilare la mano all'interno per raggiungere l'augmetica del lacerax, ma le sbarre della gabbia ti costringono a ritirarla.{/n}
+
+### u026941
+{n}L'antiquata serratura si rivela più impegnativa del previsto. Lotti a lungo con il suo meccanismo cilindrico prima di abbandonare il tuo vano tentativo.{/n}
+
+### u026942
+"Ho visto Glaito avere convulsioni così quando le sue augmetiche non funzionavano," {n}dice Solomorne, poi aggiunge con improvvisa rabbia,{/n} "Dubito che gli idioti del posto abbiano la minima idea di come si mantengano gli impianti. Avrebbero dovuto restare alle loro pale e lasciare in pace la bestia."
+
+### u026943
+{n}Solomorne ti rivolge un cenno di rispetto.{/n} "Non solo vi siete {mf|occupato|occupata} dell'augmetica, ma avete anche fatto riconoscere la vostra autorità a una bestia letale con un solo sguardo. Anche se non posso fare a meno di chiedermi quali saranno le ripercussioni di questa evasione..."
+
+### u026944
+"Che creatura desolata... Tutto ciò che finisce nelle catene dei mon-keigh è condannato alla rovina."
+
+### u026945
+{n}All'improvviso vedi qualcosa muoversi con la coda dell'occhio: un turbine di gonne, una figura fragile. Con un piccolo strillo, Maive si getta tra te e la bestia ringhiante.{/n} "Via con te! Stai lontano {mf|dal mio signore|dalla mia signora}!"
+
+### u026946
+{n}La giovane donna trema violentemente, ma non si sposta di un millimetro.{/n} "Meglio me che voi!"
+
+### u026947
+{n}La giovane donna ti lancia uno sguardo disperato ed è sul punto di dire qualcosa... ma non trova mai il coraggio di protestare. Si scosta docilmente.{/n}
+
+### u026948
+{n}Il silenzioso duello con il lacerax dura solo un istante ma sembra un'eternità. Infine, con un ringhio sfinito, la bestia scatta via senza sfiorare nemmeno con un artiglio {mf|il suo liberatore|la sua liberatrice}.{/n}
+
+### u026949
+{n}Maive chiude strettamente gli occhi e stringe le dita sbiancate attorno alla veste. Con un ruggito sonoro, il lacerax scatta rapido in avanti... oltre la fragile figura di Maive e verso la libertà.{/n}
+
+### u026950
+{n}Un rapido esame basta a stabilire la causa del problema: alcune delle augmetiche del lacerax chiaramente non funzionano a dovere. I muscoli vicino ai condotti energetici si contraggono, come se gli spiriti macchina, nella loro furia, torturassero la bestia. È sorprendente che solo questo lacerax mostri tali segni di tormento, considerando il pessimo stato delle augmetiche di tutte le bestie cibernetiche qui.{/n}
+
+### u026951
+{n}Con un lampo delle sue visiere, la bestia comincia a voltarsi lentamente verso l'uscita. Per un breve istante ti ritrovi a un solo metro da un mostro le cui fauci potrebbero spezzare una persona in due. Ti sibila in faccia...{/n}
+
+### u026952
+"Sono io! {rt_name}, il Lord Capitano! Sono qui!"
+
+### u026953
+"Abelard! Presentami al mio seguito!"
+
+### u026954
+"Guardate, ho con me il mastino cibernetico di Solomorne! Ordinerebbe mai al suo cane di fare la guardia a una ragazzetta thasseriana?"
+
+### u026955
+"Sono vittima di una stregoneria profana! Ho bisogno di riavere il mio corpo!"
+
+### u026956
+"Dobbiamo salire! Fidatevi di me: troverete il Rogue Trader in cima! Dite al pilota della navetta di portarci lassù, a me non dà retta!"
+
+### u026957
+"Ehm... Io sono {rt_name} von Valancius, erede di Theodora von Valancius, che perì nel corso del tradimento di Kunrad Voigtvir! Che altro devo tirare fuori dal mio passato perché mi crediate?"
+
+### u026958
+"Rallegratevi, tutti quanti, perché il Rogue Trader von Valancius è tornato da voi!"
+
+### u026959
+"Finalmente vi ho trovato! Ho bisogno del vostro aiuto!"
+
+### u026960
+[Chiama il pilota per nome] "Il Lord Capitano è in pericolo! Tornate alla navetta, presto! Devo arrivare in cima alla torre!"
+
+### u026961
+[Gettati ai piedi del pilota] "Vi imploro, in nome del Lord Capitano! Dobbiamo salire subito: la dinastia von Valancius è in pericolo!"
+
+### u026962
+{n}Abelard trasalisce.{/n} "Quel tono..." {n}Il Siniscalco ti squadra da capo a piedi con stupore, ma vedi che è ancora incerto.{/n}
+
+### u026963
+{n}Idira ti fissa, e le sue sopracciglia cominciano a salire.{/n} "Che mi prenda un accidente... o sono completamente impazzita, o... No, è pura follia! Il Lord Capitano, nel corpo di quella dama di corte? Bella questa, sussurri!" {n}Comincia a strofinarsi gli occhi come per schiarirli.{/n}
+
+### u026964
+{n}Cassia si acciglia, coprendosi la bocca con la mano.{/n} "Questi colori... È come se fossero stati copiati da quelli che di solito vedo attorno al Lord Capitano..."
+
+### u026965
+{n}Il suggerimento di smettere di arrovellarsi sulla tua identità e di cominciare ad agire sembra aver avuto effetto: almeno, nessuno discute più con te.{/n}
+
+### u026966
+{n}Il tuo seguito esita. Sembra che il tuo argomento suoni abbastanza convincente da instillare almeno un seme di dubbio nelle loro menti.{/n}
+
+### u026967
+{n}Il tuo seguito si scambia qualche parola, incapace di spiegare come tu sappia tali dettagli.{/n}
+
+### u026968
+{n}Il tuo seguito esita. Alcuni si scambiano occhiate perplesse, altri aggrottano la fronte e ti fissano intensamente, come sperando di vedere segni evidenti di stregoneria.{/n}
+
+### u026969
+{n}Heinrix fa una smorfia e alza lo sguardo con aria dubbiosa.{/n} "Potrei sbagliarmi, dato che questo pianeta maledetto ha troppe fonti di energie warp, ma mi pare di percepire un'eco dell'Immaterium provenire dall'alto..."
+
+### u026970
+{n}Abelard aggrotta la fronte: ciò che ha appena sentito non piace al vecchio ufficiale.{/n} "Oh, non mi sento tranquillo, anche se il Lord Capitano ha riferito che va tutto bene. C'era qualcosa nella sua voce che non andava... D'altra parte, c'è anche il Proctor, lassù..."
+
+### u026971
+"Zitti, vocine... Eh, stanno proprio dando di matto. Sai che c'è? Non mi importa che cosa ha detto il Lord Capitano: c'è qualcosa che non va!"
+
+### u026972
+{n}Marazhai si guarda intorno con un ghigno sinistro.{/n} "Lasciarmi annoiare mentre sono circondato da tutta la preda spaventata che brulica in questo castello è quanto mai imprudente..."
+
+### u026973
+"Kae-morag! Sono l'unica a sentire le strane note nella voce dell'elantach? Dobbiamo salire in cima!"
+
+### u026974
+"Dio-Imperatore, concedimi la pazienza di sopportare questa attesa oziosa." {n}Argenta fa il segno dell'Aquila e scivola in quella che sembra una preghiera silenziosa.{/n}
+
+### u026975
+{n}Jae scuote il piede con impazienza, e il tallone batte sonoramente sulle pietre del selciato.{/n} "Prima quell'ascensore, ora il Rogue Trader è bloccato nell'archivio locale. L'intuito mi dice che ci stanno prendendo in giro, e che stando qui impalati facciamo il loro gioco..."
+
+### u026976
+"Ogni momento trascorso lontano dal Domin' è un'altra sconfitta per me..."
+
+### u026977
+"Hmph... Mia cara, non eri tu quella incaricata di sorvegliare il Rogue Trader?"
+
+### u026978
+{n}Il labbro di Heinrix si arriccia mentre ti guarda.{/n} "Emanazioni warp... e forti per giunta. Stregoneria all'opera... sotto i nostri occhi." {n}Le sue dita si stringono sull'arma.{/n}
+
+### u026979
+"Non è quella timida damigella di compagnia che era stata assegnata alla mia shereen? Pare che abbia perso anche il Lord Capitano... e per giunta la ragione."
+
+### u026980
+{n}Abelard si acciglia.{/n} "Avreste potuto memorizzare qualche fatto dalla biografia del Lord Capitano... Dobbiamo giocare agli indovinelli, adesso?"
+
+### u026981
+{n}Heinrix si acciglia.{/n} "Non mente sulla stregoneria. C'è una strana corrente di energia warp che fluisce da lei, e conduce da qualche parte... lassù."
+
+### u026982
+"Non piangere, bambina. Reciderò il tuo filo in fretta e senza dolore prima che la tua anima soccomba alla corruzione."
+
+### u026983
+"Non il tentativo più abile, topolina. La nostra shereen avrebbe escogitato di meglio."
+
+### u026984
+"Questa affermazione... è potenzialmente vera. I protocolli dei mastini cibernetici sono difficili da violare e sovrascrivere, tanto meno..." {n}Pasqal lancia uno sguardo cupo attorno a sé.{/n} "In una cultura primitiva come questa."
+
+### u026985
+"Le prove sono difficili da confutare... a meno che l'Arbitratore non sia stato in qualche modo costretto."
+
+### u026986
+"Se qualcosa potesse indurre Solomorne a separarsi dal suo fedele cane, sarebbe una minaccia al Lord Capitano..."
+
+### u026987
+{n}Il vox nella mano del tuo compagno parla con la tua stessa voce:{/n} "Non c'è motivo di preoccuparsi! Il Proctor e io stiamo esaminando i documenti... insieme al governatore. Tornerò non appena avremo finito qui..." {n}Si sente un forte clic, che indica che dall'altra parte hanno interrotto la comunicazione.{/n}
+
+### u026988
+{n}Non appena ti avvicini, l'attenzione di tutti si sposta su di te. Per ora, la loro reazione sembra più simile a un'irritazione trattenuta che a un'aperta ostilità.{/n}
+
+### u026989
+{n}La tua pomposa dichiarazione zittisce per un momento il gruppo, che ti fissa in totale sconcerto. Qualcuno lascia sfuggire una risatina imbarazzata.{/n}
+
+### u026990
+{n}Le tue parole sono accolte da sguardi di sconcerto. Persino la vista di Glaito al tuo fianco sembra solo sollevare altre domande.{/n}
+
+### u026991
+{n}All'inizio non ti notano. Ma dopo un momento, uno a uno, volgono gli sguardi verso di te. Il silenzio cala sulla strada.{/n}
+
+### u026992
+"Vermi deboli! Vi sentite coraggiosi a mettere così alla prova la mia pazienza? Presentate l'Aett-Vater! Avanti, {rt_mf|fatelo|fatela} scendere quaggiù: il viaggio è abbastanza breve!" {n}La voce di Ulfar è come un tuono, e le pareti stesse sembrano tremare al suo possente eco.{/n}
+
+### u026993
+"Strano uccellino! Tutti desiderano indossare il mantello dell'Aett-Vater, ma pochi ne sopporterebbero il peso. Va' a raccontare le tue storie altrove."
+
+### u026994
+"Attivazione della modalità standby." {n}Pasqal emette un lieve ronzio mentre comincia la sua preghiera binarica.{/n}
+
+### u026995
+{n}Vedi il tuo fidato pilota della navetta: pare che sia andato in cerca del suo Lord Capitano quando sei {mf|scomparso|scomparsa}. Senti una voce uscire dal vox che tiene in mano: la tua stessa voce, che dice al pilota che tutto è in ordine e che tornerai alla navetta una volta finito di esaminare i documenti della decima. A giudicare dalle sopracciglia corrugate, il pilota ha qualche riserva sull'eseguire gli ordini che riceve.{/n}
+
+### u026996
+{n}Il pilota ti fissa sbigottito mentre cerca di capire come una sconosciuta del posto conosca il suo nome, ma la sua confusione dura solo un momento. Con un cenno di cupa determinazione, ti afferra per il gomito e si affretta con te lungo la strada verso la navetta.{/n}
+
+### u026997
+{n}Il pilota guarda a bocca aperta la pazza davanti a lui, ma la menzione della dinastia dei Rogue Trader lo scuote dal suo stupore. Ti tira in piedi senza troppi complimenti, ti afferra per il gomito e si affretta con te lungo la strada fino a dove la navetta è in attesa.{/n}
+
+### u026998
+"Una presentazione estremamente atipica per il Rogue Trader, carissimo collega." {n}Nuncius, che fluttua lì accanto, esprime il suo tacito accordo.{/n} "La cadenza della voce differisce dalla norma e una simile indecisione non è caratteristica della sua personalità... Psicosi? Una curiosa ipotesi."
+
+### u026999
+"Lasciate che dia un'occhiata più da vicino." {n}Eogunn fluttua verso di te, la sua forma massiccia irta di manipolatori mentre incombe su di te.{/n} "Hmm... politrauma complesso... forse shock cardiogeno... Stato crepuscolare isterico o delirio oniroide? O qualcosa di veramente inconcepibile? Hai ragione, Nuncius, un esame sommario non basta!"
+
+### u027000
+"Continuiamo la nostra passeggiata."
+
+### u027001
+"Come ti trovi a vivere alla corte del governatore?"
+
+### u027002
+[Menti] "Davvero? Non solo L'ho visto, ma Gli ho anche consigliato personalmente come governare l'Imperium."
+
+### u027003
+"Molto piacevole."
+
+### u027004
+"Ahimè, no. Il nostro Dio-Imperatore risiede sulla Sacra Terra, a molti secoli luce da qui. Vederlo è un privilegio negato a tutti tranne pochi."
+

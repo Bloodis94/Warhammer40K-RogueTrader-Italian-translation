@@ -1,0 +1,901 @@
+### u031765
+"Mi rifiuto di chiamare nemici i servitori del Trono d'Oro, tanto meno di spiegare le mie ragioni per collaborare con loro."
+
+### u031766
+{n}Juvenna si inginocchia con grazia, attenta a non fare alcun movimento superfluo. La sua voce sale in un grido squillante:{/n} "Tutto ciò che faccio è per il bene della dinastia von Valancius!"
+
+### u031767
+"In nome di Seberian von Valancius, l'unto dell'Imperatore, io, Siniscalca della Dinastia Laria Voigtvir, ti condanno a morte, traditore." {n}La Siniscalca pronuncia ogni parola con tono atono, la mascella che si muove rigidamente.{/n} "Per volontà del Dio-Imperatore, sia fatta giustizia." {n}Il mondo sprofonda in un mare di fuoco di armi che ti dilania la carne, e l'ultima cosa che vedi prima che cali il buio è lo sguardo furioso e disperato di Laria.{/n}
+
+### u031768
+"È tutta una menzogna! Siamo in una trappola xenos! Guardate il cielo: semplicemente non c'è!"
+
+### u031769
+"Vengo dalla Casata Gaprak. Posso parlarvi un momento?"
+
+### u031770
+"Dunque questo è il vero assassino del rampollo dei Gaprak."
+
+### u031771
+"Sapete chi è Elana?"
+
+### u031772
+"Sapete che fine ha fatto l'esercito dei Gaprak?"
+
+### u031773
+"Ahimè, sono della stirpe dei Kalivin."
+
+### u031774
+"Perché l'avete fatto, Camilla? L'uomo dei Gaprak doveva aiutarci, portare un esercito!"
+
+### u031775
+"Come avete corrotto Isimond Sauerback?"
+
+### u031776
+"Come è andata esattamente?"
+
+### u031777
+"Avete scelto un momento curioso per gli intrighi di corte."
+
+### u031778
+"Sembra che voi stessa siate caduta vittima della sottile manipolazione di una sola persona..."
+
+### u031779
+"Allora prendetevi la vostra vendetta: vi prometto che troverò un momento che sarà particolarmente doloroso per Juvenna."
+
+### u031780
+"Suppongo di poter mantenere il vostro segreto. Ma ricordate che mi siete debitrice."
+
+### u031781
+"Devo deludervi: appartengo al ramo dei Gaprak-Olwen."
+
+### u031782
+"Ci siete {mf|andato|andata} vicino. Appartengo al ramo dei Subord Shaba."
+
+### u031783
+"Impressionante! Sono davvero dei Noblis Minoris Uratli."
+
+### u031784
+"Non sbaglierei a definirvi la governatrice di Dargonus?"
+
+### u031785
+"Mio errore. Avete ragione. Mi scuso."
+
+### u031786
+[Convinci Camilla a fare ciò che le ordini]
+
+### u031787
+"Mi è stato indicato che siete un'eccellente conversatrice. Posso implorare qualche momento del vostro tempo?"
+
+### u031788
+"Lasciamo da parte i convenevoli e veniamo al punto."
+
+### u031789
+"Ho l'onore di essere {mf|un amico|un'amica} di Juvenna von Valancius. Posso scambiare due parole con voi?"
+
+### u031790
+"Mi manda Laria Voigtvir. Ho qualcosa di cui discutere con voi."
+
+### u031791
+[Chiama Laria via vox] "Ho trovato qualcuno da arrestare."
+
+### u031792
+"Camilla Drivestem, Duchessa di Dargonus. Vi serve qualcosa?" {n}L'anziana signora che attira il tuo sguardo è più pacata delle altre. Le sue dita ossute scorrono con regolarità lungo una corona di preghiera tempestata di gioielli.{/n}
+
+### u031793
+"Vedo che anche voi siete abile nei giochi di corte. Bene. Attenderò il vostro segnale, {mf|mio caro|mia cara}."
+
+### u031794
+{n}Camilla perde subito interesse per te, sprofondando nei suoi pensieri.{/n}
+
+### u031795
+"No. E dato che ci siamo, al momento la questione non mi interessa affatto." {n}Con un breve scatto, Camilla sposta una perla della collana che tiene tra le mani.{/n}
+
+### u031796
+"Un incontro del tutto inaspettato! Mi hanno infatti informata che l'esercito dei Gaprak è, ehm, in ritardo. Suppongo che questo faccia di voi l'avanguardia?" {n}Con un tintinnio, la Duchessa sfiora una perla del rosario e ti fissa con uno sguardo penetrante.{/n}
+
+### u031797
+"Mi era stato riferito che i Gaprak avrebbero dovuto essere già arrivati al palazzo. Forse è successo qualcosa lungo la strada, o forse la nobile casata ha deciso che difendere Dargonus non è tra le sue priorità."
+
+### u031798
+"Chiedo scusa? Ho sentito male, o avete affermato di far parte di una famiglia perita in un salto warp cento anni fa?"
+
+### u031799
+{n}La tua domanda allarma la Duchessa: lei intreccia subito le dita secche, cercando di nascondere la propria agitazione.{/n}
+
+### u031800
+{n}Come stirpe nobile, i Gaprak non sono meno antichi dei Drivestem. Forse l'idea di trovarsi al loro posto ha reso Camilla ansiosa.{/n}
+
+### u031801
+"Le forze dei Gaprak erano ridicole. Sono state sbaragliate in un attimo. La Casata von Valancius non ha bisogno di simili vassalli: anzi, ho reso un favore alla dinastia eliminando il verme che si era trascinato fino ai cancelli del suo signore, non per offrire potenza militare, ma per mendicarla. Non cerco la vostra comprensione: serve parecchia esperienza per apprezzare il significato di un simile atto."
+
+### u031802
+"Non c'è bisogno di insinuazioni tanto meschine: la corruzione non c'entra nulla! I Sauerback sono gente insignificante, con ben pochi privilegi a corte. L'unico modo per allettare uno di quella risma è la promessa di un titolo nobiliare. Ma ora Isimond non lo avrà, perché non sa tenere la lingua a freno."
+
+### u031803
+"Ah, dunque il mio accusatore non conosce tutta la storia? Permettetemi di illuminarvi. Accadde al cambio della guardia: una tempistica terribilmente comoda. Quell'abile Sauerback ha sistemato il giovane Gaprak sopravvissuto ed è tornato all'avamposto come se nulla fosse. Non conosco il resto dei dettagli: certe cose tolgono l'appetito."
+
+### u031804
+"Una strana osservazione per {mf|un amico|un'amica} di Lady Juvenna. Dovreste imparare dalla sua lungimiranza."
+
+### u031805
+"Assurdo!" {n}Priva delle sue consuete perle di preghiera, la duchessa affonda le dita nel bordo della cintura riccamente decorata.{/n} "Tutto ciò che mi ha detto è che Ovedius Gaprak sarebbe arrivato senza scorta. Da anni la mia casata combatte contro l'influenza di quegli sfrontati dal cervello da servitore; sarebbe stato sciocco non cogliere un'occasione così splendida..." {n}La duchessa tace nell'udire le proprie parole. I suoi occhi si offuscano per un istante come vetro incrinato, e all'improvviso appare come una vecchia piangente e ferita. Fa un passo avanti, schiacciando una perla sotto il tacco.{/n}
+
+### u031806
+{n}La duchessa sussulta e il filo di seta della collana si spezza, facendo rotolare le perle sul pavimento.{/n} "È al di là dell'impertinenza accusare il capo di una casata nobile di un'offesa tanto infame. Anche se ci fossero prove, qui voi non siete nessuno, e la vostra parola non vale nulla contro la mia. Ascolterò le vostre fandonie, ma solo perché di certo comincereste a importunare altre persone importanti. Non possiamo permetterci pettegolezzi in un momento come questo."
+
+### u031807
+"Bene. Datevi pure una pacca sulla spalla: mi avete aperto gli occhi. Lady von Valancius ha sempre preferito agire tramite intermediari, e questo le dava un onore speciale agli occhi dell'aristocrazia. A quanto pare questa volta io sono stata il suo strumento." {n}Il volto innaturalmente pallido e simile a una maschera della Duchessa di Dargonus si apre in un ghigno amaro e rancoroso.{/n} "La ragazza ha imparato dalla migliore."
+
+### u031808
+{n}Quando gli uomini di Laria arrivano, Camilla Drivestem non oppone resistenza. Con silenziosa dignità, la duchessa tende le braccia ai tutori dell'ordine e se ne va al loro seguito.{/n}
+
+### u031809
+"Ho avuto l'onore di conoscere molti Gaprak nel corso della mia lunga vita, ma non ricordo voi. Dovete appartenere al ramo più giovane, {mf|mio caro|mia cara}? Avete di certo la severità dei Subord Shab. Ma poi quegli occhi... Ramo dei Kalivin? No, no, perdo colpi: siete decisamente dei Noblis Minoris Uratli!"
+
+### u031810
+"Ma certo! Sono lieta che siate {mf|riuscito|riuscita} a raggiungerci {mf|illeso|illesa}. Un futuro splendente attende una casata di tale perseveranza."
+
+### u031811
+"Temo che non esista un ramo simile, {mf|povero caro|povera cara}."
+
+### u031812
+"Be', è piuttosto imbarazzante... dato che i Kalivin sono una piccola diramazione della Casata Drivestem. Una dozzina di anime in tutto, e le conosco una per una."
+
+### u031813
+"Ecco un'ultima lezione per voi, giovane {mf|signore|signora}: al momento solo un membro dei Gaprak-Olwen potrebbe mettere piede su Dargonus. Anche se... è piuttosto sconveniente che i morti vengano a corte. Guardie!" {n}I soldati che ti circondano non lasciano alcuna speranza di vittoria. L'ultima cosa che senti è il secco scatto di una perla tra le dita di Camilla Drivestem.{/n}
+
+### u031814
+{n}Le guance rugose di Camilla si imporporano, visibili perfino attraverso il generoso strato di cipria.{/n} "Oh, suvvia, {mf|mio signore|mia signora}! Non so chi vi abbia fuorviato, ma quel compito spetta alle giovani ma capacissime mani di Lady Juvenna von Valancius. Certo, quando verrà il suo momento di prendere il timone della dinastia, servirà un alleato leale a ricoprire la posizione qui. Ma per ora Dargonus non potrebbe desiderare un amministratore migliore."
+
+### u031815
+"Chiedo scusa?" {n}Camilla serra le labbra sottili, con un'espressione di lieve repulsione nello sguardo.{/n} "{mf|Povero caro|Povera cara}, dovete essere sotto shock. Non mancate di consultare il chirurgo."
+
+### u031816
+{n}Camilla Drivestem incrocia il tuo sguardo e solleva le sopracciglia finemente disegnate in segno interrogativo.{/n}
+
+### u031817
+"Il mio tempo è prezioso, perciò vi prego di non sprecarlo. Con la perdita delle forze dei Gaprak, l'esercito dei Drivestem è rimasto l'unica fonte di sostegno della dinastia, e in quanto maresciallo del dominio ho molto da pianificare."
+
+### u031818
+"E voi, invece, impudente {mf|monello|monella}? Portate il nome di un morto, accusate una onorevole duchessa di un crimine. Ancora non capisco da che parte stiate."
+
+### u031819
+"Dirò una sola cosa: chiunque tenga davvero alla dinastia sa che essa non sa che farsene di alleati deboli. I nobili Drivestem staranno con i von Valancius fino alla fine. I Gaprak, invece, prima o poi trascineranno con sé tutta l'alta nobiltà. Pensate di me ciò che volete, ma sappiate che Lady Juvenna vede la faccenda come me."
+
+### u031820
+"Non cercherò di oppormi. Tanto tra un attimo sarò di nuovo qui."
+
+### u031821
+"La cera è ancora calda. Devi credermi, per quanto sembri folle."
+
+### u031822
+"Elana saresti tu?"
+
+### u031823
+"Dimmi tutto quello che sai sui rinforzi."
+
+### u031824
+"Tutto ciò che sta accadendo è colpa di Seberian von Valancius. Consegnatelo al nemico e purificate il palazzo dall'eresia!"
+
+### u031825
+"Sarà difficile da spiegare, ma siamo intrappolati in un ciclo temporale."
+
+### u031826
+"Per ora è tutto."
+
+### u031827
+"Seguimi e vedrai con i tuoi occhi."
+
+### u031828
+"Lascia che le parli prima io."
+
+### u031829
+"È tutto."
+
+### u031830
+"Ho trovato qualcosa all'avamposto. Dovremmo parlarne."
+
+### u031831
+"Lascia Camilla Drivestem a me, avrà ancora la sua parte da recitare."
+
+### u031832
+"Lascia perdere. È più difficile da spiegare di quanto pensassi."
+
+### u031833
+"Se lo merita."
+
+### u031834
+"Sospendi l'arresto, desidero parlargli."
+
+### u031835
+"Juvenna von Valancius sta trasmettendo informazioni sul quartier generale del comando dell'Inquisizione proprio in questo momento."
+
+### u031836
+[Presenta le prove] "Gaprak è caduto per mano di Isimond Sauerback."
+
+### u031837
+"Camilla Drivestem è responsabile della morte di Gaprak."
+
+### u031838
+"Una delle tue persone sta trasmettendo informazioni all'Inquisizione via vox."
+
+### u031839
+[Presenta le prove] "Il rampollo dei Gaprak è morto."
+
+### u031840
+"Il sistema di torrette di difesa aerea è stato danneggiato dal nemico."
+
+### u031841
+"La prossima mossa del nemico sarà bombardare il quartier generale o la nostra linea difensiva."
+
+### u031842
+"Pensaci: come avrei potuto infiltrarmi nel palazzo, circondato com'è dall'Inquisizione?"
+
+### u031843
+"Allora come faccio a sapere che il bracciolo destro del trono nella sala del palazzo è leggermente più alto del sinistro?"
+
+### u031844
+"Questo è tutto ciò che so."
+
+### u031845
+"Conosci il codice principale per controllare i cancelli?"
+
+### u031846
+"Sai, tra secoli il tuo sangue scorrerà nelle vene di una persona di nome Kunrad..."
+
+### u031847
+"Ho qualcosa da dirti."
+
+### u031848
+"Dammi la possibilità di provare che dico la verità!"
+
+### u031849
+[Attacca prima Laria]
+
+### u031850
+"Siamo in una trappola, Laria. Qualcosa sta accadendo alla realtà e le fa ripetere se stessa per sempre."
+
+### u031851
+"Secondo te, quale dovrebbe essere la mia prossima mossa?"
+
+### u031852
+"Hai chiamato Seberian von Valancius 'Padre'?"
+
+### u031853
+"Dunque è da qui che viene il sangue dei von Valancius nei Voigtvir!"
+
+### u031854
+"Come è successo?"
+
+### u031855
+"Basta con questo argomento."
+
+### u031856
+"Sì. Mi dispiace dirlo, ma ha subito un destino poco invidiabile."
+
+### u031857
+"Conosco il tuo lontano discendente. Non ti somiglia affatto."
+
+### u031858
+"Seberian è bloccato in questa trappola da molti cicli. Dobbiamo tirarlo fuori."
+
+### u031859
+"Per salvare Seberian, al momento giusto, devi allontanarti da lui e fidarti di Juvenna."
+
+### u031860
+"Troverò una soluzione."
+
+### u031861
+"Forse sono stat{mf|o|a} troppo precipitos{mf|o|a} nella mia accusa."
+
+### u031862
+"Vedete... dovevo salvare me stess{mf|o|a}. Non so quale sia stato il destino degli altri."
+
+### u031863
+"Pensavo che i rinforzi fossero già qui! Anch'io vorrei sapere che cosa ne è stato."
+
+### u031864
+"Se ammettete che ho ragione sul ciclo temporale—"
+
+### u031865
+"Desidero parlare dei rinforzi scomparsi dei Gaprak."
+
+### u031866
+"Mi scuso, ma ho mentito. Non sono {mf|un Gaprak|una Gaprak}, ma non sono nemmeno {mf|un nemico|una nemica} della dinastia."
+
+### u031867
+"La cera è ancora calda, Siniscalco."
+
+### u031868
+"Il rampollo dei Gaprak è stato ucciso per istigazione di Juvenna. È stata lei a spingere Camilla Drivestem ad agire."
+
+### u031869
+"Dovevo oltrepassare l'avamposto, ma vengo con buone intenzioni."
+
+### u031870
+"Non capite: tutto ciò che vedete è solo un'illusione. Siete imprigionati in un ciclo temporale."
+
+### u031871
+"L'ho ricevuto dal vostro agente come segno di somma fiducia e sono venut{mf|o|a} qui a offrire il mio aiuto."
+
+### u031872
+"Grazie per la vostra fiducia. Che cosa posso fare per voi?"
+
+### u031873
+"E ora mi chiederete di scoprire che cosa ne è stato dei rinforzi scomparsi."
+
+### u031874
+"Non ancora. Ma i tempi difficili offrono a {mf|servitori|serve} come me la possibilità di dimostrare la propria utilità."
+
+### u031875
+"Per ora è tutto."
+
+### u031876
+"Credo di avere un sospettato."
+
+### u031877
+"Un destino poco invidiabile al crepuscolo della vita, ma non si può farci nulla."
+
+### u031878
+"È ora di consegnare Camilla Drivestem per l'interrogatorio."
+
+### u031879
+"Ho visto come va a finire: al consiglio di guerra, Seberian non ascolta il suo seguito e si affida solo alla spada."
+
+### u031880
+"Sei stata tu stessa a suggerirmi di usarlo come prova che siamo in un ciclo temporale."
+
+### u031881
+"Non mi conosci, ma io conosco te. Siamo intrappolati in un ciclo temporale, e te lo dimostrerò."
+
+### u031882
+"Non avete idea! Siamo prigionieri di una trappola xenos, a girare in tondo all'infinito, senza speranza di resistere alla loro volontà perversa!"
+
+### u031883
+"Ho trovato tracce di danni termici caratteristici di un'arma al plasma."
+
+### u031884
+"Ho trovato una scia di sangue che va dall'avamposto al balcone. Un corpo è stato trascinato e poi gettato di sotto."
+
+### u031885
+"Ho trovato un anello con lo stemma dei Gaprak."
+
+### u031886
+"Non ho trovato nient'altro."
+
+### u031887
+"Sauerback mente sulla sua ferita."
+
+### u031888
+"Sauerback è l'unico ad avere un fucile al plasma, un dono di tuo padre."
+
+### u031889
+"Sauerback è certo che gli verrà presto concesso un titolo nobiliare."
+
+### u031890
+"Oggi Sauerback era di guardia all'avamposto solo con i suoi uomini."
+
+### u031891
+"Non ci sono altre prove a conferma dei miei sospetti."
+
+### u031892
+"Risponderò con altrettanta franchezza: posso esservi utile. Ditemi solo come."
+
+### u031893
+"Non incolparti. Chi avrebbe potuto prevedere un esito simile?"
+
+### u031894
+"L'assassino di un mio parente deve essere processato senza indugio!"
+
+### u031895
+"Questa faccenda mi riguarda personalmente. La duchessa deve essere punita subito!"
+
+### u031896
+"Avrebbe dovuto essere la tua risposta fin dall'inizio. Non è chiaro che le mie parole vanno ascoltate?"
+
+### u031897
+"È Seberian che dovrebbe essere sconvolto. Se il mio Siniscalco avesse permesso che mi capitasse una cosa simile, ne sarei profondamente {mf|deluso|delusa}."
+
+### u031898
+"Persino un grox ne sa più di te. E se stessi dicendo la verità?"
+
+### u031899
+"La tua espressione è impagabile già così, ma sta per diventare ancora migliore. Mi hai detto tu stessa la frase in codice."
+
+### u031900
+"Dovresti essere felice che qualcuno sia davvero riuscito a venirti in aiuto."
+
+### u031901
+"Vedo che accogliere gli ospiti non è tra i tuoi talenti. Allora, che cosa vuoi che faccia?"
+
+### u031902
+"Non importa. È solo che l'incontro con il tuo discendente non è stato piacevole."
+
+### u031903
+[Convinci Laria che siete in un ciclo temporale]
+
+### u031904
+[Va' con Laria alle mura e arresta Juvenna]
+
+### u031905
+"Juvenna è una spia dell'Inquisizione. Ne sono {mf|sicuro|sicura}."
+
+### u031906
+"Non stai forse fidandoti un po' troppo in fretta di {mf|un estraneo|un'estranea}?"
+
+### u031907
+"Da dove dovrei cominciare la mia indagine?"
+
+### u031908
+[Mostra l'ordine di Juvenna] "A quanto pare Isimond si è dato molto da fare per guadagnarsi un titolo nobiliare."
+
+### u031909
+"Fermo. Non ti lascerò vedere Padre, cioè il Lord Capitano, finché non mi avrai dato spiegazioni." {n}Una donna in armatura leggera ti afferra per il gomito. Il suo volto porta i segni di una battaglia recente: ha il sopracciglio bendato e la guancia destra coperta da una ragnatela di graffi. Gli occhi azzurro ceruleo, gli zigomi affilati e la testarda piega delle labbra tradiscono una spiccata somiglianza con la Maestra dei Sussurri fuggiasca di Theodora.{/n} "Sono Laria Voigtvir, Siniscalco e stretta alleata di Seberian von Valancius."
+
+### u031910
+"Stai scherzando? Dargonus è in pericolo. Padre è in pericolo! E tu vuoi discutere dell'arredamento del palazzo?" {n}Laria stringe i pugni così forte che le nocche diventano bianche.{/n}
+
+### u031911
+"Potevi esserti accordat{mf|o|a} con i soldati dell'Inquisizione, aver ingannato le guardie ai cancelli. Nulla di straordinario." {n}La Siniscalca lo dice con tanta noncuranza come se lei stessa l'avesse fatto molte volte.{/n}
+
+### u031912
+"Juvenna ha davvero tradito Padre?" {n}Il volto di Laria diventa cinereo.{/n} "Hai prove?"
+
+### u031913
+"Uccidere i propri alleati nel mezzo di un assedio è disprezzabilmente basso, qualunque sia il motivo. Il... tutore dell'ordine sarà trattenuto immediatamente." {n}Laria lancia un'occhiata torva in direzione dell'infermeria.{/n}
+
+### u031914
+"Ordinerò l'arresto della duchessa. Creare problemi quando siamo già sotto attacco? A volte non capisco come Padre riesca a sopportarli."
+
+### u031915
+"D'altra parte, che cosa ho da perdere? I miei agenti hanno frasi in codice per i rapporti più vitali. Pronuncia le parole 'La cera è ancora calda' e ti ascolterò, anche se quello che dici suona come spazzatura. Come quello che stai dicendo ora, in effetti. Addio." {n}L'ultima cosa che senti è il suono di un singolo sparo.{/n}
+
+### u031916
+{n}Noti le pupille della Siniscalca contrarsi per un istante.{/n} "Va bene, ti starò al gioco. Parla."
+
+### u031917
+"Che razza di assurdità eretica è questa?" {n}La donna si massaggia le tempie con aria stanca.{/n} "Sì, abbiamo le nostre difficoltà con l'Inquisizione. Ma sono di natura un po' diversa."
+
+### u031918
+"Ti sbagli. L'unica Elana che conosco è Elana l'Incrollabile, la santa del Settore {g|Encyclopedia:CalixisGlossary}Calixis{/g}. Difficilmente si schiererebbe dalla nostra parte in questo."
+
+### u031919
+"Francamente, le informazioni sono scarse, e questo è scoraggiante. I rinforzi avrebbero dovuto arrivare al più tardi mezza giornata fa, ma qualcosa li ha ritardati. Non conosciamo il loro numero né i nomi dei loro comandanti. Speravamo di incontrare il rampollo dei Gaprak al suo arrivo. È tutto ciò che siamo riusciti a scoprire: la frequenza vox dei Gaprak è muta anche nei rari momenti in cui riusciamo a superare le interferenze." {n}Laria stringe con irritazione il vox-trasmettitore che ha in mano, come se fosse lui a essere ostinato e a rifiutarsi di rispondere.{/n}
+
+### u031920
+"Davvero?" {n}Lo sguardo di Laria brucia come una carica melta.{/n} "Che splendida idea. Cominciamo subito."
+
+### u031921
+"Non perdiamo tempo in parole vuote. Se quello che hai detto è vero, allora devi porre fine a questa abominazione il prima possibile."
+
+### u031922
+"Puoi andare."
+
+### u031923
+"Supponiamo che ti creda. Dì quello che sai." {n}La Siniscalca ti fa cenno con la mano.{/n}
+
+### u031924
+"In effetti sono un po' sollevata nello scoprire che alla radice di tutto ci sono beghe tra nobili. Temevo che dietro ci fosse qualcosa di più pericoloso."
+
+### u031925
+"Parla chiaro."
+
+### u031926
+"Se è questa la tua volontà. Con le tue azioni ti sei {mf|guadagnato|guadagnata} il diritto di essere {mf|chiamato amico|chiamata amica} della dinastia von Valancius. Ed è consuetudine che gli amici siano accomodanti in queste faccende."
+
+### u031927
+"Capisco: quando leggerai l'ordine, vuoi vedere gli occhi del colpevole. Ma non indugiare. Non posso restare a guardare e lasciare che quell'assassino di nobili rimanga alla presenza del Lord Capitano senza conseguenze."
+
+### u031928
+{n}La Siniscalca impartisce l'ordine via {g|Encyclopedia:Vox}vox{/g}: prendere Sauerback in custodia e mandargli degli interrogatori. Il suo tono non ammette repliche.{/n}
+
+### u031929
+"Odio questi giochi di corte. Ma se pensi che sia la cosa migliore, così sia."
+
+### u031930
+{n}Via {g|Encyclopedia:Vox}vox{/g}, Laria ordina che la duchessa venga trattenuta immediatamente. Dal trasmettitore giunge una breve conferma, e poi la Siniscalca aggiunge:{/n} "E trattatela con gentilezza."
+
+### u031931
+"Molto bene. Attendo il tuo prossimo rapporto."
+
+### u031932
+{n}Laria ascolta il tuo racconto con una concentrazione quasi dolorosa. Man mano che il quadro si chiarisce, la sua espressione si fa più cupa.{/n}
+
+### u031933
+"Stamattina era operativo. Maledizione! Parla con il {g|Encyclopedia:Magos}Magos{/g} Exalt-117, digli di controllare di nuovo le torrette."
+
+### u031934
+{n}Senti Laria digrignare i denti.{/n} "Questo è grave. Molto grave. Grazie per l'informazione. Spero che la tua fonte sia affidabile."
+
+### u031935
+"Be', appunto. I miei migliori esploratori non tornano da dietro le linee nemiche, eppure tu sei qui, del tutto {mf|illeso|illesa}. E anche se tu fossi riuscit{mf|o|a} a compiere qualche miracolo, non sprecheresti la poca fortuna che ti resta raccontando assurdità alla Siniscalca." {n}Laria arriccia il naso, come se le dispiacessero le sue stesse parole.{/n}
+
+### u031936
+"Juvenna ha un debole per Isimond, e non c'è nulla di male in questo. Ma preparare simili documenti all'insaputa mia e di Padre... non mi piace per niente."
+
+### u031937
+"Comunicare con gli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g} è compito del Magos Exalt-117, e avresti fatto meglio a chiederlo a lui. Ma io ho memorizzato il codice: è troppo importante che i cancelli restino chiusi." {n}Con tratti decisi, la Siniscalca scarabocchia le cifre del codice su una pagina del suo taccuino e ti consegna il foglio.{/n}
+
+### u031938
+"Credi sul serio che ti affiderei informazioni sensibili così, su due piedi?"
+
+### u031939
+"Prima i rinforzi... e ora questo." {n}Aggrottando la fronte, Laria si china verso di te e abbassa la voce.{/n} "Sospetto che nel palazzo sia in atto una cospirazione. Ho bisogno di qualcuno che sia le mie orecchie e i miei occhi: non posso lasciare il mio posto. Osserva, ascolta, riferisci. In nome del Lord Capitano, dobbiamo trovare il traditore."
+
+### u031940
+{n}Laria ti guarda come un interrogatore sul punto di interrogare un sospettato.{/n} "Non so come tu sia arrivat{mf|o|a} qui, ma non ti permetterò di distrarre il Lord Capitano con sciocchezze. Conosco tutti i più stretti sudditi di Seberian. Tu non sei uno di loro."
+
+### u031941
+"Padre sarà lieto di sapere che c'è un ratto in meno nel suo seguito." {n}Prima che tu possa fare qualcosa, Laria estrae la pistola laser e ti spara in testa.{/n}
+
+### u031942
+"Davvero? Il fondatore della nostra stirpe si chiamava Kunrad, il mio bisnonno. Hai incrociato il mio discendente?"
+
+### u031943
+{n}Laria Voigtvir solleva su di te gli occhi stanchi con un lampo di cauto interesse.{/n} "Ti ascolto."
+
+### u031944
+"Sei {mf|pazzo|pazza}. E il {g|Encyclopedia:Grox}grox{/g} sa che altro ti uscirà di bocca. Non posso permettere che dei folli si aggirino per il palazzo durante un assedio." {n}Con un gesto esperto, la Siniscalca estrae la pistola laser dal fianco.{/n}
+
+### u031945
+"Maledizione!" {n}L'imprecazione sfugge dalle labbra di Laria prima che possa soffocarla. La Siniscalca comincia subito a incalzarti con domande su minimi dettagli del palazzo, e alla fine è costretta ad ammettere che nemmeno una spia potrebbe essere tanto informata.{/n}
+
+### u031946
+{n}Lo scambio di colpi non inizia a tuo favore, e sei {mf|destinato|destinata} a non vederne nemmeno la conclusione.{/n}
+
+### u031947
+"Perché qualcuno dovrebbe volerci imprigionare in questo momento? Ci vorrebbe una mente grottesca per concepire una cosa simile, ma a quale scopo? A meno che... l'obiettivo sia la tortura. Ma chi è la vittima designata?"
+
+### u031948
+{n}Laria aggrotta la fronte.{/n} "Non è il mio campo. Exalt-117 è più adatto ad affrontare dilemmi esoterici. Va' da lui."
+
+### u031949
+"Molto bene. Sarò qui, se avrai bisogno di me."
+
+### u031950
+"Sì, e perché è rilevante adesso?" {n}La sua espressione si fa tagliente, i muscoli della mascella si tendono sotto la pelle.{/n}
+
+### u031951
+"Preferirei non discuterne. Se pensi che io abbia messo gli occhi sul trono del Rogue Trader, ti sbagli. Mio padre ha fatto tanto per me, e io non faccio altro che ricambiare la sua lealtà."
+
+### u031952
+"Nel solito modo... Una relazione tra potenti. Se vuoi storie piccanti o racconti sordidi, temo di non poterti accontentare." {n}Stanche pieghe si formano agli angoli delle labbra di Laria. Non è la prima volta che ha questa conversazione, a quanto pare.{/n}
+
+### u031953
+{n}Un sospiro di sollievo sfugge dalle labbra della Siniscalca.{/n}
+
+### u031954
+"Spero che abbia aiutato la sua casata a raggiungere la grandezza con più successo di quanto sia riuscita a fare io." {n}Laria sorride con un angolo della bocca.{/n}
+
+### u031955
+"Capisco. In ogni caso, questo significa che tutta la mia stirpe non perirà oggi."
+
+### u031956
+"Pensi che non lo sappia? Un uomo come Seberian non può languire qui. È vitale per la dinastia, per l'intera Distesa! Ma l'amara verità è che non so come aiutarlo." {n}La Siniscalca quasi ringhia alla consapevolezza della propria impotenza.{/n}
+
+### u031957
+"Il solo pensiero mi ripugna. Ma se devo sacrificare la mia sanità mentale e sostenere il piano di mia sorella per il bene del Lord Capitano, lo farò. Hai la mia parola."
+
+### u031958
+"Tradire mio padre? No. Le tue rassicurazioni da sole non bastano. Dimostra di essere {mf|un amico|un'amica} della dinastia: risolvi il caso Gaprak. Nel frattempo, valuterò fino a dove sono disposta a spingermi."
+
+### u031959
+"Vuoi seminare discordia tra di noi? Un trucco patetico. Lei è sua figlia, io sono la Siniscalca. E a differenza di Juvenna, io non ho dimenticato il mio dovere. Ti condanno a morte per falsa testimonianza e per aver osato infangare il nome von Valancius."
+
+### u031960
+"Non ho motivo di dubitare di te, ma Seberian non crederà che le azioni di sua figlia siano andate oltre il solito intrigo di palazzo. Juvenna potrebbe assicurarti il contrario, ma è troppo viziata dalla stima di tutti per accorgersi persino di quanto Padre le sia affezionato." {n}Laria pronuncia le ultime parole con una certa fatica.{/n}
+
+### u031961
+"Avevo i miei sospetti, ma... il {g|Encyclopedia:EmperorGlossary}Dio-Imperatore{/g} mi sia testimone, spero ancora che tu ti sbagli. Fa' strada," {n}dice con tono privo di vita, come se fosse lei a essere condotta al patibolo.{/n}
+
+### u031962
+"Anche il nemico possiede un'arma simile, ma il suo proprietario sarebbe stato un bersaglio immediato. E comunque, non gli sarebbe mai stato permesso di raggiungere l'avamposto. Curioso."
+
+### u031963
+"Non conosco né te né il tuo seguito. Come fai a conoscere la frase in codice dei miei agenti?" {n}Lo sguardo di pietra di Laria si fissa su ogni dettaglio del tuo abbigliamento e del tuo equipaggiamento, come se sperasse di trovare una spiegazione per ciò che sta accadendo.{/n}
+
+### u031964
+"Quando le coincidenze diventano troppe, significa che è già uno schema." {n}Laria resta in silenzio per un po', soppesando di nuovo le prove nella mente.{/n} "Dunque il rampollo dei Gaprak è stato assassinato come un comune servitore. E questo è accaduto all'ombra del palazzo dei von Valancius. Ci serve il nome dell'assassino. Trova il colpevole e ti chiamerò {mf|nostro alleato|nostra alleata}."
+
+### u031965
+"I meroviani non sono modelli di virtù. Seberian ha dovuto ordinare espressamente che le {g|Encyclopedia:AdeptaSororitasGlossary}Sorelle della Battaglia{/g} cadute fossero onorate e ricevessero una sepoltura adeguata. Ma per qualunque altro caduto, i meroviani avevano il permesso di fare a meno di cerimonie speciali."
+
+### u031966
+"Un anello con sigillo? Non è un semplice gioiello, ma un simbolo di potere. Non è qualcosa da gettare via con noncuranza. Questa è la scoperta più inquietante di tutte."
+
+### u031967
+"Lasciamo i convenevoli a chi ha tempo per essi. Sei appena arrivat{mf|o|a}, ma mi sembri una persona intelligente, e pare che tu sia ansios{mf|o|a} di farti notare. Tuttavia ho affari urgenti da sbrigare. Non aspettavamo te, ma l'esercito della Casata Gaprak. Scopri che cosa gli è successo, e forse allora crederò che sei dalla nostra parte."
+
+### u031968
+"Che peccato." {n}Le sopracciglia si aggrottano mentre lei fa una smorfia.{/n} "Peccato che finora siamo stati costretti a fare affidamento sulle forze dei Drivestem. Dalle tue scarse informazioni deduco che non fossi tu a guidare le truppe. Ma la sorte dei rinforzi e dei tuoi parenti dovrebbe preoccuparti quanto preoccupa me. Cerca ogni indizio: controlla l'avamposto e interroga i {g|Encyclopedia:MerovPenalLegionGlossary}meroviani{/g}. Parlerò chiaro: in questo momento rendersi utili conta più che cercare scuse."
+
+### u031969
+"Faccio fatica a crederci, a dire il vero. Al fianco di Seberian ho visto molte cose che avrebbero confuso anche la mente più sana. Ma se non stai mentendo, questa le supererà tutte."
+
+### u031970
+"Il Lord Capitano aspettava un esercito, ma sei arrivat{mf|o|a} solo tu. Fammi indovinare: sto per sentire cattive notizie?" {n}Anche se le sue parole suonano come una domanda, c'è in esse solo stanca rassegnazione.{/n}
+
+### u031971
+"Spero che tu non sia venut{mf|o|a} a mani vuote."
+
+### u031972
+"Non credo alle bugie a fin di bene." {n}La mano di Laria è appoggiata sull'impugnatura della pistola laser.{/n} "Ultime parole?"
+
+### u031973
+{n}Laria ti guarda, e il suo sguardo franco indugia oltre i limiti del decoro, come se stesse esaminando della merce in un negozio.{/n} "Va bene. Troverò un uso per te. Ma non farmene pentire."
+
+### u031974
+"O sei molto perspicace o sei molto ben informat{mf|o|a}. Apprezzo entrambe le qualità, se tornano a mio vantaggio. Riferisci."
+
+### u031975
+"Questo significa che devo averti già affidato questa faccenda, giusto? Progressi?" {n}Laria prende la {g|Encyclopedia:Dataslate}tavoletta dati{/g} attaccata alla cintura, preparandosi a registrare il tuo rapporto.{/n}
+
+### u031976
+"Dici che siamo in un ciclo temporale? I miei uomini non sono ancora riusciti a scoprire nulla di sostanziale sui rinforzi dei Gaprak. Ma con vantaggi come il tempo infinito e il margine di errore dalla tua parte, sei destinat{mf|o|a} a riuscirci. Scopri che cosa è successo all'esercito dei nostri alleati, e allora potrò chiamarti {mf|amico|amica} della dinastia."
+
+### u031977
+"Un buon inizio, ma è troppo presto per trarre conclusioni. Guarda con più attenzione intorno all'avamposto. Sembra che sia coinvolta una pedina di basso rango. E un alleato simile è destinato a lasciare prove."
+
+### u031978
+"Dato che tra noi è sorto qualcosa di simile alla fiducia — o, per chiamare le cose col loro nome, alla necessità reciproca..." {n}Laria si sfila dal dito l'anello con sigillo dello stemma dei von Valancius e te lo porge.{/n} "Immagino che tu conosca il valore di un oggetto simile. D'ora in poi potrai parlare a mio nome. Sii così gentile da non macchiarlo."
+
+### u031979
+"Anche se Isimond avesse davvero duellato con il rampollo dei Gaprak, senza la spada di quest'ultimo possiamo provare ben poco."
+
+### u031980
+"Getta davvero un'ombra su di lui. Oppure lo rende semplicemente il sospettato più comodo."
+
+### u031981
+"Conosco bene le sue ambizioni. Ma, qualunque cosa io ne pensi, non è un motivo per chiamarlo assassino. O forse ci manca un anello della catena."
+
+### u031982
+"Sospetto in sommo grado. Ma l'unica cosa che ci blocca è che non conosciamo l'ora della morte del rampollo dei Gaprak. Non possiamo collegarla al turno di guardia di Isimond."
+
+### u031983
+"Siamo sotto assedio e non possiamo permetterci un nemico da questa parte dei cancelli. Le prove raccolte bastano per consegnarlo a interrogatori esperti. Darò l'ordine di prendere Isimond in custodia."
+
+### u031984
+"Isimond mi è sempre piaciuto per la sua disciplina e per le sue capacità di tutore dell'ordine. Tuttavia, le tue parole lo rendono subito un sospettato. Ma dobbiamo avere la certezza assoluta, altrimenti rischiamo di causare scompiglio nel palazzo agendo in modo avventato. Continua la tua indagine."
+
+### u031985
+"Juvenna è intoccabile, ma sta facendo troppo il gioco del nemico. C'è una spia nel nostro campo, e ora sospetto che quella spia sia collegata a mia sorella. Se è lei dietro tutto questo, dobbiamo coglierla sul fatto: niente di meno basterà. E un'altra cosa: 'La cera è ancora calda' è la frase in codice dei miei agenti più fidati. D'ora in poi appartiene anche a te, come {mf|mio alleato|mia alleata}."
+
+### u031986
+"Non azzardarti a incolpare il Lord Capitano! Incolpa i parassiti che gli ronzano intorno come servoteschi malfunzionanti. Abbiamo bisogno che Padre ascolti solo chi ci è leale e chi riuscirai a portare dalla nostra parte."
+
+### u031987
+{n}Mentre Seberian e il suo seguito avanzano nel cortile, la Siniscalca ti sbarra la strada. Il suo abbigliamento è austero e pratico, così come lo sguardo che ti rivolge. Quando parla, tutto — le espressioni del viso, la voce, il portamento — ti ricorda in modo netto la Maestra dei Sussurri fuggiasca di Theodora.{/n} "Sono Laria Voigtvir, Siniscalca e stretta alleata di Seberian von Valancius. Mio padre, cioè il Lord Capitano, ama correre rischi. Io no. Finché non ti sarai dimostrat{mf|o|a} degn{mf|o|a} della mia soddisfazione, ti terrò d'occhio."
+
+### u031988
+"Almeno avevo l'autorità di arrestare Camilla Drivestem. Anche se i consigli di quella vecchia intrigante ci farebbero comodo proprio adesso." {n}Qualcosa cambia sul volto di Laria: questa nuova idea le piace chiaramente.{/n}
+
+### u031989
+{n}Laria annuisce rapidamente, invitandoti a proseguire, e ti presta la sua completa attenzione.{/n}
+
+### u031990
+"Davvero? Bene, sputa il rospo. Dobbiamo risolvere la faccenda il più in fretta possibile. Non si può affrontare il nemico con qualcuno che ti punta un coltello alla schiena."
+
+### u031991
+"In qualsiasi altra circostanza sarei molto più prudente nel mio approccio. Ma hai molti cicli davanti a te, e se commettiamo un errore, potrai rimediare. È deciso, dunque. Ordinerò l'arresto di Isimond Sauerback."
+
+### u031992
+"Non credo di poterti dire più di quanto già sai. I rinforzi avrebbero dovuto arrivare al più tardi mezza giornata fa, ma invece sei {mf|comparso|comparsa} solo tu e, a giudicare dalle tue parole, ti aspettavi proprio di trovarli qui. Non riusciamo a scoprire altro: la frequenza vox dei Gaprak è muta anche nei rari momenti in cui riusciamo a superare le interferenze." {n}Laria stringe con irritazione il vox-trasmettitore che ha in mano, come se fosse lui a essere ostinato e a rifiutarsi di rispondere.{/n}
+
+### u031993
+"E c'è un'altra cosa. I miei agenti hanno frasi in codice per i rapporti più vitali. Pronuncia le parole 'La cera è ancora calda' e ti ascolterò, anche se ciò che viene detto suona come spazzatura. Se ci saranno ancora molti cicli, questo ci farà risparmiare un mucchio di discussioni inutili."
+
+### u031994
+{n}Laria inarca un sopracciglio per la sorpresa.{/n} "Dovresti ringraziare il Dio-Imperatore per averti mandato da me. Pochi Siniscalchi ti avrebbero ascoltato con la speranza di estrarre dalle tue parole anche solo un granello di verità."
+
+### u031995
+{n}L'arresto di Juvenna si svolge di nuovo davanti ai tuoi occhi come una commedia ben collaudata, dopodiché torni al posto della Siniscalca per continuare la conversazione.{/n}
+
+### u031996
+"Quanto alla lama: su mia richiesta, Seberian la tiene sotto custodia. L'artefatto sta erodendo il morale dei nostri soldati: certi sciocchi vedono nella lama la ragione dell'assedio. Rubarla sarebbe pura follia, non credi? E trovare qualcuno abbastanza sfrontato da rubarla sarebbe una follia ancora maggiore," {n}dice Laria, con un appena accennato cenno del capo verso l'avamposto.{/n}
+
+### u031997
+"Se è lei la mente dietro tutto questo, dobbiamo coglierla sul fatto mentre passa informazioni al nemico: niente di meno basterà."
+
+### u031998
+"Dopotutto sei {mf|un leale vassallo|una leale vassalla} della Casata von Valancius. Con buone referenze..." {n}Noti Laria aggrottare la fronte alle sue stesse parole, ma l'istante successivo il suo volto diventa innaturalmente sereno.{/n} "Inoltre non siamo nella posizione di scartare alleati. Dunque, dove eravamo rimasti?" {n}Questo brusco cambiamento è allarmante. È come se Laria si sforzasse di far rientrare la tua presenza nello scenario attuale, cercando di dargli un senso.{/n}
+
+### u031999
+"Passa al setaccio ogni centimetro dell'avamposto. Se qualcuno della Casata Gaprak è arrivato qui con notizie, ma non ha mai superato l'avamposto dei meroviani, devi scoprirlo. Non mi fido di quei soldati: sono Astra Militarum solo di uniforme. Spero che le tue ricerche portino a qualcosa, altrimenti dovremo sospettare il peggio: che i Gaprak stessi ci abbiano tradito."
+
+### u032000
+Esposizione di Dargonus
+
+### u032001
+[Poni fine a questo ciclo e inizia il successivo scendendo dal ponte. Forse un nuovo ciclo cambierà le cose]
+
+### u032002
+[Osserva il tuo cronometro, in attesa dell'inizio del raid aereo]
+
+### u032003
+[Trascorri il tempo che precede il consiglio di guerra in apatica rimuginazione]
+
+### u032004
+[Raccogli la tua volontà e allontanati, sperando di trovare una via d'uscita dalla trappola xenos]
+
+### u032005
+{n}Sembra tutto così reale... ma se ascolti attentamente, non senti il ronzio del formicaio. Anche nel pieno della guerra, dovrebbe essere udibile. Che riproduzione magistrale! Una domanda ti sorge spontanea nella mente: non sarebbe più facile vivere queste ore in beata ignoranza, proprio come fanno gli altri? Dopotutto, a ogni ripetizione le tue azioni diventerebbero solo più familiari, più esercitate. Come se tu ti stessi lentamente trasformando in un {g|Encyclopedia:Servitor}servitore{/g}.{/n}
+
+### u032006
+{n}I chierici dell'{g|Encyclopedia:AdeptusMinistorumGlossary}Adeptus Ministorum{/g} giudicherebbero un simile atto l'eresia della violazione del giuramento, perché ti rifiuteresti di continuare a servire il Dio-Imperatore. Ma in questo caso il dovere non finisce nemmeno con la morte.{/n}
+
+### u032007
+{n}Quando cadranno i proiettili, {mf|sarai l'unico a non esserne sorpreso|sarai l'unica a non esserne sorpresa}.{/n}
+
+### u032008
+{n}Tutto si svolge come deve: l'attacco delle forze congiunte dell'{g|Encyclopedia:InquisitionGlossary}Inquisizione{/g} e la convocazione del consiglio. Il momento cruciale si avvicina, e o ti renderà {mf|libero|libera} o ti condannerà a un nuovo ciclo di tortura.{/n}
+
+### u032009
+{n}E di nuovo, l'inizio. Lo stesso avamposto, le stesse voci, le stesse parole che hai già sentito. Qui il tempo non scorre, gira in tondo. Una trappola mostruosa tesa da subdoli xenos.{/n}
+
+### u032010
+{n}Sei {mf|certo|certa} che nelle cronache ufficiali della dinastia von Valancius, meticolosamente conservate dagli storitori, non ci sia una sola menzione di uno scontro aperto tra Seberian e l'Inquisizione. Le cronache dinastiche narrano dell'assedio di Dargonus da parte delle forze unite del clan pirata dei Saynay, che in quel periodo era una delle principali minacce nella Distesa.{/n}
+
+### u032011
+{n}Abelard inspira rumorosamente come se si riscuotesse da uno stato di torpore.{/n} "Trono di {g|Encyclopedia:HolyTerraGlossary}Terra{/g}! Lord Capitano, non ho la minima idea di che cosa sia successo. Siamo già tornati dentro, non è vero?" {n}La confusione sul suo volto svanisce gradualmente, lasciando il posto all'irritazione.{/n} "Maledetto rompicapo {g|Encyclopedia:XenosGlossary}xenos{/g}."
+
+### u032012
+{n}Il {g|Encyclopedia:DrukhariGlossary}Drukhari{/g} sibila diverse maledizioni nella sua lingua natia.{/n} "Divertente. Sì, questa piccola farsa è da morire... Eppure non ho alcuna voglia di intrattenermi a lungo con i giochi degli Oghyr."
+
+### u032013
+{n}Yrliet sta immobile con gli occhi chiusi e le braccia incrociate. La sua serenità è quasi innaturale.{/n} "La magia degli Oghyr va oltre i confini della comprensione della tua gente, elantach. Se speri di resisterle, cedere alla collera è l'ultima cosa che dovresti fare."
+
+### u032014
+"Sbalorditivo!" {n}Eogunn non sembra spaventato né scioccato, ma piuttosto completamente rapito. Il {g|Encyclopedia:ServoSkulls}servoteschio{/g} Nuncius gli aleggia placidamente alla spalla.{/n} "Vostra Signoria, questa è una violazione del tutto straordinaria della legge di causalità. Oh, se solo potessi scoprire una macchina in grado di realizzare simili effetti!"
+
+### u032015
+"Ipotesi: la realtà osservata è un'illusione ottica complessa costruita con perversa conoscenza xenos." {n}Pasqal sferra una {g|Encyclopedia:Mechadendrite}mecadendrite{/g} contro il tratto di muro più vicino, lasciando un profondo graffio nella pietra.{/n} "Livello di replicazione: estremamente alto. L'ipotesi non spiega l'effetto osservato del paradosso spazio-temporale."
+
+### u032016
+{n}Idira affonda entrambe le mani tra i capelli, scompigliandoli con violenza.{/n} "Sbagliato, è sbagliato!" {n}Si stringe la testa tra le braccia, ondeggiando leggermente.{/n} "Sembrano reali, Vostra Signoria, ma a guardare meglio... metà sono fantasmi, e l'altra metà se ne va in giro con l'anima strappata via. Questa è una trappola mortale, un brutto posto. Dobbiamo andarcene da qui, e portare con noi chiunque sia ancora vivo."
+
+### u032017
+"Dio-Imperatore, rafforza il nostro coraggio contro le illusioni degli xenos, accendi in noi un odio abbastanza forte da infrangere le loro stregonerie!" {n}Argenta prega senza sosta, sconvolta da ciò che è accaduto.{/n}
+
+### u032018
+{n}L'Interrogatore comincia a girare intorno ai membri del tuo seguito, scrutando ciascuno a turno.{/n} "Siete tutti reali, non c'è dubbio. Come i miei ricordi di ciò che è appena accaduto. O quei subdoli miserabili giocano con le nostre menti, oppure c'è qualcos'altro in gioco che non so spiegare, Lord Capitano."
+
+### u032019
+{n}Il ruggito tonante di Ulfar scuote i dintorni, spegnendosi in un basso e minaccioso rombo.{/n} "Per la salda mano del Padre di Tutti, questi xenos pensano di prenderci in giro, come se si credessero i più saggi tra i saggi! Quando metterò loro le mani addosso, i loro crani si spaccheranno sotto i miei stivali!"
+
+### u032020
+"Come può essere...?" {n}La Lady Navigatrice sbatte le palpebre perplessa, le ciglia che fremono mentre fissa il vuoto con aria stordita.{/n} "Il Mare delle Anime è placido, eppure la tela stessa del {g|Encyclopedia:Realspace}Materium{/g} si è disintegrata e riformata, riempiendosi di altre immagini. Io... non so descriverlo. È qualcosa di strano. Qualcosa di diverso."
+
+### u032021
+"È un miraggio, Domin'{name}." {n}Kibellah conficca un lungo artiglio nell'avambraccio, lasciando dietro di sé un solco insanguinato.{/n} "Non fidatevi dei vostri occhi, non date ascolto alle vostre orecchie. Solo la volontà e la fede nell'{g|Encyclopedia:EmperorGlossary}Imperituro{/g} vi aiuteranno a distinguere ciò che è vero dagli inganni dei nemici dell'Umanità."
+
+### u032022
+{n}L'Arbitratore si blocca, guardandosi intorno con ansia. Il suo mastino cibernetico si lancia in avanti e si frappone tra te e il resto del seguito, come per proteggerti da un possibile attacco.{/n} "Macchinazioni xenos, Rogue Trader. Insisto per esaminare a fondo tutti i presenti prima di entrare una seconda volta. Chiunque sia capace di una cosa simile è un nemico incredibilmente pericoloso."
+
+### u032023
+{n}La risata squillante di Jae fa sobbalzare il resto del seguito.{/n} "Questi xenos sono dei veri ashmag, vero? Quindi è così che puniscono chi ficca il naso dove non deve!" {n}Quando finisce di ridere, si sistema i capelli arruffati.{/n} "Avranno una grande delusione. Troveremo il modo di fuggire da questo posto."
+
+### u032024
+{n}Una cosa è chiara: le menzogne con cui i subdoli xenos hanno intrappolato l'esistenza devono essere spezzate, e il ciclo temporale deve essere interrotto. Il Lord Capitano non si degnerà di restare in questa trappola più a lungo di quanto {mf|egli|ella} desideri.{/n}
+
+### u032025
+{n}Tu e il tuo seguito sembrate essere gli unici qui a possedere ancora il libero arbitrio. Gli altri prigionieri di questa misteriosa trappola sono condannati a ripetere sempre le stesse azioni, per sempre intrappolati nel giorno in cui Dargonus fu assediata dalle forze dell'{g|Encyclopedia:InquisitionGlossary}Inquisizione{/g}.{/n}
+
+### u032026
+{n}Stordit{mf|o|a}, torni alla realtà. Qualcosa di inspiegabile è appena accaduto, e gli echi di quell'evento scorrono ancora nel tuo sangue, facendoti stringere il cuore in convulsioni. Eppure sei {mf|illeso|illesa}, e ti ritrovi ancora una volta ai cancelli del palazzo della tua dinastia su Dargonus. Nulla intorno a te indica che ciò che ti è accaduto fosse reale. Nulla, tranne i tuoi ricordi.{/n}
+
+### u032027
+{n}Per quanto ti sforzi di scavare nella memoria alla ricerca di fatti sull'assedio di Dargonus — di certo un grande evento storico — affiora solo la parola "Senai". Sembra priva di qualsiasi significato.{/n}
+
+### u032028
+{n}Quando condividi le tue conclusioni con il Siniscalco, lui annuisce.{/n} "Concordo, Vostra Signoria. Nel corso dei miei doveri ho avuto occasione di leggere un buon numero di pergamene degli archivi dinastici, e non vi è mai stata alcuna menzione delle tendenze eretiche di Seberian."
+
+### u032029
+{n}Abelard scuote la testa con uno sguardo di totale stupore.{/n} "Sembra tutto una grande beffa, Lord Capitano. Ai tempi del vostro glorioso antenato, Dargonus fu assediata dal clan pirata dei Saynay, ed egli riuscì a respingere i loro sfrontati attacchi. Non mi sono mai imbattuto in alcuna menzione di un conflitto con l'Inquisizione."
+
+### u032030
+{n}Ma di una cosa sei {mf|certo|certa}: sei {mf|stato rigettato|stata rigettata} al punto di partenza nell'istante preciso in cui il tuo illustre antenato, Seberian von Valancius, ha esalato l'ultimo respiro.{/n}
+
+### u032031
+{n}La sentenza letta dall'Inquisitore al tuo antenato ti risuona ancora nelle orecchie. Trovare Seberian von Valancius vivo pochi istanti prima della sua esecuzione: che sporco scherzo xenos. Tutto ciò che hai visto qui sembra concepito per beffarsi di te, compreso il fatto di essere {mf|tornato|tornata} al punto di partenza, come se un padrone di casa scontento ti avesse buttato fuori dalla porta come un ospite sgradito.{/n}
+
+### u032032
+"Ti va di spiegarmi perché il palazzo è circondato da soldati?"
+
+### u032033
+"Conosco bene la situazione. E il mio nome dovrebbe suonarti familiare, a sua volta: Gaprak."
+
+### u032034
+"E ciononostante, la mia passeggiata culmina nel palazzo."
+
+### u032035
+[Abbassa la voce] "Di' alla Siniscalca: 'La cera è ancora calda'."
+
+### u032036
+[Chiarisci: hai una paura mortale di sfidare l'Inquisizione e vuoi stare dalla parte giusta della storia, quella in cui si sopravvive.]
+
+### u032037
+[Presentati come {mf|un signore|una signora} della Casata Gaprak]
+
+### u032038
+[Guadagna la fiducia di Laria Voigtvir]
+
+### u032039
+[Guadagna la fiducia di Juvenna von Valancius.]
+
+### u032040
+[Cambia approccio]
+
+### u032041
+"Ho appena assistito all'esecuzione di un von Valancius: pensi di poter dettare condizioni a un altro?"
+
+### u032042
+"Lascia che sia Lady Juvenna a decidere la mia sorte. Dille che Elana ha guadagnato un alleato."
+
+### u032043
+"Sono Diodas af Irramon, e pretendo un incontro privato con Seberian!"
+
+### u032044
+[Riavvia il ciclo]
+
+### u032045
+"Dì ai tuoi superiori che siamo i rinforzi mandati dalla Signora Elana."
+
+### u032046
+"Non capisci. Sono {name} von Valancius, e questo è il mio palazzo. Sei tenuto a lasciarmi passare."
+
+### u032047
+"Sono perpless{mf|o|a} quanto te per ciò che sta accadendo. Ma per trovare risposte, devo entrare."
+
+### u032048
+[Usa una retorica infuocata: siete entrambi mossi dallo stesso motivo, la devozione al Trono d'Oro]
+
+### u032049
+"Abbiamo già parlato, ricordi? Tutto questo è già accaduto!"
+
+### u032050
+{n}Il passaggio è bloccato da un cordone militare. Ti fermi a rispettosa distanza, una reazione ragionevole davanti alle canne dei fucili puntate al tuo petto a mo' di benvenuto. Il tuo sguardo scivola sui volti: le loro espressioni sono così inquietantemente simili che devono essere state distribuite insieme alle uniformi. Prestare servizio nell'{g|Encyclopedia:AstraMilitarumGlossary}Astra Militarum{/g} comporta insonnia, stomaco per il massacro e un pizzico di disperazione. Capisci chi comanda prima ancora che parli, e non dalle insegne dell'omone, ma dal peso schiacciante del suo sguardo.{/n}
+"Sergente Branek Zarkov. Chiunque tu sia, {mf|signore|signora}, ti consiglio di riconoscere le circostanze attuali. E di prendere l'unica decisione giusta. Questo non è posto per passeggiate."
+
+### u032051
+"Sei uscit{mf|o|a} da una caverna o cosa? Dargonus è sotto attacco. Il nemico sostiene di agire in nome di—" {n}Il sergente esita, gocce di sudore gli si raccolgono sulla fronte. Dopo diversi dolorosi secondi, si costringe a continuare:{/n} "In nome dell'Inquisizione. Il 32º sorveglia i cancelli da giorni ormai." {n}Aggrotta le folte sopracciglia: la tua domanda lo ha irritato.{/n} "Non faccio rapporti — non è per questo che sono stato schierato qui. Circola, prima che ti scambino per una spia. Tutti i rinforzi attesi sono nel registro del cogitatore: lì non c'è nulla su di te." {n}Il sergente fa un cenno verso un pannello lì vicino.{/n}
+
+### u032052
+{n}Zarkov annuisce, abbassando l'arma.{/n} "La Siniscalca vi sta aspettando."
+
+### u032053
+"Scusate, non vi avevamo {mf|riconosciuto|riconosciuta}. Pensavamo che non sareste {mf|venuto|venuta}. Li avverto del vostro arrivo."
+
+### u032054
+[Conosci la strada fino al risultato finale. Ma quale sarà questa volta?]
+
+### u032055
+"Ascolta bene: sparare ai pazzi è un brutto affare, ma se devo farlo, lo farò." {n}Il sergente si preoccupa di sistemarsi l'arma pesante sulla spalla, che tintinna in modo minaccioso.{/n} "Vomita le tue fandonie altrove."
+
+### u032056
+"Trovami in fondo al cortile interno. Subito."
+
+### u032057
+{n}Sii audace: questo ciclo è maturo per gli esperimenti.{/n}
+
+### u032058
+{n}L'azione successiva si ripete, come una commedia ben collaudata.{/n}
+
+### u032059
+{n}I soldati si scambiano sguardi confusi. Zarkov prende il vox-trasmettitore. Senti la voce di Laria all'altro capo. La loro conversazione è breve: il sergente fa la guardia persino alle proprie parole.{/n}
+
+### u032060
+"E un avvertimento? Tutti i nostri rinforzi sono registrati: a che serve altrimenti questo {g|Encyclopedia:Cogitator}cogitatore{/g}?" {n}Il sergente fa un cenno verso un pannello vicino e parla nel suo vox. Dopo un breve scambio di battute, ti abbaia:{/n} "Avanti, allora. Solo non dimenticare di presentarti a Lady Juvenna, aspetta di sentire notizie su questa tua Elana."
+
+### u032061
+{n}I meroviani afferrano le armi. Prima le loro possibilità di sconfiggerti erano scarse, ma ora che conosci tutte le loro tecniche di combattimento, non sarà più faticoso di una raffinata battuta di caccia.{/n}
+
+### u032062
+{n}Dopo averti ascoltato, Juvenna dice con noncuranza,{/n} "Sergente, sbarazzatevi di loro."
+
+### u032063
+"In nome dei von Valancius! Soldati, alle armi!"
+
+### u032064
+{n}Il sergente aggrotta la fronte, ma prende il suo {g|Encyclopedia:Vox}vox{/g} — e presto ti porge il trasmettitore. La tua apparente conoscenza ha scosso Juvenna. Guadagnare la sua fiducia sarà difficile.{/n}
+

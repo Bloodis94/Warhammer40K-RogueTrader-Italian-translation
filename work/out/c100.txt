@@ -1,0 +1,906 @@
+### u036788
+"Per la semplice ragione che il processo di trasformazione diventerà presto irreversibile e la nostra unica arma contro di esso inutile. L'energia rilasciata dal bombardamento potrebbe attizzare le energie del warp. Non ho mai visto le conseguenze del bombardamento di un mondo demoniaco... ma esistono prove sufficienti di simili tentativi perché io possa dire con sicurezza che non volete vederle."
+
+### u036789
+{n}La Maestra del Vox vacilla.{/n} "Lord Capitano... abbiamo visto un certo numero di navi avvicinarsi al sole. Creazioni nere di fattura inumana, amalgami di angoli e spigoli taglienti... Hanno circondato la stella e poi... Mi scuso, ma faccio fatica a trovare parole che descrivano quella terribile visione. Gli xenos hanno fatto svanire il sole nel vuoto!"
+
+### u036790
+{n}L'Interrogatore chiude gli occhi e fa una smorfia.{/n} "Drukhari."
+
+### u036791
+{n}Heinrix annuisce.{/n} "Una stirpe degli {g|Encyclopedia:Aeldari}Aeldari{/g}, la più crudele e subdola della loro razza. Il design delle loro navi corrisponde alla descrizione fornita dalla Maestra del Vox."
+
+### u036792
+{n}Heinrix ti lancia un'occhiata penetrante.{/n} "Parlo di xenos, Rogue Trader. Gli {g|Encyclopedia:Aeldari}Aeldari{/g}, uno dei più antichi nemici dell'Umanità. Più precisamente, mi riferisco alla stirpe più crudele e subdola della loro razza. Il design delle loro navi corrisponde alla descrizione fornita dalla Maestra del Vox."
+
+### u036793
+"Come tutti gli {g|Encyclopedia:Xenos}xenos{/g}, i {g|Encyclopedia:Drukhari}Drukhari{/g} sono una piaga sul volto della galassia, ma la loro superiorità tecnologica è indiscutibile. Aborriscono e temono la stregoneria del warp, ed è per questo che si affidano a creazioni del loro intelletto perverso — e molte di queste creazioni sono capaci di cose che all'occhio non illuminato possono sembrare simili alla stregoneria. Il furto di un sole è un esempio di ciò di cui sono capaci."
+
+### u036794
+{n}Heinrix risponde al posto di Vigdis:{/n} "Controllate il vostro temperamento, Rogue Trader. A giudicare dalla descrizione della Maestra del Vox, il sistema è stato infiltrato dalla stirpe più sfuggente degli {g|Encyclopedia:Aeldari}Aeldari{/g}, uno degli antichi nemici dell'Umanità. I vostri {g|Encyclopedia:Augur}augur{/g} non possono competere con il tipo di tecnologia di cui dispongono."
+
+### u036795
+"Sì, Lord Capitano. Informerò immediatamente i ponti di navigazione e di artiglieria della manovra imminente."
+
+### u036796
+{n}Heinrix annuisce, il volto congelato in un'espressione cupa.{/n}
+
+### u036797
+{n}Heinrix si guarda attorno.{/n} "La situazione richiede un'azione immediata, {name}. Possiamo riprendere questa conversazione più tardi, se lo desiderate, ma ora..." {n}Indica con un gesto il ponte, brulicante di una frenetica attività.{/n} "Credo che dobbiate assumere il comando."
+
+### u036798
+"Solo la morte può salvare questa gente. L'Imperituro ha steso la Sua mano su questo mondo. È giunto il momento che Egli mieta il Suo raccolto. Non dobbiamo respingere il Suo disegno, o milioni di nomi non Lo raggiungeranno mai e periranno invece nelle profondità dell'Empireo. La morte è una misericordia, Domin' {name}."
+
+### u036799
+{n}Gli occhi di Heinrix si sgranano per lo stupore.{/n} "Le anime di milioni di sudditi dell'Imperium sono nelle vostre mani... riconsiderate! Rykad Minoris deve essere annientato prima che cada in balia dell'Arcinemico!"
+
+### u036800
+"Temo che non abbiamo abbastanza navette a disposizione per questa missione. Trasportare la reliquia richiederà più risorse che evacuare la gente."
+
+### u036801
+"I nobili che avete salvato allo spazioporto hanno fornito le coordinate dei rifugi dove possiamo trovare gli aristocratici {d|Encyclopedia:Ch1_StarportEveryoneSaved}sopravvissuti{/d} e le loro famiglie. Quanto alle truppe del Sergente Malgar, aiuteranno a controllare la folla di popolani spaventati e a impedire che le navette si sovraccarichino."
+
+### u036802
+"La vita dei contadini ha poco valore. Il nostro obiettivo primario è salvare la sacra reliquia — il Miracoloso Reattore a Fusione — e gli Elettropreti che la custodiscono e ne hanno cura."
+
+### u036803
+{n}Gli occhi di Heinrix, simili a due pozze profonde e scure, sono fissi su di te con risolutezza.{/n} "Il mondo è condannato — e con esso i suoi abitanti. La scomparsa della stella è stata la spinta finale verso la morte, il finale dei piani del Culto dell'Alba Finale. Una volta ho assistito a un evento simile — un mondo che si era arreso ai servitori dell'{g|Encyclopedia:Chaos}Arcinemico{/g} e aveva permesso alla corruzione di penetrare troppo a fondo. In questo momento, milioni di persone si prostrano davanti a coloro che hanno promesso loro la salvezza e stanno consegnando di buon grado la loro anima al Caos. Un sacrificio abbastanza grande da far nascere un mondo demoniaco."
+
+### u036804
+{n}Abelard aggrotta la fronte.{/n} "Ogni istante che trascorriamo in prossimità di un mondo morente ci espone a un rischio. La vostra vita, Lord Capitano, vale molto più dell'intera Rykad Minoris. La dinastia dei von Valancius non può permettersi di perire! E così, per quanto sia deplorevole, dobbiamo scartare l'idea di qualsiasi evacuazione."
+
+### u036805
+{n}Gli occhi scuri della {g|Encyclopedia:AdeptaSororitas}Sorella della Battaglia{/g} lampeggiano.{/n} "Dobbiamo salvare quanti più possibile! Tutto questo è accaduto per una ragione. Santa Argenta, il cui nome porto con reverenza e trepidazione, è celebre per aver salvato la gente di un mondo morente con il potere della preghiera. Lo stesso Dio-Imperatore mandò una stella dai cieli che sollevò la santa e i suoi seguaci verso il cielo, lontano dalla corruzione e dalla morte. Dobbiamo fare come lei — indirizzare tutti i nostri sforzi a salvare quelle persone che in questo momento guardano al cielo sperando nella salvezza!"
+
+### u036806
+"Deviare dal Rito di Funzionamento? Suona dubbio, specialmente detto da voi."
+
+### u036807
+"Magos Haneumann, un momento, se permettete..."
+
+### u036808
+"Ascolta, non puoi fare tutto questo senza di me? Dopotutto non sono un servo dell'Omnissiah."
+
+### u036809
+"La vita dell'intero equipaggio dipende ora dal fatto che io convinca lo spirito della nave ad avviare un componente guasto — è così?"
+
+### u036810
+[Metti la mano nella bocca del gargoyle cibernetico]
+
+### u036811
+"Pasqal, questa ora è la tua nave e il tuo tempio! Quindi comincia a comportarti di conseguenza, maledetto ingranaggio!"
+
+### u036812
+"Magos, se non porterete questa situazione sotto controllo, periremo tutti. Agite in fretta."
+
+### u036813
+"Salvataggio? Sì, spirito macchina, salvaci!"
+
+### u036814
+"Interrogazione? Quale interrogazione?"
+
+### u036815
+"Per mia autorità revoco il protocollo di inviolabilità del motore warp."
+
+### u036816
+"Che cosa devo fare adesso?"
+
+### u036817
+[Allunga la mano e tocca i tasti del pannello strumenti]
+
+### u036818
+"Non comportarti mai più da pavido novellino davanti a me."
+
+### u036819
+"Ottimo lavoro, Pasqal."
+
+### u036820
+[Contatta Ravor] "Qui parla il Lord Capitano. Do l'ordine di iniziare la traslazione nel warp."
+
+### u036821
+"Ora fa' in modo che questo ribelle ammasso di metallo ci porti via da qui."
+
+### u036822
+"Va tutto bene, Magos?"
+
+### u036823
+"O sacro spirito macchina! In nome dell'Omnissiah e dell'Imperatore, rivelaci il tuo potere e proteggici dalla nostra rovina!"
+
+### u036824
+"Inutile mucchio di rottami! {mf|Il|La} Rogue Trader ti comanda: liberaci del tuo malanno e sottomettiti alla mia volontà!"
+
+### u036825
+[Non dire nulla e non intervenire]
+
+### u036826
+"Che cosa è appena successo?"
+
+### u036827
+"So poco delle sacre macchine dell'Omnissiah, ma quello che ho visto sullo schermo mi è sembrato... strano."
+
+### u036828
+"Sembra che l'Omnissiah percepisca e conosca il potere della tua fede, Pasqal. Altrimenti non avrebbe compiuto questo miracolo."
+
+### u036829
+"Pasqal, mi aspettavo che salvassi la mia nave da solo, non che pregassi per un miracolo. La tua prestazione è insoddisfacente."
+
+### u036830
+"Prima spiegami che cosa stiamo facendo."
+
+### u036831
+"Quel 'dovrebbe' non suonava per niente rassicurante."
+
+### u036832
+[Avvicinati al cogitatore]
+
+### u036833
+"Tollero i tuoi ordini a malapena, Magos, ma se mi costringi ad abbassarmi a chiederti istruzioni..."
+
+### u036834
+"Equipaggio, ascoltate la parola del Magos Haneumann! Pasqal, ti chiedo gentilmente di prendere in mano questo disastro."
+
+### u036835
+"Spirito macchina, qui parla il Lord Capitano di questa nave. Obbediscimi e avvia il motore warp."
+
+### u036836
+[Indica lo schermo video] "Che cosa significa tutto questo?"
+
+### u036837
+[Leggi le informazioni sullo schermo video]
+
+### u036838
+"Magos, perché non assumi il controllo dei tecnomati? Di certo il loro contributo velocizzerà le cose."
+
+### u036839
+[Non intervenire]
+
+### u036840
+"Spirito macchina... mi senti?"
+
+### u036841
+{n}Il ponte di comando è in subbuglio. Le preghiere dei tecnomati si mescolano in una cacofonia insensata mentre i servitori lavorano in fretta per rimuovere una crosta indurita di sacri unguenti dai componenti del motore warp. In mezzo a tutto questo tumulto sta Pasqal con una tavoletta dati stretta tra le mani, apparentemente estraniato dal turbine di attività che lo circonda.{/n}
+
+### u036842
+"Il dogma impone che sul sestante warp vengano eseguiti gli opportuni rituali di purificazione e riassemblaggio. È un processo lungo e laborioso."
+{n}Pasqal esita prima di continuare,{/n} "La nostra migliore possibilità è aggirare il sacro divieto di interfacciarsi direttamente con i condotti della Forza Motrice. Una via più rapida e meno ortodossa."
+
+### u036843
+"///[INPUT] || [Pack.comp.]
+///nom_OS STAB TRUE
+///nom_OS STAB FALSE
+///stat.check init.
+...
+...
+///Perturb. reg.
+///Disturb. reg.
+///nom_OS operat.resp. QUERY"
+
+### u036844
+"Posa la mano nella gola del guardiano del cogitatore — il gargoyle cibernetico che è stato incaricato di sorvegliare le cripte dati proibite. Il sangue dinastico estratto dalle tue vene servirà da chiave per il nucleo dati in cui dimora lo spirito macchina — a esso offriremo le nostre preghiere per poter aggirare il protocollo di protezione contro le connessioni difettose e avviare il sestante warp."
+
+### u036845
+"Benevolo codice, un ricettore vocale!" {n}Pasqal emette una sequenza di segnali binarici e poi tace per diversi secondi.{/n} "Ipotizzo che il difetto si trovi nel blocco analizzatore. Registro una reazione al segnale, ma nessuna risposta elaborata... Un'esclusione temporanea è ammissibile."
+
+### u036846
+"///[INPUT] || [Pack.comp.]
+///nom_OS STAB TRUE
+///Log.str.check init.
+...
+///sector 567>245 dam.
+///sector 244>001 stab.
+///nom_OS operat.resp. ACT"
+
+### u036847
+"///[INPUT] || [Prompt.]
+///nom_OS PING
+///nom_OS REQ RESP
+///nom_OS operat.resp. INJURY
+///nom_OS operat.resp. RESCUE
+///nom_OS operat.resp. QUERY"
+
+### u036848
+{n}Le fauci di metallo si serrano sulla tua mano, spezzando il tuo delicato involucro corporeo e riversando nella sua gola un liquido rosso e caldo. Nello stesso istante, l'immagine sullo schermo davanti a te cambia:{/n}
+
+### u036849
+"Questa affermazione è vera. In un altro tempio dell'Omnissiah, solo il Suo servitore sarebbe in grado di propiziare lo spirito macchina. Tuttavia, gli architetti dell'infrastruttura di questa nave hanno apportato modifiche non autorizzate alla struttura standard della rete di cogitatori..." {n}Il disappunto si insinua nella voce di Pasqal.{/n} "...per dotare il ponte di una macchina che ne permettesse l'uso ai profani con una specifica firma biologica — i membri della Casata von Valancius."
+
+### u036850
+"La vostra interpretazione sfiora la tecno-eresia. Tuttavia, dato il vostro rango, Lord Capitano, risponderò comunque: per un profano, avete descritto la nostra posizione con relativa precisione. Ripongo le mie speranze nelle Sue rivelazioni e chiedo umilmente la Sua guida."
+
+### u036851
+{n}Pasqal ti lancia uno sguardo di fiero orgoglio e dice con solennità,{/n} "Avete ragione. Questo è il mio tempio." {n}Il suo vox rimbomba di potenza:{/n} "Tecno-compagni, ascoltate le mie istruzioni."
+
+### u036852
+{n}Pasqal si volta verso di te.{/n} "Lord Capitano, l'eccesso di emozione nel vostro comando lo renderà inintelligibile per—"
+
+### u036853
+{n}La voce di Pasqal trema di tensione.{/n} "Quella era una richiesta non eseguibile, Lord Capitano. Anche se il ricettore vocale riuscisse a interpretare una simile—"
+
+### u036854
+"Lord Capitano!" {n}Pasqal si ferma e poi continua con più calma,{/n} "Vi prego. Irriterete lo spirito macchina prima che abbiamo rimosso la restrizione."
+
+### u036855
+{n}Uno degli schermi video del cogitatore diventa rosso. Pasqal lo vede e alza la mano, facendo segno al resto dei Tecnopreti, poi estrae un connettore dalla manica e lo collega alla macchina.{/n} "Servitori dell'Omnissiah, fate ora l'offerta delle cripte dati purificate allo spirito macchina, affinché si riempia dei loro dati veri e calibrati. Possa l'Omnissiah avere pietà delle nostre anime..."
+
+### u036856
+"Lord Capitano, ora vi chiedo di rivolgervi allo spirito macchina. Pronunciate il seguente comando: 'Per mia autorità revoco il protocollo di inviolabilità del motore warp.' Il ricettore vocale riceverà l'input vocale. Senza la vostra sanzione, lo spirito macchina non accetterà i dati del sestante warp."
+
+### u036857
+{n}Con mite solennità, gli accoliti offrono le cripte dati purificate al motore warp una dopo l'altra, ripetendo preghiere di esaltazione. Dopo aver unto i contatti con sacri unguenti, Pasqal li inserisce negli alloggiamenti del cogitatore. La testa comincia a girarti per le nubi di fumo maleodoranti dei sacri incensieri e per la perdita del sangue che il gargoyle cibernetico continua a bere da te, e il mondo ti ondeggia davanti agli occhi.{/n}
+
+### u036858
+"Vostra Signoria, non tollererò un comportamento tanto irrispettoso verso gli spiriti macchina nel mio sanctum, per quanto disperate possano essere le circostanze."
+
+### u036859
+"Che questo meccanismo si ridesti in rinnovata purezza." {n}Pasqal immette una sequenza di comandi e alza la testa, osservando gli schermi video. All'improvviso si blocca di colpo.{/n} "No..." {n}Le sue dita volano sulle rune di comando, immettendo comando dopo comando. I suoi mecadendrite, facendo scattare le pinze, tirano una leva dopo l'altra. Gli schermi video si riempiono di stringhe di simboli — del tutto incomprensibili per te, ma che chiaramente comunicano qualcosa al Magos.{/n}
+
+### u036860
+"L'Omnissiah mi guida."
+
+### u036861
+{n}Pasqal sibila con tristezza,{/n} "La massa di errori nei calcoli del sestante warp sta distruggendo gli archivi di dati. L'offerta non ha placato lo spirito della nave... il motore warp non può essere riempito di Forza Motrice. Siamo in trappola." {n}Un istante dopo, il Magos prosegue con incertezza,{/n} "Forse, un protocollo Ryzan alternativo... oppure un avvio di emergenza delle bobine ausiliarie..." {n}Il Tecnoprete si china sul cogitatore, ma qualcosa nella sua postura e nei suoi movimenti tradisce la sua disperazione.{/n}
+
+### u036862
+{n}Pasqal fa eco ai tuoi sentimenti con i suoni trionfanti di un inno binarico.{/n}
+
+### u036863
+{n}Pasqal intona con tono asciutto,{/n} "Vostra Signoria, rivolgersi a uno spirito macchina in maniera così brusca è categoricamente inaccettabile, anche in una situazione critica come quella in cui ci troviamo—"
+
+### u036864
+{n}La successiva vocalizzazione di Pasqal rimane non sintetizzata mentre vede gli schermi video cominciare a stabilizzarsi uno dopo l'altro. Le stringhe che galoppavano freneticamente sullo sfondo verde vengono sostituite da immagini stabili o da rapporti di stato aggiornati con regolarità. Solo un monitor resta inspiegabilmente rosso.{/n}
+
+### u036865
+"Devo informarvi che, per ragioni di sicurezza, sono necessari il completo riassemblaggio del sestante warp e l'aggiornamento delle sue benedizioni da datasmith. Se ciò non avviene, al lancio il volume degli errori di calcolo aggregati potrebbe causare la distruzione delle {g|Encyclopedia:Cybercrypt}cripte dati{/g}. Ma poiché non abbiamo a disposizione cento ore, dobbiamo omettere questa procedura." {n}Pasqal abbassa lo sguardo sulla tavoletta dati che stringe tra le mani.{/n} "Una lieve deviazione dal Rito di Funzionamento per placare lo spirito—"
+
+### u036866
+{n}Il vox del Tecnoprete gracchia per lo shock, ma il suo rapporto è sintetico e clinico come sempre:{/n} "Registrazione: sestante warp attivato. Registrazione: flusso di dati in stabilizzazione. Registrazione: zero errori di dati rilevati. Comunicazione: il motore warp è pronto per la traslazione."
+
+### u036867
+{n}Pasqal fa una pausa.{/n} "Ipotizzo che lo spirito della nave abbia udito le nostre preghiere e... sia intervenuto. Ha evocato il potere dell'Omnissiah per fare qualcosa che va oltre la mia comprensione."
+
+### u036868
+"Spero che Egli mi accordi una rivelazione che mi permetta di comprendere la natura di questo miracolo." {n}Il vox di Pasqal ronza di meraviglia e di una sottile esultanza.{/n}
+
+### u036869
+"Accetto questa revisione e mi impongo un protocollo di penitenza." {n}Non c'è vero pentimento nella voce di Pasqal, solo timore reverenziale e una lieve esultanza.{/n}
+
+### u036870
+"Lord Capitano — qui Ravor. L'equipaggio ha quasi finito di eseguire gli ordini dati prima e ho appena ricevuto conferma dalle sale macchine. Non so che cosa abbiate fatto, ma il motore warp è pronto e scalpitante. Siamo pronti a iniziare la traslazione nel warp, Vostra Signoria."
+
+### u036871
+{n}Le preghiere dei Tecnopreti attorno al cogitatore coprono quasi i rumori del ponte di comando affaccendato alle tue spalle. Pasqal, chino con attenzione sulla {g|Encyclopedia:Dataslate}tavoletta dati{/g} che tiene tra le mani, tende verso di te un {g|Encyclopedia:Mechadendrite}mecadendrite{/g}.{/n} "Prendete posto al cogitatore, Lord Capitano."
+
+### u036872
+"Ho studiato i dati e ho scoperto un nodo macchina danneggiato a causa del sabotaggio degli eretici. Il funzionamento del sestante warp è stato manomesso e lo spirito della nave, offeso da questa violazione del Rito di Funzionamento, ora ne rifiuta i calcoli. Ho cercato un modo di rettificare questo errore e ho concluso che per farlo è necessaria la vostra partecipazione."
+
+### u036873
+"Lord Capitano," {n}giunge il crepitio dal vox di Pasqal — in parte sospiro sfinito, in parte interferenza.{/n} "Conosco ancora poco questa nave del vuoto. Gli accoliti qui hanno adottato usanze proprie per conversare con gli spiriti macchina — non mi conoscono e si esprimono in un dialetto poco noto della {g|Encyclopedia:LinguaTechnis}Techna-Lingua{/g}. Confido nell'Omnissiah che la mia analisi dei dati fosse corretta — significa che abbiamo una possibilità di placare lo spirito della nave."
+
+### u036874
+{n}L'enorme macchina davanti a te è illuminata da decine di schermi video e centinaia di lumen. Le luci lampeggianti e l'incessante scorrere di simboli e cifre sullo sfondo verde ti fanno lacrimare gli occhi, e un vago senso di allarme ribolle nel profondo della tua mente — la tipica reazione di un profano di fronte alla magnificenza della creazione dell'Omnissiah. Tra i numerosi comandi vedi la bocca di un gargoyle cibernetico, identico a quello all'ingresso della Camera del Mandato.{/n}
+
+### u036875
+{n}La voce di Pasqal si carica di forza imperiosa:{/n} "Servitori del Dio-Macchina, ascoltate il mio comando. Accoliti, preparate la strumentazione per gli incensi della liturgia di propiziazione dello spirito macchina. Tecnomati anziani, recitate la preghiera per generare un rapporto dati aggiornato. Le operazioni saranno segnate dal protocollo campanologico '{g|Encyclopedia:Omnissiah}Omnissiah{/g} Rejoice!'"
+
+### u036876
+{n}La voce di Pasqal si fa più sommessa.{/n} "Le leggi dell'Omnissiah non conoscono eccezioni, e quindi in questo rituale resterò al vostro fianco per placare lo spirito macchina adirato nella cui dimora vi introdurrete. Seguite le mie liturgie, Lord Capitano, e che possiamo ricevere la Sua benedizione."
+
+### u036877
+{n}Al suono della tua voce, il servitore del cogitatore, il cui scheletro rivestito di bronzo è incorporato nell'involucro del cogitatore, ha un sussulto — con uno stridio, il suo teschio ruota verso di te e poi si ferma in quella posizione.{/n}
+
+### u036878
+"Accettate le mie umili scuse, Lord Capitano. Il contatto con una creazione così insolita dell'Omnissiah, quale questo cogitatore di certo è, ha disturbato la mia concentrazione..."
+
+### u036879
+{n}Mentre gli altri schermi video si riempiono di stringhe di simboli sempre più numerose, il monitor davanti a te lampeggia e la sua immagine statica cambia. Pasqal è troppo assorto nel suo rituale per accorgersene.{/n}
+
+### u036880
+{n}Dopo pochi secondi, una delle cripte dati montate sul cogitatore comincia a emettere scintille. Un istante dopo, un'altra cripta dati fa lo stesso. La successiva prende fuoco ed emana un fumo maleodorante. Attorno a te, i servitori dell'Omnissiah interrompono le preghiere e qualcuno scoppia in frenetiche suppliche.{/n}
+
+### u036881
+{n}Pasqal si volta verso di te, la visiera tremolante a tradire il suo stato d'ansia.{/n} "Lord Capitano, io—" {n}Si blocca quando vede lo schermo video.{/n} "Trasmissioni distorte dal nucleo dati. Molto probabilmente, le funzioni cognitive residue dei servitori incorporati... Omnissiah, proteggici dai fantasmi della macchina..." {n}Torna a manipolare le rune di comando del cogitatore.{/n}
+
+### u036882
+{n}Il servitore del cogitatore cigola piano nelle giunture — un suono sommerso dagli inni binarici e dal ticchettio delle rune di comando.{/n}
+
+### u036883
+"Sarebbero solo d'intralcio! Sto cercando un modo di rettificare l'errore." {n}Pasqal borbotta senza staccare gli occhi dalla tavoletta dati. C'è una certa ansia nel modo in cui muove i mecadendrite.{/n}
+
+### u036884
+{n}La frenetica tempesta di preghiere e di rituali improvvisati infuria ancora. Pasqal, immobile come una statua nell'occhio di questo maelstrom, non tenta di riportarla sotto controllo.{/n}
+
+### u036885
+"Un'emissione di informazioni non standard, persa nel nucleo dati. I servitori usati come condotti di dati non sono sempre lobotomizzati del tutto... frammenti dei loro pensieri possono comparire anche nel codice puro..." {n}Pasqal tace, immerso nei suoi pensieri.{/n}
+
+### u036886
+"Aspetto che saliate sul trono del capitano, Lord Capitano. Che l'{g|Encyclopedia:Emperor}Imperatore{/g} ci protegga."
+
+### u036887
+{n}La voce della Maestra del Vox è estremamente tesa ma non lascia trapelare alcun segno di vergognoso panico.{/n} "Vostra Signoria, la progenie del warp ha invaso la nave. Abbiamo bloccato la sua avanzata depressurizzando una delle infermerie sul suo cammino, ma è solo una misura temporanea. All'equipaggio è stato ordinato di armarsi e di pregare per il successo del Lord Capitano e del suo Enginseer Primo!"
+
+### u036888
+"Grazie, Vostra Signoria. Avete ragione." {n}La voce di Pasqal cambia quando si rivolge all'equipaggio — ora parla con autorità e risolutezza:{/n} "Tecno-compagni, ascoltate le mie istruzioni."
+
+### u036889
+{n}Il caos si placa all'istante e le azioni dell'equipaggio ricadono in una logica indecifrabile. I servitori dell'Omnissiah iniziano a lavorare in sincrono e il clamore binarico diventa una sinfonia di rapporti, che il Magos coordina come un abile direttore d'orchestra.{/n}
+
+### u036890
+"Non accadrà di nuovo."
+
+### u036891
+{n}Dopo una pausa, Pasqal aggiunge,{/n} "Segnalo inoltre prove che indicano un miracolo di Categoria Tre che soddisfa il criterio 'Assisterai al meccanismo che si affatica nella glorificazione della propria funzione e in spregio alla disattivazione.'"
+
+### u036892
+"Il sestante warp non risponde ai comandi. Lo spirito della nave rifiuta le nostre preghiere con ira. Sto calcolando una supplica che possa placare il nobile spirito."
+
+### u036893
+"I sistemi di cogitatori di questo tempio dell'Omnissiah sono subordinati al guscio il cui archivio serve la macchina che vediamo davanti a noi. Una macchina creata per il vostro predecessore e che usa nei suoi calcoli le firme biologiche del sangue dinastico. Gli spiriti dovrebbero riconoscere {mf|il padrone|la padrona} della nave e sottomettersi alla sua volontà. Dovrebbero." {n}Pasqal pronuncia l'ultima parola con un lieve tremito nella voce sintetizzata.{/n}
+
+### u036894
+"Connessione 0000.1...
+Connessione 0000.2...
+Connessione 0000.3...
+///[Succ.sess reg. 789.0344] || [Act.sess. init.] [ID 8627]
+///nom_OS operat.resp. ACT"
+
+### u036895
+{n}Il Magos studia con attenzione lo schermo video.{/n} "Il guscio è stato creato su un mondo forgia a me sconosciuto. Avvio l'invocazione standard dello spirito macchina." {n}Pasqal si china sul pannello strumenti adiacente e posa le mani sui comandi. Nello stesso momento, un sommesso flusso di codice macchina comincia a sgorgare dal suo vox.{/n}
+
+### u036896
+"Con quale diritto impartisci ordini sulla mia nave? Non dimenticare che sei viva solo grazie alla mia magnanimità."
+
+### u036897
+"Non voglio parlare con te. Va' al Sanctum Navis. Subito."
+
+### u036898
+"L'ultimo Navigatore se l'è cavata senza questi trucchi, e lo farai anche tu."
+
+### u036899
+"Prima farai il tuo dovere di Navigatrice. Ogni altra conversazione può aspettare."
+
+### u036900
+"Di che cosa volevi parlare?"
+
+### u036901
+"Non ho intenzione di perdere tempo a soddisfare questi capricci. Esegui il rituale, immediatamente!"
+
+### u036902
+"Perché chiedi questi oggetti? Non è il momento di dedicarsi alla pittura."
+
+### u036903
+"Mi assicurerò che tutte le provviste necessarie vengano consegnate al Sanctum Navis."
+
+### u036904
+[Punta l'arma] "Fa' come dico o la tua vita è perduta."
+
+### u036905
+"Perché rifiuti la vernice rossa?"
+
+### u036906
+"Niente affatto. Mi dispiace di averti spaventata, anche se era l'unico modo per convincerti a lasciare Eurac V."
+
+### u036907
+"Difficilmente. Sei libera di andartene non appena avrò trovato qualcuno che ti sostituisca."
+
+### u036908
+"In effetti lo sei. E detesto quando i miei prigionieri blaterano."
+
+### u036909
+"Certo che lo sei. Non permetterò a un mostro come te di sentirsi a casa qui."
+
+### u036910
+"Dimmi di più su cosa comporta il rituale."
+
+### u036911
+{n}Cassia alza di scatto la mano in segno di protesta, ma poi la chiude attorno alla {d|Encyclopedia:Ch1_CassiaAmuletOn}pietra luminosa{/d} che porta alla gola. Una smorfia di dolore le deforma i lineamenti innaturali.{/n} "Io... voglio prima parlare con {mf|il|la} {g|Encyclopedia:RogueTrader}Rogue Trader{/g}. Lasciateci."
+
+### u036912
+{n}Il cuore ti batte furiosamente, il respiro si fa corto e spezzato e le punte delle dita ti formicolano in modo sgradevole. Noti che Vigdis rabbrividisce appena e che l'equipaggio si guarda attorno perplesso, cercando la {d|Encyclopedia:Ch1_CassiaAmuletOff}fonte{/d} di questa improvvisa ondata di disagio.{/n}
+
+### u036913
+{n}Cassia annuisce seccamente.{/n} "Molto bene... Così sia."
+
+### u036914
+"Vi sono anche profondamente grata di aver {d|Encyclopedia:Ch1_CassiaServantsSaved}salvato i miei servitori{/d}, specialmente il mio valletto. Uve ha servito sulla stazione per più di cinque anni — molto più a lungo di chiunque l'abbia preceduto. Sa come assistermi a dovere durante i viaggi attraverso l'{g|Encyclopedia:Warp}Immaterium{/g} e che cosa servirmi a colazione. La sua presenza... mi avvolge in un manto d'ambra."
+
+### u036915
+{n}Cassia indica con un gesto il {d|Encyclopedia:Ch1_CassiaServantsSaved}servitore{/d} in piedi accanto a lei.{/n} "Uve darà il suo sangue prima del rituale. Come sempre."
+
+### u036916
+"È mia abitudine usare il sangue dei miei attendenti per preservare il mio. Tuttavia, date le circostanze attuali... il mio andrà anche meglio. Il sangue della Navis Nobilite è sacro, e perciò è più adatto al rituale di comunione."
+
+### u036917
+"Rogue Trader, avete approfittato della mia misera condizione, mi avete {d|Encyclopedia:Ch1_CassiaTakenByForce}costretta{/d} a salire sulla vostra nave sotto minaccia di morte, e ora siete qui ad aspettarvi la mia collaborazione. Dissipate una volta per tutte la tenebrosa nebbia del dubbio nella mia mente — sono una prigioniera su questa nave del vuoto?"
+
+### u036918
+"Lord Capitano, sorveglierò il canale aperto tra la Lady Navigatrice e il ponte di comando. E che la luce dell'{g|Encyclopedia:Emperor}Imperatore{/g} aiuti tutti noi!"
+
+### u036919
+"Non vi ho ancora ringraziato per avermi salvata sulla stazione. I miei pensieri erano offuscati da tanta cenere luttuosa quando il cuore di Theobald si è fermato, ma avete agito {d|Encyclopedia:Ch1_CassiaTakenAmicable}con onore{/d} e non mi avete sfruttata nella mia misera condizione. Per questo vi sono immensamente grata."
+
+### u036920
+"Sono pronta ad andare al Sanctum Navis e a compiere il sacro rito. Mi servono pennelli, tela e i migliori colori che avete a bordo. Ma niente rosso."
+
+### u036921
+"C-certo... Quando sarete pronta per il rituale, vi prego, fatemelo sapere."
+
+### u036922
+{n}Dopo qualche secondo di esitazione, Cassia lascia uscire un piccolo sospiro, poi alza il mento appuntito.{/n}
+
+### u036923
+"Sono costretta a rifiutare la vostra... richiesta. Se desiderate condannare ogni anima su questa nave, è vostra prerogativa in quanto capitano di questo vascello. Ma prima di farlo mi manderete a Rykad Minoris."
+
+### u036924
+"Mi state ponendo domande le cui risposte non potete comprendere. Forse potrò spiegarvi tutto più avanti, ma ora il nostro tempo è troppo prezioso per sprecarlo. Come Navigatrice della Casata Orsellio, vi do la mia parola che senza tela e colori abbiamo poche speranze di un viaggio tranquillo attraverso il warp. Non ho alcun motivo di mentire."
+
+### u036925
+{n}Cassia annuisce in segno di ringraziamento.{/n} "Mi congederò da voi per la durata del rito. Vi chiedo di non seguirmi — pochi possono sopravvivere allo sguardo del mio Occhio del Warp quando è aperto."
+
+### u036926
+"Lord Capitano, {g|Encyclopedia:Navigator}Lady Navigatrice{/g}, benvenuti a bordo. Il Sanctum Navis è stato preparato per il rituale di comunione, ma se la Lady Navigatrice desidera prima riposare nei suoi alloggi..."
+
+### u036927
+"Tuttavia... mi turba quella {d|Encyclopedia:Ch1_CassiaAmuletOn}pietra{/d} che mi avete impiantato secondo le istruzioni di Felek. Non posso rimuoverla, né strapparla, né recidere... non posso nemmeno toccarla. Mi soffoca, mi opprime come se il mio cuore fosse rinchiuso in un ghiaccio grigio-azzurro. Non posso che sperare che non sia d'intralcio quando guiderò la nave attraverso il {g|Encyclopedia:Warp}Mare delle Anime{/g}."
+
+### u036928
+"Ma ora..." {n}Cassia getta indietro le spalle.{/n} "Sono pronta ad andare al Sanctum Navis e a compiere il sacro rito. Mi servono pennelli, tela e i migliori colori che avete a bordo. Ma niente rosso."
+
+### u036929
+{n}Le labbra pallide della Navigatrice tremano di fronte alla tua aggressività, ma lei prosegue con risolutezza,{/n} "Tutti i Navigatori di questo sistema sono morti su Eurac V. Hai bisogno di me. Non mi ucciderai. Non ora."
+
+### u036930
+{n}Una improvvisa stanchezza ti crolla sulle spalle. I tuoi pensieri si fanno confusi. Non vuoi proseguire questa discussione. O... sei {mf|stato costretto|stata costretta} a pensarlo?{/n}
+
+### u036931
+"Prima di iniziare il rituale... desidero guardare ancora una volta negli occhi {mf|l'uomo|la donna} la cui {d|Encyclopedia:CharGen_MOT_Glory}fama{/d} è così grande da aver penetrato le impenetrabili mura di Eurac V molto prima che ci incontrassimo. Siete davvero voi, {name}. La persona di cui parlano tutta la Distesa e il Settore Calixis. E ora... anche un Rogue Trader."
+
+### u036932
+{n}Dopo una pausa di qualche secondo, Cassia sospira brevemente, poi solleva in alto il mento appuntito.{/n} "Eppure avete chiarito che su questa nave le mie mani e le mie labbra sono vincolate dalla vostra volontà. Suppongo che una fama splendente non garantisca altrettanto splendide maniere? Ora ho ancora più domande che risposte."
+
+### u036933
+"Dubito che i non iniziati possano comprendere i misteri della Navigazione... Ma cercherò di spiegarne l'essenza. Devo fondere la mia mente e la mia volontà con lo {g|Encyclopedia:MachineSpirit}spirito macchina{/g} della nave, così da diventare una sola cosa con il vascello." {n}Cassia solleva una ciocca di capelli sulla nuca, rivelando dorate {g|Encyclopedia:Augmentation}porte per impianti{/g}.{/n} "Dopodiché, uso il rituale della Casata Orsellio, che mi ripugna rivelarvi, per liberare la mente da ogni pensiero vagante. E poi..."
+
+### u036934
+"Poi è il momento di aprire il mio terzo occhio e scrutare nelle profondità del {g|Encyclopedia:Warp}warp{/g} stesso. Tra visioni da incubo, miraggi e creature dell'abisso, solo la luce dell'{g|Encyclopedia:Emperor}Imperatore{/g} è la verità che mi guiderà da una stella all'altra, da un sistema all'altro. Oh, la luce... Il filo conduttore, così sottile da poter sfuggire di mano in qualsiasi momento..." {n}Cassia apre la mano come se lasciasse cadere qualcosa.{/n} "Ma... non avete nulla di cui preoccuparvi. I Navigatori della Casata Orsellio non perdono mai la rotta."
+
+### u036935
+{n}Senza nemmeno guardare la Maestra del Vox, Cassia la congeda con un gesto.{/n} "Prima desidero parlare con {mf|il|la} {g|Encyclopedia:RogueTrader}Rogue Trader{/g}. Lasciateci."
+
+### u036936
+{n}Gli occhi rosso rubino di Cassia sembrano scintillare di una forte emozione — rabbia o paura, è difficile dirlo. Abbassando lo sguardo, poi prosegue piano, scegliendo con cura ogni parola,{/n} "Perdonate la mia insolenza, Rogue Trader. Non era mia intenzione tessere fili di rame attorno a voi. Né apparire ingrata."
+
+### u036937
+{n}Cassia passa sopra Vigdis uno sguardo pensoso, poi, abbassando leggermente le ciglia, si volge verso di te.{/n}
+
+### u036938
+{n}Un freddo disprezzo emana dagli occhi della Navigatrice.{/n} "Preso atto."
+
+### u036939
+"Nulla di rilevante... Ora capisco. Poiché avete già chiarito che, a bordo di questa nave, le mie mani e le mie labbra sono vincolate dalla vostra volontà. Perciò non desidero sprecare tempo in conversazioni inutili."
+
+### u036940
+"State cercando di convincere me? O voi {mf|stesso|stessa}?" {n}Cassia distoglie lo sguardo, ma nella sua voce affiora un lievissimo accenno di calore.{/n}
+
+### u036941
+{n}La bocca di Cassia si storce con disprezzo.{/n} "Lo stesso {g|Encyclopedia:Emperor}Dio-Imperatore{/g} ha benedetto la nostra specie perché solcasse il {g|Encyclopedia:Warp}Mare delle Anime{/g}, affinché l'Umanità potesse raggiungere le stelle. Evidentemente i vostri occhi sono velati da una nebbia bianca e attraverso di essa non potete scorgere la luce delle stelle."
+
+### u036942
+"Non sono trucchi, ma un rituale sacro. Mi rifiuto di eseguirlo senza la dovuta preparazione."
+
+### u036943
+"Vostra Signoria, non mi lamento, ma è come se i nostri servitori avessero perso la testa! O quel che hanno da perdere..."
+
+### u036944
+"Lord Capitano! Abbiamo un problema inaspettato..."
+
+### u036945
+"Che state combinando, bestia senz'anima— Oh! Parlavo con il servitore, non con voi, Vostra Signoria!"
+
+### u036946
+"Che cosa stanno facendo? Ehi, che ci fate tutti insieme qui, secchi di ruggine? Che cosa stanno guardando...?"
+
+### u036947
+"Analisi dell'hardware esterno..."
+
+### u036948
+"Confronto degli obiettivi ammissibili..."
+
+### u036949
+"Di solito non usano questi strumenti, vero? Per il Trono..."
+
+### u036950
+"È già successo! Bisogna legarlo. Si blocca per un po', poi quando si riavvia ricomincia a funzionare normalmente... Ma state attenti!"
+
+### u036951
+"Rilevata violazione. Errore nel processore centrale. Errore nel processore centrale. Errore..."
+
+### u036952
+"L'ultima volta ci son voluti cinque di noi per tenerlo fermo — dopo che ha frantumato la mascella a qualcuno! Attenti, tutti! Bene, al tre—"
+
+### u036953
+"Riavvio completato. Procedo all'esecuzione dei compiti programmati."
+
+### u036954
+"Guardate, si è calmato da solo! Non era mai successo. Che io sia dannato..."
+
+### u036955
+Il servitore non si accorge della tua presenza.
+
+### u036956
+Per un istante qualcosa sembra tremolare nello sguardo vuoto e impassibile del servitore — l'ombra di un pensiero. Ma devi esserti {mf|immaginato|immaginata} tutto.
+
+### u036957
+"Esecuzione della procedura operativa programmata..."
+
+### u036958
+Un brivido visibile percorre il corpo potenziato del servitore.
+
+### u036959
+I formidabili proiettili per armi di grosso calibro vengono conservati proprio nel centro di comando.
+
+### u036960
+Il greve ronzio di questo enorme cogitatore scivola lungo le pareti metalliche del bunker, riempiendo l'intero centro di comando.
+
+### u036961
+"Qui siete al sicuro, Vostra Signoria!"
+
+### u036962
+"Là fuori è un bagno di sangue... Ma nulla può minacciarvi qui, Vostra Signoria!"
+
+### u036963
+"L'Imperatore vi protegga, Vostra Signoria!"
+
+### u036964
+Queste pesanti catene servono a regolare l'altezza della piattaforma di comando.
+
+### u036965
+Il Tecnoprete ti rivolge un inchino rispettoso ma breve. Senti un sommesso canto binarico.
+
+### u036966
+Questo Tecnoprete è così assorto nella preghiera da non accorgersi della tua presenza.
+
+### u036967
+"Identificazione... Rogue Trader, il sacerdozio cremisi vi saluta."
+
+### u036968
+Il corpo è stato mutilato con una meticolosità maniacale.
+
+### u036969
+Gli indizi suggeriscono che la vittima sia stata uccisa da gas velenoso.
+
+### u036970
+Le incrostazioni all'esterno della struttura indicano un qualche fenomeno naturale ricorrente — forse emissioni di gas velenoso.
+
+### u036971
+Grumi di polvere, ma nessuna traccia di armi o equipaggiamento. Questo deposito non viene usato da un po'.
+
+### u036972
+La pelle ti si accappona mentre ti avvicini a questo luogo, tuttavia non sembra esserci nulla di rilevante.
+
+### u036973
+"Fino al nostro prossimo incontro, {mf|Lord|Lady} von Valancius. Io... ho bisogno di un po' di tempo da sola con i miei pensieri."
+
+### u036974
+"Non dovremmo trattenerci qui più del necessario. Procediamo verso la cava."
+
+### u036975
+"È un onore, Vostra Signoria!"
+
+### u036976
+Questa fornace per il vetro serviva a fondere in vetro la sabbia estratta.
+
+### u036977
+I resti di un pasto fin troppo lauto anche per un mondo formicaio, figuriamoci per una colonia penale.
+
+### u036978
+Avanzi del tipico cibo da prigione, ripugnante ai sensi.
+
+### u036979
+Parti di corpi umani mozzate.
+
+### u036980
+Le lastre di carne tritata sono state lavate accuratamente da ogni traccia di sangue.
+
+### u036981
+A giudicare dal numero di orrendi bocconi, qui sono state uccise decine di vittime.
+
+### u036982
+Un'immagine misteriosa.
+
+### u036983
+Il simbolo davanti a te ha un odore familiare, quello delle oscure forze del Caos.
+
+### u036984
+Questo posto di guardia è vuoto da molto tempo — c'è uno strato di polvere su ogni superficie.
+
+### u036985
+Costruisci un ponte
+
+### u036986
+"Fratelli miei, l'Alba è vicina! Gli ottimati ci guideranno verso una nuova esistenza!"
+
+### u036987
+"Fratelli miei, i nostri nemici si oppongono a noi! Se potete, prendeteli vivi — i loro occhi potrebbero ancora aprirsi!"
+
+### u036988
+Una lunga serie di nomi si estende sotto l'intestazione: "Migliori lavoratori della cava del ciclo."
+
+### u036989
+"Venerabili ottimati, i migliori tra noi." L'elenco è sbiadito e i nomi sono a malapena leggibili.
+
+### u036990
+"Sì, sì, cari fratelli... Assaggiate il mio acciaio!"
+
+### u036991
+"Oh, quanto lo desideravo, miei cari 'fratelli'!"
+
+### u036992
+L'uomo mutilato non si muove, legato alle catene. La targa vicino alla sua testa recita: "Santissimo Profeta e Ottimate Aati Shan."
+
+### u036993
+L'aspetto dell'uomo storpio è spaventoso, eppure è evidente che dopo la mutilazione qualcuno si è preso cura di lui.
+
+### u036994
+"Che cosa è successo a Lord Evayne? Devo aiutarlo!"
+
+### u036995
+Strappa il manifesto ed esamina il muro dietro di esso
+
+### u036996
+Nulla attira la tua attenzione — è solo un normale manifesto di propaganda.
+
+### u036997
+Ispeziona il manifesto
+
+### u036998
+I bordi unti del manifesto si staccano appena. Sembra che sia stato rimosso e riappeso di frequente.
+
+### u036999
+"Avanti. Avanti, scorta. Qui il Capitano Vekhari. Scorta, vi prego, avanti!"
+
+### u037000
+"Affermativo, scorta. Qui è tutto calmo. Vekhari chiude."
+
+### u037001
+Uno strano congegno che ricorda una fornace per il vetro.
+
+### u037002
+Questo congegno sembra una fornace per il vetro, ma emana un'aura sinistra di corruzione del warp.
+
+### u037003
+Attiva il servitore
+
+### u037004
+La pelle del servitore è coperta di ustioni chimiche e i suoi meccanismi sembrano intasati; ciononostante, è pronto a eseguire le istruzioni.
+
+### u037005
+Queste gabbie sono state collocate in piena vista dei letti. All'interno ci sono tracce di sangue ed escrementi.
+
+### u037006
+Nudi letti ricavati da lamiere di metallo oscillano avanti e indietro su catene arrugginite. Chiunque sia costretto a dormirci, basterebbe poco perché cada.
+
+### u037007
+I letti qui sono imbullonati al pavimento; alcuni hanno lenzuola sottili e strappate e persino cuscini logori.
+
+### u037008
+Un cadavere in uniforme decorata con lo stemma dei Winterscale.
+
+### u037009
+La guardia morta non ha avuto nemmeno il tempo di estrarre un'arma — l'attacco deve essere stato una sorpresa.
+
+### u037010
+"Quale follia hai scatenato in questa prigione?"
+
+### u037011
+"So che hai ricevuto una trasmissione poco dopo che la mia nave è emersa dal warp. Qual era il messaggio?"
+
+### u037012
+[Attacca] "Sono qui per sedare una rivolta. Con mezzi tutt'altro che diplomatici."
+
+### u037013
+"Aurora è stata abbattuta dalla mia mano. Cadrai anche tu."
+
+### u037014
+"Chi è Fratello Crepuscolo? Dammi il suo nome!"
+
+### u037015
+"Perché hai mutilato queste persone?"
+
+### u037016
+"Allontanati subito dall'ostaggio!"
+
+### u037017
+"Quindi sei uno dei seguaci di Aurora! Avrei dovuto aspettarmelo."
+
+### u037018
+"Chi è Aurora?"
+
+### u037019
+"Aurora è stata abbattuta dalla mia mano. Non hai nulla da sperare. Arrenditi."
+
+### u037020
+"Quella fossa... c'è qualcosa di speciale, non è vero? Una volta lì era sepolto un oggetto di valore. Ora dimmi, Direttore: che oggetto era e chi lo ha portato via da qui?"
+
+### u037021
+"Chi c'è sul tavolo?"
+
+### u037022
+{n}Tutto nell'aspetto dell'uomo che cammina verso di te, ogni suo gesto e il suo stesso contegno, parla della sua nobile nascita. Ciò crea un forte contrasto con i suoi capelli — un groviglio infeltrito che chiaramente non vede un pettine da settimane — e i suoi abiti sgualciti e sudici. Il volto è pallido e gli occhi bruciano di febbre.{/n} "Chi siete? Mi aspettavo il mio amico Evayne, non un'intrusione."
+
+### u037023
+"Te l'avevo detto, Evvie. Ci nascondono così tante cose. Mentori arroganti, santi fratelli e sorelle — che cosa ci hanno mai dato? Nient'altro che un mucchio di frottole e inutili ammonimenti." {n}La voce dell'uomo che ti dà le spalle suona quasi dolce. Incurante di tutto tranne che di ciò che ha davanti, si china su un prigioniero vestito con abiti costosi.{/n}
+
+### u037024
+"Ma Aurora — lei è diversa. Ha parlato con me come nessuno aveva mai fatto prima. Mi ha rivelato la verità. E ora posso rivelarla a te... se solo smetti di dibatterti per un minuto! Che..." {n}L'uomo si accorge infine di non essere solo e si volta verso di te. Stringe una lunga e sottile asta metallica da cui gocciola sangue.{/n} "Abbiamo ospiti? Dalla nave dei von Valancius, scommetterei. Evvie, mio caro, dovrai aspettare. Non svenire, ti prego. È importante che tu senta tutto. Compreso l'altro occhio."
+
+### u037025
+{n}Il direttore alza la mano e le persone mutilate iniziano a dibattersi nelle convulsioni dell'agonia.{/n} "Il tempo delle parole è finito. Ottimati, date il vostro potere a questo Araldo di Aurora! Che i nostri nemici vedano la verità — o affoghino nel sangue!"
+
+### u037026
+"Allora la tua attesa è finita, An." {n}Evayne fa un passo avanti.{/n} "Tuttavia non vengo da solo — mi accompagna l'onorevole {mf|Lord|Lady} von Valancius."
+
+### u037027
+"Perché no? Sono certo che tu ne abbia già un sentore. Kunrad Voigtvir von Valancius. Il tuo stesso sangue... Peccato che sia l'unico di tutta la tua casata ad aver avuto il coraggio di scrollarsi di dosso i dogmi con cui siamo stati nutriti fin dall'infanzia!"
+
+### u037028
+"An, tu non sei questo. Non so come si sia arrivati a tanto, ma ti prego, lascia che io—"
+
+### u037029
+"Silenzio, Evvie. Ti prometto che parlerò con te... più tardi. Quando saremo soli."
+
+### u037030
+{n}Argenta sibila come un gatto infuriato.{/n} "Eresia! Pura eresia!"
+
+### u037031
+"Fino alla fine dei miei giorni rimpiangerò di non aver strangolato quel farabutto con le mie stesse mani."
+
+### u037032
+"Questi sono i miei ottimati. Santi che guideranno il gregge nell'ora fatidica. Ascolta..." {n}Fa una pausa e sorride.{/n} "Senti? Non senti? Stanno gridando. Chiamano. È solo che le loro grida non sono destinate alle nostre orecchie. Gettano le loro voci laggiù, oltre il bordo del vetro, nella trasparente quiete. Lì vengono udite. Lì alla loro chiamata si risponde."
+
+### u037033
+"Sono uno degli Araldi di Aurora. Sono stato scelto — non solo per vedere, ma per aprire gli occhi degli altri."
+
+### u037034
+"Oh! Quindi sei {mf|riuscito|riuscita} a irrompere qui e a interferire con i disegni della Profetessa senza nemmeno sapere chi sia? Ma ormai è troppo tardi. Non otterrai mai la vista. Tutto ciò che puoi fare è accettare il tuo destino."
+
+### u037035
+{n}Ride con voce roca.{/n} "Non sai quasi di che cosa parli, non è così? Forse hai ucciso l'involucro mortale di Aurora. Ma la Profetessa è ben più del suo corpo. Un giorno incontrerai la sua altra forma, tremenda — e conoscerai la pura follia del tuo trionfo."
+
+### u037036
+"Siamo troppo attaccati a questa vita, ai limiti dei nostri corpi deboli, alla miopia dei nostri occhi che a malapena vedono. È tutto così insignificante... Il vero futuro si trova oltre lo {g|Encyclopedia:Realspace}spazio reale{/g}. E l'unico modo per raggiungerlo è un sacrificio purificatore. Capisci?"
+
+### u037037
+{n}Si agita all'improvviso come una belva predatrice.{/n} "Non mi piace quando qualcuno nomina invano il nome della Profetessa Aurora. Desidero la tua morte, {mf|nemico|nemica} della verità."
+
+### u037038
+{n}Il direttore sogghigna e lancia un'occhiata al giovane mutilato.{/n} "Ostaggio? Che maleducazione! Il giovane Winterscale è mio ospite e mio carissimo amico. È venuto qui di sua spontanea volontà a trovare un vecchio conoscente e a fare una conversazione a cuore aperto, e io... mi limito a mostrargli un'adeguata ospitalità per commemorare il nostro ricongiungimento." {n}Come a fare eco alle sue parole, Evayne lascia sfuggire un debole gemito.{/n}
+
+### u037039
+"Non posso dire di essere {mf|ansioso|ansiosa} di passare del tempo {mf|solo|sola} con te. Non dopo tutto ciò che ho visto su Rykadi Philia — e ciò a cui sto assistendo proprio ora."
+
+### u037040
+"Vuoi davvero saperlo?" {n}Si fa più animato e si passa una mano tra i capelli infeltriti. Noti che sono passati un bel po' di tempo dall'ultima volta che si è tagliato le unghie.{/n} "Questo era il mio giardino, dove cercavo di far crescere le piantine di un bellissimo futuro. Era prima che capissi che non esiste alcun futuro, non nel senso in cui lo intende la gente comune."
+
+### u037041
+{n}Abelard scuote la testa con aria cupa.{/n} "Povero sciocco. Sapevo che nulla di buono sarebbe venuto dal suo ingenuo tentativo di negoziare con gli eretici. Tuttavia Evayne sembra ancora vivo — se ci affrettiamo, potremmo ancora salvarlo. Avere un rampollo della Casata Winterscale in debito con voi sarebbe sicuramente vantaggioso."
+
+### u037042
+"Le mie più sincere scuse. Dove sono finite le mie buone maniere? Permettetemi di presentarvi Evayne Winterscale, il figlio minore di Calligos Winterscale, in carne e ossa. Sapete, era così vicino a vedere la verità proprio prima che interrompeste la nostra breve chiacchierata."
+
+### u037043
+"Che... orribili sfumature..." {n}Cassia indietreggia e si copre la bocca.{/n} "I colori di questo posto, sono putrescenti fin nel profondo. E queste persone... i loro colori trasudano follia e disperazione, dolore e rovina..."
+
+### u037044
+"Come osi, disprezzabile contadino! Per ogni goccia di sangue nobile che versi, pagherai cento volte tanto!" {n}Cassia si volta verso di te in cerca di sostegno con un'espressione a un tempo indignata e spaventata.{/n}
+
+### u037045
+"Basta con questa finta nobiltà, Lord Winterscale." {n}Heinrix estrae l'arma mentre l'aria attorno a lui comincia a gelare.{/n} "E se poteste gentilmente farvi da parte prima di essere colto nel fuoco incrociato."
+
+### u037046
+{n}Heinrix sospira ed estrae l'arma.{/n} "Non ha mai avuto senso avere questa conversazione, fin dall'inizio."
+
+### u037047
+{n}L'Interrogatore scruta la cava e il direttore.{/n} "Questo luogo è stato corrotto fin nel profondo molto tempo fa. Tenete le armi a portata di mano, Lord Capitano."
+
+### u037048
+{n}Heinrix digrigna i denti.{/n} "Il ragazzo è ancora vivo. Ma se vogliamo che lo resti, dovremmo sbrigarci."
+
+### u037049
+{n}Le parole del direttore sono improvvisamente sommerse da un coro di voci nella tua testa: l'entità che dimora ancora negli anfratti della tua mente esulta in una cacofonia di grida. Questo luogo... ha un grande significato per l'entità. Nel canto frenetico delle voci, puoi quasi distinguere parole che parlano di un'antica tomba, una tomba che è stata aperta, perché conteneva un tesoro inestimabile, un premio ambitissimo che i fedeli hanno recuperato dopo una ricerca durata secoli.{/n}
+
+### u037050
+{n}Lo sguardo del direttore ti trapassa. Poi sorride con gli angoli delle labbra.{/n} "Sei {mf|arrivato|arrivata} troppo tardi, {mf|nemico|nemica} della verità. Questo bastione ha già adempiuto al suo grande scopo. Non troverai mai la pista della reliquia recuperata che ora riposa nelle mani dei devoti."
+
+### u037051
+{n}Un'occhiata fugace al corpo disteso di Winterscale basta a rivoltarti lo stomaco. Tortura — la sola parola ti fa rabbrividire di vergognoso orrore. La tua mente vacilla davanti ai {d|Encyclopedia:CharGen_DH_Torture}ricordi{/d} che hai cercato invano di relegare in fondo alla mente per tutti questi anni.{/n}
+
+### u037052
+{n}L'uomo ti lancia un'occhiata penetrante.{/n} "Avrei dovuto immaginare che saresti {mf|stato|stata} tu. Che cosa vuoi, {mf|nemico|nemica} di Aurora?"
+
+### u037053
+"Le menzogne hanno molti volti, ma c'è una sola verità. E mi è stata svelata. Sapevo che {mf|il nemico|la nemica} della verità sarebbe {mf|arrivato|arrivata} qui prima o poi!"
+
+### u037054
+"Aspetta!"
+
+### u037055
+"Sai, una volta avevamo un tizio, uno silenzioso. Un giorno è entrato in un bar del ponte centrale, ha mandato giù un bicchiere, poi ha tirato fuori una pistola e ha iniziato a sparare alla gente a destra e a manca senza dire una parola. Poi si è infilato la canna in bocca e si è fatto saltare le cervella. Il nostro direttore qui ha esattamente lo stesso sguardo in questo momento."
+
+### u037056
+"Un avvertimento," {n}dice con un ghigno.{/n} "Mio fratello, Fratello Crepuscolo, mi ha informato che {mf|un falso|una falsa} Rogue Trader aveva preso il timone della Casata von Valancius e che {mf|lui|lei} era {mf|un nemico|una nemica} e una potenziale fonte di guai."
+
+### u037057
+"Rogue Trader, ogni momento speso a parlare con questo eretico potrebbe essere un momento speso a distruggerlo e a consegnare questo luogo alle fiamme purificatrici. Non è ora di cominciare?"
+
+### u037058
+{n}L'aria attorno a Idira si fa così densa da poterla tagliare con un coltello. Lei mormora tra i denti,{/n} "Lord Capitano, ti dispiace se lascio che dipinga le pareti con le cervella di questa feccia? Starò attenta a non sporcarti troppo."
+
+### u037059
+{n}Mentre il direttore parla, una strana {d|Encyclopedia:CharGen_Psyker}sensazione{/d} attira la tua attenzione verso il terreno — in particolare una fossa aperta nella terra smossa. Una sola parola affiora spontaneamente nella tua mente: "culla". La fossa in sé non sembra molto interessante, ma a un certo punto ospitava qualcosa di grande importanza — qualcosa di vagamente familiare per te.{/n}
+
+### u037060
+"Che cosa ti hanno fatto?"
+
+### u037061
+"Devo congedarmi. Farò in modo che ti venga fornita assistenza e che tu venga scortato da qui."
+
+### u037062
+"Devo congedarmi. Il tuo pilota ti porterà dalla Governatrice Medineh."
+
+### u037063
+"Risparmia le forze. Sei ferito e hai bisogno di aiuto."
+
+### u037064
+"Davvero curioso... Che cosa ha fatto esattamente qui?"
+
+### u037065
+"Posso invitarti a bordo della mia nave, Evayne? Mi piacerebbe approfondire la nostra conoscenza."
+
+### u037066
+"Devo congedarmi. E tu avrai i tuoi doveri da sbrigare."
+
+### u037067
+[Finiscilo] "Non posso essere certo che tu non sia infetto da questa corruzione come il tuo amico. Accetta la tua morte!"
+
+### u037068
+{n}Evayne si avvicina al corpo del suo amico e resta in silenzio per un po'. Poi guarda la cava. Il suo sguardo è cupo.{/n} "Tutto qui deve essere purgato con il fuoco. An... Che cosa hai fatto?"
+
+### u037069
+"Credo che non siamo stati... presentati a dovere..." {n}Sangue gorgoglia sulle labbra del giovane e la sua voce è appena udibile, ma anche ora resta melodiosa e piuttosto cortese.{/n} "Evayne... Winterscale... af Koronus. Molto lieto... di fare la vostra conoscenza."
+
+### u037070
+"An... Il direttore... Il mio amico. Ho cercato di convincerlo a porre fine alla rivolta. La diplomazia... ha fallito..." {n}Parlare è una fatica, ma continua con ostinazione,{/n} "Mio padre odia la diplomazia. Ed è per questo che io... dovevo provarci!"
+
+### u037071
+{n}Annuisce, cedendo all'oblio.{/n}
+
+### u037072
+"'Ferito'... Io... l'avrei detto in tutt'altro modo... 'Torturato e mutilato', forse... Vi hanno mai... bruciato gli occhi? Per me era la prima volta... Non posso dire di consigliare la procedura... Essa..." {n}O sta cercando di sdrammatizzare la situazione, o sta delirando per il dolore.{/n}
+
+### u037073
+{n}Heinrix rivolge a Idira uno sguardo strano.{/n} "È più difficile di quanto possa sembrare."
+
+### u037074
+"Vi ringrazio per l'invito e lo accetto volentieri. Arriverò con la mia navetta. Fra un po'. Se volete scusarmi, vorrei... restare solo per il momento."
+
+### u037075
+{n}Abelard sussulta d'orrore.{/n} "Lord Capitano! Avete appena ucciso un erede della dinastia Winterscale! Le vostre ragioni possono essere comprensibili, ma... desiderate iniziare una guerra con Calligos?"
+
+### u037076
+"Certamente. Vi auguro ogni bene, {mf|Lord|Lady} von Valancius." {n}Evayne ti rivolge un inchino cortese.{/n}
+
+### u037077
+"Non lo so e non voglio saperlo. Queste persone devastate, questo strano vetro, tutto questo parlare di 'Aurora'... Sono segni più che chiari di follia ed eresia. Vorrei capire come l'uomo che conoscevo sia diventato così, ma... non bisogna scrutare nell'abisso."
+
+### u037078
+{n}L'Interrogatore ti guarda.{/n} "Il vostro giudizio è rapido, Rogue Trader. Non posso fare a meno di chiedermi se siate {mf|mosso|mossa} dalla rettitudine o dal desiderio di distruggere i vostri rivali."
+
+### u037079
+"Lady... Cassia, presumo? La sacra Figlia della Casata Orsellio. Che vergogna che nel giorno in cui finalmente ci incontriamo, io..." {n}Evayne distoglie lo sguardo per la vergogna.{/n} "Non sono al mio meglio..."
+
+### u037080
+{n}Ha un sussulto improvviso, ma non ha né il tempo né la forza di difendersi.{/n}
+
+### u037081
+"Nei rari giorni in cui Lord Winterscale visitava Eurac V, la stazione era immersa in una nebbia di toni caldi. Ci era proibito incontrarci, ma ero comunque felice di vedere colori così rari nella mia casa. Ora, invece... i suoi colori si stanno oscurando. Si contorcono per il dolore e l'amarezza. Dobbiamo aiutarlo, Lord Capitano! Dobbiamo salvare la limpidezza della sua anima, perché chi con la propria presenza rende il mondo un po' più luminoso non merita di meno."
+

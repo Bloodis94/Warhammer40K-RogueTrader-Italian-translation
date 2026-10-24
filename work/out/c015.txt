@@ -1,0 +1,2118 @@
+### u007140
+Model of Loyalty
+
+### u007141
+Il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} diventa 0. Gli effetti {g|f:3ddbf131cbd54087a665d4b2e026b0f2}warp burn{/g} e {g|f:26be6a9ad4c540a4921f25834a2f420f}soul burn{/g} vengono rimossi da tutti gli alleati entro un raggio di 4 caselle dal corvo psibernetico.
+
+### u007142
+Light of the Throne
+
+### u007143
+Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} — Zelota
+Il corvo psibernetico ottiene +25 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g}.
+L'Overseer ottiene l'abilità {g|f:7f6f5b934a994383b8490c76fd5023d4}Light of the Throne{/g}.
+
+### u007144
+His Light Bearer
+
+### u007145
+Il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} diventa 20. Il corvo psibernetico viene disattivato e 4 demoni casuali appaiono al suo posto. Attaccano ogni creatura nel combattimento, tranne i propri simili.
+
+### u007146
+Call to Harvest
+
+### u007147
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Zelota
+Il corvo psibernetico ottiene +25 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g}.
+L'Overseer ottiene l'abilità {g|f:98b43ba9ab564287abfb43f07585e053}Call to Harvest{/g}.
+
+### u007148
+Feast of Suffering
+
+### u007149
+Quando questa abilità viene usata, ogni nemico entro un raggio di 4 caselle dal corvo psibernetico, tranne i demoni con il tratto {g|f:de9ae96560504c13af0825e60e397b2c}Warp Creature{/g}, attiva i {g|Encyclopedia:PerilsOfWarp}pericoli del Warp{/g}, come se il suo {g|Encyclopedia:PsyRating}livello psichico{/g} fosse pari a 5. Non può causare l'evocazione di demoni.
+<i>Nota:</i> questo non conta come attivazione dei pericoli del Warp per gli effetti che ne dipendono.
+
+### u007150
+Witch's Burden
+
+### u007151
+Richiede {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Zelota
+Il corvo psibernetico ottiene +25 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g}.
+L'Overseer ottiene l'abilità {g|f:0818714dfe324d8bbfbd6a6f3ac0b2f6}Witch's Burden{/g}.
+
+### u007152
+Immaterium Catalyst
+
+### u007153
+Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} — Zelota
+Lo sciame di servoteschi ottiene +20 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+Gli attacchi dell'Overseer contro xenos, psyker e demoni {g|f:a115669547864ccc816f0598a404e816}sotto sorveglianza{/g} ignorano l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e la {g|Encyclopedia:Deflection}deviazione{/g} e non possono essere {g|Encyclopedia:BlockChance}bloccati{/g} né {g|Encyclopedia:Parry}parati{/g}.
+
+### u007154
+No Mercy for the Unclean
+
+### u007155
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Zelota
+Lo sciame di servoteschi ottiene +20 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+I nemici {g|f:a115669547864ccc816f0598a404e816}sotto sorveglianza{/g} falliscono automaticamente tutte le prove contro l'Overseer.
+
+### u007156
+Unholy Idol
+
+### u007157
+Richiede {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Zelota
+Lo sciame di servoteschi ottiene +20 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+Se c'è almeno un alleato entro un raggio di 4 caselle dallo sciame di servoteschi, il famiglio non può essere disattivato.
+
+### u007158
+Vigil Unending
+
+### u007159
+Il {g|Encyclopedia:Recoil}rinculo{/g} dello Space Marine è ridotto a 0. I bersagli degli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} dello Space Marine subiscono {g|Encyclopedia:StaggeredEffect}barcollante{/g}.
+
+### u007160
+Blood Ice Gauntlets
+
+### u007161
+Arnoolf scoppiò in una risata,{br}
+e il suo fedele bolter ululò la risposta.{br}
+Pelle e armatura dal sangue nemico gelate,{br}
+la presa dell'eroe non conosce dubbio!{br}
+Skal!{br}
+
+### u007162
+Questi bracciali conferiscono a chi li indossa un {g|Encyclopedia:Bonus}bonus{/g} di +5 a {g|Encyclopedia:SkillTechUse}Tech-Use{/g} e aumentano di +3 i {g|Encyclopedia:DamageGlossary}danni{/g} delle armi a fiamma.
+
+### u007163
+Bracciali del piromane
+
+### u007164
+Ogni volta che chi li indossa mette a segno un colpo critico con un attacco a distanza, il suo attacco successivo contro qualsiasi bersaglio colpisce automaticamente e non può essere parato né schivato.
+
+### u007165
+Guanti del maestro duellante
+
+### u007166
+Gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} del personaggio infliggono +{uip|Damage|b9acbc4e35d74c4b81eac7b50c8926f6} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi per ogni accumulo di questo effetto.
+
+### u007167
+Vengeance
+
+### u007168
+<u>(bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} × accumuli di vengeance)</u>
+
+### u007169
+Ogni volta che viene eseguito un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g} contro chi lo indossa, questi ottiene +1 accumulo dell'effetto vengeance.
+<i>Vengeance</i>: gli attacchi di opportunità del personaggio infliggono +{uip|Damage|b9acbc4e35d74c4b81eac7b50c8926f6} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi per ogni accumulo dell'effetto.
+
+### u007170
+Guanti tattici Avenger
+
+### u007171
+Ogni colpo messo a segno con {g|f:e955823f54d24088ae1fdefe88d3684d}Blade Dance{/g} aumenta di +{uip|Critchance|65815f9b334c476ba63a4790e85cf1de}% la probabilità di colpo critico di chi li indossa fino alla fine del suo turno.
+
+### u007172
+Bracciali del Bladedancer
+
+### u007173
+Se indossato da un {g|f:9b090810169e4a42b22afd5995d3720d}assassino del Culto della Morte{/g}, ogni volta che chi lo indossa uccide un nemico, quel nemico esplode in una fontana di sangue. Le caselle vicine vengono coperte di sangue, come se fossero colpite da una {g|f:3a4eebf212974ba68d6867981c240b1b}fiala di sangue{/g}.
+
+### u007174
+Crimson Oblivion
+
+### u007175
+Ogni volta che chi li indossa colpisce un bersaglio con un attacco in mischia, l'armatura del bersaglio è ridotta di −2% fino alla fine del combattimento. Cumulabile.
+
+### u007176
+Guanti ad artigli metallici
+
+### u007177
+Guanti di deviazione
+
+### u007178
+Questi guanti permettono a chi li indossa di {g|Encyclopedia:Parry}parare{/g} gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} con la propria {g|Encyclopedia:RangeAreaAttacksGlossary}arma a distanza{/g}, usando la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} al posto della {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}.
+
+### u007179
+Aumenta di +{uip|Damage|cf41ec4ff0374fa78a5335640a2864b8} i danni critici di {g|f:5c06542194b74ecc922b92f3543703d2}Where It Hurts{/g} (inclusi i danni dell'attacco stesso e quelli delle istanze aggiuntive degli effetti di danno nel tempo).
+
+### u007180
+Guanti dell'Executioner
+
+### u007181
+Ogni volta che chi li indossa esegue con una pistola un attacco non a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}, quell'attacco {g|Encyclopedia:PushGlossary}spinge{/g} il nemico di 2 caselle.
+Se chi li indossa uccide un nemico con un attacco di pistola, la {g|Encyclopedia:Reload}ricarica{/g} immediatamente. Ogni ricarica di una pistola conferisce +5% di probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico agli attacchi di pistola.
+
+### u007182
+Guanti del granatiere
+
+### u007183
+Usare le granate costa −1 {g|Encyclopedia:ActionPoints}PA{/g} a chi li indossa. I nemici subiscono +2 {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi dalle granate di chi li indossa.
+
+### u007184
+Dopo un attacco riuscito, questi guanti conferiscono a chi li indossa il 50% di probabilità di infliggere l'effetto {g|Encyclopedia:BleedingEffect}sanguinamento{/g} ai nemici che falliscono una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+Se chi li indossa ha {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} — Aderente, la prova è effettuata con una {g|Encyclopedia:Penalty}penalità{/g} di −20.
+
+### u007185
+I {g|Encyclopedia:DamageGlossary}danni{/g} inflitti aumentano di +<u>{g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} della preda</u>% per ogni accumulo di questo effetto.
+
+### u007186
+Guanti del Bounty Hunter
+
+### u007187
+Ogni volta che chi li indossa uccide un bersaglio segnato come {g|Encyclopedia:Prey}preda{/g}, ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +<u>{g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} della preda</u>% ai {g|Encyclopedia:DamageGlossary}danni{/g} fino alla fine del combattimento. Questo effetto è cumulabile.
+
+### u007188
+<u>({g|Encyclopedia:SkillMedicae}Medicae{/g} / 3)</u>
+
+### u007189
+Aumenta di +{uip|Damage|0e36aac7736d40bca321b5a1883a7edc} i danni critici di {g|f:5c06542194b74ecc922b92f3543703d2}Where It Hurts{/g} (inclusi i danni dell'attacco stesso e quelli delle istanze aggiuntive degli effetti di danno nel tempo).
+
+### u007190
+Guanti da alto filatore
+
+### u007191
+Raddoppia i {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} inflitti da chi li indossa.
+
+### u007192
+Inevitable Demise
+
+### u007193
+Questi guanti conferiscono a chi li indossa un bonus del +10% alla probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico. Questo {g|Encyclopedia:Bonus}bonus{/g} raddoppia se chi li indossa non si è mosso durante il proprio {g|Encyclopedia:Turn}turno{/g}.
+
+### u007194
+Guanti Kasrkin
+
+### u007195
+Chi lo indossa ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +5 a {g|Encyclopedia:SkillPersuasion}Persuasion{/g}.
+
+### u007196
+Guanti di seta nobiliare
+
+### u007197
+Raffinati accessori per le mani, di solito indossati dagli aristocratici.
+
+### u007198
+Se chi li indossa è un {g|Encyclopedia:CareerAssassinGlossary}Assassin{/g} e {g|Encyclopedia:DodgeGlossary}schiva{/g} o {g|Encyclopedia:Parry}para{/g} con successo l'attacco di un nemico, crea automaticamente un'ulteriore {g|Encyclopedia:Opening}apertura{/g} su quel nemico, sul lato più vicino a chi li indossa.
+
+### u007199
+Guanti della risposta
+
+### u007200
+Quando chi li indossa usa {g|f:aedb4d2a2fd049db9c3f61b6737043a4}Intimidation{/g}, i bersagli colpiti da intimidito ottengono anche l'effetto {g|Encyclopedia:StaggeredEffect}barcollante{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u007201
+Guanti dell'angoscia
+
+### u007202
+Il {g|Encyclopedia:Recoil}rinculo{/g} dello Space Marine è ridotto di −{uip|Recoil|d179b36dff70467f814ebbe653853944}. Gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} dello Space Marine applicano anche {g|Encyclopedia:StaggeredEffect}barcollante{/g} ai bersagli se falliscono una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Toughness con una penalità di −{uip|Check|d179b36dff70467f814ebbe653853944}.
+
+### u007203
+Guanti potenziati Astartes
+
+### u007204
+{g|Encyclopedia:WarhammerStrength}Strength{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g} sono ridotte di −10 per ogni accumulo di questo effetto.
+
+### u007205
+Ogni {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} di chi li indossa contro nemici sotto l'effetto di {g|f:197b8a8a12b0442db7ffee1067cf3d97}Expose Weakness{/g} riduce di −10 la {g|Encyclopedia:WarhammerStrength}Strength{/g} e la {g|Encyclopedia:WarhammerAgility}Agility{/g} del nemico.
+
+### u007206
+Guanti della Redemption
+
+### u007207
+Ogni volta che chi li indossa {g|Encyclopedia:PushGlossary}spinge{/g} il bersaglio, il suo attacco successivo contro quel bersaglio nello stesso round infligge +10% di danni. Cumulabile.
+
+### u007208
+Bracciali dello sfondatore
+
+### u007209
+<u>(bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} / 3)</u>
+
+### u007210
+Quando chi li indossa usa {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g}, ottiene +{uip|Damage|b7eaa3c6e7ce43698c04bf99b553b8cc} {g|Encyclopedia:DamageGlossary}danni{/g} con i propri {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+
+### u007211
+Bracciali stabilizzanti
+
+### u007212
+Quando chi li indossa usa {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g}, ottiene +{uip|Damage|91b5d75106034acc95435d4ed1cb03dc} {g|Encyclopedia:DamageGlossary}danni{/g} con i propri {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g} e non subisce senza fiato.
+
+### u007213
+Guanti stabilizzanti
+
+### u007214
+Guanti da cacciatore
+
+### u007215
+Se l'attacco a distanza di chi li indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico, chi li indossa ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +5% alla probabilità di {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} per il successivo attacco a distanza contro lo stesso nemico. Non è cumulabile.
+
+### u007216
+Alla fine del {g|Encyclopedia:Turn}turno{/g}, chi li indossa ottiene accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} pari al numero di nemici che ha {g|Encyclopedia:HitSequenceGlossary}colpito{/g} durante il proprio turno.
+
+### u007217
+Guanti del comandante
+
+### u007218
+Riduce di −5 la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} del bersaglio per 2 {g|Encyclopedia:Round}round{/g}. Cumulabile fino a 6 volte.
+
+### u007219
+Thrice-Pioneer's Protection
+
+### u007220
+Ogni volta che chi li indossa infligge {g|Encyclopedia:DamageGlossary}danni{/g}, la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} del bersaglio sono ridotte di −5 per 2 {g|Encyclopedia:Round}round{/g}. Cumulabile fino a 6 volte.
+
+### u007221
+Thrice-Pioneer's Bracers
+
+### u007222
+Se chi li indossa infligge {g|Encyclopedia:DamageGlossary}danni{/g} a un nemico costringendolo a muoversi, quel nemico subisce <u>(da 1 a 3)</u> {g|Encyclopedia:WarpDamage}danni warp{/g} aggiuntivi per ogni casella percorsa durante il {g|Encyclopedia:Turn}turno{/g} di chi li indossa.
+<i>{g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Aderente</i>: i danni warp aggiuntivi aumentano a <u>(da 1 a 6)</u>.
+
+### u007223
+Bracciali del tormento
+
+### u007224
+Se chi li indossa ha già ottenuto un bonus da {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g}, ogni volta che uccide un bersaglio segnato come {g|Encyclopedia:Prey}preda{/g} ottiene di nuovo un bonus cumulabile da questa abilità. Tale bonus duplica il bonus di livello più alto di {g|f:b97c9e76f6ca46d3bb8ccd86baa9d7c9}Hunt Down the Prey{/g} che chi li indossa ha già ottenuto.
+
+### u007225
+Guanti del predatore supremo
+
+### u007226
+Quando chi lo indossa attacca con un'arma pesante, infligge +30% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi, ma la sua probabilità di {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} è ridotta di −50%.
+Questo effetto è inattivo mentre chi lo indossa è sotto l'effetto {g|f:e63c911438394fb69d58597549f65688}confident approach{/g}.
+
+### u007227
+Quando chi lo indossa esegue un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, i {g|Encyclopedia:DamageGlossary}danni{/g} base aumentano di +2 per ogni bersaglio colpito.
+
+### u007228
+Laughing Wolf Helm
+
+### u007229
+Glorioso Arnoolf in una tempesta di spade,{br}
+infuriato come un lupo nell'inverno vorace.{br}
+La sua sete mai si placa{br}
+di scarlatto mjod su neve bianca.{br}
+Skal!{br}
+
+### u007230
+Chi lo indossa ottiene +10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e l'immunità a tutti i {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g}.
+
+### u007231
+Red Wolf Skull
+
+### u007232
+L'elmo di Ulfar è coperto di misteriose rune fenrisiane e motivi a spirale che evocano la potenza del mondo natale degli Space Wolves e narrano i molti pericoli che lo Space Marine affrontò prima di indossare per la prima volta la sua armatura potenziata.
+
+### u007233
+Ogni volta che l'attacco a distanza a colpo singolo di chi lo indossa infligge danni pari o superiori al 25% delle ferite massime del bersaglio, questo attacco infligge a caso {g|Encyclopedia:BlindedEffect}accecato{/g}, {g|Encyclopedia:StaggeredEffect}barcollante{/g} o {g|Encyclopedia:SlowedEffect}rallentato{/g} a quel bersaglio per 1 round.
+
+### u007234
+Sniper's Bravado
+
+### u007235
+Elmo dell'analista
+
+### u007236
+Quando chi lo indossa uccide un bersaglio con un {g|Encyclopedia:Exploit}exploit{/g} usando un colpo singolo o un {g|Encyclopedia:DeadeyeShot}deadeye shot{/g}, il nemico più vicino ottiene immediatamente 1 exploit.
+
+### u007237
+Monocolo dell'antica Terra
+
+### u007238
+Le {g|Encyclopedia:Test}prove{/g} di {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g} di chi lo indossa dipendono dalla {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} anziché dall'{g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} e ottengono un {g|Encyclopedia:Bonus}bonus{/g} di +3.
+
+### u007239
+Se chi lo indossa ha 10 o più accumuli di {g|f:437c7a78578c4bbeab1e85ea4a76df7d}bloodblessed{/g}, ottiene +1 di determinazione.
+
+### u007240
+<u>(2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u>
+
+### u007241
+Richiede {g|Encyclopedia:SoulmarkTypesGlossary}Convinzione{/g} — {g|Encyclopedia:SoulMarkHope}Iconoclast{/g}
+Chi indossa questo elmo ottiene +{uip|Armour|71687ec9ba584ffa95cd1e81a54bcd92}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}. L'elmo conferisce inoltre un bonus di Fellowship pari a {uip|Fellowship|71687ec9ba584ffa95cd1e81a54bcd92}.
+
+### u007242
+Elmo della determinazione
+
+### u007243
+Corona carminio
+
+### u007244
+Ogni volta che un effetto di {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}in fiamme{/g} o {g|Encyclopedia:ToxinEffect}tossina{/g} inflitto da chi lo indossa infligge {g|Encyclopedia:DamageGlossary}danni{/g} a un nemico, quel nemico subisce una penalità di −5% all'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} solo contro gli attacchi di chi lo indossa, il quale ottiene +5% di probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico contro di lui. Cumulabile.
+
+### u007245
+<u>(3 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u>
+
+### u007246
+Ogni volta che un alleato sotto l'effetto dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} di chi lo indossa effettua un attacco durante un {g|Encyclopedia:ExtraTurn}turno extra{/g}, questo attacco infligge +{uip|Damage|738f084d21874705b18c1b844224d401}% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u007247
+Monocolo del comandante
+
+### u007248
+Berretto da commissario
+
+### u007249
+Conferisce a chi lo indossa +10 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}. Conferisce inoltre +{unit_stat|WarhammerFellowship|bonus}% di probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico, sia a chi lo indossa sia ai suoi alleati.
+
+### u007250
+Monocolo di controllo periferico
+
+### u007251
+Usare un'{g|Encyclopedia:Ability}abilità{/g} non d'attacco conferisce a chi lo indossa un {g|Encyclopedia:Bonus}bonus{/g} di +5% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} e alla {g|Encyclopedia:Parry}parata{/g} per ogni nemico adiacente, per 1 {g|Encyclopedia:Round}round{/g}. Questo effetto è cumulabile.
+
+### u007252
+Questo cappuccio conferisce a chi lo indossa un {g|Encyclopedia:Bonus}bonus{/g} di +10 a {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e +15% di {g|Encyclopedia:DamageGlossary}danni{/g} ai poteri psichici e del Navigatore, ma infligge una {g|Encyclopedia:Penalty}penalità{/g} di −10 a {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+
+### u007253
+Cappuccio del visionario oscuro
+
+### u007254
+Gli attacchi singoli di chi lo indossa su un'{g|Encyclopedia:Opening}apertura{/g} infliggono +<u>(20% delle {g|Encyclopedia:HitPoints}ferite{/g} massime del bersaglio)</u>% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+Il {g|Encyclopedia:DeadeyeShot}deadeye shot{/g} di chi lo indossa su un'{g|Encyclopedia:Opening}apertura{/g} infligge +<u>(30% delle {g|Encyclopedia:MaxWounds}ferite massime{/g} del bersaglio)</u>% di danni aggiuntivi.
+
+### u007255
+Visore del vivisettore
+
+### u007256
+Ogni volta che chi li indossa fallisce una prova di Demolition, può ritirare subito il dado usando Agility al posto di Demolition.
+
+### u007257
+Occhiali del demolitore
+
+### u007258
+Ogni volta che chi lo indossa blocca, {g|Encyclopedia:DodgeGlossary}schiva{/g} o {g|Encyclopedia:Parry}para{/g} un attacco, lo {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} aumenta di +10.
+
+### u007259
+Tactical Genius
+
+### u007260
+<u>(2 × (bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} + bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g}))</u>
+
+### u007261
+Tutti i bersagli di {g|f:13e41af1d54c458da81050336ce8e0fc}Taunting Scream{/g} subiscono una penalità di −{uip|Penalty|1cfd47812aa548a0b56bc4bb638033fc} alle {g|Encyclopedia:Test}prove{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} contro questa {g|Encyclopedia:Ability}abilità{/g}.
+
+### u007262
+Elmo da tutore dell'ordine
+
+### u007263
+Quando chi la indossa usa {g|f:95cdd5f42ef5480d9fadd9e0acee641b}Machine Spirit Communion{/g}, la sua {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} aumenta di +5 per ogni bersaglio colpito fino alla fine del combattimento.
+
+### u007264
+Maschera del tecnocollegamento potenziata
+
+### u007265
+Chi lo indossa ottiene uno {g|Encyclopedia:Stratagem}stratagemma{/g} aggiuntivo: tutti gli alleati nell'area bersaglio di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} {g|Encyclopedia:Reload}ricaricano{/g} istantaneamente le proprie armi dopo ogni loro attacco fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} di chi lo indossa
+
+### u007266
+Visore dell'arcistratega
+
+### u007267
+Rapid Reload Stratagem
+
+### u007268
+Tutti gli alleati nell'area bersaglio di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} {g|Encyclopedia:Reload}ricaricano{/g} istantaneamente le proprie armi dopo ogni loro attacco fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} di chi lo indossa
+
+### u007269
+Visore di puntamento
+
+### u007270
+Conferisce +15% di probabilità di {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} agli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g} contro nemici con meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g} rimaste.
+
+### u007271
+Quando chi lo indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} con un attacco a distanza un bersaglio in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}, questo attacco mette sempre a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+
+### u007272
+Victim's Sorrow
+
+### u007273
+Questi occhiali conferiscono a chi li indossa un {g|Encyclopedia:Bonus}bonus{/g} di +5 a {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g}. Conferiscono inoltre +10% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} contro gli xenos.
+
+### u007274
+Occhiali da interrogatore
+
+### u007275
+Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} — Seguace
+Questo elmo conferisce a chi lo indossa l'immunità ai {g|Encyclopedia:HitSequenceGlossary}colpi{/g} critici nemici per i primi 3 {g|Encyclopedia:Round}round{/g} di combattimento.
+
+### u007276
+Elmo del Devoted Protector
+
+### u007277
+Conferisce +{unit_stat|WarhammerWillpower|bonus} a {g|Encyclopedia:SkillLoreWarp}Lore (Warp){/g}.
+
+### u007278
+Occhiali del veggente del warp
+
+### u007279
+Rende meno soffocante il tocco tagliente del warp.
+
+### u007280
+<u>(2 × (bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g}))</u>
+
+### u007281
+Chi lo indossa ottiene +10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}.
+Ogni volta che un alleato è influenzato dalle {g|Encyclopedia:Ability}abilità{/g} di chi lo indossa, quell'alleato ottiene +{uip|DodgeRed|b8abf96d31c640eabf90b7b3c81b68c2}% di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} nel suo prossimo {g|Encyclopedia:Turn}turno{/g}. Non è cumulabile.
+
+### u007282
+Monocolo del Navigatore
+
+### u007283
+Ogni volta che chi lo indossa infligge un effetto di danno nel tempo o uccide un nemico, ottiene +1 accumulo dell'effetto {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}inevitability{/g}.
+Non appena chi lo indossa ottiene 6 accumuli di {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}inevitability{/g}, infligge {uip|Damage|89ac7aeab03b4556b6c972889e6e4b3d} danni diretti a tutti i nemici che subiscono un qualsiasi effetto di danno nel tempo, e tutti gli accumuli di {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}inevitability{/g} vengono rimossi.
+
+### u007284
+Visore della Retribuzione Inevitabile
+
+### u007285
+Inevitability
+
+### u007286
+Ogni volta che chi lo indossa infligge un effetto di danno nel tempo, ottiene +1 accumulo dell'effetto {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}inevitability{/g}.
+Non appena chi lo indossa ottiene 10 accumuli di {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}inevitability{/g}, infligge {uip|Damage|691d6631ddd84d488c7a6703178adb4a} danni diretti a tutti i nemici che subiscono un qualsiasi effetto di danno nel tempo, e tutti gli accumuli di {g|f:1f2465a9a0ce4c34a2b8de41e70a1210}inevitability{/g} vengono rimossi.
+
+### u007287
+Visore dell'Inevitabilità
+
+### u007288
+Quando chi lo indossa uccide con un colpo un nemico entro un raggio di 1 casella, ottiene +1 di {g|Encyclopedia:Resolve}determinazione{/g} fino alla fine del combattimento.
+
+### u007289
+Elmo di soppressione del rumore
+
+### u007290
+Ogni volta che chi lo indossa spende 10 accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g}, ottiene +1 di {g|Encyclopedia:Resolve}determinazione{/g} fino alla fine del combattimento.
+
+### u007291
+Visore periferico
+
+### u007292
+Questa benda per l'occhio conferisce a chi la indossa un {g|Encyclopedia:Bonus}bonus{/g} di +20 a {g|Encyclopedia:SkillCoercion}Coercion{/g} e applica una {g|Encyclopedia:Penalty}penalità{/g} di −5 a {g|Encyclopedia:SkillAwareness}Awareness{/g}.
+
+### u007293
+Benda del pirata
+
+### u007294
+Gli attacchi singoli riusciti di chi li indossa infliggono {g|Encyclopedia:Stun}stordito{/g} al bersaglio per 1 {g|Encyclopedia:Round}round{/g} se il bersaglio fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −5.
+
+### u007295
+Occhiali autocalibranti
+
+### u007296
+Gli attacchi singoli riusciti di chi lo indossa infliggono {g|Encyclopedia:Stun}stordito{/g} al bersaglio per 1 {g|Encyclopedia:Round}round{/g} se il bersaglio fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −5.
+Se chi lo indossa attacca un nemico stordito, anche il nemico più vicino diventa stordito.
+
+### u007297
+Elmo autocalibrante
+
+### u007298
+<u>(2 × {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g})</u>
+
+### u007299
+Conferisce agli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g} di chi lo indossa +{uip|Damage|72d73cb39ee146799156f8efaa18c281}% di {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u007300
+Elmo del pistolero
+
+### u007301
+Un alleato sotto l'effetto dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:36cb9c507ede4953b22cefac9263aa4d}Break Their Ranks!{/g} di chi lo indossa ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +1 alla {g|Encyclopedia:Deflection}deviazione{/g} per ogni nemico adiacente a quell'alleato.
+
+### u007302
+Visore del comandante
+
+### u007303
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Devoto
+Quando chi lo indossa mette a segno il primo {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} riuscito nel proprio {g|Encyclopedia:Turn}turno{/g}, il bersaglio subirà i {g|Encyclopedia:PerilsOfWarp}pericoli del Warp{/g}. Chi lo indossa non subisce questo effetto.
+
+### u007304
+Maschera dei sussurri
+
+### u007305
+<u>(3 × bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g})</u>
+
+### u007306
+Chi lo indossa ottiene +10 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+Una volta per combattimento, ogni volta che le {g|Encyclopedia:HitPoints}ferite{/g} di chi lo indossa scendono sotto il 35%, questi ottiene +{uip|Wounds|85550dbb1dcf417ead0cf866b3ed7b8d} ferite.
+
+### u007307
+Il {g|Encyclopedia:PsyRating}livello psichico{/g} di chi lo indossa aumenta di +1 contro i demoni e per ogni grado di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g}.
+<i>! Può essere equipaggiato solo da uno psyker sanzionato.</i>
+
+### u007308
+Diadema Mind Assemble
+
+### u007309
+Ogni volta che chi lo indossa usa un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g}, può attivare uno dei seguenti effetti:
+-<indent=5%>50% di probabilità di ridurre il costo in {g|Encyclopedia:ActionPoints}PA{/g} e diminuire di −2 il {g|Encyclopedia:VeilThickness}degrado del Velo{/g}.</indent>
+-<indent=5%>25% di probabilità di eseguire il potere psichico normalmente.</indent>
+-<indent=5%>25% di probabilità di aumentare di +3 il degrado del Velo e azzerare il {g|Encyclopedia:Cooldown}tempo di ricarica{/g} del proprio attacco.</indent>
+Se il degrado del Velo sale a 15 o oltre, questo effetto attiva i {g|Encyclopedia:PerilsOfWarp}pericoli del Warp{/g} anche usando poteri psichici minori.
+
+### u007310
+Quando chi lo indossa uccide un nemico con l'abilità {g|f:e627e3fb653840dab9661093828432c5}Finish the Job{/g}, ottiene un {g|Encyclopedia:Bonus}bonus{/g} del +20% ai {g|Encyclopedia:DamageGlossary}danni{/g} per 1 {g|Encyclopedia:Round}round{/g} e azzera il {g|Encyclopedia:Cooldown}tempo di ricarica{/g} delle proprie {g|Encyclopedia:Ability}abilità{/g} {g|f:874c1ff6e51945a0ae4d4e33f3dc1b49}Orchestrated Firestorm{/g} e {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}Last Volley{/g}
+
+### u007311
+Occhio insonne
+
+### u007312
+Occhiali tattici
+
+### u007313
++5% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}
++3% di probabilità di {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}
+
+### u007314
+Applica una {g|Encyclopedia:Penalty}penalità{/g} di −10 a {g|Encyclopedia:WarhammerPerception}Perception{/g} per tutti gli attacchi effettuati contro chi lo indossa e per tutti i nemici entro un raggio di 2 caselle da chi lo indossa.
+
+### u007315
+Elmo del provocatore
+
+### u007316
+Chi lo indossa ha una probabilità del {unit_stat|Resolve}% di ridurre a 0 qualsiasi danno in arrivo.
+
+### u007317
+Lente a somma zero
+
+### u007318
+I colpi di chi li indossa a {g|Encyclopedia:MeleeAttacksGlossary}distanza di mischia{/g} ottengono un {g|Encyclopedia:Bonus}bonus{/g} di +20 alla {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g}.
+
+### u007319
+Occhiali dello spadaccino
+
+### u007320
+Chi lo indossa infligge +{uip|Dmae|18b7dddd2ccf46f3ab13739d0c32fa4d} di danni in più ai bersagli con meno del 50% di ferite.
+
+### u007321
+Se vengono attivati fenomeni psichici o pericoli del Warp, chi lo indossa ottiene +1 di livello psichico durante il proprio turno successivo.
+
+### u007322
+Domatore dell'Empireo
+
+### u007323
+<u>(5 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u007324
+Il {g|Encyclopedia:PsyRating}livello psichico{/g} di chi lo indossa aumenta di +1.
+Finché chi lo indossa ha il 100% di {g|Encyclopedia:HitPoints}ferite{/g}, infligge +{uip|Damage|8a2f48a26a1444debe80707fbb14c034}% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi con i propri {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} e con i bastoni da psyker.
+
+### u007325
+Se chi lo indossa uccide un nemico o mette a segno un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico, ottiene +5 di {g|Encyclopedia:Lethality}letalità{/g} fino alla fine del combattimento.
+
+### u007326
+Rilevatore di debolezze
+
+### u007327
+Ogni volta che chi lo indossa infligge {g|Encyclopedia:DamageGlossary}danni{/g} ad almeno 2 nemici con un solo attacco, ottiene l'effetto dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:c62c629dde5843a99a511997646a95f3}Elusive Shadow{/g} dell'{g|Encyclopedia:CareerAssassinGlossary}Assassin{/g}.
+
+### u007328
+Amuleto dell'etere
+
+### u007329
+All'inizio del combattimento, chi lo indossa ottiene {g|Encyclopedia:MovementPoints}PM{/g} pari alla propria {g|Encyclopedia:Resolve}determinazione{/g}.
+Chi lo indossa non può essere {g|Encyclopedia:SlowedEffect}rallentato{/g}.
+Se chi lo indossa ha {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} — Devoto, ottiene +2 di determinazione per ogni grado di Dogmatic e non può essere {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}.
+
+### u007330
+Nel primo round di combattimento, i PM di chi lo indossa sono raddoppiati.
+
+### u007331
+Una volta per battaglia, ogni volta che le ferite di chi lo indossa scendono a 0, questi recupera il 20% delle proprie ferite massime.
+
+### u007332
+Amuleto dello Spirito Indomito
+
+### u007333
+Un simile trofeo può essere portato solo da chi ha compreso appieno un'antica verità: che nell'universo esiste soltanto la guerra.
+
+### u007334
+Se chi lo indossa infligge l'effetto {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}in fiamme{/g} o {g|Encyclopedia:ToxinEffect}tossina{/g} a un bersaglio, questo subisce +2 accumuli aggiuntivi di tale effetto.
+
+### u007335
+Amuleto dell'anatomista
+
+### u007336
+Ogni volta che chi lo indossa termina il proprio {g|Encyclopedia:Turn}turno{/g}, infligge {uip|Damage|fc9359c915704579a71f3591fea4c2de} {g|Encyclopedia:EnergyDamage}danni energetici{/g} (con {unit_stat|WarhammerIntelligence} di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}) a tutte le creature adiacenti.
+Se il numero di creature danneggiate supera 3, chi lo indossa subisce l'effetto {g|Encyclopedia:StaggeredEffect}barcollante{/g}.
+
+### u007337
+Gli attacchi singoli con armi bolter {g|Encyclopedia:HitSequenceGlossary}colpiscono{/g} automaticamente il bersaglio.
+
+### u007338
+Involucro del bolter benedetto
+
+### u007339
+Ogni volta che chi lo indossa uccide un nemico o mette a segno un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico, ottiene +2 {g|Encyclopedia:MovementPoints}punti movimento{/g} nel proprio prossimo {g|Encyclopedia:Turn}turno{/g}.
+
+### u007340
+Se indossato da un {g|f:9b090810169e4a42b22afd5995d3720d}assassino del Culto della Morte{/g}, quando chi lo indossa ottiene un accumulo di {g|f:437c7a78578c4bbeab1e85ea4a76df7d}bloodblessed{/g}, ottiene anche +10 di Toughness per 2 round. Non è cumulabile.
+
+### u007341
+Amuleto d'osso del martire
+
+### u007342
+Chi indossa questo amuleto ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +2% ai {g|Encyclopedia:DamageGlossary}danni{/g} per ogni accumulo dell'effetto bonded souls.
+
+### u007343
+Bonded Souls
+
+### u007344
+Richiede {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Devoto
+Ogni volta che un alleato di chi lo indossa subisce {g|Encyclopedia:DamageGlossary}danni{/g}, chi lo indossa ottiene +1 accumulo dell'effetto bonded souls fino alla fine del proprio prossimo {g|Encyclopedia:Turn}turno{/g}.
+<i>Bonded Souls</i>: chi lo indossa ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +2% ai danni per ogni accumulo di bonded souls.
+
+### u007345
+Amuleto delle anime legate
+
+### u007346
+<u>grado di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g}</u>
+
+### u007347
+Richiede {g|Encyclopedia:SoulmarkTypesGlossary}Convinzione{/g} — {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g}
+<indent=5%>+1 di {g|Encyclopedia:DamageGlossary}danni{/g} contro xenos e demoni</indent>
+<indent=5%>+{uip|Damage|82ed9f9b00104f9fb5be7241211065cb} di {g|Encyclopedia:FireDamage}danni da fuoco{/g} contro xenos e demoni</indent>
+
+### u007348
+Pendente d'aquila bruciata
+
+### u007349
+<u>(bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} di chi lo indossa)</u>
+
+### u007350
+Quando chi lo indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico con un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, l'alleato più vicino a chi lo indossa ottiene {uip|Wounds|8ca422bdbb9c493ba5ca32c6c657f34a} {g|Encyclopedia:HitPoints}ferite{/g} temporanee. Non è cumulabile.
+
+### u007351
+Distintivo del cameratismo
+
+### u007352
+<u>(2 × bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} di chi lo indossa)</u>
+
+### u007353
+I nemici nell'area d'attacco di chi lo indossa subiscono −{uip|INTBdiv2|3a5a0a9ea11c47a4b6a7028396ae1291}% di schivata, e gli alleati nell'area d'attacco di chi lo indossa ottengono +{uip|INTBdiv2|3a5a0a9ea11c47a4b6a7028396ae1291}% di schivata per 1 round.
+
+### u007354
+Aquila ossidata dello sfondatore
+
+### u007355
+Chi lo indossa ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:1d48dfb6002a48f68bee0b86c4b56dc4}Dash{/g}, che costa 0 {g|Encyclopedia:ActionPoints}PA{/g} e può essere eseguita due volte per {g|Encyclopedia:Round}round{/g}.
+Ogni volta che chi lo indossa usa {g|f:1d48dfb6002a48f68bee0b86c4b56dc4}Dash{/g}, tutti i nemici adiacenti subiscono −30 di {g|Encyclopedia:WarhammerPerception}Perception{/g} fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} di chi lo indossa.
+Non è cumulabile.
+
+### u007356
+Aquila scattante
+
+### u007357
+Questo amuleto conferisce a chi lo impugna un {g|Encyclopedia:Bonus}bonus{/g} di +20 a {g|Encyclopedia:SkillCoercion}Coercion{/g} e una {g|Encyclopedia:Penalty}penalità{/g} di −5 a {g|Encyclopedia:WarhammerIntelligence} Intelligence{/g}.
+
+### u007358
+Reliquie empie
+
+### u007359
+Amuleto del dissettore
+
+### u007360
+Tutti gli effetti {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g} inflitti da chi lo indossa hanno la potenza aumentata di +2.
+Ogni volta che chi lo indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico, quel nemico subirà {g|Encyclopedia:DamageGlossary}danni{/g} da tutti gli effetti di fiamme, sanguinamento e tossina che lo affliggono ogni volta che viene colpito da un attacco.
+
+### u007361
+Quando chi lo indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico a distanza di {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, tutti gli alleati adiacenti a chi lo indossa ottengono {uip|THP|710968757d334435b89dacc3d0ba5a63} {g|Encyclopedia:HitPoints}ferite{/g} temporanee ed eseguono un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g} contro il nemico colpito da chi lo indossa.
+
+### u007362
+Distintivo del Conmilitum
+
+### u007363
+La Toughness di chi lo indossa aumenta di +{uip|Bonus|262b2ce26d8748719dc49e0537d8112a}.
+
+### u007364
+Giuramento del chirurgo
+
+### u007365
+Ogni volta che un nemico effettua un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g} contro chi lo indossa, quel nemico deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} o rimanere {g|Encyclopedia:BlindedEffect}accecato{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u007366
+L'ultimo lampo
+
+### u007367
+Ogni volta che chi lo indossa è bersaglio di un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g}, l'attaccante rimane {g|Encyclopedia:BlindedEffect}accecato{/g} per 1 {g|Encyclopedia:Round}round{/g}. Chi lo indossa eseguirà contro questo nemico il proprio attacco col costo in {g|Encyclopedia:ActionPoints}PA{/g} più basso (inclusi gli attacchi con {g|Encyclopedia:RangeAreaAttacksGlossary}armi a distanza{/g}).
+
+### u007368
+Emettitore di luce
+
+### u007369
+Incenso della concentrazione
+
+### u007370
+Ogni uso di {g|f:8638221f9caf46649cefcbd7574804d1}Revel in Slaughter{/g} aumenta di +10 la {g|Encyclopedia:WarhammerPerception}Perception{/g} di chi lo indossa fino alla fine del combattimento. Cumulabile.
+
+### u007371
+Quando chi indossa questo distintivo ottiene un accumulo di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g}, ottiene anche +3 di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}.
+
+### u007372
+For the Defence of Cadia
+
+### u007373
+Ogni volta che chi lo indossa è sotto l'effetto di {g|f:04e6f4e64b964552aec4b62f2f331090}Reckless Rush{/g}:
+-<indent=5%>Tutti gli attacchi di chi lo indossa ottengono +50% di probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico.</indent>
+-<indent=5%>Chi lo indossa ottiene +50% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g}.</indent>
+-<indent=5%>Tutti gli attacchi contro chi lo indossa ottengono +50% di probabilità di colpo critico e chi lo indossa subisce +50% di {g|Encyclopedia:DamageGlossary}danni{/g} critici.</indent>
+
+### u007374
+Fury Incarnate
+
+### u007375
+<u>grado di {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} di chi lo indossa</u>
+
+### u007376
+Richiede {g|Encyclopedia:SoulmarkTypesGlossary}Convinzione{/g} — {g|Encyclopedia:SoulMarkCorruption}Heretical{/g}
+<indent=5%>+4 {g|Encyclopedia:HitPoints}ferite{/g} massime</indent>
+Quando il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} supera 15:
+<indent=5%>+10 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}</indent>
+<indent=5%>A ogni {g|Encyclopedia:Round}round{/g} chi lo indossa rigenera ferite pari a {uip|Regen|460e9d0566d84bfe8fd0ab739b53406d}</indent>
+
+### u007377
+Gemma della vitalità oscura
+
+### u007378
+Se indossato da uno psyker, chi lo indossa ottiene l'immunità all'effetto {g|f:423e91ce057d4e2489043ded7306f3e2}horrors of the warp{/g}.
+
+### u007379
+Denial of Nightmares
+
+### u007380
+Se in combattimento è attiva una sola area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} di chi lo indossa, questi ottiene +20 di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} e {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}.
+
+### u007381
+Insegne d'onore
+
+### u007382
+Quando chi lo indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} con successo con un attacco a {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g}, il bersaglio subisce {g|Encyclopedia:SlowedEffect}rallentato{/g} fino al prossimo {g|Encyclopedia:Turn}turno{/g} di chi lo indossa.
+
+### u007383
+Pendente ipnotico
+
+### u007384
+Se indossato da un {g|f:9b090810169e4a42b22afd5995d3720d}assassino del Culto della Morte{/g}, quando chi lo indossa ottiene un accumulo di {g|f:437c7a78578c4bbeab1e85ea4a76df7d}bloodblessed{/g}, ottiene anche +20 di Toughness per 2 round. Non è cumulabile.
+
+### u007385
+Amuleto d'osso del santo
+
+### u007386
+Se chi lo indossa è un mercante del Commercio Freddo, ottiene +{unit_stat|WarhammerFellowship|bonus} a tutte le {g|Encyclopedia:Skills}competenze{/g}.
+
+### u007387
+Il bersaglio dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:d8008dcfa0004bcca41b26b802d839b2}Move, Move, Move!{/g} di chi lo indossa {g|Encyclopedia:Reload}ricarica{/g} automaticamente l'arma impugnata e ottiene +1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u007388
+Pendente d'aquila dell'ufficiale
+
+### u007389
+Finché Cassia rimane nel gruppo, questo amuleto conferisce sia al Rogue Trader sia a Cassia +<u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWillpower}WP{/g} di Cassia)</u> a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g}.
+
+### u007390
+Quando chi lo indossa sceglie come bersaglio un alleato con l'{g|Encyclopedia:Ability}abilità{/g} {g|f:5bfccf14d8604ae1a041fb347fb8f19f}Bring It Down!{/g} per la prima volta nel combattimento, quell'alleato ottiene +1 {g|Encyclopedia:ActionPoints}punto azione{/g} aggiuntivo.
+
+### u007391
+Medaglia della prontezza
+
+### u007392
+<u>({g|Encyclopedia:SkillCommerce}Commerce{/g} / 5)</u>
+
+### u007393
+La Persuasion di chi lo indossa aumenta di +{uip|Pers|9b515e49a1874208bac8e1d8d0b50e34}.
+
+### u007394
+<u>grado di {g|Encyclopedia:SoulMarkCorruption}Heretical{/g}</u>
+
+### u007395
+Questo amuleto riduce di −50% tutti i {g|Encyclopedia:ToxicDamage}danni tossici{/g} subiti da chi lo indossa. Se chi lo indossa ha {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Devoto, recupera anche {uip|Wounds|cd2014fc37a44fe58e20a68f7f3ee4e2} ferite ogni volta che subisce {g|Encyclopedia:DamageGlossary}danni{/g} tossici.
+
+### u007396
+Scheggia empia
+
+### u007397
+Dopo che chi lo indossa ha usato {g|f:7989c6e3109841329aee9e4546138395}Press the Advantage{/g}, se gli rimangono:
+-<indent=5%>Più di 5 accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g}: il prossimo attacco ignora la {g|Encyclopedia:Deflection}deviazione{/g}.</indent>
+-<indent=5%>Più di 10 accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g}: ignora anche la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.</indent>
+-<indent=5%>Più di 15 accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g}: ignora anche la {g|Encyclopedia:DodgeGlossary}schivata{/g}.</indent>
+Se chi lo indossa possiede già il {g|Encyclopedia:Talent}talento{/g} {g|f:402d4b8938fa491da2058c62a65047b8}Undisputed Advantage{/g}, usare {g|f:7989c6e3109841329aee9e4546138395}Press the Advantage{/g} spenderà solo 1/4 degli accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} anziché 1/2.
+
+### u007398
+Amuleto dell'assalto
+
+### u007399
+Il primo uso di ogni potere del Navigatore in combattimento costa −1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u007400
+Pendente dell'anima aperta
+
+### u007401
+<u>(bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} + bonus di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>
+
+### u007402
+Finché il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} è pari o superiore a 10, chi lo indossa infligge +{uip|Damage|3f393bf570474b7bbc6e702ae8edf612}% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi con tutti i {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}.
+<i>! Può essere equipaggiato solo da uno psyker non sanzionato.</i>
+
+### u007403
+Chi lo indossa infligge +{uip|Damage|c3e12b66f464444c8f09b3aea3ccac31} {g|Encyclopedia:WarpDamage}danni warp{/g} aggiuntivi con i propri {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+Ogni volta che chi lo indossa subisce un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico, la sua {g|Encyclopedia:DodgeGlossary}schivata{/g} e la sua {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} sono ridotte di −30% fino alla fine del combattimento.
+
+### u007404
+Psy Focus
+
+### u007405
+Una volta per combattimento, se chi lo indossa non usa alcuna abilità durante il proprio turno, può terminare il turno per concedere subito a tutti gli alleati adiacenti un turno extra con 1 PA.
+
+### u007406
+Quando chi lo indossa ha meno del 50% di ferite, un attacco su due contro di lui viene {g|Encyclopedia:DodgeGlossary}schivato{/g} automaticamente. L'effetto dura fino a 2 {g|Encyclopedia:Round}round{/g}.
+
+### u007407
+Reliquie di santi sconosciuti
+
+### u007408
+Ogni volta che chi lo indossa uccide il proprio bersaglio con un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, tutti i nemici entro 2 caselle da chi lo indossa subiscono {unit_stat|WarhammerWillpower|bonus} {g|Encyclopedia:DamageGlossary}danni{/g} mentali.
+
+### u007409
+Ogni volta che chi lo indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} con un'{g|Encyclopedia:RangeAreaAttacksGlossary}arma a distanza{/g} a distanza di {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, il bersaglio ottiene +1 accumulo dell'effetto {g|Encyclopedia:PerplexedEffect}confuso{/g}.
+
+### u007410
+Pendente d'aquila del Soldier
+
+### u007411
+<u>(20 + 4 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u007412
+Se chi lo indossa non porta alcuna {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}, all'inizio del combattimento ottiene +{uip|Dodge|96494fc91a0d4278867c882487cd6551}% di {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+Il {g|Encyclopedia:PsyRating}livello psichico{/g} di chi lo indossa aumenta di +2.
+
+### u007413
+Sciarpa Starmist
+
+### u007414
+Tutti i nemici che subiscono {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:ToxinEffect}tossina{/g} o {g|Encyclopedia:BleedingEffect}sanguinamento{/g} subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −30% alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u007415
+Chi lo indossa può saltare il proprio turno per rendere un alleato a sua scelta immune a tutti i danni fino all'inizio del prossimo turno di chi lo indossa.
+! Può essere usato una sola volta per combattimento.
+
+### u007416
+Patronato del Sire
+
+### u007417
+Chi lo indossa ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:7daf9f9d4c3d44ccaeebb0b9a7725b54}Danse Macabre{/g}.
+
+### u007418
+Pendente del Dio Ridente
+
+### u007419
+<u>({g|Encyclopedia:SkillLoreWarp}Lore (Warp){/g} / 10)</u>
+
+### u007420
+Conferisce un {g|Encyclopedia:Bonus}bonus{/g} di +10 a {g|Encyclopedia:SkillLoreWarp}Lore (Warp){/g}.
+Ogni volta che chi lo indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un demone o uno psyker per la prima volta nel combattimento, il bersaglio subisce −{uip|Debuff|eaf13a1c39ee4d4a9e52ab9a195680a3} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} e −1 di {g|Encyclopedia:PsyRating}livello psichico{/g} fino alla fine del combattimento. Non è cumulabile.
+
+### u007421
+Catena di cristalli
+
+### u007422
+Conferisce +{unit_stat|WarhammerIntelligence|bonus}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} a chi lo indossa e ai suoi alleati.
+
+### u007423
+Amuleto del signore della guerra
+
+### u007424
+Chi lo indossa ottiene +15 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} finché ha almeno l'85% di {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u007425
+Collana di denti di lupo
+
+### u007426
+Chi lo indossa ottiene +15 di {g|Encyclopedia:SkillCoercion}Coercion{/g} e +15 di {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g}.
+
+### u007427
+Chi lo indossa ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:48139b5d8510426fa2d07a55f99236f5}In My Sights{/g}, che costa 0 {g|Encyclopedia:ActionPoints}PA{/g} e fornisce:
+-<indent=5%>{g|Encyclopedia:ArmourPenetration}Penetrazione dell'armatura{/g} aggiuntiva pari alla {g|Encyclopedia:WarhammerPerception}Perception{/g} di chi lo indossa.</indent>
+-<indent=5%>{g|Encyclopedia:DodgeReduction}Riduzione della schivata{/g} aggiuntiva pari alla {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} di chi lo indossa.</indent>
+Chi lo indossa ottiene anche Aeldari Weapon Proficiency.
+
+### u007428
+Talismano di Yrliet
+
+### u007429
+Ogni volta che un alleato di chi lo indossa muore (le sue ferite scendono a 0) in combattimento, chi lo indossa ottiene subito +5 di Weapon Skill e +5 di Ballistic Skill fino alla fine del combattimento.
+Inoltre, se chi lo indossa ha Convinzione — Heretic, ottiene +10 di Toughness. Cumulabile.
+
+### u007430
+Stolen Breath
+
+### u007431
+Ogni volta che chi lo indossa effettua un attacco in mischia, recupera +1 ferita.
+
+### u007432
+Blooddrinker
+
+### u007433
+L'{g|Encyclopedia:Ability}abilità{/g} {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} infligge {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari a {unit_stat|WarhammerWillpower|bonus} contro demoni e xenos.
+
+### u007434
+Pietra runica Aeldari
+
+### u007435
+All'inizio del {g|Encyclopedia:Turn}turno{/g} di chi lo indossa, il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} è ridotto di −1.
+
+### u007436
+<u>(2 × {g|Encyclopedia:Resolve}determinazione{/g})</u>
+
+### u007437
+Ogni volta che chi lo indossa uccide un nemico, la sua Medicae aumenta di +{uip|Medicae|c4e473f447764098a8e25512a8d540ea} fino alla fine del combattimento. Cumulabile.
+
+### u007438
+Orgoglio del Nato nel vuoto
+
+### u007439
+<u>(bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} + bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g})</u>
+
+### u007440
+Chi lo impugna ottiene +{uip|Damage|b67efdd04d5448818993ca01bee44b79} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi per gli attacchi singoli contro nemici umani.
+Conferisce inoltre un bonus di +5 a {g|Encyclopedia:SkillMedicae}Medicae{/g}.
+
+### u007441
+Tomo di anatomia
+
+### u007442
+Munizioni perforanti
+
+### u007443
+I {g|Encyclopedia:SingleRangedAttacksGlossary}colpi singoli{/g} e i {g|Encyclopedia:DeadeyeShot}deadeye shot{/g} di chi li impugna riducono la {g|Encyclopedia:Deflection}deviazione{/g} del bersaglio di un valore pari ai <u>{g|Encyclopedia:DamageGlossary}danni{/g} inflitti</u>.
+
+### u007444
+Autostimolante — Immunità al sanguinamento
+
+### u007445
+Autostimolante — Immunità alle fiamme
+
+### u007446
+Chi lo indossa ottiene l'immunità a determinati effetti in base al numero di accumuli di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g}:
+-<indent=5%>6 o più accumuli: immunità al {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.</indent>
+-<indent=5%>9 o più accumuli: immunità alla {g|Encyclopedia:ToxinEffect}tossina{/g}.</indent>
+-<indent=5%>12 o più accumuli: immunità alle {g|Encyclopedia:BurningEffect}fiamme{/g}.</indent>
+Chi lo indossa ottiene tutte le immunità precedenti.
+
+### u007447
+Autostimolante
+
+### u007448
+Autostimolante — Immunità alla tossina
+
+### u007449
+Piano di battaglia
+
+### u007450
+Quando chi lo indossa usa {g|f:7989c6e3109841329aee9e4546138395}Press the Advantage{/g}, lui e i suoi alleati aumentano la propria {g|Encyclopedia:Resolve}determinazione{/g} di +2 per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u007451
+Quando chi lo indossa attacca un bersaglio con qualsiasi {g|Encyclopedia:RangeAreaAttacksGlossary}arma a distanza{/g} a 1 casella di distanza, quell'attacco infligge {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (10). Il bersaglio subisce inoltre +25% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} da tutti gli attacchi effettuati contro di lui.
+
+### u007452
+Coltello a catena con baionetta
+
+### u007453
+Coltello con baionetta
+
+### u007454
+Quando chi lo impugna attacca con qualsiasi {g|Encyclopedia:RangeAreaAttacksGlossary}arma a distanza{/g} a 1 casella di distanza, quell'attacco infligge anche {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (4).
+
+### u007455
+Perla della concentrazione
+
+### u007456
+Chi lo indossa ottiene +1 {g|Encyclopedia:ActionPoints}PA{/g} aggiuntivo per ogni {g|Encyclopedia:Turn}turno{/g} consecutivo in cui non si è mosso. Cumulabile fino a 5 volte.
+
+### u007457
+Se chi lo indossa ha 8 o più {g|Encyclopedia:ActionPoints}PA{/g} all'inizio del proprio {g|Encyclopedia:Turn}turno{/g}, ottiene +30% di {g|Encyclopedia:DamageGlossary}danni{/g} per il resto del combattimento.
+
+### u007458
+Perla della potenza
+
+### u007459
+Pendente del Brinkwalker
+
+### u007460
+Chi lo indossa può muoversi senza provocare {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} finché gli rimane meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u007461
+Emettitore di barriera di sangue
+
+### u007462
+All'inizio del proprio {g|Encyclopedia:Turn}turno{/g}, chi lo indossa recupera {g|Encyclopedia:HitPoints}ferite{/g} pari al numero di creature in {g|Encyclopedia:BleedingEffect}sanguinamento{/g}. Se in questo modo è stata recuperata almeno 1 ferita, a chi lo indossa viene rimossa anche 1 {g|Encyclopedia:Injury}lesione recente{/g}.
+
+### u007463
+Catene del dominio
+
+### u007464
+Ogni volta che chi lo indossa uccide un nemico, riceve un {g|Encyclopedia:Bonus}bonus{/g} cumulabile di +5 a {g|Encyclopedia:WarhammerWillpower}Willpower{/g} fino alla fine del combattimento.
+
+### u007465
+Riduce di −{uip|HitChance|bd97fcc04ece40e798297a64175990b6}% la probabilità di colpire di tutti gli attacchi a distanza effettuati contro chi lo indossa e i suoi alleati.
+
+### u007466
+Velo impenetrabile
+
+### u007467
+{g|Encyclopedia:SkillLoreImperium}<u>Lore (Imperium)</u>{/g}
+
+### u007468
+Chi lo indossa non può usare poteri psichici o del Navigatore.
+Chi lo indossa ottiene una probabilità del {g|Encyclopedia:SkillLoreImperium}{uip|Bonus|6a315c802f504015adf47aedb80c8cdd}{/g}% di ignorare i danni dei poteri psichici e del Navigatore.
+
+### u007469
+<u>(bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} di chi lo indossa + 5)</u>
+
+### u007470
+Questo talismano conferisce a chi lo indossa +{uip|Bonus|55a4110aae8e441ba109656270a005fb}% di {g|Encyclopedia:DodgeGlossary}schivata{/g}, ma riduce di −30 la {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}.
+Se chi lo indossa ha {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Devoto, non subisce la penalità di Fellowship del talismano e ottiene un ulteriore +{uip|Bonus|55a4110aae8e441ba109656270a005fb}% di {g|Encyclopedia:DamageGlossary}danni{/g} contro gli umani.
+
+### u007471
+Talismano del sangue ardente
+
+### u007472
+Questo oggetto annulla tutti i {g|Encyclopedia:EnergyDamage}danni energetici{/g} inflitti a chi lo indossa, ma non può accadere più di 3 volte per combattimento.
+
+### u007473
+Il personaggio deve superare una {g|Encyclopedia:SkillTestsGlossary}prova di competenza{/g} di Logic con una penalità di −167. In caso di successo, questa abilità viene rimossa, il Cogni-Simulacrum viene distrutto, il {g|Encyclopedia:Bonus}bonus{/g} di +25 a Logic va perso e il personaggio ottiene in modo permanente il tratto {g|f:29fee5bdb6aa49e78eff4fd250c0a555}Paradox Solved{/g}.
+
+### u007474
+Solve Simulacrum
+
+### u007475
+Conferisce +25 di Logic.
+Chi lo indossa ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:0e0b90e4819343358b6d884df098b614}Solve Simulacrum{/g}, che costa 3 {g|Encyclopedia:ActionPoints}PA{/g} e può conferire a chi lo indossa il tratto permanente {g|f:29fee5bdb6aa49e78eff4fd250c0a555}Paradox Solved{/g}.
+
+### u007476
+Questo personaggio può usare il proprio {g|Encyclopedia:HeroicAct}atto eroico{/g} a prescindere dal proprio {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}, senza spendere Slancio.
+
+### u007477
+Paradox Solved
+
+### u007478
+Manipolatore di combattimento
+
+### u007479
+Ogni volta che chi lo indossa usa un oggetto consumabile non offensivo (ad es. stimolante, kit medico, ecc.), questo conta come un attacco di tipo diverso rispetto all'attacco precedente ai fini di {g|f:7f7d109653f24774939f758d094b8812}Versatility{/g}.
+
+### u007480
+Cronometro del comandante
+
+### u007481
+Chi lo indossa ha sempre la più alta {g|Encyclopedia:InitiativeGlossary}iniziativa{/g} in combattimento.
+
+### u007482
+Appunti del comandante
+
+### u007483
+Ogni volta che chi lo indossa usa {g|f:be619d39ec424c9daec488acf25ae86b}Combat Locus Stratagem{/g}, i benefici della zona bersaglio vengono quadruplicati anziché raddoppiati.
+
+### u007484
+Deflettore portatile
+
+### u007485
+Chi lo indossa {g|Encyclopedia:DodgeGlossary}schiva{/g} sempre automaticamente il primo {g|Encyclopedia:HitSequenceGlossary}colpo{/g} di ogni attaccante sul campo di battaglia.
+
+### u007486
+<u>({g|Encyclopedia:SkillDemolition}Demolition{/g} / 10)</u>
+
+### u007487
+Chi lo indossa ottiene +25 di {g|Encyclopedia:SkillDemolition}Demolition{/g} e i suoi {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} con le armi infliggono +{uip|Damage|1f24a40c3a9d4ee8841e835f119f8c50} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u007488
+Istruzioni di demolizione
+
+### u007489
+Colpo ustionante melta
+
+### u007490
+Il primo attacco nel primo {g|Encyclopedia:Round}round{/g} di combattimento costa 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u007491
+Elder Flow
+
+### u007492
+Il primo attacco di chi lo indossa nel primo {g|Encyclopedia:Round}round{/g} di combattimento costa 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+Ogni volta che chi lo indossa attacca un nemico e con questo attacco attiva un {g|Encyclopedia:Exploit}exploit{/g}, l'effetto attivato viene calcolato come se quel nemico avesse +1 exploit aggiuntivo.
+<i>! Può essere equipaggiato solo dagli Aeldari.</i>
+
+### u007493
+Ogni volta che chi lo indossa è bersaglio dell'{g|Encyclopedia:Ability}abilità{/g} di un alleato, ottiene <u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'alleato</u> {g|Encyclopedia:HitPoints}ferite{/g} temporanee.
+
+### u007494
+Usare qualsiasi kit medico costa −1 {g|Encyclopedia:ActionPoints}PA{/g} (ma non meno di 0).
+
+### u007495
+Manuale di pronto soccorso
+
+### u007496
+Dopo aver usato {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g}, chi lo indossa ottiene +15% di {g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} quando è in copertura per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u007497
+Emettitore di campo di forza
+
+### u007498
+Gloom's Disgrace
+
+### u007499
+Ogni volta che chi lo indossa spende tutti i propri {g|Encyclopedia:MovementPoints}PM{/g}, tutti i nemici adiacenti subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −{unit_stat|WarhammerAgility|bonus}% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} di chi lo indossa.
+
+### u007500
+Questo grimorio aumenta di +15% la probabilità di attivare {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g}.
+Tutti i {g|Encyclopedia:WarpDamage}danni warp{/g} inflitti da chi lo impugna aumentano di +{uip|Damage|3cb4e601ca0f42d5ac32cdafad18d010}.
+
+### u007501
+Grimorio del vuoto
+
+### u007502
+Aumenta di +{uip|Damage|8c3ea4815ba8458fb272b6c065d85870}% la probabilità di colpo critico in mischia e i danni critici in mischia di chi lo indossa.
+
+### u007503
+Presa dell'Empireo
+
+### u007504
+Telaio dati modello Hadd
+
+### u007505
+Conferisce +10 a tutte le {g|Encyclopedia:Skills}competenze{/g}.
+Chi lo indossa può ritirare una volta ogni {g|Encyclopedia:Test}prova{/g} di competenza fallita.
+
+### u007506
+Chi lo indossa ottiene quanto segue:
+-<indent=5%>+25 di {g|Encyclopedia:WarhammerStrength}Strength{/g}, {g|Encyclopedia:WarhammerToughness}Toughness{/g}, {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g}.</indent>
+-<indent=5%>Usa Agility al posto di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, Toughness al posto di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e Strength al posto di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}.</indent>
+-<indent=5%>Immunità a {g|Encyclopedia:Injury}lesioni{/g} e {g|Encyclopedia:Traumas}traumi{/g}.</indent>
+-<indent=5%>Rigenera {uip|Regen|e4bcfd3d13f04f8a90ba386210819c7d} {g|Encyclopedia:HitPoints}ferite{/g} per turno.</indent>
+Ogni volta che chi lo indossa uccide un nemico, i danni che infligge aumentano di +1% fino alla fine del combattimento, mentre la sua Intelligence, Willpower e Fellowship sono ridotte di −1 (non meno di 1) fino alla fine del combattimento.
+
+### u007507
+Chi lo indossa ottiene quanto segue:
+-<indent=5%>+25 di {g|Encyclopedia:WarhammerStrength}Strength{/g}, {g|Encyclopedia:WarhammerToughness}Toughness{/g}, {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g}.</indent>
+-<indent=5%>Usa Agility al posto di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, Toughness al posto di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e Strength al posto di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}.</indent>
+-<indent=5%>Immunità a {g|Encyclopedia:Injury}lesioni{/g} e {g|Encyclopedia:Traumas}traumi{/g}.</indent>
+-<indent=5%>Rigenera {uip|Regen|e9bbb2e42f78452cbb7d021ba50f3bb0} {g|Encyclopedia:HitPoints}ferite{/g} per turno.</indent>
+Ogni volta che chi lo indossa uccide un nemico, i danni che infligge aumentano di +1% fino alla fine del combattimento, mentre la sua Intelligence, Willpower e Fellowship sono ridotte di −1 (non meno di 1) fino alla fine del combattimento.
+
+### u007508
+Ninnolo dell'Arlecchino
+
+### u007509
+Ogni {g|Encyclopedia:ActionPoints}PA{/g} speso conferisce +2 {g|Encyclopedia:MovementPoints}PM{/g} a chi lo indossa.
+Inoltre, il movimento di chi lo indossa non è influenzato dalle aree minacciate.
+Ogni volta che chi lo indossa {g|Encyclopedia:DodgeGlossary}schiva{/g} un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g}, ottiene +10 di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}.
+
+### u007510
+Questo oggetto aumenta di +10 la {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g} di chi lo impugna.
+Se chi lo indossa ha {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Aderente, aumenta invece di +10 tutte le {g|Encyclopedia:Skills}competenze{/g}.
+
+### u007511
+Fino alla fine del combattimento, l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e la {g|Encyclopedia:Deflection}deviazione{/g} attuali del personaggio sono dimezzate, ma i suoi {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} aumentano di +{uip|Armour|1e2eb58ea37445b697e959e630ba4e59}% e i {g|Encyclopedia:DamageGlossary}danni{/g} degli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} aumentano di +{uip|Deflection|1e2eb58ea37445b697e959e630ba4e59}. Tutti gli effetti sono cumulabili.
+
+### u007512
+Relentless Rage
+
+### u007513
+<u>(2 × {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} ridotta)</u>
+
+### u007514
+<u>(2 × {g|Encyclopedia:Deflection}deviazione{/g} ridotta)</u>
+
+### u007515
+Chi lo indossa ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:3b31d95710a04630b0955181c6af650c}Relentless Rage{/g}, utilizzabile una volta per {g|Encyclopedia:Round}round{/g}.
+
+### u007516
+Trofeo con corno di Helbrute
+
+### u007517
+Conferisce +10 di {g|Encyclopedia:SkillLogic}Logic{/g}, +10 di {g|Encyclopedia:SkillCoercion}Coercion{/g} e +10 di {g|Encyclopedia:SkillPersuasion}Persuasion{/g}.
+
+### u007518
+Ogni volta che chi lo indossa usa un potere del Navigatore, {g|Encyclopedia:DodgeGlossary}schiva{/g} sempre fisicamente l'attacco successivo spostandosi in una casella adiacente a caso. Questo effetto non si applica agli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u007519
+Amuleto di instradamento dell'Immaterium
+
+### u007520
+<u>({g|Encyclopedia:SkillCarouse}Carouse{/g} / 20)</u>
+
+### u007521
+L'utilizzatore ottiene +{uip|THP|b36fb556ddc04c10ac31264c55eb3da8} {g|Encyclopedia:HitPoints}ferite{/g} temporanee dagli stimolanti da combattimento.
+Il primo uso di qualsiasi stimolante da combattimento per {g|Encyclopedia:Turn}turno{/g} costa 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u007522
+Iniettore migliorato
+
+### u007523
+<u>({g|Encyclopedia:SkillCarouse}Carouse{/g} / 10)</u>
+
+### u007524
+L'utilizzatore ottiene +{uip|THP|fd6b9cc0cac448a48dc7368a72791cec} {g|Encyclopedia:HitPoints}ferite{/g} temporanee dagli stimolanti da combattimento.
+Usare gli stimolanti da combattimento costa 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u007525
+Adattatore per iniezioni
+
+### u007526
+Questo personaggio ottiene +{uip|THP|0d119df6120e4cadb6ecdbac80505f92} {g|Encyclopedia:HitPoints}ferite{/g} temporanee.
+
+### u007527
+<u>({g|Encyclopedia:SkillPersuasion}Persuasion{/g} / 7 di chi indossa il sigillo)</u>
+
+### u007528
+Inquisitor's Tenet
+
+### u007529
+Il Sigillo dell'Inquisizione fornisce poteri benefici:
+-<indent=5%>Conferisce +50 di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}.</indent>
+-<indent=5%>Rimuove tutti i comuni {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g} da chi lo indossa e dai suoi alleati.</indent>
+-<indent=5%>Conferisce +{uip|THP|abb46b314481406ca361e9984872e001} {g|Encyclopedia:HitPoints}ferite{/g} temporanee, +{uip|Armour|abb46b314481406ca361e9984872e001}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e +{uip|Deflection|abb46b314481406ca361e9984872e001} di {g|Encyclopedia:Deflection}deviazione{/g} a chi lo indossa e ai suoi alleati fino alla fine del combattimento.</indent>
+
+### u007530
+<u>({g|Encyclopedia:SkillPersuasion}Persuasion{/g} / 7 di chi lo indossa)</u>
+
+### u007531
+<u>({g|Encyclopedia:SkillPersuasion}Persuasion{/g} / 10 di chi lo indossa)</u>
+
+### u007532
+<u>({g|Encyclopedia:SkillPersuasion}Persuasion{/g} / 40 di chi lo indossa)</u>
+
+### u007533
+Questo personaggio ottiene +{uip|Armour|4cd2e2b938d34049824820e8633de17d}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e +{uip|Deflection|4cd2e2b938d34049824820e8633de17d} di {g|Encyclopedia:Deflection}deviazione{/g} fino alla fine del combattimento.
+
+### u007534
+<u>({g|Encyclopedia:SkillPersuasion}Persuasion{/g} / 10 di chi indossa il sigillo)</u>
+
+### u007535
+<u>({g|Encyclopedia:SkillPersuasion}Persuasion{/g} / 40 di chi indossa il sigillo)</u>
+
+### u007536
+Chi lo indossa ottiene +40 di Persuasion e l'{g|Encyclopedia:Ability}abilità{/g} {g|f:abb46b314481406ca361e9984872e001}Inquisitor's Tenet{/g}. Questa abilità può essere usata una sola volta per combattimento.
+
+### u007537
+Inquisitor's Command
+
+### u007538
+Il Sigillo dell'Inquisizione fornisce poteri speciali:
+-<indent=5%>Conferisce +20 di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}.</indent>
+-<indent=5%>Rimuove {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g} da chi lo indossa e dai suoi alleati entro un raggio di 5 caselle.</indent>
+-<indent=5%>Conferisce +{uip|THP|247acd284cc1404486546f6044576707} {g|Encyclopedia:HitPoints}ferite{/g} temporanee a chi lo indossa e ai suoi alleati entro un raggio di 5 caselle.</indent>
+
+### u007539
+Questo personaggio ottiene +{uip|THP|3b77b69e2822401ab06a9dd583f5106a} {g|Encyclopedia:HitPoints}ferite{/g} temporanee.
+
+### u007540
+Chi lo indossa ottiene +15 di Persuasion e l'{g|Encyclopedia:Ability}abilità{/g} {g|f:247acd284cc1404486546f6044576707}Inquisitor's Command{/g}. Questa abilità può essere usata una sola volta per combattimento.
+
+### u007541
+Questo personaggio ottiene +{uip|THP|280e085e8bd847d8bfcd8eb5597bfd89} {g|Encyclopedia:HitPoints}ferite{/g} temporanee.
+
+### u007542
+Inquisitor's Decree
+
+### u007543
+Il Sigillo dell'Inquisizione fornisce grandi poteri:
+-<indent=5%>Conferisce +30 di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}.</indent>
+-<indent=5%>Rimuove {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g} da chi lo indossa e dai suoi alleati.</indent>
+-<indent=5%>Conferisce +{uip|THP|3d775c8682564aa6b12ab8f0c81956e5} {g|Encyclopedia:HitPoints}ferite{/g} temporanee e +{uip|Armour|3d775c8682564aa6b12ab8f0c81956e5}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} a chi lo indossa e ai suoi alleati fino alla fine del combattimento.</indent>
+
+### u007544
+Questo personaggio ottiene +{uip|Armour|ed01e8a2264944748c6f370f6d7396c9}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} fino alla fine del combattimento.
+
+### u007545
+Chi lo indossa ottiene +25 di Persuasion e l'{g|Encyclopedia:Ability}abilità{/g} {g|f:3d775c8682564aa6b12ab8f0c81956e5}Inquisitor's Decree{/g}. Questa abilità può essere usata una sola volta per combattimento.
+
+### u007546
+Chi lo indossa supera automaticamente qualsiasi {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:SkillCoercion}Coercion{/g}.
+
+### u007547
+Distintivo d'ufficio dell'Inquisitore
+
+### u007548
+<u>({g|Encyclopedia:SkillTechUse}Tech-Use{/g} / 10 di chi lo indossa + 5 × numero di accumuli rimossi dal bersaglio)</u>
+
+### u007549
+Questo oggetto conferisce a chi lo indossa un {g|Encyclopedia:Bonus}bonus{/g} di +5 a Tech-Use.
+Una volta per battaglia: può essere usato per rimuovere immediatamente tutti gli effetti di {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}in fiamme{/g} o {g|Encyclopedia:ToxinEffect}tossina{/g} dai nemici entro un raggio di 10 caselle. Questi nemici subiscono {uip|Damage|6725144561134f9fa6c05d871f25ab2e} {g|Encyclopedia:ImpactDamage}danni da impatto{/g} (con 20% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}).
+
+### u007550
+Detonatore d'instabilità
+
+### u007551
+Questo paranocche conferisce a chi lo indossa un {g|Encyclopedia:Bonus}bonus{/g} di +5 a {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}. Conferisce inoltre a qualsiasi arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} equipaggiata +5% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e +2 di {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u007552
+Paranocche
+
+### u007553
+Ogni volta che chi lo indossa infligge danni a un nemico con un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, quel nemico deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} o morire immediatamente. Se la supera, subisce +{unit_stat|WarhammerAgility|bonus} {g|Encyclopedia:DirectDamage}danni diretti{/g} aggiuntivi.
+Tutti i nemici di {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} VI o superiore sono immuni a questo effetto.
+
+### u007554
+Crea un'area con raggio di 3 caselle attorno al punto bersaglio. Qualsiasi creatura che entra in quell'area, o si trova al suo interno all'inizio del {g|Encyclopedia:Round}round{/g}, subisce 10 {g|Encyclopedia:ToxicDamage}danni tossici{/g} e {g|Encyclopedia:MeltingEffect}in fusione{/g}.
+
+### u007555
+Una meravigliosa arma compatta a forma di anello che permette a chi la indossa di sparare un {g|f:f49c29f6ecbe43acae9a0aa30fab0494}Liquifier Shot{/g} una volta per combattimento.
+
+### u007556
+Anello liquefattore
+
+### u007557
+<u>{g|Encyclopedia:Resolve}determinazione{/g} dell'alleato</u>
+
+### u007558
+Ogni potere psichico o del Navigatore usato dall'alleato di chi lo indossa infligge danni diretti aggiuntivi a tutti i nemici in combattimento pari a {uip|Damage|5b436aeed46e49b292e4bb4c0f2056a5}.
+
+### u007559
+Litania della furia dell'Empireo
+
+### u007560
+Se una qualsiasi caratteristica di chi lo indossa supera 100, tutte le caratteristiche inferiori a 90 aumentano di +10.
+
+### u007561
+Segreti del Precursore
+
+### u007562
+<u>(bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g} di chi lo indossa / 2)</u>
+
+### u007563
+Aumenta di +{uip|Dist|afea036c51bd4cdaabe5f1fb789e474f} caselle la distanza degli attacchi a distanza.
+
+### u007564
+Lente di mira a lungo raggio
+
+### u007565
+Questo oggetto aumenta di +25 la {g|Encyclopedia:SkillLoreWarp}Lore (Warp){/g} di chi lo indossa.
+Se chi lo indossa ha {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Aderente, in combattimento lui e tutti i suoi alleati ottengono +20% di {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}, ma subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −9% alle {g|Encyclopedia:MaxWounds}ferite massime{/g}.
+
+### u007566
+Tomo malefico — Credo nell'Imperscrutabile
+
+### u007567
+Chi lo indossa ottiene +10 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}.
+Ogni volta che le {g|Encyclopedia:HitPoints}ferite{/g} di chi lo indossa dovrebbero scendere a 0 per la prima volta nel combattimento, vengono invece ripristinate fino al 50% delle sue {g|Encyclopedia:MaxWounds}ferite massime{/g}.
+
+### u007568
+Se il bersaglio dell'attacco a distanza di chi lo indossa fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −10, quell'attacco infligge {g|f:1711d1c36c8f40a9a8cb557515d0f31f}exhaustion{/g} a quel bersaglio.
+
+### u007569
+Cercanemici
+
+### u007570
+Questo attacco infligge <u>(da 10 a 14)</u> {g|Encyclopedia:DamageGlossary}danni{/g} e ha il 40% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u007571
+Un'arma ad anello che spara un singolo colpo melta.
+Può essere usata una sola volta per combattimento.
+
+### u007572
+Anello melta
+
+### u007573
+Metronomo
+
+### u007574
+Se chi lo indossa non ha speso {g|Encyclopedia:MovementPoints}PM{/g} durante il proprio {g|Encyclopedia:Turn}turno{/g}, ottiene +10 a tutte le sue {g|Encyclopedia:Characteristic}caratteristiche{/g} nel turno successivo.
+
+### u007575
+Ogni volta che chi lo indossa usa un oggetto consumabile non offensivo (ad es. stimolante, kit medico, ecc.), questo conta come un attacco di tipo diverso rispetto all'attacco precedente ai fini di {g|f:7f7d109653f24774939f758d094b8812}Versatility{/g}. Inoltre, questo multiutensile conferisce il 50% di probabilità che un oggetto consumabile non venga consumato quando viene usato.
+
+### u007576
+Multiutensile militare
+
+### u007577
+<u>(10 + 2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u007578
+Ogni volta che chi lo indossa usa un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} maggiore, ottiene +{uip|Damage|c8def6e18b5e47f68cfadef7ee0ecbb2}% ai danni di tutti i poteri psichici fino alla fine del proprio prossimo {g|Encyclopedia:Turn}turno{/g}.
+
+### u007579
+La {g|Encyclopedia:Deflection}deviazione{/g} di questo personaggio è aumentata. Quando subisce danni e perde {g|Encyclopedia:HitPoints}ferite{/g} non temporanee, l'effetto va perso.
+
+### u007580
+Infligge {g|Encyclopedia:ToxinEffect}tossina{/g} (5).
+
+### u007581
+Una meravigliosa arma compatta a forma di anello che permette a chi la indossa di sparare un {g|f:9ab94c22f40147a0a04edc58ca7ff29e}Toxic Needle{/g} una volta per combattimento.
+
+### u007582
+Anello ad aghi
+
+### u007583
+Chi lo indossa ottiene un {g|Encyclopedia:Bonus}bonus{/g} permanente di +{uip|Damage|6ea380e19640428c9c74235a5d52cc61} (arrotondato per difetto) ai {g|Encyclopedia:DirectDamage}danni diretti{/g}. Questo bonus raddoppia se l'attacco di chi lo indossa attiva un'{g|Encyclopedia:Opening}apertura{/g}.
+
+### u007584
+Appunti sulle debolezze
+
+### u007585
+<u>(bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} × numero di nemici bersaglio)</u>
+
+### u007586
+Ogni volta che chi lo indossa prende di mira 3 o più nemici con un solo attacco, quei bersagli subiscono −{uip|Penalty|9d6ff11d926343b1a22c210b27ee4575}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} fino alla fine del combattimento.
+
+### u007587
+Omnispex
+
+### u007588
+Litania Cruciatum
+
+### u007589
+Ogni attacco singolo di chi lo indossa ottiene +10% di {g|Encyclopedia:DamageGlossary}danni{/g} per ogni {g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g} sul bersaglio.
+
+### u007590
+<u>(2 × {g|Encyclopedia:Deflection}deviazione{/g} dell'armatura equipaggiata)</u>
+
+### u007591
+All'inizio del turno di chi lo indossa, questi ottiene {uip|THP|7476be1b085d4e17a558d3b9f25a87d1} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}. Quando le {g|Encyclopedia:HitPoints}ferite{/g} di chi lo indossa scendono a 0, cade {g|Encyclopedia:ProneEffect}a terra{/g} e ottiene come ferite temporanee il 10% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g}. Chi lo indossa diventa il {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} dei nemici adiacenti. Mentre è a terra, se chi lo indossa non ha altri alleati con più di 0 ferite, lui e i suoi alleati muoiono.
+Nel turno successivo di chi lo indossa, questi recupera il 30% delle proprie ferite se ha ancora ferite temporanee.
+Questo effetto si attiva solo una volta per round.
+
+### u007592
+Una meravigliosa arma compatta a forma di anello che permette a chi la indossa di sparare un {g|f:c23c91c1dd3f45aa86ba38a9478823b4}Plasma Shot{/g} una volta per combattimento.
+
+### u007593
+Anello al plasma
+
+### u007594
+Manipolatore portatile
+
+### u007595
+Usare {g|Encyclopedia:Reload}ricaricare{/g} con qualsiasi arma costa −1 {g|Encyclopedia:ActionPoints}PA{/g}. (Minimo 0)
+
+### u007596
+Ripetitore vox del distretto
+
+### u007597
+Se un alleato sotto l'effetto dell'abilità {g|f:5bfccf14d8604ae1a041fb347fb8f19f}Bring It Down!{/g} di chi lo indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} con successo un nemico con un attacco o lo prende di mira con un'{g|Encyclopedia:Ability}abilità{/g}, chi lo indossa ottiene +1 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerWillpower}Willpower{/g} fino alla fine del combattimento per ogni nemico diverso colpito o preso di mira.
+
+### u007598
+Emettitore provocatorio
+
+### u007599
+Ogni volta che chi lo indossa {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco, diventa un {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} per l'attaccante fino al prossimo {g|Encyclopedia:Turn}turno{/g} di chi lo indossa.
+
+### u007600
+Silenziatore di reliquie
+
+### u007601
+Chi lo indossa non perde l'effetto {g|f:670419fc312d4ee2b2298d03af22e0c2}elusive{/g} se attacca da una {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+
+### u007602
+<u>Numero di accumuli di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g}</u>
+
+### u007603
+Chi lo indossa ottiene una probabilità del {uip|Ignore|d7877eeb7dd44b9595cce50113fbf2e5}% di ignorare qualsiasi {g|Encyclopedia:DamageGlossary}danno{/g} in arrivo.
+
+### u007604
+Rosario della difesa
+
+### u007605
+Ogni volta che chi lo indossa subisce un attacco da un demone o {g|Encyclopedia:WarpDamage}danni warp{/g}, infligge {g|Encyclopedia:BurningEffect}in fiamme{/g} (8) a tutti i nemici adiacenti.
+Tutti gli effetti in fiamme inflitti da chi lo indossa infliggono doppi {g|Encyclopedia:DamageGlossary}danni{/g} se hanno come bersaglio demoni o psyker.
+
+### u007606
+Chi lo impugna ottiene +5% di probabilità di dimezzare i {g|Encyclopedia:WarpDamage}danni warp{/g} in arrivo per ogni punto di {g|Encyclopedia:Deflection}deviazione{/g}.
+
+### u007607
+Conferisce +20 di {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}.
+Chi lo indossa ottiene +{uip|Bonus|65635384b5de4f9aadee246bdbf9b694}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e infligge +{uip|Bonus|65635384b5de4f9aadee246bdbf9b694}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} a xenos e demoni.
+Inoltre, può ritirare una {g|Encyclopedia:Test}prova{/g} fallita una volta per prova.
+
+### u007608
+<u>{g|Encyclopedia:Resolve}Determinazione{/g}</u>
+
+### u007609
+Ogni volta che più di 2 bersagli subiscono {g|Encyclopedia:DamageGlossary}danni{/g} dall'{g|Encyclopedia:AreaOfEffect}attacco ad area{/g} di chi lo impugna, questi ottiene +{uip|Momentum|5b6bc935bd664ed0b35c7f128b193cc5} di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}.
+
+### u007610
+Sigillo del Purificatore
+
+### u007611
+All'inizio del combattimento, chi lo indossa ottiene l'effetto {g|f:6a0a266d5fac47eba2784b5b083afde2}shadow field{/g}. Sotto questo effetto, chi lo indossa conta come in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura totale{/g} contro tutti gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}. L'effetto va perso quando chi lo indossa viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g} da un attacco a distanza e ne subisce {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u007612
+Shadow Field
+
+### u007613
+Anello di intreccio di tendini
+
+### u007614
+Conferisce a chi lo indossa +5% di probabilità di {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} e +5 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, ma riduce la {g|Encyclopedia:Parry}parata{/g} di −5%.
+
+### u007615
+Ogni volta che chi lo indossa uccide un nemico con {g|f:e955823f54d24088ae1fdefe88d3684d}Blade Dance{/g}, gli altri nemici adiacenti a chi lo indossa rimangono {g|Encyclopedia:StaggeredEffect}barcollanti{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u007616
+Sigillo della morte
+
+### u007617
+Chi lo indossa può spendere tutti i propri {g|Encyclopedia:MovementPoints}PM{/g} per spostarsi in qualsiasi casella entro la gittata di movimento.
+Questo movimento non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+Al termine del movimento, chi lo indossa esegue automaticamente un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} con la propria arma primaria contro tutti i nemici adiacenti.
+
+### u007618
+Bladewings
+
+### u007619
+I {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} non offensivi di chi lo indossa costano −1 {g|Encyclopedia:ActionPoints}PA{/g} durante il suo primo {g|Encyclopedia:Turn}turno{/g} in combattimento.
+
+### u007620
+Questo oggetto riduce le {g|Encyclopedia:HitPoints}ferite{/g} di −10%, ma aumenta di +{uip|Crit|c6f507162cd04d8d9d175cd66a73f995}% la probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico.
+
+### u007621
+Iniettore di stimolanti
+
+### u007622
+Anello pungiglione
+
+### u007623
+Una meravigliosa arma compatta a forma di anello che permette a chi la indossa di sparare uno {g|f:8d027d39ba084d95ac87af84b59c9029}Stinger Shot{/g} una volta per combattimento.
+
+### u007624
+Stinger Shot
+
+### u007625
+Se il bersaglio fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}, rimane {g|Encyclopedia:Stun}stordito{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u007626
+All'inizio del {g|Encyclopedia:Turn}turno{/g} di chi lo indossa, tutti i nemici entro un raggio di 3 caselle ottengono +1 accumulo di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} per ogni effetto comune su quel nemico.
+
+### u007627
+Scheggia di pietra di sangue
+
+### u007628
+Conferisce +10 di {g|Encyclopedia:SkillLoreWarp}Lore (Warp){/g} e +15 di {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g}.
+
+### u007629
+Questo manuale conferisce al proprietario +{uip|Bonus|335b5f2e8a654604b2d279e91c5e54c5} a {g|Encyclopedia:SkillMedicae}Medicae{/g}.
+Conferisce inoltre +{unit_stat|WarhammerToughness|bonus} {g|Encyclopedia:MovementPoints}PM{/g} dopo l'uso di un kit medico.
+
+### u007630
+Manuale del chirurgo
+
+### u007631
+<u>({g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g} / 3)</u>
+
+### u007632
+Chi lo impugna ottiene +{uip|Crit|95ac0cecf5734d32a8b273896b24a9c3}% di probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico contro gli xenos.
+
+### u007633
+Una meravigliosa arma compatta a forma di anello che permette a chi la indossa di sparare un {g|f:ce7a4216b83c4fc0950478938b6122a2}Tesla Shot{/g} una volta per combattimento.
+
+### u007634
+Anello Tesla
+
+### u007635
+Rosario di Theodora
+
+### u007636
+Chi indossa questo amuleto ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +10 a {g|Encyclopedia:SkillCommerce}Commerce{/g} e {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}.
+
+### u007637
+Chi lo indossa infligge +10% di danni in più a xenos e demoni. Se chi lo indossa ha Convinzione — Dogmatic, questo bonus raddoppia.
+
+### u007638
+Libro delle preghiere di guerra
+
+### u007639
+I nemici bersaglio delle {g|Encyclopedia:Ability}abilità{/g} psichiche di chi lo indossa devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una penalità di −15, altrimenti subiscono {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (10) e {g|Encyclopedia:BlindedEffect}accecato{/g}.
+
+### u007640
+<u>(10 + {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} / 3)</u>
+
+### u007641
+Ogni volta che chi lo indossa attacca con un'{g|Encyclopedia:RangeAreaAttacksGlossary}arma a distanza{/g} qualsiasi bersaglio entro un raggio di 5 caselle, questo attacco infligge il {uip|ArmourPen|a6765d2f82434282a2bde6d959e3b6b8}% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+
+### u007642
+Emettitore transonico
+
+### u007643
+Questo oggetto conferisce al proprietario un {g|Encyclopedia:Bonus}bonus{/g} di +25 a {g|Encyclopedia:SkillTechUse}Tech-Use{/g}.
+Se il proprietario ha equipaggiato un'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} media o pesante, all'inizio del suo primo {g|Encyclopedia:Turn}turno{/g} in combattimento ottiene +{uip|Armour|326c14c03f8a44829037d9319ccaa6a9}% di armatura.
+
+### u007644
+Multiutensile disaccordante
+
+### u007645
+Anello del cherubino di smeraldo
+
+### u007646
+Questo anello conferisce a chi lo indossa un {g|Encyclopedia:Bonus}bonus{/g} di +5 a {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}. Aumenta inoltre di +1 la {g|Encyclopedia:Resolve}determinazione{/g}.
+
+### u007647
+Ripetitore di videoregistrazione
+
+### u007648
+Ogni volta che un alleato di chi lo indossa sotto l'effetto dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:6f6d2e22b4e744dd9e777b769c1aa167}Joint Analysis{/g} {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un bersaglio con un {g|Encyclopedia:Exploit}exploit{/g}, chi lo indossa ottiene +5 di {g|Encyclopedia:WarhammerPerception}Perception{/g}.
+
+### u007649
+Se chi lo indossa non si è mosso durante il proprio turno o è diventato {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:SlowedEffect}rallentato{/g}, {g|Encyclopedia:Stun}stordito{/g} o è stato gettato {g|Encyclopedia:ProneEffect}a terra{/g}, ottiene ferite temporanee pari a {uip|THP|d1db3deaf73d415ca8a0b3a9e3652685}.
+Se chi lo indossa ha Convinzione — Iconoclast, tutti i suoi alleati ottengono immediatamente lo stesso numero di ferite temporanee.
+
+### u007650
+Autostimolante nascosto
+
+### u007651
+Inibitore della volontà
+
+### u007652
+Quando chi lo indossa usa {g|f:ba56eecb14dc4793a604c28017307500}Controlled Shot{/g}, tutti i nemici adiacenti agli alleati di chi lo indossa subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −30% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} contro il prossimo attacco di chi lo indossa.
+
+### u007653
+Ogni volta che chi lo indossa subisce un colpo critico, l'attaccante subisce immediatamente {unit_stat|WarhammerWillpower|bonus} danni warp.
+
+### u007654
+Aquila ricoperta di ghiaccio
+
+### u007655
+Il simbolo dell'Imperium risplende fiero sotto una crosta di ghiaccio psichico viola. Il guscio congelato reca deboli impronte digitali lasciate dal Maestro del Coro Weisz nel mezzo della sua disperata lotta contro il warp.
+
+### u007656
+Nel suo primo turno non {g|Encyclopedia:ExtraTurn}extra{/g} in combattimento, chi lo indossa ottiene un numero di attacchi aggiuntivi pari al proprio {g|Encyclopedia:PsyRating}livello psichico{/g}.
+
+### u007657
+Spilla dell'impeto del warp
+
+### u007658
+Litania dell'esaurimento
+
+### u007659
+Ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} messo a segno dagli attacchi singoli di chi lo indossa infligge +1 accumulo di {g|Encyclopedia:FatiguedEffect}affaticato{/g}, {g|Encyclopedia:DisturbedEffect}turbato{/g} e {g|Encyclopedia:PerplexedEffect}confuso{/g} per 2 round se il bersaglio fallisce una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g}. Cumulabile.
+
+### u007660
+Scanner della preda
+
+### u007661
+All'inizio del combattimento, infligge l'effetto {g|Encyclopedia:Prey}preda{/g} al nemico con il maggior numero di {g|Encyclopedia:HitPoints}ferite{/g} senza spendere una carica di {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g} e conferisce un {g|Encyclopedia:Bonus}bonus{/g} doppio di {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g} per averlo ucciso.
+
+### u007662
+Quando uccide un bersaglio, l'ufficiale assegnato ripristina 2 PA e 2 PM. [One Ground Operation]
+
+### u007663
+Celestial Encouragement
+
+### u007664
+Inizio battaglia: Slancio +10.
+
+### u007665
+Celestial Inspiration
+
+### u007666
+Herald of the King of Distortion
+
+### u007667
+Warp Insight
+
+### u007668
+Hulk
+
+### u007669
+Pirati
+
+### u007670
+Campo di asteroidi anomalo
+
+### u007671
+Polvere spaziale
+
+### u007672
+Navi del vuoto Drukhari
+
+### u007673
+Relitto Aeldari
+
+### u007674
+Carico alla deriva
+
+### u007675
+Navi del vuoto xenos
+
+### u007676
+Pattuglia Aeldari
+
+### u007677
+Nemici dell'umanità
+
+### u007678
+Navi del vuoto degli eretici
+
+### u007679
+Navi del vuoto nemiche
+
+### u007680
+Pattuglia Drukhari
+
+### u007681
+Navi sconosciute
+
+### u007682
+Resti di nave del vuoto
+
+### u007683
+Nave dell'Adeptus Mechanicus
+
+### u007684
+Flottiglia dell'Inquisizione
+
+### u007685
+Flottiglia Explorator
+
+### u007686
+Ark Mechanicus Hermetico
+
+### u007687
+Stella morente
+
+### u007688
+Stella morta
+
+### u007689
+Anello necron
+
+### u007690
+Navi Drukhari
+
+### u007691
+Thunderfang
+
+### u007692
+Nave del vuoto non identificata
+
+### u007693
+Drusus's Blessing
+
+### u007694
+Nave mercantile
+
+### u007695
+Emperor's Vow
+
+### u007696
+Proiezione dal Warp
+
+### u007697
+Frattura della realtà
+
+### u007698
+Portale warp
+
+### u007699
+Alone strano
+
+### u007700
+Nebulose warp
+
+### u007701
+Maree del warp
+
+### u007702
+Il Velo che si assottiglia
+
+### u007703
+Zarkov
+
+### u007704
+I vecchi servitori della dinastia hanno notato la partecipazione di Abelard Werserian alla Magnae Accessio e apprezzano una continuità così illustre.
+
+### u007705
+Sangue antico
+
+### u007706
+I fedeli sudditi hanno notato la partecipazione di Sorella Argenta alla Magnae Accessio e ne gioiscono.
+
+### u007707
+Lealtà dei fedeli
+
+### u007708
+La Casata Orsellio ha notato la partecipazione di Cassia Orsellio alla Magnae Accessio e ha espresso la propria gratitudine al Rogue Trader.
+
+### u007709
+Lealtà della Casata Orsellio
+
+### u007710
+I vigili servitori dell'Imperium hanno notato la partecipazione di Heinrix van Calox alla Magnae Accessio e sono pronti a servire con ancora maggiore diligenza.
+
+### u007711
+Vigilanza dei leali
+
+### u007712
+Aristocratici potenti e liberi pensatori hanno notato la partecipazione di Idira Tlass alla Magnae Accessio e si sono affezionati al tollerante Rogue Trader.
+
+### u007713
+Liberi pensatori
+
+### u007714
+I sindacati dei contrabbandieri hanno notato la partecipazione di Jae Heydari alla Magnae Accessio e sperano di ottenere i favori del Rogue Trader.
+
+### u007715
+Amici dall'ombra
+
+### u007716
+L'Adeptus Mechanicus ha notato la partecipazione di Pasqal Haneumann alla Magnae Accessio e ha elevato preghiere all'Omnissiah per la prosperità delle colonie del Rogue Trader.
+
+### u007717
+L'approvazione dell'Omnissiah
+
+### u007718
+Sudditi interessati alla proibita cultura xenos hanno notato la partecipazione di Yrliet Lanaevyss alla Magnae Accessio e guardano al Rogue Trader in cerca di patrocinio.
+
+### u007719
+Interessi proibiti
+
+### u007720
+Il protettorato di Chorda è lieto di sostenere la dinastia von Valancius per aver aiutato a ottenere il patrocinio su Footfall.
+
+### u007721
+Sostegno della dinastia Chorda
+
+### u007722
+I rappresentanti commerciali della Casata Gaprak sono entrati nel commercio di manufatti xenos per grazia e in nome del Rogue Trader.
+
+### u007723
+Mercanti della Casata Gaprak
+
+### u007724
+Il patrocinio del Lord Inquisitore Calcazar garantisce privilegi speciali e vari benefici alla dinastia von Valancius.
+
+### u007725
+Benevolenza dell'Inquisizione
+
+### u007726
+Per aver diffuso pettegolezzi diffamatori, è stata inflitta una severa multa alla Casata Sauerback.
+
+### u007727
+Multa per la Casata Sauerback
+
+### u007728
+La Casata Sauerback rende con orgoglio tributo al Rogue Trader con i suoi migliori guerrieri.
+
+### u007729
+Guerrieri della Casata Sauerback
+
+### u007730
+La Casata Werserian ha messo al servizio del Rogue Trader cento dei propri congiunti come siniscalchi e funzionari.
+
+### u007731
+Servitori della Casata Werserian
+
+### u007732
+Una rete di fari del vuoto permette alle navi del vuoto di navigare nel protettorato con maggiore sicurezza.
+
+### u007733
+Fari del vuoto
+
+### u007734
+Gestendo Manufactorum segreti per produrre le mani bioniche trovate su Zarkov, la dinastia può arricchirsi enormemente, senza contare che i mercanti del Commercio Freddo saranno sicuramente interessati a tale impianto. L'eresia dell'innovazione comporta grandi rischi, e l'innovazione che coinvolge la tecnologia xenos ancora di più, come il rischio che la dinastia venga dichiarata anatema dall'Adeptus Mechanicus, ma i potenziali profitti sono altrettanto grandi.
+
+### u007735
+Il Rogue Trader si è rivolto alle menti sublimi dei Magi Explorator, affinché impieghino le benedette macchine dell'Adeptus Mechanicus per sciogliere lo strato di ghiaccio secolare che avvolge un mondo imperiale perduto e dimenticato. Quello che sarebbe un fardello insopportabile per un comune mortale è solo un altro compito per un servitore dell'Omnissiah. Gli Explorator elevano preghiere agli spiriti macchina mentre si preparano a questa missione poco ortodossa su scala planetaria.
+
+### u007736
+Sciogliere il ghiaccio
+
+### u007737
+Il Rogue Trader ottiene +10 di Lore (Xenos).
+
+### u007738
+Il Rogue Trader e i suoi alleati ottengono +20% di danni contro i demoni.
+
+### u007739
+Il Rogue Trader ottiene +10 di Fellowship, +5 di Weapon Skill e +5 di Ballistic Skill.
+
+### u007740
+Il Rogue Trader ottiene un bonus di +10 a tutte le caratteristiche durante le battaglie degli incontri nel warp.
+
+### u007741
+Il Rogue Trader ottiene +10 di Logic.
+
+### u007742
+Il Rogue Trader ottiene +10 di Medicae.
+
+### u007743
+Il Rogue Trader ottiene +10 di Tech-Use.
+
+### u007744
+Essere {mf|l'unico padrone|l'unica padrona} del principale centro commerciale della Distesa di Koronus accresce considerevolmente la ricchezza del Rogue Trader.
+
+### u007745
+Conferisce +10 di Fattore di Profitto.
+
+### u007746
+Signore di Footfall
+
+### u007747
+Asteroide
+
+### u007748
+L'Arca perduta
+
+### u007749
+Nave dei cultisti del Caos distrutta
+
+### u007750
+Nave cartista
+
+### u007751
+Base ribelle
+
+### u007752
+Tenuta del Governatore Vyatt
+
+### u007753
+Operazione di ricerca
+
+### u007754
+Segnale di soccorso
+
+### u007755
+Segnale dalla superficie del pianeta
+
+### u007756
+Anomalia dell'augur
+
+### u007757
+Occhio della tempesta magnetica
+
+### u007758
+Tempesta magnetica
+
+### u007759
+Tomba
+
+### u007760
+Palazzo dell'Atlas
+
+### u007761
+Administratum
+
+### u007762
+Sala del trono dei von Valancius
+
+### u007763
+Palazzo dei von Valancius
+
+### u007764
+Accampamento del Governatore
+
+### u007765
+Sito di scavo
+
+### u007766
+Relitto dell'Inquisizione
+
+### u007767
+Resti di nave del vuoto
+
+### u007768
+Alta fortezza
+
+### u007769
+Settore di stoccaggio LZ-3107
+
+### u007770
+Punto d'appoggio
+
+### u007771
+Battaglia orbitale
+
+### u007772
+Nave profughi distrutta
+
+### u007773
+Atrio di Footfall
+
+### u007774
+Molo Alpha-Rho
+
+### u007775
+Quartieri d'Ombra di Footfall
+
+### u007776
+Eufrates II
+
+### u007777
+Nave del vuoto alla deriva
+
+### u007778
+Manufactorum di Kiava Gamma
+
+### u007779
+Nave del vuoto sventrata
+
+### u007780
+Palazzo abbandonato
+
+### u007781
+La Principessa di Efreet
+
+### u007782
+Rovine non identificate
+
+### u007783
+Mondo di ghiaccio
+
+### u007784
+Stazione del vuoto saccheggiata
+
+### u007785
+Mondo della giungla
+
+### u007786
+Accampamento Drukhari
+
+### u007787
+Segnale dal pianeta
+
+### u007788
+Fosse di Vheabos VI
+
+### u007789
+Laboratorio dell'Haemonculus
+
+### u007790
+Le Foreste di Quetza Temer
+
+### u007791
+Bunker
+
+### u007792
+Cenobio elettrodinamico
+
+### u007793
+Spazioporto
+
+### u007794
+Parata
+
+### u007795
+Rykadi Philia, il planetoide prigione
+
+### u007796
+Sito dello schianto
+
+### u007797
+Città formicaio
+
+### u007798
+Mondo formicaio ghiacciato
+
+### u007799
+Complotto dei Recolliger
+
+### u007800
+Vuoti sotterranei
+
+### u007801
+Spedizione di ricerca
+
+### u007802
+Bunker antico
+
+### u007803
+Manufatto xenos
+
+### u007804
+L'Adeptus Mechanicus ha visto con favore la partecipazione del Genetor Extremis Eogunn Februs alla cerimonia della Magnae Accessio, il che ha portato a un aumento dell'efficienza di tutte le industrie del protettorato von Valancius. La conseguente carenza di manodopera è stata affrontata commissionando un enorme numero di nuovi servitori.
+

@@ -1,0 +1,2073 @@
+### u010175
+Consente di usare entrambe le abilità di una {g|Encyclopedia:PostSpace}postazione{/g} selezionata per un turno.
+Se una o entrambe le abilità sono in tempo di ricarica, il loro tempo di ricarica si riduce di −1 turno.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+
+### u010176
+Focused Efforts
+
+### u010177
+La {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} vola in linea retta, compiendo un'inversione a U completa al termine del movimento, e può scegliere la posizione finale tra 3 direzioni.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+! <i>Utilizzabile solo durante la {g|Encyclopedia:AccelerationPhaseSpace}fase di accelerazione{/g}.</i>
+
+### u010178
+La {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} vola in linea retta, compiendo un'inversione a U completa al termine del movimento.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+! <i>Utilizzabile solo durante la {g|Encyclopedia:AccelerationPhaseSpace}fase di accelerazione{/g}.</i>
+
+### u010179
+Swing Run
+
+### u010180
+Durante il movimento, la {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} può effettuare la virata successiva a 90 gradi invece dei consueti 45.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 2)</u> round casuali.</indent>
+
+### u010181
+Durante il movimento, la {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} può effettuare la virata successiva a 90 gradi invece dei consueti 45.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+
+### u010182
+New Heading
+
+### u010183
+La {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} aziona i propulsori di manovra e scivola lateralmente per un breve tratto.
+Se la manovra avviene contro una nave nemica, entrambe le navi subiscono {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} pari al 90% dei danni di {g|f:7b1ab2c9456a44febdc41b71f14d8df5}Voidship Ram{/g}.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+
+### u010184
+La {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} aziona i propulsori di manovra e scivola di lato per un breve tratto.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+
+### u010185
+Strafe
+
+### u010186
+Ricarica tutti i {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g} e le {g|Encyclopedia:LanceWeaponSpace}lance{/g} che hanno sparato durante la {g|Encyclopedia:AccelerationPhaseSpace}fase di accelerazione{/g}.
+<indent=5%>Tempo di ricarica: casuale, <u>(da 1 a 3)</u> round.</indent>
+! <i>Le lance ricaricate subiscono un'ulteriore penalità di −25% alla probabilità di colpire</i>
+! <i>Utilizzabile solo durante la fase finale</i>
+
+### u010187
+Le {g|Encyclopedia:LanceWeaponSpace}lance{/g} ricaricate subiscono un'ulteriore penalità di −25% alla probabilità di colpire.
+
+### u010188
+Se usata durante la fase finale, ricarica tutti i {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g} che hanno sparato durante la {g|Encyclopedia:AccelerationPhaseSpace}fase di accelerazione{/g}.
+Può essere usata anche durante la fase di accelerazione: in tal caso ricarica i {g|Encyclopedia:TorpedoLaunchersSpace}tubi lanciasiluri{/g} che hanno sparato nel round precedente.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+
+### u010189
+Ricarica tutti i {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g} che hanno sparato durante la {g|Encyclopedia:AccelerationPhaseSpace}fase di accelerazione{/g}.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+! <i>Utilizzabile solo durante la fase finale.</i>
+
+### u010190
+Expeditious Reload
+
+### u010191
+Assume il controllo della {g|Encyclopedia:TorpedoSalvoSpace}salva di siluri{/g} più vicina, conferendole +5 {g|Encyclopedia:MovementPointsSpace}PMV{/g}.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+
+### u010192
+Assume il controllo della {g|Encyclopedia:TorpedoSalvoSpace}salva di siluri{/g} più vicina, conferendole 5 {g|Encyclopedia:MovementPointsSpace}PMV{/g}. Funziona solo sulle salve di siluri lanciate in un altro turno.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+
+### u010193
+Torpedo Control
+
+### u010194
+Un settore scelto degli {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} del vuoto della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} viene rinforzato finché non subisce {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+Il settore rinforzato ha maggiori probabilità di assorbire gli attacchi nemici e perde solo metà della propria forza quando assorbe danni.
+C'è il 50% di probabilità di rinforzare un settore aggiuntivo. Usare questa abilità annulla i rinforzi precedenti.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+
+### u010195
+Un settore scelto degli {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} del vuoto della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} viene rinforzato finché non subisce {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+Il settore rinforzato ha maggiori probabilità di assorbire gli attacchi nemici e perde solo metà della propria forza quando assorbe danni.
+Usare questa abilità annulla qualsiasi rinforzo precedente.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+
+### u010196
+Reinforce Shields
+
+### u010197
+Scegli babordo (sinistra)
+
+### u010198
+Consuma fino al 10% della forza degli scudi della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} per infliggere {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} doppi agli {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} di un nemico.
+
+### u010199
+Sovraccarica gli {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} del nemico, ridistribuendoli in modo che il lato più debole sia rivolto verso la {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g}. Se il nemico possiede un campo olografico, perde diverse delle sue cariche. L'impulso può avere effetti negativi anche su altre tecnologie xenos.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+
+### u010200
+Sovraccarica gli {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} del nemico, ridistribuendoli in modo che il lato più debole sia rivolto verso la {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g}. Se il nemico possiede un campo olografico, perde diverse delle sue cariche. L'impulso può avere effetti negativi anche su altre tecnologie xenos.
+Questo sovraccarico consuma il 25% degli scudi dell'ammiraglia.
+<indent=5%>Tempo di ricarica: <u>(da 1 a 3)</u> round casuali.</indent>
+
+### u010201
+Shield Pulse
+
+### u010202
+Canalizzatore del Warp
+
+### u010203
+Maestro dell'Etere
+
+### u010204
+Maestro delle Manovre
+
+### u010205
+Maestro Cannoniere
+
+### u010206
+Focus
+
+### u010207
+Maestro degli Scudi
+
+### u010208
+Poppa (retro)
+
+### u010209
+Babordo (sinistra)
+
+### u010210
+Prua (davanti)
+
+### u010211
+Tribordo (destra)
+
+### u010212
+La {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} effettua 7 attacchi, ciascuno dei quali ha come bersaglio un nemico casuale entro una gittata di 8 caselle e infligge <u>(da 8 a 14)</u> {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} warp.
+Utilizzabile una sola volta per round.
+Durata: +1 round ogni 10 punti nella competenza Lore (Warp) del Canalizzatore del Warp.
+
+### u010213
+Empyrean Storm
+
+### u010214
+La {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} lancia una squadra d'abbordaggio per infiltrarsi su una nave nemica, appiccando {g|Encyclopedia:InternalFiresSpace}incendi interni{/g} e causando forse {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} ai motori che paralizzano la nave per 1 round.
+Utilizzabile una sola volta per round.
+Durata: +1 round ogni 10 punti nella competenza Persuasion del Comandante Supremo.
+
+### u010215
+Boarding Party
+
+### u010216
+Gli augur della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} scandagliano l'area alla ricerca di posizioni tattiche favorevoli. Finché l'ammiraglia si trova in una di tali posizioni, la sua {g|Encyclopedia:EvasionSpace}evasione{/g} aumenta di +35%.
+Durata: 2 round +1 round ogni 20 punti nella competenza Awareness del Maestro dell'Etere.
+
+### u010217
+La {g|Encyclopedia:SpeedSpace}velocità{/g} della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} aumenta di +2 e la sua {g|Encyclopedia:ManoeuvrabilitySpace}manovrabilità{/g} aumenta di +1. I {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} bonus inflitti da {g|f:7b1ab2c9456a44febdc41b71f14d8df5}Voidship Ram{/g} in base alla distanza percorsa aumentano di +100%.
+Durata: 2 round +1 round ogni 20 punti nella competenza Athletics del Maestro delle Manovre.
+
+### u010218
+Maximum Overdrive
+
+### u010219
+I {g|Encyclopedia:TorpedoLaunchersSpace}tubi lanciasiluri{/g} della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} vengono caricati con 3 salve di siluri invece di 1.
+Durata: 2 round +1 round ogni 20 punti nella competenza Demolition del Maestro Cannoniere.
+
+### u010220
+All Hands on Deck
+
+### u010221
+Alla fine di ogni turno, il settore più {g|Encyclopedia:SpaceBattleDamageGlossary}danneggiato{/g} degli {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} recupera fino al 50% della propria forza.
+Durata: 2 round +1 round ogni 20 punti nella competenza Tech-Use del Maestro degli Scudi.
+
+### u010222
+Corpuscarii Chant
+
+### u010223
+La corazzatura in ceramite protegge il vascello dai danni, annullando 5 danni su ogni lato e riducendo di −50% i danni inflitti dagli {g|Encyclopedia:InternalFiresSpace}incendi interni{/g}.
+
+### u010224
+Corazzatura ignifuga in ceramite
+
+### u010225
+Le piastre di plastacciaio proteggono il vascello dai danni, annullando 7 punti di {g|Encyclopedia:SpaceBattleDamageGlossary}danno{/g} su ogni lato.
+All'inizio del turno della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g}, il {g|Encyclopedia:ShieldSectorSpace}settore degli scudi{/g} più {g|Encyclopedia:SpaceBattleDamageGlossary}danneggiato{/g} recupera il 10% della propria forza.
+
+### u010226
+Corazzatura composita da combattimento per navi
+
+### u010227
+Le piastre di plastacciaio proteggono il vascello dai danni, annullando 4 punti di {g|Encyclopedia:SpaceBattleDamageGlossary}danno{/g} su ogni lato.
+
+### u010228
+Corazzatura militare in plastacciaio per navi del vuoto
+
+### u010229
+La corazzatura in ceramite protegge il vascello dai danni, annullando 5 punti di {g|Encyclopedia:SpaceBattleDamageGlossary}danno{/g} su ogni lato.
+
+### u010230
+Corazzatura militare in ceramite per navi del vuoto
+
+### u010231
+La corazzatura in adamantio protegge il vascello dai danni, annullando 9 punti di {g|Encyclopedia:SpaceBattleDamageGlossary}danno{/g} su ogni lato.
+
+### u010232
+Corazzatura militare in adamantio per navi del vuoto
+
+### u010233
+La corazzatura d'assalto in ceramite protegge il vascello dai danni, annullando 9 punti di {g|Encyclopedia:SpaceBattleDamageGlossary}danno{/g} a prua e 5 punti su tutti gli altri lati.
+
+### u010234
+Corazzatura d'assalto in ceramite per navi del vuoto
+
+### u010235
+La corazzatura d'assalto in adamantio protegge il vascello dai danni, annullando 17 punti di {g|Encyclopedia:SpaceBattleDamageGlossary}danno{/g} a prua e 7 punti su tutti gli altri lati.
+
+### u010236
+Corazzatura d'assalto in adamantio per navi del vuoto
+
+### u010237
+La corazzatura da galeone in ceramite protegge il vascello dai danni, annullando 7 punti di {g|Encyclopedia:SpaceBattleDamageGlossary}danno{/g} a {g|Encyclopedia:PortSpace}babordo{/g} e {g|Encyclopedia:StarboardSpace}tribordo{/g} e 3 punti di danno a prua e a poppa.
+
+### u010238
+Corazzatura da galeone in ceramite per navi del vuoto
+
+### u010239
+La corazzatura da galeone in adamantio protegge il vascello dai danni, annullando 12 punti di {g|Encyclopedia:SpaceBattleDamageGlossary}danno{/g} a {g|Encyclopedia:PortSpace}babordo{/g} e {g|Encyclopedia:StarboardSpace}tribordo{/g} e 5 punti di danno a prua e a poppa.
+
+### u010240
+Corazzatura da galeone in adamantio per navi del vuoto
+
+### u010241
+La {g|Encyclopedia:FiringRangeSpace}gittata{/g} delle {g|Encyclopedia:LanceWeaponSpace}armi a lancia{/g} si riduce di −5, ma i loro danni aumentano di +30%.
+
+### u010242
+Lente di focalizzazione
+
+### u010243
+Consente di lanciare gli Starhawk Bombers attraverso i tubi lanciasiluri.
+Una squadriglia di Starhawk Bombers è composta da 4 velivoli d'attacco, ciascuno armato con 2 salve di bombe al plasma.
+! <i>Utilizzabile solo con i {g|Encyclopedia:TorpedoLaunchersSpace}tubi lanciasiluri{/g} montati a {g|Encyclopedia:ProwSpace}prua{/g}.</i>
+! <i>Può essere attiva una sola squadriglia di Starhawk Bombers alla volta.</i>
+
+### u010244
+Ponte bombardieri (Starhawk Bombers)
+
+### u010245
+Lancia una squadriglia di Starhawk Bombers.
+! <i>Può essere attiva una sola squadriglia di Starhawk Bombers alla volta.</i>
+
+### u010246
+Lancia gli Starhawk Bombers
+
+### u010247
+Aumenta di +10 l'{g|Encyclopedia:HullIntegritySpace}integrità dello scafo{/g} della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g}.
+
+### u010248
+Ponte di manutenzione
+
+### u010249
+La probabilità di colpire si riduce di −20%. La probabilità di colpo critico si riduce di −10%.
+
+### u010250
+Consente di sparare colpi ionici dai {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g} al plasma.
+I colpi ionici non mettono mai a segno colpi critici. Quando colpisce, il colpo ionico rimuove subito gli scudi del bersaglio da 3 lati (escluso il lato più lontano dall'attaccante) e infligge al bersaglio l'effetto ionico, che riduce la sua probabilità di colpire e di colpo critico durante il round successivo.
+
+### u010251
+Arsenale al plasma a disgregazione
+
+### u010252
+Consente di lanciare i Fury Interceptors attraverso i tubi lanciasiluri.
+Una squadriglia di Fury Interceptors è composta da 4 velivoli d'attacco, ciascuno armato con una torretta laser pesante.
+! <i>Utilizzabile solo con i {g|Encyclopedia:TorpedoLaunchersSpace}tubi lanciasiluri{/g} montati a {g|Encyclopedia:ProwSpace}prua{/g}.</i>
+! <i>Possono essere attive fino a 2 squadriglie di Fury Interceptors alla volta.</i>
+
+### u010253
+Ponte caccia (Fury Interceptors)
+
+### u010254
+Lancia una squadriglia di Fury Interceptors.
+! <i>Possono essere attive fino a 2 squadriglie di Fury Interceptors alla volta.</i>
+
+### u010255
+Lancia i Fury Interceptors
+
+### u010256
+Consente di lanciare i Wrath Starfighters attraverso i tubi lanciasiluri.
+Una squadriglia di Wrath Starfighters è composta da 4 velivoli d'attacco, ciascuno armato con una torretta laser pesante.
+! <i>Utilizzabile solo con i {g|Encyclopedia:TorpedoLaunchersSpace}tubi lanciasiluri{/g} montati a {g|Encyclopedia:ProwSpace}prua{/g}.</i>
+! <i>Possono essere attive fino a 2 squadriglie di Wrath Starfighters alla volta.</i>
+
+### u010257
+Ponte caccia (Wrath Starfighters)
+
+### u010258
+Lancia una squadriglia di Wrath Starfighters.
+! <i>Possono essere attive fino a 2 squadriglie di Wrath Starfighters alla volta.</i>
+
+### u010259
+Lancia i Wrath Starfighters
+
+### u010260
+Consente di sparare colpi flak dai {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g} cinetici.
+Un colpo flak infligge 15 danni a ogni bersaglio in un'area di 3×3.
+
+### u010261
+Arsenale di munizioni flak
+
+### u010262
+Consente di sparare colpi flak dai {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g} cinetici.
+Il colpo flak infligge 22 danni a ogni bersaglio in un'area di 3×3.
+
+### u010263
+Arsenale di munizioni flak (potenziamento)
+
+### u010264
+Installa lenti di focalizzazione che permettono di usare le {g|Encyclopedia:LanceWeaponSpace}armi a lancia{/g} montate a {g|Encyclopedia:ProwSpace}prua{/g} in modalità di sovraccarico sensoriale.
+In questa modalità, l'arma a lancia subisce una penalità di −15% alla probabilità di colpire ma infligge al bersaglio l'effetto di sovraccarico sensoriale. Questo effetto riduce notevolmente la {g|Encyclopedia:ManoeuvrabilitySpace}manovrabilità{/g} del bersaglio per il round successivo.
+
+### u010265
+Arsenale di focalizzazione ad alta energia
+
+### u010266
+La {g|Encyclopedia:ManoeuvrabilitySpace}manovrabilità{/g} si riduce di −3.
+
+### u010267
+Potenzia il generatore di scudi energetici installato. La forza degli scudi su ogni lato della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} aumenta di +20%.
+
+### u010268
+Amplificatore dello scudo energetico
+
+### u010269
+Salve di bombe al plasma disponibili
+
+### u010270
+Squadriglia di Starhawk Bombers
+
+### u010271
+Un insieme di bombe progettate per infliggere danni alle navi del vuoto pesantemente corazzate.
+
+### u010272
+Bombardamento al plasma
+
+### u010273
+Squadriglia di Wrath Starfighters
+
+### u010274
+Una torretta sferica montata a prua, armata con cannoni automatici.
+
+### u010275
+Fuoco di cannone automatico
+
+### u010276
+Fornisce alle armi della nave del vuoto dati di puntamento, garantendo l'80% di probabilità di colpire e il 10% di probabilità di colpo critico.
+
+### u010277
+Batteria di augur Mark-100
+
+### u010278
+Fornisce alle armi della nave del vuoto dati di puntamento, garantendo l'84% di probabilità di colpire e il 10% di probabilità di colpo critico.
+
+### u010279
+Batteria di augur Mark-201.b
+
+### u010280
+Fornisce alle armi della nave del vuoto dati di puntamento, garantendo l'80% di probabilità di colpire e il 15% di probabilità di colpo critico.
+
+### u010281
+Scanner d'assalto BG-15
+
+### u010282
+Fornisce alle armi della nave del vuoto dati di puntamento, garantendo il 90% di probabilità di colpire e il 20% di probabilità di colpo critico.
+
+### u010283
+Batteria X-470 Ultimo
+
+### u010284
+Fornisce alle armi della nave del vuoto dati di puntamento, garantendo l'85% di probabilità di colpire e il 10% di probabilità di colpo critico.
+Si tratta di un augur a basse emissioni, che rende la nave del vuoto più difficile da colpire per i nemici e aumenta l'{g|Encyclopedia:EvasionSpace}evasione{/g} di +15%.
+
+### u010285
+Batterie di rilevamento passivo W-240
+
+### u010286
+Fornisce alle armi della nave del vuoto dati di puntamento, garantendo il 90% di probabilità di colpire e il 10% di probabilità di colpo critico.
+Inoltre fornisce agli alleati dati di puntamento, aumentando di +20% i danni e di +30% la probabilità di colpire delle loro {g|Encyclopedia:LanceWeaponSpace}armi a lancia{/g} e dei loro {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g}.
+
+### u010287
+Auspex multibanda X-38
+
+### u010288
+I danni inflitti dalle {g|Encyclopedia:LanceWeaponSpace}armi a lancia{/g} e dai {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g} aumentano di +20% e la loro probabilità di colpire aumenta di +30%.
+
+### u010289
+Spettrogramma auspex X-38
+
+### u010290
+Fornisce alle armi della nave del vuoto dati di puntamento, garantendo l'80% di probabilità di colpire e il 5% di probabilità di colpo critico.
+
+### u010291
+Fornisce alle armi della nave del vuoto dati di puntamento, garantendo il 90% di probabilità di colpire e il 5% di probabilità di colpo critico.
+
+### u010292
+Fornisce alle armi della nave del vuoto dati di puntamento, garantendo il 98% di probabilità di colpire e il 5% di probabilità di colpo critico.
+
+### u010293
+Auspex multibanda R–50
+
+### u010294
+Fornisce alle armi della nave del vuoto dati di puntamento, garantendo il 92% di probabilità di colpire e il 15% di probabilità di colpo critico.
+
+### u010295
+I Fury Interceptors sono ottimi per distruggere piccole navi e salve di siluri e per sovraccaricare gli {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} del vuoto, ma la spessa corazza delle navi capitali rappresenta un ostacolo considerevole.
+! <i>Possono essere in volo contemporaneamente solo 2 squadriglie di velivoli d'attacco. Fai atterrare una squadriglia per poterne lanciare un'altra.</i>
+
+### u010296
+Hangar velivoli: Fury Interceptors
+
+### u010297
+Atterraggio...
+
+### u010298
+{g|Encyclopedia:LanceWeaponSpace}Arma a lancia{/g} {g|Encyclopedia:DorsalSpace}dorsale{/g} a media gittata che infligge <u>(da 28 a 32)</u> {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+
+### u010299
+Arma a lancia Starbreaker (prototipo)
+
+### u010300
+{g|Encyclopedia:LanceWeaponSpace}Arma a lancia{/g} {g|Encyclopedia:DorsalSpace}dorsale{/g} a media gittata che infligge <u>(da 32 a 40)</u> {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+
+### u010301
+Arma a lancia Starbreaker
+
+### u010302
+{g|Encyclopedia:LanceWeaponSpace}Arma a lancia{/g} {g|Encyclopedia:DorsalSpace}dorsale{/g} a media gittata che infligge <u>(da 52 a 60)</u> {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+
+### u010303
+Arma a lancia Godsbane
+
+### u010304
+{g|Encyclopedia:LanceWeaponSpace}Arma a lancia{/g} a lunga gittata che infligge 34 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} a un nemico scelto entro uno stretto {g|Encyclopedia:FiringArcSpace}arco di tiro{/g}.
+
+### u010305
+{g|Encyclopedia:LanceWeaponSpace}Arma a lancia{/g} a lunga gittata che infligge <u>(da 45 a 55)</u> {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} a un nemico scelto entro uno stretto {g|Encyclopedia:FiringArcSpace}arco di tiro{/g}.
+
+### u010306
+{g|Encyclopedia:LanceWeaponSpace}Arma a lancia{/g} a lunga gittata che infligge <u>(da 84 a 98)</u> {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} a un nemico scelto entro uno stretto {g|Encyclopedia:FiringArcSpace}arco di tiro{/g}.
+
+### u010307
+Arma a lancia Titanforge
+
+### u010308
+{g|Encyclopedia:LanceWeaponSpace}Arma a lancia{/g} a lunga gittata che infligge <u>(da 78 a 96)</u> {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} a un nemico scelto entro uno stretto {g|Encyclopedia:FiringArcSpace}arco di tiro{/g}. Il bersaglio colpito subisce −10% di {g|Encyclopedia:EvasionSpace}evasione{/g} per 2 round.
+
+### u010309
+Batteria a lancia Incinerator
+
+### u010310
+{g|Encyclopedia:LanceWeaponSpace}Arma a lancia{/g} a media gittata che infligge <u>(da 60 a 70)</u> {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} a un nemico scelto entro un ampio {g|Encyclopedia:FiringArcSpace}arco di tiro{/g}.
+
+### u010311
+Batteria a lancia Sunhammer
+
+### u010312
+{g|Encyclopedia:LanceWeaponSpace}Arma a lancia{/g} a media gittata che infligge <u>(da 91 a 105)</u> {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} a un nemico scelto entro un ampio {g|Encyclopedia:FiringArcSpace}arco di tiro{/g}.
+
+### u010313
+Batteria a lancia Voidsunder
+
+### u010314
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} di fiancata a corta gittata, che sparano 6 colpi infliggendo 14 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010315
+Macrobatteria modello Mars (estesa)
+
+### u010316
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} a corta gittata montati a {g|Encyclopedia:ProwSpace}prua{/g}, che sparano 4 colpi infliggendo 14 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010317
+Batteria di prua modello Mars
+
+### u010318
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} di fiancata a corta gittata, che sparano 4 colpi infliggendo 14 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010319
+Macrobatteria modello Mars
+
+### u010320
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} di fiancata a corta gittata, che sparano 4 colpi infliggendo 21 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010321
+Macrobatteria modello Stygies
+
+### u010322
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} di fiancata a corta gittata, che sparano 4 colpi infliggendo 27 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010323
+Macrobatteria archeotech
+
+### u010324
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} di fiancata a corta gittata con due moduli di puntamento autonomi. Sparano 2 colpi infliggendo 21 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+<i>Utilizzabile due volte per turno</i>
+
+### u010325
+Macrobatteria a doppio modulo modello Stygian
+
+### u010326
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} {g|Encyclopedia:DorsalSpace}dorsali{/g} a corta gittata, che sparano 2 colpi infliggendo 14 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010327
+Macrocannoni Mezoa
+
+### u010328
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} {g|Encyclopedia:DorsalSpace}dorsali{/g} a corta gittata, che sparano 2 colpi infliggendo 21 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010329
+Macrocannoni Thunderstrike
+
+### u010330
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} {g|Encyclopedia:DorsalSpace}dorsali{/g} a corta gittata, che sparano 2 colpi infliggendo 27 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010331
+Grav-colubrina Lathe
+
+### u010332
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} {g|Encyclopedia:DorsalSpace}dorsali{/g} a media gittata, che sparano 3 colpi infliggendo 14 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+Ogni volta che colpisce lo {g|Encyclopedia:HullIntegritySpace}scafo{/g} di una nave nemica, ha il 50% di probabilità di appiccare {g|Encyclopedia:InternalFiresSpace}incendi interni{/g} su quella nave per <u>(da 3 a 4)</u> round.
+
+### u010333
+Mortaio al promethium
+
+### u010334
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} {g|Encyclopedia:DorsalSpace}dorsali{/g} a media gittata, che sparano 4 colpi infliggendo 21 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+Ogni volta che colpisce lo {g|Encyclopedia:HullIntegritySpace}scafo{/g} di una nave nemica, ha il 75% di probabilità di appiccare {g|Encyclopedia:InternalFiresSpace}incendi interni{/g} su quella nave per <u>(da 3 a 4)</u> round.
+
+### u010335
+Mortaio a bombe melta
+
+### u010336
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} al plasma {g|Encyclopedia:DorsalSpace}dorsali{/g} a corta gittata, che sparano 8 colpi infliggendo 10 danni per colpo.
+
+### u010337
+Macrocannone al plasma piccolo
+
+### u010338
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} al plasma di fiancata a lunga gittata, che sparano 2 colpi infliggendo 21 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010339
+Batteria al plasma modello Ryza (accorciata)
+
+### u010340
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} al plasma di fiancata a lunga gittata, che sparano 3 colpi infliggendo 21 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010341
+Batteria al plasma modello Ryza
+
+### u010342
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} al plasma di fiancata a lunga gittata, che sparano 3 colpi infliggendo 33 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010343
+Batteria al plasma modello Hecutor
+
+### u010344
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} al plasma di fiancata a lunga gittata, che sparano 3 colpi infliggendo 39 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010345
+Batteria al plasma archeotech
+
+### u010346
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} al plasma di fiancata a corta gittata, che sparano 6 colpi infliggendo 22 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010347
+Cannone stellare Aeldari antico
+
+### u010348
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} Aeldari antichi a corta gittata, che sparano 6 colpi infliggendo 15 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+Possono essere montati nello slot per lance di {g|Encyclopedia:ProwSpace}prua{/g}.
+
+### u010349
+{g|Encyclopedia:MacroCannonsSpace}Macrocannoni{/g} al plasma di fiancata a lunga gittata, che sparano 4 colpi infliggendo 26 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} per colpo.
+
+### u010350
+Adamantio
+
+### u010351
+Materiali per l'assemblaggio o la riparazione dei {g|Encyclopedia:ShipComponentsGlossary}componenti{/g} della nave del vuoto.
+
+### u010352
+Esplosivi
+
+### u010353
+Macchinari
+
+### u010354
+Nuclei energetici
+
+### u010355
+Cogitatori
+
+### u010356
+Questo propulsore al plasma fornisce 12 di {g|Encyclopedia:SpeedSpace}velocità{/g}, con forte accelerazione e frenata debole.
+Inoltre conferisce +3 {g|Encyclopedia:MovementPointsSpace}punti movimento{/g} del vuoto aggiuntivi quando si sperona.
+
+### u010357
+Motore Classe 3 "Battering" modello Saturnine
+
+### u010358
+Questo propulsore al plasma fornisce 19 di {g|Encyclopedia:SpeedSpace}velocità{/g}, con {g|Encyclopedia:AccelerationBrakingSpace}accelerazione e frenata{/g} deboli, e riduce in modo significativo la {g|Encyclopedia:ManoeuvrabilitySpace}manovrabilità{/g} della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g}.
+
+### u010359
+Motore Classe 3 "Typhoon" modello Mars
+
+### u010360
+Questo propulsore al plasma fornisce 14 di {g|Encyclopedia:SpeedSpace}velocità{/g}, con {g|Encyclopedia:AccelerationBrakingSpace}accelerazione e frenata{/g} medie.
+Se la {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} ha il 75% o meno di {g|Encyclopedia:HullIntegritySpace}integrità dello scafo{/g}, la sua velocità aumenta di +2 {g|Encyclopedia:MovementPointsSpace}PMV{/g}.
+
+### u010361
+Motore 3f modello Lathe
+
+### u010362
+Questo propulsore al plasma fornisce 11 di {g|Encyclopedia:SpeedSpace}velocità{/g}, con forte {g|Encyclopedia:AccelerationBrakingSpace}accelerazione e frenata{/g}.
+
+### u010363
+Motore 2a modello Lathe
+
+### u010364
+Questo propulsore al plasma fornisce 12 di {g|Encyclopedia:SpeedSpace}velocità{/g}, con forte {g|Encyclopedia:AccelerationBrakingSpace}accelerazione e frenata{/g}.
+
+### u010365
+Motore 2b modello Lathe
+
+### u010366
+Questo propulsore al plasma fornisce 13 di {g|Encyclopedia:SpeedSpace}velocità{/g}, con forte {g|Encyclopedia:AccelerationBrakingSpace}accelerazione e frenata{/g}.
+
+### u010367
+Motore Classe 5 modello Saturnine
+
+### u010368
+Questo propulsore al plasma fornisce 14 di {g|Encyclopedia:SpeedSpace}velocità{/g}, con {g|Encyclopedia:AccelerationBrakingSpace}accelerazione e frenata{/g} medie.
+
+### u010369
+Motore pirata segraziano "Viperdrive"
+
+### u010370
+Questo propulsore al plasma fornisce 13 di {g|Encyclopedia:SpeedSpace}velocità{/g}, con {g|Encyclopedia:AccelerationBrakingSpace}accelerazione e frenata{/g} deboli.
+
+### u010371
+Propulsore Classe 1 modello Jovian
+
+### u010372
+Questo propulsore al plasma fornisce 14 di {g|Encyclopedia:SpeedSpace}velocità{/g}, con {g|Encyclopedia:AccelerationBrakingSpace}accelerazione e frenata{/g} deboli.
+
+### u010373
+Propulsore Classe 2 modello Jovian
+
+### u010374
+Questo propulsore al plasma fornisce 15 di {g|Encyclopedia:SpeedSpace}velocità{/g}, con {g|Encyclopedia:AccelerationBrakingSpace}accelerazione e frenata{/g} deboli.
+
+### u010375
+Propulsore Classe 4.5 modello Jovian
+
+### u010376
+Fornisce 80 punti di protezione per ogni settore.
+
+### u010377
+Batteria di scudi del vuoto singola
+
+### u010378
+Fornisce 120 punti di protezione per ogni settore.
+
+### u010379
+Batteria di scudi del vuoto composta
+
+### u010380
+Fornisce 190 punti di protezione per ogni settore.
+
+### u010381
+Batteria di scudi del vuoto tripla
+
+### u010382
+Fornisce 130 punti di protezione per ogni settore.
+Questo scudo può essere ritirato immediatamente in qualsiasi momento. Per esempio, quando si sperona un nemico, non verrà consumato e non fornirà alcuna protezione.
+
+### u010383
+Scudo cangiante Deceiver
+
+### u010384
+Fornisce 70 punti di protezione per ogni settore. Conferisce alla {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} la capacità di generare un {g|f:f9b2e0f3583a491c91ad19d72e2d2024}Shadow Field{/g} Drukhari.
+
+### u010385
+Generatore di campo d'ombra
+
+### u010386
+Una foschia inquietante e imperscrutabile avvolge la nave del vuoto.
+I nemici subiscono una penalità di −20% alla probabilità di colpire quando attaccano da una distanza di 4 caselle o meno e una penalità di −40% quando attaccano da oltre tale distanza.
+Il campo viene rimosso quando la nave spara e si riattiva alla fine del turno della nave del vuoto.
+
+### u010387
+Fornisce 70 punti di protezione per ogni settore. Questo valore è raddoppiato contro gli attacchi ad area dei nemici.
+
+### u010388
+Batteria di scudi del vuoto modello Glimmer (prototipo)
+
+### u010389
+Fornisce 95 punti di protezione per ogni settore. Questo valore è raddoppiato contro gli attacchi ad area dei nemici.
+
+### u010390
+Batteria di scudi del vuoto modello Glimmer
+
+### u010391
+Fornisce 140 punti di protezione per ogni settore. Questo valore è raddoppiato contro gli attacchi ad area dei nemici.
+
+### u010392
+Batteria di scudi del vuoto archeotech modello Glimmer
+
+### u010393
+Fornisce 80 punti di protezione per ogni settore. Questo valore è raddoppiato contro gli attacchi cinetici dei nemici.
+
+### u010394
+Scudo repulsore
+
+### u010395
+Fornisce 125 punti di protezione per ogni settore. Questo valore è raddoppiato contro gli attacchi cinetici dei nemici.
+
+### u010396
+Scudo repulsore archeotech
+
+### u010397
+All'inizio di ogni turno, ricarica gli eventuali {g|Encyclopedia:TorpedoLaunchersSpace}tubi lanciasiluri{/g} al plasma di bordo.
+Il voluminoso macchinario del caricatore aggiunge +30 allo {g|Encyclopedia:HullIntegritySpace}scafo{/g} della nave del vuoto, ma ne riduce la {g|Encyclopedia:SpeedSpace}velocità{/g} di −1.
+
+### u010398
+Autocaricatore al plasma
+
+### u010399
+Hangar velivoli
+
+### u010400
+Fury Interceptor
+
+### u010401
+Una torretta sferica montata a prua, armata con cannoni laser.
+
+### u010402
+Cannoni laser abbinati
+
+### u010403
+{g|Encyclopedia:TorpedoLaunchersSpace}Tubi lanciasiluri{/g} in grado di sparare 5 siluri melta per {g|Encyclopedia:TorpedoSalvoSpace}salva{/g}.
+<indent=5%>Ricarica: 1 round</indent>
+
+### u010404
+Lancia 4 salve di siluri con testate al plasma nella posizione selezionata. Questi siluri possono muoversi e attaccare a partire dal round successivo. Quando attacca, ogni siluro infligge 19 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} con un {g|Encyclopedia:DirectHitSpace}colpo diretto{/g} e 13 danni entro un'area di 1 casella in caso di mancato bersaglio, detonando con una spoletta di prossimità.
+<indent=5%>Ricarica: 1 round</indent>
+
+### u010405
+{g|Encyclopedia:TorpedoLaunchersSpace}Tubi lanciasiluri{/g} in grado di sparare 4 siluri al plasma con testate da 19 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+
+### u010406
+Lanciasiluri sonico Aeldari
+
+### u010407
+Tubi lanciasiluri modello Voss (plasma)
+
+### u010408
+Spara 4 salve di siluri a combustione breve con testate al plasma. Ogni siluro infligge 19 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} con un {g|Encyclopedia:DirectHitSpace}colpo diretto{/g} e 13 danni entro un'area di 1 casella in caso di mancato bersaglio, detonando con una spoletta di prossimità.
+I siluri a combustione breve hanno maggiore {g|Encyclopedia:SpeedSpace}velocità{/g}, {g|Encyclopedia:EvasionSpace}evasione{/g} e {g|Encyclopedia:ManoeuvrabilitySpace}manovrabilità{/g}, ma una durata inferiore.
+<indent=5%>Ricarica: 1 round</indent>
+
+### u010409
+Tubi lanciasiluri modello Fortis (plasma)
+
+### u010410
+{g|Encyclopedia:TorpedoLaunchersSpace}Tubi lanciasiluri{/g} in grado di sparare 4 siluri al plasma a combustione breve con testate da 19 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+
+### u010411
+Spara 4 salve di siluri a combustione breve con testate melta. Ogni siluro infligge 27 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} con un {g|Encyclopedia:DirectHitSpace}colpo diretto{/g} e 18 danni entro un'area di 1 casella in caso di mancato bersaglio, detonando con una spoletta di prossimità.
+I siluri a combustione breve hanno maggiore {g|Encyclopedia:SpeedSpace}velocità{/g}, {g|Encyclopedia:EvasionSpace}evasione{/g} e {g|Encyclopedia:ManoeuvrabilitySpace}manovrabilità{/g}, ma una durata inferiore.
+<indent=5%>Ricarica: 1 round</indent>
+
+### u010412
+Tubi lanciasiluri modello Fortis (melta)
+
+### u010413
+{g|Encyclopedia:TorpedoLaunchersSpace}Tubi lanciasiluri{/g} in grado di sparare 4 siluri melta a combustione breve con testate da 27 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+
+### u010414
+Spara 5 salve di siluri a combustione breve con testate al plasma. Ogni siluro infligge 19 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} con un {g|Encyclopedia:DirectHitSpace}colpo diretto{/g} e 13 danni entro un raggio di 1 casella in caso di mancato bersaglio, detonando con una spoletta di prossimità.
+I siluri a combustione breve hanno maggiore {g|Encyclopedia:SpeedSpace}velocità{/g}, {g|Encyclopedia:EvasionSpace}evasione{/g} e {g|Encyclopedia:ManoeuvrabilitySpace}manovrabilità{/g}, ma una durata inferiore.
+<indent=5%>Ricarica: 1 round</indent>
+
+### u010415
+Spara 4 salve di siluri con testate soniche. Ogni siluro infligge 22 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} con un {g|Encyclopedia:DirectHitSpace}colpo diretto{/g} e 12 danni entro un'area di 1 casella in caso di mancato bersaglio, detonando con una spoletta di prossimità.
+
+### u010416
+{g|Encyclopedia:TorpedoLaunchersSpace}Tubi lanciasiluri{/g} in grado di sparare 4 siluri sonici Aeldari con testate da 22 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+
+### u010417
+Spara 5 salve di siluri con testate al plasma. Ogni siluro infligge 19 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} con un {g|Encyclopedia:DirectHitSpace}colpo diretto{/g} e 13 danni entro un'area di 1 casella in caso di mancato bersaglio, detonando con una spoletta di prossimità.
+<indent=5%>Ricarica: 1 round</indent>
+
+### u010418
+Tubi lanciasiluri modello Gryphonne (plasma)
+
+### u010419
+{g|Encyclopedia:TorpedoLaunchersSpace}Tubi lanciasiluri{/g} in grado di sparare 5 siluri al plasma con testate da 19 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+
+### u010420
+Spara 5 salve di siluri con testate melta. Ogni siluro infligge 27 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} con un {g|Encyclopedia:DirectHitSpace}colpo diretto{/g} e 18 danni entro un'area di 1 casella in caso di mancato bersaglio, detonando con una spoletta di prossimità.
+<indent=5%>Ricarica: 1 round</indent>
+
+### u010421
+Tubi lanciasiluri modello Gryphonne (siluri melta)
+
+### u010422
+{g|Encyclopedia:TorpedoLaunchersSpace}Tubi lanciasiluri{/g} in grado di sparare 5 siluri melta con testate da 27 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+
+### u010423
+Spara 5 salve di siluri a carico pesante con testate melta. Ogni siluro infligge 50 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} con un {g|Encyclopedia:DirectHitSpace}colpo diretto{/g} e 18 danni entro un'area di 1 casella in caso di mancato bersaglio, detonando con una {g|Encyclopedia:ProximityFuseSpace}spoletta di prossimità{/g}.
+I siluri a carico pesante sacrificano gran parte dei cogitatori di bordo e delle riserve di carburante per trasportare una testata più grande. Non possono essere guidati oltre la scelta iniziale della rotta e hanno una durata di soli 2 round.
+<indent=5%>Ricarica: 1 round</indent>
+
+### u010424
+{g|Encyclopedia:TorpedoLaunchersSpace}Tubi lanciasiluri{/g} in grado di sparare 5 siluri melta a carico pesante con testate da 50 {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+
+### u010425
+Tubi lanciasiluri (melta non guidati)
+
+### u010426
+Detonazione della testata
+
+### u010427
+Siluro sonico Aeldari
+
+### u010428
+Imposta la rotta del siluro. Utilizzabile solo prima del primo movimento
+
+### u010429
+Imposta rotta
+
+### u010430
+La corazzatura della nave del vuoto a tribordo e a babordo aumenta di +2.
+
+### u010431
+Multicomponent Alloys
+
+### u010432
++5% di probabilità di colpo critico contro i nemici del Caos
+
+### u010433
++20% di {g|Encyclopedia:ScrapSpace}rottami{/g} per le vittorie nelle battaglie spaziali
+
+### u010434
++5% di probabilità di colpo critico contro i pirati
+
+### u010435
++10% di probabilità di colpo critico con i {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g}
+
+### u010436
++4 ai danni dei {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g} contro i nemici del Caos e xenos
+
+### u010437
+Sanctified Projectiles
+
+### u010438
+Dopo essere stata speronata, la nave del vuoto nemica infligge −10% di danni in meno e la sua probabilità di colpire si riduce di −15%. Entrambi gli effetti durano 2 round.
+
+### u010439
++10% ai danni inflitti dalle navi del vuoto alleate e +30 alla loro {g|Encyclopedia:HullIntegritySpace}integrità dello scafo{/g}
+
+### u010440
+Fleet Overhaul
+
+### u010441
++30% al {g|Encyclopedia:ShieldSectorSpace}settore degli scudi{/g} di {g|Encyclopedia:ProwSpace}prua{/g}
+
+### u010442
++5% di probabilità di colpo critico contro i nemici xenos
+
+### u010443
+{g|f:79529b9e5433460cb639e133fb00447b}Reinforce Shields{/g} ha il 50% di probabilità di rinforzare un ulteriore {g|Encyclopedia:ShieldSectorSpace}settore degli scudi{/g} del vuoto casuale.
+
+### u010444
+Double Wall
+
+### u010445
+Il tempo di ricarica di {g|f:bd61b300bcd84e06a80c8cf3b699c78b}Restart Shields{/g} si riduce di −2 round.
+
+### u010446
+Accurate Restart
+
+### u010447
+{g|f:46c2d6cde7eb46c2a0b464764d670b72}Shield Pulse{/g} ottiene +1 di gittata. Inoltre, non consuma gli {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g}.
+
+### u010448
+Perfect Pulse
+
+### u010449
+{g|f:b8a32c74248c469b86fff4cc1bdf126d}Arc Augury{/g} ottiene +1 di gittata e dura per 2 attacchi con le armi invece di 1.
+
+### u010450
+Exact Prediction
+
+### u010451
+Durante {g|f:0b015a4752eb4787af7bd81ecc532a9c}Vulnerability Scan{/g}, il punto debole non compare mai sul lato opposto di una nave del vuoto nemica. Inoltre, i {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} inflitti al punto debole scansionato ricevono un ulteriore bonus di +5%.
+
+### u010452
+Determined Scan
+
+### u010453
+Il tempo di ricarica di {g|f:0c82c0c7db764a69bc0708ed02de8b6c}New Heading{/g} si riduce di −1 round.
+
+### u010454
+Shortcut
+
+### u010455
+{g|f:7b1ab2c9456a44febdc41b71f14d8df5}Voidship Ram{/g} può essere usata durante qualsiasi fase tranne quella finale, e la sua gittata massima aumenta di +2.
+
+### u010456
+Ram Expertise
+
+### u010457
+L'abilità {g|f:1e61d88162a34f898f4c961b757a8b57}Strafe{/g} può essere usata per speronare le navi nemiche infliggendo il 90% dei {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} della normale abilità {g|f:7b1ab2c9456a44febdc41b71f14d8df5}Voidship Ram{/g} e senza i danni bonus per la distanza percorsa.
+
+### u010458
+Lateral Impact
+
+### u010459
+{g|f:9c115131f98f4273af06890aa9d558d2}Expeditious Reload{/g} ricarica anche l'{g|Encyclopedia:LanceWeaponSpace}arma a lancia{/g} di {g|Encyclopedia:ProwSpace}prua{/g}. Tuttavia, quell'arma subisce una penalità aggiuntiva di −25% alla probabilità di colpire quando spara.
+
+### u010460
+Lance Reload
+
+### u010461
+{g|f:9c115131f98f4273af06890aa9d558d2}Expeditious Reload{/g} può essere usata durante la {g|Encyclopedia:AccelerationPhaseSpace}fase di accelerazione{/g} per ricaricare i {g|Encyclopedia:TorpedoLaunchersSpace}tubi lanciasiluri{/g} che hanno sparato nel round precedente.
+
+### u010462
+Torpedo Reload
+
+### u010463
+{g|f:a020de8978b1475fb024748c37ca1beb}Torpedo Control{/g} può essere usata nello stesso turno in cui viene lanciato un siluro.
+
+### u010464
+Instant Control
+
+### u010465
+Il tempo di ricarica di {g|f:677884ef1a694ba19c4abb7be1d92cb2}Focused Efforts{/g} si riduce di −1.
+
+### u010466
+Take It Easy
+
+### u010467
+Al termine di {g|f:ce16283fbdff4a658071cc548a3bec2f}Swing Run{/g}, la {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} può scegliere la propria posizione tra 3 direzioni invece di assumere quella opposta.
+
+### u010468
+Spin Around
+
+### u010469
+Le navi del vuoto nemiche subiscono <u>((da 25 a 35)% della loro {g|Encyclopedia:HullIntegritySpace}integrità dello scafo{/g} massima)</u> di {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} warp quando vengono attraversate con {g|f:ab9221b929cf4c97b843831e1a09288f}Shallow Jump{/g}.
+
+### u010470
+Leaking Aether
+
+### u010471
+Aumenta di +10% i {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} inflitti da {g|f:43a94421b1dc4882a13c6f2edd82a081}Warp Wave{/g}.
+
+### u010472
+High Tide
+
+### u010473
+Tutte le armi della nave ammiraglia ottengono +5% di probabilità di colpire.
+
+### u010474
+La forza degli scudi e l'{g|Encyclopedia:EvasionSpace}evasione{/g} della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} aumentano di +5%.
+
+### u010475
+Durante il prossimo combattimento, l'{g|Encyclopedia:EvasionSpace}evasione{/g} della tua {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g}, i danni delle tue {g|Encyclopedia:LanceWeaponSpace}armi a lancia{/g} e i danni dei tuoi {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g} si ridurranno di −15%.
+
+### u010476
+Discord Among the Crew
+
+### u010477
+Durante il prossimo combattimento, l'{g|Encyclopedia:EvasionSpace}evasione{/g} della tua {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} aumenterà di +15% contro i nemici Necron.
+
+### u010478
+Novelty Effect
+
+### u010479
+Nel prossimo combattimento, i tuoi siluri non saranno disponibili durante i primi 2 round. Dal terzo round in poi, i loro danni aumenteranno di +25%.
+
+### u010480
+Accumulated Charge
+
+### u010481
+La linea di carico è diventata un pozzo nero di malattie, che ha attirato l'attenzione delle forze del marciume e della decomposizione. Esse proteggono la nave dal fuoco e dalle energie del warp, affinché gli infetti possano continuare a scambiarsi putridi doni nelle viscere del vascello.
+
+### u010482
+La {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} subisce −30% di danni warp in meno. I danni inflitti dagli {g|Encyclopedia:InternalFiresSpace}incendi interni{/g} si riducono a <u>(da 2 a 7)</u>.
+
+### u010483
+Unclean Aegis
+
+### u010484
+Grazie a una ferrea disciplina, la linea di carico consegna le munizioni con un ritardo minimo. Gli equipaggi dei ponti d'artiglieria hanno ora più tempo per calibrare e mantenere le armi della nave.
+
+### u010485
+Le armi della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} infliggono +5% di danni in più e ottengono +5% di probabilità di colpo critico.
+
+### u010486
+Faultless Transport
+
+### u010487
+I lavoratori della linea di carico studiano con il massimo impegno, applicando le nuove conoscenze acquisite a vantaggio della nave. Grazie ai loro sforzi, le operazioni logistiche con i ponti di ingegneria sono diventate più efficienti, il che ha aperto nuove possibilità per fortificare lo scafo della nave.
+
+### u010488
+L'{g|Encyclopedia:HullIntegritySpace}integrità dello scafo{/g} della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} aumenta di +10. La corazzatura di tutti i settori dell'ammiraglia aumenta di +1.
+
+### u010489
+Educated Labour
+
+### u010490
+{g|f:a020de8978b1475fb024748c37ca1beb}Torpedo Control{/g} conferisce +3 PMV in più alla salva di siluri controllata.
+
+### u010491
+Controlled Acceleration
+
+### u010492
+{g|f:a020de8978b1475fb024748c37ca1beb}Torpedo Control{/g} conferisce +25% di danni in più alla salva di siluri controllata.
+
+### u010493
+Secondary Charge
+
+### u010494
+La {g|Encyclopedia:SpeedSpace}velocità{/g} della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} si riduce di −2.
+
+### u010495
+La {g|Encyclopedia:SpeedSpace}velocità{/g} della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} aumenta di +1.
+
+### u010496
+La {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} ottiene +15% di probabilità di colpo critico.
+
+### u010497
+I velivoli d'attacco e i siluri ottengono +2 {g|Encyclopedia:MovementPointsSpace}punti movimento{/g} del vuoto.
+
+### u010498
+La forza degli scudi su ogni lato della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} aumenta di +10%.
+
+### u010499
+Nel secondo round di combattimento, le barre di ricarica delle abilità supreme della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} vengono ripristinate di +15%.
+
+### u010500
+{g|f:7b1ab2c9456a44febdc41b71f14d8df5}Voidship Ram{/g} ripristina il 50% della forza degli scudi sul lato più danneggiato.
+
+### u010501
+Collision Calculations
+
+### u010502
+{g|f:7b1ab2c9456a44febdc41b71f14d8df5}Voidship Ram{/g} aumenta di +15% i danni inflitti dai macrocannoni per 3 turni.
+
+### u010503
+Optimal Firing-Solution
+
+### u010504
+La nave del Rogue Trader è scortata dalla fregata Heartless.
+
+### u010505
+Scortati dalla Heartless
+
+### u010506
+Ora convertita in nave mercantile, la fregata Heartless tiene lontani i cacciatori di facili prede con il solo aspetto esteriore.
+
+### u010507
+Protezione delle rotte commerciali
+
+### u010508
+La fregata Heartless è stata convertita in nave mercantile della Casata von Valancius.
+
+### u010509
+Nel primo round, le armi a lancia della nave ammiraglia infliggono +3 danni aggiuntivi.
+
+### u010510
+La riparazione della nave del vuoto richiede –15% di {g|Encyclopedia:ScrapSpace}rottami{/g} in meno.
+
+### u010511
+Quando ogni professionista conta, importa davvero come abbia acquisito le proprie capacità? Il Rogue Trader non evita chi ha un passato oscuro e si guadagna così il rispetto della variegata ciurma di Ravor.
+
+### u010512
+Capable Hands
+
+### u010513
+Nel primo round, i macrocannoni della nave ammiraglia effettuano +1 attacco aggiuntivo.
+
+### u010514
++15% di {g|Encyclopedia:ScrapSpace}rottami{/g} per le vittorie nelle battaglie spaziali
+
+### u010515
++15% all'evasione della nave ammiraglia nel primo round
+
+### u010516
++5% ai danni delle armi contro i pirati nel primo round delle battaglie spaziali
+
+### u010517
+Quando una nave del vuoto nemica viene distrutta per la prima volta in combattimento, la nave ammiraglia recupera il proprio {g|Encyclopedia:ShieldSectorSpace}settore degli scudi{/g} più danneggiato e ottiene +2 {g|Encyclopedia:MovementPointsSpace}PMV{/g} per il turno in corso.
+
+### u010518
+Frammenti di ossospettro
+
+### u010519
+Vele solari intatte
+
+### u010520
+Manufatti Aeldari
+
+### u010521
+Amuleti empi
+
+### u010522
+Dark Halo
+
+### u010523
+Manufatti del Caos
+
+### u010524
+Lastre spettrali
+
+### u010525
+Generatore di campo tremolante
+
+### u010526
+Manufatti Drukhari
+
+### u010527
+Campioni di metallo vivente
+
+### u010528
+Sfera della morte
+
+### u010529
+Manufatti Necron
+
+### u010530
+Macchinari antichi
+
+### u010531
+Nucleo energetico antico
+
+### u010532
+Manufatti imperiali
+
+### u010533
+Quando si usano le abilità di {g|Encyclopedia:PostSpace}postazione{/g}, c'è il 20% di probabilità che il tempo di ricarica sia più breve di 1 round.
+
+### u010534
+Quando si usano le abilità di {g|Encyclopedia:PostSpace}postazione{/g}, c'è il 50% di probabilità che il tempo di ricarica sia più breve di 1 round.
+
+### u010535
+Steady Hand II
+
+### u010536
+Consente alla nave del vuoto di controllare +1 squadriglia extra per ogni tipo di velivolo d'attacco.
+
+### u010537
+Extra Flight Control Cogitators
+
+### u010538
+Ogni velivolo d'attacco lanciato da un tubo lanciasiluri e ogni siluro ottengono +1 di {g|Encyclopedia:HullIntegritySpace}integrità dello scafo{/g}.
+
+### u010539
+Heavy Voidcraft Armour
+
+### u010540
+<b>Voidship Ram</b> infligge il doppio dei {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} aggiuntivi per ogni casella extra percorsa.
+
+### u010541
+Improved Ram
+
+### u010542
+{g|f:bd61b300bcd84e06a80c8cf3b699c78b}Restart Shields{/g} ora infligge solo una riduzione di −2 alla {g|Encyclopedia:SpeedSpace}velocità{/g} e nessuna penalità alla {g|Encyclopedia:FiringRangeSpace}gittata{/g}.
+
+### u010543
+Sanctified Restart
+
+### u010544
+I siluri e i velivoli d'attacco ottengono +60% di {g|Encyclopedia:EvasionSpace}evasione{/g} contro gli attacchi dei velivoli d'attacco nemici e +20% di evasione contro tutti gli altri attacchi.
+
+### u010545
+On-board E.C.M.
+
+### u010546
+La riparazione della nave del vuoto richiede il 75% di {g|Encyclopedia:ScrapSpace}rottami{/g} in meno.
+
+### u010547
+Rugged Repair II
+
+### u010548
+La riparazione della nave del vuoto richiede il 50% di {g|Encyclopedia:ScrapSpace}rottami{/g} in meno.
+
+### u010549
+Rugged Repair
+
+### u010550
+Quando si avvicina a un nemico, la {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} spegne i sistemi non essenziali e comincia a andare alla deriva, inosservata, oltre le navi nemiche.
+Di conseguenza, nella maggior parte degli scontri i vascelli nemici più grandi (fregate e oltre) vengono colti di sorpresa e agiscono più tardi.
+
+### u010551
+Silent Running
+
+### u010552
+{g|f:243127dbf4d840b2bb6d2ecd50e38c76}Silent Running{/g} ora fa agire la {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} prima di tutti i nemici nella maggior parte degli scontri.
+
+### u010553
+Silent Running II
+
+### u010554
+La {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} ora raccoglie +10% di {g|Encyclopedia:ScrapSpace}rottami{/g} in più dalle navi distrutte.
+
+### u010555
+Take It All!
+
+### u010556
+La fregata classe Falchion è un progetto più avanzato e moderno, sviluppato appena cinque secoli fa ma che ha già dimostrato di essere valido quanto le fregate veterane come la classe Sword.
+<i>Dimensioni stimate: 2.2 km di lunghezza, 0.3 km di larghezza alle pinne, circa.
+Tonnellaggio stimato: 6.5 megatonnellate, circa.
+Numero stimato di anime: 27,000, circa.</i>{br}
+
+### u010557
+Fregata classe Falchion
+
+### u010558
+La fregata classe Firestorm è una modifica della classe Sword, progettata per sferrare attacchi di fuoco contro navi nemiche più grandi, senza tirarsi indietro davanti a un avversario superiore.
+<i>Dimensioni stimate: 1.8 km di lunghezza, 0.3 km di larghezza alle pinne, circa.
+Tonnellaggio stimato: 6 megatonnellate, circa.
+Numero stimato di anime: 25,000, circa.</i>{br}
+
+### u010559
+Fregata classe Firestorm
+
+### u010560
+La fregata classe Sword è un classico progetto di nave del vuoto, collaudato in migliaia di battaglie, che unisce una buona potenza di fuoco, un'elevata {g|Encyclopedia:SpeedSpace}velocità{/g} e una discreta capacità di sopravvivenza.
+<i>Dimensioni stimate: 1.6 km di lunghezza, 0.3 km di larghezza alle pinne, circa.
+Tonnellaggio stimato: 6 megatonnellate, circa.
+Numero stimato di anime: 26,000, circa.</i>{br}
+
+### u010561
+Fregata classe Sword
+
+### u010562
+La {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} von Valancius è la nave del vuoto più potente della dinastia von Valancius. Ogni sistema a bordo di questa fregata è stato provato e collaudato in innumerevoli scontri. Le sue armi e le sue torrette sferrano salve devastanti con precisione millimetrica. I suoi propulsori al plasma sono robusti ma affidabili in condizioni estreme. Le dimensioni e la {g|Encyclopedia:ManoeuvrabilitySpace}manovrabilità{/g} dell'ammiraglia sono perfette per inseguire predoni più piccoli e veloci e per dare la caccia agli innumerevoli pirati, xenos ed eretici della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}. Numerosi Rogue Trader von Valancius hanno riconosciuto le prestazioni eccezionali di questo vascello e, con qualche piccolo aggiornamento, l'ammiraglia ha continuato a servire fedelmente la dinastia von Valancius.
+
+### u010563
+Arma a lancia Mezoa
+
+### u010564
+Detonazione
+
+### u010565
+Choice 1 Desc
+
+### u010566
+Choice 1
+
+### u010567
+Choice 2 Desc
+
+### u010568
+Choice 2
+
+### u010569
+Choice 3 Desc
+
+### u010570
+Choice 3
+
+### u010571
+Choice 4 Desc
+
+### u010572
+Choice 4
+
+### u010573
+Choice 5 Desc
+
+### u010574
+Choice 5
+
+### u010575
+Death World homeworld description
+
+### u010576
+Feral World description
+
+### u010577
+Mondo selvaggio
+
+### u010578
+Frontier World Description
+
+### u010579
+Mondo di frontiera
+
+### u010580
+Hive World Description
+
+### u010581
+Imperial World Description
+
+### u010582
+Voidborn Description
+
+### u010583
+Test UI Pregen
+
+### u010584
+Object is Damaged now!
+
+### u010585
+Object is Destroyed now!
+
+### u010586
+Test Area 1
+
+### u010587
+Per ogni 10% di {g|Encyclopedia:HitPoints}ferite{/g} perse mentre non indossa alcuna {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}, Argenta ottiene +5% di {g|Encyclopedia:DamageGlossary}danni{/g}, +1 {g|Encyclopedia:MovementPoints}PM{/g} e, all'inizio di ogni turno, +<u>{g|Encyclopedia:Resolve}determinazione{/g}</u> {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}. Tutti i {g|Encyclopedia:Bonus}bonus{/g} vengono rimossi alla fine del combattimento.
+Inoltre, finché non indossa alcuna armatura, la determinazione di Argenta aumenta di +2 per ogni {g|Encyclopedia:Injury}lesione{/g} e di +6 per ogni {g|Encyclopedia:Traumas}trauma{/g}. I bonus derivanti da lesioni e traumi vengono rimossi dopo la guarigione.
+
+### u010588
+Shadow of Death
+
+### u010589
+Equipaggiamento Drukhari
+
+### u010590
+Glaito
+
+### u010591
+Solomorne
+
+### u010592
+<u>(5 × numero di accumuli di {g|f:cd8984dc4b2043c18278c317e2e309e5}Fury{/g} rimossi)</u>
+
+### u010593
+Ogni volta che Glaito subisce {g|Encyclopedia:DamageGlossary}danni{/g}, Solomorne ottiene +1 accumulo di questo effetto.
+
+### u010594
+Fury
+
+### u010595
+Solomorne rimuove tutti gli accumuli di {g|f:cd8984dc4b2043c18278c317e2e309e5}Fury{/g}. La sua {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}, i {g|Encyclopedia:DamageGlossary}danni{/g} inflitti e la {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} aumentano di +{uip|Damage|2de518e4ecaa4cba86aef0a703dc7e42}% fino alla fine del {g|Encyclopedia:Turn}turno{/g}.
+
+### u010596
+Torrent of Fury
+
+### u010597
+Equipaggiamento Adeptus Astartes
+
+### u010598
+Ulfar può usare i {g|Encyclopedia:MovementPoints}PM{/g} dopo aver attaccato o usato {g|Encyclopedia:Ability}abilità{/g}.
+
+### u010599
+Swift Hunter
+
+### u010600
+Quando Ulfar dovrebbe cadere {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g}, rimane invece inattivo per 2 {g|Encyclopedia:Round}round{/g}, diventando non bersagliabile e immune ai {g|Encyclopedia:DamageGlossary}danni{/g}, e valendo anche come {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura totale{/g} per i suoi alleati.
+Dopo 2 round, torna a combattere con il 50% delle sue {g|Encyclopedia:HitPoints}ferite{/g} massime.
+<i>! Utilizzabile una sola volta per combattimento.</i>
+
+### u010601
+Eternal Warrior
+
+### u010602
+Equipaggiamento Aeldari
+
+### u010603
+Ogni volta che un attacco nemico infligge a questa creatura {g|Encyclopedia:DamageGlossary}danni{/g} superiori al <u>15% delle {g|Encyclopedia:HitPoints}ferite{/g} massime della creatura</u>, essa ottiene +5 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u010604
+Bestial Rage
+
+### u010605
+Rimuove tutte le {g|Encyclopedia:Penalty}penalità{/g} di {g|Encyclopedia:DodgeGlossary}schivata{/g} dell'armatura potenziata.
+
+### u010606
+Black Carapace
+
+### u010607
+Ogni volta che i Drukhari subiscono {g|Encyclopedia:WarpDamage}danni warp{/g} o sono colpiti da {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}, non possono usare {g|f:9dc8b5c4113b412f97b1a321c798af5d}Power From Pain{/g} e perdono tutti i {g|Encyclopedia:Bonus}bonus{/g} di questa {g|Encyclopedia:Ability}abilità{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+Subiscono inoltre −<u>(3 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u> a {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e ricevono ulteriori danni pari al <u>10% delle {g|Encyclopedia:HitPoints}ferite{/g} massime</u> dagli attacchi warp e dai poteri psichici per 2 round.
+
+### u010608
+Burning Touch of the Warp
+
+### u010609
+Conferisce +5 {g|Encyclopedia:HitPoints}ferite{/g} temporanee e +2 a tutti i tipi di {g|Encyclopedia:DamageGlossary}danni{/g} inflitti per ogni accumulo di dark blessing fino alla fine del combattimento.
+
+### u010610
+Dark Blessing
+
+### u010611
+Ogni volta che si attivano i {g|Encyclopedia:PerilsOfWarp}pericoli del Warp{/g}, lo Space Marine del Caos ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g}.
+
+### u010612
+Chaos Corruption
+
+### u010613
+Questa creatura scambia gli {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g}. Diventa {g|Encyclopedia:StaggeredEffect}barcollante{/g} invece di subire l'effetto {g|Encyclopedia:Stun}stordito{/g} o {g|Encyclopedia:CantAttackEffect}impossibilitato ad attaccare{/g}, diventa {g|Encyclopedia:SlowedEffect}rallentata{/g} invece di {g|Encyclopedia:ImmobilisedEffect}immobilizzata{/g} e subisce l'effetto {g|Encyclopedia:CalmedWarpEffect}smorzamento psichico{/g} invece del {g|Encyclopedia:Traumas}trauma{/g} psicosomatico.
+Inoltre, la creatura è immune alla caduta {g|Encyclopedia:ProneEffect}a terra{/g}.
+
+### u010614
+Ogni volta che questa creatura viene attaccata da un nemico, subisce +<u>{g|Encyclopedia:WarhammerPerception}PER{/g} dell'attaccante</u>% di {g|Encyclopedia:DamageGlossary}danni{/g} in più. La {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} di questo attacco aumenta di +<u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerAgility}AGI{/g}</u>%.
+
+### u010615
+L'effetto {g|f:7bb93df02d9942258b1acdb60e6eb3f7}coordinated trap{/g} non può più essere inflitto a questa creatura.
+
+### u010616
+Familiar Trap
+
+### u010617
+Ogni volta che questa creatura attacca un nemico per la prima volta in combattimento, quel nemico deve effettuare una prova di Perception. Se fallisce, l'effetto {g|f:7bb93df02d9942258b1acdb60e6eb3f7}coordinated trap{/g} viene inflitto a quel nemico per 1 {g|Encyclopedia:Round}round{/g}. Se quel nemico supera la prova, o se la durata di un effetto {g|f:7bb93df02d9942258b1acdb60e6eb3f7}coordinated trap{/g} applicato in precedenza termina, quel nemico non può più subire l'effetto.
+Questa creatura {g|Encyclopedia:DodgeGlossary}schiva{/g} sempre gli attacchi sferrati dai suoi alleati.
+
+### u010618
+Coordinated Trap
+
+### u010619
+Non sai mai di cosa sia capace un Genestealer Cultist finché non lo fa, o finché non ti avvicini troppo.
+
+### u010620
+Cult Ambush
+
+### u010621
+Questa creatura ottiene immunità ai {g|f:423e91ce057d4e2489043ded7306f3e2}horrors of the warp{/g}.
+Ottiene +1 accumulo di dark blessing ogni volta che subisce {g|Encyclopedia:WarpDamage}danni warp{/g} o è colpita da {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g} o {g|Encyclopedia:PerilsOfWarp}pericoli del Warp{/g}.
+
+### u010622
+Il warp è sordo alle mie preghiere!
+
+### u010623
+C'è il 30% di probabilità che questa creatura inizi a pregare i propri Dei Oscuri alla fine del suo {g|Encyclopedia:Turn}turno{/g}.
+All'inizio del turno successivo della creatura, il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} aumenta di +1 e gli dei rispondono alla preghiera:
+-<indent=5%>40% di probabilità: si attivano i {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g}.</indent>
+-<indent=5%>30% di probabilità: la creatura recupera il 10% delle proprie {g|Encyclopedia:HitPoints}ferite{/g} massime.</indent>
+-<indent=5%>20% di probabilità: non succede nulla.</indent>
+-<indent=5%>10% di probabilità: la creatura diventa una Progenie del Caos.</indent>
+
+### u010624
+Dark Prayer
+
+### u010625
+La macchina demoniaca ottiene {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} pari al suo {g|Encyclopedia:WarhammerWillpower}<u>WP</u>{/g}%, {g|Encyclopedia:Deflection}deviazione{/g} pari al suo <u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerToughness}TGH{/g}</u>, immunità ai {g|Encyclopedia:PerilsOfWarp}pericoli del Warp{/g} e immunità ai {g|Encyclopedia:ToxicDamage}danni tossici{/g}.
+
+### u010626
+Daemon Engine
+
+### u010627
+Ogni volta che questa creatura mette a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}, riduce l'armatura del bersaglio di −<u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}PER{/g}</u>% per 1 {g|Encyclopedia:Round}round{/g}. Cumulabile.
+
+### u010628
+Aberration's Touch
+
+### u010629
+All'inizio del {g|Encyclopedia:Turn}turno{/g}, questa creatura ottiene +5 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} per ogni alleato in un raggio di 3 caselle intorno a sé per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u010630
+Horde of Thugs
+
+### u010631
+Questa creatura recupera il 10% delle proprie {g|Encyclopedia:HitPoints}ferite{/g} massime all'inizio di ogni {g|Encyclopedia:Turn}turno{/g}. Ottiene inoltre un {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di +{g|Encyclopedia:WarhammerToughness}<u>TGH</u>{/g}% e +{g|Encyclopedia:DifficultyTier}<u>livello di difficoltà</u>{/g} di {g|Encyclopedia:Deflection}deviazione{/g}.
+Se la creatura è attualmente sotto l'effetto di {g|f:5617027d4ab7419092156bfadd0fff05}Reanimation Protocol{/g}, non ottiene alcuna armatura.
+
+### u010632
+La probabilità di colpire questo meccanismo aumenta di +50%.
+
+### u010633
+Questo meccanismo è immune agli effetti {g|Encyclopedia:ProneEffect}a terra{/g}, {g|Encyclopedia:FatiguedEffect}affaticato{/g}, {g|Encyclopedia:DisturbedEffect}turbato{/g}, {g|Encyclopedia:PerplexedEffect}confuso{/g}, {g|Encyclopedia:StaggeredEffect}barcollante{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g}, agli {g|f:423e91ce057d4e2489043ded7306f3e2}horrors of the warp{/g} e ai {g|Encyclopedia:MentalDamage}danni mentali{/g}. Inoltre non può essere {g|Encyclopedia:PushGlossary}spinto{/g}. La sua armatura e la sua deviazione diventano pari rispettivamente a <u>TGH</u> e <u>bonus di TGH</u>.
+Tutti i danni da shock subiti aumentano di +30%.
+
+### u010634
+Artificial
+
+### u010635
+Ogni membro del gruppo ottiene +30 di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}.
+
+### u010636
+Expelled to the Warp
+
+### u010637
+All'inizio di ogni {g|Encyclopedia:Turn}turno{/g} del demone, tutte le creature intorno a esso devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} o subire l'effetto {g|f:423e91ce057d4e2489043ded7306f3e2}horrors of the warp{/g}.
+
+### u010638
+Manifestation
+
+### u010639
+Ogni volta che il demone entra in combattimento, ogni membro del gruppo subisce −<u>(1 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWillpower}WP{/g} del demone)</u> di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}. Ogni volta che il demone muore, ogni membro del gruppo ottiene +30 di Slancio.
+All'inizio di ogni {g|Encyclopedia:Turn}turno{/g} del demone, tutte le creature intorno a esso devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Willpower o subire l'effetto {g|f:423e91ce057d4e2489043ded7306f3e2}horrors of the warp{/g}.
+
+### u010640
+La creatura ottiene immunità agli effetti {g|Encyclopedia:FatiguedEffect}affaticato{/g}, {g|Encyclopedia:DisturbedEffect}turbato{/g}, {g|Encyclopedia:PerplexedEffect}confuso{/g} e {g|Encyclopedia:StaggeredEffect}barcollante{/g}.
+
+### u010641
+Embrace the Machine
+
+### u010642
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di questa creatura dipende dalla quantità delle sue {g|Encyclopedia:HitPoints}ferite{/g}:
+-<indent=5%>Se ha più del 70% delle sue ferite totali, ha il 55% di armatura.</indent>
+-<indent=5%>Se ha dal 70% al 40% delle sue ferite totali, ha il 40% di armatura.</indent>
+-<indent=5%>Se ha meno del 40% delle sue ferite totali, ha solo il 25% di armatura.</indent>
+Inoltre, subisce sempre +20% di danni tossici e {g|Encyclopedia:FireDamage}da fuoco{/g}.
+
+### u010643
+Natural Armour
+
+### u010644
+La creatura è immune ai seguenti effetti:
+-<indent=5%>{g|Encyclopedia:CantAttackEffect}Impossibilitato ad attaccare{/g}</indent>
+-<indent=5%>{g|Encyclopedia:FatiguedEffect}Affaticato{/g}</indent>
+-<indent=5%>{g|Encyclopedia:DisturbedEffect}Turbato{/g}</indent>
+-<indent=5%>{g|Encyclopedia:ToxinEffect}Tossina{/g}</indent>
+-<indent=5%>{g|Encyclopedia:PerplexedEffect}Confuso{/g}</indent>
+-<indent=5%>{g|f:423e91ce057d4e2489043ded7306f3e2}Horrors of the warp{/g}</indent>
+I {g|Encyclopedia:MentalDamage}danni mentali{/g} inflitti a questa creatura si riducono di −50% e i {g|Encyclopedia:MachineDamage}danni alle macchine{/g} aumentano di +30%.
+
+### u010645
+Immunity of Deathless
+
+### u010646
+Questa creatura è immune alla {g|Encyclopedia:ToxinEffect}tossina{/g}.
+
+### u010647
+Reject the Flesh
+
+### u010648
+Reanimating
+
+### u010649
+Quando le {g|Encyclopedia:HitPoints}ferite{/g} di questa creatura scendono a 0, essa cade {g|Encyclopedia:ProneEffect}a terra{/g} e ottiene il 30% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g} come {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}. Nel suo {g|Encyclopedia:Turn}turno{/g} successivo, la creatura viene rianimata con il 50% delle proprie ferite se ha ancora ferite temporanee.
+Se la creatura non ha altri alleati con ferite base superiori a 0, essa e i suoi alleati muoiono.
+<i>! Utilizzabile una sola volta per battaglia.</i>
+
+### u010650
+Reanimation Protocol
+
+### u010651
+Conferisce immunità ai {g|Encyclopedia:WarpDamage}danni warp{/g} e ai {g|Encyclopedia:PerilsOfWarp}pericoli del Warp{/g}.
+
+### u010652
+Modulo antipsichico "Eclipse"
+
+### u010653
+Tutte le creature, esclusi Necron, macchine o agenti dell'Inquisizione, in un raggio di 3 caselle intorno a questa creatura subiscono −20 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e −20 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}.
+
+### u010654
+Psy-Suppressor
+
+### u010655
+Il bersaglio subisce −5 a {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, {g|Encyclopedia:WarhammerWillpower}Willpower{/g}, {g|Encyclopedia:WarhammerStrength}Strength{/g} e −1 di {g|Encyclopedia:Resolve}determinazione{/g} per ogni {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del demone per un {g|Encyclopedia:Round}round{/g}.
+
+### u010656
+Horrors of the Warp
+
+### u010657
+Martello industriale pesante
+
+### u010658
+Le parti della creatura sono immuni ai danni tossici, ai poteri telepatici (le abilità {g|f:fa305ba4e2aa48f394608d1ccfc6d385}Psychic Shriek{/g} e {g|f:87be0b4299564f34802f8b339bba05fd}Psychic Assault{/g}), a molteplici effetti di controllo ({g|Encyclopedia:ProneEffect}a terra{/g}, {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:CantAttackEffect}impossibilitato ad attaccare{/g}, {g|Encyclopedia:BlindedEffect}accecato{/g}, {g|Encyclopedia:CalmedWarpEffect}smorzamento psichico{/g}, {g|Encyclopedia:SlowedEffect}rallentato{/g}, {g|Encyclopedia:StaggeredEffect}barcollante{/g} e {g|Encyclopedia:PerplexedEffect}confuso{/g}), agli effetti di movimento forzato (per esempio le abilità {g|f:17077e37decf427db1a049ea25bb2b66}Notch of Purpose{/g}, {g|f:b0d4e6b6b3534497bb21590826c34d13}Point of Curiosity{/g} e {g|f:d2a3ffe8100b4e7983ca87b2b76a6cc0}Zone of Fear{/g}), nonché ad alcuni effetti di danno nel tempo ({g|Encyclopedia:ToxinEffect}tossina{/g} e {g|Encyclopedia:BleedingEffect}sanguinamento{/g}).
+
+### u010659
+Anomalous Endurance
+
+### u010660
+Fiore
+
+### u010661
+Sciame carnivoro
+
+### u010662
+Mazza
+
+### u010663
+Il Drover
+
+### u010664
+Barricata
+
+### u010665
+Escrescenza
+
+### u010666
+Questa creatura può attaccare più di una volta per {g|Encyclopedia:Round}round{/g}.
+
+### u010667
+Aggressive
+
+### u010668
+Questa creatura non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u010669
+Spry
+
+### u010670
+Il mastino cibernetico è un famiglio robusto e potente. Il suo compito principale è seguire il bersaglio designato, alleato o nemico che sia. L'{g|Encyclopedia:Ability}abilità{/g} {g|f:3311f1213a1e452c874ce2cde5c03f59}Apprehend!{/g} gli permette di inseguire e isolare i nemici. È particolarmente efficace contro i bersagli che usano armi a distanza e contro gli psyker. Finché il mastino cibernetico è adiacente al bersaglio {g|f:f39e0e323f314259b3e7510b110d3a4b}apprehended{/g}, lo attacca ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} attacca quel bersaglio. Se il bersaglio decide di fuggire, il mastino cibernetico cercherà di fermarlo. Una volta sconfitto il bersaglio, non dimenticare di dare un nuovo ordine al mastino cibernetico. Sarà {g|f:7e87f215637d45dfb80d7291177ed6c8}waiting{/g}!
+L'abilità {g|f:78e7771b7c974111887e762d5e999a11}Protect!{/g} trasforma il mastino cibernetico in una guardia del corpo affidabile. Seguirà l'alleato protetto e colpirà chiunque osi {g|Encyclopedia:HitSequenceGlossary}colpirlo{/g}.
+Se non vuoi controllare direttamente il famiglio, usa {g|f:11251c47c7b14a87824cffe48ea6374d}Battle Mode: Standby{/g}: il mastino cibernetico attaccherà da solo il bersaglio più vicino! {g|f:1bdeaab7c66c44a09357141ff127f5ba}Growl!{/g} indebolirà i nemici in un'area, riducendo i danni che infliggono, mentre {g|f:b1ad536a308a4cb49e0c1c4d31c3ee25}Bite!{/g} e {g|f:05a10418b81049198fb5d792ca346f2f}Run!{/g} offrono mobilità e aiutano a spezzare le linee nemiche.
+
+### u010671
+L'aquila cibernetica è uno strumento agile, perfetto per sorvegliare il campo di battaglia dall'alto e disorientare i nemici. Mentre è in {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, ottiene l'accesso a versioni alternative e più potenti delle sue {g|Encyclopedia:Ability}abilità{/g}.
+L'abilità {g|f:9cea4a0c57c448f7a90c44998745bf96}Obstruct Vision{/g} farà sì che i nemici si distruggano a vicenda con le proprie armi. L'aquila cibernetica elusiva in stato {g|f:53135057d69647a7854e578c5ef40bba}obstructing{/g} provoca il nemico, spingendolo a sparare nella sua direzione con una probabilità maggiore di {g|Encyclopedia:HitSequenceGlossary}colpire{/g} gli alleati di quel nemico.
+Se i nemici sono raggruppati strettamente, {g|f:40bc0f9310894ee2ace0d60daafa3c19}Blinding Strike{/g} può limitare in modo significativo le loro capacità. {g|f:95c502e72a6743d1ad0cbadf13051225}Strafe{/g} aiuterà l'aquila cibernetica a muoversi tra le linee nemiche infliggendo al contempo danni. Infine, {g|f:ce847cb6b6074a528eaf4cc4479d4db0}Live Bait{/g} trasformerà questo famiglio in un predatore spietato.
+Se non vuoi controllare direttamente questo famiglio, lascialo semplicemente {g|f:ec56854df2e84ef196a49079a43b5211}soar{/g}: recupererà le sue {g|Encyclopedia:HitPoints}ferite{/g} e attenderà il momento giusto per colpire.
+
+### u010672
+Il corvo psibernetico è un potente strumento per trasmettere l'energia del warp. La sua abilità {g|f:3159a138a7ee4cc48f4c88ebd3399d96}Warp Relay{/g} gli permette di potenziare i poteri psichici dell'Overseer, estendendone l'effetto a più bersagli contemporaneamente. Se non basta, usa {g|f:78e54abc64dc4935a4b481f9ca745c27}Complete the Cycle{/g} per trasmettere ancora una volta il potere psichico ritrasmesso più di recente!
+Nessuna copertura può nascondere i nemici dell'Overseer {g|f:a115669547864ccc816f0598a404e816}under surveillance{/g} se il corvo psibernetico è nelle vicinanze. {g|f:5f6ef4bf13754f7285ac540bfd2ee80f}Relocate{/g} gli offre una mobilità aggiuntiva.
+{g|f:d9580c9bca3d4b068905ba234623cf6a}Stabilise{/g} è un'abilità essenziale per aiutare gli alleati a recuperare le ferite, mentre {g|f:319b06b3dbad4d47ae1dff5c1647f904}Evil Eye{/g} e {g|f:7962a71f962946258a64df9cd4b7c36a}Purification Discharge{/g} sono ottimi modi per infliggere danni a più nemici contemporaneamente.
+
+### u010673
+Lo sciame di servoteschi è uno strumento di supporto versatile che potenzia le capacità di combattimento dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}. Grazie al persistente effetto {g|f:215d9f42b7e6435e9ed77337156e0fc3}extrapolation{/g}, può trasmettere l'effetto delle {g|Encyclopedia:Ability}abilità{/g} dell'Overseer a più bersagli contemporaneamente, curando e potenziando gruppi di alleati e indebolendo gruppi di nemici.
+Inoltre, lo sciame di servoteschi può influenzare l'andamento della battaglia grazie alle sue abilità di segnale. {g|f:62eeb81743734fc5b8fac71b34b14683}Medicae Signal{/g} aiuta gli alleati a recuperare le {g|Encyclopedia:HitPoints}ferite{/g}, {g|f:a8c7d8404d104d4dad2d460ec2b470ee}Provocation Signal{/g} semina il caos tra le linee nemiche costringendole ad attaccarsi a vicenda, e {g|f:33aa1b047d084a9b8faf534767a3a534}Priority Signal{/g} distrae il nemico e migliora la difesa di questo famiglio. L'abilità {g|f:5376c2d18af1499db985fbde6d5fe1ce}Relocation{/g} conferisce allo sciame di servoteschi una mobilità aggiuntiva, permettendo all'Overseer di spostarlo dove serve di più.
+
+### u010674
+La batteria al plasma esplode, infliggendo <u>(da 8 a 32)</u> {g|Encyclopedia:ShockDamage}danni da shock{/g} e infliggendo l'effetto {g|Encyclopedia:Stun}stordito{/g} a tutti in un raggio di 2 caselle. Questa esplosione ha il 10% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u010675
+Plasma Burst
+
+### u010676
+Smokescreen
+
+### u010677
+Corrupted Restoration
+
+### u010678
+Summon Daemonette
+
+### u010679
+Evade
+
+### u010680
+Aumenta i {g|Encyclopedia:DamageGlossary}danni{/g} degli attacchi del ranger Aeldari.
+
+### u010681
+Focus on the Target
+
+### u010682
+Tutti gli attacchi del Navigatore infliggono {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari al suo <u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWillpower}WP{/g}</u>. I nemici del Navigatore devono rimanere nella sua {g|Encyclopedia:LineOfSight}linea di vista{/g}.
+
+### u010683
+Tutti gli attacchi del Navigatore infliggono {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari al suo <u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWillpower}WP{/g}</u>.
+
+### u010684
+"IL TUO SANGUE PER L'IMPERATORE!"
+
+### u010685
+La creatura è infetta e subisce {g|Encyclopedia:DamageGlossary}danni{/g} a ogni {g|Encyclopedia:Turn}turno{/g}. Tra 2 turni il suo corpo esploderà, rilasciando una nube tossica.
+
+### u010686
+Mass Cure
+
+### u010687
+Scourge of the Red Tide
+
+### u010688
+Scrap-Code: Melee Protocols
+
+### u010689
+Conferisce +20 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}.
+
+### u010690
+Scrap-Code: Repair Protocols
+
+### u010691
+Warp Scream
+
+### u010692
+Riduce i {g|Encyclopedia:MovementPoints}punti movimento{/g} di −4.
+
+### u010693
+Under Pressure
+
+### u010694
+Cognitive Optimisation
+
+### u010695
+Questa creatura può effettuare un {g|Encyclopedia:AttacksPerTurn}attacco per turno{/g} aggiuntivo per 2 {g|Encyclopedia:Turn}turni{/g}.
+
+### u010696
+Se questa creatura muore, i suoi alleati ricevono un {g|Encyclopedia:AttacksPerTurn}attacco per turno{/g} aggiuntivo per 2 {g|Encyclopedia:Turn}turni{/g}.
+
+### u010697
+Avenge Me!
+
+### u010698
+Bloodthirst
+
+### u010699
+Shadow Quarters Disease
+
+### u010700
+Se una creatura malata ottiene 3 accumuli dell'effetto della malattia Shadow Quarters, gli ascessi sul suo corpo esploderanno in un pus caustico, infliggendo 13 {g|Encyclopedia:ToxicDamage}danni tossici{/g} e riportando gli accumuli a 1.
+
+### u010701
+Quando una creatura malata muore, crea un'area tossica che dura 3 {g|Encyclopedia:Round}round{/g} e infligge 7 {g|Encyclopedia:ToxicDamage}danni tossici{/g} a qualsiasi creatura che entri nell'area o inizi il proprio round al suo interno. Queste creature devono inoltre superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} o ottenere +1 accumulo dell'effetto della malattia Shadow Quarters.
+
+### u010702
+{g|Encyclopedia:PushGlossary}Spinge{/g} un nemico fino a 2 caselle di distanza.
+
+### u010703
+Applica +1 accumulo dell'effetto della malattia Shadow Quarters ai nemici, aumentando di +7 {g|Encyclopedia:WarhammerStrength}Strength{/g}, {g|Encyclopedia:WarhammerAgility}Agility{/g}, {g|Encyclopedia:WarhammerToughness}Toughness{/g} e {g|Encyclopedia:HitPoints}ferite{/g} dei mutanti alleati.
+
+### u010704
+Spread the Disease
+
+### u010705
+La creatura esplode, infliggendo 18 {g|Encyclopedia:ImpactDamage}danni da impatto{/g} a tutti in un raggio di 2 caselle.
+
+### u010706
+Self-Sacrifice
+
+### u010707
+Questa creatura riceve {g|Encyclopedia:MovementPoints}PM{/g} {g|Encyclopedia:Bonus}bonus{/g} e un {g|Encyclopedia:AttacksPerTurn}attacco per turno{/g} aggiuntivo.
+
+### u010708
+Frenzy
+
+### u010709
+Le creature sotto l'effetto frenzy ottengono un attacco aggiuntivo, ma subiscono {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+
+### u010710
+Ravenous Frenzy
+
+### u010711
+Gift of Nurgle
+
+### u010712
+Aumenta i {g|Encyclopedia:MovementPoints}punti movimento{/g} degli alleati adiacenti.
+
+### u010713
+Hasten
+
+### u010714
+Questa fiamma infligge {g|Encyclopedia:WarpDamage}danni warp{/g}, riducendo di −1 la {g|Encyclopedia:Deflection}deviazione{/g} del nemico e di −10% la sua {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} per ogni accumulo.
+
+### u010715
+Infligge {g|Encyclopedia:WarpDamage}danni warp{/g}, riducendo di −1 la {g|Encyclopedia:Deflection}deviazione{/g} del nemico e di −10% la sua {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} per ogni accumulo.
+
+### u010716
+Infuriated
+
+### u010717
+Questa creatura ha quasi perso la ragione, ma ha anche ottenuto +6 {g|Encyclopedia:MovementPoints}PM{/g} e +6 di {g|Encyclopedia:WarhammerStrength}Strength{/g} aggiuntivi.
+
+### u010718
+Savagery
+
+### u010719
+Questa creatura eseguirà qualsiasi ordine del suo comandante.
+
+### u010720
+Ready for Orders
+
+### u010721
+Questa creatura ottiene +5 ai {g|Encyclopedia:DamageGlossary}danni{/g} minimi e +6 ai danni massimi.
+
+### u010722
+Warp Reanimation
+
+### u010723
+Il mondo intorno sembra meno vivido. {g|Encyclopedia:WarhammerPerception}Perception{/g}, {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:DodgeGlossary}schivata{/g} si riducono di −10.
+
+### u010724
+Discoloured Visions
+
+### u010725
+Il bersaglio recupera <u>(da 8 a 20)</u> {g|Encyclopedia:HitPoints}ferite{/g} e si libera da {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e {g|Encyclopedia:BurningEffect}fiamme{/g}.
+
+### u010726
+Recovery
+
+### u010727
+Evil Premonition
+
+### u010728
+Il primo nemico che attacca questa creatura nel {g|Encyclopedia:Round}round{/g} in corso sarà maledetto per 2 round.
+
+### u010729
+La creatura è maledetta. La sua {g|Encyclopedia:DodgeGlossary}schivata{/g} si riduce di −15 e diventa un {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} di alto livello per i nemici.
+
+### u010730
+Marked by the Warp
+
+### u010731
+Questa creatura è pronta a maledire il nemico che la attacca per primo in questo {g|Encyclopedia:Round}round{/g}.
+
+### u010732
+Infligge <u>(da 4 a 10)</u> {g|Encyclopedia:WarpDamage}danni warp{/g} e infligge al bersaglio l'effetto {g|Encyclopedia:StaggeredEffect}barcollante{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u010733
+Soul Gaze
+
+### u010734
+Visions of Triumph
+
+### u010735
+Theobald prevede il futuro e concede a due alleati casuali diversi vantaggi sui loro nemici:
+-<indent=5%>Il prossimo attacco degli alleati va sempre a segno.</indent>
+-<indent=5%>Il prossimo attacco contro questi alleati fallisce.</indent>
+-<indent=5%>La probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico degli alleati aumenta.</indent>
+
+### u010736
+Il futuro è stato previsto per 1 {g|Encyclopedia:Round}round{/g}: il prossimo attacco di questa creatura deve andare a segno e il prossimo attacco contro di essa deve fallire. La probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico della creatura aumenta di +<u>(5 + 2 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>%.
+
+### u010737
+Visions of Triumph: Dodge
+
+### u010738
+Visions of Triumph: Attack
+
+### u010739
+Impure Transformation
+
+### u010740
+Ripristina <u>(da 73 a 100)</u> {g|Encyclopedia:HitPoints}ferite{/g} al bersaglio.
+
+### u010741
+Reconstruction
+
+### u010742
+Dopo l'uccisione di un nemico, questa creatura ottiene i seguenti bonus cumulabili:
+-<indent=5%>+5 di {g|Encyclopedia:WarhammerStrength}Strength{/g}</indent>
+-<indent=5%>+5 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}</indent>
+-<indent=5%>+2 {g|Encyclopedia:DamageGlossary}danni{/g}</indent>
+-<indent=5%>+1 {g|Encyclopedia:Deflection}deviazione{/g}</indent>
+-<indent=5%>+2% {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}</indent>
+-<indent=5%>+10 {g|Encyclopedia:MaxWounds}ferite massime{/g}</indent>
+
+### u010743
+Battle Rage
+
+### u010744
+Finché questa creatura ha più del 50% di {g|Encyclopedia:HitPoints}ferite{/g}, ottiene +40% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}, −6 {g|Encyclopedia:MovementPoints}PM{/g} e può attaccare solo una volta per {g|Encyclopedia:Turn}turno{/g}.
+
+### u010745
+Frozen Armour
+
+### u010746
+Quando l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} congelata è inattiva, il protocollo di autodistruzione diventa attivo: il servitore esploderà alla fine del suo {g|Encyclopedia:Turn}turno{/g}.
+
+### u010747
+Self-Destruct Protocol
+
+### u010748
+La {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} e la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} delle armi a distanza si riducono di −50% per questa creatura e per chiunque le spari contro.
+
+### u010749
+Granata fumogena
+
+### u010750
+Aim for the Legs
+
+### u010751
+{g|Encyclopedia:ActionPoints}PA{/g} ridotti di −2 per 1 {g|Encyclopedia:Turn}turno{/g}.
+
+### u010752
+Gli attacchi di questa creatura riducono i {g|Encyclopedia:ActionPoints}PA{/g} del bersaglio di −2 per 1 {g|Encyclopedia:Turn}turno{/g}.
+
+### u010753
+Questa creatura provoca il bersaglio, riducendo i suoi {g|Encyclopedia:DamageGlossary}danni{/g} di −<u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerFellowship}FEL{/g}</u> contro gli alleati della creatura, ma non contro la creatura stessa.
+
+### u010754
+Riduce la {g|Encyclopedia:Resolve}determinazione{/g} del bersaglio di −2 per i suoi prossimi 2 {g|Encyclopedia:Turn}turni{/g}. Il bersaglio deve inoltre superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} o diventare {g|Encyclopedia:StaggeredEffect}barcollante{/g} fino al suo turno successivo.
+
+### u010755
+Ripristina completamente le {g|Encyclopedia:HitPoints}ferite{/g}, ma riduce le {g|Encyclopedia:Characteristic}caratteristiche{/g} della creatura.
+
+### u010756
+Wicked Elixir
+
+### u010757
+Se questa creatura muore, esplode, danneggiando tutti i bersagli vicini.
+
+### u010758
+Walking Bomb
+
+### u010759
+Conferisce immunità a {g|Encyclopedia:BurningEffect}in fiamme{/g} e riduce i {g|Encyclopedia:FireDamage}danni da fuoco{/g} subiti.
+
+### u010760
+Fire Resistance
+
+### u010761
+Il ruggito della creatura infligge {g|Encyclopedia:DamageGlossary}danni{/g} a tutti i nemici intorno a essa. I bersagli devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} o rimanere {g|Encyclopedia:Stun}storditi{/g}.
+
+### u010762
+Stunning Roar
+
+### u010763
+Questa creatura marchia il bersaglio, riducendo la sua {g|Encyclopedia:DodgeGlossary}schivata{/g} di −40%.
+
+### u010764
+Target Designation Protocol
+
+### u010765
+Ripristina 30 {g|Encyclopedia:HitPoints}ferite{/g} al bersaglio.
+
+### u010766
+Repair Protocol
+
+### u010767
+Infligge <u>(da 7 a 17)</u> {g|Encyclopedia:WarpDamage}danni warp{/g}.
+
+### u010768
+Hypersonic Attack
+
+### u010769
+Il servoteschio attiva il proprio protocollo di autodistruzione, danneggiando tutti intorno a sé.
+
+### u010770
+Aumenta di +30 la {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u010771
+Cursed Toughness
+
+### u010772
+I {g|Encyclopedia:ToxicDamage}danni tossici{/g} subiti ripristinano le {g|Encyclopedia:HitPoints}ferite{/g} della creatura.
+
+### u010773
+Nauseating Regeneration
+
+### u010774
+I {g|Encyclopedia:DamageGlossary}danni{/g} aumentano di +50%.
+
+### u010775
+Ogni volta che la creatura subisce {g|Encyclopedia:DamageGlossary}danni{/g} {g|Encyclopedia:MeleeAttacksGlossary}in mischia{/g}, erutta pus velenoso, infliggendo 8 danni a tutte le creature adiacenti.
+
+### u010776
+Putrid Abscesses
+
+### u010777
+Terrors Within
+
+### u010778
+Non appena questa creatura viene uccisa, evoca 3 Pink Horror.
+
+### u010779
+Non appena questa creatura viene uccisa, evoca un Pink Horror.
+
+### u010780
+La {g|Encyclopedia:WarhammerStrength}Strength{/g}, la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, i {g|Encyclopedia:DamageGlossary}danni{/g}, la {g|Encyclopedia:Deflection}deviazione{/g} e l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di questa creatura aumentano.
+
+### u010781
+Warp-Fed
+
+### u010782
+Critical Overcharge
+
+### u010783
+La creatura sovraccarica i propri sistemi, ottenendo +50 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e +10 {g|Encyclopedia:DamageGlossary}danni{/g} per 3 {g|Encyclopedia:Round}round{/g}. Dopodiché la creatura rimane {g|Encyclopedia:Stun}stordita{/g} per 1 round.
+
+### u010784
+Cura se stessa e aumenta le {g|Encyclopedia:MaxWounds}ferite massime{/g}, la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e la probabilità di {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+
+### u010785
+Dopo aver ricevuto una grande quantità di {g|Encyclopedia:DamageGlossary}danni{/g}, l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e la {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} di questa creatura aumentano e la creatura ottiene anche un {g|Encyclopedia:ExtraTurn}turno extra{/g}.
+
+### u010786
+La Strength di questa creatura aumenta di +30 e la Agility si riduce di −10.
+
+### u010787
+Bloody Rampage
+
+### u010788
+Questa creatura risorgerà dopo la morte per servire come burattino senza mente.
+
+### u010789
+Rotten Minded
+
+### u010790
+Ogni volta che la creatura {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico, avvia l'irreversibile processo di corruzione della sua mente e del suo corpo. Dopo la morte del nemico corrotto, questi sarà costretto a rialzarsi come servo senza mente.
+
+### u010791
+Rotten Mind
+
+### u010792
+Listen to Me, Scum!
+
+### u010793
+No Way Back!
+
+### u010794
+Devastating Orders
+
+### u010795
+{g|Encyclopedia:DamageGlossary}Danni{/g} aumentati di +100%.
+
+### u010796
+Fortifying Orders
+
+### u010797
+Questa creatura ottiene {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} pari alle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g}.
+
+### u010798
+Questa creatura ha già ricevuto ordini dal suo comandante e non può accettarne di nuovi.
+
+### u010799
+Given Order
+
+### u010800
+Riduce la {g|Encyclopedia:DodgeGlossary}schivata{/g} dei nemici.
+
+### u010801
+Whiplash Sacrifice
+
+### u010802
+Questa creatura uccide il suo alleato più debole, curando se stessa e aumentando le proprie {g|Encyclopedia:MaxWounds}ferite massime{/g}. Questo sacrificio aumenta anche la sua {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e la probabilità di {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+
+### u010803
+Fire Pot
+
+### u010804
+Warp Discharge
+
+### u010805
+Electroshock
+
+### u010806
+<u>(15 × rango di {g|Encyclopedia:SoulMarkCorruption}Heretical{/g})</u>
+
+### u010807
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Seguace
+Ogni volta che chi lo impugna {g|Encyclopedia:BlockChance}blocca{/g} un attacco, se possibile, contrattacca quel nemico, ottenendo un ulteriore +{uip|Crit|bd8e102e7b9344079ccd7ee7b2afb8cc}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+
+### u010808
+Intimidating Growl
+
+### u010809
+Chi lo impugna ottiene +1 di {g|Encyclopedia:Deflection}deviazione{/g} e +{uip|Parry|6c70b429eea84371b8efa579bcc1297c}% di {g|Encyclopedia:Parry}parata{/g}. I danni energetici, da fuoco e {g|Encyclopedia:ShockDamage}da shock{/g} subiti si riducono di −35%.
+
+### u010810
+Scudo isolante
+
+### u010811
+I {g|Encyclopedia:DamageGlossary}danni{/g} subiti da chi lo impugna si riducono di −{uip|Resist|f559ffbb3abd415bbe46fd75f06fcfea}%, mentre i danni inflitti a xenos e demoni aumentano di +{uip|Damage|f559ffbb3abd415bbe46fd75f06fcfea}%.
+
+### u010812
+Scudo Meragon
+
+### u010813
+<u>(5 × rango di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g})</u>
+
+### u010814
+Ogni volta che chi lo impugna {g|Encyclopedia:BlockChance}blocca{/g} un attacco, l'attaccante deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} o rimanere {g|Encyclopedia:BlindedEffect}accecato{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u010815
+Scudo radiante
+
+### u010816
+Ogni volta che chi lo impugna {g|Encyclopedia:BlockChance}blocca{/g} un attacco, ottiene {uip|THP|6b8bc6de6c6d41d1b38d83296d59396f} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+
+### u010817
+Dopo aver lasciato un'area {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}, chi lo impugna ne mantiene gli effetti finché non entra in un'altra area {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}.
+
+### u010818
+Special Privilege
+
+### u010819
+<u>numero di accumuli di kinesiostatic shield</u>
+
+### u010820
+Chi lo impugna ottiene +1 di {g|Encyclopedia:Deflection}deviazione{/g} e +{uip|Parry|8df04f6a9021470d9ded7af02e71fb8f}% di {g|Encyclopedia:Parry}parata{/g}. Ogni volta che chi lo impugna {g|Encyclopedia:BlockChance}blocca{/g} con successo un attacco, ottiene un numero di accumuli di kinesiostatic shield pari alla porzione dei {g|Encyclopedia:DamageGlossary}danni{/g} di quell'attacco.
+Quando chi lo impugna effettua un attacco con questo scudo, infligge +{uip|Damage|8df04f6a9021470d9ded7af02e71fb8f} {g|Encyclopedia:EnergyDamage}danni energetici{/g} aggiuntivi con il 50% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}. Dopodiché, tutti gli accumuli vengono rimossi.

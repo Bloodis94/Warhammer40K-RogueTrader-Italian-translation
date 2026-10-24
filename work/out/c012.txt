@@ -1,0 +1,1625 @@
+### u005517
+Dopo aver {g|Encyclopedia:AugmentsOverdriveFullGlossary}galvanizzato{/g} un'{g|Encyclopedia:AugmentsFullGlossary}augmetica{/g}, l'utilizzatore ottiene +2 {g|Encyclopedia:ActionPoints}PA{/g} e +3 {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u005518
+Motive-Force Overload
+
+### u005519
+Ogni {g|Encyclopedia:Turn}turno{/g}, il primo attacco singolo dell'utilizzatore ottiene un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} e infligge +50% di danni critici se l'utilizzatore ha un'{g|Encyclopedia:AugmentsFullGlossary}augmetica{/g} nell'innesto ottico.
+
+### u005520
+Lethal Precision
+
+### u005521
+{g|f:1da644efeb174a789fc857602ebdfc1b}Plasma Overcharge (Extra Damage){/g} ignora {unit_stat|WarhammerIntelligence|bonus} della {g|Encyclopedia:Deflection}deviazione{/g} del bersaglio.
+
+### u005522
+Piercing Charge
+
+### u005523
+Questo personaggio ottiene un attacco aggiuntivo con un'arma al plasma nel primo {g|Encyclopedia:Round}round{/g} di combattimento e quando ricarica un'arma al plasma per la prima volta in ciascun round successivo.
+
+### u005524
+External Power Block
+
+### u005525
+{g|Encyclopedia:Reload}Ricaricare{/g} un fucile al plasma costa 3 {g|Encyclopedia:ActionPoints}PA{/g} in meno e ricaricare una pistola al plasma costa 1 PA in meno.
+
+### u005526
+Plasma Bank
+
+### u005527
+Questo personaggio subisce solo il 25% dei danni inflitti da {g|f:2a5d173c50af4cfd86eb00b12848b450}Plasma Explosion{/g}. Il bonus ai danni di ogni accumulo di {g|f:0835dbc012334dd49f849fcc92e9f708}plasma cell overheat{/g} aumenta di +5%.
+
+### u005528
+Safety Training
+
+### u005529
+L'area di {g|f:0bc1f945b05e4b5593ec6151c7109a06}Plasma Overcharge (Area Attack){/g} aumenta di una casella aggiuntiva su ogni lato di tutti gli assi (verticale, orizzontale e diagonale).
+
+### u005530
+Enhanced Splash Area
+
+### u005531
+I {g|Encyclopedia:FireDamage}danni da fuoco{/g} subiti dai nemici attualmente {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} o {g|Encyclopedia:SlowedEffect}rallentati{/g} dal webber di questo personaggio aumentano di +35%.
+
+### u005532
+Promethium Treatment
+
+### u005533
+<u>(3 × bonus di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>
+
+### u005534
+Gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} con un webber creano un'area intrappolata da ragnatele che dura 3 {g|Encyclopedia:Round}round{/g}. Qualsiasi creatura che entri in quest'area, la attraversi o inizi il proprio {g|Encyclopedia:Turn}turno{/g} al suo interno deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} o restare {g|Encyclopedia:SlowedEffect}rallentata{/g} per 1 round.
+
+### u005535
+Arachnoid Drag-Net
+
+### u005536
+Le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro gli effetti del webber di questo personaggio subiscono una penalità di −30.
+
+### u005537
+Sticky Webbing
+
+### u005538
+Il primo attacco di questo personaggio con un webber in un {g|Encyclopedia:Round}round{/g} non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g}.
+
+### u005539
+Sighter
+
+### u005540
+Quando questo personaggio usa armi da mischia Drukhari o Aeldari, i danni dell'arma sono calcolati usando la sua {g|Encyclopedia:WarhammerAgility}Agility{/g} anziché la {g|Encyclopedia:WarhammerStrength}Strength{/g}, se l'Agility è maggiore.
+
+### u005541
+Finesse
+
+### u005542
+I {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} inflitti dalle armi a distanza Aeldari di questo personaggio aumentano di +{unit_stat|WarhammerPerception|bonus}.
+
+### u005543
+Deadly Accuracy
+
+### u005544
+Le armi a distanza Drukhari di questo personaggio infliggono +20% di danni per ogni effetto di danni nel tempo subito dal bersaglio.
+
+### u005545
+Poetry of Pain
+
+### u005546
+Avanzamento di Medicae
+
+### u005547
+Permette di usare kit medici.
+
+### u005548
+Avanzamento di Agility
+
+### u005549
+Avanzamento di Ballistic Skill
+
+### u005550
+Avanzamento di Fellowship
+
+### u005551
+Avanzamento di Intelligence
+
+### u005552
+Avanzamento di Perception
+
+### u005553
+Avanzamento di Strength
+
+### u005554
+Avanzamento di Toughness
+
+### u005555
+Avanzamento di Weapon Skill
+
+### u005556
+Avanzamento di Willpower
+
+### u005557
+Tutti i nemici che subiscono effetti di danni nel tempo in un raggio di 4 caselle attorno all'Executioner subiscono immediatamente un'istanza aggiuntiva di danni da questi effetti. Devono inoltre superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} con una penalità di −{uip|Save|7d36cf07583c4450a481d88eaba4f738} o subire un ulteriore {g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g}. L'effetto e il tipo di prova di resistenza dipendono dall'effetto di danni nel tempo iniziale.
+-<indent=5%>{g|Encyclopedia:BleedingEffect}Sanguinamento{/g}: prova di resistenza di Agility, {g|Encyclopedia:BlindedEffect}accecato{/g}</indent>
+-<indent=5%>{g|Encyclopedia:BurningEffect}In fiamme{/g}: prova di resistenza di Willpower, {g|Encyclopedia:SlowedEffect}rallentato{/g}</indent>
+-<indent=5%>{g|Encyclopedia:ToxinEffect}Tossina{/g}: prova di resistenza di Toughness, {g|Encyclopedia:StaggeredEffect}barcollante{/g}</indent>
+Questi effetti aggiuntivi vengono rimossi all'inizio del turno successivo dell'Executioner.
+
+### u005558
+Pain Resonance
+
+### u005559
+Il prossimo attacco a distanza o la prossima {g|Encyclopedia:Ability}abilità{/g} con bastone psichico dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} infligge un effetto di {g|Encyclopedia:DamageGlossary}danni{/g} nel tempo a tutti i bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g}. Il tipo di questo effetto dipende dal tipo di danni dell'attacco:
+-<indent=5%>{g|Encyclopedia:PhysicalDamage}Danni fisici{/g}: infligge {g|Encyclopedia:ToxinEffect}tossina{/g}</indent>
+-<indent=5%>{g|Encyclopedia:EnergyDamage}Danni energetici{/g}: infligge lo stato {g|Encyclopedia:BurningEffect}in fiamme{/g}</indent>
+Il livello di questo effetto di danni nel tempo è pari a <u>(danni minimi dell'arma / 7)</u>.
+Questo effetto viene applicato una sola volta per bersaglio, dopo l'applicazione di tutti gli altri effetti dell'attacco.
+
+### u005560
+Merciless Verdict
+
+### u005561
+L'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} infligge immediatamente sanguinamento (5) a un alleato a sua scelta (se stesso incluso). Quell'alleato ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +{uip|Dodge|32206030daaf462e8fffbcf2e5e57dc0}% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} e +3 {g|Encyclopedia:MovementPoints}PM{/g} aggiuntivi finché il {g|Encyclopedia:BleedingEffect}sanguinamento{/g} non termina per qualsiasi motivo.
+
+### u005562
+Exsanguination
+
+### u005563
+<u>(5 + {g|Encyclopedia:SkillMedicae}Medicae{/g} / 10)</u>
+
+### u005564
+<u>bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g}</u>
+
+### u005565
+Fino all'inizio del proprio prossimo {g|Encyclopedia:Turn}turno{/g}, l'Executioner ottiene {g|Encyclopedia:Bonus}bonus{/g} ai propri parametri per ogni creatura (nemica o alleata) in combattimento che subisce i seguenti effetti di danni nel tempo:
+-<indent=5%>{g|Encyclopedia:BleedingEffect}Sanguinamento{/g}: +{uip|tghB2|dfd41fb2d75445919683b1ea0c4cc40d}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} per creatura</indent>
+-<indent=5%>{g|Encyclopedia:BurningEffect}In fiamme{/g}: +{uip|tghB2|dfd41fb2d75445919683b1ea0c4cc40d}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} per creatura</indent>
+-<indent=5%>{g|Encyclopedia:ToxinEffect}Tossina{/g}: +1 di {g|Encyclopedia:Deflection}deviazione{/g} per creatura, fino a un massimo di {unit_stat|WarhammerToughness|bonus}.</indent>
+
+### u005566
+Gift of Torment
+
+### u005567
+L'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} sostituisce {uip|Damage|497d9f67e4b14631805c05dcb66bdcbf} delle proprie {g|Encyclopedia:HitPoints}ferite{/g} con lo stesso numero di {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} fino alla fine del combattimento.
+Finché l'Executioner ha ferite temporanee, tutti i suoi {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} e i suoi effetti di danni nel tempo infliggono un ulteriore +{uip|Damage|497d9f67e4b14631805c05dcb66bdcbf}% di {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u005568
+Reckless Abandon
+
+### u005569
+<u>(30% delle {g|Encyclopedia:MaxWounds}ferite massime{/g})</u>
+
+### u005570
+Il prossimo {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} costringe tutti i nemici {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} ad allontanarsi di corsa dall'Executioner in linea retta fino a 3 caselle.
+Durante questo movimento, i bersagli non provocano {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} e lasciano una scia di sangue sul terreno, che rimane fino alla fine del combattimento.
+Muoversi attraverso queste caselle insanguinate costa all'Executioner 0 {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u005571
+Terrifying Strike
+
+### u005572
+Se il bersaglio del prossimo attacco riuscito dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} subisce un qualsiasi {g|Encyclopedia:CommonStatusesGlossary}effetto{/g} di danni nel tempo, per ogni effetto deve effettuare la relativa {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} necessaria a rimuoverlo, con una penalità pari a −<u>({g|Encyclopedia:SkillMedicae}Medicae{/g} dell'Executioner / 10)</u>. Se fallisce:
+-<indent=5%>Il bersaglio subisce immediatamente 3 istanze di {g|Encyclopedia:DamageGlossary}danni{/g} da quell'effetto (2 se si tratta di un attacco a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} o di un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g}). Questi danni vengono inflitti dopo l'applicazione di tutti gli altri effetti dell'attacco.</indent>
+-<indent=5%>L'effetto di danni nel tempo viene rimosso dal bersaglio.</indent>
+-<indent=5%>Fino alla fine del {g|Encyclopedia:Round}round{/g}, il bersaglio non può essere colpito da effetti di danni nel tempo dello stesso tipo.</indent>
+Questa {g|Encyclopedia:Ability}abilità{/g} viene applicata al posto di {g|f:47f5b3809fba409b9d27611ef0a77cd3}Scourging Strikes{/g} e rimuove tutti gli accumuli di {g|f:4f04773685be45c29927c6740ccf64d8}Forced Repentance{/g}.
+
+### u005573
+Where It Hurts
+
+### u005574
+Ogni volta che l'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} infligge un {g|Encyclopedia:CommonStatusesGlossary}effetto{/g} di danni nel tempo a un bersaglio che subisce già un effetto dello stesso tipo, quel bersaglio deve effettuare la relativa {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} necessaria a rimuovere quell'effetto, con una penalità pari a −<u>({g|Encyclopedia:SkillMedicae}Medicae{/g} dell'Executioner / 10)</u>. Se fallisce:
+-<indent=5%>Il bersaglio subisce immediatamente un'istanza aggiuntiva di {g|Encyclopedia:DamageGlossary}danni{/g} dall'effetto iniziale.</indent>
+-<indent=5%>Tutti gli effetti di danni nel tempo di questo tipo sul bersaglio (compreso quello appena inflitto e quelli che verranno eventualmente inflitti in seguito) vedono il proprio livello aumentare di +{uip|Damage|4f04773685be45c29927c6740ccf64d8}. Questo {g|Encyclopedia:Bonus}bonus{/g} è cumulabile.</indent>
+
+### u005575
+Forced Repentance
+
+### u005576
+<u>({g|Encyclopedia:SkillMedicae}Medicae{/g} / 15)</u>
+
+### u005577
+Gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} infliggono {uip|Damage|47f5b3809fba409b9d27611ef0a77cd3} livelli di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} a tutti i bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g}.
+Questo effetto viene applicato dopo l'applicazione di tutti gli altri effetti dell'attacco.
+
+### u005578
+Scourging Strikes
+
+### u005579
+<u>(bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} + bonus di {g|Encyclopedia:WarhammerStrength}STR{/g})</u>
+
+### u005580
+Il numero massimo di {g|Encyclopedia:HitPoints}ferite{/g} dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} dipende dalla sua {g|Encyclopedia:SkillMedicae}Medicae{/g} anziché dalla {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u005581
+Anatomy Expert
+
+### u005582
+Ogni volta che l'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} o i membri del suo gruppo subiscono un qualsiasi effetto di danni nel tempo, questi effetti infliggono solo il 50% dei propri {g|Encyclopedia:DamageGlossary}danni{/g}. Si cumula in modo moltiplicativo (50% dei danni se nel gruppo c'è un Executioner con questo {g|Encyclopedia:Talent}talento{/g}, 25% dei danni se nel gruppo ci sono due Executioner con questo talento, ecc.)
+
+### u005583
+Hardened Body
+
+### u005584
+L'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +{uip|Bonus|b9ea3600dc344308a5f7c6236c30c3d5} a {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g}.
+
+### u005585
+Vivisection
+
+### u005586
+L'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} infligge +5% di {g|Encyclopedia:DamageGlossary}danni{/g} in più a un bersaglio per ogni tipo di effetto di danni nel tempo inflitto a quel bersaglio.
+
+### u005587
+Master of Torture
+
+### u005588
+Ogni volta che un nemico in un raggio di 4 caselle attorno all'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} subisce {g|Encyclopedia:DamageGlossary}danni{/g} da un effetto di danni nel tempo, l'Executioner recupera +{uip|Heal|dd71e8c8913441fd96e0a30ad7c757e3} {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u005589
+Invigorating Screams
+
+### u005590
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} aumenta di +{uip|Armour|0eb79193c7f04f6cbb24e4bb294e8912}%.
+
+### u005591
+Perfect Anatomy
+
+### u005592
+<u>(5 + {g|Encyclopedia:MaxWounds}ferite massime{/g} / 20)</u>
+
+### u005593
+Tutti gli effetti di {g|Encyclopedia:DamageGlossary}danni{/g} nel tempo inflitti dall'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} ottengono una {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} del {uip|Chance|7245acb4798c4304ad215e3aad7ff702}%. Questa probabilità aumenta con tutti i {g|Encyclopedia:Bonus}bonus{/g} alla {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+
+### u005594
+Does it Hurt?
+
+### u005595
+-<indent=5%><u>(5 + 5 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>% se il personaggio ha Sparks of the Greater Flame</indent>
+-<indent=5%>20% se il personaggio ha Does it Hurt?</indent>
+-<indent=5%><u>(10 + il maggiore dei valori precedenti)</u>% se il personaggio ha entrambi questi {g|Encyclopedia:Talent}talenti{/g}</indent>
+
+### u005596
+La prima istanza di {g|Encyclopedia:DamageGlossary}danni{/g} inflitta dagli effetti di danni nel tempo dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} in un {g|Encyclopedia:Round}round{/g} riduce l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del nemico colpito di −{uip|Armour|01af61c681bb4abd86368fc07563aaca}% fino alla fine del combattimento. Questo effetto può essere inflitto a più nemici per round, ma una sola volta per nemico. Cumulabile.
+
+### u005597
+Fragile Playthings
+
+### u005598
+I {g|Encyclopedia:DamageGlossary}danni{/g} inflitti dagli effetti di danni nel tempo dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} aumentano di +{uip|Damage|2ef387d51b044a788f50d4a815bee9ff}% per ogni −10% di {g|Encyclopedia:Penalty}penalità{/g} all'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} subita dal bersaglio da qualsiasi fonte.
+
+### u005599
+Racking Weakness
+
+### u005600
+<u>({g|Encyclopedia:SkillMedicae}Medicae{/g} / 20)</u>
+
+### u005601
+I nemici che subiscono un qualsiasi effetto di {g|Encyclopedia:DamageGlossary}danni{/g} nel tempo inflitto dall'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} subiscono anche una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|Save|7df61d5ab45d46e88f3bacd27a84d9fd} alle proprie {g|Encyclopedia:ResistanceTest}prove di resistenza{/g}.
+
+### u005602
+Sower of Distress
+
+### u005603
+<u>(5 + {g|Encyclopedia:SkillMedicae}Medicae{/g} / 20)</u>
+
+### u005604
+Quando {g|Encyclopedia:PushGlossary}spinge{/g} un nemico, l'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} infligge a quel nemico anche {uip|Damage|9a219de2206b494d8fa2708bdd709c59} livelli di {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+
+### u005605
+Internal Bleeding
+
+### u005606
+<u>({g|Encyclopedia:SkillMedicae}Medicae{/g} / 10)</u>
+
+### u005607
+Ogni volta che un nemico subisce per la prima volta in combattimento {g|Encyclopedia:DamageGlossary}danni{/g} da un effetto di danni nel tempo inflitto dall'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g}, tali danni aumentano di +100%.
+
+### u005608
+Acute Pain
+
+### u005609
+All'inizio di ogni {g|Encyclopedia:Round}round{/g}, tutti i nemici che subiscono un qualsiasi effetto di {g|Encyclopedia:DamageGlossary}danni{/g} nel tempo inflitto dall'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} vedono aumentare di +20% i danni nel tempo in arrivo da qualsiasi fonte. Cumulabile.
+
+### u005610
+Battle of Attrition
+
+### u005611
+Ogni volta che un nemico che subisce {g|Encyclopedia:ToxinEffect}tossina{/g} inflitta dall'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} muore, tutti i nemici in un raggio di 2 caselle attorno a quel nemico subiscono {uip|Damage|128c956572394e86a932e89edbf544e3} livelli di {g|Encyclopedia:ToxinEffect}tossina{/g}.
+
+### u005612
+Death in the Air
+
+### u005613
+All'inizio del proprio {g|Encyclopedia:Turn}turno{/g}, un nemico che subisce lo stato {g|Encyclopedia:BurningEffect}in fiamme{/g} inflitto dall'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} deve effettuare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}. Se fallisce, l'effetto viene rimosso e il nemico cade {g|Encyclopedia:ProneEffect}a terra{/g} fino all'inizio del proprio turno successivo.
+
+### u005614
+Maddening Flames
+
+### u005615
+Mentre si muovono, tutti i nemici in {g|Encyclopedia:BleedingEffect}sanguinamento{/g} lasciano una scia di sangue sul terreno che rimane per 1 {g|Encyclopedia:Round}round{/g}. Muoversi attraverso queste caselle insanguinate costa all'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} 0 {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u005616
+Bloody Trail
+
+### u005617
+Ogni volta che un nemico che subisce uno qualsiasi degli effetti di {g|Encyclopedia:DamageGlossary}danni{/g} nel tempo dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} {g|Encyclopedia:DodgeGlossary}schiva{/g} l'attacco dell'Executioner, tutti gli effetti di danni nel tempo attualmente inflitti a quel nemico infliggono ora un ulteriore +10% di danni. Cumulabile.
+
+### u005618
+Tormenting Sprain
+
+### u005619
+Quando usa {g|f:47f5b3809fba409b9d27611ef0a77cd3}Scourging Strikes{/g}, i {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g} {g|Encyclopedia:MeleeAttacksGlossary}in mischia{/g} dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} infliggono ai propri bersagli {uip|NewDamage|d2114b8eb84646d9a85d596d5b094e0c} livelli di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} anziché {uip|OldDamage|d2114b8eb84646d9a85d596d5b094e0c} livelli.
+
+### u005620
+Deep Laceration
+
+### u005621
+<u>(2 × bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} + bonus di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>
+
+### u005622
+Ogni volta che una singola istanza di danni di uno qualsiasi degli effetti di danni nel tempo dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} infligge {g|Encyclopedia:DamageGlossary}danni{/g} pari o superiori al 10% delle {g|Encyclopedia:MaxWounds}ferite massime{/g} del nemico, quel nemico ottiene +1 accumulo di {g|Encyclopedia:FatiguedEffect}affaticato{/g}.
+
+### u005623
+Sickening Pain
+
+### u005624
+Se un nemico che subisce uno qualsiasi degli effetti di {g|Encyclopedia:DamageGlossary}danni{/g} nel tempo dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} subisce contemporaneamente {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}in fiamme{/g} (compresi gli effetti inflitti da un piromante o da un Navigatore) e {g|Encyclopedia:ToxinEffect}tossina{/g} (compresi gli effetti inflitti da un biomante), tutti questi effetti di danni nel tempo infliggono a quel nemico +30% di danni in più.
+
+### u005625
+All-Encompassing Agony
+
+### u005626
+I bersagli di {g|f:bff2240a17444fe287298603fd38653b}Terrifying Strike{/g} ora effettuano una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|Save|72a742f6c88746b3b8a12fe2c46e06f2}. Se la falliscono, provocano {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} dagli alleati dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} durante il movimento forzato.
+
+### u005627
+Unbearable Presence
+
+### u005628
+<u>(10 + 2 × bonus di {g|Encyclopedia:WarhammerStrength}STR{/g})</u>
+
+### u005629
+I bersagli di {g|f:32206030daaf462e8fffbcf2e5e57dc0}Exsanguination{/g} sono inoltre immuni a {g|Encyclopedia:ToxinEffect}tossina{/g} e {g|Encyclopedia:BurningEffect}in fiamme{/g} mentre subiscono {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+
+### u005630
+Bleeding Stigmata
+
+### u005631
+La durata degli {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g} inflitti da {g|f:7d36cf07583c4450a481d88eaba4f738}Pain Resonance{/g} aumenta di +1 {g|Encyclopedia:Round}round{/g}, e la {g|Encyclopedia:Penalty}penalità{/g} alle {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} corrispondenti aumenta a –{uip|Save|579611f64a7a4421aca7fadf50ee8731}.
+
+### u005632
+Everlasting Agony
+
+### u005633
+<u>(20 + {g|Encyclopedia:SkillMedicae}Medicae{/g} / 5)</u>
+
+### u005634
+Il livello dell'effetto di danni nel tempo inflitto da {g|f:cd64eb2fa20d4a078b77f7f61f528f51}Merciless Verdict{/g} dell'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} aumenta di +<u>(massimo di {g|Encyclopedia:DamageGlossary}danni{/g} dell'arma / 5)</u>.
+
+### u005635
+Death Warrant
+
+### u005636
+Se l'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} ha usato {g|f:497d9f67e4b14631805c05dcb66bdcbf}Reckless Abandon{/g} nel {g|Encyclopedia:Round}round{/g} precedente e, all'inizio del proprio {g|Encyclopedia:Turn}turno{/g}, ha ancora delle {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}, recupera +{uip|Heal|881c2c5335cd47e7a16a7f0e7190dec6} {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u005637
+Reprieve
+
+### u005638
+<u>(15% delle {g|Encyclopedia:MaxWounds}ferite massime{/g})</u>
+
+### u005639
+Ogni creatura adiacente conta come due ai fini del calcolo dei {g|Encyclopedia:Bonus}bonus{/g} concessi da {g|f:dfd41fb2d75445919683b1ea0c4cc40d}Gift of Torment{/g}.
+
+### u005640
+Revelling in Suffering
+
+### u005641
+L'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} effettua un attacco con la propria arma primaria. Se {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, il bersaglio subisce i danni dell'arma e, se è soggetto a qualche {g|Encyclopedia:CommonStatusesGlossary}effetto{/g} di danni nel tempo, subisce immediatamente 4 ulteriori istanze di danni da quegli effetti. Questo non influisce sulla durata di tali effetti.
+Fino alla fine del combattimento, {g|f:4f04773685be45c29927c6740ccf64d8}Forced Repentance{/g} non aumenta il livello degli effetti di danni nel tempo inflitti.
+
+### u005642
+L'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} effettua un attacco con la propria arma secondaria. Se {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, il bersaglio subisce i danni dell'arma e, se è soggetto a qualche {g|Encyclopedia:CommonStatusesGlossary}effetto{/g} di danni nel tempo, subisce immediatamente 4 ulteriori istanze di danni da quegli effetti. Questo non influisce sulla durata di tali effetti.
+Fino alla fine del combattimento, {g|f:4f04773685be45c29927c6740ccf64d8}Forced Repentance{/g} non aumenta il livello degli effetti di danni nel tempo inflitti.
+
+### u005643
+Fino alla fine del combattimento, ogni volta che l'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} infligge nuovamente a un bersaglio un effetto di {g|Encyclopedia:DamageGlossary}danni{/g} nel tempo dello stesso tipo già presente, {g|f:4f04773685be45c29927c6740ccf64d8}Forced Repentance{/g} non ne aumenta più il livello.
+
+### u005644
+L'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} effettua un attacco con la propria arma secondaria. Se {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, il bersaglio subisce i danni dell'arma e, se è soggetto a qualche {g|Encyclopedia:CommonStatusesGlossary}effetto{/g} di danni nel tempo, subisce immediatamente 4 ulteriori istanze di danni da quegli effetti. Questo non influisce sulla durata di tali effetti.
+
+### u005645
+Carnival of Misery — Second Weapon
+
+### u005646
+L'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} effettua un attacco con la propria arma primaria. Se {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, il bersaglio subisce i danni dell'arma e, se è soggetto a qualche {g|Encyclopedia:CommonStatusesGlossary}effetto{/g} di danni nel tempo, subisce immediatamente 4 ulteriori istanze di danni da quegli effetti. Questo non influisce sulla durata di tali effetti.
+
+### u005647
+Carnival of Misery
+
+### u005648
+Dopo che l'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} usa {g|f:e5874ecd259b4878bc71239c281c17e4}Carnival of Misery{/g}, per ogni bersaglio che in questo combattimento ha subito e subirà danni dall'Executioner (sia prima sia dopo l'uso di questa abilità), la sua {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} non riduce i danni inflitti dagli effetti di danni nel tempo.
+
+### u005649
+Carnival of Misery (Upgrade I)
+
+### u005650
+Ogni volta che si usa {g|f:e5874ecd259b4878bc71239c281c17e4}Carnival of Misery{/g}, i nemici in un raggio di 6 caselle soggetti a qualsiasi effetto di danni nel tempo subiscono immediatamente un'ulteriore istanza di {g|Encyclopedia:DamageGlossary}danni{/g} da quegli effetti.
+
+### u005651
+Carnival of Misery (Upgrade II)
+
+### u005652
+Fino alla fine del combattimento, tutti i {g|Encyclopedia:DamageGlossary}danni{/g} inflitti ai nemici dagli effetti di danni nel tempo dell'Executioner aumentano di +100% dopo l'applicazione di tutti gli altri modificatori.
+
+### u005653
+Carnival of Misery (Upgrade III)
+
+### u005654
+Fino alla fine del combattimento, l'{g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} viene curato dagli {g|Encyclopedia:CommonStatusesGlossary}effetti{/g} di danni nel tempo invece di subire {g|Encyclopedia:DamageGlossary}danni{/g}. Il numero di {g|Encyclopedia:HitPoints}ferite{/g} ripristinate è pari ai danni che sarebbero inflitti da un effetto dopo l'applicazione di tutti i modificatori.
+
+### u005655
+Carnival of Misery (Upgrade IV)
+
+### u005656
+Il Warrior ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g}, che costa 0 {g|Encyclopedia:ActionPoints}PA{/g} e ha {uip|Slices|54f73c2523524544a8d7ffc3807056f0} cariche per il round in corso. Questa abilità e {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g} non possono essere usate nello stesso round di {g|f:4955b43454f6488f82892e166c76c995}Charge{/g}.
+
+### u005657
+Break Through
+
+### u005658
+<u>(5 × bonus di {g|Encyclopedia:WarhammerStrength}STR{/g})</u>
+
+### u005659
+<u>(3 × bonus di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g})</u>
+
+### u005660
+Il prossimo {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} del Warrior ottiene +{uip|BonusPenetetration|ad2a77c5012c4ffd9a19204dcf794266}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e +{uip|BonusDamage|ad2a77c5012c4ffd9a19204dcf794266} danni, e ignora il {uip|ParryPenetration|ad2a77c5012c4ffd9a19204dcf794266}% della {g|Encyclopedia:Parry}parata{/g} del bersaglio. Ogni nemico che sopravvive a un attacco potenziato da questa {g|Encyclopedia:Ability}abilità{/g} attaccherà a sua volta il Warrior, comprese le creature con armi a distanza.
+
+### u005661
+Reckless Strike
+
+### u005662
+Il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} scatta attraverso un nemico fino alla casella sul lato opposto e sferra un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} con {g|Encyclopedia:DamageGlossary}danni{/g} ridotti del −50%.
+-<indent=5%>Può essere applicata una sola volta per bersaglio a round.</indent>
+-<indent=5%>Non provoca un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g}.</indent>
+
+### u005663
+Slash
+
+### u005664
+Numero di volte in cui puoi usare {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g}
+
+### u005665
+Hai già usato {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g} contro questo nemico in questo {g|Encyclopedia:Round}round{/g}.
+
+### u005666
+Aumenta i {g|Encyclopedia:MovementPoints}PM{/g} del {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} di +4.
+
+### u005667
+Advance
+
+### u005668
+Permette al personaggio di usare armi Aeldari, come il fucile lungo Aeldari, la catapulta shuriken e altre.
+
+### u005669
+Aeldari Weapon Proficiency
+
+### u005670
+Permette al personaggio di usare armi Drukhari.
+
+### u005671
+Drukhari Weapon Proficiency
+
+### u005672
+Permette al {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} di usare i kit medici senza la {g|Encyclopedia:Skills}competenza{/g} {g|Encyclopedia:SkillMedicae}Medicae{/g}. Inoltre, il Warrior ottiene +{unit_stat|WarhammerToughness|bonus} {g|Encyclopedia:HitPoints}ferite{/g} aggiuntive ogni volta che gli viene applicato un kit medico.
+
+### u005673
+Field Medic
+
+### u005674
+Riduce di −25 il valore di {g|Encyclopedia:WarhammerStrength}Strength{/g} richiesto per le armi pesanti.
+
+### u005675
+Heavy Weapon Proficiency
+
+### u005676
+Permette al personaggio di usare armi a melta, come il fucile melta, il multi-melta e altre.
+
+### u005677
+Melta Weapon Proficiency
+
+### u005678
+Permette al personaggio di usare armi al plasma, come il fucile al plasma, la pistola al plasma e altre.
+
+### u005679
+Plasma Weapon Proficiency
+
+### u005680
+Xenos Weapon Proficiency
+
+### u005681
+<u>(5 + 2 × bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g})</u>
+
+### u005682
+Il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} diventa incredibilmente agile. {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} e {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g} non pongono fine al movimento del Warrior e, dopo l'uso, concedono +{uip|DodgeBonus|7768fdcade1b4e94a66d095d21e3ab92}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u005683
+Rigorous Training
+
+### u005684
+<u>(10 + bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g})</u>
+
+### u005685
+Gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} infliggono −{uip|DamageBonus|f4ce17dcf66f4231bb58a580da943b53}% di {g|Encyclopedia:DamageGlossary}danni{/g} al {g|Encyclopedia:CareerFighterGlossary}Warrior{/g}.
+Il movimento entro la gittata degli attacchi di opportunità costa −1 {g|Encyclopedia:MovementPoints}PM{/g} in meno.
+
+### u005686
+Cautious Disengage
+
+### u005687
+<u>(10 + 3 × bonus di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g})</u>
+
+### u005688
+Quando il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} {g|Encyclopedia:PushGlossary}spinge{/g} via un nemico o sferra un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} che {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un solo nemico, il Warrior diventa il {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} di quel nemico per 1 round.
+
+### u005689
+Dangerous Strike
+
+### u005690
+Se il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} non ha attaccato in questo {g|Encyclopedia:Turn}turno{/g}, ottiene +{uip|BonusArmour|8f5993cab35844cd8e0efbadc1c5dcbe}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+{g|f:4955b43454f6488f82892e166c76c995}Charge{/g} e {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g} non influiscono su questo {g|Encyclopedia:Bonus}bonus{/g}.
+
+### u005691
+Gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} del {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} infliggono +{unit_stat|WarhammerAgility|bonus} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi ai nemici privi di alleati nelle caselle adiacenti.
+
+### u005692
+Desolation
+
+### u005693
+Per 1 round il Warrior ottiene +<u>(5 + 2 × bonus di TGH)</u>% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} aggiuntiva contro gli attacchi sferrati dai bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} dai suoi {g|Encyclopedia:SingleRangedAttacksGlossary}colpi singoli{/g} o {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+
+### u005694
+Disarm
+
+### u005695
+Quando il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} usa un attacco a {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g} o un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} contro un bersaglio, ottiene +{uip|BonusArmour|4b091ea00d5e4174baa6db32c1bf19eb}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro gli attacchi di quel bersaglio per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u005696
+I {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} del {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} aumentano di +{uip|BonusCritDamage|e1c23c776d71496aaafea56495b6a460}% contro i nemici non armati di un'arma {g|Encyclopedia:MeleeAttacksGlossary}da mischia{/g}.
+
+### u005697
+Easy Target
+
+### u005698
+Se il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} ha meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g}, ottiene +{uip|BonusDamage|1c61468f25fc410586a383c32050e971}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+
+### u005699
+Enrage
+
+### u005700
+<u>(5 + (bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g} + bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g}))</u>
+
+### u005701
+Ogni volta che il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g} mentre è sotto l'effetto di {g|f:4d2f2a839d2340388d45cf4cf66c947b}Endure{/g}, la sua {g|Encyclopedia:Deflection}deviazione{/g} dei {g|Encyclopedia:DamageGlossary}danni{/g} aumenta di +1 fino al turno successivo del Warrior.
+
+### u005702
+Hardened Scars
+
+### u005703
+I {g|Encyclopedia:DamageGlossary}danni{/g} inflitti da {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} aumentano di +{uip|Damage|5870ebea41f743e7b519e24f4ab97eb7} quando l'{g|Encyclopedia:Ability}abilità{/g} viene usata da una distanza di 5 o più caselle.
+
+### u005704
+Impetus
+
+### u005705
+<u>(bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g} + bonus di {g|Encyclopedia:WarhammerStrength}STR{/g})</u>
+
+### u005706
+Quando il Warrior {g|Encyclopedia:Parry}para{/g} un attacco, la sua prossima {g|Encyclopedia:Ability}abilità{/g} {g|Encyclopedia:Career}di archetipo{/g} Warrior costa −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+
+### u005707
+Interception
+
+### u005708
+Quando il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} termina il proprio {g|Encyclopedia:Turn}turno{/g} vicino a un nemico colpito dall'{g|Encyclopedia:Ability}abilità{/g} {g|f:4696f02da13b4596b941bb950d945a05}Sworn Enemy{/g}, ottiene +{uip|TemporaryWounds|8b1920f555924a0dbe5caa88129061f0} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+
+### u005709
+Invigorating Hatred
+
+### u005710
+<u>(2 + bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g})</u>
+
+### u005711
+I nemici subiscono una penalità del −10% alla {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} con attacchi a distanza (compresi gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g}) contro il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} per ogni nemico in un raggio di 1 casella attorno al Warrior. Si accumula fino a 3 volte.
+
+### u005712
+Living Shield
+
+### u005713
+I nemici {g|Encyclopedia:PushGlossary}spinti{/g} via da {g|f:93d58dfeb6c648858c130e0a902f6ed6}Forceful Strike{/g} subiscono +{unit_stat|WarhammerStrength|bonus} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi dalle collisioni con oggetti e altri nemici.
+
+### u005714
+Mighty Blow
+
+### u005715
+Ogni uso di {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g} aumenta di +1 i {g|Encyclopedia:DamageGlossary}danni{/g} inflitti da {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g} fino alla fine del combattimento.
+
+### u005716
+Blade Flurry
+
+### u005717
+{g|f:4955b43454f6488f82892e166c76c995}Charge{/g} e {g|Encyclopedia:PushGlossary}spinta{/g} aumentano di +{uip|DamageBonus|7e132b65948448b3893d8c3be9634c02}% i {g|Encyclopedia:DamageGlossary}danni{/g} degli attacchi a distanza effettuati contro i nemici colpiti, fino alla fine del combattimento. Non si cumula.
+
+### u005718
+Opening Strike
+
+### u005719
+<u>(5 + bonus di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g})</u>
+
+### u005720
+Il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} ottiene +{unit_stat|WarhammerToughness|bonus} di {g|Encyclopedia:Deflection}deviazione{/g} dei {g|Encyclopedia:DamageGlossary}danni{/g} contro il primo attacco sferrato da ogni nemico in questo combattimento.
+
+### u005721
+Clenched Teeth
+
+### u005722
+La gittata massima di {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} aumenta di +3 caselle.
+
+### u005723
+Ramming Speed
+
+### u005724
+Ogni volta che il Warrior colpisce con {g|f:ad2a77c5012c4ffd9a19204dcf794266}Reckless Strike{/g}, questo attacco infligge un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} garantito.
+
+### u005725
+Reckless Fury
+
+### u005726
+Ogni volta che il Warrior usa {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g} con due armi da mischia equipaggiate, il Warrior infligge i danni di entrambe le armi.
+
+### u005727
+Shearing Strikes
+
+### u005728
+Il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} ottiene +1 di {g|Encyclopedia:Deflection}deviazione{/g} dei danni. La sua probabilità di {g|Encyclopedia:Parry}parata{/g} aumenta di +25% dell'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} totale del Warrior.
+
+### u005729
+Thick Skin
+
+### u005730
+Se all'inizio del {g|Encyclopedia:Turn}turno{/g} non ci sono nemici adiacenti al {g|Encyclopedia:CareerFighterGlossary}Warrior{/g}, i {g|Encyclopedia:DamageGlossary}danni{/g} del Warrior aumentano di +{uip|DamageBonus|ea7d851dd97441e2867fe29f23364f3c} per un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}.
+
+### u005731
+Open Engagement
+
+### u005732
+L'area di {g|f:13e41af1d54c458da81050336ce8e0fc}Taunting Scream{/g} si estende di +2 caselle in larghezza attorno al {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} e di +2 caselle in più in avanti.
+
+### u005733
+Vociferous
+### u005734
+Il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} ripristina immediatamente tutti i {g|Encyclopedia:ActionPoints}PA{/g} e ottiene +{unit_stat|WarhammerAgility|bonus} {g|Encyclopedia:MovementPoints}PM{/g} fino alla fine del turno. In questo turno il Warrior non ha alcun limite agli attacchi con armi {g|Encyclopedia:MeleeAttacksGlossary}da mischia{/g}.
+A partire dal round successivo e fino alla fine del combattimento, il Warrior non può usare {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} e i suoi PM sono ridotti di −3.
+
+### u005735
+(Desperate Measure)
+
+### u005736
+Fino alla fine del combattimento, il Warrior non può usare {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} e i suoi PM sono ridotti di −3.
+
+### u005737
+Il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} ripristina immediatamente tutti i {g|Encyclopedia:ActionPoints}PA{/g} e {g|Encyclopedia:MovementPoints}PM{/g} e ottiene +{unit_stat|WarhammerAgility|bonus} PM fino alla fine del turno. Non perde PM dopo aver effettuato attacchi. In questo turno il Warrior non ha alcun limite agli attacchi con armi {g|Encyclopedia:MeleeAttacksGlossary}da mischia{/g}.
+
+### u005738
+Daring Breach
+
+### u005739
+<u>bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} del {g|Encyclopedia:CareerFighterGlossary}Warrior{/g}</u>
+
+### u005740
+{g|f:ed21642647a14ead9a09183cd5318d11}Daring Breach{/g} concede inoltre +10 {g|Encyclopedia:MovementPoints}punti movimento{/g} fino alla fine del {g|Encyclopedia:Turn}turno{/g}. In questo turno il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u005741
+Daring Breach (Upgrade I)
+
+### u005742
+Fino alla fine del combattimento, il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} ottiene +4 {g|Encyclopedia:MovementPoints}PM{/g} per ogni uccisione e può usare i propri PM dopo aver attaccato o usato {g|Encyclopedia:Ability}abilità{/g}.
+
+### u005743
+Daring Breach (Upgrade II)
+
+### u005744
+Per un round, il Warrior diventa il {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} di ogni nemico {g|Encyclopedia:HitSequenceGlossary}colpito{/g} dai suoi attacchi in mischia. Inoltre, il Warrior ottiene +20% di {g|Encyclopedia:Parry}parata{/g} e +2 di {g|Encyclopedia:Deflection}deviazione{/g} fino alla fine del combattimento.
+
+### u005745
+Daring Breach (Upgrade III)
+
+### u005746
+In questo {g|Encyclopedia:Turn}turno{/g}, gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} infliggono +{uip|BonusDamage|cf68c80d9d17432dbb7e2a30c384ad60} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u005747
+Daring Breach (Upgrade IV)
+
+### u005748
+<u>(bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} del {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} / 2)</u>
+
+### u005749
+<u>(bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g} + (il maggiore tra i bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} e {g|Encyclopedia:WarhammerIntelligence}INT{/g}))</u>
+
+### u005750
+Il prossimo attacco del {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} in questo turno avrà effetti aggiuntivi:
+-<indent=5%>Infligge +{unit_stat|WarhammerBallisticSkill|bonus} danni aggiuntivi.</indent>
+-<indent=5%>L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio sarà ridotta di −<u>(3 × {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del bersaglio)</u>% contro tutti gli attacchi del Bounty Hunter fino alla fine del combattimento.</indent>
+-<indent=5%>Se l'armatura del bersaglio contro questo attacco è inferiore al 20%, anche la {g|Encyclopedia:DodgeGlossary}schivata{/g} del bersaglio è ridotta di −<u>(3 × livello di difficoltà del bersaglio)</u>% contro tutti gli attacchi del Bounty Hunter fino alla fine del combattimento. I danni aggiuntivi dell'attacco del Bounty Hunter aumentano a +{uip|AdditionalDamage|f333222c78614e6fb8ca145dd8cafcf6}.</indent>
+{g|Encyclopedia:Prey}<i>Preda</i>{/g}: se il bersaglio dell'attacco è marcato come preda, la sua armatura e la sua schivata sono ridotte anche contro gli attacchi degli alleati del Bounty Hunter.
+
+### u005751
+Cull the Bold
+
+### u005752
+I {g|Encyclopedia:Bonus}bonus{/g} ai {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} e alla {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico accumulati usando {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g}.
+
+### u005753
+Hunt Down the Prey — Critical Bonuses
+
+### u005754
+Il Bounty Hunter può marcare come {g|Encyclopedia:Prey}preda{/g} qualsiasi nemico in combattimento. Ogni volta che il Bounty Hunter uccide un bersaglio marcato come preda, ottiene un bonus cumulabile fino alla fine del combattimento. Il bonus dipende dal {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del nemico (il numero romano sull'icona del nemico):
+-<indent=5%>I-II : +25% delle {g|Encyclopedia:MaxWounds}ferite massime{/g} del Bounty Hunter come {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.</indent>
+-<indent=5%>III-IV: +<u>(5 × livello di difficoltà della preda)</u>% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} e +<u>(2 × livello di difficoltà della preda)</u>% di probabilità di colpo critico fino alla fine del combattimento.</indent>
+-<indent=5%>V-VII: entrambi i bonus precedenti.</indent>
+{g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g} ha 3 cariche all'inizio del combattimento.
+
+### u005755
+Hunt Down the Prey
+
+### u005756
+Il numero di volte in cui il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} può usare {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g}.
+
+### u005757
+<u>bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} del {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g}</u>
+
+### u005758
+Fino al prossimo {g|Encyclopedia:Turn}turno{/g} del {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g}, ogni volta che un alleato attacca un bersaglio marcato come {g|Encyclopedia:Prey}preda{/g}, questo attacco infligge +{uip|AdditionalDamage|1394e5c9a6a347db841d961a87f375f4}% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi e ottiene metà dei bonus attuali del Bounty Hunter alla {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} e ai danni critici concessi da {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g}.
+
+### u005759
+Raid
+
+### u005760
+Il Bounty Hunter designa un nemico in un raggio di 10 caselle come {g|Encyclopedia:Trailed}pedinato{/g} e termina il proprio turno.
+Se un alleato uccide un nemico pedinato:
+-<indent=5%>Il Bounty Hunter ottiene un turno extra dopo il turno di quell'alleato, con tutti i {g|Encyclopedia:ActionPoints}PA{/g} e {g|Encyclopedia:MovementPoints}PM{/g} rimasti dal momento in cui il Bounty Hunter ha usato {g|f:56bd0b3c54784098ae7044ceae173c7c}Hot on the Trail{/g}.</indent>
+-<indent=5%>Il Bounty Hunter ottiene +<u>(2 + livello di difficoltà del bersaglio / 2)</u> PM aggiuntivi.</indent>
+-<indent=5%>Il {g|Encyclopedia:Cooldown}tempo di ricarica{/g} di {g|f:56bd0b3c54784098ae7044ceae173c7c}Hot on the Trail{/g} viene azzerato.</indent>
+Quando {g|f:56bd0b3c54784098ae7044ceae173c7c}Hot on the Trail{/g} viene usata per la terza volta durante il combattimento, il Bounty Hunter recupera +1 carica di {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g}.
+! Si può pedinare un solo nemico alla volta.
+
+### u005761
+Hot on the Trail
+
+### u005762
+Il prossimo attacco del Bounty Hunter in questo turno avrà +100% di {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g} e +{uip|AdditionalOverpenetration|0d8923eff3f94a5faf71bfe36ca19d70}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+{g|Encyclopedia:Prey}<i>Preda</i>{/g}: il prossimo attacco che {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un bersaglio marcato come preda è sempre un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+
+### u005763
+Piercing Shot
+
+### u005764
+<u>(2 × (il maggiore tra i bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} e {g|Encyclopedia:WarhammerIntelligence}INT{/g} del {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g}))</u>
+
+### u005765
+<u>(2 × bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} del {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g})</u>
+
+### u005766
+Il Bounty Hunter piazza una trappola su una casella libera in un raggio di 10 caselle attorno a sé. Qualsiasi nemico che entri nel raggio di 2 caselle attorno alla trappola la attiva:
+-<indent=5%>Ogni nemico nel raggio di 2 caselle attorno alla trappola subisce {uip|DirectDamage|9216a3659b1a4111a35d3eafe05f8921} {g|Encyclopedia:DirectDamage}danni diretti{/g} e deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Agility con una penalità di −{uip|ResistancePenalty|9216a3659b1a4111a35d3eafe05f8921}, altrimenti resta {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g} fino al turno successivo del nemico.</indent>
+-<indent=5%>Il Bounty Hunter ottiene +{unit_stat|WarhammerAgility|bonus} {g|Encyclopedia:MovementPoints}PM{/g} all'inizio del proprio turno successivo.</indent>
+{g|Encyclopedia:Prey}<i>Preda</i>{/g}: un bersaglio marcato come preda resta sempre immobilizzato fino al proprio turno successivo.
+
+### u005767
+Ensnare the Prey
+
+### u005768
+<u>(4 × (bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g} + bonus di {g|Encyclopedia:WarhammerPerception}PER{/g}))</u>
+
+### u005769
+Il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} effettua un attacco singolo gratuito con l'arma selezionata. Questo attacco {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} sempre, non pone fine al movimento del Bounty Hunter, ma infligge solo il {uip|DamagePercent|a78f3ecf5c024fac860fc2beaa63a8f9}% dei normali {g|Encyclopedia:DamageGlossary}danni{/g} del Bounty Hunter.
+Dopo ogni terzo nemico ucciso con {g|f:8930d6ba62ca4bc3a30a9900e741d87c}Claim the Bounty{/g}, il Bounty Hunter recupera +1 carica di {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g}.
+<i>Preda</i>: se {g|f:8930d6ba62ca4bc3a30a9900e741d87c}Claim the Bounty{/g} uccide un bersaglio marcato come preda, il Bounty Hunter riceve +2 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u005770
+Claim the Bounty
+
+### u005771
+Claim the Bounty (Off Hand)
+
+### u005772
+Il primo {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} del Bounty Hunter in un round concede ai suoi alleati un {g|Encyclopedia:Bonus}bonus{/g} cumulabile di +<u>({g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del bersaglio + bonus di PER del Bounty Hunter / 3)</u>% alla {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} fino alla fine del combattimento.
+Quando un personaggio con questo bonus {g|Encyclopedia:Reload}ricarica{/g}, il bonus viene rimosso.
+
+### u005773
+Guidance
+
+### u005774
+Ogni volta che il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} uccide un nemico con un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}, tutti gli alleati in un raggio di 7 caselle attorno al bersaglio ottengono +<u>{g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del bersaglio</u>% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico fino alla fine del combattimento. Cumulabile.
+
+### u005775
+Critical Chain
+
+### u005776
+Ogni volta che una {g|Encyclopedia:Prey}preda{/g} infligge {g|Encyclopedia:DamageGlossary}danni{/g} a un alleato del {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g}, il Bounty Hunter ottiene +<u>{g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} della preda</u>% di danni contro quella preda per 2 {g|Encyclopedia:Round}round{/g}. Cumulabile.
+
+### u005777
+Retaliate
+
+### u005778
+Quando il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} effettua un attacco a {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g} contro un bersaglio {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g} o {g|Encyclopedia:Stun}stordito{/g}, questo attacco rimborsa il proprio costo e non conta ai fini del limite di attacchi. Una volta per {g|Encyclopedia:Round}round{/g}.
+
+### u005779
+Hunter's Ambush
+
+### u005780
+Catch — Penalties
+
+### u005781
+Ogni volta che il Bounty Hunter {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico con un attacco, gli infligge l'effetto {g|Encyclopedia:Catch}catch{/g}.
+
+### u005782
+Catch
+
+### u005783
+Ogni volta che una {g|Encyclopedia:Prey}preda{/g} non {g|Encyclopedia:Trailed}pedinata{/g} viene uccisa da un alleato, il Bounty Hunter ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g} con metà dei propri {g|Encyclopedia:MovementPoints}PM{/g} e {g|Encyclopedia:ActionPoints}PA{/g}. Il Bounty Hunter non può attaccare durante questo turno extra.
+
+### u005784
+Savour the Kill
+
+### u005785
+{g|f:f333222c78614e6fb8ca145dd8cafcf6}Cull the Bold{/g} rimuove inoltre al bersaglio −<u>{g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del bersaglio</u> di {g|Encyclopedia:Deflection}deviazione{/g}, −<u>(2 × livello di difficoltà del bersaglio)</u> di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e −<u>(2 × livello di difficoltà del bersaglio)</u> di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u005786
+Flay the Bold
+
+### u005787
+Ogni volta che il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} infligge un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} per la prima volta in un {g|Encyclopedia:Round}round{/g}, ottiene +<u>{g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del bersaglio</u> {g|Encyclopedia:MovementPoints}punti movimento{/g}.
+
+### u005788
+Cut to the Chase
+
+### u005789
+Il Bounty Hunter ottiene +{uip|CritChanceBonus|6c71bfc05fa0455fa5550d0e33fd288b}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} contro tutte le {g|Encyclopedia:Prey}prede{/g} la cui {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} è ridotta da qualsiasi effetto delle {g|Encyclopedia:Ability}abilità{/g} o dei {g|Encyclopedia:Talent}talenti{/g} degli archetipi Bounty Hunter o Operative.
+
+### u005790
+Easy Prey
+
+### u005791
+<u>(3 + bonus di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>
+
+### u005792
+Ogni terzo {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} messo a segno dal {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} ripristina +1 carica di {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g}.
+
+### u005793
+Good Hunting
+
+### u005794
+Ogni volta che un nemico viene ucciso da un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} messo a segno dal {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} o da un suo alleato, il Bounty Hunter ottiene +<u>(2 × {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del nemico)</u>% di {g|Encyclopedia:DamageGlossary}danni{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u005795
+Hunting Surge
+
+### u005796
+Ogni volta che il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} uccide una {g|Encyclopedia:Prey}preda{/g} il cui {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} è IV o superiore, ottiene inoltre +2 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u005797
+Inspiring Trophy
+
+### u005798
+{g|f:41e8d32342714d74ba97fe26220ed1fd}Raid{/g} concede a un alleato un ulteriore +<u>(2 × {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} della {g|Encyclopedia:Prey}preda{/g})</u>% di {g|Encyclopedia:DamageGlossary}danni{/g} contro le prede.
+
+### u005799
+Kill Squad
+
+### u005800
+Ogni volta che il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} uccide un nemico il cui {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} è IV o superiore, {g|Encyclopedia:Reload}ricarica{/g} immediatamente la propria arma e attacca il nemico più vicino nella propria {g|Encyclopedia:LineOfSight}linea di vista{/g}. Questo attacco ottiene +50% di {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g} ma infligge solo il {uip|DamagePercent|e0dcfc42ff494a7ead8cd3a788ff7516}% dei normali danni del Bounty Hunter.
+
+### u005801
+Expert Finesse
+
+### u005802
+{g|f:56bd0b3c54784098ae7044ceae173c7c}Hot on the Trail{/g} ora ha una gittata illimitata e riduce l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio di −{uip|ArmourReduction|8f583f74dfec446faa1fd96d186147b0}% per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u005803
+Trail and Shatter
+
+### u005804
+Ogni nemico colpito da {g|f:e92f1c119dd64d3981fd750a56e5aab2}Piercing Shot{/g} subisce una riduzione dell'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di −{unit_stat|WarhammerBallisticSkill|bonus}% fino alla fine del combattimento. Cumulabile.
+
+### u005805
+Pierce and Ruin
+
+### u005806
+Ogni volta che il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} infligge un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}, l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio è ridotta di −<u>({unit_stat|WarhammerBallisticSkill|bonus} + {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del bersaglio)</u>% fino alla fine del combattimento. Cumulabile.
+
+### u005807
+Pierce the Armour
+
+### u005808
+Ogni volta che il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} viene attaccato in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} per la prima volta dalla fine del proprio {g|Encyclopedia:Turn}turno{/g}, {g|Encyclopedia:DodgeGlossary}schiva{/g} automaticamente quell'attacco e si sposta di 1 casella nella direzione opposta al nemico.
+Il Bounty Hunter non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} con questo movimento.
+
+### u005809
+Withdraw
+
+### u005810
+Gli alleati del {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} ottengono +{uip|CritChanceBonus|a56864477e624f6fbfdd8c526a1f9779}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} contro i nemici soggetti a uno o più dei seguenti effetti: {g|Encyclopedia:Prey}preda{/g}, {g|Encyclopedia:Trailed}pedinato{/g} o {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}.
+
+### u005811
+Pounce
+
+### u005812
+<u>(3 + bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} del {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g})</u>
+
+### u005813
+Ogni volta che un alleato uccide una {g|Encyclopedia:Prey}preda{/g}, il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} ottiene metà dei {g|Encyclopedia:Bonus}bonus{/g} concessi da {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g}.
+
+### u005814
+Share the Spoils
+
+### u005815
+Se {g|f:8930d6ba62ca4bc3a30a9900e741d87c}Claim the Bounty{/g} uccide un nemico, il prossimo attacco del {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} in questo {g|Encyclopedia:Turn}turno{/g} infliggerà sempre un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+
+### u005816
+Claim and Maim
+
+### u005817
+Se l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio è pari o inferiore a 0 quando il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} effettua questo attacco, il bersaglio subirà un ulteriore +<u>(5 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>% di {g|Encyclopedia:DamageGlossary}danni{/g} dagli attacchi del Bounty Hunter fino alla fine del combattimento. Cumulabile.
+
+### u005818
+Soft Belly
+
+### u005819
+Ogni volta che il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} infligge un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}, ottiene +{unit_stat|WarhammerPerception|bonus}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} fino alla fine del combattimento. Cumulabile.
+
+### u005820
+Heightened Concentration
+
+### u005821
+Ogni volta che una {g|Encyclopedia:Prey}preda{/g} viene uccisa, tutti i nemici in un raggio di 10 caselle attorno alla preda subiscono una riduzione di −<u>(5 × {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} della preda)</u> di {g|Encyclopedia:WarhammerAgility}Agility{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u005822
+Gruesome Kill
+
+### u005823
+All'inizio del {g|Encyclopedia:Turn}turno{/g} del {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g}, questi ottiene +2 {g|Encyclopedia:MovementPoints}PM{/g} per ogni alleato adiacente a una {g|Encyclopedia:Prey}preda{/g}.
+
+### u005824
+We Got 'Em
+
+### u005825
+Il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} effettua simultaneamente più attacchi. Il numero di attacchi è pari al numero di {g|Encyclopedia:Prey}prede{/g} in combattimento. Questi attacchi sono suddivisi equamente tra tutte le prede nella {g|Encyclopedia:LineOfSight}linea di vista{/g} del Bounty Hunter. Gli attacchi {g|Encyclopedia:HitSequenceGlossary}colpiscono{/g} sempre e infliggono sempre un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+Fino alla fine del combattimento, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, {g|Encyclopedia:WarhammerPerception}Perception{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g} del Bounty Hunter sono ridotte di −20.
+
+### u005826
+Il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} effettua simultaneamente più attacchi. Il numero di attacchi è pari al numero di {g|Encyclopedia:Prey}prede{/g} in combattimento. Questi attacchi sono suddivisi equamente tra tutte le prede nella {g|Encyclopedia:LineOfSight}linea di vista{/g} del Bounty Hunter. Gli attacchi {g|Encyclopedia:HitSequenceGlossary}colpiscono{/g} sempre e infliggono sempre {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g}.
+
+### u005827
+Wild Hunt
+
+### u005828
+— Second Weapon
+
+### u005829
+Prima dell'attacco, tutte le {g|Encyclopedia:Prey}prede{/g} subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −<u>(3 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>% all'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} fino alla fine del combattimento.
+
+### u005830
+Wild Hunt (Upgrade I)
+
+### u005831
+Il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} ottiene +{unit_stat|WarhammerAgility|bonus} {g|Encyclopedia:MovementPoints}PM{/g} e ripristina +3 cariche di {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g}.
+
+### u005832
+Wild Hunt (Upgrade II)
+
+### u005833
+Ogni volta che il {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} attacca con {g|f:39809f7335f542c587678086db6ce338}Wild Hunt{/g} esattamente un bersaglio, marcato come {g|Encyclopedia:Prey}preda{/g}, questo attacco infligge +300% di {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u005834
+Wild Hunt (Upgrade III)
+
+### u005835
+Tutte le {g|Encyclopedia:Prey}prede{/g} subiscono una riduzione dei propri {g|Encyclopedia:MovementPoints}PM{/g} di −<u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerAgility}AGI{/g} − 3)</u>, ma non meno di −2.
+### u005836
+Wild Hunt (Upgrade IV)
+
+### u005837
+<u>(2 + {g|Encyclopedia:Resolve}determinazione{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} / 3)</u>
+
+### u005838
+<u>Determinazione</u>
+
+### u005839
+L'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} aumenta di +{uip|ResolveBonus|32c0e0539f8548b08780089f8006f54a} la {g|Encyclopedia:Resolve}determinazione{/g} di un alleato fino alla fine del combattimento.
+Se il bersaglio è sotto l'effetto di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}, inizierà il proprio prossimo {g|Encyclopedia:Turn}turno{/g} con +1 {g|Encyclopedia:ActionPoints}punto azione{/g} aggiuntivo.
+
+### u005840
+Questa {g|Encyclopedia:Ability}abilità{/g} può avere come bersaglio solo alleati che hanno nemici adiacenti.
+Fino all'inizio del prossimo turno dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g}, tutti gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} sferrati dal bersaglio infliggono danni aggiuntivi pari a {uip|BonusDamage|b509a3ee5ab44253b4b859dd5f3dbffb} moltiplicati per il numero di nemici adiacenti al bersaglio quando si usa questa abilità.
+Se il bersaglio è sotto l'effetto di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}, effettua immediatamente un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g} contro un nemico adiacente, scegliendo quello con meno {g|Encyclopedia:HitPoints}ferite{/g} rimaste.
+
+### u005841
+Break Their Ranks!
+
+### u005842
+<u>(30 + 3 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u>
+
+### u005843
+Questa {g|Encyclopedia:Ability}abilità{/g} può essere usata solo su alleati che possono raggiungere l'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} muovendosi per meno di 20 caselle. L'Officer fa immediatamente muovere un alleato verso di sé lungo il percorso più breve possibile.
+Se il bersaglio è sotto l'effetto di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}, ottiene +{uip|ArmourBonus|19b029e81dae4e418fddfc6d24af3f6a}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} fino alla fine del {g|Encyclopedia:Turn}turno{/g} dell'Officer. Se il bersaglio resta adiacente all'Officer, tutti gli attacchi diretti contro l'Officer colpiranno invece lui, finché l'effetto di {g|f:19b029e81dae4e418fddfc6d24af3f6a}To Me!{/g} non termina.
+
+### u005844
+To Me!
+
+### u005845
+Officer
+
+### u005846
+Gli {g|Encyclopedia:CareerLeaderGlossary}Officer{/g} usano {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} per migliorare le capacità di combattimento dei propri alleati, trasformandoli in minacce ancora più temibili sul campo di battaglia.
+Focus principale: {g|Encyclopedia:ExtraTurn}turni extra{/g}, potenziamenti su bersaglio singolo, salvataggio degli alleati, {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g}.
+
+### u005847
+Ogni volta che un alleato è soggetto a un'{g|Encyclopedia:Ability}abilità{/g} o a un {g|Encyclopedia:Talent}talento{/g} di un {g|Encyclopedia:CareerLeaderGlossary}Officer{/g} che concede {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}, l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di quell'alleato aumenta di +10% per 1 round. Non si cumula.
+
+### u005848
+Armour of Contempt
+
+### u005849
+Gli alleati sotto l'effetto delle {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} ottengono un {g|Encyclopedia:Bonus}bonus{/g} alla {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} pari a {uip|DamageBonus|e1d30ac6037f43d98bc14c07f1c60cfe} e infliggono +{unit_stat|WarhammerFellowship|bonus} danni in più con gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} fino all'inizio del prossimo turno dell'Officer.
+
+### u005850
+Be Vigilant!
+
+### u005851
+<u>(3 + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g})</u>
+
+### u005852
+<u>bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g}</u>
+
+### u005853
+Ogni volta che un alleato usa un {g|Encyclopedia:HeroicAct}atto eroico{/g}, ottiene {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} pari a <u>(10% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g} + {uip|Resolve|5f3732268bf044fab685fcead7998a3c})</u>.
+
+### u005854
+Blood of Martyrs
+
+### u005855
+La gittata delle {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} aumenta di +3. La gittata di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} aumenta di +6.
+
+### u005856
+Commanding Voice
+
+### u005857
+Ogni volta che l'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} usa un'{g|Encyclopedia:Ability}abilità{/g} su un alleato, questi ottiene un {g|Encyclopedia:Bonus}bonus{/g} a {g|Encyclopedia:WarhammerPerception}Perception{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} pari a {uip|StatBonus|27b71e5bb62a4bf1ad94359f49ca5f52}. Questi bonus si cumulano, ma metà degli accumuli (arrotondata per eccesso) va persa al termine del turno del bersaglio.
+
+### u005858
+Focus!
+
+### u005859
+All'inizio di ogni {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g}, l'Officer usa {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} su un alleato casuale che non sia {g|Encyclopedia:Overexerted}sfinito{/g}. Questo alleato non subirà l'effetto di sfinimento e potrà essere di nuovo bersaglio di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}.
+
+### u005860
+Imprinted Words
+
+### u005861
+Ogni volta che l'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} sceglie un alleato come bersaglio di un'{g|Encyclopedia:Ability}abilità{/g} per la prima volta in un {g|Encyclopedia:Round}round{/g}, quell'alleato ottiene +{unit_stat|WarhammerWillpower|bonus} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+
+### u005862
+Inspire Courage
+
+### u005863
+<u>bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g}</u>
+
+### u005864
+{g|f:ac05887b146a49e6b707fa17494f8a5c}Air of Authority{/g} concede immediatamente al bersaglio {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g} pari alla {g|Encyclopedia:Resolve}determinazione{/g} del bersaglio.
+
+### u005865
+Inspiring Speech
+
+### u005866
+L'Officer ottiene +10 di Willpower e +10 di Fellowship quando gli resta meno del 50% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g}. Ottiene inoltre un ulteriore +10 di Willpower e +10 di Fellowship, per 1 round, dopo aver usato qualsiasi {g|Encyclopedia:Ability}abilità{/g} da Officer su un bersaglio con meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g}.
+Questi due gruppi di {g|Encyclopedia:Bonus}bonus{/g} si sommano fra loro ma non si cumulano con se stessi (l'Officer può avere al massimo +20 di Willpower e +20 di Fellowship concessi da questo {g|Encyclopedia:Talent}talento{/g} in qualsiasi momento).
+
+### u005867
+Undaunted
+
+### u005868
+Gli alleati colpiti dalle {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} ottengono un {g|Encyclopedia:Bonus}bonus{/g} a tutte le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} pari a {uip|ResistanceBonus|c2d1294cea0644baa6f6dac2270dffdc}.
+
+### u005869
+Iron Discipline
+
+### u005870
+Metà del {g|Encyclopedia:Bonus}bonus{/g} concesso da {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} permane fino alla fine del combattimento. Questo bonus non si cumula con se stesso né con i bonus concessi da {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}, ma conta come effetto di un'{g|Encyclopedia:Ability}abilità{/g} da {g|Encyclopedia:CareerLeaderGlossary}Officer{/g} ai fini degli effetti di altri {g|Encyclopedia:Talent}talenti{/g}.
+<i>Nota:</i> l'alleato interessato non conta come soggetto all'effetto di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}. Ottiene solo bonus alle proprie {g|Encyclopedia:Characteristic}caratteristiche{/g}.
+
+### u005871
+Lasting Impression
+
+### u005872
+Ogni volta che l'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} effettua un attacco, ottiene +5 {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} fino alla fine del combattimento.
+
+### u005873
+Leader's Assault
+
+### u005874
+<u>(2 + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} / 2)</u>
+
+### u005875
+La prossima {g|Encyclopedia:Ability}abilità{/g} {g|Encyclopedia:Career}di archetipo{/g} {g|Encyclopedia:CareerLeaderGlossary}Officer{/g} che non concede un {g|Encyclopedia:ExtraTurn}turno extra{/g} influirà anche sull'Officer.
+
+### u005876
+Stand Witness
+
+### u005877
+Ogni volta che l'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} usa un'{g|Encyclopedia:Ability}abilità{/g} che concede {g|Encyclopedia:MovementPoints}punti movimento{/g} al bersaglio, l'Officer ottiene anche metà di quel numero di punti movimento.
+
+### u005878
+March
+
+### u005879
+Ogni volta che l'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} usa {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} o {g|f:5bfccf14d8604ae1a041fb347fb8f19f}Bring It Down!{/g} per la prima volta in combattimento, questa abilità costa −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+
+### u005880
+Decisive Response
+
+### u005881
+Ogni volta che un'{g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} concede {g|Encyclopedia:ActionPoints}punti azione{/g} a un alleato, quell'alleato ottiene inoltre +1 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} per ogni punto azione ottenuto, fino alla fine del combattimento.
+
+### u005882
+No Respite
+
+### u005883
+Ogni volta che l'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} usa in un round due {g|Encyclopedia:Ability}abilità{/g} {g|Encyclopedia:Career}di archetipo{/g} Officer che non concedono un {g|Encyclopedia:ExtraTurn}turno extra{/g}, ottiene l'effetto {g|f:f02ddb75448343d8a867fbd7a725ec93}stand witness{/g}.
+
+### u005884
+Lead by Example
+
+### u005885
+Ogni volta che l'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} sceglie un alleato come bersaglio di un'azione (un'{g|Encyclopedia:Ability}abilità{/g} o un attacco), la {g|Encyclopedia:Resolve}determinazione{/g} di quell'alleato aumenta di +1 fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} dell'Officer. Questo effetto si cumula e, a ogni accumulo, viene prolungato fino alla fine del prossimo turno dell'Officer.
+
+### u005886
+Personal Oversight
+
+### u005887
+Ogni volta che un alleato inizia un {g|Encyclopedia:Turn}turno{/g} (compreso qualsiasi {g|Encyclopedia:ExtraTurn}turno extra{/g}) adiacente all'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g}, ottiene {g|Encyclopedia:MovementPoints}PM{/g} aggiuntivi pari a {uip|MovementPoints|45e575a80a5d49a1ad9bc5ba0537fd98}.
+
+### u005888
+Physical Encouragement
+
+### u005889
+{g|f:36cb9c507ede4953b22cefac9263aa4d}Break Their Ranks!{/g} funziona come se ci fosse un nemico in più adiacente al bersaglio. Questo permette di usare questa {g|Encyclopedia:Ability}abilità{/g} su bersagli senza nemici adiacenti.
+
+### u005890
+Prepare for an Assault!
+
+### u005891
+<u>(10 + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u>
+
+### u005892
+{g|f:5707cdc822e742f187d54627ae6ef4f9}Take Aim!{/g} aumenta inoltre di +5% i {g|Encyclopedia:DamageGlossary}danni{/g} del prossimo attacco a distanza. Questo bonus aumenta di +1% per ogni casella tra l'attaccante e il bersaglio.
+
+### u005893
+Steady!
+
+### u005894
+La {g|Encyclopedia:Resolve}determinazione{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} aumenta di +3.
+
+### u005895
+Steel Resolve
+
+### u005896
+I bersagli di {g|f:19b029e81dae4e418fddfc6d24af3f6a}To Me!{/g} subiscono −15% di {g|Encyclopedia:DamageGlossary}danni{/g} fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g}. Questa riduzione raddoppia a −30% per i bersagli che svolgono il proprio turno sotto l'effetto di {g|f:19b029e81dae4e418fddfc6d24af3f6a}To Me!{/g}.
+
+### u005897
+Survive!
+
+### u005898
+I bersagli di {g|f:d8008dcfa0004bcca41b26b802d839b2}Move, Move, Move!{/g} ottengono un {g|Encyclopedia:Bonus}bonus{/g} di +10% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} e un bonus di +10% all'{g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g}.
+
+### u005899
+Watch Yourself!
+
+### u005900
+{g|f:e8e9fbe8696e4820b84c733ceba629af}Get Back in the Fight!{/g} rimuove 1 {g|Encyclopedia:Injury}lesione recente{/g} dal bersaglio e lo cura di {uip|Heal|3bdde6bd1c65417d846e34e3d084d571} {g|Encyclopedia:HitPoints}ferite{/g} per ogni effetto rimosso da {g|f:e8e9fbe8696e4820b84c733ceba629af}Get Back in the Fight!{/g} (comprese le lesioni recenti). Vengono sempre curate almeno {uip|Heal|3bdde6bd1c65417d846e34e3d084d571} ferite, anche se non viene rimosso alcun effetto.
+
+### u005901
+Wounds Are No Excuse!
+
+### u005902
+<u>(bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} / 2)</u>
+
+### u005903
+L'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} concede a un alleato un {g|Encyclopedia:ExtraTurn}turno extra{/g} con {g|Encyclopedia:ActionPoints}PA{/g} e {g|Encyclopedia:MovementPoints}PM{/g} al massimo. Durante il turno extra non c'è alcun limite agli attacchi.
+Fino alla fine del combattimento, la {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} dell'Officer è dimezzata.
+
+### u005904
+L'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} concede a un alleato un {g|Encyclopedia:ExtraTurn}turno extra{/g} con {g|Encyclopedia:ActionPoints}PA{/g} e {g|Encyclopedia:MovementPoints}PM{/g} al massimo. Durante il {g|Encyclopedia:Turn}turno{/g} extra non c'è alcun limite agli attacchi.
+
+### u005905
+Finest Hour!
+
+### u005906
+Il bersaglio di {g|f:33c8c9db91694ca6ad3eff26e36dd0af}Finest Hour!{/g} ottiene {g|Encyclopedia:Bonus}bonus{/g} aggiuntivi:
+-<indent=5%>Durante il suo {g|Encyclopedia:ExtraTurn}turno extra{/g}, il bersaglio infligge +{uip|DamageBonus|cb35c9899b354cb596a4ec619811afeb}% di {g|Encyclopedia:DamageGlossary}danni{/g}.</indent>
+-<indent=5%>Fino alla fine del combattimento, il bersaglio ottiene l'effetto di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}.</indent>
+
+### u005907
+Finest Hour! (Upgrade I)
+
+### u005908
+<u>(3 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g})</u>
+
+### u005909
+Il bersaglio di {g|f:33c8c9db91694ca6ad3eff26e36dd0af}Finest Hour!{/g} ottiene ulteriori {g|Encyclopedia:Bonus}bonus{/g}:
+-<indent=5%>Tutti gli {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g} vengono rimossi immediatamente dal bersaglio.</indent>
+-<indent=5%>Fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g}, il bersaglio non può morire (le sue {g|Encyclopedia:HitPoints}ferite{/g} non possono scendere sotto 1).</indent>
+
+### u005910
+Finest Hour! (Upgrade II)
+
+### u005911
+Il bersaglio ottiene +{uip|TemporaryWounds|2ec870598a2543a083fbac734fcec6db} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} fino alla fine del combattimento.
+
+### u005912
+Finest Hour! (Upgrade III)
+
+### u005913
+Il bersaglio di {g|f:33c8c9db91694ca6ad3eff26e36dd0af}Finest Hour!{/g} ottiene {g|Encyclopedia:Bonus}bonus{/g} aggiuntivi:
+-<indent=5%>Durante il {g|Encyclopedia:ExtraTurn}turno extra{/g}, tutte le sue {g|Encyclopedia:Ability}abilità{/g} che non sono attacchi costano −1 {g|Encyclopedia:ActionPoints}PA{/g}.</indent>
+
+### u005914
+Finest Hour! (Upgrade IV)
+
+### u005915
+Il bersaglio può reindirizzare l'{g|Encyclopedia:Ability}abilità{/g} verso un altro bersaglio con i propri {g|Encyclopedia:ActionPoints}PA{/g} e {g|Encyclopedia:MovementPoints}PM{/g} rimanenti.
+
+### u005916
+It's Your Time Next!
+
+### u005917
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} infligge +{uip|DamageBonus|5e29fedc5a7e4a209d58d4bd75f94743}% di danni in più con il suo prossimo attacco. Se tale attacco uccide il bersaglio, non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g} e l'Overseer recupera tutti i {g|Encyclopedia:ActionPoints}PA{/g} spesi per esso.
+
+### u005918
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} ottiene un bonus di +10 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} considerate le caratteristiche chiave del suo famiglio. Ogni volta che un nemico entro un raggio di 4 caselle attorno all'Overseer viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g} da un attacco, l'Overseer ottiene {uip|StatBonus|5e29fedc5a7e4a209d58d4bd75f94743} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+
+### u005919
+I prossimi 3 {g|Encyclopedia:HitSequenceGlossary}colpi{/g} contro questo famiglio hanno i propri {g|Encyclopedia:DamageGlossary}danni{/g} ridotti di −{uip|Reduce|5e29fedc5a7e4a209d58d4bd75f94743}.
+
+### u005920
+In base al numero di {g|Encyclopedia:HitPoints}ferite{/g} del suo famiglio, l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} o il famiglio ottiene un beneficio speciale per 1 {g|Encyclopedia:Round}round{/g}:
+-<indent=5%>Meno del 50% di ferite: i prossimi 3 {g|Encyclopedia:HitSequenceGlossary}colpi{/g} contro il famiglio hanno i propri danni ridotti di −{uip|Reduce|5e29fedc5a7e4a209d58d4bd75f94743}.</indent>
+-<indent=5%>50% di ferite o più: l'Overseer infligge +{uip|DamageBonus|5e29fedc5a7e4a209d58d4bd75f94743}% di danni in più con il suo prossimo attacco. Se tale attacco uccide il bersaglio, non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g} e l'Overseer recupera tutti i {g|Encyclopedia:ActionPoints}PA{/g} spesi per esso.</indent>
+
+### u005921
+Strategic Adaptation
+
+### u005922
+<u>((bonus della prima + seconda {g|Encyclopedia:Characteristic}caratteristica{/g} chiave del famiglio) / 2)</u>
+
+### u005923
+<u>(2 × bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u005924
+<u>(bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} + bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} dell'Overseer + bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} dell'Overseer)</u>
+
+### u005925
+Per 1 {g|Encyclopedia:Round}round{/g}, gli attacchi del nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} contro l'aquila cibernetica {g|Encyclopedia:HitSequenceGlossary}colpiscono{/g} sempre gli alleati di quel nemico.
+
+### u005926
+Ogni casella percorsa dal mastino cibernetico aumenta di +{uip|Damage|55e2edbbab9a434782a2ac39a8f18915} i danni che infligge. Si cumula e dura fino al prossimo {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}.
+
+### u005927
+Advanced Tracking
+
+### u005928
+<u>(bonus di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g} del famiglio / 2)</u>
+
+### u005929
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relays{/g} un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g}, un nemico casuale in un raggio di 4 caselle attorno al corvo psibernetico resta {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g} per 1 {g|Encyclopedia:Round}round{/g}. Se quel nemico è già immobilizzato, subisce invece +1 accumulo di {g|Encyclopedia:PerplexedEffect}confuso{/g}.
+
+### u005930
+Per 1 {g|Encyclopedia:Round}round{/g}, lo sciame di servoteschi ottiene +10 {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}. Gli effetti attivati dalle sue {g|Encyclopedia:Ability}abilità{/g} segnale influenzano i bersagli per +1 round aggiuntivo:
+-<indent=5%>se il segnale viene sostituito da un altro segnale;</indent>
+-<indent=5%>se lo sciame di servoteschi viene distrutto;</indent>
+-<indent=5%>o se il bersaglio interessato si allontana dallo sciame di servoteschi a più di 4 caselle di distanza.</indent>
+
+### u005931
+Deactivation
+
+### u005932
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} sceglie un famiglio {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g} nella propria {g|Encyclopedia:LineOfSight}linea di vista{/g} entro un raggio di 5 caselle. Quel famiglio recupera il {uip|Heal|0cded06c29174502823f0f52154d8162}% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g} e torna in combattimento.
+Può essere usata anche sui famigli di altri Overseer ancora in combattimento.
+### u005933
+Reactivate
+
+### u005934
+<u>{g|Encyclopedia:SkillMedicae}Medicae{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}</u>
+
+### u005935
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} scatta immediatamente verso il proprio famiglio entro {uip|Cells|ef69d99ee41d49f1bef7a6194f78dd38} caselle. L'Overseer può attraversare alleati e nemici, ma non gli ostacoli. Questo movimento non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+Se il famiglio è un'aquila cibernetica che sta {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, l'Overseer ottiene invece +{uip|Cells|ef69d99ee41d49f1bef7a6194f78dd38} {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u005936
+Consolidation
+
+### u005937
+<u>(2 + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u005938
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} è un esperto tattico che usa il proprio famiglio per eseguire la propria volontà. La scelta del famiglio determina lo stile di combattimento dell'Overseer. Famigli diversi concedono capacità uniche: dal curare e proteggere gli alleati al distruggere i nemici con precisione letale. Insieme, l'Overseer e il suo famiglio possono dominare qualsiasi campo di battaglia grazie alla loro spiccata adattabilità.
+Focus principale: scelta del famiglio, controllo del famiglio, adattabilità, supporto, attacchi mirati.
+
+### u005939
+Overseer
+
+### u005940
+Questa creatura ha osato rendere inoffensivo l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} dell'aquila cibernetica! Fino alla fine del combattimento subisce +15% di danni e è costretta a ripetere i tentativi di {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g} riusciti.
+
+### u005941
+Portent of Death
+
+### u005942
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} cade {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g}, l'aquila cibernetica infligge l'effetto {g|f:c45dc75658f24241abc5a13d8bbaa834}portent of death{/g} al nemico che ha inflitto quei danni letali (se presente). Poi l'aquila cibernetica inizia a {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}.
+
+### u005943
+Questa creatura non può subire {g|Encyclopedia:Injury}lesioni{/g} e {g|Encyclopedia:Traumas}traumi{/g}.
+
+### u005944
+Superalloy
+
+### u005945
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} può usare un potente mastino cibernetico con un proprio insieme unico di {g|Encyclopedia:Ability}abilità{/g} e {g|Encyclopedia:Talent}talenti{/g}.
+
+### u005946
+Cyber-Mastiff Proficiency
+
+### u005947
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} può usare una potente aquila cibernetica con un proprio insieme unico di {g|Encyclopedia:Ability}abilità{/g} e {g|Encyclopedia:Talent}talenti{/g}.
+
+### u005948
+Cyber-Eagle Proficiency
+
+### u005949
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} può usare un potente corvo psibernetico con un proprio insieme unico di {g|Encyclopedia:Ability}abilità{/g} e {g|Encyclopedia:Talent}talenti{/g}.
+
+### u005950
+Psyber-Raven Proficiency
+
+### u005951
+L'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} può usare un potente sciame di servoteschi con un proprio insieme unico di {g|Encyclopedia:Ability}abilità{/g} e {g|Encyclopedia:Talent}talenti{/g}.
+
+### u005952
+Servo-Skull Swarm Proficiency
+
+### u005953
+Glaito Proficiency
+
+### u005954
+Quando l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} cade {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g}, il mastino cibernetico passa a {g|f:11251c47c7b14a87824cffe48ea6374d}Battle Mode: Standby{/g} fino alla fine del combattimento.
+
+### u005955
+Quando l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} cade {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g}, il corvo psibernetico infligge immediatamente {uip|Damage|90622e48744a474e91770f71359dae9b} {g|Encyclopedia:WarpDamage}danni warp{/g} a ogni nemico in un raggio di 4 caselle attorno a sé. Poi il corvo psibernetico viene disattivato.
+
+### u005956
+The Null Directive
+
+### u005957
+<u>({g|Encyclopedia:CharacterLevel}livello del personaggio{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} × {g|Encyclopedia:PsyRating}livello psichico{/g} × numero di nemici colpiti / 3)</u>
+
+### u005958
+Questa creatura non può essere bersaglio di {g|Encyclopedia:Ability}abilità{/g} che concedono {g|Encyclopedia:ExtraTurn}turni extra{/g}. Inoltre, non influisce sullo {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g}.
+
+### u005959
+Servitude
+
+### u005960
+Quando l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} cade {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g}, i nemici in un raggio di 4 caselle attorno allo sciame di servoteschi effettuano una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una penalità di −{uip|Save|a62ff7d3719640d0b5f23976cbb9544f}. Chi fallisce la {g|Encyclopedia:Test}prova{/g} resta {g|Encyclopedia:Stun}stordito{/g} per 1 round. Chi la supera resta {g|Encyclopedia:SlowedEffect}rallentato{/g} per 1 round. Dopodiché lo sciame di servoteschi viene disattivato.
+! Questa {g|Encyclopedia:Ability}abilità{/g} non ha effetto su certi nemici potenti.
+
+### u005961
+<u>({g|Encyclopedia:WarhammerFellowship}FEL{/g} del famiglio / 3)</u>
+
+### u005962
+<u>(2 × bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u005963
+Le {g|Encyclopedia:MaxWounds}ferite massime{/g} del famiglio aumentano di +{uip|WoundsBonusMaster|45a8fc6ef837483a98fabc8d954b5682}.
+
+### u005964
+Le {g|Encyclopedia:MaxWounds}ferite massime{/g} del famiglio aumentano di +{uip|WoundsBonus|f9924fdff9244acdbac5bcdceddf2611}.
+
+### u005965
+Autonomous Medikit
+
+### u005966
+Le {g|Encyclopedia:Characteristic}caratteristiche{/g} chiave del famiglio aumentano di +5.
+
+### u005967
+Enhanced Augmetics
+
+### u005968
+Ogni alleato in un raggio di 3 caselle attorno al famiglio ottiene +2 di {g|Encyclopedia:Resolve}determinazione{/g}.
+
+### u005969
+Brother-in-Arms
+
+### u005970
+Gli attacchi contro il famiglio hanno la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} ridotta di −{uip|Chance|371f03236f5947de8d5d56a9afd19f16}%.
+
+### u005971
+Armoured Hide
+
+### u005972
+<u>(3 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g})</u>
+
+### u005973
+Finché l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} e il suo famiglio sono adiacenti, entrambi ripetono i tentativi di {g|Encyclopedia:DodgeGlossary}schivata{/g} falliti una volta per attacco.
+
+### u005974
+Side by Side
+
+### u005975
+All'inizio del {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}, il famiglio ottiene {uip|Resolve|0f6ab2b1b7d64d36ab9fc29eb3098407} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+
+### u005976
+Master's Patronage
+
+### u005977
+<u>{g|Encyclopedia:Resolve}determinazione{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}</u>
+
+### u005978
+Il famiglio ottiene +50% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro gli attacchi del proprio {g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}.
+
+### u005979
+Cohesion
+
+### u005980
+Il primo uso di un'{g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} in combattimento costa −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+
+### u005981
+Rite of Calibration
+
+### u005982
+Ogni volta che un'{g|Encyclopedia:Ability}abilità{/g} del famiglio viene usata su un alleato (può essere l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}), per 1 round quell'alleato ottiene un bonus di +5 alle {g|Encyclopedia:Characteristic}caratteristiche{/g} considerate caratteristiche chiave del famiglio.
+
+### u005983
+Dependable Ally
+
+### u005984
+I nemici in un raggio di 3 caselle attorno al famiglio subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −5 alle {g|Encyclopedia:Characteristic}caratteristiche{/g} considerate caratteristiche chiave del famiglio.
+
+### u005985
+Suppression Factor
+
+### u005986
+Il mastino cibernetico recupera immediatamente tutte le {g|Encyclopedia:HitPoints}ferite{/g} (anche se ne ha 0). Tutti gli effetti {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:ProneEffect}a terra{/g} e {g|Encyclopedia:Stun}stordito{/g} vengono rimossi. Le prossime tre {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} costano −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+Fino alla fine del combattimento, il mastino cibernetico infligge danni aggiuntivi pari al {uip|Damage|67bed913aca646fca8bef97d7cc0648f}% delle {g|Encyclopedia:MaxWounds}ferite massime{/g} del bersaglio.
+Le ferite massime del mastino cibernetico sono ridotte di −50%. {g|f:374265cc61d5475898f17ac969795f7c}Reactivate{/g} ora consuma tutti i {g|Encyclopedia:MovementPoints}PM{/g} dell'Overseer.
+
+### u005987
+Le {g|Encyclopedia:MaxWounds}ferite massime{/g} di questo famiglio sono ridotte di −50%.
+
+### u005988
+L'aquila cibernetica recupera immediatamente tutte le {g|Encyclopedia:HitPoints}ferite{/g} (anche se ne ha 0). Gli effetti {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:ProneEffect}a terra{/g} e {g|Encyclopedia:Stun}stordito{/g} vengono rimossi. Le prossime tre {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} costano −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+Fino alla fine del combattimento, gli attacchi del nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} in direzione dell'aquila cibernetica che {g|Encyclopedia:HitSequenceGlossary}colpiscono{/g} gli alleati di quel nemico infliggono automaticamente {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g}.
+Le {g|Encyclopedia:MaxWounds}ferite massime{/g} dell'aquila cibernetica sono ridotte di −50%. {g|f:374265cc61d5475898f17ac969795f7c}Reactivate{/g} ora consuma tutti i {g|Encyclopedia:MovementPoints}PM{/g} dell'Overseer.
+
+### u005989
+Il corvo psibernetico recupera immediatamente tutte le {g|Encyclopedia:HitPoints}ferite{/g} (anche se ne ha 0). Gli effetti {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:ProneEffect}a terra{/g} e {g|Encyclopedia:Stun}stordito{/g} vengono rimossi. Le prossime tre {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} costano −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+Fino alla fine del combattimento, l'Overseer può {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relay{/g} {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} offensivi attraverso il proprio corvo psibernetico.
+Le {g|Encyclopedia:MaxWounds}ferite massime{/g} del corvo psibernetico sono ridotte di −50%. {g|f:374265cc61d5475898f17ac969795f7c}Reactivate{/g} ora consuma tutti i {g|Encyclopedia:MovementPoints}PM{/g} dell'Overseer.
+
+### u005990
+Lo sciame di servoteschi recupera immediatamente tutte le {g|Encyclopedia:HitPoints}ferite{/g} (anche se ne ha 0). Gli effetti {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:ProneEffect}a terra{/g} e {g|Encyclopedia:Stun}stordito{/g} vengono rimossi. Le prossime tre {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} costano −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+Fino alla fine del combattimento, gli alleati dell'Overseer ignorano inoltre la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} dei nemici {g|f:5fcfda67ccb14a66a0ff79d2b9ee250c}under surveillance{/g}.
+Le {g|Encyclopedia:MaxWounds}ferite massime{/g} dello sciame di servoteschi sono ridotte di −50%. {g|f:374265cc61d5475898f17ac969795f7c}Reactivate{/g} ora consuma tutti i {g|Encyclopedia:MovementPoints}PM{/g} dell'Overseer.
+
+### u005991
+L'aquila cibernetica recupera immediatamente tutte le {g|Encyclopedia:HitPoints}ferite{/g} (anche se ne ha 0). Gli effetti {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:ProneEffect}a terra{/g} e {g|Encyclopedia:Stun}stordito{/g} vengono rimossi. Le prossime tre {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} costano −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+Fino alla fine del combattimento, gli attacchi del nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g} in direzione dell'aquila cibernetica che {g|Encyclopedia:HitSequenceGlossary}colpiscono{/g} gli alleati di quel nemico infliggono automaticamente {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g}.
+
+### u005992
+Il mastino cibernetico recupera immediatamente tutte le {g|Encyclopedia:HitPoints}ferite{/g} (anche se ne ha 0). Gli effetti {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:ProneEffect}a terra{/g} e {g|Encyclopedia:Stun}stordito{/g} vengono rimossi. Le prossime tre {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} costano −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+Fino alla fine del combattimento, il mastino cibernetico infligge danni aggiuntivi pari a +<u>{uip|Damage|67bed913aca646fca8bef97d7cc0648f}% delle {g|Encyclopedia:MaxWounds}ferite massime{/g} del bersaglio</u>.
+
+### u005993
+Overcharge
+
+### u005994
+Il corvo psibernetico recupera immediatamente tutte le {g|Encyclopedia:HitPoints}ferite{/g} (anche se ne ha 0). Gli effetti {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:ProneEffect}a terra{/g} e {g|Encyclopedia:Stun}stordito{/g} vengono rimossi. Le prossime tre {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} costano −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+Fino alla fine del combattimento, l'Overseer può {g|f:fcf1f3b77e3e4cf7ba2cb960e2e6028e}relay{/g} {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} offensivi attraverso il proprio corvo psibernetico.
+
+### u005995
+Lo sciame di servoteschi recupera immediatamente tutte le {g|Encyclopedia:HitPoints}ferite{/g} (anche se ne ha 0). Gli effetti {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:ProneEffect}a terra{/g} e {g|Encyclopedia:Stun}stordito{/g} vengono rimossi. Le prossime tre {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} costano −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+Fino alla fine del combattimento, gli alleati dell'Overseer ignorano inoltre la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} dei nemici {g|f:5fcfda67ccb14a66a0ff79d2b9ee250c}under surveillance{/g}. Inoltre, gli alleati in un raggio di 4 caselle attorno allo sciame di servoteschi sono immuni ai {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g}.
+
+### u005996
+Ogni volta che il famiglio diventa bersaglio dell'attacco di un nemico, l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} aumenta i propri danni inflitti di +2%. L'effetto si cumula e dura fino alla fine del combattimento.
+
+### u005997
+Overcharge (Upgrade I)
+
+### u005998
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa {g|f:eab4d0bba84f4d1294f5cd64a1b33084}Overcharge{/g}, il suo famiglio ottiene +30 alle proprie {g|Encyclopedia:Characteristic}caratteristiche{/g} chiave per 1 {g|Encyclopedia:Round}round{/g}. Il round successivo il bonus diventa +10 e dura fino alla fine del combattimento.
+
+### u005999
+Overcharge (Upgrade II)
+
+### u006000
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa la propria {g|Encyclopedia:Ability}abilità{/g} {g|Encyclopedia:Career}di archetipo{/g}, l'Overseer e il suo famiglio ottengono +1 di {g|Encyclopedia:Deflection}deviazione{/g} per 1 {g|Encyclopedia:Round}round{/g}. Cumulabile.
+
+### u006001
+Overcharge (Upgrade III)
+
+### u006002
+Ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} usa {g|f:374265cc61d5475898f17ac969795f7c}Reactivate{/g}, il valore di {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g} aumenta di +5 per ogni membro del gruppo ancora in combattimento.
+
+### u006003
+Overcharge (Upgrade IV)
+
+### u006004
+<u>(1 + 2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del Navigatore)</u>
+
+### u006005
+<u>(4 + 2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del Navigatore)</u>
+
+### u006006
+Tutte le creature in un cono davanti al Navigatore subiscono <u>(da {uip|MinDamage|b932b545f5d8460ab562b0003294e775} a {uip|MaxDamage|b932b545f5d8460ab562b0003294e775})</u> {g|Encyclopedia:DamageGlossary}danni{/g}. I bersagli colpiti devono inoltre superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con un {g|Encyclopedia:Bonus}bonus{/g} di +30, altrimenti restano {g|Encyclopedia:Stun}storditi{/g} per 1 turno.
+
+### u006007
+Lidless Stare
+
+### u006008
+I nemici bersaglio dei poteri del Navigatore subiscono una {g|Encyclopedia:Penalty}penalità{/g} a tutte le proprie {g|Encyclopedia:Characteristic}caratteristiche{/g} pari al parametro {g|Encyclopedia:Castigating}castigating{/g} fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} del Navigatore. Questa penalità si cumula e, a ogni accumulo, viene prolungata fino al prossimo turno del Navigatore.
+
+### u006009
+Castigating
+
+### u006010
+Il primo uso di un potere offensivo del Navigatore per {g|Encyclopedia:Turn}turno{/g} non mette il potere in {g|Encyclopedia:Cooldown}tempo di ricarica{/g} e non conta ai fini del limite di attacchi per turno. Il secondo uso di questo potere, o l'uso di un diverso potere offensivo del Navigatore nello stesso turno, infligge {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari al parametro {g|Encyclopedia:Devastating}devastating{/g} a tutti i bersagli e la stessa quantità di {g|Encyclopedia:DirectDamage}danni diretti{/g} al Navigatore.
+
+### u006011
+Devastating
+
+### u006012
+Gli alleati bersaglio dei poteri del Navigatore ottengono {g|Encyclopedia:Bonus}bonus{/g} a tutte le proprie {g|Encyclopedia:Characteristic}caratteristiche{/g} pari al parametro {g|Encyclopedia:Infusing}infusing{/g} fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} del Navigatore. Questo bonus si cumula e, a ogni accumulo, viene prolungato fino al prossimo turno del Navigatore.
+
+### u006013
+Infusing
+
+### u006014
+La biomanzia si concentra sulla manipolazione della carne viva e dei processi biologici. I biomanti possono curare le {g|Encyclopedia:HitPoints}ferite{/g} e alterare le {g|Encyclopedia:Characteristic}caratteristiche{/g} fisiche.
+
+### u006015
+Biomancy
+
+### u006016
+<u>(5 + 3 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u006017
+<u>(3 + 2 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u006018
+Fino alla fine del combattimento, tutti i bersagli nell'area subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|StatPenalty|0fd6606266b245d19127ff2bf44e0d52} a {g|Encyclopedia:WarhammerStrength}Strength{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g} e un aumento del +{uip|DamageBonus|0fd6606266b245d19127ff2bf44e0d52}% a tutti i {g|Encyclopedia:DamageGlossary}danni{/g} subiti.
+
+### u006019
+Enfeeble
+
+### u006020
+<u>(2 × {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u006021
+Ripristina {uip|Heal|f51d5d8fdc8e49c4828c0180868e0be9} {g|Encyclopedia:HitPoints}ferite{/g} al bersaglio. Se questa abilità porta il bersaglio alle ferite massime, il potere rimuove inoltre dal bersaglio tutti gli effetti {g|Encyclopedia:Stun}stordito{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:FatiguedEffect}affaticato{/g}, {g|Encyclopedia:BlindedEffect}accecato{/g}, {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:StaggeredEffect}barcollante{/g} e {g|Encyclopedia:Injury}lesione recente{/g}.
+
+### u006022
+Invigorate
+
+### u006023
+<u>(10 + 4 × {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker)</u>
+
+### u006024
+Il bersaglio ottiene +{uip|StatBonus|d4d5ca2a8f2d42ad82029a102ca0504a} {g|Encyclopedia:WarhammerStrength}Strength{/g} e {g|Encyclopedia:WarhammerToughness}Toughness{/g} fino alla fine del combattimento.
+
+### u006025
+Iron Arm
+
+### u006026
+<u>{g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker</u>
+
+### u006027
+L'alleato bersaglio ottiene immediatamente un {g|Encyclopedia:ExtraTurn}turno extra{/g} con il doppio dei normali {g|Encyclopedia:MovementPoints}PM{/g} e {uip|ActionPoints|29b7ab2d3e2640f3ad20a5c44c300346} {g|Encyclopedia:ActionPoints}PA{/g}, ma il suo corpo è sottoposto a un forte stress e subisce <u>5% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g}</u> di {g|Encyclopedia:DamageGlossary}danni{/g} al termine di ogni turno fino alla fine del combattimento. Anche ogni azione compiuta dal bersaglio durante questo turno extra attiva questi danni.
+
+### u006028
+Metabolic Overcharge
+
+### u006029
+<u>({g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} / 2)</u>
+
+### u006030
+Fino alla fine del combattimento, il bersaglio recupera +{uip|Heal|1161a6715442449da47157aa60274a42} {g|Encyclopedia:HitPoints}ferite{/g} all'inizio di ogni proprio turno e rimuove un effetto {g|Encyclopedia:ToxinEffect}tossina{/g}, {g|Encyclopedia:Stun}stordito{/g}, {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BlindedEffect}accecato{/g}, {g|Encyclopedia:StaggeredEffect}barcollante{/g} o {g|Encyclopedia:FatiguedEffect}affaticato{/g}. Se il bersaglio ha più effetti, quello rimosso viene scelto a caso.

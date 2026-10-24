@@ -1,0 +1,732 @@
+### u030585
+Tavoletta dati congelata
+
+### u030586
+Prigione di ghiaccio
+
+### u030587
+Struttura segreta di Amsanct
+
+### u030588
+Xenos danneggiato
+
+### u030589
+Blocco di ghiaccio
+
+### u030590
+"Vedo che hai perso la paura. Levati dalla mia vista prima che ordini ai tutori dell'ordine di disperderti con la forza!"
+
+### u030591
+"Voglio sentire i tuoi argomenti. Perché ai lavoratori dovrebbe essere concesso l'accesso agli impianti sacri?"
+
+### u030592
+"Ho preso una decisione. Consentirò l'augmetica."
+
+### u030593
+"Ho preso una decisione. I lavoratori continueranno ad arrangiarsi con le protesi primitive: i doni dell'Omnissiah sono destinati ai soli ufficiali."
+
+### u030594
+"Che cosa ne pensano gli esperti del Settore Bionica?"
+
+### u030595
+"Sarebbe ingiusto concedere l'augmetica a uno e negarla agli altri. Da oggi, i sudditi dei ponti inferiori avranno accesso all'augmetica!"
+
+### u030596
+{n}Il rumoroso corteo, che sa di unguenti sacri e di sudore, tace non appena compari. Quelli in testa alla folla si fanno avanti: uno agita il moncherino fasciato del braccio destro, un altro ti fissa a bocca aperta con l'unico occhio rimasto. Anche gli ufficiali medicae, protetti da una linea di tutori dell'ordine, guardano nella tua direzione.{/n}
+
+### u030597
+"Che l'Omnissiah benedica il saggio giudizio del Rogue Trader." {n}Il Genetor punta su di te i suoi molteplici visori e china il capo. Nessuno dei suoi occhi meccanici degna il Vivisettore nemmeno di uno sguardo.{/n}
+
+### u030598
+"Lord Capitano, voi... siete {mf|venuto|venuta}!" {n}L'uomo con un occhio solo esita e si inchina goffamente.{/n} "Abbiamo una richiesta! Una petizione! Per autorizzare l'{g|Encyclopedia:AugmentationGlossary}augmetica{/g} dei lavoratori di grado inferiore a quello di ufficiale subalterno nel Settore Bionica, data la necessità di aumentare l'efficienza della forza lavoro." {n}Sciorina in un fiotto rapido quelle parole palesemente mandate a memoria, poi aggiunge con stizza:{/n} "Quella feccia non vuole darci braccia e gambe di ferro! Ma noi vogliamo solo lavorare, per il bene vostro e del {g|Encyclopedia:EmperorGlossary}Dio-Imperatore{/g}!"
+
+### u030599
+"Certo, simili privilegi per i ponti inferiori non hanno precedenti. Eppure questa gente è la linfa vitale della nave, Lord Capitano, per quanto in basso si trovi nella gerarchia sociale. Consentire l'augmetica ai ponti inferiori permetterà ai lavoratori di faticare più a lungo e aiuterà i membri anziani dell'equipaggio a conservare la lucidità e a trasmettere la propria esperienza alle generazioni più giovani. Vi consiglio di accogliere la richiesta: non farà che rafforzare il vostro equipaggio!"
+
+### u030600
+"Insisto perché la richiesta sia respinta. L'augmetica è un dono sacro dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g} che richiede un attento controllo e una manutenzione accurata. Le risorse del Settore Bionica sono limitate e, come tali, la nostra attenzione deve concentrarsi sulla cura delle forme di vita essenziali dell'equipaggio. Violare la direttiva stabilita e sperperare il dono delle augmetiche tra gli indegni sarebbe un oltraggio all'Omnissiah, appena tollerato dai Tecnopreti a bordo di questa nave."
+
+### u030601
+{n}I volti della folla si illuminano: alcuni cominciano a pregare con fervore, altri a gridare i loro ringraziamenti. L'uomo con un occhio solo si asciuga il naso e quello con un braccio solo fa il segno dell'Aquila.{/n} "Lunga vita al Rogue Trader {name} von Valancius!" {n}Il grido di gioia viene subito ripreso da decine di altre voci.{/n}
+
+### u030602
+{n}Le tue parole fanno ammutolire la folla. I due storpi che si erano fatti avanti si guardano con aria smarrita, poi iniziano ad arretrare con cautela.{/n}
+
+### u030603
+{n}Il lavoratore con un braccio solo si fa avanti, spingendo da parte l'uomo con un occhio solo.{/n} "Uno dei ragazzi, un soldato del vuoto a cui avevano sfondato il cranio, è tornato ai ponti inferiori dopo le cure non molto tempo fa. Con la sua nuova {d|Encyclopedia:Ch2_FirstChoiceVivisector}testa di metallo{/d} lavora più duro che mai! Se lasciassero montare un po' di ferraglia anche a noi poveracci, lavoreremmo meglio dei sani! Ci spaccheremmo la schiena giorno e notte per il bene della dinastia. Gli ufficiali dicono che non si può, ma voi potete tutto, perfino togliere questo divieto! Siate {mf|misericordioso|misericordiosa}, Lord Capitano!"
+
+### u030604
+{n}Il lavoratore con un braccio solo china il capo e si fa avanti.{/n} "Uno dei ragazzi, un soldato del vuoto a cui avevano sfondato il cranio, è tornato da noi dopo le cure non molto tempo fa. Ha la testa tutta bendata ed è imbottito fino agli occhi di {g|Encyclopedia:Ch2_FirstChoiceAugmentator}stimolanti{/g}. Non riesce a vivere, non riesce a lavorare, delira e basta e spaventa la brava gente. E tutto perché non gli hanno dato gli impianti! Lasciateci almeno montare un po' di ferraglia, o prima o poi diventeremo tutti pazzi con questi stimolanti marci!"
+
+### u030605
+"Mi scuso se sembro in errore, ma credo che stiamo assistendo al risultato diretto della decisione di negare l'augmetica ai comuni lavoratori. A lungo andare, limitare l'uso degli impianti sembra... poco saggio." {n}La voce acuta e risoluta del Vivisettore si sente anche sopra il clamore della folla.{/n}
+
+### u030606
+"La richiesta è inaccettabile. Avevo previsto che potenziare la forma di vita soldato del vuoto oltre la soglia stabilita avrebbe indotto le forme di vita di utilità a sviluppare una percezione distorta del proprio valore individuale, ossia irrazionalmente gonfiata." {n}Il sibilo del vox del {g|Encyclopedia:Genetor}Genetor{/g} si sente appena sopra il brusio della folla.{/n}
+
+### u030607
+{n}Il Vivisettore sospira.{/n} "Ringrazio il Dio-Imperatore ogni giorno per averci mandato {mf|un sovrano tanto misericordioso|una sovrana tanto misericordiosa}." {n}Non si può fare a meno di notare lo sguardo soddisfatto che il Vivisettore rivolge al Genetor.{/n}
+
+### u030608
+"Implorare tregua dal destino scelto per loro fin dalla nascita? Forse dovremmo additare come esempio le sorelle dell'Ordine del Cuore Valoroso. Non permettono nemmeno di attutire il dolore durante la cura delle ferite, per quanto gravi..." {n}Argenta si blocca, come vergognandosi della propria severità.{/n} "Eppure... quel paragone è ingiusto verso i comuni lavoratori. Forse trarrebbero davvero beneficio da un aiuto."
+
+### u030609
+"Un inizio piuttosto classico di ammutinamento." {n}Solomorne sembra annoiato, ma la canna del fucile a pompa appoggiato al suo avambraccio è puntata con noncuranza sull'uomo con un occhio solo.{/n} "Prima vogliono 'aumentare l'efficienza', poi chi non è d'accordo inizia a sparire, e adesso i locali scatenati stanno già impiccando i loro alla trave più vicina."
+
+### u030610
+"Io non faccio richieste, Tecnoprete. Io comando."
+
+### u030611
+"Voi e Martinax non andate d'accordo?"
+
+### u030612
+"Che cosa fa un Genetor Majoris?"
+
+### u030613
+"Che ne pensi della nostra nuova attrezzatura, Ferrenz?"
+
+### u030614
+"Desidero installare un nuovo impianto."
+
+### u030615
+"Ho un'augmetica che non può essere installata sul trono di impianto. Che cosa devo farne?"
+
+### u030616
+"I Tecnopreti dell'Omnissiah possono addirittura lavorare con la carne viva? Credevo che la teneste in disprezzo."
+
+### u030617
+"Come sei arrivato a servire nel Settore Bionica?"
+
+### u030618
+"Ho trovato questa augmetica su un mondo di frontiera. Puoi ripararla?"
+
+### u030619
+"In tal caso, chiederò al tuo collega, il Vivisettore. Di solito è più accomodante di te."
+
+### u030620
+[Lascia che il Tecnoprete distrugga l'augmetica] "Bene. Se le leggi dell'Omnissiah lo esigono..."
+
+### u030621
+"Ci penserò."
+
+### u030622
+[Fulmina il Genetor con lo sguardo] "Non temo il proibito. Lo conosco fin troppo bene."
+
+### u030623
+Hai costretto il Genetor Majoris Ferrenz a riparare l'augmetica eretica.
+
+### u030624
+[Colpisci il Genetor] "Qui la mia volontà è superiore perfino ai precetti dell'Omnissiah. Obbedisci. Subito."
+
+### u030625
+"Perché ti sta tanto a cuore curare la malattia delle macchine del trono?"
+
+### u030626
+"Lavori in tandem con il Vivisettore, non è vero?"
+
+### u030627
+{n}Il Tecnoprete ti fissa con un solo visore. In mezzo a un groviglio di metallo e cavi, il vox-trasmettitore che gli sostituisce la bocca sibila:{/n} "Scansione della forma di vita... Visita registrata. Benvenuto nel Settore Bionica, Lord Capitano. Sarete {mf|ricevuto|ricevuta} dal {g|Encyclopedia:Genetor}Genetor{/g} Majoris Ferrenz." {n}Il {g|Encyclopedia:TechPriest}Tecnoprete{/g} si volta e solo allora ti rendi conto che era in piedi dandoti le spalle: la parte anteriore della sua testa è coperta di visori lampeggianti.{/n}
+
+### u030628
+"Salute. Siete {mf|venuto|venuta} per una correzione di guasti?"
+
+### u030629
+"Scansione... Risposta affermativa. La forma di vita Vivisettore ignora, purtroppo, i sacri requisiti di efficienza al servizio dell'Omnissiah, attribuendoli a esperienze rudimentali."
+
+### u030630
+"Coloro che portano il grado di Genetor impartiscono benedizioni all'installazione, alla consacrazione e alla manutenzione delle augmetiche, avvicinando così i corpi deboli dell'Umanità alla massima efficienza gradita all'Omnissiah."
+
+### u030631
+{n}I visori di Ferrenz si fissano sul tuo volto, come per cogliere il minimo mutamento della tua espressione.{/n} "La minaccia della tecno-eresia supera la probabilità che la forma di vita Vivisettore si impadronisca del Settore Bionica. La conclusione è immutabile: la mia risposta resta invariata, Lord Capitano."
+
+### u030632
+"L'opinione della forma di vita Vivisettore ha il peso maggiore. La richiesta di revisione della catena di comando non è stata accolta."
+
+### u030633
+"La mia volontà reca la sanzione dell'ordine supremo, poiché la configurazione della sua fonte dimostra la massima efficienza ed è benedetta dall'Omnissiah." {n}L'ultima parola del Tecnoprete è accompagnata da un sommesso ma solenne trillo binarico.{/n}
+
+### u030634
+{n}Ferrenz si avvicina in fretta e, da sotto il ponte, estrae un involucro della stessa dimensione e forma dell'augmetica che gli hai dato.{/n} "L'efficienza di questa macchina è stata ripristinata. La registrazione di tecno-eresia all'interno del sistema del Settore Bionica è stata cancellata."
+
+### u030635
+"Salute. Correzione di guasti?" {n}Più della metà dei visori di Ferrenz è stata rimossa a causa dell'ingombrante impianto neurale saldato nella sua testa. Quelli rimasti si accendono al tuo apparire con lentezza e svogliatezza.{/n}
+
+### u030636
+"Salute, Lord Capitano. Siete {mf|venuto|venuta} per una correzione di guasti?" {n}Senza le sue consuete mecadendrite, la figura ricurva del Genetor appare stranamente scarna.{/n}
+
+### u030637
+"Richiesta registrata e respinta. L'azione 'andare d'accordo' non è un requisito della gerarchia interna del Settore Bionica."
+
+### u030638
+"Scansione... Risposta negativa. Il Vivisettore Martinax ha ripristinato l'efficienza di questo servitore dell'Omnissiah, nonostante il danno fosse incompatibile con il lavoro. La capacità di creare funzionalità a partire da entità non funzionanti è un talento supremo, molto apprezzato dal Sacerdozio di Marte e da me medesimo."
+
+### u030639
+"Le funzioni primarie della forma di vita Genetor erano state compromesse in modo fatale. Ma la forma di vita Vivisettore è riuscita a sostituire in tempo i meccanismi danneggiati con un impianto corticale. La funzionalità è stata ripristinata." {n}Ferrenz tace per qualche secondo, poi aggiunge con indifferenza,{/n} "I visori ausiliari sono stati danneggiati e rimossi. L'efficienza della scansione diagnostica è diminuita del 30 per cento."
+
+### u030640
+"La professionalità della forma di vita Vivisettore mi ha permesso di recuperare la massima efficienza raggiungibile. Un profano direbbe che Martinax mi ha riportato in vita. Purtroppo non è riuscito a salvare il mio impianto vertebrale." {n}Il Genetor emette un lamentoso segnale binarico.{/n}
+
+### u030641
+{n}Dal vox giunge un breve trillo di commiato. Il Genetor si volta, ma il visore sulla nuca continua a osservarti.{/n}
+
+### u030642
+"Questa affermazione è falsa. Il sacro impianto installato in questa forma di vita non supporta interazioni sociali complesse."
+
+### u030643
+"I sacri precetti dell'Omnissiah non mi permettono di trattare la tecno-eresia."
+
+### u030644
+"Scansione riuscita, richiesta approvata. L'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g} benedirà la rimozione delle fragilità organiche."
+
+### u030645
+"Vi prego di registrare la mia gratitudine per aver risparmiato al sacro impianto corticale l'installazione in una forma di vita a bassa efficienza. Che l'Omnissiah benedica la vostra prudenza."
+
+### u030646
+"Scansione... Richiesta respinta. Le tecnologie sconosciute non rientrano tra i doni dell'Omnissiah, non sono soggette a ripristino e devono essere smaltite immediatamente."
+
+### u030647
+{n}Un rantolo soffocato proviene da qualche punto all'interno del Tecnoprete, come se le augmetiche del suo corpo fossero entrate in una sorta di conflitto.{/n} "Inefficiente! La forma di vita Vivisettore non possiede la competenza necessaria!" {n}I visori di Ferrenz scrutano rapidi l'area intorno a lui, poi il Genetor quasi ti strappa di mano la strana augmetica.{/n} "La tecnologia sarà portata alla massima efficienza raggiungibile."
+
+### u030648
+{n}Il prezioso ritrovamento scompare tra le pieghe della veste cremisi del Tecnoprete, come se Ferrenz temesse che qualcuno possa scorgere l'oggetto che stringe tra le mani.{/n}
+
+### u030649
+"Non dimenticate di distruggere la tecno-eresia prima di lasciare il compartimento." {n}Ogni visore di Ferrenz è fisso, senza vacillare, sulla misteriosa tecnologia che tieni in mano.{/n}
+
+### u030650
+{n}Ferrenz si accascia sotto il {d|Encyclopedia:CharGen_DH_Signs}peso schiacciante del tuo sguardo{/d}. Distogliendo gli occhi con evidente fatica, il Genetor scuote la testa in modo convulso, come per scacciare una visione ossessiva. Quando riprende a parlare, la sua voce suona stranamente umile.{/n} "Come comandate, Lord Capitano." {n}Il Tecnoprete accetta l'augmetica con mani tremanti.{/n} "La tecnologia sarà affinata fino alla massima efficienza possibile."
+
+### u030651
+"La carne è debole. Ma la sua efficienza può essere migliorata con il metallo benedetto. Secondo le direttive dell'Omnissiah, le forme di vita cardine, come i meccanismi cardine, devono sopportare il massimo sforzo e produrre i risultati migliori: il mio dovere consiste nel perfezionarle."
+
+### u030652
+"Ho massimizzato l'efficienza delle forme di vita al servizio nel sacro manufactorum di Kiava Gamma. Per benedizione dell'Omnissiah, sono asceso al grado di Genetor e sono stato assegnato a questa nave ammiraglia. La mia competenza nell'installazione delle augmetiche è stata giudicata eccezionale dal precedente {g|Encyclopedia:RogueTraderGlossary}Rogue Trader{/g}."
+
+### u030653
+{n}Il colpo fa vacillare Ferrenz. I suoi visori si rimettono a fuoco in modo caotico, come sopraffatti da flussi di dati contrastanti. Per qualche istante il Genetor resta immobile. Poi china lentamente il capo.{/n} "Come comandate, Lord Capitano." {n}Le sue mani tremanti si protendono verso l'augmetica.{/n} "Che l'Omnissiah mi perdoni per questa imminente violazione dei sacri riti della macchina."
+
+### u030654
+{n}Profonde note di basso cariche di autentica reverenza rombano nel sibilo di Ferrenz.{/n} "Mi sento incline a concludere che la macchina di augmentazione archeotech ospiti uno spirito che benedice tutto ciò che la circonda con la grazia dell'Omnissiah." {n}Il Genetor fa scorrere una mecadendrite nello spazio intorno a sé.{/n} "I suoi nodi e i suoi pistoni sono colmi della saggezza del Dio-Macchina, insondabile per gli umili adepti, e se l'entropia consumerà del tutto lo spirito, tale saggezza andrà perduta."
+
+### u030655
+"Il Settore Bionica esegue la riparazione e l'installazione delle sacre augmetiche per coloro che dimostrano il servizio più efficiente alla nave."
+
+### u030656
+"Finché il corpo della macchina resta in disfunzione, il suo spirito soffre per l'inattività. La Forza Motrice non può nutrirlo e le sue lenti restano cieche. Litanie e rituali impediscono che una creazione così antica dell'Omnissiah svanisca del tutto, ma sono solo misure palliative. E se lo spirito abbandona il suo ricettacolo, il Settore Bionica cadrà in rovina, poiché questa reliquia svolge la stessa funzione che il cuore svolge nelle forme di vita umane."
+
+### u030657
+"Con la massima priorità, notifico al Lord Capitano che la sacra archeotech è ancora in stato agonico a causa delle azioni malevole dei ribelli. La funzionalità del Settore Bionica è limitata. La forma di vita 'Genetor Majoris Ferrenz' attende umilmente il vostro aiuto per purificare il meccanismo del reliquiario."
+
+### u030658
+"Ritengo accurati i risultati della vostra scansione. Il Vivisettore svolge le funzioni di preparazione del portatore all'installazione della configurazione di massima efficienza."
+
+### u030659
+"Se migliora l'efficienza della nostra interazione."
+
+### u030660
+"Scansione... L'analisi mostra che la sacra macchina del trono di impianto è priva delle litanie binariche necessarie a gestire il grado più alto di augmetiche. Per aumentarne le prestazioni, è necessario recuperare le litanie conservate sul dispositivo madre: Altar-Templum-Calixis-Ext-17."
+
+### u030661
+"Data la vostra incapacità di eseguire una scansione... risponderò a un insieme limitato di quesiti."
+
+### u030662
+{n}Il sibilo secco che di norma proviene dal vox del Genetor si fa all'improvviso più acuto: {/n} "Registro un incremento senza precedenti dell'efficienza funzionale degli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g}! Fiumi di unguenti sacri lavano la loro carne di ferro e i meccanismi cantano le lodi dell'Omnissiah! Sia benedetta la decisione che ha condotto a questo miracolo di rinascita!"
+
+### u030663
+"L'efficacia di questa azione sarebbe nulla. L'ammutinamento a bordo della nave del vuoto ha seminato confusione e malessere nello {g|Encyclopedia:MachineSpirit}spirito macchina{/g} del trono di impianto. Se la sacra tecnologia si ribellasse durante l'operazione, potrebbe danneggiare le vostre augmetiche. Al momento il trono di impianto funziona solo per le ispezioni."
+
+### u030664
+"Dove hai trovato, di grazia, questo vecchio?"
+
+### u030665
+Hai permesso al Genetor di prendere l'augmetica unica al lavoratore veterano.
+
+### u030666
+"Rimuovi l'augmetica. Una macchina sacra deve essere messa a buon uso, non impiegata come stampella."
+
+### u030667
+Hai ordinato che l'augmetica unica fosse lasciata al lavoratore veterano.
+
+### u030668
+"Lascia in pace il vecchio. Che trascorra in tranquillità i suoi ultimi anni."
+
+### u030669
+"La sua augmetica è davvero così preziosa?"
+
+### u030670
+"Risolvetevela tra voi. E se mi interrompete di nuovo per simili sciocchezze, vi farò appendere entrambi per i pollici all'ingresso del Settore Bionica. Chiaro?"
+
+### u030671
+"Quali sono i vostri pareri di esperti?"
+
+### u030672
+Hai preso l'augmetica unica al lavoratore veterano.
+
+### u030673
+"Le urla mi stanno logorando. Liberati dell'attaccabrighe, fagli strappare l'impianto e portalo al mio trono. Le cose migliori di questa nave sono solo mie."
+
+### u030674
+{n}I tipici rumori dell'infermeria sono troncati da un urlo che gela le ossa. Proviene da un vecchio, balzato giù dal letto, che ora lo usa come barricata contro gli ufficiali medicae. È mezzo svestito e dai suoi polsi pendono i resti delle cinghie di contenzione. Dai piedi fino al fianco, le gambe del vecchio sono state sostituite con {g|Encyclopedia:AugmentationGlossary}augmetiche{/g} di alta qualità.{/n}
+
+### u030675
+"No! Non toccate le mie gambe! È tutto ciò che mi resta!"
+
+### u030676
+"Richiesta: cessare il tentativo di sabotaggio dell'operazione! Il protocollo stabilisce che le augmetiche vadano rimosse dalle forme di vita inefficienti!" {n}Il {g|Encyclopedia:TechPriest}Tecnoprete{/g} tenta di raggiungere il paziente, ma il vecchio sfugge alla sua presa con una svelta inattesa.{/n}
+
+### u030677
+"Il paziente ha interrotto la procedura di rimozione dell'augmetica e si oppone ai protocolli di trattamento accettati."
+
+### u030678
+{n}Lo sguardo frenetico del vecchio si aggrappa a te ed egli comincia a gemere pietosamente:{/n} "Lord Capitano, vi prego, aiutatemi! Queste bestie vogliono tagliarmi le gambe! Ero capocannoniere su un macrocannone. Ho perso le gambe da giovane: è stato solo grazie al mio impianto che ho potuto compiere il mio dovere, guidando le squadre di scaricatori! E ora dicono che è finita, che devo restituire le gambe, ma come faccio a restituirle? Macellai!"
+
+### u030679
+"La vita utile di questa forma di vita è scaduta da tempo, ma l'augmetica installata è di rara qualità: sarà funzionante per centinaia di cicli a venire. L'efficienza della macchina sacra è gravemente compromessa dalla parte biologica scadente." {n}I visori del Genetor sono puntati inequivocabilmente sulla figura scheletrica del vecchio.{/n} "I principi del servizio di massima efficienza richiedono l'immediata sostituzione del portatore dell'augmetica."
+
+### u030680
+{n}Udendoti, il vecchio sembra perdere ogni volontà di resistere. Un attimo prima era pronto a combattere, ma ora si accascia sul letto senza forze e gli strumenti chirurgici gli vengono conficcati nel corpo. Nonostante il dolore, l'uomo non urla più, ma fissa il soffitto con occhi lucidi.{/n}
+
+### u030681
+"Questa forma di vita potenziata è arrivata a bordo con il resto dei rifornimenti da Rykad Minoris e da allora ha dimorato nei locali dei cannoni della nave. Uno dei servitori del Dio-Macchina ha notato l'incongruenza di un'augmetica sacra ad alte prestazioni indossata da una simile forma di vita, e l'ha fatto portare qui."
+
+### u030682
+"Le sacre macchine di augmentazione sono benedette di per sé," {n}brontola il {g|Encyclopedia:Genetor}Genetor{/g} con gelosia.{/n} "Ma questo particolare set è un po' più raro degli altri. Con le dovute cure, può aumentare enormemente la velocità di un ricevente di alta qualità."
+
+### u030683
+"Discutere di una questione tanto insignificante..." {n}Marazhai inarca un sopracciglio.{/n} "Sarebbe più semplice e più rapido se, invece di litigare, lasciaste che il proprietario dell'impianto faccia valere il suo diritto in combattimento contro lo sfidante."
+
+### u030684
+"Vi chiedo scusa, Lord Capitano! Il Genetor Ferrenz e io faremo in modo di non disturbarvi più." {n}Martinax si inchina profondamente davanti a te, piegandosi in due fino a toccare il pavimento, e Ferrenz lo imita, abbassando il corpo quanto glielo consentono le mecadendrite sulla schiena.{/n}
+
+### u030685
+"Vi ringrazio per il tempestivo intervento, Lord Capitano. Avvio la procedura."
+
+### u030686
+"D-{g|Encyclopedia:EmperorGlossary}Dio-Imperatore{/g} vi protegga!" {n}Il vecchio sospira di sollievo.{/n}
+
+### u030687
+"Vi ringrazio per aver fatto ragionare il mio collega, Lord Capitano. Rimanderemo quest'uomo dove i Tecnopreti lo hanno trovato e recupereremo l'augmetica a tempo debito."
+
+### u030688
+"Lascialo stare, Ferrenz. Che il poveretto viva la sua vita con la sua augmetica. Potrai sempre tagliargliela dopo la sua morte."
+
+### u030689
+"Vi ringrazio per il tempestivo intervento, Lord Capitano." {n}Il Genetor punta i visori su di te.{/n} "La classe di efficienza del portatore dell'augmetica aumenterà in modo esponenziale."
+
+### u030690
+"A quest'uomo non resta molto da vivere: lasciate che percorra da solo, con le sue gambe, l'ultimo tratto. È improbabile che sopravviva alla procedura di rimozione dell'augmetica." {n}Il Vivisettore lancia al paziente uno sguardo compassionevole.{/n}
+
+### u030691
+"Non c'è da stupirsi, Ferrenz. Stai cercando di tagliare le gambe a un poveretto."
+
+### u030692
+"Perché questa macchina è così importante?"
+
+### u030693
+"Come sono state danneggiate le reliquie?"
+
+### u030694
+"Quali sacramenti può compiere il trono?"
+
+### u030695
+"E come salviamo il trono?"
+
+### u030696
+"Danrok, conto sulle tue conoscenze."
+
+### u030697
+"In tal caso, il tempo è essenziale."
+
+### u030698
+"Dubito che questo rottame possa essere riparato, ma dato che è così importante..."
+
+### u030699
+{n}Il trono di impianto è maestoso nella sua antichità. Il banco di metallo, circondato da innumerevoli iniettori, manipolatori e schermi video, non lascia dubbi sulla propria funzione. La natura stessa di questa macchina è concepita per trasformare i corpi viventi fondendoli con il ferro benedetto. Anche a occhio nudo è chiaro che la macchina è malata, e gravemente. I tubi segmentati dei manipolatori penzolano flosci, sanguinando unguento, mentre i lumen impolverati sono illuminati appena. Mentre i Tecnopreti cercano di far rivivere la reliquia, ogni oscillazione del loro incensiere è come il pendolo che scandisce i momenti che mancano alla prematura fine del trono.{/n}
+
+### u030700
+{n}La Tecnoprete estende lentamente le mecadendrite, intrecciandole in un intricato gesto di saluto.{/n} "Lord Capitano. Il benedetto spirito macchina che dimora nel trono si sta spegnendo. Io e molti Tecnopreti afflitti abbiamo compiuto senza sosta sacramenti di tecno-guarigione e preghiere di benedizione operativa su questo santuario, ma perfino la nostra devozione non fa che rimandare l'inevitabile."
+
+### u030701
+"Solo un servitore del Dio-Macchina dotato dell'alto grado di Genetor Extremis, esperto in tutti i rituali necessari e dotto nelle correnti mistiche della Forza Motrice, può compiere i sacramenti riparatori e rianimare questo meccanismo. L'unico luogo in cui si possa trovare un simile servitore è la stazione claustrale di Altar-Templum-Calixis-Ext-17."
+
+### u030702
+"Per quanto ne so, il chiostro a cui si riferisce la Signora Tallar si trova nel Sistema Furibundus. I suoi abitanti non sono ben disposti a comunicare con i laici, ma sono pronto a far leva su ogni legame diplomatico in mio possesso per ottenere un'udienza con il clero della stazione."
+
+### u030703
+{n}Dalla griglia vox della Maestra dei Motori esce una squillante frase binarica che interpreti come un ringraziamento. Lei china di nuovo il capo con rispetto.{/n}
+
+### u030704
+{n}Dalla griglia vox della Maestra dei Motori esce un'aria binarica di ringraziamento.{/n}
+
+### u030705
+{n}L'Alto Factotum si aggiusta il monocolo con aria soddisfatta.{/n} "Vi ringrazio per il vostro favore, Vostra Signoria. Prima che lasciate il Settore Bionica, vorrei presentarvi anche il Genetor Majoris Ferrenz e il Vivisettore Jaze Martinax. Stanno eseguendo una procedura urgente e non hanno quindi potuto presenziare di persona all'ispezione, ma sono certo che considereranno la visita del Rogue Trader un grande onore. Se volete seguirmi."
+
+### u030706
+"È unico. Il solo esemplare esistente." {n}Gli impianti ottici della Tecnoprete lampeggiano e nella sua voce si insinua un fervore sorprendente.{/n} "Negli Annali Logis dell'Adeptus Mechanicus, questo trono è identificato come un santuario capace di rituali di augmentazione autonomi. La sua perdita è inaccettabile e qualunque indulgenza al riguardo è sacrilegio."
+
+### u030707
+{n}L'Alto Factotum si schiarisce la gola e fa una smorfia.{/n} "Durante la rivolta istigata dal Maestro dei Sussurri ribelle, il Settore Bionica fu posto sotto assedio. I Genetor e gli ufficiali medicae difesero con eroismo il trono, ma alla fine i ribelli riuscirono a sfondare. La maggior parte dei difensori cadde in battaglia e molte macchine andarono perdute o danneggiate. Molte si sono potute ripristinare, ma il trono ha subito danni particolarmente gravi."
+
+### u030708
+"Il santuario è in grado di curare autonomamente la carne e di benedirla con le augmetiche sotto la supervisione di un Genetor esperto. Le procedure complesse possono essere eseguite con una velocità e una precisione inimmaginabili, e gli stimolanti somministrati nelle proporzioni e nelle combinazioni richieste. È un vero miracolo dell'Omnissiah!"
+
+### u030709
+"Vostra Signoria, vi ringraziamo per aver onorato il Settore Bionica con la vostra presenza. Conoscete già la Maestra dei Motori Zi-Ra Tallar: è lei che si è presa cura dell'antica reliquia. È qui per illustrarvi la miseria della nostra attuale situazione."
+
+### u030710
+"Questo trono è una creazione dell'Omnissiah risalente a secoli fa. Già prima dell'empia profanazione della reliquia, riuscivamo a stento a propiziare il suo antico spirito macchina perché compisse le sacre procedure di augmentazione: molte litanie e protocolli operativi non sono sopravvissuti al passare delle epoche. Ora, con la scomparsa dei custodi del trono di impianto durante l'ammutinamento, sono andati perduti per sempre. Questa sacra macchina deve essere salvata a ogni costo."
+
+### u030711
+"Inoltre, solo il Rogue Trader o le persone da lui autorizzate possono usarlo. È un investimento inestimabile nella vostra longevità e... nella vostra integrità fisica."
+
+### u030712
+"Pasqal, di che cosa parla questa preghiera?"
+
+### u030713
+"Vigdis, puoi tradurmi questo... discorso... per favore?"
+
+### u030714
+"Considerate questo il mio ringraziamento per il vostro onesto servizio."
+
+### u030715
+"Dovreste ringraziare gli ufficiali medicae del Settore Bionica, non me."
+
+### u030716
+"Suppongo di essermelo meritato."
+
+### u030717
+"Genetor Ferrenz, ci sei anche tu! Come vanno le cose nel Settore Bionica?"
+
+### u030718
+"Come sta il Vivisettore Martinax?"
+
+### u030719
+"Gratitudine accettata. Potete andare."
+
+### u030720
+"Ho faccende più urgenti di cui occuparmi. Portate tutti fuori dal mio ponte di comando e rimandateli ai loro compiti diretti."
+
+### u030721
+{n}La processione di {g|Encyclopedia:TechPriest}Tecnopreti{/g} e ufficiali potenziati si ferma a una dozzina di passi dal tuo trono. Una Tecnoprete, la cui veste porta i segni di un'alta distinzione, si fa avanti e la riconosci all'istante: è la Maestra dei Motori della nave. La sua voce distorta dal vox risuona solenne per tutto il ponte.{/n}
+
+### u030722
+"Che l'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g} benedica il Lord Capitano per questa udienza concessa! Questa tecno-processione è venuta a recitare i cantici di gratitudine. Cantiamo la premura del Lord Capitano verso coloro che hanno rinunciato alla carne al servizio dello spirito macchina! Le voci del metallo canteranno le lodi della vostra pietà per tutti i ponti della nave. Concedeteci di passare alla sacra {g|Encyclopedia:LinguaTechnis}Techna-Lingua{/g}, che trasmetterà la nostra ammirazione con maggior precisione delle parole, che sono limitate." {n}Trilli binarici risuonano per il ponte, fondendosi con il ronzio dei {g|Encyclopedia:Cogitator}cogitatori{/g}.{/n}
+
+### u030723
+"È una cerimonia di gratitudine per un laico che, per caso o per intuito, ha contribuito a purgare le fragilità della carne."
+
+### u030724
+"I venerabili Tecnopreti stanno celebrando una cerimonia di lode suprema per il laico che ha intuito la via dello {g|Encyclopedia:MachineSpirit}spirito macchina{/g}. I portatori di {g|Encyclopedia:AugmentationGlossary}augmetiche{/g} vi sono grati per le vostre decisioni razionali sull'uso della carne di ferro. Hanno... persino inserito il vostro nome nella loro Techna-Lingua. Per quanto ne so, il sacerdozio cremisi concede di rado un simile onore a qualcuno."
+
+### u030725
+"Vorrei far notare che condivido i loro sentimenti. Vi ringrazio per la vostra diligente attenzione alla manutenzione delle augmetiche per gli ufficiali superiori e per la mia famiglia in persona. Le macchine sostituiscono la nostra carne nel nome del nostro servizio alla dinastia, e la vostra considerazione per noi ha un valore incomparabile."
+
+### u030726
+"Come un motore genera movimento nei sacri nodi meccanici, così le vostre istruzioni guidano i servitori del Settore Bionica. Gli ufficiali medicae condividono la nostra gratitudine. Sappiate che, se la carne fragile dovesse tradirvi, la spalla di ferro dei Tecnopreti della nave sarà qui perché possiate appoggiarvici."
+
+### u030727
+"Il Settore Bionica è di nuovo pienamente operativo e sotto la mia supervisione. Le augmetiche vengono installate in stretta conformità con i protocolli di rango, consentendo un'efficienza senza precedenti tra gli ufficiali superiori. L'Omnissiah ci benedice."
+
+### u030728
+{n}I membri della processione si inchinano davanti a te, inviando verso di te inebrianti vapori di unguenti per macchine. Dall'alto sembrano un lago increspato di arti metallici e {g|Encyclopedia:Mechadendrite}mecadendrite{/g}. In fondo alla processione noti le figure familiari degli ufficiali medicae.{/n}
+
+### u030729
+{n}Il {g|Encyclopedia:Genetor}Genetor{/g} si sporge leggermente in avanti. La moltitudine di visori nascosti sotto il cappuccio si muove in modo asincrono e distratto. La sua voce ha un timbro metallico e stridulo: il bordo del vox incorporato nel corpo del Tecnoprete è stato fuso da una {d|Encyclopedia:Ch4_AugmentatorWounded}ferita recente{/d}.{/n}
+
+### u030730
+"Le funzioni vitali della forma di vita Martinax sono state ripristinate con un sacro impianto neurale di alto grado. Grazie alle vostre tempestive direttive, l'attrezzatura necessaria è stata trovata in un deposito del Settore Bionica. Anche la forma di vita Martinax desidera ringraziarvi."
+
+### u030731
+{n}Il {g|Encyclopedia:Genetor}Genetor{/g} si fa leggermente avanti. La moltitudine di visori nascosti sotto il cappuccio si muove quasi in silenzio, scrutando nello stesso tempo il ponte e te.{/n}
+
+### u030732
+"Ho assunto la gestione del settore, ma mi sforzo di attenermi alla saggezza che l'Adeptus Mechanicus ci ha trasmesso. Le sacre augmetiche vengono installate in stretta conformità con lo stato del paziente e con l'efficienza." {n}Martinax rabbrividisce e aggiunge a bassa voce,{/n} "Somiglio parecchio al Genetor Ferrenz, vero?"
+
+### u030733
+"È stata una delle procedure più complesse che abbia mai eseguito! Abbiamo sostituito la maggior parte delle sue augmetiche della testa, ma solo grazie alla conoscenza del sacerdozio cremisi si è trovato nei depositi del Settore Bionica un impianto neurale in grado di sostituire le parti danneggiate del cervello. Lo tenevano in magazzino da sempre, negandolo ai laici, e a buon motivo, come si è visto. Non è così, Ferrenz?"
+
+### u030734
+"Richiesta accettata. Il Settore Bionica è di nuovo pienamente operativo e sotto la supervisione di questa forma di vita. Le augmetiche vengono installate in conformità con i protocolli approvati."
+
+### u030735
+{n}La figura accanto a te è a stento riconoscibile come l'ex Vivisettore: spettrale, pallida e quasi interamente avvolta di bende. Ondeggia sulle gambe, ma china con zelo il capo davanti a te.{/n}
+
+### u030736
+"La forma di vita non ha ancora recuperato la piena funzionalità. Potrete comunicare con lui più tardi nel Settore Bionica." {n}Ferrenz si sposta di lato, sostenendo con destrezza Martinax, che rischia di crollare.{/n}
+
+### u030737
+"La speciale attenzione del Lord Capitano alla sacra distribuzione delle benedette tecnologie di augmentazione è stata registrata. Questo è stato conservato per voi grazie a oculate decisioni di installazione." {n}Un elegante impianto spunta da sotto la veste cremisi del Genetor.{/n} "Lo stato della forma di vita Lord Capitano permetterà a questa tecnologia di servirvi con la massima efficienza."
+
+### u030738
+"Che l'Omnissiah ci guidi lungo il sentiero della vera funzione." {n}La Maestra dei Motori si volta e impartisce un breve comando binarico.{/n}
+
+### u030739
+"Ho questioni più importanti da sbrigare che accettare la gratitudine della plebaglia. Toglieteli di mezzo subito."
+
+### u030740
+"È questa l'intera processione? Pensavo ce ne sarebbero stati di più."
+
+### u030741
+"Vivisettore Martinax! Come vanno le cose nel Settore Bionica?"
+
+### u030742
+"Come sta il Genetor Ferrenz?"
+
+### u030743
+"Che ne è stato della donna che ti ha aggredito?"
+
+### u030744
+{n}Sotto lo sguardo stupefatto dei tuoi ufficiali superiori, la processione potenziata attraversa tutto il ponte e si ferma a una dozzina di passi dal tuo trono. La processione è stretta su ogni lato dai tutori dell'ordine, ma ciò non impedisce alla gente di gridare benedizioni in tuo onore. La maggior parte del corteo è composta da ufficiali di basso rango e da abitanti dei ponti inferiori, i volti segnati da cicatrici accesi di una devozione sincera. Un uomo bendato, di età incerta e con segni di distinzione sul petto, si fa avanti.{/n}
+
+### u030745
+{n}I tutori dell'ordine si fanno avanti, sbarrando la processione e separandola dal tuo trono. Senza interrompere le loro grida e le preghiere di lode, la processione si volta e si avvia a lasciare il ponte.{/n}
+
+### u030746
+"Questa è solo una piccola parte della processione, Lord Capitano. La Maestra d'Armi ha selezionato e vagliato di persona i più stabili e affidabili. Lasciar salire sul ponte di comando l'intero corteo proveniente dagli altri ponti sarebbe impossibile, o quanto meno molto poco sicuro."
+
+### u030747
+"Eccellente, Lord Capitano!" {n}L'uomo alza lo sguardo e vedi l'impianto placcato d'oro che sostituisce l'{d|Encyclopedia:Ch4_VivisectorWounded}orecchio che gli era stato staccato da un colpo{/d}.{/n}
+
+### u030748
+{n}Uno dopo l'altro, ogni volto, sfigurato da un destino gravoso, si distende. Il capo della processione alza un braccio di metallo sopra la testa, e con lui tutti quelli che possono farlo, finché un mare di protesi è levato in alto.{/n}
+
+### u030749
+"Ai membri comuni dell'equipaggio venivano date protesi di rado, prima! Una sega e una preghiera al Dio-Imperatore: erano queste le nostre due cure principali. Ma le cose sono cambiate sotto il vostro nobile governo, e la gente del Settore Bionica è d'accordo con noi!"
+
+### u030750
+{n}I membri della variopinta processione si inchinano profondamente. Tra di loro vedi le figure familiari degli esperti del Settore Bionica.{/n}
+
+### u030751
+"Ha bisogno di qualche altra procedura di cura... ma si riprenderà del tutto in men che non si dica! Potrete parlargli più tardi nel Settore Bionica." {n}Martinax mantiene una presa delicata sulla spalla del collega, come se temesse che crolli.{/n}
+
+### u030752
+"Abbiamo separato in tempo dal corpo l'impianto vertebrale danneggiato e le mecadendrite adiacenti, ma solo il Dio-Imperatore ha tenuto in vita Ferrenz. Può sembrare sorprendente, ma anche i Tecnopreti hanno bisogno di sangue, e il Genetor ne richiedeva di un tipo speciale. Ho diffuso la richiesta sul sistema vox della nave e la gente dei ponti inferiori ha risposto al mio appello: sono quelli che oggi vi ringraziano. È stata la loro prontezza a servire l'Umanità a salvare Ferrenz. Lui stesso è venuto qui a tributarvi le sue lodi."
+
+### u030753
+"Vorrei far notare che, grazie alla vostra fedeltà ai vostri princìpi, gli esperti del Settore Bionica hanno potuto perfezionare il processo di installazione degli impianti di base. Le operazioni ora si concludono nel più breve tempo e senza dover consumare scorte di anestetici: perciò vi chiedo di accettare qualcosa che faccia in modo che il surplus risultante trovi invece un buon impiego nelle battaglie che affrontate."
+
+### u030754
+"Le funzioni della forma di vita 'Martinax' sono state ripristinate. La grave perdita di sangue è stata rapidamente compensata dalla moltitudine di forme di vita di rango inferiore dei ponti inferiori che si sono presentate per un urgente salasso. Supposizione: la plebaglia l'ha fatto per lealtà verso quel particolare ufficiale medicae. Anche la forma di vita 'Martinax' desidera ringraziarvi."
+
+### u030755
+"Siamo venuti a inchinarci davanti a voi, Lord Capitano, per mostrarvi la nostra gratitudine per la vostra premura {mf|paterna|materna} verso ciascuno di noi! Ora anche l'ultimo degli storpi sa di poter servire il {g|Encyclopedia:EmperorGlossary}Dio-Imperatore{/g} con una protesi dignitosa. Questo rafforza la nostra fede e sprona il nostro lavoro come mai prima. Grazie." {n}L'uomo cerca chiaramente di mantenere il suo stile di eloquio elevato, ma alla fine inciampa e si limita a inchinarsi.{/n} "La luce della vostra clemenza guida alla rettitudine anche i più disperati."
+
+### u030756
+{n}Le file di persone radunate ti guardano tutte e si fanno il segno dell'Aquila sul petto. Alcuni lo tracciano goffamente perché non hanno mani: sono state sostituite da rozzi uncini di metallo.{/n}
+
+### u030757
+"Serenada Schwartz? Be'... Dopo la grazia, è stata lei stessa a chiedere di essere servitorizzata e inviata nel Settore Bionica, per poter espiare il suo crimine attraverso il servizio." {n}Il Vivisettore serra le labbra, gli occhi che per un attimo si induriscono.{/n} "Ho ritenuto giusto che il servitore medicae risultante fosse assegnato alla scrivania di Ferrenz."
+
+### u030758
+"Semplicemente eccellente, Lord Capitano!" {n}L'ufficiale medicae sembra stanco, ma immensamente soddisfatto. Noti le insegne appena aggiunte alla sua uniforme.{/n}
+
+### u030759
+"Sovrintendo al Settore Bionica nel rispetto di tutti i patti dell'Imperatore. E dei vostri ordini, naturalmente. Ormai nessuna ferita sarà d'ostacolo a un servitore del Dio-Imperatore nell'adempiere al proprio dovere: abbiamo dato nuova vita a tutti coloro che altri avrebbero scartato come rottami."
+
+### u030760
+{n}La figura sgraziata accanto al Vivisettore è a stento riconoscibile come il Genetor Ferrenz. Avvolto in bende e in un mosaico di sigilli di purezza, appare inaspettatamente fragile per un Tecnoprete che ha rinunciato alla carne. Ondeggiando e scricchiolando da qualche parte all'interno, il Genetor ti rivolge un inchino.{/n}
+
+### u030761
+"Badare alle necessità di un mutilato è un lavoro tedioso e indegno dell'attenzione del Rogue Trader. Fate il vostro dovere come credete."
+
+### u030762
+[Esamina il paziente]
+
+### u030763
+[Osserva i due al lavoro]
+
+### u030764
+[Sorridi al paziente]
+
+### u030765
+"C'è qualcosa che posso fare per aiutare?"
+
+### u030766
+"Ma tutto questo accadeva prima che diventassi un Rogue Trader..."
+
+### u030767
+"Credo che stia peggiorando."
+
+### u030768
+[Continua a guardare il paziente]
+
+### u030769
+[Distogli lo sguardo]
+
+### u030770
+"Ho preso una decisione."
+
+### u030771
+"Installate l'augmetica."
+
+### u030772
+"Quest'uomo può cavarsela senza costose augmetiche."
+
+### u030773
+"Non sono qui per immischiarmi in una disputa medica. Risolvetela senza di me."
+
+### u030774
+"Come si è ferito?"
+
+### u030775
+"Parlami dell'operazione."
+
+### u030776
+[Rivolgiti al paziente] "Tua madre è qui, Gnotec, ed è molto in pensiero per te. Resisti per lei."
+
+### u030777
+[Rivolgiti al paziente] "Ho sentito dire che una bella storia può attutire il dolore. Vuoi che ti racconti le mie avventure? Una volta..."
+
+### u030778
+"Sono il Rogue Trader, non {mf|un guaritore|una guaritrice} di anime. Quanto ancora pensate che debba intrattenerlo?"
+
+### u030779
+"Quali sono le vostre rispettive proposte?"
+
+### u030780
+[Rivolgiti al paziente] "Non dimenticare di respirare. Attutirà il dolore."
+
+### u030781
+{n}L'odore di materiale medico e deboli grida di dolore riempiono l'aria fredda. Due figure sono chine su un tavolo operatorio: il paziente steso sopra è legato al suo posto e ha la testa intrisa di sangue. Una donna in uniforme cerca disperatamente di aprirsi un varco verso il tavolo.{/n}
+
+### u030782
+{n}L'uomo sul letto ti restituisce lo sguardo con occhi vitrei. Le sue braccia, strette al letto dalle cinghie, sussultano e il suo volto si contrae in una smorfia.{/n}
+
+### u030783
+"Capisco che la mia opinione possa sembrarvi strana, dato che il solo fatto che questo poveretto sia approdato al Settore Bionica potrebbe essere considerato una benedizione. Eppure ascoltatemi. L'installazione di un'augmetica corticale restituirà la salute al paziente, e il suo eroismo servirà da esempio per tutti noi. Questo ispirerà la gente e rafforzerà la sua fede nel Lord Capitano, facendole sapere che la misericordia del Rogue Trader non la abbandonerà nell'ora del bisogno."
+
+### u030784
+"Che strano... Sembra che la presenza del Rogue Trader influenzi davvero lo stato mentale del paziente." {n}Martinax ti guarda di nuovo con interesse.{/n} "Che sia la manifestazione di una fede devota in {mf|colui|colei} che Egli ha unto, o una bizzarra forma di delirio, non può che giovarci. Qualunque cosa stiate facendo, Vostra Signoria... continuate, vi prego."
+
+### u030785
+{n}La smorfia fissa sul volto pallido del ferito rende impossibile capire quanta attenzione egli presti alla tua storia. Non è chiaro se capisca qualcosa di ciò che dici, ma non senti più alcun gemito.{/n}
+
+### u030786
+{n}Con ciascuno dei suoi numerosi impianti oculari puntato con attenzione sul paziente, il Genetor Ferrenz fruga all'interno del cranio aperto dell'uomo con uno strumento sottile e affilato, simile a una sonda. Nel frattempo le mani del Chirurgo Martinax, avvolte in guanti insanguinati, reggono un iniettore di soluzione giallastra, che egli somministra a intervalli regolari nella materia cerebrale del paziente.{/n}
+
+### u030787
+{n}Attraverso la schiuma sanguinolenta sulle labbra, l'uomo prostrato sussurra,{/n} "Il Dio-Imperatore vi benedica, Lord Capitano!" {n}Espirando a stento le parole, prende un respiro profondo e limpido.{/n}
+
+### u030788
+{n}Un istante dopo, le due persone chine sul paziente alzano contemporaneamente i loro strumenti. Con voce incolore, il Tecnoprete proclama,{/n} "Registro la completa stabilizzazione delle condizioni della forma di vita. Il danno corticale interno è stato trattato. Richiedo la chiusura della calotta e il trasferimento della vittima agli stimolanti di classe B."
+
+### u030789
+"Vivrà, ma gli stimolanti non sostituiranno quella parte del suo cervello. Se impiantiamo nel suo cranio la sacra augmetica corticale, essa gli restituirà la capacità perduta di pensare e agire. Lord Capitano, vi prego! Il vostro suddito ha un reale bisogno di questa augmetica!"
+
+### u030790
+{n}Non appena distogli lo sguardo, l'uomo sul letto emette un forte urlo straziato. I due chini su di lui sussultano, ma non tolgono le mani dalla sua testa segata.{/n}
+
+### u030791
+"Udiamo e obbediamo, Lord Capitano." {n}Martinax ti rivolge un grazioso inchino.{/n} "Mi occuperò subito dell'impianto. E l'illustre servitore dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g} mi assisterà in questa procedura." {n}La risposta binarica del Genetor Majoris ha un tono di chiaro disappunto. Ignorando la reazione del collega, il Vivisettore comincia a inserire sottili aghi di augmentazione nel cervello del paziente con una precisione impressionante. Ben presto la piastra di ferro dell'impianto corticale sostituisce l'osso danneggiato con uno scricchiolio sonoro.{/n}
+
+### u030792
+"Avvio il completamento accelerato dell'operazione." {n}La parte superiore, quasi fusa, del cranio del paziente si richiude sulla materia cerebrale con uno scricchiolio, e il trapano all'estremità della delicata {g|Encyclopedia:Mechadendrite}mecadendrite{/g} del Tecnoprete emette un acuto ronzio prima di affondare nell'osso e rimetterlo rozzamente a posto.{/n} "Richiedo l'assistenza della forma di vita Vivisettore per eseguire la sutura composita dell'osso. Non sono necessari ulteriori interventi operatori."
+
+### u030793
+"Abbiamo quasi finito, Lord Capitano. Mi scuso per la richiesta inopportuna, ma ci serve ancora solo un minuto."
+
+### u030794
+"La vera devozione si rivela non nella vita di un servitore, ma nella sua morte. Così insegnano i Precetti della Rete." {n}Con un gesto discreto, Kibellah tocca la macchia di sangue sulla testa del ferito e traccia un segno cremisi sul metallo della branda.{/n}
+
+### u030795
+{n}Sempre impegnato con l'iniettore, Martinax volge la testa verso di te.{/n} "Questo giovane ha subito un grave trauma cranico che richiede un intervento immediato. Il Genetor Majoris e io stiamo cercando di impedire che la carne muoia, decidendo nel frattempo una strategia per le cure successive."
+
+### u030796
+"Un soldato di un'unità da combattimento del vuoto e devoto servitore dell'Imperatore. Lord Capitano, questo giovane ha lottato per la vita, anche attraverso dolori orrendi. Se permettete l'installazione dell'augmetica, la sua perseveranza diventerà un esempio da imitare per gli altri."
+
+### u030797
+"Nell'ultima battaglia nel vuoto, Lord Capitano, dove è sopravvissuto per un soffio alle ferite. Ha subito qualche tentativo di cura da parte di ciarlatani dei ponti inferiori e ha affrontato un lungo viaggio per arrivare qui. Tuttavia, nessuna arma può distruggere la devozione e la forza d'animo di un vero servitore del Dio-Imperatore."
+
+### u030798
+{n}L'ufficiale medicae e il Tecnoprete si scambiano un'occhiata.{/n}
+
+### u030799
+"La forma di vita sul tavolo operatorio è facilmente sostituibile e non possiede alcun valore funzionale sostanziale. Pertanto l'installazione dell'impianto sarebbe priva di senso. Propongo la sostituzione della funzione perduta mediante stimolanti in polvere di classe B. La forma di vita avrà una vitalità limitata e le sarà concesso un periodo di terminazione ottimale con funzionalità parziale."
+
+### u030800
+{n}Per un istante credi di scorgere un guizzo di vivida emozione negli occhi straziati dal dolore della persona, qualcosa di simile a una sorpresa estrema.{/n}
+
+### u030801
+"Il Trono di Terra, fiammeggiante nella Sua luce, che respinge ogni male..." {n}Un canto sommesso si leva da un lato. Distogliendo lo sguardo dal paziente, vedi Sorella Argenta che, fatto il segno dell'Aquila, eleva una preghiera al Dio-Imperatore. La sua voce melodiosa è rasserenante e infonde fiducia.{/n}
+
+### u030802
+{n}Un sussulto di stupore sfugge dalle labbra di Cassia.{/n} "Lord Capitano... l'anima morente di quest'uomo è sbocciata di nuovo di colore, nel momento stesso in cui vi siete {mf|avvicinato|avvicinata}. I venerabili medicae dicono il vero. La vostra sola presenza infonde in questo infelice la volontà di aggrapparsi alla vita."
+
+### u030803
+{n}Seguendo {d|Encyclopedia:CharGen_DH_Torture}il tuo consiglio{/d}, il mutilato boccheggia in cerca d'aria: una volta, due, tre. Il suo volto riacquista un accenno di colore, anche se i denti restano serrati in modo convulso.{/n}
+
+### u030804
+"Vi prego, aiutate mio figlio, in nome del {g|Encyclopedia:GoldenThroneGlossary}Trono d'Oro{/g}, so che potete! Gnotec ha sopportato tanto..." {n}Il volto solcato di rughe della veterana dei ponti intermedi è contratto dal dolore. Ogni parola che pronuncia esce in un lungo lamento.{/n}
+
+### u030805
+"Lord Capitano, nostra guida luminosa! Mio figlio, Gnotec, è ferito e sta morendo. L'ho portato qui in braccio, da sola, perché i chirurghi lo strappassero dal baratro, vi prego, non abbandonateci..." {n}Lo sguardo della donna oscilla da te ai chirurghi e di nuovo a te: il suo stato mentale è palesemente instabile.{/n}
+
+### u030806
+{n}Con un ronzio, l'impianto ottico di Ferrenz si mette a fuoco su di te.{/n} "Scansione dell'utilità potenziale della forma di vita... Competenza di guarigione encefalica assente. Al momento non si può fare nulla."
+
+### u030807
+{n}Lo sguardo offuscato del paziente è fisso sul volto della donna, e gli angoli delle labbra socchiuse si tendono in una debole parvenza di sorriso. La madre lo ricambia, quasi senza battere ciglio.{/n}
+
+### u030808
+{n}Non c'è bisogno che tu finisca il racconto. Un istante dopo, le due persone chine sul paziente alzano contemporaneamente i loro strumenti e, con voce incolore, il Tecnoprete proclama,{/n} "Registro la completa stabilizzazione delle condizioni della forma di vita. Il danno corticale interno è stato trattato. Richiedo la chiusura della calotta e il trasferimento della vittima agli stimolanti di classe B."
+
+### u030809
+"È il mio unico figlio, serve in un'unità del vuoto. Sono stata io a dirgli di andarci... il mio povero Gnotec," {n}rantola la donna da dietro gli ufficiali medicae.{/n}
+
+### u030810
+{n}Nel silenzio senti i singhiozzi sommessi di una donna. La madre di Gnotec piange senza ritegno, asciugandosi furiosamente gli occhi con la mano, ma ora un sorriso di sollievo le illumina il volto.{/n} "Grazie... Grazie, Vostra Signoria! Ricorderò la vostra intercessione per il resto della mia vita e pregherò per la vostra buona sorte."
+
+### u030811
+{n}La madre di Gnotec inspira bruscamente e si asciuga con forza le lacrime. I suoi occhi semi-folli vagano per l'ambiente e infine si fissano sul Genetor Majoris. Una rabbia animale ribolle nelle sue pupille dilatate, come se fosse pronta a lanciarsi contro il Tecnoprete, ma l'impulso si dissolve dopo un istante. Con voce spenta, dice,{/n} "Grazie per la vostra misericordia."
+
+### u030812
+"Non essere così frettoloso, collega. Si cura con la mente, non con i medicamenti: è una delle saggezze fondamentali dell'Officio Medicae." {n}Il Vivisettore fissa per qualche secondo il volto del ferito.{/n} "Forse la presenza di Vostra Signoria darà forza al paziente. Cercate di sostenerlo mentre tentiamo di stabilizzare le sue condizioni."
+
+### u030813
+{n}All'uomo incatenato al letto manca la parte superiore del cranio: il contenuto umido e rosato luccica alla luce dei {g|Encyclopedia:Lumen}lumen{/g}. Il paziente è cosciente: ha gli occhi aperti e le labbra riarse si muovono di continuo mentre borbotta. Lo sguardo terrorizzato dell'uomo incontra il tuo, ed egli tace.{/n}
+
+### u030814
+{n}Il {g|Encyclopedia:TechPriest}Tecnoprete{/g} ricurvo sul lato opposto del tavolo esplode in un furioso trillo binarico mentre si sforza di immobilizzare il paziente che si dimena e geme. Dopo un po' volge anche lui verso di te il volto rivestito di metallo.{/n} "La forma di vita Genetor Majoris Ferrenz dà il benvenuto al Lord Capitano {name} von Valancius. Confermo la dichiarazione del mio collega."
+
+### u030815
+"Vostra Signoria." {n}L'ufficiale medicae in tenuta protettiva distoglie per un attimo lo sguardo dal tavolo per accogliervi con un saluto solenne.{/n} "Vivisettore Jaze Martinax, al vostro servizio. La visita del Rogue Trader è un evento di grande rilievo per il Settore Bionica. Ci concederete l'onore di assistere all'operazione?"
+
+### u030816
+"Una forma di vita sacrificabile da impiegare nelle battaglie nel vuoto, una tra migliaia."
+
+### u030817
+"Questa costituisce una violazione delle sacre direttive. Il valore di una singola forma di vita è incomparabilmente inferiore a quello della sacra tecnologia richiesta. Le augmetiche della classe indicata sono rare e riservate agli ufficiali superiori. Così dettano i regolamenti del Settore Bionica."
+
+### u030818
+"La forma di vita sacrificabile ha svolto la sua funzione di distruggere il nemico. Il fuoco di rappresaglia ne ha naturalmente danneggiato l'involucro. L'efficacia approssimativa della forma di vita equivale a 1/300 dell'efficacia di una carica di cannone della nave. Tuttavia, le cariche non le ripristiniamo."
+
+### u030819
+"I risultati della scansione affermano il contrario. Il battito cardiaco di questa forma di vita sta tornando alla normalità."
+
+### u030820
+"Io, Rogue Trader {name} von Valancius, ti ordino di aprire questa porta."
+
+### u030821
+[Posa la mano nell'incavo]
+
+### u030822
+"Rispondimi, spirito macchina del guardiano genetico. Chi è Seberian?"
+
+### u030823
+[Esamina lo stemma sulla parete]
+
+### u030824
+{n}L'Alto Factotum, il Chirurgo Martinax e il Genetor Ferrenz ti stanno già aspettando presso la misteriosa porta. La parete dietro di loro sembra perfettamente liscia. Solo lo stemma di metallo che brilla alla luce dei lumen e il bagliore costante nelle lenti impassibili del guardiano genetico rivelano che uno dei segreti della dinastia si cela dietro questo muro.{/n}
+
+### u030825
+{n}Il guardiano della stanza segreta appare molto meno minaccioso del gargoyle che sorveglia l'ingresso della Camera del Mandato: è solo un incavo nel muro, incorniciato di metallo, con un ago analizzatore all'interno e un piccolo schermo video accanto. Sullo schermo compaiono righe di testo meccanicamente indifferenti:{/n} "Accesso vietato. L'ingresso è autorizzato solo a Seberian von Valancius o ai suoi discendenti diretti."
+
+### u030826
+{n}L'analizzatore ti trafigge la mano, contorcendosi in modo ripugnante sotto la pelle. Una frazione di secondo dopo, il colore dello schermo video del guardiano genetico cambia in un verde accogliente.{/n} "Identificazione superata. {mf|Benvenuto|Benvenuta}, membro della dinastia von Valancius." {n}Un fremito attraversa il muro, accompagnato dal cupo gemito di antiche serrature che si sbloccano.{/n}
+
+### u030827
+{n}Lo schermo video del guardiano sfarfalla appena.{/n} "Errore. La richiesta non è valida. L'ingresso è autorizzato solo a Seberian von Valancius o ai suoi discendenti diretti."
+
+### u030828
+{n}I simboli araldici fusi in nobile bronzo appartengono senza dubbio alla dinastia von Valancius. Solo alcuni dettagli attirano il tuo sguardo: certi elementi dell'ornamento e la scrittura arcaica. Indicano che lo stemma, come la parete stessa, ha diversi secoli.{/n}
+

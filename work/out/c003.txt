@@ -1,0 +1,1957 @@
+### u001257
+I danni inflitti da questo personaggio aumentano di +{uip|dmg %|203ee372474748a19f5a96a538d23c1d}% e tutte le sue {g|Encyclopedia:Characteristic}caratteristiche{/g} aumentano di +{uip|stats|203ee372474748a19f5a96a538d23c1d} per 2 {g|Encyclopedia:Round}round{/g}. Si accumula fino a 6 volte.
+
+### u001258
+Cooperative Advantage
+
+### u001259
+<u>(1 × grado di {g|Encyclopedia:SoulMarkHope}Iconoclast{/g})</u>
+
+### u001260
+<u>(2 × grado di {g|Encyclopedia:SoulMarkHope}Iconoclast{/g})</u>
+
+### u001261
+Se l'utilizzatore si è mosso durante il proprio {g|Encyclopedia:Turn}turno{/g}, per ogni 10 punti del suo bonus di {g|Encyclopedia:WarhammerPerception}Perception{/g} compare 1 Tactical Simulacrum in una casella casuale adiacente alla sua posizione attuale.
+Le {g|Encyclopedia:HitPoints}ferite{/g} di un Tactical Simulacrum sono pari a 1 e questo non può {g|Encyclopedia:DodgeGlossary}schivare{/g}, {g|Encyclopedia:Parry}parare{/g}, bloccare né mettersi in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+Un nemico che distrugge un Tactical Simulacrum subisce +{unit_stat|WarhammerIntelligence|bonus} accumuli di {g|Encyclopedia:Exploit}Exploit{/g}.
+
+### u001262
+Olo-oculare cerebrale
+
+### u001263
+Se l'utilizzatore si è mosso durante il proprio {g|Encyclopedia:Turn}turno{/g}, 1 Tactical Simulacrum compare nella casella da cui ha iniziato il turno e vi rimane per 1 {g|Encyclopedia:Round}round{/g}. Per ogni 10 punti del bonus di {g|Encyclopedia:WarhammerPerception}Perception{/g} dell'utilizzatore, compare +1 Tactical Simulacrum in una casella casuale adiacente alla sua posizione attuale.
+Le {g|Encyclopedia:HitPoints}ferite{/g} di un Tactical Simulacrum sono pari a 1 e questo non può {g|Encyclopedia:DodgeGlossary}schivare{/g}, {g|Encyclopedia:Parry}parare{/g}, bloccare né mettersi in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+
+### u001264
+La {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} dell'utilizzatore è ridotta del −10%.
+
+### u001265
+Fino alla fine del proprio {g|Encyclopedia:Turn}turno{/g}, l'utilizzatore ottiene l'abilità {g|f:1061649559ed40f2bc253acd1ad9a9c7}Simulacrum Projection{/g} con 3 cariche.
+Inoltre, l'utilizzatore subisce +1 accumulo di {g|f:8f4a66a1c9674e2b9016f79cc73f58a6}confuso{/g} fino alla fine del combattimento.
+
+### u001266
+Per 1 {g|Encyclopedia:Round}round{/g}, un Tactical Simulacrum compare in una casella bersaglio.
+
+### u001267
+Simulacrum Projection
+
+### u001268
+Tactical Simulacrum
+
+### u001269
+Se l'utilizzatore si è mosso durante il proprio {g|Encyclopedia:Turn}turno{/g}, 1 Tactical Simulacrum compare in ciascuna area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} per 1 {g|Encyclopedia:Round}round{/g}. Per ogni 10 punti del bonus di {g|Encyclopedia:WarhammerPerception}Perception{/g} dell'utilizzatore, compare +1 Tactical Simulacrum in una casella casuale adiacente alla sua posizione attuale.
+Le {g|Encyclopedia:HitPoints}ferite{/g} di un Tactical Simulacrum sono pari a 1 e questo non può {g|Encyclopedia:DodgeGlossary}schivare{/g}, {g|Encyclopedia:Parry}parare{/g}, bloccare né mettersi in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+
+### u001270
+Se l'utilizzatore si è mosso durante il proprio {g|Encyclopedia:Turn}turno{/g}, 1 Tactical Simulacrum compare nella casella da cui ha iniziato il turno e vi rimane per 1 {g|Encyclopedia:Round}round{/g}. Per ogni 10 punti del bonus di {g|Encyclopedia:WarhammerPerception}Perception{/g} dell'utilizzatore, compare +1 Tactical Simulacrum in una casella casuale adiacente alla sua posizione attuale.
+Le {g|Encyclopedia:HitPoints}ferite{/g} di un Tactical Simulacrum sono pari a 1 e questo non può {g|Encyclopedia:DodgeGlossary}schivare{/g}, {g|Encyclopedia:Parry}parare{/g} o bloccare gli attacchi né mettersi in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+I Tactical Simulacrum dell'utilizzatore diventano {g|Encyclopedia:PriorityTarget}bersagli prioritari{/g} per tutti i nemici.
+
+### u001271
+Lubrificante inerziale
+
+### u001272
+Spill of Sacred Unguent
+
+### u001273
+<u>(55 − livello del personaggio dell'utilizzatore)</u>
+
+### u001274
+Durante il movimento in combattimento, l'utilizzatore crea un'area coperta d'olio in tutte le caselle che attraversa. Quest'area dura 2 {g|Encyclopedia:Round}round{/g}.
+Quando un nemico vi entra, deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con un {g|Encyclopedia:Bonus}bonus{/g} di +{uip|DC|6322558474614e31a0e611bf7799d7f9} (minimo 0), altrimenti cade {g|Encyclopedia:ProneEffect}a terra{/g}. Poi l'olio viene rimosso dalla casella.
+
+### u001275
+Durante il movimento in combattimento, l'utilizzatore crea un'area coperta d'olio in tutte le caselle che attraversa. Quest'area dura 2 {g|Encyclopedia:Round}round{/g}.
+Quando un nemico vi entra, deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con un {g|Encyclopedia:Bonus}bonus{/g} di +{uip|DC|6b0a35dc57fa455a99658b1092feba43} (minimo 0), altrimenti cade {g|Encyclopedia:ProneEffect}a terra{/g}. Gli alleati non spendono {g|Encyclopedia:MovementPoints}PM{/g} quando attraversano le caselle oleate. Quando una creatura vi entra, l'olio viene rimosso dalla casella.
+
+### u001276
+L'utilizzatore subisce −25% di {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u001277
+Fino alla fine del combattimento, i nemici che entrano nelle caselle oleate subiscono inoltre una {g|Encyclopedia:Penalty}penalità{/g} di −5% all'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}. Si accumula.
+Alla fine del proprio {g|Encyclopedia:Turn}turno{/g}, l'utilizzatore diventa rallentato fino alla fine del combattimento.
+
+### u001278
+Durante il movimento in combattimento, l'utilizzatore crea un'area coperta d'olio in tutte le caselle che attraversa. Quest'area dura 2 {g|Encyclopedia:Round}round{/g}.
+Quando un nemico vi entra, deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con un {g|Encyclopedia:Bonus}bonus{/g} di +{uip|DC|2b385735a44746e0b2fbaa2b68ef0b49} (minimo 0). Se la {g|Encyclopedia:Test}prova{/g} fallisce, quel nemico cade {g|Encyclopedia:ProneEffect}a terra{/g}. Se la prova riesce, l'utilizzatore diventa il {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} di quel nemico. Poi l'olio viene rimosso dalla casella.
+
+### u001279
+Riflettore cinetico
+
+### u001280
+Quando l'utilizzatore {g|Encyclopedia:DodgeGlossary}schiva{/g} un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} per le prime tre volte in un {g|Encyclopedia:Round}round{/g}, usa {g|f:22d6c1b32a6d47f4899a370e28cf16f9}Kick{/g} contro l'attaccante.
+I {g|Encyclopedia:Talent}talenti{/g} dell'{g|Encyclopedia:CareerVeteranGlossary}Arch-Militant{/g} non influenzano questo contrattacco.
+
+### u001281
+Ogni volta che l'utilizzatore {g|Encyclopedia:DodgeGlossary}schiva{/g} un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, usa {g|f:22d6c1b32a6d47f4899a370e28cf16f9}Kick{/g} contro l'attaccante.
+Le {g|Encyclopedia:Ability}abilità{/g} e i {g|Encyclopedia:Talent}talenti{/g} dell'{g|Encyclopedia:CareerVeteranGlossary}Arch-Militant{/g} non influenzano questo contrattacco.
+
+### u001282
+L'utilizzatore subisce −15% di {g|Encyclopedia:DodgeGlossary}schivata{/g} e di {g|Encyclopedia:Parry}parata{/g}.
+
+### u001283
+Per 1 {g|Encyclopedia:Round}round{/g}, il contrattacco di questa augmetica scatta ogni volta che l'utilizzatore viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g}. Al termine di questo effetto, l'utilizzatore diventa {g|Encyclopedia:StaggeredEffect}barcollante{/g} fino alla fine del combattimento.
+
+### u001284
+Ogni volta che l'utilizzatore {g|Encyclopedia:DodgeGlossary}schiva{/g} un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, usa {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}Shield Bash{/g} contro l'attaccante se ha uno scudo equipaggiato.
+
+### u001285
+Oscillatore di fase
+
+### u001286
+L'utilizzatore può muoversi attraverso i nemici. Ogni creatura sul suo percorso subisce {uip|Damage|66a9d5ea6e034de9944f90d42e352987} {g|Encyclopedia:ImpactDamage}danni da impatto{/g} con il 30% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001287
+<u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerToughness}TGH{/g} × 5)</u>
+
+### u001288
+L'utilizzatore può muoversi attraverso alleati e nemici. Ogni creatura sul suo percorso subisce {uip|Damage|3a99ff1fc4d941fbbe9bb2820a1e6f55} {g|Encyclopedia:DirectDamage}danni diretti{/g}.
+
+### u001289
+L'utilizzatore subisce −25% di {g|Encyclopedia:Parry}parata{/g}.
+
+### u001290
+Fino alla fine del {g|Encyclopedia:Turn}turno{/g} dell'utilizzatore, ogni nemico che l'utilizzatore attraversa subisce {g|Encyclopedia:DamageGlossary}danni{/g} doppi e viene {g|Encyclopedia:PushGlossary}spinto{/g} a 2 caselle di distanza.
+Alla fine del proprio turno, l'utilizzatore diventa {g|Encyclopedia:SlowedEffect}rallentato{/g} fino alla fine del combattimento.
+
+### u001291
+L'utilizzatore può muoversi attraverso alleati e nemici. Ogni creatura sul suo percorso subisce {uip|Damage|c1c53475a0234ba29d036f16b9a51659} {g|Encyclopedia:ImpactDamage}danni da impatto{/g} con il 20% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}. Mentre usa {g|f:9b09708aa0c244a6bc4a8e46d69c5884}Dash{/g}, questi {g|Encyclopedia:DamageGlossary}danni{/g} ignorano l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+
+### u001292
+L'utilizzatore può muoversi attraverso alleati e nemici. Ogni creatura sul suo percorso subisce {uip|Damage|000d41d069204fa98ee5394c060f71ab} {g|Encyclopedia:ImpactDamage}danni da impatto{/g} con il 30% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}. L'utilizzatore ottiene inoltre +3 accumuli di {g|f:2606d221cbd84502957939547b6f4d21}tactical advantage{/g}.
+
+### u001293
+L'utilizzatore {g|Encyclopedia:DodgeGlossary}schiva{/g} automaticamente il prossimo attacco. Poi questo effetto viene rimosso e l'utilizzatore subisce l'effetto {g|f:a2a18602d2004e19b979cd6d4e5d91ef}inertial recoil{/g}.
+
+### u001294
+Kinetic Acceleration
+
+### u001295
+L'utilizzatore fallisce automaticamente la {g|Encyclopedia:DodgeGlossary}schivata{/g} del prossimo attacco. Poi, se non ha una {g|f:6338756ef76148369f50bc5d6d48ac4a}crippled leg{/g}, questo effetto viene rimosso e l'utilizzatore ottiene l'effetto {g|f:f455dc1c487a44fc9e0e8010024a031a}kinetic acceleration{/g}.
+
+### u001296
+Inertial Recoil
+
+### u001297
+All'inizio del combattimento, l'utilizzatore ottiene l'effetto {g|f:f455dc1c487a44fc9e0e8010024a031a}kinetic acceleration{/g}.
+
+### u001298
+Quando l'effetto {g|f:f455dc1c487a44fc9e0e8010024a031a}kinetic acceleration{/g} viene rimosso, l'utilizzatore subisce l'effetto {g|f:a2a18602d2004e19b979cd6d4e5d91ef}inertial recoil{/g}.
+Può essere equipaggiato solo dal Rogue Trader.
+
+### u001299
+L'effetto {g|f:a2a18602d2004e19b979cd6d4e5d91ef}inertial recoil{/g} viene rimosso e l'utilizzatore ottiene l'effetto {g|f:f455dc1c487a44fc9e0e8010024a031a}kinetic acceleration{/g}.
+Per 1 {g|Encyclopedia:Round}round{/g}, l'effetto {g|f:a2a18602d2004e19b979cd6d4e5d91ef}inertial recoil{/g} non fa fallire automaticamente all'utilizzatore la {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+Dopo 1 round, l'utilizzatore diventa {g|Encyclopedia:StaggeredEffect}barcollante{/g} fino alla fine del combattimento.
+
+### u001300
+L'utilizzatore ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:7e79642d9cdd442cb014809f1b4973a0}Jump Maneuver{/g}.
+
+### u001301
+Potenziatore idraulico
+
+### u001302
+L'utilizzatore salta in una casella entro {uip|Distance|7e79642d9cdd442cb014809f1b4973a0} caselle senza provocare {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u001303
+Jump Maneuver
+
+### u001304
+<u>(1 + bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} / 3)</u>
+
+### u001305
+<u>(5 × numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g})</u>
+
+### u001306
+<u>(10 × numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g})</u>
+
+### u001307
+All'atterraggio, c'è una probabilità del {uip|Chance|c5798a6a51a64085bf31d5db4f40c7cc}% (fino a un massimo del 100%) che l'utilizzatore cada {g|Encyclopedia:ProneEffect}a terra{/g} e infligga {uip|Damage|c5798a6a51a64085bf31d5db4f40c7cc} danni da shock con {uip|Pen|c5798a6a51a64085bf31d5db4f40c7cc}% di penetrazione dell'armatura a tutte le creature adiacenti.
+
+### u001308
+Ogni volta che un colpo {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} invece di chi lo indossa, l'attaccante ottiene +3 accumuli di {g|Encyclopedia:Exploit}Exploit{/g}.
+Quando non è in copertura, chi lo indossa ottiene +{uip|Cover|3b270aa2bd61498baeb8f78789b30014}% di efficacia della copertura (massimo 50%) come se fosse in copertura.
+
+### u001309
+<u>(4 × PM dell'utilizzatore)</u>
+
+### u001310
+L'{g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} parziale base dell'utilizzatore è pari alla sua efficacia della copertura totale base.
+Quando non è in copertura, l'utilizzatore ottiene +{uip|Cover|1fd1336cfe1541aab3ce8357d8730989}% di efficacia della copertura (massimo 50%).
+
+### u001311
+Servo-puntelli adattivi
+
+### u001312
+I {g|Encyclopedia:MovementPoints}PM{/g} dell'utilizzatore aumentano di +1.
+
+### u001313
+Impianti bionici alle gambe
+
+### u001314
+L'utilizzatore subisce −3% di {g|Encyclopedia:Parry}parata{/g} e di {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u001315
+L'utilizzatore scatta attraverso un nemico entro un raggio di 4 caselle fino alla casella sul lato opposto del nemico ed esegue un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}.
+Questo movimento non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} e quest'attacco non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g}.
+
+### u001316
+Furious Assault
+
+### u001317
+L'utilizzatore ottiene l'abilità {g|f:453162d5db644e25a5b22e598128ce0e}Furious Assault{/g}.
+
+### u001318
+Spaccacrani
+
+### u001319
+Ogni volta che l'utilizzatore usa {g|f:453162d5db644e25a5b22e598128ce0e}Furious Assault{/g}, subisce +{uip|bleed|02c674fff8f34bc3a880d726638a4a73} livelli di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e subisce immediatamente un'ulteriore istanza di danni da questo effetto.
+
+### u001320
+<u>(livello del personaggio / 2)</u>
+
+### u001321
+L'utilizzatore esegue un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} contro tutti i nemici entro un raggio di 4 caselle.
+L'utilizzatore subisce {uip|bleed|02c674fff8f34bc3a880d726638a4a73} livelli di sanguinamento e subisce immediatamente un'ulteriore istanza di danni da questo effetto.
+
+### u001322
+<u>(30 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u001323
+Gli attacchi dell'utilizzatore con spade della forza e bastoni da psyker infliggono {g|Encyclopedia:WarpDamage}danni warp{/g} aggiuntivi pari al {uip|Damage|bab2df33e1684f20b5d41f20c8334e56}% dei suoi {g|Encyclopedia:DamageGlossary}danni{/g} base.
+
+### u001324
+Psicondensatore
+
+### u001325
+L'utilizzatore non può usare {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}, tranne quelli concessi da spade della forza e bastoni da psyker.
+
+### u001326
+L'utilizzatore infligge {uip|Damage|52882ea3bd6841a7823665a4a8bbd7f4} {g|Encyclopedia:DamageGlossary}danni{/g}. Poi quest'{g|Encyclopedia:Ability}abilità{/g} innesca i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.
+
+### u001327
+<u>((2 × {g|Encyclopedia:PsyRating}livello psichico{/g}) × {g|Encyclopedia:VeilThickness}degrado del Velo{/g})</u>
+
+### u001328
+Logis-analizzatore telemetrico
+
+### u001329
+<u>numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g}</u>
+
+### u001330
+Ogni volta che un bersaglio {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco con arma dell'utilizzatore, il suo prossimo attacco contro quel bersaglio infligge +{uip|Damage|fe63fa43f7a7420e9d79a41317ea357b} {g|Encyclopedia:DamageGlossary}danni{/g} base in più e non può essere schivato.
+
+### u001331
+<u>(2 × numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g})</u>
+
+### u001332
+Ogni volta che un bersaglio {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco con arma dell'utilizzatore, il suo prossimo attacco contro quel bersaglio infligge +{uip|Damage|ac47e00cf76b4e64a23077cf53e6b660} {g|Encyclopedia:DamageGlossary}danni{/g} base in più e non può essere schivato.
+
+### u001333
+La Willpower dell'utilizzatore è ridotta del −10%.
+
+### u001334
+<u>(numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g} / 2)</u>
+
+### u001335
+Ogni volta che il bersaglio {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco con arma dell'utilizzatore, il prossimo attacco dell'utilizzatore contro quel bersaglio infligge +{uip|Damage|8b7da9040fec4181ac4d6598e9394263} {g|Encyclopedia:DamageGlossary}danni{/g} base in più e non può essere schivato.
+Ogni volta che l'utilizzatore concede a un alleato un {g|Encyclopedia:ExtraTurn}turno extra{/g}, anche quell'alleato ottiene questo effetto.
+
+### u001336
+Ogni volta che un bersaglio {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco con arma dell'utilizzatore, il suo prossimo attacco contro quel bersaglio infligge +{uip|Damage|8b7da9040fec4181ac4d6598e9394263} {g|Encyclopedia:DamageGlossary}danni{/g} base in più e non può essere schivato.
+L'utilizzatore concede questo effetto anche agli alleati nelle aree di Combat Tactics dell'utilizzatore.
+
+### u001337
+I {g|Encyclopedia:DamageGlossary}danni{/g} delle armi dell'utilizzatore sono calcolati usando la sua {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} anziché la {g|Encyclopedia:WarhammerStrength}Strength{/g} e la {g|Encyclopedia:WarhammerPerception}Perception{/g} anziché la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, se tali {g|Encyclopedia:Characteristic}caratteristiche{/g} sono più alte.
+
+### u001338
+<u>({g|Encyclopedia:SkillTechUse}Tech-Use{/g} / 5)</u>
+
+### u001339
+I danni delle armi dell'utilizzatore sono calcolati usando la sua {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} anziché la {g|Encyclopedia:WarhammerStrength}Strength{/g} e la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} anziché la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, se tali {g|Encyclopedia:Characteristic}caratteristiche{/g} sono più alte.
+Gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} dell'utilizzatore contro la {g|Encyclopedia:Prey}preda{/g} ottengono +{uip|Pen|47e2502cae69411689d491291a9fbf43}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001340
+Inversore cerebrale
+
+### u001341
+I {g|Encyclopedia:DamageGlossary}danni{/g} delle armi dell'utilizzatore sono calcolati usando la sua {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} anziché la {g|Encyclopedia:WarhammerStrength}Strength{/g} e la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} anziché la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, se tali {g|Encyclopedia:Characteristic}caratteristiche{/g} sono più alte.
+
+### u001342
+<u>({g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g} / 5)</u>
+
+### u001343
+<u>({g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g} / 5)</u>
+
+### u001344
+<u>({g|Encyclopedia:SkillLoreWarp}Lore (Warp){/g} / 5)</u>
+
+### u001345
+I {g|Encyclopedia:DamageGlossary}danni{/g} delle armi dell'utilizzatore sono calcolati usando la sua {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} anziché la {g|Encyclopedia:WarhammerStrength}Strength{/g} e la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} anziché la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, se tali {g|Encyclopedia:Characteristic}caratteristiche{/g} sono più alte.
+Gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} dell'utilizzatore infliggono +{uip|Xenos|b1ec2d35c67747699b9684d6b93a5731}% di danni in più contro gli xenos, +{uip|Imperium|b1ec2d35c67747699b9684d6b93a5731}% di danni in più contro gli umani e +{uip|Warp|b1ec2d35c67747699b9684d6b93a5731}% di danni in più contro i demoni.
+
+### u001346
+La Toughness dell'utilizzatore è ridotta del −10%.
+
+### u001347
+<u>numero di accumuli di {g|f:2606d221cbd84502957939547b6f4d21}tactical advantage{/g}</u>
+
+### u001348
+I {g|Encyclopedia:DamageGlossary}danni{/g} delle armi dell'utilizzatore sono calcolati usando la sua {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} anziché la {g|Encyclopedia:WarhammerStrength}Strength{/g} e la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} anziché la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, se tali {g|Encyclopedia:Characteristic}caratteristiche{/g} sono più alte.
+L'utilizzatore ottiene +{uip|INT|e957f0ad0c0144f29f2340ce3134aad2} di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+
+### u001349
+L'utilizzatore ottiene +3 di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+
+### u001350
+Impianto nervoso bionico
+
+### u001351
+L'utilizzatore subisce −3 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+
+### u001352
+Crea una {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} parziale distruttibile in una casella libera a scelta.
+
+### u001353
+Project Hardlight Cover
+
+### u001354
+Hardlight Cover
+
+### u001355
+<u>({g|Encyclopedia:CharacterLevel}livello del personaggio{/g} / 10)</u>
+
+### u001356
+All'inizio del combattimento, chi lo indossa ottiene {uip|Charges|9b89d418269b476d8d5c82afb5dfffb7} cariche dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:152b9cb5ecef4a5cbd402e2fd3ade6b8}Project Hardlight Cover{/g}.
+
+### u001357
+La {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} parziale non riduce la probabilità dell'utilizzatore di essere {g|Encyclopedia:HitSequenceGlossary}colpito{/g}.
+
+### u001358
+L'uso di stimolanti da combattimento non infligge {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g}.
+Se l'utilizzatore sceglie se stesso come bersaglio di uno stimolante da combattimento, ottiene l'effetto {g|f:670419fc312d4ee2b2298d03af22e0c2}elusive{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u001359
+Emofiltro adattivo
+
+### u001360
+L'uso di stimolanti da combattimento non infligge {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g}.
+
+### u001361
+L'uso di stimolanti da combattimento non infligge {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g}.
+L'uso degli stimolanti costa 1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+
+### u001362
+L'utilizzatore ottiene +3 accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g}.
+
+### u001363
+L'uso di stimolanti da combattimento non infligge {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g}.
+Ogni volta che l'utilizzatore concede a un alleato un {g|Encyclopedia:ExtraTurn}turno extra{/g}, gli stimolanti usati da quell'alleato durante questo {g|Encyclopedia:Turn}turno{/g} non infliggono effetti negativi.
+
+### u001364
+L'utilizzatore infligge +{uip|Bleeding|627dbcb27be64dc68101d57cdea9b15a} livelli di {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, +{uip|Burning|627dbcb27be64dc68101d57cdea9b15a} livelli di {g|Encyclopedia:BurningEffect}in fiamme{/g} e +{uip|Toxin|627dbcb27be64dc68101d57cdea9b15a} livelli di {g|Encyclopedia:ToxinEffect}tossina{/g} ai bersagli nell'{g|Encyclopedia:AreaOfEffect}area d'effetto{/g}.
+L'utilizzatore rimuove il sanguinamento (l'emorragia non viene rimossa), l'in fiamme (l'ustione warp e l'ustione dell'anima non vengono rimosse) e la tossina, ma subisce {uip|Damage|627dbcb27be64dc68101d57cdea9b15a} {g|Encyclopedia:DirectDamage}danni diretti{/g}.
+
+### u001365
+<u>(livelli di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} dell'utilizzatore (esclusa l'emorragia))</u>
+
+### u001366
+<u>(livelli di {g|Encyclopedia:BurningEffect}in fiamme{/g} dell'utilizzatore (escluse l'ustione warp e l'ustione dell'anima))</u>
+
+### u001367
+<u>(livelli di {g|Encyclopedia:ToxinEffect}tossina{/g} dell'utilizzatore)</u>
+
+### u001368
+<u>(livelli di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} dell'utilizzatore (esclusa l'emorragia) + livelli di {g|Encyclopedia:BurningEffect}in fiamme{/g} dell'utilizzatore (escluse l'ustione warp e l'ustione dell'anima) + livelli di {g|Encyclopedia:ToxinEffect}tossina{/g} dell'utilizzatore)</u>
+
+### u001369
+<u>(5 × numero di accumuli di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g})</u>
+
+### u001370
+<u>numero di accumuli di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g}</u>
+
+### u001371
+Gli attacchi di chi lo indossa ottengono bonus in base al tipo di arma usata:
+-<indent=5%>Gli attacchi con armi melta e al plasma ottengono +{uip|Value|0f4b1986d7084a838920648e221c7768}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.</indent>
+-<indent=5%>Gli attacchi con armi bolter e a proiettili solidi ottengono +{uip|Value|0f4b1986d7084a838920648e221c7768}% di probabilità di {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g}.</indent>
+-<indent=5%>Gli attacchi con armi laser e lanciafiamme ottengono +{uip|Value|0f4b1986d7084a838920648e221c7768}% di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g}.</indent>
+-<indent=5%>Gli attacchi con armi a catena e primitive ottengono +{uip|Value|0f4b1986d7084a838920648e221c7768}% di {g|Encyclopedia:ParryReduction}riduzione della parata{/g}.</indent>
+-<indent=5%>Gli attacchi con armi della forza e potenziate ottengono +{uip|Value2|0f4b1986d7084a838920648e221c7768} di {g|Encyclopedia:DeflectionNegation}annullamento della deviazione{/g}.</indent>
+-<indent=5%>Gli attacchi con armi esotiche ottengono +{uip|Value|0f4b1986d7084a838920648e221c7768}% di probabilità di infliggere per 1 {g|Encyclopedia:Round}round{/g} un {g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g} comune casuale.</indent>
+
+### u001372
+Ottimizzatore d'armi
+
+### u001373
+Gli attacchi dell'utilizzatore ottengono bonus in base al tipo di arma usata:
+-<indent=5%>Gli attacchi con armi melta e al plasma ottengono +{uip|Value|4c369dab8f8b45379196373ac26f666e}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.</indent>
+-<indent=5%>Gli attacchi con armi bolter e a proiettili solidi ottengono +{uip|Value|4c369dab8f8b45379196373ac26f666e}% di probabilità di {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g}.</indent>
+-<indent=5%>Gli attacchi con armi laser e lanciafiamme ottengono +{uip|Value|4c369dab8f8b45379196373ac26f666e}% di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g}.</indent>
+-<indent=5%>Gli attacchi con armi a catena e primitive ottengono +{uip|Value|4c369dab8f8b45379196373ac26f666e}% di {g|Encyclopedia:ParryReduction}riduzione della parata{/g}.</indent>
+-<indent=5%>Gli attacchi con armi della forza e potenziate ottengono +{uip|Value2|4c369dab8f8b45379196373ac26f666e} di {g|Encyclopedia:DeflectionNegation}annullamento della deviazione{/g}.</indent>
+-<indent=5%>Gli attacchi con armi esotiche ottengono +{uip|Value|4c369dab8f8b45379196373ac26f666e}% di probabilità di infliggere per 1 {g|Encyclopedia:Round}round{/g} un {g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g} comune casuale.</indent>
+
+### u001374
+Fino alla fine del {g|Encyclopedia:Turn}turno{/g}, tutti i bonus di questa {g|Encyclopedia:AugmentsFullGlossary}augmetica{/g} si applicano indipendentemente dal tipo di arma.
+Alla fine del proprio turno, l'utilizzatore subisce +1 accumulo di affaticato fino alla fine del combattimento.
+
+### u001375
+<u>(35 × numero di {g|Encyclopedia:Traumas}traumi{/g} dell'utilizzatore)</u>
+
+### u001376
+<u>(70 × numero di {g|Encyclopedia:Traumas}traumi{/g} dell'utilizzatore)</u>
+
+### u001377
+<u>numero di {g|Encyclopedia:Traumas}traumi{/g} dell'utilizzatore</u>
+
+### u001378
+L'utilizzatore infligge +{uip|Melee|699a3d6aff944acfbcd915ecab36ab4a}% di {g|Encyclopedia:DamageGlossary}danni{/g} in più in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, +{uip|Ranged|699a3d6aff944acfbcd915ecab36ab4a}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} in più a distanza e i suoi {g|Encyclopedia:DirectDamage}danni diretti{/g} base aumentano di +{uip|Direct|699a3d6aff944acfbcd915ecab36ab4a}.
+L'utilizzatore subisce il {uip|DR|699a3d6aff944acfbcd915ecab36ab4a}% di danni in meno.
+
+### u001379
+L'utilizzatore infligge +{uip|Melee|0c10fd9857dd46e0a0d41f7e9ad31321}% di {g|Encyclopedia:DamageGlossary}danni{/g} in più in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} e ottiene +{uip|Deflection|0c10fd9857dd46e0a0d41f7e9ad31321} di {g|Encyclopedia:Deflection}deviazione{/g}.
+L'utilizzatore subisce il {uip|DR|0c10fd9857dd46e0a0d41f7e9ad31321}% di danni in meno.
+
+### u001380
+Innesto del sistema neurale
+
+### u001381
+<u>(30 × numero di {g|Encyclopedia:Traumas}traumi{/g} dell'utilizzatore)</u>
+
+### u001382
+<u>(65 × numero di {g|Encyclopedia:Traumas}traumi{/g} dell'utilizzatore)</u>
+
+### u001383
+L'utilizzatore infligge +{uip|Melee|465e8b197e8a485dacc017719522ee11}% di {g|Encyclopedia:DamageGlossary}danni{/g} in più in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} e +{uip|Ranged|465e8b197e8a485dacc017719522ee11}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} in più a distanza.
+L'utilizzatore subisce il {uip|DR|465e8b197e8a485dacc017719522ee11}% di danni in meno.
+
+### u001384
+<u>(40 × numero di {g|Encyclopedia:Traumas}traumi{/g} dell'utilizzatore)</u>
+
+### u001385
+<u>(75 × numero di {g|Encyclopedia:Traumas}traumi{/g} dell'utilizzatore)</u>
+
+### u001386
+<u>(accumuli di {g|Encyclopedia:FatiguedEffect}affaticato{/g} dell'utilizzatore × numero di {g|Encyclopedia:Traumas}traumi{/g} dell'utilizzatore)</u>
+
+### u001387
+L'utilizzatore infligge +{uip|Melee|4b31f1364ad44cb495b94abbfd39b5ff}% di {g|Encyclopedia:DamageGlossary}danni{/g} in più in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} e +{uip|Ranged|4b31f1364ad44cb495b94abbfd39b5ff}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} in più a distanza.
+L'utilizzatore subisce il {uip|DR|4b31f1364ad44cb495b94abbfd39b5ff}% di danni in meno.
+
+### u001388
+L'utilizzatore ottiene +3 accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g}.
+Ogni volta che l'utilizzatore subisce un {g|Encyclopedia:Traumas}trauma{/g}, questa augmetica rimane attiva.
+
+### u001389
+Compensatore sottocutaneo
+
+### u001390
+Quando l'utilizzatore viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g} per la prima volta in un {g|Encyclopedia:Round}round{/g}, ottiene +{uip|THP|5bd6da4f96974ca29df16a5b5f7dd9ef} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} per 1 round. Questo effetto scatta anche se l'attacco è stato {g|Encyclopedia:BlockChance}bloccato{/g}, {g|Encyclopedia:DodgeGlossary}schivato{/g} o {g|Encyclopedia:Parry}parato{/g}. Non si accumula.
+
+### u001391
+Quando l'utilizzatore viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g} per le prime tre volte in un {g|Encyclopedia:Round}round{/g}, ottiene +{uip|THP|973431c8057843328c04e74a9338df7d} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} per 1 round. Questo effetto scatta anche se l'attacco è stato {g|Encyclopedia:BlockChance}bloccato{/g}, {g|Encyclopedia:DodgeGlossary}schivato{/g} o {g|Encyclopedia:Parry}parato{/g}. Non si accumula.
+
+### u001392
+L'utilizzatore ottiene {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} pari alle sue {g|Encyclopedia:HitPoints}ferite{/g} attuali per 1 {g|Encyclopedia:Round}round{/g}.
+Quando l'utilizzatore perde quelle ferite temporanee, subisce +1 accumulo di affaticato fino alla fine del combattimento.
+
+### u001393
+<u>({g|Encyclopedia:CharacterLevel}livello del personaggio{/g} / 3)</u>
+
+### u001394
+Quando l'utilizzatore viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g}, ottiene +{uip|THP|fdbac6922400427e92a08d56391ce24c} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} per 1 {g|Encyclopedia:Round}round{/g}. Questo effetto scatta anche se l'attacco è stato {g|Encyclopedia:BlockChance}bloccato{/g} o {g|Encyclopedia:Parry}parato{/g}. Non si accumula.
+
+### u001395
+<u>deviazione</u>
+
+### u001396
+<u>({g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} / 3)</u>
+
+### u001397
+<u>({g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} / 2)</u>
+
+### u001398
+Gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} singoli dell'utilizzatore causano una catena di fulmini, infliggendo {uip|Damage|a1d6e67e4ec643fe8b7babc0e62dfe77} {g|Encyclopedia:ShockDamage}danni da shock{/g} con {uip|Pen|a1d6e67e4ec643fe8b7babc0e62dfe77}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} fino a {uip|Jumps|a1d6e67e4ec643fe8b7babc0e62dfe77} bersagli.
+
+### u001399
+Carapace galvanico
+
+### u001400
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} dell'utilizzatore non può superare il {uip|Armour|e868dbb0274243ccb24e8402397ee2ff}% e la sua {g|Encyclopedia:Deflection}deviazione{/g} non può superare {unit_stat|WarhammerToughness|bonus}.
+
+### u001401
+<u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerToughness}TGH{/g} × 10)</u>
+
+### u001402
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} dell'utilizzatore esplode, infliggendo {uip|Damage|ecf41086be2743f2857ff0dceac7a920} {g|Encyclopedia:DirectDamage}danni diretti{/g} a tutte le creature in un raggio di 3 caselle.
+L'armatura e la {g|Encyclopedia:Deflection}deviazione{/g} dell'utilizzatore non possono superare 0 fino alla fine del combattimento.
+
+### u001403
+<u>(({g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} + {g|Encyclopedia:Deflection}deviazione{/g}) × 5)</u>
+
+### u001404
+L'utilizzatore ottiene +3 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u001405
+Impianto bionico al torso
+
+### u001406
+L'utilizzatore subisce −3 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}.
+
+### u001407
+Alla fine del proprio {g|Encyclopedia:Turn}turno{/g}, l'utilizzatore infligge {uip|fire_damage|510cfc47d3d040daa9d85c879943f174} {g|Encyclopedia:FireDamage}danni da fuoco{/g} a tutte le creature che si trovano esattamente a 5 caselle di distanza da lui. Xenos e demoni subiscono +50% di danni in più.
+
+### u001408
+<u>(8 × grado di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g})</u>
+
+### u001409
+<u>(8 × grado di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} × (10 + 2 × grado di Dogmatic))</u>
+
+### u001410
+All'inizio di ogni {g|Encyclopedia:Turn}turno{/g}, l'utilizzatore subisce {unit_stat|WarhammerToughness|bonus} danni.
+
+### u001411
+L'utilizzatore infligge immediatamente {uip|fire_damage_xenos_daemons|510cfc47d3d040daa9d85c879943f174} danni con il 40% di penetrazione dell'armatura.
+Alla fine del proprio turno, l'utilizzatore subisce +1 accumulo di {g|f:b626505e8c944ca3ab68e4008fedce89}affaticato{/g} fino alla fine del combattimento.
+
+### u001412
+Mondo letale
+
+### u001413
+Mondo feudale
+
+### u001414
+Mondo forgia
+
+### u001415
+Mondo fortezza
+
+### u001416
+Mondo imperiale
+
+### u001417
+−15 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}
+
+### u001418
+Intossicazione
+
+### u001419
+Subisce {g|Encyclopedia:DamageGlossary}danni{/g} all'inizio di ogni {g|Encyclopedia:Turn}turno{/g}. L'effetto può essere rimosso da qualsiasi fonte di guarigione.
+
+### u001420
+Sanguinamento
+
+### u001421
+Infligge {g|Encyclopedia:DamageGlossary}danni{/g} da fuoco al bersaglio a ogni {g|Encyclopedia:Turn}turno{/g}.
+
+### u001422
+In fiamme
+
+### u001423
+Aumenta la {g|Encyclopedia:DodgeGlossary}schivata{/g} della creatura di +<u>N</u> fino alla fine del combattimento.
+
+### u001424
+Keen Defences
+
+### u001425
+Non è possibile usare i {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}.
+
+### u001426
+Medusae's Gaze
+
+### u001427
+A terra
+
+### u001428
+Ogni accumulo riduce la {g|Encyclopedia:Deflection}deviazione{/g} di −1 e l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di −10%.
+
+### u001429
+In fusione
+
+### u001430
+Riduce la {g|Encyclopedia:DodgeGlossary}schivata{/g} della creatura di −{uip|Dodge|c6372a830a0b47b4b6fa9fc1a4351cdd} fino alla fine del combattimento.
+
+### u001431
+Shamble
+
+### u001432
+Aumenta la {g|Encyclopedia:DodgeGlossary}schivata{/g} della creatura di +{uip|Dodge|a48288ec76f9441993ed99bf94230a60} fino alla fine del combattimento.
+
+### u001433
+<u>Schivata</u>
+
+### u001434
+I {g|Encyclopedia:MovementPoints}PM{/g} della creatura sono stati aumentati fino alla fine del combattimento. PM attuali: {uip|MP|a536a73c7e7543c9bcd66ac8442b6e9a}.
+
+### u001435
+Exhilarating Speed
+
+### u001436
+Non può muoversi né {g|Encyclopedia:DodgeGlossary}schivare{/g} gli attacchi nemici.
+
+### u001437
+Anchored
+
+### u001438
+Gli alleati {g|Encyclopedia:DodgeGlossary}schivano{/g} sempre i colpi degli attacchi degli alleati.
+
+### u001439
+Careful Shooter
+
+### u001440
+Spontaneous Mutation
+
+### u001441
+Ogni accumulo di burst of disease aumenta di +7 {g|Encyclopedia:WarhammerStrength}Strength{/g}, {g|Encyclopedia:WarhammerToughness}Toughness{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g}.
+
+### u001442
+Riduce la {g|Encyclopedia:Resolve}determinazione{/g} di −2.
+
+### u001443
+Riduce tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} di −15.
+
+### u001444
+Burned by the Emperor
+
+### u001445
+Concede la possibilità di migliorare la competenza {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g} anche se il passato o l'{g|Encyclopedia:Career}archetipo{/g} del personaggio non lo consentono.
+<indent=5%>+5 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+
+### u001446
+Champion of the Darkness
+
+### u001447
+Ogni volta che Pasqal usa una delle sue {g|Encyclopedia:Ability}abilità{/g} uniche, subisce da 5 a 10 {g|Encyclopedia:DirectDamage}danni diretti{/g} con il 100% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+<i>Abilità uniche di Pasqal:</i>
+-<indent=5%>{g|f:95cdd5f42ef5480d9fadd9e0acee641b}Machine Spirit Communion{/g}</indent>
+-<indent=5%>{g|f:0b8058ef3f33406faebea94ee7967d66}Machine Spirit Banishment{/g}</indent>
+-<indent=5%>{g|f:3a3b073676b24e7ead880363fef1bbaf}Medicae Mechadendrite{/g}</indent>
+-<indent=5%>{g|f:95c75fde7c314366b771bcd0b116feee}Manipulator Push{/g}</indent>
+
+### u001448
+Quest'{g|Encyclopedia:Ability}abilità{/g} costa {uip|WoundCost|a84ce6cbf09447b3970f7b4df0b7f109} {g|Encyclopedia:HitPoints}ferite{/g}. Il personaggio rimuove da sé gli effetti accecato, immobilizzato, a terra, rallentato, barcollante e stordito. Quest'abilità può essere usata anche da storditi o a terra. Se il personaggio non ha effetti negativi da rimuovere, ottiene invece +1 PA e +4 PM nel turno corrente. Quest'abilità può essere usata solo una volta per combattimento e non può essere usata durante il primo round.
+
+### u001449
+Battle Trance
+
+### u001450
+<u>(5 + {g|Encyclopedia:CharacterLevel}livello del personaggio{/g} / 2)</u>
+
+### u001451
+Operative
+
+### u001452
+<u>bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} dell'{g|Encyclopedia:CareerAdeptGlossary}Operative{/g}</u>
+
+### u001453
+Sopravvivere nella cupa oscurità del lontano futuro è già un'impresa non da poco, prosperarvi lo è quasi impossibile. Ma alcuni vanno oltre e diventano {g|Encyclopedia:CareerTiersGlossary}Exemplar{/g}. Gli Exemplar non solo possiedono una conoscenza straordinaria dei loro archetipi, ma hanno anche raggiunto l'apice della maestria, trascendendo ciò che si ritiene possibile.
+Focus principale: {g|Encyclopedia:Ability}abilità{/g} e {g|Encyclopedia:Talent}talenti{/g} aggiuntivi dagli archetipi precedenti, nuovi talenti Exemplar.
+
+### u001454
+Exemplar
+
+### u001455
+Assassin
+
+### u001456
+War Hymn
+
+### u001457
+Concede +1 {g|Encyclopedia:ActionPoints}PA{/g} aggiuntivo al 10º e al 20º grado di Exemplar.
+
+### u001458
+Aumento dei PA
+
+### u001459
+Concede +1 {g|Encyclopedia:ActionPoints}PA{/g} aggiuntivo al 20º {g|Encyclopedia:CharacterLevel}livello del personaggio{/g}.
+
+### u001460
+Determinazione base
+
+### u001461
+Gli attacchi con armi bolt ottengono +10% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001462
+Bolt Weapon Expert
+
+### u001463
+Gli attacchi con armi a catena ottengono +4 di {g|Encyclopedia:DamageGlossary}danni{/g} massimi.
+
+### u001464
+Chain Weapon Expert
+
+### u001465
+I nemici non ottengono {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:MeleeSuperiority}superiorità in mischia{/g} contro questo personaggio.
+
+### u001466
+Combat Master
+
+### u001467
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillAthletics}Athletics{/g}.
+
+### u001468
+Competenza base: Athletics
+
+### u001469
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillAwareness}Awareness{/g}.
+
+### u001470
+Competenza base: Awareness
+
+### u001471
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillCarouse}Carouse{/g}.
+
+### u001472
+Competenza base: Carouse
+
+### u001473
+Il personaggio può migliorare questa {g|Encyclopedia:Skills}competenza{/g} anche se il suo {g|Encyclopedia:Career}archetipo{/g} o la sua origine non lo consentono.
+
+### u001474
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillCoercion}Coercion{/g}.
+
+### u001475
+Competenza base: Coercion
+
+### u001476
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillCommerce}Commerce{/g}.
+
+### u001477
+Competenza base: Commerce
+
+### u001478
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillDemolition}Demolition{/g}.
+
+### u001479
+Competenza base: Demolition
+
+### u001480
+Il personaggio può anche ripetere le {g|Encyclopedia:Test}prove{/g} di {g|Encyclopedia:Skills}competenza{/g} fallite (+1 tentativo per ogni prova).
+
+### u001481
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillAthletics}Athletics{/g}.
+
+### u001482
+Competenza avanzata: Athletics
+
+### u001483
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillAwareness}Awareness{/g}.
+
+### u001484
+Competenza avanzata: Awareness
+
+### u001485
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillCarouse}Carouse{/g}.
+
+### u001486
+Competenza avanzata: Carouse
+
+### u001487
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillCoercion}Coercion{/g}.
+
+### u001488
+Competenza avanzata: Coercion
+
+### u001489
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillCommerce}Commerce{/g}.
+
+### u001490
+Competenza avanzata: Commerce
+
+### u001491
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillDemolition}Demolition{/g}.
+
+### u001492
+Competenza avanzata: Demolition
+
+### u001493
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillLogic}Logic{/g}.
+
+### u001494
+Competenza avanzata: Logic
+
+### u001495
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}.
+
+### u001496
+Competenza avanzata: Lore (Imperium)
+
+### u001497
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillLoreWarp}Lore (Warp){/g}.
+
+### u001498
+Competenza avanzata: Lore (Warp)
+
+### u001499
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g}.
+
+### u001500
+Competenza avanzata: Lore (Xenos)
+
+### u001501
+Competenza avanzata: Medicae
+
+### u001502
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillMedicae}Medicae{/g}.
+
+### u001503
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillPersuasion}Persuasion{/g}.
+
+### u001504
+Competenza avanzata: Persuasion
+
+### u001505
+Il personaggio ottiene +13 di {g|Encyclopedia:SkillTechUse}Tech-Use{/g}.
+
+### u001506
+Competenza avanzata: Tech-Use
+
+### u001507
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillLogic}Logic{/g}.
+
+### u001508
+Competenza base: Logic
+
+### u001509
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}.
+
+### u001510
+Competenza base: Lore (Imperium)
+
+### u001511
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillLoreWarp}Lore (Warp){/g}.
+
+### u001512
+Competenza base: Lore (Warp)
+
+### u001513
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g}.
+
+### u001514
+Competenza base: Lore (Xenos)
+
+### u001515
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillMedicae}Medicae{/g}.
+
+### u001516
+Competenza base: Medicae
+
+### u001517
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillPersuasion}Persuasion{/g}.
+
+### u001518
+Competenza base: Persuasion
+
+### u001519
+Il personaggio ottiene +7 di {g|Encyclopedia:SkillTechUse}Tech-Use{/g}.
+
+### u001520
+Competenza base: Tech-Use
+
+### u001521
+Il personaggio può migliorare qualsiasi {g|Encyclopedia:Characteristic}caratteristica{/g} addestrata anche se il suo {g|Encyclopedia:Career}archetipo{/g} o la sua origine non lo consentono.
+
+### u001522
+Il personaggio ottiene +5 di {g|Encyclopedia:WarhammerAgility}Agility{/g}.
+
+### u001523
+Addestramento della caratteristica: Agility
+
+### u001524
+Il personaggio ottiene +5 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+
+### u001525
+Addestramento della caratteristica: Ballistic Skill
+
+### u001526
+Il personaggio ottiene +5 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}.
+
+### u001527
+Addestramento della caratteristica: Fellowship
+
+### u001528
+Il personaggio ottiene +5 di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+
+### u001529
+Addestramento della caratteristica: Intelligence
+
+### u001530
+Il personaggio ottiene +5 di {g|Encyclopedia:WarhammerPerception}Perception{/g}.
+
+### u001531
+Addestramento della caratteristica: Perception
+
+### u001532
+Il personaggio ottiene +5 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u001533
+Addestramento della caratteristica: Strength
+
+### u001534
+Il personaggio ottiene +5 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u001535
+Addestramento della caratteristica: Toughness
+
+### u001536
+Il personaggio ottiene +5 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}.
+
+### u001537
+Addestramento della caratteristica: Weapon Skill
+
+### u001538
+Il personaggio ottiene +5 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+
+### u001539
+Addestramento della caratteristica: Willpower
+
+### u001540
+Dopo il primo attacco in arrivo che ogni nemico entro un raggio di 1 casella compie durante il turno di questa creatura, essa risponde con un colpo contro quel nemico.
+
+### u001541
+Counter-Attack
+
+### u001542
+Un attacco aggiuntivo con la seconda arma non subirà penalità né costi maggiori se il primo attacco è stato l'abilità {g|f:a270dbb75ea44128b951b5d18d0b6bed}Sweep{/g} di un'ascia o {g|f:bd5f109c46684a09b07fb13743d2a6d7}Harsh Shove{/g} di un martello o di una mazza.
+
+### u001543
+Dual-Weapon Specialist
+
+### u001544
+Concede +2 {g|Encyclopedia:MovementPoints}punti movimento{/g}.
+
+### u001545
+Swift Movements
+
+### u001546
+Concede un {g|Encyclopedia:Bonus}bonus{/g} di +15% alla {g|Encyclopedia:Parry}parata{/g}.
+
+### u001547
+Duelling Mastery
+
+### u001548
+Gli attacchi con armi a fiamma costano 1 {g|Encyclopedia:ActionPoints}PA{/g} in meno (minimo 1 PA).
+
+### u001549
+Flame Weapon Expert
+
+### u001550
+Permette di indossare un'{g|Encyclopedia:HeavyArmour}armatura pesante{/g}.
+
+### u001551
+Heavy Armour Proficiency
+
+### u001552
+I nemici {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} o {g|Encyclopedia:SlowedEffect}rallentati{/g} dal webber di questo personaggio hanno la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e l'{g|Encyclopedia:WarhammerAgility}Agility{/g} ridotte di −{uip|Debuff|ea3131acef5645c3a8eaba942fe404a9} finché questo effetto dura.
+
+### u001553
+Durable Knotting
+
+### u001554
+I nemici subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −20% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} contro gli attacchi con armi laser.
+
+### u001555
+Las Weapon Expert
+
+### u001556
+L'abilità {g|f:a270dbb75ea44128b951b5d18d0b6bed}Sweep{/g} dell'ascia e {g|f:bd5f109c46684a09b07fb13743d2a6d7}Harsh Shove{/g} del martello o della mazza costano 1 PA in meno (ma non meno di 1).
+
+### u001557
+Melee Weapon Specialist
+
+### u001558
+Gli attacchi con armi melta ottengono +4 di {g|Encyclopedia:DamageGlossary}danni{/g} massimi.
+
+### u001559
+Melta Weapon Expert
+
+### u001560
+Concede un {g|Encyclopedia:Bonus}bonus{/g} di +10% alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u001561
+Nimble
+
+### u001562
+First Aid
+
+### u001563
+Medicae Training
+
+### u001564
+Gli attacchi con armi al plasma ottengono +2 di {g|Encyclopedia:DamageGlossary}danni{/g} massimi.
+
+### u001565
+Plasma Weapon Expert
+
+### u001566
+Permette di indossare un'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} potenziata.
+
+### u001567
+Power Armour Proficiency
+
+### u001568
+Gli attacchi con armi potenziate ottengono +10% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001569
+Power Weapon Expert
+
+### u001570
+Chi la impugna ottiene +5% di {g|Encyclopedia:BlockChance}blocco{/g} e infligge +50% di {g|Encyclopedia:DamageGlossary}danni{/g} in più con {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}Shield Bash{/g}.
+
+### u001571
+Strong Hand
+
+### u001572
+Ogni volta che chi la impugna {g|Encyclopedia:BlockChance}blocca{/g} con successo un attacco, usa immediatamente {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}Shield Bash{/g} contro l'attaccante, se possibile.
+Se chi la impugna esegue un contrattacco innescato da {g|f:f6a60b4556214528b0ce295c4f69306e}Stalwart Defence{/g}, lo {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}Shield Bash{/g} segue quel contrattacco.
+
+### u001573
+Instant Retribution
+
+### u001574
+Ogni volta che chi la impugna usa con successo {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}Shield Bash{/g}, recupera +2 {g|Encyclopedia:MovementPoints}PM{/g}. Se si muove, non provocherà {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} dal bersaglio fino alla fine del proprio {g|Encyclopedia:Turn}turno{/g}.
+
+### u001575
+Defensive Manoeuvre
+
+### u001576
+Chi la impugna ottiene +{uip|Damage|b090c98714c84716a2c6b586c6228f26} di {g|Encyclopedia:Deflection}deviazione{/g} se nel suo set di armi attuale c'è uno scudo.
+
+### u001577
+Invincibility
+
+### u001578
+<u>(bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g} / 3)</u>
+
+### u001579
+Chi la impugna ottiene +{uip|Damage|d77cb4ca64674dcba20f225998828e78} di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+
+### u001580
+Professional Know-How
+
+### u001581
+<u>({g|Encyclopedia:BlockChance}blocco{/g} dello scudo / 3)</u>
+
+### u001582
+Uno scudo occupa lo slot di un solo set di armi.
+
+### u001583
+Shield Mastery
+
+### u001584
+Gli attacchi con armi a proiettili solidi ottengono +2 di {g|Encyclopedia:DamageGlossary}danni{/g} minimi.
+
+### u001585
+Solid Projectile Weapon Expert
+
+### u001586
+Aumenta le {g|Encyclopedia:HitPoints}ferite{/g} di metà del livello del personaggio (arrotondato per eccesso).
+
+### u001587
+It Will Not Die
+
+### u001588
+Avanzamento delle competenze
+
+### u001589
+Avanzamento delle caratteristiche
+
+### u001590
+Selezione dei talenti
+
+### u001591
+Gli {g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} sono specialisti nell'infliggere dolore duraturo e lancinante a tutti i nemici intorno a loro, sfruttandolo per eliminare rapidamente gli avversari.
+Focus principale: effetti di {g|Encyclopedia:DamageGlossary}danni{/g} nel tempo, danni in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g}, controllo della folla, grande quantità di {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u001592
+Executioner
+
+### u001593
+{g|f:a0df8194db8c4e65ba74defc0da50a76}Defensive Stance{/g} è disponibile.
+
+### u001594
+Desperate Rush
+
+### u001595
+Warrior
+
+### u001596
+I Warrior sono combattenti dotati di un'eccezionale abilità in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, capaci di infliggere molti danni nel combattimento ravvicinato e di sopportarne grandi quantità. Eccellono anche nell'attirare l'attenzione dei nemici lontano dagli alleati meno protetti.
+Focus principale: mischia, movimento e {g|Encyclopedia:DodgeGlossary}schivata{/g}, {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e {g|Encyclopedia:Parry}parata{/g}, provocazioni, assorbimento dei danni.
+
+### u001597
+Il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} si muove in linea retta e sferra un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} contro qualsiasi bersaglio sul suo percorso. Quest'attacco non conta ai fini del limite di {g|Encyclopedia:AttacksPerTurn}attacchi per turno{/g} del Warrior.
+Per usare {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} devono esserci almeno 2 caselle libere tra il Warrior e il bersaglio.
+
+### u001598
+Charge
+
+### u001599
+Fino al prossimo {g|Encyclopedia:Turn}turno{/g} del {g|Encyclopedia:CareerFighterGlossary}Warrior{/g}, questi ottiene +{uip|TOU|4d2f2a839d2340388d45cf4cf66c947b} di {g|Encyclopedia:Deflection}deviazione{/g} e +{uip|THP|4d2f2a839d2340388d45cf4cf66c947b} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+
+### u001600
+Endure
+
+### u001601
+<u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerToughness}TGH{/g} / 2)</u>
+
+### u001602
+<u>(10 + {g|Encyclopedia:CharacterLevel}livello del personaggio{/g} / 6)</u>
+
+### u001603
+1 {g|Encyclopedia:Turn}turno{/g}
+
+### u001604
+<u>(1 + bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} / 2)</u>
+
+### u001605
+<u>Aumento della forza di spinta</u>
+
+### u001606
+Il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} raccoglie tutta la sua forza per un colpo devastante. Il suo prossimo {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} respinge il nemico. La distanza della {g|Encyclopedia:PushGlossary}spinta{/g} è pari a {uip|Push|93d58dfeb6c648858c130e0a902f6ed6} caselle.
+Quest'{g|Encyclopedia:Ability}abilità{/g} non può essere usata con una sega da roccia pesante.
+
+### u001607
+Forceful Strike
+
+### u001608
+Il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} lancia un urlo terrificante, attirando l'attenzione dei nemici e diventando per 3 {g|Encyclopedia:Round}round{/g} un {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} per ogni nemico che fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+
+### u001609
+Taunting Scream
+
+### u001610
+<u>(10 + 2 × bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g})</u>
+
+### u001611
+<u>(2 + bonus di {g|Encyclopedia:WarhammerStrength}STR{/g})</u>
+
+### u001612
+Armatura bonus contro il bersaglio selezionato
+
+### u001613
+Danni bonus degli attacchi in mischia contro il bersaglio selezionato
+
+### u001614
+Force Field
+
+### u001615
+Per un {g|Encyclopedia:Round}round{/g}, il Warrior resta in piedi anche se le sue {g|Encyclopedia:HitPoints}ferite{/g} raggiungono lo zero. Inoltre il Warrior risponde agli attacchi che riceve e protegge gli alleati in un raggio di 3 caselle intorno a sé, balzando in avanti e colpendo preventivamente i nemici, il che rende gli attacchi nemici più facili del 50% da {g|Encyclopedia:DodgeGlossary}schivare{/g}.
+! Richiede un'arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}.
+
+### u001616
+Force Strike
+
+### u001617
+Pericoli del Warp maggiori
+
+### u001618
+Pericoli del Warp
+
+### u001619
+I {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} sono assassini metodici che lasciano dietro di sé una scia di cadaveri. Un Bounty Hunter sceglie il bersaglio successivo prima ancora che il precedente si sia accorto di essere morto.
+Focus principale: {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g}, riduzione delle difese, eliminazione di bersagli chiave, riposizionamento.
+
+### u001620
+Bounty Hunter
+
+### u001621
+L'Officer concede immediatamente a un alleato un {g|Encyclopedia:ExtraTurn}turno extra{/g} con 2 {g|Encyclopedia:ActionPoints}PA{/g} e nessun {g|Encyclopedia:MovementPoints}PM{/g}.
+Se quest'alleato è sotto l'effetto di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} e uccide un nemico prima della fine del turno dell'Officer, ottiene un ulteriore +{uip|Momentum|5bfccf14d8604ae1a041fb347fb8f19f} di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}.
+Quest'{g|Encyclopedia:Ability}abilità{/g} non può avere come bersaglio lo stesso alleato più di una volta per round e non può essere usata durante un turno extra.
+
+### u001622
+Bring It Down!
+
+### u001623
+L'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} cura una {g|Encyclopedia:Injury}lesione recente{/g} propria o di un alleato.
+! Una volta dopo ogni combattimento.
+
+### u001624
+<u>(2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g})</u>
+
+### u001625
+<u>Slancio ottenuto</u>
+
+### u001626
+<u>(bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} / 2)</u>
+
+### u001627
+<u>Punti azione</u>
+
+### u001628
+Questo personaggio è stato bersaglio dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:5bfccf14d8604ae1a041fb347fb8f19f}Bring It Down!{/g} in questo {g|Encyclopedia:Round}round{/g} e non può esserlo di nuovo.
+
+### u001629
+L'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} costringe un alleato a spingersi al limite, aumentando le sue {g|Encyclopedia:Characteristic}caratteristiche{/g} di +{uip|BonusStats|9c78e44bf8ff44a9afff8370c673c9ad} per 1 {g|Encyclopedia:Round}round{/g}.
+Inoltre, tutte le {g|Encyclopedia:Ability}abilità{/g} dell'Officer possono essere applicate al bersaglio di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} a qualsiasi distanza.
+Un personaggio che diventa bersaglio di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} non può essere di nuovo bersaglio di quest'abilità per i 2 round successivi.
+
+### u001630
+Voice of Command
+
+### u001631
+<u>(5 + 2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g})</u>
+
+### u001632
+<u>(10 + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g})</u>
+
+### u001633
+<u>Bonus alle caratteristiche</u>
+
+### u001634
+Questo personaggio non può essere bersaglio dell'{g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} {g|Encyclopedia:Ability}abilità{/g}.
+
+### u001635
+Sfinito
+
+### u001636
+L'Officer concede immediatamente a un alleato {g|Encyclopedia:MovementPoints}PM{/g} aggiuntivi pari a {unit_stat|WarhammerFellowship|bonus}. Durante questo {g|Encyclopedia:ExtraTurn}turno extra{/g} il bersaglio può usare solo abilità di movimento, {g|Encyclopedia:HeroicAct}Atti Eroici{/g} o {g|Encyclopedia:DesperateMeasure}Misure Disperate{/g}.
+Se il bersaglio è sotto l'effetto di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}, ignora gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} fino alla fine del turno dell'Officer.
+
+### u001637
+Move, Move, Move!
+
+### u001638
+<u>(2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g})</u>
+
+### u001639
+<u>Ferite temporanee</u>
+
+### u001640
+L'Officer incoraggia un alleato, che si riprende immediatamente dagli effetti di {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:ToxinEffect}tossina{/g} e {g|Encyclopedia:Stun}stordimento{/g}.
+Se il bersaglio è sotto l'effetto di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}, ottiene anche +{uip|TemporaryWounds|083057fc1a6b47f29ea0409337135030} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+
+### u001641
+Get Back in the Fight!
+
+### u001642
+Navigator
+
+### u001643
+Lo psyker investe i bersagli con un colpo telecinetico, infliggendo <u>((da 1 a 4) + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWillpower}WP{/g} / 2)</u> danni e tentando di gettare i bersagli {g|Encyclopedia:ProneEffect}a terra{/g}. I bersagli devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Toughness con una penalità di −<u>(5 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u> per restare in piedi.
+
+### u001644
+Assail
+
+### u001645
+Colpisce a catena fino a 4 bersagli entro un raggio di 3 caselle, infliggendo {uip|Damage|7b68b4aa3c024f348a20dce3ef172e40} {g|Encyclopedia:DamageGlossary}danni{/g} a ciascuno.
+
+### u001646
+Lightning Arc
+
+### u001647
+Colpisce a catena fino a 6 bersagli entro un raggio di 6 caselle, infliggendo {uip|Damage|3c48374cbe244fc2bb8b6293230a6829} {g|Encyclopedia:DamageGlossary}danni{/g} a ciascuno.
+
+### u001648
+Lightning Arc (Desperate Measure)
+
+### u001649
+<u>(2 × livello di potenza del bastone dello psyker × {g|Encyclopedia:PsyRating}livello psichico{/g} + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker)</u>
+
+### u001650
+Colpisce a catena fino a 6 bersagli entro un raggio di 6 caselle, infliggendo {uip|Damage|635161f3087c4294bf39c5fefe3d01af} {g|Encyclopedia:DamageGlossary}danni{/g} a ciascuno. Ignora i bersagli amici.
+
+### u001651
+Lightning Arc (Heroic Act)
+
+### u001652
+<u>(livello di potenza del bastone dello psyker × {g|Encyclopedia:PsyRating}livello psichico{/g} + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker)</u>
+
+### u001653
+Lo psyker costringe il bersaglio ad attaccare il suo alleato più vicino. Il bersaglio deve superare una {g|Encyclopedia:WarhammerWillpower}Willpower{/g} {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} per riprendere il controllo del proprio corpo.
+
+### u001654
+Hallucination
+
+### u001655
+Tutti coloro che si trovano entro un cono di 7 caselle davanti allo psyker subiscono i danni di {g|f:fa305ba4e2aa48f394608d1ccfc6d385}Psychic Shriek{/g} e sono costretti a superare una {g|Encyclopedia:WarhammerWillpower}Willpower{/g} {g|Encyclopedia:ResistanceTest}prova di resistenza{/g}. Tutti i bersagli che falliscono la prova sono {g|Encyclopedia:Stun}storditi{/g} fino al prossimo turno dello psyker.
+
+### u001656
+Lo psyker infligge i danni di {g|f:fa305ba4e2aa48f394608d1ccfc6d385}Psychic Shriek{/g} a tutti coloro che si trovano entro un cono di 7 caselle davanti a sé e li costringe a superare una {g|Encyclopedia:WarhammerWillpower}Willpower{/g} {g|Encyclopedia:ResistanceTest}prova di resistenza{/g}. Tutti i bersagli che falliscono la prova sono {g|Encyclopedia:Stun}storditi{/g} fino al prossimo turno dello psyker.
+
+### u001657
+Psychic Assault
+
+### u001658
+Psychic Shriek
+
+### u001659
+<u>((da 1 a 8) + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u001660
+<u>(1 + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u001661
+<u>(4 + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker × (1 + {g|Encyclopedia:PsyRating}livello psichico{/g}))</u>
+
+### u001662
+Psyker
+
+### u001663
+[draft] Lo Psyker protegge il bersaglio con uno <b>Telekinetic Shield</b> che concede un ulteriore +<u>5×({g|Encyclopedia:PsyRating}livello psichico{/g})</u>% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro gli attacchi a distanza.
+
+### u001664
+[draft] Telekinetic Shield
+
+### u001665
+[draft] <u>5×({g|Encyclopedia:PsyRating}livello psichico{/g})</u>%
+
+### u001666
+[draft]Armatura
+
+### u001667
+[draft]Lo Psycker avvolge il bersaglio in un vortice turbinante di poteri telecinetici che a ogni {g|Encyclopedia:Round}round{/g} attira i nemici verso il proprio centro e danneggia quelli al suo interno.
+I nemici devono superare una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} per allontanarsi dal vortice. Quelli che raggiungono l'area adiacente al centro subiscono ulteriori {g|Encyclopedia:DamageGlossary}danni{/g} e restano {g|Encyclopedia:Stun}storditi{/g}.
+
+### u001668
+[draft]Psychic Maelstrom
+
+### u001669
+[draft]La creatura è {g|Encyclopedia:Stun}stordita{/g}.
+
+### u001670
+Il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} sceglie un singolo nemico, giurando di eliminare la propria preda. Il prossimo attacco del Bladedancer contro il nemico scelto non può essere {g|Encyclopedia:DodgeGlossary}schivato{/g} né parato. Se quest'attacco uccide il bersaglio, il Bladedancer recupera +{uip|Heal|590c990c1d684fd09ae883754d28a8ac} {g|Encyclopedia:HitPoints}ferite{/g} e ottiene +1 {g|Encyclopedia:ActionPoints}PA{/g} insieme a un attacco aggiuntivo in questo {g|Encyclopedia:Turn}turno{/g}.
+Quest'{g|Encyclopedia:Ability}abilità{/g} può essere usata più volte per turno, ma concede +1 {g|Encyclopedia:ActionPoints}PA{/g} e un attacco aggiuntivo solo una volta per {g|Encyclopedia:Round}round{/g}.
+
+### u001671
+Blood Oath
+
+### u001672
+I Bladedancer sono maestri della spada rapidi e letali, specializzati nell'infliggere raffiche di colpi veloci e in grado di sacrificare parte della propria salute per potenziare le loro capacità nel combattimento ravvicinato. I Bladedancer preferiscono evitare gli attacchi nemici, parando, schivando o riposizionandosi rapidamente prima dei contrattacchi nemici. Hanno persino la capacità di parare gli attacchi a distanza.
+Focus principale: mischia, spade, movimento, schivata, parata.
+
+### u001673
+Bladedancer
+
+### u001674
+Gli attacchi con l'arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} scelta sono più difficili da {g|Encyclopedia:Parry}parare{/g} del 20%. I suoi danni e la sua {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} aumentano di +2.
+
+### u001675
+Gli attacchi con l'arma a distanza scelta ottengono un bonus del +20% alla {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}. Il suo {g|Encyclopedia:Recoil}rinculo{/g} è ridotto del −25% e la sua {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} è aumentata del +25% (di almeno 1 colpo).
+
+### u001676
+Gli attacchi con l'arma a distanza scelta ottengono un bonus del +20% alla {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}. I suoi {g|Encyclopedia:DamageGlossary}danni{/g} e la sua {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} aumentano di +2.
+
+### u001677
+<u>(50 + 10 × bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g})</u>
+
+### u001678
+<u>(10 + 2 × bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g})</u>
+
+### u001679
+Il Soldier spende immediatamente tutti i suoi {g|Encyclopedia:ActionPoints}PA{/g} e {g|Encyclopedia:MovementPoints}PM{/g} e ottiene un bonus del +30% all'{g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g}.
+La prossima volta che il Soldier usa {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g}, riottiene tutti i PA e PM spesi più 1 PA aggiuntivo. Azzera inoltre il tempo di ricarica di tutte le altre abilità del Soldier tranne {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g}.
+
+### u001680
+Il Soldier scatta immediatamente nella direzione selezionata, spendendo tutti i suoi {g|Encyclopedia:MovementPoints}punti movimento{/g}. Non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}. Permette al Soldier di scattare attraverso alleati e nemici, ma non attraverso gli ostacoli.
+
+### u001681
+Dash
+
+### u001682
+<u>(2 + bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} / 2)</u>
+
+### u001683
+<u>PM bonus</u>
+
+### u001684
+Il Soldier subisce una {g|Encyclopedia:Penalty}penalità{/g} di −10 alla {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e non può usare {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g}.
+
+### u001685
+Winded
+
+### u001686
+Il Soldier ottiene +{uip|MovementPoints|5e60764f84c94277ae6a78b63a1fd2aa} {g|Encyclopedia:MovementPoints}PM{/g}. Il suo prossimo attacco costa 1 {g|Encyclopedia:ActionPoints}PA{/g} in meno e non conta ai fini del limite di attacchi per turno.
+Fino alla fine del turno successivo, il Soldier entra nello stato winded. Mentre è winded, il Soldier subisce una penalità di −10 alla {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e non può usare {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g}.
+
+### u001687
+Run and Gun
+
+### u001688
+Gli Aeldari sono sovrannaturalmente agili e possono far avanzare {g|Encyclopedia:WarhammerAgility}Agility{/g}, {g|Encyclopedia:WarhammerPerception}Perception{/g} e la competenza {g|Encyclopedia:SkillAwareness}Awareness{/g} indipendentemente dai loro archetipi.
+Ottengono inoltre +15% di probabilità di {g|Encyclopedia:DodgeGlossary}schivata{/g} e +2 di {g|Encyclopedia:InitiativeGlossary}iniziativa{/g}.
+
+### u001689
+I Figli di Asuryan
+
+### u001690
+L'{g|Encyclopedia:WarhammerAgility}Agility{/g} (AGI) misura la rapidità, i riflessi e l'equilibrio di un personaggio. Un'alta Agility permette a un personaggio di maneggiare con maestria esplosivi delicati o di mantenere l'equilibrio attraversando terreni insidiosi. Migliora l'{g|Encyclopedia:InitiativeGlossary}iniziativa{/g}, la probabilità di {g|Encyclopedia:DodgeGlossary}schivata{/g} e la reazione del personaggio. Se un personaggio usa un'arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, la sua {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} è pari alla metà della sua Agility.
+Influisce anche sulla competenza Demolition.
+
+### u001691
+Agility +5
+
+### u001692
+Ballistic Skill +5
+
+### u001693
+La {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} (BS) riflette la precisione di un personaggio con ogni tipo di arma a {g|Encyclopedia:Range}distanza{/g} e determina la traiettoria dei colpi in una raffica. Un'alta Ballistic Skill indica un tiratore abile, qualcuno da temere in una sparatoria o in una scaramuccia. La {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} base degli attacchi a distanza entro la gittata efficace di un'arma è <u>(30 + BS)</u>%.
+
+### u001694
+La Fellowship (FEL) rappresenta la capacità di un personaggio di interagire con altre creature, di ingannarle, affascinarle o farsele amiche. Un'alta Fellowship aiuta un personaggio a trovare il modo di avvicinare un gruppo di servitori poco socievoli o a concludere senza fatica accordi con mercanti infidi.
+Influisce anche sulle competenze {g|Encyclopedia:SkillPersuasion}Persuasion{/g}, {g|Encyclopedia:SkillCoercion}Coercion{/g} e {g|Encyclopedia:SkillCommerce}Commerce{/g}.
+
+### u001695
+Fellowship +5
+
+### u001696
+L'{g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} (INT) misura l'acume, la ragione e la conoscenza del personaggio. Per ogni punto di bonus di Intelligence, i personaggi infliggono +5% di danni in più con {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} a {g|Encyclopedia:Range}distanza{/g} non a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}.
+Influisce anche sulle competenze {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}, Lore (Warp), Lore (Xenos), Logic, Medicae e Tech-Use.
+
+### u001697
+Intelligence +5
+
+### u001698
+La {g|Encyclopedia:WarhammerPerception}Perception{/g} (PER) descrive quanto bene un personaggio percepisce ciò che lo circonda. I personaggi con alta Perception sanno individuare un bossolo di bolter smarrito nel pantano quotidiano di un sottoformicaio, o persino capire quando qualcuno sta mentendo.
+Influisce anche sulla {g|Encyclopedia:Skills}competenza{/g} {g|Encyclopedia:SkillAwareness}Awareness{/g} e riduce la probabilità di {g|Encyclopedia:DodgeGlossary}schivata{/g} dei nemici contro gli attacchi del personaggio.
+
+### u001699
+Perception +5
+
+### u001700
+La {g|Encyclopedia:WarhammerStrength}Strength{/g} (STR) rappresenta la forza fisica di un personaggio. Influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} che un personaggio infligge con le armi da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} e gli permette di sollevare oggetti più pesanti. Per ogni punto di bonus di Strength, i personaggi infliggono +5% di danni in più con armi da mischia a una mano e +10% di danni in più con armi da mischia a due mani.
+Influisce anche sulla {g|Encyclopedia:Skills}competenza{/g} {g|Encyclopedia:SkillAthletics}Athletics{/g}.
+
+### u001701
+Strength +5
+
+### u001702
+La {g|Encyclopedia:WarhammerToughness}Toughness{/g} (TGH) definisce con quanta facilità un personaggio ignora il dolore, nonché con quanta facilità resiste a tossine, ambienti velenosi, malattie e altri malanni fisici. Aumenta la probabilità di resistere agli {g|Encyclopedia:CommonStatusesGlossary}effetti{/g} fisici negativi e la quantità di {g|Encyclopedia:HitPoints}ferite{/g} del personaggio. Per ogni punto di bonus di Toughness, i personaggi ottengono +10% di ferite.
+Influisce anche sulla {g|Encyclopedia:Skills}competenza{/g} {g|Encyclopedia:SkillCarouse}Carouse{/g}.
+
+### u001703
+Toughness +5
+
+### u001704
+Weapon Skill +5
+
+### u001705
+La {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} (WS) riflette la competenza di un personaggio in ogni forma di combattimento ravvicinato. Aumenta la sua {g|Encyclopedia:Parry}parata{/g} e riduce la probabilità di parata dei nemici contro gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}. Aumenta inoltre la probabilità di mettere a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} nel combattimento in mischia.
+
+### u001706
+La {g|Encyclopedia:WarhammerWillpower}Willpower{/g} (WP) riflette la capacità di un personaggio di resistere agli orrori del warp, ai terrori dello spazio e agli spaventosi avversari che inevitabilmente incontrerà nella Distesa di Koronus. Un'alta Willpower permette ai personaggi di esercitare controllo su una folla o di interrogare un eretico.
+Aumenta inoltre la probabilità di resistere agli {g|Encyclopedia:CommonStatusesGlossary}effetti{/g} mentali negativi e ai {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}.
+
+### u001707
+Willpower +5
+
+### u001708
+Grand Strategist
+
+### u001709
+Sempre nel cuore della battaglia, grazie alla loro leadership e al loro valore in combattimento, i {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} sono in grado di sfruttare lo {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} del proprio gruppo per potenziare l'efficacia in combattimento degli alleati e di se stessi.
+Focus principale: crescita in base al successo del gruppo, potenziamenti a lungo termine su un singolo bersaglio, slancio, versatilità.
+
+### u001710
+Master Tactician
+
+### u001711
+Quest'{g|Encyclopedia:Ability}abilità{/g} influisce sia sugli alleati sia sui nemici:
+<i>Alleati:</i> il {g|Encyclopedia:Recoil}rinculo{/g} è dimezzato per 1 {g|Encyclopedia:Round}round{/g}. La {g|Encyclopedia:DodgeGlossary}schivata{/g} degli alleati aumenta di +{uip|Percent|a01295a67a9a46579e46c3073d6a9aa9}% per 1 round.
+<i>Nemici:</i> la schivata è ridotta di −{uip|Percent|a01295a67a9a46579e46c3073d6a9aa9}% per 1 round. I nemici devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} o subire +1 accumulo di {g|f:e6ed7e168bfb4adb9fc73fb07b5e7020}convulsion{/g} fino alla fine del combattimento. Se il bersaglio possiede la caratteristica {g|f:ed0acc1731834a89bda8cc52ec769e3d}Reject the Flesh{/g} o {g|f:780497b04a0944e59cb57e68bb9775c4}Ferrum Sanctum{/g}, o se è un meccanismo o una macchina, effettua la prova con una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|Penalty|a01295a67a9a46579e46c3073d6a9aa9}.
+
+### u001712
+Machine Spirit Communion
+
+### u001713
+<u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerIntelligence}INT{/g} del Tecnoprete</u>
+
+### u001714
+<u>(2 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g} del Tecnoprete)</u>
+
+### u001715
+<u>(1 + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerIntelligence}INT{/g} del Tecnoprete)</u>
+
+### u001716
+<u>({g|Encyclopedia:SkillTechUse}Tech-Use{/g} del Tecnoprete / 2)</u>
+
+### u001717
+La creatura è {g|Encyclopedia:StaggeredEffect}barcollante{/g}. Inoltre, ogni accumulo di questo effetto aumenta di +20% i {g|Encyclopedia:ShockDamage}danni da shock{/g} subiti.
+
+### u001718
+Convulsion
+
+### u001719
+I mecadendriti balistici permettono al Tecnoprete di usare qualsiasi arma a distanza senza impegnare le mani.
+
+### u001720
+Ballistic Mechadendrite
+
+### u001721
+Un servoteschio aggiuntivo, collegato direttamente ai sistemi del Tecnoprete, aumenta di +10 la sua {g|Encyclopedia:WarhammerPerception}Perception{/g}.
+
+### u001722
+Scanner Mechadendrite
+
+### u001723
+Manipulator Mechadendrite
+
+### u001724
+<u>(bonus di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g} + bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g} del Tecnoprete)</u>
+
+### u001725
+<u>(5 × bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} del Tecnoprete)</u>
+
+### u001726
+Questo mecadendrite è dotato di ogni sorta di strumento per comunicare con gli spiriti macchina. Aumenta di +10 {g|Encyclopedia:SkillTechUse}Tech-Use{/g} e {g|Encyclopedia:SkillDemolition}Demolition{/g}.
+
+### u001727
+Utility Mechadendrite
+
+### u001728
+<u>({g|Encyclopedia:SkillMedicae}Medicae{/g} / 5)</u>
+
+### u001729
+I {g|Encyclopedia:ShockDamage}danni da shock{/g} aggiuntivi inflitti al bersaglio a causa dell'effetto {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g} sono ridotti di −5% per accumulo fino alla fine del combattimento.
+
+### u001730
+<i>Danni:</i>
+
+### u001731
+<i>Penetrazione:</i>
+
+### u001732
+<u>Penetrazione</u>
+
+### u001733
+Concede un {g|Encyclopedia:Bonus}bonus{/g} di +15 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} con le asce omnissiane.
+
+### u001734
+Secutor Melee Protocols
+
+### u001735
+Il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} cura 1 {g|Encyclopedia:Injury}lesione recente{/g}.
+
+### u001736
+Il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} ottiene +2 di {g|Encyclopedia:DodgeGlossary}schivata{/g} e di {g|Encyclopedia:Parry}parata{/g} per ogni {g|Encyclopedia:MovementPoints}PM{/g} non utilizzato in questo {g|Encyclopedia:Round}round{/g}.
+
+### u001737
+Defensive Stance
+
+### u001738
+Ogni attacco contro il Vanguard gli concede +1 accumulo di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g}. Ogni accumulo aumenta di +1 la sua {g|Encyclopedia:Resolve}determinazione{/g}, fino a un massimo di +15. Tutti gli alleati in un raggio di 2 caselle attorno al Vanguard ottengono 1/5 di quel {g|Encyclopedia:Bonus}bonus{/g}.
+Le {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} applicate al Vanguard ora si sommano, ma restano sommate solo fino all'inizio del turno del Vanguard. All'inizio del suo turno, le {g|Encyclopedia:HitPoints}ferite{/g} temporanee rimanenti vengono ridotte alla quantità maggiore concessa da un singolo effetto applicato. Se il numero di ferite temporanee rimanenti è inferiore al numero di accumuli di unyielding beacon, diventa pari al numero di quegli accumuli, anche se all'inizio del suo turno il Vanguard non ha ferite temporanee.
+
+### u001739
+Unyielding Beacon
+
+### u001740
+<u>(bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u001741
+<u>Accumuli massimi</u>
+
+### u001742
+<u>(3 + numero di accumuli di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g})</u>
+
+### u001743
+Il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} e tutti i suoi alleati in un raggio di 3 caselle attorno a lui ottengono +<u>(3 + numero di accumuli di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g})</u> {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+Tutti i bersagli colpiti subiscono il 50% di {g|Encyclopedia:DamageGlossary}danni{/g} in meno dal prossimo attacco. L'effetto dura fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} del Vanguard.
+
+### u001744
+Wall of Rockcrete
+
+### u001745
+La {g|Encyclopedia:DodgeGlossary}schivata{/g} del bersaglio è ridotta di −{uip|DodgePenalty|10e086fca83f44e0a4e040916d6ef587}.
+
+### u001746
+Misfortune
+
+### u001747
+<u>(20 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u001748
+<u>Penalità alla schivata</u>
+
+### u001749
+−50% di {g|Encyclopedia:MovementPoints}PM{/g} e {g|Encyclopedia:DodgeGlossary}schivata{/g}
+
+### u001750
+Il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una penalità di −{uip|ResistancePenalty|37a95446c4e74c77bf46439923527646}, altrimenti nel suo prossimo turno spenderà tutti i suoi {g|Encyclopedia:MovementPoints}punti movimento{/g} per avvicinarsi il più possibile allo psyker. Può agire normalmente, ma tutti i suoi PM vengono spesi per muoversi verso lo psyker.
+Alla fine del suo turno, il bersaglio deve effettuare di nuovo la {g|Encyclopedia:Test}prova{/g} di resistenza di Willpower, altrimenti resta sotto l'effetto.
+
+### u001751
+Dominate
+
+### u001752
+<u>(5 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u001753
+<u>Penalità alla prova di resistenza di Willpower</u>
+
+### u001754
+Concede l'immunità ai {g|Encyclopedia:ToxicDamage}danni tossici{/g} e infligge una {g|Encyclopedia:Penalty}penalità{/g} di −10 di {g|Encyclopedia:WarhammerToughness}Toughness{/g} fino alla fine del combattimento.
+
+### u001755
+Antidoto adattivo
+
+### u001756
+Concede l'immunità ai {g|Encyclopedia:ToxicDamage}danni tossici{/g} fino alla fine del combattimento.
+
+### u001757
+Antitossina
+
+### u001758
+Concede un {g|Encyclopedia:Bonus}bonus{/g} di +10 di {g|Encyclopedia:WarhammerStrength}Strength{/g}, {g|Encyclopedia:WarhammerToughness}Toughness{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g} e infligge una penalità di −10 di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, {g|Encyclopedia:WarhammerPerception}Perception{/g} e {g|Encyclopedia:WarhammerWillpower}Willpower{/g} per 2 round.
+
+### u001759
+L'utilizzatore ottiene +1 {g|Encyclopedia:ActionPoints}PA{/g} e azzera immediatamente il tempo di ricarica di tutti gli attacchi e di tutte le {g|Encyclopedia:Ability}abilità{/g} d'attacco. All'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} dell'utilizzatore, questi diventa {g|Encyclopedia:StaggeredEffect}barcollante{/g} fino alla fine del combattimento.
+
+### u001760
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Aderente
+L'utilizzatore subisce {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (6). Finché l'utilizzatore sanguina, ottiene +100% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g}.
+
+### u001761
+Concede +15 di {g|Encyclopedia:WarhammerPerception}Perception{/g}, e tutti i {g|Encyclopedia:DamageGlossary}danni{/g} sia inflitti sia subiti dall'utilizzatore aumentano di +10% la sua {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico per ogni istanza di danno. Questo effetto dura 2 {g|Encyclopedia:Turn}turni{/g}, dopodiché l'utilizzatore diventa {g|Encyclopedia:StaggeredEffect}barcollante{/g}.
+
+### u001762
+Stimolante del piacere di battaglia
+
+### u001763
+L'utilizzatore perde tutte le proprie ferite temporanee e aumenta dello stesso ammontare i propri danni in mischia per 1 round.
+
+### u001764
+Intossicanti cremisi
+
+### u001765
+Concede l'immunità ai {g|Encyclopedia:WarpDamage}danni warp{/g} e infligge una {g|Encyclopedia:Penalty}penalità{/g} di −10 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}, ma l'utilizzatore non può infliggere {g|Encyclopedia:DamageGlossary}danni{/g} warp fino alla fine del combattimento.
+
+### u001766
+Elisir della neutralità del warp
+
+### u001767
+Concede l'immunità ai {g|Encyclopedia:FireDamage}danni da fuoco{/g} e al {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, ma riduce di −10 l'{g|Encyclopedia:WarhammerAgility}Agility{/g} e di −2 i {g|Encyclopedia:MovementPoints}punti movimento{/g} fino alla fine del combattimento.
+
+### u001768
+Ignifugo
+
+### u001769
+L'utilizzatore raddoppia immediatamente i propri {g|Encyclopedia:MovementPoints}PM{/g} e riduce di −2 {g|Encyclopedia:ActionPoints}PA{/g} il costo delle proprie {g|Encyclopedia:Ability}abilità{/g} che non sono attacchi (fino a un minimo di 0) fino alla fine del suo turno. Quando l'effetto termina, l'utilizzatore subisce {g|Encyclopedia:SlowedEffect}rallentamento{/g} e {g|Encyclopedia:StaggeredEffect}barcollamento{/g} per 1 round.
+
+### u001770
+Lampo
+
+### u001771
+Aumenta di +2 la {g|Encyclopedia:Resolve}determinazione{/g} dell'utilizzatore per ogni livello di {g|Encyclopedia:SoulMarkHope}Iconoclast{/g}, diminuendo al contempo di −10 tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del combattimento. Non è cumulabile.
+
+### u001772
+Furore
+
+### u001773
+L'utilizzatore ottiene in modo permanente +1 di {g|Encyclopedia:PsyRating}livello psichico{/g} e +30% di probabilità di innescare i {g|Encyclopedia:PerilsOfWarp}pericoli del warp{/g}.
+
+### u001774
+Emulsione scintillante
+
+### u001775
+L'utilizzatore ottiene in modo permanente +1 di {g|Encyclopedia:Deflection}deviazione{/g}, ma subisce −10 di {g|Encyclopedia:WarhammerAgility}Agility{/g}.
+
+### u001776
+Soluzione viscosa
+
+### u001777
+L'utilizzatore ottiene +20 di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} e {g|Encyclopedia:WarhammerWillpower}Willpower{/g} per 2 {g|Encyclopedia:Round}round{/g}. Dopodiché subisce −20 di Willpower fino alla fine del combattimento.
+
+### u001778
+Neurostimolante
+
+### u001779
+Aumenta all'istante di +6 i {g|Encyclopedia:MovementPoints}punti movimento{/g} e concede 2 cariche dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g}, ma riduce di −15 {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} fino all'inizio del prossimo turno dell'utilizzatore.
+
+### u001780
+Assalto
+
+### u001781
+L'utilizzatore subisce −10 {g|Encyclopedia:DamageGlossary}danni{/g} da qualsiasi fonte fino alla fine del combattimento. Al termine del combattimento, subisce 1 {g|Encyclopedia:Traumas}trauma{/g} casuale.
+
+### u001782
+Blocca-dolore
+
+### u001783
+Concede +70% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} e riduce di −70% la {g|Encyclopedia:DodgeGlossary}schivata{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u001784
+Stimolante da tiro preciso
+
+### u001785
+Gli attacchi dell'utilizzatore non contano ai fini del limite di attacchi fino alla fine di questo {g|Encyclopedia:Turn}turno{/g}. Dopodiché, l'utilizzatore perde i sensi ({g|Encyclopedia:UnconsciousEffect}privo di sensi{/g}).
+
+### u001786
+Furia
+
+### u001787
+Gli attacchi dell'utilizzatore infliggono +{uip|Damage|5433415371084b559e028fb201b83b9d} {g|Encyclopedia:WarpDamage}danni warp{/g} aggiuntivi fino alla fine del turno. In questo turno, ogni attacco con {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} dell'utilizzatore innesca i {g|Encyclopedia:PerilsOfWarp}pericoli del warp{/g}.
+
+### u001788
+Pandemonio
+
+### u001789
+Concede +2 {g|Encyclopedia:MovementPoints}PM{/g} e +2 {g|Encyclopedia:ActionPoints}PA{/g} per il {g|Encyclopedia:Round}round{/g} successivo.
+
+### u001790
+L'utilizzatore ottiene immediatamente +4 {g|Encyclopedia:MovementPoints}PM{/g} e +4 {g|Encyclopedia:ActionPoints}PA{/g}. Nel {g|Encyclopedia:Turn}turno{/g} successivo i suoi PM e PA sono ridotti di −2.
+### u001791
+Stimm
+
+### u001792
+Concede l'immunità ai {g|Encyclopedia:WarpDamage}danni warp{/g} e infligge una {g|Encyclopedia:Penalty}penalità{/g} di −10 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}, ma l'utilizzatore non può infliggere {g|Encyclopedia:DamageGlossary}danni{/g} warp per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u001793
+Concede +40% di {g|Encyclopedia:DodgeGlossary}schivata{/g} fino all'inizio del {g|Encyclopedia:Round}round{/g} successivo. L'utilizzatore subisce una penalità di −10 di {g|Encyclopedia:WarhammerAgility}Agility{/g}, {g|Encyclopedia:WarhammerStrength}Strength{/g} e {g|Encyclopedia:WarhammerWillpower}Willpower{/g} durante il round successivo.
+
+### u001794
+Rapidità oscura
+
+### u001795
+Concede +30% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e infligge una {g|Encyclopedia:Penalty}penalità{/g} di −20 di {g|Encyclopedia:WarhammerAgility}Agility{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u001796
+Ossificatore
+
+### u001797
+Infligge <u>(da 10 a 20)</u> {g|Encyclopedia:EnergyDamage}danni energetici{/g} con 40% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e acceca i nemici per 2 {g|Encyclopedia:Turn}turni{/g} se falliscono una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una penalità di −10.
+
+### u001798
+Granata al plasma aeldari
+
+### u001799
+Questa granata acceca tutti i nemici nell'area per 2 turni se falliscono una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}. I nemici che superano quella prova di Toughness diventano {g|Encyclopedia:DisturbedEffect}turbati{/g} per 2 turni.
+
+### u001800
+Granata accecante
+
+### u001801
+Fiala di sangue
+
+### u001802
+Crea per 1 round una zona di paura nell'area dell'esplosione.
+<i>Zona di paura</i>: tutte le creature nell'area devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}, altrimenti escono immediatamente dalla zona anche se sono {g|Encyclopedia:Stun}stordite{/g} o {g|Encyclopedia:ImmobilisedEffect}immobilizzate{/g}. Questo movimento provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} da parte degli alleati dell'utilizzatore dell'abilità che hanno superato la prova di resistenza o che si trovano fuori dalla zona.
+
+### u001803
+Granata Dreadmonger
+
+### u001804
+Questa granata crea un'area {g|Encyclopedia:BurningEffect}in fiamme{/g} che dura 3 {g|Encyclopedia:Round}round{/g}. Qualsiasi creatura che entra in quell'area (o si trova al suo interno nel momento in cui l'effetto viene applicato) subisce 10 {g|Encyclopedia:FireDamage}danni da fuoco{/g} con 20% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e in fiamme (6) per 3 round.
+
+### u001805
+Granata incendiaria
+
+### u001806
+I bersagli entro l'{g|Encyclopedia:AreaOfEffect}area d'effetto{/g} devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Agility con una penalità di −{uip|DC|6225349f83d04650818bfec56bcede5d}, altrimenti restano {g|Encyclopedia:BlindedEffect}accecati{/g} e subiscono +2 accumuli di {g|Encyclopedia:PerplexedEffect}confuso{/g} per 1 round.
+Se chi la impugna possiede {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Zelota, tutti i suoi alleati ignorano questo effetto.
+
+### u001807
+Granata flash
+
+### u001808
+Infligge <u>(da 18 a 40)</u> {g|Encyclopedia:ImpactDamage}danni da impatto{/g} con 25% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001809
+Infligge <u>(da 12 a 24)</u> {g|Encyclopedia:ImpactDamage}danni da impatto{/g} nell'area. Questo attacco ha 20% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001810
+Granata a frammentazione
+
+### u001811
+Crea un'area tossica che dura 4 {g|Encyclopedia:Round}round{/g} e infligge 8 {g|Encyclopedia:ToxicDamage}danni tossici{/g} a chiunque vi entri o inizi il proprio round al suo interno.
+
+### u001812
+Granata a nube di gas
+
+### u001813
+Infligge <u>(da 40 a 70)</u> danni energetici con 10% di penetrazione dell'armatura e {g|Encyclopedia:PushGlossary}respinge{/g} i bersagli di 3 caselle.
+
+### u001814
+Ficeline industriale
+
+### u001815
+Infligge <u>(da 10 a 15)</u> {g|Encyclopedia:ToxicDamage}danni tossici{/g} con 20% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e 20% di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g}. Tutte le creature nell'area d'effetto effettuano una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Willpower. Se la falliscono, la creatura attacca immediatamente un alleato dalla sua posizione attuale.
+
+### u001816
+Granata haywire
+
+### u001817
+Ogni volta che chi la impugna usa questa granata, subisce 5 {g|Encyclopedia:DirectDamage}danni diretti{/g}.
+Questa granata crea un'area {g|Encyclopedia:BurningEffect}in fiamme{/g} che dura 3 round. Qualsiasi creatura che entra in quell'area (o si trova al suo interno nel momento in cui l'effetto viene applicato) subisce 10 {g|Encyclopedia:FireDamage}danni da fuoco{/g} con 30% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e {uip|Damage|2aa737e3159f4e06af5ba0409c910f1e} livelli di fiamme.
+
+### u001818
+Fuoco sacro
+
+### u001819
+Infligge 5 {g|Encyclopedia:EnergyDamage}danni energetici{/g} nell'area e {g|Encyclopedia:PushGlossary}respinge{/g} i bersagli di 2 caselle.
+Se un bersaglio in quest'area fallisce una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}, cade {g|Encyclopedia:ProneEffect}a terra{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u001820
+Granata di forza
+
+### u001821
+Infligge <u>(da 35 a 70)</u> {g|Encyclopedia:ImpactDamage}danni da impatto{/g} con 50% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001822
+Granata krak modificata
+
+### u001823
+Infligge <u>(da 24 a 48)</u> {g|Encyclopedia:ImpactDamage}danni da impatto{/g} con 40% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001824
+Granata krak
+
+### u001825
+Infligge <u>(da 25 a 50)</u> {g|Encyclopedia:ToxicDamage}danni tossici{/g} con 20% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e infligge +3 accumuli dell'effetto {g|Encyclopedia:MeltingEffect}in fusione{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u001826
+Granata liquefacente
+
+### u001827
+Il nemico colpito si trasforma immediatamente in un alleato e ottiene un turno extra. Non appena il turno extra termina, il bersaglio torna a essere un nemico.
+Tutti i nemici di livello di difficoltà V o superiore sono immuni a questo effetto.
+
+### u001828
+Granata mindtwitch
+
+### u001829
+Infligge <u>(da 16 a 32)</u> {g|Encyclopedia:RendingDamage}danni laceranti{/g} con 15% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001830
+Granata monofilamento
+
+### u001831
+Questa granata crea per 1 {g|Encyclopedia:Round}round{/g} un'area di materiale appiccicoso e infiammabile. Ogni volta che una creatura entra nell'area o si trova al suo interno nel momento in cui compare, subisce +{uip|INTB+5|c738632d62bd40d2ae1fdf8a79ee6d2f} accumuli di {g|f:55f46da5facc4a7cb6a19166d7f2bd44}covered in oil{/g}. Se una creatura si trova nell'area nel momento in cui scompare, subisce +{uip|INTB|c738632d62bd40d2ae1fdf8a79ee6d2f} accumuli di {g|f:55f46da5facc4a7cb6a19166d7f2bd44}covered in oil{/g}. Ogni accumulo di questo effetto aumenta di +1 tutti i danni da fuoco o da {g|Encyclopedia:BurningEffect}fiamme{/g} subiti dalla creatura.
+
+### u001832
+Granata d'olio
+
+### u001833
+Questa granata crea un'area tossica di fumo denso che dura 4 round e diminuisce di −50% la probabilità di {g|Encyclopedia:HitSequenceGlossary}colpire{/g} e di essere colpiti con {g|Encyclopedia:RangeAreaAttacksGlossary}armi a distanza{/g}.
+Se il bersaglio in quell'area fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una penalità di −{uip|DC|b4badfcae32246c28ccecdef5f5ae9ef}, subisce {g|Encyclopedia:ToxinEffect}tossina{/g} (20).
+
+### u001834
+Granata di fumo pungente
+
+### u001835
+Infligge <u>(2 × {g|Encyclopedia:Deflection}deviazione{/g} del bersaglio + {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio / 2)</u> {g|Encyclopedia:DirectDamage}danni diretti{/g}.
+
+### u001836
+Granata a risonanza
+
+### u001837
+I bersagli entro l'area d'effetto devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}, altrimenti restano {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} per 1 round. Se superano la prova, i bersagli subiscono l'effetto {g|Encyclopedia:SlowedEffect}rallentato{/g}.
+
+### u001838
+Granata immobilizzante
+
+### u001839
+La granata emette un lampo di luce accecante e un forte boato. Le creature colte nell'esplosione devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una penalità di −{uip|DC|dc1eb1001219401c89028766dd8b5de4}, altrimenti restano {g|Encyclopedia:Stun}stordite{/g} per 1 turno. Se superano la prova, le creature subiscono +1 accumulo di {g|Encyclopedia:PerplexedEffect}confuso{/g}.
+
+### u001840
+Granata stordente
+
+### u001841
+Tutte le creature che entrano nell'{g|Encyclopedia:AreaOfEffect}area d'effetto{/g} creata da questa granata devono superare {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} di Strength, Toughness e Willpower con una penalità di −{uip|Penalty|2b150176c39a438f8db2c203e8202f4c}.
+-<indent=5%>Se la prova di Toughness fallisce, il bersaglio resta {g|Encyclopedia:BlindedEffect}accecato{/g} per 2 round.</indent>
+-<indent=5%>Se la prova di Strength fallisce — {g|Encyclopedia:SlowedEffect}rallentato{/g} per 2 round.</indent>
+-<indent=5%>Se la prova di Willpower fallisce — {g|Encyclopedia:DisturbedEffect}turbato{/g} per 2 round.</indent>
+
+### u001842
+Infligge <u>(da 40 a 50)</u> {g|Encyclopedia:EnergyDamage}danni energetici{/g} con 60% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001843
+Granata tesla
+
+### u001844
+Questa granata crea una zona tossica fino alla fine del combattimento.
+Ogni creatura all'interno di quella zona subisce 50 {g|Encyclopedia:ToxicDamage}danni tossici{/g}.
+
+### u001845
+Granata tossica
+
+### u001846
+Infligge <u>(da 50 a 100)</u> {g|Encyclopedia:ShockDamage}danni da shock{/g} con 30% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+Infligge inoltre +2 accumuli di {g|Encyclopedia:PerplexedEffect}confuso{/g} fino alla fine del combattimento.
+All'inizio di ogni {g|Encyclopedia:Turn}turno{/g} del bersaglio, questi ottiene un ulteriore +1 accumulo di confuso.
+
+### u001847
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Zelota
+Infligge <u>(da 30 a 40)</u> {g|Encyclopedia:WarpDamage}danni warp{/g}.
+
+### u001848
+Granata warp
+
+### u001849
+Infligge <u>(da 8 a 10)</u> {g|Encyclopedia:DamageGlossary}danni{/g} mentali e infligge +6 accumuli dell'effetto {g|Encyclopedia:DisturbedEffect}turbato{/g}. A partire dal {g|Encyclopedia:Round}round{/g} successivo, ogni round viene rimosso –1 accumulo di turbato.
+Inoltre, questa granata riduce di −1 il {g|Encyclopedia:PsyRating}livello psichico{/g} del bersaglio fino alla fine del combattimento. Questo effetto non è cumulabile.
+
+### u001850
+Granata di ossospettro
+
+### u001851
+Infligge <u>(da 20 a 40)</u> {g|Encyclopedia:PiercingDamage}danni perforanti{/g} con 45% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e ulteriori 30 {g|Encyclopedia:DamageGlossary}danni{/g} mentali.
+
+### u001852
+Granata xenospasmo
+
+### u001853
+-<indent=5%>Ripristina {uip|Heal|dd2e9a6170b448d4b2ec5a7fe0321e65} {g|Encyclopedia:HitPoints}ferite{/g}.</indent>
+-<indent=5%>Rimuove {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}fiamme{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g}.</indent>
+-<indent=5%>Cura una lesione recente o, se non ce ne sono, una lesione vecchia con una {g|Encyclopedia:Test}prova{/g} di Medicae superata.</indent>
+-<indent=5%>Contiene stimolanti da battaglia che concedono +20 di Strength per 3 round.</indent>
+-<indent=5%>Se il personaggio possiede i talenti {g|f:91932ac8a5794d5cb9ed539bf7d528a2}Combat Medicae{/g} o {g|f:9aefa8d7db3349358e23b2106578353b}Field Medic{/g}, la quantità di ferite ripristinate aumenterà dei bonus forniti da questi talenti.</indent>
+
+### u001854
+Kit medico stimolante da battaglia
+
+### u001855
+-<indent=5%>Ripristina {uip|Heal|ededbc48a7f24738a0fdb708fc48bb4c} {g|Encyclopedia:HitPoints}ferite{/g}.</indent>
+-<indent=5%>Rimuove efficacemente i {g|Encyclopedia:Traumas}traumi{/g}.</indent>
+
+### u001856
+Questo dispositivo versatile aumenta di +5 il {g|Encyclopedia:SkillTechUse}Tech-Use{/g} di chi lo impugna.
+
+### u001857
+Utensile multiuso
+
+### u001858
+Fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} il bersaglio ottiene 50 {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} e 1 accumulo di {g|Encyclopedia:FatiguedEffect}affaticato{/g} fino alla fine del combattimento.
+
+### u001859
+Infusione curativa della danza di battaglia
+
+### u001860
+Ripristina il 15% delle ferite {g|Encyclopedia:HitPoints}massime{/g} per ogni rango della {g|Encyclopedia:SoulmarkTypesGlossary}convinzione{/g} dell'utilizzatore — {g|Encyclopedia:SoulMarkHope}Iconoclast{/g}. Rimuove tutte le {g|Encyclopedia:Injury}lesioni{/g}.
+Rimuove gli effetti negativi di {g|Encyclopedia:ToxinEffect}tossina{/g}, {g|Encyclopedia:BurningEffect}fiamme{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:FatiguedEffect}affaticato{/g}, {g|Encyclopedia:DisturbedEffect}turbato{/g}, {g|Encyclopedia:PerplexedEffect}confuso{/g}, {g|Encyclopedia:BlindedEffect}accecato{/g}, {g|Encyclopedia:StaggeredEffect}barcollante{/g}, {g|Encyclopedia:SlowedEffect}rallentato{/g}, {g|Encyclopedia:CalmedWarpEffect}smorzamento psichico{/g}, {g|Encyclopedia:Stun}stordito{/g}, {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, {g|Encyclopedia:CantAttackEffect}impossibilità di attaccare{/g}, {g|Encyclopedia:Traumas}trauma{/g} psicosomatico e {g|Encyclopedia:ProneEffect}a terra{/g}.
+
+### u001861
+-<indent=5%>Ripristina {uip|Heal|1359b77cf6714555895e2d3577f6f9b9} {g|Encyclopedia:HitPoints}ferite{/g}.</indent>
+-<indent=5%>Rimuove {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}fiamme{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g}.</indent>
+-<indent=5%>Cura una lesione recente o, se non ce ne sono, una lesione vecchia con una {g|Encyclopedia:Test}prova{/g} di Medicae superata.</indent>
+-<indent=5%>Se il personaggio possiede i talenti {g|f:91932ac8a5794d5cb9ed539bf7d528a2}Combat Medicae{/g} o {g|f:9aefa8d7db3349358e23b2106578353b}Field Medic{/g}, la quantità di ferite ripristinate aumenterà dei bonus forniti da questi talenti.</indent>
+
+### u001862
+Kit di cura del gladiatore
+
+### u001863
+Rimuove 1 {g|Encyclopedia:Traumas}trauma{/g}.
+
+### u001864
+Cerotto cutaneo
+
+### u001865
+-<indent=5%>Ripristina {uip|Heal|3fc0d8bf60bb4781837d5539ed33ddbc} {g|Encyclopedia:HitPoints}ferite{/g}.</indent>
+-<indent=5%>Rimuove {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}fiamme{/g}, {g|Encyclopedia:ToxinEffect}tossina{/g} e {g|Encyclopedia:MeltingEffect}fusione{/g}.</indent>
+-<indent=5%>Cura 1 trauma e tutte le lesioni senza {g|Encyclopedia:Test}prove{/g} di competenza.</indent>
+
+### u001866
+Iniettore dell'Haemonculus
+
+### u001867
+-<indent=5%>Ripristina {uip|Heal|d722bfac662c40f9b2a47dc6ea70d00a} {g|Encyclopedia:HitPoints}ferite{/g}.</indent>
+-<indent=5%>Rimuove {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}fiamme{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g}.</indent>
+-<indent=5%>Cura una lesione recente o, se non ce ne sono, una lesione vecchia con una {g|Encyclopedia:Test}prova{/g} di Medicae superata.</indent>
+-<indent=5%>Se il personaggio possiede i talenti {g|f:91932ac8a5794d5cb9ed539bf7d528a2}Combat Medicae{/g} o {g|f:9aefa8d7db3349358e23b2106578353b}Field Medic{/g}, la quantità di ferite ripristinate aumenterà dei bonus forniti da questi talenti.</indent>
+
+### u001868
+Kit medico grande
+
+### u001869
+Ripristina {uip|Heal|49a5f617380f43e2a44e5774e97cd076} {g|Encyclopedia:HitPoints}ferite{/g}. Rimuove inoltre {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}fiamme{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g}. Rimuove una {g|Encyclopedia:Injury}lesione recente{/g} o, se non ne esistono, tenta di rimuovere una lesione vecchia.

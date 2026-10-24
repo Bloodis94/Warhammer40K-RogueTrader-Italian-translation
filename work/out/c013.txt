@@ -1,0 +1,1534 @@
+### u006031
+Regeneration
+
+### u006032
+<u>(3 + {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker)</u>
+
+### u006033
+<u>(5 + 2 × {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker)</u>
+
+### u006034
+Fino alla fine del combattimento, l'alleato bersaglio aumenta i propri {g|Encyclopedia:MovementPoints}PM{/g} di +{uip|MovementPoints|b83829b067534eb0aaadab90b4d86452}, la propria {g|Encyclopedia:WarhammerAgility}Agility{/g} di +{uip|AgilityBonus|b83829b067534eb0aaadab90b4d86452} e i propri {g|Encyclopedia:ActionPoints}PA{/g} di +1.
+
+### u006035
+Warp Speed
+
+### u006036
+La Divination si specializza nel raccogliere informazioni e nell'usarle per volgere la fortuna a proprio favore. Gli indovini trovano intuizioni utili ovunque, manifestando capacità extrasensoriali e scorgendo il futuro.
+
+### u006037
+Divination
+
+### u006038
+<u>(4 + 2 × {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker)</u>
+
+### u006039
+<u>(bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker)</u>
+
+### u006040
+Crea un'area che dura fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} dello psyker. Tutti gli alleati all'interno dell'area ottengono +{uip|DodgeBonus|f03c1b80631e412490316e47528c211f}% di {g|Encyclopedia:DodgeGlossary}schivata{/g}. La loro probabilità di schivata non può scendere sotto il {uip|DodgeMinimum|f03c1b80631e412490316e47528c211f}%.
+
+### u006041
+Foreboding
+
+### u006042
+<u>(3 + bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} dello psyker + 3 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u006043
+Lo psyker aumenta la {g|Encyclopedia:DodgeGlossary}schivata{/g} e la {g|Encyclopedia:Parry}parata{/g} del bersaglio di +{uip|BonusChance|4a7f14d3eed040fca5d96b51b4d070b1}% fino alla fine del combattimento.
+
+### u006044
+Forewarning
+
+### u006045
+Tutti gli alleati attualmente influenzati da uno qualsiasi dei poteri dello psyker ottengono l'effetto perfect timing.
+<i>Perfect Timing</i>: quando un alleato sotto questo effetto {g|Encyclopedia:DodgeGlossary}schiva{/g} o {g|Encyclopedia:Parry}para{/g} un attacco, se possiede un'arma in grado di raggiungere l'attaccante e un attacco che costa 1 {g|Encyclopedia:ActionPoints}PA{/g} o meno, contrattacca immediatamente con quell'arma e l'effetto perfect timing svanisce.
+
+### u006046
+Perfect Timing
+
+### u006047
+Una volta per {g|Encyclopedia:Round}round{/g}, il prossimo {g|Encyclopedia:Turn}turno{/g} dello psyker viene anticipato di 2 turni nella sequenza di {g|Encyclopedia:InitiativeGlossary}iniziativa{/g} del round.
+Questa {g|Encyclopedia:Ability}abilità{/g} può permettere allo psyker di avere 2 turni nello stesso round.
+
+### u006048
+Precognition
+
+### u006049
+<u>(4 + 2 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u006050
+Il bersaglio ottiene +{uip|StatBonus|2a8341087cbb458b95bbe882a366642f} di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, {g|Encyclopedia:WarhammerPerception}Perception{/g}, {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e {g|Encyclopedia:WarhammerWillpower}Willpower{/g} fino alla fine del combattimento.
+
+### u006051
+Prescience
+
+### u006052
+Ogni volta che un alleato subisce {g|Encyclopedia:DamageGlossary}danni{/g} che lo farebbero cadere {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g}, lo psyker ottiene immediatamente un {g|Encyclopedia:ExtraTurn}turno extra{/g}. Durante quel turno, lo psyker può usare solo <b>Prophetic Intervention</b>. Questo potere può essere usato solo a queste condizioni.
+<b>Prophetic Intervention</b> riporta le {g|Encyclopedia:HitPoints}ferite{/g} dell'alleato al valore che aveva prima dell'attacco che ha attivato l'intervento. Tuttavia, il {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker è ridotto di −1 fino alla fine del combattimento.
+! Questo potere può essere usato solo da psyker con un livello psichico pari o superiore a 3.
+
+### u006053
+Prophetic Intervention
+
+### u006054
+Lo psyker cade immediatamente {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g} e al suo posto compare un demone minore casuale.
+
+### u006055
+Daemonic Attention
+
+### u006056
+Lo psyker e tutti nel raggio di 4 caselle subiscono {g|Encyclopedia:DamageGlossary}danni{/g} pari al {g|Encyclopedia:PsyRating}<u>livello psichico</u>{/g} e devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} o cadere {g|Encyclopedia:ProneEffect}a terra{/g} per un round.
+
+### u006057
+Earth Protests
+
+### u006058
+Tutti nel raggio di 4 caselle attorno al bersaglio e nel raggio di 4 caselle attorno allo psyker subiscono <u>(11 + {g|Encyclopedia:PsyRating}livello psichico{/g})</u> {g|Encyclopedia:DirectDamage}danni diretti{/g}.
+
+### u006059
+Reality Quake
+
+### u006060
+Lo psyker subisce {g|Encyclopedia:DamageGlossary}danni{/g} pari al {g|Encyclopedia:PsyRating}<u>livello psichico</u>{/g} e viene {g|Encyclopedia:PushGlossary}spinto{/g} indietro di <u>livello psichico</u> caselle.
+
+### u006061
+Rebound
+
+### u006062
+Lo psyker cade immediatamente {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g} e al suo posto compaiono uno o più demoni.
+
+### u006063
+Daemonic Incursion
+
+### u006064
+Un fulmine colpisce lo psyker e un numero di bersagli intorno a lui pari al {g|Encyclopedia:PsyRating}<u>livello psichico</u>{/g} (sia alleati che nemici), infliggendo loro <u>(2 × livello psichico)</u> {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u006065
+Untamed Power
+
+### u006066
+Tutti nel raggio di 4 caselle attorno al bersaglio vengono {g|Encyclopedia:PushGlossary}spinti{/g} indietro di <u>(1 + {g|Encyclopedia:PsyRating}livello psichico{/g} / 2)</u> caselle.
+
+### u006067
+Warp Blast
+
+### u006068
+Il bersaglio e tutti nel raggio di 4 caselle subiscono {g|Encyclopedia:DamageGlossary}danni{/g} pari al {g|Encyclopedia:PsyRating}<u>livello psichico</u>{/g} e devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} o cadere {g|Encyclopedia:ProneEffect}a terra{/g} per un round.
+
+### u006069
+Warp Tremor
+
+### u006070
+Tutti nel raggio di 4 caselle attorno allo psyker vengono {g|Encyclopedia:PushGlossary}spinti{/g} indietro di <u>(1 + {g|Encyclopedia:PsyRating}livello psichico{/g} / 2)</u> caselle.
+
+### u006071
+Whiplash
+
+### u006072
+Questo personaggio è uno psyker, sebbene piuttosto debole.
+
+### u006073
+Ogni livello di {g|Encyclopedia:PsyRating}livello psichico{/g} dà allo psyker accesso a nuovi {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}. Rafforza inoltre i {g|Encyclopedia:PsychicPowers}poteri psichici{/g} che infliggono danni.
+
+### u006074
+Psyker Minoris
+
+### u006075
+Psyker Majoris
+
+### u006076
+Psyker Terminus
+
+### u006077
+Psyker Extremis
+
+### u006078
+Gli psyker sanzionati hanno probabilità ridotte (−20%) di scatenare {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g}.
+
+### u006079
+Disciplina Telekinesis (Potere base — Assail)
+
+### u006080
+Infligge <u>(da {uip|MinDamage|fa305ba4e2aa48f394608d1ccfc6d385} a {uip|MaxDamage|fa305ba4e2aa48f394608d1ccfc6d385})</u> {g|Encyclopedia:DamageGlossary}danni{/g} al bersaglio.
+
+### u006081
+Disciplina Telepathy (Potere base — Psychic Shriek)
+
+### u006082
+Questo personaggio è uno psyker non sanzionato, pericoloso e incontrollato.
+Tutti i {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} usati da questo personaggio hanno il 5% di probabilità di scatenare i {g|Encyclopedia:PerilsOfWarp}pericoli del Warp{/g} e vengono risolti come se il {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker fosse superiore di +1.
+
+### u006083
+Infligge {uip|Damage|3ddbf131cbd54087a665d4b2e026b0f2} {g|Encyclopedia:DamageGlossary}danni{/g} al bersaglio alla fine del suo turno, con {uip|Penetration|3ddbf131cbd54087a665d4b2e026b0f2}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}. La creatura bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con una penalità di −{uip|ResistancePenalty|3ddbf131cbd54087a665d4b2e026b0f2} per smettere di essere {g|Encyclopedia:BurningEffect}in fiamme{/g}.
+
+### u006084
+Warp Burn
+
+### u006085
+<u>(3 + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker + 3 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u006086
+<u>(5 × {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker)</u>
+
+### u006087
+Un piromante è un maestro delle fiamme, uno psyker in grado di creare ardenti inferni dal nulla. La Pyromancy è una delle forme di abilità psichica più spettacolari e distruttive, e chi affronta un piromante in combattimento spesso finisce ridotto a un mucchio di ossa carbonizzate.
+
+### u006088
+Pyromancy
+
+### u006089
+<u>(2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker)</u>
+
+### u006090
+Ogni nemico {g|Encyclopedia:BurningEffect}in fiamme{/g} in combattimento subisce immediatamente dei danni. Fino alla fine del combattimento, gli effetti di fiamme infliggono ai nemici +{uip|DamageBonus|24f1e49a2294434da2dc17edb6808517} di {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u006091
+Sanctified Flame
+
+### u006092
+Fino alla fine del combattimento, tutti gli effetti di {g|Encyclopedia:BurningEffect}fiamme{/g} infliggono +{uip|DamageBonus|24f1e49a2294434da2dc17edb6808517} di {g|Encyclopedia:DamageGlossary}danni{/g}. Ogni creatura in fiamme in combattimento subisce immediatamente dei danni.
+
+### u006093
+Inflame
+
+### u006094
+Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} può colpire solo creature che soffrono di warp burn o sono {g|Encyclopedia:BurningEffect}in fiamme{/g}. Se il bersaglio è un alleato, questo potere psichico non gli infligge danni. Tutti gli adiacenti al bersaglio (alleati e nemici) subiscono gli effetti del potere psichico {g|f:a2cca43669184eaa9f0da981f204e1c9}Ignite{/g}.
+
+### u006095
+Firestorm
+
+### u006096
+Il bersaglio subisce <u>(da {uip|BaseDamage|a2cca43669184eaa9f0da981f204e1c9} a {uip|MaxDamage|a2cca43669184eaa9f0da981f204e1c9})</u> danni e subisce l'effetto warp burn. Questo attacco ha {uip|BasePenetration|a2cca43669184eaa9f0da981f204e1c9}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}. Lo psyker può muoversi dopo aver usato <b>Ignite</b>.
+<i>Warp Burn</i>: infligge {uip|Damage|a2cca43669184eaa9f0da981f204e1c9} danni al bersaglio alla fine del suo turno con {uip|Penetration|a2cca43669184eaa9f0da981f204e1c9}% di penetrazione dell'armatura. La creatura bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con una penalità di −{uip|ResistancePenalty|a2cca43669184eaa9f0da981f204e1c9} per smettere di essere in fiamme.
+
+### u006097
+Ignite
+
+### u006098
+<u>(1 + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker + 6 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u006099
+<u>(2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker + 10 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u006100
+Il bersaglio subisce il doppio dei {g|Encyclopedia:DamageGlossary}danni{/g} del {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} {g|f:a2cca43669184eaa9f0da981f204e1c9}Ignite{/g} e metà dei {g|Encyclopedia:FireDamage}danni da fuoco{/g} di tutte le creature {g|Encyclopedia:BurningEffect}in fiamme{/g} entro la {g|Encyclopedia:LineOfSight}linea di vista{/g} del bersaglio.
+
+### u006101
+Incinerate
+
+### u006102
+<u>(10 + 2 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u006103
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio è ridotta di −<u>(10 + 2 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>% fino alla fine del combattimento per ogni accumulo.
+
+### u006104
+Riduzione dell'armatura (Molten Beam)
+
+### u006105
+Infligge il doppio dei danni di {g|f:a2cca43669184eaa9f0da981f204e1c9}Ignite{/g} a tutte le creature in una linea di 12 caselle e riduce la loro {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di −{uip|ArmourReduction|f31807528a974b86aa0910e46b844e9b} fino alla fine del combattimento. Se l'armatura del nemico scende a 0, il nemico ottiene l'effetto warp burn.
+<i>Warp Burn</i>: infligge {uip|Damage|f31807528a974b86aa0910e46b844e9b} danni al bersaglio alla fine del suo turno, con {uip|Penetration|f31807528a974b86aa0910e46b844e9b}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}. La creatura bersaglio deve superare una {g|Encyclopedia:WarhammerAgility}Agility{/g} {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} con una penalità di −{uip|ResistancePenalty|f31807528a974b86aa0910e46b844e9b} per smettere di essere {g|Encyclopedia:BurningEffect}in fiamme{/g}.
+
+### u006106
+Molten Beam
+
+### u006107
+Il bersaglio non smette di essere {g|Encyclopedia:BurningEffect}in fiamme{/g} e non effettua più {g|Encyclopedia:Test}prove{/g} per spegnerle.
+Inoltre, se il bersaglio è un alleato, ogni {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} che l'alleato mette a segno infligge pieni {g|Encyclopedia:DamageGlossary}danni{/g} da fiamme ai bersagli del suo attacco, mentre lui stesso da quel momento subisce solo metà dei danni da fiamme.
+
+### u006108
+Orchestrate Flames
+
+### u006109
+Concentrazione di fede, i poteri sanctic sono usati da psyker devoti per proteggere gli alleati e punire gli eretici.
+
+### u006110
+Sanctic Powers
+
+### u006111
+<u>(5 × {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker + {g|Encyclopedia:Resolve}determinazione{/g} dell'alleato / 2)</u>
+
+### u006112
+Tutti gli alleati influenzati da {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}Word of the Emperor{/g} ottengono l'effetto hammer of the Emperor. La prossima volta che infliggono {g|Encyclopedia:DamageGlossary}danni{/g}, questi sono aumentati di +{uip|DamageBonus|d1c22cdb445543a08b6dbc9867503572} e l'effetto viene rimosso.
+! Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} può essere usato solo se c'è almeno un alleato influenzato da {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}Word of the Emperor{/g}.
+
+### u006113
+Hammer of the Emperor
+
+### u006114
+<u>(1 + {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker + {g|Encyclopedia:Resolve}determinazione{/g} dell'alleato / 2)</u>
+
+### u006115
+<u>(10 + {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker + {g|Encyclopedia:Resolve}determinazione{/g} dell'alleato / 2)</u>
+
+### u006116
+Tutti gli alleati influenzati da {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}Word of the Emperor{/g} recuperano <u>(da {uip|HealMin|050815b9d2e947acb13b81072f9b7210} a {uip|HealMax|050815b9d2e947acb13b81072f9b7210})</u> {g|Encyclopedia:HitPoints}ferite{/g}.
+! Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} può essere usato solo se c'è almeno un alleato influenzato da {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}Word of the Emperor{/g}.
+
+### u006117
+Light of the Emperor
+
+### u006118
+<u>(1 + ({g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker + 1) × {g|Encyclopedia:Resolve}determinazione{/g} / 4)</u>
+
+### u006119
+<u>(4 + ({g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker + 1) × {g|Encyclopedia:Resolve}determinazione{/g} / 4)</u>
+
+### u006120
+{g|f:4b401c668e0d46a7a09dba9d5480cdaa}Purge Soul{/g} infligge +50% di {g|Encyclopedia:DamageGlossary}danni{/g} contro i nemici che in questo combattimento hanno già danneggiato lo psyker o uno dei suoi alleati.
+
+### u006121
+Marked for Purge
+
+### u006122
+Infligge (da {uip|MinDamage|4b401c668e0d46a7a09dba9d5480cdaa} a {uip|MaxDamage|4b401c668e0d46a7a09dba9d5480cdaa}) {g|Encyclopedia:DirectDamage}danni diretti{/g}.
+Questi {g|Encyclopedia:DamageGlossary}danni{/g} sono aumentati del +50% contro gli xenos, del +100% contro gli adoratori del Caos o i Drukhari, del +150% contro i demoni e del +50% se il nemico ha già danneggiato lo psyker o uno dei suoi alleati in questo combattimento. Questi {g|Encyclopedia:Bonus}bonus{/g} ai danni influenzano anche qualsiasi bonus ai danni proveniente da altre fonti.
+! Questo potere non ha effetto sui bersagli privi di anima.
+
+### u006123
+Purge Soul
+
+### u006124
+<u>({g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker / 2)</u>
+
+### u006125
+<u>(10 + {g|Encyclopedia:Resolve}determinazione{/g} dell'alleato / 2)</u>
+
+### u006126
+Fino all'inizio del prossimo turno dello psyker, tutti gli alleati influenzati da {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}Word of the Emperor{/g} aumentano la propria {g|Encyclopedia:Deflection}deviazione{/g} di +{uip|Deflection|c096aedc367c4cfe8c8ed8507319ebab} (minimo +1) e la propria {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di +{uip|Armour|c096aedc367c4cfe8c8ed8507319ebab}%.
+! Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} può essere usato solo se c'è almeno un alleato influenzato da {g|f:6285e5ba2a804e3d9df1dd5f7fa819f2}Word of the Emperor{/g}.
+
+### u006127
+Shield of the Emperor
+
+### u006128
+Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} costa 50 di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} e può essere usato solo quando lo Slancio è pari o superiore a 175.
+Fino alla fine del combattimento, l'arma in mano allo psyker viene sostituita da una spada fatta di pura volontà.
+-<indent=5%>Questa spada ha un attacco a bersaglio singolo e un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} (come una spada a due mani) e può essere usata per scatenare un cono di fuoco o una linea di fuoco (come un lanciafiamme).</indent>
+-<indent=5%>I danni di questa spada sono gli stessi di {g|f:4b401c668e0d46a7a09dba9d5480cdaa}Purge Soul{/g} (con tutti gli stessi bonus).</indent>
+-<indent=5%>Se lo psyker stava usando un'arma della forza, tutti i bonus di quell'arma restano. Ai fini dei {g|Encyclopedia:Talent}talenti{/g} e degli altri bonus, la <b>Sword of Faith</b> conta come un'arma della forza.</indent>
+-<indent=5%>Questo potere può essere usato di nuovo, aumentando i danni della spada di +{uip|Resolve|20d5376f942f454daf37f2b81a81e7b1}.</indent>
+
+### u006129
+Sword of Faith
+
+### u006130
+<u>{g|Encyclopedia:Resolve}Determinazione{/g} dello psyker</u>
+
+### u006131
+Infligge gli stessi {g|Encyclopedia:DamageGlossary}danni{/g} del {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} {g|f:4b401c668e0d46a7a09dba9d5480cdaa}Purge Soul{/g} a ogni nemico di fronte allo psyker.
+
+### u006132
+Sword of Faith — Attacco ad area
+
+### u006133
+Infligge gli stessi {g|Encyclopedia:DamageGlossary}danni{/g} del {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} {g|f:4b401c668e0d46a7a09dba9d5480cdaa}Purge Soul{/g} a ogni nemico in un cono.
+
+### u006134
+Sword of Faith — Cono di fiamme
+
+### u006135
+Infligge gli stessi {g|Encyclopedia:DamageGlossary}danni{/g} del {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} {g|f:4b401c668e0d46a7a09dba9d5480cdaa}Purge Soul{/g} a ogni nemico in una linea.
+
+### u006136
+Sword of Faith — Linea di fiamme
+
+### u006137
+Un colpo {g|Encyclopedia:MeleeAttacksGlossary}in mischia{/g} a bersaglio singolo che infligge gli stessi {g|Encyclopedia:DamageGlossary}danni{/g} del {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} {g|f:4b401c668e0d46a7a09dba9d5480cdaa}Purge Soul{/g}.
+
+### u006138
+Sword of Faith — Colpo
+
+### u006139
+Tutti gli alleati in un cerchio con raggio di 5 caselle ottengono +{uip|Resolve|6285e5ba2a804e3d9df1dd5f7fa819f2} di {g|Encyclopedia:Resolve}determinazione{/g} fino alla fine del combattimento. Ogni accumulo aggiuntivo di questo effetto aumenta il {g|Encyclopedia:Bonus}bonus{/g} di determinazione di +2.
+
+### u006140
+Word of the Emperor
+
+### u006141
+<u>(1 + {g|Encyclopedia:PsyRating}livello psichico{/g} / 2)</u>
+
+### u006142
+[draft]*Lavori in corso. Ha poche {g|Encyclopedia:Ability}abilità{/g} e/o {g|Encyclopedia:Talent}talenti{/g} da scegliere ai livelli successivi.*
+
+### u006143
+[draft]Telekinesis
+
+### u006144
+[draft]Lo Psyker crea una cupola telecinetica 3×3 sul campo di battaglia fino alla fine del combattimento o finché lo Psyker non sceglie un'altra area per la <b>Telekinetic Dome</b>. Chi spara dall'esterno ai bersagli all'interno della cupola telecinetica ha una probabilità di mancare come se i bersagli fossero in {g|Encyclopedia:DetailsOfTheCoverGlossary}mezza copertura{/g}. Questa probabilità non si somma alla difesa delle coperture e conta come mezza copertura per tutti gli effetti e le {g|Encyclopedia:Ability}abilità{/g}.
+
+### u006145
+[draft]Telekinetic Dome
+
+### u006146
+[draft]Lo Psyker afferra il bersaglio con la telecinesi. Scegliere una nuova creatura mentre qualcuno è già afferrato da questo potere rimuove la presa dal bersaglio precedente.
+Se il bersaglio è un nemico, questa presa lo stritola all'inizio di ogni {g|Encyclopedia:Turn}turno{/g} dello Psyker. Il nemico subisce <u>(da 1 alla {g|Encyclopedia:WarhammerWillpower}Willpower{/g} dello Psyker)+2×({g|Encyclopedia:PsyRating}livello psichico{/g})</u> danni. Usare questa {g|Encyclopedia:Ability}abilità{/g} su un nuovo bersaglio non fa ripartire il {g|Encyclopedia:Cooldown}tempo di ricarica{/g}.
+Quando qualcuno è già nella presa di questo potere, esso può essere usato su un punto del campo di battaglia e il bersaglio verrà spostato di <u>livello psichico</u> caselle verso il punto scelto.
+
+### u006147
+[draft]Telekinetic Grasp
+
+### u006148
+[draft]Lo Psyker può {g|Encyclopedia:PushGlossary}spingere{/g} via o attirare a sé tutti i nemici in un semicerchio con raggio di 3 caselle. I bersagli vengono spostati di {g|Encyclopedia:PsyRating}<u>livello psichico</u>{/g} caselle direttamente lontano dallo Psyker o direttamente verso di lui, e devono superare una {g|Encyclopedia:Test}prova{/g} di Toughness con una penalità di −<u>2×({g|Encyclopedia:Bonus}bonus{/g} di WP dello Psyker)</u> o cadere {g|Encyclopedia:ProneEffect}a terra{/g} per 1 round.
+
+### u006149
+[draft]Telekinetic Manoeuver
+
+### u006150
+[draft]Lo Psyker attira a sé i nemici in un semicerchio con raggio di 3 caselle. I bersagli vengono spostati di {g|Encyclopedia:PsyRating}<u>livello psichico</u>{/g} direttamente verso lo Psyker, e devono superare una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una penalità di −<u>2×({g|Encyclopedia:Bonus}bonus{/g} di WP dello Psyker)</u> o cadere {g|Encyclopedia:ProneEffect}a terra{/g} per 1 round.
+
+### u006151
+[draft]Telekinetic Pull
+
+### u006152
+[draft]Lo Psyker spinge via tutti i nemici in un semicerchio con raggio di 3 caselle. I bersagli vengono spostati di {g|Encyclopedia:PsyRating}<u>livello psichico</u>{/g} caselle direttamente lontano dallo Psyker, e devono superare una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una penalità di −<u>2×({g|Encyclopedia:Bonus}bonus{/g} di WP dello Psyker)</u> o cadere {g|Encyclopedia:ProneEffect}a terra{/g} per 1 round.
+
+### u006153
+[draft]Telekinetic Shove
+
+### u006154
+[draft]Lo Psyker crea un terribile vortice di potere telecinetico, attirando verso di esso chiunque si trovi entro {g|Encyclopedia:PsyRating}<u>livello psichico</u>{/g} di distanza dal bordo del vortice e ripetendo questa attrazione a ogni {g|Encyclopedia:Round}round{/g}. I nemici effettuano una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una penalità di −<u>5×(livello psichico)</u>. Ogni nemico che fallisce la prova si sposta di <u>livello psichico</u> caselle verso il vortice. I nemici che la superano si spostano della metà di quella distanza.
+Alla fine di ogni {g|Encyclopedia:Turn}turno{/g} dello Psyker, tutti all'interno del vortice subiscono il triplo dei danni di <b>Assail</b>.
+
+### u006155
+[draft]Telekinetic Vortex
+
+### u006156
+<u>(10 + 2 × {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker)</u>
+
+### u006157
+Il bersaglio effettua una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}. Se la prova fallisce, il bersaglio attacca immediatamente i propri alleati. In seguito, il bersaglio subisce i {g|Encyclopedia:DamageGlossary}danni{/g} di {g|f:fa305ba4e2aa48f394608d1ccfc6d385}Psychic Shriek{/g} e la sua Willpower è ridotta di −{uip|WillpowerPenalty|a38a9a446f094782a8bc871ce473024b} fino alla fine del combattimento.
+Se la prova riesce, il bersaglio subisce soltanto i danni di {g|f:fa305ba4e2aa48f394608d1ccfc6d385}Psychic Shriek{/g} e la sua Willpower è ridotta di −{uip|WillpowerReduction|a38a9a446f094782a8bc871ce473024b} fino alla fine del combattimento.
+
+### u006158
+Mind Rupture
+
+### u006159
+In qualsiasi momento fino alla fine del combattimento, il bersaglio di <b>Mind Bond</b> effettua {g|Encyclopedia:Test}prove{/g} di {g|Encyclopedia:WarhammerPerception}Perception{/g}, {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, {g|Encyclopedia:WarhammerWillpower}Willpower{/g} o {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} usando le proprie statistiche o quelle dello psyker, a seconda di quali siano più alte in quel momento.
+
+### u006160
+Mind Bond
+
+### u006161
+Il bersaglio effettua una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}. Se la supera, il bersaglio è solo {g|Encyclopedia:BlindedEffect}accecato{/g} fino all'inizio del prossimo turno dello psyker.
+Se il bersaglio fallisce la {g|Encyclopedia:Test}prova{/g}, resta accecato e subisce un'ulteriore penalità di −{uip|StatPenalty|8c86972daac142fea33bb3bc5c84396c} a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} ridotte dalla cecità e deve effettuare una prova di resistenza di Willpower alla fine di ogni turno. Il primo successo lo rende solo accecato, il secondo rimuove l'effetto di accecamento.
+
+### u006162
+Sensory Deprivation
+
+### u006163
+I telepati sono psyker la cui perizia mentale consiste nel contattare e controllare le menti altrui. Con un solo pensiero, un telepate può strappare via la sanità mentale del nemico, indurre stati di terrore paralizzante, oppure possedere la vittima e manovrarne pensieri e azioni come un burattinaio.
+
+### u006164
+Telepathy
+### u006165
+Il Bladedancer si volge verso un lato a sua scelta e termina immediatamente il proprio turno. Fino all'inizio del prossimo turno del Bladedancer, può {g|Encyclopedia:DodgeGlossary}schivare{/g} gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} senza muoversi, è immune a ogni tipo di movimento forzato, ottiene +20% di {g|Encyclopedia:Parry}parata{/g} contro gli attacchi provenienti da quel lato e può ora parare gli attacchi sferrati contro gli alleati adiacenti. Mentre è sotto l'effetto di <b>Veil of Blades</b>, il Bladedancer può persino parare gli attacchi a distanza (esclusi gli attacchi ad area a distanza) provenienti da quel lato. La probabilità di parare un attacco a distanza viene calcolata come se fosse un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, in cui la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} dell'attaccante è pari alla {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} dell'attacco. Se un attacco viene parato in questo modo, può essere reindirizzato verso uno dei nemici sul lato selezionato. La probabilità di reindirizzamento è pari alla metà della probabilità di parata del Bladedancer contro quell'attacco.
+! Questa {g|Encyclopedia:Ability}abilità{/g} può essere usata solo con una spada equipaggiata.
+
+### u006166
+Veil of Blades
+
+### u006167
+<u>(2 + bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} / 4)</u>
+
+### u006168
+<u>(1 + bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} / 4)</u>
+
+### u006169
+Il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} effettua {uip|Attacks|e955823f54d24088ae1fdefe88d3684d} {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} contro bersagli casuali (alleati inclusi) adiacenti al Bladedancer, ciascuno dei quali infligge il 50% dei normali {g|Encyclopedia:DamageGlossary}danni{/g}. <b>Blade Dance</b> è un attacco in {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} in mischia che non conta ai fini del limite di attacchi per {g|Encyclopedia:Turn}turno{/g}.
+Questa {g|Encyclopedia:Ability}abilità{/g} può essere usata solo con una spada equipaggiata. Se sono equipaggiate due spade, il Bladedancer effettua {uip|DualAttack|e955823f54d24088ae1fdefe88d3684d} attacchi con ciascuna.
+
+### u006170
+Blade Dance
+
+### u006171
+<u>(5 + livello del {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} / 2)</u>
+
+### u006172
+Questa {g|Encyclopedia:Ability}abilità{/g} costa {uip|WoundCost|dd6948ee596346a69733d0bb107c2f42} {g|Encyclopedia:HitPoints}ferite{/g} per essere usata.
+
+### u006173
+<u>(bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} + bonus di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g})</u>
+
+### u006174
+Il prossimo attacco del {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} infligge {g|Encyclopedia:BleedingEffect}sanguinamento{/g} ({uip|DamageTick|ce30e102719a4671b660ffe5bff7c43d}) a tutti i bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g}. Questi bersagli devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|ResistancePenalty|ce30e102719a4671b660ffe5bff7c43d} o restare {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} per 1 {g|Encyclopedia:Round}round{/g}. Tutti i nemici immobilizzati da <b>Captive Audience</b> contano come {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura totale{/g} per il Bladedancer e i suoi alleati quando sono adiacenti a quei nemici.
+
+### u006175
+Captive Audience
+
+### u006176
+Il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} balza in aria e atterra sulla casella selezionata. All'atterraggio infligge {uip|DamageTick|6f1b7cfb48a0450cb85ce8a8879502de} {g|Encyclopedia:DamageGlossary}danni{/g} a tutti i nemici adiacenti.
+Questo balzo può essere effettuato verso qualsiasi casella libera entro un raggio di 3 caselle nella {g|Encyclopedia:LineOfSight}linea di vista{/g} del Bladedancer. Questo movimento non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}. Il Bladedancer non può saltare su una casella inaccessibile in combattimento.
+Questa {g|Encyclopedia:Ability}abilità{/g} può essere usata più volte per {g|Encyclopedia:Turn}turno{/g}, ma ogni uso richiede la spesa di una carica e infligge al Bladedancer +1 accumulo di {g|f:542bb296d9c942a8a0fb5583290d3720}senza fiato{/g} fino all'inizio del suo prossimo turno.
+Il Bladedancer ottiene +1 carica di questa abilità ogni volta che uccide un bersaglio (escluse le uccisioni compiute con questa abilità).
+! Può essere usata solo con una spada equipaggiata.
+
+### u006177
+Death From Above
+
+### u006178
+Ogni accumulo di questo effetto riduce {g|Encyclopedia:WarhammerStrength}Strength{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} di −10% e la {g|Encyclopedia:DodgeGlossary}schivata{/g} di −20%.
+
+### u006179
+Senza fiato
+
+### u006180
+<u>(20 + 2 × bonus di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g})</u>
+
+### u006181
+Il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} sceglie un alleato. Fino alla fine del combattimento, gli attacchi del Bladedancer contro i nemici che hanno già attaccato quell'alleato ottengono +{uip|CriticalChance|3774147440ac412a876725b9b2b24682}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} e +{uip|CriticalDamage|3774147440ac412a876725b9b2b24682}% di {g|Encyclopedia:DamageGlossary}danni{/g} critici.
+Questa {g|Encyclopedia:Ability}abilità{/g} può essere usata più volte per {g|Encyclopedia:Turn}turno{/g}, ma i {g|Encyclopedia:Bonus}bonus{/g} non si cumulano.
+
+### u006182
+Oath of Vengeance
+
+### u006183
+Il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} torna immediatamente alla casella da cui ha iniziato il proprio {g|Encyclopedia:Turn}turno{/g}. Questo movimento non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}. Se in questo turno il Bladedancer ha usato {g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g}, questo movimento ripete in ordine inverso tutti gli usi di questa {g|Encyclopedia:Ability}abilità{/g}.
+
+### u006184
+Acrobatic Artistry
+
+### u006185
+Dopo che il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} ha ucciso quattro nemici in totale, la prossima {g|Encyclopedia:Ability}abilità{/g} che richiede di spendere {g|Encyclopedia:HitPoints}ferite{/g} non costerà ferite e ne ripristinerà invece {uip|Heal|bc9759f0c41a4a3e84300557bea51dea}.
+
+### u006186
+Paid in Blood
+
+### u006187
+Ogni volta che il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} viene curato per la prima volta in un {g|Encyclopedia:Round}round{/g}, recupera ulteriori +{uip|heal|a9c5a3fddff74273bbfcb9431260b95f} {g|Encyclopedia:HitPoints}ferite{/g} e ottiene +10 di {g|Encyclopedia:WarhammerToughness}Toughness{/g} fino alla fine del combattimento. Cumulabile.
+
+### u006188
+Blessed Scars
+
+### u006189
+Unforgiving — Lesione o trauma
+
+### u006190
+Unforgiving — Perdita di ferite
+
+### u006191
+Dopo che il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} perde un qualsiasi numero di {g|Encyclopedia:HitPoints}ferite{/g}, il suo prossimo attacco infligge +{uip|DamageBonusWounds|d6e4a21bf78c494e8e9b3d3b6ecca169}% di danni in più. Se la perdita causa una lesione o un trauma al Bladedancer, il bonus ai danni sale a +{uip|DamageBonusInjury|d6e4a21bf78c494e8e9b3d3b6ecca169}%.
+
+### u006192
+Unforgiving
+
+### u006193
+<u>(5 + bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g})</u>
+
+### u006194
+Ogni attacco effettuato dal {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} aumenta del +5% i {g|Encyclopedia:DamageGlossary}danni{/g} di tutti i suoi attacchi successivi in questo {g|Encyclopedia:Turn}turno{/g}. Questo effetto si cumula fino a 3 volte. Gli attacchi ad area, gli attacchi in raffica (incluso il {g|f:e955823f54d24088ae1fdefe88d3684d}Blade Dance{/g}) e qualsiasi altro attacco che infligge colpi multipli sono considerati attacchi singoli.
+
+### u006195
+Rising Tempo
+
+### u006196
+Gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} {g|Encyclopedia:MeleeAttacksGlossary}in mischia{/g} del {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} costano 1 {g|Encyclopedia:ActionPoints}PA{/g} in meno (ma non meno di 1).
+
+### u006197
+Sweeping Motions
+
+### u006198
+Il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} può usare sia una {g|Encyclopedia:DesperateMeasure}misura disperata{/g} sia un {g|Encyclopedia:HeroicAct}atto eroico{/g} nello stesso combattimento (ma non nello stesso {g|Encyclopedia:Round}round{/g}). Ogni volta che il Bladedancer usa una misura disperata, ottiene +10 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e +3 di {g|Encyclopedia:Resolve}determinazione{/g}.
+
+### u006199
+Balancing on the Edge
+
+### u006200
+La {g|Encyclopedia:Parry}parata{/g} del {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} è aumentata di +{uip|tghB|2516c27aa5f442fa865e659886386fb0}%. Il bonus alla {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} {g|Encyclopedia:MeleeAttacksGlossary}in mischia{/g} dell'attaccante, determinato dalla differenza fra la {g|Encyclopedia:Characteristic}caratteristica{/g} {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} dell'attaccante e quella del Bladedancer, è dimezzato.
+
+### u006201
+Steady Hand
+
+### u006202
+<u>({g|Encyclopedia:DodgeGlossary}schivata{/g} del Bladedancer / 10)</u>
+
+### u006203
+Le {g|Encyclopedia:MaxWounds}ferite massime{/g} del {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} sono aumentate di +{uip|dodge|6bf8e78919cb4855ac4a75edc712775a}.
+
+### u006204
+Race Against Death
+
+### u006205
+{g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g} infligge il doppio dei {g|Encyclopedia:DamageGlossary}danni{/g} ai nemici che hanno meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u006206
+Guillotine
+
+### u006207
+Se tutti i colpi sferrati nell'ambito di {g|f:de2fa09b36314b2dafe09c3e8354d214}Blade Dance{/g} sono diretti contro lo stesso bersaglio, l'ultimo colpo infligge il doppio dei {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u006208
+It Takes Two
+
+### u006209
+<u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerAgility}AGI{/g}</u>
+
+### u006210
+Ogni volta che il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} {g|Encyclopedia:Parry}para{/g} un attacco, il numero di attacchi effettuati dal prossimo {g|f:de2fa09b36314b2dafe09c3e8354d214}Blade Dance{/g} aumenta di +1. Questo effetto si cumula fino a {uip|agiB|7d51ba40347341b38cd181fb18097edb} volte.
+
+### u006211
+Spinning Blades
+
+### u006212
+Ogni volta che il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} uccide un nemico, la {g|Encyclopedia:Resolve}determinazione{/g} del Bladedancer aumenta di +1 fino alla fine del combattimento.
+
+### u006213
+Bloody Requiem
+
+### u006214
+{g|f:a29aa37a4db3485fb5a0ee7b7515e0dd}Blood Oath{/g} ripristina +1 {g|Encyclopedia:ActionPoints}PA{/g} aggiuntivo.
+
+### u006215
+Promises of Blood
+
+### u006216
+<u>(10 + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerAgility}AGI{/g})</u>
+
+### u006217
+I bersagli influenzati da {g|f:8a3834391538418fa35ad73861da942f}Captive Audience{/g} hanno {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}, {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g} ridotte di −{uip|agiB|da7849a95bb04d44978710ca711ad4d7}% fino alla fine del combattimento. Questa {g|Encyclopedia:Penalty}penalità{/g} è raddoppiata per i bersagli che falliscono la {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} dell'{g|Encyclopedia:Ability}abilità{/g}.
+
+### u006218
+Grand Performance
+
+### u006219
+Ogni volta che il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} usa {g|f:fba331366f474215812e3633e016c459}Acrobatic Artistry{/g}, la sua {g|Encyclopedia:DodgeGlossary}schivata{/g} e la sua {g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} aumentano di +<u>(5 + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerAgility}AGI{/g})</u>% fino alla fine del suo prossimo {g|Encyclopedia:Turn}turno{/g}. Questo bonus è raddoppiato contro tutti gli attacchi effettuati dai nemici durante il turno del Bladedancer (inclusi i {g|Encyclopedia:ExtraTurn}turni extra{/g}).
+
+### u006220
+Slip Away
+
+### u006221
+Ogni alleato scelto come bersaglio di {g|f:2cb163315827418eb6708fb9f8f79d9f}Oath of Vengeance{/g} ottiene gli stessi {g|Encyclopedia:Bonus}bonus{/g} del {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} contro tutti i nemici interessati.
+
+### u006222
+Blood Bonds
+
+### u006223
+Ogni volta che il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} {g|Encyclopedia:Parry}para{/g} un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} mentre è sotto l'effetto di {g|f:0e1aff9bec3c49e2996001be4f56a3de}Veil of Blades{/g}, infligge all'attaccante il 50% dei suoi normali {g|Encyclopedia:DamageGlossary}danni{/g}. Inoltre, mentre è sotto l'effetto di {g|f:0e1aff9bec3c49e2996001be4f56a3de}Veil of Blades{/g}, la probabilità del Bladedancer di deviare un attacco a distanza contro un nemico aumenta di +20%.
+
+### u006224
+Anticipation
+
+### u006225
+Finché il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} ha due spade equipaggiate, la sua {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} aumenta di +{uip|agiB|e8348519866444ad9093c91f9cbc8ba5}.
+
+### u006226
+Dance Partners
+
+### u006227
+Tutti gli attacchi del {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} effettuati con una spada infliggono +{uip|damage|d4be859eb6d84504aeed852ef248f6fa}% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi. Questo bonus ai danni è raddoppiato se usa una spada a due mani.
+
+### u006228
+Blade in His Hand
+
+### u006229
+Ogni volta che il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} usa un'{g|Encyclopedia:Ability}abilità{/g} che costa {g|Encyclopedia:HitPoints}ferite{/g}, ottiene +3 {g|Encyclopedia:MovementPoints}PM{/g} nel {g|Encyclopedia:Turn}turno{/g} in corso.
+
+### u006230
+Blood Rush
+
+### u006231
+Ogni volta che un alleato del Blade Dancer uccide un nemico, il numero di PM del prossimo turno del Blade Dancer aumenta di +2.
+
+### u006232
+In Footsteps of Death
+
+### u006233
+Ogni volta che il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco di un nemico che lo attacca per la prima volta, il Bladedancer ottiene +1 carica di {g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g}.
+
+### u006234
+Escape Artist
+
+### u006235
+Finché il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} ha meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g}, ottiene +12% di {g|Encyclopedia:DodgeGlossary}schivata{/g} e +3 {g|Encyclopedia:MovementPoints}PM{/g}.
+Il Bladedancer ottiene inoltre +8% di schivata e +2 {g|Encyclopedia:MovementPoints}PM{/g} per ogni alleato {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g} in combattimento.
+
+### u006236
+Shadow Dancer
+
+### u006237
+Il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} ottiene +3 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e +3 di {g|Encyclopedia:WarhammerAgility}Agility{/g} per ogni {g|Encyclopedia:Injury}lesione{/g} di cui soffre al momento e +10 di Weapon Skill e +10 di Agility per ogni {g|Encyclopedia:Traumas}trauma{/g} (fino a un massimo di +40).
+
+### u006238
+Facing the End
+
+### u006239
+<u>(5 + Medicae / 10)</u>
+
+### u006240
+La {g|Encyclopedia:SkillMedicae}Medicae{/g} del {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} è ora determinata dalla {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} anziché dall'{g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} (se la sua Weapon Skill è più alta). Il Bladedancer infligge +{uip|crit_damage|8b435fb7e4bb42d0951171f008bfd98a}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} e può usare i kit medici come se avesse l'avanzamento della competenza Medicae o il relativo tratto o {g|Encyclopedia:Talent}talento{/g}.
+
+### u006241
+Death Warden
+
+### u006242
+<u>(10 + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g} del Bladedancer)</u>
+
+### u006243
+I nemici attaccati dal {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} hanno {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} ridotte di −{uip|debuff|9ad18a41c7e444669fc38fae80ce344d} fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} del Bladedancer. Queste {g|Encyclopedia:Penalty}penalità{/g} non si cumulano.
+
+### u006244
+Blinding Blades
+
+### u006245
+Ogni volta che il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} uccide un nemico con un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g}, il Bladedancer ottiene immediatamente +1 carica di {g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g}.
+
+### u006246
+Killing Rhythm
+
+### u006247
+<u>(5 + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g} del Bladedancer)</u>
+
+### u006248
+Il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} infligge un ulteriore +{uip|damage|ddb7472f001f49368711d68fd21cb7cc}% di {g|Encyclopedia:DamageGlossary}danni{/g} contro i nemici armati di un'arma {g|Encyclopedia:MeleeAttacksGlossary}da mischia{/g}.
+
+### u006249
+Duellist
+
+### u006250
+Ogni volta che il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} usa un'{g|Encyclopedia:Ability}abilità{/g} che costa {g|Encyclopedia:HitPoints}ferite{/g}, ottiene la metà delle ferite spese come {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}. Il numero di ferite temporanee ottenute non può essere diminuito dagli effetti che riducono il costo delle abilità.
+
+### u006251
+Feel No Pain
+
+### u006252
+Death Waltz — Colpo
+
+### u006253
+Death Waltz — Salto
+
+### u006254
+Dopo aver compiuto una {g|Encyclopedia:DesperateMeasure}misura disperata{/g}, il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} subisce 1 {g|Encyclopedia:Traumas}trauma{/g} casuale.
+
+### u006255
+<u>(2 + bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} / 3)</u>
+
+### u006256
+Il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} usa {g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g} contro un nemico bersaglio senza spendere una carica, effettuando immediatamente un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} contro quel nemico. Il Bladedancer ripete questa combinazione fino a {uip|Repeats|d52b8f3b44434f2798cd3a01c97fd1ed} volte contro bersagli casuali disponibili. Se è impossibile usare {g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g}, il Bladedancer effettua solo un attacco in mischia contro un bersaglio casuale disponibile (può essere lo stesso nemico).
+
+### u006257
+Death Waltz
+
+### u006258
+Quando usa {g|f:916fcf40f9cc410f9b0a810516089207}Death Waltz{/g}, il {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} guarisce immediatamente del tutto. Il costo delle {g|Encyclopedia:Ability}abilità{/g} che costano {g|Encyclopedia:HitPoints}ferite{/g} è dimezzato fino alla fine del combattimento.
+
+### u006259
+Death Waltz (Miglioria I)
+
+### u006260
+{g|f:916fcf40f9cc410f9b0a810516089207}Death Waltz{/g} conferisce inoltre al {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} +4 cariche aggiuntive di {g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g}. Fino alla fine del combattimento, {g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g} infligge +{uip|agiB|7d51ba40347341b38cd181fb18097edb} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u006261
+Death Waltz (Miglioria II)
+
+### u006262
+<u>(2 + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerAgility}AGI{/g} / 2)</u>
+
+### u006263
+Fino alla fine del combattimento, i colpi sferrati dal {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} (inclusi gli attacchi effettuati nell'ambito di {g|f:916fcf40f9cc410f9b0a810516089207}Death Waltz{/g}) riducono di −{uip|agiB/2|7bbed20878bb48f8bb4f1e8fe0fb1904} la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} dei nemici e diminuiscono {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e {g|Encyclopedia:DodgeGlossary}schivata{/g} dei nemici di −{uip|agiB/2|7bbed20878bb48f8bb4f1e8fe0fb1904}%. Queste {g|Encyclopedia:Penalty}penalità{/g} si cumulano.
+
+### u006264
+Death Waltz (Miglioria III)
+
+### u006265
+Quando usa {g|f:916fcf40f9cc410f9b0a810516089207}Death Waltz{/g} dopo aver ucciso un nemico, il Bladedancer ottiene +3% di schivata fino alla fine del combattimento. Si cumula fino a {unit_stat|WarhammerAgility|bonus} volte.
+
+### u006266
+Death Waltz (Miglioria IV)
+
+### u006267
+Il Soldier dà un segnale che sta per aprire il fuoco. Il Soldier e i suoi alleati {g|Encyclopedia:DodgeGlossary}schiveranno{/g} automaticamente il prossimo attacco del Soldier.
+
+### u006268
+Controlled Shot
+
+### u006269
+Il prossimo attacco a distanza in {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} del Soldier avrà la {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} base raddoppiata, ma infliggerà −25% di {g|Encyclopedia:DamageGlossary}danni{/g}. Tutti i colpi seguiranno traiettorie casuali.
+Funziona solo con armi in grado di sparare a raffica.
+
+### u006270
+Rapid Fire
+
+### u006271
+{g|f:8638221f9caf46649cefcbd7574804d1}Revel in Slaughter{/g} è disponibile.
+
+### u006272
+Il Soldier è un maestro di tutte le armi a distanza, capace di assumere rapidamente una posizione vantaggiosa da cui è pronto a far piovere fuoco sul nemico. Pur essendo ben addestrato in una gamma estremamente varia di armi, un Soldier è particolarmente abile nel falciare i bersagli con il fuoco a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} e con le armi ad area.
+Focus principale: movimento e attacchi a distanza, {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} e {g|Encyclopedia:DodgeGlossary}schivata{/g}, fuoco a raffica, attacchi ad area.
+
+### u006273
+Soldier
+
+### u006274
+Permette al personaggio di usare armi bolt, come un bolter o una pistola bolt.
+
+### u006275
+Bolter Weapon Proficiency
+
+### u006276
+Le armi pesanti infliggono +1 e +10% di {g|Encyclopedia:DamageGlossary}danni{/g} e ignorano 2 di {g|Encyclopedia:Deflection}deviazione{/g}.
+
+### u006277
+Breaking Point
+
+### u006278
+Curare un alleato con un kit medico in combattimento ripristina ulteriori {g|Encyclopedia:HitPoints}ferite{/g} pari a <u>({g|Encyclopedia:SkillMedicae}Medicae{/g} / 10)</u>.
+Usare i kit medici costa 1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+
+### u006279
+Combat Medicae
+
+### u006280
+Permette al personaggio di usare armi a fiamma, come un lanciafiamme, un lanciafiamme pesante o un lanciafiamme manuale.
+
+### u006281
+Flame Weapon Proficiency
+
+### u006282
+Il primo uso di una granata in combattimento non spende {g|Encyclopedia:ActionPoints}PA{/g} e non conta ai fini del limite di attacchi di quel {g|Encyclopedia:Turn}turno{/g}.
+
+### u006283
+Grenadier
+
+### u006284
+Quando spara con armi pesanti, la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} aumenta di +{uip|CriticalHitChance|1e6606f5500a4baba84c4351f36da215}% e i {g|Encyclopedia:DamageGlossary}danni{/g} critici aumentano di +{uip|CriticalDamage|1e6606f5500a4baba84c4351f36da215}%.
+
+### u006285
+Overpower
+
+### u006286
+<u>bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g}</u>
+
+### u006287
+Il primo {g|Encyclopedia:HitSequenceGlossary}colpo{/g} di ogni attacco a distanza in {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} infligge danni aggiuntivi pari alla {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} attuale dell'arma.
+
+### u006288
+Muzzle Velocity
+
+### u006289
+<u>(5 + 3 × bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g})</u>
+
+### u006290
+Se il Soldier {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico due volte con un solo attacco a distanza in {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}, il secondo colpo infliggerà {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari ai danni del primo colpo.
+
+### u006291
+Barrage
+
+### u006292
+Per determinare i danni aggiuntivi inflitti dagli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} a distanza del Soldier si usa la {g|Encyclopedia:SkillDemolition}Demolition{/g} anziché l'{g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}. Infligge il 5% di danni in più ogni 10 punti di Demolition (anziché il 5% ogni 10 punti di Intelligence).
+
+### u006293
+Demolition Engineer
+
+### u006294
+{g|f:27dc9a14aaca464a901dc6242123c154}Rapid Fire{/g} non riduce più i {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u006295
+Unfaltering Fire
+
+### u006296
+{g|f:8638221f9caf46649cefcbd7574804d1}Revel in Slaughter{/g} può essere usato dopo 2 uccisioni anziché 3.
+
+### u006297
+Swift Slaughter
+
+### u006298
+La seconda azione di attacco del Soldier in un {g|Encyclopedia:Turn}turno{/g} infligge +{uip|DamageBonus|1c82d5f20dfb4e8ab89f78a4adad66a5}% di {g|Encyclopedia:DamageGlossary}danni{/g} ai nemici che in questo turno non hanno subito danni dal Soldier.
+
+### u006299
+Enough Bullets for Everyone
+
+### u006300
+L'{g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} aumenta di +10% per la copertura totale e di +20% per la copertura parziale.
+
+### u006301
+Exploit Surroundings
+
+### u006302
+La {g|Encyclopedia:Reload}ricarica{/g} costa 2 {g|Encyclopedia:ActionPoints}PA{/g} in meno (minimo 1). La prima ricarica in un combattimento non costa PA.
+
+### u006303
+Rapid Reload
+
+### u006304
+Ogni volta che il Soldier infligge {g|Encyclopedia:DamageGlossary}danni{/g}, i suoi {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} aumentano di +1% fino alla fine del combattimento.
+
+### u006305
+Fired Up
+
+### u006306
+Se il Soldier attacca prima di usare {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g}, il suo prossimo attacco dopo l'uso ottiene +3% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} per ogni casella fra la posizione del Soldier nel momento dell'attacco precedente all'uso di {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g} e la sua posizione nel momento del prossimo attacco successivo all'uso.
+
+### u006307
+Flanker
+
+### u006308
+Finché il Soldier ha un alleato adiacente, usare {g|f:ba56eecb14dc4793a604c28017307500}Controlled Shot{/g} costa 1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+
+### u006309
+Finché il Soldier ha {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura totale{/g} contro un nemico, il Soldier ottiene +10% di {g|Encyclopedia:DamageGlossary}danni{/g} contro quel nemico, e gli attacchi del nemico infliggono −20% di danni contro il Soldier e la sua copertura se la copertura è presente nel momento in cui viene sparato il colpo (anche se la copertura viene distrutta dal colpo).
+
+### u006310
+Fortress
+
+### u006311
+Se ci sono alleati nell'{g|Encyclopedia:AreaOfEffect}area d'effetto{/g} dell'attacco ad area del Soldier, i nemici nell'area subiscono una penalità di −{uip|DodgePenalty|661f9a1ac69f44fc881366af05f7c502}% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} e una penalità di −{uip|ArmourPenalty|661f9a1ac69f44fc881366af05f7c502}% all'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro quell'attacco.
+
+### u006312
+Hold Them Up!
+
+### u006313
+<u>(10 + 5 × bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g})</u>
+### u006314
+Il prossimo uso di {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g}, se effettuato dopo {g|f:f509573bad85478b8f36e6bd97c943e4}Entrench{/g}, conferisce +{unit_stat|WarhammerAgility|bonus} {g|Encyclopedia:MovementPoints}punti movimento{/g} aggiuntivi.
+
+### u006315
+On the Double
+
+### u006316
+L'{g|Encyclopedia:MediumArmour}armatura media{/g} del Soldier non riduce la {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u006317
+Second Skin
+
+### u006318
+Gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} del Soldier che mettono a segno un {g|Encyclopedia:GrazingHit}colpo di striscio{/g} infliggono il 75% dei {g|Encyclopedia:DamageGlossary}danni{/g} anziché il 50%.
+
+### u006319
+Precise Blast
+
+### u006320
+{g|f:1d48dfb6002a48f68bee0b86c4b56dc4}Dash{/g} non pone fine al movimento del Soldier per il {g|Encyclopedia:Turn}turno{/g}. I nemici adiacenti al punto di partenza di {g|f:1d48dfb6002a48f68bee0b86c4b56dc4}Dash{/g} considereranno il Soldier il loro {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} con la priorità più bassa durante il loro prossimo turno.
+
+### u006321
+Tactical Disengage
+
+### u006322
+Per ogni alleato adiacente, il Soldier infligge +{uip|BonusDamage|09204d361b6d4fb786842e43ac1979db}% di {g|Encyclopedia:DamageGlossary}danni{/g} ai nemici.
+
+### u006323
+Camaraderie
+
+### u006324
+<u>(5 + bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g})</u>
+
+### u006325
+I nemici {g|Encyclopedia:DamageGlossary}danneggiati{/g} dagli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} del Soldier subiscono +{uip|DamageBonus|3feb70e54f244b0e96053909f4533606} danni dal prossimo attacco che li {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}.
+
+### u006326
+Tenderise
+
+### u006327
+<u>(1 + bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g} / 2)</u>
+
+### u006328
+Throng Buster
+
+### u006329
+Ogni volta che il Soldier {g|Encyclopedia:DodgeGlossary}schiva{/g} con successo un attacco di un nemico o sfrutta la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} contro di esso, ottiene un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} garantito contro quel nemico.
+
+### u006330
+Trace the Trajectory
+
+### u006331
+Ogni colpo sparato dal Soldier gli conferisce +1 di {g|Encyclopedia:WarhammerAgility}Agility{/g} fino alla fine del suo prossimo {g|Encyclopedia:Turn}turno{/g}.
+
+### u006332
+Alacrity
+
+### u006333
+Il Soldier ottiene +{uip|CritChanceBonus|bcdbde555de5492abae33d0dc285c956}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}. Questo {g|Encyclopedia:Bonus}bonus{/g} è raddoppiato contro i nemici dai quali il Soldier è protetto da una {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} nel momento dell'attacco.
+
+### u006334
+Unpredictable
+
+### u006335
+<u>(3 + bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g})</u>
+
+### u006336
+Finché ha tutte le {g|Encyclopedia:HitPoints}ferite{/g}, il Soldier ha +10 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e +2 {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u006337
+Integrity
+
+### u006338
+Il Soldier ottiene la capacità di effettuare un numero di attacchi extra pari alla {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} della sua arma (minimo 2), usando l'attacco con l'arma che di norma costa meno {g|Encyclopedia:ActionPoints}PA{/g}. Questi attacchi non spendono PA.
+-<indent=5%>Fino alla fine del turno del Soldier, il suo primo attacco contro ogni nuovo nemico mette automaticamente a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.</indent>
+-<indent=5%>Il Soldier ricarica immediatamente l'arma che sta usando.</indent>
+-<indent=5%>A partire dal prossimo round e fino alla fine del combattimento, i PA del Soldier sono ridotti di −1.</indent>
+
+### u006339
+Il Soldier ottiene la capacità di effettuare un numero di attacchi extra pari alla {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} della sua arma (minimo 2), usando l'attacco con l'arma che di norma costa meno {g|Encyclopedia:ActionPoints}PA{/g}. Questi attacchi non spendono PA.
+-<indent=5%>Fino alla fine del turno del Soldier, il suo primo attacco contro ogni nuovo nemico mette automaticamente a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.</indent>
+-<indent=5%>Il Soldier ricarica immediatamente l'arma che sta usando.</indent>
+
+### u006340
+Firearm Mastery
+
+### u006341
+Fino alla fine del {g|Encyclopedia:Turn}turno{/g} del Soldier, ottiene +4 {g|Encyclopedia:MovementPoints}PM{/g} e i suoi attacchi non spendono PM.
+
+### u006342
+Firearm Mastery (Miglioria I)
+
+### u006343
+Fino alla fine del combattimento, la {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} del Soldier aumenta di +30%.
+
+### u006344
+Firearm Mastery (Miglioria II)
+
+### u006345
+Fino alla fine del combattimento, tutti gli attacchi del Soldier sono più difficili del 20% da {g|Encyclopedia:DodgeGlossary}schivare{/g}.
+Fino alla fine del combattimento, gli attacchi a distanza del Soldier ottengono +10% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u006346
+Firearm Mastery (Miglioria III)
+
+### u006347
+Fino alla fine del {g|Encyclopedia:Turn}turno{/g} del Soldier, ciascuno dei suoi {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} infligge {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari al numero di bersagli attaccati.
+
+### u006348
+Firearm Mastery (Miglioria IV)
+
+### u006349
+<u>(bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g})</u>
+
+### u006350
+Il {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} sceglie una delle aree di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}. Per 1 round, tutti gli alleati entro una portata di {uip|Range|7005fbf810a64264893cd18fc0187b39} caselle ottengono la {g|Encyclopedia:Ability}capacità{/g} di spostarsi in quell'area. Questo movimento non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} e non spende {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u006351
+Blitz Stratagem
+
+### u006352
+Il {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} sceglie una delle aree di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}. Per 1 {g|Encyclopedia:Round}round{/g}, i {g|Encyclopedia:Bonus}bonus{/g} dell'area scelta sono raddoppiati. Tutte le altre aree tattiche vengono scaricate e non possono essere usate in questo {g|Encyclopedia:Turn}turno{/g}, ma possono essere designate di nuovo nel round successivo.
+
+### u006353
+Combat Locus Stratagem
+
+### u006354
+<u>(2 × (bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g}))</u>
+
+### u006355
+Il Grand Strategist sceglie una delle aree di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}. Per 1 round, tutti i nemici in quell'area sono costretti a ripetere le {g|Encyclopedia:Test}prove{/g} di {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g} riuscite contro tutti gli attacchi. Qualsiasi nemico che subisce danni e resta con meno di {uip|MinimumWounds|ab86bcee2036424c90dd12c2ad3fab39} {g|Encyclopedia:HitPoints}ferite{/g} muore immediatamente.
+
+### u006356
+Killzone Stratagem
+
+### u006357
+<u>(5 + 2 × (bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g}))</u>
+
+### u006358
+<u>(5 + (bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g}))</u>
+
+### u006359
+<u>(5 + bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g})</u>
+
+### u006360
+La creatura subisce −<u>(5 + 2 × (bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del Grand Strategist))</u> di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, −25% di {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} e −<u>(5 + (bonus di INT + bonus di FEL del Grand Strategist))</u> di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}. Inoltre, le creature da mischia hanno i {g|Encyclopedia:MovementPoints}PM{/g} ridotti di −3 e le creature a distanza cercano di mettersi al riparo dietro una {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}. Una creatura conta come creatura da mischia se ha almeno un'arma da mischia, e questo effetto aggiuntivo non funziona su alcuni nemici più forti.
+
+### u006361
+Overwhelmed
+
+### u006362
+Il Grand Strategist sceglie una delle aree di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}. Per 1 round, tutti gli attacchi degli alleati in quell'area infliggono per 1 round l'effetto {g|f:27c28c48cd154096afcace5ac4ec66b6}overwhelmed{/g} a qualsiasi nemico che fallisca una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Willpower.
+
+### u006363
+Overwhelming Stratagem
+
+### u006364
+<u>(3 + (bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g}) / 2)</u>
+
+### u006365
+<u>((bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g}) / 4)</u>
+
+### u006366
+Il Grand Strategist sceglie una delle aree di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}. Per 1 round, gli alleati in quell'area ottengono +{uip|BonusArmour|111f6e8111ae4d30a9d5d6d06027281d}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}, non possono essere sovrapenetrati, ottengono l'immunità all'effetto {g|Encyclopedia:ProneEffect}a terra{/g} e ottengono +{uip|BonusDeflection|111f6e8111ae4d30a9d5d6d06027281d} di {g|Encyclopedia:Deflection}deviazione{/g} contro gli attacchi ad area. Inoltre, non subiscono {g|Encyclopedia:Injury}lesioni{/g} quando ricevono danni.
+
+### u006367
+Stronghold Stratagem
+
+### u006368
+Il {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} sceglie una delle aree di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}. Per 1 round, tutti gli alleati in quell'area ottengono +{uip|CoverBonus|0e89f6eda1ae4960aeebfed0737289a3}% di {g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} e ripetono tutte le {g|Encyclopedia:Test}prove{/g} di {g|Encyclopedia:Characteristic}caratteristica{/g} fallite. Inoltre, la copertura nell'area non subisce alcun danno.
+
+### u006369
+Trenchline Stratagem
+
+### u006370
+Maestro del posizionamento sul campo di battaglia, per sé e per i propri alleati, il {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} è in grado di aumentare l'efficacia in battaglia del proprio gruppo designando e rafforzando le parti importanti del campo di battaglia.
+Focus principale: controllo del campo di battaglia, benefici agli alleati, utilità unica, penalità ai nemici.
+
+### u006371
+Il Grand Strategist segna sul campo di battaglia un'area di 5×2 caselle: la retroguardia. Tutti gli alleati nell'area della retroguardia ottengono +{uip|CoverDodgeBonus|bc99e6ba256f45368bc6bc529e59effd}% di {g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} e {g|Encyclopedia:DodgeGlossary}schivata{/g} e +{uip|DodgePenetrationBonus|bc99e6ba256f45368bc6bc529e59effd}% di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g}.
+La retroguardia può essere spostata usando di nuovo questa {g|Encyclopedia:Ability}abilità{/g}.
+
+### u006372
+Backline
+
+### u006373
+<u>(5 + 2 × bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g})</u>
+
+### u006374
+<u>(10 + 2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g})</u>
+
+### u006375
+Il Grand Strategist analizza il campo di battaglia e può creare aree specifiche che conferiscono {g|Encyclopedia:Bonus}bonus{/g} a tutti gli alleati, Grand Strategist compreso: {g|f:7cdf3a1dd3b5477096e008492e738587}Frontline{/g}, {g|f:bc99e6ba256f45368bc6bc529e59effd}Backline{/g} e {g|f:b1e24d15bb6841d89b9873829f7b3ba5}Rear{/g}. Nel primo round di combattimento, tutte e tre le aree possono essere create in un solo turno. Nei round successivi, ne può essere creata una sola per turno. Tutte le aree possono essere spostate con le {g|Encyclopedia:Ability}abilità{/g} corrispondenti (una per turno) e non possono sovrapporsi.
+Se nel gruppo ci sono due o più Grand Strategist, le aree di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} sono comuni a tutti i Grand Strategist e si usano il bonus di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} e il bonus di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} più alti fra tutti i Grand Strategist. Non può esserci più di una {g|f:7cdf3a1dd3b5477096e008492e738587}Frontline{/g}, {g|f:bc99e6ba256f45368bc6bc529e59effd}Backline{/g} o {g|f:b1e24d15bb6841d89b9873829f7b3ba5}Rear{/g} sul campo di battaglia.
+Indipendentemente dalle abilità usate, il Grand Strategist agisce sempre per primo in combattimento.
+
+### u006376
+Combat Tactics
+
+### u006377
+Il {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} segna sul campo di battaglia un'area di 4×4 caselle: la prima linea. Tutti gli alleati in prima linea ottengono un {g|Encyclopedia:Bonus}bonus{/g} del +{uip|ArmourBonus|7cdf3a1dd3b5477096e008492e738587}% all'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}, e tutti i nemici subiscono +{uip|DamageBonus|7cdf3a1dd3b5477096e008492e738587}% di danni da qualsiasi fonte.
+La prima linea può essere spostata usando di nuovo questa {g|Encyclopedia:Ability}abilità{/g}.
+
+### u006378
+Frontline
+
+### u006379
+<u>(5 + 2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g})</u>
+
+### u006380
+Il {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} segna sul campo di battaglia un'area di 5×2 caselle: le retrovie. Tutti gli alleati nell'area delle retrovie infliggono +{uip|DamageBonus|b1e24d15bb6841d89b9873829f7b3ba5}% di danni con gli attacchi a distanza e ottengono +{uip|CritChanceBonus|b1e24d15bb6841d89b9873829f7b3ba5}% di {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g} e +{uip|CritChanceIncrease|b1e24d15bb6841d89b9873829f7b3ba5}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+Le retrovie possono essere spostate usando di nuovo questa {g|Encyclopedia:Ability}abilità{/g}.
+
+### u006381
+Rear
+
+### u006382
+<u>(5 + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g})</u>
+
+### u006383
+Tutti i {g|Encyclopedia:Bonus}bonus{/g} di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} aumentano di +{uip|BonusBonus|c44292911a6d404b928176a5371eaaae}% se l'area non è stata spostata per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u006384
+Point of Interest
+
+### u006385
+<u>((bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g}) / 2)</u>
+
+### u006386
+Usare uno {g|Encyclopedia:Stratagem}stratagemma{/g} su un'area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} per la seconda volta in un {g|Encyclopedia:Turn}turno{/g} rimborsa 1 {g|Encyclopedia:ActionPoints}PA{/g}. Questo effetto può essere attivato una volta per turno.
+
+### u006387
+Strongpoint
+
+### u006388
+Gli alleati ottengono la {g|Encyclopedia:Ability}capacità{/g} di riposizionare l'area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} in cui si trovano al costo di 1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u006389
+Personal Combat Zone
+
+### u006390
+Il primo {g|Encyclopedia:Stratagem}stratagemma{/g} usato in un {g|Encyclopedia:Turn}turno{/g} può essere usato una seconda volta per 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u006391
+Opening Strategy
+
+### u006392
+Usare uno {g|Encyclopedia:Stratagem}stratagemma{/g} su un'area {g|f:bc99e6ba256f45368bc6bc529e59effd}Backline{/g} conferisce agli alleati nell'area +{uip|CritChanceBonus|e76b4151d3554a369e3801ba27a6a9b6}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} contro i nemici dai quali sono protetti da una {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+
+### u006393
+Critical Zone
+
+### u006394
+Usare uno {g|Encyclopedia:Stratagem}stratagemma{/g} sull'area {g|f:b1e24d15bb6841d89b9873829f7b3ba5}Rear{/g} rende inoltre gli alleati in quell'area i {g|Encyclopedia:PriorityTarget}bersagli prioritari{/g} con la priorità più bassa per i nemici per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u006395
+Diversion Zone
+
+### u006396
+Usare uno {g|Encyclopedia:Stratagem}stratagemma{/g} sull'area {g|f:7cdf3a1dd3b5477096e008492e738587}Frontline{/g} conferisce agli alleati nell'area +{uip|DodgeBonus|1d4ab291faad4ed4aa3fa918a43ec0d6}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro gli attacchi degli altri alleati.
+
+### u006397
+Crossfire Zone
+
+### u006398
+<u>(10 + 2 × (bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g}))</u>
+
+### u006399
+Usare uno {g|Encyclopedia:Stratagem}stratagemma{/g} su un'area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} conferisce a tutti gli alleati nell'area la {g|Encyclopedia:Ability}capacità{/g} di spostarsi di 1 casella senza provocare {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u006400
+Mobility Zone
+
+### u006401
+Usare uno {g|Encyclopedia:Stratagem}stratagemma{/g} su un'area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} permette al {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} di usare tutte le {g|Encyclopedia:Ability}abilità{/g} da {g|Encyclopedia:CareerLeaderGlossary}Officer{/g} sugli alleati nell'area, indipendentemente dalla distanza.
+
+### u006402
+Supporting Zone
+
+### u006403
+Usare uno {g|Encyclopedia:Stratagem}stratagemma{/g} su un'area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} conferisce a tutti gli alleati nell'area +{unit_stat|WarhammerIntelligence|bonus} di {g|Encyclopedia:Deflection}deviazione{/g} contro il prossimo {g|Encyclopedia:HitSequenceGlossary}colpo{/g} {g|Encyclopedia:MeleeAttacksGlossary}in mischia{/g} che subiscono.
+
+### u006404
+Enduring Zone
+
+### u006405
+Ogni volta che il {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} usa uno {g|Encyclopedia:Stratagem}stratagemma{/g}, ottiene un accumulo dell'effetto strategic perfection. A 6 accumuli di strategic perfection, il prossimo stratagemma applica i benefici di tutti gli stratagemmi conosciuti dal Grand Strategist, poi tutti gli accumuli vengono rimossi.
+
+### u006406
+Strategic Perfection
+
+### u006407
+All'inizio del combattimento, il {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} ottiene uno {g|Encyclopedia:Stratagem}stratagemma{/g} sconosciuto a caso e può usarlo fino alla fine del combattimento per 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u006408
+Improvised Strategy
+
+### u006409
+Ogni volta che un'area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} è influenzata da uno {g|Encyclopedia:Stratagem}stratagemma{/g}, tutti gli alleati in quell'area ottengono +1 {g|Encyclopedia:MovementPoints}PM{/g} per il {g|Encyclopedia:Turn}turno{/g} successivo. Si cumula con se stesso.
+
+### u006410
+Redeployment
+
+### u006411
+Se nell'area {g|f:7cdf3a1dd3b5477096e008492e738587}Frontline{/g} ci sono più nemici che alleati, tutti gli alleati nell'area ottengono +{uip|BonusParryDodge|4264c8ae4ca646fa97f42b5183ac5fd7}% a {g|Encyclopedia:Parry}parata{/g} e {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+Se nell'area {g|f:7cdf3a1dd3b5477096e008492e738587}Frontline{/g} ci sono più alleati che nemici, tutti gli alleati nell'area infliggono +{uip|BonusDamage|4264c8ae4ca646fa97f42b5183ac5fd7}% di {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u006412
+Adjusting Frontline
+
+### u006413
+Ogni alleato nell'area {g|f:b1e24d15bb6841d89b9873829f7b3ba5}Rear{/g} ottiene +{uip|BonusCritChance|ec81fa9d154544bcb9f5bc3c1a8feb91}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} se non ci sono nemici in un raggio di 5 caselle attorno all'alleato.
+
+### u006414
+Sniping Zone
+
+### u006415
+Se non ci sono nemici nell'area {g|f:bc99e6ba256f45368bc6bc529e59effd}Backline{/g}, il primo attacco nel {g|Encyclopedia:Turn}turno{/g} di ogni alleato in quell'area costa 1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+
+### u006416
+Fire at Will
+
+### u006417
+Gli alleati, {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} compreso, che si trovano nella stessa area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} del Grand Strategist ottengono +{uip|StatBonus|0baaa1db7cf44a52ac7cf9beee62f230} di {g|Encyclopedia:WarhammerPerception}Perception{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g}.
+
+### u006418
+Personal Zone
+
+### u006419
+<u>(3 + bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} / 2)</u>
+
+### u006420
+I nemici che si trovano nella stessa area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} del {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|DodgeParryPenalty|2821d25b055348b5977aa16143bbd73e}% a {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g}.
+
+### u006421
+Disputed Zone
+
+### u006422
+Ogni nemico ucciso nell'area {g|f:7cdf3a1dd3b5477096e008492e738587}Frontline{/g} aumenta di +1 tutti i {g|Encyclopedia:Bonus}bonus{/g} delle aree di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} fino alla fine del combattimento.
+
+### u006423
+Strategic Offensive
+
+### u006424
+Tutti gli alleati nell'area {g|f:b1e24d15bb6841d89b9873829f7b3ba5}Rear{/g} vengono curati dai kit medici per +{uip|TemporaryWounds|43087167f03b46ff9c28c9914aa47e54} in più e ottengono la stessa quantità di {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+I kit medici usati dagli alleati nell'area {g|f:b1e24d15bb6841d89b9873829f7b3ba5}Rear{/g} costano 1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+
+### u006425
+Respite Zone
+
+### u006426
+Le ripetizioni forzate da {g|f:b8c1d9bf80354d24b279945f1f6e81fb}Killzone Stratagem{/g} vengono effettuate con una {g|Encyclopedia:Penalty}penalità{/g} di −15.
+
+### u006427
+Inescapable Zone
+
+### u006428
+Gli alleati sotto gli effetti di {g|f:6fdddfc22c7145e5bda65b5c96e28c3e}Trenchline Stratagem{/g} {g|Encyclopedia:DodgeGlossary}schiveranno{/g} gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} senza muoversi e sono immuni a ogni tipo di movimento forzato.
+
+### u006429
+Fortress Zone
+
+### u006430
+Dopo l'uso di {g|f:b6fa6a9130a64255933ca0144f28dd03}Combat Locus Stratagem{/g}, una delle aree rimosse da {g|f:b6fa6a9130a64255933ca0144f28dd03}Combat Locus Stratagem{/g} può essere ricreata immediatamente.
+
+### u006431
+Blurred Locus
+
+### u006432
+Le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} forzate da {g|f:807137df735b46858a3e562b49bb89b1}Overwhelming Stratagem{/g} vengono effettuate con una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|ResistancePenalty|2758369cb14a43cdb72df3e7d1aad9cb}.
+
+### u006433
+Daunting Zone
+
+### u006434
+<u>(5 + 2 × (bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g}))</u>
+
+### u006435
+Ogni volta che gli alleati sotto l'effetto di {g|f:631bcfc164274b6382daace38b7ce951}Stronghold Stratagem{/g} avrebbero dovuto subire una {g|Encyclopedia:Injury}lesione{/g}, ottengono invece +{uip|TemporaryWounds|bb601b2b4d404a219b33426afcf1d783} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+
+### u006436
+Overcoming Zone
+
+### u006437
+<u>(bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u>
+
+### u006438
+Il {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} sceglie un'area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}. Ogni alleato all'interno di quell'area, tranne il Grand Strategist, ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g} con 1 {g|Encyclopedia:ActionPoints}PA{/g} e 2 {g|Encyclopedia:MovementPoints}PM{/g} all'inizio del prossimo turno del Grand Strategist.
+Per ogni nemico ucciso nell'area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} selezionata, questi PA aumentano di +1 (fino a un massimo di 3) e i PM di +2 (fino a un massimo di 6).
+I PM del Grand Strategist sono ridotti a 1 fino alla fine del combattimento.
+
+### u006439
+Il {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} sceglie un'area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}. Ogni alleato all'interno di quell'area, tranne il Grand Strategist, ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g} con 1 {g|Encyclopedia:ActionPoints}PA{/g} e 2 {g|Encyclopedia:MovementPoints}PM{/g} all'inizio del prossimo turno del Grand Strategist.
+Per ogni nemico ucciso nell'area di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} selezionata, questi PA aumentano di +1 (fino a un massimo di 3) e i PM di +2 (fino a un massimo di 6).
+
+### u006440
+Take and Hold
+
+### u006441
+Tutti gli alleati nell'area selezionata ottengono inoltre +20% a {g|Encyclopedia:DodgeGlossary}schivata{/g}, {g|Encyclopedia:Parry}parata{/g} e {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+
+### u006442
+Take and Hold (Miglioria I)
+
+### u006443
+Tutti gli alleati nell'area selezionata hanno {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} aumentate di +20.
+
+### u006444
+Take and Hold (Miglioria II)
+
+### u006445
+Tutti gli alleati nell'area selezionata ottengono inoltre +20% di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} e {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+### u006446
+Take and Hold (Miglioria III)
+
+### u006447
+Il numero massimo di {g|Encyclopedia:ActionPoints}punti azione{/g} concessi da {g|f:afece68fac504e339ffefed3da8e5dc6}Take and Hold{/g} sale a 5.
+
+### u006448
+Take and Hold (Miglioria IV)
+
+### u006449
+Il Master Tactician segna un nemico. Se quel nemico viene ucciso da uno degli alleati del Master Tactician prima dell'inizio del prossimo turno del Master Tactician, quell'alleato ottiene +<u>(10 + 2 × {g|Encyclopedia:Resolve}determinazione{/g} dell'alleato)</u> di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} e +5 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del combattimento. Il {g|Encyclopedia:Bonus}bonus{/g} a tutte le caratteristiche non si cumula.
+
+### u006450
+Assign Objective
+
+### u006451
+Il Master Tactician subisce {g|Encyclopedia:DirectDamage}danni diretti{/g} pari al 20% delle sue {g|Encyclopedia:MaxWounds}ferite massime{/g}, ottiene un numero di accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} pari alla <u>{g|Encyclopedia:Resolve}determinazione{/g} del Master Tactician</u> e azzera il {g|Encyclopedia:Cooldown}tempo di ricarica{/g} di {g|f:a113bd4f6b4145f7bea35ea1c0a160a1}Linchpin{/g}, {g|f:3c33178f69de4c46983635ff3838e4f5}Inspire{/g} e {g|f:4f978989a35e4f01b7405c409c8efeb5}Strongpoint{/g}. Fino alla fine del turno del Master Tactician, queste abilità possono avere come bersaglio solo il Master Tactician stesso.
+
+### u006452
+Fervour
+
+### u006453
+Può essere usata solo sui nemici con l'effetto unfinished business. Questo effetto viene applicato ai nemici che sono stati attaccati dagli alleati del {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} (ma non dal Master Tactician) e hanno meno del 50% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g} rimanenti.
+Il Master Tactician attacca immediatamente il bersaglio con un {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g} o un affondo. Questo attacco non conta ai fini del limite di {g|Encyclopedia:AttacksPerTurn}attacchi per turno{/g}, infligge metà dei danni massimi dell'arma e +{unit_stat|WarhammerBallisticSkill|bonus} danni aggiuntivi.
+
+### u006454
+Finish the Job
+
+### u006455
+Finish the Job (Seconda mano)
+
+### u006456
+Il bersaglio ottiene +5% di {g|Encyclopedia:DamageGlossary}danni{/g} e un ulteriore +5% di danni ogni 10 accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} che il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} possiede, ma il Master Tactician perde metà dei propri accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} (arrotondati per eccesso). Questo effetto si cumula e dura fino alla fine del combattimento.
+Se il bersaglio usa un {g|Encyclopedia:HeroicAct}atto eroico{/g} prima dell'inizio del prossimo turno del Master Tactician, ottiene +25 di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}.
+
+### u006457
+Inspire
+
+### u006458
+Il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} ha usato {g|f:305858b91e6e4d89bff75431fa6030e6}Fervour{/g} in questo {g|Encyclopedia:Round}round{/g} e ora può avere come bersaglio solo se stesso.
+
+### u006459
+L'alleato bersaglio o il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} ottiene +1 di {g|Encyclopedia:Resolve}determinazione{/g} ogni 5 accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} che il Master Tactician possiede, ma il Master Tactician perde metà dei propri accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} (arrotondati per eccesso). Questo effetto si cumula e dura fino alla fine del combattimento.
+Fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} del Master Tactician, il Master Tactician ottiene accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} pari al {uip|AdditionalMomentum|ca8040427b6d4a3d859991b62609b318}% di tutto lo {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} ottenuto dal bersaglio (anziché il solito 20%).
+
+### u006460
+Linchpin
+
+### u006461
+Il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} potenzia il proprio prossimo attacco in modo che infligga +4% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi per ogni accumulo di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} che il Master Tactician possiede, e perde metà dei propri accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} (arrotondati per eccesso).
+
+### u006462
+Press the Advantage
+
+### u006463
+Il bersaglio ottiene +2 {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} e +1 {g|Encyclopedia:HitPoints}ferita{/g} temporanea aggiuntiva ogni 2 accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} che il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} possiede, ma il Master Tactician perde metà dei propri accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} (arrotondati per eccesso).
+Fino all'inizio del prossimo turno del Master Tactician, ogni volta che il bersaglio perde ferite temporanee a causa di danni, ottiene {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} pari al numero di ferite temporanee perse.
+
+### u006464
+Il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} ottiene uno speciale effetto tactical advantage che gli permette di potenziare i propri attacchi. Ottiene +1 accumulo di questo effetto ogni 5 di {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} ottenuti da lui o dai suoi alleati.
+Il Master Tactician inizia il combattimento con un numero di accumuli di tactical advantage pari al suo <u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerFellowship}FEL{/g}</u>.
+
+### u006465
+Tactical Advantage
+
+### u006466
+<u>(20% delle {g|Encyclopedia:MaxWounds}ferite massime{/g})</u>
+
+### u006467
+Un bersaglio per {g|f:e627e3fb653840dab9661093828432c5}Finish the Job{/g}: questa creatura è stata attaccata dagli alleati del {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} e ha meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u006468
+Unfinished Business
+
+### u006469
+<u>(20 + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g})</u>
+
+### u006470
+Il Master Tactician seleziona una zona di 3×3 sul campo di battaglia.
+Tutti gli alleati, Master Tactician compreso, che hanno una {g|Encyclopedia:LineOfSight}linea di vista{/g} verso uno qualsiasi dei nemici all'interno della zona selezionata effettuano immediatamente un singolo attacco contro un nemico casuale all'interno di questa zona che possono colpire con le proprie armi.
+Fino all'inizio del prossimo turno del Master Tactician, tutti gli alleati che hanno attaccato nell'ambito di {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}Last Volley{/g} subiscono una penalità di −20 alla {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e alla {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, mentre la {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} del Master Tactician è ridotta di −40 fino alla fine del combattimento.
+
+### u006471
+Last Volley
+
+### u006472
+Fino all'inizio del {g|Encyclopedia:Turn}turno{/g} del {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g}, tutti gli alleati che hanno attaccato nell'ambito di {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}Last Volley{/g} hanno {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} ridotte di −20.
+
+### u006473
+La {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} del {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} è ridotta di −40 fino alla fine del combattimento.
+
+### u006474
+Il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} seleziona una zona di 3×3 sul campo di battaglia.
+Tutti gli alleati, Master Tactician compreso, che hanno una {g|Encyclopedia:LineOfSight}linea di vista{/g} verso uno qualsiasi dei nemici all'interno della zona selezionata effettuano immediatamente un singolo attacco contro un nemico casuale all'interno di questa zona che possono colpire con le proprie armi.
+
+### u006475
+Orchestrated Firestorm
+
+### u006476
+Il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} e un alleato casuale effettuano due attacchi anziché uno durante {g|f:874c1ff6e51945a0ae4d4e33f3dc1b49}Orchestrated Firestorm{/g} e {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}Last Volley{/g}.
+
+### u006477
+Orchestrated Firestorm (Miglioria I)
+
+### u006478
+{g|f:874c1ff6e51945a0ae4d4e33f3dc1b49}Orchestrated Firestorm{/g} e {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}Last Volley{/g} possono essere usati più volte per combattimento, una volta per {g|Encyclopedia:Turn}turno{/g}.
+
+### u006479
+Orchestrated Firestorm (Miglioria II)
+
+### u006480
+Tutti gli alleati, {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} compreso, che possiedono un'arma in grado di effettuare attacchi in {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} usano un attacco in raffica anziché un singolo attacco contro i nemici nell'ambito di {g|f:874c1ff6e51945a0ae4d4e33f3dc1b49}Orchestrated Firestorm{/g} e {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}Last Volley{/g}. Fino all'inizio del prossimo turno del Master Tactician, gli alleati {g|Encyclopedia:DodgeGlossary}schivano{/g} automaticamente tutto il fuoco amico.
+
+### u006481
+Orchestrated Firestorm (Miglioria III)
+
+### u006482
+Tutti gli alleati, {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} compreso, che possiedono un'arma in grado di effettuare {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} usano questi attacchi ad area anziché un singolo attacco contro i nemici nell'ambito di {g|f:874c1ff6e51945a0ae4d4e33f3dc1b49}Orchestrated Firestorm{/g} e {g|f:7a6c78a5bc854a2b95aa9b3cc3e2a094}Last Volley{/g}. Tutti gli alleati all'interno della zona ottengono +35% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} del Master Tactician.
+
+### u006483
+Orchestrated Firestorm (Miglioria IV)
+
+### u006484
+Ogni volta che il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} cura un alleato, quell'alleato ottiene +1 di {g|Encyclopedia:Resolve}determinazione{/g} fino alla fine del combattimento. Questo effetto si cumula fino a un massimo di +{unit_stat|WarhammerFellowship|bonus}.
+
+### u006485
+Stand Resolute
+
+### u006486
+Il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} inizia il combattimento con accumuli aggiuntivi di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} pari al numero di nemici.
+
+### u006487
+Against All Odds
+
+### u006488
+All'inizio del turno del Master Tactician, se il suo {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} è superiore a 125, il primo attacco in {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} o {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} usato dal Master Tactician in questo turno costa 1 {g|Encyclopedia:ActionPoints}punto azione{/g} in meno (minimo 0).
+
+### u006489
+Support the Advance
+
+### u006490
+Tutti gli alleati hanno +25% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro gli attacchi effettuati da alleati, infliggono il 25% di {g|Encyclopedia:DamageGlossary}danni{/g} in meno agli alleati e infliggono il 50% in meno di danni aggiuntivi con i {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g} contro gli alleati.
+
+### u006491
+Ally Coordination
+
+### u006492
+Il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} infligge +12% di {g|Encyclopedia:DamageGlossary}danni{/g} ai bersagli con meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g} e cura il 20% di ferite in più ai bersagli con meno del 50% di ferite.
+
+### u006493
+Brink of Death
+
+### u006494
+{g|f:7989c6e3109841329aee9e4546138395}Press the Advantage{/g} ignora {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} e {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u006495
+Undisputed Advantage
+
+### u006496
+Heroic Inspiration — Assign Objective
+
+### u006497
+Dopo che un {g|Encyclopedia:HeroicAct}atto eroico{/g} viene usato per la primissima volta in combattimento, la prossima abilità di {g|Encyclopedia:Career}archetipo{/g} usata dal Master Tactician avrà il costo ridotto a 0 {g|Encyclopedia:ActionPoints}PA{/g} in tutti gli usi successivi fino alla fine del combattimento.
+
+### u006498
+Heroic Inspiration
+
+### u006499
+Heroic Inspiration — Finish the Job
+
+### u006500
+Heroic Inspiration — Inspire
+
+### u006501
+Heroic Inspiration — Linchpin
+
+### u006502
+Heroic Inspiration — Strongpoint
+
+### u006503
+Ogni volta che il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} o un alleato del Master Tactician usa un qualsiasi oggetto consumabile (ad es. granata, kit medico, ecc.) o {g|Encyclopedia:Reload}ricarica{/g} un'arma, il Master Tactician ottiene +2 accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g}.
+
+### u006504
+Logistical Superiority
+
+### u006505
+Ogni volta che un alleato conferisce al {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g}, quell'alleato cura anche 1 {g|Encyclopedia:HitPoints}ferita{/g} per ogni accumulo conferito.
+
+### u006506
+Comfort in Conformity
+
+### u006507
+Tutte le {g|Encyclopedia:Ability}abilità{/g} del {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} funzionano come se il Master Tactician avesse {unit_stat|WarhammerFellowship|bonus} accumuli in più di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g}.
+
+### u006508
+Hidden Advantage
+
+### u006509
+Ogni {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} messo a segno dal {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} gli conferisce {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} pari a <u>({g|Encyclopedia:Resolve}determinazione{/g} / 2)</u>. Funziona fino a 3 volte per turno.
+
+### u006510
+Dawn of Victory
+
+### u006511
+Usare {g|f:a113bd4f6b4145f7bea35ea1c0a160a1}Linchpin{/g} ora spende solo 1/4 degli accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} anziché 1/2.
+
+### u006512
+Reliance
+
+### u006513
+{g|f:4f978989a35e4f01b7405c409c8efeb5}Strongpoint{/g} conferisce anche metà delle {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} all'alleato più vicino al bersaglio.
+
+### u006514
+Stronghold
+
+### u006515
+{g|f:e627e3fb653840dab9661093828432c5}Finish the Job{/g} ottiene +75% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+
+### u006516
+Perfect Finish
+
+### u006517
+Ogni volta che un alleato del Master Tactician usa un atto eroico, il Master Tactician ottiene +5 di Fellowship. Questo bonus si cumula e dura fino alla fine del combattimento.
+
+### u006518
+Ogni volta che un alleato del Master Tactician usa una misura disperata, il Master Tactician ottiene +5 di Toughness. Questo bonus si cumula e dura fino alla fine del combattimento.
+
+### u006519
+Ogni volta che un alleato del Master Tactician usa un atto eroico, il Master Tactician ottiene +5 di Fellowship. Ogni volta che un suo alleato usa una misura disperata, il Master Tactician ottiene +5 di Toughness. Questi bonus si cumulano e durano fino alla fine del combattimento.
+
+### u006520
+In the Hero's Footsteps
+
+### u006521
+Il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} ottiene +1 accumulo di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} per ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} messo a segno sui nemici.
+
+### u006522
+Joint Offensive
+
+### u006523
+Ogni volta che il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} o i suoi alleati ottengono {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}, ne ottengono +1 in più. Ogni volta che il Master Tactician o i suoi alleati perdono Slancio, ne perdono 1 in meno.

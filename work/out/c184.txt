@@ -1,0 +1,886 @@
+### u061905
+"Siete un Explorator? Allora perché siete qui invece di esplorare sistemi lontani?"
+
+### u061906
+"Cerco l'amicizia dell'Adeptus Mechanicus."
+
+### u061907
+"Quale pagamento posso aspettarmi?"
+
+### u061908
+"Perché siete qui e non, per esempio, al palazzo del Liege?"
+
+### u061909
+"Confermo di essere {mf|disposto|disposta} ad accettare il pagamento."
+
+### u061910
+"Pasqal, queste parole hanno una traduzione?"
+
+### u061911
+"Bene. Che schiettezza."
+
+### u061912
+[Mostra la tavoletta dati] "Ho raccolto dati planetari che potrebbero interessarvi."
+
+### u061913
+"Eogunn, ti prego, spiega..."
+
+### u061914
+"Nessun pagamento è necessario. Considerate il promethium un mio dono e un segno della mia speranza di collaborare in futuro."
+
+### u061915
+"Sembra che parliate Gotico, ma..."
+
+### u061916
+"Perché siete interessato alla xenotecnologia? Non è eresia?"
+
+### u061917
+"Cos'è la Cognisance Fleet?"
+
+### u061918
+"Quindi cos'è successo nel Sistema Tinaurus?"
+
+### u061919
+"Avete aspettato trent'anni per pagare?"
+
+### u061920
+"State dicendo che la mia dinastia ha avuto con voi rapporti d'affari di vasta portata?"
+
+### u061921
+"Perché volete informazioni sui pianeti?"
+
+### u061922
+{n}L'alto {g|Encyclopedia:TechPriest}Tecnoprete{/g} ingobbito ti fissa senza battere ciglio. Una maschera respiratoria cela i suoi lineamenti scavati, la pelle delle sue mani ha una tonalità grigia e malsana, mentre le sue {g|Encyclopedia:Augmentation}augmetiche{/g} mostrano segni di danni da combattimento e sono rivestite di cromo nero, il che gli conferisce un'aria generale di lugubre tristezza.{/n}
+
+### u061923
+"Negativo. Unità che si identificavano come confessori hanno effettivamente //compiuto un'intrusione//si sono avvicinate a noi//. Sono state informate che i membri dell'Adeptus Mechanicus esistono al di fuori della loro giurisdizione. Ne è seguita una disputa teologica." {n}Opticon-22 cade in un silenzio criptico.{/n}
+
+### u061924
+"L'accesso è stato concesso alle seguenti opzioni: scambio di informazioni, rafforzamento dei legami diplomatici, //accordi commerciali//donazioni//."
+
+### u061925
+"Il //pagamento//dono reciproco// stipulato da parte della Cognisance Fleet può essere effettuato a favore dei beni di von Valancius in questo momento, dopodiché l'obbligazione contrattuale sarà //adempiuta//archiviata//. Confermate il vostro stato riguardo all'accettazione del //pagamento//dono reciproco//."
+
+### u061926
+"La Cognisance Fleet è una Flotta Explorator //formata//prodotta// dall'Adeptus Mechanicus allo scopo di //esaminare//eventualmente conquistare// la {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}. Lo squadrone principale della flotta si trova in — dati classificati — mentre gli echelon ausiliari e i vascelli del vuoto autonomi operano in tutta la Distesa di Koronus."
+
+### u061927
+{n}Non senza una punta d'orgoglio nella voce, Opticon-22 scatta,{/n} "Dati classificati."
+
+### u061928
+"Quest'unità ha operato come esploratore planetario senior per la durata di — dati classificati — cicli procedurali. È stata distinta con:
+1) tre promozioni di un grado,
+2) il diritto a un'{g|Encyclopedia:Augmentation}augmetica{/g} sacra di livello 2,
+3) una nota nell'archivio di tutta la flotta come 'unità di valore'."
+
+### u061929
+"La designazione 'Opticon' è un identificatore con //una storia illustre//un numero significativo di riferimenti d'archivio// ed è usata da molti Explorator della Cognisance Fleet. L'estensione '22' è un'aggiunta personalizzata dell'attuale unità, pensata per mettere in risalto la personalità unica dell'unità."
+
+### u061930
+"Valutazione corretta. Il Sistema Tinaurus è stato //una grande prova di fede//una verifica della soglia di resistenza di quest'unità//un atto di xenocidio distruttivo//."
+
+### u061931
+"Questa affermazione è vera. La Cognisance Fleet ha concluso 1292 obbligazioni contrattuali con la dinastia von Valancius //rappresentata//guidata//amministrata// dalla controparte identificata come Theodora von Valancius."
+
+### u061932
+"Quest'unità svolge:
+1) rappresentanza residenziale,
+2) manutenzione della macchina burocratica ai fini della ratifica dei confini isolanti,
+3) gestione della linea di rifornimento del Kappa Thread,
+4) compilazione di dati di ricognizione astrografica."
+
+### u061933
+"//Extractium universali mobili da dispiegamento orbitale//complessi di lavorazione Astra Arator// nella quantità stabilita nell'obbligazione contrattuale. Ogni unità ha subito un ciclo di liturgie di manutenzione ed è stata valutata per la conformità al sacro Standard Template Construct."
+
+### u061934
+"Modalità di assistenza informativa disattivata."
+
+### u061935
+"Una comunicazione prolungata con laici di alto rango sociale provoca in quest'unità //irritazione//desiderio di cessazione forzata delle funzioni vitali//, //afflizione//calo della motivazione//, //furia giusta//disponibilità ad avviare il protocollo di purezza//. Rimanere in un'area di riparazione e manutenzione delle macchine sacre è benefico per le funzioni cognitive di quest'unità."
+
+### u061936
+{n}Pasqal e Opticon-22 si scambiano uno sguardo e una breve serie di segnali binarici prima di chinare il capo con soddisfazione. Il capo di Opticon-22 si china in modo evidentemente più profondo di quello di Pasqal.{/n}
+
+### u061937
+"Che il favore dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g} sia con i miei tecno-compagni." {n}Pasqal tocca con riverenza l'insegna Explorator sulla sua veste.{/n}
+
+### u061938
+"Questa affermazione è vera. Le dinamiche comportamentali tipiche dei gruppi di laici sono spesso prive di schemi logici e gravose da analizzare."
+
+### u061939
+"La richiesta è accolta. Le macchine sacre saranno caricate nella stiva del vostro vascello. L'obbligazione contrattuale Logisticar Theta è conclusa. La Cognisance Fleet ringrazia la Casata von Valancius per la collaborazione."
+
+### u061940
+"Quest'unità è soddisfatta dell'esito di questa comunicazione."
+
+### u061941
+{n}Un sibilo di statica simile a un sospiro esce dal {g|Encyclopedia:Vox}vox{/g} di Pasqal.{/n} "Le funzioni di Opticon-22 possono essere espresse nel linguaggio della carne come... fungere da missione diplomatica della Flotta, supervisionare le spedizioni, assicurare che i laici non invadano la sfera d'interesse degli Explorator e raccogliere dati sui sistemi stellari."
+
+### u061942
+"Dopo una missione di ricognizione nel Sistema Tinaurus, quest'unità è stata promossa al rango di Logis e trasferita a Footfall per svolgere le funzioni adatte al suo stato attuale." {n}C'è qualcosa di simile alla malinconia nella voce, per il resto priva di emozioni, di Opticon-22.{/n}
+
+### u061943
+{n}Pasqal e Opticon-22 si voltano verso di te e scattano all'unisono,{/n} "Dati classificati."
+
+### u061944
+"Oh, lo è senza alcun dubbio, stimato." {n}Il veleno che trasuda dalla voce melliflua di Jae potrebbe probabilmente uccidere un grosso grox.{/n}
+
+### u061945
+"Presumo che questa 'disputa teologica' abbia comportato l'uso dei doni sacri dell'Omnissiah. Di quelli della varietà della forza, del plasma e in generale portatori di martirio."
+
+### u061946
+{n}Abelard emette un sospiro lungo e pesante.{/n} "Una volta c'era un Tecno-Accolito nel seguito di Lady Theodora che conosceva l'unico linguaggio dei venerabili Tecnopreti... Ho iniziato a comprendere il vero valore delle sue capacità solo dopo che era stato divorato da uno xenobestia su un mondo qualunque."
+
+### u061947
+"La Cognisance Fleet //ritiene ragionevole credere//crede// che la conoscenza proibita nelle mani dei laici causi distruzione e violazioni contrarie alla volontà dell'Omnissiah. La debolezza di mente e di volontà scatena la xenoeresia, che consuma i laici per intero."
+
+### u061948
+"Un esempio che dimostra lo schema descritto: una stazione del vuoto nel sistema della Cintura di Langrenn. Secondo i dati a disposizione della Cognisance Fleet, gli eretici sulla stazione intrattengono rapporti commerciali con gli xenos allo scopo di ottenere tecnologie pericolose e perniciose. La distruzione di questi eretici è di alta priorità, ma non abbastanza alta da richiedere un'azione immediata."
+
+### u061949
+"Il processo di assegnazione dei beni si è concluso... 2,663 anni terrani dopo. Il trasporto dei beni verso il Sistema Furibundus ha richiesto... 16,862 anni terrani. La consegna finale dei beni a Footfall ha richiesto... 0,331 anni terrani."
+
+### u061950
+"Confermato. Desidero //adempiere//convalidare reciprocamente// l'obbligazione contrattuale reciproca denominata Logisticar Theta."
+
+### u061951
+"In base all'obbligazione contrattuale in questione, 34,761 anni terrani fa la Cognisance Fleet Explorator ha ricevuto da //rappresentanti//unità autorizzate// della dinastia von Valancius un volume di promethium di alta qualità pari alla capacità di carburante di sei cisterne del vuoto Tantalion."
+
+### u061952
+"L'ha ricevuto, e poi non ha pagato. Compensare. Remunerare. Saldare i conti. Devo continuare, o bastano questi sinonimi?"
+
+### u061953
+"L'esecuzione del //pagamento//dono reciproco// è conforme alle specifiche dell'obbligazione contrattuale. L'assegnazione dei beni dalle riserve della Cognisance Fleet è stata avviata quando le cisterne hanno raggiunto lo squadrone principale... 14,905 anni terrani dopo la transazione iniziale."
+
+### u061954
+"Furbo. Se aveste comprato carburante per uno squadrone dall'altra parte dell'Imperium, forse non avreste mai dovuto pagare — saremmo diventati polvere prima che voi foste arrivati laggiù e tornati."
+
+### u061955
+"Grandi creazioni dell'Omnissiah, benedetta sia la Sua generosità, che ha concesso a questi complessi potenza industriale e un ciclo completo di riproduzione e supporto vitale."
+
+### u061956
+"La Flotta Explorator accetterà anche informazioni sui pianeti della Distesa di Koronus che non sono stati registrati in precedenza nel registro planetario."
+
+### u061957
+"La richiesta è accolta. L'obbligazione contrattuale Logisticar Theta è conclusa. La Cognisance Fleet ringrazia la Casata von Valancius per la collaborazione. Lo status delle richieste dell'unità sarà aumentato."
+
+### u061958
+"Lo studio onnicomprensivo della Distesa di Koronus è la //missione sacra//finalità operativa// della Cognisance Fleet. Le informazioni sui pianeti e sui sistemi stellari della Distesa di Koronus //devono//saranno// essere compilate, studiate e trasferite ai sacri depositi di Marte al termine della //grande marcia dell'Esplorazione//missione//. Questo processo aumenta la totalità della conoscenza e diminuisce la totalità dell'ignoranza nell'universo."
+
+### u061959
+{n}Con un cenno rispettoso, il Tecnoprete prende la tavoletta dati.{/n} "I dati raccolti sono //di interesse//significativi//conformi ai criteri di cooperazione//. La Cognisance Fleet vi ringrazia per il vostro contributo e garantisce la fornitura di un //servizio//favore// reciproco sotto forma di parti e attrezzature."
+
+### u061960
+{n}Dopo aver esaminato i dati, il Tecnoprete gracchia,{/n} "I dati raccolti sono //privi di interesse//insignificanti//non conformi ai criteri di cooperazione//. Richiedo un insieme di dati più sostanzioso."
+
+### u061961
+"Rapporto: grazie al vostro //aiuto//contributo//, i settori all'interno della linea di rifornimento del Kappa Thread sono stati completamente //studiati//conosciuti//. In conformità al protocollo, è stata imposta una moratoria su ulteriore cooperazione nell'ambito della ricognizione planetaria. La moratoria può essere revocata e la cooperazione ripresa alla ricezione di istruzioni dirette dal conclave della Cognisance Fleet."
+
+### u061962
+"Avvio della procedura di saluto ufficiale per visitatori //stimati//di alto valore//. //Gloria//Successo// alla Casata von Valancius." {n}Un'aria binarica inizia a fluire dal {g|Encyclopedia:Vox}vox{/g} graffiato fissato al petto del Tecnoprete.{/n} "Richiesta di scambio di informazioni riguardo all'obbligazione contrattuale Logisticar Theta."
+
+### u061963
+"La Cognisance Fleet apprezza la diligenza dei laici nel promuovere l'obiettivo dell'acquisizione totale della conoscenza. Lo status di servizio privilegiato è qui concesso. Una nota in tal senso sarà aggiunta al vostro fascicolo."
+
+### u061964
+"Rapporto: la linea di rifornimento del Kappa Thread è pronta a proseguire la cooperazione con la dinastia von Valancius nell'ambito della ricognizione planetaria."
+
+### u061965
+"//Riconoscimento//Saluto//Trasmissione del segnale di deferenza all'// unità definita come {mf|liberatore|liberatrice} del sacro mondo di Eufrates II. Che l'Omnissiah protegga i Suoi servitori //fedeli//conformi all'algoritmo del voto//."
+
+### u061966
+"Il più sostanzioso è stato il Patto 8-Yul, in base al quale l'Archmagos Cubis Delphim, Data-Usher dell'Officina Sette Volte Santa del sacro mondo di Eufrates II, fu trasferito sul pianeta Kiava Gamma per //svolgere le funzioni di//fungere da// suo Fabricator-Censor. I servizi di un servitore così //illuminato//potenziato//autorizzato// furono //ricompensati con l'offerta di//pagati con// un contratto settennale che garantiva ai vascelli da esplorazione della Flotta privilegi di manutenzione presso gli impianti di Kiava Gamma."
+
+### u061967
+"È vero. Negli ultimi decenni, Lady Theodora si è data da fare per costruire un rapporto solido con la Cognisance Fleet. Ha rifiutato una dozzina di candidati alla ricerca del giusto tecno-sorvegliante che vigilasse su Kiava Gamma."
+
+### u061968
+{n}I servoteschi ronzanti che fluttuano intorno a te prorompono in una vera e propria aria di suoni di saluto binarici. Opticon-22 risponde con un cenno misurato.{/n}
+
+### u061969
+{n}Eogunn sposta l'angolazione del suo corpo in un inchino formale, intrecciando le mani per fare il segno dell'ingranaggio dell'Omnissiah. La sua cella galvanica crepita, avvolgendo il Manipulus nella Forza Motrice. Opticon-22 risponde con una frase binarica che suona profondamente riverente a modo suo, strano. Poi onora Nuncius con un cenno del capo.{/n}
+
+### u061970
+"Notevolmente, la capacità semantica della terza categoria comprende una gamma estremamente ampia di... entità." {n}Il Manipulus accenna un sorriso appena percettibile.{/n} "La lungimiranza della Cognisance Fleet è davvero notevole."
+
+### u061971
+{n}Invece di rispondere, Eogunn guarda con aria d'attesa il servoteschio. Nuncius fluttua impassibile alla sua spalla, incarnazione stessa della brevità.{/n}
+
+### u061972
+"L'assistenza informativa sarà fornita."
+
+### u061973
+"Vi prego di perdonare la formulazione eccessivamente prolissa del mio collega, permettetemi di presentare un'alternativa più concisa." {n}Il Tecnoprete socchiude gli occhi pensieroso.{/n} "Credo che l'interpretazione ottimale sia la seguente: doveri diplomatici, imprese commerciali comprensive dello scambio di dati e tempestiva espulsione dei laici dai settori d'interesse degli Explorator."
+
+### u061974
+"Avvio della procedura di identificazione. Quest'unità è definita come Logis Opticon-22 ed è //un rappresentante pienamente autorizzato//una parte strutturale// della Cognisance Fleet e del sacerdozio dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g}. L'accesso è stato concesso alle seguenti opzioni: scambio di informazioni, rafforzamento dei legami diplomatici, //accordi commerciali//donazioni//."
+
+### u061975
+"La Cognisance Fleet sarà //lieta//alternativa non disponibile// di accettare:
+1) qualsiasi campione di tecnologia sacra;
+2) campioni di xenotecnologia profana;
+3) oggetti vari.
+Promemoria: l'immagazzinamento, lo studio e/o lo smaltimento degli oggetti sopra citati, con l'eccezione del punto 3) oggetti vari, è diritto preferenziale dell'Adeptus Mechanicus."
+
+### u061976
+"Il sacerdozio dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g} //è interessato alla//considera tempestiva la// cooperazione con i Rogue Trader. Secondo i termini del Trattato di {g|Encyclopedia:Mars}Marte{/g}, è disposto a fornire servizi alla dinastia von Valancius. La priorità dei compiti di servizio può essere aumentata se i legami diplomatici vengono rafforzati."
+
+### u061977
+"Le capacità informative del linguaggio della carne sono carenti." {n}Opticon-22 rimane in silenzio a lungo. Poi dice,{/n} "Fungo da missione diplomatica della Flotta, supervisiono le spedizioni e assicuro che i laici non invadano la sfera d'interesse degli Explorator."
+
+### u061978
+"Il mio archivio contiene dati sulla ricognizione del Sistema Tinaurus e sulle circostanze speciali associate. Esprimo il mio rispetto per un veterano e aderente della Flotta."
+
+### u061979
+"Che ne è stato della nave con cui siete arrivati qui? È proprietà della dinastia von Valancius."
+
+### u061980
+"Ho bisogno di informazioni. Cos'è successo a Kiava Gamma e come siete finiti qui?"
+
+### u061981
+"Scagliavate accuse contro i vostri padroni. È segno di tradimento e dev'essere punito di conseguenza. Ve ne rendete conto?"
+
+### u061982
+Ordinato che i rifugiati risentiti di Kiava Gamma siano puniti e gli altri lasciati andare.
+
+### u061983
+"Vi do un'ora per consegnare quelli che gridavano oscenità ai tutori dell'ordine sulla mia nave. Saranno giustiziati. Tutti gli altri siete liberi di andare."
+
+### u061984
+Ordinato che i rifugiati risentiti di Kiava Gamma siano puniti e gli altri portati a bordo della nave del vuoto.
+
+### u061985
+"Tutti quelli che hanno gridato oscenità devono essere consegnati ai tutori dell'ordine sulla mia nave — saranno giustiziati. Gli altri possono unirsi all'equipaggio della mia nave."
+
+### u061986
+Perdonati i rifugiati di Kiava Gamma e portati a bordo della nave del vuoto.
+
+### u061987
+"Siete perdonati. Potete salire a bordo della mia nave e continuare a servire la dinastia von Valancius."
+
+### u061988
+"Fuori dalla mia vista, tutti voi."
+
+### u061989
+Giustiziati i rifugiati di Kiava Gamma per aver mancato di rispetto ai loro legittimi governanti.
+
+### u061990
+[Attacca] "Per aver insultato i governanti il cui regno è stato benedetto dal Trono d'Oro, vi condanno a morte!"
+
+### u061991
+{n}I rifugiati di Kiava Gamma ti guardano, alcuni con cipigli apprensivi, altri con malcelata gratitudine.{/n}
+
+### u061992
+"Vostra Signoria!" {n}giunge il coro discordante di voci.{/n}
+
+### u061993
+{n}I rifugiati si esibiscono in profondi inchini, balbettando le loro espressioni di gratitudine.{/n} "Sarà fatto! Faremo come dite..."
+
+### u061994
+"Suvvia, shereen, cedi. Che cosa può aspettarsi un illustre Rogue Trader da miserabili in stracci il cui debole spirito non ha saputo reggere un solo colpo del destino?"
+
+### u061995
+{n}Idira si blocca, in ascolto di qualcosa. Poi sbotta con una voce cambiata,{/n} "La prima bestia, col corpo ferito, strisciò in una buca sotto il palazzo di un eminente signore. La seconda bestia, con la pelle piagata, perì in una tomba d'asteroide.
+La terza bestia, con l'essenza maledetta, è raggomitolata nel bagliore di un sole giallo..."
+
+### u061996
+"Vi abbiamo detto tutto già nella piazza... A Kiava Gamma le cose vanno male. Forse non esiste nemmeno più una Kiava Gamma. Il pianeta è stato attaccato da una orda di eretici — gridavano preghiere empie e abbattevano la gente a destra e a manca. Abbiamo sentito tutto dall'orbita, ascoltando una trasmissione {g|Encyclopedia:Vox}vox{/g} dopo l'altra. Ci siamo resi conto che non era rimasto nessuno da salvare, così abbiamo pensato di scappare... ma poi è stato come se il nostro equipaggio fosse impazzito in qualche modo. Il capitano ha sbattuto la propria testa contro un {g|Encyclopedia:Cogitator}cogitatore{/g}, e così metà degli ufficiali. Tutti i sopravvissuti hanno fatto del loro meglio per condurre la nave nel {g|Encyclopedia:Warp}warp{/g} e siamo qui..."
+
+### u061997
+{n}Uno dopo l'altro, i rifugiati cadono in ginocchio.{/n} "Vi prego, abbiate pietà! Qualche idiota ha gridato delle cose, tutto qui! Li abbiamo già zittiti noi stessi. Parlavano il dolore e la paura... Vi prego, non punite il resto di noi per questo!"
+
+### u061998
+{n}I rifugiati si inchinano profondamente e ossequiosamente.{/n} "Sarà fatto! Faremo proprio come dite!"
+
+### u061999
+{n}I loro occhi brillano.{/n} "Lode all'Imperatore! Siamo salvi e perdonati! Faremo come ci viene detto, non diremo un'altra parola..." {n}Inchinandosi in fretta, i rifugiati si allontanano da te.{/n}
+
+### u062000
+{n}I rifugiati afferrano le loro misere proprietà e scappano quasi di corsa.{/n}
+
+### u062001
+"Solo tre navi sono uscite vive di là, e la nostra è una di queste. Non sappiamo che ne sia stato delle altre due, non sono mai arrivate a Footfall. Forse sono scomparse nel warp, o forse è successo loro qualcos'altro..."
+
+### u062002
+"Scusate... non siamo riusciti a salvarla. La nave si è danneggiata durante la fuga — siamo fortunati che ci abbia portati fino a Footfall. È agli attracchi più lontani, ma ormai non serve a molto — non sembra che andrà da nessuna parte, e i recolliger locali hanno già portato via alcune parti di valore. Potete mandare i vostri a smontare quello che resta, a recuperare qualche componente."
+
+### u062003
+{n}La voce di Pasqal suona impassibile e fredda:{/n} "Sono state registrate anche vituperazioni rivolte all'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g}. Negare è privo di senso."
+
+### u062004
+{n}Heinrix osserva attentamente l'uomo, poi te.{/n} "Trasmissioni vox corrotte... Una specie particolare di eresia che richiede la conoscenza di arti empie. Kiava Gamma potrebbe essere caduta sotto l'influenza di {g|Encyclopedia:TechPriest}Tecnopreti{/g} depravati — una volta ceduto alla corruzione, dimenticano ogni limite imposto dalla fede e si addentrano in ricerche sfrenate e pericolose."
+
+### u062005
+"La mappa della Distesa mi è stata rivelata prima che il Mare delle Anime si agitasse e aggrovigliasse i sentieri. Come avete fatto voi, disperati, a raggiungere Footfall fin dal Sistema Cranach senza un {g|Encyclopedia:Navigator}Navigatore{/g}?"
+
+### u062006
+{n}Spaventato dall'aspetto di Cassia, il rifugiato si copre il volto con le mani, tremando violentemente.{/n} "V-vi prego di perdonare le mie p-parole indegne... Procedevamo a tentoni nel buio, potremmo dire — avevamo solo qualche vecchia mappa. Abbiamo pregato il Dio-Imperatore giorno e notte mentre il nostro timoniere tracciava la rotta. Un m-miracolo, dev'essere stato, Vostra Signoria!"
+
+### u062007
+"Follia indotta..." {n}Eogunn sposta lo sguardo da un rifugiato all'altro con interesse.{/n} "Una mera sequenza di onde di trasmissione avrebbe potuto menomare in modo così crudele le menti di queste persone? Ne dubito. La fonte di un segnale vox tanto distruttivo merita un'indagine approfondita, e questo è un fatto incontrovertibile."
+
+### u062008
+"Rilevata una selezione criticamente errata di un lessema della lingua di carne da parte del Genetor Eogunn Februs. 'Eradicazione' è il termine corretto per le manipolazioni che coinvolgono la fonte descritta."
+
+### u062009
+[Rivolgigli un sorriso abbagliante] "Maestro van Calox! Sapevo che non avreste resistito al mio fascino!"
+
+### u062010
+"Sono {mf|lieto|lieta} di rivederti, Heinrix."
+
+### u062011
+"Salve, Interrogatore. A cosa devo il piacere di quest'ultima visita?"
+
+### u062012
+"Ancora voi."
+
+### u062013
+[Avvicinati e abbassa la voce] "Sono davvero {mf|felicissimo|felicissima} di riaverti."
+
+### u062014
+"Che cosa ha causato esattamente questo bisogno di unirvi di nuovo al mio equipaggio?"
+
+### u062015
+"Non posso proprio dire di no, vero?"
+
+### u062016
+"Heinrix, ti spiacerebbe tradurmi il torrente di verbosità che mi hai appena scaricato addosso?"
+
+### u062017
+"Mi oppongo a un simile abuso di potere da parte dell'Inquisizione! Sono un Rogue Trader, non un contadino da spintonare!"
+
+### u062018
+"Io, Rogue Trader {name} von Valancius, do il benvenuto all'agente del Trono d'Oro a bordo della mia nave e mi assumo la responsabilità di assisterlo nella lotta contro il male che minaccia l'Umanità."
+
+### u062019
+"Uno psyker sanzionato con una rosetta inquisitoriale nel mio seguito? Gratis, per di più? Gli altri Rogue Trader verdi d'invidia, senza dubbio!"
+
+### u062020
+"Non amo i metodi usati dall'Inquisizione, ma vi assisterò in ogni modo possibile."
+
+### u062021
+{n}Heinrix sospira.{/n} "La vostra franchezza di espressione vi fa onore. Ahimè, la vostra nave dovrà ospitarmi ancora una volta."
+
+### u062022
+{n}Heinrix chiude per un attimo gli occhi, come se la vostra prima osservazione lo avesse spiazzato e gli avesse fatto dimenticare il discorso che aveva preparato.{/n} "Rogue Trader."
+
+### u062023
+"L'Inquisizione? {name}, non avevi mai detto di frequentare simili... illustri servitori dell'Imperatore. Scommetto che ci vuole qualcuno di davvero straordinario per meritare un'attenzione tanto eminente e ravvicinata!" {n}Jae scoppia a ridere.{/n}
+
+### u062024
+{n}Heinrix le lancia un'occhiata e inclina leggermente il capo.{/n} "Signora Heydari. Fin dalla mia prima visita a Footfall, sento parlare dei vostri colleghi e dei vostri talenti personali. Temo però che il vostro nome completo mi sfugga — vorreste gentilmente rinfrescarmi la memoria?"
+
+### u062025
+{n}Heinrix si concede un accenno di sorriso.{/n} "Sono lieto di sapere che la mia presenza a bordo della vostra nave non vi ha lasciato ricordi spiacevoli. Spero che la vostra disposizione non cambi dopo che vi avrò spiegato il motivo della mia visita."
+
+### u062026
+"Solo al nostro comune dovere verso l'Umanità. È quel dovere che esige che io disturbi ancora una volta la vostra pace."
+
+### u062027
+"Sono riuscito a contattare il mio mentore e a riferirgli gli eventi tragici avvenuti su Rykad Minoris. Ho ricevuto anche alcune informazioni dai miei agenti riguardo agli spostamenti e alle azioni dei nemici dell'Umanità, compresi gli {g|Encyclopedia:Xenos}xenos{/g} che presumiamo coinvolti nel furto della stella. Secondo le loro scoperte, la minaccia ora incombe su altri mondi... stavolta i vostri, Lord Capitano."
+
+### u062028
+"Per nulla, Primo Ufficiale Werserian — non ho l'abitudine di lasciare tracce. Ma vi ringrazio per la premura."
+
+### u062029
+{n}La risata si blocca in gola a Jae — impallidisce leggermente, ma si sforza comunque di fare un sorriso di scuse.{/n} "Non mi dispiace, shereen. Che il mio nome completo resti per te nient'altro che un suono vagante, semplice e privo d'interesse."
+
+### u062030
+"Maestro van Calox!" {n}La voce di Cassia trabocca di genuina gioia, che lei nasconde subito dietro una facciata di compostezza altolocata.{/n} "Dato che siete di nuovo con noi, spero davvero che troverete il tempo di concludere la nostra conversazione sulle opere letterarie di Kronhaller il Benedetto."
+
+### u062031
+"Farò ogni sforzo, Lady Orsellio."
+
+### u062032
+{n}Heinrix si schiarisce la voce e inizia con un tono volutamente ufficiale,{/n} "Per ordine del Lord Inquisitore Xavier Calcazar, il cui dovere è di vigilare sulla {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}, il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} della Casata von Valancius deve accogliere a bordo l'agente della Santissima {g|Encyclopedia:Inquisition}Inquisizione{/g} e fornire scorta e supporto in imprese grandi e piccole che servano a salvaguardare i territori dell'Imperium dai suoi nemici. Questo decreto è efficace immediatamente all'annuncio e resta in vigore fino a diversa decisione di Sua Eccellenza Calcazar."
+
+### u062033
+{n}La sua bocca si contrae leggermente.{/n} "Il Lord Inquisitore ha ritenuto che la mia presenza a bordo della vostra nave e nel vostro seguito sarebbe significativamente più utile alla lotta contro l'eresia e il male del mio ritorno al fianco del mio mentore. La nostra separazione prima del nostro arrivo a Footfall è stata prematura."
+
+### u062034
+"La causa è l'attività dei nemici dell'Umanità, compreso il Culto dell'Alba Finale. In mia assenza, la situazione nella Distesa di Koronus è cambiata. Ho ricevuto un rapporto esauriente dai miei agenti — questa eresia ha messo radici nella regione dove si trovano i mondi von Valancius. Probabilmente conoscete già il destino del {g|Encyclopedia:IndustrialWorld}mondo industriale{/g} di Kiava Gamma. In caso contrario, condividerò i dettagli che conosco, ma non qui. Meglio parlarne a bordo, dove nessuno potrà origliare."
+
+### u062035
+{n}Heinrix ti studia per un istante — poi, appena appena, come se non volesse che altri lo vedano, scuote la testa.{/n}
+
+### u062036
+{n}Un movimento appena percettibile — e una rosetta di metallo splendente balena davanti ai tuoi occhi, il simbolo dell'illimitato potere dell'Inquisizione.{/n} "Controllatevi, von Valancius. Siete a un passo dal pronunciare parole che potrebbero essere interpretate come sfida al {g|Encyclopedia:GoldenThrone}Trono{/g} — con ogni probabilità la peggiore eresia che possa commettere un servitore dell'Imperatore." {n}Passa un istante, e la rosetta svanisce tra le pieghe del suo mantello.{/n}
+
+### u062037
+"Capisco, {name}. Ma il dovere verso il {g|Encyclopedia:GoldenThrone}Trono d'Oro{/g} è raramente un fardello piacevole da portare — specialmente per chi ricopre una posizione di grande potere."
+
+### u062038
+"Non è la risposta più comune alla notizia che vi starò costantemente col fiato sul collo. Non avete torto, comunque. Preferisco ricambiare i favori in natura — assistetemi garantendo che il mio lavoro non sia ostacolato, e io vi assisterò a mia volta."
+
+### u062039
+{n}Heinrix fa un cenno riservato.{/n} "Una risposta degna di un retto servitore dell'{g|Encyclopedia:Emperor}Imperatore{/g}."
+
+### u062040
+"Devo anche consegnarvi questo." {n}Heinrix estrae una lettera sigillata.{/n} "Il Lord Inquisitore ha specificato che il contenuto di questa busta è solo per i vostri occhi. Vi chiederei di leggerla non appena avrete tempo."
+
+### u062041
+"Per il momento è tutto. State andando alla nave? O avete ancora affari a Footfall? In ogni caso, posso aspettarvi a bordo oppure accompagnarvi come parte del vostro seguito."
+
+### u062042
+{n}Il sussurro di Idira è appena udibile:{/n} "Tutto quello che ne ho ricavato è che liberarci di questa spia non sarà facile."
+
+### u062043
+"Se il dovere vi ha riportato a bordo della nave del Rogue Trader, allora tale è la volontà dell'Imperatore. Bentornato, Interrogatore."
+
+### u062044
+"Grazie, Sorella. È un onore viaggiare con una delle benedette {g|Encyclopedia:AdeptaSororitas}Adepta Sororitas{/g}."
+
+### u062045
+{n}Idira ti fissa sbigottita, poi guarda Heinrix, poi si morde il labbro e ridacchia con gioia.{/n}
+
+### u062046
+"Onorato Interrogatore, che sorpresa. Avete per caso lasciato qualcosa nella vostra cabina?"
+
+### u062047
+"Grazie." {n}Heinrix ti rivolge un'ombra di sorriso prima che il suo volto assuma l'espressione abituale.{/n}
+
+### u062048
+"Voglio dare un'occhiata al catalogo dei componenti disponibili per l'acquisto."
+
+### u062049
+"Che cosa ci fa qui il vostro squadrone?"
+
+### u062050
+"Da dove prendete i componenti che vendete?"
+### u062051
+"Passo e chiudo."
+
+### u062052
+"Vorrei saperne di più sulle operazioni della Flotta Mercantile nella Distesa di Koronus."
+
+### u062053
+{n}Il canale vox scatta e, dopo una breve pausa, una voce secca e bassa ti saluta:{/n} "Salve, Lord Capitano. È un onore parlare con il Rogue Trader della Casata von Valancius, che il vostro nome sia noto attraverso le ere. Capitano Chartista Austerius Thorfast, titolare di una carta libera della Flotta Mercantile. Come posso esservi utile?"
+
+### u062054
+{n}Una voce familiare squarcia il sibilo del canale vox.{/n} "Salve. Che cosa posso fare per voi?"
+
+### u062055
+"Sviluppiamo rotte di rifornimento per i Chartisti. Vedete, la mia nave rappresenta la Flotta Mercantile in questa parte del territorio dell'Imperium, eppure non abbiamo una rotta commerciale fissa stabilita da una carta. La nostra missione è stabilire contatti d'affari con i viaggiatori del vuoto che hanno bisogno di riparazioni regolari alle navi e con chi è interessato a merci specializzate."
+
+### u062056
+{n}Il proiettore dell'ologramma emette un bip stridulo che indica un messaggio olografico in arrivo. Un istante dopo, il proiettore proietta una serie di immagini di vari componenti per navi.{/n} "Credo che un Rogue Trader possa essere interessato a simili articoli. Desiderate conoscere i dettagli? Sono pronto a trasmettervi via vox un catalogo dei componenti che abbiamo a disposizione."
+
+### u062057
+"Mi state chiedendo di rivelarvi i nostri fornitori?" {n}Thorfast ride con leggerezza.{/n} "Be', francamente, vengono da ogni dove e da nessun luogo. Otteniamo la nostra merce o da fortunati marinai del vuoto che s'imbattono in una nave abbandonata o in rovina da qualche parte in un sistema vicino, oppure da sfortunati la cui misera carretta arriva a Footfall in uno stato tale che è più facile smontarla che ripararla."
+
+### u062058
+"Non abbiamo molti clienti disposti — e in grado — di acquistare enormi cumuli di plastacciaio e di tecnologia sacra grandi quanto un piccolo asteroide. Perciò il nostro catalogo raramente si arricchisce di nuove scorte, ma resta aggiornato."
+
+### u062059
+{n}Thorfast si ferma a riflettere.{/n} "La Distesa di Koronus è la periferia dell'Imperium... per molti versi una frontiera, dove le distanze tra i mondi abitati sono grandi e il vuoto che riempie questi spazi è pieno di pericoli. E non parlo solo dei nemici dell'Umanità — ci sono moltissime anomalie del vuoto e perturbazioni del warp capaci di distruggere anche un vascello collaudato dal tempo."
+
+### u062060
+"Per lo più, nella Distesa ci sono solo le flotte di diverse organizzazioni e piccole flottiglie di navi mercantili. Le comunicazioni ininterrotte tra i mondi sono questione di vita o di morte per molti avamposti dell'Umanità, perciò anche in questo angolo oscuro dell'Imperium ci sono Chartisti e navi assegnate ai vari Adeptus. Ahimè, nella Distesa non esistono quasi rotte commerciali stabili, perciò il lavoro può essere precario a volte. Del resto, nessuno conosce più intimamente le difficoltà del commercio locale di un Rogue Trader."
+
+### u062061
+"Lord Cap', abbiamo la nave ammiraglia Drusus's Blessing con una piccola scorta dritta davanti a noi. Richiedono un canale vox diretto. Vi passo la comunicazione..."
+
+### u062062
+"Mi aspettavo un'accoglienza più adatta alla visita di un Rogue Trader, non una scenata."
+
+### u062063
+"Certamente. Andiamo."
+
+### u062064
+"...la mia pazienza. Conoscete la via d'uscita. Congedata." {n}L'uomo alto in austeri abiti grigi finge ostentatamente di guardare oltre la donna a cui si rivolge.{/n}
+
+### u062065
+"Vladaym, Vladaym, Vladaym... Quale azhi ti ha messo in bocca parole così dure? Parli come un burocrate imperiale, non come uno di noi." {n}La donna, che ti dà le spalle, emette un sospiro ostentato, poi il suo tono cambia radicalmente.{/n} "Dov'è il mio carico, Vladaym? Ce l'ha Falco, vero? Quindi è così che fai affari con i tuoi vecchi amici, di questi tempi?"
+
+### u062066
+"Quindi non ricordi. Allora ve lo ricorderà chi di dovere. Guardie, accompagnatela fuori."
+
+### u062067
+"Heydari, muoviti." {n}La guardia massiccia si china verso la donna e dice a voce bassa.{/n} "Jae, vattene finché te lo lascia fare. Vai ad affogare i dispiaceri all'Amasecus e ringrazia la tua buona stella di essere uscita da quella porta con le tue gambe — la prossima volta non ne avrai l'occasione."
+
+### u062068
+"Prima un insulto, e ora minacce? Vedo che cortesia e tatto non sono più merce apprezzata a Footfall! Pazienza, mi cercherò un affare migliore." {n}Si volta sui tacchi e si dirige verso l'uscita. Mentre ti passa accanto, ti dà una rapida occhiata dall'alto in basso, ti fa l'occhiolino, poi si volta subito con un colpo dei suoi capelli nero corvino.{/n}
+
+### u062069
+{n}L'uomo alto, che si è accorto della tua presenza da un pezzo, ti studia attentamente.{/n} "Vladaym Tocara, Liege di Footfall. Procediamo, vi prego, verso il mio ufficio — vi attende un banchetto degno di un visitatore del vostro rango. Il vostro seguito sarà alloggiato nelle vicinanze."
+
+### u062070
+"Le mie scuse. Non era un segno di mancanza di rispetto verso la vostra illustre persona. Permettetemi di dimostrarlo."
+
+### u062071
+"C'è un locale non troppo lontano da qui — lì lasciano che la gente torturi falsi xenos. Voglio che la smettano."
+
+### u062072
+"Ho alcune domande su Footfall."
+
+### u062073
+"Altre questioni richiedono la mia attenzione."
+
+### u062074
+"Grazie, Liege. Una perdita terribile per tutti noi."
+
+### u062075
+"Ci sono stati attacchi xenos a Footfall?"
+
+### u062076
+"Vorrei saperne di più sulla banda degli Anvers. Perché non se n'è ancora occupato nessuno?"
+
+### u062077
+"Veniamo al dunque — mi interessa la vostra merce."
+
+### u062078
+"Chi era quella donna che i custodi hanno buttato fuori?"
+
+### u062079
+"Sono {mf|stato attaccato|stata attaccata}. Proprio ai moli."
+
+### u062080
+"Che tipo di patrocinio cercate da me?"
+
+### u062081
+Approvato il commercio di xenoartefatti a Footfall.
+
+### u062082
+"Non c'è vergogna nel vendere i propri trofei per profitto."
+
+### u062083
+"In ginocchio e chiedi come si deve. Poi ti aiuterò."
+
+### u062084
+"Francamente, la mia domanda è nata da pura curiosità. Risolvete i vostri problemi come meglio credete, non mi riguardano."
+
+### u062085
+"Quindi sei solo un topo del vuoto uscito dalla feccia? Però, quanto in alto sei salito."
+
+### u062086
+"Quindi Footfall è tagliata fuori da tutti i suoi rifornimenti, le bande locali imperversano e i truffatori del posto fanno i capricci nella tua residenza. Sei certo di avere la situazione sotto controllo?"
+
+### u062087
+"Qual è la situazione nella regione?"
+
+### u062088
+"La negligenza con cui conducete i vostri affari è un insulto per un individuo del mio rango."
+
+### u062089
+[Sogghigna] "Si vede che sono stati una vera spina nel fianco per voi. Scommetto che vi piacerebbe sbudellare quei buffoni, non è vero? Avanti, ammettetelo — vi piacerebbe, vero?"
+
+### u062090
+"Non posso essere l'unico a cui avete chiesto aiuto."
+
+### u062091
+"Molto bene. Vi aiuterò con le spedizioni di cibo."
+
+### u062092
+"Non vi aiuterò. Risolvete i vostri problemi da soli."
+
+### u062093
+"Quindi quali sono i termini di questo accordo?"
+
+### u062094
+"Stiamo parlando di commercio di xenoartefatti, qui?"
+
+### u062095
+Disapprovato il commercio di xenoartefatti a Footfall.
+
+### u062096
+"Dovresti ponderare meglio le tue parole. Un'ammissione simile suona pericolosamente vicina all'eresia."
+
+### u062097
+"A quale giuramento vi riferivate?"
+
+### u062098
+"Tieniti le tue mazzette per gli scribi dell'Administratum fuori dal pianeta, idiota. Stai parlando con un Rogue Trader!"
+
+### u062099
+"Non abuserò del mio diritto."
+
+### u062100
+[Punta alla testa di Vladaym] "Quindi posso farti saltare le cervella e poi insediare un nuovo Liege?"
+
+### u062101
+"C'è una solida logica nel far gestire la stazione alla mente più acuta. L'Administratum avrebbe insediato qualche patetico scribacchino."
+
+### u062102
+"Mi dispiace per la perdita del vostro assistente."
+
+### u062103
+"E che cosa ti succederà se riferisco tutto quello che ho appena sentito ai capi delle altre bande?"
+
+### u062104
+Commentato l'importante ruolo che il commercio di xenoartefatti a Footfall ha nel conoscere meglio le razze xenos ostili.
+
+### u062105
+"Non approvo la paura della xenotecnologia. Bisogna conoscere e comprendere il nemico."
+
+### u062106
+"Il pagamento sarà ingiusto, perché ti deruberò fino all'osso. Ma resterai al comando. Abbiamo un accordo?"
+
+### u062107
+"Molte cose si sono fatte chiare."
+
+### u062108
+"Che usanza affascinante. E anche utile."
+
+### u062109
+"Naturalmente, trovo la cosa del tutto inaccettabile e non desidero parlarne. Ma il mio Siniscalco è un buon ascoltatore. Riversa su di lui i tuoi vergognosi pettegolezzi."
+
+### u062110
+"Bene, allora suppongo che Footfall dovrà abituarsi al suo nuovo severo {mf|padrone|padrona}."
+
+### u062111
+"C'era una sola persona che avrebbe tratto vantaggio da questo omicidio — voi."
+
+### u062112
+"C'è un certo fascino nel sanguinoso caos che regna a Footfall."
+
+### u062113
+"Comincio a trovare irritante la frequenza con cui le persone con cui parlo su questa stazione finiscono morte!"
+
+### u062114
+"Mi aspetto senza dubbio un risarcimento per questo disturbo!"
+
+### u062115
+"Che cosa sta succedendo nei Quartieri d'Ombra? Perché c'è una quarantena?"
+
+### u062116
+"Avreste potuto almeno rifornire di cibo e acqua le persone intrappolate nella zona di quarantena."
+
+### u062117
+"Mi è stato detto che, quando il precedente Liege si trovò di fronte a una situazione simile, ordinò di staccare l'intero asteroide e di farlo precipitare nella stella."
+
+### u062118
+Inviata medicina alle persone intrappolate nella zona di quarantena su Footfall.
+
+### u062119
+"Desidero aiutare le persone nella zona di quarantena. Farò consegnare loro delle medicine dalla mia nave."
+
+### u062120
+"Desidero entrare nella zona di quarantena."
+
+### u062121
+Accettato di aspettare che le persone nella zona di quarantena su Footfall morissero.
+
+### u062122
+"Avete ragione, Liege. La morte delle persone nella zona di quarantena è un prezzo necessario da pagare per la sicurezza della stazione."
+
+### u062123
+"Credo di aver detto che desidero entrare nella zona di quarantena. Osereste sfidare la volontà di un Rogue Trader?"
+
+### u062124
+"Quindi sono {mf|libero|libera} di andare in giro per l'ex zona di quarantena?"
+
+### u062125
+"Ho fatto quello che voi non avete saputo fare — ho trovato e neutralizzato l'agitatore capo degli Anvers."
+
+### u062126
+"Quindi sono {mf|libero|libera} di prendervi a spintoni come mi pare?"
+
+### u062127
+Accettato di aiutare Footfall senza pretendere nulla in cambio.
+
+### u062128
+"Aiuterò Footfall, ma non per desiderio di profitto. Non ho alcun interesse a ottenere favori in natura né a diventare il vostro patrono — solo a salvare vite."
+
+### u062129
+"Allora, come vi tratta la vita sotto la ferma mano di Incendia Chorda?"
+
+### u062130
+"Rilassati. Mi sono semplicemente {mf|procurato|procurata} un cagnolino da compagnia."
+
+### u062131
+"Devi mostrare più rispetto. Jae è la mia nuova socia in affari."
+
+### u062132
+"Hai ragione, non sono affari tuoi."
+
+### u062133
+"Basta chiacchiere. Sono qui per fare affari."
+
+### u062134
+"Jae si è unita al mio seguito per espiare le sue colpe davanti all'Imperatore."
+
+### u062135
+"Se apprezzate tanto la mia acutezza, allora non insultatela facendo adesso il coraggioso. Sappiamo entrambi che voi avete molto più bisogno di me di quanto io ne abbia di voi."
+
+### u062136
+"Sono già {mf|stato|stata} nell'area in quarantena. Ha davvero un buon numero di infetti."
+
+### u062137
+[Rispondi in Alto Gotico] "Accetto le vostre condoglianze."
+
+### u062138
+"Il Proctor Anthar vi ha forse fatto visita di recente?"
+
+### u062139
+"Qualcosa mi dice che un tempo eri un po' un bandito anche tu."
+
+### u062140
+"Ho sentito espressioni di dolore più sincere."
+
+### u062141
+"Chi tiene le redini del commercio di merci xenos?"
+
+### u062142
+"Un uomo che si è presentato come servitore della Casata Chorda ha chiesto di parlarmi. E poi — che combinazione — qualcuno gli ha fatto saltare le cervella."
+
+### u062143
+"Dove si va per concludere qualche affare qui sulla stazione?"
+
+### u062144
+{n}Mentre scambiate chiacchiere, hai modo di prendere le misure del Liege Tocara. La sua espressione è distaccata e concentrata, i suoi gesti secchi e fermi, il suo modo di parlare calmo e sommesso — come se fosse abituato a essere sempre ascoltato. A giudicare dal suo sguardo attento, ti ha studiato a sua volta per tutto questo tempo.{/n}
+
+### u062145
+"Spero che sotto la vostra guida la dinastia possa riprendersi da questo colpo e raggiungere un potere ancora maggiore."
+
+### u062146
+{n}È strano — un piccolo truffatore, anche particolarmente audace, difficilmente litigherebbe in pubblico con una figura importante come il Liege di Footfall. Ancora più strano sembra che il Liege conosca per nome questo pesce piccolo...{/n}
+
+### u062147
+"È stata una mossa audace da parte vostra annunciarvi come nuovo {g|Encyclopedia:RogueTrader}Rogue Trader{/g} della dinastia von Valancius pur non avendo ancora ottenuto la conferma del vostro status da qualcuno di importante dell'{g|Encyclopedia:Imperium}Imperium{/g}. Apprezzo simili qualità nelle persone — è bene capire con chi si ha a che fare."
+
+### u062148
+"Sono colpito dalla vostra prudenza. La vostra decisione di arrivare a {g|Encyclopedia:Footfall}Footfall{/g} in incognito senza annunciare né la morte del precedente {g|Encyclopedia:RogueTrader}Rogue Trader{/g} né il vostro status — è stata molto saggia. Le voci si diffonderanno prima o poi — è impossibile mantenere segreto ciò che è noto a migliaia di persone che prestano servizio su una nave del vuoto. Ma per ora siete {mf|libero|libera} di trarre i benefici dell'anonimato."
+
+### u062149
+"Come avrete notato, Footfall si trova attualmente in stato di crisi. La sua gente trarrebbe beneficio dal patrocinio di una figura come voi."
+
+### u062150
+"Per noi qui, gli {g|Encyclopedia:Xenos}xenos{/g} sono più una fonte di guadagno che una minaccia..." {n}Vladaym si blocca, valutando la tua reazione.{/n}
+
+### u062151
+"Sono al vostro servizio. Potete aspettarvi gli sconti più generosi."
+
+### u062152
+"Non può esserci alcun malinteso tra noi, Vostra Signoria."
+
+### u062153
+"Sono lieto di aver soddisfatto la vostra curiosità."
+
+### u062154
+{n}L'espressione di Vladaym si indurisce, e lui fa un gesto stizzito.{/n} "Una donna morta che cammina. C'è chi, comunque, la chiama ancora Jae Heydari. Una piccola truffatrice con grandi ambizioni che la condurranno a una brutta fine."
+
+### u062155
+"Una trovata oltraggiosa, una dimostrazione di mancanza di rispetto sia verso di voi sia verso di me. Purtroppo, simili episodi a Footfall sono come i disastri naturali — impossibili da prevedere o prevenire, semplicemente accadono."
+
+### u062156
+"Molti considerano Footfall un covo di pirati, ma credetemi se vi dico che c'è una differenza tra la criminalità organizzata e le bande di teppisti che non hanno nulla da perdere. Siete {mf|stato attaccato|stata attaccata} da questi ultimi. Gli Anvers sono una banda di sbandati che sputano sulle nostre usanze e sulla nostra gerarchia. Perfino il loro capo è più simile a un ideologo — un sobillatore che chiede teste. Non un comandante. Prima o poi lo troveremo e lo faremo impiccare — probabilmente questo raffredderà l'entusiasmo dei suoi seguaci."
+
+### u062157
+"È un piacere parlare con una persona dalla mentalità imprenditoriale."
+
+### u062158
+{n}Dietro la facciata di compostezza accuratamente costruita, percepisci rabbia. Pare che quest'uomo non sia abituato a perdere il controllo — ma è proprio quello che sta accadendo.{/n}
+
+### u062159
+{n}Le sue parole suonano sicure e calme. Sembra che non sia davvero granché preoccupato per una banda di topi nati nel vuoto.{/n}
+
+### u062160
+"Protezione. Non protezione militare, ma un altro tipo di sicurezza. Avete di certo già incontrato difficoltà con la navigazione nel {g|Encyclopedia:Warp}warp{/g} durante il viaggio fin qui. Temo che la portata di queste difficoltà si estenda ben oltre quest'area. Giungono notizie di rotte interrotte e di navi che svaniscono durante brevi salti da tutto il settore."
+
+### u062161
+"In questa faccenda, sì. Se questa vostra visita dovesse andare male, distruggerà Footfall — a che mi servirebbe allora il vostro favore?"
+
+### u062162
+"Preoccupante. Le incursioni {g|Encyclopedia:Xenos}xenos{/g} si fanno sempre più frequenti, il commercio ne soffre e i mondi periferici stanno crollando. Le voci di atrocità commesse dai nemici dell'Umanità causano un panico eccessivo a causa della loro natura... esotica."
+
+### u062163
+"Il nucleo delle forze dell'{g|Encyclopedia:Imperium}Imperium{/g} nella {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} è partito per i confini del settore a combattere la minaccia xenos. Non abbiamo loro notizie da un po' ormai — del resto, con la distanza e gli attuali problemi con gli Astropati, non è del tutto fuori dall'ordinario."
+
+### u062164
+"Eppure non siamo ancora soli. Da diversi mondi colpiti dagli attacchi xenos abbiamo ricevuto notizia di fieri guerrieri scesi dal cielo che sono entrati nella mischia. I resoconti frammentari mi inducono a credere che i benedetti {g|Encyclopedia:AdeptusAstartes}Adeptus Astartes{/g} stiano operando nella Distesa di Koronus, e attendo con grande impazienza notizie delle loro vittorie."
+
+### u062165
+"E questo ci porta al nostro problema principale... Footfall è un cantiere di riparazione e un posto di scambio — non produciamo quasi nulla da soli e dipendiamo in larga misura dalle spedizioni in arrivo. Soprattutto le spedizioni di cibo. La stazione, naturalmente, ha alcune riserve, ma i problemi di rifornimento non sono cominciati ieri. Footfall vi sarebbe grata se la Casata von Valancius ci assistesse firmando un contratto per le consegne di cibo."
+
+### u062166
+{n}Sul volto di Vladaym compare un sorriso da squalo, sanguinario e crudele.{/n} "Dove sono cresciuto io, lo chiamano 'mandare qualcuno in orbita'. Si intaglia un particolare segno sulla fronte della persona, poi la si carica viva nel condotto di smaltimento delle scorie e la si manda a orbitare intorno alla stazione. Ogni trent'anni ripuliamo l'orbita e contiamo quanti cadaveri con quali segni vi galleggiavano. Non avete idea di quanto desideri mandare in orbita quei piccoli teppisti come ai bei vecchi tempi."
+
+### u062167
+{n}Hai sentito parlare di periodi di instabilità del warp, compresi casi in cui la Fauce diventava completamente inaccessibile alla navigazione per anni interi, tagliando così temporaneamente la {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} dall'Imperium. Anche così, le parole di Vladaym sono particolarmente allarmanti — sembra che {g|Encyclopedia:CicatrixMaledictum}qualcosa{/g} abbia avuto un effetto profondo sulla Fauce.{/n}
+
+### u062168
+{n}Sai bene che il {g|Encyclopedia:Warp}warp{/g} è imprevedibile e che le sue fluttuazioni sono un evento comune, perfino atteso.{/n}
+
+### u062169
+"Naturalmente, ho provato a contattare altri {g|Encyclopedia:RogueTrader}Rogue Trader{/g}. Ma le condizioni della Casata Chorda avrebbero dissanguato Footfall, e quanto allo stimato Calligos Winterscale — invece di una spedizione di cibo da parte sua, ho ricevuto un trasporto, la Naviica, stipato di profughi. Ho dovuto mandarli a Foulstone — tante bocche in più da sfamare avrebbero solo peggiorato ulteriormente la crisi. Suppongo che tutte queste fluttuazioni del {g|Encyclopedia:Warp}warp{/g} abbiano creato per Lord Winterscale preoccupazioni più pressanti. E così ho riposto la mia fiducia in voi, {mf|il terzo e ultimo alleato|la terza e ultima alleata} di Footfall."
+
+### u062170
+{n}Vladaym beve un rapido sorso dal suo bicchiere.{/n} "Vi sono immensamente grato, Vostra Signoria. Presumo che vi servirà tempo per avviare le spedizioni. Posso aspettare. Da parte mia, vi prometto piena collaborazione nelle vostre imprese."
+
+### u062171
+{n}Vladaym serra le labbra in una linea sottile. Dopo una lunga pausa, dice,{/n} "Non oserei sfidare un Rogue Trader. Ma, Vostra Signoria, se doveste ripensarci... Footfall ricorderà la vostra magnanimità."
+
+### u062172
+"È semplice. Consegna di spedizioni di cibo dai vostri mondi fertili — Janus, immagino, conosco bene quel gioiello del protettorato von Valancius — in cambio di un giusto pagamento."
+
+### u062173
+{n}Il Liege digrigna i denti in modo quasi impercettibile e si ritrae un poco.{/n} "Immagino che fosse assolutamente necessario, visto che avete trovato il modo di superare il cordone, mettendo così a rischio di infezione voi stessi e tutta Footfall."
+
+### u062174
+"Poco prima di voi. Era interessato a certe informazioni sensibili, che mi capitava di possedere, e richiedeva anche l'accesso ai cogitatori dei moli contenenti i dati di registro e di amministrazione. Naturalmente, ho offerto la mia piena collaborazione e ho messo a disposizione degli stimati Arbitratori un'area designata ai moli dove potessero lavorare lontano dal trambusto e dal frastuono della folla. Presumo che sia lì che si trova il Proctor al momento."
+
+### u062175
+{n}Annuisce con calma.{/n} "Un punto valido. Potete comunque essere {mf|certo|certa} della sincerità del mio desiderio di collaborare con voi."
+
+### u062176
+"Salve, Vostra Signoria. Avete affari da trattare con me?"
+
+### u062177
+{n}Serra leggermente i denti prima di rispondere.{/n} "Ho impiegato tutte le mie risorse per ritardare il momento in cui la stazione sarà colpita dalla carestia. Non mi sono ancora occupato degli Anvers. Per quanto siano dannosi, non sono dei veri giocatori. Quando il loro capo morirà, gli altri si disperderanno."
+
+### u062178
+"In un certo senso?" {n}Miracolosamente, Vladaym è riuscito a formulare l'ultima frase come una domanda.{/n} "Footfall è un luogo dove si può comprare qualsiasi cosa — e, badate bene, dove si può vendere qualsiasi cosa."
+
+### u062179
+"Vi ascolto. Dovete aver frainteso. Intendevo dire che i fedeli servitori dell'Imperatore spesso scambiano qui a Footfall i loro bottini, compresi quelli ottenuti nelle battaglie con bestie ultraterrene. Qualunque altra forma di interazione con gli xenos è, naturalmente, perseguitata senza pietà."
+
+### u062180
+"Se cercate merci che possano divertirvi, trovate Octaviana al locale chiamato Adeptus Amasecus. La beatitudine chimica che offre è raffinata e possiede un grado di purezza soddisfacente. Solo, non chiedetele di versarvi la sua bevanda distintiva — è pensata per la plebaglia comune di Footfall, non per una clientela esigente."
+
+### u062181
+"Qui. Sono il principale commerciante della stazione, e sarebbe una mancanza di rispetto da parte mia suggerirvi di portare i vostri affari ai mercanti di Footfall di minore importanza. Tuttavia, potreste interessarvi ad alcune persone di rilievo — per esempio, il Reverendo Hieronymus Doloroso. Si dice che questo servitore dell'Ecclesiarchia acquisti reliquie sacre dai capitani, e gli altri mercanti non sembrano ansiosi di diventare suoi concorrenti."
+
+### u062182
+{n}Vladaym ascolta con un'espressione di pietra.{/n} "Siete molto perspicace."
+
+### u062183
+"Bene, ora sapete che cosa state acquistando. La situazione è difficile, ma se decideste di offrire il vostro sostegno, dimenticherete l'esistenza di altri centri commerciali oltre a Footfall. Perché non troverete amici più leali da nessun'altra parte."
+
+### u062184
+"La {g|Encyclopedia:KasballicaMission}Missione Kasballica{/g} — un sindacato criminale che ha preso il controllo dell'intero Commercio Freddo nel settore. Le creazioni {g|Encyclopedia:Xenos}xenos{/g} sono molto richieste, e così ogni singola colonia ha un agente kasballicano o due. Opporsi ai loro interessi commerciali è molto più pericoloso che usare la loro merce."
+
+### u062185
+"Non avete torto. La mia strada è stata lunga e sanguinosa, ma alla fine sono passato dal guidare una banda che aveva rivendicato una stazione di filtraggio al diventare il Liege di Footfall. Molti sono morti perché ciò fosse possibile. E chi è sopravvissuto ha pensato che fosse più comodo mettermi al comando piuttosto che continuare il massacro della guerra per il territorio. Posso solo sperare che la mia ascesa e la pace che l'ha accompagnata abbiano fatto bene alla stazione."
+
+### u062186
+"Cosa?" {n}Le tue parole sembrano lasciarlo perplesso per un istante, ma il suo volto resta freddo.{/n} "Ah, quello. Sì, la sua morte è stata uno sviluppo spiacevole."
+
+### u062187
+{n}Ti rivolge uno sguardo teso, poi dice sottovoce,{/n} "Un umile dono da parte mia potrebbe appianare questo affronto causato involontariamente?"
+
+### u062188
+"Vostra Signoria, le prime navi da Janus sono già arrivate. La stazione non deve più affrontare la carestia né l'interesse predatorio della dinastia Chorda."
+
+### u062189
+"Salve, Vostra Signoria. Non intendo mettervi fretta, ma spero davvero che il nostro accordo sia ancora valido. La stazione continua a subire carenze di provviste sempre più gravi."
+
+### u062190
+"Vostra Signoria, ho ricevuto la notizia che Footfall non dovrebbe aspettarsi consegne da Janus a breve. Pensavo avessimo raggiunto un accordo. È deplorevole, ma, dato che non siete {mf|interessato|interessata} a ottenere alleati a Footfall, dovrò offrire la mia amicizia alla stimata Lady Chorda."
+
+### u062191
+{n}Vladaym fa un breve cenno.{/n} "Sarà sistemato."
+
+### u062192
+"C'è una certa usanza a Footfall — ogni Rogue Trader che arriva alla stazione e attracca è considerato il suo sovrano assoluto. E il Liege il suo leale servitore. Questo fa di me il vostro servitore." {n}Il portamento arrogante di Vladaym contraddice le sue parole.{/n}
+
+### u062193
+{n}Digrigna i denti e china il capo con aria contrita.{/n} "Chiedo il vostro perdono."
+
+### u062194
+"La comunicazione con il Settore Calixis è stata estremamente instabile. Delle navi che si sono tuffate nella {g|Encyclopedia:Maw}Fauce{/g} negli ultimi anni, nessuna è ancora tornata. L'ultima nave che è passata attraverso la Fauce dall'altro lato è stata colpita da un'anomalia temporale — il salto è durato quasi due decenni nel tempo dello {g|Encyclopedia:Realspace}spazio reale{/g}."
+
+### u062195
+{n}Un pallido fantasma di sorriso compare sulle sue labbra.{/n} "Comunque, farsi amici questa organizzazione è tanto redditizio quanto è pericoloso farsene nemici. E si dà il caso che io sia riuscito a guadagnarmi la loro fiducia, e a Footfall conducono i loro affari sotto il mio vigile sguardo." {n}Ti lancia un'occhiata eloquente.{/n}
+
+### u062196
+"E io, a mia volta, ricorderò il vostro atteggiamento benevolo. E lo ricorderò quando lo stimato Calligos Winterscale tornerà e scoprirà che Footfall non è più sotto il suo patrocinio."

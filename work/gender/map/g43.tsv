@@ -1,0 +1,107 @@
+nome	genere	alias	prova
+Rogue Trader	V	{name};Lord Captain;Rogue Trader von Valancius;Your Lordship/Ladyship;Lord von Valancius	u056730: warn the Rogue Trader whenever any threat would loom over {mf|his|her} domain
+Cubis Delphim	M	Delphim;Fabricator-Censor	u056736: He probably found it here and made use of it to his own ends
+Pasqal Haneumann	M	Pasqal;Magos Haneumann;Magos Pasqal Haneumann	u058089: Pasqal draws on the power of Eschatos. He gains +10 Intelligence
+Jae Heydari	F	Jae;Heydari	u058368: Jae Heydari knows no sorrow! Her heart is like the fickle wind
+Abelard Werserian	M	Abelard;First Officer Werserian;Seneschal	u058349: First Officer Werserian. The very thought of ordering a man of your years and service to shut up
+Kibellah	F		u058585: Kibellah gives Pasqal a long look, her eyebrow raised
+Eogunn Februs	M	Eogunn	u001023: Eogunn has a unique background. As a Manipulus, he can accumulate a special resource
+Idira Tlass	F	Idira;Idira Harbinger of Chaos;Idira Bastion of Faith;Idira Withered by Light	u001007: As an Operative, she can study opponents
+Yrliet	F		u058405: Yrliet may have saved the Lord Captain by sacrificing her spirit stone
+Heinrix van Calox	M	Heinrix;Interrogator van Calox;Master van Calox;Interrogator Heinrix van Calox	u058499: Heinrix raises his head, gets up, and makes a wry face
+Marazhai	M		u045147: Marazhai shields his eyes
+Solomorne Anthar	M	Solomorne;Proctor Solomorne Anthar	u001888: matched only by his simmering anger and hatred of criminals
+Cassia Orsellio	F	Cassia;Cass;Lady Cassia;Lady Navigator;Navigator Orsellio	u000913: She strikes foes with energies of the warp
+Lady Theodora	F	Theodora;Theodora von Valancius	u058363: I wonder if you guarded Lady Theodora's bed as vigilantly
+Sister Argenta	F	Argenta	u000902: She is an expert with burst ranged weapons
+Nuncius	M		u056795: Nuncius predicts ... and I concur with his assessment
+Archmagos Opticon-107	M	Opticon-107	u056872: Archmagos Opticon-107 was stripped of his title as the conclave's Prolocutor-Supremus
+Null Caliph	N	Eye of the Divine;data-loom	u056846: Make contact with Null Caliph. I wish to form an alliance with it (usare un genere fisso coerente, es. maschile come "spirito-macchina"/"califfo", mai variabile)
+Undying One	M	Undying Emperor	u018865: the Undying One's will has led us ... and He bids us walk a path
+Emperor	M	God-Emperor;Master of Mankind;Omnissiah	u056965: those chosen to carry out His will descended into the darkness
+Ulfar	M	Aett-Vater	u001091: Ulfar is a Space Wolf, a mighty Space Marine. His proportions instil respect
+Trazyn	M	Trazyn the Infinite	u001889: Trazyn the Infinite ... he manipulates events from the shadows
+Tavrisk	M		u027312: Tavrisk the sculptor turns his head to you
+Bluff	M		u057907: becomes Bluff's priority target. If that creature is unconscious, a random enemy becomes his priority target
+Captain Walz	M	Walz	u057863: Once Captain Walz's wounds drop below 50%, he acts after the end of each enemy's turn
+Kharael	M		u057982: Kharael's hits inflict toxin on his target
+Archon Nazrakhei	M	Nazrakhei	u057989: Every time Nazrakhei suffers damage from weapon attacks, he instantly grants an ally
+Sinisthoria	F		u057996: Sinisthoria's hits inflict bleeding on her target
+Keykeross	F		u057611: when Keykeross loses more than 50% wounds, she attacks a creature
+Warden Casteglia	M	Anathagon Casteglia;Casteglia	u058014: Warden Casteglia suffers a -20 penalty to Agility, but his enemies suffer
+Incendia Chorda	F	Chorda	u058045: Incendia Chorda makes a single shot at each enemy in her line of sight
+Aishara	F		u058082: will not grant her an extra turn
+Brasswhisper	F	Tech-Interrogator Brasswhisper	u058088: Brasswhisper awakens Eschatos, empowering both herself and Pasqal
+Confessor Adalbert	M	Adalbert	u057764: Confessor Adalbert inflicts the fiery vow effect on all his allies, excluding himself
+Uralon the Cruel	M	Uralon	u058262: Uralon sacrifices 20% of his own wounds
+Aurora	F		u058517: A dagger flashes in Aurora's hand. She drives it into the control panel
+Abel Haneumann	M	Abel	u058589: There is a look of gentle condescension in Abel's eyes ... cuts him off
+Amarnat	M		u058609: Pasqal: Those are his words (of mentor Amarnat); u058584: This is not the blessed Amarnat ... my mentor's motto
+Kunrad Voigtvir	M	Kunrad;Brother Twilight	u058524: Brother Twilight, known to you as Kunrad, marked you as a target. Your foiling of his plans
+Praetor Electroid Dahr-Impulse II	M	Dahr-Impulse;Praetor Electroid	u058439: This ancient servant of the Omnissiah must be datadreaming. His mind, enveloped in digital reverie
+Saint Galvanica	F	Holy Martyr Galvanica;Galvanica	u058421: may a great abundance of current persist in her induction coils
+Edge of Daybreak	M	Weaver of Destinies	u058546: Mercy and salvation will come to all who believe in him
+Lorgar	M	Lord Lorgar	u040706: the wisdom of Lord Lorgar, the Word Bearer, most beloved son of Chaos
+Seberian von Valancius	M	Seberian	u012364: he restored House von Valancius to glory in its darkest hour. Seberian was granted a Warrant
+Captain Sargona	M	Sargona	u005137: Captain Sargona considers the Rogue Trader his priority target
+Evayne Winterscale	M	Lord Evayne	u037488: Evayne Winterscale broke the vow of silence he took before House Orsellio
+Pilot Raquel	F	Raquel Vekhari;Captain Raquel Vekhari	u037218: Captain Raquel Vekhari ... The woman stands at attention
+First Mate Daggen	M	Daggen	u067706: not to his worthless son Kas. Not to his brainless mate Daggen
+Kas Bellardo	M	Kas	u067706: all of Bellardo's fortune goes... not to his worthless son Kas
+Amelia	F	Bloodstained Amelia	u038918: One of my ladies-in-waiting, Amelia. Amelia performs secretarial duties
+Gordei Skatov	M		u011325: Gordei Skatov, an esteemed historian of architecture ... His magisterial series
+Octaviana	F		u011295: When Octaviana became the new leader of the Kasballica Mission, she made every effort
+Ryzza Calvaria	F	Ryzza	u002026: You made the pirate Ryzza see the corruption in her own soul
+Vladaym Tocara	M	Vladaym	u011694: Vladaym Tocara ended his days as a maintenance servitor
+Dementz Haneumann	M	Dementz	u040675: Dementz Haneumann obeys me, his mind is open to the voices of the void
+Tarzus Haneumann	M	Tarzus;Brother Tarzus;Magos Explorator Tarzus Haneumann	u063561: Brother Tarzus lets out a terrifying battle cry and raises his weapon
+Sergeant Vigastes	M	Vigastes	u017423: Sergeant Vigastes's face appears flushed, and his wounds clearly burden him less
+Falco	M	Cold Trader Falco	u011456: Falco's previous dirty dealings ... the esteemed merchant soon met his end
+Yremeryss	F	Archon Yremeryss	u045085: Yremeryss acted recklessly when she decided to bring captive psykers back to Commorragh
+Tazarra	F		u042717: Three Succubi stand at its head — Tazarra, Keykeross, and Sinisthoria (u043516: Succubi ... her wrath)
+Achilleas Scalander	M	Achilleas;Achilleas the Wrack	u016779: Achilleas ... he must be glad his disfigured face is hidden behind the black mask
+Eklendyl	M	Farseer Eklendyl	u001987: You saved the Farseer Eklendyl from his imprisonment
+Mort	M		u016431: Mort was here, and he would have protected Lady Theodora to the last
+Vespiadas	M	Master Vespiadas	u016261: It's only thanks to Master Vespiadas that we're still alive. If he falls
+Master Helmsman Ravor	M	Ravor	u011338: Master Helmsman Ravor was granted — despite his objections — the privilege of rest
+Camille Regias	M	Camille;Private Camille Regias	u059626: Camille runs up to you, his weapon still in hand
+Austerius Thorfast	M	Thorfast;Chartist Captain Austerius Thorfast	u011543: Austerius Thorfast founded ... After three decades, he travelled to the Maw
+Lady Elina	F	Elina;Lady Navigator Elina;Herald Servo-Skull Lady Elina	u001908: You spared Lady Navigator Elina's life after her attempted assassination
+An-Vido	F	The Elder An-Vido	u041832: An-Vido tensely observes the jubilant young man. You can barely hear her stifled words
+Vego-An	M	The Elder Vego-An	u041799: Vego-An shakes his head in dismay
+Mother Ragned	F	Ragned	u057537: Mother Ragned (titolo Mother; nessun pronome trovato)
+Zi-Ra Tallar	F	Drivesmaster Zi-Ra Tallar	u030709: Drivesmaster Zi-Ra Tallar — it is she who has been tending to the ancient relic
+High Factotum Janris Danrok	M	Janris Danrok;Danrok	u011339: High Factotum Janris Danrok sought permission to retire. He said that age had softened his heart
+IH-630	M		u062980: The Tech-Priest points his only mechadendrite at the machine beside him
+Vox Master Vigdis	F	Vigdis;Vigdis Surri Otta	u011335: Vox Master Vigdis Surri Otta ... Known for her wisdom
+Toto the Vulture	M	Toto	u073133: Toto the Vulture smacks his lips in satisfaction
+Torra	F		u051282: Torra finally got an implant for her jaw
+Leads-Ahead	F		u048261: Leads-Ahead cautiously steps into the ancient ruins of her ancestors' city
+Sslyth Malice	M	Malice;Mercenary Sslyth	u011326: The old Sslyth Malice died ... The proud xenos had destroyed many of his enemies
+Zacchary Weisz	M	Choirmaster Weisz	u011593: The hour of the Rogue Trader's treason found Zacchary Weisz in his chapel. He had been listening
+Master Herimon	M	Herimon	u019020: Master Herimon's assistance was instrumental ... He was able to
+Asclepius	M	Magos Asclepius	u063145: My brother once served as the Enginseer Prime... He was an adherent
+Antonius	M		u018932: Antonius was the youngest ... I dominated Antonius's mind and impelled him
+Annis	F		u018957: Annis's pleas — I condemned her to an existence as a half-machine
+Adeline	F		u018848: find your Adeline and bring her out into the light (c044)
+Sevitia	F		u018943: Sevitia was an ordinary servant. She fought the Immaterium's monsters
+Stavros	M		u018934: Stavros was the oldest in the Choir — he had been on the ship even longer than I
+Thaddeus	M		u018934: Thaddeus was the ship's confessor. Theodora had insisted on his presence
+Cardinal Anvylas	M	Anvylas	u028932: exiled Cardinal Anvylas from Dargonus so that he would meet his death
+Eschatos	?		nessuna
+Tech-Priest Quartz-Krame	?	Quartz-Krame;Unit Logis Quartz-Krame	nessuna
+Limper Mikey	?		nessuna
+Twice-Dead Lanny	?	Lanny	nessuna
+Ulas the Slasher	?		nessuna
+Remi the Lead Rain	?		nessuna
+Gil the Psycho	?		nessuna
+The Scarlet Prophet	?		nessuna
+Faisal Nalzi	?		nessuna
+Ashar Naitallomo	?		nessuna
+Magos Gillenia Zetta	?	Gillenia Zetta	nessuna
+Trevor Cassini	?		nessuna
+Sigma-AR87	?		nessuna
+Fabricator General Pechrovahr	?	Pechrovahr	nessuna
+Kurnous	?		nessuna
+Russ	?	Leman Russ	nessuna
+Dweller-of-the-Forest	?		nessuna

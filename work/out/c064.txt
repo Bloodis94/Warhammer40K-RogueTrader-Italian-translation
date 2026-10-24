@@ -1,0 +1,933 @@
+### u025121
+"Assistere l'Adeptus Arbites è dovere di ogni suddito dell'Imperium. Vi porterò su Dargonus non appena le circostanze lo permetteranno."
+
+### u025122
+"La Missione Kasballica."
+
+### u025123
+[Ammicca] "Compilare rapporti è l'ultima cosa che si ha voglia di fare dopo una battaglia, non siete d'accordo?"
+
+### u025124
+"State dicendo che non gradite la mia compagnia?"
+
+### u025125
+"Congratulazioni per il completamento della missione, Rogue Trader. A nome dell'Adeptus Arbites, vi porgo i miei ringraziamenti per la vostra collaborazione."
+
+### u025126
+"Anche la nave in sé è un acquisto davvero notevole per la dinastia! Servono solo alcune riparazioni leggere." {n}Janris si sfrega le mani con aria impaziente.{/n} "Che cosa desiderate che ne facciamo? Potreste presentarla ai nostri partner commerciali: sono certo che ne farebbero ottimo uso! In alternativa, potremmo trasferire alcuni dei vostri sudditi sulla Heartless e usarla per incrementare gli scambi tra i vostri mondi. Un'opzione redditizia, non c'è dubbio!"
+
+### u025127
+"Quale uso specifico, Vostra Signoria?"
+
+### u025128
+"Ne dubito. I mastini cibernetici richiedono comandi. In ogni caso, la Heartless ora è vostra, come pattuito."
+
+### u025129
+{n}L'Arbitratore annuisce.{/n} "Sì, è così. Ma possiamo tornarci più tardi. La Heartless ora appartiene a voi, come pattuito."
+
+### u025130
+"Il Maresciallo tiene gli archivi del personale. Quindi sì, sarebbe così. Potrebbe esserci un problema con le catene: Glaito le morde di netto. Comunque, cercheremo di trovarne una che faccia al caso." {n}Il Proctor saluta e si allontana.{/n}
+
+### u025131
+"E a chi sarà consegnata la nave, Vostra Signoria?"
+
+### u025132
+"Dico semplicemente che coinvolgere i sentimenti personali in un incarico di combattimento sarebbe del tutto non professionale."
+
+### u025133
+{n}L'Arbitratore e il suo cane osservano Janris allontanarsi, poi si voltano verso di te.{/n} "C'è un'altra cosa, Rogue Trader. La vostra prestazione a bordo della Heartless è stata molto apprezzata. Come ulteriore segno di gratitudine da parte dell'Adeptus Arbites, mi unirò al vostro seguito di sicurezza personale, almeno fino al nostro arrivo su Dargonus per l'incontro con il Maresciallo. Ha degli affari da discutere con voi, e io ho una montagna di rapporti da scrivere su questa operazione."
+
+### u025134
+"Bene, ora che tutte le questioni finanziarie sono state risolte, permettetemi di congedarmi con garbo. Gli oggetti di valore devono essere tutti inventariati con meticolosità." {n}Il Factotum ti rivolge un profondo inchino, lanciando un'occhiata di sbieco a Solomorne, che non sembra avere fretta di andarsene.{/n}
+
+### u025135
+{n}Gli angoli delle labbra di Solomorne guizzano verso l'alto.{/n} "Voglio passare la notte con un partner appassionato, sfogarmi e dare al mio sangue la possibilità di raffreddarsi. Poi voglio lavare via il sudore e le interiora dei miei nemici con dell'acqua calda."
+
+### u025136
+{n}Dalle labbra dell'Arbitratore sfugge una risatina.{/n} "Molto duro."
+
+### u025137
+"Certamente! E che uso avevate in mente per la nave, dopo?"
+
+### u025138
+{n}Gli occhi del Factotum scorrono rapidi sulla tavoletta dati che stringe tra le mani.{/n} "Credo che potremo eseguire tutte le riparazioni indispensabili sulla Heartless nel più breve tempo possibile. Solo l'hangar dei caccia e alcune parti dello scafo potrebbero presentare difficoltà: per ripararli ci vorrà più tempo. In ogni caso, la nave sarà pronta a servire la dinastia senza indugio."
+
+### u025139
+"Ma... Vostra Signoria... Un'intera nave...!" {n}Vedendo la tua espressione, Janris emette un sospiro sconsolato e annuisce.{/n}
+
+### u025140
+"Invierò alla vostra biblioteca un compendio sull'addestramento dei mastini cibernetici. Alcune delle tecniche descritte funzionano anche sulle persone, se si fosse propensi ad applicarle." {n}Solomorne getta un'occhiata agli ufficiali di plancia, insolitamente silenziosi, poi ti rivolge un saluto e se ne va.{/n}
+
+### u025141
+{n}Chiudendo brevemente gli occhi, Solomorne dice piano, con una strana nota di sollievo,{/n} "E va bene. Sarò il vostro valoroso cavaliere, se vi fa piacere."
+
+### u025142
+"Non ho fatto una simile affermazione." {n}L'espressione dell'Arbitratore è imperscrutabile, ma sembra che nelle profondità del suo sguardo balugini una scintilla.{/n}
+
+### u025143
+{n}Solomorne aggiunge con una certa gravità,{/n} "Ma questo non significa che io provi alcuna avversione per voi, Rogue Trader."
+
+### u025144
+{n}Solomorne mantiene per un po' un silenzio pesante, poi espira piano.{/n} "Siete come una scheggia, Rogue Trader. Sapete come entrare... sotto la pelle di una persona." {n}Un sorriso lieve ma caldo gli affiora sulle labbra.{/n}
+
+### u025145
+{n}Solomorne sospira piano.{/n} "In tal caso, farei meglio a mettermi al lavoro su quei rapporti."
+
+### u025146
+"Il sacro Mandato ha ripulito {d|Encyclopedia:CharGen_Criminal}la tua fedina{/d}. Ora sei {mf|stato|stata} convocato per servire l'Imperatore, e che io sia dannato nel vuoto se ti rimprovererò mai, neppure una volta, per le tue azioni passate."
+
+### u025147
+"Straordinario! In effetti ci vuole {d|Encyclopedia:CharGen_Navy}una persona del vostro talento{/d} per trasformare una nave già eccezionale in un vero gioiello del vuoto."
+
+### u025148
+"Se un Lord Capitano {d|Encyclopedia:CharGen_Navy}{mf|esperto|esperta}{/d} come voi ha giudicato la nave inadatta al servizio, allora non c'è davvero alternativa. Che i resti della nave forniscano alla vostra ammiraglia materiali di riparazione a sufficienza per molti viaggi a venire."
+
+### u025149
+"Cambiando argomento, vi sono grato per il fuoco di appoggio mentre la mia squadra avanzava sul ponte inferiore. La vostra mira, il tempismo... i vostri colpi alle tubature del carburante ci hanno dato un vantaggio significativo."
+
+### u025150
+"Il resto è tutt'altro che soddisfacente. Il vostro {d|Encyclopedia:BS_HeartlessDamaged}attacco di artiglieria{/d} di prima, per quanto innegabilmente necessario, ha danneggiato gravemente la nave. Può comunque essere riparata e messa a buon uso. Potremmo far scortare la nostra ammiraglia dalla Heartless oppure, per dire, farle trasportare merci lungo una delle rotte commerciali del vostro dominio. Sono opzioni tutt'altro che economiche, ma i benefici sono allettanti."
+
+### u025151
+"Abbiamo anche scoperto una grande scorta di provviste, armi e xeno..." {n}L'Alto Factotum si interrompe, avendo apparentemente ricordato solo in quel momento la presenza di Solomorne.{/n} "E altri oggetti di valore, che verranno caricati nelle stive dell'ammiraglia con estrema assiduità."
+
+### u025152
+{n}Solomorne alza gli occhi al soffitto.{/n} "Giuro sulla luce dell'Imperatore che non intendevo esprimere alcun interesse personale. Stavo semplicemente facendo il mio dovere."
+
+### u025153
+{n}Socchiudendo gli occhi, Solomorne ti fissa intensamente.{/n} "Sì, mi piacerebbe. E voi, che cosa amate fare dopo una battaglia?"
+
+### u025154
+"Spero che quelle circostanze arrivino presto. Più il nostro viaggio si allunga, più a lungo i criminali restano fuori dalla portata della giustizia dell'Imperatore." {n}Solomorne ti rivolge un cenno, fa un rapido saluto e se ne va con Glaito alle calcagna.{/n}
+
+### u025155
+"Certo. Il mio mastino cibernetico è a vostra disposizione, Rogue Trader. Basta che teniate le dita a posto vicino a lui: non vorrete perderle." {n}Con un cenno del capo, Solomorne prende congedo.{/n}
+
+### u025156
+{n}Il volto del Proctor è di pietra, come sempre.{/n} "Avete perfettamente ragione, Rogue Trader. Anche se ci insegnano pure a cadere morti senza che i nostri corpi ingombrino la strada di chi cammina dietro di noi. Permettetemi di presentarvi la Heartless come dimostrazione di gratitudine più tangibile. Vi ho promesso una nave: eccola."
+
+### u025157
+"Vostra Signoria, se mi permettete di interrompervi: sono lieto di informarvi che la squadra d'abbordaggio ha presentato alla vostra dinastia un dono straordinario. Gli eretici custodivano qualcosa di raro valore nella loro stiva. I nostri Enginseer hanno completato tutti i riti di purificazione necessari. Questo trofeo ora è interamente vostro!"
+
+### u025158
+"Andiamo insieme. Sorprenderemo Sargona con un piccolo esercito."
+
+### u025159
+"Mi sentirei più al sicuro eliminando il pirata messo alle strette insieme al mio seguito."
+
+### u025160
+"Mi sembra ragionevole. Muoviamoci."
+
+### u025161
+"Ti sto facendo un favore, segugio. Faresti bene a ricordartelo."
+
+### u025162
+"Rilassati, capisco. Stai semplicemente portando a termine la tua missione."
+
+### u025163
+[Sussurra] "Solomorne, sono {mf|lieto|lieta} che tu voglia starmi vicino in battaglia, ma perché essere così palese?"
+
+### u025164
+[Tocca con delicatezza la spalla di Solomorne] "Sei ferito. Hai perso i tuoi compagni. Dovresti riposare e lasciare che mi prenda cura di te. Affronterò Sargona di persona."
+
+### u025165
+[Ridi] "Questa recita del guerriero competente è molto dolce, ma non stai nascondendo niente."
+
+### u025166
+"Vedrai presto quanto valgo in combattimento. Non ho bisogno di protezione."
+
+### u025167
+{n}Nonostante le numerose ferite, Solomorne resta saldo in piedi. Gli occhi del Proctor ardono vividi, come se avesse ritrovato nuovo vigore.{/n} "La mia squadra è a terra. Dobbiamo riorganizzarci. Ecco cosa facciamo: io vengo con voi, e uno del vostro seguito resta indietro a comandare la difesa insieme agli Arbitratori sopravvissuti."
+
+### u025168
+"Questo ci metterà in svantaggio tattico. La Heartless è ancora piena di ostili che cercheranno di prendere d'assalto il ponte di comando. Dobbiamo allestire una difesa presso l'ascensore per evitare di essere colpiti alle spalle."
+
+### u025169
+"Sono la vostra ombra, Domin. Sono la vostra lama e il vostro scudo. Non allontanatemi da voi, non quando siete a un passo dall'abisso."
+
+### u025170
+"Va sostituito solo uno della vostra scorta. È una permutazione minore. Inoltre, io sono responsabile non solo della cattura di Sargona, ma anche della vostra sopravvivenza."
+
+### u025171
+"Non facciamo aspettare quel bastardo."
+
+### u025172
+{n}Solomorne ti rivolge un cenno conciliante.{/n} "Infatti. Credo che voi siate la creatura più pericolosa, implacabile e feroce di questa nave. Sarà un piacere vedervi trionfare in battaglia."
+
+### u025173
+{n}Solomorne annuisce con gratitudine, ma nello sguardo che ti rivolge cogli una scintilla d'interesse che danza.{/n}
+
+### u025174
+"Il consiglio del tutore della legge è saggio, Aett-Vater. Quali che siano i vostri servitori privi di forze, lasciateli qui. Se serve, posso fare il lavoro di due combattenti, o di cinque."
+
+### u025175
+{n}Solomorne si immobilizza, il suo sguardo di selce ti trapassa. Alla fine sibila,{/n} "Sto. Solo. Facendo. Il. Mio. Dovere." {n}Prendendo un respiro, aggiunge piano,{/n} "E cerco di proteggervi."
+
+### u025176
+"Con il vostro permesso, Lord Capitano, preferirei restare al vostro fianco. La competenza del Proctor è indiscutibile, ma lui non è il vostro Siniscalco."
+
+### u025177
+{n}Solomorne ti toglie la mano con cura ma con fermezza.{/n} "Sono in missione e non posso concedermi tregua. Il criminale che ha tolto la vita agli Arbitratori deve essere giudicato, e io sono l'unico che può farlo." {n}Dopo aver ripreso fiato, aggiunge piano,{/n} "Ed è anche mio dovere proteggervi."
+
+### u025178
+{n}Solomorne chiude gli occhi e cade in silenzio come se pregasse. Alla fine sospira.{/n} "Muoviamoci e uccidiamo qualcuno, una buona volta."
+
+### u025179
+[Sorridi] "È molto galante da parte tua prenderti il fuoco addosso per risparmiare me."
+
+### u025180
+[Sorridi ancora più apertamente] "Il tuo professionalismo è terribilmente affascinante."
+
+### u025181
+"Perché non andiamo tutti insieme? Possiamo sopraffarli con il nostro numero."
+
+### u025182
+"Non mi conosci ancora abbastanza. Resta da vedere chi avrà bisogno di essere salvato, fidati."
+
+### u025183
+"Sembra che andare di sotto sia più pericoloso. Perché non ci scambiamo?"
+
+### u025184
+"Muoviamoci."
+
+### u025185
+"Non sono {mf|abituato|abituata} a ricevere tali attenzioni da coraggiosi guerrieri dell'Arbites. È davvero un piacere."
+
+### u025186
+"Non voglio che tu muoia, Solomorne, quindi fai attenzione. Non rischiare la vita per me."
+
+### u025187
+[Rivolgiti alla squadra di Solomorne] "Arbitratori, mi aspetto che ogni eretico su questa nave conosca l'implacabilità della giustizia. Oggi l'Imperatore in persona ascolta i vostri verdetti: andate dunque e portate la morte al nemico!"
+
+### u025188
+"Sembra che la vostra formazione principale sarà la A-48. Pianificherò le tattiche della mia squadra tenendone conto, per massimizzare la nostra efficacia durante l'avanzata. La forza degli Arbitratori sta nell'azione coordinata: il nemico cadrà sotto il nostro assalto congiunto."
+
+### u025189
+"Va bene."
+
+### u025190
+{n}Con il più misurato dei movimenti, Solomorne attira la tua attenzione.{/n} "Guiderò la squadra Delta-Xi lungo il ponte inferiore, attraverso gli stretti passaggi, le tubature di promethium e le aree di servizio dove il nemico è più a suo agio. Prenderemo quel terreno difficile. La vostra squadra, nominativo Rho-Theta, procederà lungo il ponte superiore. L'obiettivo è raggiungere l'ascensore. Rogue Trader, vi chiedo di non esporvi personalmente alla linea di fuoco né di correre rischi inutili: non possiamo permetterci di perdervi. Una volta completato il rastrellamento del ponte, ci incontreremo per riorganizzarci e lanciare l'assalto."
+
+### u025191
+{n}Serrando la mascella, il volto imperscrutabile, Solomorne dice,{/n} "Se incontrate una resistenza particolarmente ostinata, chiamatemi. Verrò in vostro aiuto."
+
+### u025192
+{n}Solomorne ti fissa in silenzio a lungo, poi borbotta,{/n} "Affascinante, davvero. Mi hanno chiamato in molti modi, ma questo è nuovo."
+
+### u025193
+"No, concentreremmo tutto il loro fuoco su di noi. Dividerci ci dà vantaggi tattici: lo so per esperienza, da decine di assalti riusciti."
+
+### u025194
+"Non dubito delle tue abilità in combattimento." {n}L'angolo delle labbra di Solomorne si solleva appena in un mezzo sorriso interrogativo.{/n}
+
+### u025195
+"Non manderò un Rogue Trader in pericolo, nemmeno se {mf|lui|lei} lo richiede. La vostra sopravvivenza è una priorità."
+
+### u025196
+"Se vi cacciate nei guai, chiamateci subito." {n}Solomorne batte un dito sul suo vox. Voltandosi verso la squadra, riempie i polmoni d'aria e ruggisce,{/n} "Squadra Delta-Xi, formazione A-48! Via, via, via!"
+
+### u025197
+"Non sono..." {n}Solomorne sospira e si stropiccia con aria stanca la radice del naso.{/n} "È un onore servire l'unto dell'Imperatore."
+
+### u025198
+{n}Solomorne porta due dita all'orecchio, ascoltando nel suo {g|Encyclopedia:CommBead}auricolare vox{/g}.{/n} "Un'altra squadra di Arbitratori è stata colpita duramente. Trovate il modo di aprirci la porta: lì vicino dovrebbe esserci un cogitatore o un pannello di controllo. Ma prima scenderemo e prenderemo posizione: dobbiamo sopraffare il nemico con un attacco a sorpresa."
+
+### u025199
+{n}Alle tue parole, gli Arbitratori, la cui presenza era già formidabile, cominciano a irradiare pericolo. Il Proctor si batte il petto con il pugno.{/n} "Un discorso di {mf|un|una} {d|Encyclopedia:CharGen_Commissar}{mf|Commissario|Commissaria}{/d} {mf|esperto|esperta} è esattamente ciò di cui avevamo bisogno. Per la Lex, non vi deluderemo!"
+
+### u025200
+"Forse non {d|Encyclopedia:CharGen_Arbitrator}porti più l'insegna dell'Arbites{/d}, ma oggi sei {mf|mio fratello|mia sorella} d'armi. E non solo {mf|mio|mia}: non è vero, Arbitratori?" {n}La squadra di Solomorne risponde con un ruggito giubilante, e per un attimo ti sembra di portare di nuovo il mantello del Maresciallo.{/n}
+
+### u025201
+{n}Solomorne annuisce, il sollievo scritto nello sguardo.{/n}
+
+### u025202
+"Se aspettavi un'occasione per salvare con galanteria un Rogue Trader sotto il fuoco nemico e guadagnarti la sua stima, è il momento di agire."
+
+### u025203
+"Tiratemi fuori di qui! Avete un minuto, o vi farò pattugliare i vicoli di Dargonus per il resto della vostra vita!"
+
+### u025204
+"La mia unità è sotto il fuoco. Abbiamo bisogno di assistenza!"
+
+### u025205
+"Richiedo supporto, DX-1. Mi ricevi?"
+
+### u025206
+"L'Aquila dell'Imperatore è sotto attacco! Ripeto: l'Aquila dell'Imperatore è sotto attacco!"
+
+### u025207
+"Solomorne, siamo bloccati. Puoi aiutarci? Niente eroismi: mi servi vivo. Sarebbe un peccato concludere la nostra conoscenza senza prima averci conosciuti meglio."
+
+### u025208
+{n}Il vox trasmette il rumore di spari e urla di morte. Poi senti la voce calma di Solomorne:{/n} "Qui DX-1, ricevuto."
+
+### u025209
+"Aspetta, non sono..." {n}Il vox si zittisce di colpo, poi crepita di nuovo con un esasperato{/n} "Ricevuto, avanzo in aiuto. Resta in attesa, DX-1 chiude."
+
+### u025210
+"Ricevuto, RT-1. Restate in attesa. Passo e chiudo."
+
+### u025211
+"Ricevuto, Aquila dell'Imperatore. Restate in attesa. Passo e chiudo."
+
+### u025212
+{n}Una voce secca e distaccata risponde via vox,{/n} "Ricevuto. Sto arrivando. Passo e chiudo."
+
+### u025213
+[Apri il quarto registro]
+
+### u025214
+[Tocca il pannello di controllo]
+
+### u025215
+[Consulta i registri]
+
+### u025216
+[Apri la prigione sferica]
+
+### u025217
+[Distruggi la macchina immonda]
+
+### u025218
+[Apri il primo registro]
+
+### u025219
+[Apri il secondo registro]
+
+### u025220
+[Apri il terzo registro]
+
+### u025221
+[Togli la mano dal pannello]
+
+### u025222
+{n}Il cogitatore nero che stai osservando non è chiaramente tecnologia imperiale. Con le sue curve innaturali e una superficie liscia come mercurio solido, nulla in questa macchina suggerisce sacralità. Il dispositivo non ha alcuno schermo video, ma noti sul pannello di controllo la presenza di macchie secche color ruggine.{/n}
+
+### u025223
+{n}Rimani accanto al cogitatore. Il pannello è alimentato dal tuo dolore, e tu invii una richiesta: "Spegnere i sistemi di supporto vitale." All'istante vedi, o meglio senti, diverse persone in una cabina dell'equipaggio boccheggiare in cerca d'aria, poi cadere in ginocchio, diventare cianotiche e accasciarsi senza vita sul pavimento. Una morte rapida sarebbe stata troppo buona per quei traditori. Senti il loro dolore. Apri loro la tua mente... Il ricordo si interrompe bruscamente.{/n}
+
+### u025224
+{n}Un'immagine mentale prende vita: sei in ginocchio, con le mani legate dietro la schiena. I polsi sono dolorosamente gonfi e il viso ti brucia per numerose escoriazioni. Un uomo elegantemente vestito è in piedi di spalle, ma è chiaramente a te che sta parlando.{/n} "Pensavi di potermi tradire e cavartela {mf|tutto intero|tutta intera}? Non sei mai {mf|stato|stata} intelligente, ma non immaginavo che fossi {mf|un idiota|un'idiota}. Non c'è niente di male in un po' di avidità, {mf|mio caro|mia cara}. La stupidità, invece... Considera questo come un favore che ti faccio." {n}Hai appena il tempo di registrare il luccichio di un'arma nella mano del capitano, prima che un'ondata di dolore frantumi il cranio del traditore, il tuo cranio, e la tua mente sia liberata dalla presa del ricordo condiviso.{/n}
+
+### u025225
+"No!" {n}Respirando affannosamente, Cassia si copre gli occhi con la mano mentre lacrime cremisi filtrano tra le sue dita sottili e tremanti.{/n} "Colori così marci e arrugginiti non possono esistere... È tutta follia e menzogna. Una beffa!"
+
+### u025226
+{n}La macchina rifiuta di lasciarti andare. Affonda ancora di più i suoi aghi nella tua carne, cercando di raggiungere le terminazioni nervose, e beve avidamente. Sei {mf|sopraffatto|sopraffatta} da una sensazione di fame sconfinata. Quando finalmente riesci a strappare via la mano, uno spruzzo di sangue a ventaglio colpisce il pannello. L'agonia della macchina si ritira dalla tua coscienza.{/n}
+
+### u025227
+{n}Gli aghi affondano più in profondità nel tuo palmo. Il dolore ti attraversa la spina dorsale come una scarica di energia e senti una goccia di sudore freddo scivolarti lungo la schiena. Dal profondo della macchina affiora una stringa di dati: attende i tuoi prossimi ordini.{/n}
+
+### u025228
+{n}Poggi le mani sul pannello e trasmetti alla macchina una serie di comandi mentali, ordinandole di aprire la sfera. Subito, decine di minuscoli aghi si conficcano nei tuoi palmi. Un liquido acre si diffonde nelle tue vene. Poi, nella tua testa si forma un pensiero sussurrato: l'accesso è stato revocato.{/n}
+
+### u025229
+{n}Il vox di Pasqal emette un lugubre lamento binarico.{/n} "Il rito della sacra diagnostica è stato interrotto. Causa dell'interruzione: è stato impiegato un metodo primitivo di smaltimento contro l'oggetto di studio..." {n}Il visore del Tecnoprete lampeggia di rosso prima di attenuarsi stancamente.{/n} "...che aveva il novantotto percento di probabilità di essere di origine anatemica."
+
+### u025230
+{n}Questa macchina è controllata dal dolore, e tu gliene hai dato a sufficienza. Poggi la mano sul pannello, solo per un istante, e invii un unico pensiero al cogitatore: "Apriti." Dal guscio della sfera sale uno scatto appena udibile, e le pareti della prigione si allontanano lentamente, rivelando un cadavere disseccato. Il corpo dell'uomo morto si è irrigidito in posizione rannicchiata, le dita strette attorno a un oggetto metallico.{/n}
+
+### u025231
+{n}Tocchi i pulsanti rivestiti di cuoio. In un istante, minuscoli aghi affondano nelle tue dita e la macchina assorbe avidamente il sangue che filtra. Un'eco mentale simile a un sussurro fruscia nella tua testa: l'accesso è stato concesso.{/n}
+
+### u025232
+"Il contatto con l'oggetto è categoricamente proibi... indesiderabile!" {n}I mecadendriti di Pasqal si bloccano, scandagliando avidamente il codice alieno.{/n} "O almeno lo era. Che l'Omnissiah ci autorizzi e ci preservi."
+
+### u025233
+"La sola vista di quel... meccanismo... ci contamina. Un momento di stupidità decreterà un'eternità di esistenza maledetta per tutti noi. È questo che vuoi, elantach? Dobbiamo distruggerlo! Prima che l'oscurità di questa creazione tocchi le nostre anime."
+
+### u025234
+"...o forse no?"
+
+### u025235
+{n}Il Manipulus usa il suo auspex per scandagliare ogni contorno dell'involucro della macchina con lenta attenzione.{/n} "L'ergonomia... è lontanissima dai sacri canoni dell'STC. È evidente che ci troviamo in presenza di tecnologia xenos. Sì, Nuncius, lascia che sia più specifico: la specie xenos in questione è quella dei Drukhari. Se la mia ipotesi è corretta, questo dispositivo blasfemo è governato dai sistemi nocicettivi di un donatore vivente. In altre parole, la macchina è alimentata dal dolore di un altro."
+
+### u025236
+"Proseguite pure il vostro esperimento, Rogue Trader. In fondo, che cosa sono i tormenti della carne se servono la Ricerca della Conoscenza? Nuncius e io possiamo sempre fornirvi degne augmetiche in caso di perdita di un arto o di degrado nervoso irreversibile."
+
+### u025237
+"Collega, registro deplorevoli lacune nelle tue conoscenze che la sacra diagnostica di questo xeno-oggetto difficilmente colmerà mai. Tuttavia, se me lo permetti, sono pronto a trasmetterti una parte della mia saggezza, a condizione che tu giuri i dovuti voti-dati."
+
+### u025238
+{n}Una cacofonia di urla esplode dentro la tua testa. Immagini brulicano davanti all'occhio della mente: corpi... tanti corpi... le tue mani coperte di sangue caldo che non è il tuo: i ricordi del primo proprietario della macchina. Le immagini svaniscono con la stessa subitaneità con cui erano comparse. La macchina si è insinuata furtivamente nel profondo della tua coscienza, dove attende il tuo prossimo comando.{/n}
+
+### u025239
+{n}Con un unico movimento rapido, estrai l'arma e liberi il mondo dalla corruttrice abominazione xenos.{/n}
+
+### u025240
+{n}Giaci in posizione fetale, {mf|circondato|circondata} da un buio pesto. Da ogni lato, le pareti metalliche della prigione sferica incombono su di te, le loro superfici fredde scottano le lesioni vive sulla tua pelle. Ti separano dal mondo esterno. Peggio ancora, ti hanno tagliato fuori dal warp. Il silenzio assordante ti preme sul cranio, facendo urlare di agonia la tua mente. Sei consapevole che il tuo corpo esiste ancora, ma la tua coscienza si sta già dissolvendo lentamente dentro un bozzolo di vuoto... poi la sfera si apre leggermente. Una luce blu irrompe a fiotti, accecandoti. Senti una voce stridula e non umana:{/n} "Un risultato deludente. L'amplificatore non ha quasi alcun effetto. Il soggetto del test è troppo debole. Lasciatelo." {n}La sfera si richiude di colpo e tu vieni {mf|espulso|espulsa} con forza, o così ti sembra, dal ricordo.{/n}
+
+### u025241
+{n}Le augmetiche di Pasqal diventano all'istante più animate, scattando, ronzando e lampeggiando in estasi.{/n} "Avvio del registro di osservazione. Nessun connettore dati né sacra corona Noosferica rilevati. Tecno-natura: ignota. Dichiaro segretezza di Categoria Epsilon-Alpha. In conformità al Canone della Sicurezza Tecnologica, questo oggetto deve essere isolato e sottoposto al rito della sacra diagnostica. Tutti i testimoni saranno stermina... avvisati."
+
+### u025242
+{n}Marazhai sogghigna alla vista della strana macchina, poi ti lancia un'occhiata.{/n} "Un oggetto davvero curioso. Che cosa aspetti, {name}? Avvicinati. Non morde."
+
+### u025243
+{n}Heinrix inarca le sopracciglia.{/n} "Se ogni xenoeresia fosse evidente come questa... Spero di non dover spiegare che cosa va fatto di questo perverso congegno."
+
+### u025244
+"Quella cosa finge di tacere, poi esplode di echi di voci. Poi torna a tacere... E poi arriva un altro lampo di dolore... Il dolore di un altro! Sa qualcosa, la tiene dentro. E... vuole mostrartela, credo."
+
+### u025245
+{n}Gli aghi affondano più in profondità nel tuo palmo, e senti che il tuo dolore non è più l'unica cosa che stanno raccogliendo. Il pensiero che la maledetta macchina ti stia risucchiando la vita stessa ti fa sudare freddo. Il dolore rimane, ma alla strana sensazione subentra la debolezza. Dal profondo del dispositivo affiora una stringa di dati: la macchina attende ulteriori ordini.{/n}
+
+### u025246
+Potenzia la stazione di servizio
+
+### u025247
+Una fame eterna sembra congelata nei molti occhi dell'ambull.
+
+### u025248
+Un bicchiere di amasec rende più piacevole la gestione delle faccende.
+
+### u025249
+Ease of Mind
+
+### u025250
+Il recaf con schiuma di latte ti dà energia extra.
+
+### u025251
+Tender Sweetness
+
+### u025252
+Un recaf forte ti rinvigorisce.
+
+### u025253
+Invigorating Tang
+
+### u025254
+L'aquila cibernetica è rinvigorita dall'ammirazione della gente.
+
+### u025255
+Pride of the Imperium
+
+### u025256
+La testa cibernetica dell'aquila, dallo sguardo acuto e preciso, ha la meglio.
+
+### u025257
+La testa vivente dell'aquila, fiera e feroce, ha la meglio.
+
+### u025258
+Il mastino cibernetico è pronto a fare a pezzi i tuoi nemici in qualsiasi momento.
+
+### u025259
+The Jaws That Bite
+
+### u025260
+Il mastino cibernetico è rinvigorito dalla paura della gente.
+
+### u025261
+Dread Guardian
+
+### u025262
+Il mastino cibernetico è pronto a difendere il suo padrone dai pericoli, ignorando qualsiasi distrazione.
+
+### u025263
+Stalwart Sentinel
+
+### u025264
+Il filo della tua vita è stato aggrovigliato dal Tessitore dei Destini. Nemmeno la morte riesce a vedere dove questo filo inizi e finisca.
+
+### u025265
+Twisted Fate
+
+### u025266
+La tua anima si sente leggera dopo aver finito la fatica burocratica della giornata.
+
+### u025267
+Bureaucratic Machinery
+
+### u025268
+"Non ti senti sola qui, vero?"
+
+### u025269
+"Prenderò un recaf con schiuma, extra dolce."
+
+### u025270
+"Un recaf doppio per me, Maive."
+
+### u025271
+"Versami dell'amasec. Voglio rilassarmi."
+
+### u025272
+"Come trovi la vita sull'ammiraglia, Maive?"
+
+### u025273
+"C'è un posto vacante per un servitore addetto alle riparazioni sul ponte di comando. Consideralo una promozione."
+
+### u025274
+"Ne ho abbastanza delle tue danze. Basta."
+
+### u025275
+"D'ora in poi il tuo posto è tra i lavoratori, Maive. Il recaf doppio sarà molto più apprezzato da loro."
+
+### u025276
+"Qui non devi temere nessuno. Balla pure, se vuoi."
+
+### u025277
+"Non ho più bisogno di una servitrice personale. Va' da Danrok e scopri in che altro modo puoi essere utile all'equipaggio."
+
+### u025278
+"Gradireste una tazza di recaf appena preparato, mio Celestiale {mf|Signore|Signora}?"
+
+### u025279
+"Ma certo, mio Celestiale {mf|Signore|Signora}, ho voi! E il Maestro Danrok è stato molto gentile con me. A volte mi porta ogni sorta di cose meravigliose. L'altro giorno era un libro per piccoli nobili. Da lì ho imparato che le stelle sono enormi: troppo grandi per essere prese e tenute tra le dita, o persino per essere abbracciate con entrambe le braccia! E quando danzano insieme, formano intere galassie!"
+
+### u025280
+"Grazie, mio Celestiale {mf|Signore|Signora}! A volte mi sembra di essere morta e di essere finita nel palazzo celeste del Dio-Imperatore in persona! Siete così {mf|buono|buona} con me..."
+
+### u025281
+"Devo ammettere che non ho mai riparato niente... ho solo ricucito qualche strappo nel mio vestito. Ma mi impegnerò con diligenza per imparare il mestiere di servitore, mio Celestiale {mf|Signore|Signora}!" {n}Gli occhi di Maive brillano di gratitudine.{/n}
+
+### u025282
+"A volte mi fermo accanto a una finestra ed è come se volassi io stessa attraverso il mare di stelle. Ancora non riesco a credere che stia succedendo a me. Siete così {mf|generoso|generosa}, mio Celestiale {mf|Signore|Signora}! Non potrei sognare di più!"
+
+### u025283
+"La spezia di canna la addolcisce, e il synth-latte montato le dà una speciale morbidezza leggera. Un sorso di beatitudine anche nei giorni più cupi!"
+
+### u025284
+"Nero come un cielo senza stelle. Forte come la vostra volontà, mio Celestiale {mf|Signore|Signora}! Con un tocco piccante per svegliarvi ancora più in fretta!"
+
+### u025285
+"Amasec invecchiato, delle stive più remote, mio Celestiale {mf|Signore|Signora}. Pensare che è più vecchio di me di diverse volte! È come tenere in mano il tempo stesso, sigillato in una bottiglia."
+
+### u025286
+"Ascolto e obbedisco, mio Celestiale {mf|Signore|Signora}." {n}La giovane donna si morde nervosamente il labbro.{/n} "Perdonatemi se ho offeso i vostri occhi con la mia goffaggine."
+
+### u025287
+"Grazie, mio Celestiale {mf|Signore|Signora}, per il grande privilegio di servirvi. Possa il Dio-Imperatore proteggervi nel vostro viaggio attraverso il mare di stelle!"
+
+### u025288
+{n}Maive annuisce, con espressione seria.{/n} "Il Maestro Danrok una volta si è lasciato sfuggire che spesso si addormentano sul lavoro e per questo vengono frustati dai loro sorveglianti. A volte perdono perfino degli arti..." {n}Rabbrividisce, poi alza gli occhi su di te. Brillano di determinazione.{/n} "Sarò felice di alleggerire il fardello dei vostri servitori, mio {mf|signore|signora}."
+
+### u025289
+"Possa il Dio-Imperatore proteggervi nel vostro viaggio attraverso il mare di stelle!"
+
+### u025290
+"Ascolto e obbedisco, mio Celestiale {mf|Signore|Signora}."
+
+### u025291
+[Dai da mangiare all'aquila]
+
+### u025292
+"Perché non vai a fare una breve caccia?"
+
+### u025293
+"Vola in giro e stiracchia le ali. Lascia che la gente si ispiri alla tua maestosità."
+
+### u025294
+[Incita la testa vivente] "Così! Dai una lezione a quella scatola di ingranaggi!"
+
+### u025295
+[Incita la servotesta] "Brutalizza quello sciocco uccello!"
+
+### u025296
+"Smettetela subito!"
+
+### u025297
+[Fai il segno dell'Aquila]
+
+### u025298
+"Sei una delle creazioni più nobili uscite da mani umane che io abbia mai visto. Lo sai?"
+
+### u025299
+[Tocca l'aquila]
+
+### u025300
+{n}La creatura semimeccanica ti saluta spalancando le ali e sollevando entrambe le teste. L'aquila ti osserva con vigilanza, pronta a eseguire qualsiasi ordine.{/n}
+
+### u025301
+{n}La testa vivente della creatura scatta in avanti e afferra la tua offerta. La testa meccanica, libera dalle carenze della carne, resta del tutto immobile.{/n}
+
+### u025302
+{n}{petname} lancia un grido acuto, con le ali spiegate. Sembra che l'aquila comprenda perfettamente il significato del gesto sacro e abbia deciso di benedirti in cambio.{/n}
+
+### u025303
+{n}Quando ti avvicini, {petname} emette uno stridio acuto e getta qualcosa ai tuoi piedi. Ti chini e capisci che il tuo uccello ti ha portato un dono. Dove e quando {petname} possa averlo trovato, probabilmente non lo saprai mai.{/n}
+
+### u025304
+{n}Sul trespolo di {petname} infuria una battaglia feroce. Le due teste del gigantesco uccello si sono scontrate in un aspro combattimento. È impossibile stabilire la causa del conflitto, ma senti con certezza che dovresti intervenire!{/n}
+
+### u025305
+{n}La testa dagli occhi gialli ricomincia a squarciare il metallo con furia raddoppiata, finché l'avversaria è costretta a cedere. Rannicchiandosi in un patetico tentativo di salvarsi, la metà macchina dell'aquila ammette la sconfitta. Il vincitore emette uno squawk trionfante e si ferma con clemenza.{/n}
+
+### u025306
+{n}Il simbolo vivente dell'Imperium ti fissa con apparente indignazione per il gesto frivolo. {petname} permette il tuo tocco, ma capisci che non ci sarà nessun'altra reazione.{/n}
+
+### u025307
+{n}{petname} risponde con un cenno di calma dignità e uno schiocco del becco adunco. La seconda testa, quella meccanica, ripete il gesto di quella vivente.{/n}
+
+### u025308
+{n}Entrambe le teste di {petname} emettono un grido spaventoso. Battendo le ali, il possente uccello prende il volo...{/n}
+
+### u025309
+{n}La servotesta obbedisce subito al tuo comando: si lancia e azzanna la gola della sua controparte vivente. Il becco di metallo si stringe come una morsa finché la vittima emette uno stridio lamentoso. Dopo aver affermato il proprio dominio, la macchina lascia andare l'altra metà, lasciandola insanguinata e mutilata.{/n}
+
+### u025310
+{n}Quando l'aquila torna al suo trespolo, lascia cadere un trofeo sul pavimento: un braccio mozzato. Noti simboli delle bande di bordo tatuati sul polso: l'arto apparteneva a uno dei violatori della legge che tormentano i giusti servitori del Rogue Trader e spesso scivolano in aperta eresia. Sembra che il tuo compagno abbia ricordato alla plebaglia presuntuosa le conseguenze del disobbedire alla legge dell'Imperium.{/n}
+
+### u025311
+{n}Al suo ritorno, l'aquila getta ai tuoi piedi un pezzo mutilato del torace di una persona: un trofeo di caccia. Un'Aquila su un laccio di cuoio luccica nella massa straziata di pelle e carne, e a stento identifichi i brandelli di stoffa intrisi di sangue come un frammento delle vesti di un servitore dell'Ecclesiarchia. Osservando le cupe ferite, ti fai un'idea precisa di quante torture quel sanctimonioso sciocco debba aver subito prima della sua prematura dipartita.{/n}
+
+### u025312
+{n}La tua voce severa ha un effetto immediato e il combattimento cessa. Nondimeno, l'uccello vivente continua a lanciare sguardi di profondo odio al suo gemello servo.{/n}
+
+### u025313
+{n}Il gigantesco uccello ti osserva con occhi che non sbattono le palpebre.{/n}
+
+### u025314
+{n}L'aquila torna un po' scompigliata dopo il suo lungo e rapido volo. Sbatte le ali un paio di volte, poi si sistema comodamente sul trespolo.{/n}
+
+### u025315
+{n}Aspettarsi che un animale servitorizzato apprezzi il tuo gesto affettuoso sarebbe follia, eppure, mentre sfiori con delicatezza le piume di {petname}, una delle teste si inclina da un lato come se si appoggiasse al tuo tocco.{/n}
+
+### u025316
+{n}Mentre le tue dita sfiorano le ruvide piume, {petname} emette uno stridio agghiacciante. Hai la sensazione che l'uccello stia per piantarti gli artigli addosso... ma poi, sotto lo sguardo autoritario del suo padrone, soffoca la propria sete di sangue.{/n}
+
+### u025317
+{n}Tornata al suo trespolo, l'aquila getta ai tuoi piedi un brandello sanguinante: tutto ciò che resta di un ratto del vuoto particolarmente grosso. Questi parassiti possono raggiungere dimensioni spaventose e sono un vero flagello dei ponti inferiori. Sembra che il tuo compagno abbia appena reso la vita un po' più facile agli abitanti della nave, anche se di poco.{/n}
+
+### u025318
+[Accarezza il cane]
+
+### u025319
+"Zampa!"
+
+### u025320
+"Sei il mio amico più fedele, {petname}."
+
+### u025321
+"Ben fatto! Assicurati di riservare lo stesso trattamento a tutti i miei nemici!"
+
+### u025322
+"{petname}, smettila subito! Non attaccare le cose solo perché ne hai voglia!"
+
+### u025323
+"{petname}, pattuglia!"
+
+### u025324
+[Ignora il cuscino]
+
+### u025325
+[Lancia il tuo guanto] "Prendilo, {petname}!"
+
+### u025326
+[Metti alla prova i servo-protocolli] "È ora dell'addestramento, {petname}!"
+
+### u025327
+{n}Il mastino cibernetico solleva la testa dalla cuccia, guardandoti con il distacco di un pict-registratore.{/n}
+
+### u025328
+{n}Il mastino cibernetico emette un suono che ti ricorda un guaito di cane combinato con lo stridio del metallo. Sei {mf|certo|certa} che i servo-protocolli di {petname} abbiano registrato ogni tua parola.{/n}
+
+### u025329
+{n}L'attenzione del cane si concentra all'istante sull'oggetto lanciato. Un attimo dopo, {petname} balza e lo afferra al volo. Ancor prima che le zampe di metallo tocchino il pavimento, il tuo guanto è ridotto a minuscoli brandelli: un promemoria trasparente del fatto che il mastino cibernetico prende ogni comando con estrema serietà.{/n}
+
+### u025330
+{n}Ti ci vuole un attimo per accorgerti che nei tuoi alloggi c'è qualcosa che non va. Alla fine il tuo sguardo si posa su un cuscino strappato di una delle sedie. La tua bestia da combattimento deve aver reagito troppo intensamente all'odore di vera imbottitura di piuma. {petname} ti guarda dal solito posto, imperturbabile come sempre.{/n}
+
+### u025331
+{n}{petname} rimane freddo e impassibile, come se avessi toccato una lastra inanimata di metallo. Solo il lieve sussulto della coda del mastino cibernetico indica che il tuo affetto è stato riconosciuto e apprezzato.{/n}
+
+### u025332
+{n}I visori rossi di {petname} si voltano verso di te. Sai bene che un mastino cibernetico è uno strumento della Sua volontà, non un compagno; tuttavia, come ci si può affezionare al proprio fidato bolter, così si può mostrare simpatia a uno strumento.{/n}
+
+### u025333
+{n}{petname} ti guarda in attesa. Evidentemente, i servo-protocolli si rifiutano di riconoscere un comando sconosciuto, e così il mastino cibernetico semplicemente lo ignora.{/n}
+
+### u025334
+{n}{petname} lascia cadere con cura qualcosa ai tuoi piedi. Il mastino cibernetico deve averlo raccolto da qualche parte a bordo della nave o su un campo di battaglia. In ogni caso, questo trofeo inatteso si rivelerà utile.{/n}
+
+### u025335
+{n}Ricevuto il tuo comando, {petname} balza sulle quattro zampe con un basso ringhio e corre fuori dai tuoi alloggi...{/n}
+
+### u025336
+{n}{petname} torna dopo un po', coperto di sangue e brandelli di carne. Non sai, né ti interessa granché, dove e in quali circostanze il mastino cibernetico abbia raggiunto la sua preda. Ciò che conta è che la tua bestia, un'estensione della tua volontà, ha dato un'eccellente lezione ai tuoi servitori e si è saziata della sofferenza delle sue vittime.{/n}
+
+### u025337
+{n}{petname} resta via a lungo. Nel frattempo, la linea vox aperta segnala diversi incidenti su uno dei ponti intermedi, che riguardano perlopiù trafficanti di obscura e contrabbandieri che si sono improvvisamente lasciati scoprire. Il vox sta ancora raccontando come i tutori dell'ordine siano in procinto di arrestare i criminali quando {petname} varca la soglia dei tuoi alloggi e torna da te.{/n}
+
+### u025338
+{n}{petname} torna dopo un paio d'ore di guardia. Il percorso del mastino cibernetico ormai ti è familiare: sai che ha fatto un giro attorno al ponte di comando e ai ponti superiori, ispezionando le varie postazioni. Metà bestia, metà macchina, è l'incarnazione della devozione agli ideali dell'Imperium e della volontà inflessibile dei suoi servitori più fedeli. La sua vista incute soggezione e terrore a qualsiasi ufficiale in ozio, costringendolo a tornare ai propri doveri il più in fretta possibile.{/n}
+
+### u025339
+{n}Il mastino cibernetico continua semplicemente a osservarti mentre ti allontani dal cuscino.{/n}
+
+### u025340
+{n}Impieghi un po' di tempo per capire come {petname} esegua i comandi di base. Il mastino cibernetico segue alla lettera le tue istruzioni, e ti convince che i servo-protocolli funzionino correttamente... eppure c'è una piccola deviazione dalla norma: la coda del cane continua a scodinzolare, come se {petname} fosse contento di passare del tempo con te.{/n}
+
+### u025341
+{n}I servo-protocolli del mastino cibernetico hanno subito alcuni cambiamenti notevoli. Durante tutta la sessione di addestramento, la bestia mostra ripetutamente estrema aggressività e ferocia: riduce a brandelli qualsiasi cosa tu lanci, ma sembra restare insoddisfatta. {petname} ha fame di sangue. Sangue vero.{/n}
+
+### u025342
+{n}Provi i comandi del mastino cibernetico uno dopo l'altro, controllando a fondo i servo-protocolli. {petname} obbedisce a ogni ordine senza il minimo errore, implacabile come ogni altro strumento creato per il Suo servizio. La bestia rimane perfettamente concentrata fino all'ultimissimo comando: questa macchina è pronta a servire il Rogue Trader.{/n}
+
+### u025343
+{n}Il mastino cibernetico sembra disinteressato alle tue parole, ma sai che i suoi servo-protocolli hanno registrato con cura tutto ciò che hai detto.{/n}
+
+### u025344
+{n}Il mastino cibernetico, un colosso di muscoli, metallo e fili, riposa nel suo posto designato. {petname} segue ogni tuo gesto, come se registrasse i tuoi movimenti con un sofisticato dispositivo che non smette mai di osservare.{/n}
+
+### u025345
+"Dimmi che cosa ci riserva il futuro, {petname}."
+
+### u025346
+"Che effetto fa essere imprigionato nel corpo di uno dei miei servitori?"
+
+### u025347
+"Mi sono {mf|stancato|stancata} di te. Libera il mio corvo dalla tua presenza!"
+
+### u025348
+"Sei un servitore del Tessitore dei Destini, non è vero? Hai il potere di salvarmi dalla morte?"
+
+### u025349
+"Che cosa dicono di me sui ponti?"
+
+### u025350
+"Grazie, {petname}. Mi chiedo che cosa mi porterai la prossima volta."
+
+### u025351
+"{petname}, basta così. Il furto da quattro soldi non fa una bella figura né a te né al tuo padrone."
+
+### u025352
+[Accarezza il corvo]
+
+### u025353
+"Vog'Haik'Sameth, mi senti?"
+
+### u025354
+"Lasciami parlare con il mio uccello, non con te."
+
+### u025355
+[Lancia al corvo una ghiottoneria]
+
+### u025356
+"{petname}, trova qualcosa di utile per me."
+
+### u025357
+{n}{petname} ti osserva intensamente dall'alto. L'uccello nero come la pece rimane quasi perfettamente immobile, dandoti l'impressione di guardare un esemplare imbalsamato o una statua anziché una creatura vivente. D'un tratto il becco si apre, e senti pronunciare, in modo distorto e a malapena intelligibile:{/n} "{name}."
+
+### u025358
+{n}{petname} ti guarda senza emettere un suono e si raddrizza. Poi l'uccello spiega le ali come per sembrare più grande. Presumibilmente, questo dignitoso silenzio dovrebbe dimostrare il cupo rispetto che i tuoi sudditi nutrono per il loro Rogue Trader.{/n}
+
+### u025359
+{n}{petname} fissa il vuoto senza battere ciglio. Dal becco semiaperto del corvo proviene un {d|Encyclopedia:CQ_RavenDemonDecision}sussurro{/d} appena distinguibile che riempie l'intera stanza. Non appena ti avvicini, i suoni cessano e l'uccello gira bruscamente la testa verso di te.{/n}
+
+### u025360
+{n}Il becco del corvo si spalanca in modo innaturale, la lingua penzola e le ali tremano per l'agonia. L'occhio sotto la lingua ti trapassa con il suo sguardo, e il suono della voce che esce dalla gola dell'uccello ti tende i muscoli e ti strappa le ossa dalle articolazioni.{/n} "Schernire un Signore del Mutamento non è saggio. La mia prigionia dentro l'arma delle anime danzanti è durata molto più a lungo, eppure ho trovato il modo di compiere la mia vendetta. Ma non sono offeso: desidero vederti toccare la Verità Primordiale. Il resto è insignificante, {mf|Figlio|Figlia} dell'Alba."
+
+### u025361
+"È impossibile, {mf|Figlio|Figlia} dell'Alba: sei {mf|stato|stata} tu a intessere questo destino. Ora e per sempre, questo vaso è una delle migliaia di pupille del mio occhio." {n}La testa del corvo si spezza con uno schiocco e cade di lato, come se qualcosa di invisibile gli avesse rotto il collo. Per alcuni secondi l'uccello ti fissa con occhi morti, poi di colpo torna in vita con uno scatto e rialza la testa.{/n}
+
+### u025362
+{n}Una moltitudine sussurrante di voci erompe dalla gola del corvo, ti accarezza le orecchie, ti striscia nella bocca e nel naso.{/n} "{mf|Un vero Figlio|Una vera Figlia} dell'Alba che brama afferrare i fili del futuro... Chiedi molto, e grande sarà il prezzo da pagare. Ma il desiderio del campione è il mio desiderio."
+
+### u025363
+{n}Qualcosa dentro il corvo ride piano, prima che l'uccello si scuota come per schiarirsi la testa. Appare uguale a prima, tranne per il debole, beffardo bagliore azzurro che ora emana dai suoi occhi neri.{/n}
+
+### u025364
+{n}Il corvo emette all'improvviso uno strido e spalanca le ali. Da sotto le sue piume nere, decine di occhi scintillanti e ultraterreni ti fissano.{/n} "Potere sul destino, {mf|Figlio|Figlia} dell'Alba! Né più né meno!"
+
+### u025365
+{n}La testa del corvo si volta verso di te con uno schiocco, e senti un {d|Encyclopedia:CQ_RavenDemonDecision}sussurro{/d} a più voci provenire dal suo becco semiaperto.{/n}
+
+### u025366
+{n}...una lama sottile e affilata, uno dei molti strumenti di morte di Kibellah.{/n}
+
+### u025367
+{n}Gli occhi neri del corvo luccicano di quella che sembra eccitazione.{/n}
+
+### u025368
+{n}...un groviglio di fili multicolori strappati. Poco importa da dove {petname} li abbia strappati: faresti meglio a nasconderli. Pasqal andrebbe su tutte le furie se venisse a sapere di una simile mancanza di rispetto verso le macchine sacre.{/n}
+
+### u025369
+{n}Il corvo gira la testa, guardandoti con ciascun occhio a turno, poi allunga il collo come se cercasse di inchinarsi. Sembra aver sentito un'abbondanza di parole lusinghiere su di te e ora stia cercando di esprimerti reverenza al meglio delle sue capacità.{/n}
+
+### u025370
+{n}Il corvo sbatte le ali e si alza in volo dal suo trespolo...{/n}
+
+### u025371
+{n}...un segnalibro consunto. {petname} è stato davvero così sfacciato da sottrarlo dal libro di Cassia mentre lei lo leggeva?{/n}
+
+### u025372
+{n}Le piume sono ruvide al tatto. {petname} ti afferra un dito con un becco che potrebbe recidere di netto un dito: per ora è solo un avvertimento.{/n}
+
+### u025373
+{n}Il corvo emette un gracchio imbronciato, quasi offeso.{/n}
+
+### u025374
+{n}{petname} evita di guardarti negli occhi. Una sensazione inquietante ti trafigge il corpo.{/n}
+
+### u025375
+{n}Il corvo comincia a battere le ali come per prepararsi a spiccare il volo. Dal suo becco cadono alcune parole:{/n} "Tre stelle! Bruciano! Bruciano! Bruciano in una sola!"
+
+### u025376
+{n}Il corvo china la testa. Stavolta la voce che senti non è il solito gracchio assordante, ma un sommesso rantolo, come se {petname} temesse di essere udito da orecchie sbagliate:{/n} "Antico. Morte della galassia."
+
+### u025377
+{n}Non appena ti avvicini, il corvo sbatte le ali agitato, come impaziente di darti qualcosa. Un oggetto curioso ti cade in mano...{/n}
+
+### u025378
+{n}...una pietra spirituale incrinata. L'armatura di Marazhai reca molti ornamenti simili: cupi ricordi dei suoi trionfi sui suoi lontani parenti dei Mondi Astronave.{/n}
+
+### u025379
+{n}...un bizzarro ninnolo fatto di una sostanza insolita. Osservandolo meglio, riconosci il materiale: è ossospettro. Pare che a Yrliet ora manchi un ornamento per l'arma.{/n}
+
+### u025380
+{n}...una pergamena strappata contenente il programma di lavoro di uno dei ponti superiori. Abelard starà cercando il documento dappertutto, rubato da {petname} mentre non guardava.{/n}
+
+### u025381
+{n}...una spilla leggermente piegata a forma di Aquila. Non riesci a immaginare come {petname} sia riuscito a sottrarla direttamente dalla giacca di Heinrix.{/n}
+
+### u025382
+{n}...un brandello di pelliccia, inconfondibilmente del mantello di Ulfar. Ti ritrovi a chiederti che cosa avrebbe avuto da dire il possente Astartes sulle bravate di {petname}, se avesse colto il ladro sul fatto.{/n}
+
+### u025383
+{n}...un bossolo vuoto. Riconosci l'arma: {petname} deve essersi intrufolato nella camera d'addestramento nel bel mezzo della sessione di routine di Sorella Argenta.{/n}
+
+### u025384
+{n}...una fiaschetta vuota che sa di amasec scadente. Idira probabilmente riderebbe se sentisse quanto il tuo corvo si "preoccupa" per la sua salute.{/n}
+
+### u025385
+{n}...un biscotto dall'odore pungente. Solomorne li usa quando si allena con Glaito. È stato rosicchiato: il corvo deve aver avuto fame nel mezzo delle sue marachelle.{/n}
+
+### u025386
+{n}...un orecchino con una pregiata gemma. Il retro sembra piegato al punto da essere inservibile, quindi restituirlo a Jae probabilmente non servirebbe a nulla, a questo punto...{/n}
+
+### u025387
+{n}Una risata sommessa spezza il silenzio. Le mascelle del corvo si schiudono e sotto la sua lingua vedi un occhio demoniaco blu-grigio aprirsi con lentezza.{/n} "{mf|Il Figlio|La Figlia} dell'Alba è {mf|venuto|venuta} a parlare con me. Risponderò alla tua chiamata."
+
+### u025388
+{n}{petname} emette un gracchio acuto, con il becco spalancato. Il suono ricorda sorprendentemente una risata beffarda. Con gli artigli conficcati nel trespolo e le ali che battono freneticamente, il corvo pare essersi abituato a vedere la gente tremare di terrore al suo arrivo. Sembra che il suo padrone incuta la stessa paura ai suoi sudditi.{/n}
+
+### u025389
+{n}{petname} ti guarda avvicinarti con vigile attenzione.{/n}
+
+### u025390
+{n}{petname} torna dopo un'ora di guardia. Prima di posarsi di nuovo sul trespolo, il corvo lascia cadere il suo trofeo ai tuoi piedi: obbedendo al tuo comando, ha davvero trovato qualcosa da offrire al suo padrone.{/n}
+
+### u025391
+{n}Con un breve gracchio di gratitudine, {petname} afferra il cibo e lo riduce subito a pezzi.{/n}
+
+### u025392
+{n}Il corvo allunga il collo, fissandoti in volto. Il suo becco nero si apre:{/n} "Oscurità in marcia su soli morenti."
+
+### u025393
+"Fai qualcosa di... insolito. Balla con me!"
+
+### u025394
+[Studia i progetti dei servoteschi]
+
+### u025395
+[Leggi la targa sul primo teschio]
+
+### u025396
+[Leggi la targa sul secondo teschio]
+
+### u025397
+[Esamina i servoteschi alla ricerca di informazioni sulle persone da cui sono stati ricavati]
+
+### u025398
+"Ho del lavoro da fare. Venite, mi aiuterete a smaltire l'arretrato di scartoffie."
+
+### u025399
+[Riscrivi i protocolli dei servoteschi]
+
+### u025400
+"Voglio essere {mf|intrattenuto|intrattenuta}. Cantate qualcosa per me."
+
+### u025401
+"Va bene, basta cantare! Basta!"
+
+### u025402
+[Leggi la targa sul terzo teschio]
+
+### u025403
+"Dato che avete le penne pronte, vi detterò le mie memorie. Cominciamo dalla mia infanzia..."
+
+### u025404
+"L'ispirazione è tornata. È ora di continuare a scrivere le mie memorie."
+
+### u025405
+{n}I servoteschi ti accolgono con un coro di trilli binarici mentre ti avvicini.{/n}
+
+### u025406
+{n}A giudicare dal ronzio dei servomotori, i tuoi servitori metallici faticano a elaborare un comando sconosciuto. Poi un teschio si mette in moto, seguito da un altro: i due fluttuano attorno a te in qualcosa che somiglia a una processione cerimoniale. Il terzo e più grande servoteschio resta fermo, a osservare la silenziosa parata.{/n}
+
+### u025407
+{n}Passano diverse ore in un batter d'occhio. La testa ti pesa per la mole di decisioni che hai preso in questo lasso di tempo, e per l'incessante ronzio dei servoteschi vicino all'orecchio. Tuttavia, non hai nulla da rimproverare ai tuoi assistenti: grazie al loro aiuto, sei {mf|riuscito|riuscita} a scalfire in modo considerevole l'impenetrabile muro della burocrazia che è la linfa vitale del comando di una nave del vuoto.{/n}
+
+### u025408
+{n}I pannelli che contengono i dati si chiudono con un lieve scatto.{/n}
+
+### u025409
+"Fedele servitore dell'Imperium, adepto dell'Administratum, Gran Cronista Avangeline Aivic. Causa del decesso: soffocamento."
+
+### u025410
+{n}La piastra metallica riporta soltanto:{/n} "Dati cancellati."
+
+### u025411
+{n}All'interno di ogni teschio trovi un piccolo pannello contenente una targa di metallo fuso.{/n}
+
+### u025412
+{n}Dopo alcuni secondi, i teschi cominciano a "cantare" una specie di inno, conficcandoti nelle tempie sempre la stessa nota costante, che presto iniziano a pulsare di dolore. Non vedi alcun segno che abbiano intenzione di smettere.{/n}
+
+### u025413
+{n}I servoteschi obbediscono e ti seguono fino alla scrivania, sepolta sotto un cumulo di rapporti, dispacci, missive e il Dio-Imperatore solo sa cos'altro...{/n}
+
+### u025414
+{n}Il tuo tentativo è condannato fin dall'inizio: non sei un Tecnoprete e non hai le conoscenze per sottoporre a manutenzione queste macchine sacre. L'enorme arsenale di pulsanti e fili sul retro di ogni teschio ti lascia {mf|stordito|stordita} e rinunci a metà dell'esame.{/n}
+
+### u025415
+{n}Il ronzio dei teschi si fa più forte. I lumen nelle loro orbite si attenuano, poi si accendono più brillanti di prima. Gli schemi di volo dello sciame appaiono ora nettamente più caotici.{/n}
+
+### u025416
+{n}Una scintilla scorre sotto le tue dita e uno dei servoteschi comincia a scuotersi violentemente. Temendo di danneggiare irreparabilmente la macchina, interrompi la tua intrusione.{/n}
+
+### u025417
+"Difensore del Trono d'Oro e di tutta l'Umanità, valoroso membro della Guardia Imperiale Bapask Yeronis, esperto di combattimento in mischia. Causa del decesso: ucciso in un'imboscata."
+
+### u025418
+{n}I servoteschi si lasciano docilmente tenere tra le tue mani. Ti ci vuole parecchio tempo, ma alla fine giungi a comprendere le litanie e i rituali usati per domare i loro spiriti macchina.{/n}
+
+### u025419
+{n}Diverse ore dopo, hai la gola dolorante e lo stridio della penna sulla pergamena ha assunto una lieve nota di tristezza. Sembra che sia tu sia la macchina sacra abbiate bisogno di una pausa.{/n}
+
+### u025420
+{n}Tre ore di guardia dopo, il servoteschio conclude la monumentale opera di cronaca delle molte difficoltà e avversità della tua vita. Il tuo magnum opus è completo e, benché ora possa sembrare una distesa di metri e metri di pergamena disordinata, sai che cos'è davvero: le memorie del più grande Rogue Trader che sia mai vissuto, annotate con cura dalla penna di un servoteschio!{/n}
+
+### u025421
+{n}I suoni che strisciano fuori dai loro vox-apparati si riducono a un rantolo, poi cessano del tutto. Nei tuoi alloggi torna un benedetto silenzio.{/n}
+
+### u025422
+{n}Senti uno scatto dentro uno dei servoteschi, come se si fosse aperto qualche scomparto.{/n}
+
+### u025423
+{n}Dietro la finta targa che dichiara cancellati tutti i dati sulla provenienza di questo servoteschio, si rivela una sezione nascosta. Un'iscrizione al suo interno recita:{/n} "Adepto dell'Inquisitore [censurato] dell'Ordo [censurato] Havrilius Smiroth."
+
+### u025424
+{n}I servoteschi si avvicinano fluttuando per non perdere una sola parola. Al posto della lingua di un teschio compare una penna d'oro che comincia a trascrivere con meticolosità il tuo racconto su una pergamena.{/n}
+
+### u025425
+Un lungo rotolo di carta coperto da annotazioni storicamente accurate delle tue incredibili avventure.
+
+### u025426
+Memorie di un Rogue Trader della Casata von Valancius
+
+### u025427
+I sudditi rispettosi della legge hanno notato la partecipazione del Proctor Solomorne Anthar alla Magnae Accessio e hanno iniziato a sorvegliare con maggiore severità qualsiasi violazione commessa nel dominio del Rogue Trader.
+
+### u025428
+Voce della Lex Imperialis
+
+### u025429
+Il Rogue Trader ha posto fine al reclutamento di criminali in fuga. La carenza di personale qualificato è stata risolta nominando marinai del vuoto appositamente addestrati tra i membri dell'equipaggio.
+
+### u025430
+Specialisti addestrati
+
+### u025431
+Il Rogue Trader ha affidato ai suoi ufficiali superiori il compito di reclutare specialisti. In segno di apprezzamento da parte degli ufficiali, i componenti dei macrocannoni sono stati potenziati con una speciale tecnologia dei viaggiatori del vuoto, che si dice sia a spese personali dell'equipaggio.
+

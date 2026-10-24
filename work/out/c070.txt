@@ -1,0 +1,798 @@
+### u027005
+[Lancia a Maive un'occhiata di disprezzo]
+
+### u027006
+"Cantami la tua canzone preferita."
+
+### u027007
+"Balla per me."
+
+### u027008
+"Pulisci via la tua sporcizia dalle mie scarpe finché non brillano."
+
+### u027009
+"Insegnami a ballare."
+
+### u027010
+"Hai chiamato l'Imperatore 'il detentore della Chiave di tutti i Destini'. Perché?"
+
+### u027011
+"È stato delizioso. Grazie."
+
+### u027012
+"E nemmeno una nota intonata! Orribile!"
+
+### u027013
+"Che canzone è?"
+
+### u027014
+"Basta. Mi stai annoiando."
+
+### u027015
+"Perché il Dio-Imperatore ha rinchiuso la gente in una segreta?"
+
+### u027016
+[Recita un sermone alla giovane donna] "Figliola, la tua fede si è allontanata molto dal Credo Imperiale, ma io ti insegnerò il vero dogma."
+
+### u027017
+[Guardala come se non esistesse]
+
+### u027018
+"Si comporta in modo strano? In che senso?"
+
+### u027019
+"Che cosa pensi del governatore?"
+
+### u027020
+"Parlami di Bluff, quello sciocco. Come ha conquistato il favore del governatore?"
+
+### u027021
+"Visto che sei qui, mostrami come i Thasseriani intrattengono i loro nobili."
+
+### u027022
+"Grazie, Maive."
+
+### u027023
+"È successo qualcosa, e Daen è cambiato, non è vero? È questo il suo nome, giusto?"
+
+### u027024
+"E questa la chiami pulizia? Usa la lingua! E non dimenticare la suola."
+
+### u027025
+{n}Accorgendosi del tuo sguardo, Maive si volta verso di te.{/n} "{mf|Mio Signore Celestiale|Mia Signora Celestiale}..." {n}Esita prima di continuare.{/n} "Dicono che siate l'unto del {g|Encyclopedia:EmperorGlossary}Dio-Imperatore{/g}. L'avete... davvero visto?"
+
+### u027026
+"{mf|Mio Signore Celestiale|Mia Signora Celestiale}? Volevate chiedermi qualcosa?"
+
+### u027027
+"Beh... poco prima del vostro arrivo mi ha regalato una splendida collana di thassertium. Strano, non è vero? Concedere un tesoro simile a qualcuno della bassa nobiltà... E ho notato anche che ultimamente conversiamo di più, ed è diventato... più facile. A volte penso che mi conosca meglio di quanto io conosca me stessa."
+
+### u027028
+"Perdonatemi, {mf|Signore Celestiale|Signora Celestiale}... Volevate chiedermi qualcosa?"
+
+### u027029
+"Che cosa desiderate che io faccia, {mf|mio Signore Celestiale|mia Signora Celestiale}? Mi hanno insegnato a ballare e a cantare..."
+
+### u027030
+{n}Un rossore sboccia sulle guance di Maive.{/n} "Grazie, {mf|Signore Celestiale|Signora Celestiale}! Per me non esiste ricompensa più grande delle vostre lodi!"
+
+### u027031
+{n}Maive lascia sfuggire un sospiro sconsolato.{/n} "Vorrei poterLo vedere... ma sono certa che il Suo splendore sia così abbagliante che un solo sguardo al Suo volto basti ad accecare una persona all'istante. Oh, perdonatemi. Probabilmente volevate chiedermi qualcosa, non è vero?"
+
+### u027032
+{n}Gli occhi di Maive sono due lune, accese di meraviglia e curiosità. Si morde il labbro nell'evidente tentativo di trattenersi dal sommergerti di altre domande.{/n} "Perdonatemi. Volevate... chiedermi qualcosa?"
+
+### u027033
+{n}Maive annuisce con apprensione, poi chiude gli occhi e comincia. Con grande cura canta un passo di un inno locale su come l'Imperatore, che detiene la Chiave di tutti i Destini, abbia sbarrato i cieli contro mostri invisibili e nemici dell'Umanità. La sua voce, benché tremi per il nervosismo, è sorprendentemente piacevole da ascoltare.{/n}
+
+### u027034
+{n}Maive chiude gli occhi, come se ascoltasse una musica che solo lei può udire, e comincia a ondeggiare. La sua danza è fatta di movimenti semplici, ma la grazia e la naturalezza con cui li esegue ne accrescono il fascino.{/n}
+
+### u027035
+"Come comandate, {mf|Signore Celestiale|Signora Celestiale}." {n}Maive si accovaccia obbedientemente sulle tue scarpe e le strofina fino a pulirle con il suo stesso vestito.{/n}
+
+### u027036
+"Proviamoci!" {n}Maive sorride allegra.{/n} "I movimenti sono semplici. Guardate: mettete questo piede qui, e allargate le braccia così..."
+
+### u027037
+{n}Maive si morde il labbro, delusa.{/n} "Come desiderate, {mf|mio Signore Celestiale|mia Signora Celestiale}. Mi scuso per non essere riuscita a intrattenervi come si deve."
+
+### u027038
+"È un onore intrattenere {mf|il Signore Celestiale|la Signora Celestiale}."
+
+### u027039
+"Oh, è una persona meravigliosa! Così premuroso e generoso... ma, naturalmente, la veneranda età ha presentato il suo conto. Di tanto in tanto si comporta in modo strano. Ma tutti abbiamo le nostre stranezze, non è vero?"
+
+### u027040
+{n}Quando si ferma davanti a te in un ultimo inchino, ha le guance arrossate.{/n} "Spero che questa umile danza sia stata degna dei vostri occhi, {mf|Signore Celestiale|Signora Celestiale}!"
+
+### u027041
+"È... il migliore fra tutti i servitori di corte." {n}Maive abbassa lo sguardo, ma tu cogli la paura nei suoi occhi.{/n} "Sapeva sempre come far ridere i nobili signori. Ma all'inizio gli scherzi di Daen erano solo burle innocue e giochi di parole. Erano tempi meravigliosi, quasi impossibili..."
+
+### u027042
+"Sì, è come se all'improvviso si fosse... ritirato in se stesso, e ha cominciato a rispondere male alla gente, dicendo cose sarcastiche e taglienti. Prima le sue battute erano semplici, ma adesso c'è sempre un tono cattivo. E ha iniziato a esplodere per ogni minima cosa e a darmi ordini... Il mio stesso fratello..." {n}Dopo aver detto tutto questo, si blocca terrorizzata, pallida come un lenzuolo.{/n} "Scusate la mia mancanza di riserbo..."
+
+### u027043
+"Chiunque a corte potrebbe raccontarvi molte storie, tristi e meno tristi. Ma non è nulla in confronto alle vostre fatiche, {mf|mio Signore Celestiale|mia Signora Celestiale}. Avete cose ben migliori da fare che ascoltare i miei racconti, credetemi."
+
+### u027044
+"Perdonatemi se ho detto qualcosa di sbagliato, {mf|mio signore|mia signora}. Il Predicatore Antiochus diceva che il Dio-Imperatore tiene la Chiave di tutti i Destini nella Sua mano celeste. Egli siede in cima alla Grande Torre dell'Umanità, e da lassù abbraccia con lo sguardo i mondi e le stelle del Suo dominio. Vede tutto, sa tutto, e una lacrima di sangue Gli scivola lungo la guancia quando legge i nostri pensieri e le nostre azioni vergognose negli annali delle nostre vite."
+
+### u027045
+"'La storia della Liberazione dell'Umanità dalle Tenebre'. Si canta una volta per ciclo lunare, a ricordo della grande impresa del Dio-Imperatore, che usò la Chiave di tutti i Destini per rinchiudere il mondo al riparo dalle cose malvagie. Si murò nella Grande Torre dell'Umanità insieme a tutta la gente. Avrebbe potuto ascendere alle stelle, ma scelse di restare, per amor nostro, benché ne siamo indegni. Dobbiamo ricordare questa impresa."
+
+### u027046
+"Oh, che imbarazzo! {mf|Mio Signore Celestiale|Mia Signora Celestiale}, vi chiedo scusa per aver offeso le vostre orecchie!" {n}Con le guance in fiamme per la vergogna, Maive abbassa lo sguardo.{/n}
+
+### u027047
+"È un piacere servire {mf|il Signore Celestiale|la Signora Celestiale}."
+
+### u027048
+"Ma coloro che si sforzano, che non lasciano entrare il seme del male nei loro cuori, Egli li ricompenserà con un nuovo destino, una nuova vita, più alta e migliore della precedente: con un giro della Sua Chiave, schiude la segreta delle loro anime. Vivo nella speranza che, un giorno, venga alla mia porta." {n}Il sorriso di Maive è di triste rassegnazione.{/n}
+
+### u027049
+"Nel tempo delle tenebre, il Dio-Imperatore murò la Torre dell'Umanità contro demoni e mostri per proteggerla dal male. Ma il male aveva già piantato il suo seme in migliaia e migliaia di anime umane. Egli le rinchiuse nella segreta della Torre, affinché prima di tutto estirpassero il male dai loro pensieri. Per tutta la vita espiamo la nostra trasgressione contro il Dio-Imperatore. E dopo la morte, torniamo al Suo giudizio. Ma questo è il fardello che dobbiamo portare, {mf|mio signore|mia signora}. Quando vi vedo e comprendo che davanti a me sta il Suo unto, benedetto dalla Sua mano divina, non c'è nessuno più felice di me!"
+
+### u027050
+{n}Solomorne lancia una rapida occhiata attorno, come in cerca di qualcuno, poi ti fa un cenno sicuro col capo.{/n}
+
+### u027051
+"Affascinante. E che cosa farai per avere un destino migliore?"
+
+### u027052
+"Io... posso sperare. Pregare con fervore, cercare di essere virtuosa e diligente. E se riuscissi a compiacere {mf|il Signore Celestiale|la Signora Celestiale}, forse, solo forse, l'Imperatore se ne accorgerebbe."
+
+### u027053
+"Dunque il governatore non vi ha mai favorita così prima d'ora? Forse anche l'incarico di scortare il Rogue Trader è stato una sorpresa?"
+
+### u027054
+{n}Maive sbatte le palpebre, stupita.{/n} "È così, mio signore giudicatore. Mi chiedo ancora perché il Dio-Imperatore abbia ritenuto opportuno concedermi un onore tanto immenso."
+
+### u027055
+{n}Per un breve istante, una ruga profonda solca la fronte di Solomorne.{/n} "Quindi vostro fratello non è più quello di un tempo. Questo mondo è davvero un groviglio inestricabile."
+
+### u027056
+{n}Pronunci le parole che sono risuonate innumerevoli volte da {d|Encyclopedia:CharGen_Ministorum}le tue labbra{/d}, echeggiando tra le pareti delle cattedrali, e Maive ascolta con terrore e soggezione.{/n} "Può essere davvero vero? Non esiste nessuna Torre, e i destini di tutti sono predeterminati? Perdonatemi, {mf|mio signore|mia signora}: se lo dite voi, allora è la verità. Imparerò di nuovo a pregare e a credere, lo giuro!"
+
+### u027057
+{n}Argenta scuote la testa.{/n} "Servire l'Imperatore solo per guadagnarsi un fato migliore? Che misera base per la fede su Thassera! Bisogna inviare qui dei missionari per rimettere questo mondo sulla retta via, finché c'è ancora tempo."
+
+### u027058
+"Mendicare benedizioni anziché prove è un insulto all'Imperituro: questa è la verità."
+
+### u027059
+"È evidente che gli zeloti imperiali non mettono piede su Thassera da secoli. Altrimenti cantereste un'altra canzone: che si deve soffrire, pregare finché la vista si offusca, e poi soffrire ancora."
+
+### u027060
+{n}Sebbene i Thasseriani onorino il Dio-Imperatore, la loro interpretazione del Credo sfiora l'eresia. Servirlo è già la ricompensa, e solo il desiderio di servire più a lungo e con maggior zelo merita di essere perseguito.{/n}
+
+### u027061
+{n}Vale davvero il detto: tanti i mondi, tante le vie della fede nel Dio-Imperatore. Non sorprende, dunque, che la dottrina thasseriana assuma una forma quasi poetica.{/n}
+
+### u027062
+"Sì, {mf|mio signore|mia signora}." {n}Maive ti lancia uno sguardo disperato, ma si china con diligenza e lecca le zolle di fango dalle suole e dai tacchi delle tue scarpe, strisciando ai tuoi piedi finché il suo orlo sfarzoso è ridotto a brandelli. Ora le tue scarpe brillano come nuove. Asciugandosi le labbra infangate con la manica, Maive si rialza lentamente, con lo sguardo spento fisso davanti a sé.{/n} "In che altro modo posso servirvi, {mf|mio signore|mia signora}?"
+
+### u027063
+"Come desiderate, {mf|Signore Celestiale|Signora Celestiale}."
+
+### u027064
+"Non oso lamentarmi, {mf|mio Signore Celestiale|mia Signora Celestiale}. I nobili minori come me talvolta vengono puniti per aver fatto arrabbiare i nostri signori, ma in un certo senso è un bene. Credo che mi renda più pulita e luminosa dentro e mi aiuti a servire meglio il Dio-Imperatore, il detentore della Chiave di tutti i Destini." {n}Maive fa il segno dell'Aquila e ti rivolge uno sguardo reverente.{/n}
+
+### u027065
+"{mf|Mio signore|Mia signora}? Oh..." {n}Maive si ricompone e tace.{/n}
+
+### u027066
+"È eccellente, {mf|mio signore|mia signora}!"
+
+### u027067
+"Giustiziate questo e basta, così finiamo per oggi."
+
+### u027068
+"Chi c'è dentro adesso?"
+
+### u027069
+"Mi sono {mf|perso|persa} uno spettacolo così glorioso? Per caso vi è rimasto qualcun altro da bruciare?"
+
+### u027070
+"Di preciso, di cosa sono colpevoli questi eretici?"
+
+### u027071
+"Che cosa intendi con 'il grado della loro colpa può variare'?"
+
+### u027072
+"Basta morti. Lascialo andare."
+
+### u027073
+[Sbadiglia] "Cosa ti fa pensare che io voglia immischiarmi nei vostri meschini affari? Bruciateli, e in fretta."
+
+### u027074
+"Che cos'ha al volto? È un altro mutante?"
+
+### u027075
+"Dov'è quel dannato giullare di corte?"
+
+### u027076
+"La legge dell'Imperium punisce chi lo merita. Era l'ultimo degli accusati per oggi?"
+
+### u027077
+"Qual era il crimine del mutante vestito con sfarzo?"
+
+### u027078
+"Sono {mf|pronto|pronta} ad annunciare la mia decisione."
+
+### u027079
+[Fai un gesto impaziente] "Procedi con l'esecuzione, Taddua. Il mio tempo è prezioso."
+
+### u027080
+"Che brucino entrambi."
+
+### u027081
+"Giustiziate questa parodia di nobile. L'altro mutante è graziato."
+
+### u027082
+"Il mutante plebeo dev'essere mandato alla fornace. Il nobile va lasciato libero."
+
+### u027083
+"Che cos'è quella struttura?"
+
+### u027084
+"Lasciateli andare entrambi."
+
+### u027085
+"Che cos'ha fatto il mutante in uniforme da guardia?"
+
+### u027086
+"Di che cosa è colpevole questo eretico?"
+
+### u027087
+"Spero che questo concluda le atrocità incendiarie per oggi?"
+
+### u027088
+"Elogi il mutante di umili origini nonostante gli atti crudeli che ha commesso?"
+
+### u027089
+[Spara a Bluff per la sua insolenza]
+
+### u027090
+[Fai un cenno a Solomorne] "È ora di dare una lezione a questa gente."
+
+### u027091
+"Ho pensato a un intrattenimento migliore. Dimenticate l'esecuzione: chi mi porterà il giullare avrà l'onore di baciare il sigillo {mf|del Signore Celestiale|della Signora Celestiale}!"
+
+### u027092
+"Non c'è bisogno che ti nasconda con tanta cura. Non sono tipo da punire un pazzo di nascita."
+
+### u027093
+"Che ne dici, Maive? Chi di questi due merita di morire?"
+
+### u027094
+"Ordinato che la bocca del mutante condannato sia liberata dai punti."
+
+### u027095
+"Che crudeltà mostruosa cucire la bocca a un uomo! Togliete subito quei punti."
+
+### u027096
+{n}Taddua sorride con malignità.{/n} "La mera esistenza di questo scarto non basta? Tuttavia, se Vostra Celestiale Altezza desidera esplorare le profondità della loro depravazione... allora siate voi il giudice di oggi. I condannati stanno davanti a voi. Diteci quando avrete finito con l'interrogatorio e sarete {mf|pronto|pronta} a pronunciare il verdetto."
+
+### u027097
+{n}Il pazzo solleva le dita storte al viso e affonda le unghie nella carne cadente. Strillando con quello che pare sollievo, si strappa un pezzo di guancia, poi un altro, e poi ancora uno... Cadendo in ginocchio, si gratta freneticamente via gli occhi, spalmandosi sangue e icore chiaro sul volto prima di crollare morto sulla piattaforma.{/n}
+
+### u027098
+"Vostra Celestiale Altezza, ecco due ripugnanti eretici che macchiano il volto stesso di Thassera con la loro esistenza." {n}Taddua ridacchia, ma il suo ghigno è del tutto privo di allegria.{/n} "Il grado della loro colpa può variare, ma entrambi meritano di entrare nelle fauci ardenti del Phesmophorius per la peggiore delle loro trasgressioni: aver distorto il sacro volto dell'Umanità."
+
+### u027099
+"Io sono Taddua il Bruciato, macellaio di quinta generazione e umile discepolo del santo di ferro che vedete davanti a voi, Vostra Celestiale Altezza."
+
+### u027100
+{n}Due persone, o qualcosa che le ricorda, vengono spinte sul palco. Sono mutanti, ripugnanti parodie dell'Umanità, per sempre contaminate dalle imperfezioni della carne. Uno di loro indossa abiti macchiati ma costosi. L'altro porta la lacera uniforme delle guardie locali.{/n}
+
+### u027101
+"Quello era soltanto uno dei primi corpi destinati ad alimentare il Phesmophorius. Ora si farà molto più movimentato." {n}Come a confermare le parole dell'uomo, il santo sputafuoco emette uno sbuffo di fumo acre.{/n} "Mentre i colpevoli vengono ridotti in cenere, incontriamo i prossimi partecipanti alla nostra rappresentazione..."
+
+### u027102
+"Che tu possa essere purificato dalle fiamme di San Phesmophorius, feccia."
+
+### u027103
+{n}Mentre Taddua apre la bocca per dire qualcosa, il condannato fa un passo sulle sue gambe goffe e sottili, e poi un altro...{/n} "La faccia, la faccia! Bella, forte... splendente!" {n}Un artiglio nodoso punta dritto verso di te.{/n} "Dammela! Dammela adesso al posto di quella che porto! Prendi la mia, non è mia! Prendila! PRENDILA!"
+
+### u027104
+"La fornace? La fornace! Tutte quelle azioni scandalose in un solo eretico faranno scintille bellissime! Ecco la pioggia di stelle!" {n}Alla battuta viscida del giullare seguono risate, mentre la folla pregusta lo spettacolo imminente.{/n}
+
+### u027105
+{n}Cassia stringe le labbra quando nota che i curiosi fissano le sue mani, i suoi occhi e il suo collo. Molti la indicano senza vergogna; altri sputano a terra con disgusto. Con il mento alto, la Lady Navigatrice si sistema l'ornamento sulla fronte con le mani artigliate. Raddrizza le spalle, emette un respiro e guarda la folla con sufficienza.{/n}
+
+### u027106
+{n}Il mutante pronuncia a mezza voce una maledizione volgare, poi ti lancia subito uno sguardo spaventato e tace. La sola vista {mf|del Signore Celestiale|della Signora Celestiale} sembra infondere un timore reverenziale negli umili abitanti di Thassera.{/n}
+
+### u027107
+"Che cosa, in nome della Lex, ho appena sentito?" {n}Solomorne alza leggermente la voce, segno che l'Arbitratore, di solito impassibile, è profondamente indignato.{/n} "Di norma non ho difficoltà a emettere un giudizio, ma in questo caso non so nemmeno da dove cominciare."
+
+### u027108
+"Sono entrambi mutanti, e hanno quindi violato la Sua legge. Eppure, quando si trova una scintilla di nobiltà in un abietto plebeo, non si può fare a meno di provare un granello di rispetto. Questo eretico sarà pure di umili natali, ma non disprezza i valori di Thassera come fa il nobile, e dunque onora le nostre tradizioni e la Sua volontà. Nato fra la plebaglia, ha usato tutte le sue capacità e abilità, ha sfidato i vincoli impostigli e ha schiacciato chi gli sbarrava la strada, tutto per forgiarsi un nuovo destino."
+
+### u027109
+"Forgiarsi... un nuovo destino?" {n}Solomorne ripete lentamente, con una sfumatura di totale incredulità per ciò che sta sentendo.{/n} "Perfino tu, un degenerato, dovresti sapere che l'uomo è vincolato fin dalla nascita a servire il piano del Dio-Imperatore, e che ogni tentativo di cambiarlo è una violazione della Sua volontà!"
+
+### u027110
+"Anche su un pianeta dimenticato da tutti, l'Umanità continua a cercare la libertà e a onorare l'Imperatore a modo suo..." {n}Sospirando, Jae si volta verso di te.{/n} "Gli umani hanno bisogno di credere in qualcosa per vivere. E un destino migliore... chi di noi non l'ha mai sognato?"
+
+### u027111
+"Mangia a sazietà, santo di ferro! Ingozzati delle esili ossa nobili, e cerca di non strozzarti!" {n}Allo strillo del giullare, la folla scoppia in una risata maligna.{/n}
+
+### u027112
+"Oh, no no no! Non siamo venuti qui perché voi stiate zitti! Strillate adesso, e strillate più forte!" {n}La folla raccoglie lo sfogo del giullare e comincia a pretendere altre urla.{/n}
+
+### u027113
+"Maestro Taddua non conosce pietà, e la sua mano è sempre ferma nella sacra causa dell'amministrazione della giustizia..." {n}Maive si preoccupa di tenere la postura eretta, ma il suo sguardo spaventato evita di proposito sia il boia sia il meccanismo alle sue spalle.{/n}
+
+### u027114
+"Mai più... profanare le labbra..." {n}Maive sembra sul punto di svenire. Pare al tempo stesso terrorizzata e nauseata da questo rito sacro che ha attirato tanti curiosi.{/n}
+
+### u027115
+{n}Maive sembra aver frenato le emozioni che la sopraffacevano, e ti rivolge un'occhiata timida mentre attende il verdetto.{/n}
+
+### u027116
+{n}Getti un'occhiata alla folla... e vedi all'improvviso il giullare, che saltella e svolazza tra i curiosi, cercando chiaramente di non farsi notare da te.{/n}
+
+### u027117
+{n}Una risata sale dalla folla: il pubblico apprezza la tua replica garbata ma beffarda. Il giullare emette un suono rabbioso e fugge, tra le risatine dei presenti.{/n}
+
+### u027118
+{n}Un allegro scherno si leva sopra la folla. Diverse paia di mani afferrano il giullare con l'evidente intenzione di trascinarlo al patibolo, ma Bluff si rivela troppo scivoloso. Liberatosi dalla presa, il giullare si precipita via, inseguito da diversi curiosi.{/n}
+
+### u027119
+{n}Senza dire una parola, l'Arbitratore estrae l'arma.{/n}
+
+### u027120
+{n}Uno sparo risuona, e un grido assordante si alza dalla moltitudine. Scorgi il giullare, gravemente ferito, sparire tra la folla.{/n}
+
+### u027121
+{n}Maive grida di orrore e subito si preme la bocca con entrambe le mani, cercando di rinchiudervi la voce.{/n}
+
+### u027122
+"Grazie, {mf|Signore Celestiale|Signora Celestiale}." {n}La voce di Maive è appena udibile. Ti sorride in modo timido e triste.{/n}
+
+### u027123
+{n}Maive ti guarda, triste e riconoscente al tempo stesso, e sorride con incertezza.{/n}
+
+### u027124
+{n}Lo sguardo di Maive vaga con timore intorno, evitando visibilmente i mutanti condannati sulla piattaforma.{/n} "Io sono... di nascita troppo umile per sobbarcarmi il peso di essere giudice, {mf|mio Signore Celestiale|mia Signora Celestiale}..."
+
+### u027125
+"Hai appena confessato che la tua parvenza di giustizia non serve come dimostrazione di autorità legittima e deterrente per i tuoi sudditi, ma come... intrattenimento." {n}Solomorne pronuncia l'ultima parola con disgusto, come se non potesse esistere profanazione più immonda.{/n}
+
+### u027126
+{n}La voce di Yrliet è debole, ma il tuo Elucidator coglie comunque la sua flebile preghiera:{/n} "Isha, dammi la forza di guardare senza vedere. Di udire senza dare ascolto al trionfo dell'oscurità spirituale..."
+
+### u027127
+{n}Cassia si volta, coprendosi occhi e naso con uno scialle.{/n} "Questo odore, queste urla... Sarebbe opportuno che poneste fine a questa barbarie, Lord Capitano, non che ne incoraggiaste altra."
+
+### u027128
+{n}Ignorando il fuoco furioso dentro il Phesmophorius, Argenta studia la folla.{/n} "Sono venuti tutti qui per assaporare il dolore altrui, non per lodare la Sua giustizia... Sono come un branco di cani che sbavano per un osso fresco."
+
+### u027129
+{n}Kibellah sussurra senza distogliere lo sguardo dall'uomo condannato,{/n} "Non siete padrone della vostra ombra: sono le ombre a dominarvi. Voi siete soli, loro sono molte. Ma perché?"
+
+### u027130
+"Una casa senza finestre, senza porte..." {n}Idira è immobile, con gli occhi vitrei.{/n} "Il padrone se n'è andato, e restano solo bestie..."
+
+### u027131
+"La plebaglia ghigna e cachinna come sciacalli a un banchetto. Voialtri! Che cosa vi diverte tanto? È la sporcizia e l'eresia?" {n}Il ruggito di Ulfar manda in frantumi l'esaltazione della folla, finché una nuova ondata di risate del giullare non la contagia di nuovo di maligna gioia.{/n}
+
+### u027132
+{n}Cassia scruta le nere cavità degli occhi del Phesmophorius e, con una strana espressione in volto, sussurra piano,{/n} "Quando date un ordine del genere, non distogliete lo sguardo. Continuate a guardare fino alla fine, per ricordare il prezzo che è stato pagato. Per ricordare il peso delle vostre parole..."
+
+### u027133
+"Ma, dato che il fato ci ha onorati di visitatori così illustri, cedo volentieri a voi il diritto di punire questi miscredenti, Vostra Celestiale Altezza." {n}Contrariamente alle sue parole melliflue, la voce del boia tradisce un malcelato disappunto.{/n}
+
+### u027134
+"Febbre... thasseriana. Non dovete preoccuparvi, Vostra Celestiale Altezza: non è contagiosa."
+
+### u027135
+{n}Marazhai passa in rassegna la folla con uno sguardo predatorio, zittendo i bisbigli e spingendo i timorosi più a fondo nella calca.{/n} "Bestiame tanto ansioso del macello. I loro padroni mostrano troppo poca crudeltà: forse è tempo di porvi rimedio."
+
+### u027136
+"Le loro vite sono avvelenate da paura e odio, le loro parole e i loro pensieri grondano veleno, eppure i mon-keigh preferiscono nascondersi dietro maschere piuttosto che cambiare qualcosa."
+
+### u027137
+{n}Ansioso di compiacerti, Taddua esegue l'ordine, ma il suo lavoro è tutt'altro che delicato: l'uomo condannato geme e si strozza dal dolore mentre il boia gli strappa i fili dalla carne.{/n}
+
+### u027138
+"Gr... gnk ciè..." {n}Con la bocca che gronda sangue, è improbabile che il mutante possa dire altro.{/n}
+
+### u027139
+{n}Alla vista di uno xenos in tua compagnia, i cortigiani mascherati cominciano a trattenere il fiato e a mormorare. Nel lampo dei loro occhi e nella piega delle loro labbra c'è solo timoroso disgusto.{/n}
+
+### u027140
+{n}Una creatura pallida e ossuta, che riesce a malapena a muovere le gambe, entra sul palco. Al posto di una maschera, rivolge al mondo un'orribile accozzaglia di lineamenti. Questa bruttezza, tuttavia, non ha nulla a che vedere con quella dei condannati precedenti. La bocca sottile, contorta in una smorfia di ribrezzo, è fusa agli zigomi. Occhi malevoli scrutano la folla da sotto orribili pieghe di pelle. Il volto di questo eretico sembra essersi... sciolto e rappreso.{/n}
+
+### u027141
+"E ora, la mia parola preferita. Il prossimo!"
+
+### u027142
+"Un altro eretico che ha violato le sacre leggi di Thassera. E, poiché il suo corpo sta già diventando cenere, tale sarà anche la sorte del suo nome: essere sparso ai quattro venti, affinché non contamini mai più le labbra di nessuno di coloro che vivono sul nostro mondo sacro."
+
+### u027143
+"Questo strumento di punizione è la personificazione del grande Phesmophorius il Martire, che compì l'impresa leggendaria di uccidere trecento eretici. Come vuole la gloriosa tradizione, tutti i mutanti che offendono lo sguardo dell'Imperatore e macchiano il volto di Thassera devono entrare nell'abbraccio di ferro del santo. Ogni volta che si fa giustizia, centinaia di persone accorrono al Phesmophorius, ansiose di assistere al magnifico spettacolo."
+
+### u027144
+{n}Heinrix inarca un sopracciglio mentre osserva il gigante di ferro.{/n} "Questo è uno di quei mondi in cui l'esecuzione pubblica fa parte della sacra edificazione della folla. Eppure, da come viene descritta, sembra che la gente non impari nulla da ciò che vede, ma anzi ne goda in modo perverso."
+
+### u027145
+{n}Taddua ti fissa con sguardo fanatico.{/n} "Uno di loro, pur essendo uno dei più alti signori di Thassera, ha sputato sulle usanze del nostro mondo rifiutandosi di cambiare il proprio destino. L'altro ha cambiato la sua sorte, benché fosse solo un plebeo che si rotolava nel fango."
+
+### u027146
+{n}Senti la sua voce tra le maschere, ma gli echi e il rumore della folla rendono confusa la provenienza.{/n} "Da qualche parte in questa galassia. E mi sento molto più al sicuro lontano dalle cose affilate e appuntite che avete in mano, Vostra Celestialità!"
+
+### u027147
+{n}Un rombo improvviso attira la tua attenzione. Come una frana che rotola lungo un pendio, il martellare di piedi e le urla folli ti sommergono. Dopo un istante, vedi la fonte del trambusto: una torma di mutanti ti sta caricando dritto addosso!{/n}
+
+### u027148
+{n}Vedi un uomo con una smorfia crudele sul volto e le mani deturpate da segni di ustioni. Dietro di lui si erge un meccanismo spaventoso, adorno di un teschio lucidato di proporzioni gigantesche. Le orbite, dai bordi fusi, scrutano cupe la folla con la promessa di un'inevitabile punizione. L'uomo, chiaramente il boia, china il capo.{/n} "I messaggeri stessi del cielo sono venuti a decidere il nostro destino. Siamo onorati, Vostra Celestiale Altezza."
+
+### u027149
+"Ah, una macchia marcia sulle famiglie nobili. Si nascondeva nella sua dimora per celare le sue deformità, ma faticava a tenere la bocca chiusa: diffondeva corruzione nelle menti dei cortigiani, gettava discredito sulle tradizioni del mondo, era insolente, bestemmiava... Per fortuna non ha eredi, e oggi questa maledetta stirpe sarà messa a riposo una volta per tutte."
+
+### u027150
+{n}Il mutante riccamente vestito mugola qualcosa. Noti dei punti di sutura sul suo volto deformato: gli zelanti servitori avevano evidentemente fretta di far tacere presto il condannato e gli hanno cucito la bocca distorta.{/n}
+
+### u027151
+{n}Gli occhi del boia brillano di esaltazione.{/n} "Che parole giuste, Vostra Celestiale Altezza! Non ha senso sprecare minuti preziosi con l'eresia. Entrambi sono stati giudicati colpevoli e saranno consegnati alle fiamme!"
+
+### u027152
+"La parola di un ospite illustre è legge. Tremiamo tutti d'attesa!"
+
+### u027153
+{n}Taddua ti osserva con curiosità guardinga.{/n} "Su Thassera ci sono due grandi verità, Vostra Celestiale Altezza. La prima è che l'Imperatore ha creato i pianeti e le stelle, poi ha plasmato l'Umanità a Sua immagine, e noi non siamo che i Suoi indegni figli. La seconda è che a ciascuno di noi è stata data la libertà di cambiare il proprio destino: un dono divino che ci separa dalle bestie e dai Suoi nemici, un dono che riempie le nostre vite della Sua luce. Se qualcuno sceglie di marcire nella gabbia del proprio destino senza esserne appagato né cercare di cambiarlo, allora finisce nel Phesmophorius."
+
+### u027154
+"Vattene, miscredente." {n}Taddua guarda il mutante sopravvissuto non del tutto senza compassione.{/n} "Hai cambiato il tuo destino una volta, e ora è tempo di sfuggirne a uno nuovo: uno in cui la folla ti fa a pezzi nel primo vicolo che ti darà rifugio." {n}La folla intorno a te comincia a rumoreggiare in risposta.{/n}
+
+### u027155
+{n}Taddua ti lancia un'occhiata scura. Quasi a malincuore, a denti stretti, forza fuori le parole:{/n} "Sua Celestiale Altezza ha parlato... Che le fiamme di San Phesmophorius ti purifichino, eretico."
+
+### u027156
+{n}Taddua fissa il mutante sopravvissuto con disprezzo.{/n} "Fuori di qui. E ringrazia Sua Celestiale Altezza per averti concesso una vita che non meriti..." {n}La folla intorno a te comincia a schernire, e il mutante si dilegua in fretta.{/n}
+
+### u027157
+"Sapevo che il vostro sangue ribolle, Vostra Celestiale Altezza! Alimentiamo il grande Phesmophorius!"
+
+### u027158
+{n}Dopo aver accolto nelle sue viscere le tue abbondanti offerte, il Phesmophorius ruggisce e sbuffa fumo. Incitata dal crudele spettacolo, la folla intorno a te comincia a mugolare al ritmo dello strumento di esecuzione. In quel frastuono senti il suono di un'avida attesa.{/n}
+
+### u027159
+"Oh, la stufa oggi è rovente! Scaldatevi, bravi miei, perché {mf|il Signore Celestiale|la Signora Celestiale} si sente {mf|generoso|generosa}!"
+
+### u027160
+"Un ladro, un brigante e un assassino. Non c'è modo di elencare tutti i crimini che gravano sulla coscienza di questo mostro! Tuttavia, la sua volontà di cambiare il proprio destino contro ogni probabilità merita a questo mutante almeno un po' di onore. Nonostante la sua scarsa intelligenza e semplicità, ebbe abbastanza buon senso da nascondere il proprio aspetto sotto cappucci ed elmi finché non passò da mendicante a guardia. Non passò molto prima che la sua eccessiva passione per il combattimento e le coltellate lo tradisse."
+
+### u027161
+{n}La voce del giullare si leva sopra la folla:{/n} "Che svolta inaspettata! Chi meglio di uno straniero appena caduto sulle nostre teste per giudicare la sporcizia di Thassera?"
+
+### u027162
+{n}L'eccitazione negli occhi di Taddua svanisce.{/n} "Una decisione clemente, Vostra Celestiale Altezza. Assaporate il dono della libertà concesso a noi dal Detentore della Chiave di tutti i Destini e dal Suo messaggero. Sparisci, disgustosa progenie!"
+
+### u027163
+"Oh, che clamore! Scommetto che hanno sentito il cuore del povero macellaio spezzarsi fin dall'altro capo di Thassera!"
+
+### u027164
+{n}Il boia non risponde subito, ma ti fa attendere un istante.{/n} "Il suo crimine è più grave di qualunque altro mai visto su questo patibolo. Gli fu concesso un nuovo destino, ma scelse di sfidarlo. Ha respinto il più grande dono che si possa offrire ai figli e alle figlie fedeli di Thassera!"
+
+### u027165
+{n}Lo sguardo del disgraziato vaga sulla folla finché i suoi occhi penetranti incontrano i tuoi. La testa gli sussulta, il volto si contorce in una smorfia mostruosa.{/n} "Zitto! Zitto, prima che entri!" {n}sussurra in un improvviso delirio,{/n} "Non mi arrendo! Non lo cedo! Non lo farò!"
+
+### u027166
+"Dunque, o il comandante o il boia, giusto? Allora ora prenderò la mia decisione."
+
+### u027167
+"Sembra che la tua festa sia finita, Governatore."
+
+### u027168
+[Osserva la piazza]
+
+### u027169
+"Il comandante è colpevole. Solomorne, esegui la sentenza."
+
+### u027170
+"Sai, per oggi non ho ancora avuto abbastanza esecuzioni... Il Phesmophorius per tutti e due. Pretendo uno spettacolo."
+
+### u027171
+"Il boia è responsabile di quanto è accaduto. Solomorne, fai valere la volontà della giustizia."
+
+### u027172
+"Ci sono state abbastanza morti. Non ordinerò nessuna esecuzione."
+
+### u027173
+[Guarda Maive]
+
+### u027174
+"Hmm... Forse {mf|il Signore Celestiale sarebbe disposto|la Signora Celestiale sarebbe disposta} a mostrare clemenza... se i vermi colpevoli la implorassero ai suoi piedi."
+
+### u027175
+[Colpisci il governatore] "Se non fosse per la decima, saresti tu a trovarti davanti all'esecuzione!"
+
+### u027176
+"Trova i responsabili e portameli!"
+
+### u027177
+[Accetta il dono] "Grazie, Ruoldo."
+
+### u027178
+[Accetta il dono] "Tutto qui? Una spada antiquata? Mi aspetto che i doni successivi siano migliori."
+
+### u027179
+[Restituisci il dono] "Solomorne, annota questo tentativo di corruzione. Non ho bisogno dei tuoi doni, Ruoldo."
+
+### u027180
+"Entrambi sono colpevoli. Metteteli a morte come dettano le vostre tradizioni."
+
+### u027181
+"Vostra Celestiale Altezza, vi chiedo scusa per il ritardo! Ho sprecato un sacco di tempo in futili battibecchi con quello zoticone del tesoriere mentre cercava il registro della spedizione! Ho saputo dell'attacco solo quando era già iniziato, e l'ascensore era come fermo, tanto era lento..."
+
+### u027182
+"Niente affatto! Non permetterò che qualche bestia rovini tutto ciò che abbiamo lavorato tanto per preparare... Suggerisco di allontanarci da questo luogo e di tornare al nostro angolo di festa e di pace. Con il vostro permesso, vi aspetterò al tavolo d'onore, Vostra S... Vostra... Oh, Dio-Imperatore, dammi la forza!" {n}Deglutendo rumorosamente, il governatore lascia in fretta il luogo del massacro.{/n}
+
+### u027183
+{n}Un silenzio opprimente grava sulla piazza prima così animata. La gente osserva la carneficina, evitando chiaramente di guardarti ma cogliendo comunque ogni tua parola. Noti Maive in piedi lì vicino, che si guarda intorno con orrore negli occhi.{/n}
+
+### u027184
+"Obbedisco a Vostra Celestiale Altezza..." {n}Con passo pesante, il comandante si dirige verso la bestia di ferro sputafuoco.{/n}
+
+### u027185
+{n}Il boia si blocca, con l'angolo della bocca che trema.{/n} "Quindi colui che ha servito il Phesmophorius con rigore e zelo deve ora entrare lui stesso nel suo abbraccio infuocato..."
+
+### u027186
+{n}L'espressione di Solomorne non cambia mentre esegue l'esecuzione. Taddua il Bruciato spira senza emettere alcun suono.{/n}
+
+### u027187
+{n}Il governatore farfuglia spaventato,{/n} "Io... io non avrei mai... pensato..." {n}Prende un respiro profondo.{/n} "I colpevoli. Certo. I colpevoli saranno giustiziati immediatamente, {mf|mio Signore Celestiale|mia Signora Celestiale}."
+
+### u027188
+{n}Dopo essersi rassettata e aver ripreso un contegno adeguato, Maive fissa il vuoto. Nonostante lo shock, le sue labbra sono serrate con decisione e la schiena è impeccabilmente dritta.{/n}
+
+### u027189
+{n}Dopo essersi ricomposta, Maive incrocia il tuo sguardo e lo distoglie timidamente. Le sue labbra portano un sorriso di sollievo mal celato.{/n}
+
+### u027190
+{n}La giovane donna accanto a te potrebbe essere una statua scolpita, perfetta nella sua assenza di vita. L'unica emozione nel suo sguardo, rivolto al Phesmophorius fumante, è un terrore gelido.{/n}
+
+### u027191
+{n}Il governatore barcolla all'indietro per il colpo, riuscendo a stento a rimanere in piedi. Un rivolo di sangue gli scorre lungo il labbro, e sputa qualche dente marcio sulle pietre.{/n} "Grazie, Vostra Celestiale Altezza! Non dimenticherò mai la lezione impartitami dall'unto stesso dell'Imperatore!"
+
+### u027192
+"I mutanti condannati si sono liberati e hanno attaccato la popolazione... È da molto, moltissimo tempo che non succedeva niente di simile, Vostra Celestiale Altezza. Devono aver fiutato che oggi è un giorno speciale..." {n}Il labbro del boia si piega, spaccato da un colpo durante lo scontro.{/n} "Il comandante era responsabile della loro custodia. È stato negligente."
+
+### u027193
+{n}Con un unico movimento preciso, il Proctor esegue la sentenza. Lucra cade a terra con un tonfo.{/n}
+
+### u027194
+"Mi stupisce che quell'idiota abbia solo sottopagato la decima e non abbia in qualche modo perso anche l'intero pianeta." {n}Solomorne si ferma, osservando pensieroso il governatore che se ne va.{/n} "Bene, banchetto sia. Sono stufo del fetore di carne bruciata: cambiamo scenario."
+
+### u027195
+{n}Pallida in volto, Maive alza una mano.{/n} "{mf|Signore Celestiale|Signora Celestiale}, sono solo pochi passi. I nobili signori stanno già alzando i calici in onore del loro {mf|salvatore|salvatrice}, in attesa del vostro arrivo. Possiamo... procedere?"
+
+### u027196
+{n}Con un tintinnio d'armatura, uno dei cavalieri si fa avanti.{/n} "Sono Lucra, comandante della fortezza. Posso testimoniare che gli empi mutanti erano trattenuti a dovere. È il Phesmophorius... Il fumo ha scatenato la furia dei bruti!"
+
+### u027197
+"{mf|Signore Celestiale|Signora Celestiale}, giuro sulla mia vita che i miei cavalieri e io abbiamo fatto tutto il possibile per tenervi al sicuro! Chi avrebbe potuto prevedere che il Phesmophorius, dopo essersi ingozzato di miscredenti, avrebbe cominciato a far impazzire i mutanti con il suo fumo..."
+
+### u027198
+"Menzogne! Il Phesmophorius non schernisce gli eretici, li riempie di terrore! Scaricare la colpa del proprio fallimento su una sacra arma della giustizia è un crimine abominevole di per sé!"
+
+### u027199
+{n}Taddua guarda cupo il comandante e cade in ginocchio.{/n} "Giuro su tutto ciò che è sacro, sul sangue dei martiri e sul Suo nome: non è mai stato nei miei pensieri causarvi dolore, Vostra Celestiale Altezza. Abbiate pietà!"
+
+### u027200
+{n}Il comandante si inginocchia rapidamente a sua volta.{/n} "In verità, la nostra vergogna non sarà lavata fino alla fine dei tempi! Imploriamo il perdono {mf|del nostro Signore Celestiale|della nostra Signora Celestiale}, per poter scontare una giusta penitenza per tutta la vita!"
+
+### u027201
+{n}Il governatore si inchina ai tuoi piedi.{/n}
+
+### u027202
+"L'Imperatore non voglia che io tenti di corrompervi, Vostra Celestiale Altezza! Il pensiero non mi ha nemmeno sfiorato... Perdonatemi con la massima clemenza!"
+
+### u027203
+"Fatto. Continua così, Governatore, e la tua punizione non tarderà ad arrivare."
+
+### u027204
+{n}Il comandante e il boia smettono di battibeccare e rivolgono su di te gli occhi stupiti; si riprendono però in fretta, e ti offrono i loro più profondi inchini, mantenendo un silenzio solenne.{/n}
+
+### u027205
+"Oggi siete il nostro {mf|salvatore|salvatrice}, Vostra Celestiale Altezza. E in segno di gratitudine, vi prego di accettare questa spada personalizzata dal mio tesoro. Fatebringer una volta decise l'esito di una delle nostre faide: uccise il capo di una rivolta, e da allora la pace regna sul pianeta."
+
+### u027206
+"Il tesoriere, l'ascensore: a chi darai la colpa la prossima volta, Governatore? Sei il sovrano di questo mondo o uno spettatore casuale? Prenderai provvedimenti immediati e ripristinerai l'ordine, altrimenti concluderò che stai sabotando la visita del Rogue Trader, per intenzione o semplicemente per la tua incompetenza."
+
+### u027207
+[Spingi via il cavallo]
+
+### u027208
+[Rotola di lato]
+
+### u027209
+[Urla]
+
+### u027210
+[Concentra lo sguardo]
+
+### u027211
+[Rialzati]
+
+### u027212
+[Senti il tuo corpo]
+
+### u027213
+{n}La tua mente è una scheggia sciolta, scagliata nel nulla, che urla con le voci di migliaia di vite... Sono le tue vite? O appartengono a qualcun altro? Le crepe di sangue si ramificano, mordendo ogni brandello di pensiero disgiunto, devastando, bramando di frantumare quel poco che resta di te. Un grido gorgoglia nelle profondità: una supplica perché il tormento cessi e ti lasci dissolvere nell'incoscienza... Ma qualcosa ti ha piantato gli artigli addosso, tenendoti fermo, riunendoti pezzo per pezzo. Metodicamente e tormentosamente, continua a infilzare i brandelli della tua identità sul filo dell'esistenza nel tentativo di battere sul tempo il vuoto che tutto consuma.{/n}
+
+### u027214
+{n}Vieni {mf|strappato|strappata} all'improvviso dall'oblio da un morso brusco e spietato. Cerchi di respirare e senti il tuo stesso rantolo affannoso. La vista torna gradualmente, e dalla nebbia emerge la testa di un cavallo infuriato. Sei {mf|tornato|tornata}. Sei {mf|vivo|viva}.{/n}
+
+### u027215
+{n}Cerchi di scostare da te la testa, ma la mano devia. I tuoi palmi non sentono nulla, perché la pelle che li copre è solo un rivestimento di carne goffo, tirato a forza sul tuo scheletro. Le dita si arricciano da sole.{/n}
+
+### u027216
+{n}Il tuo grido è sottile come un lamento di morte e insopportabilmente acuto. Eppure è giusto abbastanza forte da indurre la creatura a smettere di tentare di morderti e ad arretrare.{/n}
+
+### u027217
+{n}Lentamente, i tuoi occhi cominciano a comporre un'immagine sordida: tutto intorno a te è marrone e disgustoso. Fieno, legno, sangue, sporcizia... cavallo: la botola in cui sei {mf|saltato|saltata} giù ti ha condotto a una stalla.{/n}
+
+### u027218
+{n}Ondeggi, come per la nausea, con tutte le membra impossibilmente fragili. Gambe magre, braccia esili: non ti appartengono. Questo è un costume, e non è tuo: non si addice al tuo rango, è della taglia sbagliata e dentro porta ancora unte tracce del suo precedente proprietario. Sei {mf|sopraffatto|sopraffatta} dall'impulso di strapparti la carne di dosso e gettarla via come un guanto consumato.{/n}
+
+### u027219
+{n}Raccogli la tua volontà e reprimi il desiderio di scorticarti. L'impulso folle si ritira. I ricordi che aleggiano in questo corpo potrebbero ancora rivelarsi utili.{/n}
+
+### u027220
+{n}La tua mano trova qualcosa sul petto, qualcosa di così freddo da bruciarti le dita. Per un attimo pensi che sia il vero te, la scheggia della tua volontà persa nel flusso, ma si rivela nient'altro che una collana di thassertium.{/n}
+
+### u027221
+{n}Ricordi che non sono tuoi si squarciano nella tua mente, sostituendo i tuoi pensieri. Ti viene in mente che qualcun altro scacciava tutti i mostri: un fratello maggiore, così divertente e sempre sorridente. Con una certa fatica, riesci a cacciare dalla testa il suo viso gentile.{/n}
+
+### u027222
+{n}Una stalla è un luogo per contadini, non per sovrani. Ma, in qualche modo, il tuo corpo ricorda i profumi della povertà. La tua coscienza si espande pesantemente, come polmoni malati. Ricordi un grande cesto, fagotti di cibo stretti tra le mani e i sorrisi riconoscenti degli affamati.{/n}
+
+### u027223
+{n}Mentre lo guardi, il cristallo ricambia lo sguardo con il suo occhio blu immobile. Il volto rugoso del giullare emerge improvvisamente dal riflesso, e la sua voce trionfante sembra sospesa ai margini della tua coscienza. Questo corpo ricorda dolore e aria elettrificata... Qualcosa di brutto.{/n}
+
+### u027224
+{n}Per completare il quadro, non hai altra scelta che guardare il tuo riflesso in un vicino abbeveratoio. Vedi lineamenti familiari: una forza innaturale ti ha {mf|strappato|strappata} dal tuo corpo e ti ha {mf|trascinato|trascinata} in quello di Maive, la dama di compagnia di Ruoldo. Ora che hai passato un po' di tempo in questa stalla, ti senti un poco più {mf|abituato|abituata} alle tue nuove membra. Ma dov'è il tuo involucro mortale?{/n}
+
+### u027225
+{n}I muscoli ti si contraggono in un'agonia amara: giureresti di sentire lo stridere delle ossa e il lamento dei tendini tesi. La ricompensa per la tua sofferenza è un goffo giro su un fianco, e poi le forze ti abbandonano ancora una volta.{/n}
+
+### u027226
+{n}Affondi unghie estranee nella pelle sottile, cercando di grattarti via di dosso la faccia di qualcun altro. Il dolore alle guance ha un effetto rinfrescante. Vedi sangue sulle dita. Questo potrà non essere il tuo corpo, ma può comunque rivelarsi utile.{/n}
+
+### u027227
+{n}Questa strana carne ti obbedisce a malincuore, come se ricevesse i tuoi comandi con ritardo. Ci vuole tutta la tua grinta per sollevare una mano delicata e posarla sul muso del cavallo. L'animale sbuffa e la scaccia con facilità.{/n}
+
+### u027228
+{n}I tuoi ricordi degli ultimi minuti sono incoerenti e dolorosi. Il lampo di stregoneria, il balzo nell'ignoto, Solomorne che gridava qualcosa: ha dato a Glaito un ordine, ma quale? Ogni tentativo di elaborare ciò che è accaduto ti trascina solo più a fondo nell'incoscienza.{/n}
+
+### u027229
+{n}La tua {d|Encyclopedia:CharGen_Commissar}volontà di ferro{/d} respinge subito la vergognosa debolezza, e ti dai un ordine: stabilizzarti e sondare i ricordi del precedente proprietario di questo corpo.{/n}
+
+### u027230
+{n}Il tuo tentativo di girare il corpo si conclude solo con un dolore lancinante che ti percorre la schiena. Il massimo che riesci a ottenere è uno scatto verso l'alto accompagnato da uno scricchiolio acuto da qualche parte nella colonna vertebrale.{/n}
+
+### u027231
+"Volete che vi parli {rt_mf|del Signore Celestiale|della Signora Celestiale}? Be', qualcosa la so."
+
+### u027232
+"Circolate. Non c'è niente da raccontare."
+
+### u027233
+"Davvero, non c'è niente che valga la pena raccontare."
+
+### u027234
+"Beh, può darsi. Però è allora che i {rt_mf|suoi|suoi} servitori tirarono fuori un grosso sacco di troni e ne fecero piovere sui poveri ovunque {rt_mf|il Signore Celestiale|la Signora Celestiale} andasse. Non l'avete sentito dire?"
+
+### u027235
+"È tutto vero. Non ho nulla da aggiungere."
+
+### u027236
+"Voialtri vi nutrite di pettegolezzi, ma vi dico che {rt_mf|il Signore Celestiale|la Signora Celestiale} non si è mai sporcat{rt_mf|o|a} le mani con gli affari mondani. {rt_mf|Egli|Ella} è al di sopra di tutte queste meschinità. Come potrebbe non esserlo, se governa mille mondi?"
+
+### u027237
+"{rt_mf|Il Signore Celestiale|La Signora Celestiale} mi ha permesso di cantare {rt_mf|per lui|per lei} fino al tramonto. Chiunque non tacesse al nostro avvicinarsi, e {rt_mf|lo|la} distraesse dal godersi la musica, veniva giustiziato all'istante."
+
+### u027238
+"È andata proprio come hai detto tu."
+
+### u027239
+"Era giusto: bisognava fare giustizia. Ma poi {rt_mf|egli|ella} ha compensato generosamente le famiglie di tutti quelli che avevano perso il loro sostentamento. Ora non devono muovere un dito per il resto della vita."
+
+### u027240
+"Dovevate proprio storcere la storia in ogni modo! Se solo guardaste negli occhi {rt_mf|il Signore Celestiale|la Signora Celestiale} anche una volta sola, capireste quanto {rt_mf|egli|ella} sia pien{rt_mf|o|a} di luce. Ogni volta che {rt_mf|egli|ella} ordina di fare qualcosa, lo senti nel cuore che è il Dio-Imperatore a parlare attraverso {rt_mf|di lui|di lei}. Che è la verità! E chi siamo noi per comprendere la Sua verità?"
+
+### u027241
+"Sapete così poco! {rt_mf|Il Signore Celestiale|La Signora Celestiale} non ha mai perdonato quell'uomo per il suo passo falso. {rt_mf|Si è fatto|Si è fatta} portare davanti la sua famiglia e l'ha torturata a lungo. E {rt_mf|ha riso|ha riso} per tutta la durata del supplizio, con una voce così sinistra che perfino i ratti negli angoli sono morti per puro orrore."
+
+### u027242
+"{rt_mf|Il Signore Celestiale|La Signora Celestiale} è stat{rt_mf|o|a} amichevole e gentile con me."
+
+### u027243
+"{rt_mf|Il Signore Celestiale|La Signora Celestiale} è come il Dio-Imperatore. Ovunque {rt_mf|metta|metta} piede, la gente resta senza parole. {rt_mf|Mi ha|Mi ha} eclissato così completamente che non mi ha nemmeno degnato di uno sguardo."
+
+### u027244
+"{rt_mf|Il Signore Celestiale|La Signora Celestiale} mi ha concesso l'onore di baciare {rt_mf|i suoi|i suoi} stivali e di ripulirli dalla polvere della strada. Non ho mai conosciuto gioia più grande. Era come premere le labbra sulle stelle su cui {rt_mf|egli|ella} aveva camminato!"
+
+### u027245
+[Svignatela]
+
+### u027246
+"Beh, quasi... Il dono del governatore non era di {rt_mf|suo|suo} gradimento, e Ruoldo è stato punito severamente per questo! Ora, ogni volta che {rt_mf|il Signore Celestiale|la Signora Celestiale} gli rivolge anche solo uno sguardo, trema e i denti gli battono così forte che potresti usare la sua mascella come martello! Finalmente qualcuno di cui i nostri ricchi hanno paura."
+
+### u027247
+[Distrai i presenti] "Dite un po'... non è {rt_mf|il Signore Celestiale in persona|la Signora Celestiale in persona} quello laggiù?"
+
+### u027248
+{n}Diversi popolani parlano in un sussurro rumoroso, senza accorgersi di te. Un uomo stempiato con il taglio a scodella gesticola con energia, dandoti le spalle.{/n} "Non avrei mai pensato che una cosa simile potesse accadere ai miei tempi! Un nuovo {rt_mf|Signore Celestiale|Signora Celestiale} ci ha fatto visita! Dicono che sia sceso dal cielo su un grande uccello di ferro, poi sia uscito dal suo ventre vestit{rt_mf|o|a} d'armatura dorata. Chiunque {rt_mf|lo|la} abbia visto è stato accecato dallo splendore. Ecco cos'è un unto di Lui!"
+
+### u027249
+"Fesserie! Ho già sentito questa storia, e solo un idiota ci crederebbe. È {rt_mf|un nobile|una nobile} come tutti gli altri, solo più important{rt_mf|e|e}. Tratta tutti come fango e maltratta la gente peggio di qualunque dei nostri nobili... Ma è così che vanno le cose, no? È volontà del Dio-Imperatore che il loro posto sia in alto e il nostro nella polvere. È così che gira il mondo... Prima o poi quel {rt_mf|Signore Celestiale|Signora Celestiale} si prenderà tutto questo posto." {n}L'uomo panciuto si passa un dito sotto il naso, lasciando un tratto pulito sul viso sporco.{/n}
+
+### u027250
+"Oh, vorrei che fosse come dici tu... ma qualcosa mi dice che stanno per arrivare tempi brutti ora che {rt_mf|è|è} qui. Ho sentito che il nuovo {rt_mf|Signore Celestiale|Signora Celestiale}... Aspetta, guarda, quella laggiù è Maive! Ha servito di persona {rt_mf|il Signore Celestiale|la Signora Celestiale}. Può raccontarci tutto. Ehi, Maive!" {n}Il piccolo gruppo si precipita verso di te.{/n}
+
+### u027251
+{n}Il servitore si guarda intorno più volte, si avvicina a te e sussurra,{/n} "Ho sentito che {d|Encyclopedia:FW_KeyHitBuffonDecision}{rt_mf|il Signore Celestiale|la Signora Celestiale} si è offes{rt_mf|o|a}{/d} con il giullare di corte perché ha osato rivolgergli la parola, e poi l'ha picchiato. È andata così, Maive?"
+
+### u027252
+"Mi hanno detto che {rt_mf|il Signore Celestiale|la Signora Celestiale} ha {d|Encyclopedia:FW_KeyRTDecision}accettato{/d} la chiave di Thassera dalle mani del giullare di corte {rt_mf|in persona|in persona}. Non ha respinto il giullare, non l'ha picchiato! Che grazia..." {n}sussurra il servitore con reverenza.{/n} "È andata così. Vero, Maive?"
+
+### u027253
+"Oh, avete saputo della nuova moglie di Lord Grimley?" {n}Il servitore panciuto ha ora l'attenzione degli altri due. Si chinano più vicini, perdendo interesse per l'argomento precedente, e non riesci più a sentire una parola di ciò che dicono. Sembra che il trio si sia completamente dimenticato di te.{/n}
+
+### u027254
+{n}La gente si scambia sussurri, annuendo con vigore l'uno all'altro. Ogni tanto cogli un'occhiata rapita nella tua direzione.{/n}
+
+### u027255
+{n}La gente si scambia sussurri ansiosi. Uno di loro scuote la testa dubbioso mentre ti lancia occhiate furtive.{/n}
+
+### u027256
+{n}Il popolano che ha posto la domanda lancia uno sguardo trionfante agli altri.{/n}
+
+### u027257
+"Dite quel che volete, ma un nobile è un nobile, per quanto celestiale o altolocat{rt_mf|o|a}. Si comportano tutti allo stesso modo."
+
+### u027258
+"{rt_mf|Signore Celestiale|Signora Celestiale} o no, non mi piace... Il mio istinto mi dice che è meglio {rt_mf|stargli|starle} alla larga. Sapete quanto mi fido del mio istinto? Fino in fondo!" {n}Il servitore agita la mano, si guarda alle spalle e rabbrividisce appena.{/n}
+
+### u027259
+{n}Cerchi di sfuggire all'attenzione della folla, ma i popolani si abbattono su di te come tanti avvoltoi. Ti fissano come se fossi un animale raro e bizzarro.{/n}
+
+### u027260
+{n}Il servitore abbassa la voce in un sussurro.{/n} "Avete saputo del disastro dei mutanti? Tutti volevano dare la colpa al comandante o al boia, ma {rt_mf|il Signore Celestiale|la Signora Celestiale} è intervenut{rt_mf|o|a} ed è stat{rt_mf|o|a} {d|Encyclopedia:FW_MoraliteMercyDecision}clemente{/d}. È andata come dico io. Non è vero, Maive?"
+
+### u027261
+{n}Il trio rimane in silenzio per un po', ciascuno perso nei propri pensieri.{/n}
+
+### u027262
+{n}Il servitore abbassa la voce in un sussurro.{/n} "Avete saputo del disastro dei mutanti? Beh, hanno trovato di sicuro qualcuno a cui dare la colpa. {rt_mf|Il Signore Celestiale|La Signora Celestiale} non si è nemmeno disturbat{rt_mf|o|a} con un processo. Li ha fatti strisciare nel fango, {d|Encyclopedia:FW_MoraliteBeggarsDecision}a implorare pietà{/d}... Proprio così! Non è vero, Maive?"
+
+### u027263
+{n}Il servitore fa cenno agli altri di avvicinarsi e dice in un sussurro cospiratorio,{/n} "{rt_mf|Il Signore Celestiale|La Signora Celestiale} è un mostro. Non mi avete dato retta, ma ve lo dimostrerò, e Maive lo confermerà. Avete saputo del disastro dei mutanti? Beh, hanno cominciato a cercare i colpevoli. Ne hanno trovati due, i cosiddetti sospetti, e {rt_mf|il Signore Celestiale|la Signora Celestiale} {d|Encyclopedia:FW_MoraliteKillAllDecision}li ha fatti gettare entrambi in una fornace{/d} per {rt_mf|suo|suo} divertimento... Ho ragione, Maive?"
+
+### u027264
+{n}I tre si danno di gomito, facendo cenno verso di te. I dettagli li hanno chiaramente colpiti.{/n}
+
+### u027265
+{n}Il trio si scambia occhiate dubbiose. Uno dei popolani incrocia il tuo sguardo e sorride in modo goffo.{/n}
+
+### u027266
+"{rt_mf|Il Signore Celestiale|La Signora Celestiale} è onorevole e giust{rt_mf|o|a}. I detrattori {rt_mf|lo|la} invidiano, perciò vogliono trascinare {rt_mf|il suo|il suo} nome nel fango. Tutto ciò che fanno è darmi ragione! Vorrei poter dare un'occhiata più da vicino, solo per un momento... Solo uno sguardo, è tutto ciò che chiedo!"
+
+### u027267
+"Preferisco starmene fuori dai piedi di quel {rt_mf|Signore Celestiale|Signora Celestiale}. Chissà che cosa passa per quelle teste nobili. Se il mio aspetto {rt_mf|lo|la} offendesse... preferirei non separarmi ancora dalla mia testa!"
+
+### u027268
+"Non so voi, ma io preferisco non incrociare {rt_mf|il suo|il suo} sguardo. Se lo faccio, potrei perdere la mia testa! Succede! Il mio signore, quando mi fa frustare, almeno lo fa per qualcosa che ho fatto io, e ho ancora tutti gli arti. Oh, l'Imperatore ci protegga..."
+
+### u027269
+{n}Il servitore dà di gomito agli altri, invitandoli a tacere.{/n} "State zitti, volete? Lasciate parlare Maive!"
+
+### u027270
+"Maive, tu ti sei avvicinata a {rt_mf|lui|lei} più di chiunque altro qui. Come ti ha trattata?"
+

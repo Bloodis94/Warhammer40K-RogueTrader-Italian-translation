@@ -1,0 +1,873 @@
+### u021618
+{n}Il vecchio continua ad ascoltare per un bel pezzo il clamore degli slum, sussurrando per tutto il tempo una preghiera quasi muta al Dio-Imperatore.{/n}
+
+### u021619
+{n}La pelle, raggrinzita attorno allo scheletro curvo dell'uomo, è quasi trasparente. Quel mucchio di cianfrusaglie è davvero tutto ciò che possiede in questa vita.{/n}
+
+### u021620
+"Lord Capitano, l'unica cosa che ha da condividere con voi è una lunga lista di malattie infettive. Posso offrirvi una maschera respiratoria?" {n}Abelard estrae dalla borsa una maschera vera, incrostata d'oro.{/n}
+
+### u021621
+{n}Il vecchio scuote con veemenza la testa grigia.{/n} "Mi prendete per uno stupido, eh? Che ci farebbe il Rogue Trader quaggiù? {mf|Bugiardo|Bugiarda}!"
+
+### u021622
+{n}Una voce fredda, carica di promesse di morte, mormora:{/n} "Povero idiota. Addio alla nostra segretezza, è andata a farsi fottere. Gente, dovremo fare un po' di rumore." {n}Una comune operaia, dal volto così anonimo che sembra cancellato a forza di strofinare, vi punta contro un'arma che ha estratto dal nulla.{/n} "Non lasciate testimoni!"
+
+### u021623
+{n}Glaito si sporge con tutto il corpo verso le casse accanto all'uomo, e Solomorne vi indica con un cenno del capo di guardarle.{/n} "Ha messo da parte delle cose curiose, là dentro. Vi suggerisco di dare una bella scossa al vecchio e vedere se è davvero innocuo come vuole sembrare."
+
+### u021624
+{n}Per quanto l'aspetto del vecchio sia innocuo o miserabile, ci vuole ben altro per ingannarti. {mf|Addestrato|Addestrata} a cercare sempre e prima di tutto l'{d|Encyclopedia:CharGen_Arbitrator}intento criminale{/d}, getti uno sguardo sospettoso alle casse: somigliano troppo ai contenitori rinforzati usati per trasportare armi.{/n}
+
+### u021625
+{n}Guardi nella cassa e vedi un luccichio familiare: quello del {g|Encyclopedia:Plasteel}plastacciaio{/g} di grado militare, lucido e pronto a uccidere. Il vecchio era appoggiato a diversi fucili automatici nuovi di zecca, avvolti in stracci unti.{/n}
+
+### u021626
+"No!" {n}Il vecchio scuote la testa con furia.{/n} "Retribuzione! Non sfuggirete alla Sua retribuzione per questo!"
+
+### u021627
+"Il vostro popolo? Che sia davvero... Nostro Lord Capitano, nostro benefattore, siete proprio voi?" {n}Il vecchio sembra sconvolto.{/n} "Nostro benevolo {mf|signore|signora}, vi conosciamo bene! La vostra carità ci fa tirare avanti ogni giorno, e preghiamo sempre per voi! Ma che ci fate quaggiù in questo... Vi prego, andate via in fretta prima che sappiano che siete qui! Stanno tramando qualcosa di terribile. Questa cassa, è dove nascondono le loro—"
+
+### u021628
+{n}O meglio, è quello che penserebbe chiunque non avesse esperienza nell'arte del {d|Encyclopedia:CharGen_Criminal}contrabbando{/d} trovandosi al tuo posto. Nascondere merce di contrabbando in un nascondiglio senza lasciare una sentinella è una scommessa miope, perché c'è sempre il rischio che qualche furfante fortunato o qualche pattuglia inciampi nel carico. Qualcuno di adeguatamente ripugnante e miserabile, come questo vecchio, è spesso il deterrente perfetto.{/n}
+
+### u021629
+"Armi?" {n}La voce del vecchio suona spaventata e patetica.{/n} "Come potrebbe una cosa simile finire nel nostro scomparto in fondo alla sentina?"
+
+### u021630
+"Qual è la situazione nei ponti inferiori?"
+
+### u021631
+"Parlami di questa stazione."
+
+### u021632
+"Che cosa pensano gli ufficiali dei ponti inferiori di Jocasta Sauerback?"
+
+### u021633
+"Non tutte le navi del vuoto possono vantare una propria ferrovia."
+
+### u021634
+"Il Culto della Bloodspun Web ha una presenza in questo scomparto, non è così?"
+
+### u021635
+"La feccia non ti dà problemi, spero?"
+
+### u021636
+"Lo chiederò una volta sola. Come hanno fatto dei miserabili dei ponti inferiori a mettere le mani su una cassa di fucili automatici?"
+
+### u021637
+"Feccia ammutinata? Che paranoico che sei."
+
+### u021638
+"Sii saldo nel tuo dovere, Capitano Frensoe."
+
+### u021639
+"Ho appreso abbastanza."
+
+### u021640
+"Sono {mf|soddisfatto|soddisfatta} sotto ogni aspetto. Continua a svolgere il tuo dovere come prima."
+
+### u021641
+"Mi sono {mf|imbattuto|imbattuta} in un disegno di un operaio con una maschera rossa. Che cosa significa?"
+
+### u021642
+"Non essere timido, Frensoe. Dimmi solo che cosa pensi che potremmo fare per rendere la vita di quelle persone almeno un po' migliore."
+
+### u021643
+"Le medicine scarseggiano al punto che la gente si uccide per averle. Forse c'è una via d'uscita?"
+
+### u021644
+"Ottime idee! Mi congratulo con te, Capitano. Fa' che si realizzino."
+
+### u021645
+"Ti offro il mio aiuto, Capitano. Condurrò un'ispezione e poi ti dirò come, a mio parere, cambiare questo posto in meglio."
+
+### u021646
+"Una cellula segreta di cospiratori mutanti operava nella tua giurisdizione. Erano armati di fucili automatici e si sono rifiutati di arrendersi pacificamente."
+
+### u021647
+"Rallegrati, Frensoe, perché il Lord Capitano in persona si è degnato di occuparsi dei tuoi problemi! Stai certo che ti darò qualche indicazione fondamentale quando avrò finito di ispezionare il settore."
+
+### u021648
+"La situazione nel settore non mi interessa. Sono qui per affari e non ho alcuna intenzione di trattenermi più del necessario."
+
+### u021649
+"Ho finito di ispezionare questo settore."
+
+### u021650
+Hai alleviato le difficoltà di chi vive lungo la linea merci.
+
+### u021651
+"Gli operai devono ricevere tutto ciò che serve loro per mantenere in funzione a dovere la linea merci. Cibo e medicine saranno consegnati al settore, e tu retrocederai al rango di operai tutti i tutori dell'ordine che abusano della loro autorità."
+
+### u021652
+Hai imposto un ordine e una disciplina rigidi alla vita quotidiana della linea merci.
+
+### u021653
+"Consideriamo questi due problemi: non abbastanza cibo nella vasca e troppi affamati intorno. Che cosa potresti fare?"
+
+### u021654
+Hai aperto la strada alle forze della putrefazione e del decadimento verso lo snodo merci.
+
+### u021655
+[Sorridi con insinuazione] "All'origine di tutti i guai di questo scomparto ci sono la fame e la povertà, che spingono quella gente a commettere piccoli crimini. Sono {mf|certo|certa} che a quest'ora avresti già fatto qualcosa, ma ci sono certe regole che devi seguire e che sono semplicemente troppo... limitanti. Non è forse così?"
+
+### u021656
+"Sai come raggiungere il tempio della Bloodspun Web?"
+
+### u021657
+"Solo misure severe porteranno l'ordine nel settore. Stabilisci una quota di esecuzioni, spoglia del grado tutti i tutori dell'ordine corrotti e brucia ogni crimine. Ai fannulloni va dato un lavoro, e se non sanno fare nulla di utile, trasformali in servitori. Organizza prediche obbligatorie e diffondi la parola della fede."
+
+### u021658
+"Ho incontrato di persona questa 'leggenda'. Nemesite è caduto dopo aver provato a uccidermi."
+
+### u021659
+"È più di una semplice leggenda. È reale, ed è un pericoloso ribelle."
+
+### u021660
+[Alza gli occhi al cielo] "Le fantasie della gente comune... 'Protettore dei poveri'? Suvvia."
+
+### u021661
+"Il patrimonio culturale di questo scomparto è... interessante."
+
+### u021662
+"Trovo questi sentimenti inquietanti. Resta vigile, Frensoe."
+
+### u021663
+"Mi pare che fossi preparato alla mia visita. Come facevate tu e Sauerback a sapere che sarei {mf|arrivato|arrivata} proprio ora?"
+
+### u021664
+"I tutori dell'ordine si appropriano delle tessere di razionamento degli operai che tornano dai turni. Perché? Avete scarsità di provviste?"
+
+### u021665
+"Perché sei preoccupato? C'è qualche problema con questo scomparto?"
+
+### u021666
+"Sono qui per ispezionare l'intero scomparto. Sono {mf|curioso|curiosa} di vedere come vive la gente dei ponti inferiori."
+
+### u021667
+"Eri coinvolto in una sparatoria?"
+
+### u021668
+"Non addossarti tutta la responsabilità. Questa cospirazione probabilmente opera su una scala ben più ampia. Non riguarda solo il tuo scomparto."
+
+### u021669
+"Impara da questo errore e assicurati che nessun 'Nemesite' possa mai più comparire."
+
+### u021670
+"Vedo che ti aspetti una punizione. Molto bene. Datti tante frustate quante il tuo corpo ne può sopportare."
+
+### u021671
+"Che cosa sai dei cultisti della morte?"
+
+### u021672
+"Perché io sia qui non è affar tuo."
+
+### u021673
+"Ho incontrato dei mutanti nella fossa della pestilenza. Sembravano sotto l'influsso di poteri empi."
+
+### u021674
+"C'erano dei ladri in una delle sale tecniche. Li ho già eliminati."
+
+### u021675
+"Il Caposquadra crede che chi ha rubato i fucili automatici sia legato a Nemesite."
+
+### u021676
+"Mi sembra che nel tuo scomparto stia covando un ammutinamento."
+
+### u021677
+"Ora hai il quadro completo. Occupati di questa minaccia."
+
+### u021678
+"Sono stato {mf|attaccato|attaccata}."
+
+### u021679
+"I dettagli sono irrilevanti."
+
+### u021680
+"Essere assegnato qui sembra quasi un esilio. Hai commesso un'infrazione?"
+
+### u021681
+"Chi si occupa della manutenzione di questo snodo?"
+
+### u021682
+"Non ti dà fastidio che dei cultisti della morte uccidano gente sul tuo territorio?"
+
+### u021683
+{n}Un uomo di corporatura robusta, con una mascella aumentata, si mette sull'attenti. Le occhiaie scure sotto i suoi occhi parlano di molte notti insonni, ma la sua voce è forte e piena di slancio:{/n} "{mf|Benvenuto|Benvenuta} allo Snodo Merci LD-987/A14, Lord Capitano! Sono Eddock Frensoe, capitano dei tutori dell'ordine del settore LD-A14 dei ponti inferiori. La Maestra d'Armi mi ha assegnato come vostro collegamento per tutta la durata della vostra permanenza."
+
+### u021684
+"La maggior parte della gente del posto scarica treni e smista provviste. Ai più capaci diamo lavori di manutenzione. Gli altri... sono manodopera di riserva. Ogni volta che si perde equipaggio in un ponte, troviamo i sostituti tra quei ratti. E se servono braccia in qualunque altro posto, ci sono sempre più che abbastanza volontari ansiosi di lavorare per le razioni. Fanno persino la fila per un impiego."
+
+### u021685
+"Lo Snodo LD-987/A14 collega i settori merci, residenziali e di artiglieria dei ponti inferiori. Il nostro compito è monitorare il flusso della forza lavoro e impedire interruzioni nei rifornimenti tra i settori."
+
+### u021686
+"I controllori del traffico. Sono {g|Encyclopedia:Technomat}tecnomati{/g} addestrati dai sacerdoti del {g|Encyclopedia:CultMechanicus}Culto della Macchina{/g} per mantenere in funzione i sacri cogitatori e prevenire le collisioni tra treni. Le conseguenze di un incidente simile... sono facili da immaginare. Soprattutto se uno dei treni trasportasse munizioni per macrocannoni."
+
+### u021687
+"La Signora Sauerback possiede tutte le qualità personali e professionali necessarie per guidare i tutori dell'ordine con efficienza, Lord Capitano!" {n}Scandisce ogni parola con orgoglio, ma noti gocce di sudore sulla sua fronte.{/n}
+
+### u021688
+"È vero. Di solito sono le navi di classe superiore ad avere i treni, ma non è affatto la più grande impresa che il {g|Encyclopedia:WarrantGlossary}Mandato{/g} di un Rogue Trader possa vedere realizzata. Il merito va al predecessore di Lady Theodora, per ordine del quale l'Adeptus Mechanicus ha contribuito a partorire questo miracolo di sacra ingegneria dal grembo della nave ammiraglia della dinastia."
+
+### u021689
+"Oh, un'altra cosa che quei bastardi fanno regolarmente è costruire le loro baracche davanti agli ingressi dei tunnel di servizio. Questo ha ritardato l'arrivo delle brigate infernus in diverse emergenze e causato problemi all'aria e all'alimentazione nei settori adiacenti. Bruciamo quei sabotatori insieme alle loro baracche, ma loro continuano a insistere come se niente fosse."
+
+### u021690
+"Esatto. I tutori dell'ordine... non impediscono loro di svolgere i loro sacri doveri..." {n}Aggrotta la fronte.{/n} "Per quanto sia irregolare che dei membri armati dell'equipaggio allestiscano un covo segreto vietato ai tutori dell'ordine, e che possano andare in giro ad amministrare una giustizia sanguinaria."
+
+### u021691
+"Per quanto ne so, essere paranoici è quasi un requisito nel nostro mestiere. In ogni caso, la feccia trama sempre. Fidatevi della mia parola."
+
+### u021692
+"L'Imperatore protegge, Lord Capitano!"
+
+### u021693
+"Sempre al vostro servizio, Lord Capitano!"
+
+### u021694
+"Fucili automatici?" {n}Sul suo viso compaiono chiazze violacee.{/n} "Che il Warp mi porti, non possono aver aggirato la sicurezza di un treno di munizioni ed essersene andati col carico senza l'aiuto di qualcuno tra i tutori dell'ordine. Non molto tempo fa ho giustiziato un depravato che trafficava armi, ma nemmeno quell'imbecille era così avido e stupido da armare la feccia con fucili automatici. Quindi c'è un altro che disonora l'uniforme dei tutori dell'ordine. Troverò quel verme e gli ficcherò la testa sotto un treno in corsa."
+
+### u021695
+{n}Un solco profondo attraversa la fronte del capitano. Poi i suoi occhi si accendono di una scintilla di curiosità, e dice con esitazione:{/n} "Potremmo... accorciare la fila alla vasca. E riempire la vasca... con la risorsa acquisita. Finché sono vivi e... hanno valore nutritivo." {n}Ti rivolge uno sguardo interrogativo.{/n}
+
+### u021696
+{n}Il capitano si acciglia.{/n} "È una figura della leggenda locale, nota come Nemesite, protettore dei poveri e degli oppressi. Fin da quando ero bambino, i disperati disegnano il suo ritratto sui muri sperando di evocare un difensore che punisca chi gli ha fatto torto. Negli ultimi cinque anni abbiamo avuto una tredicina di sciocchi che si facevano chiamare 'Nemesite'. Ce ne siamo... sbarazzati, tanto per essere sicuri."
+
+### u021697
+"Siamo a corto di aria purificata. Attualmente passa per tre sacri cicli di filtraggio ma... ci vuole molto tempo. Un singolo sacro ciclo sarebbe... una deviazione troppo eclatante dal codice sanitario? Date le circostanze..."
+
+### u021698
+"In questo settore abbiamo dei guaritori della fede che praticano una medicina basata sulla superstizione, che gli specialisti più istruiti giudicano inutile, nella migliore delle ipotesi. Al momento i tutori dell'ordine impediscono a questi ciarlatani di curare la gente, ma... revocare il divieto sulle loro pozioni assurde allevierebbe un poco la carenza di medicine." {n}Si ferma, apparentemente sorpreso della propria audacia.{/n}
+
+### u021699
+{n}Incoraggiato dalla tua approvazione, Frensoe esclama con entusiasmo:{/n} "Subito, Lord Capitano!"
+
+### u021700
+{n}Frensoe scuote la testa con foga.{/n} "No, Lord Capitano, tutt'altro: sono stato elogiato per il mio servizio. Questo scomparto è sempre stato problematico, e la Maestra d'Armi mi ha assegnato qui perché teneva in gran conto i miei meriti. Sono onorato di aver meritato la fiducia della Signora Sauerback."
+
+### u021701
+"Certamente, Lord Capitano. Ho sentito dire che scelgono le vittime in base ai presagi, e questo per me puzza di guai. E se decidessero di uccidere qualcuno che non dovrebbero? Ma le azioni del culto sono ufficialmente permesse, quindi non ho altra scelta che tollerare degli assassini che camminano in mezzo a noi."
+
+### u021702
+"State scherzando, Lord Capitano? La feccia è vile per natura, e l'ammutinamento le frulla sempre in testa. Rubano tutto quello su cui riescono a mettere le mani, e di recente sono passati dalle razioni e dal cibo in scatola alle armi. Naturalmente le sequestriamo con regolarità e teniamo i servi docili e terrorizzati. È l'unico modo per proteggere dalla sua stessa follia questa mandria senza cervello."
+
+### u021703
+"Qui lavorano anche una squadra di tutori dell'ordine, una squadra di infernus, gli scrivani che tengono i registri del carico e un ufficiale medicae. Un bravo tipo la cui medicina preferita è una pallottola, che il Dio-Imperatore lo perdoni."
+
+### u021704
+{n}Il solo pensiero di aggirarsi per i ponti inferiori ferisce i tuoi {d|Encyclopedia:CharGen_Nobility}sensi raffinati{/d}. La mente evoca immagini vivide di sporcizia e miseria sospese nell'aria, che trasudano da ogni fessura e si fanno strada rodendo la tua pelle.{/n}
+
+### u021705
+"Ma..." {n}Frensoe si trattiene a metà della protesta e assume un tono più accondiscendente.{/n} "In tal caso, vi esorto a restare vigile. I treni merci viaggiano a grande velocità, e gli abitanti delle unità residenziali sono... una feccia spregevole. Non bisogna mai abbassare la guardia con loro. E che l'Imperatore vi preservi dal cadere nella fossa della pestilenza: è lì che vivono i pazzi e i lebbrosi."
+
+### u021706
+{n}Il capitano solleva un sopracciglio guardingo.{/n} "Ci saranno degli ordini in base alle conclusioni dell'ispezione?"
+
+### u021707
+{n}Il capitano ha bisogno di un momento per superare lo sconcerto.{/n} "Ordini... compresi."
+
+### u021708
+{n}Il capitano annuisce con entusiasmo.{/n} "Sarà fatto! Aumenteremo la pressione sugli elementi inaffidabili, condurremo perquisizioni e interrogatori per scovare i criminali. Spingeremo la feccia alle funzioni di preghiera e le ricorderemo che la legge di Vostra {mf|Signoria|Signoria} è severa."
+
+### u021709
+"Mi hanno detto che il prossimo settore ha carenza di manodopera. Lì schiereremo la nostra riserva di forza lavoro. In catene, se necessario."
+
+### u021710
+"Inteso, Lord Capitano."
+
+### u021711
+"Lord Capitano, volete ispezionare la sala di controllo o... iniziare la ricerca del tempio della Bloodspun Web?" {n}Pronuncia l'ultima parte con evidente preoccupazione.{/n}
+
+### u021712
+{n}Il capitano getta le braccia al cielo.{/n} "Siamo a corto di risorse, Vostra Signoria. Provviste, medicine e carburante vengono tutti dirottati verso i settori che ospitano membri dell'equipaggio più... preziosi."
+
+### u021713
+"Avvio dell'algoritmo di benedizione del treno: che l'usura corrosiva non separi i carrelli. Che la trazione riceva il tocco della Forza Motrice concessa dalla mano invisibile dell'Omnissiah. Che la Sua grazia rafforzi i giunti e i sostegni che sollevano il corpo al di sopra del decadimento dei binari mortali. Ascoltami, conducente, e loda tre volte il Dio-Macchina, perché solo per Sua volontà si compie il miracolo della sacra locomozione. La benedizione è stata eseguita con successo."
+
+### u021714
+{n}Si acciglia leggermente.{/n} "Ammetto di essere stato di tanto in tanto tentato di... oltrepassare certi limiti dei regolamenti della nave."
+
+### u021715
+{n}La sua espressione si incupisce.{/n} "Quindi abbiamo un altro sobillatore tra i piedi... Vostra Signoria, la colpa è mia per non aver riconosciuto questo nuovo seme di ammutinamento che cresce tra la feccia. Ho liquidato questi segnali come semplici tentativi della gente di sfogare le proprie frustrazioni. Non ho scuse."
+
+### u021716
+{n}Il capitano scrolla le spalle.{/n} "Non ci si può aspettare molto da dei servi di mente semplice."
+
+### u021717
+"Sempre, Lord Capitano!"
+### u021718
+"La Maestra d'Armi ci ha ordinato di restare in allerta dopo che la Bloodspun Web vi ha invitato apertamente a visitare il loro tempio. Da allora attendiamo il vostro arrivo ogni giorno, Lord Capitano."
+
+### u021719
+"Lord Capitano, {mf|signore|signora}!" {n}Eddock Frensoe smette di scorrere i rapporti sulla sua tavoletta dati.{/n} "Spero che la permanenza in questo settore non vi abbia causato alcun disagio."
+
+### u021720
+"Mi dispiace, Lord Capitano, no. Nessuno lo sa: i cultisti sono troppo abili a nascondersi e a custodire i loro segreti. E mi preoccupa che possiate dover girare per tutto lo scomparto in cerca del tempio."
+
+### u021721
+"I ponti inferiori non sono adatti a una persona del vostro rango. E non si tratta solo della sporcizia o delle folle di operai bruti: sospetto che l'ingresso al tempio della morte sia nascosto in qualche angolo buio dove potreste incontrare criminali o emarginati contagiosi. Con il genere di furfanti che abita là, potreste persino essere {mf|aggredito|aggredita}."
+
+### u021722
+{n}Si acciglia.{/n} "A dirla tutta, benché il settore svolga bene le sue funzioni, persino le sue sezioni più civilizzate mancano terribilmente di disciplina. Sono stato assegnato solo di recente, perciò non ho avuto il tempo di rimettere tutto in ordine, dato che farlo richiederà cambiamenti seri. Non sto inventando scuse, Lord Capitano: come ufficiale responsabile, mi assumo ogni responsabilità per ciò che accade in questo scomparto."
+
+### u021723
+{n}Frensoe ti lancia un'occhiata guardinga.{/n} "Come desiderate, Lord Capitano. Tuttavia, per la vostra sicurezza, devo avvertirvi di evitare le sezioni più lontane del settore. Sono infestate dalle malattie, e la gente del posto può essere particolarmente sgradevole. Con il genere di furfanti che abita là, potreste persino essere {mf|aggredito|aggredita}."
+
+### u021724
+{n}Il Capitano Frensoe ha riportato qualche ferita dall'ultima volta che avete parlato. Gli manca metà di un orecchio, e noti che sotto l'uniforme porta bende insanguinate. Vedendoti, si inietta in fretta uno stimolante e si raddrizza.{/n} "Come posso servirvi, Lord Capitano?"
+
+### u021725
+"Sì, c'è stata un'incursione contro una banda locale. Abbiamo finalmente sgominato i furfanti che contrabbandavano merci verso gli scomparti vicini. Nessuno è sfuggito." {n}Frensoe si concede un breve sorriso di cupa soddisfazione.{/n}
+
+### u021726
+"Sì, Lord Capitano. E non appena la mia schiena sarà guarita, ripeterò questa punizione una volta per ogni sedicente Nemesite che abbiamo avuto, secondo i miei conti."
+
+### u021727
+"Siete troppo indulgente con me, Lord Capitano." {n}Frensoe sembra completamente affranto.{/n}
+
+### u021728
+"Lo scomparto ha giusto abbastanza cibo da evitare la fame, Lord Capitano. Per questo i tutori dell'ordine si assicurano che nessun servo abbia più tessere del dovuto. Un tempo per questo strappavano la lingua alle persone, ma io ho ridotto la punizione a bastonare i ladri e confiscare tutte le loro tessere. Gli ordini sono di consegnare queste tessere agli operai che patiscono la fame per mancanza di turni di lavoro: non che li aiuti granché, ma è meglio di niente." {n}Frensoe sbuffa.{/n} "Ci sono tutori dell'ordine colpevoli di appropriazione indebita degli oggetti confiscati? Sì. Chi viene colto a rubare riceve una punizione severa? Assolutamente."
+
+### u021729
+"Non molto, ma cerco sempre di saperne di più, visto che amano fare visita al mio scomparto." {n}Frensoe si gratta la testa, pensieroso.{/n} "I filatori onorano l'Imperatore attraverso la morte: uccidono famigerati depravati ed eretici. A volte uccidono persone rette, e altre volte sembrano farlo persino a caso... I loro rituali sono macabri e le loro preghiere strane: chi non è iniziato ai loro riti faticherebbe a capirci qualcosa."
+
+### u021730
+"Siete... {mf|andato|andata} nella fossa della pestilenza. Voi. Nella fossa della pestilenza." {n}Frensoe fissa il vuoto mentre parla.{/n} "Perdonatemi, Lord Capitano. Non riesco nemmeno a trovare le parole che userei se dovessi dire alla Maestra d'Armi che siete {mf|morto|morta} là dentro." {n}Si massaggia la tempia con aria stanca.{/n} "I tutori dell'ordine fanno controlli regolari per vedere se sul fondo del settore si nascondono reietti pericolosi, colpiti dal morbo. Vi imploro, Lord Capitano: lasciate questo compito a noi."
+
+### u021731
+"Ladri... Ho appena fatto impiccare un tutore dell'ordine per aver trafficato con una banda locale. Speravo che la lezione fosse servita." {n}Frensoe fa una smorfia come di dolore.{/n} "Per l'Imperatore, Lord Capitano, perché vi curate così poco della vostra incolumità? È nostro dovere trovare e fucilare la feccia fuorilegge. Trono, di questo passo diventerete {mf|il miglior tutore|la miglior tutrice} dell'ordine del settore!"
+
+### u021732
+"Non posso negare che queste persone siano davvero devote e che a modo loro aiutino a mantenere l'ordine da queste parti, ma la loro vista mi gela comunque il sangue."
+
+### u021733
+{n}Frensoe evita di guardare Kibellah.{/n} "Sì, Lord Capitano. Ma il culto è autorizzato a esistere sulla nave, il che significa che le sue attività quaggiù non vanno ostacolate."
+
+### u021734
+"La minaccia di ammutinamento è sempre presente, Lord Capitano. Nell'ultimo mese abbiamo scoperto diverse cellule, anche se, a dire il vero, nessuno dei traditori era armato di fucili automatici. Raddoppieremo gli sforzi. I bastardi pagheranno cara la sottrazione delle nostre munizioni."
+
+### u021735
+"Il Caposquadra... Non credereste che razza di furfanti accoglie alla sua vasca. Concordo sul fatto che dei simpatizzanti della causa anarchica di Nemesite possano essere coinvolti in questo scempio, ma non mi fido di quel Caposquadra. Conosce tutti nel settore, vede ogni cosa, ma non fa mai la spia su uno dei suoi. Si lamenta solo di problemi che conosco già benissimo."
+
+### u021736
+{n}Frensoe emette un ringhio minaccioso mentre il viso gli si riempie di sangue.{/n} "Chi ha osato?"
+
+### u021737
+{n}Frensoe digrigna i denti per la furia.{/n} "Li troverò. Fino all'ultimo. E li distruggerò tutti."
+
+### u021738
+{n}Il capitano borbotta imbronciato sottovoce.{/n}
+
+### u021739
+{n}Cassia rabbrividisce.{/n} "Che posti orribili descrivete... Non siamo diretti là, vero, Lord Capitano?"
+
+### u021740
+"Cass, conoscendo il Lord Capitano, non mi farei troppe illusioni... Pensala come una gita esotica."
+
+### u021741
+"Tratti la maggior parte dei membri della tua stessa specie come una risorsa o come un parassita. Non sorprende che il mondo degli umani sia così sudicio e oscuro."
+
+### u021742
+"Posso solo dire che i cultisti frequentano questi tunnel. Anzi, uno è stato appena visto negli slum. Il Secondo Filatore del culto, credo."
+
+### u021743
+"Be', di recente hanno smesso di farlo, e per me è stato un sollievo. Non riuscivo certo a respirare tranquillo con degli assassini addestrati che giravano in giro."
+
+### u021744
+"Che cosa stai facendo?"
+
+### u021745
+"Smettila subito di bruciare!"
+
+### u021746
+[Vattene] "Non ho domande."
+
+### u021747
+"Lord Capitano!" {n}Il tutore dell'ordine inserisce in fretta la sicura del lanciafiamme e volge l'ugello lontano da te.{/n} "Come posso servirvi?"
+
+### u021748
+"Bruciamo le misere baracche, Lord Capitano! La feccia le costruisce, tagliando l'aria al settore successivo e rendendo difficile il lavoro degli infernus. Abbiamo detto ai servi di andarsene da qui più e più volte, ma non vogliono ascoltare. Il Capitano Frensoe ha ordinato di bruciare tutto e poi di sigillare quest'area."
+
+### u021749
+"Smetto di bruciare!"
+
+### u021750
+"Parlerò col Capitano Frensoe di quanto è accaduto."
+
+### u021751
+"Cerco il tempio della Bloodspun Web. Sai dove si trova?"
+
+### u021752
+"Ti ho visto vicino al mercato. Che cosa facevi lì?"
+
+### u021753
+"Quel che è successo non ti riguarda. Torna ai tuoi compiti."
+
+### u021754
+"Dimmi com'è la vita per gli operai dei ponti inferiori."
+
+### u021755
+"Vedo che sei davvero leale alla mia nave e alla mia casata. Alzati e continua a servirmi guidando la gente del posto."
+
+### u021756
+"Che cosa stai cucinando in quella vasca?"
+
+### u021757
+"Dammi un po' di quella zuppa. Che i miei servitori vedano che qualsiasi cibo è una grande benedizione!"
+
+### u021758
+"Versami una scodella! So quello che faccio."
+
+### u021759
+"Seguirò il tuo consiglio e non correrò quel rischio."
+
+### u021760
+"Dato che qui comandi tu, risponderai di quanto è accaduto."
+
+### u021761
+"Io non lo tocco!"
+
+### u021762
+"Questa sì che è buona roba. Approvo."
+
+### u021763
+"Niente bis, grazie."
+
+### u021764
+Hai dato tessere di razionamento al Caposquadra perché sfami chi ne ha bisogno.
+
+### u021765
+[Dai al Caposquadra un mucchio di tessere di razionamento] "Distribuiscile alla gente. Saprai tu chi ne ha più bisogno."
+
+### u021766
+"Com'è la tua vita con le nuove regole che ho stabilito?"
+
+### u021767
+"Che cosa diavolo era quello, per il Trono?"
+
+### u021768
+"Chi è questo Nemesite?"
+
+### u021769
+[Rivolgiti alla folla] "Gloria... all'Imperatore... che ci nutre..."
+
+### u021770
+[Non correre rischi e non dire nulla]
+
+### u021771
+"Ultime parole?"
+
+### u021772
+"La tua morte sarà una lezione per gli altri."
+
+### u021773
+"Molte squisite prelibatezze hanno un cattivo odore e un aspetto sgradevole. Avanti, verso le scoperte culinarie!"
+
+### u021774
+"Il giorno in cui il Lord Capitano è capitato nel nostro slum sarà ricordato nelle leggende." {n}L'uomo dalle spalle larghe alza una mano in segno di saluto. La sua vecchia protesi scricchiola con lamento mentre sostiene il peso del corpo.{/n}
+
+### u021775
+"State bene, Lord Capitano? Quei tagliagole non vi hanno fatto del male, spero?" {n}La gamba protesica dell'uomo è stata colpita da un proiettile e regge il suo peso con difficoltà.{/n}
+
+### u021776
+"Per noi è un onore, Lord Capitano."
+
+### u021777
+"I cultisti non lasciano che gente come me partecipi ai loro riti e misteri. Sono grato per il loro servizio al Dio-Imperatore, ma... a dire il vero, non riesco a condividere il loro amore per la morte. Sono troppo affezionato alla vita."
+
+### u021778
+"Guardavo uno dei miei operai prenderle. Mi dispiace per il ragazzo, ma non potevo farci niente." {n}Il Caposquadra sorride amaro, mostrando i denti ingialliti. Quasi tutti quelli davanti sono stati sbattuti via.{/n} "In passato ho tirato fuori il collo. Non lo faccio più."
+
+### u021779
+"Faticano giorno dopo giorno per la gloria della nave. Per il resto del tempo fanno del loro meglio per sopravvivere, di fronte alla fame, ai tutori dell'ordine più squilibrati, alla lebbra del vuoto, agli incendi, alle inondazioni, ai fumi nocivi..." {n}Il Caposquadra li conta sulle dita, anche se ne ha meno della media di natura.{/n} "In una parola, è una vita abbastanza decente. Se lavori, sopravvivi. Se scrocchi, sopravvivi... anche tu, se sei furbo. Be', e se il Dio-Imperatore vuole."
+
+### u021780
+"I miei tengono d'occhio gli operai che cercano di mangiare due scodelle in una volta sola. Una basta a riempirti lo stomaco per un'intera guardia. Alcuni si lamentano del sapore, naturalmente... Ingrati."
+
+### u021781
+"Ecco, ecco, shereen, non avere fretta. Lascia lavorare il tuo corpo."
+
+### u021782
+"Non credo sia una buona idea. La melma di muffa... è un gusto che bisogna conquistarsi. Ci vogliono due anni, forse tre, perché lo stomaco si abitui."
+
+### u021783
+"Un esito quanto mai imprevisto, non è vero?" {n}Abelard ti dà una pacca affettuosa sulla schiena mentre lotti contro un'altra ondata di nausea.{/n}
+
+### u021784
+"Come desideri." {n}Il Caposquadra ti porge una scodella di fanghiglia calda e viscosa. L'odore... potrebbe essere peggio... probabilmente.{/n}
+
+### u021785
+{n}Il Caposquadra sospira di sollievo.{/n} "L'ultima cosa che ci serve è avvelenare il Lord Capitano, che l'Imperatore ce ne scampi."
+
+### u021786
+{n}Con la prima cucchiaiata arriva l'impulso immediato di rigettare quella disgustosa fanghiglia. Al conato segue un capogiro, eppure persisti stoicamente e fai scendere in gola un pezzo viscido di qualcosa di indeterminato. La folla ti fissa a occhi spalancati.{/n}
+
+### u021787
+{n}Fino a ora avresti faticato a immaginare il sapore di carne di {g|Encyclopedia:Grox}grox{/g} marcia condita con uova andate a male, vino acido, terra e olio motore. Adesso lo capisci alla perfezione. Rigetti il contenuto dello stomaco nella scodella, maledicendo la tua decisione tra i tormenti.{/n}
+
+### u021788
+"Che l'Eccelso ti aiuti, shereen. Ti terrò il mantello... se ti serve."
+
+### u021789
+"Anche se posso certamente liberare il vostro corpo dalle conseguenze di questa decisione, non posso dire lo stesso per la vostra mente."
+
+### u021790
+"Sto per star male..."
+
+### u021791
+"Che il Trono mi fulmini... Giusto, Lord Capitano. È quello che avrei fatto io a me stesso." {n}Crolla pesantemente in ginocchio, solenne e cupo. Senti sussurri terrorizzati.{/n}
+
+### u021792
+"Solo una storia che si racconta da queste parti. C'è questo tizio che dicono vaghi per i ponti inferiori aiutando i poveri che non riescono a guadagnarsi da vivere, e tenendo testa agli ufficiali e ai tutori dell'ordine in difesa dei deboli. Solo che è soltanto una storia e nient'altro."
+
+### u021793
+"Be', nel tuo caso, ti ascolterà di certo e non..." {n}Ghigna e indica le sue costole rotte.{/n} "Sai."
+
+### u021794
+"La gente del posto e i tutori dell'ordine mi chiamano il Caposquadra. Non ho altro nome. Si può dire che qui comando io, in questo buco di posto."
+
+### u021795
+{n}Le tue parole echeggiano in un silenzio assoluto, che dura solo un istante prima che i poveri affamati esplodano in preghiere rivolte a te e a Lui, con le lacrime che brillano negli occhi.{/n}
+
+### u021796
+{n}Gli occhi scuri del Caposquadra si spalancano. Dalla folla si levano grida di incoraggiamento mentre si alza goffamente e ti rivolge un frettoloso cenno del capo.{/n} "Lo farò, di certo, Lord Capitano! Servo la dinastia! Gloria alla Casata von Valancius!"
+
+### u021797
+{n}Sussurri di reverente stupore si levano da ogni livello degli slum. Centinaia di occhi convergono su di te e sul Caposquadra inginocchiato, che china il capo, socchiude gli occhi e prega sottovoce.{/n}
+
+### u021798
+{n}Il suo sguardo severo spazia sugli slum.{/n} "Che il mio pentimento sia una lezione per ciascuno di voi, cani senza fede! Dobbiamo servire il Lord Capitano con le parole, con le opere e con la vita, ma la nostra natura è corrotta e abbiamo fallito nel servizio! Mi pento e mi rimetto nelle mani di Sua Signoria."
+
+### u021799
+{n}Una bolla sale dalla zuppa e scoppia con uno sciacquio maleodorante. Senti le tue {d|Encyclopedia:CharGen_Nobility}nobili viscere{/d} protestare contro il crimine che stai per commettere. Non è ancora troppo tardi per tornare in te.{/n}
+
+### u021800
+{n}La prima cucchiaiata ti colpisce duramente, ma hai mangiato di peggio da {d|Encyclopedia:CharGen_Militarum}recluta nella Guardia{/d}. Una volta {mf|abituato|abituata} al sapore salato e alla consistenza gelatinosa della zuppa, la folla ti guarda ammirata mentre finisci l'intera scodella e lecchi il cucchiaio. Laggiù nelle trincee, un cibo così lo chiamano "tollerabile".{/n}
+
+### u021801
+{n}La voce del Caposquadra rompe il silenzio attonito:{/n} "L'Imperatore ci ha mandato un Lord Capitano che cammina accanto al suo popolo! D'ora in poi questa vasca è benedetta!" {n}La folla esplode in acclamazioni, e il cucchiaio che hai appena usato inizia a passare di mano in mano come una reliquia sacra.{/n}
+
+### u021802
+"Lord Capitano, vi imploro ancora un istante della vostra attenzione. Vi prego di accettare questo umile dono da parte nostra, la gente comune del settore, per tutto il bene che ci fate. La cosa più preziosa che potessimo procurare per Vostra Signoria."
+
+### u021803
+"Analisi della sostanza completata. Le prospettive sono... fosche. Si raccomanda di inviare unità autorizzate a individuare un successore adeguato."
+
+### u021804
+{n}Annuisce in fretta.{/n}
+
+### u021805
+"Molto meglio, e vi ringraziamo per la vostra cura! In questi giorni abbiamo la metà degli affamati e dei malati. Che l'Imperatore vi benedica per la misericordia che ci avete mostrato."
+
+### u021806
+{n}La menzione delle regole fa sussultare un poco il Caposquadra.{/n} "Passiamo ogni giorno a fare un lavoro onesto con una preghiera sulle labbra, come devono fare i fedeli servitori del Lord Capitano. Non brontoliamo per le razioni ridotte. Non piangiamo i nostri cari portati via a lavorare in altri settori. Rispettiamo i nostri severi tutori dell'ordine, per quanto... feroci siano stati. Siamo obbedienti e cerchiamo di essere utili."
+
+### u021807
+"È una vita strana, Vostra Signoria. Le malattie sono in aumento in questo settore ma meno gente ne muore. È... una buona cosa, no? La fame è diminuita. I nostri stimati tutori dell'ordine hanno buttato nella vasca un qualche tipo di carne. È solo che... a volte sento qualcosa che batte contro le sue pareti. Non può esserci niente di vivo là dentro, vero? Perdonatemi. Sono solo uno sciocco che sente cose."
+
+### u021808
+{n}Apre e chiude la bocca per lo stupore.{/n} "Lord Capitano, avete appena aiutato alcune brave famiglie a sopravvivere. Dividerò le tessere tra loro e mi assicurerò di dire che è stata Vostra Signoria a fare loro questo favore."
+
+### u021809
+"Rogue Trader, ho l'iniettore enterale pronto. Nuncius è pronto a intervenire se ci fosse un'urgente necessità di estrarre questo... nutriente dal vostro stomaco."
+
+### u021810
+{n}Riconosci la barba rossa e arruffata e gli occhi neri e acuti. È l'uomo che ti osservava durante l'incontro con il tutore dell'ordine e l'operaio della stazione.{/n}
+
+### u021811
+"Credeteci o no, questa zuppa di melma di muffa e acqua di scarico tecnica sobbolle in questa vasca da almeno duecento anni, senza sosta! Vedete la crescita sulle pareti laggiù? La raccogliamo, la essicchiamo e la usiamo per insaporire la zuppa. Se siamo fortunati, l'odore attira un ratto del vuoto, e a qualcuno tocca un po' di carne nella scodella." {n}Il Caposquadra indica la vasca con orgoglio.{/n} "È per chi non riesce nemmeno a guadagnarsi una tessera di razionamento. Li nutro in cambio di servizi o favori. A volte paga, a volte no."
+
+### u021812
+"Il Lord Capitano in persona ha assaggiato il nostro cibo e l'ha trovato degno! Ricordatevi di essere grati per qualsiasi nutrimento, perché è una benedizione!" {n}Il Caposquadra urla e ruggisce mentre si frappone con discrezione tra te e la folla di popolani in estasi, che altrimenti sembrerebbero pronti a sciamare e calpestare per sbaglio {mf|il loro signore|la loro signora} in un delirio di adorazione.{/n}
+
+### u021813
+{n}Il Caposquadra alza la voce verso la folla.{/n} "Che avete da guardare, voi? Via, prima che chiuda la vasca per una settimana!"
+
+### u021814
+"Lord Capitano, state scherzando, vero?"
+
+### u021815
+{n}I sorrisi sui volti sfiniti si trasformano in smorfie acide mentre la folla si disperde e la fila si riforma.{/n}
+
+### u021816
+"Figurati. {mf|Lui|Lei} è serio come un kraken del vuoto."
+
+### u021817
+"Non... sono sicuro. Forse quegli scrocconi credevano alle storie su Nemesite. A dire il vero, mi sono lamentato con quel bast... con il Capitano Frensoe di certi idioti che dipingevano immagini sui muri, istigando la gente. E lui che ha detto? 'Ho tutto sotto controllo.' Se avessi saputo che sarebbe finita così, avrei acchiappato quei cretini e li avrei buttati io stesso nella fossa della pestilenza! E adesso i tutori dell'ordine ci tormenteranno senza fine, il vuoto se la porti."
+### u021818
+"Emozionante, non è vero?" {n}Con un sorriso intrepido, Einrich ti posa i palmi sui comandi, li copre con i propri e abbassa le leve con un movimento sicuro.{/n} "Non abbiate paura. Non permetterò che vi faccia del male."
+
+### u021819
+"Ho deciso di familiarizzare con il mio dominio."
+
+### u021820
+[Ascolta il rumore rimbombante che proviene dalla caldaia]
+
+### u021821
+"Cerco il tempio della Bloodspun Web. Sai dove si nascondono?"
+
+### u021822
+"E tu che ci fai qui?"
+
+### u021823
+"Non posso rifiutare un'offerta simile."
+
+### u021824
+"Cambio di programma. Avanti a tutta velocità: ci dirigiamo lungo la linea merci."
+
+### u021825
+[Afferra la leva e tirala dolcemente verso di te]
+
+### u021826
+"È sicuro?"
+
+### u021827
+"Penso che basti così."
+
+### u021828
+[Allunga la mano verso le leve riccamente intagliate e risveglia la bestia]
+
+### u021829
+[Fai l'occhiolino a Einrich] "Mostrami come si fa."
+
+### u021830
+[Tira la leva e pompa il carburante]
+
+### u021831
+[Sorridi a Einrich] "Indisciplinata e ribelle, ma si sottomette a una mano forte. Proprio come te."
+
+### u021832
+"Buon viaggio."
+
+### u021833
+"Dubito che mi servirà molto questa lezione."
+
+### u021834
+"Che cosa devo fare?"
+
+### u021835
+"È stato molto interessante, Einrich. Sono {mf|soddisfatto|soddisfatta}."
+
+### u021836
+"Credo che rifiuterò."
+
+### u021837
+[Afferra con decisione la leva più grande]
+
+### u021838
+{n}Il Maestro dell'Infernus ti saluta allegramente con la sua sigaretta di lho.{/n} "Lord Capitano, che incontro inatteso! Che cosa vi porta in questo scomparto? La famosa cucina e i panorami magnifici, senza dubbio?"
+
+### u021839
+"Non ne ho la più pallida idea, e probabilmente è meglio così. Ho già abbastanza da fare."
+
+### u021840
+"Sono qui per rattoppare Savage, la locomotiva numero tre, sotto la supervisione dei Tecnopreti. Quel vecchio brontolone è il mio preferito in tutta la linea merci. Ogni due anni, Savage si arrabbia: la caldaia prende fuoco e comincia a sputare vapore addosso ai riparatori. Indovinate chi chiamano per occuparsi di lui in questi casi. Gli infernus, naturalmente! E dopo che ho fatto tutto il lavoro più pericoloso, è allora che arrivano i cervelli di ferro. Ma va bene così. Io amo Savage."
+
+### u021841
+{n}La testarda macchina somiglia davvero in modo notevole a una belva selvaggia. Il rombo del meccanismo ricorda un ringhio rauco, e il bagliore scarlatto dei lumen sul pannello di controllo ti fa pensare allo sguardo malevolo di un predatore. Lo spirito di questa macchina è crudele, ma forte e vivace.{/n}
+
+### u021842
+"Sapete, forse è meglio così. La dinastia ha bisogno di un Rogue Trader, non di un pezzo di brace carbonizzato."
+
+### u021843
+{n}Un clangore assordante risuona dalle viscere di Savage, e il treno trema sotto i piedi, come se si preparasse a balzare in avanti.{/n} "Whoa! Attenzione, Vostra Signoria! Non lasciate che questo mostro ci sfracelli contro il muro più vicino."
+
+### u021844
+"Oh, mi rifiuto di credere che Savage oserebbe ustionare il Lord Capitano. Di certo non dovrebbe."
+
+### u021845
+{n}Il pannello davanti a te è coperto di rune tecniche, {g|Encyclopedia:Lumen}lumen{/g} e leve. La piattaforma vibra per la potente vibrazione della caldaia mentre la bestia di ferro sotto i tuoi piedi ringhia e sbuffa con ferocia.{/n}
+
+### u021846
+"Quando è di buon umore, la sensazione che provi stando alle sue leve e sfrecciando lungo la linea merci è indescrivibile... Invidio quei conducenti Tecnopreti che lo guidano ogni giorno: il ruggito della caldaia, le ruote che martellano come impazzite e tutta quella furiosa potenza che pulsa nelle tue mani, rispondendo al minimo movimento. Che ne direste di..." {n}Negli occhi di Einrich c'è una scintilla maliziosa.{/n} "...fare le presentazioni?"
+
+### u021847
+"Come comandate. Spero che ve ne andiate con una buona impressione. Godetevi la passeggiata! Nel frattempo, farò un giro sulla linea merci e vedrò come si comporta a tutto gas il nostro piccolo mascalzone."
+
+### u021848
+"Lo sentite? C'è tanta energia e tanta sfida in lui... Questo è un razzo, non una locomotiva: indisciplinato e innamorato della velocità, ma... ben disposto a sottomettersi a una mano forte." {n}Nella voce di Einrich c'è quasi una tenerezza amorevole.{/n} "Tirate la leva verso di voi, con dolcezza ma con fermezza. Poi pompate il carburante con questa runa di comando."
+
+### u021849
+{n}Un lampo da briccone compare nei suoi occhi.{/n} "Davvero?"
+
+### u021850
+{n}Un torrente di vapore erompe dalla fessura davanti al tuo viso, ma Einrich ti copre abilmente con la spalla. Un istante dopo, ti rendi conto di non sentire più nulla... O meglio, senti una cosa sola: il ruggito del motore, trionfante e potente.{/n} "Pare che Savage abbia accettato di non ucciderci entrambi. I suoi Tecnopreti custodi ne saranno lieti."
+
+### u021851
+"Non proprio, Vostra Signoria. Ho detto che Savage non è pericoloso, ma il 'non pericoloso' finisce proprio qui. Potrebbe farci uno scherzetto e cuocerci a morte durante il viaggio, e sarebbe meglio che la nave non perdesse un altro Lord Capitano."
+
+### u021852
+"Andrà tutto bene. Savage non mi friggerebbe mai... Vero, Savage?"
+
+### u021853
+"Buona fortuna, Lord Capitano."
+
+### u021854
+"Salute al Lord Capitano! Oggi avete domato una bestia possente. Ora, sono certo che abbiate affari urgenti da sbrigare, ed è ora che io porti Savage lungo la linea per vedere se è di malumore."
+
+### u021855
+{n}Yrliet inclina la testa di lato, confusa.{/n} "Questa è ancora una conversazione sulle macchine dei mon-keigh, o su qualcos'altro?"
+
+### u021856
+"In tal caso, spero che almeno vi siate {mf|divertito|divertita}. Buona fortuna, Lord Capitano."
+
+### u021857
+{n}Einrich strizza gli occhi soddisfatto e sussurra la litania dell'accensione prima di voltarsi verso di te.{/n} "La macchina è arrabbiata e rifiuta di obbedire. In questo momento Savage è alimentato solo dal motore ausiliario di manovra. Dovremo avviare il rotore principale se vogliamo fare un giro lungo la linea merci."
+
+### u021858
+"Allora avete scelto la parte più dimessa. Il mio mentore diceva che una nave è come il corpo umano. Se è così, ci troviamo di sicuro dentro le sue viscere di ferro."
+
+### u021859
+"Mettete la mano sulla leva grande e tiratela piano. Molto piano!" {n}Il volto di Einrich è concentrato, ma la sua voce non ha perso nulla della giocosa allegria.{/n} "A Savage non piace essere tormentato."
+
+### u021860
+{n}Alcuni scossoni irregolari scuotono la piattaforma, e dalle profondità della macchina sale un gemito indignato. Un intenso brivido passa attraverso la leva fino al palmo della tua mano, e senti uno strano senso di vuoto nello stomaco. Il cuore infuocato di Savage si sta risvegliando.{/n}
+
+### u021861
+{n}Einrich abbassa lo sguardo e sorride.{/n} "Avrei potuto desiderare di più, Vostra Signoria?"
+
+### u021862
+{n}Savage emette un rombo rabbioso, e i supporti della caldaia tintinnano pietosamente. Un dado si stacca dalla filettatura e vola oltre la tua testa verso la piattaforma come un proiettile. Senti un urlo seguito da grida di panico.{/n} "Un altro incidente sul tuo conto, eh, Savage?" {n}Einrich regola in fretta la leva, riducendo l'afflusso di carburante.{/n}
+
+### u021863
+{n}Una nuova esplosione dentro Savage scuote il suo corpo di ferro, facendoti vedere doppio per la vibrazione.{/n} "Ora sentite la sua vera potenza. Se gli si desse modo, potrebbe percorrere l'intera linea merci in un minuto... E uccidere chiunque lo cavalchi a quella velocità. Ora provate ad applicare un po' di spinta al rotore principale: afferrate quelle leve gemelle e date uno strattone deciso."
+
+### u021864
+"Ho avuto esperienze con meccanismi che preferivano essere accesi in fretta e con audacia. Immagino che questo motore abbia un progetto diverso." {n}Jae fa scorrere con innocenza un dito lungo il pannello di controllo.{/n}
+
+### u021865
+"Grazie per l'aiuto contro gli ammutinati."
+
+### u021866
+"Forse potresti aiutarmi a trovare l'ingresso al vostro tempio, dopotutto?"
+
+### u021867
+"Ho cambiato idea. Ti permetterò di unirti al mio seguito."
+
+### u021868
+"Devo congedarmi ora."
+
+### u021869
+"Guardo il tempo che scivola via. Le persone non si fermano mai a considerare quanti respiri restano loro da fare prima di sentire il bacio della morte. L'ignoranza... ha una sua forma di bellezza."
+
+### u021870
+"Seguivo semplicemente il filo della Rete. Perché il loro tempo era giunto, e l'Imperituro ha teso una mano per accogliere le loro anime."
+
+### u021871
+"Il mio dovere verso l'Imperituro mi impedisce di interferire nel disegno del Vizsier. Non posso diventare il filo che vi guida. Ma posso essere al vostro fianco mentre percorrete quel sentiero."
+
+### u021872
+"La Bloodspun Web ha dato ascolto ai vostri ordini. I filatori non accompagnano più le anime all'altra riva. Non tutti nel culto erano pronti al cambiamento, e gli abitanti dei tunnel lo erano ancora meno."
+
+### u021873
+"Cammina con passi silenziosi tra i sussurri dell'Imperituro."
+
+### u021874
+"I deboli e i miserabili si aggrappano alla possibilità di vivere un'altra guardia. I forti e i crudeli li minacciano di una morte rapida. Nessuno dei due si rende conto che la fine del filo è la vera libertà dalla paura e dal dolore."
+
+### u021875
+"Avanti, e io ti seguirò."
+
+### u021876
+"I fili dei nostri destini si sono intrecciati di nuovo. Ma per quanto?"
+
+### u021877
+"Credevano che l'Imperituro li avesse maledetti e avesse revocato la Sua misericordia. Pensavano che assassini e altri malfattori avessero ormai via libera. Sciocchi. Ci sono molti modi di servirLo senza separare le anime dai corpi."
+
+### u021878
+"Domin'{name}. Siete dunque {mf|disceso|discesa} nell'oscurità." {n}Riesci a malapena a distinguere lo sguardo nebuloso dietro i fori della maschera d'osso.{/n}
+
+### u021879
+"Devo dedurre che i tutori dell'ordine si appropriano dei guadagni degli operai dopo i turni?"
+
+### u021880
+[Colpisci il tutore dell'ordine] "Considerati licenziato, ladro. Domani ti metterai qui in fila per un incarico di lavoro come gli altri."
+
+### u021881
+[Ferma il tutore dell'ordine] "Intendo ascoltare quest'uomo fino in fondo."
+
+### u021882
+[Lascia che il tutore dell'ordine faccia il suo lavoro] "Fai in fretta. Ho altri posti dove andare."
+
+### u021883
+[Prendi a calci l'operaio] "Fuori dai piedi, maledetta feccia!"
+
+### u021884
+[Rivolgiti al tutore dell'ordine] "Restituisci le tessere e non osare mai più abusare della tua posizione."
+
+### u021885
+[Rivolgiti all'operaio] "Ogni crimine sarà punito di conseguenza. Non offro protezione ai ladri."
+
+### u021886
+[Vattene] "Non ho tempo per questo."
+
+### u021887
+[Alza la voce] "L'Imperium è circondato da nemici! Sono molti, sono astuti e sono pieni di rancore! Chi è la causa dei vostri giorni di fame? Loro! Ma noi, fedeli servitori dell'Imperatore, siamo più forti delle loro trame! Siamo saldi! Non cederemo! Stringeremo la cinghia, staremo uniti e prevarremo! Chi è con me?"
+
+### u021888
+[Aggiungi alla voce una nota di saggia profondità] "La società, vedete, somiglia molto a uno stivale. La sua punta guida con orgoglio il piede dell'Imperium in avanti, eppure serve una suola su cui reggersi. Voi siete la suola, brava gente. Che stiate quaggiù a soffocare nella polvere senza mai vedere un barlume di luce non è frutto della malvagità di qualcuno, ma è piuttosto l'ordine logico del mondo. Spero che comprendere questo fatto vi aiuti a far pace col vostro destino e a liberarvi di ogni rancore."
+
+### u021889
+[Guarda la folla con fierezza e solennità] "Avrei raggiunto la gloria se mi fossi {mf|lamentato|lamentata} di ogni difficoltà lungo il mio cammino? No! Sono {mf|andato|andata} sempre avanti nonostante tutte le avversità! Così dovete fare voi, e noi ricorderemo i vostri nomi per questo!"
+
+### u021890
+"Meritate entrambi una punizione. Spoglia del grado l'arbitrario tutore dell'ordine e fa' frustare il ladro."
+
+### u021891
+{n}L'operaio malconcio si getta ai tuoi piedi e tocca la punta del tuo stivale con le mani sporche.{/n} "Vostra benevola Signoria! Mano del Dio-Imperatore! Salvate il vostro indegno servitore!"
+
+### u021892
+{n}Un mormorio di scontento si leva tra i curiosi radunati. Nessuno degli altri operai osa avvicinarsi, ma la rabbia sui loro volti è evidente.{/n}
+
+### u021893
+{n}Un dissenso sommesso e insistente comincia a levarsi tra la folla, per poi spegnersi non appena i tutori dell'ordine brandiscono i manganelli. I mormorii si trasformano subito in suppliche di pietà.{/n}
+
+### u021894
+"Non ci appropriamo di niente. Controlliamo e ridistribuiamo soltanto," {n}borbotta cupo il tutore dell'ordine.{/n} "La feccia è una banda di bugiardi e ladri. Abbiamo istruzioni di restare all'erta con chi ha più del numero standard di tessere di razionamento. Per prevenire sottrazioni di scorte e carestie."
+
+### u021895
+{n}Un uomo scontroso dalla barba rossa e dagli occhi neri e acuti attira la tua attenzione. Il suo sguardo stranamente penetrante ti ha misurato per tutto il tempo in cui parlavi, ma ora si è affrettato a nascondersi dietro i curiosi. Subito dopo, lo vedi inoltrarsi in fretta nei tunnel.{/n}
+
+### u021896
+"Vostra Signoria, lavoro sodo, non mi concedo mai nemmeno una pausa e tutto ciò che guadagno sono sette tessere di razionamento con quindici bocche da sfamare a casa! I tutori dell'ordine mi spremono a ogni turno, come fanno con ogni altro onesto lavoratore che..."
+
+### u021897
+"Basta piagnucolare! Tu e i tuoi amici avete rubato una cassa di barrette nutritive qualche guardia fa, e due taniche d'acqua prima ancora. Non ti ho pestato a morte perché ho avuto pietà di te, e questo è il ringraziamento?"
+
+### u021898
+"Non sono stato io a farli fuori, è stato un inciden..." {n}L'operaio si blocca, si rannicchia e piagnucola:{/n} "Gli hanno sfondato la testa delle casse! I morti non hanno bisogno di razioni!"
+
+### u021899
+{n}Il clamore sale, diventando troppo insistente, assordante, soffocante... Poi un manganello si abbatte con un colpo secco da qualche parte tra la folla, e tutti tacciono.{/n}
+
+### u021900
+{n}Gli operai presenti urlano trionfanti e indicano i tutori dell'ordine, lodando il Lord Capitano.{/n}
+
+### u021901
+{n}Il tutore dell'ordine si affretta a togliersi un guanto, poi comincia a lucidarti lo stivale.{/n} "Q-quasi fatto, Lord Capitano!"
+
+### u021902
+{n}Con uno schianto, il tuo stivale rompe il setto nasale dello sfortunato.{/n} "Mi dispiabe, vi prego, mi dispiabe! Fa tanto bale..."
+
+### u021903
+{n}L'uomo terrorizzato lancia un'occhiata furtiva al tutore dell'ordine, che sogghigna.{/n}
+
+### u021904
+"Che il Dio-Imperatore protegga voi e tutta la Casata von Valancius, Lord Capitano!"
+
+### u021905
+{n}Il tutore dell'ordine sibila con rancore all'operaio:{/n} "Oh sì, Dodici. Questa volta ti spezzo tredici tra dita e costole, come lezione per i tuoi viscidi complici."
+
+### u021906
+{n}Il tuo aspetto ispirato, identico a quello usato per il {d|Encyclopedia:CharGen_MOT_Glory}manifesto di propaganda{/d}, getta i servi in un delirio di grida estatiche. Li senti incanalare tutte le loro speranze di superare le avversità proprio come hai fatto tu. Persino l'uomo malmenato ti fissa con un sorriso malinconico sulle labbra.{/n}
+
+### u021907
+{n}Ahimè, l'ingrata feccia è incapace di comprendere la pura grandezza delle tue vedute sulle strutture sociali. Sbattendo con ottusità i loro occhi ignoranti, i servi continuano a fissarti senza il dovuto rispetto.{/n}
+
+### u021908
+{n}L'operaio ringhia al tutore dell'ordine, che è diventato all'improvviso pallido.{/n} "Non te l'aspettavi, vero? Quando mi passerà il mal di schiena... vedremo quanto sei coraggioso senza il tuo manganello."
+
+### u021909
+{n}Il tutore dell'ordine licenziato, circondato da sguardi malevoli, fulmina la folla con gli occhi mentre l'operaio malmenato ride fragorosamente, apparentemente molto più compiaciuto della sfortuna dell'altro che turbato dalla propria condanna.{/n}

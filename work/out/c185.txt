@@ -1,0 +1,752 @@
+### u062197
+"Di certo non penserete che sia la prima volta che mi puntano una pistola addosso, Vostra Signoria. Potete farlo, naturalmente. Ma dubito che chi nominerete durerebbe più di un'ora. Risparmiamogli la vita e non mettiamo alla prova la vostra teoria. Specialmente perché vi sarò utile quando lo stimato Calligos Winterscale tornerà e vedrà le perdite subite dal suo protettorato."
+
+### u062198
+{n}I suoi occhi si fanno vitrei, le pupille simili a due canne di pistola.{/n} "Sarebbe sgradevole. Vedete, prima o poi lo stimato Calligos Winterscale, patrono di Footfall da decenni, farà ritorno."
+
+### u062199
+"Apprezzo l'ampiezza dei vostri pensieri. Ai giorni nostri, pochi si concedono una simile libertà."
+
+### u062200
+"Potete provarci, ma non vi crederanno. Perché se avete ragione, dovranno scatenare una guerra, uccidermi, spartirsi di nuovo la stazione. Perché mai dovrebbero volerlo?" {n}Vladaym ridacchia seccamente in faccia a te.{/n} "Non basta dire la verità alla gente, bisogna fare in modo che voglia crederci."
+
+### u062201
+{n}Qualcosa di cupo, ottuso e assetato di sangue affiora sul volto di Vladaym.{/n} "Se voi e io fossimo solo persone — persone comuni — questo ratto del vuoto vi avrebbe già fatto ingoiare queste parole insieme ai vostri denti." {n}Poi il suo consueto contegno formale ritorna.{/n} "Ma voi siete un illustre Rogue Trader, io sono il Liege di Footfall, e simili bravate da volgo sono indegne di noi. Dunque — sì, la mia strada è stata lunga."
+
+### u062202
+{n}Estrae con cura una piccola scatola di metallo — conservata chiaramente per un'occasione come questa — e con altrettanta cura te la porge.{/n} "Questo è il mio dono. Una curiosità confiscata a dei contrabbandieri. Spero sia di vostro gradimento."
+
+### u062203
+"Mi rimetto al vostro giudizio, Vostra Signoria."
+
+### u062204
+"È una proposta d'affari ragionevole. Non avrei ottenuto altrettanto nemmeno dalla stimata Incendia Chorda — ci avrebbe derubati e, insieme, avrebbe affermato la propria autorità. Perciò accetto." {n}Fa una pausa, poi aggiunge con un sorriso asciutto,{/n} "Siete {mf|un uomo pericoloso|una donna pericolosa}, Vostra Signoria."
+
+### u062205
+{n}Vladaym si raddrizza sulla sedia e dice con tono cortese ma del tutto indifferente,{/n} "Parliamo d'affari. A nome dell'élite della Stazione di Footfall, vi porgo le mie condoglianze, {mf|Lord|Lady} von Valancius. Piangiamo la perdita di Lady Theodora e speriamo che questo sentimento sia colto come segno delle nostre buone intenzioni e della nostra disponibilità a cooperare."
+
+### u062206
+"Perché mai Footfall dovrebbe accettare un simile accordo? Accettandolo, faremmo infuriare la stimata Incendia Chorda senza guadagnare nulla. Discutiamo di prospettive più realistiche per la nostra collaborazione."
+
+### u062207
+{n}Gli occhi di Vladaym si assottigliano mentre ti rivolge uno sguardo calmo e valutativo, poi si inginocchia. Il suo corpo, non avvezzo a simili dimostrazioni di obbedienza, si muove lentamente, come se l'aria si fosse fatta all'improvviso densa.{/n} "Se questo è il prezzo della prosperità della stazione, lo pagherò."
+
+### u062208
+"Vi chiedo perdono, Vostra Signoria. È stato sfacciato da parte mia offendere le vostre orecchie con parole tanto spaventose."
+
+### u062209
+{n}Ti lancia un'occhiata cauta.{/n} "Non ne sono intimorito, ovviamente, e faccio tutto ciò che è in mio potere per tenerli lontani da Footfall. Ma il mio potere ha dei limiti."
+
+### u062210
+"Footfall ha già avuto un padrone severo — Calligos Winterscale. E abbiamo accolto con gratitudine la sua rigida protezione... finché è rimasto qui. Ora abbiamo bisogno di un patrono di diversa fibra. Perché altrimenti dovremmo attirarci l'ira dello stimato Winterscale?"
+
+### u062211
+"Sono convinto che i vostri legami con Footfall vi permetteranno di ampliare considerevolmente la vostra conoscenza e comprensione degli xenos. Mi assicurerò che la vostra curiosità sia soddisfatta in ogni modo."
+
+### u062212
+"Sarà contrariato nel trovare il suo dominio invaso e cercherà di riprenderselo. E il disappunto di Calligos Winterscale è un fenomeno molto... molto pericoloso. Ne seguirà uno scontro tra due Rogue Trader e, per quanto possa sembrare ridicolo, il suo esito dipenderà con ogni probabilità dalla lealtà dell'umile Liege della stazione."
+
+### u062213
+{n}Il Liege fissa Heinrix. Lentamente, molto lentamente, Vladaym annuisce nella sua direzione.{/n} "Van Calox."
+
+### u062214
+"Blasfemi dal pensiero impuro." {n}Il vox di Pasqal erompe in una statica furiosa e sibilante.{/n} "Il Commercio Freddo è un'infame usurpazione dei privilegi dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g}." {n}Fulmina Vladaym, i cui occhi trasparenti evitano chiaramente quelli di Pasqal.{/n}
+
+### u062215
+"Vi chiedo perdono, Vostra Signoria, ma è stato vostro desiderio arrivare a Footfall in incognito. Così facendo mi avete privato della possibilità di fornirvi numerose guardie consone al vostro alto rango. Perciò vi consiglio vivamente di usare cautela sulla stazione, finché non deciderete di annunciare pubblicamente che Footfall ha l'onore di ospitare un Rogue Trader."
+
+### u062216
+{n}Ti rivolge uno sguardo prolungato, poi dice con calma,{/n} "Non conosco il linguaggio dell'{d|Encyclopedia:CharGen_Nobility}aristocrazia{/d}, ma spero davvero che non abbiate detto nulla di sconveniente. In ogni caso, avete stabilito una certa distanza tra noi, e ne prenderò nota."
+
+### u062217
+"Tuttavia, finché resterete in incognito, vi sarà difficile avvalervi di questo privilegio. Tenetelo a mente se desiderate comunicare con gli abitanti meno informati della stazione — per loro siete {mf|un normale visitatore|una normale visitatrice} di Footfall."
+
+### u062218
+{n}I suoi occhi si fanno vitrei, le pupille simili a due canne di pistola.{/n} "Sarebbe sgradevole. Mi sarà difficile convincere il venerabile Calligos Winterscale, patrono di Footfall da molti decenni, che le mie azioni non erano capricci personali, ma ordini di un qualche Rogue Trader giunto sulla stazione in incognito. Fossi in lui, non ci crederei nemmeno per un istante."
+
+### u062219
+{n}Vladaym non sembra sorpreso.{/n} "Di nuovo gli Anvers, presumo? Quei degenerati anarchici non badano a chi sparano, siano i miei servitori, i vostri o quelli al soldo della Casata Chorda."
+
+### u062220
+"Se state insinuando che quei fuorilegge agissero per mio ordine, lo nego con veemenza, in tutto e per tutto."
+
+### u062221
+"Spero davvero che, se la nostra collaborazione procederà senza intoppi, riuscirò a contenere questa 'sanguinosa baraonda', come l'avete definita, ai livelli inferiori di Footfall, dove il suo fascino potrà continuare a rallegrarvi senza interrompere con gli spari le conversazioni di Vostra Signoria."
+
+### u062222
+"È davvero deplorevole. Ma questi sono i tempi in cui viviamo, e questa è Footfall. I suoi abitanti non sempre cercano un motivo per versare sangue."
+
+### u062223
+"Porgo ancora una volta le mie scuse per l'enorme numero di minacce che Vostra Signoria ha incontrato da quando è {mf|arrivato|arrivata} sulla mia stazione."
+
+### u062224
+"Sospetto che questo agente volesse negoziare un accordo che vi spingesse a non ostacolare gli sforzi di Incendia Chorda di strangolarci con la minaccia della fame ed esigere la nostra obbedienza? In tal caso, non credo che piangerò a lungo la morte di quell'uomo."
+
+### u062225
+"Tuttavia, se vi limitate ad alludere alla possibilità che qualcuno a cui sta a cuore il destino di Footfall abbia diffuso nei livelli inferiori la voce che gli agenti della Casata Chorda cercassero di affermare la propria autorità su Footfall... Ebbene, allora i vostri sospetti sono del tutto logici, come lo è stata l'inevitabile morte di quell'uomo per mano degli Anvers."
+
+### u062226
+"Oh, quella faccenda..." {n}Fa una smorfia.{/n} "Chissà? Potrebbe essere un'epidemia vera. Oppure le due famiglie da cui è partito tutto hanno semplicemente avuto un'intossicazione alimentare nello stesso momento. Siamo su una stazione spaziale — la soluzione migliore è isolare la zona e aspettare che il problema si risolva da solo."
+
+### u062227
+"Lei è irrilevante. Dato che sono io a controllare la situazione su Footfall, posso parlare a nome di tutti i suoi... illustri residenti."
+
+### u062228
+"Sì, lo fece. E che decisione insensata fu. Esistono modi più affidabili di disinfettare una zona senza dover perdere un intero asteroide. Quella sua manovra destabilizzò l'integrità della stazione, e le conseguenze si sono fatte sentire fino a quando non sono diventato Liege. Quando ho assunto la carica, ho dovuto negoziare con i {g|Encyclopedia:TechPriest}Tecnopreti{/g} per effettuare le riparazioni necessarie, e mi è costato una quantità spropositata di denaro e risorse."
+
+### u062229
+"Avrei potuto. Ma di certo non intendo farlo," {n}dice Vladaym con tono annoiato e disinvolto.{/n} "Non lo farei nemmeno in circostanze normali. E con la minaccia della carestia che incombe sulla stazione e le nostre prospettive così incerte, be'..."
+
+### u062230
+"Cosa che, in sostanza, ha fatto. I rapporti dicono che da giorni non c'è un'anima viva nella zona di quarantena. I miei uomini stanno smantellando le barricate, rimuovendo le mine e preparandosi a purgare accuratamente il luogo con il fuoco."
+
+### u062231
+"Non posso impedirvi di farlo. Ma non posso fare a meno di notare che non è la linea d'azione più saggia. Con tutto il rispetto, Vostra Signoria."
+
+### u062232
+"Fuori questione. Mettereste a rischio sia voi sia la stazione."
+
+### u062233
+{n}Vladaym stringe i denti e resta in silenzio per un momento.{/n} "La vostra imprudenza potrebbe significare la fine di voi e dell'intera stazione! Ma — come desiderate. Farò sgomberare dai miei uomini un piccolo passaggio. Ci vorrà tempo, badate bene..." {n}Vladaym sbuffa.{/n} "Il luogo è stato minato a dovere. Ci vorranno giorni... se non di più. Ma riuscirete a entrare."
+
+### u062234
+"Sono lieto che siamo giunti a un'intesa. Aspetteremo finché non sarà rimasto nessuno in vita in grado di diffondere la malattia. Poi bruceremo il luogo con meticolosità e lo fumigheremo con un composto speciale. Questo dovrebbe risolvere il problema."
+
+### u062235
+"Ottime notizie. È un piacere fare affari con voi, Vostra Signoria."
+
+### u062236
+"Il blocco è stato revocato e gli ingressi sono stati sgomberati. Non ci sono state morti strane nella Squadra Servizi 3, il gruppo di stanza laggiù. Sta a voi decidere quanto grande sia il rischio che siete disposti a correre."
+
+### u062237
+"È un risultato davvero eccezionale, Vostra Signoria. Footfall ora può riposare tranquilla. Almeno fino a quando il prossimo pazzo teppista si farà conoscere."
+
+### u062238
+"Allora non vi ruberò altro tempo."
+
+### u062239
+"Sono lieto di aver trovato un patrono tanto generoso e affidabile. Naturalmente, il vostro protettorato può contare sul trattamento speciale che Footfall vi offrirà, come vi avevo promesso."
+
+### u062240
+"Devo ammettere che, fino all'ultimo momento, non credevo che sareste {mf|venuto|venuta} in nostro aiuto senza un secondo fine. La vostra ascesa mi fa chiedere se la vita nella {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} stia cambiando nel modo più inaspettato."
+
+### u062241
+{n}Lo sguardo di Vladaym è lievemente diffidente.{/n} "Una simile carità è uno spettacolo raro nella Distesa di Koronus. Persino figure potenti come i Rogue Trader non la mostrano spesso. Vi ringrazio, Vostra Signoria."
+
+### u062242
+{n}Il volto di Vladaym si incupisce un poco, ma la sua voce è calma e asciutta.{/n} "Sono state introdotte nuove regole, e molte attività subiscono perdite e disagi causati dall'azione delle sue unità confessionali. Ma siamo Footfall. Sappiamo come sopravvivere sotto Rogue Trader di ogni genere. E nessuno di loro è ancora riuscito a cambiare l'identità di questa stazione."
+
+### u062243
+{n}Vladaym nota Jae in piedi dietro di te e vedi la sua mascella irrigidirsi per la tensione.{/n} "E tu che ci fai qui?"
+
+### u062244
+"Vladaym, Vladaym, avrai pensato di essere l'unico su Footfall a saper farsi degli amici." {n}Jae scrolla le spalle e sogghigna con aria di sufficienza.{/n} "Te l'avevo detto che avrei trovato un affare migliore."
+
+### u062245
+{n}Ignorando Jae, Vladaym si rivolge a te in tono pungente.{/n} "Sono certo che Vostra Signoria avesse un motivo per immischiarsi con un pesce piccolo come lei. Forse vi divertivano le sue false promesse di profitti rapidi. O qualche aspetto più intimo di simili... relazioni. In ogni caso, non sono affari miei. Ricordate solo che, qui su Footfall, i veri affari degni della vostra attenzione possono venire solo da me."
+
+### u062246
+"Senza dubbio. Vi prego di perdonare la digressione. Cosa vi porta da me?" {n}La sua risposta è asciutta e riservata, ma non smette mai di fulminare Jae con lo sguardo.{/n}
+
+### u062247
+{n}Un accenno di irritazione trapela dall'espressione altrimenti impenetrabile di Vladaym.{/n} "Certamente, Vostra Signoria. Mi scuso per la mia mancanza di maniere. Ero... impreparato a questo sviluppo."
+
+### u062248
+"Shereen, le tue parole scaldano il cuore meglio del miglior vino calixiano!"
+
+### u062249
+"No, non ce ne sono stati. Attaccare Footfall in generale non è una cosa particolarmente ragionevole. Molte navi sono attraccate qui in ogni momento, e persino le armi dichiarate a bordo costituirebbero una discreta forza combattente. Per non parlare della potenza di fuoco che i nostri stimati mercanti hanno vergognosamente nascosto ai doganieri della stazione."
+
+### u062250
+{n}Un fantasma di sorriso compare sulle pallide labbra di Vladaym.{/n} "Certo, Vostra Signoria. E ora — discutiamo di questioni più urgenti?"
+
+### u062251
+"Gloria all'Eccelso che si cura di noi tutti!" {n}Jae fa il segno dell'Aquila sul petto con un'espressione insolitamente seria.{/n}
+
+### u062252
+{n}Vladaym fa una smorfia di stizza.{/n} "Nella mia esperienza, quelli come lei cambiano vita solo quando il portello stagno si chiude alle loro spalle, e non un attimo prima."
+
+### u062253
+{n}Heinrix risponde con un cenno altrettanto riservato.{/n} "Buongiorno, Liege. Accompagno il Rogue Trader. Vi prego di non badare alla mia presenza."
+
+### u062254
+"La vostra richiesta è difficile da comprendere e ancor più da onorare, Maestro van Calox. Ma sono lieto di sapere che non ci sono altri motivi per questa visita... a differenza delle vostre due precedenti."
+
+### u062255
+{n}La maschera di fredda cortesia scompare dal volto di Vladaym non appena respira l'aria, intrisa dei miasmi del fetore di fogna. Fa una smorfia, lottando disperatamente contro l'impulso di voltare la testa, ma alla fine riacquista la compostezza.{/n}
+
+### u062256
+"Le parole dell'onorevole Liege non sono prive di senso, Lord Capitano." {n}Abelard trasale, come se trovasse la sola idea di essere d'accordo con Vladaym su qualunque questione profondamente sgradevole.{/n} "Devo dire che avventurarsi in una tana di malattia non mi pare l'idea più saggia."
+
+### u062257
+"In effetti, mio caro Vladaym. Gli onesti abitanti di Footfall vorrebbero tanto sapere perché il loro illustre Liege venga meno ai propri doveri — di questi tempi non si può uscire di casa senza una pistola. Be'... suppongo sia sempre stato così, ma ora, oltre alla pistola, bisogna portarsi dietro un paio di scagnozzi col randello. Oh, che spesa!"
+
+### u062258
+"Che strano. Non ho mai incontrato nessuno le cui parole apparissero così fumose e incolori. Siete come una bestia esotica che cambia colore a seconda dell'ambiente. Osservarvi sarà interessante."
+
+### u062259
+{n}Lievemente allarmato dall'attenzione indesiderata, Vladaym china il capo con rispetto.{/n} "Sono sempre lieto di intrattenere la Lady Navigatrice con la mia umile persona."
+
+### u062260
+"Abbiate fiducia, sarò schietto — le mie labbra sono vincolate dal giuramento di servizio. Cosa vi interessa esattamente su Footfall, questa dimora di mercanti, trafficanti di xenotecnologia e — solo pochi — banditi?"
+
+### u062261
+{n}Gli ufficiali di Port Wander, dove hai ancora dei contatti dai tuoi {d|Encyclopedia:CharGen_Navy}giorni nella Flotta{/d}, parlavano spesso dei capricci della Fauce, l'unica via dall'Imperium alla Distesa di Koronus. Anche così, le parole di Vladaym sono particolarmente allarmanti — sembra che {g|Encyclopedia:CicatrixMaledictum}qualcosa{/g} abbia avuto un effetto profondo sulla Fauce.{/n}
+
+### u062262
+{n}Vladaym ti rivolge uno sguardo acuto.{/n} "So abbastanza di {d|Encyclopedia:CharGen_Criminal}ciò che eravate prima{/d}, e di ciò che fate a chi vi si oppone senza buone ragioni. Farò in modo di aprire un passaggio nella barricata. Spero che la vostra avventatezza non sia la morte di questa stazione..."
+
+### u062263
+"Ho sentito parlare molto della vostra {d|Encyclopedia:CharGen_MOT_Mind}rara acutezza{/d} — o dovrei dire, degli eccezionali risultati che siete {mf|riuscito|riuscita} a ottenere con essa. Ho sempre avuto un debole per le persone capaci di annientare un nemico o conquistare un potente alleato con poche frasi ben formulate o ordini impartiti con precisione." {n}Gli angoli della bocca di Vladaym si contraggono, avvicinando pericolosamente la sua espressione a un sorriso autentico.{/n}
+
+### u062264
+{n}Notando Kibellah, Vladaym assume rapidamente un'espressione annoiata. Con cautela, senza movimenti bruschi, si pulisce gli occhiali e, come soprappensiero, nasconde una mano sotto il tavolo.{/n}
+
+### u062265
+{n}Kibellah gli rivolge un sorriso sottile.{/n} "Siete molto più interessante di quanto sembriate a prima vista, Liege."
+
+### u062266
+{n}Vladaym risponde con un vago sorriso a sua volta.{/n} "Sì, sono l'uomo più divertente di questa stazione, mia signora."
+
+### u062267
+"Proctor." {n}Il volto del Liege assume un'espressione quanto mai distaccata.{/n} "Ho saputo della morte di Sargona e del recupero riuscito della decima da Rykad Minoris. Avete bisogno di altre informazioni su qualche violatore della Lex Imperialis? Vi assicuro che Sargona era l'unico criminale efferato di tale calibro in tutta Footfall."
+
+### u062268
+"Sarò io a giudicare chi sia un criminale agli occhi dell'Adeptus Arbites. Quanto alla mia presenza qui — serve solo a ricordarvi il suono della Lex Imperialis e la vista dei denti di Glaito."
+
+### u062269
+{n}Vladaym fa per alzarsi, ma poi si ferma e ti guarda.{/n} "Un'ultima cosa, come gesto di solidarietà nei vostri confronti. Kiava Gamma — quel mondo appartiene al vostro protettorato, non è così? A Footfall sono giunte voci di un grave problema in preparazione su quella colonia. Da lì è arrivata una nave, e la gente dice cose del tutto assurde sull'equipaggio. Forse vi interesserà sentire notizie sulla vostra proprietà."
+
+### u062270
+"Ora è il nostro momento, non il loro.
+Andate nelle loro case. Trascinateli fuori dai loro letti.
+Squartate i loro corpi come carcasse in un mattatoio.
+La Flotta Imperiale, i Kasballica, i Chorda, i von Valancius — i loro nomi non significano più nulla. Domani li cancellerà dalla memoria.
+Andate e prendete il potere, quanto più ne potete portare.
+A N V."
+
+### u062271
+"Non ci servono regole né capi.
+Non siamo un'organizzazione. Siamo una forza della natura.
+A N V."
+
+### u062272
+Volantino
+
+### u062273
+"Abelard, informa gentilmente questa feccia di banditi che siamo venuti a giustiziarlo."
+
+### u062274
+"Hai governato tutta Footfall con la paura. È un risultato notevole. Mi farebbe comodo gente come te. Quindi parliamo — preferisco impiegare le risorse umane con raziocinio piuttosto che lanciarmi all'attacco a pistole spianate."
+
+### u062275
+"Se hai qualcosa da dire, dilla."
+
+### u062276
+"Preferisco il fuoco e il metallo."
+
+### u062277
+{n}L'uomo con una folta chioma arruffata di capelli scuri è vestito e armato più o meno come tutti gli altri qui dentro. Eppure è inequivocabilmente il capo. Fa un passo verso di te. Ridacchia. Allarga le braccia in un gesto di benvenuto.{/n} "Miei ospiti! Che gioia vedervi nel mio umile rifugio. Vedo che siete venuti qui per essere iniziati alla verità. Cosa sceglierete, allora — le parole, o il fuoco e il metallo?"
+
+### u062278
+"Conosci già la risposta, eretico!" {n}Argenta afferra la sua arma.{/n}
+
+### u062279
+{n}Abelard fulmina con lo sguardo in modo minaccioso e dice con la sua migliore voce da "ufficiale",{/n} "Per ordine del capo della dinastia von Valancius, un {g|Encyclopedia:RogueTrader}Rogue Trader{/g} pienamente riconosciuto con tutti i diritti e i privilegi connessi, compresa l'autorità su Footfall, voi, plebaglia, siete condannati a morte! Possa l'{g|Encyclopedia:Emperor}Imperatore{/g} avere pietà delle vostre anime, perché noi non ne avremo alcuna."
+
+### u062280
+"Inchinarmi a gente come voi — i vecchi e gonfi padroni dell'universo? Preferirei morire."
+
+### u062281
+{n}L'uomo sussulta.{/n} "Vecchi e gonfi 'padroni dell'universo' che non si rendono conto che il loro tempo è finito. Pensi di potermi spaventare?"
+
+### u062282
+"Sai almeno cosa significa il nostro nome, straniero? Footfall ci chiama gli 'Anvers,' ma non si ferma a guardare, ascoltare, imparare." {n}L'uomo fa una pausa, poi socchiude gli occhi e proclama in un Alto Gotico rozzo ma chiaro,{/n} "Auxilio non veniet. L'aiuto non verrà. La {g|Encyclopedia:Maw}Fauce{/g} si è chiusa, la {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} è ormai sola. Una nuova era è giunta, e noi ne siamo i sovrani!"
+
+### u062283
+"Lo farò. Il vostro tempo è finito. Tutti voi — burocrati, i {g|Encyclopedia:KasballicaMission}Kasballica{/g}, i {g|Encyclopedia:RogueTrader}Rogue Trader{/g}, aristocrazia boriosa e altra spazzatura inutile — tutti voi presto brucerete!"
+
+### u062284
+"Bene. Il fuoco e il metallo sono l'essenza della vita. La gente non è fatta di vermi, siamo davvero vivi solo quando facciamo a pezzi i nostri nemici!"
+
+### u062285
+"Cosa c'è nei container, Jae? E non azzardarti a mentire."
+
+### u062286
+[Esamina il carico]
+
+### u062287
+"Questo carico appartiene alla dinastia von Valancius. Lord Tocara sta cercando di usurpare la proprietà di un Rogue Trader?"
+
+### u062288
+"Hai assolutamente ragione. Non ho nulla a che fare con questa spedizione né con la donna che le sta accanto."
+
+### u062289
+"Spero che la vostra decantata 'saggezza' valga tutti questi guai."
+
+### u062290
+"Vorrei che potessimo dimenticare del tutto il decoro quando siamo in presenza l'uno dell'altra..."
+
+### u062291
+"Bruciate questa eretica — frequenta gli xenos!"
+
+### u062292
+"Jae Heydari, la proprietaria di questo carico, è al momento sotto la mia protezione — sotto la protezione di un Rogue Trader. Di' al tuo padrone che d'ora in poi dovrebbe pensarci due volte prima di mettersi contro di lei."
+
+### u062293
+"È un piacere avere amici così generosi. Porta i miei saluti al Liege."
+
+### u062294
+"Vladaym crede davvero che la mia amicizia possa essere comprata così a buon mercato?"
+
+### u062295
+"Offri a un fedele servitore dell'Imperatore un carico di xenoeresia? Chi credi che io sia?"
+
+### u062296
+"Avresti dovuto ammettere subito che commerci in xenoartefatti. Sono sempre stato {mf|affascinato|affascinata} dalla tecnologia non umana."
+
+### u062297
+"Aspetta, voglio esaminare anche gli altri container."
+
+### u062298
+"Andiamo."
+
+### u062299
+"Cosa, lasceremo qui incustodito il tuo prezioso carico?"
+
+### u062300
+"Prenderò quanto pattuito. Ma non voglio rivederti mai più."
+
+### u062301
+"A un Rogue Trader farebbe comodo qualcuno con i tuoi talenti e le tue conoscenze, Jae. Mi piacerebbe averti nel mio seguito."
+
+### u062302
+"Se vuoi che restiamo soci — niente più segreti né mezze verità."
+
+### u062303
+"Sarò clemente e ti darò una scelta, eretica. Puoi espiare i tuoi deplorevoli crimini contro l'Imperium servendo la Casata von Valancius, oppure puoi morire dove sei."
+
+### u062304
+"Quando faccio una cosa e perché è una decisione che spetta solo a me, e non intendo spiegare le mie ragioni a nessuno."
+
+### u062305
+"Che intendi con 'dono'? Il carico è mio comunque — non avevo alcuna intenzione di separarmene."
+
+### u062306
+"Confisco questo carico, non lo accetto. E parlerò ancora con il Liege — mi piacerebbe molto sapere cosa lo abbia spinto ad appropriarsi di xenoeresia proibita."
+
+### u062307
+"Parlami dei tuoi 'affari' su Footfall — la verità, e non tralasciare nulla."
+
+### u062308
+"Potevi dirmi fin dall'inizio che eri immersa fino ai gomiti nelle xenomerci. Non fare la ritrosa con chi ha fatto questo mestiere in prima persona."
+
+### u062309
+"Non ci vedo nulla di male nel trarre profitto dove non si fa danno né a sé stessi né all'Imperium."
+
+### u062310
+"I confini tendono a sfumare — di solito a insaputa di chi ci cammina più vicino."
+
+### u062311
+"Volevo parlare come fa la gente normale. Per {mf|un uomo|una donna} del mio rango, è un raro piacere."
+
+### u062312
+"Nemmeno tu sei stata molto franca — nessuno dei due è stato del tutto onesto."
+
+### u062313
+"Le tue parole sono piene di eresia. E tu... sei semplicemente ripugnante."
+
+### u062314
+"Una canaglia di principi che sa cavarsela sul momento e non teme i non umani. Mi piaci sempre di più, Jae Heydari."
+
+### u062315
+"Due... Tre... Cinque... Sia ringraziato l'Eccelso, quegli ashmag non hanno ancora fatto in tempo a portare via niente!" {n}Jae ispeziona con cura i container contrassegnati da marchi di uno sconosciuto operatore di trasporti, poi sorride e tocca l'auricolare vox nell'orecchio.{/n} "Dammi due minuti, shereen — manderò le coordinate alla mia fedele ciurma, che porterà la mia proprietà in un posto sicuro."
+
+### u062316
+"Sono l'agente personale di Vladaym Tocara." {n}L'uomo esita, scegliendo con cura le parole.{/n} "Sono venuto qui per togliere dalla circolazione criminale un carico la cui distribuzione è vietata nelle terre di Footfall — un'orrenda xenoeresia consegnata fraudolentemente a un bastione del santo Imperium." {n}Guarda Jae.{/n} "Non dubito per un istante, {mf|nobilissimo|nobilissima} {name}, che la vostra presenza qui sia soltanto un malinteso causato dalle manipolazioni altrui..."
+
+### u062317
+"Qualcuno ti ha mai detto che hai uno sguardo incredibilmente penetrante?" {n}Il sorriso di Jae svanisce.{/n} "Be', shereen. Questo carico per me è particolarmente prezioso perché viene da lontano — dalla regione delle Heathen Stars. Da miei lontani partner commerciali. Sia i partner sia il carico sono, diciamo, di una cultura estranea all'Umanità—"
+
+### u062318
+{n}Jae ti rivolge un sorriso sottile.{/n} "Mentire? Odio le bugie. Io sono per gli affari puliti, shereen. E posso assicurartelo con la massima sincerità: i miei segreti commerciali non arrecheranno in alcun modo danno alla tua reputazione, al tuo portafoglio o alla tua testa."
+
+### u062319
+"E... fatto!" {n}Jae toglie la mano dall'orecchio e si volta verso di te.{/n} "Tutto a posto! Ora che ne dici di spostarci in un posto più piacevole e riservato per discutere i dettagli del nostro accordo, in particolare il pagamento per il tuo disturbo?"
+
+### u062320
+{n}Dai una buona occhiata al contenuto di un container il cui coperchio è leggermente socchiuso. Sotto la plastica ingiallita vedi numerose casse di forme e dimensioni strane. Alcune sono trasparenti e, nella luce fioca, riesci a malapena a distinguere gli strani oggetti all'interno.{/n}
+
+### u062321
+"Oh, so di cosa parli. Conosco un paio di tizi che non sapevano tenere le mani a posto e hanno finito per perderle. Non sarei così brava in quello che faccio se non sapessi valutare il rischio. Inoltre... l'{g|Encyclopedia:Emperor}Imperatore{/g} protegge, shereen. È proprio vero. Ne sono stata testimone io stessa più e più volte."
+### u062322
+{n}Non ci sono dubbi: il container è pieno di xenoartefatti, creazioni eretiche dei nemici dell'Umanità. La sola vista di questi oggetti strani e innaturali ti riempie di un vago senso di disagio, anche senza sapere esattamente cosa contengano queste casse.{/n}
+
+### u062323
+{n}È del tutto impossibile distinguere dettagli con questa luce fioca. Eppure le misteriose sagome all'interno della cassa ti lasciano addosso un vago senso di stonatura.{/n}
+
+### u062324
+"Ascolta, {name}. Mi dispiace davvero per questa... confusione. Io e Vladaym abbiamo avuto le nostre divergenze, ma non avrei mai pensato che volesse ripulirmi e levarmi di mezzo in qualche angolo buio... almeno, non così presto. Se non avessi accettato il nostro accordo, shereen, io e la mia banda galleggeremmo già in orbita attorno a uno degli asteroidi di Footfall."
+
+### u062325
+"E... sì, il mio carico contiene xenoartefatti, il cui possesso è una condanna a morte per qualsiasi persona comune... Ma tu, shereen, non mi sembri una persona comune. Se te l'avessi detto apertamente, saresti diventata, diciamo, complice. Ma dato che quelle parole illecite non mi sono uscite dalle labbra, avresti semplicemente accettato di aiutare un'anima sfortunata — me — a recuperare qualche container. Il mio più sincero desiderio era proteggerti da ogni guaio inutile, shereen. Lo giuro sull'Eccelso! E spero davvero che questo, ehm, malinteso non influisca sulla nostra futura collaborazione...?"
+
+### u062326
+"Non riesco a credere di aver appena sequestrato un carico di xenoartefatti a un contrabbandiere per conto di un altro." {n}Il labbro di Heinrix si arriccia mentre esamina con disgusto il contenuto della cassa.{/n} "Sono certo che il Rogue Trader sappia cosa fa e quali conseguenze possano derivare dallo stringere 'amicizie' come queste."
+
+### u062327
+{n}Si inchina profondamente.{/n} "Sarà senza dubbio felicissimo di sentire le vostre parole. È con animo lieve che mi congedo da voi, mio {mf|signore|signora}."
+
+### u062328
+{n}Distoglie lo sguardo.{/n} "Sono terribilmente dispiaciuto che le mie parole vi abbiano turbato — non volevano essere un insulto. Vi prego di accettare le mie più profonde scuse. Il destino del carico sta a voi deciderlo — riferirò le vostre parole al Liege."
+
+### u062329
+"Sì... certamente. Riferirò le vostre parole al Liege." {n}Si inchina profondamente.{/n}
+
+### u062330
+"Alt, in nome del Liege!" {n}L'uomo scarno e pallido, con addosso sudice vesti clericali, ti guarda — e subito cade in ginocchio con fare ossequioso.{/n} "Eccellenza! Vi prego di perdonare la mia veemenza, {mf|nobilissimo|nobilissima} {name} — non mi sarei mai aspettato di incontrare persone tanto eminenti in questo angolo di Footfall!"
+
+### u062331
+{n}Scuote la testa con delusione.{/n} "Peccato... Che peccato. Be', allora ti ringrazio per l'aiuto. I miei uomini consegneranno la ricompensa promessa alla tua nave. Se dovessi ripensarci, mi troverai nello stesso posto. Addio, shereen."
+
+### u062332
+"In ogni caso, sono pienamente disposta a unirmi al tuo seguito. D'ora in poi le mie conoscenze e la mia esperienza sono interamente a tua disposizione!"
+
+### u062333
+"Lo giuro sulla bontà dell'Eccelso!" {n}Jae fa il segno dell'{g|Encyclopedia:Aquila}Aquila{/g} con un'espressione inaspettatamente solenne.{/n}
+
+### u062334
+{n}Jae scrolla le spalle.{/n} "Ogni rapporto d'affari ha le sue stranezze — se vuoi comandare tu, per me va bene. Servirò volentieri per il bene dell'{g|Encyclopedia:Imperium}Imperium{/g}, finché mi lascia la testa sulle spalle."
+
+### u062335
+{n}Jae lo guarda allontanarsi in fretta, poi si volta verso di te.{/n} "Vorrei vedere la faccia di Vladaym quando scoprirà di aver quasi pestato i piedi a una delle persone più potenti della Distesa."
+
+### u062336
+"Che l'Eccelso benedica te e tutta la tua dinastia! Non direi di no a festeggiare l'occasione come si deve — non capita tutti i giorni di dare il via a una brillante nuova società d'affari!"
+
+### u062337
+"Che proposta scandalosa!" {n}Jae abbassa gli occhi con finto imbarazzo, poi ti lancia subito un'occhiata seducente.{/n} "Scandalosa e allettante."
+
+### u062338
+"Be', che posso dire, shereen? Non è la prima volta che qualcuno lo dice di me. E non credo sarà l'ultima. Ma non importa cosa pensiamo l'uno dell'altra — quello che conta è... possiamo metterci d'accordo?"
+
+### u062339
+"Colpevole come da accusa!" {n}Jae alza le mani in una scherzosa capitolazione.{/n} "Su questo hai ragione, quindi suppongo di non essere nella posizione di criticare."
+
+### u062340
+"Questo è così... umano, Vostra Signoria. Immagino che chi sta in alto abbia molto più in comune con la gente comune di quanto alcuni pensino."
+
+### u062341
+"Assolutamente, shereen. Non intendevo irritarti."
+
+### u062342
+{n}Jae ti rivolge un sorriso perlaceo.{/n} "La pensiamo allo stesso modo, shereen. Dunque, questo significa che posso sperare che la nostra collaborazione continui?"
+
+### u062343
+"Oh, e un'ultima cosa... Se ti interessa un'offerta piuttosto redditizia, che può dare una spinta al protettorato von Valancius... direi che ora non è il momento di pensare a certe cose, ma una volta tornati alla tua nave... magari potresti concedermi un minuto, shereen?"
+
+### u062344
+"Questa affermazione è vera, con l'eccezione che voi stessa siete una profana ignorante e una ladra che dovrebbe stare alla larga dalle perversioni tecnologiche dei non umani. Ora richiedo la vostra eliminazione preventiva."
+
+### u062345
+"Ignorante? Io? Ho tenuto in mano cose che tu, cervello a ingranaggi, puoi solo sognare nelle tue fantasie di dati intrise d'olio. Smettila di nasconderti dietro la pietà e la legge — stai solo difendendo il monopolio della tua cricca su tutto ciò che ha interesse e valore monetario."
+
+### u062346
+"Perché non lasciamo perdere e—"
+
+### u062347
+"Signora Heydari, non avete risposto alla domanda del Rogue Trader." {n}La voce di Heinrix suona piatta e quasi annoiata.{/n} "Posso aiutarvi io, se lo desiderate."
+
+### u062348
+{n}Jae gli lancia un'occhiata.{/n} "Non credo che sarà necessario. Stavo giusto per arrivare al punto."
+
+### u062349
+{n}Abelard ti rivolge uno sguardo di rimprovero.{/n} "Infangate il nome dei von Valancius invitando gente come lei nel vostro seguito, Lord Capitano. La decisione è vostra, ma non stupitevi se a Footfall cominceranno a diffondersi voci poco edificanti."
+
+### u062350
+{n}Argenta osserva Jae.{/n} "È uno strano cerchio quello che state formando attorno a voi, Rogue Trader..."
+
+### u062351
+"Sorella Argenta..." {n}Jae le dà una squadrata quasi lasciva.{/n} "Ho sentito tutto sulle tue imprese a Footfall, ma non avrei mai immaginato che dietro tutte quelle chiacchiere oziose ci fosse una bellezza angelica!"
+
+### u062352
+{n}Anche tu trasportavi merci di natura simile, {d|Encyclopedia:CharGen_Criminal}un tempo{/d}. Il container è zeppo di opere eretiche degli xenos, nemici dell'Umanità, le cui creazioni non mancano mai di suscitare abbastanza interesse da fruttare prezzi enormi sul mercato nero.{/n}
+
+### u062353
+{n}Jae fa un passo indietro e ti guarda con aria lievemente perplessa ma rapita.{/n} "Quindi suppongo che questo ci renda colleghi, non è vero, shereen?"
+
+### u062354
+"Non esistono incontri casuali quando si è amati dall'Eccelso. Anche tu mi piaci sempre di più, shereen." {n}Jae ammicca e ti rivolge un sorriso incantevole.{/n}
+
+### u062355
+{n}Jae apre la bocca per rispondere quando senti il rumore di molti passi alle tue spalle.{/n}
+
+### u062356
+{n}È una coincidenza troppo grande che il rappresentante del Liege arrivi nei Quartieri d'Ombra subito dopo che Jae ha recuperato il suo legittimo bottino. Sembra che le guardie abbiano segnalato i problemi con il carico via vox, e non a uno qualunque, ma all'agente personale del Liege. Vladaym Tocara sapeva del carico fin dall'inizio e progettava di prenderlo per sé, e di sbarazzarsi di Jae, se poteva. Ecco la sordida e subdola lotta tra mercanti del Commercio Freddo. E se non fosse stato per il vostro accordo improvvisato stretto al bar, Vladaym avrebbe potuto riuscirci.{/n}
+
+### u062357
+{n}È troppo comodo. Senti che qualcuno è stato incastrato qui. Ma chi era il bersaglio? E chi ha teso la trappola?{/n}
+
+### u062358
+"Vladaym! Quel figlio di un grox! Quello sciacallo del vuoto! Ci stava dentro fin dall'inizio!" {n}Jae sibila tra i denti e porta la mano alla pistola al fianco, ma si volta all'improvviso verso di te con un'espressione guardinga.{/n} "Non avrai creduto a una parola di quello che ha detto quell'ashmag, vero, shereen?"
+
+### u062359
+"Domin'{name}, se è davvero vostro desiderio accogliere questa eretica nel vostro seguito, permettetemi di incidere un voto di servizio sulla sua lingua. Che il dolore le impedisca di pronunciare parole d'inganno e le ricordi l'obbedienza."
+
+### u062360
+"Non pensarci nemmeno, kaskha squinternata, a meno che tu non voglia che aggiunga qualche pezzetto di piombo in più agli ornamenti di metallo su quel tuo grugno imbronciato."
+
+### u062361
+{n}Solomorne incrocia le braccia, la postura implacabile e opprimente.{/n} "Entrare nel seguito del Rogue Trader è un'occasione rara per una come te di lasciarsi alle spalle le sue attività vergognose e cominciare a servire l'Imperium. Non sprecare questa opportunità di diventare una persona onorevole, trafficante."
+
+### u062362
+{n}Jae gli rivolge un sorriso furioso.{/n} "Ma certo, farò tutto ciò che è in mio potere per fare ciò che l'Eccelso mi ha benedetta nel saper fare meglio — accrescere la ricchezza del Rogue Trader! Non farebbe piacere anche a Lui, secondo te?"
+
+### u062363
+{n}Eogunn guarda benevolmente la Mercante del Commercio Freddo.{/n} "Ebbene, un intelletto agile unito a impulsività, rapide reazioni neurali e giudizio incontaminato costituisce un assemblaggio piuttosto raro di caratteristiche fenotipiche. La sua inclinazione verso la comprensione di tecnologie... eterodosse è inoltre indicativa di una prospettiva straordinaria."
+
+### u062364
+"E non dimenticare di dirgli che non sono pazza. Ma riscuoterò il debito, prima o poi."
+
+### u062365
+{n}Jae rivolge al Tecnoprete un sorriso sdolcinato.{/n} "Lo prenderò come un complimento, venerabile Maestro! Sarei lieta se mai decideste di ampliare la mia prospettiva riguardo ai nostri interessi comuni."
+
+### u062366
+"Un catalogo dettagliato di queste 'cose' servirebbe moltissimo alla causa della conoscenza, Signora Heydari. Il mio collega, come sempre, è fin troppo affrettato nei suoi giudizi."
+
+### u062367
+"Nobilissima Eccellenza?" {n}Jae increspa lievemente le labbra e ti lancia uno sguardo confuso.{/n}
+
+### u062368
+"E già che ci siamo... shereen, quando avevi intenzione di rivelarmi la tua vera identità?" {n}Jae inclina la testa di lato con curiosità.{/n} "Sono infinitamente lusingata dalla tua attenzione, ma se avessi saputo di parlare con un {g|Encyclopedia:RogueTrader}Rogue Trader{/g}, e non con un suo emissario, avrei mostrato un po' di decoro..."
+
+### u062369
+"Va bene, allora... Non è il mio primo anno nella Distesa. E non è nemmeno il mio primo anno negli affari. Mi sono seduta al tavolo delle trattative con ogni genere di gente — non solo cacciatori di bottino o contrabbandieri, ma anche con {g|Encyclopedia:Xenos}xenos{/g}, abbastanza intelligenti da credere che il beneficio reciproco fosse un esito migliore del nostro incontro rispetto alla distruzione reciproca. So cosa ha da dire in proposito l'{g|Encyclopedia:AdeptusMinistorum}Ecclesiarchia{/g}. Ma, parlando col cuore in mano — so dove passa il confine tra un affare normale e un tradimento dell'Umanità. E non lo oltrepasso mai."
+
+### u062370
+"Quella maledetta sgualdrina è scappata! Che grande vergogna, questa... {mf|Nobilissimo|Nobilissima} {name}, imploro umilmente il vostro perdono per questa scena sgradevole! Spero che questo episodio non influisca su nessuno dei vostri accordi con il Liege... quali che siano!" {n}Esita per un momento, poi sembra riprendere fiato.{/n} "Vi prego di accettare il carico sottratto all'eretica maledetta come compenso!"
+
+### u062371
+"No, no! Vostra Signoria, vi imploro di perdonare questo misero servo! Un terribile malinteso... mille scuse... non vi disturberò oltre..."
+
+### u062372
+"Niente di cui preoccuparsi — dopo tutto il putiferio che abbiamo causato qui, dubito che qualcuno si avvicinerà ai container. Sono comunque infinitamente lusingata dalla tua premura per la mia — anzi, ormai nostra — proprietà!"
+
+### u062373
+"Cosa? Tu... No, non mi arrenderò così facilmente!"
+
+### u062374
+[Giustizia Jae] "Jae Heydari, per aver tradito l'Imperium, io, {name} von Valancius, ti condanno a morte."
+
+### u062375
+"Sono {mf|riuscito|riuscita} a infiltrarmi nell'area in quarantena a vostra insaputa."
+
+### u062376
+"L'origine della malattia era un branco di mutanti. Sono stati sterminati. Rimangono alcuni sopravvissuti entro il perimetro, ma non rappresentano una minaccia."
+
+### u062377
+"Quindi la zona di quarantena ora è sicura?"
+
+### u062378
+"Di nuovo addetti ai servizi. Ho dovuto sparare a un paio dei tuoi colleghi, sai."
+
+### u062379
+"Quindi non sapete esattamente cosa sia successo nel distretto? Una malattia, degli insetti, o qualcos'altro?"
+
+### u062380
+"Alle persone intrappolate nella zona di quarantena viene fornito qualche tipo di aiuto?"
+
+### u062381
+"Vi saluto. Continuate così e restate vigili!"
+
+### u062382
+"Come sono morte esattamente le vittime?"
+
+### u062383
+"Quali misure sono state prese per affrontare il problema?"
+
+### u062384
+"L'origine della malattia era un branco di mutanti. Sono stati sterminati."
+
+### u062385
+{n}L'uomo si ferma e ti saluta con il suo lanciafiamme.{/n} "Vostra Signoria! Che onore! Tutta Footfall parla del nuovo capo della Casata von Valancius! Caposquadra della Squadra Servizi 3 di Footfall, al vostro servizio!"
+
+### u062386
+"Salve, {mf|signore|signora}! Che vi porta qui? Volevate vederci sgobbare fino a spezzarci la schiena, eh? La Squadra Servizi 3 di Footfall è orgogliosa di lavorare per il bene degli abitanti e degli ospiti della stazione!" {n}L'uomo fa l'occhiolino e ti saluta con il suo lanciafiamme.{/n}
+
+### u062387
+"Ah, Vostra Signoria. Vi prego di non arrabbiarvi, ma non abbiamo ancora sgomberato un passaggio per voi. Presto, però! Non è che siano rimaste tante mine..."
+
+### u062388
+{n}Il caposquadra della Squadra Servizi 3 sta fischiettando un allegro motivetto.{/n}
+
+### u062389
+"Be', dipende. Noi pensiamo che tutti quelli che potevano morire siano morti e in putrefazione. E le malattie e i parassiti di solito non vivono nei cadaveri. Abbiamo gettato qualche sacrificabile nella zona di quarantena, e possiamo dire con certezza che alla fine è stata la sete a ucciderli, non la malattia."
+
+### u062390
+{n}L'uomo impallidisce leggermente, poi ti rivolge un sorriso piuttosto teso.{/n} "Be'... capita! Spero non siano morti perché non vi piaceva come avevano sistemato il vostro cesso, eh eh."
+
+### u062391
+"Certo che no, Vostra Signoria. Nessuna minaccia, assolutamente!" {n}Annuisce con entusiasmo.{/n}
+
+### u062392
+"Solo ratti da bruciare. E un po' di rifiuti, e parassiti di altro genere. Il distretto è in quarantena, vedete. È stato colpito da qualcosa di brutto. Una malattia. O forse non è una malattia, solo qualche insetto e verme strisciato fuori da una nave o dall'altra."
+
+### u062393
+"È un po' strano che sia successo qui e non ai moli, lo ammetto. Roba così di solito comincia lì. Spruzzano persino il posto con una robaccia per ammazzare tutti gli insetti e i vermi. Ma immagino che qualcosa sia sfuggito. Due famiglie in quell'isolato laggiù ci hanno lasciato le penne. E il Liege non ha perso tempo a far circondare il distretto perché nessuno potesse uscire."
+
+### u062394
+"Mille scuse, Vostra Signoria, ma no, non lo sappiamo, e preferiremmo non scoprirlo. Chi, in sano giudizio, vorrebbe avvicinarsi a qualunque cosa sia? Abbiamo contenuto la sozzura — e per me basta e avanza!"
+
+### u062395
+"No. Non lo sappiamo. E non vogliamo scoprirlo. Se è spuntato qualcosa di brutto, la mossa giusta è contenerlo e ucciderlo col fuoco. Non andare a vedere cos'è e perché è lì."
+
+### u062396
+"Puah. Certo che no. Cioè, ho sentito che il Reverendo Hieronymus prega per le loro anime — il che suonava più come: 'La Retribuzione si è abbattuta su di loro, e a ragione.' È il massimo che possano sperare."
+
+### u062397
+"Li avete davanti! Stiamo qui, bruciamo la sozzura, e abbiamo gente di guardia perché nessuno scappi. Abbiamo piazzato delle mine — un bel po' — per gli stessi motivi. L'acqua, le fogne — tutto bloccato, per impedire che escano comunicazioni. L'aria è libera, suppongo, ma la sozzura non sembra trasmettersi per via aerea — non ci sono state morti strane fuori dal distretto."
+
+### u062398
+"Be', se lo dite voi..."
+
+### u062399
+"Ma io... io solo... Lo farò! Lo riferirò subito!"
+
+### u062400
+{n}Il sorriso del caposquadra si fa un po' meno sincero. I suoi occhi indagatori vagano sulle file dei suoi subordinati. Poi sospira.{/n} "Di norma non passa nemmeno un ratto, Vostra Signoria! Ma voi non siete una persona qualunque. Avete talenti speciali. Non oso giudicare. Se siete {mf|entrato|entrata}, doveva esserci un motivo."
+
+### u062401
+{n}Il caposquadra ti squadra da capo a piedi con uno sguardo lungo e carico di sospetto. La canna del suo lanciafiamme si volta nella tua direzione con apparente noncuranza.{/n} "Sono un mucchio di sciocchezze, {mf|signore|signora}. Abbiamo fatto un lavoro accurato sigillando ogni passaggio, dato che la quarantena significa che nessuno entra — né esce. Non scherzate più così, o potrei prendervi in parola." {n}Il lanciafiamme sputa nell'aria una rumorosa vampata di fuoco.{/n}
+
+### u062402
+"Ah, voi di nuovo. Salve! Stavamo giusto rimuovendo il cordone, sapete. L'epidemia è finita, pare. Sempre che ce ne sia mai stata una. Io e i ragazzi daremo una bella bruciata al posto, e poi sarà tutto a posto!"
+
+### u062403
+"Ah, siete voi di nuovo! È arrivato un ordine riguardo alla vostra stimata persona — dobbiamo sgomberare un passaggio e lasciarvi passare. Così eccoci qui — a sgomberare e disinnescare le mine... Non so perché abbiate tanta fretta di tirare le cuoia, ma — eh, non sono affari miei. Voi aspettate, e prima o poi vi apriremo la strada."
+
+### u062404
+"Chissà? Li hanno trovati nelle loro tane, già morti. Piaghe azzurre sui corpi, e puzzavano in modo orribile, ed è per questo che quelli che li hanno trovati non hanno nemmeno osato saccheggiare i cadaveri. Hanno fatto bene, direi. Non vuol dire che li lasciamo uscire, ovviamente."
+
+### u062405
+"Vostra Signoria, abbiate pietà! Non posso dirvi di no, ma il pericolo è reale per voi quanto per tutta la stazione! Noi... Sgomberiamo una strada per voi. Ma ci vorrà tempo, molto tempo — non sarà facile abbattere le barricate e disinnescare le mine." {n}Vi rivolge un lungo sguardo, sperando probabilmente che ci ripensiate. Ma, non ricevendo alcuna reazione, dà l'ordine ai suoi assistenti.{/n}
+
+### u062406
+"Niente da fare. Non se ne parla. Non lasciamo entrare nessuno. Ve lo dico subito, tangenti e intimidazioni con me non funzionano, quindi non provateci nemmeno. Potete presentare una petizione al Liege se siete così disperati. Ma il mio consiglio è di andarvene per la vostra strada. Il vuoto è pieno di brutti e pericolosi buchi, non siete obbligati a morire proprio in questo. Entrate e morite, e così avrò più cadaveri da bruciare..." {n}Si volta in modo plateale.{/n}
+
+### u062407
+"Negativo — non 'capita'." {n}La voce di Pasqal diventa stizzosa e la sua visiera si illumina di rosso.{/n} "In qualità di rappresentante dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g}, presento un reclamo ai Servizi della Stazione di Footfall. Il crematorio in cui doveva avvenire la combustione del corpo del defunto Denz Bellardo rimane in uno stato di manutenzione insoddisfacente. Due stazioni di circuito all'interno dell'infrastruttura fognaria sono prive della loro unità di supporto standard. Ciò è inaccettabile!"
+
+### u062408
+"Mutanti, eh? Hmm... Buffa, la faccenda dei mutanti — continui a bruciarli e quelli continuano a saltar fuori! Be', grazie mille per l'aiuto e i dettagli. Footfall non lo dimenticherà. Io e i ragazzi faremo un salto alla loro tana a ripulire, per assicurarci che non resti nessuna malattia!"
+
+### u062409
+{n}Sfogatosi, Pasqal sembra calmarsi — il colore della sua visiera cambia in blu e i suoi mecadendriti smettono di scattare così violentemente.{/n} "Riferite al vostro diretto superiore che io, {g|Encyclopedia:Magos}Magos{/g} Haneumann, ho richiesto un'ispezione immediata."
+
+### u062410
+"Chi ha detto che la gioia segue il dovere o non ha mai avuto doveri o ha vissuto una vita molto miserabile."
+
+### u062411
+"Senza timore avanzano i fedeli, incuranti degli orrori dell'universo, delle tentazioni dell'Arcinemico... e di quel terribile fetore, l'Imperatore mi perdoni."
+
+### u062412
+"Quando sognavo il mondo esterno, mi sembrava... diverso. Meno duro."
+
+### u062413
+"Potresti pensare che alla seconda volta ci si abitui. Ma no, è repellente esattamente come prima."
+
+### u062414
+"In teoria, siamo tutti nella merda fino al collo. Ma in realtà lo sono solo io."
+
+### u062415
+"Ci sono cose nella vita che è meglio non sapere né pensare — l'ignoranza su di esse è una benedizione dell'Eccelso. Be', in questo momento mi sento un po' meno benedetta."
+
+### u062416
+"C'è decisamente qualcosa che non va nella tua razza, mon-keigh."
+
+### u062417
+[Brandisci l'arma] "La fame non ti ucciderà in questo istante. Ma questa potrebbe!"
+
+### u062418
+Hai prevenuto la rivolta della fame su Footfall ordinando la distribuzione di cibo dalla tua nave del vuoto.
+
+### u062419
+"Fermi! Farò consegnare cibo dalla mia nave ai Quartieri d'Ombra perché venga distribuito. Non c'è bisogno di violenza!"
+
+### u062420
+"Aprite le vostre dispense! Dateci tutto quello che avete! O ce lo prendiamo da soli!"
+
+### u062421
+"Sì, come no! Tornatevene nelle vostre tane, ratti. Se non avete niente da mangiare, non è un problema mio!"
+
+### u062422
+{n}Idira osserva la marmaglia con aria cupa.{/n} "Quando ero una bambina sul mio pianeta natale, un intero distretto rimase senza razioni, e provammo a fare un colpo del genere a un negozio locale... I proprietari cominciarono a sparare, senza fare domande. Ah. Non ho mai preso i custodi di Footfall per dei rammolliti..."
+
+### u062423
+"Vi prego, Vostra Signoria, non ho colpa di niente di tutto questo! Questa marmaglia vuole svaligiare il bar! Dicono che non hanno niente da mangiare!" {n}La guardia sputa.{/n}
+
+### u062424
+"Solo un po' di marmaglia che vuole svaligiare il bar. Dicono che non hanno niente da mangiare! Venite qui, {mf|signore|signora} — divertitevi un po' con noi, li riempiamo di buchi!" {n}La guardia punta l'arma contro la folla.{/n}
+
+### u062425
+{n}Il rivoltoso indietreggia.{/n} "Che... ? Non ci lasciano mai respirare... Forza, gente, qui l'unica cosa che ci arriva è il cervello schizzato per terra!"
+
+### u062426
+"Non ci fate paura! Prenderemo i vostri coltelli e le vostre pistole e li venderemo per sfamare i nostri figli! Sotto, ragazzi!"
+
+### u062427
+"Bene, ne ho abbastanza di voi, feccia."
+
+### u062428
+{n}Il rivoltoso ti fissa incredulo per un minuto intero.{/n} "D-davvero? Ci aiuterete? L'Imperatore deve averci sentiti, deve! Per favore, mandate presto il cibo. Il nostro intero quartiere sta morendo di fame!"
+
+### u062429
+"Hai trovato qualcuno a cui mendicare, eh? Ora sparisci! Alla svelta, prima che ti dia una spinta con una pallottola nella schiena."
+
+### u062430
+"Questi contadini sono avvolti da fiamme marroni e gialle. Fra pochi istanti la disperazione e la fame li sopraffaranno, li bruceranno da dentro, soffocheranno la loro paura della morte... e diventeranno una tempesta di un cremisi sudicio."
+
+### u062431
+"Lo farai, eh?" {n}Kibellah estrae un pugnale dalla manica, la lama ancora umida di sangue — suo o di qualcun altro.{/n} "E questa lama, che ha tagliato la gola a più eretici di quanti anni tu abbia vissuto — prenderai anche quella?"
+
+### u062432
+{n}Abelard scuote la testa.{/n} "Il vecchio Danrok avrà una crisi..."
+
+### u062433
+"Credo che gli avanzi qualcosa. A pensarci bene, è ora che qualcuno tagli le razioni A LUI — i pantaloni dell'Alto Factotum aumentano di una taglia ogni anno."
+
+### u062434
+"Aprite le dispense, parassiti! Sappiamo che lì dentro vi state ingozzando mentre noi moriamo di fame!"
+
+### u062435
+"Quando i tempi sono duri, bisogna condividere!"
+
+### u062436
+"Aah! Prendeteli! Ce la filiamo!"
+
+### u062437
+"Fermi lì, marmaglia! O sparo!"
+
+### u062438
+"Credevate di poter derubare Octaviana? Ve lo facciamo vedere noi!"
+
+### u062439
+"Strisciate di nuovo nelle vostre tane!"
+
+### u062440
+"Prendi quello che vuoi e levati dalla mia vista."
+
+### u062441
+[Fai l'elemosina] "Prendi quello che ti serve, ed ecco un po' in più."
+
+### u062442
+"Via di qui, monello di strada."
+
+### u062443
+{n}Il monello tira su col naso rumorosamente per attirare la tua attenzione.{/n} "Salve, Vostra Altezza! Siete proprio come dicono! Così {mf|bello|bella}! E forte! E i vostri vestiti sono così eleganti!"
+
+### u062444
+"Ricevuto. Sono già sparito!" {n}Dando un'occhiata triste agli stivali sul cadavere, il monello scappa via.{/n}
+
+### u062445
+{n}Il monello tira su col naso rumorosamente per attirare la tua attenzione.{/n} "Salve, {mf|signore|signora}! Bel lavoretto avete fatto con tutta 'sta gente! Davvero 'eroico!"

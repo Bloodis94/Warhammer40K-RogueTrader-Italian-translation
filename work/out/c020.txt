@@ -1,0 +1,1523 @@
+### u010821
+Kinesiostatic Shield
+
+### u010822
+Quando chi lo impugna attacca con questo scudo, infligge {g|Encyclopedia:EnergyDamage}danni energetici{/g} aggiuntivi pari al numero di accumuli di questo effetto, con il 50% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}. Dopodiché, tutti gli accumuli vengono rimossi.
+
+### u010823
+Gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} andati a segno di chi lo impugna {g|Encyclopedia:ImmobilisedEffect}immobilizzano{/g} il bersaglio.
+
+### u010824
+Shield of Unfaltering Will
+
+### u010825
+<u>(4 × livelli di {g|Encyclopedia:BurningEffect}in fiamme{/g} di chi lo impugna)</u>
+
+### u010826
+<u>(2 × livelli di {g|Encyclopedia:BurningEffect}in fiamme{/g} di chi lo impugna)</u>
+
+### u010827
+All'inizio del combattimento, chi lo impugna subisce 1 livello di {g|Encyclopedia:BurningEffect}in fiamme{/g} e non può rimuovere lo stato in fiamme tramite {g|Encyclopedia:ResistanceTest}prove di resistenza{/g}.
+Alla fine del suo {g|Encyclopedia:Turn}turno{/g}, chi lo impugna infligge {uip|Burning|bc678cefb78a475fbdea38e2a672fce0} livelli di in fiamme a tutte le creature adiacenti. Se i nemici colpiti sono xenos o demoni, subiscono inoltre {uip|Damage|bc678cefb78a475fbdea38e2a672fce0} {g|Encyclopedia:FireDamage}danni da fuoco{/g} con il 5% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u010828
+Flames of Retribution
+
+### u010829
+<u>(4 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u>
+
+### u010830
+<u>(10 × grado di {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} di chi lo impugna)</u>
+
+### u010831
+Alla fine del suo {g|Encyclopedia:Turn}turno{/g}, chi lo impugna ottiene {uip|THP|febbd2a3f1f14a9eb90ecf9eaece04d1} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} per ogni alleato adiacente.
+Ogni volta che un alleato adiacente subisce {g|Encyclopedia:DamageGlossary}danni{/g}, il {uip|Reflect|febbd2a3f1f14a9eb90ecf9eaece04d1}% di quei danni viene inflitto a chi lo impugna.
+
+### u010832
+Defender
+
+### u010833
+Esistono tre copie di questo scudo.
+Chi lo impugna ottiene {g|Encyclopedia:Bonus}bonus{/g} in base al numero di alleati adiacenti che impugnano la Steel Triad:
+-<indent=5%>1 alleato: +2 di {g|Encyclopedia:Deflection}deviazione{/g}, +10% di {g|Encyclopedia:BlockChance}blocco{/g}</indent>
+-<indent=5%>2 alleati: il {g|Encyclopedia:Talent}talento{/g} {g|f:ebfe1f63501a4134962d0b2ff6ab6655}Combat Master{/g}, +10% di blocco, {g|Encyclopedia:DamageGlossary}danni{/g} subiti dagli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} ridotti del −30%</indent>
+
+### u010834
+Steel Triad
+
+### u010835
+Scudo riflettente
+
+### u010836
+Chi lo impugna ottiene +1 di {g|Encyclopedia:Deflection}deviazione{/g}.
+
+### u010837
+Scudo temprato
+
+### u010838
+Chi lo impugna ottiene +1 di {g|Encyclopedia:Deflection}deviazione{/g} e +{uip|Parry|5be2249a59c549198145a4390a155372}% di {g|Encyclopedia:Parry}parata{/g}.
+
+### u010839
+Vecchio scudo
+
+### u010840
+Scudo pesante
+
+### u010841
+Chi lo impugna ottiene +1 di {g|Encyclopedia:Deflection}deviazione{/g} e +{uip|Parry|30c675c6da0e4ecba9697349629a8d85}% di {g|Encyclopedia:Parry}parata{/g}.
+
+### u010842
+Scudo di ferro
+
+### u010843
+Scudo da artigliere
+
+### u010844
+Chi lo impugna ottiene +1 di {g|Encyclopedia:Deflection}deviazione{/g}. {g|Encyclopedia:Reload}Ricaricare{/g} un fucile a pompa costa 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u010845
+Scudo solido
+
+### u010846
+Chi lo impugna ottiene +2 di {g|Encyclopedia:Deflection}deviazione{/g} e +{uip|Parry|27aa9039b55f42968d1891fc21fc7654}% di {g|Encyclopedia:Parry}parata{/g}.
+
+### u010847
+<u>(4 × bonus di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g})</u>
+
+### u010848
+Scudo avanzato
+
+### u010849
+Chi lo impugna ottiene +2 di {g|Encyclopedia:Deflection}deviazione{/g} e +{uip|Parry|ad7978b34be447128cf701768c03ab7f}% di {g|Encyclopedia:Parry}parata{/g}.
+
+### u010850
+Scudo dell'Adeptus Arbites
+
+### u010851
+Finché chi lo impugna ha meno di 4 {g|Encyclopedia:Traumas}traumi{/g} e un alleato adiacente ancora in combattimento, le {g|Encyclopedia:HitPoints}ferite{/g} di chi lo impugna non possono scendere sotto 1. Ogni istanza di danno letale infligge invece un trauma casuale.
+
+### u010852
+Last Stand
+
+### u010853
+Ogni volta che l'{g|Encyclopedia:CareerAdeptGlossary}Operative{/g} {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico affetto sia da un {g|Encyclopedia:Exploit}Exploit{/g} sia da {g|f:197b8a8a12b0442db7ffee1067cf3d97}Expose Weakness{/g}, quel nemico perde −3 {g|Encyclopedia:MovementPoints}PM{/g} e i suoi {g|Encyclopedia:DamageGlossary}danni{/g} sono ridotti del −10% nel suo prossimo {g|Encyclopedia:Turn}turno{/g}.
+
+### u010854
+Inflict Despair
+
+### u010855
+{g|f:7b00b5ea0dc246e1a304619d5678ca5b}Precise Attack{/g} concede all'{g|Encyclopedia:CareerAdeptGlossary}Operative{/g} un {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}Perception{/g} pari a <u>(numero di {g|Encyclopedia:Exploit}Exploit{/g} rimossi / 2)</u> (minimo 1) fino alla fine del combattimento. Cumulabile.
+
+### u010856
+Insightful Precision
+
+### u010857
+Il prossimo attacco dell'{g|Encyclopedia:CareerAdeptGlossary}Operative{/g} che non sia un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} infligge lo stato intimorito al primo bersaglio {g|Encyclopedia:HitSequenceGlossary}colpito{/g} dall'attacco e a tutti i nemici in un raggio di 5 caselle attorno a quel bersaglio.
+I {g|Encyclopedia:DamageGlossary}danni{/g} inflitti dai nemici intimoriti sono ridotti del −{uip|DamagePenalty|aedb4d2a2fd049db9c3f61b6737043a4}% fino al prossimo {g|Encyclopedia:Turn}turno{/g} dell'Operative. Questo {g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g} è raddoppiato per i nemici con meno del {uip|MinimumArmour|aedb4d2a2fd049db9c3f61b6737043a4}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+
+### u010858
+Il prossimo attacco dell'{g|Encyclopedia:CareerAdeptGlossary}Operative{/g} che non sia un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} infligge lo stato intimorito al primo bersaglio {g|Encyclopedia:HitSequenceGlossary}colpito{/g} dall'attacco e a tutti i nemici in un raggio di 5 caselle attorno a quel bersaglio.
+I {g|Encyclopedia:DamageGlossary}danni{/g} inflitti dai nemici intimoriti sono ridotti del −<u>(2 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>% fino al prossimo turno dell'Operative. Questo {g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g} è raddoppiato per i nemici con meno del <u>(3 × bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g})</u>% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+
+### u010859
+Fino al prossimo {g|Encyclopedia:Turn}turno{/g} dell'{g|Encyclopedia:CareerAdeptGlossary}Operative{/g}, gli attacchi dei suoi alleati rimuovono anch'essi gli {g|Encyclopedia:Exploit}Exploit{/g} e infliggono +{unit_stat|WarhammerIntelligence|bonus} {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+
+### u010860
+Joint Analysis
+
+### u010861
+L'{g|Encyclopedia:CareerAdeptGlossary}Operative{/g} rimuove −1 {g|Encyclopedia:Exploit}Exploit{/g} da ogni nemico in un raggio di 5 caselle attorno a un punto entro 10 caselle dall'Operative. Se nell'area c'è un solo nemico, l'Operative rimuove da quel nemico tutti gli accumuli di Exploit.
+Tutti gli alleati ottengono +<u>(Exploit rimossi)</u>% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} fino alla fine del combattimento. Se vengono rimossi 4 o più Exploit, l'Operative infligge +<u>(2 × Exploit rimossi)</u>% di {g|Encyclopedia:DamageGlossary}danni{/g} in più fino alla fine del combattimento.
+
+### u010862
+Tactical Knowledge
+
+### u010863
+{g|f:197b8a8a12b0442db7ffee1067cf3d97}Expose Weakness{/g} riduce inoltre la {g|Encyclopedia:WarhammerToughness}Toughness{/g} e la {g|Encyclopedia:WarhammerWillpower}Willpower{/g} dei nemici di −{uip|StatPenalty|da74cc7556cf4c47b0c77ce4b6e132d2} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u010864
+Weak Body, Weak Soul
+
+### u010865
+Quando il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} subisce {g|Encyclopedia:DamageGlossary}danni{/g}, ottiene +{uip|DodgeBonus|9570de551c9447cba38b5f2a70be9ddb}% di {g|Encyclopedia:DodgeGlossary}schivata{/g}. Cumulabile fino a 3 volte e si azzera dopo una schivata riuscita.
+
+### u010866
+Defensive Manoeuvres
+
+### u010867
+Il Pink Horror evoca due Blue Horror alla sua morte.
+
+### u010868
+Qualsiasi {g|Encyclopedia:DamageGlossary}danno{/g} inflitto da questa creatura maledice i bersagli, aumentando la probabilità di {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} contro di essi.
+I bersagli maledetti ottengono inoltre un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico garantito al loro prossimo attacco.
+
+### u010869
+Cursebringer
+
+### u010870
+Il prossimo attacco contro questa creatura verrà assorbito dalla sua {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} maledetta. Anche il nemico attaccante verrà maledetto e subirà un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico dal prossimo attacco in arrivo.
+
+### u010871
+Cursed Armour
+
+### u010872
+Ogni volta che un nemico attacca il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g}, il prossimo {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} del Warrior contro quel nemico infligge +{unit_stat|WarhammerToughness|bonus} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi. Non è cumulabile, ma può essere riattivato dopo un altro attacco compiuto dallo stesso nemico o da uno diverso.
+
+### u010873
+Contempt
+
+### u010874
+Gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} infliggono +{uip|BonusDamage|038401f387f3417dac61f8e16831c53f} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi per ogni nemico nell'area d'effetto.
+
+### u010875
+Crowd Kill
+
+### u010876
+Quando il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} {g|Encyclopedia:PushGlossary}respinge{/g} un nemico o {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un solo nemico con un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g}, quel nemico sceglie il Warrior come {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} per il proprio prossimo attacco.
+
+### u010877
+Per ogni Daemonette nelle vicinanze, tutte le creature all'interno della sua aura subiscono:
+<indent=5%>−10 {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}</indent>
+<indent=5%>−10 {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}</indent>
+<indent=5%>−1 {g|Encyclopedia:ActionPoints}PA{/g}</indent>
+
+### u010878
+Aura of Elation
+
+### u010879
+Il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} infligge +<u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerAgility}AGI{/g}</u> {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi ai nemici senza alleati adiacenti.
+
+### u010880
+Drop the Deadweight
+
+### u010881
+Recupera {g|Encyclopedia:HitPoints}ferite{/g} a ogni uccisione.
+
+### u010882
+Tormentor Aura
+
+### u010883
+Annulla tutti i {g|Encyclopedia:DamageGlossary}danni{/g} in arrivo da un attacco riuscito su due.
+
+### u010884
+Phase Shift
+
+### u010885
+Questa creatura concede al suo alleato un {g|Encyclopedia:Turn}turno{/g} extra subito dopo il proprio.
+
+### u010886
+Command
+
+### u010887
+Ogni volta che il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} viene attaccato, ottiene +1 accumulo di epicentre of slaughter fino alla fine del combattimento.
+All'inizio del suo {g|Encyclopedia:Turn}turno{/g}, il Warrior ottiene +1 {g|Encyclopedia:TemporaryWounds}ferita temporanea{/g} per ogni accumulo. Queste {g|Encyclopedia:HitPoints}ferite{/g} temporanee non possono superare {unit_stat|WarhammerToughness|bonus}.
+
+### u010888
+Epicentre of Slaughter
+
+### u010889
+Ogni volta che un qualsiasi personaggio usa un {g|Encyclopedia:HeroicAct}Atto Eroico{/g} in combattimento, il prossimo attacco dell'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} costerà 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u010890
+Heroism
+
+### u010891
+{g|f:93d58dfeb6c648858c130e0a902f6ed6}Forceful Strike{/g} riduce inoltre la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} di un nemico di −<u>(5 + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerStrength}STR{/g} del {g|Encyclopedia:CareerFighterGlossary}Warrior{/g})</u>.
+
+### u010892
+Il {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} marchia un bersaglio, ottenendo +{uip|BonusArmour|4696f02da13b4596b941bb950d945a05}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e +{uip|BonusDamage|4696f02da13b4596b941bb950d945a05} {g|Encyclopedia:DamageGlossary}danni{/g} negli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} contro quel bersaglio.
+Se il bersaglio attacca il Warrior durante questo {g|Encyclopedia:Round}round{/g}, il Warrior ottiene +1 {g|Encyclopedia:ActionPoints}PA{/g} (una volta per round).
+
+### u010893
+Sworn Enemy
+
+### u010894
+Riduce la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} del bersaglio di −10.
+
+### u010895
+Guttural Howl
+
+### u010896
+Il prossimo attacco del bersaglio ignorerà la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} e avrà una distanza efficace doppia.
+Se il bersaglio è sotto l'effetto di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}, questo attacco ignorerà il blocco nemico e la {g|Encyclopedia:DodgeGlossary}schivata{/g}. Inoltre, i {g|Encyclopedia:DamageGlossary}danni{/g} di questo attacco non possono essere ridotti, per alcun motivo, al di sotto del {uip|MimimumDamage|3a4d9ccff9cf40bd88fa018e05ec550d}%.
+
+### u010897
+Take Aim!
+
+### u010898
+Ogni volta che questa creatura subisce {g|Encyclopedia:DamageGlossary}danni{/g}, la sua {g|Encyclopedia:WarhammerToughness}Toughness{/g} aumenta.
+
+### u010899
+Love the Pain
+
+### u010900
+Ethereal Flames
+
+### u010901
+Il Tecnoprete può usare il proprio mecadendrite per ripristinare le {g|Encyclopedia:HitPoints}ferite{/g} di un alleato una volta per combattimento.
+I {g|Encyclopedia:ShockDamage}danni da shock{/g} aumentati inflitti al bersaglio a causa dell'effetto {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g} sono ridotti di −5% per accumulo fino alla fine del combattimento.
+L'alleato recupera +<u>(6 + {uip|Heal|3a3b073676b24e7ead880363fef1bbaf} + numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g} del bersaglio)</u> ferite.
+
+### u010902
+Medicae Mechadendrite
+
+### u010903
+Il mecadendrite manipolatore attacca i nemici a {g|Encyclopedia:MeleeAttacksGlossary}portata di mischia{/g}, {g|Encyclopedia:PushGlossary}respingendoli{/g} fino a 2 caselle di distanza e infliggendo {uip|Damage|215371a91c7047abb0fc1acbbbbcf63c} danni. Questo attacco ha il {uip|Penetration|215371a91c7047abb0fc1acbbbbcf63c}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u010904
+Manipulator Push
+
+### u010905
+Eyeburst
+
+### u010906
+Un intenso microburst sovraccarica gli spiriti macchina vicini, riducendo di −10 la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} di chi li usa.
+
+### u010907
+Dataspike
+
+### u010908
+Riduce notevolmente l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e la {g|Encyclopedia:DodgeGlossary}schivata{/g} del bersaglio analizzato e aumenta la probabilità di colpirlo.
+
+### u010909
+Deep Analysis
+
+### u010910
+Il prossimo {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} a distanza del Soldier infligge +{uip|DamagePercent|81ccaba57178473da52e89e99a42392a}% di {g|Encyclopedia:DamageGlossary}danni{/g} e ha un +{uip|DodgePenetration|81ccaba57178473da52e89e99a42392a}% aggiuntivo di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g}.
+
+### u010911
+Concentrated Fire
+
+### u010912
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di questa creatura aumenta per ogni alleato adiacente.
+
+### u010913
+Pack Mentality
+
+### u010914
+Aumenta di +3 caselle la distanza di {g|f:4955b43454f6488f82892e166c76c995}Charge{/g}.
+
+### u010915
+Questa creatura ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g} dopo aver subito {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u010916
+Retaliation
+
+### u010917
+L'{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} e gli alleati con l'effetto {g|f:9c78e44bf8ff44a9afff8370c673c9ad}voice of command{/g} infliggono +{uip|DamageBonus|58073019ae10412e9509b6ac97006bf1}% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi ai nemici che non hanno ancora agito in questo combattimento.
+
+### u010918
+Seize the Initiative
+
+### u010919
+Tutti gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} del Soldier ottengono +{uip|DamageBonus|82483452ef5c4ab69ac78eb05dc6771b}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e ignorano {uip|DeflectionPenetration|82483452ef5c4ab69ac78eb05dc6771b} di {g|Encyclopedia:Deflection}deviazione{/g} se usati contro nemici in un raggio di 3 caselle attorno al Soldier.
+
+### u010920
+Point-Blank
+
+### u010921
+Il Soldier rimuove immediatamente lo stato senza fiato. Fino alla fine del combattimento, il Soldier ottiene i seguenti {g|Encyclopedia:Bonus}bonus{/g}:
+-<indent=5%>+10 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.</indent>
+-<indent=5%>+{uip|BonusCritDamage|530b6d2cefef42f180b90c7bdbb99f90}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g}.</indent>
+-<indent=5%>+{unit_stat|WarhammerAgility|bonus}% di probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico.</indent>
+Questa {g|Encyclopedia:Ability}abilità{/g} diventa disponibile dopo che il Soldier uccide 3 nemici. Il contatore delle uccisioni non viene azzerato tra un {g|Encyclopedia:Round}round{/g} e l'altro.
+
+### u010922
+Revel in Slaughter
+
+### u010923
+Dopo che il Soldier infligge {g|Encyclopedia:DamageGlossary}danni{/g} a 3 nemici diversi, il Soldier ottiene +{uip|DamageBonus|88e62a99868842bd9554971820fbd95b}% di danni in più per il suo prossimo attacco nel combattimento in corso.
+
+### u010924
+Rack and Ruin
+
+### u010925
+Twisting Path
+
+### u010926
+Un demone alleato si infuria e perde tutta la sua {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}, ma ottiene un {g|Encyclopedia:Turn}turno{/g} extra ogni volta che subisce qualsiasi {g|Encyclopedia:DamageGlossary}danno{/g}.
+
+### u010927
+Unholy Rage
+
+### u010928
+Rigenera le {g|Encyclopedia:HitPoints}ferite{/g} delle creature demoniache alleate.
+
+### u010929
+Daemonic Regeneration
+
+### u010930
+Questo stimolante da combattimento concede un attacco aggiuntivo per {g|Encyclopedia:Round}round{/g}, ma applica {g|Encyclopedia:ToxinEffect}tossina{/g} (5). Anche tutti i {g|Encyclopedia:DamageGlossary}danni{/g} in arrivo aumentano di +5.
+
+### u010931
+Stimm da combattimento: Serpentin
+
+### u010932
+Riduce di −50% tutte le cure ricevute. Impedisce di usare {g|f:5617027d4ab7419092156bfadd0fff05}Reanimation Protocol{/g} per 3 {g|Encyclopedia:Round}round{/g}.
+
+### u010933
+Irradiated
+
+### u010934
+<u>(10 × numero di alleati ancora in combattimento di chi impugna il Fucile ad arco di Alpha)</u>
+
+### u010935
+Infligge +{uip|Damage|12268145c253474cb0ff40f2329b3355} di danni base in più.
+
+### u010936
+Arc Rifle Mindstorm
+
+### u010937
+Questo attacco non conta ai fini del limite di attacchi per turno, ma infligge 20 danni a chi lo impugna.
+
+### u010938
+Double-Edged Strike
+
+### u010939
+Questo attacco infligge danni doppi, ma la schivata del bersaglio contro di esso aumenta di +50%.
+
+### u010940
+Ritual Cut
+
+### u010941
+Questa lama ha un attacco speciale chiamato {g|f:8ee5002b220a42249cd6e0ecd416d451}Ritual Cut{/g}.
+
+### u010942
+Lama cerimoniale
+
+### u010943
+Fucile laser Ghost
+
+### u010944
+Pistola laser Ghost
+
+### u010945
+Ogni creatura in un raggio di 1 casella attorno a chi lo impugna subisce {g|Encyclopedia:EnergyDamage}danni energetici{/g} pari ai danni dell'arma al plasma, usando la {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} di quell'arma. Chi lo impugna subisce il doppio dei danni con il doppio della penetrazione dell'armatura.
+Quando avviene l'esplosione, tutti gli accumuli di {g|f:0835dbc012334dd49f849fcc92e9f708}plasma cell overheating{/g} vengono rimossi da chi lo impugna.
+
+### u010946
+<u>Livello psichico</u>
+
+### u010947
+Ogni attacco riuscito con quest'arma aumenta di +3 i {g|Encyclopedia:DamageGlossary}danni{/g} dell'effetto di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} subito da un bersaglio.
+
+### u010948
+Lama di glimmersteel seghettata
+
+### u010949
+I {g|Encyclopedia:DamageGlossary}danni{/g} inflitti sono ridotti di −25% fino alla fine del combattimento.
+
+### u010950
+Blackhaze Venom
+
+### u010951
+Gli attacchi contro bersagli che subiscono {g|Encyclopedia:ToxinEffect}tossina{/g} applicano l'effetto tossina, con la stessa potenza, a tutti i nemici entro un raggio di 2 caselle dal bersaglio.
+
+### u010952
+Lama Blackhaze Venom
+
+### u010953
+All'inizio del {g|Encyclopedia:Turn}turno{/g}, tutte le creature in un raggio di 2 caselle subiscono l'effetto bloodblight. Se queste creature subiscono danni da impatto, perforanti o {g|Encyclopedia:RendingDamage}danni laceranti{/g}, subiscono anche +4 {g|Encyclopedia:DirectDamage}danni diretti{/g} aggiuntivi e {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (4).
+
+### u010954
+Bloodblight
+
+### u010955
+Gli attacchi di questo fucile infliggono al bersaglio l'effetto bloodblight.
+<i>Bloodblight:</i> all'inizio del {g|Encyclopedia:Turn}turno{/g} del bersaglio, tutte le creature in un raggio di 2 caselle subiscono l'effetto bloodblight. Se queste creature subiscono danni da impatto, perforanti o {g|Encyclopedia:RendingDamage}danni laceranti{/g}, subiscono anche +4 {g|Encyclopedia:DirectDamage}danni diretti{/g} aggiuntivi e {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (4).
+
+### u010956
+Bloodblight Hexrifle
+
+### u010957
+<u>(5 × livello di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} del bersaglio)</u>
+
+### u010958
+Quando questa spada {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico in {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, rimuove il sanguinamento e infligge {g|Encyclopedia:ToxinEffect}tossina{/g} della stessa potenza. Chi la impugna ottiene +{uip|Dodge|9b5b0c3fdcb5447898d3d8360099f50d}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} fino al suo prossimo {g|Encyclopedia:Turn}turno{/g}.
+
+### u010959
+Bloodseeker Klaive
+
+### u010960
+Gli attacchi con Life Sunderer concedono +50% di {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g}.
+
+### u010961
+<u>(bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g} di chi lo impugna + livello di {g|Encyclopedia:ToxinEffect}tossina{/g} del bersaglio)</u>
+
+### u010962
+Questo fucile ha il {g|Encyclopedia:DeadeyeShot}deadeye shot{/g}. Il deadeye shot infligge {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari a {uip|Damage|c4b67aae857f464290040b025f2e6252}.
+
+### u010963
+Fucile a schegge Deadshot
+
+### u010964
+Ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} di questa pistola infligge +1 accumulo di {g|Encyclopedia:MeltingEffect}in fusione{/g}.
+
+### u010965
+Pistola blaster Desolation
+
+### u010966
+Infligge {g|Encyclopedia:BurningEffect}in fiamme{/g} (8). Questo effetto non può essere rimosso fino alla fine del combattimento.
+
+### u010967
+Immolation
+
+### u010968
+Applica lo stato immolation. Immolation equivale a {g|Encyclopedia:BurningEffect}in fiamme{/g} (8), ma non può essere rimosso fino alla fine del combattimento. Se {g|Encyclopedia:HitSequenceGlossary}colpito{/g}, il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con un bonus di +5 o rimanere {g|Encyclopedia:Stun}stordito{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u010969
+Quest'arma infligge uno speciale effetto di immolation che infligge {g|Encyclopedia:BurningEffect}in fiamme{/g} (8), ma non può essere rimosso fino alla fine del combattimento. Il bersaglio deve inoltre superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con un {g|Encyclopedia:Bonus}bonus{/g} di +5 o rimanere {g|Encyclopedia:Stun}stordito{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u010970
+Pitch-Black Desolator
+
+### u010971
+Cannone disintegratore
+
+### u010972
+Dopo aver messo a segno un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico con la spada da duello, se chi la impugna ha un'arma nell'altra mano, attacca subito il nemico più vicino con essa, usando l'attacco che costa meno {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u010973
+Spada da duello
+
+### u010974
+Lama di glimmersteel
+
+### u010975
+I bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} da questo fucile a pompa devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} o restare avvelenati, subendo {g|Encyclopedia:ToxinEffect}tossina{/g} (8) di {g|Encyclopedia:DamageGlossary}danni{/g} a ogni {g|Encyclopedia:Turn}turno{/g}.
+
+### u010976
+Fucile a pompa Shard
+
+### u010977
+Flesh Disintegrator
+
+### u010978
+Quando chi la impugna infligge {g|Encyclopedia:DamageGlossary}danni{/g} al bersaglio con Lilaethan's Fury, il bersaglio rimane {g|Encyclopedia:BlindedEffect}accecato{/g} fino alla fine del combattimento. Il primo attacco con Lilaethan's Fury in un {g|Encyclopedia:Round}round{/g} contro il bersaglio accecato non mette l'attacco in {g|Encyclopedia:Cooldown}tempo di ricarica{/g}.
+
+### u010979
+Concede +5 {g|Encyclopedia:MovementPoints}PM{/g} dopo ogni attacco e permette a chi lo impugna di muoversi dopo aver attaccato. Se un attacco con quest'arma {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} 3 o più bersagli, questo attacco non ha {g|Encyclopedia:Cooldown}tempo di ricarica{/g}.
+Questo fucile ha +100% di {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g}.
+
+### u010980
+Ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico con questo bolter aumenta i {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} di +10% fino alla fine del combattimento.
+
+### u010981
+Bolter annientatore Astartes
+
+### u010982
+Fucile laser archeotech
+
+### u010983
+Con un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} a segno, il proiettile esplode, infliggendo 20 {g|Encyclopedia:ImpactDamage}danni da impatto{/g} a tutti nell'{g|Encyclopedia:AreaOfEffect}area d'effetto{/g} attorno al bersaglio.
+
+### u010984
+Revolver anti-veicolo
+
+### u010985
+Quando viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g} da quest'arma, il bersaglio subisce una {g|Encyclopedia:Penalty}penalità{/g} di −5% all'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}. Cumulabile.
+
+### u010986
+Spada a catena Anver
+
+### u010987
+[C-Delphim Pattern] Ascia omnissiana
+
+### u010988
+Quest'ascia usa <b>Brutal Strike</b> per gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u010989
+Foehammer avanzato dell'Adeptus Arbites
+
+### u010990
+I nemici {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} da quest'arma subiscono un effetto irradiated che dura 3 {g|Encyclopedia:Turn}turni{/g}, riducendo di −50% tutte le cure ricevute. Impedisce inoltre di usare {g|f:5617027d4ab7419092156bfadd0fff05}Reanimation Protocol{/g} per 3 {g|Encyclopedia:Round}round{/g}.
+
+### u010991
+Corpuscarii Oath
+
+### u010992
+<u>(accumuli di {g|f:eeecc5cab7b846e8b1478ecfa15ce9bc}zeal{/g} / 10)</u>
+
+### u010993
+La {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} di questo bolter aumenta di +{uip|RoF|b7c0d4663e9c4c01b6a5622aeaf1079e}.
+
+### u010994
+Hymn of Vehemence
+
+### u010995
+Questa pistola infligge {g|Encyclopedia:DamageGlossary}danni{/g} doppi ai nemici adiacenti.
+
+### u010996
+Pistola dell'assassino
+
+### u010997
+Fucile laser d'assalto
+
+### u010998
+Ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} riduce la {g|Encyclopedia:Deflection}deviazione{/g} di −1. Cumulabile fino a 3 volte.
+
+### u010999
+I bersagli colpiti da questo fucile automatico subiscono +20% di danni tossici in più fino alla fine del combattimento.
+
+### u011000
+Fucile automatico erosivo
+
+### u011001
+Questa pistola automatica può essere usata come se chi la impugna avesse il {g|Encyclopedia:Talent}talento{/g} {g|f:1b26e486d9974b9ca26d055413fb3e01}Dual-Weapon Combat{/g}.
+<indent=3%>+5 di {g|Encyclopedia:WarhammerPerception}Perception{/g}</indent>
+<indent=3%>+5 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}</indent>
+
+### u011002
+Pistola automatica di famiglia
+
+### u011003
+Quando chi la impugna {g|Encyclopedia:Parry}para{/g} con successo con questa spada potenziata, contrattacca subito con l'attacco che costa meno {g|Encyclopedia:ActionPoints}PA{/g}. Concede inoltre:
+-<indent=5%>+30% di {g|Encyclopedia:Bonus}bonus{/g} alla parata.</indent>
+-<indent=5%>Con un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} a segno con questa spada potenziata, il bersaglio subisce una {g|Encyclopedia:Penalty}penalità{/g} di −10 alla {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}.</indent>
+
+### u011004
+Spada potenziata autocolpente
+
+### u011005
+<u>(4 × bonus di {g|Encyclopedia:WarhammerStrength}STR{/g})</u>
+
+### u011006
+Questi benefici non si applicano quando si usa {g|f:e955823f54d24088ae1fdefe88d3684d}Blade Dance{/g}.
+
+### u011007
+Infligge +{uip|Damage|c30fadf556f44a19999880964ae9482d} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi e ottiene +{uip|Pen|c30fadf556f44a19999880964ae9482d}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+I bersagli hanno +30% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro gli attacchi compiuti con quest'arma.
+
+### u011008
+Excruciating Shriek
+
+### u011009
+Quest'arma ha un'{g|Encyclopedia:Ability}abilità{/g} aggiuntiva a gittata cortissima (2 caselle) e {g|Encyclopedia:DamageGlossary}danni{/g} aumentati (50%).
+
+### u011010
+Crucible of Torment
+
+### u011011
+<u>(10 + 2 × {g|Encyclopedia:Deflection}deviazione{/g} del bersaglio)</u>
+
+### u011012
+Questo blaster infligge {uip|Damage|4c6a10640e4d4889a961a73c0ee3dc02} {g|Encyclopedia:DirectDamage}danni diretti{/g} aggiuntivi.
+
+### u011013
+Grave Foreboding
+
+### u011014
+Questa pistola è dotata di uno strano siero che fluidifica il sangue, infliggendo {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (6).
+
+### u011015
+Pistola a schegge Bleeder
+
+### u011016
+Ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} riduce di −5 la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, la {g|Encyclopedia:WarhammerStrength}Strength{/g}, la {g|Encyclopedia:WarhammerToughness}Toughness{/g} e la {g|Encyclopedia:WarhammerPerception}Perception{/g} del bersaglio. Cumulabile.
+
+### u011017
+Bloodthirster
+
+### u011018
+Chi impugna questo bolter ha il 10% di probabilità di recuperare +1 {g|Encyclopedia:ActionPoints}PA{/g} dopo un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} riuscito. Se i PA sono stati recuperati in questo modo per la prima volta in questo {g|Encyclopedia:Turn}turno{/g}, questo attacco non ha {g|Encyclopedia:Cooldown}tempo di ricarica{/g}.
+
+### u011019
+Unshakeable Tenet
+
+### u011020
+<u>(5 × bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g})</u>
+
+### u011021
+Ogni colpo di questo bolter infligge +{uip|Damage|c31185d9515d4727aae60696c6fa96b9} {g|Encyclopedia:RendingDamage}danni laceranti{/g} aggiuntivi con il 40% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} a tutti i personaggi adiacenti al bersaglio.
+
+### u011022
+They Shall Weep
+
+### u011023
+Un colpo a segno con quest'arma applica casualmente uno dei seguenti {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g}: {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:ToxinEffect}tossina{/g}, {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:PerplexedEffect}confuso{/g}, {g|Encyclopedia:StaggeredEffect}barcollante{/g}, {g|Encyclopedia:BlindedEffect}accecato{/g}, {g|Encyclopedia:FatiguedEffect}affaticato{/g}, {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}.
+
+### u011024
+Quando {g|Encyclopedia:HitSequenceGlossary}colpisci{/g} un nemico con la mazza Bonebreaker, il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −10 o cadere {g|Encyclopedia:ProneEffect}a terra{/g} e ottenere un {g|Encyclopedia:Traumas}trauma{/g} casuale.
+
+### u011025
+Mazza Bonebreaker
+
+### u011026
+Ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} riuscito con quest'ascia aumenta i {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} di quest'ascia del 25% fino alla fine del combattimento.
+
+### u011027
+Non ha un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g}. Aumenta i {g|Encyclopedia:DamageGlossary}danni{/g} da tutte le fonti contro qualsiasi bersaglio {g|Encyclopedia:HitSequenceGlossary}colpito{/g} di +15% fino alla fine del combattimento. Non è cumulabile.
+
+### u011028
+Wrath of Saint Drusus
+
+### u011029
+Tutti i {g|Encyclopedia:DamageGlossary}danni{/g} inflitti quando quest'arma {g|Encyclopedia:PushGlossary}respinge{/g} un nemico aumentano di +100%.
+
+### u011030
+Chi la impugna ottiene +1 accumulo di <b>marchesa's thirst</b> quando mette a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} con quest'arma e +3 accumuli quando uccide un bersaglio con essa. Al raggiungimento di 5 accumuli, ottiene un attacco aggiuntivo fino alla fine del {g|Encyclopedia:Turn}turno{/g}. Una volta attivato questo effetto, tutti gli accumuli vengono rimossi.
+
+### u011031
+Con un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} a segno con questo crozius, tutti gli alleati di chi lo impugna ottengono +5 ai {g|Encyclopedia:DamageGlossary}danni{/g} contro il bersaglio per 1 {g|Encyclopedia:Round}round{/g}.
+Dopo che chi lo impugna infligge danni con questo crozius, ciascuno dei suoi alleati compie un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g} contro il bersaglio.
+
+### u011032
+Uralon's Accursed Crozius
+
+### u011033
+Questa pistola ha un attacco speciale che costa 0 PA, ha una cadenza di fuoco maggiore e termina il turno di chi la impugna.
+
+### u011034
+Gli attacchi in {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} compiuti con quest'arma costano 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u011035
+Pistola Daredevil
+
+### u011036
+Quando chi la impugna ha la {g|Encyclopedia:MeleeSuperiority}superiorità in mischia{/g}, gli attacchi con questa spada mettono sempre a segno {g|Encyclopedia:HitSequenceGlossary}colpi{/g} critici con un {g|Encyclopedia:Bonus}bonus{/g} di +100% ai {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g}.
+
+### u011037
+Sciabola Daring
+
+### u011038
+Deadly Precision
+
+### u011039
+Gli attacchi a {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g} con questa pistola mettono sempre a segno {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g}.
+
+### u011040
+Revolver stub Dead Shot
+
+### u011041
+Chi la impugna può subire danni pari al 25% delle proprie ferite massime per recuperare +1 PA. Può essere usato più volte per turno finché chi la impugna ha almeno il 50% di ferite.
+
+### u011042
+Crimson Rage
+
+### u011043
+Questo coltello concede a chi lo impugna un'abilità speciale chiamata {g|f:2f680a6d85ef4ed9b48aa71532d3c9f8}Crimson Rage{/g}.
+
+### u011044
+Bloody Pact
+
+### u011045
+Questa lama ha un attacco aggiuntivo chiamato {g|f:ca399340605f44899dadca4efa5422d4}Double-Edged Strike{/g}.
+
+### u011046
+Cold Blooded
+
+### u011047
+Aumenta di +1 il livello di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} causato da quest'ascia fino alla fine del combattimento per ogni attacco di taglio che compie.
+
+### u011048
+Disemboweler
+
+### u011049
+Se chi la impugna infligge {g|Encyclopedia:DamageGlossary}danni{/g} al bersaglio con questa spada, fino alla fine del combattimento ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +3 alla {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, alla {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, alla {g|Encyclopedia:WarhammerToughness}Toughness{/g} e alla {g|Encyclopedia:WarhammerStrength}Strength{/g}, mentre il bersaglio subisce una {g|Encyclopedia:Penalty}penalità{/g} di −3 a quelle {g|Encyclopedia:Characteristic}caratteristiche{/g}.
+
+### u011050
+Djin Blade of Yremeryss
+
+### u011051
+Questo fucile a pompa non manca mai il bersaglio.
+
+### u011052
+Fucile a pompa a doppia canna
+
+### u011053
+Quest'arma ha un attacco aggiuntivo che respinge i nemici. Se un nemico non può essere {g|Encyclopedia:PushGlossary}respinto{/g}, a essere respinto è chi la impugna. Questo attacco infligge +{unit_stat|WarhammerAgility|bonus} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u011054
+Se chi la impugna uccide un nemico con {g|f:4955b43454f6488f82892e166c76c995}Charge{/g}, questa {g|Encyclopedia:Ability}abilità{/g} non ha {g|Encyclopedia:Cooldown}tempo di ricarica{/g}.
+
+### u011055
+Tutti i bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} dall'{g|Encyclopedia:AreaOfEffect}attacco ad area{/g} di quest'arma infliggono 25 {g|Encyclopedia:EnergyDamage}danni energetici{/g} a tutti in un raggio di 2 caselle.
+
+### u011056
+Eruption
+
+### u011057
+Chi la impugna compie tre attacchi consecutivi contro un nemico.
+
+### u011058
+Concede +80% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} e un'{g|Encyclopedia:Ability}abilità{/g} speciale che permette a chi la impugna di compiere tre attacchi consecutivi contro un nemico.
+
+### u011059
+Saint Katherine's Adulation
+
+### u011060
+[Orthlack-Pattern] Revolver stub
+
+### u011061
+Questo fucile ha 3 diversi attacchi in {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} con {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} e {g|Encyclopedia:DamageGlossary}danni{/g} differenti. A ogni {g|Encyclopedia:Round}round{/g} è disponibile solo uno di questi attacchi in raffica, determinato a caso.
+
+### u011062
+Fucile d'assalto sperimentale
+
+### u011063
+Il primo attacco con questo lanciafiamme in combattimento infligge {g|Encyclopedia:DirectDamage}danni diretti{/g} aggiuntivi a xenos, psyker e demoni, pari al 10% delle {g|Encyclopedia:MaxWounds}ferite massime{/g} del bersaglio. L'effetto {g|Encyclopedia:BurningEffect}in fiamme{/g} applicato da questo lanciafiamme infligge a xenos, psyker e demoni {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari al 2% delle {g|Encyclopedia:HitPoints}ferite{/g} massime del bersaglio.
+
+### u011064
+Purging Fury
+
+### u011065
+Per ogni bersaglio {g|Encyclopedia:HitSequenceGlossary}colpito{/g} dall'attacco di questo lanciafiamme, la potenza di {g|Encyclopedia:BurningEffect}in fiamme{/g} inflitta dagli attacchi di questo lanciafiamme aumenta di +3 fino alla fine del combattimento.
+
+### u011066
+Breath of Purgation
+
+### u011067
+Quando viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g} da quest'arma, il bersaglio subisce +10% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} e +15% di {g|Encyclopedia:DamageGlossary}danni{/g} critici da tutti gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} per 2 {g|Encyclopedia:Turn}turni{/g}.
+
+### u011068
+Pistola lanciafiamme ricostruita
+
+### u011069
+Searing explosion
+
+### u011070
+<u>(bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g} del nemico / 3)</u>
+
+### u011071
+Ogni volta che chi la impugna uccide un bersaglio con questo lanciafiamme manuale, il bersaglio esplode, infliggendo {uip|Damage|867dd79aad8443dd9b978a99f6dfe744} {g|Encyclopedia:FireDamage}danni da fuoco{/g} a tutte le creature in un raggio di 2 caselle e applicando {g|Encyclopedia:BurningEffect}in fiamme{/g} (9).
+
+### u011072
+The Exploder
+
+### u011073
+Fucile melta Focus
+
+### u011074
+La {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} di questo lanciafiamme aumenta di +4%, ma non infligge l'effetto {g|Encyclopedia:BurningEffect}in fiamme{/g}.
+
+### u011075
+Foehammer
+
+### u011076
+Una pistola a pompa. Il Foehammer è apprezzato da molti ufficiali di bordo della flotta, oltre che dai capisquadra che hanno bisogno di un'arma intimidatoria.
+
+### u011077
+<u>(degrado del Velo × livello psichico)</u>
+
+### u011078
+Ogni colpo critico messo a segno con questa spada aumenta il degrado del Velo di +{uip|Range|b80f6440487547fb8f3ab4e85bed493a}. Il prossimo attacco con questa spada infligge +{uip|Damage|b80f6440487547fb8f3ab4e85bed493a} danni in più.
+
+### u011079
+Veilrender
+
+### u011080
+Se usata da uno psyker, ogni volta che questa spada colpisce un nemico il degrado del Velo si riduce di −1.
+
+### u011081
+Soulsiphon
+
+### u011082
+<u>(2 × livello psichico)</u>
+
+### u011083
+Ogni volta che chi la impugna uccide un nemico con quest'arma, il degrado del Velo si riduce di −{uip|Damage|141f119fbbc54b08abc49f74786e9ca5}.
+
+### u011084
+Triumph of Retribution
+
+### u011085
+Ogni attacco ad area compiuto con quest'arma aumenta il degrado del Velo di +{uip|Range|d1bd880bf4944374aefe0fe6ce5082dd} e infligge +{uip|Damage|d1bd880bf4944374aefe0fe6ce5082dd}% di danni in più.
+
+### u011086
+Awakened Nightmare
+
+### u011087
+<u>Livello psichico di chi la impugna</u>
+
+### u011088
+I nemici adiacenti a chi la impugna subiscono una riduzione di −{uip|Range|c88058271fb1472c8c54a63b68f43a40} di Toughness. Chi la impugna ottiene +{uip|Range|c88058271fb1472c8c54a63b68f43a40} di Toughness per ogni nemico adiacente.
+
+### u011089
+Will to Live
+
+### u011090
+Quando quest'arma colpisce, il bersaglio deve superare una prova di resistenza di Willpower o subire {uip|Damage|02095d0bf4604c7ea77d876cb876256d} livelli di {g|f:3ddbf131cbd54087a665d4b2e026b0f2}warp burn{/g}.
+
+### u011091
+<u>(2 × degrado del Velo × livello psichico)</u>
+
+### u011092
+Ogni attacco ad area compiuto con quest'arma aumenta il degrado del Velo di +{uip|Range|4f53637d66ef4414a96f50a7a22b7026} e infligge +{uip|Damage|4f53637d66ef4414a96f50a7a22b7026}% di danni in più.
+
+### u011093
+The Distortion
+
+### u011094
+Ogni colpo critico messo a segno con quest'arma riduce il degrado del Velo di −{uip|Range|525bb3514e67472fa05ff18a304117d6} e aumenta di +{uip|Damage|525bb3514e67472fa05ff18a304117d6} la Willpower di chi la impugna per 1 round.
+
+### u011095
+Renunciation of Weakness
+
+### u011096
+Ogni volta che chi la impugna uccide un nemico con quest'arma, il degrado del Velo si riduce di −<u>livello psichico di chi la impugna</u>. Dopodiché, chi la impugna ottiene +1 di livello psichico per 1 round.
+
+### u011097
+Sacrifice
+
+### u011098
+Se chi la impugna è uno psyker, può ritirare immediatamente un tentativo di parata fallito, una volta per attacco, con una probabilità di successo pari alla propria Willpower.
+
+### u011099
+Dark Providence
+
+### u011100
+Se il livello psichico di chi la impugna è 9 o superiore, i danni, la riduzione della schivata e la penetrazione dell'armatura di questa spada aumentano di una percentuale pari al degrado del Velo.
+
+### u011101
+Immaterium's Channeller
+
+### u011102
+<u>(3 × livello psichico)</u>
+
+### u011103
+Ogni colpo critico messo a segno con quest'arma infligge {uip|Damage|dcd22529be0d4481982b04f2a4ae9fc3} livelli di {g|f:3ddbf131cbd54087a665d4b2e026b0f2}warp burn{/g}.
+
+### u011104
+Incinerator
+
+### u011105
+Gli attacchi di quest'ascia infliggono {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari al 5% delle {g|Encyclopedia:MaxWounds}ferite massime{/g} del bersaglio. Questo {g|Encyclopedia:Bonus}bonus{/g} si applica a ciascun nemico una sola volta per {g|Encyclopedia:Round}round{/g}.
+
+### u011106
+Un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} a segno con quest'arma infligge l'effetto {g|Encyclopedia:BurningEffect}in fiamme{/g} (12) al bersaglio e all'attaccante. L'attaccante deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −20 per annullare questo effetto.
+
+### u011107
+Infligge +60% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi ai nemici {g|Encyclopedia:BurningEffect}in fiamme{/g}.
+
+### u011108
+Fucile a fusione archeotech
+
+### u011109
+The Pyre
+
+### u011110
+Gli attacchi di quest'arma proiettano raggi aggiuntivi, ciascuno dei quali infligge 30 {g|Encyclopedia:EnergyDamage}danni energetici{/g} a 3 nemici casuali in un raggio di 10 caselle attorno al bersaglio principale.
+
+### u011111
+Gaze of the Void
+
+### u011112
+<u>({g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g} di chi la impugna / 4)</u>
+
+### u011113
+Quest'arma infligge +{uip|Damage|db50fd1f18244abdaa946cacbdca880d}% di {g|Encyclopedia:DamageGlossary}danni{/g} in più ai nemici xenos.
+
+### u011114
+Ogni attacco con questa sega aumenta di +{uip|Damage|af6818977b6b403c9f558c070c156f3f}% i danni dei colpi critici di chi la impugna. Questo bonus è cumulabile e dura fino alla fine del combattimento.
+
+### u011115
+Taglierina d'emergenza pesante
+
+### u011116
+Questo lanciafiamme pesante ha un attacco ad area aggiuntivo chiamato {g|f:0da2cd0110bf4264b6e118c8ae894930}Scorching Retribution{/g}.
+
+### u011117
+Questa lama infligge +{uip|Damage|0e45284b27f74feb9993195c1ab8933a} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi ai bersagli per ogni {g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g} comune che subiscono.
+
+### u011118
+Hekatarii Blade of Bloodthirst
+
+### u011119
+Richiede {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Aderente.
+Concede a chi la impugna +1 di {g|Encyclopedia:Resolve}determinazione{/g} per ogni nemico ucciso fino alla fine del combattimento.
+
+### u011120
+Sworn Protector
+
+### u011121
+<u>(4 × bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g})</u>
+
+### u011122
+Questo fucile laser infligge +{uip|Damage|71d06b927ac34b68810cdfcac273c221} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi ai nemici con più del 60% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+
+### u011123
+Implacable Tempest
+
+### u011124
+Quando si attaccano xenos e demoni con questo lanciafiamme, la potenza di {g|Encyclopedia:BurningEffect}in fiamme{/g} inflitta dai suoi attacchi aumenta di +20.
+
+### u011125
+Triumph of the Stalwart
+
+### u011126
+Questa spada concede i seguenti effetti in base al grado di {g|Encyclopedia:SoulmarkTypesGlossary}Convinzione{/g} di chi la impugna — {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g}:
+-<indent=5%>Dogmatic — Aderente: ignora la {g|Encyclopedia:DodgeGlossary}schivata{/g} di xenos, demoni e psyker.</indent>
+-<indent=5%>Dogmatic — Devoto: ignora inoltre la {g|Encyclopedia:Deflection}deviazione{/g} di xenos, demoni e psyker.</indent>
+-<indent=5%>Dogmatic — Fanatico: ignora inoltre l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di xenos, demoni e psyker.</indent>
+
+### u011127
+I {g|Encyclopedia:DamageGlossary}danni{/g} contro xenos, psyker e servitori del Caos aumentano di +4.
+
+### u011128
+Imperial Pride
+
+### u011129
+Se un bersaglio colpito dall'attacco di questo lanciafiamme subisce in fiamme alla fine del proprio turno, quel bersaglio esplode, infliggendo in fiamme dello stesso livello a tutti i nemici in un raggio di 3 caselle. Quel bersaglio deve superare una prova di resistenza di Willpower con una penalità di −15 o cadere privo di sensi per 1 round.
+
+### u011130
+Judex
+
+### u011131
+Quando quest'arma {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, il bersaglio deve superare una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −35 o rimanere {g|Encyclopedia:BlindedEffect}accecato{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u011132
+Suin Kaelean
+
+### u011133
+Quest'arma infligge +{unit_stat|WarhammerBallisticSkill|bonus} {g|Encyclopedia:DirectDamage}danni diretti{/g} aggiuntivi al bersaglio per ogni accumulo di {g|Encyclopedia:FatiguedEffect}affaticato{/g} subito da quel bersaglio.
+
+### u011134
+Promise of Retribution
+
+### u011135
+Modificato per servire il grande scopo di Nemesite, questo revolver stub porta vendetta a chiunque sia troppo debole per opporsi all'idea di chi lo impugna.
+
+### u011136
+Con un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} a segno con questa spada, il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una penalità di −5. In caso di fallimento, il bersaglio subisce l'effetto {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} aumenta di +1.
+<i>{g|Encyclopedia:SoulmarkTypesGlossary}Convinzione{/g} — {g|Encyclopedia:SoulMarkCorruption}Heretical{/g}</i>: chi la impugna recupera {g|Encyclopedia:HitPoints}ferite{/g} pari al 25% dei {g|Encyclopedia:DamageGlossary}danni{/g} inflitti al bersaglio in sanguinamento.
+
+### u011137
+Spada succhiavita
+
+### u011138
+[Mezoa-Pattern] Pistola automatica
+
+### u011139
+[Mezoa-Pattern] Fucile di precisione
+
+### u011140
+Ogni volta che un {g|Encyclopedia:DeadeyeShot}deadeye shot{/g} di quest'arma infligge {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g}, il bersaglio rimane {g|Encyclopedia:Stun}stordito{/g} per 1 {g|Encyclopedia:Turn}turno{/g}.
+
+### u011141
+Stupor
+
+### u011142
+Un {g|Encyclopedia:DeadeyeShot}deadeye shot{/g} di questo fucile laser a canna lunga stordisce il bersaglio per 1 {g|Encyclopedia:Round}round{/g} se il bersaglio fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u011143
+Questo fucile infligge +33% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi ai nemici Drukhari.
+
+### u011144
+Bane of Sorrow
+
+### u011145
+La {g|Encyclopedia:DodgeReduction}<b>riduzione della schivata</b>{/g} contro Drukhari e Aeldari aumenta di +40%.
+
+### u011146
+Ynnealith
+
+### u011147
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Zelota
+Questa pistola bolt infligge {g|Encyclopedia:WarpDamage}danni warp{/g}.
+
+### u011148
+Inherent Blasphemy
+
+### u011149
+Quest'ascia potenziata infligge +50% di {g|Encyclopedia:DamageGlossary}danni{/g} in più se chi la impugna ha meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u011150
+Tarvanna's Last Stand
+
+### u011151
+L'arma è splendidamente decorata con denti umani e xenos, trofei delle vittime del precedente proprietario di quest'arma.
+
+### u011152
+Void Viper
+
+### u011153
+[Drusus Prime Pattern] Fucile a pompa
+
+### u011154
+Solo attacco a bersaglio singolo. Ignora 7 di {g|Encyclopedia:Deflection}deviazione{/g}.
+
+### u011155
+Cinder
+
+### u011156
+Burden of Servitude
+
+### u011157
+[Orthlack-Pattern] Fucile automatico
+
+### u011158
+Pistola a schegge modificata
+
+### u011159
+Multi-Melta
+
+### u011160
+Il più grande tipo di arma melta, solitamente impiegata solo dagli Adeptus Astartes o montata su veicoli imperiali.
+
+### u011161
+Il primo colpo per bersaglio di questa pistola aumenta di +5 il livello degli effetti di danno nel tempo che il bersaglio sta già subendo. Non si attiva di nuovo per nuovi effetti inflitti allo stesso bersaglio dopo il primo colpo. Non è cumulabile.
+
+### u011162
+Bloodburner
+
+### u011163
+Questa pistola infligge {g|Encyclopedia:BurningEffect}in fiamme{/g} (10), {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (10) e {g|Encyclopedia:ToxinEffect}tossina{/g} (10) ai suoi bersagli.
+
+### u011164
+Tyrant
+
+### u011165
+I bersagli colpiti da questo fucile sono costretti a muoversi di 2 caselle lontano dal tiratore.
+
+### u011166
+The Roar
+
+### u011167
+Ogni colpo di quest'arma costringe il bersaglio a muoversi di 2 caselle lontano dal tiratore. Se il bersaglio subisce {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g} o {g|Encyclopedia:ToxinEffect}tossina{/g}, il livello di questi effetti aumenta di +10. Non è cumulabile.
+
+### u011168
+Gorenov's Masterpiece
+
+### u011169
+<u>(bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} di chi la impugna × 2)</u>
+
+### u011170
+Con un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} a segno, l'attacco di questa spada infligge al bersaglio l'effetto {g|Encyclopedia:DisturbedEffect}turbato{/g} per 2 {g|Encyclopedia:Round}round{/g}. Se il bersaglio dell'attacco subisce già l'effetto turbato, l'attacco infligge a questo bersaglio +{uip|Damage|75df60d2377a4e8db4848f661885dc98} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u011171
+Spada nobile
+
+### u011172
+Chi la impugna subisce il 75% in meno di danni mentali e {g|Encyclopedia:WarpDamage}danni warp{/g}.
+
+### u011173
+Untainted Sacrament
+
+### u011174
+Fucile a pompa annullante
+
+### u011175
+Spada a catena dell'ufficiale
+
+### u011176
+Una variante ben bilanciata della spada a catena di dotazione standard usata dagli ufficiali dell'Imperium.
+
+### u011177
+Se il bersaglio dell'attacco di quest'ascia subisce l'effetto di {g|f:197b8a8a12b0442db7ffee1067cf3d97}Expose Weakness{/g}, tutti i {g|Encyclopedia:EnergyDamage}danni energetici{/g} inflitti al bersaglio aumentano di +{uip|Debuff|6ceac4db06434d3eae9c7839290aaf1d}% fino alla fine del combattimento.
+Se il bersaglio dell'attacco non subisce sia un {g|Encyclopedia:Exploit}Exploit{/g} sia {g|f:197b8a8a12b0442db7ffee1067cf3d97}Expose Weakness{/g}, entrambi gli effetti vengono inflitti al bersaglio dopo l'attacco.
+
+### u011178
+Omnissiah's Providence
+
+### u011179
+Tutti i tipi di {g|Encyclopedia:PhysicalDamage}danni fisici{/g} inflitti ai bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} da questa pistola a pompa aumentano di +33% per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u011180
+Bone-Shatterer
+
+### u011181
+Ogni azione di attacco con questo fucile al plasma ha un {g|Encyclopedia:Cooldown}tempo di ricarica{/g} separato. Tutte le azioni di attacco di questo fucile al plasma possono essere usate in un singolo {g|Encyclopedia:Turn}turno{/g}.
+
+### u011182
+Incandescent Storm
+
+### u011183
+Quest'arma può compiere solo attacchi sovraccaricati. I suoi {g|Encyclopedia:DamageGlossary}danni{/g} aumentano di +{uip|Damage|32f278450e09490784e95deab3e56550}%.
+
+### u011184
+Fucile al plasma sovraccarico
+
+### u011185
+<u>(2 × bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g})</u>
+
+### u011186
+Infligge +{uip|Damage|84a4c46311654f5083208b6eedfa09fe} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u011187
+Fucile al plasma antico
+
+### u011188
+Ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} riuscito di quest'ascia potenziata aumenta di +5 la {g|Encyclopedia:WarhammerStrength}Strength{/g} di chi la impugna fino alla fine del combattimento.
+
+### u011189
+Bolstering Resolve
+
+### u011190
+<u>(1.5 × (bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} di chi la impugna + bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g} di chi la impugna))</u>
+
+### u011191
+Quest'ascia potenziata infligge +{uip|Damage|89a56b94dbac479f961ee8727040b945} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi. Il primo attacco di ogni {g|Encyclopedia:Round}round{/g} contro un bersaglio in {g|Encyclopedia:BleedingEffect}sanguinamento{/g} restituisce +1 {g|Encyclopedia:ActionPoints}PA{/g} a chi la impugna.
+Chi la impugna subisce 6 danni a ogni {g|Encyclopedia:Turn}turno{/g}.
+
+### u011192
+Tearing Vengeance
+
+### u011193
+<u>(3 × bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} di chi la impugna)</u>
+
+### u011194
+Quest'ascia potenziata infligge +{uip|Damage|cdd3a569389d4a90b4b4c859652b3e19} {g|Encyclopedia:DamageGlossary}danni{/g} ai bersagli in {g|Encyclopedia:BleedingEffect}sanguinamento{/g}. Se è il primo attacco contro un bersaglio in sanguinamento, questo attacco non ha {g|Encyclopedia:Cooldown}tempo di ricarica{/g}.
+
+### u011195
+Sanguine Thirst
+
+### u011196
+Se l'attacco di quest'arma annulla completamente l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio, questo attacco infligge +75% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u011197
+Restless Absolution
+
+### u011198
+Protector of the Faith
+
+### u011199
+Richiede {g|Encyclopedia:SoulmarkTypesGlossary}Convinzione{/g} — {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g}
+Ogni volta che chi la impugna {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un demone per la prima volta in combattimento, quel demone rimane {g|Encyclopedia:BlindedEffect}accecato{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u011200
+La distanza massima di {g|Encyclopedia:PushGlossary}spinta{/g} di questa mazza è di 5 caselle e gli eventuali danni da collisione aumentano di +50%.
+
+### u011201
+Unquenchable Fury
+
+### u011202
+Ogni attacco con quest'arma riduce di −4 l'{g|Encyclopedia:WarhammerAgility}Agility{/g}, la {g|Encyclopedia:WarhammerToughness}Toughness{/g} e la {g|Encyclopedia:WarhammerStrength}Strength{/g} del bersaglio, anche se parato o {g|Encyclopedia:DodgeGlossary}schivato{/g}.
+
+### u011203
+Earthbreaker
+
+### u011204
+Bolter di precisione
+
+### u011205
+Fucile laser di precisione
+
+### u011206
+Questa pistola ha un ulteriore {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g} e un {g|Encyclopedia:DeadeyeShot}deadeye shot{/g}.
+
+### u011207
+Pistola laser di precisione
+
+### u011208
+Punteruolo del prigioniero
+
+### u011209
+Chi impugna questa spada ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +25% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} e un bonus di +25% alla {g|Encyclopedia:Parry}parata{/g}.
+I nemici {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} da questa spada subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −25 alla {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} fino al prossimo {g|Encyclopedia:Turn}turno{/g} di chi la impugna.
+
+### u011210
+Il costo del colpo in {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} diminuisce di −1 {g|Encyclopedia:ActionPoints}PA{/g}. Il primo attacco con quest'arma in combattimento non mette gli attacchi in {g|Encyclopedia:Cooldown}tempo di ricarica{/g}.
+
+### u011211
+Pistola laser a fuoco rapido
+
+### u011212
+Con un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} a segno, infligge l'effetto {g|f:bcce07e5964c409f9708c87306e2413e}light of Petrakara{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u011213
+Chi la impugna ha il 30% di probabilità di ottenere un'altra azione di attacco dopo un'uccisione.
+
+### u011214
+Deadly Repeater
+
+### u011215
+The Ripper
+
+### u011216
+Coltello rituale
+
+### u011217
+Questo coltello ha il 100% di probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico contro bersagli {g|Encyclopedia:ProneEffect}a terra{/g} o {g|Encyclopedia:Stun}storditi{/g}.
+Quando chi lo impugna mette a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} con questo coltello, il bersaglio e tutti in un raggio di 4 caselle attorno a esso devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} o compiere un singolo attacco contro il bersaglio più vicino.
+
+### u011218
+Questo martello tuono infligge +3 {g|Encyclopedia:DamageGlossary}danni{/g} e concede una probabilità cumulabile del +10% di stordire un nemico per un {g|Encyclopedia:Turn}turno{/g} per ogni punto di {g|Encyclopedia:Deflection}deviazione{/g} del nemico.
+Una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} superata con successo annulla questo effetto.
+<i>Mazze e martelli hanno un attacco speciale che {g|Encyclopedia:PushGlossary}respinge{/g} i nemici.</i>
+
+### u011219
+Roaring Thunder
+
+### u011220
+Quest'arma ha un attacco speciale chiamato {g|f:3c11c05ae18d4d4a992308b584a388ab}Drilling Strike{/g}.
+
+### u011221
+Trapano d'emergenza
+
+### u011222
+Scorpion Sting
+
+### u011223
+Spada a catena Scorpion
+
+### u011224
+Con un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} a segno: se il bersaglio subisce {g|Encyclopedia:ToxinEffect}tossina{/g} e fallisce la corrispondente {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −25, subisce <u>(da 15 a 20)</u> {g|Encyclopedia:MentalDamage}danni mentali{/g} aggiuntivi.
+
+### u011225
+Laceration
+
+### u011226
+Con un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico, questa spada infligge +1 accumulo dell'effetto laceration. Per ogni accumulo di laceration, tutti gli attacchi di questa spada contro lo stesso bersaglio infliggono +10% di {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u011227
+Spadone seghettato
+
+### u011228
+Concede un'{g|Encyclopedia:Ability}abilità{/g} aggiuntiva che termina il {g|Encyclopedia:Turn}turno{/g} dell'attaccante e infligge +30 {g|Encyclopedia:MachineDamage}danni alle macchine{/g} aggiuntivi con il 50% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u011229
+Lawbringer
+
+### u011230
+I colpi di questo fucile a pompa {g|Encyclopedia:PushGlossary}respingono{/g} i bersagli di 3 caselle anche se il colpo va a vuoto.
+
+### u011231
+Blast Wave
+
+### u011232
+Questo fucile a pompa ha un'area d'attacco maggiore. I suoi attacchi infliggono +150% di {g|Encyclopedia:DamageGlossary}danni{/g}, ma la loro {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} diminuisce di −50%.
+
+### u011233
+Hailstorm
+
+### u011234
+<u>(3 × {g|Encyclopedia:Deflection}deviazione{/g} del bersaglio)</u>
+
+### u011235
+I {g|Encyclopedia:DamageGlossary}danni{/g} da {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g} sono sempre pari al 100%.
+Infligge +{uip|Damage|ad4636f2df894381b0053a052d04129f} danni aggiuntivi.
+
+### u011236
+Gloomrifle
+
+### u011237
+Il {g|Encyclopedia:DeadeyeShot}deadeye shot{/g} di questo fucile costa +1 {g|Encyclopedia:ActionPoints}PA{/g} in più e infligge {g|Encyclopedia:DamageGlossary}danni{/g} tripli contro bersagli di grandi dimensioni (taglia 2×2 caselle e superiori).
+
+### u011238
+Terrorax Slayer
+
+### u011239
+Infligge {g|Encyclopedia:ToxicDamage}danni tossici{/g} doppi. Ogni attacco riuscito con quest'arma aumenta di +1 i {g|Encyclopedia:DamageGlossary}danni{/g} dell'effetto {g|Encyclopedia:ToxinEffect}tossina{/g} subito da un bersaglio.
+
+### u011240
+Pistola a schegge agonizzante
+
+### u011241
+Questo fucile infligge {g|Encyclopedia:FatiguedEffect}affaticato{/g} e {g|Encyclopedia:SlowedEffect}rallentato{/g} al bersaglio.
+
+### u011242
+Ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} di quest'arma infligge +1 accumulo di {g|Encyclopedia:FatiguedEffect}affaticato{/g} al bersaglio per 1 {g|Encyclopedia:Round}round{/g} se il bersaglio fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u011243
+Promise of Freedom
+
+### u011244
+Un tempo nella mano altera di Nemesite, questo revolver stub diede a molti oppressi la falsa promessa della libertà.
+
+### u011245
+Concede un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} aggiuntivo che colpisce tutte le caselle adiacenti attorno a chi la impugna.
+<indent=5%>+1 {g|Encyclopedia:DamageGlossary}danno{/g} per bersaglio nell'area d'effetto</indent>
+
+### u011246
+Tutte le collisioni causate dagli attacchi di {g|Encyclopedia:PushGlossary}spinta{/g} del martello tuono infliggono +300% di {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+Tutti i bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} da questo martello tuono devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con un {g|Encyclopedia:Bonus}bonus{/g} di +10 o cadere {g|Encyclopedia:ProneEffect}a terra{/g}.
+
+### u011247
+Gli attacchi di questo lanciafiamme infliggono anche {g|Encyclopedia:ToxinEffect}tossina{/g} allo stesso livello di {g|Encyclopedia:BurningEffect}in fiamme{/g}.
+
+### u011248
+Lanciafiamme tossico
+
+### u011249
+Lanciafiamme instabile
+
+### u011250
+Le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro gli effetti di questo webber subiscono una penalità di −10.
+
+### u011251
+Le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro gli effetti di questo webber subiscono una penalità di −15.
+
+### u011252
+Le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro gli effetti di questo webber subiscono una penalità di −25.
+
+### u011253
+Webber Spinneret
+
+### u011254
+Tempio dell'Imperatore Imperituro
+
+### u011255
+"Illustre Theodora,{br}
+Un cambiamento di circostanze ha reso necessario il vostro aiuto immediato nella nostra causa comune. Subito dopo aver ricevuto questa lettera ed effettuato i necessari preparativi dell'equipaggio, dovrete partire per il sistema Rykad. Uno dei miei accoliti, l'Interrogatore Heinrix van Calox, vi opera al momento. All'arrivo nel sistema, prenderete contatto con lui senza indugio e gli offrirete ogni assistenza richiesta, dopodiché gli fornirete passaggio verso il sistema Furibundus a bordo della vostra nave. Su Footfall, l'Interrogatore si congederà da voi per attendere ulteriori istruzioni.{br}
+Anticipando le domande che potreste avere, ribadisco che la natura delle attività dell'Interrogatore van Calox su Rykad Minoris non vi riguarda. Se necessario, sarà lo stesso van Calox a rivelarvi i dettagli della sua missione.{br}
+Che la luce dell'Imperatore sia con voi.{br}
+X. C."
+
+### u011256
+Lettera scritta a mano con sigillo
+
+### u011257
+Non si può sapere cosa ti attenda oltre il portale, ma di una cosa sei {mf|certo|certa}: non ci sarà modo di tornare indietro — è il punto di non ritorno. Assicurati di aver sbrigato ogni questione in sospeso, procurato tutto l'equipaggiamento necessario, esplorato ogni mondo e completato tutti i progetti coloniali che desideri. Dopo aver attraversato, non potrai più farlo.
+
+### u011258
+[Repulsivi suoni incomprensibili emessi dallo xenos]
+
+### u011259
+Cronaca del Protettorato
+
+### u011260
+[Non dire nulla]
+
+### u011261
+"...essere il modello dell'Umanità,
+Indomito di fronte alle avversità,
+Avanzare con coraggio per primo nell'oscurità,
+Unire e riconquistare ciò che è andato perduto..."
+
+### u011262
+"...trionfare su incubi indicibili,
+Stringere con audacia le redini del destino,
+Percorrere con passo fermo la strada di spine,
+Attraverso il dolore verso la grandezza."
+
+### u011263
+"Sia noto che, per mia volontà e per le vere parole di questo documento, nomino questa persona detentrice del Mandato di Commercio e conferisco a essa e alla sua dinastia la grande Missione..."
+
+### u011264
+Fine
+
+### u011265
+Il Frammento C'tan è stato distrutto. L'ombra della calamità che minacciava la Distesa di Koronus, qualora l'antico dio fosse stato liberato, si era dissolta... almeno per un po'.
+
+### u011266
+Se le voci sono vere, la follia che aveva permeato la nave del Rogue Trader aveva colpito anche la mente del Siniscalco. I testimoni oculari della sua agonia parlavano della voce della sua amata e rimpianta sposa Quatharina che iniziava a perseguitarlo a ogni passo. All'inizio, l'illustre Siniscalco accolse con favore la follia che lo aveva colto. Poi fuggì da essa in preda al terrore, cercando di coprire la voce della moglie con l'abbaiare di ordini e le urla dei membri dell'equipaggio puniti. La vista dell'austero ufficiale, scarmigliato, con l'uniforme coperta di sporcizia, una mannaia potenziata in una mano e una campana di bordo tintinnante nell'altra, riempiva di terrore i suoi subordinati.
+
+### u011267
+La breve vita dell'entità chiamata Nomos si concluse su Epitaph. Il giovane essere fu divorato dal suo creatore, perendo nello stesso vortice di energie del Frammento C'tan che un tempo lo aveva generato, divorato dal proprio creatore. Non era nella natura dei vampiri stellari dare o donare per volontà propria. Il consumo predatorio era il loro istinto primario, e così a Nomos fu ordinato di cessare di esistere e di fondersi, in un flusso di energia obbediente, con il possente corpo dell'antica divinità.
+
+### u011268
+Il Grande Giudizio di Incendia Chorda e le atrocità commesse dalle sue unità confessionali dissanguarono Footfall. La stazione dovette presto affrontare una carenza di manodopera, e pochi sopravvissuti alle purghe religiose riuscivano a sostenere i carichi di lavoro accresciuti. Senza i troni del Commercio Freddo, la stazione cadde in rovina. Footfall entrò in un'epoca di pietà, fame e stenti.
+
+### u011269
+Dopo essersi ripresa dal regime di Chorda, Footfall riconquistò il proprio status di snodo commerciale della Distesa. Avendo imparato una lezione amara, Vladaym Tocara creò la Milizia dei Partigiani di Footfall — un esercito mercenario ben equipaggiato che rispondeva solo a lui. Un po' di ordine tornò sulla stazione.
+
+### u011270
+Eppure crudeltà, intolleranza e corruzione crescevano come piaghe purulente in tutto il settore. Solo la costante supervisione del Rogue Trader poteva tenere a bada la pestilenza.
+
+### u011271
+Alla dinastia von Valancius fu concesso il privilegio di diventare custode della Distesa. Il Rogue Trader condusse molte campagne di conquista contro enclavi xenos e nidi di eretici. Karrad Vall, un famigerato discepolo dei Poteri Rovinosi, radunò forze nei sistemi corrotti per sfidare il Difensore del Credo. Un grande scontro era inevitabile.
+
+### u011272
+Urbend Drivestem teneva più a preservare l'influenza della sua stirpe che al benessere del protettorato. La sua cieca ambizione gli costò il seggio di governatore e il rispetto della sua famiglia. Nel giro di poche generazioni, una delle più grandi casate di Dargonus si ridusse a una oscura famiglia di piccoli aristocratici.
+
+### u011273
+Il Frammento C'tan, una divinità di un'era dimenticata, fu reso schiavo dal Rogue Trader. L'Empireo sopra la Distesa di Koronus tremò, toccato dai venti di un grande cambiamento.
+
+### u011274
+L'ammutinamento fu represso senza pietà dalle forze unite dei Navigatori fedeli a Cassia e dei tutori dell'ordine von Valancius. Ma il prezzo di una ribellione, anche se fallita, fu troppo alto per la Casata Orsellio, che perse metà della propria influenza da un giorno all'altro e da allora operò interamente sotto l'egida del Rogue Trader, una casata di Navigatori solo di nome.
+
+### u011275
+Persa la sua guida e priva di un successore degno, la dinastia Chorda iniziò a indebolirsi. L'oscura eredità dell'abominevole Aspyce si rivelò, e il protettorato precipitò nel caos. Pretendenti avidi fecero a pezzi il dominio indifeso.
+
+### u011276
+Incendia Chorda continuò la sua spietata lotta contro le eresie che affliggevano la Distesa. Senza darsi pensiero di questioni di giurisdizione, portò la giustizia dell'Imperium ovunque andasse, uccidendo eretici a migliaia. Vetrate con la sua effigie, illuminate dai falò, adornavano le cappelle del settore. Con la sua morsa di paura sempre più stretta, le preghiere dei devoti si facevano sempre più fervide nella venerazione della Graziosa Castigatrice.
+
+### u011277
+Avendo imparato una lezione amara su Footfall, Incendia Chorda abbandonò il suo zelo fanatico. Rinunciando alle redini del potere, si isolò su un mondo claustrale. Il tempo delle purghe passò — e con esso il tempo della legge e dell'ordine. Nel vuoto di potere che seguì, la cupa eredità dell'abominevole Aspyce rialzò la sua orrenda testa, e il dominio di Incendia degenerò gradualmente in un covo di criminali e pirati.
+
+### u011278
+Un giorno, Yrliet tornò e trovò l'elantach in punto di morte — la sua ricerca era durata decenni, eppure per gli Aeldari i decenni passano inosservati. Yrliet trascorse gli ultimi giorni dell'elantach con {mf|lui|lei}, e quando giunse il momento che la morte posasse la mano sulla spalla del Rogue Trader, si immerse ancora una volta nel suo mondo. L'elantach, di nuovo giovane, la guardò e sorrise. Le lacrime bruciarono la pelle di Yrliet, poi la fioca luce dell'anima umana si spense. Yrliet toccò il polso dell'elantach per sentirne il battito. Chiuse gli occhi, sospirò e lasciò il protettorato von Valancius, per non farvi mai ritorno.
+
+### u011279
+Nomos non ebbe molto tempo per imparare i propri nuovi poteri. Per volere degli Dei Oscuri, {name} von Valancius li imprigionò all'interno del Giogo, trasformandoli nel proprio mostro in catene. La strana entità, intrisa di una scheggia del potere di un Dio Stellare, era fuori dalla portata dei governanti del warp. E, in quanto tale, era pericolosa e destinata a essere resa schiava.
+
+### u011280
+Evayne Winterscale affrontò la sua Magnae Accessio e divenne il nuovo Rogue Trader della propria dinastia. Molti dicevano che al nobile Evayne mancasse fermezza di giudizio, eppure aveva più che abbastanza fiducia, anche in chi non ne era degno. Il giovane Rogue Trader non dimenticò chi lo aveva salvato dal sistema Rykad né i favori che la Casata von Valancius aveva elargito ai Winterscale.
+
+### u011281
+La divinità soggiogata al servizio della Casata von Valancius assicurò la salda presa dell'Imperium sulla gola della Distesa. Sterminando nemici e miscredenti, il Rogue Trader fece dono al settore — della fede nella certezza della retribuzione.
+
+### u011282
+Quando il Rogue Trader si ribellò all'Imperium, riunì attorno a sé gli eretici e i nemici del Credo nella Distesa. Nessuno ebbe il coraggio di sfidare {mf|il padrone|la padrona} della bestia stellare resa schiava. Sotto il pugno di ferro del Rogue Trader, una nuova legione dei Poteri Rovinosi prendeva forma, saldata dalla paura e dall'obbedienza.
+
+### u011283
+A protezione del giovane regno della libertà, Nomos creò barriere dimensionali che isolarono la Distesa di Koronus dall'Imperium più saldamente della Grande Frattura. L'Umanità della Distesa fu lasciata nell'isolamento. Facendo affidamento solo su se stessa, dovette costruire qualcosa di nuovo e diverso dall'Imperium o cadere preda degli orrori in agguato nell'oscurità.
+
+### u011284
+Il Culto di San Drusus continuò la sua instancabile lotta per diffondere la fede nella Distesa e smascherare le vili trasgressioni delle autorità. Più un pianeta era forte e ricco, meno i suoi governanti volevano vedere i predicatori vestiti di nero. Rivolte e assassinii spinsero il culto verso il luogo in cui si sentiva più sicuro — la frontiera.
+
+### u011285
+Il Frammento C'tan fu trasmutato in una nuova forma, e il suo nome era Nomos. Dotato del potere di un essere antico e allevato dal Rogue Trader, il giovane Dio Stellare vegliava con curiosità sulla Distesa di Koronus, il suo nuovo dominio.
+
+### u011286
+Dopo la morte del Reverendo Hieronymus Doloroso, un uomo chiamato Cappellano assunse la guida della missione drusiana. Nascose il proprio nome, ma non i propri crimini né il proprio passato da pirata. Con la risolutezza di un esperto navigante del vuoto, guidò il culto e condusse persino i suoi compagni di fede in spedizioni militari contro i briganti, imponendo l'ordine e convertendo alla fede i prigionieri depravati.
+
+### u011287
+Gli accordi stretti tra la Cognisance Fleet e la dinastia von Valancius rifornirono le scorte in esaurimento degli Explorator e permisero loro di rimettersi in marcia con una campagna di espansione rapida e incessante. Con potenti basi stabilite nella Distesa, gli esploratori dell'Omnissiah si spinsero coraggiosamente verso stelle senza nome, con lo stesso slancio che aveva spinto i loro antenati a esplorare la Distesa stessa.
+
+### u011288
+Il Magos Dominus Opticon-22 fu inviato nello squadrone di ricognizione avanzato dal conclave della flotta. La ragione era la scoperta del sostegno che custodiva in segreto nei suoi blocchi di calcolo per la Cessazione del Ciclo. La sua nave scomparve senza lasciare traccia durante un'incursione di ricerca.
+
+### u011289
+Cassia Orsellio rinunciò al proprio destino di diventare Novator e scelse di trascorrere i suoi giorni con la persona amata. Visse una vita breve, cercando di riempire ogni momento passato insieme di colore e passione. Ahimè, le mutazioni genetiche di Cassia non le permisero di portare in grembo un erede, e presto iniziarono a deformarle il corpo in modo grottesco. Una notte, diede un bacio {mf|al suo amato|alla sua amata} e scomparve per sempre, lasciando un breve biglietto: "Amore mio, dal nostro primo incontro fino agli ultimi giorni insieme, sei {mf|stato|stata} l'unica luce del mattino che ha brillato nel mio cuore, senza mai affievolirsi. Hai una vita davanti a te — vivila felicemente, per entrambi. Quanto a me... ti amo senza fine. Tua, Cass."
+
+### u011290
+La crisi nella Distesa inflisse un duro colpo agli interessi commerciali della Fellowship of the Void. Senza alleati potenti, si ritirarono nell'oscurità dei sistemi di frontiera. La dura vita che vi affrontarono li forgiò in una nuova tribù — furiosa, selvaggia e disposta a tutto pur di sopravvivere. Giurarono di tornare e riprendersi ciò che un tempo era stato loro.
+
+### u011291
+Percependosi come un'entità profondamente in debito con l'Imperatore, quantomeno a causa della propria empia esistenza, Nomos sterminò la corruzione con zelo extra, a volte radendo al suolo interi mondi. Le debolezze della natura umana, come il dubbio, la pietà o il disprezzo di sé, erano sconosciute alla Bestia perfetta del Dio-Imperatore.
+
+### u011292
+Il Frammento C'tan e il suo spietato e illuminato araldo, che un tempo portava il nome di {name} von Valancius, lasciarono la Distesa di Koronus. Le preoccupazioni insignificanti delle specie dalla vita breve non avevano alcun interesse per loro. I venti stellari li portarono in altre dimensioni, verso imprese degne della loro saggezza e gloria. Gli echi di queste imprese si propagheranno attraverso l'universo, frantumando le ossa dell'esistenza così come la conosciamo.
+
+### u011293
+Tornato vittorioso, il Lord Inquisitore affidò il pesante fardello di vegliare sulla Distesa al suo fedele {mf|alleato|alleata} della dinastia von Valancius. Per lui era giunto il momento di cambiare.
+
+### u011294
+Vladaym Tocara, come Liege di Footfall, sopravvisse a quattordici attentati e sventò non meno di duemila cospiratori prima che un colpo gli togliesse infine la vita. Il funerale dell'illustre Liege si tenne nella massima segretezza, e solo la cerchia dei suoi più stretti fu autorizzata a vederne il cadavere, il che diede origine ad alcune strane voci.
+
+### u011295
+Quando Octaviana divenne la nuova guida della Missione Kasballica, fece di tutto per non finire come Vladaym. La dirigenza della Missione pretendeva profitti, e i tutori dell'ordine di Chorda bramavano sangue. Il dilemma di Octaviana si risolse da solo quando un giorno tutti i mercanti del Commercio Freddo di Footfall furono arrestati e ammassati sull'Adeptus Amasecus. La nave fu sganciata dalla stazione e lasciata alla deriva verso Furibundus senza carburante e quasi senza aria. Octaviana non era a bordo. Aveva stretto un accordo per consegnare tutti i suoi complici, e scomparve con una fortuna in troni.
+
+### u011296
+Il tempo trascorso sullo stesso mondo dei mon-keigh spinse il Veggente Muaran alla riflessione. Quando il Portale della Tela si risvegliò su Janus e squadre di ranger Aeldari misero piede sul mondo dei loro antenati, egli evitò un bagno di sangue. Dopo aver concesso la propria benedizione al Lilaethan e ai suoi nuovi, ingenui cittadini, scomparve attraverso un portale luminoso, partendo per una nuova casa.
+
+### u011297
+Tale fu l'eco delle gesta del Rogue Trader della Casata von Valancius. Gesta che trasformarono la Distesa di Koronus e la prepararono a eventi ancora più oscuri e violenti. Ma quelli sono gli eventi di un'altra storia. Questa è giunta al termine.
+
+### u011298
+Sotto le cupole climatiche, avvolti da nubi di veleno, furono costruiti lussuosi palazzi sorvegliati. Ospitavano tanti potenti furfanti, aristocratici perseguitati e ricchi malfattori che Vheabos VI acquisì un'influenza politica inimmaginabile. Vi furono compiute azioni così grandiose e sinistre che ben presto si iniziò a parlare del cupo mondo letale come del nuovo centro politico della Distesa.
+
+### u011299
+Il mostro in catene sotto il controllo di von Valancius assicurò la sopravvivenza dell'utopia nascente. Il Dio Stellare distrusse tutti coloro che minacciavano i suoi pacifici cittadini e incusse timore in chi aveva poca fede. La Distesa assaporò il dolce frutto della libertà e della tolleranza con timore reverenziale.
+
+### u011300
+Voci e racconti del suo governo umanitario costituirono il fondamento della scuola filosofica valanceana. La setta univa popolani e aristocratici nella convinzione che, perché l'Imperium prosperasse, dovesse smettere di considerare i propri sudditi semplici strumenti. Questa pericolosa eresia fu condannata in molti sistemi, ma le persecuzioni non fecero che rafforzare e moltiplicare i suoi seguaci.
+
+### u011301
+La leggenda vuole che il Dio-Imperatore in persona avesse prediletto il proprio custode, {mf|concedendogli|concedendole} un miracoloso potere di schiacciare il male e {mf|proteggendolo|proteggendola} dalle trame nemiche. In verità, l'Ecclesiarchia, nella sua battaglia per controllare le narrazioni nell'Imperium, perseguitò sia chi diffondeva simili storie inverosimili sia chi chiedeva che il Rogue Trader fosse {mf|proclamato santo vivente|proclamata santa vivente}.
+
+### u011302
+Il Maresciallo Anthar affrontò l'ira di Argenta armato e pronto. Avendo previsto fin dall'inizio questo corso degli eventi, Solomorne riuscì a proteggere molte vite innocenti dalla collera divoratrice della folle Sorella della Battaglia. Egli stesso affrontò il suo ex commilitone una sola volta. Lo scontro lo lasciò senza il braccio destro.
+
+### u011303
+In un'armeria semibuia, senza grandi cerimonie né clamore pubblico, il pugnale ornato con il teschio e la colonna fu fuso e riforgiato in un'Insegna da Inquisitore. Xavier Calcazar la consegnò al Rogue Trader e {mf|lo|la} accolse nel Conclave di Koronus, una confraternita di guardiani dell'Imperium a conoscenza dei più oscuri segreti dell'Umanità.
+
+### u011304
+Misteriose anomalie xenos tormentarono Janus per molti anni. I fantasmi dei non umani che avevano controllato il pianeta continuavano a infestare la terra. I servi della gleba soffrivano di strani malanni, e i complessi agricoli furono colpiti inspiegabilmente da piaghe e carestie. I servitori del Rogue Trader temevano il pianeta spettrale e cercavano di farsi trasferire via da quella sudicia colonia agraria alla prima occasione.
+
+### u011305
+Il tradimento della fede dell'Imperatore da parte del Rogue Trader fu così vile che la Sua statua su Footfall sanguinò dagli occhi per tre giorni terrani. Lacrime rosse, cremisi, che si congelavano in cristalli nel gelido vuoto. Fu un segno delle calamità a venire. Milioni di persone diedero ascolto agli avvertimenti dei predicatori e si imbarcarono su navi del vuoto per raggiungere la Fauce e trovare rifugio nelle province dell'Imperium. Non una sola di quelle navi raggiunse Port Wander.
+
+### u011306
+L'abominevole tradimento del Rogue Trader mostrò a tutti quanto fossero pericolosi i suoi cosiddetti "ideali di clemenza". Indulgere nella clemenza era solo a un breve passo dall'abbracciare apertamente la depravazione morale. La Distesa imparò bene questa lezione, e la parola "clemenza" non vi fu mai più pronunciata.
+
+### u011307
+Gli Dei Oscuri furono presi da una furia cieca per il tradimento del loro campione, così pronto ad accettare i loro generosi doni e altrettanto ansioso di abbandonarli a tradimento per un nuovo padrone. Tuttavia, né l'ira dei padroni dell'Immaterium né le armi dei loro fedeli guerrieri poterono nuocere a {mf|colui|colei} che era protetto dal potere di una vera divinità.
+
+### u011308
+Anni dopo, quando il corpo del Rogue Trader non fu più in grado di contenere la sua anima mortale, {mf|gli|le} fu concesso un ultimo dono. Per le sue azioni malvagie, i suoi sacrifici atroci e i suoi giuramenti indicibili, i Poteri Rovinosi {mf|lo|la} elevarono all'Empireo, dove {mf|lo|la} trasformarono in {mf|un abominevole Principe Demone|un'abominevole Principessa Demone}. La Grande Ascensione fu completa.
+
+### u011309
+Foulstone crebbe e continuò ad attirare credenti sotto il governo illuminato del Rogue Trader. Ahimè, non tutte le anime tra loro erano pure: giunsero anche predicatori di interpretazioni degenerate del Credo Imperiale, falsi profeti e pazzi, sperando di trovare un gregge sul mondo sacro. La lotta contro eresie pericolose come la setta neomalpiana portò a regolari e sanguinose purghe che diedero a Foulstone una fosca reputazione.
+

@@ -1,0 +1,1011 @@
+### u023183
+"Dobbiamo, Vostra Signoria."
+
+### u023184
+"Abbiamo i nomi e i numeri di identificazione dei guardatubi, e sappiamo da quale clan provengono. Continueremo a tormentare la feccia finché il colpevole non confesserà o qualcuno non lo denuncerà. Me ne occuperò io." {n}La Maestra d'Armi stringe con fare eloquente la mazza che porta alla cintura.{/n} "Vi prego, Lord Capitano, godetevi pure il pasto nel frattempo. Il furfante comparirà davanti a noi molto presto."
+
+### u023185
+"Non c'è motivo di allarmarsi, Lord Capitano. Questo 'cospiratore' sarà stato un falso, ma ora è solo questione di tempo prima che troviamo il vero colpevole."
+
+### u023186
+{n}Klein sogghigna.{/n} "Il mutante morto mi sembrava più un adoratore dei demoni, con tutte quelle budella contorte. Quanto a questo qui... Non c'è traccia del warp sul suo corpo, di questo sono certo. Il peggio che potrà mostrarci è un'unghia incarnita."
+
+### u023187
+{n}Klein scuote la testa, cupo.{/n} "Ho sbagliato, Vostra Signoria. Le mutazioni sono comuni tra gli eretici... Suppongo che si tratti davvero di un culto."
+
+### u023188
+"C'è una cosa che mi turba." {n}Jinevri indica i simboli sul corpo dell'operaio.{/n} "Gwedon, cosa sono tutti quei segni che hai addosso?"
+
+### u023189
+{n}Jinevri si ritrae con aria imbarazzata, lancia un'occhiata guardinga alla Maestra d'Armi, poi scuote la testa.{/n}
+
+### u023190
+"Non esiste un simbolo del genere. Dovrebbe essere un cerchio con otto frecce, e non c'è modo che si chiami 'il collare del terrore'. È una specie di parodia. Vostra Signoria, quest'uomo dice sciocchezze."
+
+### u023191
+{n}Hrotko ha un'aria fiera e piena di sé. Jinevri si morde l'unghia, come se esitasse a parlare. Sauerback osserva l'operaio in silenzio, apparentemente immersa nei suoi pensieri. Klein, intanto, se ne sta immobile con una smorfia diffidente in volto. A parte Hrotko, nessuno qui sembra credere che tu abbia davanti il vero colpevole.{/n}
+
+### u023192
+{n}Sauerback lancia a Jinevri un'occhiata incuriosita.{/n} "Jinevri, concordi con il Lord Capitano? Hai qualcosa da dire su questa... esibizione da esperto?"
+
+### u023193
+"Mi capita spesso di avere a che fare con la plebaglia subdola. L'ozio e l'avidità della feccia dei ponti inferiori generano eresia, soprattutto durante i viaggi nel warp, e la gente comincia a incidersi dei segni addosso e a pregare... tutta una serie di cose. Il cerchio con otto frecce è più comune di qualunque altro simbolo, ma questa variante non l'avevo mai vista."
+
+### u023194
+"Cosa? Giuro di non aver—"
+
+### u023195
+"Non ho mai minacciato la sua famiglia, e di certo non l'ho costretto a mentire e a disegnare segni eretici! Ricordo a malapena la sua faccia. Magari l'ho interrogato prima, ma è stato qualcun altro a istigarlo a questo!"
+
+### u023196
+"Eppure conosce il tuo nome e ti ha indicata subito. Non lo trovi buffo?"
+
+### u023197
+"E tu non trovi buffo che hai sempre la testa nel sedere, Hrotko? È evidente che qualcuno l'ha incastrata!"
+
+### u023198
+"Smettetela di battibeccare!" {n}Il ringhio di Sauerback costringe gli ufficiali a farsi indietro.{/n} "Lord Capitano, quello che abbiamo qui è un bugiardo, e ben istruito per giunta. Non confesserà mai di sua iniziativa. Cosa suggerite di fare?"
+
+### u023199
+"'Giustiziare'... Davvero, nessuna parola suona più dolce alle orecchie di questo mon-keigh."
+
+### u023200
+{n}Argenta sospira, scuotendo la testa con tristezza.{/n} "Dio-Imperatore, perdona la debolezza di mente di quest'anima traviata."
+
+### u023201
+{n}Abelard lancia a Sauerback un'occhiata eloquente.{/n} "I vostri tutori dell'ordine hanno un talento per la persuasione, Signora Sauerback. Ma questo è ridicolo."
+
+### u023202
+"Non possiamo escludere la possibilità che il pantheon oscuro dei ponti inferiori sia guidato da voi, Signora Sauerback."
+
+### u023203
+"Sono certo che anche lei vada pazza per vari metodi di tortura. Sarebbe un ottimo animaletto, addestrato a rispondere a tanti comandi interessanti."
+
+### u023204
+"Signora Sauerback, non state traendo conclusioni troppo affrettate? Dopotutto, ha confessato."
+
+### u023205
+"Ha confessato quello che gli è stato detto di confessare. Ho partecipato personalmente all'interrogatorio dei sgherri di Voigtvir, e nemmeno loro hanno sproloquiato con simili idiozie."
+
+### u023206
+"Allora è l'idiota più astuto che abbia mai visto. Ha commesso il crimine con successo, eppure nel suo comportamento non c'è niente di vagamente losco."
+
+### u023207
+"Tornerò più tardi."
+
+### u023208
+"Basta così, Capitano. Abbiamo tutti le nostre debolezze."
+
+### u023209
+"È tutto."
+
+### u023210
+"Hai già iniziato l'autopsia?"
+
+### u023211
+"C'è qualcosa che non va? Sei pallido."
+
+### u023212
+[Esamina le ferite]
+
+### u023213
+"Ero {mf|fradicio|fradicia} del suo sangue. Se le mutazioni fossero contagiose, ormai sarei {mf|mutato|mutata}."
+
+### u023214
+"Passami quel bisturi. L'autopsia la eseguo io, tu annota i risultati."
+
+### u023215
+[Indaga sulle viscere]
+
+### u023216
+[Cerca segni di identificazione]
+
+### u023217
+[Getta via il bisturi] "Ho finito l'autopsia."
+
+### u023218
+"Qualcuno ha cercato di nascondere l'identità della vittima e la causa della morte."
+
+### u023219
+"Qualcuno gli ha ficcato una piuma in gola — un riferimento alla leggenda di Santa Quirine."
+
+### u023220
+"Qualcuno gli ha ficcato una piuma in gola. Ma perché?"
+
+### u023221
+"Ha un tatuaggio sul collo — un teschio con una valvola e alcuni simboli: 'SP-246-01'."
+
+### u023222
+"Non sono a mio agio con i metodi di interrogatorio brutali dei tutori dell'ordine. Smetterai di usare la violenza — è un ordine."
+
+### u023223
+"In futuro mi aspetto da te maggiore professionalità."
+
+### u023224
+"Il lavoro di pulizia è un ottimo mezzo per temprare chi ha un carattere tenero. Quando l'indagine sarà conclusa, ti unirai all'unità di smaltimento dei cadaveri dei mutanti sui ponti inferiori."
+
+### u023225
+"Ho dato un ordine. Come lo eseguirai è affar tuo."
+
+### u023226
+"Verissimo. In tal caso, continua pure."
+
+### u023227
+{n}Il corpo straziato dell'operaio giace in un mucchio cereo sulla piattaforma. Il suo viso è schiacciato, la gola aperta e il corpo crivellato di tagli e lacerazioni. Sopra di esso si erge il Capitano Klein, con la luce fioca che riempie di ombre le rughe della fronte, le quali colano lungo le sopracciglia aggrottate fino al fondo degli occhi. Il bisturi nella sua mano trema appena.{/n}
+
+### u023228
+"Può sembrare umano, ma quello che c'è dentro è tutto sbagliato. Empio. Irredimibile. Sbagliato."
+
+### u023229
+{n}È difficile dire perché — potrebbe essere un gesto simbolico, o forse un messaggio.{/n}
+
+### u023230
+{n}Argenta alza d'istinto l'arma alla vista delle viscere marce del mutante. La furia ardente nei suoi occhi pare in grado di incenerire l'abominio con la stessa efficacia di qualunque lanciafiamme.{/n}
+
+### u023231
+"Sì, ma..." {n}Le rughe sul volto del tutore dell'ordine si fanno più profonde.{/n} "Ci tornerò fra un attimo, Vostra Signoria."
+
+### u023232
+"Avete ragione, Vostra Signoria. Riferirò la vostra volontà alla Signora Sauerback immediatamente. La violenza cesserà all'istante."
+
+### u023233
+{n}Klein esita, evitando il tuo sguardo.{/n} "Ho soffocato una dozzina di rivolte di mutanti su Dargonus per Lady Theodora. Ho fatto a pezzi io stesso quegli abomini. Ma aprirne uno... affondare le mani nelle loro budella impure, infestate dalla piaga dei mutanti..."
+
+### u023234
+"Ho visto questa aberrazione pervertire del tutto la forma umana. Il pensiero che mi tocchi... Disgustoso. Esasperante. Ma supererò questa prova."
+
+### u023235
+"In altre parole, il capitano ha una fobia. Simili paure irrazionali sono comuni tra i veterani che hanno affrontato i nemici dell'Umanità. Si tratta di una circostanza molto sfortunata, che qui non ci sarà d'aiuto."
+
+### u023236
+{n}Le contorte anomalie delle interiora del mutante ti fanno chiedere se possa davvero essere considerato umano. Mentre scandagli più a fondo, la tua mano trova qualcosa incastrato nella gola della vittima: qualcuno ha ficcato una piuma nera nella gola dell'uomo.{/n}
+
+### u023237
+"E la donna giusta pregò il Maestro, implorandolo di rivelarle chi avesse tramato per distruggerla. Ed Egli ascoltò il suo richiamo, e la piuma di un corvo spuntò dalla bocca della fanciulla e, come guidata dalla Sua mano, fece emergere i nomi di coloro che avevano coltivato un turpe tradimento nella mente. La Leggenda di Santa Quirine, versetto 15. È un segno, {name}."
+
+### u023238
+{n}A giudicare dai danni, le ferite più brutali sono state inflitte post mortem, sopra quelle subite quando la vittima era ancora viva — come se qualcuno avesse voluto deliberatamente rendere più difficile identificare la vittima e la causa della morte. La verità è che l'assassino ha agito in fretta e con precisione chirurgica, poi ha appeso il corpo a testa in giù per farne scolare il sangue.{/n}
+
+### u023239
+{n}L'accozzaglia caotica di ferite orribili suggerisce che l'uomo sia stato torturato a lungo prima di morire. Noti dei lividi sulle caviglie — l'assassino deve averlo appeso a testa in giù come un capo di bestiame per dissanguarlo.{/n}
+
+### u023240
+{n}La pelle e le ossa si divaricano, e il fetore di carne rancida ti investe le narici. Klein vomita oltre la ringhiera del ponte. Combattendo l'impulso di vomitare a tua volta, scruti l'ignobile massa di interiora subumane.{/n}
+
+### u023241
+{n}All'improvviso, il sapore della bile ti sale in bocca e sei {mf|costretto|costretta} a distogliere lo sguardo, per non seguire l'esempio di Klein.{/n}
+
+### u023242
+{n}Ti torna in mente una certa leggenda, quella di Santa Quirine, a cui fu concesso un presagio di nemici nascosti tra i fedeli. Quando Quirine pregò l'Imperatore per avere un segno che rivelasse i traditori, una piuma di corvo le eruppe dalla bocca per scrivere i nomi dei cospiratori. Solo qualcuno versato nella simbologia dell'Imperium poteva aver lasciato un messaggio simile.{/n}
+
+### u023243
+{n}Con qualche difficoltà, riesci a distinguere un segno sul suo collo, quasi cancellato dalla ferita alla gola. È il tatuaggio di un teschio con una valvola in bocca e una serie di lettere e numeri che lo circonda — SP-246-01.{/n}
+
+### u023244
+{n}Il tutore dell'ordine ti porge uno straccio imbevuto di disinfettante.{/n} "Che... schifo."
+
+### u023245
+"È il simbolo di un clan di guardatubi che si occupa della manutenzione delle fognature. 'SP' sta per 'senior pipewarden', cioè guardatubi anziano, seguito dal suo numero di identificazione."
+
+### u023246
+{n}Klein osserva più da vicino le ferite precise che hai indicato, quasi impossibili da scorgere sotto la mutilazione.{/n} "Avete un occhio attento, Vostra Signoria. Ma perché qualcuno dovrebbe fare una cosa simile e poi lasciare il corpo in bella vista? Avrebbero potuto semplicemente sbarazzarsene. Dev'esserci qualcosa di più dietro tutta questa sporca faccenda..."
+
+### u023247
+"Una piuma? Una piuma di corvo è difficile da trovare su una nave. Indagherò su dove sia finita."
+
+### u023248
+"Ben visto, Vostra Signoria. Senza dubbio siete già {mf|giunto|giunta} alla stessa conclusione, ma la dichiarerò a verbale: i mutanti immondi non fanno allusioni ai santi. È stato qualcuno versato nel Credo."
+
+### u023249
+"I mutanti immondi non fanno allusioni ai santi. È stato qualcuno versato nel Credo."
+
+### u023250
+"Jinevri sta lavorando al {g|Encyclopedia:Cogitator}cogitatore{/g} del registro di lavoro — può usarlo per risalire al nome della vittima dal suo numero. Il cogitatore si trova nella sala di manutenzione più vicina."
+
+### u023251
+{n}Ti rifiuti di cedere alla paura e al ribrezzo. Un cadavere immondo non è nulla per chi ha trionfato sul proprio destino e ha compiuto l'{d|Encyclopedia:CharGen_MOT_GreatDeed}impossibile{/d}. Guardi le interiora del mutante senza un attimo di esitazione.{/n}
+
+### u023252
+{n}"Sporca faccenda." Rivolgi l'attenzione al pavimento intorno al cadavere. Non ci sono schizzi, né brandelli di carne, né impronte insanguinate che si perdano casualmente nel buio. Eppure... sai che è impossibile macellare un cadavere in quel modo senza sporcarsi per niente.{/n}
+
+### u023253
+{n}Klein quasi lascia cadere il bisturi.{/n} "Ma quali metodi per cercare la verità ci restano, Vostra Signoria? La plebaglia non capisce altro modo."
+
+### u023254
+"Come comandate, Vostra Signoria!"
+
+### u023255
+"Vostra Signoria, devo elogiare il vostro coraggio e la vostra perspicacia... e scusarmi per la mia debolezza di spirito. La mia vergognosa paura mi ha impedito di fare il mio dovere. Non accadrà più."
+
+### u023256
+{n}Klein emette un respiro rotto, poi si raddrizza e parla con tono secco:{/n} "Sì, Lord Capitano."
+
+### u023257
+{n}Il tutore dell'ordine china il capo con deferenza.{/n} "Siete {mf|stato|stata} un modello di coraggio e competenza — mi sforzerò di seguire il vostro esempio."
+
+### u023258
+"Arti vestigiali, formazioni chitinose. Siamo ben oltre le mutazioni che si potrebbero considerare comuni o accettabili. Dobbiamo trovare l'assassino e scoprire che cosa è riuscito a imparare su questa creatura."
+
+### u023259
+{n}La tua conoscenza degli xenos basta a dedurre che l'uomo assassinato potrebbe essere stato sottoposto a un'influenza xenos. La vera forma umana non è stata semplicemente distorta, ma mescolata con qualcosa di strano, di profano. È come se stessi sezionando un seme che avrebbe dovuto evolversi in qualcosa di più complesso e alieno.{/n}
+
+### u023260
+{n}Non riesci nemmeno a immaginare quale sfavorevole fattore genetico abbia causato mutazioni così orribili.{/n}
+
+### u023261
+{n}Heinrix si china sul cadavere.{/n} "{name}, prestate attenzione, tutte queste mutilazioni sono una facciata. Sono state inflitte post mortem, chiaramente qualche tempo dopo. È morto all'istante per una coltellata al cuore. È stato ucciso da un professionista, qualcuno che sapeva esattamente cosa stava facendo."
+
+### u023262
+"Vergognatevi, Capitano. Il dovere di un ufficiale è essere un sostegno per il Lord Capitano, non il contrario. Se quel peso è troppo grande per voi, dovreste considerare le dimissioni. Parlo chiaramente, da veterano a veterano." {n}Un pizzico di compassione è sepolto in fondo alle parole spietate del Siniscalco.{/n}
+
+### u023263
+"Lo farete di certo, Capitano. Se volete, posso recitarvi qualche paragrafo del regolamento per rinvigorirvi."
+
+### u023264
+"La paura, nera come il carbone, tinge la sua anima. Dubito che si possa scacciare con la sola forza di volontà..."
+
+### u023265
+"Jae, sei così fortunata, dicevano. La tua vita al seguito del Rogue Trader sarà tutta banchetti e sale da ballo, dicevano." {n}Jae distoglie lo sguardo dal cadavere con disgusto.{/n} "Credo che terrò per me questa storiella dell'eviscerazione di un mutante. Lascerò che i miei amici continuino a invidiare la mia vita di lusso."
+
+### u023266
+{n}L'intero volto del {g|Encyclopedia:Manipulus}Manipulus{/g} si illumina d'entusiasmo. I mecadendriti di Eogunn si protendono verso l'addome del mutante con perfetta precisione, irti di aghi e lancette.{/n} "Che splendido esemplare di corruzione genetica, Nuncius! Prendi nota: tutti questi cambiamenti non sono affatto casuali. Hanno una struttura e uno scopo evolutivo intrinseco... Una metamorfosi è stata innestata in lui, ma di che tipo? Davvero, Nuncius, l'origine xenos è altamente probabile."
+
+### u023267
+"Rogue Trader, concludo che veniamo ingannati. Il danno ai tessuti molli è stato inflitto post mortem, per mascherare la vera causa della morte: una coltellata tra le costole che ha reciso l'aorta. Morte immediata, un colpo di una precisione clinica tale da rivaleggiare con i miei mecadendriti."
+
+### u023268
+{n}Klein annuisce con cautela.{/n} "Non siete ancora {mf|mutato|mutata}, Vostra Signoria."
+
+### u023269
+{n}Il tutore dell'ordine risponde con un cupo cenno del capo.{/n}
+
+### u023270
+{n}Il tutore dell'ordine non si è mosso di un passo dalla tua ultima visita. Il suo bisturi è immacolato e non vedi un solo taglio nuovo sul corpo.{/n}
+
+### u023271
+{n}Arti vestigiali e incarniti avvolgono quelle che sembrano le vili parvenze di organi familiari, intrecciate a sacche squamose color bile.{/n}
+
+### u023272
+"Ho letto di qualcosa di molto simile!" {n}Premendosi un fazzoletto sul viso, Cassia si china sul corpo con interesse.{/n} "Santa Quirine cercava dei traditori, e l'Imperatore esaudì le sue preghiere con un miracolo: una penna di corvo le uscì dalla bocca e scrisse i nomi dei nemici."
+
+### u023273
+{n}Il tuo occhio esperto nota subito che il cadavere è stato mutilato post mortem. Hai fatto ricorso tu {mf|stesso|stessa} a simili stratagemmi in {d|Encyclopedia:CharGen_Criminal}diverse occasioni{/d}, quando dovevi ingannare qualche servitore della legge.{/n}
+
+### u023274
+Kelermorph
+
+### u023275
+Biocupola invasa dalla vegetazione
+
+### u023276
+Tutore dell'ordine Klein
+
+### u023277
+Tutore dell'ordine Jinevri
+
+### u023278
+Tutore dell'ordine Hrotko
+
+### u023279
+Ufficiale dei tutori dell'ordine
+
+### u023280
+Guardatubi anziano Gwedon
+
+### u023281
+Mia Monteg
+
+### u023282
+Einrich Monteg
+
+### u023283
+Nemi Monteg
+
+### u023284
+Tutore dell'ordine Archtranscriptor
+
+### u023285
+Tecnoprete Androveta-Phi
+
+### u023286
+Jocasta Sauerback
+
+### u023287
+Insorto
+
+### u023288
+Operaio arrestato
+
+### u023289
+Yart
+
+### u023290
+Il corpo disseccato è orribilmente mutilato — quello che un tempo era un volto ora è una massa informe di carne e schegge d'osso.
+
+### u023291
+Cogitatore principale del registro di lavoro Iota-IIIB
+
+### u023292
+"Lord Capitano, i {g|Encyclopedia:Lexmechanic}Lexmeccanici{/g} assegnati alla Cappella Astropatica segnalano un calo significativo del nostro potenziale di comunicazione. Potrebbe essere una conseguenza del rituale telepatico a cui Vostra Signoria si è degnata di partecipare. I tutori dell'ordine riferiscono che il Maestro del Coro ha chiesto udienza al Lord Capitano e da allora si è chiuso nella cappella, rifiutandosi di far entrare chiunque. Per quanto la richiesta di udienza possa sembrare sfacciata, non riesco a scrollarmi di dosso la sensazione che sia una richiesta d'aiuto."
+
+### u023293
+"Arrestatelo voi. Vi raggiungerò quando sarà tutto pronto."
+
+### u023294
+"Parteciperò alla cerimonia."
+
+### u023295
+"Molto bene, lo cattureremo insieme."
+
+### u023296
+"Tu resta fuori da questa faccenda, Kibellah. Me ne occuperò io."
+
+### u023297
+"Che genere di trappola?"
+
+### u023298
+"Aspetta, l'età appropriata? Ci saranno anziani e giovani presenti?"
+
+### u023299
+[Istruisci i tutori dell'ordine] "Assumo il comando di questa operazione. Mettimi in contatto con i comandanti delle squadre."
+
+### u023300
+"Lord Capitano, il vostro piano è stato un successo! La nostra provocazione contro Nemesite e l'uccisione del traditore Adalbert hanno fatto uscire allo scoperto tutti gli altri. I miei tutori dell'ordine hanno catturato diversi individui sospetti e hanno estorto loro la verità a suon di botte. Quella feccia di Nemesite vuole vendicare la morte del suo mentore e progetta di fare irruzione nella cerimonia di investitura degli ufficiali."
+
+### u023301
+"Vi consegneremo quel bastardo su un piatto d'argento, Lord Capitano."
+
+### u023302
+{n}Senti una raffica di interferenze, seguita da Kibellah che si unisce al canale.{/n} "Domin'{name}, i sussurri della morte pronunciano il nome di Nemesite sempre più forte. Devo incontrare il nemico faccia a faccia."
+
+### u023303
+"Sia." {n}La voce di Kibellah è sommessa, ma in qualche modo ancora più cupa e minacciosa del solito.{/n}
+
+### u023304
+"No." {n}La breve parola è carica di una risolutezza incrollabile.{/n} "È stata la mia ricerca a rivelare le tracce di Nemesite. Senza le mie fatiche, avrebbe continuato a sfuggirvi e a nascondersi nell'ombra, radunando le forze per un altro colpo. È la mia caccia e la mia preda. Se non desiderate il mio aiuto, allora allontanatemi." {n}Il vox si spegne.{/n}
+
+### u023305
+{n}Senti una raffica di interferenze, seguita da Kibellah che si unisce al canale.{/n} "Verrò con voi, Domin'{name}. La mia caccia sta per concludersi. Non permetterò al nemico di sfuggirmi."
+
+### u023306
+"Sostituiremo i civili con tutori dell'ordine e con i loro parenti dell'età appropriata, li vestiremo tutti con gli abiti da cerimonia e nasconderemo le armi sotto di essi. Quando Nemesite tenterà di colpire, troverà soltanto una crudele delusione — per l'ultima volta nella sua vita miserabile."
+
+### u023307
+"È necessario per mantenere il segreto. Lasciate che vi assicuri: tutti i miei uomini rischieranno volentieri le loro famiglie per il bene della dinastia von Valancius, senza paura né esitazione!"
+
+### u023308
+"Poiché l'empio Adalbert si è rivelato un apostata, spetta al nuovo confessore far sì che gli ufficiali rinnovino il giuramento al Dio-Imperatore. Per tradizione, alla cerimonia assistono le famiglie degli ufficiali, ed è proprio contro di loro che si rivolge l'ammutinato. Vuole massacrare l'intera élite della nave in un colpo solo. Ho ordinato di tendere una trappola a Nemesite. Desiderate partecipare di persona all'operazione?"
+
+### u023309
+{n}Ricevi i rapporti degli ufficiali. Grazie alla tua {d|Encyclopedia:CharGen_Militarum}esperienza{/d}, scopri rapidamente una serie di difetti nella loro tattica e apporti qualche modifica piccola ma cruciale. I tutori dell'ordine rispondono con profondo rispetto nella voce.{/n}
+
+### u023310
+"Mi oppongo a questi esperimenti. Rimetti quei marinai del vuoto in condizione di lavorare. Dovrai trovare la cura in un altro modo."
+
+### u023311
+"Come intendi studiare questa malattia?"
+
+### u023312
+Hai ordinato al Chirurgeon Majoris di trovare dei volontari disposti a farsi infettare, così da poter trovare la cura per la malattia.
+
+### u023313
+"Sconfiggere una malattia è un nobile obiettivo, ma non posso approvare i tuoi metodi. Trova dei volontari tra l'equipaggio che accettino di essere infettati in cambio di un compenso. Mi aspetto che li curi tutti una volta terminato."
+
+### u023314
+Hai ordinato al Chirurgeon Majoris di usare dei detenuti come cavie, così da poter trovare la cura per la malattia.
+
+### u023315
+"I marinai del vuoto vanno curati e rimessi al lavoro. Se vuoi delle cavie, di' alla Maestra d'Armi di fornirti il numero necessario di detenuti e altra feccia."
+
+### u023316
+Hai permesso al Chirurgeon Majoris di sacrificare la vita dei membri dell'equipaggio per ottenere conoscenze pericolose sulla natura dei morbi più nefasti.
+
+### u023317
+"Sfrutta l'occasione, Forius. Se comprendere questa malattia ti permetterà davvero di addentrarti nella natura dei morbi più nefasti, allora puoi avere tutte le cavie che ti servono. Puoi sacrificarle tutte, se è quello che ci vuole."
+
+### u023318
+"Forius è l'ufficiale responsabile di tutte le questioni di salute su questa nave. Non interferire con il suo lavoro, Ravor."
+
+### u023319
+"Lord Capitano, chiedo il permesso di rivolgervi una richiesta! Il nostro capo chirurgo sta sabotando le operazioni della nave — ha messo in quarantena diversi equipaggi di marinai del vuoto per una malattia da poco. La gente non va nemmeno in infermeria quando la prende — si soffia il naso e continua a lavorare. Ne muore una dozzina o poco più in un anno intero. Qui stiamo con le mani in mano, quindi vi chiedo di fargli entrare un po' di buonsenso in testa."
+
+### u023320
+{n}Il tuo vox gracchia e senti una risposta asciutta e noncurante:{/n} "Salute, Vostra Signoria. Mi chiamo Lettard Forius e sono il Chirurgeon Majoris di questa nave. In qualità di vostro capo medico, vi assicuro che la quarantena è più che giustificata. Questa 'malattia da poco' in passato ha stroncato la vita di diversi ufficiali meritevoli. Stavolta intendo tenere sotto controllo l'epidemia, studiare a fondo il morbo e sviluppare una cura adeguata."
+
+### u023321
+"Questo potrebbe limitare il potenziale dello studio, ma... anche questo approccio è accettabile. Compenserò la scarsità di materiale con la mia competenza. Grazie per aver preso in considerazione la salute del vostro equipaggio."
+
+### u023322
+{n}Senti un borbottio soffocato al vox.{/n} "Ordini ricevuti, Lord Cap'. Ridistribuirò i turni tra i membri sani dell'equipaggio, e che l'Imperatore impedisca loro di morire per sfinimento."
+
+### u023323
+"'Sacrificarli'? Che cosa vuol dire, Lord Cap'? Adesso dovremo insegnare a nuovi idioti tutti i segreti del mestiere di marinaio del vuoto!"
+
+### u023324
+"Permettimi di placare il tuo panico, Primo Timoniere, dicendoti che non tollererò alcuno spreco di vite. Le perdite tra l'equipaggio saranno trascurabili."
+
+### u023325
+"Radunando un numero sufficiente di individui infetti, lasciando progredire la malattia, comprendendone le proprietà e, infine, uccidendola. Il morbo attraversa diverse fasi, ognuna delle quali contiene indizi sulla sua natura e sulle sue vulnerabilità. I marinai del vuoto dovranno restare malati per un po', finché non scoprirò la cura, ammesso, naturalmente, che la malattia sia reversibile nelle sue fasi finali."
+
+### u023326
+"Spero concorderete che un singolo periodo di inattività sia un prezzo modesto a fronte del numero di vite che verranno salvate e del miglioramento delle prestazioni dell'equipaggio in altre epidemie future. Senza contare che non dovremo sprecare stimolanti perché i malati li usano come stampella per compensare la loro ridotta capacità lavorativa."
+
+### u023327
+"Vorrei poter scoprire la cura restando seduto nel mio ufficio a corrugare la fronte, ma la realtà impone altre esigenze. Ad ogni modo, obbedisco al vostro comando e cercherò altri mezzi per sconfiggere la malattia."
+
+### u023328
+"Se doveste avere bisogno dei miei servigi, mi troverete sul ponte di comando, Vostra Signoria."
+
+### u023329
+"Ringrazio Vostra Signoria per avermi concesso questa opportunità." {n}Un tocco di calore ravviva la voce distaccata di Forius.{/n} "Fidatevi, sono il guaritore all'altezza delle vostre aspettative. Se doveste avere bisogno dei miei servigi, mi troverete sul ponte di comando."
+
+### u023330
+{n}Senti al vox la voce asciutta di Jocasta Sauerback:{/n} "Lord Capitano, abbiamo catturato il malfattore. In circostanze normali, sarebbe già stato giustiziato e starei riferendo la conclusione dell'indagine, ma credo che la sua confessione possa interessarvi. È meglio che la sentiate dal colpevole stesso — vi attenderò al quartier generale dell'indagine sul ponte degli ufficiali."
+
+### u023331
+"Che cosa pensi rappresentino queste 'tre falangi dolenti'?"
+
+### u023332
+"Mi stai dicendo che la dinastia von Valancius ha trasportato aberrazioni genetiche attraverso la Distesa?"
+
+### u023333
+"Da dove viene questo Finger of Sorrow?"
+
+### u023334
+"Voglio localizzare il relitto e indagare."
+
+### u023335
+"Certe cose è meglio dimenticarle. Cancella dal registro di bordo i dati sul Finger of Sorrow."
+
+### u023336
+"Lord Capitano, ho fatto una scoperta importante! Quando avete distrutto la creatura che i mutanti chiamavano il Sire, ho sentito che era mio dovere indagare su come l'abominio fosse finito sulla nostra nave. Scavando tra vecchi inventari e archivi di transazioni commerciali, mi sono imbattuto in un unico nome, 'Finger of Sorrow'. Più di due secoli fa, il relitto alla deriva di questa nave fu scoperto dal predecessore di Lady Theodora. Era una nave mercantile perduta con la stiva piena di merci."
+
+### u023337
+"Mi sono ricordato delle 'tre falangi dolenti' menzionate da quelle creature distorte. Mi azzardo a ipotizzare che questa immagine rimandi al nome della nave, intrecciato nelle credenze degli eretici. Un terzo delle merci prelevate dal Finger of Sorrow fu venduto alla missione drusiana su Footfall per le esigenze di un'arca colonizzatrice, la Wasteland Wayfarer, diretta al mondo di Jesevon."
+
+### u023338
+"Un terzo fu portato al formicaio Scipione 84-249 su Dargonus, dove in seguito scoppiò un ammutinamento, e l'ultimo terzo fu lasciato sulla nave ammiraglia. Sicuramente capite dove voglio arrivare. Secoli dopo, è emerso un culto di mutanti in ognuno dei luoghi in cui furono consegnati i carichi."
+
+### u023339
+"Per pura ignoranza. Probabilmente le creature si annidavano nel carico e nessuno le ha scoperte, oppure forse... Sappiamo che queste cose possono prendere il controllo delle menti. Potrebbero aver dominato chiunque si fosse imbattuto nel loro nido."
+
+### u023340
+"È arrivata nella Distesa da qualche parte nel {g|Encyclopedia:CalixisGlossary}Settore Calixis{/g}. Informazioni più precise potrebbero trovarsi nel registro della nave morta, ma io non lo possiedo."
+
+### u023341
+"Come desiderate, Vostra Signoria. Nulla deve compromettere il buon nome della dinastia."
+
+### u023342
+"Le coordinate sono già state inserite nel registro di bordo, Vostra Signoria."
+
+### u023343
+"Suppongo che simboleggino i tre rami del culto. I Nutritori, la Stella Vorace e il culto senza nome di Scipione. Almeno prego l'Imperatore che siano soltanto tre..."
+
+### u023344
+"Lord Capitano, devo informarvi che la Signora Kibellah è arrivata ai vostri alloggi e ha dato il cambio alle guardie del corpo di stanza lì. Forse desidera parlare in privato."
+
+### u023345
+"Lord Capitano, gli ufficiali superiori della nave chiedono udienza con voi. Vi attendono umilmente sul ponte di comando."
+
+### u023346
+"So esattamente come gestire questo culto."
+
+### u023347
+"Se il mio Maestro dell'Infernus dice che sono un pericolo per la nave, allora ne sono {mf|convinto|convinta}. Disperdi i facinorosi."
+
+### u023348
+"Cosa? Stanno bruciando il mio promethium?"
+
+### u023349
+"Maestro dell'Infernus? Non ci hanno ancora presentati."
+
+### u023350
+"Descrivimi il problema nel dettaglio."
+
+### u023351
+"Maestra d'Armi. Non credo che ci siamo mai incontrati."
+
+### u023352
+"L'Ecclesiarchia riconosce questo culto o viene considerato eretico?"
+
+### u023353
+"Salve, Confessore Adalbert."
+
+### u023354
+"Questo Oracolo del Fuoco fa davvero delle profezie?"
+
+### u023355
+"Maestro del Coro Weisz, io e te non abbiamo ancora avuto il piacere di conversare."
+
+### u023356
+"Non vedo nulla di male in questo culto. Possono continuare le loro preghiere, purché stiano attenti al fuoco."
+
+### u023357
+"Maestra d'Armi, ti ordino di disperdere gli adoratori del fuoco. Questo culto è sospetto."
+
+### u023358
+"Le visioni dell'Oracolo potrebbero rivelarsi utili. Non permetteremo che la legge ci intralci. Tienilo d'occhio, Weisz."
+
+### u023359
+"Getta l'Oracolo in una cella di detenzione e consegnalo alle autorità nel primo porto che visiteremo."
+
+### u023360
+"Getta questo profeta fuori dal portello stagno."
+
+### u023361
+"Poiché il Confessore Adalbert e la Signora Sauerback hanno entrambi attestato che quelle persone sono obbedienti e senza colpa, non vieterò il loro insegnamento."
+
+### u023362
+"Mi permetto di far notare che finora non ci sono stati incidenti nel vano del carburante, e che le credenze di questa setta non influiscono in alcun modo sull'obbedienza degli operai né sulla loro efficienza. Tutte le riunioni si svolgono rigorosamente fuori dall'orario di lavoro, con il permesso dei superiori. Tuttavia, se ritenete inaccettabili le loro pratiche, vi metteremo fine immediatamente."
+
+### u023363
+"Lord Capitano, se posso chiedervi un momento di attenzione, devo segnalare una serie di violazioni estremamente pericolose avvenute nel vano del carburante. La Maestra d'Armi ignora le mie richieste e sono dunque costretto a rivolgermi direttamente a voi!"
+
+### u023364
+"La quantità di residui accumulati nei serbatoi di drenaggio era così ridicolmente esigua che non valeva nemmeno la pena registrarla. Se qui fosse in corso una vera appropriazione indebita delle risorse della nave, avrei già punito i responsabili, Lord Capitano." {n}L'ultima frase reca una lieve nota di rammarico.{/n}
+
+### u023365
+"Mi scuso per l'omissione, Lord Capitano. Sono Einrich Monteg, a capo della Gilda dell'Infernus. Sono responsabile della prevenzione e dello spegnimento degli incendi, oltre che della gestione di qualsiasi situazione di emergenza."
+
+### u023366
+"Infatti, Vostra Signoria. Jocasta Sauerback, al vostro servizio. Mi è stato affidato l'onore di comandare i tutori dell'ordine e di mantenere la disciplina a bordo di questa nave. È mio dovere punire gli intrusi, reprimere la disobbedienza e respingere qualsiasi attacco alla nave."
+
+### u023367
+"Questa faccenda esula dalla mia competenza. Sia il Confessore Adalbert a giudicare simili questioni."
+
+### u023368
+"Sono lieto di fare la vostra conoscenza, Vostra Signoria. Come umile servitore dell'Imperatore, mi è stato affidato l'alto onore di essere il confessore della nave, ovvero, in altre parole, la massima autorità spirituale a bordo del vostro vascello. Sono qui per vigilare sulla purezza della fede dell'equipaggio. Officio nella cappella degli ufficiali e mi occupo anche del reliquiario della nave."
+
+### u023369
+"Quantomeno lui e il suo gregge credono che l'{g|Encyclopedia:EmperorGlossary}Imperatore{/g} gli riveli scorci del possibile futuro nella fiamma sacra. Di tanto in tanto le sue visioni si avverano davvero, o almeno così si convincono i suoi seguaci. Non sappiamo se la grazia del Dio-Imperatore sia davvero su di lui, o se sia soltanto un ciarlatano... o forse un beato squilibrato, oppure—"
+
+### u023370
+"...un malvagio furfante che possiede un potere psichico non temperato dalla Sua volontà." {n}Una voce gracchiante interrompe le parole del confessore.{/n} "Lord Capitano, come Maestro del Coro {g|Encyclopedia:AstropathGlossary}Astropatico{/g}, devo vigilare su ogni minaccia alla sicurezza della nave proveniente dall'Immaterium. Ho sentito delle voci su questo Oracolo e ho quindi mandato i miei adepti a vederlo. Affermano che l'uomo sia uno {g|Encyclopedia:PsykerGlossary}psyker{/g}."
+
+### u023371
+"Vi chiedo perdono, ma raramente lascio la cappella per interferire negli affari della nave. Il mio dovere richiede che io mantenga una veglia costante mentre dirigo l'arrivo e la partenza dei messaggi attraverso il vuoto sconfinato. Ma, dato che questo incidente aveva già reclamato la mia ingerenza, ho pensato fosse una buona occasione per presentarmi e porgervi i miei omaggi."
+
+### u023372
+"Come desiderate, Lord Capitano. Avvertirò i miei uomini di restare in guardia."
+
+### u023373
+"Sì, Lord Capitano! Entro domani questo culto sarà dimenticato e non verrà mai più menzionato."
+
+### u023374
+"Quest'uomo che parla con il warp è un pericolo per se stesso e per l'intera nave. Sia la legge sia il buonsenso impongono che venga gettato in una cella di detenzione, sedato e consegnato all'{g|Encyclopedia:InquisitionGlossary}Inquisizione{/g} perché sia inviato sulla Sacra Terra. In alternativa... potete anche sbarazzarvi di lui in qualche altro modo."
+
+### u023375
+"È una decisione pericolosa, ma obbedirò al Lord Capitano. Farò del mio meglio perché quest'anima maledetta non causi una manifestazione del warp, l'Imperatore ci salvi."
+
+### u023376
+"Sarà fatto, Lord Capitano. Mi assicurerò che resti privo di sensi e che i suoi pericolosi poteri siano tenuti sotto controllo. Quanto al culto, sono certo che si dissolverà da solo senza la sua guida spirituale."
+
+### u023377
+{n}Un vecchio paffuto dalle guance rosee si fa avanti, con una voce profonda e sonora:{/n} "L'Imperatore protegge, Vostra Signoria! Posso assicurarvi che nessuna eresia sta marcendo nel vano del carburante. La Setta delle Profezie del Fuoco è stata sottoposta a verifica di purezza ed è risultata conforme al Credo. Il loro capo, che si fa chiamare l'Oracolo del Fuoco, è devoto e sottomesso ai Suoi servitori. Non distorcono gli insegnamenti sacri e, quanto alle forme di culto da loro scelte, non sono né rare né degne di nota. Molti piccoli culti simili esistono nell'Imperium con la piena approvazione dell'{g|Encyclopedia:AdeptusMinistorumGlossary}Ecclesiarchia{/g}."
+
+### u023378
+"Siamo pronti a eseguire qualsiasi ordine."
+
+### u023379
+"Gli addetti al carburante hanno fondato una specie di setta. Questo gruppo pratica un culto del fuoco dell'Imperatore e ha bruciato {g|Encyclopedia:Promethium}promethium{/g} vicino alle condutture del carburante! Vi imploro di fermare questa follia prima che andiamo tutti in fiamme."
+
+### u023380
+"Lord Capitano, se questo è il vostro desiderio, reprimeremo ogni violazione della disciplina della nave. Tuttavia, mi permetto di dire che il Maestro dell'Infernus non ha alcun diritto di dare ordini ai tutori dell'ordine, e trovo le sue azioni un oltraggioso strappo alla catena di comando!"
+
+### u023381
+"Lord Capitano, le camere del propulsore al plasma sono state perquisite e il cospiratore è stato catturato e neutralizzato. L'interrogatorio inizierà a breve, se Vostra Signoria è {mf|pronto|pronta} a presenziare."
+
+### u023382
+"Perché sei così preoccupato per questa situazione?"
+
+### u023383
+"Molto bene. Condurrò personalmente l'indagine."
+
+### u023384
+"Non ho alcuna intenzione di farmi coinvolgere."
+
+### u023385
+"Non parteciperò personalmente all'indagine, ma supervisionerò i lavori."
+
+### u023386
+"Vostra Signoria, sono il Maestro dell'Infernus Monteg. Vi esorto a intervenire nella cosiddetta 'indagine' organizzata dalla Maestra d'Armi. I tutori dell'ordine sono fuori controllo: aggrediscono la gente, privandola di cibo e acqua. I vostri servitori muoiono senza altro motivo che il desiderio della Signora Sauerback di impressionarvi. Sono certo che non oserebbero terrorizzarli in vostra presenza, o almeno mostrerebbero un po' di moderazione!"
+
+### u023387
+"Qualcuno deve pur preoccuparsene. Il mio clan e la mia famiglia sono tra i perseguitati. Non potevo restare a guardare mentre li torturavano, così ho trovato il coraggio di rivolgermi a voi con una richiesta."
+
+### u023388
+"Vi ringrazio a nome della vostra gente. Vi prego, non tardate."
+
+### u023389
+"Non potrei chiedere di più. Vi prego, non tardate."
+
+### u023390
+"Peccato. Allora farò ciò che posso da solo."
+
+### u023391
+Richiedi informazioni sulla baia della fonderia.
+
+### u023392
+Scopri di più su Nemesite.
+
+### u023393
+Scopri i dettagli dell'omicidio del comandante.
+
+### u023394
+Semina la discordia tra la plebaglia. Chi consegnerà Nemesite sarà trasferito ai ponti intermedi e riceverà la paga di un anno.
+
+### u023395
+Autorizza la Maestra d'Armi a punire gli operai della fonderia come ritiene opportuno.
+
+### u023396
+Hai sedato i disordini sui ponti inferiori fornendo alla gente medicine e rifornimenti.
+
+### u023397
+Conforta le persone sfinite dando loro medicine e rifornimenti.
+
+### u023398
+Hai represso i disordini sui ponti inferiori spegnendo i sistemi di supporto vitale.
+
+### u023399
+Schiaccia senza pietà i disordini spegnendo i sistemi di supporto vitale.
+
+### u023400
+La Maestra d'Armi segnala un disordine nella baia della fonderia. Un certo Nemesite, una figura vendicatrice amata dalla plebaglia dei ponti inferiori, ha sparato al comandante durante una consegna di routine di rifornimenti medici e ha chiamato i servi del vascello a lottare per una vita migliore. La plebaglia ha subito saccheggiato il deposito medico e ha proceduto a devastare altre stazioni di rifornimento, massacrando gli ufficiali lungo la strada.
+
+### u023401
+È un luogo di caldo insopportabile e aria avvelenata, dove i rottami metallici vengono fusi in piastre poi usate per riparare e riallestire lo scafo. Qui non ci sono strutture critiche e la baia è piuttosto facile da isolare. Ciò apre la possibilità di sedare i disordini senza perdite tra i tutori dell'ordine.
+
+### u023402
+Il Siniscalco fa notare che tutti i Nemesite agiscono allo stesso modo: ogni volta che la plebaglia si sente oppressa, si fanno avanti come la scintilla che accende i fuochi della sedizione. Prendono di mira gli ufficiali più odiati dagli operai per la loro severità e il loro rispetto dell'ordine, e ogni omicidio viene accolto dalle acclamazioni della gente comune.
+
+### u023403
+La Maestra del Vox condivide le voci su Nemesite che abbondano sui ponti inferiori. Alcuni dicono che nasca dal sangue dei lavoratori oppressi, altri che sia lo spirito di giustizia del vascello. Altri ancora credono sia un eroe immortale. Una simile venerazione rende molto difficile catturare il campione della feccia.
+
+### u023404
+I disordini si sono placati. Mentre i servi lodano la generosità del Rogue Trader, i tutori dell'ordine prevedono cupamente che la plebaglia spargerà sangue ancora più in fretta e più volentieri la prossima volta che sentirà la mancanza di qualcosa.
+
+### u023405
+Le persone muoiono in modo atroce, soffocando nel buio più nero e nel freddo gelido. Ma la dura lezione è stata appresa: i sopravvissuti chinano il capo e tornano al lavoro senza lamentarsi.
+
+### u023406
+Molte persone tradiscono parenti e vicini nella speranza di una vita migliore, ma tra loro non c'è alcun vero Nemesite. I tutori dell'ordine reprimono la folla divisa e ripristinano l'ordine con facilità.
+
+### u023407
+Il motivo dell'attacco di Nemesite riguardava la vedova di un caposquadra rispettato. Aveva rallentato la fila supplicando di ricevere delle medicine per i figli malati, che il comandante aveva rifiutato perché la sua richiesta superava la quota di spesa. La vedova ha insistito ed è stata punita con dieci frustate sul posto. È stato allora che Nemesite ha sparato il colpo fatale che ha dato il via a un ammutinamento nel vano.
+
+### u023408
+La Maestra d'Armi riferisce che questo è il quarto Nemesite ad aver operato sui ponti inferiori negli ultimi anni. I tre precedenti sono stati catturati dai tutori dell'ordine, e ciascuno si è dichiarato apertamente Nemesite. Le esecuzioni pubbliche evidentemente non hanno alcun effetto: la gente continua a radunarsi attorno al proprio eroe non appena ne emerge uno e crede sempre nell'invulnerabilità del proprio campione.
+
+### u023409
+Nemesite è fuggito e la situazione sul ponte sfugge sempre più al controllo. La Maestra d'Armi chiede il permesso di ricorrere al trattamento più severo possibile, non solo per ripristinare l'ordine, ma anche per vendicare il comandante ucciso e i tutori dell'ordine caduti.
+
+### u023410
+Le squadre punitive agiscono con estrema brutalità, spezzando la volontà degli operai. I cadaveri sfigurati di intere famiglie fungono da duraturo monito dell'ineluttabilità della punizione.
+
+### u023411
+L'istigatore ha alimentato la rabbia della folla con storie oltraggiose ma purtroppo popolari sul carattere presumibilmente {d|Encyclopedia:CharGen_DH_Shame}riprovevole{/d} del Rogue Trader. Di conseguenza, un certo vile epiteto si è diffuso rapidamente per tutto il vascello: la Pustola della Dinastia.
+
+### u023412
+Alla luce della scoperta di una cellula del Culto dei Genestealer sulla nave, Heinrix van Calox raccomanda di prestare particolare attenzione alla storia di Nemesite. L'Interrogatore sospetta che dietro l'istigazione alla rivolta ci sia un mutante fuggito — è fin troppo simile a una delle tattiche impiegate da questi nemici dell'Umanità.
+
+### u023413
+"Vostra Signoria, Lady Vyatt è salita a bordo. Ha portato con sé una sorta di manoscritti e si prende la libertà di aggiungere i simboli che contengono ai nostri esagrammi protettivi. Il governatore sembra riporre... una discreta fiducia nei suoi poteri."
+
+### u023414
+"Vostra Signoria, il Maestro Herimon è riuscito a fuggire ed è salito a bordo. Ha quasi completato il rituale di armonizzazione con il resto del Coro, che ha dato alle nostre voci maggiore forza e coesione."
+
+### u023415
+"Abbiamo completato i preparativi e attendiamo il vostro arrivo per iniziare il rituale non appena darete l'ordine."
+
+### u023416
+"Lord Capitano! Più sistemi critici stanno cedendo in tutto il vascello, metà dei vani non risponde più — la nave sta andando in pezzi! Chiediamo la presenza di Vostra Signoria sul ponte di comando immediatamente."
+
+### u023417
+"Che cos'è questo rituale?"
+
+### u023418
+"Ci sarò."
+
+### u023419
+"Non ho tempo per i rituali."
+
+### u023420
+"Venite, e vedrete. Non desidero parlare dei misteri del Bloodspun Web attraverso il vox. Questa conoscenza non è destinata alle orecchie dei non iniziati."
+
+### u023421
+"Vi ringrazio, Domin."
+
+### u023422
+"Come volete, Domin."
+
+### u023423
+"Al momento ho questioni più importanti di cui occuparmi."
+
+### u023424
+"Non credo che ci siamo presentati."
+
+### u023425
+"Se l'urlo cessa, potremo contattare qualcuno?"
+
+### u023426
+"Faremo visita a quella stazione."
+
+### u023427
+"Qual è la natura di questo urlo?"
+
+### u023428
+"Lord Capitano, il Maestro del Coro {g|Encyclopedia:AstropathGlossary}Astropatico{/g} Zacchary Weisz chiede di parlarvi su un canale privato."
+
+### u023429
+"Salve, Vostra Signoria. Posso riferire che il Coro ascolta senza sosta l'{g|Encyclopedia:WarpGlossary}Immaterium{/g} nella speranza di captare le voci delle navi o dei mondi della dinastia. Tuttavia, abbiamo sentito qualcosa di... orripilante. In mezzo al tumulto dell'Immaterium, qualcosa... sta urlando. Questo urlo sta facendo impazzire il vostro Coro. Finché non cesserà, non abbiamo alcuna speranza di contattare nessuno dei mondi della dinastia. Proviene dalla stazione Astropatica del Sistema Rykad."
+
+### u023430
+"Lo spero umilmente, Vostra Signoria. Forse riusciremo a inviare una richiesta di aiuto ai mondi von Valancius o a uno degli alleati della dinastia."
+
+### u023431
+"In effetti no, e ci incontriamo in circostanze deplorevoli. Mi chiamo Zacchary Weisz e sono orgoglioso di essere il Maestro del Coro Astropatico della vostra nave. Il compito che svolgo è tenervi in contatto con la {g|Encyclopedia:KoronusExpanseGlossary}Distesa{/g} tramite messaggi astropatici inviati attraverso il warp da psyker addestrati."
+
+### u023432
+"Mi scuso per aver distratto Vostra Signoria."
+
+### u023433
+"Non lo sappiamo, Vostra Signoria, ma... ha portato l'Immaterium a ebollizione. È sempre stato un oceano violento e ruggente, capace di portare la rovina a chiunque pensasse di immergersi nelle sue acque. Ora, però, è diventato una culla di follia dove immagini espulse si fondono tra loro, contorcendosi e sghignazzando, prima di abbattersi sulle menti di chiunque le percepisca. Una potente {g|Encyclopedia:CicatrixMaledictumGlossary}tempesta warp{/g} come non ne ricordo infuria nell'Empireo, e mi riempie di terrore."
+
+### u023434
+Il corpo è stato mutilato per nascondere la causa della morte.
+
+### u023435
+Vicino alla scena è stato trovato un giaccone sintetico insanguinato. Fa parte della divisa standard dei tutori dell'ordine.
+
+### u023436
+Qualcuno ha sabotato deliberatamente il cogitatore principale nel tentativo di nascondere i registri di lavoro.
+
+### u023437
+Il falso cultista Yart sostiene di essere stato costretto a incriminarsi dal Capitano Jinevri.
+
+### u023438
+Un tutore dell'ordine ha picchiato il falso cultista prima dell'interrogatorio, perdendo nell'occasione un costoso anello dal dito.
+
+### u023439
+C'era un vecchio nascondiglio contrassegnato da un simbolo sospetto. Vale la pena chiedere a Nije, il caposquadra del turno.
+
+### u023440
+Il nascondiglio conteneva un biglietto criptico. Nije, il caposquadra del turno, potrebbe aiutare a decifrarne il significato.
+
+### u023441
+Trova un modo per aprire la porta
+
+### u023442
+Nel nascondiglio era celata un'arma strana. Il caposquadra del turno dovrebbe darle un'occhiata.
+
+### u023443
+La cospirazione delle abominevoli aberrazioni genetiche è stata smascherata e ridotta in polvere.
+
+### u023444
+Un audace attentato alla vita del Rogue Trader ha avuto luogo nella sua stessa stanza da bagno — qualcuno ha riempito la vasca di sangue. Il colpevole va trovato.
+
+### u023445
+Abluzione nel sangue
+
+### u023446
+Il Rogue Trader ha incaricato i suoi sudditi di perquisire le camere del propulsore al plasma. Non resta che attendere il rapporto.
+
+### u023447
+Attendi i risultati della perquisizione
+
+### u023448
+I traditori potrebbero aver lasciato prove in questo vano.
+
+### u023449
+Trova tracce dei cospiratori
+
+### u023450
+Il Rogue Trader deve essere presente all'interrogatorio del cospiratore catturato, che si terrà nello stesso luogo in cui è stato arrestato — nelle camere del propulsore al plasma.
+
+### u023451
+Interroga il cospiratore
+
+### u023452
+Il Maestro dell'Infernus fornirà uomini per un'imboscata accanto a un nascondiglio scoperto dal Lord Capitano.
+
+### u023453
+Tendi un'imboscata ai cospiratori
+
+### u023454
+Il cospiratore ha confessato che i suoi complici si nascondono nella cripta dinastica. Solo il Lord Capitano può dissigillare quel luogo sacro per i tutori dell'ordine.
+
+### u023455
+Recati alla cripta della nave
+
+### u023456
+I traditori si nascondono nell'oscurità. È ora di perlustrare la cripta.
+
+### u023457
+Indaga nella cripta
+
+### u023458
+La sinistra figura della visione si è rivelata. Il mutante va distrutto e lo strano culto sradicato.
+
+### u023459
+Uccidi il capo delle aberrazioni
+
+### u023460
+Il Rogue Trader ha deciso di guidare la ricerca del colpevole, iniziando con una visita al ponte degli ufficiali e ricevendo i rapporti dei tutori dell'ordine.
+
+### u023461
+Guida l'indagine
+
+### u023462
+Il Rogue Trader ha deciso di osservare i propri tutori dell'ordine al lavoro e di onorare l'indagine con la propria presenza sul ponte degli ufficiali.
+
+### u023463
+Osserva l'indagine
+
+### u023464
+Il Rogue Trader ha incaricato i propri tutori dell'ordine di trovare il colpevole. Ora non deve fare altro che attendere un rapporto dalla Maestra d'Armi.
+
+### u023465
+Attendi i risultati dell'indagine
+
+### u023466
+I tutori dell'ordine hanno scoperto un cadavere disseccato su una piattaforma sospesa non lontano dalla stanza con la sfera armillare. Il primo passo dell'indagine è esaminarlo.
+
+### u023467
+Ispeziona il corpo
+
+### u023468
+Ascolta il rapporto dell'autopsia
+
+### u023469
+Sul cadavere è stato scoperto un numero personale. Il cogitatore principale nella sala di manutenzione può fare luce sull'identità della vittima.
+
+### u023470
+Controlla i registri del cogitatore principale
+
+### u023471
+Ricevi il rapporto sui registri del cogitatore principale
+
+### u023472
+Il giorno della sua morte, la vittima lavorava insieme al suo collega Gwedon. Questo Gwedon è probabilmente detenuto nella sala principale non lontano dalla sfera armillare, insieme agli altri arrestati sotto la sorveglianza del Capitano Hrotko.
+
+### u023473
+Interroga Gwedon
+
+### u023474
+Assisti all'interrogatorio di Gwedon
+
+### u023475
+La Maestra d'Armi ha preso in mano la situazione. Troverà il sospettato, Gwedon, perché il Rogue Trader possa ricevere la sua confessione. L'indagine si concluderà dove è iniziata — nella mensa del ponte degli ufficiali.
+
+### u023476
+Concludi l'indagine nella mensa del ponte degli ufficiali
+
+### u023477
+Il Maestro del Coro Weisz è un potente telepate in grado di rintracciare i cospiratori seguendo le oscure tracce dei loro pensieri traditori. Il Lord Capitano può trovarlo alla Cappella Astropatica.
+
+### u023478
+Parla con il Maestro del Coro Weisz
+
+### u023479
+Il Maestro del Coro insiste affinché un potente telepate lo protegga durante il rituale. Il Rogue Trader deve decidere chi debba offrire i propri servigi al Maestro Weisz.
+
+### u023480
+Assegna uno psyker per garantire la sicurezza del rituale
+
+### u023481
+Lo specialista necessario per il rituale salirà presto a bordo. Fino ad allora, il Rogue Trader ha tempo di occuparsi di altre faccende.
+
+### u023482
+Attendi l'arrivo dello psyker
+
+### u023483
+Il Maestro del Coro è pronto a iniziare il rituale. È giunto il momento che il Rogue Trader veda i volti dei propri nemici.
+
+### u023484
+Partecipa al rituale
+
+### u023485
+Il rituale è andato storto, proprio come aveva previsto Zacchary Weisz. Il Maestro del Coro deve essere protetto a ogni costo, altrimenti sono tutti condannati.
+
+### u023486
+Proteggi il Maestro del Coro
+
+### u023487
+Le visioni del Maestro del Coro hanno mostrato che la corruzione si annida nelle camere del propulsore al plasma della nave.
+
+### u023488
+Perlustra le camere del propulsore al plasma
+
+### u023489
+Le vite persino dei più umili tra i servitori del Lord Capitano non hanno più segreti per {mf|lui|lei}.
+
+### u023490
+Il Rogue Trader ha deciso di vedere con i propri occhi la vita quotidiana dei suoi sudditi sulla linea di carico. Ciò comporterà visitare anche gli angoli più oscuri della baia.
+
+### u023491
+I gradini più bassi della società
+
+### u023492
+I tutori dell'ordine e i controllori del traffico sono i lavoratori più privilegiati della baia. La loro vita è diversa da quella che il Rogue Trader ha visto sui ponti superiori?
+
+### u023493
+Ispeziona il posto di blocco dei tutori dell'ordine
+
+### u023494
+La stazione della rete di trasporto è la ragione per cui questa baia esiste. Il suo cuore pulsante.
+
+### u023495
+Visita la linea di carico
+
+### u023496
+Le desolate abitazioni degli abitanti della baia dovrebbero trovarsi vicino alla stazione della linea di carico. È lì che si può dare uno sguardo alla vita di un comune servo.
+
+### u023497
+Passa dalle unità residenziali
+
+### u023498
+Ogni società genera i propri emarginati e reietti. Vedere di persona la loro miserabile esistenza è essenziale per completare il quadro della vita in questa baia.
+
+### u023499
+Visita le aree proibite della baia
+
+### u023500
+Il Rogue Trader ha visto abbastanza. È ora di dire al Capitano Frensoe quale sarà il futuro di questa baia.
+
+### u023501
+Lascia il tuo segno sulla vita in questa baia
+
+### u023502
+I cultisti della morte hanno indicato dove, sui ponti inferiori, è iniziato il cammino della Matriarca Ragno — la linea di carico. Pertanto, essa deve servire anche come punto di partenza del viaggio del Lord Capitano verso il tempio della morte.
+
+### u023503
+Esplora la linea di carico del vascello
+
+### u023504
+I segni di sangue lasciati dai cultisti nascondono i versi del Canto della Scia di Sangue, che narra il cammino percorso dalla Matriarca Ragno. Il Lord Capitano ha deciso di seguire i simboli e scoprire dove conducono.
+
+### u023505
+Segui i simboli di sangue
+
+### u023506
+Il Lord Capitano si trova davanti a una scelta difficile: compiere il passo finale e diventare il sangue dell'ammiraglia, oppure abbandonare il cammino della Matriarca Ragno e la propria ricerca del tempio.
+
+### u023507
+Gettati nel condotto di ventilazione e diventa il sangue dell'ammiraglia
+
+### u023508
+"L'ombra silenziosa sprofondò nel buio.
+Piedi lacerati in crescendo, danza fatale:
+canto di lame a tempo, ogni filo un'eco,
+gemelle odi ai tormenti di morte.
+Ora sul suo sangue sacro,
+come un tempo calcò i dorsi dei nemici,
+calcano anime senza numero, ma nessuna sa."
+
+### u023509
+"All'anima macchiata di fuliggine concesse la sua pietà.
+Esalato l'ultimo respiro, il coltello incontrò il cuore:
+tolto dal petto, consegnato alla morte.
+Il suo dovere benedetto, un balsamo per chi
+soffre angoscia e tormento.
+Un anelito condotto a riposo:
+dai legami mortali l'anima si spogli."
+
+### u023510
+"Ma alcuni sceglievano di lasciare la via giusta.
+Questi in tempo debito ebbero la loro penitenza:
+la sua frusta canta vendetta sul rinnegato minaccioso.
+Le sue lame pronunciano sentenza.
+Perché i codardi cercano di nascondere il cuore,
+ma la morte non finge;
+prende ciò che le è dovuto in sostanza."
+
+### u023511
+"Vagò per un'eternità nel buio,
+eppure fu consolata. La Rete predisse:
+i segreti di sangue dell'Imperituro brillarono,
+luce a guidare il suo gregge fedele.
+Ma i fili devono finire. E così il ragno
+fece ciò che era dovuto:
+la sua vita e la sua morte alla nave donò..."
+

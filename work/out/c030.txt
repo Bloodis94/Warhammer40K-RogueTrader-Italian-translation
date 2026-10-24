@@ -1,0 +1,760 @@
+### u013501
+Evayne Winterscale è profondamente preoccupato per la difficile situazione in una delle più antiche colonie minerarie della sua dinastia. Tuttavia, ti è grato per avergli dato l'opportunità tempestiva di venire a conoscenza degli sviluppi in corso e della nave di pattuglia scomparsa. Pensa di poter rimediare alla situazione.
+
+### u013502
+Giura fedeltà al Re e prometti di esaudire la sua richiesta.
+
+### u013503
+Chiedi con chi stai parlando.
+
+### u013504
+Ordina all'entità di rilasciare dalla sua morsa le menti degli abitanti di Amberworld.
+
+### u013505
+Dichiara di voler diventare l'araldo del Re della Distorsione.
+
+### u013506
+Lascia in pace l'entità.
+
+### u013507
+Attacca l'entità con tutti i cannoni di bordo.
+
+### u013508
+Ordina una funzione di preghiera di mille voci, su tutta la nave, sulle sacre reliquie per la protezione di Amberworld, dell'Imperium e delle vostre stesse anime.
+
+### u013509
+Infiammato da una moltitudine di colori, l'alterato disco celeste trema appena oltre le infinite vetrate del ponte di comando mentre la nave del Rogue Trader si avvicina al suo centro. Una voce ultraterrena, fredda e avvolgente, penetra nella tua mente. Che cosa potrebbe mai offrire a un Re {mf|questo misero miserabile|questa misera miserabile}?
+
+### u013510
+Una risata acida riempie la tua testa mentre l'enorme disco distorto svanisce dagli augur della nave del vuoto come se non fosse mai stato lì.
+
+### u013511
+Colpi di gong assordanti risuonano per centinaia di ponti. I tuoi occhi si velano di rosso e le gengive sanguinano mentre i tuoi sudditi cadono tutti insieme in ginocchio, in una preghiera condivisa al Dio-Imperatore. Le sacre reliquie dei templi della nave si fondono per l'ardore del tuo discorso, e l'entità urla e si contorce dentro il tuo cervello, lottando per liberarsi.
+
+### u013512
+Molti cadono morti nei primi minuti della preghiera, incapaci di resistere alla corruzione; altri, però, prendono subito il loro posto, per nulla scossi dalla vista dei loro compagni che si riducono in polvere in pochi secondi. Poi un fetore nauseabondo investe come un'onda i ponti della nave, facendo vomitare le viscere alle persone. Alla fine, ogni ponte sprofonda nell'oscurità. Fantasmi del passato camminano tra i vivi, rubando il respiro a chi ha lo spirito debole. E la preghiera non si spegne.
+
+### u013513
+Un flusso infinito di immagini riempie la tua coscienza. Vedi scene orribili di milioni di anime torturate. Le loro urla lacerano la tua mente. Il loro dolore ti trafigge con mille aghi roventi. Re. Sovrano. Colui che è Obbedito. È tutto ciò a cui riesci a dare un senso, anche se vedi molto di più.
+
+### u013514
+Come osi disturbare il Re con simili sciocchezze? L'entità è furiosa, e senti una raffica di vento invisibile scagliare mille lame attraverso la tua nave. Gli ufficiali crollano ai tuoi piedi, soffocando, e da ogni ponte arrivano notizie di centinaia di vittime. Un silenzio risonante cala sulla nave, e un lampo accecante ti stordisce per un tempo che potrebbe essere qualsiasi.
+
+### u013515
+La risata beffarda del Re ti risuona nelle orecchie, e un rivolo rosso scuro scorre lento dal naso sulle labbra, lasciando un retrogusto di sale e metallo.
+
+### u013516
+Il Re è incuriosito: mai prima d'ora un mortale aveva cercato di ottenere la sua divina benedizione. Tutto ciò che devi fare è rivendicare la proprietà di Amberworld e non interferire con gli eventi che si svolgono sul pianeta. Se il Re sarà soddisfatto di te, potrebbe persino lasciarti riscuotere un tributo dai suoi giocattoli.
+
+### u013517
+Gli ufficiali sul ponte si guardano intorno, sconcertati. I loro occhi sono pieni di terrore e confusione. Molti si stringono la testa e lanciano lunghi ululati di dolore. Alcuni vomitano. Ma la maggior parte, pallidi ed esausti come sono, si è unita al Lord Capitano nel resistere all'influenza dell'entità.
+
+### u013518
+L'Interrogatore van Calox ti ricorda con freddezza i piani dell'Arcinemico... e le leggi dell'Imperium, secondo le quali persino i Rogue Trader, araldi dell'Imperatore in persona, possono essere puniti, se precipitano nell'eresia.
+
+### u013519
+È difficile dire se la funzione di preghiera sia durata diverse ore o diversi giorni. A un certo punto senti la tua stessa essenza traboccare di calore e potere, e poi... la volontà intrusa vacilla. Il disco distorto svanisce dagli augur della nave del vuoto, come se non fosse mai stato lì, e finalmente tutto è quieto. Mentre tutti si riprendono lentamente da ciò che è appena accaduto, iniziano ad arrivare rapporti sul ponte di comando. Hai perso un terzo dell'equipaggio in questa lotta impari, e i fortunati sopravvissuti impiegheranno parecchio tempo a riaversi. Gloria al Rogue Trader!
+
+### u013520
+Distruggi le navi xenos con una salva dell'armamento della nave del vuoto.
+
+### u013521
+Contatta le navi.
+
+### u013522
+Lascia che Marazhai raggiunga le navi xenos con una navetta.
+
+### u013523
+Lascia in pace le navi del vuoto.
+
+### u013524
+Avvicinati per determinare l'appartenenza delle navi.
+
+### u013525
+Fornisci risorse agli xenos.
+
+### u013526
+Lascia le navi xenos senza aiuto.
+
+### u013527
+Accetta di aiutare gli xenos in cambio di una generosa ricompensa.
+
+### u013528
+Ai margini del sistema, alcune navi xenos danneggiate, appena visibili nel buio dello spazio, sono raccolte l'una accanto all'altra. Senza mostrare la consueta ostilità, gli xenos restano inattivi, ignorando del tutto la presenza del Rogue Trader.
+
+### u013529
+Marazhai riconosce le navi come quelle del Kabal Reaving Tempest dalle silhouette e dai contrassegni. La notizia che i guerrieri del suo Kabal sono sopravvissuti alla sete di sangue dei loro insaziabili simili riempie lo xenos di cupa determinazione. Marazhai si volta verso il Rogue Trader con la richiesta di lasciare illese le navi individuate: lo xenos desidera incontrarli di persona.
+
+### u013530
+La squadra degli augur ha rilevato diverse navi del vuoto danneggiate, ciascuna colpita da vari guasti ai sistemi e con a bordo alcune decine di creature viventi. Il tentativo di identificare le loro firme dei motori fallisce, ma gli scanner captano uno scambio di dati tra le navi lungo un canale cifrato.
+
+### u013531
+L'oscurità dello spazio è squarciata da una sequenza di esplosioni bianche e rosse che consumano rapidamente le navi xenos. Pochi istanti dopo, di loro non restano che detriti incandescenti che vagano caoticamente nel buio.
+
+### u013532
+Con lo scatto di leve e interruttori, la Maestra del Vox trasmette un messaggio alle navi xenos ma non riceve risposta. Che si tratti di un guasto alle apparecchiature o di un disprezzo deliberato, gli xenos ignorano la chiamata del Rogue Trader.
+
+### u013533
+La navetta con a bordo Marazhai torna alla nave del Rogue Trader così in fretta che è impossibile dire se gli xenos abbiano preso parte a trattative fallite o a un duello violento e impetuoso. Senza fare commenti, Marazhai si rivolge al Lord Capitano con una richiesta categorica: aiutare i sopravvissuti e lasciarli andare.
+
+### u013534
+Le navi paralizzate si lanciano in una fuga frenetica. Come se non volessero accorciare la distanza dalla nave ammiraglia del Rogue Trader, tentano di allontanarsi ancora di più. Prima che le navi devastate raggiungano di nuovo una distanza significativa, gli augur identificano le loro firme dei motori: le navi appartengono ai Drukhari.
+
+### u013535
+Le navi paralizzate iniziano a muoversi. Si disperdono lontano dalla nave ammiraglia del Rogue Trader, evitandola come meglio possono, come se volessero mantenere la distanza e restare indisturbate.
+
+### u013536
+Gli xenos accettano le navette con le risorse, mantenendo con arroganza il silenzio vox e senza mostrare alcuna gratitudine per la generosità e l'aiuto del Lord Capitano. Concluso il trasferimento delle risorse, Marazhai torna a bordo con macchie di sangue sulla piastra dell'armatura: a suo dire, l'incontro è stato un successo.
+
+### u013537
+Senza badare alle navi del suo Kabal che si rimpiccioliscono in lontananza, Marazhai fissa il Rogue Trader con fiammeggiante intensità, parlando in modo più eloquente di qualsiasi parola.
+
+### u013538
+Guardando il fuoco divorare le navi dei Kabalite, Marazhai sibila odiose maledizioni xenos, così complesse e selvagge che l'Elucidator del Lord Capitano non riesce a dare loro alcun senso.
+
+### u013539
+Gli ufficiali inviati a supervisionare lo scambio insieme a Marazhai riferiscono che il commercio è andato a buon fine. Alcuni xenos poco collaborativi vi si opponevano, ma la mano letale di Marazhai ha tolto loro la vita prima che le loro argomentazioni acquistassero peso.
+
+### u013540
+Chiedi se gli Explorator hanno merci da commerciare.
+
+### u013541
+Dai elementi transuranici all'Adeptus Mechanicus.
+
+### u013542
+Proponi agli Explorator uno scambio di risorse.
+
+### u013543
+Lascia la stazione degli Explorator.
+
+### u013544
+Saccheggia la stazione.
+
+### u013545
+[Prova i nuovi cannoni della nave sulla stazione]
+
+### u013546
+Dai all'Adeptus Mechanicus il gas raccolto dall'equipaggio.
+
+### u013547
+Quando la nave del Rogue Trader si avvicina alla stazione del vuoto dell'Adeptus Mechanicus, viene accolta dall'ostile scrutinio dei laser di difesa della stazione. Un Lexmeccanico Explorator che si presenta come Unità di Servizio 42 chiede con distacco come la stazione possa essere utile al Rogue Trader.
+
+### u013548
+La raffica di fuoco dei cannoni della nave del vuoto danneggia la stazione dell'Adeptus Mechanicus in modo da innescare processi incontrollati nei suoi sistemi di supporto vitale e di difesa. Uno dopo l'altro, i moduli della stazione si depressurizzano sotto gli occhi del Lord Capitano, ma non viene rilevata alcuna scialuppa di salvataggio con a bordo servitori del Culto della Macchina. Secondo rapporti successivi, sono morti tutti nel tentativo di proteggere le macchine inestimabili distrutte nell'attacco.
+
+### u013549
+Non appena l'equipaggio del Rogue Trader carica i cannoni e li punta sulla stazione, i laser di difesa dell'Adeptus Mechanicus squarciano lo scafo della nave del vuoto, lasciando una cicatrice dall'aspetto doloroso che si estende per diversi ponti. I cannoni della stazione continuano a sparare finché il Primo Timoniere non porta la nave a distanza di sicurezza. Con i cannoni ancora in fiamme, la stazione non risponde più alle chiamate.
+
+### u013550
+Pasqal emette un allarmato trillo binarico. Il Magos non oserà mettere in dubbio gli ordini del Rogue Trader, ma lascia il ponte e scende nelle viscere della nave per placare gli agitati spiriti macchina. Non torna finché l'operazione non è conclusa.
+
+### u013551
+Dopo aver consultato i dati del cogitatore principale della stazione, il Lexmeccanico Unità di Servizio 42 conferma che la stazione ha bisogno di rari elementi transuranici o di gas naturale per ricerche di natura non divulgata. Per parte sua, al momento la stazione non può offrire nulla in cambio al Rogue Trader, ma il rappresentante dell'Adeptus Mechanicus a Footfall {mf|lo|la} ripagherà certamente per il suo aiuto.
+
+### u013552
+I cannoni potenziati colpiscono la stazione, senza lasciare alcuna possibilità di sopravvivenza agli adepti del Culto della Macchina. L'equipaggio è in subbuglio: mentre gli ufficiali esultanti elogiano le nuove armi, che di certo aiuteranno la nave del vuoto nei suoi viaggi futuri, altri si chiedono se questa dimostrazione di forza valesse davvero la vita di fedeli servitori dell'Imperium.
+
+### u013553
+La stazione ringrazia il Rogue Trader per la sua collaborazione e {mf|lo|la} ricompensa con oro e titoli.
+
+### u013554
+Il Lexmeccanico Unità di Servizio 42 consegna al Rogue Trader un missile speciale benedetto in piena conformità con la liturgia del Culto della Macchina ed esprime la speranza di una futura cooperazione.
+
+### u013555
+La stazione ringrazia il Rogue Trader per la sua collaborazione e {mf|gli|le} consegna, in segno di gratitudine, diversi container di riserve inutilizzate.
+
+### u013556
+Dirigi la nave verso il centro dell'anomalia.
+
+### u013557
+Verifica se gli archivi contengono dati su anomalie simili.
+
+### u013558
+Affida il destino al vento e non intraprendere alcuna azione.
+
+### u013559
+Esci dall'anomalia!
+
+### u013560
+L'infinita tela del vuoto cosmico è interrotta da quello che sembra... un buco senza fondo. Lo sguardo non riesce a penetrarlo: niente stelle, niente pianeti, niente polvere cosmica. C'è solo oscurità totale. La squadra degli augur non è riuscita a ricavare alcuna informazione dall'anomalia e, sotto l'influenza di una misteriosa forza, la nave del vuoto viene lentamente attirata verso il cuore dell'oscurità. Gli ufficiali sul ponte alzano preoccupati lo sguardo dai loro cogitatori: gli schermi delle macchine si accendono e si spengono in modo caotico, ignorando ogni comando degli operatori.
+
+### u013561
+La nave del Rogue Trader si avvicina lentamente al buco cosmico. I contorni delle pareti, delle apparecchiature e delle persone all'interno della nave del vuoto si distorcono, tremolano e si allungano sotto l'influenza di una forza invisibile. Gli spiriti macchina sono gravemente colpiti e iniziano a infuriare per la nave, disattivando i cogitatori su ogni ponte.
+
+### u013562
+Alcuni operatori riescono a strappare agli archivi una minima quantità di informazioni utili. Tali anomalie sono estremamente rare: pozzi gravitazionali che compaiono a caso e collegano punti diversi dello spazio. È impossibile prevedere dove conduca un simile pozzo.
+
+### u013563
+Le macchine della nave del vuoto si rifiutano di eseguire gli ordini e si spengono a ogni tentativo di accedere a una funzione. Terrorizzati dalle distorsioni tremolanti nei loro stessi corpi, gli operatori cercano freneticamente di scoprire almeno qualche informazione sul fenomeno, ma i loro tentativi restano vani.
+
+### u013564
+Più la nave si avvicina al buco, più velocemente viene risucchiata. Migliaia di persone su ogni ponte sono in preda al panico: i loro corpi si trasformano in fili sottili e contorti, che si sfilacciano e si lacerano in pezzi, esponendo vene, ossa e organi interni. Disfacendosi in viti, piastre e bulloni, i Tecnopreti continuano a rivolgere preghiere incessanti agli spiriti macchina, ma i loro canti binarici si perdono nelle urla infinite e nelle grida di aiuto. Infine, la nave del vuoto balza nel tunnel cosmico con un sussulto straziante.
+
+### u013565
+A fatica la nave del vuoto vince l'attrazione dell'anomalia e si trascina nella direzione opposta. Una cacofonia da incubo di gemiti, preghiere e stridore di metallo riempie ogni ponte. Migliaia di persone sono in preda al panico: i loro corpi si trasformano in fili sottili e contorti, che si sfilacciano e si lacerano in pezzi, esponendo vene, ossa e organi interni.
+
+### u013566
+Le pareti del ponte, le sagome dell'equipaggio e le sacre macchine della nave tremano e si allungano come elastici. Da ogni ponte arrivano allarmi di cogitatori difettosi e cronografi impazziti, e rapporti di indescrivibili allucinazioni che affliggono l'equipaggio. Mentre i Tecnopreti cercano di placare gli spiriti macchina, il timoniere Ravor riferisce che la situazione è grave. I sistemi di navigazione sono a malapena funzionanti, e la forza invisibile si fa più intensa e accelera, trascinando incessantemente la nave nel suo oscuro grembo. Resta poco tempo, e il Lord Capitano deve decidere: lasciare il luogo pericoloso o cedere alla forza e studiare l'anomalia dall'interno.
+
+### u013567
+Per caso o per grazia dell'Imperatore, la nave del vuoto riesce a districarsi dalla salda presa dell'anomalia. La sua influenza si dissolve: i sistemi di bordo tornano alla normalità uno dopo l'altro, e i corpi deformati dell'equipaggio riprendono la forma originale come se nulla fosse accaduto. Ora, l'unico ricordo dell'evento è un sordo dolore muscolare.
+
+### u013568
+Punisci la tutrice dell'ordine che ha osato scambiarti per {mf|un servo|una serva}.
+
+### u013569
+Ordina alla donna di lasciarti andare, se non vuole incorrere nell'ira del Rogue Trader!
+
+### u013570
+Chiedi qual è il problema.
+
+### u013571
+Dai un pugno in faccia alla donna e scappa.
+
+### u013572
+Non opporre resistenza.
+
+### u013573
+Inizia a salire verso i ponti intermedi, usando una vecchia mappa sulla parete come guida.
+
+### u013574
+Trova un servoteschio messaggero per informare il ponte di comando di dove ti trovi.
+
+### u013575
+Parla con la gente del posto per scoprire com'è la vita quotidiana sui ponti inferiori.
+
+### u013576
+Strofina i ponti.
+
+### u013577
+Svaligia un posto di guardia e contatta Vigdis con un vox rubato.
+
+### u013578
+Ferma l'ufficiale: la tutrice dell'ordine stava solo facendo il suo dovere. E lo faceva anche bene.
+
+### u013579
+Punire una sola tutrice dell'ordine non basterà a riparare questo oltraggio alla persona del Rogue Trader. Ordini di impiccare tutti i tutori dell'ordine dei ponti inferiori.
+
+### u013580
+Di' all'ufficiale di sbrigarsi: vorresti tornare ai tuoi alloggi di capitano il prima possibile.
+
+### u013581
+Affrettati verso il ponte di comando della nave del vuoto.
+
+### u013582
+Dai una lezione a tutti i tutori dell'ordine dei ponti inferiori.
+
+### u013583
+Quando la nave del Rogue Trader si avvicina al corpo celeste non identificato, gli spiriti macchina su ogni ponte, dal ponte di comando alle stive, si agitano freneticamente. I motori si rifiutano di collaborare, facendo precipitare la nave del vuoto verso l'epicentro dell'anomalia come una freccia verso un bersaglio.
+
+### u013584
+La Maestra del Vox rende lode all'Imperatore dell'Umanità mentre fai il tuo ingresso sul ponte di comando. Vigdis spiega che sei rimast{mf|o|a} intrappolat{mf|o|a} in un'anomalia che ha fatto scambiare inspiegabilmente i posti alle persone sulla nave. Una squadra di soccorso è stata inviata subito a cercare il Rogue Trader, ma trovarti ha richiesto parecchio tempo. Tutto è bene quel che finisce bene: il Lord Capitano è di nuovo al timone e prosegue il suo viaggio nella Distesa di Koronus. Lunga vita a {name} von Valancius!
+
+### u013585
+Lamenti di disperazione coprono il frastuono dei ponti inferiori mentre una mazza di metallo sfonda il cranio e le ossa della vittima. Scure macchie di sangue segnano paratie, ponte, tubi e condotti, proprio quelli che ti era stato imposto di strofinare non molto tempo fa. Terminato il suo lavoro, l'ufficiale ti saluta e ti invita a seguirlo verso i ponti superiori. Casa. Ti volti per dare un'ultima occhiata e noti gli straccioni del posto, armati di scope e stracci, che ripuliscono con zelo i resti sanguinolenti della tutrice dell'ordine, pregando il Dio-Imperatore per ottenere misericordia.
+
+### u013586
+La tutrice dell'ordine emette una risata roca, poi ti sputa in faccia: che {mf|uno sguattero|una sguattera} osi anche solo aprire bocca è già oltre ogni limite, figurarsi proclamarsi il Rogue Trader. Degli sguatteri hanno perso la lingua per molto meno. Per sottolineare il concetto, la donna brandisce un grosso coltello, poi ti scaraventa in un angolo dove altre persone altrettanto stracciate strofinano il ponte: stando all'insegna sulla paratia, è la Baia Theta 54.
+
+### u013587
+La tutrice dell'ordine ti scaraventa senza tanti complimenti in un angolo dove altre persone altrettanto stracciate strofinano il ponte: stando all'insegna sulla paratia, è la Baia Theta 54. I ponti inferiori. Hai del lavoro da fare. Devi darti una mossa.
+
+### u013588
+Ti divincoli con facilità dalla presa della tutrice dell'ordine, dai un pugno sul naso alla donna, ti volti e fuggi nel buio di passaggi sconosciuti. Dopo l'ennesima svolta, getti un'occhiata alle spalle per vedere se sei inseguit{mf|o|a} e noti un'insegna sulla paratia: Baia Theta 54. I ponti inferiori.
+
+### u013589
+La tutrice dell'ordine intercetta la tua mano, ride in modo roco e rauco, poi ti colpisce allo stomaco. Poi alle costole. Poi alla schiena. E infine al viso. Prima che tu possa riprendere l'equilibrio, la donna ti scaraventa senza tanti complimenti in un angolo dove altre persone altrettanto stracciate strofinano il ponte: stando all'insegna sulla paratia, è la Baia Theta 54. I ponti inferiori. Hai del lavoro da fare. Devi darti una mossa.
+
+### u013590
+Riesci a capire una parte della mappa, rendendoti conto al contempo che è desolatamente superata. Mentre ti dirigi verso i passaggi principali del ponte, incontri una dozzina di altre mappe, corrette e rietichettate. Per sette cicli di bordo risali, un passo alla volta... finché non raggiungi finalmente i ponti intermedi. È lì che un portello stagno ti blocca il cammino. La sicurezza non lascerà passare te, né nessun altro. Dopo diverse ore di persuasione, bugie e minacce, uno degli ufficiali ti permette di contattare un "parente" sui ponti superiori.
+
+### u013591
+Fatichi a capire i percorsi indicati sull'antica mappa appesa tristemente alla paratia. La maggior parte dei passaggi segnati conduce a vicoli ciechi, oppure i portelli stagni sono saldati e fuori uso da centinaia di anni. Alcune scale sono state sostituite da ascensori diretti a moduli sconosciuti, mentre altre mancano del tutto. Dopo alcuni giorni di vagabondaggio, ti accorgi di non aver ancora lasciato la baia da cui sei partit{mf|o|a}.
+
+### u013592
+Ti ci vogliono diversi tentativi per catturare uno dei servoteschi che sfrecciano per la baia. Scarabocchi le tue coordinate approssimative su uno dei rotoli stretti nel suo artiglio meccanico. Il codice, noto solo agli ufficiali di grado più alto, dovrebbe convincere qualcuno del tuo seguito a mandare aiuto. Dopo aver impartito diversi comandi che può emettere solo il Lord Capitano di persona, rilasci il servoteschio, che schizza verso l'alto e scompare in un condotto di ventilazione.
+
+### u013593
+I servoteschi sono più veloci di quanto il Rogue Trader immaginasse. Ne insegui uno per tutte le aree non vietate dei ponti inferiori, ma ti sfugge ogni volta di mano. Notando questo strano comportamento, uno dei tutori dell'ordine interrompe il tuo inseguimento con un colpo alla testa. Attraverso la fessura sempre più stretta del tuo occhio che si gonfia in fretta, vedi il servoteschio sparire in un corridoio semibuio.
+
+### u013594
+La gente del posto ti rivolge sorrisi amichevoli non appena ti vede. Forse è il tuo aspetto. Da una paratia di vetro ti restituisce lo sguardo, {mf|confuso, un vagabondo stracciato, spettinato, con il viso sporco di fuliggine e sfinito|confusa, una vagabonda stracciata, spettinata, con il viso sporco di fuliggine e sfinita}. Un viso non così diverso da quello dei tuoi nuovi amici. In ogni caso, nessuno cerca di farti del male. Ti raccontano un paio di storie divertenti sulla vita del posto, sull'onnipotente Lord Capitano e sui mostri che di tanto in tanto spaventano la gente quando l'intera nave trema e lumen rossi lampeggiano sopra le teste.
+
+### u013595
+Persino la gente del posto evita la tua compagnia. Non sei riuscit{mf|o|a} a parlare con una sola persona per tutto il giorno: la gente distoglie lo sguardo in silenzio e accelera il passo, oppure si ritrae con disgusto non appena ti avvicini. Forse è il tuo aspetto. Da una paratia di vetro ti restituisce lo sguardo, {mf|confuso, un vagabondo stracciato, spettinato, con il viso sporco di fuliggine e sfinito|confusa, una vagabonda stracciata, spettinata, con il viso sporco di fuliggine e sfinita}, in stracci maleodoranti.
+
+### u013596
+Strofini i ponti per diverse ore, finché un vecchio sdentato ti chiama. Ti viene consegnata una ciotola di brodo limpido e un pezzo raffermo e ammuffito di biomateriale: il pranzo. Poi la sicurezza spinge tutti in una camera adiacente per riprendere le pulizie. E poi in un'altra. E un'altra ancora. Finché l'ultimo rintocco del gong della nave segna la fine del turno. Tanto vale andare a dormire.
+
+### u013597
+Studi i tutori dell'ordine da diversi giorni ormai, osservando i cambi di turno, le pause alla mensa, le partite a regicidio e i postumi delle sbornie. Il quarto giorno, durante un cambio di turno, ti introduci di soppiatto nella loro stanzetta e trovi un vox-trasmettitore dimenticato da qualcuno.
+
+### u013598
+Gli stracciati, che hanno apprezzato moltissimo la tua piacevole compagnia, ti accompagnano alla cabina del supervisore della baia. Gli operai chiedono al supervisore di segnalare {mf|un nobile smarrito|una nobile smarrita} dei ponti superiori. La tua compostezza e i tuoi modi ti distinguono davvero dagli umili abitanti dei ponti inferiori. Quando vieni riportat{mf|o|a} sul ponte di comando, la Maestra del Vox rende lode all'Imperatore dell'Umanità e spiega che eri intrappolat{mf|o|a} in un'anomalia che ha fatto scambiare inspiegabilmente i posti alle persone sulla nave. Una squadra di soccorso è stata inviata subito a recuperare Vostra Signoria, ma i tuoi amici dei ponti inferiori hanno già aiutato il Lord Capitano a tornare dove appartiene.
+
+### u013599
+Sentendo la tua voce, la Maestra del Vox rende lode all'Imperatore dell'Umanità. Vigdis spiega che eri intrappolat{mf|o|a} in un'anomalia che ha fatto scambiare inspiegabilmente i posti alle persone sulla nave. Una squadra di soccorso è stata inviata subito a cercare il Lord Capitano, ma tu l'hai anticipata e hai contattato Vigdis di persona.
+
+### u013600
+Hai dovuto attendere ancora diversi cicli di bordo prima che la squadra di scorta si facesse strada dai ponti più alti fino al fondo. Informati della presenza di un "ospite di alto rango" tra loro, i sorveglianti della Baia Theta 54 hanno cercato di rallegrare il tuo soggiorno con cibo passabile, un letto morbido e persino acqua calda, un privilegio negato alla gente del posto. Alla fine vedi i volti familiari degli ufficiali di scorta venuti a riprenderti.
+
+### u013601
+Mancare di rispetto al Lord Capitano è una svista imperdonabile, anche se si presenta in stracci davanti ai suoi servitori. Dai l'ordine, e una dozzina di servoteschi si sparpagliano per i compartimenti dei ponti inferiori, portando a esecuzione il tuo verdetto punitivo. E mentre sali verso il ponte di comando della nave, diverse centinaia di tutori dell'ordine vengono sospinti in un compartimento vuoto, dotato solo di una forca meccanica "dalle mille teste". Un giro dell'interruttore, e tutti ricevono la punizione che meritano.
+
+### u013602
+Ti svegli dopo un sonno agitato e ti ritrovi sdraiat{mf|o|a} su una rigida stuoia di cartone. Ti assale uno strano senso di stonatura. Il posto è buio e puzza di sudore. Qualcuno ti dà una gomitata sotto le costole e ti afferra per il colletto, vomitando insulti. È una tutrice dell'ordine in pattuglia sulla nave del vuoto. Ed è chiaramente scontenta.
+
+### u013603
+Il pugno alzato su di te si schianta contro una mazza di metallo. Un urlo spaventato rimbomba contro le pareti della Theta 54. Premendosi al petto il polso rotto, la tutrice dell'ordine cade in ginocchio e china il capo davanti alla figura che si frappone tra te e lei. Nella fioca luce dei lumen, riconosci il tuo difensore: uno degli ufficiali nati nel vuoto dei ponti superiori. Sei stat{mf|o|a} salvat{mf|o|a} dopotutto! L'ufficiale esamina le tue ferite e stringe i denti mentre alza la mazza sulla tutrice. Quella feccia sta per ricevere ciò che si merita!
+
+### u013604
+Ti svegli dopo un sonno agitato su una rigida stuoia di cartone. La stessa oscurità pesta e l'insopportabile fetore di corpi non lavati ti circondano. Qualcuno inciampa sulla tua gamba e ti afferra per il colletto, vomitando insulti. È la tutrice dell'ordine di pattuglia. Ed è chiaramente scontenta. Di nuovo.
+
+### u013605
+Cupo, l'ufficiale abbassa la mazza e ti saluta. È ora di tornare a casa. E la tutrice dell'ordine, con qualche capello appena diventato grigio, ti guarda allontanarti con timore reverenziale. Batte la fronte sul pavimento di metallo in preghiera, giurando di continuare a prestare fedele servizio per la gloria di Vostra Signoria, che il Dio-Imperatore vi protegga dalle avversità!
+
+### u013606
+L'ufficiale incrocia le mani sul petto nel segno dell'Aquila. Sarà fatto. Una dozzina di servoteschi vola via per portare il tuo severo verdetto alle baie dei ponti inferiori. E mentre completi la salita verso il ponte di comando, diverse centinaia di tutori dell'ordine vengono spinti in un compartimento che contiene solo una forca meccanica "dalle mille teste". Un giro dell'interruttore e tutti i tutori dell'ordine dei ponti inferiori pagheranno insieme il prezzo della loro incompetenza.
+
+### u013607
+Punta i cannoni potenziati contro l'asteroide.
+
+### u013608
+Lascia in pace l'asteroide.
+
+### u013609
+Crateri punteggiano l'intera roccia senza vita, segno di frequenti collisioni con corpi celesti più piccoli come i meteoriti. L'equipaggio trattiene il respiro. Lo farà, il Rogue Trader? Metterà alla prova i nuovi cannoni sul solitario asteroide?
+
+### u013610
+Ispirati dall'ordine del Lord Capitano, gli ufficiali osservano l'asteroide ridursi in polvere cosmica in pochi, ipnotici secondi. Lunga vita a {name} von Valancius!
+
+### u013611
+L'equipaggio del Rogue Trader non è mai impreparato!
+
+### u013612
+Hai di fronte nemici dell'Umanità: Aeldari, a giudicare dalla firma dei motori. Sembra che la tua improvvisa uscita dal warp li abbia allarmati molto. Preparati a un attacco nemico!
+
+### u013613
+Fuggi di nuovo nel warp.
+
+### u013614
+Il Rogue Trader conosce i metodi dei nemici dell'Umanità. Non coglieranno di sorpresa una nave imperiale.
+
+### u013615
+Gli xenos se ne pentiranno.
+
+### u013616
+Apri il fuoco sulla nave ferita.
+
+### u013617
+Affronta la flotta Chorda. Gli Aeldari devono essere salvati!
+
+### u013618
+Gli xenos che hanno osato sfidare l'Umanità devono essere distrutti! Aiuta le navi di Chorda.
+
+### u013619
+Aiuta la flotta di Incendia Chorda: ingaggia la nave Aeldari.
+
+### u013620
+Invia un messaggio alla flotta di Incendia Chorda, ordinandole di interrompere la battaglia.
+
+### u013621
+Non intervenire.
+
+### u013622
+Esigi che le navi da guerra di Chorda cessino immediatamente il fuoco e si ritirino.
+
+### u013623
+Dai la caccia alla nave xenos.
+
+### u013624
+Lascia che Yrliet parli con i suoi simili.
+
+### u013625
+Gli xenos sono stati salvati dalle navi di Chorda: il loro destino futuro non riguarda il Rogue Trader.
+
+### u013626
+Concedi con clemenza agli xenos provviste e medicinali.
+
+### u013627
+Forse umani e xenos semplicemente non possono coesistere in questo mondo.
+### u013628
+Accetta con grazia di aiutare ancora una volta gli xenos e riparare la loro nave del vuoto. Dopodiché, gli Aeldari sono liberi di fare ciò che vogliono.
+
+### u013629
+Indirizza la nave Aeldari verso Janus: lì gli xenos possono trovare rifugio tra i loro simili.
+
+### u013630
+Concedi agli Aeldari la protezione del Rogue Trader accogliendoli a bordo della nave.
+
+### u013631
+Chiedi alla pattuglia di Chorda le prove delle trasgressioni degli xenos.
+
+### u013632
+Analizza la nave xenos intatta.
+
+### u013633
+Il Rogue Trader invia squadre punitive sui ponti inferiori a dare la caccia ai responsabili della morte degli xenos.
+
+### u013634
+Una battaglia violenta si svolge sotto gli occhi del Rogue Trader: le navi di pattuglia della flotta Chorda stanno facendo a pezzi due piccole navi Aeldari. Quando hanno finito con queste, le navi del vuoto danno la caccia alla terza, già danneggiata, chiaramente con l'intenzione di distruggere anche quella.
+
+### u013635
+Vedendo l'imminente distruzione dell'ultima nave, Yrliet si rivolge al Lord Capitano, con la voce leggermente tremante. Solo l'intervento del Rogue Trader può salvare i suoi simili dal massacro.
+
+### u013636
+Gli Aeldari accettano il loro destino con umiltà forzata. Non oppongono resistenza, ma non sembrano nemmeno sollevati dal salvataggio. Vedono la loro permanenza su una nave mon-keigh come una prigionia, carica d'incertezza su ciò che li attende.
+
+### u013637
+Gli Aeldari ringraziano il Rogue Trader senza convinzione, non capendo che cosa abbia fatto guadagnare loro il favore dei mon-keigh. Non appena i tecnici finiscono le riparazioni, gli xenos lasciano in fretta il sistema.
+
+### u013638
+Yrliet osserva con aria cupa l'inseguimento in corso attraverso le vetrate colorate del ponte di comando. Ammette con severità che nessun crimine dovrebbe restare impunito. Se non fosse che i suoi simili sono... erano su navi da trasporto. Per loro sarebbe stato impossibile rapinare una nave, figuriamoci lanciare un'incursione planetaria: navi come le loro non hanno semplicemente la potenza di fuoco per farlo. I mon-keigh mentono.
+
+### u013639
+La Maestra del Vox riferisce l'ordine del Lord Capitano di fermare la battaglia e presto torna con una risposta. Secondo le navi di Chorda, questo gruppo di xenos è composto da criminali malvagi. Sono colpevoli di aver razziato i pianeti di questo sistema e di aver derubato navi mercantili. Le navi del vuoto di Incendia Chorda sono decise a compiere il loro dovere di fronte all'Imperatore e a sterminare gli xenos.
+
+### u013640
+Come la maggior parte delle navi Aeldari, anche questa sembra veloce, manovrabile e ben armata. Questi xenos sono del tutto in grado di saccheggiare una piccola nave mercantile.
+
+### u013641
+Il capitano della pattuglia ammette con riluttanza che non ci sono prove conclusive: questo sistema è a volte bersaglio di incursioni dei pirati. Tuttavia ciò non cambia nulla, perché i servitori di Lui non hanno pietà per i nemici dell'Umanità.
+
+### u013642
+Il capitano della pattuglia è indignato per la sfiducia. La volontà di un Rogue Trader va obbedita, ma le navi xenos si trovano ora al confine dei possedimenti della dinastia Chorda. Sterminare ogni nemico dell'Umanità sulle rotte commerciali del protettorato è un ordine diretto del Lord Capitano, Incendia Chorda in persona.
+
+### u013643
+Non volendo ingaggiare una battaglia aperta contro la nave ammiraglia di una dinastia straniera, la pattuglia lascia a malincuore la preda e si ritira ai margini del sistema.
+
+### u013644
+La pattuglia della dinastia Chorda difenderà i confini del protettorato, sia da xenos invasori sia dalla minaccia di un altro Rogue Trader. Preparatevi alla battaglia!
+
+### u013645
+Nel frattempo, la nave xenos ferita si allontana rapidamente dal recente campo di battaglia, cercando di nascondersi all'ombra del mondo più vicino. Ogni tentativo di contattarla si scontra con la frustrazione, e la Maestra del Vox riferisce che la nave è in condizioni deplorevoli: chissà quanto ancora la xenotecnologia potrà reggere prima che accada l'irreparabile.
+
+### u013646
+Gli Aeldari sono troppo spaventati e risentiti verso i mon-keigh per le recenti morti dei loro simili per rispondere alle chiamate in arrivo. Nonostante ciò, Yrliet è certa di poterli convincere a collaborare con gli elantach se le si permette di parlare con loro.
+
+### u013647
+Passano due turni di guardia, e gli xenos decidono finalmente di rispondere alle suppliche di Yrliet riguardo all'aiuto degli elantach. Chiedendo con cautela come esattamente i mon-keigh possano aiutare la loro nave, gli Aeldari fanno notare che le primitive tecnologie degli umani non sono in grado di guarire le ferite della nave Aeldari. L'improvvisa benevolenza di un umano è altrettanto incapace di riportare in vita chi è morto nel recente scontro.
+
+### u013648
+Nel tentativo di distanziare l'inseguimento della successiva nave mon-keigh, gli Aeldari sovraccaricano i motori della loro nave del vuoto. Uno dei motori danneggiati non regge lo sforzo. Davanti agli occhi di un centinaio di ufficiali, la nave xenos lampeggia di una luce azzurra e infuocata attraverso le vetrate colorate mentre migliaia di minuscole schegge si disperdono nel sistema
+
+### u013649
+Yrliet osserva attraverso le vetrate colorate del ponte di comando la minuscola nave nascondersi dietro uno dei mondi del sistema. Quanto sono crudeli i mon-keigh. Avendo potere sul destino degli altri, in un attimo donano prontamente la speranza della salvezza... e quello dopo la tolgono, abbandonando i sofferenti al loro destino.
+
+### u013650
+La terribile notizia scuote Yrliet. Si incolpa della morte dei suoi simili e si rammarica dell'odio dei mon-keigh verso la sua gente, sciocco frutto della paura.
+
+### u013651
+Gli ufficiali del ponte esultano apertamente, elevando preghiere all'Imperatore: oggi la Distesa è stata purificata da altra feccia, i nemici dell'Umanità. Che cos'è questa, se non la Sua provvidenza?
+
+### u013652
+Yrliet si appella alla saggezza dei suoi simili, ma le parole della Reietta non possono convincerli a fidarsi dei mon-keigh: il dolore della perdita riempie i cuori degli Aeldari. Solo di recente gli umani hanno distrutto due navi dei Figli di Asuryan, e ora offrono aiuto? Peggio ancora, lo offrono per bocca della loro sorella prigioniera! No. Gli Aeldari non cadranno in questo inganno.
+
+### u013653
+Dopo alcuni turni di guardia, i sospetti degli xenos vengono confermati. La presenza di estranei che affollavano i ponti inferiori è stata percepita dalla gente comune come un'invasione di mutanti empi. Gridando preghiere all'Imperatore, si sono affrettati a depressurizzare il compartimento che conteneva gli xenos insieme a coloro che erano stati "toccati dalla sozzura degli impuri."
+
+### u013654
+Yrliet può solo scuotere il capo: le morti dei mon-keigh non riporteranno in vita i suoi simili, non faranno che diffondere un odio ancora maggiore. E il divario tra umani e Aeldari si allargherà ancora di più.
+
+### u013655
+Come guidate dalla mano dell'Imperatore, le navi del vuoto adorne dello stemma Chorda circondano gli xenos. Salve letali scaturiscono dai loro cannoni e polverizzano la minuscola nave Aeldari in detriti senza vita.
+
+### u013656
+Per ordine del Lord Capitano, le navi della Casata Chorda sono state annientate.
+
+### u013657
+Salve letali scaturiscono dai cannoni della nave ammiraglia e polverizzano la minuscola nave Aeldari in detriti senza vita.
+
+### u013658
+Gli xenos ringraziano il Rogue Trader senza convinzione e volgono la loro nave verso stelle lontane e un'inevitabile morte nel vuoto. Sul ponte non si scambia una parola, ma tutti capiscono che la nave ferita non ci arriverà mai. Alcuni giorni terrani dopo, un lampo azzurro ai margini del sistema conferma l'infausto destino della nave.
+
+### u013659
+Il volto di Yrliet è distorto dal rammarico e dalla disperazione. Ha trovato alcuni dei suoi simili, ma che cosa li attende invece della salvezza? Solo l'oblio. E che cosa attende lei? False speranze e delusione. Non volendo assistere alla morte di coloro per cui il suo cuore soffre, Yrliet lascia il ponte di comando, travolgendo alcuni ufficiali sul suo cammino.
+
+### u013660
+Yrliet guarda attraverso le vetrate colorate del ponte di comando, osservando i colpi fare a pezzi la minuscola nave e riflettendo sulla crudeltà dei mon-keigh. Quando hanno in pugno il destino di un altro, concedono con leggerezza la speranza della salvezza... finché non gliela strappano all'improvviso insieme alla vita della vittima.
+
+### u013661
+Nonostante la presenza di un certo armamento, la nave xenos è più probabilmente destinata al trasporto di carichi o degli xenos stessi che al combattimento diretto.
+
+### u013662
+E solo la figura esile dell'Aeldari resta immobile sullo sfondo delle intricate vetrate colorate, piangendo i caduti in solenne silenzio. Quando il dolore nell'anima di Yrliet si assopisce, si volta verso il Lord Capitano e annuisce: un breve gesto di gratitudine per il tentativo di salvare chi difficilmente poteva essere salvato.
+
+### u013663
+[Attacca] Non ci possono essere negoziati con gli xenos.
+
+### u013664
+Chiedi a Yrliet di aiutare con i negoziati.
+
+### u013665
+Minaccia gli Aeldari di una feroce rappresaglia se non lasciano passare la nave.
+
+### u013666
+[Attacca] Lancia un siluro contro la nave Aeldari più vicina.
+
+### u013667
+Fuggi dalla battaglia incombente nel warp.
+
+### u013668
+Paga gli xenos.
+
+### u013669
+La nave del vuoto del Rogue Trader ha di fronte diverse navi esploratrici Aeldari. Gli xenos non hanno fretta di attaccare, e il tempo sembra rallentato: una mossa sbagliata e sarà un massacro.
+
+### u013670
+Il discorso di Yrliet è accolto da un torrente di insulti Aeldari tale da mettere in difficoltà persino l'Elucidator del Rogue Trader. Gli xenos la accusano di aver tradito la sua gente cospirando con i mon-keigh e interrompono senza tante cerimonie il collegamento... eppure le loro navi non bloccano più la via.
+
+### u013671
+Il discorso di Yrliet è accolto da un torrente di insulti Aeldari tale da mettere in difficoltà persino l'Elucidator del Rogue Trader. Gli xenos sono furiosi perché una di loro non solo serve i miseri mon-keigh, ma cerca persino di convincere la sua stessa gente a macchiarsi di una simile vergogna. Lo scontro sembra ormai inevitabile.
+
+### u013672
+Il formidabile discorso del Lord Capitano è accolto dal silenzio dei sistemi vox, ma i nemici dell'Umanità lasciano passare la nave del vuoto.
+
+### u013673
+Gli Aeldari tacciono. Forse non hanno capito il significato delle parole del Rogue Trader, o forse stanno semplicemente ignorando la minaccia.
+
+### u013674
+Gli Aeldari accettano con sospetto i doni dei mon-keigh, ispezionando meticolosamente ogni offerta. Senza una parola di commiato, le loro navi si ritirano rapidamente, liberando la via.
+
+### u013675
+Prendi l'iniziativa e attacca per {mf|primo|prima}.
+
+### u013676
+Fuggi dalla battaglia nel warp.
+
+### u013677
+Hai di fronte nemici dell'Umanità: Aeldari, a giudicare dalla firma dei motori. Il nemico sta attaccando, preparatevi!
+
+### u013678
+Evita il loro avvicinamento e fuggi.
+
+### u013679
+Accetta i messaggi.
+
+### u013680
+Non si negozia con gli eretici.
+
+### u013681
+Da' l'ordine di virare la nave.
+
+### u013682
+Morte agli eretici, per la gloria dell'Imperatore!
+
+### u013683
+Fuggi nel warp.
+
+### u013684
+Un'onda di sussurri furiosi attraversa il ponte mentre i servitori dell'Arcinemico puntano le armi contro di te e si preparano ad attaccare!
+
+### u013685
+Hai di fronte adoratori del Caos. Sembra che le loro navi siano rimaste in agguato qui. La Maestra del Vox riferisce di una trasmissione in arrivo.
+
+### u013686
+Dai ordine di avviare i propulsori di manovra e di calcolare, tenendo conto dei campi gravitazionali dei corpi celesti vicini, la traiettoria ottimale attraverso le navi del vuoto nemiche. Gli allarmi risuonano e le tastiere dei cogitatori ticchettano freneticamente mentre gli ufficiali tracciano la rotta e passano i dati al Primo Timoniere. L'equipaggio è esultante: le navi nemiche possono essere evitate senza grandi difficoltà.
+
+### u013687
+Non appena dai l'ordine di accendere i propulsori di manovra, le navi nemiche sparano una salva e accelerano per bloccare il cammino della nave del vuoto. L'equipaggio si prepara alla battaglia!
+
+### u013688
+Un urlo viscerale e agghiacciante dal vox-trasmettitore assorda gli ufficiali sul ponte. Spaventati e pallidi, si coprono le orecchie con le mani per continuare a lavorare nonostante l'impulso di vomitare. Una voce beffarda e inumana ridacchia istericamente: "OgGi èè iL gIoRnO iN cUi MuOoOrI!" Poi la trasmissione si interrompe.
+
+### u013689
+Sembra... che le ombre sul ponte stiano ridendo della tua decisione. Sei {mf|l'unico|l'unica} che riesce a sentirle?
+
+### u013690
+Informa i pirati che osare minacciare un Rogue Trader non resterà impunito.
+
+### u013691
+Attacca per {mf|primo|prima} la nave senza nome per ottenere il vantaggio.
+
+### u013692
+Paga Xantha La Bouche con delle armi.
+
+### u013693
+Paga Xantha La Bouche con del carburante.
+
+### u013694
+Ordina al Navigatore di fuggire attraverso il warp.
+
+### u013695
+Paga Xantha La Bouche con delle provviste.
+
+### u013696
+Paga Xantha La Bouche con equipaggiamento o impianti.
+
+### u013697
+Paga Xantha La Bouche con degli indumenti.
+
+### u013698
+Menti dicendo di non avere nulla con cui pagare.
+
+### u013699
+Confessa di non avere altro da offrire.
+
+### u013700
+Paga i pirati.
+
+### u013701
+Valuta altre opzioni.
+
+### u013702
+Non appena ti avvicini alla nave sconosciuta, questa punta i cannoni carichi direttamente contro di te. Diverse altre navi emergono dall'ombra degli asteroidi alla deriva, circondandoti da vicino. La Capitana Xantha La Bouche offre un saluto beffardo e una proposta: puoi comprarti l'uscita da questa situazione, ma il prezzo deve essere la "soddisfazione della sua anima". L'oltraggiosa proposta manda l'equipaggio su tutte le furie. Sei in una situazione senza vittoria: puoi affrontare uno scontro impari e perdere tutto, oppure pagare vergognosamente per salvarti la pelle, sacrificando solo il tuo orgoglio.
+
+### u013703
+La capitana ride allegramente nel ricevere i tuoi doni. La "soddisfazione della sua anima" è migliorata un poco, ma non abbastanza.
+
+### u013704
+Soddisfatta dell'accordo e della tua mansueta obbedienza, Xantha La Bouche rivolge un pomposo saluto di commiato a Sua Signoria il Rogue Trader, e si ritira rapidamente nel warp insieme ai suoi lacchè.
+
+### u013705
+La Capitana La Bouche rende ben evidente il suo disappunto, ma riconosce che non sarebbe nel suo interesse mettersi contro il Rogue Trader. Le navi senza nome si ritirano rapidamente nel warp, lasciandoti {mf|solo|sola}.
+
+### u013706
+La Capitana La Bouche reagisce alla tua minaccia con condiscendenza. Sarai anche un Rogue Trader, ma nessun titolo può proteggerti da un proiettile, figuriamoci dal fuoco dei macrocannoni.
+
+### u013707
+Il tuo equipaggio è del tutto impreparato al salto. Anche uno spostamento pianificato con cura nell'Immaterium è carico di conseguenze, e ora non hai nemmeno il tempo per una breve funzione di preghiera. I tuoi ufficiali non mettono in discussione gli ordini suicidi appena ricevuti e si mettono a impartire comandi, mentre il Sanctum Navis si riempie delle urla di chi non è stato abbastanza svelto a lasciare le stanze del Navigatore prima dell'inizio del volo. Un lampo accecante, la nausea, la familiare pesantezza, e gli odiosi pirati sono ora alle tue spalle.
+
+### u013708
+Non appena il tuo equipaggio avvia i motori warp, diverse salve perforano lo scafo della tua nave, infliggendo danni colossali a molte delle sue baie. Mentre i motori cedono, la Capitana La Bouche si limita a sfoggiare un sorriso condiscendente. Questo uccellino non lascerà la gabbia finché non lo deciderà lei.
+
+### u013709
+La Capitana La Bouche rende ben evidente il suo disappunto, ma ammette che uccidere Rogue Trader senza un soldo non è nel suo stile. Le navi senza nome si ritirano rapidamente nel warp, lasciandoti {mf|solo|sola}.
+
+### u013710
+La Capitana La Bouche è livida. Che razza di Rogue Trader è troppo {mf|povero|povera} persino per essere {mf|estorto|estorta}? L'hai davvero, davvero fatta arrabbiare. Preparati a pagare con la vita!
+
+### u013711
+La Capitana La Bouche si chiede con che cosa potresti mai sorprenderla.
+
+### u013712
+La Capitana La Bouche lascia intendere che non ama essere fatta aspettare.
+
+### u013713
+Osano attaccare un Rogue Trader: preparatevi alla battaglia!
+
+### u013714
+Non lasciare fuggire gli insolenti pirati: spara una bordata contro l'Elusive Contempt!
+
+### u013715
+È inutile inseguire la nave del vuoto in fuga. Preparatevi a combattere le scorte!
+
+### u013716
+L'Elusive Contempt non deve scappare! Insegui la nave ammiraglia.
+
+### u013717
+È ora che l'Elusive Contempt paghi per la sua insolenza. Alla battaglia!
+
+### u013718
+Un inseguimento si svolge dietro le vetrate colorate del ponte: diversi incursori pirata cercano di raggiungere l'incrociatore, sparandogli contro salve inutili dai loro macrocannoni. Gli ufficiali della squadra degli augur riferiscono: stanno inseguendo l'Elusive Contempt. È una leggendaria nave ammiraglia dei pirati che da diverse centinaia di anni saccheggia navi da carico in tutta la Distesa, eludendo con maestria le pattuglie e fuggendo impunita con il bottino.
+
+### u013719
+Una flottiglia di pirati si è radunata in un sistema con un extractium particolarmente prospero. La squadra degli augur riferisce che tutte le navi del vuoto condividono le firme dell'Elusive Contempt! Dal vox senti una voce allegra e familiare: Shelby il Protospeculator sospira teatralmente: gli sei alle calcagna, e ti metti tra lui e la sua fortuna. Le navi da carico stanno per decollare dal pianeta generoso, ma il Rogue Trader in persona vuole interrompere bruscamente i loro piani.
+
+### u013720
+Le batterie di tribordo si accendono e sparano una salva: i missili raggiungono il bersaglio! Nonostante il colpo diretto, l'Elusive Contempt riesce a sfuggire ancora una volta, anche se non si riprenderà dai danni tanto presto.
+
+### u013721
+Le batterie di tribordo si accendono e sparano una salva, ma i missili non raggiungono il bersaglio: il warp inghiotte l'Elusive Contempt, lasciandoti {mf|circondato|circondata} dai tirapiedi del Capitano Shelby. Preparatevi alla battaglia!
+
+### u013722
+Il capitano dell'Elusive Contempt ti contatta. Nella sua voce senti note di disprezzo e di scherno: il gioco è finito, ed è sicuro che avrà la meglio. Dopo la morte del Rogue Trader, il protettorato von Valancius diventerà il suo parco giochi, dove farà un ricco bottino prima che qualcuno osi dargli di nuovo la caccia. Gli ufficiali del ponte riferiscono: l'Elusive Contempt si prepara alla battaglia!
+
+### u013723
+Shelby il Protospeculator, il capitano dell'Elusive Contempt, si rivolge a te via vox. Con voce allegra, quasi affettuosa, ti ringrazia per le risorse di alta qualità estratte dagli extractium dei von Valancius e anche per il tuo prezioso aiuto nella sua fuga.
+
+### u013724
+Ma va benissimo così: Shelby sembra entusiasta dell'improvvisa concorrenza. Il capitano dell'Elusive Contempt è pronto ad attendere la prossima occasione, e per ora ti lascia in buona compagnia dei suoi amici. Vedi la nave ammiraglia dei pirati iniziare a manovrare per fuggire nel warp.
+
+### u013725
+I motori sono alla massima potenza, e l'equipaggio fa del proprio meglio per raggiungere gli insolenti pirati, ma... prima che tu possa raggiungerla, il warp inghiotte l'Elusive Contempt, e i pirati rimasti circondano la tua nave del vuoto. Preparatevi alla battaglia!
+
+### u013726
+Non appena Shelby finisce il suo discorso, l'Elusive Contempt entra rapidamente nel warp, e una potente salva destinata alla sua nave esplode invece contro gli scudi della tua nave del vuoto!
+
+### u013727
+Stabilisci le comunicazioni con la nave del vuoto.
+
+### u013728
+Non lasciare che la Lightseeker attacchi per prima. Assumi una posizione vantaggiosa e ingaggia!
+
+### u013729
+Una strana nave avvolta in una pallida foschia color orchidea scivola davanti alle vetrate colorate del ponte di comando. Sul suo scafo ammaccato e lacero compare uno stemma familiare... lo stemma della Casata von Valancius. La squadra degli augur riferisce che si tratta della Lightseeker, una nave del vuoto da spedizione incaricata di esplorare i pianeti della Distesa di Koronus. Questa nave è scomparsa senza lasciare traccia oltre seicento anni fa. La telemetria mostra che i ponti sono vuoti e privi di vita, senza alcun equipaggio rilevato.
+
+### u013730
+Mentre osserva attentamente le manovre della Lightseeker, il tuo Siniscalco ha la certezza: la nave si prepara ad attaccare. Abelard ha sentito molto parlare dei mondi generosi scoperti dall'equipaggio della nave del vuoto, ma dubita che gli stessi coraggiosi marinai del vuoto siano ora al timone. Qualunque oscuro potere controlli la nave, una cosa è chiara: è una minaccia. Il Rogue Trader deve ingaggiare l'ignoto nemico e riprendersi la proprietà della dinastia von Valancius.
+
+### u013731
+Ulfar è irremovibile: qualsiasi nave del vuoto che abbia trascorso gli ultimi sei secoli oltre il velo è corrotta senza possibilità di salvezza. Dice che va distrutta subito.
+
+### u013732
+L'Alto Factotum, Janris Danrok, conferma che la Lightseeker fa ancora parte della flotta dei von Valancius. In altre circostanze, il Factotum avrebbe insistito per recuperare la proprietà del protettorato, ma chissà che cosa è accaduto alla nave durante i secoli in cui è rimasta perduta? I poteri oscuri del cosmo o persino il warp stesso potrebbero aver corrotto la nave del vuoto...
+
+### u013733
+La Maestra del Vox riferisce che gli anziani del suo clan le hanno raccontato storie sulla Lightseeker. Questa leggendaria nave del vuoto ha scoperto molti mondi generosi dove in seguito sono stati installati gli extractium più redditizi. In passato questa nave ha portato ricchezze incalcolabili al protettorato von Valancius, ma la sua improvvisa ricomparsa dopo seicento anni di oblio sembra sbagliata e pericolosa.
+
+### u013734
+Vigdis invia un segnale dopo l'altro, esortando l'equipaggio della Lightseeker a stabilire un contatto, senza successo. Questo breve ritardo basta alla nave posseduta per assumere una posizione vantaggiosa mentre si prepara ad ingaggiare la tua nave.
+
+### u013735
+La vista dell'antica nave del vuoto provoca un mal di testa pulsante e un inspiegabile disgusto. Dove è scomparsa per tutti quei secoli, e come è finita qui?
+
+### u013736
+I sussurri preoccupati dell'equipaggio sono messi a tacere da un allarme urgente: la nave sta cambiando rotta rapidamente!
+
+### u013737
+L'equipaggio della nave è all'altezza della sfida.
+
+### u013738
+Non riesci a superare {mf|inosservato|inosservata} le navi nemiche. La nave Drukhari più vicina attacca subito. Preparatevi, presto altre si uniranno a lei!
+
+### u013739
+Accetta il segnale.
+
+### u013740
+Non disturbare l'antica nave.
+
+### u013741
+Invia degli esploratori a bordo della nave del vuoto.
+
+### u013742
+Attacca la Queen's Lament.
+
+### u013743
+Calma il soldato. Probabilmente è stato spaventato dalle strane visioni e ha perso di vista i suoi compagni.
+
+### u013744
+L'oggetto non ha importanza. Gli esploratori devono lasciare subito la nave del vuoto.
+
+### u013745
+Ordina alla squadra di proseguire sotto minaccia del tribunale.
+
+### u013746
+Ordina all'operatore di darsi una regolata. I soldati devono essere pronti ad affrontare persino i più terrificanti orrori dello spazio!
+
+### u013747
+Ricorda ai soldati che è impossibile ingannare la morte. Queste visioni devono essere frutto di qualche oscuro potere.
+
+### u013748
+Lascia riposare gli esploratori.
+
+### u013749
+Ordina alla squadra di recuperare l'oggetto sconosciuto e ritirarsi immediatamente.
+
+### u013750
+Interrompi la trasmissione vox.
+
+### u013751
+Costringi l'operatore: sarà severamente punito se non si dà una regolata.
+
+### u013752
+Lascia che i soldati restino per un breve periodo con i loro cari.
+
+### u013753
+Tutti i consueti rumori sul ponte cessano quando l'ombra di una gigantesca nave del vuoto, apparsa dal nulla, scivola davanti alle vetrate colorate. Sembra abbandonata: lo scafo è sbiadito, i lumen sono spenti e i finestrini sono rotti e coperti. La squadra degli augur non riconosce la firma dei suoi motori silenziosi. Riescono solo a gettare un po' di luce sul suo scafo decrepito e a decifrare il nome sbiadito dell'incrociatore: Queen's Lament. Il rapporto della Maestra del Vox rompe il cupo silenzio: il ponte ha appena ricevuto una trasmissione vox... dalla nave del vuoto morta.
+
+### u013754
+Gli esploratori iniziano a litigare. Il battibecco incomprensibile si interrompe bruscamente e, dopo alcuni minuti, l'operatore riferisce ansioso. Non appena la squadra si è divisa, quelli che hanno deciso di restare con i propri cari sono stati inghiottiti dall'oscurità del ponte vuoto e... sono svaniti.

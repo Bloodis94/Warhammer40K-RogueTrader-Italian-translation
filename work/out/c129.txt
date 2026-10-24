@@ -1,0 +1,787 @@
+### u045457
+"Voi mon-keigh non imparate mai. Comincio a pensare che la vostra specie sia ansiosa di infilarsi nelle nostre trappole."
+
+### u045458
+"Di cosa hai tanta paura?"
+
+### u045459
+"Calma, Yrliet. Stiamo per scoprirlo."
+
+### u045460
+[Colpiscilo] "Rispondi quando ti viene chiesto, verme!"
+
+### u045461
+"Come sai che sono {mf|un|una} Rogue Trader?"
+
+### u045462
+{n}L'ufficiale allampanato, dall'aria sciupata e le guance incavate, ti fissa terrorizzato. Il suo corpo trema come per un brivido febbrile e i suoi occhi saettano avanti e indietro, ansiosi.{/n} "V-Vostra Signoria Rogue T-Trader, c-cosa vi porta sulla nostra umile nave?"
+
+### u045463
+{n}Idira lancia uno strillo acuto.{/n} "Non c'è nessun sentiero, Rossa! C'è solo palude, palude, e sotto... anelli! Anelli di drago nero, ti hanno già circondata e spezzata, stanno circondando anche n—"
+
+### u045464
+{n}Idira sussulta come colpita. Gira la testa e, con gli occhi sbarrati, fissa Yrliet.{/n} "Rossa, dove stai andando? Dove stai andando? Non c'è nessun sentiero, credi soltanto che ci sia, lo credi soltanto..."
+
+### u045465
+"Smettila di tremare come una foglia al vento, mon-keigh. Rispondimi: hai visto altri come me in questo sistema? Se è così, dimmi dove, quando e in quali circostanze le vostre strade si sono incrociate e poi separate."
+
+### u045466
+{n}Gli occhi dell'ufficiale si spalancano alla vista di Yrliet. Il suo volto diventa ancora più pallido di prima e le sue labbra si muovono in una preghiera silenziosa, incapaci di pronunciare una sola parola in risposta.{/n}
+
+### u045467
+"Un turbine di arancione e blu tormenta le loro anime. Non ne senti le raffiche nell'aria tutto intorno a noi? Le sue sfumature sono... davvero terrificanti."
+
+### u045468
+"N-noi... N-noi siamo..."
+
+### u045469
+{n}L'ufficiale getta un'occhiata spaventata a Yrliet. A fatica sputa fuori la parola:{/n} "Dolore."
+
+### u045470
+"V-vi prego, no! L'abbiamo visto, sì, abbiamo visto tutto!"
+
+### u045471
+"Sbrigati, elantach—" {n}Yrliet si interrompe.{/n}
+
+### u045472
+{n}L'ufficiale deglutisce, ti rivolge uno sguardo strano e poi chiude gli occhi.{/n} "Che l'Imperatore mi perdoni..."
+
+### u045473
+"Cos'hai appena detto? 'Rogue Trader'? Come potrebbe un semplice ufficiale sapere chi ha davanti?" {n}Il volto di Jae cambia e lei stringe subito l'impugnatura della sua arma.{/n}
+
+### u045474
+{n}Heinrix posa la mano sull'arma e fa un cenno all'ufficiale tremante.{/n} "Ho già visto persone così. Terrorizzate dalla propria ombra. Anzi, di più: io stesso ho ridotto i miei 'subalterni' in questo stato. È stato torturato."
+
+### u045475
+"Xenos infidi! Vi vedrò morti entrambi!"
+
+### u045476
+"Yrliet, miserabile ingannatrice!"
+
+### u045477
+"Ti pentirai di avermi ostacolato ancora!"
+
+### u045478
+{n}Yrliet, che si contorce dal dolore accanto a te, riesce a malapena a sussurrare:{/n} "No... Cosa hai... fatto..."
+
+### u045479
+"Hmm? Sei insoddisfatta, mia cara parente? Ti avevo promesso che avresti avuto i tuoi preziosi sopravvissuti del mondo astronave. E li avrai. Ti porterò da loro. Potrei persino essere presente a vedere il vostro gioioso ricongiungimento."
+
+### u045480
+{n}Yrliet tenta di rispondere, ma il massimo che riesce a emettere è un gemito tormentato.{/n}
+
+### u045481
+"Che spettacolo! Hai davvero riposto la tua fiducia in mia cugina? Hai pensato che, tra un mon-keigh e suo fratello di sangue, lei avrebbe scelto te?" {n}La risata di Marazhai gronda veleno.{/n} "Ricordalo e non dimenticarlo mai: sei un animale. Quando abbiamo bisogno dei mon-keigh, vi usiamo. Quando ci serve qualcosa di più, ci rivolgiamo ai nostri pari. Proprio come Yrliet si è rivolta a me."
+
+### u045482
+{n}Boccheggi, inspirando l'aria avvelenata, e ogni respiro ti brucia le viscere con fuoco liquido dalla gola ai polmoni. Ogni cellula del tuo corpo è avvolta da un dolore folle, come se ti stessero immergendo nel metallo fuso, scuoiando {mf|vivo|viva} e sottoponendo a un'altra forma ancora di tortura. Senti suoni provenire da qualche luogo lontano: i lamenti della tua gente, lo strascicare di piedi nudi... e passi leggeri che si avvicinano lentamente.{/n}
+
+### u045483
+"Rogue Trader. Un incontro davvero atteso da tempo." {n}Riesci a malapena a vedere qualcosa attraverso la foschia dell'agonia, ma ricordi ancora bene quella voce: la voce dello xenos che ha devastato il tuo mondo capitale. Il volto di Marazhai è nascosto dietro un elmo, ma il suo tono non lascia spazio a dubbi: sta ghignando.{/n}
+
+### u045484
+"Ti piace la sensazione? Ho fatto preparare questo veleno apposta per te! Chi avrebbe mai pensato che un mon-keigh un giorno si sarebbe guadagnato un simile onore: un dono speciale da un Dracon? Ma la tua sofferenza..." {n}Lo xenos si china verso di te.{/n} "Sapevo che il sapore sarebbe stato squisito se vi avessi aggiunto un tocco del talento dei Drukhari per estrarre l'angoscia..."
+
+### u045485
+"Ti... distruggerò... feccia!"
+
+### u045486
+"Sono io... quello che ti serve... Lascia... il mio popolo... fuori da questa storia..."
+
+### u045487
+"Tratta con me! Possiamo ancora... trovare un accordo..."
+
+### u045488
+[Sputa in faccia a Marazhai]
+
+### u045489
+"I tuoi lamenti generano noia. Taci."
+
+### u045490
+"Tuttavia, ci sarà tempo per questo più tardi. Per quanto desideri giocare con voi tutti, uno dopo l'altro, ho bisogno di te per uno scopo, Rogue Trader. Commorragh vi attende, tutti quanti. Mandrake, prendeteli. Non lasciatene indietro nessuno."
+
+### u045491
+"Tratteresti con un verme? O, che so, con un animale domestico?" {n}Il Drukhari ridacchia con malevolenza.{/n} "Quando avrò finito di addestrarti, non penserai mai più a una simile insolenza."
+
+### u045492
+"Sei più divertente di quanto pensassi!" {n}Qualcosa di pesante ti colpisce in faccia e senti lo schiocco delle tue stesse ossa.{/n} "Non c'è bisogno di avere fretta: abbiamo molto tempo davanti a noi per godere della reciproca compagnia."
+
+### u045493
+"Perché sono ancora {mf|vivo|viva}?"
+
+### u045494
+"Dove sono gli altri? Cosa gli hai fatto?"
+
+### u045495
+"Brucia nella luce ardente dell'Imperatore, sudicio xenos!"
+
+### u045496
+"Farò quello che vuoi. Ne ho avuto abbastanza di soffrire."
+
+### u045497
+"Che ne dici di fare a meno di ruoli e pose? C'è ancora la possibilità di concludere un accordo."
+
+### u045498
+"Potrei recitare meglio la mia parte se sapessi davvero qual è."
+
+### u045499
+"Ho un segreto per te. Qualcosa che le tue spie e i tuoi agenti non sono riusciti a scoprire."
+
+### u045500
+[Colpisci lo xenos in faccia]
+
+### u045501
+[Sussurra] "Vi. Ucciderò. Tutti."
+
+### u045502
+"Tutta la tua congettura è un mucchio di sterco di grox. Non ho mai collaborato con la feccia che è la tua specie."
+
+### u045503
+[Raccogli le forze e sfoggia un sorriso smagliante] "Povero sciocco, è stato così facile ingannarti."
+
+### u045504
+{n}La tua coscienza emerge da un oceano di tenebre e incubi, come se una mano potente fosse scesa nelle sue profondità per riportarti alla luce. Nella stanza buia, ombre lunghe e spigolose si muovono e si scambiano commenti. Una delle ombre si avvicina a te, squarciando il velo del dolore e rivelando lineamenti che ti sembrano familiari.{/n}
+
+### u045505
+"Quanto alla tua piccola amica del mondo astronave... Oh, la incontrerai presto. Scommetto che non vedi l'ora di guardare negli occhi colei che ti ha portato da me, vero?"
+
+### u045506
+{n}Per un breve istante, la maschera di sicurezza sul volto di Marazhai si incrina. Il tremito delle sopracciglia e l'espressione alterata tradiscono quasi il suo... dubbio? Lo xenos, tuttavia, si volta subito con un sospiro studiato.{/n} "Basta parlare."
+
+### u045507
+{n}Le dita sottili nel guanto del Kabalite ti stringono il viso, gli artigli lasciandoti graffi profondi sulle guance e sulla fronte. Il filo di una lama affilatissima ti preme sulla gola. Marazhai sibila furiosamente qualcosa di incomprensibile... Ma poi allenta la presa, reprimendo con un enorme sforzo di volontà il desiderio di ucciderti all'istante.{/n}
+
+### u045508
+"Una buona domanda, Rogue Trader. Sei il mio strumento, vedi. Un bisturi affilato e sottile con cui taglierò via il bubbone purulento sul corpo del mio Kabal. Non ho risparmiato sforzi per allestire questa rappresentazione: i testimoni, le spie, gli agenti... e un piccolo patto per garantire il risultato."
+
+### u045509
+"Tutto ciò che ti si chiede è di recitare tranquillamente la tua parte. Arriverò persino a collocarti nel tuo ambiente nativo... per così dire. Ma se ti vedrò uscire dal tuo ruolo, farò in modo che tu te ne penta amaramente."
+
+### u045510
+"Solo la verità, mon-keigh. Così semplice, non è vero? Un po' di onestà davanti ai potenti. Ho gli strumenti per estrarre i misteri più bramati dai recessi più profondi della tua mente, ma non mi interessano i tuoi segreti personali. Voglio solo ciò che proteggerà il mio Kabal."
+
+### u045511
+"Non lo so, Rogue Trader. Forse stanno trasudando sofferenza in uno dei cori di dolore e tormento. Forse stanno marcendo in una delle vasche ai livelli inferiori. Mi importa poco della loro sorte."
+
+### u045512
+{n}Marazhai schiocca la lingua e accarezza con delicatezza l'oggetto che tiene in mano con gli artigli del guanto, facendogli emettere un leggero squittio.{/n} "Sembra che tu abbia preso gusto al dolore, mon-keigh. Come vuoi, allora: resisti all'inevitabile e conosci una nuova sfaccettatura della sofferenza."
+
+### u045513
+{n}Marazhai resta in silenzio per qualche istante, giocherellando con lo strano oggetto che tiene in mano.{/n} "Voi mon-keigh odiate le creature aliene alla vostra specie, e questo odio è alimentato dalla paura primordiale e dalla consapevolezza della vostra insignificanza. Per noi siete bestiame che esiste per essere macellato e per divertirci. A volte vi usiamo nei nostri piccoli giochi, ma coinvolgere voi, sudici bruti, nella politica di Commorragh... per non parlare delle faide tra i Kabal... ci sono pochi modi peggiori di disonorare sé stessi e il proprio Kabal."
+
+### u045514
+"Dal primo giorno in cui ti ho visto, ho capito che eri {mf|controllato|controllata} da un'altra mano, troppo esperta e flessibile per appartenere a un altro mon-keigh. Sei {mf|rimasto|rimasta} un passo avanti a me e a Tazarra, hai anticipato le nostre mosse, hai reagito con un'abilità sorprendente... e posso immaginare, anzi so con esattezza, come hai fatto a sapere così tanto. Una sola creatura conosceva abbastanza le nostre tattiche e i piani delle nostre incursioni. Mi aiuterai a smascherarla, e a restituire al Reaving Tempest il suo antico favore."
+
+### u045515
+"Sembra che tu stia cominciando a rispondere all'addestramento, Rogue Trader... Chissà, potrei tenerti con me quando tutto sarà finito. La corte del nuovo Arconte avrà bisogno di un intrattenimento illustre."
+
+### u045516
+{n}Marazhai ride in tono caustico.{/n} "Cerchi di tenere testa anche di fronte a una forza schiacciante... Che tenerezza! Ma basta parlare."
+
+### u045517
+{n}Il Drukhari fa un gesto a una delle ombre vicino a te e la tua testa viene spinta all'indietro. Marazhai avvicina la mano che regge lo strano oggetto: riesci a distinguere una pelle traslucida e lucida, organi bluastri e pulsanti al di sotto e una testolina con mascelle seghettate, prima che il Drukhari ti spinga la larva in faccia.{/n}
+
+### u045518
+{n}Qualcosa nel tono della tua voce fa irrigidire Marazhai, che poi si avvicina e si china quasi sul tuo viso. I suoi occhi neri divorano avidi il minimo tuo movimento e la sua voce si abbassa in un sussurro beffardo:{/n} "Molto bene... Ti ascolto, mon-keigh."
+
+### u045519
+{n}Marazhai inclina la testa con aria di scherno.{/n} "No, mon-keigh. Non hai nulla che io non possa estrarti da solo... usando i miei strumenti preferiti."
+
+### u045520
+{n}I riflessi fulminei non bastano a salvare il Kabalite stordito: sbatti la fronte contro il viso pallido che hai davanti, e lo scricchiolio della cartilagine spezzata viene coperto dal sibilo frenetico del Drukhari. Un dolore insopportabile ti travolge ma, anche nella sua foschia cremisi, riesci ancora a distinguere il volto deformato di Marazhai e la macchia di sangue che si allarga sotto il suo naso.{/n}
+
+### u045521
+{n}Le labbra pallide di Marazhai si stirano in un sorriso.{/n} "Mi piacerebbe vederti farlo... Ma no, mon-keigh. Mi sarà negato un simile divertimento."
+
+### u045522
+"Sei {mf|sveglio|sveglia}, mon-keigh." {n}La voce di Marazhai è nauseabondamente dolce. Ti guarda con interesse distratto, facendo rotolare da una mano all'altra un oggetto morbido e color latte.{/n} "I nostri maestri di tossine non hanno risparmiato sforzi per trascinarti fuori dal sogno indotto. Devo elogiare i tessitori di incubi. Le emanazioni di paura che hai esalato nel tuo delirio sono degne della massima lode. Tuttavia, è tempo di finire ciò per cui sei {mf|stato portato|stata portata} qui. È tempo di lavorare per il bene del Kabal, Rogue Trader."
+
+### u045523
+{n}L'oscurità annebbia la tua vista, ma la sensazione di una presenza aliena non cede. Qualcosa di primitivo e stupido nella sua ostinazione sta frugando nella tua mente, rimestando i pensieri e cambiandoli. Raccogli ciò che resta della tua forza di volontà e ti aggrappi disperatamente alla parte di coscienza che non ha ancora ceduto al potere invasore. Una punta di sorpresa, uno scoppio di delusione... L'incantesimo si impadronisce del tuo io indebolito, ma una parte di esso ti appartiene ancora ed è pronta a reagire. Una luce vagante albeggia ai margini della tua percezione...{/n}
+
+### u045524
+{n}L'oscurità ti vela gli occhi, ma la sensazione di una presenza aliena non cede. Non è una mente cosciente, ma qualcosa di primitivo e tuttavia incredibilmente forte nel suo inconoscibile intento. Si trascina nei tuoi pensieri, graffiandoli con i fianchi e cambiandone la forma. Forse tutto questo è solo un brutto sogno... Un capriccio dell'intelletto esausto per gli infiniti affanni... Una calunnia di una mente troppo debole per il fardello che è stata creata per portare. Una luce vagante albeggia ai margini della tua percezione...{/n}
+
+### u045525
+{n}Percependo il calore, la creatura scatta in movimento un istante dopo. Mentre tasta alla cieca la tua pelle, scopre la tua narice... e si lancia in avanti, tendendo la pelle e squarciando la mucosa. Un dolore insopportabile ti sopraffà mentre la larva comincia a farsi strada attraverso i tessuti molli e la cartilagine, ogni suo movimento facendo risuonare nel tuo cranio uno scricchiolio. La creatura morde avidamente la carne e sale sempre più in alto, oltre l'attaccatura del naso, oltre i tuoi occhi... e poi qualcosa di alieno invade la tua coscienza.{/n}
+
+### u045526
+Hai ricordato che Theodora è morta durante il processo.
+
+### u045527
+"Lo xenos è sparito... Perché il Lord Inquisitore è qui? E anche il cadavere rianimato di Theodora... Non era morta? Qui c'è qualcosa che non va!"
+
+### u045528
+Hai denunciato il processo come una farsa.
+
+### u045529
+"L'unico piano xenos di cui sono a conoscenza è quello in cui giocano sporco con la mia testa."
+
+### u045530
+"Ora vedo di essere {mf|stato cieco|stata cieca}. Gli xenos si sono combattuti l'un l'altro per tutto questo tempo e io sono {mf|stato|stata} il loro ignaro burattino."
+
+### u045531
+[Cedi all'illusione] "Lo giuro."
+
+### u045532
+[Cedi all'illusione] "Lo giuro sull'Imperatore, ogni parola è la verità assoluta!"
+
+### u045533
+"Hai dimenticato di aggiungere che usavo anche le xenotecnologie vietate nell'Imperium e le vendevo ai miei soci in tutta la Distesa."
+
+### u045534
+[Non dire nulla: nessuno ha chiesto la tua opinione]
+
+### u045535
+"No, questo è sbagliato... Nessun tribunale dell'Imperium ammetterebbe mai la testimonianza di uno xenos."
+
+### u045536
+"Yrliet, avresti dovuto parlarmene! Pensavo che avessimo un legame speciale."
+
+### u045537
+[Cedi all'illusione] "Davanti alla corte e al Dio-Imperatore in persona, mi dichiaro colpevole di tutte le accuse."
+
+### u045538
+[Cedi all'illusione] "Sì, ho collaborato con gli xenos. Questo non lo negherò."
+
+### u045539
+"Qualcosa... non va. Secondo gli statuti dell'Imperium, nemmeno un Lord Inquisitore può emettere unilateralmente un giudizio su un Rogue Trader. Mi rifiuto di prendervi parte!"
+
+### u045540
+"Non ho nulla da aggiungere, Heinrix. Hai detto più di quanto potrei mai dire io."
+
+### u045541
+[Cedi all'illusione] "Avete scoperto il piano mio e di Theodora. È andata esattamente così."
+
+### u045542
+"Lady Theodora, vi prego, confessiamo! Io... io non voglio più dire bugie!"
+
+### u045543
+"Basta con questo circo, Heinrix. Non ho organizzato nessun attacco!"
+
+### u045544
+[Cedi all'illusione] "È stata Lady Theodora! Mi ha {mf|costretto|costretta} a firmare un patto di sangue con i Drukhari!"
+
+### u045545
+"Un complotto? Di cosa state parlando? Chiedete ad Achilleas cos'è successo. È il vostro agente, dopotutto!"
+
+### u045546
+"Un momento! L'Inquisitore in persona mi ha dato la sua benedizione a usare gli xenos come ritenevo opportuno. Perché, allora, sono sotto processo?"
+
+### u045547
+"Io... non lo so..."
+
+### u045548
+"Achilleas, torna in te! Stai calunniando sia il Rogue Trader sia te stesso!"
+
+### u045549
+"Ti giustizierò di persona per aver tradito l'Imperium, Achilleas!"
+
+### u045550
+"Io... non sono altro che un burattino in questa farsa. Tutto ciò che è accaduto a questo processo è una vile menzogna!"
+
+### u045551
+Ti sei {mf|rifiutato|rifiutata} di recitare una parte nel processo farsa.
+
+### u045552
+[Guarda "Heinrix" dritto negli occhi] "Questa è solo una spaventosa illusione. Non ne prenderò parte!"
+
+### u045553
+Hai provato a raggiungere Achilleas durante il processo.
+
+### u045554
+"Achilleas, cosa ti hanno fatto? Stai bene?"
+
+### u045555
+Hai provato a raggiungere Yrliet durante il processo.
+
+### u045556
+"Yrliet, non vedi che ci stanno manipolando? Questa è solo una farsa menzognera!"
+
+### u045557
+[Annuisci in silenzio perché tutto ciò che Yrliet ha detto è vero]
+
+### u045558
+"Yrliet, tu... hai ucciso Achilleas? Ma perché?"
+
+### u045559
+"Heinrix? Ma... sei morto!"
+
+### u045560
+"Aspetta, c'è qualcosa che non va... Perché siete tutti qui? Dov'è Marazhai? Cosa... cos'è successo?"
+
+### u045561
+"Lady Theodora... Siete morta. Perché siete qui?"
+
+### u045562
+"P-pietà?"
+
+### u045563
+"Faccio ancora fatica a capire cosa stia succedendo qui..."
+
+### u045564
+"È tutto qui quello che sai fare? Xenos, mi aspettavo una prestazione migliore."
+
+### u045565
+"Spero di essere {mf|riuscito|riuscita} a rovinare il tuo spettacolino, Marazhai."
+
+### u045566
+"...Ed ecco il nostro testimone principale, {mf|lo stesso|la stessa} Rogue Trader in persona." {n}Heinrix ti rivolge uno sguardo gelido.{/n} "Se le prove presentate non sono bastate a convincervi, la testimonianza {mf|del Rogue Trader|della Rogue Trader} concluderà questo caso confuso, pieno di violazioni di giuramento, menzogne ed eresia."
+
+### u045567
+"Morta, dici? {d|Encyclopedia:Ch3_Trial_TheodoraAlive}Ma con chi stai parlando, allora, se lo fossi?{/d} Ficcati in quella testa vuota una semplice verità: il tuo ruolo in questi eventi è trascurabile. Puoi credere che io sia l'Imperatore sul Trono d'Oro, se così scelgo, e credermi morta, se mi salta il ticchio, ma non è questo che conta ora. Solo guardarti mi fa star male. Perché devo rivolgermi a questa feccia?" {n}Le ultime parole sono evidentemente rivolte alla corte, non a te.{/n}
+
+### u045568
+"Allora continuiamo. Protetta dai poteri del Mandato di Commercio concesso dall'Imperium, Theodora von Valancius si è permessa più di una volta di collaborare apertamente con gli xenos." {n}Non hai mai visto una smorfia così sdegnosa sul volto dell'Interrogatore.{/n} "Ha trascinato l'intero suo protettorato nell'apostasia e nell'eresia, compreso l'attuale Rogue Trader, e ha fatto di tutto per impedire all'Inquisizione e a me personalmente di mantenere l'ordine all'interno della Distesa."
+
+### u045569
+"Tuttavia... il filo che univa le nostre strade si è spezzato nel momento in cui ho compreso il coinvolgimento del mon-keigh nella scomparsa della mia casa. Per sfuggire {mf|al|alla} Rogue Trader, ho rintracciato ed eliminato il suo capo cacciatore, che inseguiva i nostri simili in questa parte della galassia da molti anni. E così ho ottenuto clemenza davanti a questa corte."
+
+### u045570
+{n}L'Inquisitore si sporge leggermente in avanti alla vista della tua angoscia. Per un breve istante, la noia nei suoi occhi svanisce.{/n}
+
+### u045571
+"Abbiamo ceduto Vheabos VI alle razzie degli xenos {d|Encyclopedia:Ch3_Trial_IsItTrue}per ordine {mf|del|della} Rogue Trader{/d} affinché i Drukhari non avessero inutili sospetti sul nostro continuo successo. Abbiamo lasciato che attaccassero il mondo capitale per lo stesso motivo, sperando di tagliare la testa al Dracon... Ma abbiamo fallito. Il Dracon era troppo rapido e troppo astuto."
+
+### u045572
+"Non dovete preoccuparvi, {mf|caro|cara} Lord Capitano. Non era mia intenzione sollevare accuse infondate." {n}Heinrix estrae una tavoletta dati e ne manipola con abilità il dispositivo finché non trova le informazioni necessarie.{/n}
+
+### u045573
+{n}Heinrix si china su di te con un sorriso storto.{/n} "Rogue Trader, state bene? O la vostra {d|Encyclopedia:Ch3_Trial_YouServed}eretica associazione con gli xenos{/d} è stata così sconvolgente da farvi perdere la ragione?" {n}Le parole beffarde nascondono a malapena la sua irritazione. L'Interrogatore è chiaramente contrariato dalla piega che sta prendendo la conversazione.{/n}
+
+### u045574
+{n}L'Interrogatore lancia uno sguardo acido alla tavoletta dati e la ripone.{/n} "C'erano poche prove da raccogliere, ma il solo fatto che {mf|il|la} Rogue Trader sia inevitabilmente finito nel posto giusto quando i Drukhari attaccavano i suoi mondi e le sue navi mercantili, anche se a volte in ritardo, è la prova migliore che {mf|egli|ella} stesse {d|Encyclopedia:Ch3_Trial_ServedDrukhari}collaborando con altri xenos{/d}. Chi altri poteva fornire informazioni dettagliate sui futuri spostamenti e sugli obiettivi delle incursioni del Kabal?"
+
+### u045575
+{n}Vi separano solo un paio di passi, ma la strada verso Yrliet è bloccata da un muro invisibile, freddo come se fosse costruito di ghiaccio impenetrabile.{/n} "Non essere {mf|ridicolo|ridicola}, Rogue Trader. Quale legame speciale potrebbe nascere tra il cielo e la terra? Tra un oceano e una pozzanghera? Una stella non vedrà mai la luce di una misera lucciola, per quanto questa si sforzi di raggiungere il cielo."
+
+### u045576
+"Questo è vero. Io l'ho certamente fatto." {n}Xavier Calcazar guarda Heinrix con divertimento.{/n}
+
+### u045577
+"{mf|Il|La} Rogue Trader ha scoperto i crimini degli Aeldari sul più importante mondo agricolo del protettorato dei von Valancius, che nutre molte colonie dell'Imperium nella Distesa."
+
+### u045578
+"Eppure {mf|non si è fermato|non si è fermata} a purgare l'eresia dal pianeta: {d|Encyclopedia:Ch3_Trial_ItsTrue}ha lasciato che gli xenos prendessero il controllo dell'intera colonia{/d}! Milioni di vite umane sono state contaminate dalla xenocorruzione. Nemmeno il Mandato di Commercio può giustificare un simile crimine contro l'Umanità."
+
+### u045579
+"{mf|Il|La} Rogue Trader è {mf|stato|stata} spesso {mf|accompagnato|accompagnata} da un {d|Encyclopedia:Ch3_Trial_YrlietComp}compagno xenos{/d}. E sebbene il Mandato di Commercio permetta di concedere la sanzione a singoli esemplari, cos'è questo se non una conferma della lealtà della famiglia von Valancius ai nemici dell'Umanità?"
+
+### u045580
+"I {d|Encyclopedia:Ch3_Trial_ServedDrukhari}legami {mf|del|della} Rogue Trader con i Drukhari{/d}, una diversa sottospecie di Aeldari, sono altrettanto evidenti. Chi altri potrebbe aiutare {mf|lui|lei} a indovinare i piani accuratamente preparati dei Drukhari, se non altri Drukhari? {name} von Valancius è sempre {mf|finito|finita} nel luogo della successiva incursione dei Drukhari, sapendo per certo dove avrebbero colpito."
+
+### u045581
+"State davvero dicendo che la vostra guerra contro i Drukhari non era una farsa? Allora come facevate voi e i vostri sciocchi sudditi a conoscere ogni volta le coordinate delle navi nemiche? Come facevate a sapere i loro obiettivi? Pensate che il vostro esperto di tutto ciò che è xenos fosse abbastanza scaltro da indovinare il piano accuratamente elaborato dei migliori del Kabal? No, solo altri Drukhari potevano farlo... e anche allora, solo pochi. Questo significa che {d|Encyclopedia:Ch3_Trial_ServedDrukhari}eravate in combutta con loro{/d}."
+
+### u045582
+"I precedenti... accordi... non valgono più per voi, Rogue Trader." {n}Heinrix stringe i pugni così forte che le nocche diventano bianche.{/n} "Vi consiglio di collaborare con la corte, a meno che non vogliate finire sul patibolo alla prima occasione."
+
+### u045583
+"{name} von Valancius, parlate con sincerità davanti alla corte, davanti al Lord Inquisitore e davanti al Dio-Imperatore in persona. Ammettete di {d|Encyclopedia:Ch3_Trial_IsItTrue}aver cospirato con Lady Theodora e con uno dei Kabal dei Drukhari{/d}?"
+
+### u045584
+"Permettetemi di spiegare cosa è realmente accaduto. {name} von Valancius ha personalmente invitato i Drukhari nei suoi mondi e poi ha usato la loro forza e le loro risorse per seminare il caos nella Distesa e ottenere vantaggi sui suoi rivali. È molto comodo fare la vittima mentre si lavora con chi deruba i vostri vicini e terrorizza i mondi che vi pagano tributo. Quanto avete guadagnato da tutto questo, Rogue Trader? Pensavate che non avrei scoperto la vostra {d|Encyclopedia:Ch3_Trial_ServedDrukhari}patetica cospirazione{/d}?"
+
+### u045585
+{n}Scintille pericolose si accendono negli occhi di Heinrix.{/n} "Achilleas non mi contatta da molto tempo. È scomparso sul vostro mondo, Rogue Trader. Avete ucciso il mio agente per l'ennesimo vostro capriccio? Ma sono le vostre altre trasgressioni quelle di cui ci occupiamo al momento."
+
+### u045586
+"State pur certo che passeremo alla testimonianza di Achilleas Scalander non appena avremo finito con voi."
+
+### u045587
+"Vi è consentito parlare solo se {mf|interrogato|interrogata}. Ma dato che {mf|il|la} Rogue Trader è così {mf|ansioso|ansiosa} di far sentire la propria voce, prego, fate pure. La corte è curiosa di sapere cosa avete appreso da questo interrogatorio."
+
+### u045588
+"Interessante!" {n}Xavier Calcazar appoggia pensosamente il mento sulla mano.{/n} "Cosa ne direte?"
+
+### u045589
+"Non avete scelta in merito! Fareste bene a sottomettervi docilmente al Suo sguardo fermo e a non ostacolare il procedimento!" {n}L'Interrogatore stringe i denti con ferocia.{/n}
+
+### u045590
+"La cooperazione è un'arma a doppio taglio. A volte si usa il proprio partner e a volte è il partner a usare voi. Ed è ciò che è accaduto {mf|al|alla} Rogue Trader. Lady Theodora {d|Encyclopedia:Ch3_Trial_TheodoraAlive}si è servita di {mf|lui|lei}{/d} per minare la reputazione dell'Imperium nella Distesa."
+
+### u045591
+"Rogue Trader." {n}Heinrix si rivolge a te a denti stretti.{/n} "State distruggendo la vostra unica possibilità di rendervi utile all'Inquisizione e a me personalmente. Non tentate la sorte e non resistete... all'esame."
+
+### u045592
+"Nessuna supplica, nessuna smentita, nessuna disperata bugia? Credo che possiamo considerarla una confessione sincera."
+
+### u045593
+"Come potete vedere, questa è una confessione direttamente dalla fonte. Quali altre prove potrebbe mai cercare la corte?"
+
+### u045594
+"Tutto qui? Mi aspettavo di più da te, mon-keigh."
+
+### u045595
+"Non hai bisogno di capire, mon-keigh. Hai fatto ciò che ti era richiesto. Ora raccogli le forze, ci aspetta ancora un diver—"
+
+### u045596
+{n}Le labbra sottili di Yrliet si serrano per un istante dopo aver udito le tue parole. Lei fissa il vuoto, ancora più pensierosa e addolorata del solito.{/n}
+
+### u045597
+"Tu... inutile, arrogante mon-keigh che presto sarai {mf|morto|morta}! Il processo è quasi concluso e, quando verrà pronunciato il verdetto, ti sventrerò, ti riempirò le viscere di vermi mangiacarne e ti trascinerò per le strade..."
+
+### u045598
+"Tutto ciò che dovevi fare era sottometterti, inutile mon-keigh! Credimi, pagherai le tue buffonate cento volte tanto. Ti piacciono gli scherzi, vero? Ti spalancherò la sudicia bocca, da un orecchio all'—"
+
+### u045599
+{n}Heinrix alza la testa con aria trionfante e guarda il ponte di comando e tutti i presenti.{/n} "Un servitore dell'Inquisizione non mentirebbe durante un sacro processo, non è vero?"
+
+### u045600
+{n}Cerchi di ricordare qualunque cosa, ma i tuoi pensieri continuano a vorticare come un maelstrom impetuoso nella tua testa e un dolore bruciante ti stringe le tempie.{/n}
+
+### u045601
+{n}Tornano le stesse sensazioni: impotenza, sottomissione e debolezza. Non appartieni più a te stess{mf|o|a}, anche se la tua mente non ha ancora lasciato del tutto il tuo corpo. Continui a combattere {d|Encyclopedia:Ch3_Trial_YouServed}qualunque cosa ti si sia conficcata nella testa{/d}, ma è una battaglia persa. Come da lontano, senti la tua voce:{/n} "Io... io confesso di aver collaborato con gli xenos..."
+
+### u045602
+{n}Heinrix annuisce soddisfatto, notando la tua reazione, o meglio, la sua assenza.{/n}
+
+### u045603
+{n}Le parole eruttano dalla tua gola e la tua testa si riempie di nuovo di nebbia. Un dolore acuto, come la puntura di un ago, ti trafigge la tempia sinistra.{/n}
+
+### u045604
+"Ma invece di purgare il pianeta dalla minaccia xenos, {mf|egli|ella} {d|Encyclopedia:Ch3_Trial_ItsTrue}ha permesso agli inumani di rifugiarsi{/d} all'ombra del proprio potere. Stanno corrompendo la società di Janus proprio mentre parliamo e, chissà, forse un'altra ribellione non tarderà ad arrivare."
+
+### u045605
+{n}Yrliet è in piedi a distanza, con le braccia sottili incrociate sul petto. Il suo sguardo è risoluto e rivolto dritto all'Inquisitore Calcazar. Anche se le tue parole sono giunte alle sue orecchie, non lo dà a vedere.{/n}
+
+### u045606
+"No, io... Dove sono? Rogue... Trader?.. Il palazzo! Abbiamo ricevuto la notizia dell'attacco dei Drukhari, tutto... è successo così in fretta..."
+
+### u045607
+"A questo punto, il tribunale vuole probabilmente sapere quali siano le vere intenzioni della dinastia von Valancius. {mf|Il|La} Rogue Trader sostiene di aver condotto per tutto questo tempo una guerra contro i Drukhari. Se non fosse che... c'è mai stata davvero una guerra? O era un'altra rappresentazione attentamente orchestrata?" {n}Heinrix ti osserva da vicino, quasi senza battere ciglio.{/n}
+
+### u045608
+{n}Le parole volano dalle tue labbra, ma {d|Encyclopedia:Ch3_Trial_YouServed}il loro significato{/d} appartiene a qualcun altro. E tu ne sei consapevole, ma non puoi farci nulla.{/n} "Io..." {n} La tua voce è terribilmente roca per le urla e le torture.{/n} "Confesso di aver collaborato con gli xenos..."
+
+### u045609
+{n}Heinrix assume un'espressione contrariata, guardandoti con aria strana.{/n} "Oh, non lo sapete, vero? Permettete che lo ricordi a voi, e anche all'intera corte." {n}Nelle mani dell'Interrogatore compare una tavoletta dati, adornata su entrambi i lati da sigilli di purezza.{/n}
+
+### u045610
+{n}Le parole volano dalle tue labbra, ma il loro significato appartiene a qualcun altro.{/n} "Io..." {n} La tua voce roca si sente a malapena.{/n} "Mi dichiaro colpevole..."
+
+### u045611
+{n}Il tribunale resta in silenzio, sebbene i presenti lancino sguardi ansiosi al tuo predecessore.{/n}
+
+### u045612
+{n}...O almeno, è quello che volevi dire. Tuttavia, la volontà aliena ti fa dire tutt'altro:{/n} "All'origine fu il piano di Lady Theodora. Lei... i suoi servitori... mi facevano sempre sapere dove sarebbe avvenuto il prossimo attacco dei Drukhari."
+
+### u045613
+{n}Il Lord Inquisitore fa un gesto vagamente sprezzante.{/n} "Basta. Lasciate che parli. Prima si conclude questa faccenda, meglio è."
+
+### u045614
+"I tuoi patetici tentativi di dipingermi come un'eretica sono come un fioretto spuntato: noiosi e inutili." {n}Lo sguardo di Theodora non è rivolto a te: sta parlando con Heinrix.{/n}
+
+### u045615
+{n}Il volto di Heinrix si contorce in modo mostruoso, la pelle tesa al limite sulle ossa del cranio, la voce risonante di furia.{/n} "Kae-morag... non provare a infilarti tra i fili della tela, mon-keigh! Fai ciò per cui sei {mf|stato portato|stata portata} qui!"
+
+### u045616
+{n}Il corpo agile di Yrliet si irrigidisce quando sente il proprio nome uscire dalla tua bocca. Un'ombra di dubbio attraversa il volto ultraterreno, ma Yrliet non ti degna di uno sguardo. Fissa ostinatamente gli occhi vuoti dell'Inquisitore che languisce sul tuo trono con apparente noia.{/n}
+
+### u045617
+{n}Un'ondata di bisbigli ansiosi attraversa il ponte di comando.{/n}
+
+### u045618
+"Non credo. Un altro testimone delle tue atrocità è arrivato insieme {mf|al|alla} Rogue Trader."
+
+### u045619
+{n}Pallido come la morte, Achilleas emerge dalle ombre. I suoi occhi sono fissi sull'Interrogatore e traboccano di una sottomissione quasi maniacale.{/n} "Ehm... Voglio che la corte e tutti i presenti sappiano che tutto ciò che l'Interrogatore van Calox ha detto è vero. Abbiamo collaborato con i Drukhari. Eravamo informati delle incursioni imminenti e sapevamo quale colonia avesse la spada appesa sopra la testa nei momenti critici."
+
+### u045620
+"Una testardaggine ottusa non si addice a {mf|un uomo|una donna} del vostro rango, Rogue Trader. Ma dato che avete deciso di negare tutto, convocherò un altro testimone. Sono certo che tutti troveranno interessante esplorare questa sordida vicenda da un'altra angolazione."
+
+### u045621
+"Quindi Achilleas non è semplicemente svanito... Siete {mf|stato|stata} voi a farlo sparire." {n}Heinrix annuisce seccamente.{/n} "Dico che doveva prendersela solo con sé stesso. Un agente che non sa riconoscere una minaccia imminente è inutile."
+
+### u045622
+{n}Notando la tua reazione, Heinrix annuisce soddisfatto.{/n}
+
+### u045623
+"Un legame speciale? Con questa... persona? Ti aprirei personalmente la tua magra gola da Aeldari per questo."
+
+### u045624
+"Non lasciatevi ingannare dalla sua stirpe. Dietro lo sbatter d'ali di una fragile farfalla si cela un astuto predatore. Il mon-keigh che avete davanti è uno strano amalgama di qualità che di solito non appartengono alla sua debole specie. Ha padroneggiato i misteri di molte culture di questo mondo. I segreti dell'universo e dei manufatti antichi, la fine arte della guerra, le complessità dell'inganno... Tutto è incarnato in un solo mon-keigh, per quanto sia difficile crederlo."
+
+### u045625
+"Di cosa state parlando, Rogue Trader? Ricordo distintamente ognuno dei vostri ordini. Ricordo anche i Drukhari. Ho passato abbastanza tempo con questi xenos da non dimenticarlo mai..." {n}La voce di Achilleas sale a un tono febbrile e si spezza.{/n}
+
+### u045626
+"Achilleas, sembri un po' stanco. E confuso. Se {mf|il|la} Rogue Trader ti ha minacciato in qualche modo..."
+
+### u045627
+"Alla corte sono state presentate prove sufficienti e spero che nessuno nutra dubbi sulla colpevolezza della dinastia von Valancius. Ma lasciamo che {mf|il|la} Rogue Trader dica la sua ultima parola. Siamo tutti curiosi di sapere cosa avete appreso da questa indagine."
+
+### u045628
+"Sì... confuso... minacciato..."
+
+### u045629
+"Spero che nessuno nutra dubbi sulla colpevolezza della dinastia von Valancius? Ma lasciamo che {mf|il|la} Rogue Trader dica la sua ultima parola. Siamo tutti curiosi di sapere cosa avete appreso da questa indagine."
+
+### u045630
+"Di cosa state parlando, Rogue Trader? Eseguivo i vostri ordini in piena conformità con le vostre istruzioni. E ho servito l'Imperium proprio come volevate voi. Un'alleanza con i Drukhari non faceva parte dei vostri piani?" {n}La voce di Achilleas sale a un tono febbrile e si spezza.{/n}
+
+### u045631
+{n}L'Interrogatore ti fulmina con lo sguardo.{/n} "Tutto ciò che dovevate fare era restare obbediente, inutile mon-keigh! Il processo è quasi concluso e, una volta annunciata la sentenza, mi occuperò di voi come si deve!"
+
+### u045632
+{n}Provi a spingere fuori le parole dalla gola, ma si bloccano in un nodo soffocante che ti strozza. Heinrix nota la tua lotta e cambia rapidamente argomento:{/n} "{mf|Il|La} Rogue Trader è evidentemente {mf|sbalordito|sbalordita} dalla scoperta che Theodora si è servita di {mf|lui|lei} per tutto questo tempo per ostacolarmi..."
+
+### u045633
+{n}La risata dura e crudele dell'Inquisitore riecheggia sul ponte di comando pieno di cadaveri.{/n} "Sembra che il tuo giocattolo si rifiuti di ballare al tuo ritmo. È patetico, Heinrix. Dovevo aspettarmi di meglio da te?"
+
+### u045634
+"Davvero?" {n}Xavier Calcazar lancia all'Interrogatore uno sguardo divertito.{/n} "Di cosa pensate che stia parlando {mf|egli|ella}?"
+
+### u045635
+{n}Yrliet fa in silenzio un passo aggraziato in avanti.{/n} "Se la corte lo desidera, il mio discorso scorrerà come un fiume e laverà via i vostri dubbi. Ho trovato un frammento della mia casa negli alloggi {mf|del|della} Rogue Trader. Un intero mondo astronave svanito tra le stelle, con l'unico indizio sul suo destino nelle mani di questo mon-keigh. Fu allora che cominciai a sospettare che {mf|egli|ella} avesse a che fare con la sventura che si era abbattuta sul mio Crudarach."
+
+### u045636
+"È evidente che {mf|egli|ella} sta cercando di sabotare il processo. {name}, vi suggerisco di badare alla lingua e di comportarvi bene. E forse, solo forse, basterà a preservare la vostra misera vita." {n}L'Interrogatore ti lancia uno sguardo raggelante.{/n}
+
+### u045637
+"Hai trascinato {mf|questo ragazzo|questa ragazza} in questo processo e ora ti aspetti che qualcuno presti ascolto alla testimonianza di una misera eretica? Avevo una stima migliore di te, Interrogatore van Calox. Mi sbagliavo di grosso." {n}La voce di Lady Theodora suona ancora più aspra e rabbiosa di come la ricordi.{/n}
+
+### u045638
+"{mf|Il|La} Rogue Trader ammette di {d|Encyclopedia:Ch3_Trial_YouServed}aver fraternizzato con gli xenos{/d}, di averli serviti come burattino e di aver rifiutato la benedetta luce del Dio-Imperatore per le proprie eretiche brame e per un vile profitto?"
+
+### u045639
+"È stato divertente, ma lo scherzo è durato anche troppo." {n}Theodora lancia all'Interrogatore un'occhiataccia.{/n} "È dolorosamente ovvio che questo eretico balla al tuo ritmo. La sua parola contro la mia? Avevi già perso prima ancora di sguainare la lama, Heinrix."
+
+### u045640
+"Alcuni rapporti segnalano casi di {d|Encyclopedia:Ch3_Trial_ItsTrue}stretta cooperazione{/d} tra il protettorato dei von Valancius e un sindacato criminale coinvolto nel Commercio Freddo, la Missione Kasballica. Sporcarsi frequentando simili individui... è indegno di un servitore così elevato dell'Imperium."
+
+### u045641
+"{mf|Bravo|Brava} mon-keigh."
+
+### u045642
+[Ricorda ciò che sai su Vect]
+
+### u045643
+[Ascolta la conversazione]
+
+### u045644
+"Maledetti xenos, vi darò alle fiamme tutti in questa tana di eresia, in nome del Dio-Imperatore!"
+
+### u045645
+[Guarda il Drukhari sul trono]
+
+### u045646
+[Guarda l'Aeldari che ha interrotto il processo]
+
+### u045647
+[Guarda la Drukhari]
+
+### u045648
+[Guarda Achilleas]
+
+### u045649
+[Guarda Yrliet]
+
+### u045650
+[Guarda Marazhai]
+
+### u045651
+"Pestatelo a sangue e buttatelo fuori come spazzatura!"
+
+### u045652
+[Sputa con disgusto]
+
+### u045653
+"Ascolta e ricorda, nel nome dell'Imperatore, vi eliminerò tutti!"
+
+### u045654
+"Al vuoto con te, feccia xenos. Non prenderò parte ai tuoi giochi."
+
+### u045655
+"Marazhai era un avversario degno. Che vada lui stesso nell'arena."
+
+### u045656
+"Ehi, Arconte o come ti chiami. Presto aggiungerò la tua maschera alla mia collezione di manufatti xenos."
+
+### u045657
+"Smettetela di comportarvi come se non fossi qui!"
+
+### u045658
+{n}Dopo che l'incantesimo si dissolve, un dolore sconvolgente ti trafigge il corpo. L'oscurità ti vela la vista e la nausea ti sale in gola, ma le ferite che eri {mf|riuscito|riuscita} a dimenticare ti ricordano presto che sei ancora {mf|vivo|viva}.{/n}
+
+### u045659
+"La debolezza dei vostri sudditi è un insulto al Consiglio degli Arconti e al sommo signore di Commorragh in persona, Yremeryss." {n}La voce imperiosa e disumana ti strappa dalla morsa dell'agonia e vedi al centro della sala un Drukhari sconosciuto, la cui sola presenza ti fa contrarre le viscere.{/n} "Invece di combattere e strappare con la forza ciò che spetta loro dalle mani del destino, osano strisciare nel Palazzo Oscuro, mendicando favori!"
+
+### u045660
+{n}Un applauso attutito ti strappa dalla morsa dell'agonia. Il Drukhari al centro della sala ti osserva con freddezza da sotto la maschera dorata, facendoti contrarre le viscere.{/n} "Un Dracon del Kabal della Reaving Tempest è stato abbattuto dalla propria incompetenza nel tentativo di prendere parte al thyllian ai-kelethril. Non avrei mai pensato che i miei occhi fossero destinati a vedere la più grande disgrazia per un Oscuro: un nato puro umiliato da una creatura infima davanti al Consiglio degli Arconti."
+
+### u045661
+"È passato molto tempo da quando la Corte d'Ossidiana ha visto uno spettacolo così... divertente. Le accuse scagliate contro l'Arconte Yremeryss possono essere gravi... ma non vedo ragione di tentare di scandagliarne la sostanza." {n}Il Drukhari sul trono guarda Marazhai con un ghigno affamato, aspettando chiaramente la sua reazione.{/n}
+
+### u045662
+"Mi inchino umilmente al Consiglio degli Arconti e mi scuso per questo... sfogo a nome del Kabal. Permettetemi di provarvi il mio rispetto con un umile dono." {n}Yremeryss ti indica con un dito artigliato e sfoggia un ghigno soddisfatto.{/n} "Il Dracon del Kabal della Reaving Tempest in persona e il suo divertente giocattolo mon-keigh, con il loro seguito di sventurati mostri, entreranno nelle vostre arene e combatteranno i migliori guerrieri per il divertimento della folla."
+
+### u045663
+"Ti strapperò il cuore perché Khaine lo divori!"
+
+### u045664
+{n}Le parole ti volano quasi dalle labbra quando un dolore acuto ti afferra la testa in una morsa. Sangue e nausea ribollono nella tua gola e il mondo comincia a oscillare davanti ai tuoi occhi. Sembra che la creatura che Marazhai ti ha ficcato nella testa stia ancora soffocando la tua volontà con tutte le sue forze, ma già senti avvicinarsi la sua fine.{/n}
+
+### u045665
+{n}Achilleas resta indifferente a ciò che sta accadendo. È come se non notasse lo spaventoso arredamento della sala, né le ferite sul suo corpo torturato, né i nemici che vi circondano. Il suo sguardo offuscato cerca Marazhai ancora e ancora e, non trovando alcuna risposta, vaga da un volto all'altro.{/n}
+
+### u045666
+{n}Yrliet assorbe ogni parola, trasalendo di tanto in tanto per il dolore e coprendosi le ferite sanguinanti. La sua postura e i suoi gesti sono carichi di tensione: come una preda messa all'angolo da un branco di predatori, Yrliet si rannicchia sotto gli sguardi affamati di chi la circonda.{/n}
+
+### u045667
+{n}Hai udito molti racconti agghiaccianti sulle atrocità dei Drukhari, ma i più crudeli e spregevoli riguardavano sempre Asdrubael Vect, l'Arconte del Kabal del Cuore Nero, il sommo signore di Commorragh e il più pericoloso di tutta la sua stirpe oscura.{/n}
+
+### u045668
+{n}A giudicare dalla reazione dell'Arconte, questa è una figura di spicco nella gerarchia dei Drukhari, ma la memoria ti tradisce: non conosci nessuno xenos con quel nome.{/n}
+
+### u045669
+{n}Lo xenos indossa un'armatura incrostata di gioielli e sta tranquillo accanto a chi parla. Un simile comportamento è tipico degli xenos che occupano i livelli più alti della gerarchia dei Drukhari, il che significa che hai davanti uno degli Arconti.{/n}
+
+### u045670
+{n}Lo xenos ha un aspetto minaccioso. Forse è la guardia personale del Drukhari seduto sul trono.{/n}
+
+### u045671
+{n}Il vivace variopinto, la tuta olografica, la maschera che nasconde il volto di chi la porta e i movimenti aggraziati e sottili... Davanti a te c'è un Arlecchino, un altro rappresentante della multiforme razza degli Aeldari. Lo xenos incrocia il tuo sguardo e annuisce. Per un istante, il gioco di ombre sulla maschera sembra deformarne l'espressione in un sorriso malizioso.{/n}
+
+### u045672
+{n}I movimenti fluidi e sottili di questo xenos non assomigliano né ai rozzi affondi dei Drukhari né ai gesti cauti dei Figli di Asuryan, ma la testa dolorante e lo stordimento persistente ti impediscono di mettere a fuoco il temerario che ha interrotto l'Arconte. Lo xenos incrocia il tuo sguardo e annuisce. Per un istante, il gioco di ombre sulla maschera sembra deformarne l'espressione in un sorriso malizioso.{/n}
+
+### u045673
+{n}Il ghigno compiaciuto è sparito dal volto di Marazhai. Lui stringe l'elsa della sua lama e lancia uno sguardo feroce alla Drukhari in armatura sontuosa.{/n}
+
+### u045674
+{n}C'è un autentico terrore nello sguardo di Marazhai, ma il suo volto resta impassibile e calmo. A un certo punto incrocia il tuo sguardo e vedi chiaramente che brama sangue. Il tuo sangue.{/n}
+
+### u045675
+{n}Con un sibilo di rabbia, Marazhai sguaina le lame, preparandosi a reagire.{/n}
+
+### u045676
+"Contraddire la mia decisione significa contraddire la decisione di Vect in persona, sciocco." {n}Qualcosa nel tono dello xenos ti fa perdere un battito.{/n} "Permettimi di disciplinarti per la tua debolezza. Oggi il Dracon perderà le ali e precipiterà sul fondo del baratro: andrai nell'arena a espiare i tuoi errori e la tua impertinenza insieme alla feccia che hai trascinato a Commorragh. Se sei un vero Dracon, risorgerai. Se non lo sei... la tua sofferenza sazierà i degni."
+
+### u045677
+{n}L'Arconte annuisce soddisfatto e fa un gesto sconosciuto. Le guardie si avvicinano a te.{/n} "Torniamo a voi, Yremeryss."
+
+### u045678
+"Deponi le armi e segui le guardie. Ti lascerò il poco di dignità che ti rimane. È il mio ultimo dono per te, Marazhai."
+
+### u045679
+{n}Dalla maschera di Nazrakhei giunge una risatina attutita.{/n} "Commorragh accetta il vostro dono, Yremeryss. Ma cosa devo fare, dato che Marazhai è il primo tra le vostre lame? Devo scacciarlo dal palazzo e condannarlo alla disgrazia? O devo essere clemente e permettergli di lasciare la sala con le sue gambe?" {n}Lo sguardo gelido dell'Arconte cade su di te.{/n} "Credo di sapere chi prenderà questa difficile decisione. Una creatura i cui lamenti il Consiglio degli Arconti avrebbe dovuto ascoltare. Non è forse così, Marazhai? Riceverai ciò che hai tanto desiderato: sarà il mon-keigh a decidere il tuo destino."
+
+### u045680
+{n}Il volto di Marazhai si contorce per la disperazione. Il suo sguardo passa dall'Arconte a te, poi a Yremeryss e di nuovo indietro, ma non osa sollevare obiezioni.{/n}
+
+### u045681
+"Il mon-keigh ha deciso il tuo destino, Marazhai. Che ti serva da lezione."
+
+### u045682
+"Silenzio, mon-keigh! Puoi strozzarti con la tua pietà, non so che farmene!"
+
+### u045683
+"Le razze inferiori sono disgustosamente primitive." {n}L'Arconte del Kabal del Cuore Nero si rivolge a Marazhai, ignorando le tue parole.{/n} "Il mon-keigh non riesce nemmeno a decidere il destino del suo nemico, e tu speravi che qualcuno qui desse ascolto alle sue parole? Divertente. Le arene di Commorragh divoreranno te e i tuoi giocattoli."
+
+### u045684
+{n}La risata dello xenos mascherato interrompe l'Arconte e riecheggia sotto le volte della sala in un baritono risonante:{/n}
+"E tutte le maschere ora sui loro segni stan:
+lo schiavo della vanità sale alla guglia,
+il ladro e il traditore gettati giù dalla sua mano.
+Ignari tutti, il loro fato dipende
+da un filo invisibile, un giocatore verde."
+{n}Lo xenos si sporge in avanti e ti osserva con genuino interesse. La maschera nasconde il suo volto sottile e il suo abito variopinto scintilla nella luce fioca.{/n}
+
+### u045685
+"Il mon-keigh ha scelto il tuo destino, Marazhai. Che ti serva da lezione. Deponi l'arma, segui le guardie, e che la pietà di un essere inferiore sia un marchio di disonore ben peggiore dell'ira degli Arconti. Va'!"
+
+### u045686
+{n}La risata dell'Arlecchino interrompe l'Arconte e riecheggia sotto le volte della sala in un baritono risonante:{/n}
+"E tutte le maschere ora sui loro segni stan:
+lo schiavo della vanità sale alla guglia,
+il ladro e il traditore gettati giù dalla sua mano.
+Ignari tutti, il loro fato dipende
+da un filo invisibile, un giocatore verde."
+{n}L'Arlecchino si sporge in avanti e ti osserva con genuino interesse.{/n}
+
+### u045687
+"È così che trattate l'ospitalità di Commorragh, Arebennian?" {n}L'Arconte stringe rabbiosamente il pugno, l'ombra della sua ira sospesa sull'intruso Aeldari come una nube temporalesca.{/n} "Pensavo che le tue parole valessero di più. Mi insulti interrompendo di nuovo il processo."
+
+### u045688
+{n}Lo xenos si esibisce in un inchino teatrale senza distogliere lo sguardo dal volto di Nazrakhei.{/n}
+"Tu, Arconte, pronunci un giusto rimprovero, in verità,
+le melodie del fato in ringhi fantastici
+qui mi hanno intrappolato, e quando le udii suonare
+non potei trattenere le labbra da un largo sorriso.
+Giunge l'ora in cui le ombre devono ritirarsi:
+dove il sipario attende di levarsi, la risata
+senza principio ora lancia il suo richiamo."
+
+### u045689
+"Di verboso vetriolo il botta e risposta
+batte il tempo alle gravi trame del fato,
+ma di chi l'agile passo non porta che a polvere?
+Mentre da questo brutale epilogo nessuno può salvare
+questa commedia, il Burattinaio mi ha concesso
+tra oscure platee un sentiero compiacente."
+
+### u045690
+{n}Nazrakhei scaccia Marazhai come una mosca fastidiosa.{/n} "Il Consiglio degli Arconti ha udito abbastanza banalità, Dracon Marazhai, e non desidera più—"
+
+### u045691
+"Il Burattinaio? Vect... Vect in persona ti ha invitato in questa sala?" {n}L'Arconte si strozza con le sue stesse parole, ma ritrova presto la compostura.{/n} "Non importa. Puoi essere nostro ospite, Arebennian, ma sei solo uno spettatore di questa rappresentazione. E gli spettatori non appartengono al palcoscenico, come sai senza dubbio. Non intrometterti."
+
+### u045692
+{n}Lo sconosciuto preme un dito delicato sulle labbra della sua mesta maschera e dice con una luce negli occhi,{/n}
+"Un'ombra nelle ombre sarò."
+
+### u045693
+"L'arena ti farà rispondere di questo insulto alla corte. L'arena ti priverà dei tuoi titoli e della tua pelle, e i colpi degli sfidanti spezzeranno le tue ossa e il tuo orgoglio. Solo sangue e sofferenza laveranno la vergogna che il Dracon si è procurato oggi!"
+
+### u045694
+"Marazhai Aezyrraesh. Dracon del Kabal della Reaving Tempest. Prima Lama di Lady Yremeryss. Sventratore di Illiridos, Fiamma del Regno di Barkhag e Massacratore di Carrocius il Pallido..." {n}La voce imperiosa e disumana ti strappa dalla morsa dell'agonia e vedi la sagoma di un Drukhari la cui sola presenza ti fa contrarre le viscere.{/n} "...come osi presentarti al consiglio degli Arconti della Città Oscura con questa... creatura inferiore?"
+
+### u045695
+"Marazhai Aezyrraesh, date le circostanze..." {n}L'Arconte si guarda intorno nella sala e posa il suo sguardo turbato sullo xenos in armatura sgargiante che lo ha interrotto.{/n} "Il consiglio ritiene colpevole l'Arconte Yremeryss. La lama della tua verità ha squarciato il velo d'ombra che celava le sue trasgressioni. Tuttavia..." {n}Un lampo di crudele scherno compare nei suoi occhi.{/n} "Come osi insultare il consiglio con una lagnanza così patetica? Avresti dovuto strappare il cuore a Yremeryss con le tue stesse mani e offrire la sua anima a Vect, se volevi espiare gli errori del Reaving Tempest."
+
+### u045696
+{n}Un ghigno trionfante esplode sul volto di Marazhai, ma lo xenos resta sorprendentemente composto e non osa interrompere lo sconosciuto che parla.{/n}
+
+### u045697
+{n}L'Arconte si rivolge alla Drukhari che gli sta accanto, gli occhi accesi di scherno, non rivolto a lei, tuttavia, perché continua a guardare Marazhai.{/n} "Come intende pagare l'Arconte per la palese mancanza di rispetto del suo Kabal? Attendo la tua risposta, Yremeryss, e la mia pazienza si assottiglia a ogni tuo respiro."
+
+### u045698
+"Con il massimo rispetto, possente Nazrakhei, Arconte del Kabal del Cuore Nero, Primo tra gli Eletti, Voce del Signore della Città Oscura, Portatore di Rovina, Conquistatore di Cento Mondi—"
+
+### u045699
+{n}Metà del suo volto è nascosta dietro una maschera dorata dall'aspetto intimidatorio, l'altra metà mostra un ghigno malevolo dai denti aguzzi. L'elaborata armatura dello xenos è decorata con teschi e brandelli di pelle umana infilzati su innumerevoli lame e uncini. Si comporta con autorità e disinvoltura, come un sovrano che stringe saldamente in pugno i fili del destino di tutti i presenti.{/n}
+
+### u045700
+"Io..." {n}Gli occhi di Marazhai si spalancano, colmi di stupore e incredulità. Sembra fosse certo dell'esito e non si aspettasse ciò che sta udendo ora. Le sue labbra si torcono in un ringhio furioso, odio diretto allo xenos sul trono, e tuttavia non trova sfogo sotto gli sguardi delle decine di Drukhari presenti nella sala.{/n}
+
+### u045701
+Fine
+
+### u045702
+[Attacca] "Un altro arrivista ansioso di morire."
+
+### u045703
+"Heinrix, chi sto per uccidere?"
+
+### u045704
+"Irrompere sul mio ponte di comando è stato un grosso errore."
+
+### u045705
+[Attacca] "Il Dio-Imperatore è con noi!"
+
+### u045706
+"Se deponi subito le armi, avrai salva la vita e verrai presa in custodia."
+
+### u045707
+{n}La donna in armatura pesante ti squadra e ghigna.{/n} "{mf|Un|Una} Rogue Trader... Una nuova tacca sul calcio della mia arma. Non ne ho mai ucciso uno dei vostri!"
+
+### u045708
+"Aishara. Cosa ti ha fatto credere di avere il diritto di invadere la nave di {mf|un unto|un'unta} del Dio-Imperatore?"
+
+### u045709
+"Van Calox. Posto sbagliato, momento sbagliato, di nuovo? Stavolta sarà l'ultima. E non osare farmi la predica su come le mie azioni si discostino dal Credo, tu che hai già dimostrato di non essere degno della nostra causa."
+
+### u045710
+"Una degli accoliti del Lord Inquisitore. Questa è Aishara, la ripulitrice. Ripulisce ciò che ha esaurito la sua utilità per Calcazar."
+

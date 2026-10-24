@@ -1,0 +1,724 @@
+### u032350
+"Qui non apprenderai alcun segreto. Solo la pura verità."
+
+### u032351
+{n}La stazione vox è ben nascosta agli occhi dei non sospettosi, ma qualcuno la usa regolarmente. L'impugnatura del ricevitore vocale conserva ancora un po' di calore di chi l'ha tenuta per ultimo.{/n}
+
+### u032352
+"I Servitori del Trono d'Oro a Elana. Il vostro silenzio ci allarma. Che cosa sta succedendo nell'accampamento del Corifeo eretico? Rapporto."
+
+### u032353
+"Mi è stata posta una domanda simile centinaia di volte. E devo dire che non l'ha mai posta una persona retta. Il signore di questo pianeta, Seberian von Valancius, si è compromesso diversi cicli fa commettendo una mostruosa xenoeresia. Rinnegando le fondamenta stesse dell'Umanità, ha sigillato il destino di se stesso e di tutta Dargonus."
+
+### u032354
+"Tale è il destino di chiunque si dica servitore di un eretico. Il suo esercito è crollato sotto l'assalto delle {g|Encyclopedia:AdeptaSororitasGlossary}Sorelle della Battaglia{/g}, guidate dalla saggezza di Elana. Non importa a quale casata appartenessero. Non combattiamo contro gli umani: combattiamo per l'umanità."
+
+### u032355
+"I Servitori del Trono d'Oro a Palatine. La battaglia è vicina. Radunate le vostre unità presso le porte del traditore."
+
+### u032356
+"I Servitori del Trono d'Oro a Elana. Rispondete immediatamente. La mancanza di comunicazione sarà interpretata come un aiuto al Corifeo eretico per viltà e come una negligenza del vostro sacro dovere verso l'Umanità."
+{n}La frequenza vox non trasmette del tutto il tono della voce, ma chi parla è senza dubbio in ansia.{/n}
+
+### u032357
+{n}Il vox-array è muto: le griglie degli altoparlanti sono rivestite strettamente di materiale fonoassorbente.{/n}
+
+### u032358
+{n}La stazione vox sembra ben curata: non si vede neppure un granello di polvere sulla superficie.{/n}
+
+### u032359
+{n}Questo dispositivo è stato realizzato su commissione privata, violando sicuramente una dozzina di precetti dell'{g|Encyclopedia:AdeptusMechanicusGlossary}Adeptus Mechanicus{/g}. Il suo proprietario è incredibilmente ricco e ha un piede fuori dalla legge.{/n}
+
+### u032360
+{n}Se una tecnologia simile sia opera dell'Umanità, non sai dirlo con certezza.{/n}
+
+### u032361
+{n}L'alloggiamento del dispositivo è stato realizzato con squisita maestria: si incastra alla perfezione nella nicchia, lasciando quasi nessuno spazio tra sé e la pietra. Il meccanismo interno e i cavi sono ordinatamente nascosti, come serpenti in agguato nel buio.{/n}
+
+### u032362
+{n}Una sequenza di numeri familiare attira il tuo sguardo. Pochi nella Distesa riconoscerebbero questa combinazione, ma tu sei uno di loro: questa frequenza appartiene alla banda usata dall'{g|Encyclopedia:InquisitionGlossary}Inquisizione{/g}.{/n}
+
+### u032363
+{n}Numeri e simboli danzano davanti ai tuoi occhi: qualcuno usava questo dispositivo per comunicare su molte onde diverse, ma nessuna di queste frequenze ti è familiare.{/n}
+
+### u032364
+"Il Dio-Imperatore guarda con favore alla sottomissione dei condannati. Ma perché dovremmo credere a voi?"
+
+### u032365
+"Prima osate dirvi un Gaprak, e ora indossate la maschera della rettitudine? Per quante ne indossiate, Egli vede attraverso di voi."
+
+### u032366
+"Avete cambiato idea? Quanto è ingegnosa e impercettibile l'eresia. Se pensate di opporvi agli emissari del {g|Encyclopedia:GoldenThroneGlossary}Trono d'Oro{/g}, anche solo una volta, allora non c'è ritorno. Siete già {mf|morto|morta}, mio volubile interlocutore." {n}Un clic segnala la disconnessione della trasmissione vox.{/n}
+
+### u032367
+{n}Il tuo interlocutore resta in silenzio a lungo, poi sospira:{/n} "La povertà d'intelletto è una delle virtù supreme. Tuttavia, pare che voi non possiate vantarla. Dite la verità."
+
+### u032368
+"Dovrete coinvolgermi in questo complotto. Altrimenti... ho sentito la vostra trasmissione e non avrò difficoltà a trovare qualcuno ansioso di conoscerne il contenuto."
+
+### u032369
+"Un governante ossessionato dall'eresia condurrà la dinastia alla rovina. Desidero purgare il nome von Valancius da questa corruzione."
+
+### u032370
+"Seberian è invischiato nell'eresia. Prima o poi cadrà. Non desidero sprecare i miei sforzi per un uomo condannato."
+
+### u032371
+"{name} ai servitori del Trono d'Oro! Anch'io ho qualcosa da riferire."
+
+### u032372
+[Lascia stare il vox]
+
+### u032373
+"Dovrai coinvolgermi nel tuo complotto, che tu lo voglia o no. Non è vero, Elana? O dovrei dire... Juvenna?"
+
+### u032374
+"Ricorda: non ci sarà perdono per chi ha tradito la dinastia von Valancius."
+
+### u032375
+"Elana ai servitori del Trono d'Oro. Coordinate per colpire il quartier generale: Quattro-Xi, Rho-Sigma. Non prendete di nuovo di mira l'avamposto: non è importante."
+
+### u032376
+"...Non sono attesi rinforzi. Il Corifeo eretico è nel cortile con i suoi seguaci."
+
+### u032377
+{n}I pezzi del puzzle si incastrano all'improvviso: parlano della Casata Gaprak, che ha inviato in aiuto di Dargonus un esercito guidato da uno dei suoi rampolli. Pare che le forze dei Gaprak siano state eliminate da questa "Elana", e ora lei sta trasmettendo le coordinate per un bombardamento orbitale sul quartier generale.{/n}
+
+### u032378
+{n}Qualunque sia la vera identità di Elana, sta trasmettendo al nemico informazioni sensibili, fondamentali per la difesa di Dargonus.{/n}
+
+### u032379
+{n}Elana l'Imperturbata è una santa calixiana morta molte centinaia di cicli fa. Questo nominativo di chiamata non può essere stato scelto a caso.{/n}
+
+### u032380
+{n}Senti una voce maschile, ma non vi rilevi alcuna traccia di sentimento umano.{/n}
+"Hai assolutamente ragione, figlio smarrito. Seberian ha tradito la sua dinastia, e il Dio-Imperatore ha già emesso il suo giudizio su di lui. Non deve aspettarsi alcuna pietà, e nemmeno tu."
+
+### u032381
+{n}Dal canale vox non giunge altro che silenzio. Ma non senti alcun clic di disconnessione, il che significa che qualcuno ha accettato di ascoltare.{/n}
+
+### u032382
+"Molto bene. Se il fuoco della fede arde davvero nel tuo cuore, pronto a divampare in una fiamma purificatrice, trova i Redenti la cui fermezza è preservata da Elana, e segui le sue istruzioni." {n}Senti un breve clic: la connessione è stata interrotta.{/n}
+
+### u032383
+{n}Il sibilo che ti raggiunge le orecchie si condensa nelle parole appena distinguibili di una trasmissione vox. La fonte del suono è un {g|Encyclopedia:CommBead}auricolare vox{/g}, infilato dietro l'orecchio insanguinato di una {g|Encyclopedia:AdeptaSororitas}Sorella della Battaglia{/g} caduta.{/n}
+
+### u032384
+"Posso confermare: le forze del duca sono state distrutte. Il rampollo è sfuggito alle fiamme, ma mi sono assicurato che non raggiungesse il palazzo." {n}Distorta dalle interferenze, la voce si fa più debole.{/n}
+
+### u032385
+"Il Dio-Imperatore punisce! Fine della trasmissione."
+
+### u032386
+{n}Un silenzio teso riempie il canale vox. Segue un breve clic: la connessione è stata interrotta.{/n}
+
+### u032387
+{n}Ti risponde una voce profonda e uniforme. Il genere di voce che potrebbe calmare perfino un {g|Encyclopedia:Grox}grox{/g} infuriato.{/n} "Dimmi, servitore dell'Imperium, che cosa ti spinge a voler aiutarci?"
+
+### u032388
+"Le forze dei Gaprak sono state distrutte e il rampollo eliminato, ma qualcuno che dice di essere un Gaprak si è presentato all'avamposto. Un parente sopravvissuto? Un impostore? Me ne occuperò io." {n}Distorta dalle interferenze, la voce si fa più debole.{/n}
+
+### u032389
+"Mio signore, {mf|lui|lei} è della Casata Gaprak. Non sono sicuro che dovremmo fidarci di {mf|lui|lei}."
+
+### u032390
+"I Servitori del Trono d'Oro a Elana. I proiettili sono pronti al lancio. Comunicate le coordinate del bersaglio per il supporto di artiglieria."
+
+### u032391
+[Domina il tuo terrore]
+
+### u032392
+"Trazyn l'Infinito, sono {name} von Valancius, e sono {mf|venuto|venuta} per il mio antenato."
+
+### u032393
+"Non permetterò che ci imprigioni entrambi!"
+
+### u032394
+"Abbiamo distrutto la tua trappola immonda, xenos!"
+
+### u032395
+[Attacca] "Morte ai nemici dell'Umanità! Morte ai nemici dei von Valancius!"
+
+### u032396
+[Tieni l'arma pronta] "In ginocchio e implora pietà, xenos!"
+
+### u032397
+[Fai un respiro profondo e urla]
+
+### u032398
+[Guarda Seberian]
+
+### u032399
+[Cerca una soluzione guardandoti intorno]
+
+### u032400
+[Fissa Trazyn con sguardo minaccioso]
+
+### u032401
+"Perché hai catturato l'antenato della dinastia von Valancius e lo hai imprigionato qui?"
+
+### u032402
+[Prova a fuggire]
+
+### u032403
+[Prova a respirare]
+
+### u032404
+[Prova a parlare]
+
+### u032405
+"Pare che io abbia rovinato i tuoi piani. E ora?"
+
+### u032406
+{n}Il gigante di metallo, avvolto in un pesante mantello e con in mano un bastone dall'aspetto sinistro, volge lentamente la testa, scrutando il palazzo di Dargonus. Non scorgi alcun accenno di emozione nella maschera immobile che sostituisce il volto dello {g|Encyclopedia:XenosGlossary}xenos{/g}, ma nella sua voce innaturale c'è una chiara nota di stizza.{/n}
+
+### u032407
+"Una manciata di parassiti. Nascosti dentro un'esposizione, a rovinare il mio capolavoro. E ora sono costretto a comparire qui, sugli angoli semidimenticati della galassia? Complimenti: siete riusciti ad attirare su di voi lo sguardo di Trazyn l'Infinito, padrone del Museion che voi, miserabili pesti, avete invaso." {n}Una risata caustica raschia fuori dalla maschera come metallo contro vetro.{/n}
+
+### u032408
+{n}Le tue emozioni infuriano dentro di te, e crescono solo di forza perché non trovano sfogo: né in un grido, né in un movimento, nemmeno in una smorfia. Puoi solo sperare che la tua capacità di provare sentimenti si esaurisca prima che tu perda i sensi per lo sforzo.{/n}
+
+### u032409
+{n}Lo xenos posa su di te il suo sguardo, lo sguardo di un essere così antico e potente che lo avverti quasi come un peso fisico.{/n} "Il solo fatto di aver trovato la strada fin qui vi distingue dagli altri parassiti. Curiosa determinazione e mancanza di lungimiranza... eppure, forse non avevate idea di in che cosa vi stavate cacciando."
+
+### u032410
+"Non sta a te deciderlo. Tuttavia..."
+
+### u032411
+{n}Il dolore ti trafigge l'intero essere. Vorresti urlare nella speranza che alleggerisca questa sofferenza insopportabile... ma poi ti accorgi che l'agonia, al tempo stesso fugace e infinita, è già cessata. La vista ti si sdoppia e macchie di colore sembrano nuotare nell'aria davanti a te.{/n} "Ho apportato una piccola aggiunta alla tua fisiologia: sono ansioso di osservare come userai il tuo nuovo trofeo. E osserverò, esprimendo le mie opinioni direttamente alle tue orecchie, ovunque tu sia."
+
+### u032412
+"Distrutta? Difficilmente. Hai semplicemente interrotto la logica ipergeometrica del labirinto con le tue intemperanze, nient'altro." {n}La voce dello xenos assume una nota sardonica.{/n} "Ma non lasciare che questo dettaglio rovini la tua piccola festa: resta pur sempre un'impresa notevolissima per un membro di una specie primitiva."
+
+### u032413
+"Le civiltà primitive sono sempre divertenti nella loro incapacità di afferrare l'intera portata della propria impotenza, e al tempo stesso nella loro ostinazione a negarla del tutto. Il cammino di chi si trova in questo luogo è determinato da me solo, tanto più ora che le tue azioni mi hanno costretto a venire qui di persona."
+
+### u032414
+{n}I muscoli dei tuoi occhi si rifiutano di obbedirti, proprio come il resto del corpo. Tuttavia, è poco probabile che qualcosa nei dintorni possa aiutarti nella tua situazione attuale.{/n}
+
+### u032415
+{n}Il mondo intorno a te è congelato: le persone, i meccanismi, perfino la brezza, assolutamente tutto si è fermato, pietrificato in pose inquietanti. Sbatti le palpebre, e un'onda attraversa il mondo come l'elettricità statica sullo schermo di un antico {g|Encyclopedia:Cogitator}cogitatore{/g}. Le uniche creature risparmiate da questa strana stasi sono il tuo seguito e Seberian.{/n}
+
+### u032416
+{n}Seberian sembra riscuotersi di soprassalto e si raddrizza, il movimento accompagnato dal suono stridulo di decine di antichi impianti. Con uno scoppio di fiorite imprecazioni, il Rogue Trader impugna l'arma e si lancia in avanti. In risposta, lo xenos alza la mano e, senza guardare, schiocca pigramente le dita.{/n}
+
+### u032417
+{n}Seberian fissa davanti a sé, ammutolito, incapace di respingere la consapevolezza che gli crolla addosso. La luce del suo occhio cibernetico vacilla, come se persino le sue augmetiche cedessero sotto il peso che le schiaccia.{/n}
+
+### u032418
+{n}Il tuo corpo è prigioniero di una specie di trappola, ma diversa da qualunque altra tu abbia mai provato. Nulla ti trattiene, nulla ti confina, eppure non riesci a muovere un solo muscolo. Quando ti rendi conto che anche il cuore e i polmoni sono congelati, il terrore animale ti afferra. Lo xenos non ha fermato soltanto il tuo corpo, ma la tua stessa vita.{/n}
+
+### u032419
+{n}Come svegliato dal tuo grido, Seberian alza l'arma con il ruggito di una belva ferita e si lancia in avanti. Ma la tua carica sfrenata non suscita alcuna paura, e nemmeno inquietudine, nello xenos. Con l'attenzione altrove, alza distrattamente la mano e schiocca le dita.{/n}
+
+### u032420
+{n}Il volto di Seberian, la parte che ne rimane, è congelato in una smorfia. Non sei nemmeno {mf|sicuro|sicura} che il Rogue Trader respiri ancora: è come se lo xenos avesse fermato il tempo per lui.{/n}
+
+### u032421
+{n}Questa tentata dimostrazione del tuo spirito indomito è un fallimento immediato: i muscoli dei tuoi occhi sono completamente immobili, proprio come il resto del corpo.{/n}
+
+### u032422
+{n}Non puoi guardare di lato verso Seberian: i muscoli dei tuoi occhi sono congelati, come il resto del corpo. Il destino del tuo antenato resta un mistero per te.{/n}
+
+### u032423
+"Apprezzo davvero un pubblico rapito. Eppure è tempo di concludere questo incontro."
+
+### u032424
+{n}Trazyn spazza con il braccio lo spazio intorno a te.{/n} "Ti trovi all'interno di uno dei pezzi della mia collezione, la più grande della galassia. L'ho assemblato io stesso, attraversando distanze di milioni di sistemi stellari e lassi di tempo di centinaia di millenni. Essere tra le reliquie, le creature e gli eventi esposti nel Museion di Trazyn l'Infinito è un onore che concedo a pochissimi."
+
+### u032425
+"Hmm..." {n}Trazyn dà un'occhiata distratta a te e alla tua arma.{/n} "Un tipico esemplare della tua specie: la tua capacità di trarre anche le più semplici conclusioni logiche è limitata. Semplificherò i termini perché tu possa capire: desideri lo stesso trattamento riservato al tuo compagno?"
+
+### u032426
+"Seberian von Valancius. Questo raro membro della tua famiglia ha suscitato il mio interesse. Lo ha fatto incrociando il mio cammino e rubando una reliquia inestimabile, che intendevo aggiungere alla mia collezione. Questo atto mi ha impressionato al punto che ho deciso di recuperare l'oggetto rubato e il ladro insieme. Sapevo che Seberian sarebbe tornato in cerca di altri tesori nascosti sul mondo di Zarkov. Sapevo che non si sarebbe lasciato sfuggire l'occasione di esaminare il portale che avrebbe così comodamente scoperto all'interno del tempio..."
+
+### u032427
+{n}Trazyn l'Infinito cade in un breve silenzio.{/n} "L'esposizione che ho progettato è rovinata, e la collezione ha perso uno dei suoi pezzi, e questo dopo che ho ricompensato lautamente Seberian per la sua eccezionalità. Privo la dinastia von Valancius dell'onore di far parte dell'esposizione del Museion. Prendi il tuo antenato. Cercherò un sostituto."
+
+### u032428
+{n}Il veleno comincia a gocciolare dalle parole del Necron.{/n} "Inutile dire che terrò con me Laria Voigtvir: ha svolto diligentemente il suo ruolo, e non vedo motivo di scartarla. Se Seberian desidera essere riunito a lei, può tornare, implorare perdono e... forse guadagnarsi il privilegio di rientrare nella mia collezione. Quanto a te, pestilenza..." {n}Trazyn solleva leggermente il bastone.{/n}
+
+### u032429
+{n}La tua volontà, forgiata nelle innumerevoli prove del cammino di un Rogue Trader, resta del tutto impotente contro gli incantesimi xenos che incatenano il tuo corpo.{/n}
+
+### u032430
+{n}I tuoi polmoni si rifiutano di obbedire, per quanto tu ti sforzi di riprenderne il controllo. Le tue labbra restano congelate, sigillate da una forza ignota.{/n}
+
+### u032431
+{n}La testa dello xenos si volge leggermente verso Seberian.{/n} "Il piccolo ladro. Ha osato rubare al Custode delle Storie, e ora crea di nuovo problemi. Che cos'è, un temerario tentativo di salvataggio? Dunque il tuo nome senza valore è ancora ricordato da uno della tua stirpe dalla vita breve?"
+
+### u032432
+"Da allora, Seberian von Valancius e la sua amata Laria Voigtvir sono i protagonisti di un'esposizione tutta loro. Più e più volte rivivono l'assedio senza speranza del loro mondo. Più e più volte scelgono percorsi, prendono decisioni e giungono al finale in modi nuovi e inattesi. Un finale già predeterminato. Una sconfitta in cui Seberian è inevitabilmente tradito dal suo prezioso trofeo, la Crimson Dance of Khaine, la spada stessa che mi rubò. La spada stessa che mi sono ripreso, lasciando Seberian intrappolato in un ciclo infinito armato solo di una copia in luce solida."
+
+### u032433
+"Una scelta di parole interessante: 'morte ai nemici dei von Valancius'. Dunque sei davvero della stirpe di Seberian. Non so se sia stato un ingenuo desiderio di salvarlo o una simile propensione all'avidità a spingerti a seguire le tracce del tuo antenato, ma sono certo che non avrai obiezioni se ti spiego come lui, e ora tu, siete finiti qui."
+
+### u032434
+"Ora..." {n}Trazyn alza la mano in un gesto appassionato e fa una pausa teatrale.{/n} "...fuori dal mio Museion."
+
+### u032435
+Ordina il ritorno del trofeo sulla nave
+
+### u032436
+Saccheggia l'esposizione
+
+### u032437
+Ogni singolo dettaglio di questa terrificante macchina è un affronto all'Omnissiah.
+
+### u032438
+La macchina demoniaca è immobile, circondata da eretici in adorazione. È silenziosa, ma trasuda odio.
+
+### u032439
+Non appena i tuoi occhi si posano su questa abominazione, dal profondo di essa giungono frenetici mormorii appena udibili.
+
+### u032440
+Questa immonda creazione irradia un calore palpabile. L'aria vicino alla bocca ghignante è rovente.
+
+### u032441
+Perfino gli sguardi di queste creature distorte dal warp sembrano trasudare pestilenza.
+
+### u032442
+Raccapriccianti impianti brillano freddi nel petto dell'Haemonculus.
+
+### u032443
+Riconosci la scheggia sul piedistallo: è il misterioso artefatto rubato da Trazyn l'Infinito dalle stanze del Rogue Trader.
+
+### u032444
+Un profondo struggimento e un odio incontrollabile sembrano emanare dalla misteriosa scheggia bianco latte.
+
+### u032445
+Questo poveretto non ha mai trovato la via d'uscita dal Museion. Gli scarabei lo hanno ricoperto, rivestendo le sue ossa spoglie di uno strano metallo liquido.
+
+### u032446
+Lo sguardo dell'Angelo dell'Imperatore è pieno di silenziosa condanna: ti giudica per non averlo salvato da una fine ignominiosa.
+
+### u032447
+Anche nelle sue condizioni attuali, la bestia sembra più una belva predatrice che un fedele destriero.
+
+### u032448
+Dei galloni sbiaditi sulla manica del suo soprabito identificano il soldato della Guardia come un membro del 138° Reggimento di Fanteria Meccanizzata dei Death Korps of Krieg.
+
+### u032449
+Questo è un automa della Legio Cybernetica oppure il sarcofago di un pilota. Eppure, hai la sensazione che ti stia osservando.
+
+### u032450
+Un solo pezzo esposto su un enorme palco. Sembra che questo spazio sia stato riservato a futuri trofei.
+
+### u032451
+Riconosci la tua nave ammiraglia, anche se alcuni componenti sono diversi.
+
+### u032452
+Gli stendardi delle tre grandi dinastie sembrano ostaggi, qui.
+
+### u032453
+Alcune pagine strappate dal diario sono coperte di righe frettolose in Basso Gotico.
+
+### u032454
+Una freccia grezza e la lettera C sono state incise nel metallo.
+
+### u032455
+Un'altra freccia incisa grossolanamente, fatta di pochi tratti ampi.
+
+### u032456
+Stavolta il simbolo inciso punta verso una piattaforma levitante congelata sopra la voragine della sala.
+
+### u032457
+Una freccia incisa nel pavimento punta verso i servitori dei Poteri Rovinosi.
+
+### u032458
+La freccia tracciata in fretta parla della premura di Seberian.
+
+### u032459
+Un altro dei segni di Seberian si interrompe alla piattaforma xenos fluttuante.
+
+### u032460
+Questo segno mostra che, secoli fa, Seberian è atterrato in un'altra parte della colossale sala.
+
+### u032461
+La cascata a più strati di nuclei di cogitatore rivela l'enorme potenza di questa augmentazione.
+
+### u032462
+Un'intelligenza predatoria lampeggia dietro gli occhi della creatura.
+
+### u032463
+Questo xenos sembra un vivente manufactorum chimico: fluidi viscosi pulsano sotto la sua spessa pelle.
+
+### u032464
+[Esamina l'Astartes traditore in armatura cremisi]
+
+### u032465
+[Osserva l'Astartes traditore in armatura nera]
+
+### u032466
+[Guarda l'Astartes traditore in armatura blu scuro]
+
+### u032467
+"...che hanno subito mutamenti imprevedibili sotto influssi empirici. Sono riuscito a trovare diversi esemplari mutati in questa regione, il che mi ha permesso di colmare numerose lacune e completare altre esposizioni in cui erano presenti simili creature."
+
+### u032468
+"C'è qualcosa di profondamente sconveniente nel sentire il desiderio interiore di concordare con un disgustoso xenos mentre getta fango sui servitori dell'Arcinemico." {n}Heinrix fa una smorfia, forse per la vista ripugnante degli Astartes eretici o per la propria reazione alle parole di Trazyn.{/n}
+
+### u032469
+"Patis Rube dei Word Bearers, capo di una banda da guerra giunta nella regione alla ricerca di uno dei frammenti dell'Alba Finale. Non lo possedette a lungo: l'estrazione avvenne poco dopo che lo ebbe ottenuto."
+
+### u032470
+"Skallarox il Distruttore, un membro dei Night Lords che terrorizzò i confini della regione durante un periodo di conquista di massa da parte della civiltà umana nota come Crociata Angevina. Un pezzo difettoso, che ha subito danni considerevoli per la resistenza all'estrazione, ma di troppo scarso valore per cercarne un sostituto."
+
+### u032471
+"Akriel Kalux e i suoi compagni, rappresentanti della Black Legion e partecipanti a un conflitto chiamato Guerra Gotica. Gli Astartes eretici posseduti sono già di per sé una rarità in questa regione, figurarsi quelli coinvolti in un conflitto storico tra civiltà primitive."
+
+### u032472
+[Osserva la Khymera]
+
+### u032473
+[Dai un'occhiata all'Arconte]
+
+### u032474
+[Passa in rassegna gli Aeldari armati]
+
+### u032475
+"...membri degradati di un'antica razza riuscita a sopravvivere ai suoi creatori. Ho raccolto per l'esposizione locale individui della singolare comunità drukhari che frequenta questa regione, il Nexus of Shadows, che è esso stesso un esempio storico di comunità sopravvissuta di questa razza oltre i confini di Commorragh."
+
+### u032476
+{n}Sentendo parlare del Nexus of Shadows, il labbro di Marazhai si arriccia per il disgusto, ma non si abbassa a commentare.{/n}
+
+### u032477
+"...l'Arconte dei Children of Thorns, uno dei principali Kabal del Nexus. Membro eminente della sua specie, la Madre delle Ombre fu la responsabile dell'annientamento totale di due dozzine di Kabal rivali."
+
+### u032478
+"...proprio mentre preparavo l'estrazione della Madre delle Ombre. Devo ammettere che mi ha divertito l'audacia delle semplici creature che hanno tentato di uccidere la mia futura esposizione nel pieno della sua acquisizione, e così ho ritenuto accettabile completare l'esposizione con questi Aeldari..."
+
+### u032479
+"...una Khymera con la coscienza impiantata dell'Arconte del Kabal dei Deathblades, che si fece dei nemici tra la casta degli Haemonculus. Nonostante le sue condizioni, la Void Fury ha conservato la sua mente contorta e vendicativa. L'esistenza di una simile creatura è di per sé degna della mia collezione, e ho speso grandi sforzi per cercare questo pezzo."
+
+### u032480
+{n}Yrliet e Marazhai osservano intensamente l'esposizione, poi si scambiano un'occhiata e qualche sommesso commento nella loro lingua, che il tuo Elucidator non riesce a tradurre in tempo. Pare che gli xenos, in una rara dimostrazione di unità, non vogliano renderti partecipe dei loro pensieri.{/n}
+
+### u032481
+[Osserva la misteriosa costruzione]
+
+### u032482
+[Ispeziona il piedistallo vuoto]
+
+### u032483
+[Guarda il guerriero Aeldari]
+
+### u032484
+"L'arma vivente di un antico nemico, perduta nell'atemporalità. Questa regione del vuoto attira di rado gli Aeldari, ed è per questo che l'esposizione è incompleta. Altre sezioni del Museion contengono esemplari più interessanti di questa civiltà, ma sono riuscito a trovare qualche pezzo interessante anche in questo luogo sperduto."
+
+### u032485
+{n}Cassia fissa il podio vuoto, sforzandosi di vedere ciò che la visione ha appena descritto.{/n} "Ma..." {n}si interrompe, cadendo in un silenzio confuso.{/n}
+
+### u032486
+"Pare che lo xenos non abbia controllato di persona la sua collezione da un pezzo..." {n}Abelard sogghigna nei baffi, visibilmente compiaciuto di aver colto in fallo il nemico dell'Umanità.{/n}
+
+### u032487
+"...Ho recuperato questa esposizione da una delle regioni più inaccessibili di questo settore. Solo un campo di stasi molecolare mi ha permesso di stabilizzare i resti dell'antico mondo astronave Lu'Nasad..."
+
+### u032488
+"...di una banda di Corsari Aeldari chiamata Crow Spirits. Insolitamente aggressivi per la loro specie. La mia teoria di lavoro è che l'appartenenza al mondo astronave Lu'Nasad, perito in questo settore del vuoto, abbia influenzato le loro strutture mentali dando origine a questo comportamento alterato."
+
+### u032489
+"Nocturne of Oblivion, un Solitario di un gruppo di Aeldari appartenenti alla sottospecie degli Arlecchini. I Solitari sono estremamente rari, ma sono riuscito a catturare questo esemplare dopo molteplici tentativi."
+
+### u032490
+"Nemmeno il grande signore Oghyr fu in grado di tenere l'Arebennian in schiavitù..." {n}Nella voce di Yrliet c'è ammirazione, e orrore.{/n}
+
+### u032491
+"Potresti aiutarmi a governare il protettorato. La tua esperienza è inestimabile."
+
+### u032492
+"Che cosa hai intenzione di fare, Seberian?"
+
+### u032493
+"Addii? Che cosa, hai intenzione di morire?"
+
+### u032494
+"Perché vai a cercare la lama da solo? La Distesa di Koronus ha bisogno di te!"
+
+### u032495
+"Ti sbagli! Immagina solo quello che potremmo ottenere insieme."
+
+### u032496
+"Vedo che hai già preso la tua decisione. Non cercherò di dissuaderti."
+
+### u032497
+"Ma se avremo successo, e dopo?"
+
+### u032498
+"Non condivido la tua visione fatalista, Seberian."
+
+### u032499
+"Dimmi il tuo piano."
+
+### u032500
+"Trazyn ha affermato che Laria è viva e nelle sue grinfie. Non vuoi trovarla?"
+
+### u032501
+"Il nostro è ben lontano da un rapporto familiare, ma staremo insieme in battaglia."
+
+### u032502
+"Dobbiamo sbrigarci. Il tempo è contro di noi."
+
+### u032503
+{n}Coperti di polvere e sangue, i soldati zarkoviani si affollano intorno a Seberian, parlando sottovoce tra loro. Seberian stesso non sembra messo molto meglio: alcune delle sue augmetiche sono danneggiate e il suo unguento sacro gocciola lentamente sul pavimento. Ti vede e fa cenno ai soldati di tacere.{/n} "{name}. Il mio tempo è giunto."
+
+### u032504
+"Qui devo congedarmi da te e dal tuo seguito. Ci incontreremo di nuovo, se così è destinato dalla volontà del Dio-Imperatore. E se non lo è," {n}Seberian china il capo.{/n} "allora è meglio dirci addio adesso."
+
+### u032505
+"Non hai bisogno di istruzioni da parte mia, {name}. Ti ho osservato e devo ammettere che non ho nulla da insegnarti. Hai commesso errori, ma anch'io. Ciò che conta di più è che affronti le sfide dei tuoi nemici e che sei {mf|saldo|salda} nelle tue decisioni. La mia presenza al tuo fianco non farebbe che stuzzicare chi ti vuole male, indebolendo così la dinastia, e non è ciò che voglio per il protettorato."
+
+### u032506
+"Non condivido le tue opinioni sul governo del protettorato, ma la storia sistemerà ogni cosa."
+
+### u032507
+"Molti anni fa, quando portai la Crimson Dance of Khaine fuori da quella cripta, attirai l'attenzione di un abominevole xenos. Secoli dopo, la dinastia sta ancora pagando il prezzo dell'errore che commisi. Perciò andrò a cercare la Crimson Dance of Khaine, {name}. È solo giusto che la spada che ha dato inizio a questo conflitto vi ponga fine, con grande ritardo. C'è uno schema in tutto questo, non credi? Come se fosse destinato ad accadere."
+
+### u032508
+"Guardiamo in faccia la verità, {name}." {n}Seberian tende una mano e stringe e poi allenta il pugno di metallo.{/n} "Non sono più agile come ai tempi della mia giovinezza, anche se nemmeno allora evitavo le ferite gravi. Guardati intorno: siamo in territorio nemico, e il nemico trama contro di noi perfidi piani. Credersi invulnerabili alla loro astuzia sarebbe ammettere la nostra stessa stoltezza. Ma io non sono uno sciocco, {name}. E non credo che lo sia nemmeno tu."
+
+### u032509
+"No, non lo è." {n}Seberian scuote la testa con tristezza, eppure leggi nei suoi occhi qualcosa che somiglia a calore.{/n} "Ma ti sono grato per le tue parole. Non pensare che mi sia sfuggito come la Distesa di Koronus sia cambiata. Tutto ciò che conoscevo e apprezzavo è andato perduto."
+
+### u032510
+"Non appartengo a questo tempo. Sono una reliquia ormai, un vestigio del passato che uno strano corso di eventi ha gettato nel presente." {n}Una profonda risonanza addolorata riempie la voce meccanica del tuo antenato.{/n} "Non sono né sciocco né pazzo, perciò accetto la mia sorte. Voglio solo un'ultima cosa, ed è porre fine a questo ciclo maledetto. È il mio dono al protettorato, {name}. L'unico che questo mio corpo decrepito possa fare."
+
+### u032511
+{n}Il sintetizzatore vox emette un trillo di scherno.{/n} "Sei {mf|un sognatore|una sognatrice}, {name}, ed è ciò che mi piace di te. Le tue aspirazioni non conoscono limiti. Ma per quanto mi piacerebbe condividere questo slancio con te, le tue parole oggi non spezzeranno la mia determinazione. In cambio, ti affido il mio sogno di stelle lontane. Portalo con orgoglio, perché sei {mf|un degno erede|una degna erede} della Casata von Valancius. Porta grandezza al nostro protettorato, per entrambi."
+
+### u032512
+"Da molto tempo, {mf|mio erede|mia erede}, il mondo appartiene a coloro per i quali non nutro altro che disprezzo: malversatori, scribacchini, ampollosi parolai." {n}Seberian guarda oltre te con occhi stanchi. Le rughe attraversano il lembo di pelle teso sul suo impianto cranico.{/n} "Sembri perfettamente a tuo agio tra quella gente. Sei dove devi stare. Io no. Non potrò mai essere come te e accettare di essere governato dai burocrati."
+
+### u032513
+"In un certo senso, le mie decisioni sono già storia. Tutto ciò per cui mi sono battuto è stato portato via dai venti del tempo. Solo un unico errore sta tra me e l'oblio, e una volta corretto, potrò riposare. Forse il Dio-Imperatore mi accoglierà dopo la morte, e compirò imprese più gloriose al Suo fianco, combattendo i Suoi nemici."
+
+### u032514
+"Perciò troverò la Crimson Dance of Khaine, e insieme sconfiggeremo lo xenos." {n}Seberian alza una mano e stringe il pugno, come se la detestata lama fosse già nella sua presa.{/n}
+
+### u032515
+"Il mio sogno era raggiungere regioni del vuoto ancora inesplorate dall'umanità, conoscerne il terrore e la grandezza." {n}Si ferma un istante, affascinato dall'immagine nella sua mente.{/n} "Ma è solo un sogno, che forse non si realizzerà mai."
+
+### u032516
+"Capirai un giorno, {mf|mio erede|mia erede}. Quando saranno trascorsi secoli della tua vita, e ogni decisione che hai mai preso sarà un fardello pesante sulle tue spalle. Quando comincerai a sentirti una reliquia del passato, ricorda le mie parole: a volte un vecchio ramo appassito va potato per mantenere sano l'albero. La dinastia prima di tutto, {name}."
+
+### u032517
+"Mi metterò alla ricerca della spada. Nel frattempo, tu devi trovare un modo per raggiungere Trazyn. Una volta che avrò la lama, daremo battaglia allo xenos e scateneremo la potenza della Crimson Dance of Khaine sul suo capo empio! Gli augur hanno già scandagliato le camere e ti daranno le coordinate dove ci ricongiungeremo. Se non sarò tornato all'ora stabilita, procedi senza di me."
+
+### u032518
+"Ma, se mia figlia è viva, in qualunque stato la prigionia dell'abominevole xenos possa averla ridotta, la porterò con me tra le fredde stelle." {n}Seberian si interrompe.{/n} "Ma la speranza è un sentimento folle, {name}."
+
+### u032519
+{n}L'espressione di Seberian si rabbuia alle tue parole.{/n} "Non bisogna credere a una sola parola di Trazyn. Ma se tiene Laria... ho visto che cosa fa lo xenos ai suoi prigionieri. Laria è perduta per la dinastia, e per me. Ho seppellito e pianto mia figlia nel momento in cui il portale si è chiuso con un tonfo alle mie spalle, e tutto ciò che posso fare ora è vendicarla."
+
+### u032520
+"Giusta osservazione." {n}Seberian si volta verso i soldati.{/n} "Soldati di Zarkov! Io, Seberian von Valancius, vi chiamo a seguirmi! Fate il vostro dovere e annientate ogni nemico sul vostro cammino! Per la Casata von Valancius!"
+
+### u032521
+{n}Gli ispirati zarkoviani rispondono all'unisono con un saluto militare. Seberian ti rivolge un ultimo cenno e si dirige a grandi passi verso una delle gallerie laterali.{/n}
+
+### u032522
+...diretti verso un pozzo senza fondo che si apriva ai piedi del menhir più vicino.
+
+### u032523
+...giunsero a un varco dove i portali danneggiati dalle esplosioni bloccavano l'ingresso di una delle piramidi.
+
+### u032524
+[Ordina la ritirata] "Tutti, ritirata!"
+
+### u032525
+...l'appello {mf|del mio erede|della mia erede}. "Fedeli servitori della dinastia! Non temete il male e seguitemi!"
+
+### u032526
+...l'ordine dell'Arch-Militant. "Figli di Zarkov! In piedi e fate il vostro dovere!"
+
+### u032527
+...l'Arch-Militant e i suoi fedeli combattenti di Zarkov si sono sacrificati per darci tempo.
+
+### u032528
+...{mf|il mio erede|la mia erede} diede l'ordine di avanzare intorno alla piramide e di aprirsi la strada fino alle piattaforme.
+
+### u032529
+...i Tecnopreti sopravvissuti sovraccaricarono i loro generatori, creando una barriera di Forza Motrice.
+
+### u032530
+...ordinai ai miei soldati di trattenere a ogni costo l'assalto nemico.
+
+### u032531
+"Se torniamo indietro ora, ci travolgeranno durante la ritirata. Resisteremo e combatteremo qui."
+
+### u032532
+...la mia stessa voce. "La paura non è che un fantasma generato dal nemico! Non lasciate che vi schiacci!"
+
+### u032533
+"Non possiamo sprecare tempo a combattere. Prendiamo il corridoio a destra."
+
+### u032534
+"Pasqal, attivate i protocolli di difesa. Dobbiamo trattenerli, a ogni costo."
+
+### u032535
+[Chiama i soldati alle armi] "Soldati di Zarkov, è giunto il momento di servire la dinastia!"
+
+### u032536
+Settore: {g|Encyclopedia:KoronusExpanseGlossary}Distesa di Koronus{/g}
+Regione: [dati censurati]
+Luogo: [dati censurati]
+Materiale: Diario personale
+Registrato da: Seberian von Valancius
+
+### u032537
+Ho visto la mia buona dose di battaglie, ma mai prima d'ora avevo assistito a qualcosa di simile a ciò che è esploso nell'orbita di quel maledetto mondo morto. La manciata di caccia a protezione dell'ammiraglia combatté una battaglia impari contro le orde sempre più numerose del nemico empio. Eppure, sacrificandosi, i servitori della Casata von Valancius spianarono la strada al loro padrone, proprio come facevano un tempo.
+
+### u032538
+Non si sapeva che cosa ci attendesse. I {g|Encyclopedia:Lumen}lumen{/g} offrivano giusto la luce sufficiente a rivelare pareti lisce che si stendevano nell'oscurità e innumerevoli piattaforme sospese sul vuoto. Mi rifiutai di rischiare l'incolumità della mia persona per la ricognizione, e così {mf|il mio rampollo|la mia rampolla} dovette dare l'ordine ai popolani. Senza benedette augmetiche su cui contare, i servitori persero l'equilibrio e scivolarono nel baratro. Ciononostante, quelli che sopravvissero riuscirono a scoprire passaggi nascosti nelle pareti.
+
+### u032539
+I Tecnopreti reagirono con la stessa coesione. Come ingranaggi di un'unica macchina, serrarono i ranghi, formando una barriera impenetrabile con i propri corpi potenziati. Le armi al plasma pesanti furono sollevate e una salva colpì i Necron, incenerendoli e scagliandoli indietro.
+
+### u032540
+Tutti si guardavano intorno, preparandosi a un nuovo attacco, quando le pareti intorno a loro scintillarono. I loro contorni fluirono e si spostarono, formando curve luminose intorno a noi. Molti della squadra recitarono preghiere, sperando di scacciare il terrore viscerale che attanagliava le loro menti alla vista di questa strana fantasmagoria di luce senza vita.
+
+### u032541
+Non so dire quanto sia durata la nostra discesa. Infine raggiungemmo la meta: uno dei molti passaggi che costellavano le viscere del pianeta. Il corridoio, rivestito di metallo nero, era silenzioso e completamente vuoto.
+
+### u032542
+Impregnato dell'empia tecnologia xenos, lo stesso metallo dei portali triangolari sembrava opporsi alla nostra intrusione. Ogni tentativo di aprirsi un varco si rivelò vano, così i {g|Encyclopedia:TechPriest}Tecnopreti{/g} ricorsero a misure disperate. Sacrificando la loro scorta di cariche melta, i servitori dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g} riuscirono a fondere un'apertura abbastanza grande da permettere alla squadra di entrare.
+
+### u032543
+Tutti i tentativi di aprire il portale furono vani. Quando i servitori dell'Omnissiah sovraccaricarono la batteria del tagliatore al plasma, sperando di aprirsi un varco bruciando, i loro calcoli si rivelarono fatalmente inesatti. Quando il lampo accecante svanì, i sopravvissuti videro i corpi carbonizzati di coloro che non avevano fatto in tempo a mettersi al riparo. La via era libera, ma a caro prezzo.
+
+### u032544
+Non si sapeva che cosa ci attendesse. I {g|Encyclopedia:Lumen}lumen{/g} offrivano giusto la luce sufficiente a rivelare pareti lisce che si stendevano nell'oscurità e innumerevoli piattaforme sospese sul vuoto. Era come se la maledetta struttura ci stesse schernendo, e io accettai la sua sfida, come si addice a un Rogue Trader. La discesa divenne una serie di salti vertiginosi tra le piattaforme, e fu solo il Ferrum Sanctum di cui era benedetto il mio corpo a salvarmi dalla caduta e a farmi riuscire, poiché potei scoprire diversi corridoi laterali nelle pareti.
+
+### u032545
+Innumerevoli svolte, attraversamenti, salite e discese più tardi, la squadra raggiunse finalmente la meta. Le pareti, che prima si stringevano implacabili intorno a noi, si aprirono all'improvviso in un ampio corridoio dal soffitto basso che si perdeva nell'oscurità.
+
+### u032546
+Avevamo fatto notevoli progressi quando un suono stridulo e aspro echeggiò nell'aria viziata. I vox-trasmettitori esplosero in uno stridore cacofonico prima di tacere per sempre. L'ultimo filo che ci legava alla nostra ammiraglia era stato reciso.
+
+### u032547
+Nell'istante in cui la squadra raggiunse la biforcazione più vicina del passaggio, il silenzio sepolcrale fu rotto dai segnali di allarme degli auspex. Le valutazioni dei dispositivi erano tanto precise quanto spietate: il ramo di destra celava ignote anomalie gravitazionali che potevano uccidere la squadra, mentre da quello di sinistra forze nemiche si avvicinavano inesorabilmente.
+
+### u032548
+Nell'inquietante silenzio, la voce del Rogue Trader risuonò con sorprendente chiarezza:
+
+### u032549
+Non appena la squadra mise piede nel passaggio, una parete scese con un sibilo alle nostre spalle, tagliandoci la via del ritorno. Prismi dal sinistro bagliore verde erano posti sul pavimento e sulle pareti dello stretto corridoio, troppo grandi e vistosi per essere semplici decorazioni. Un esploratore che faceva strada commise l'errore di avvicinarsi troppo all'artefatto luminoso: si udì un nauseante schiocco mentre l'uomo veniva schiacciato in una massa informe di carne e ossa.
+
+### u032550
+Le scariche di plasma vaporizzarono sangue e metallo con un sibilo. Un prisma dopo l'altro crollò, finché non rimasero che pozze di metallo fuso di quelle creazioni di perverso genio xenos.
+
+### u032551
+Fu uno spettacolo raggelante. I guerrieri Necron emersero dal buio, muovendosi in una formazione geometricamente perfetta e impeccabilmente sincronizzata. I loro volti di metallo erano inespressivi; solo le fessure degli occhi ardevano di una malizia che prometteva la morte a ogni essere vivente sul loro cammino. Gli xenos nelle prime file alzarono le armi, preparandosi ad attaccare.
+
+### u032552
+La via sembrava libera e priva di pericoli. La squadra avanzò a passo svelto, addentrandosi sempre più nell'intricata rete di passaggi.
+
+### u032553
+Si scoprì che il senso di sicurezza era un'illusione. I padroni del Museion continuavano a sorvegliare attentamente ogni nostro passo, e colpirono nel preciso istante in cui abbassammo la guardia e ci concedemmo un breve respiro.
+
+### u032554
+Gli incubi che ci tesero l'imboscata erano un oltraggio alla natura stessa della realtà. Giganteschi corpi segmentati si contorcevano silenziosi nell'aria, svanendo e riapparendo mentre i colpi dei fucili laser li attraversavano. Il loro aspetto incorporeo era ingannevole; i lunghi artigli che trafiggevano un uomo dopo l'altro non lasciavano dubbi sulla loro natura più che reale. Niente di ciò che avevamo poteva competere con quelle mostruosità tecnologiche. L'unica opzione rimasta era...
+
+### u032555
+Al costo di molte vite, le difese dello {g|Encyclopedia:XenosGlossary}xenos{/g} furono violate. Quando l'artiglieria ebbe finito, diverse navette si staccarono dall'ammiraglia e si diressero verso la superficie del pianeta, crivellata di crateri. I piccoli velivoli manovrabili erano perfetti per il piano {mf|del mio erede|della mia erede} di penetrare furtivamente nel cuore dell'antica tomba e prendere ciò che era suo diritto di nascita.
+
+### u032556
+La ritirata si trasformò all'istante in una fuga in preda al panico. Nemmeno il seguito del Rogue Trader, temprato da centinaia di battaglie, ne uscì indenne: sentii il gemito dei servomotori mentre le creature strappavano il mecadendrite di un Magos, e vidi altre creature fare a pezzi i ritardatari. Mentre fuggivamo, lasciandoci dietro una scia di sangue, spronati da una flebile speranza di salvezza... non ci accorgemmo nemmeno che i nostri inseguitori si erano ritirati. {mf|Il mio rampollo|La mia rampolla} e io fummo lasciati tra i nostri compagni feriti e una manciata di umani completamente esausti.
+
+### u032557
+I soldati di Zarkov non erano soliti vacillare di fronte ai mostri.
+Un sergente si lanciò in avanti. Non conoscevo il suo nome, ma ricorderò sempre il suo volto: stanco eppure perfettamente calmo. Gli artigli delle creature lo trafissero... ma il soldato morente riuscì ad attivare una carica melta che incenerì lui stesso e una delle abominazioni. Diversi altri zarkoviani seguirono il suo esempio, e i compagni sopravvissuti finirono i mostri danneggiati.
+
+### u032558
+I soldati di Zarkov avevano intenzione di contrattaccare le innumerevoli abominazioni, ma l'orda Necron se n'era portati via troppi. Quando infine il flusso apparentemente infinito si esaurì, il terreno era disseminato di corpi: figli e figlie di Zarkov che avevano compiuto il sacrificio supremo per la Casata von Valancius.
+
+### u032559
+Un basso rombo giunse da qualche punto sottostante. Monotono e sempre più forte, sembrava il funzionamento di una mostruosa macchina risvegliata da secoli di sonno. Il suono si intensificò, permeando ogni cosa, risuonando dolorosamente nelle nostre ossa.
+
+### u032560
+I membri della squadra caddero in ginocchio, incapaci di resistere alla potenza scatenata contro di loro. Il rombo divenne un ronzio, un rumore che sembrava penetrare nei recessi più profondi della mente, riducendo chiunque lo udisse a un animale in preda al panico. Un'ondata di terrore di fronte a una morte certa e orribile travolse ognuno di noi. Parve trascorrere un'eternità prima che io udissi...
+
+### u032561
+Attraverso una foschia verde incandescente, vidi {name} rimettersi faticosamente in piedi, costringendosi a resistere alla pressione del suono mostruoso con uno sforzo sovrumano della volontà. Il suo esempio scosse il cuore dei suoi sudditi e risollevò il loro spirito. Uno dopo l'altro, si alzarono e seguirono il loro {mf|padrone|padrona}, mossi da quel più sublime dei sentimenti umani, la lealtà.
+
+### u032562
+Le navette atterrarono su un minuscolo lembo di terreno libero scampato miracolosamente al bombardamento. Intorno a loro si ergevano le colossali rovine di strutture xenos polverizzate dagli implacabili cannoni orbitali dell'ammiraglia. Nascosta da qualche parte sotto un denso strato di metallo fuso c'era l'unica dimora di Trazyn nella Distesa di Koronus: il suo Museion.
+
+### u032563
+Il resto del viaggio è stato cancellato dalla mia memoria, e probabilmente da quella di tutti coloro che compirono quell'odissea da incubo nel cuore del mondo Necron. Quando la squadra raggiunse infine l'anticamera del Museion, la vista mi scioccò più di quasi tutto ciò che avessi mai vissuto prima.
+Una gigantesca struttura torreggiava al centro di una vasta sala.
+
+### u032564
+La piramide di pietra nera, perfettamente liscia e dai bordi lucenti e taglienti come rasoi, sembrava consumare la luce intorno a sé. Al centro di ciascuna faccia della piramide, una piattaforma circolare fluttuava in perfetta simmetria con le altre. Ogni piattaforma portava un Necron, con l'involucro dipinto di blu e oro. Non c'erano dubbi: stavamo vedendo i veri guardiani del tesoro di Trazyn. Centinaia di piattaforme più piccole si alzavano e si abbassavano alternativamente mentre orbitavano intorno alla piramide centrale e scivolavano verso il soffitto, sotto il quale si intravedevano i contorni dei primi livelli delle gallerie del Museion.
+
+### u032565
+Non c'era tempo da perdere. Non appena i guardiani ci videro, le facce della piramide si illuminarono di innumerevoli catene di glifi e increspature corsero lungo le pareti della sala mentre si preparavano a liberare orde di mostruosità metalliche.
+Fu allora che...
+
+### u032566
+Con preghiere urlate, gli zarkoviani si lanciarono in battaglia. Trattennero le macchine empie, combattendo finché le ultime gocce di sangue non lasciarono le loro vene. {mf|Il mio rampollo|La mia rampolla}, il suo seguito e io riuscimmo a salire su una piattaforma che ci portò al Museion, ma tutti i coraggiosi soldati che non avevano esitato a seguire il loro comandante erano caduti nell'impari combattimento.
+
+### u032567
+Fummo più veloci della morte stessa mentre respingevamo le creazioni aliene cercando di restare in cima alle piattaforme che si innalzavano verso il Museion. I colpi di plasma bruciavano buchi dai bordi irregolari nei corpi metallici dei nostri nemici, ma eravamo irrimediabilmente in inferiorità numerica. Una morte eroica sotto l'assalto dei Necron fu un destino che pochi evitarono.
+
+### u032568
+Se i servitori della dinastia non avessero formato uno scudo impenetrabile tra noi e i Necron, dubito che qualcuno di noi sarebbe rimasto vivo. Solo una manciata sopravvisse, eppure, sfidando il destino e ostacolando il nostro mostruosamente potente nemico, {mf|il mio rampollo|la mia rampolla} e io rimanemmo illesi.
+
+### u032569
+Quando la vista mi tornò, trovai il luogo completamente trasformato. Non c'erano dubbi che fossimo nel Museion, e la vista delle sue solenni sale distrutte dal bombardamento orbitale mi riempì il cuore di gioia vendicativa. Eravamo a un solo passo dal vendicarci del ladro che aveva osato rubare il {g|Encyclopedia:WarrantGlossary}Sacro Mandato{/g}. L'erede della Casata von Valancius aveva fatto l'impossibile, entrando nella tana di questo nemico pericolosissimo senza alcun danno per {mf|sé stesso|sé stessa}.
+
+### u032570
+Con un fragore e un ruggito, il mondo tornò al suo posto. Non c'erano dubbi che fossimo nel Museion, e la vista delle sue solenni sale distrutte dal bombardamento orbitale mi riempì il cuore di gioia vendicativa. Quella gioia, si scoprì, era alquanto prematura.
+Non appena ci muovemmo dai nostri posti, sinistri glifi cominciarono a brillare lungo l'intero perimetro della sala. Lo xenos aveva evidentemente fatto preparativi accurati per questo incontro.
+
+### u032571
+Eravamo sfiniti e feriti ma non spezzati, nemmeno dall'incontro con gli orrori senza volto delle catacombe. Restavamo determinati a vendicarci di Trazyn per ogni oltraggio perpetrato contro la Casata von Valancius.
+
+### u032572
+I soldati zarkoviani affrontarono il nemico con cupa e stoica determinazione, senza che un muscolo si contraesse sui loro volti. Una raffica di colpi si abbatté sullo sciame xenos in avanzata, ma la potenza di fuoco della squadra non bastava. Non trovando alcuna resistenza degna di questo nome, i Necron si lanciarono in silenzio in avanti, eliminando i difensori con spietata efficienza.
+
+### u032573
+Le piattaforme che ci portavano verso l'alto si erano già affiancate ai portali che conducevano alle gallerie dei piani inferiori del Museion quando un colpo terribile scosse la cripta fin dalle fondamenta. Un altro attacco di artiglieria dell'ammiraglia aveva colpito la superficie del pianeta non lontano da noi, e la maledetta piramide si rivelò insufficientemente robusta per resistervi. L'ultima cosa che vidi furono crepe che correvano lungo la sua superficie, riempiendosi di un velenoso bagliore verde. Poi una luce insopportabilmente brillante inondò ogni cosa, e rimasi temporaneamente accecato.
+
+### u032574
+Il ruggito gutturale di Izdrig, pieno di furia e disprezzo per il nemico, tuonò come una granata krak che esplode. Udirlo scosse all'istante gli zarkoviani dal loro stordimento. Uno dopo l'altro, i soldati balzarono in piedi, serrando i denti e asciugandosi il sangue che colava dalle orecchie. Raccolsero e portarono con sé quelli che non potevano più camminare. Lo stoicismo di generazioni sopravvissute per secoli nelle terre desolate di un mondo di frontiera aveva infuso in loro una resistenza incrollabile alla paura.
+
+### u032575
+Il Mandato era lì, da qualche parte più avanti, insieme a colui che aveva avuto l'audacia di rubarlo. E noi, i Rogue Trader della Casata von Valancius, eravamo pronti a tutto pur di riprenderci ciò che ci era stato concesso dal Dio-Imperatore in persona.
+
+### u032576
+Al comando del {g|Encyclopedia:RogueTraderGlossary}Rogue Trader{/g}, i servitori dell'{g|Encyclopedia:AdeptusMechanicusGlossary}Adeptus Mechanicus{/g} che accompagnavano la squadra liberarono nell'aria uno sciame di servoteschi. Guidati da inni binarici, i loro {g|Encyclopedia:Auspex}auspex{/g} individuarono infallibilmente i punti d'ingresso utilizzabili.
+
+### u032577
+{mf|Il mio erede|La mia erede} diede l'ordine appena in tempo, e tutti si immobilizzarono in perfetta obbedienza alla sua volontà. Rapidi segnali in {g|Encyclopedia:LinguaTechnis}Lingua-Technis{/g} risuonarono mentre i Tecnopreti della retroguardia avanzavano lentamente, alzando i fucili al plasma.
+
+### u032578
+La morte dell'esploratore fu solo la prima di molte, poiché i soldati che lo seguivano non si ritirarono in tempo. Il loro sangue tinse di un rosso ruggine la pietra nera sotto i nostri piedi. Solo una salva dei fucili al plasma dei Tecnopreti dell'ammiraglia, che marciavano nelle retrovie, fece immobilizzare tutti sul posto.
+
+### u032579
+La battaglia fu lunga. Gli umani combatterono fino all'ultimo, benché sfiniti dall'incredibile potenza del nemico. Al prezzo delle loro vite, i soldati ebbero ragione dell'avanguardia, ma innumerevoli altri xenos stavano emergendo dai corridoi. {mf|Il mio erede|La mia erede} ordinò la ritirata, e i genieri fecero crollare il passaggio alle nostre spalle con cariche melta per trattenere il nemico e guadagnarci tempo.
+
+### u032580
+Attraverso una foschia verde incandescente, vidi {name} rimettersi faticosamente in piedi, costringendosi a resistere alla pressione del suono mostruoso con uno sforzo sovrumano della volontà. Ahimè, solo pochi trovarono la forza di {mf|seguirlo|seguirla}, mentre gli altri restavano paralizzati dal terrore che aveva prosciugato le loro ultime energie.
+
+### u032581
+Nonostante la sua formidabile potenza, l'arma del nemico non riuscì a spezzare la mente di un vero Rogue Trader. Ogni passo mi costava uno sforzo enorme, eppure continuai a camminare.
+
+### u032582
+Per un istante, la pura disperazione nella voce sonora di Vedka sovrastò perfino il letale lamento della cripta. Udirla scosse all'istante gli zarkoviani dal loro stordimento. Uno dopo l'altro, i soldati balzarono in piedi, serrando i denti e asciugandosi il sangue che colava dalle orecchie. Raccolsero e portarono con sé quelli che non potevano più camminare. Lo stoicismo di generazioni sopravvissute per secoli nelle terre desolate di un mondo di frontiera aveva infuso in loro una resistenza incrollabile alla paura.
+
+### u032583
+Precipitammo verso il basso in una caduta infinita che lacerava l'anima. Chiusi gli occhi, incapace di sopportare il terrore, e la coscienza mi abbandonò.
+
+### u032584
+Ripetei quelle parole più e più volte, finché non mi fu chiaro con orribile lucidità che l'aria maledetta del Museion impediva agli umani di sentire una sola parola, poiché ne prosciugava la volontà di vivere. La carne viva non era all'altezza dell'antico terrore generato dalle impazzite creature di metallo morte.
+
+### u032585
+Senza esitare, {name}...
+
+### u032586
+Eppure la saggezza del Dio-Imperatore era ancora con me. Il vox-augment che aveva sostituito la mia gola amplificò la mia voce di cento volte, permettendole di sovrastare il lamento della cripta. {mf|Il mio erede|La mia erede} fu il primo a sentire il mio richiamo, e trovò la forza di rispondervi. Gli altri seguirono, ispirati dal suo esempio.
+
+### u032587
+Eppure la saggezza del Dio-Imperatore era ancora con me. Il vox-augment che aveva sostituito la mia gola amplificò la mia voce di cento volte, permettendole di sovrastare il lamento della cripta, ma non bastò. Ahimè, solo pochi trovarono la forza di riscuotersi, mentre gli altri restavano paralizzati dal terrore che aveva prosciugato le loro ultime energie e spento ogni speranza di salvezza.
+

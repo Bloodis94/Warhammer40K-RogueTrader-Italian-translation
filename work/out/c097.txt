@@ -1,0 +1,1264 @@
+### u035782
+Liturgy of Death
+
+### u035783
+Lethargy
+
+### u035784
+Questa creatura salta il suo prossimo turno. Se subisce danni e perde ferite non temporanee, questo effetto viene rimosso.
+
+### u035785
+L'Imperatore Imperituro infligge danni mentali a tutti i nemici nell'area e rimuove tutti i loro accumuli di {g|f:437c7a78578c4bbeab1e85ea4a76df7d}bloodblessed{/g} e {g|f:4fe436747a7849759de6b83cdc774b7e}bloodstained{/g}. I bersagli devono superare una prova di resistenza di Willpower con una penalità di −20 o subire ulteriori danni mentali e l'effetto {g|Encyclopedia:FatiguedEffect}affaticato{/g}, {g|Encyclopedia:DisturbedEffect}turbato{/g} o {g|Encyclopedia:PerplexedEffect}confuso{/g} per 3 round. L'effetto viene scelto a caso.
+<i>Nota</i>: se il bersaglio principale occupa una sola casella, non è colpito da questa abilità.
+<b>Speciale</b>: l'Imperatore Imperituro infligge a ogni bersaglio +1 accumulo di {g|f:26bad8fff4f24e6b8558340eb509c6cf}fading soul{/g} per ogni accumulo di {g|f:437c7a78578c4bbeab1e85ea4a76df7d}bloodblessed{/g} o {g|f:4fe436747a7849759de6b83cdc774b7e}bloodstained{/g} rimosso da quel bersaglio.
+
+### u035786
+Visions of Death
+
+### u035787
+L'Imperatore Imperituro usa l'abilità {g|f:f86ec5197f324351a2f62468a05a5a4b}Colossal Cleave{/g} o {g|f:c449c4181a484879913d0c31c8618ed8}Death Whispered Your Name{/g}, prendendo di mira il nemico più vicino. Se ci sono più bersagli possibili, tra questi sceglie quello con la percentuale di ferite più bassa. Se ancora ci sono più bersagli possibili, ne viene scelto uno a caso tra loro.
+
+### u035788
+Death, Agony
+
+### u035789
+Death, Ashes
+
+### u035790
+L'Imperatore Imperituro usa l'abilità {g|f:fa98d892a6404f91af19e542d1b2fbb3}Searing Pyres{/g} o {g|f:7ecf42ea9ffb4231bb797f166b2694e5}Flames of Unlife{/g} contro il nemico che gli ha inflitto la maggior quantità di danni.
+
+### u035791
+L'Imperatore Imperituro usa l'abilità {g|f:08b50f3e19c240759b8f7bc57ca1758c}Visions of Death{/g} o {g|f:fdb7ad9f95224672af0853c2fe3a48de}Liturgy of Death{/g}, prendendo di mira il nemico più lontano. Se ci sono più bersagli possibili, tra questi sceglie quello con la percentuale di ferite più alta. Se ancora ci sono più bersagli possibili, ne viene scelto uno a caso tra loro.
+
+### u035792
+Death, Oblivion
+
+### u035793
+L'Imperatore Imperituro teletrasporta il bersaglio in una casella adiacente a sé. Dopodiché infligge danni da fuoco e laceranti a tutti i nemici entro un piccolo raggio intorno a quel bersaglio e rimuove da essi tutti gli accumuli di {g|f:437c7a78578c4bbeab1e85ea4a76df7d}bloodblessed{/g} e {g|f:4fe436747a7849759de6b83cdc774b7e}bloodstained{/g}. Questi bersagli devono superare una prova di resistenza di Agility con una penalità di −40 o subire ulteriori danni ed essere gettati {g|Encyclopedia:ProneEffect}a terra{/g} per 1 round. Inoltre, devono superare una prova di resistenza di Toughness con una penalità di −40 o subire {g|Encyclopedia:BurningEffect}in fiamme{/g} (15) fino alla fine del combattimento.
+<b>Speciale</b>: se il bersaglio ha più del 90% di ferite, subisce +2 accumuli di {g|f:26bad8fff4f24e6b8558340eb509c6cf}fading soul{/g} e rimane {g|Encyclopedia:BlindedEffect}accecato{/g} per 1 round.
+
+### u035794
+Flames of Unlife
+
+### u035795
+L'Imperatore Imperituro riduce di −100% i danni del prossimo attacco andato a segno contro di lui, infliggendo inoltre una piccola quantità di danni mentali all'attaccante.
+
+### u035796
+Soul Depulsion
+
+### u035797
+All'inizio del suo turno, l'Imperatore Imperituro ottiene l'effetto {g|f:ac6c6f5240d141bf82db7f5ca7deb390}soul depulsion{/g}.
+
+### u035798
+L'Imperatore Imperituro può muoversi attraverso i nemici.
+
+### u035799
+The Unstoppable One
+
+### u035800
+All'inizio di ogni {g|Encyclopedia:Round}round{/g}, il numero di accumuli di questo effetto sul blocco di ghiaccio si riduce di −1. Quando viene rimosso l'ultimo accumulo, il blocco si scioglie e al suo posto compaiono dei Necron con il 90% delle loro {g|Encyclopedia:MaxWounds}ferite massime{/g}.
+<i>Circuito connesso</i>: se un circuito elettrico raggiunge questo blocco di ghiaccio, tutti gli accumuli tranne uno vengono rimossi immediatamente. I Necron compaiono all'inizio del round successivo. Hanno il 70% delle loro ferite massime.
+<i>Sovraccarico del generatore</i>: se un sovraccarico del generatore colpisce questo blocco, tutti gli accumuli vengono rimossi e i Necron compaiono subito. Hanno il 50% delle loro ferite massime e rimangono {g|Encyclopedia:Stun}storditi{/g} per 1 round.
+
+### u035801
+"Il mio controllo sulla Forza Motrice non conosce limiti! Posso far sovraccaricare i circuiti dei generatori senza nemmeno toccarli e scatenare l'ira dell'Omnissiah sugli xenos!"
+
+### u035802
+Concede ai Wych {g|f:e4bb425e00364886b1e489c26c743ed5}Quick Attacks{/g} per 3 {g|Encyclopedia:Round}round{/g}.
+
+### u035803
+Dark Prowess
+
+### u035804
+Dark Prowess: Double Tap
+
+### u035805
+Concede +<u>(da 2 a 4)</u> di {g|Encyclopedia:DamageGlossary}danni{/g} e +2% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} per accumulo. Cumulabile fino a 3 volte.
+
+### u035806
+Gift of Pain
+
+### u035807
+Concede al Wych +<u>(da 3 a 8)</u> di {g|Encyclopedia:DamageGlossary}danni{/g} e +3% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} per 3 {g|Encyclopedia:Turn}turni{/g}.
+
+### u035808
+Combat Stimm: Grave Lotus
+
+### u035809
+Riduce di −10 i {g|Encyclopedia:MovementPoints}PM{/g} del bersaglio se fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g}.
+
+### u035810
+Caught You!
+
+### u035811
+Pirouette
+
+### u035812
+Xenomercenary Darkglider
+
+### u035813
+Glimpse of Abyss
+
+### u035814
+Trasforma un cultista in una progenie del Caos una volta per {g|Encyclopedia:Round}round{/g}.
+
+### u035815
+Unleashing the Chaos
+
+### u035816
+La creatura colpita da questa {g|Encyclopedia:Ability}abilità{/g} diventa una progenie del Caos.
+
+### u035817
+Chaotic Call
+
+### u035818
+Auto-Aggression
+
+### u035819
+Mad Slash
+
+### u035820
+Gli alleati di Nemesite ottengono un {g|Encyclopedia:Bonus}bonus{/g} di +5 a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del combattimento. Cumulabile.
+
+### u035821
+Call of Vengeance
+
+### u035822
+Ogni volta che un alleato di Nemesite viene ucciso da un nemico, non appena finisce il {g|Encyclopedia:Turn}turno{/g} di quel nemico Nemesite lo attacca immediatamente e concede ai suoi alleati un {g|Encyclopedia:Bonus}bonus{/g} di +5 a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del combattimento. Cumulabile.
+
+### u035823
+Inevitable Vengeance
+
+### u035824
+Tutti i {g|Encyclopedia:DamageGlossary}danni{/g} inflitti a Nemesite sono ridotti di −5% per ogni suo alleato in vita.
+
+### u035825
+Stronghold of the Uprising
+
+### u035826
+Nemesite ha sempre un piano.
+
+### u035827
+Invincible Uprising
+
+### u035828
+Capitano Sargona
+
+### u035829
+Captain's Bodyguard
+
+### u035830
+Timoniere Yorges lo Squartatore
+
+### u035831
+Violent Slam
+
+### u035832
+Chaotic Force Field
+
+### u035833
+Summon Screamer
+
+### u035834
+Gift of Chaos
+
+### u035835
+Una volta per combattimento, invece di svenire, {name} cade in preda a una furia nera, ottenendo un {g|Encyclopedia:ExtraTurn}turno extra{/g} con 5 attacchi aggiuntivi, dopodiché perde i sensi.
+
+### u035836
+Black Rage
+
+### u035837
+Grazie al suo addestramento specializzato e alla sua incommensurabile esperienza sul campo di battaglia, le {g|Encyclopedia:Characteristic}caratteristiche{/g} di questa creatura sono aumentate.
+
+### u035838
+Deathwatch Captain
+
+### u035839
+Se colpisce, aumenta di +30% i danni da {g|Encyclopedia:FireDamage}fuoco{/g} e {g|Encyclopedia:EnergyDamage}energetici{/g} subiti dal bersaglio fino alla fine del combattimento. Non è cumulabile.
+
+### u035840
+Se {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, quest'arma infligge +3 accumuli dell'effetto {g|Encyclopedia:MeltingEffect}in fusione{/g} per 2 {g|Encyclopedia:Round}round{/g}. Chi la impugna può eseguire {g|Encyclopedia:DeadeyeShot}colpi infallibili{/g} con quest'arma. È considerata un fucile di precisione.
+
+### u035841
+Fucile a fusione 'Spark'
+
+### u035842
+Se colpisce, infligge l'effetto in fiamme. I bersagli colpiti da quest'arma falliscono sempre le prove per rimuovere l'effetto in fiamme.
+
+### u035843
+I nemici {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} da quest'arma devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con un bonus di +30 o subire {g|f:4755bff66f544cf7bd9f5be37dad08db}cannot attack{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u035844
+Quest'arma infligge +3% di danni per ogni 1% di {g|Encyclopedia:HitPoints}ferite{/g} mancanti al bersaglio.
+
+### u035845
+Lama Carnivora
+
+### u035846
+Quando chi la impugna infligge danni con quest'arma, subisce {g|Encyclopedia:DirectDamage}danni diretti{/g} pari al 10% dei danni inflitti.
+
+### u035847
+Klaive Spinosa
+
+### u035848
+Arma del Culto della Morte
+
+### u035849
+<u>(2 × bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} di chi la impugna)</u>
+
+### u035850
+<u>(bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} di chi la impugna / 2)</u>
+
+### u035851
+L'arma del Culto della Morte ottiene quanto segue:
+-<indent=5%>−{uip|Parry|ed0e0de8990b41f7b4fdc6683a55f6f2}% alla {g|Encyclopedia:Parry}parata{/g} del bersaglio</indent>
+-<indent=5%>+{uip|Crit|ed0e0de8990b41f7b4fdc6683a55f6f2}% alla probabilità di colpo critico di chi la impugna per ogni attacco che esegue. Questo bonus è cumulabile fino alla fine di ogni {g|Encyclopedia:Round}round{/g}.</indent>
+
+### u035852
+Ogni attacco con questa sega rocciosa pesante esegue diversi colpi. Se il primo colpo va a segno, tutti i colpi successivi colpiscono automaticamente. Se il primo colpo viene schivato o parato, tutti i colpi successivi vengono schivati o parati automaticamente.
+
+### u035853
+Tutti gli attacchi a {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g} con questa pistola bolt ottengono +50% di {g|Encyclopedia:DamageGlossary}danni{/g} fino alla fine del combattimento.
+
+### u035854
+Gli attacchi a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} con questa pistola bolt costano +1 {g|Encyclopedia:ActionPoints}PA{/g} in più. Dopo aver sparato un attacco a raffica, gli attacchi a {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g} con questa pistola bolt ottengono +50% di {g|Encyclopedia:DamageGlossary}danni{/g} fino alla fine del combattimento. Questo effetto è cumulabile.
+
+### u035855
+Usare l'abilità {g|f:d42db343de7e4b08a3ea0d7bc36af41f}Rapid Fire{/g} aumenta di +17 la {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} di quest'arma.
+
+### u035856
+Bolter Typhoon Astartes
+
+### u035857
+Quest'arma ottiene +3 di danni base per ogni nemico ucciso con essa. Dura fino alla fine del combattimento.
+
+### u035858
+Verso il Cenobio Elettrodinamico
+
+### u035859
+Verso il reattore
+
+### u035860
+Centro di comando
+
+### u035861
+Verso le caserme
+
+### u035862
+Verso il livello principale
+
+### u035863
+Verso l'ufficio del direttore
+
+### u035864
+Verso la cava a cielo aperto
+
+### u035865
+Verso lo spazioporto
+
+### u035866
+Scendi al livello inferiore
+
+### u035867
+Verso il magazzino
+
+### u035868
+Strade della capitale
+
+### u035869
+Esci verso l'Upperway
+
+### u035870
+Verso il lato orientale
+
+### u035871
+Verso il lato occidentale
+
+### u035872
+Ritorna all'Upperway
+
+### u035873
+Verso il ponte di comando della nave del vuoto
+
+### u035874
+Mappa della Distesa di Koronus
+
+### u035875
+Verso gli alloggi del Lord Capitano
+
+### u035876
+Base ribelle
+
+### u035877
+Verso la tenuta
+
+### u035878
+Verso la sala di manutenzione
+
+### u035879
+Verso la villa
+
+### u035880
+Curse of the Abyss
+
+### u035881
+Penalità permanente di −5 alle prove di resistenza di Willpower.
+
+### u035882
+Champion of the Abyss
+
+### u035883
+Bonus permanente di +2 a Weapon Skill e bonus di +5 a Coercion.
+
+### u035884
+Vox-trasmettitore
+
+### u035885
+Valvola dell'aria
+
+### u035886
+Blocca la valvola
+
+### u035887
+Verso il resto di Footfall
+
+### u035888
+Verso l'esterno
+
+### u035889
+Verso il palazzo del Liege
+
+### u035890
+Verso il crematorio
+
+### u035891
+Verso le fogne
+
+### u035892
+Più in profondità nei tunnel
+
+### u035893
+Magazzino
+
+### u035894
+The Martyr's Endurance
+
+### u035895
+Verso la tana dei cultisti
+
+### u035896
+Tana dei cultisti
+
+### u035897
+Verso la tana dei mutanti
+
+### u035898
+Verso la trivella
+
+### u035899
+Verso le Sale delle Preghiere
+
+### u035900
+Verso il Sancta Tecnologico Principale
+
+### u035901
+Verso il Sancta del Generatore Principale
+
+### u035902
+Fornace dati
+
+### u035903
+I simboli sullo schermo sono distorti, come se fossero stati sbavati da una mano invisibile.
+
+### u035904
+Crepa nel muro
+
+### u035905
+Fai saltare in aria
+
+### u035906
+Caveau dati
+
+### u035907
+Sistema la scala
+
+### u035908
+Verso il manufactorum di Kiava Gamma
+
+### u035909
+Verso l'interno
+
+### u035912
+La creatura ottiene 35 ferite temporanee.
+
+### u035913
+Scrap-Code Distortion
+
+### u035914
+Fogne
+
+### u035915
+Verso il palazzo
+
+### u035916
+Verso la sala
+
+### u035917
+Verso la sala del trono
+
+### u035918
+Verso il santuario dei cannibali
+
+### u035919
+Verso il passaggio segreto
+
+### u035920
+Verso le profondità del formicaio
+
+### u035921
+Verso lo xenolaboratorio
+
+### u035922
+Libera la barricata improvvisata
+
+### u035923
+Fissa il cavo
+
+### u035924
+Libera il ghiaccio
+
+### u035925
+Esci
+
+### u035926
+Scendi all'interno
+
+### u035927
+Verso la superficie
+
+### u035928
+Verso la guglia
+
+### u035929
+Verso la terrazza
+
+### u035930
+Verso la Guglia della Tempesta Predatrice
+
+### u035931
+Verso il Portale
+
+### u035932
+Dentro la Tela
+
+### u035933
+Sala principale
+
+### u035934
+Verso il Labirinto
+
+### u035935
+Verso il laboratorio
+
+### u035936
+Porta nascosta
+
+### u035937
+Cappella di bordo
+
+### u035938
+Distesa innevata
+
+### u035939
+I danni inflitti sono ridotti di −40%. I danni subiti sono aumentati di +25%. La forza degli scudi è ridotta a 0.
+
+### u035940
+Risonanza warp
+
+### u035941
+Stanno arrivando altre navi nemiche!
+
+### u035942
+Questa nave si concentra sull'inseguimento delle navi da trasporto.
+
+### u035943
+Sete di saccheggio
+
+### u035944
+In questa zona le navi da trasporto possono effettuare un salto warp in sicurezza.
+
+### u035945
+Mandeville Point
+
+### u035946
+Ora non si può cambiare la realtà
+
+### u035947
+"La santità del monastero della Forza Motrice è stata violata, ma i voti dell'Omnissiah hanno trionfato. Nel dono della Tecnologia troviamo la nostra forza."
+
+### u035948
+"Il metallo non vi proteggerà dalla corruzione dell'Arcinemico. Assicuratevi che i vostri colleghi siano scrupolosi nelle ispezioni."
+
+### u035949
+"Gli Elettropreti del Cenobio hanno dimostrato un coraggio senza precedenti di fronte all'eresia. Degni figli dell'Omnissiah!"
+
+### u035950
+"L'Imperituro ci ha mandati in risposta alle preghiere dei sacerdoti. Loro devono mantenere i propri voti, e noi dobbiamo versare il sangue degli eretici. Si compia il Suo disegno."
+
+### u035951
+"Finché i servitori dell'Omnissiah resteranno forti e la fede degli Elettropreti del Cenobio resterà incrollabile, la corruzione non oserà più toccare questo luogo."
+
+### u035952
+"I tuoi discorsi brillano d'oro e d'ambra, Sorella. Un giorno imparerò a credere nella rettitudine delle mie parole con la stessa forza con cui tu credi nelle tue."
+
+### u035953
+"La forza e la fede non li hanno aiutati quando si è arrivati al dunque. Mi piacerebbe pensare che risponderanno a questa calamità facendo qualcosa di diverso dal pregare e genuflettersi, ma chi voglio prendere in giro?"
+
+### u035954
+"Lord Winterscale aveva così tanta fede nel suo amico da lanciarsi a capofitto nel pericolo! Un atto onorevole."
+
+### u035955
+"Oh, Lady Cassia, non dovreste ritenere onorevole una simile condotta... La giovinezza si dipinge un bel quadro del mondo, ma la realtà è assai più complessa."
+
+### u035956
+"Io userei una parola con meno lettere per descrivere il suo gesto... ma non voglio imprecare in vostra presenza."
+
+### u035957
+"Il gesto di Evayne è stato nobile ma sconsiderato. Non si può salvare chi si è arreso di sua volontà all'eresia."
+
+### u035958
+"Almeno ha provato a farsi ascoltare dal suo amico invece di spappolargli il cervello a vista. Ah, no, dimenticavo con chi sto parlando."
+
+### u035959
+"Avete un seguito decisamente insolito, Rogue Trader. Non c'è da stupirsi, dato il vostro rango, ma comunque."
+
+### u035960
+"Io... non mi dispiace accompagnare il Lord Capitano. Conoscere il mondo esterno è un'esperienza inestimabile, negata a chi di noi teme di lasciare le mura del Sanctum Navis."
+
+### u035961
+"È diventato ancora più, ehm, insolito da quando sei arrivata tu. A proposito, quando avevi detto che ci avresti lasciati?"
+
+### u035962
+"Dobbiamo assicurarci che tutti i portelli stagni siano perfettamente funzionanti... e dobbiamo testare la solidità del sistema di codici d'accesso dell'equipaggio..."
+
+### u035963
+"Eh. Un bel po' di utilità avrà. Quando le fiamme gli lambiranno i piedi, non ci vorrà molto prima che tutte le password gli escano di bocca."
+
+### u035964
+"Vi assicuro, Primo Ufficiale Werserian, che se avrò bisogno di ispezionare qualcosa non andrò in giro a scassinare serrature: vi chiederò di scortarmi di persona."
+
+### u035965
+"Faccio fatica a capire gli ingranaggi quando parlano. Ma a quanto pare avrò un sacco di occasioni per ripassare le mie abilità di traduzione!"
+
+### u035966
+"Quando la Verità sarà compresa, sia protetta dalla mente profana e risuoni nella purezza binarica."
+
+### u035967
+"I veri credenti troveranno un terreno comune, se non nelle parole, nel desiderio condiviso di purificare questo mondo dalla corruzione!"
+
+### u035968
+"La Cognisance Fleet e la dinastia von Valancius sono legate da una serie di accordi reciprocamente vantaggiosi. Questa unità è lieta di coltivare un rapporto produttivo fondato sul nostro impegno congiunto nell'eradicazione degli eretici."
+
+### u035969
+"La vostra presenza tra noi è una benedizione suprema. È un segno della benevolenza dell'Omnissiah verso la dinastia von Valancius, poiché ci ha inviato il Suo stesso pastore!"
+
+### u035970
+"I colori che vorticano attorno a voi sono pieni di sfumature d'acciaio e lampi di nastri cremisi, stimato Magos. C'erano Tecnopreti anche sulla stazione della mia Casata, ma i colori delle loro anime erano sempre spenti."
+
+### u035971
+"Il Governatore Medineh crede di avere tutto sotto controllo. Hmm. Io non ne sono così certa."
+
+### u035972
+"Cosa ti fa pensare questo? La sua cecità selettiva o i suoi evidenti tentativi di indorare la pillola?"
+
+### u035973
+"L'unità sta traendo inferenze da informazioni disponibili che contengono dati erronei. Il risultato è... contaminato."
+
+### u035974
+"Una rivolta su scala planetaria... Come è stato possibile permettere una rivolta ereticale di una simile portata? Su Rykad non c'era nemmeno un cittadino fedele che potesse prevederla e dare l'allarme?"
+
+### u035975
+"Se tutti fossero dotati del dono di vedere il mondo come lo vedo io, una cosa simile non accadrebbe mai. Ma gli occhi della gente comune sono ciechi alle sfumature che si annidano nelle anime altrui."
+
+### u035976
+"Tutto si riduce all'adulazione. Adulazione e codardia. Spesso sono i messaggeri i primi in fila per la forca, e nessuno ha mai fretta di unirsi a quella fila."
+
+### u035977
+"È la prima volta che esco dalla stazione... Qui è così... luminoso. Invece di una tavolozza, c'è un orribile miscuglio di colori."
+
+### u035978
+"Un'interessante interpretazione della realtà. Tuttavia, se leggiamo le tue parole come una metafora, è piuttosto accurata."
+
+### u035979
+"Già. E poi è anche molto rumoroso. Ma tu non puoi capirlo, Cass. Beata te."
+
+### u035980
+"Il seguito di un Rogue Trader non dovrebbe essere più numeroso? Dov'è la guardia d'onore? Gli araldi e gli alfieri?"
+
+### u035981
+"Rilassatevi, Lady Cassia, qui ce ne sono abbastanza da tenervi al sicuro dai malvagi disegni altrui."
+
+### u035982
+"Qualcosa vi turba, Cassia? Non temete: vi proteggerò da qualsiasi eretico osi attentare a coloro che vedono la Sua luce!"
+
+### u035983
+"Ora che abbiamo con noi la figlia della Navis Nobilite, è un problema in meno da risolvere. Non posso fare a meno di esserne lieto."
+
+### u035984
+"Adempirò al dovere per cui mi sono addestrata in tutti questi anni, anche se la mia nomina è avvenuta sotto una bandiera dai toni cremisi."
+
+### u035985
+"Mmmhmm. Spero solo che l'equipaggio la smetta di andare in agitazione ogni volta che Cass si degna di attraversare il ponte di comando."
+
+### u035986
+"Spero che la Casata Orsellio sopravviva a questo duro colpo. Perdere una stazione e molti servitori in un colpo solo è una prova difficile."
+
+### u035987
+"La stazione può essere ricostruita. I servitori possono essere... sostituiti. È solo la mia vita a contare per chi attende il mio ritorno... e per chi vuole vedermi morta."
+
+### u035988
+"Prego per le anime degli innocenti. E perché le anime dei colpevoli non trovino pace."
+
+### u035989
+"La stazione che ha cresciuto la Navigatrice è morta. L'ammiraglia del Domin' è ora la vostra casa, e non c'è modo di tornare indietro."
+
+### u035990
+"Che strano. Le tue parole sono cupe, ma vedo un barlume di gioia nella tua anima. È così che mi dai il benvenuto?"
+
+### u035991
+"Sono certo che Mistress Kibellah, come ogni nato nel vuoto, si preoccupi del benessere della propria nave e sia lieta che l'ammiraglia abbia trovato una Navigatrice."
+
+### u035992
+"Le rivolte dei laici sono la ribellione di istinti e desideri subottimali contro una struttura predefinita. Questo evento è il risultato di una servitorizzazione insufficiente dell'equipaggio."
+
+### u035993
+"Hmm. Capisco il tuo punto di vista, ma lobotomizzare l'intero equipaggio è un'impresa costosa e in definitiva ingiustificabile. Finché i metodi tradizionali ci servono abbastanza bene, le cose dovrebbero restare come sono."
+
+### u035994
+"Sostituire tutti gli umani con servitori è qualcosa che solo un grande mondo forgia potrebbe realizzare. Il resto di noi deve accontentarsi delle fragilità umane."
+
+### u035995
+"A proposito di quella gente dei ponti inferiori... Penso che i tutori dell'ordine abbiano esagerato. Non si può tenere la gente schiacciata in continuazione: anche se non fanno storie, prima o poi impazziranno."
+
+### u035996
+"Da quando ti interessi al mio lavoro, Idira? Operavo in base a uno statuto emanato molti anni fa e approvato da Lady Theodora: non credo che vorrai mettere in dubbio il suo giudizio."
+
+### u035997
+"Compatisco i deboli e gli innocenti caduti vittima delle malefatte altrui... È meglio combattere in prima linea che prendere il genere di decisioni che spettano al Siniscalco."
+
+### u035998
+"Le forze dell'Arcinemico stanno già inghiottendo questo mondo. Abbiamo pochissimo tempo."
+
+### u035999
+"Prima... ce ne andiamo... da qui... meglio... è."
+
+### u036000
+"I colori... Non ho mai visto colori come questi... Cambiano, scorrono l'uno nell'altro... Ah! Le mie retine! Stanno... bruciando..."
+
+### u036001
+"Priorità primaria: evacuazione del Rogue Trader dal pianeta. Priorità secondaria: sopravvivenza del seguito. Attivazione del protocollo di autosacrificio calcolato."
+
+### u036002
+"Più fitta è l'oscurità, più brilla il fuoco nei nostri cuori! Dobbiamo unirci di fronte alla calamità!"
+
+### u036003
+"La mancanza di comunicazioni con l'ammiraglia mi mette a disagio... Spero che lo spazioporto regga fino al nostro arrivo."
+
+### u036004
+"L'equipaggio continua a piangere Lady Theodora. Temo che possa influire sull'adempimento dei loro doveri al servizio del Lord Capitano."
+
+### u036005
+"Lasciate che la gente pianga. Lady Theodora è stata con noi così a lungo che avevamo cominciato a credere che fosse immortale."
+
+### u036006
+"Nel Suo servizio troveranno forza e fermezza. Solo così distoglieranno il cuore dalle debolezze che conducono alle eresie."
+
+### u036007
+"Dannato warp... Se fossimo stati nello spazio reale, avrei sentito... avrei..."
+
+### u036008
+"Idira... smettila di fustigarti. I tuoi presagi sono sempre stati... vaghi. Anche se avessi sentito, chi di noi avrebbe capito che era Lady Theodora a essere in pericolo?"
+
+### u036009
+"Risparmiami i tuoi lamenti, strega: ogni voce che risuona nella tua mente è un sussurro dell'Arcinemico!"
+
+### u036010
+"Grazie agli sforzi di Sorella Argenta, le strade di Footfall sono ora un po' più pulite. Distruggere una cellula di culto è un'impresa degna di lode."
+
+### u036011
+"Io sono ovunque ci sia bisogno della Sua ira, che brucia i malvagi, scaccia i profani e purifica il mesto destino dei Suoi servitori."
+
+### u036012
+"Sì, sì, è un'azione encomiabile... Ma, conoscendo Footfall, è improbabile che un luogo purificato dall'eresia resti vuoto a lungo. Questa stazione attira la sozzura come... ehm, mi capite."
+
+### u036013
+"Pregare davanti al Sacro Mandato mi ha infuso la determinazione di compiere la mia missione... Con il sostegno del Rogue Trader, strapperò la reliquia dalle grinfie degli eretici!"
+
+### u036014
+"La tua risolutezza risplende di ogni sfumatura d'oro, Sorella! Le tue parole divampano come un fuoco e la tua fede in ciò che dici è incrollabile... Faccio fatica a guardarla senza strizzare gli occhi."
+
+### u036015
+"L'hai visto? Il Sacro Mandato? Oh, se solo potessi posarci gli occhi! O anche solo un occhio! Ma dubito che la mia shereen, il Rogue Trader, offra visite guidate a chiunque lo chieda..."
+
+### u036016
+"Ehi, Adepta Santimoniosa... Come mai quell'eretico ti ha riconosciuta, eh? Sai, quello che abbiamo inchiodato in quella tana puzzolente? Strane amicizie hai, tutto qui quello che ho da dire."
+
+### u036017
+"Perché ha riconosciuto il mio volto, strega? Immagino perché l'ha visto spesso nei suoi incubi. Spero che lo vedrai anche tu."
+
+### u036018
+"Sei caduta in un vecchio trucco dei servitori del Caos. Gli eretici spesso cercano di confondere la mente dei giusti quando sono davanti alla morte. Tuttavia, un espediente così rozzo difficilmente funzionerebbe con Sorella Argenta."
+
+### u036019
+"Siete circondato da colori insopportabilmente pesanti, Maestro van Calox... È come se fossero stati ripescati da un pozzo profondo e dimenticato. È... per via della Nave Nera, vero?"
+
+### u036020
+"Preferirei non parlare del mio stato emotivo, soprattutto per quanto riguarda quel... luogo."
+
+### u036021
+"L'uomo di ghiaccio non sembra molto propenso a parlarne, e immagino che nemmeno io voglia pensarci un secondo più del necessario."
+
+### u036022
+"La corruzione impregnata nelle ossa della nave perduta potrebbe essersi impressa nelle anime dei tuoi servitori, elantach. Spero che siano stati scrupolosi nei rituali di purificazione."
+
+### u036023
+"Hmm. Uno dei piloti delle navette si è tolto la vita poco dopo quel volo. Il suo corpo è stato incenerito da tempo, comunque, quindi non c'è nulla di cui preoccuparsi."
+
+### u036024
+"Che strano sentire uno xenos parlare di corruzione. Noi conduciamo una guerra implacabile contro questa sozzura, e tu, creatura contaminata, la temi a tua volta."
+
+### u036025
+"Una trappola su un mondo ghiacciato: un'insidia crudele per vittime ignare. Le anime innocenti attirate dal segnale hanno pagato la loro bontà con la vita."
+
+### u036026
+"Una volta sono caduta anch'io in una trappola simile: i miei rivali mi attirarono con un segnale del mio equipaggio morto... Kaskha! Mi assicurai che quei pirati da quattro soldi pagassero per quello che avevano fatto ai miei ragazzi."
+
+### u036027
+"I parenti di Cass hanno di certo fatto un bel baccano al palazzo... Un tentato assassinio proprio durante il ricevimento del Rogue Trader: roba da matti!"
+
+### u036028
+"La Casata Orsellio... ha causato inutili guai al Lord Capitano. Continuando a servire sull'ammiraglia dei von Valancius, espierò questo increscioso errore."
+
+### u036029
+"Non spetta a me commentare le azioni della Navis Nobilite... Dirò solo che spero che la loro prossima visita non si risolva nello stesso salatissimo conto per riparazioni e sostituzione dei tutori dell'ordine."
+
+### u036030
+"Sono consumata dai pensieri sul futuro della Casata Orsellio. Anni di odio e diffidenza... hanno portato ancora e ancora allo spargimento di sangue."
+
+### u036031
+"Percorri un sentiero periglioso che conduce oltre il velo. Per combattere forze che non possono essere domate. Qualunque contesa affligga la tua gente... il loro destino non è invidiabile."
+
+### u036032
+"Già, Cass, non voglio spaventarti... ma quando penso a te, sento una risata. Una risata ben più antica dell'Umanità stessa... una risata che mi fa correre un brivido lungo la schiena. Non credo sia qualcuno che ride con noi, piuttosto di noi."
+
+### u036033
+"Un conflitto interno in una Casata della Navis Nobilite... Una situazione deplorevole che potrebbe portare a molti problemi in futuro."
+
+### u036034
+"Non si può permettere che la discordia attecchisca tra i Navigatori, che percepiscono la luce dorata attraverso il velo di tenebra e follia! La loro grande missione deve pur immunizzarli da simili impulsi meschini, non è forse così?"
+
+### u036035
+"Non solo problemi in futuro, ma vittime nel presente: il Lord Capitano, ahimè, ha già avuto la sventura di vederlo con i propri occhi, {mf|lui stesso|lei stessa}."
+
+### u036036
+"Siamo fuori dal sistema Rykad ormai da un po', e la mia mente risuona ancora di ciò che ho sentito prima del salto... Fa paura anche solo pensare a cosa stia succedendo là adesso."
+
+### u036037
+"Quando verrà il momento, ci erigeremo come un muro indistruttibile contro la corruzione che ha inghiottito questo mondo. Non cederemo all'Arcinemico nemmeno un centimetro!"
+
+### u036038
+"Tutta la mia vita è andata perduta nell'incubo dell'Immaterium nel giro di pochi secondi. È... qualcosa che non si può comprendere e accettare in così poco tempo."
+
+### u036039
+"L'analisi raccomanda che i sistemi della Distesa si preparino a imminenti scontri con le forze che ora dominano Rykad Minoris. La probabilità di uno scontro su larga scala è attualmente dell'86%."
+
+### u036040
+"Niente di tutto questo porterà a qualcosa di buono... Abbiamo già abbastanza guai senza che questo anatema compaia sotto il nostro naso."
+
+### u036041
+"La perdita del settore è una catastrofe. Nella Distesa di Koronus non esistono forze in grado di opporsi a ciò che potrebbe emergere ora dal sistema Rykad."
+
+### u036042
+"Dargonus è stato attaccato dagli xenos ma ha resistito! Non è forse un segno che il Dio-Imperatore protegge i Suoi fedeli?"
+
+### u036043
+"È un segno che la difesa di Dargonus è stata organizzata in modo relativamente efficace. Un'incursione dei Drukhari è una prova logorante per qualsiasi mondo."
+
+### u036044
+"Ma quello che è successo nelle strade dei formicai... Oh, le cicatrici scarlatto-azzurre non verranno cancellate presto dalle anime di chi ha vissuto questo incubo."
+
+### u036045
+"È la prima volta che vedo gli Oscuri razziare da vicino... È un miracolo che il vostro mondo sia sopravvissuto, elantach."
+
+### u036046
+"È rispetto per la tua gente, quello che sento nella tua voce? Attenta, mia amica dalle orecchie a punta, alla mia shereen non piacerà che tu mostri ammirazione per loro, se era davvero questo."
+
+### u036047
+"La preparazione di Dargonus a uno scenario di scontro è stata giudicata soddisfacente. La popolazione contadina ha rappresentato la stragrande maggioranza delle perdite: i contadini sono facilmente sostituibili. Le strutture produttive vitali hanno subito danni minimi."
+
+### u036048
+"Non riesco a smettere di pensare al governatore di Dargonus. Perché non era presente quando hanno preso d'assalto il palazzo del Rogue Trader?"
+
+### u036049
+"Quando il disastro bussa alla porta, l'unica preoccupazione di un uomo d'affari è per le proprie proprietà. Il governatore è un uomo d'affari, dopotutto, sebbene vestito con gli abiti di un servitore dell'Imperium."
+
+### u036050
+"La ragione ufficiale è che non è riuscito a raggiungere il palazzo in tempo a causa di attacchi avvenuti altrove. Io ho le mie teorie, ma credo sia meglio tenerle per me."
+
+### u036051
+"Il Navigatore Hann è un'anima nobile. È spaventoso immaginare la prova che il suo spirito ha affrontato in quel viaggio sfortunato... Eppure ha compiuto il suo dovere."
+
+### u036052
+"Non solo è sopravvissuto, ma ha riunito le persone attorno a sé e ha combattuto contro chi aveva l'anima caduta in mano all'Arcinemico! Davvero un Navigatore di straordinario talento!"
+
+### u036053
+"La tenacia mostrata dall'unità nell'esecuzione dei suoi obblighi può essere spiegata in parte dal suo carente senso del dovere: la risposta superiore sarebbe stata cessare autonomamente le funzioni vitali."
+
+### u036054
+"Maledetto il giorno in cui Kunrad entrò al servizio di Lady Theodora... Ora, per colpa sua, Dargonus ha perso una nave insieme a tutto il suo equipaggio!"
+
+### u036055
+"Tremo di rabbia al ricordo che questo eretico cercò di attentare al Sacro Mandato! Il giorno in cui lo metteremo a morte sarà un giorno di festa per me."
+
+### u036056
+"Ed è ancora a piede libero e può fare ciò che vuole. Se fossi in te, Abelard, farei in modo che nessun altro suddito dei von Valancius resti all'oscuro del suo tradimento."
+
+### u036057
+"Il sacro Exterminatus... L'ho visto per la prima volta in tutta la sua fiammeggiante maestà..."
+
+### u036058
+"Uno spettacolo magnifico da contemplare. Come un gigantesco pennello che cancella tutti i colori del mondo dalla tela della realtà."
+
+### u036059
+"Mi viene la nausea a pensare a quanti innocenti sono morti nell'agonia, e tu ne rimani ammirata!"
+
+### u036060
+"Contemplare la morte di un mondo è stato simile a una rivelazione. Ringrazio l'Imperituro per la possibilità di essere stata testimone."
+
+### u036061
+"La caduta di Rykad Minoris è un colpo per tutta la Distesa. Immagino che Winterscale andrà su tutte le furie quando lo scoprirà."
+
+### u036062
+"Questa affermazione è falsa. L'unità in questione ha avuto una lunga vita operativa e ha osservato molte catastrofi planetarie. La loro rilevanza statistica è trascurabile su scala settoriale. L'affermazione è inquinata dal peso emotivo del lutto."
+
+### u036063
+"Ho nutrito una scintilla di speranza che Eurac V potesse ancora essere salvata... Ma ora la mia casa è perduta. Per sempre."
+
+### u036064
+"È bello vedere che la gente di Footfall sta tornando in piedi. Sulla stazione ci sono molti popolani che ora non dovranno più temere di morire di fame."
+
+### u036065
+"Una riduzione preventiva della popolazione in eccesso potrebbe aver avuto un effetto positivo sulla produttività della stazione. L'analisi indica che le unità con la minore utilità erano a rischio di morte."
+
+### u036066
+"La prima priorità di Vladaym sarà nutrire le persone che lo mantengono al potere su Footfall. Alla fine gli aiuti dovrebbero arrivare anche ai lavoratori comuni."
+
+### u036067
+"Così ora Vladaym si è inchinato alla dinastia von Valancius... Ci attendono tempi interessanti."
+
+### u036068
+"Intendi come reagirà Winterscale? Da quello che ho sentito di lui, 'interessante' non è la parola giusta! In ogni caso, non c'è niente di cui rallegrarsi."
+
+### u036069
+"La mia shereen ha fatto arrabbiare due nobili influenti allo stesso tempo... Ed entrambi sono Rogue Trader. Che efficienza impressionante!"
+
+### u036070
+"Mi sarebbe piaciuto vedere la faccia di Incendia quando ha scoperto che le abbiamo soffiato Footfall da sotto il naso..."
+
+### u036071
+"Da quello che so di Lady Chorda, io non mi stropiccerei le mani dalla gioia, se fossi in te. Il Rogue Trader è un avversario pericoloso."
+
+### u036072
+"Davvero? Io preferirei essere il più lontano possibile da Sua Signoria Chorda in quel momento..."
+
+### u036073
+"Footfall ha ricevuto sostentamento solo grazie alla magnanimità del Domin'. Alla gente è stato insegnato a fare affidamento sulla compassione altrui: una lezione di impotenza."
+
+### u036074
+"Anche il tuo culto di fanatici del sangue esiste solo per concessione del Lord Capitano. Che cosa hai da dire in proposito?"
+
+### u036075
+"Ci siamo guadagnati questo diritto con il sacrificio e il servizio. E accetteremo umilmente la morte se il Domin' deciderà che i filatori non servono più all'ammiraglia."
+
+### u036076
+"Devo ammettere che nutrivo... delle riserve sul particolare interesse della Santa Inquisizione per Kiava Gamma. Ma dopo ciò che abbiamo visto sul mondo industriale, sono sollevato che il tanto stimato Interrogatore fosse con noi, dopotutto."
+
+### u036077
+"Il Lord Capitano probabilmente avrebbe gestito l'invasione con successo anche senza di me. Spero comunque che la mia presenza sia stata utile alla dinastia von Valancius."
+
+### u036078
+"Sei dannatamente schizzinoso, vecchio! Quando gli azhi ti conducono su un mondo catturato dall'Arcinemico, dovresti essere grato per qualsiasi aiuto ricevi, non solo da signori 'tanto stimati'."
+
+### u036079
+"Da quando l'uomo di ghiaccio è sceso su Kiava Gamma per la sua missione, i miei sussurratori si comportano in modo strano ogni volta che è nei paraggi. Non riesco a capire cosa sia cambiato, ma... è solo strano."
+
+### u036080
+"Pensavo avresti imparato ormai a non dare troppa importanza ai tuoi 'sussurratori'. Potresti esserti abituata alla loro presenza, Idira, ma non sono tuoi amici. Cammina con cautela."
+
+### u036081
+"Come? Le voci empie dell'oscurità non sono entusiaste del ritorno trionfale dei Suoi servitori da quel nido di eresia? Stupefacente!"
+
+### u036082
+"Una macchina sacra posseduta da una irreale progenie del warp che predice il futuro... Un abominio ingegnoso. Calcoli profani del genere sono ripugnanti, ma... non posso negarne la raffinatezza. Impressionante."
+
+### u036083
+"Impressionante, eh? Non saresti mai così ammirato per dei 'calcoli profani' eseguiti dentro una testa umana, vero? No, preferiresti di gran lunga mozzare la testa."
+
+### u036084
+"Parlate di quanto accaduto su Kiava Gamma, stimato Magos? Ho letto di cose simili... Ma leggere qualcosa e vederlo con i propri occhi sono due cose molto diverse."
+
+### u036085
+"C'è un solo modo puro di conoscere ciò che verrà, ed è nei segni che l'Imperituro invia attraverso i Tarocchi. Tutto il resto è menzogna dell'Arcinemico."
+
+### u036086
+"Ancora non riesco a credere che mi hai lasciata restare, Lord Capitano... Non ti sei {mf|sbarazzato|sbarazzata} di me... Dimostrerò... Sarò all'altezza della fiducia che hai riposto in me."
+
+### u036087
+"Riponi troppa fiducia nella forza della tua promessa. Troverò un po' di tempo per insegnarti qualche psicotecnica che ti aiuterà a temprare la tua volontà contro l'influenza dell'Arcinemico."
+
+### u036088
+"Un giorno la tua promessa si ridurrà in polvere, come una sorgente che si è prosciugata. Prego che in quel giorno io sia lì per porre fine a questa eresia... una volta per tutte."
+
+### u036089
+"Idira. Dimmi: hai sentito di nuovo la voce di Theodora dall'altra parte?"
+
+### u036090
+"Avremo una risposta solo quando la visione empia riapparirà sulla nave e trascinerà altre vittime innocenti tra le fauci dell'Arcinemico."
+
+### u036091
+"Io... ho paura di darti una risposta. Se dico 'No, non ho sentito niente', mi farai bollire il cervello per vedere se mento, per sicurezza?"
+
+### u036092
+"Quando le voci sull'apparizione di Theodora von Valancius si diffondevano per tutta la nave... ho visto molti lampi di giallo: il tuo equipaggio sperava che fosse vero."
+
+### u036093
+"Le gesta di Lady Theodora sono rinomate in tutta la Distesa. Ma non credo sarebbe stato molto piacevole servire sotto una figura così ambiziosa..."
+
+### u036094
+"Lady Theodora era... una persona complicata. Ma le sue azioni di fronte al pericolo le hanno guadagnato il più profondo rispetto degli ufficiali... e la sua intolleranza per la debolezza le ha guadagnato l'eterna adorazione dei comuni lavoratori."
+
+### u036095
+"Hai solo ritardato la tua morte inevitabile tra gli artigli del warp, Veni'Idira. Avresti potuto chiedere la liberazione, ma non l'hai fatto. Perché?"
+
+### u036096
+"Perché non sono una cultista della morte con il cervello lavato. Perché voglio vivere. Perché ci sono persone che contano su di me. Devo a loro di restare qui."
+
+### u036097
+"Idira, shereen, non dare retta a quella kaskha. Ascolta me, piuttosto: aspetta di vedere cosa abbiamo in programma sui ponti centrali in tuo onore..."
+
+### u036098
+"Il giorno in cui una strega viene mandata nell'oblio dovrebbe essere celebrato come una festa."
+
+### u036099
+"Siete notevolmente diretta nel modo di esprimervi, Sorella."
+
+### u036100
+"La cessazione delle funzioni vitali dell'unità Idira Tlass ha ridotto significativamente il rischio di anomalie a bordo. L'eliminazione era giustificata."
+
+### u036101
+"Capisco tutto questo, shereen, eppure... la piango. Mi piaceva la compagnia di Idira, che l'Eccelso preservi l'anima contaminata di quella kaskha linguacciuta."
+
+### u036102
+"Forse nel momento della sua morte ha trovato la pace di cui era stata privata in vita. O almeno, è quello che mi piacerebbe credere."
+
+### u036103
+"Chi Lo rinnega in vita non è degno della Sua misericordia nella morte."
+
+### u036104
+"Da quando Idira non c'è più, ho visto i colori sui ponti sbiadire. Ci sono meno sfumature che mi fanno male agli occhi... Ma anche più grigia indifferenza."
+
+### u036105
+"I tuoi occhi vedono i riflessi di Sha'eil, e la tua anima è sempre aperta a ciò che si trova oltre il velo... Perché le tue capacità spaventano i mon-keigh meno di quelle della zittita?"
+
+### u036106
+"So che alcuni piangono Veni'Idira. Fanno male a farlo. È morta da essere umano. Prima che la corruzione potesse divorarle l'anima."
+
+### u036107
+"Male? Di cosa parli? Perché non ti tagli la lingua e non ti cuci la bocca? O qualunque altra perversione piaccia al tuo culto."
+
+### u036108
+"Mistress Kibellah, capisco che siete stata cresciuta da un culto della morte, ma... la gente comune piange coloro con cui ha servito per molti anni."
+
+### u036109
+"Si avvisa che tutti gli atti di furto sacrilego, le usurpazioni dei privilegi dell'Adeptus Mechanicus e i saccheggi saranno catalogati ai fini dell'applicazione della giustizia."
+
+### u036110
+"È un furto quando i beni in questione non appartengono a nessuno? Nel tiro alla fune tra Mercanti del Commercio Freddo e ingranaggi, il possesso vale nove decimi della legge."
+
+### u036111
+"Ah, smettila, latta brontolona! Almeno Jae sa tenere una conversazione e non si limita a 'condurre uno scambio di informazioni'."
+
+### u036112
+"Heinrix, a proposito della nuova compagna del Lord Capitano... Sei stato a Footfall: per caso hai un, ehm, fascicolo particolare su Heydari?"
+
+### u036113
+"Se la contrabbandiera avesse commesso trasgressioni sufficienti perché io abbia un fascicolo su di lei, la nostra 'shereen' Mistress Heydari avrebbe smesso di essere una seccatura molto tempo fa."
+
+### u036114
+"Chi avrebbe mai pensato che la misera Jae Heydari sarebbe entrata a far parte del seguito del Rogue Trader? L'Eccelso è davvero generoso!"
+
+### u036115
+"Ah. Anch'io la pensavo così quando mi sono unito a Lady Theodora... Ci farai l'abitudine, prima o poi. Vuoi che ti mostri la strada per la meno peggio delle bettole di questa nave?"
+
+### u036116
+"Il cammino degli eletti dell'Imperatore compie strane svolte e deviazioni... ma finché il tuo cuore sarà colmo di fede, ti do il benvenuto nei nostri ranghi."
+
+### u036117
+"Pensavo che gli Orki fossero il mio peggior incubo... Ah, la follia dell'innocenza! Le code all'Administratum sono molto, molto più spaventose."
+
+### u036118
+"I funzionari dell'Adeptus Administratum sono così... smorti. È come se la vita stessa, in tutta la sua vividezza e il suo splendore, avesse abbandonato i loro cuori."
+
+### u036119
+"Lady Theodora una volta mi mandò al Palazzo dell'Administratum a ottenere un certificato di cui aveva bisogno: sono due settimane della mia vita che non rivedrò mai più."
+
+### u036120
+"Questa unità non può fare a meno di sentire che i principi di funzionamento dell'Administratum sono un'interpretazione parodistica di quel sacro dogma del servizio: 'imita il meccanismo'. Non era questo che i nostri predecessori avevano immaginato!"
+
+### u036121
+"E se il loro vero scopo fosse semplicemente torturare la gente? In quel caso, i metodi dell'Administratum darebbero del filo da torcere all'Inquisizione!"
+
+### u036122
+"Ogni servitore dell'Imperium deve adempiere al dovere che gli è stato assegnato... e il mio cuore gioisce perché il mio dovere è distruggere l'eresia, non marcire sotto una pila di scartoffie."
+
+### u036123
+"Ancora una volta, la generosità del Rogue Trader verso Jae Heydari non conosce limiti! Con il Mercatum Tabula Officiale ti sarò più utile, shereen, e che l'Eccelso protegga la tua dinastia!"
+
+### u036124
+"Sospetto che fare la coda per un certificato non sia l'uso più efficace del tempo e delle energie del Rogue Trader, ma il Lord Capitano evidentemente ha un'opinione diversa in merito."
+
+### u036125
+"I mon-keigh dipendono così tanto da pezzi di carta... È come se ogni parola scritta dalle vostre mani possedesse un potere invisibile."
+
+### u036126
+"Janus resterà al centro dell'attenzione dell'Inquisizione ancora per molto tempo. Ciò che è accaduto sul pianeta è troppo grave per essere ignorato."
+
+### u036127
+"Capisco la vostra insinuazione, Interrogatore. Ora lasciamo perdere l'argomento."
+
+### u036128
+"È il tuo modo di insinuare che faranno saltare in aria il pianeta del Lord Capitano? Molto premuroso da parte tua, Maestro Interrogatore: almeno grazie per l'avvertimento!"
+
+### u036129
+"È triste che la bella e rigogliosa Janus sia stata sopraffatta da calamità così gravi. Il mondo è... molto bello."
+
+### u036130
+"Che cosa puoi sapere tu della bellezza, mon-keigh dall'occhio maledetto che uccide ogni essere vivente? Il Lilaethan è afflitto dalla calamità a causa di una corruzione simile alla sozzura che porti dentro di te."
+
+### u036131
+"Ah, Janus... Di tutti i mondi su cui ho messo piede, è l'unico che non ha cercato di uccidermi a ogni occasione. Vorrei poter restare più a lungo."
+
+### u036132
+"Lasciare il Lilaethan è una decisione difficile. Ma il mio Sentiero mi conduce avanti... a cercare i miei fratelli e le mie sorelle. Farò qualsiasi sacrificio per trovarli."
+
+### u036133
+"Hmm. Non dimenticare che sei solo un'ospite sulla nave del vuoto, non un'autorità. L'ultima cosa che ci serve è uno xenos sul ponte di comando a impartire ordini..."
+
+### u036134
+"Nel caso in cui lo scenario di sacrificio venga eseguito con successo, il tuo corpo non perirà senza scopo, ma sarà sottoposto a sacra dissezione. Gioisci."
+
+### u036135
+"Osservare la dissacrazione perpetrata ai danni dei manufactorum di Kiava Gamma sta generando... segnali improduttivi nei miei circuiti cognitivi. Avvio di un mantra di pacificazione e mitigazione del deterioramento spirituale."
+
+### u036136
+"Ogni vittoria dell'Arcinemico porta scompiglio nella mente e nel cuore. Siate forte, Magos: questi eventi sono particolarmente duri per voi."
+
+### u036137
+"È questo il tuo modo di dire che sei turbato? Guarda, puoi semplicemente dire 'sto male' e finirla lì. La gente ti capirà e avrà la possibilità di offrirti sostegno."
+
+### u036138
+"Quello che è accaduto su Kiava Gamma sarà un duro colpo per la dinastia Gaprak, sospetto... Spero solo che i loro rivali su Dargonus non divorino del tutto i Gaprak dopo questo."
+
+### u036139
+"Le famiglie nobili sprecano energie e tempo in ridicole lotte di potere quando dovrebbero concentrarsi sul rafforzamento della propria potenza militare e della santa fede."
+
+### u036140
+"È il secondo mondo nel dominio dell'elantach che i mon-keigh hanno lasciato contaminare dalla corruzione. La negligenza della vostra specie... mi spaventa."
+
+### u036141
+"La comparsa dei Word Bearers su Kiava Gamma è un segno inquietante. Ancora più inquietante è la facilità con cui il Fabricator-Censor ha ceduto alle lusinghe degli eretici."
+
+### u036142
+"Si plachi il ritmo discordante che risuona in questo tempio. I parametri tornino ai livelli ottimali. L'algoritmo sacro sia ripristinato e prosegua nelle sue iterazioni."
+
+### u036143
+"I predicatori di blasfemia e corruzione cercano cuori e menti deboli in cui seminare i germi dell'eresia. Preghiamo che non rimanga alcun terreno così fertile nei possedimenti dei von Valancius."
+
+### u036144
+"Quegli esseri che si sono insediati su Jesevon... Non ho mai sentito parlare di xenos simili. La loro ombra psichica nel warp... è semplicemente mostruosa."
+
+### u036145
+"Spero che la loro presenza nella Distesa si limiti a quella nave. Anche se così fosse, ho già inviato un messaggio al Lord Inquisitore. L'Ordo stanzierà risorse per indagare sulla questione."
+
+### u036146
+"Ho sentito racconti dai miei compagni Reietti: storie cupe sul Grande Divoratore. Temo che quelli fossero i suoi emissari, gli araldi di una tempesta da cui non c'è scampo."
+
+### u036147
+"La fine di Jesevon è una perdita terribile. Milioni di pellegrini sono morti nelle tenebre dell'eresia, portando con sé la Sua scintilla."
+
+### u036148
+"La perdita è significativa ma facilmente rimediabile. La fine della nave del vuoto stessa è un vero dolore per l'Imperium. Il sacro tempio dell'Omnissiah è ora un guscio vuoto, e gli spiriti macchina lo hanno abbandonato."
+
+### u036149
+"Durante il mio servizio come Siniscalco ho visto pellegrinaggi coraggiosi finire in calamità troppe volte per contarle. Sono certo che questo non sarà l'ultimo triste spettacolo di cui il Lord Capitano sarà testimone."
+
+### u036150
+"Magos Pasqal, l'indagine sulle augmetiche estratte dai vostri simili ha dato qualche frutto?"
+
+### u036151
+"L'unità Heinrix van Calox non ha l'autorizzazione per accedere a queste informazioni."
+
+### u036152
+"Tentare di arrestare il compagno del Rogue Trader sulla nave stessa di Sua Signoria: è inaudito! Spero che l'Inquisizione non venga a cercarvi in futuro, Magos."
+
+### u036153
+"Questo scenario è improbabile... ma non impossibile. Questa unità si rammarica per i danni causati all'arredo della macchina sacra."
+
+### u036154
+"Non temete, Primo Ufficiale: al momento non ho intenzione di fare una cosa simile."
+
+### u036155
+"Tra quei preti rossi c'erano dei sopravvissuti: bene. Diffonderanno la voce che la morte attende chi sfida la volontà del Domin'."
+
+### u036156
+"Tutta la storia che circonda il nostro nuovo Enginseer Primo mi rende inquieto... È come se un'enorme macchina fosse stata messa in moto e non veda l'ora di far combaciare tutti i suoi ingranaggi."
+
+### u036157
+"Via gli indovini che vedono il futuro nell'Immaterium. Solo l'analisi statistica è davvero pura."
+
+### u036158
+"Un'osservazione interessante. Viene dalla tua mente o dai sussurri? In ogni caso, non darle alcuna importanza: gli ingranaggi sono troppo bravi a mantenere i propri segreti."
+
+### u036159
+"I nomi dei tecno-compagni che servivano sulla nave afflitta dalla piaga sono stati eliminati dal codice delle preghiere commemorative. In considerazione della loro vergognosa mancanza di resistenza alla profanazione, lo status di martire è negato."
+
+### u036160
+"Pensi seriamente che quei pazzi non contino come martiri? Diventare una toppa vivente su una nave catturata da un demone: si potrebbe concepire una morte più orribile? Mi si rivolta lo stomaco al solo pensiero!"
+
+### u036161
+"Una decisione ragionevole. Tutta la conoscenza che un tempo era custodita dai loro voti e giuramenti è ora diventata uno strumento dell'Arcinemico. È tradimento."
+
+### u036162
+"Una nave sopraffatta dalla corruzione da oltre il velo... Uno spettacolo triste e ammonitore. Nessuno merita un simile destino: né i Figli di Asuryan, né la tua specie, elantach."
+
+### u036163
+"L'Arcinemico non dorme mai, ma cerca sempre occasioni per colpire i Suoi fedeli. Questa nave è solo un esempio fra tanti, un promemoria che non abbiamo il diritto di abbassare la guardia."
+
+### u036164
+"Le emozioni distorte dall'influenza del warp sono corrosive e ripugnanti da osservare. L'Arcinemico perverte di proposito i colori, rendendoli insopportabili alla vista per chiunque non sia ancora immerso nella corruzione."
+
+### u036165
+"Maestro van Calox, il vostro silenzio trasuda un cremisi scuro. Potete nascondere la vostra rabbia agli altri, ma non al mio sguardo."
+
+### u036166
+"Che dire, Lady Navigatrice? Raramente mi trovo costretto a consentire, e tanto meno a tollerare, la xenoeresia nella mia orbita."
+
+### u036167
+"Ooh, il nostro uomo di ghiaccio si sta facendo venire la nausea dalla rabbia. I miei sussurratori mi hanno già raccontato alcuni dei suoi piani per Yrliet... ma non muoverà un dito senza il benestare del Lord Capitano."
+
+### u036168
+"Uno xenos tra gli umani. Invitarla a unirsi a noi è come stringere un serpente al petto."
+
+### u036169
+"Sì, beh, non puoi farci niente, Adepta Santimoniosa. Solo, non digrignare i denti così forte, te li consumerai fino alle gengive."
+
+### u036170
+"I mon-keigh non credono forse che le avversità forgino la tempra? Usatemi pure come cote per il vostro spirito, se volete, ma d'ora in poi tenete per voi i vostri discorsi impuri."
+
+### u036171
+"Viaggiare in compagnia dei mon-keigh è molto... insolito. E istruttivo."
+
+### u036172
+"Dove l'umano è spinto dal desiderio di Conoscenza gradita all'Omnissiah, lo xenos è spinto da una morbosa curiosità di inventare nuovi mali."
+
+### u036173
+"Non essere troppo zelante nelle tue ricerche, Aeldari. Per te, il confine fra curiosità permessa e spionaggio sarà davvero sottile."
+
+### u036174
+"Prima il tradimento di Kunrad, ora questo pasticcio... Come facciamo a essere ancora vivi, io e te, vecchio?"
+
+### u036175
+"La mente rabbrividisce, Idira, ma sai una cosa? Io dico che dovremmo continuare questa piccola tradizione che abbiamo iniziato."
+
+### u036176
+"Siniscalco Werserian, sono lieta che siate ancora con noi e rimaniate saldo come sempre."
+
+### u036177
+"Ero sul punto di andare in pensione, Sorella... ma dove sarebbe il Lord Capitano senza di me, eh? No, è ancora un po' presto per questo."
+
+### u036178
+"Shh, carissima. Non ora."
+
+### u036179
+"Tutto bene, vecchio? Con chi stavi parlando poco fa...? Ehi, cosa stai guardando?"
+
+### u036180
+"Lady Navigatrice... non ci sono parole per descrivere quanto sia lieto che siate sopravvissuta."
+
+### u036181
+"Il vostro sincero sollievo e la vostra gioia sono come un dipinto vivido in questo luogo spaventoso, un balsamo per i miei occhi. Io... sono lieta di vedervi anch'io, Abelard."
+
+### u036182
+"Lo status di martire concede all'unità Abelard Werserian il diritto di richiedere un'augmetica per l'inibizione emotiva. L'unità intende avvalersi del suo diritto?"
+
+### u036183
+"Vi ringrazio per la vostra generosità, Maestro Haneumann, ma preferisco lasciare che i miei ricordi mi facciano impazzire piuttosto che cancellarli dalla mia mente."
+
+### u036184
+"Oh, quanto attendo il momento beato in cui il traditore Kunrad Voigtvir riceverà la punizione che merita."
+
+### u036185
+"È rimasto tra i vivi per troppo tempo. È ora che diventi fisicamente ciò che già è nell'anima: carogna."
+
+### u036186
+"Non posso credere di essere d'accordo con Adepta Santimoniosa su questo... ma sì, quel verme la pagherà per quello che ha fatto!"
+
+### u036187
+"L'Imperituro ha sussurrato il suo nome così a lungo che mi è stato marchiato nella mente con una canna rovente. Ma presto l'anima dell'eretico sarà inviata al Suo severo giudizio."
+
+### u036188
+"Achilleas è riuscito comunque a rintracciare Kunrad. Dopo il suo fallimento nello sbrogliare i piani degli xenos, non mi aspettavo un risultato così rapido su quel fronte."
+
+### u036189
+"Il cremisi e il grigio bluastro prevalgono su Achilleas... Il tuo biasimo lo ha spezzato così tanto?"
+
+### u036190
+"Comprendere davvero i piani e i pensieri di uno xenos significa impazzire e dimenticare l'Eccelso. Se un tuo subordinato lo facesse, scommetto che gli spareresti senza un attimo di esitazione."
+
+### u036191
+"Gli xenos bugiardi ci manovrano come marionette... Sento nuove ragnatele di sozzi intrighi tessersi attorno alle nostre mani!"
+
+### u036192
+"Che c'è, prigioniero? Per anni ti sei accontentato della tua sorte, e ora reclami la libertà? Una dimostrazione di coraggio tardiva."
+
+### u036193
+"Il Dio-Imperatore non abbandonerà i Suoi fedeli. Ci stiamo avvicinando alla fuga da questo labirinto... lo sento con tutto il cuore."
+
+### u036194
+"Non riesco a scrollarmi di dosso la terribile sensazione che ci abbiano lasciati fuggire. Quel 'Nocturne' difficilmente avrebbe potuto mettere a segno il suo 'scherzo' nel cuore di Commorragh senza il consenso di qualcuno ai piani alti."
+
+### u036195
+"La nostra fuga è uno spettacolo messo in scena da forze ben più grandi del nostro aiutante. Mi piacerebbe sapere il prezzo che dovremo pagare."
+
+### u036196
+"Un motivo in più per trovare una via d'uscita da qui e non rimettere mai più piede in queste strade oscure. Non ho alcun interesse a restare invischiato negli intrighi degli xenos!"
+
+### u036197
+"Almeno siamo usciti dall'arena tutti interi e non ridotti a carne trita. È il miglior risultato che potessimo sperare."
+
+### u036198
+"La speranza è ingiustificata, i sogni sono prematuri. Le nostre possibilità di sopravvivenza sono aumentate di poco... per ora."
+
+### u036199
+"Ognuno di noi è caduto vittima di questo abisso. I colori di ciascuno... sono stati spezzati. Insudiciati. Abbiamo lasciato qui molto più che sangue e carne."
+
+### u036200
+"Questi portali... Non riesco a capire quanto siamo lontani dalla maledetta arena... Dobbiamo preoccuparci che ci inseguano? Possiamo sperare in una via d'uscita?"
+
+### u036201
+"Commorragh è un labirinto. Trovare l'uscita non è sempre possibile, nemmeno per i suoi abitanti. Ma noi siamo stati guidati da un Arebennian, uno dei sovrani della Tela. Sapeva esattamente in quale direzione spingere i suoi attori."
+
+### u036202
+"Il calcolo metrico è inutile: gli spazi dell'irrealtà sono comprensibili solo attraverso l'esperienza empirica, non attraverso l'analisi sistematica."
+

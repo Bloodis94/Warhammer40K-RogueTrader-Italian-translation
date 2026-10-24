@@ -1,0 +1,759 @@
+### u044084
+[Calmala con la preghiera] "...L'Imperatore è con noi finché ricordiamo il nostro scopo — servire l'Umanità e non cedere mai ai suoi nemici..."
+
+### u044085
+[Raccogli una pistola da terra e spara a Cassia] "Esaudirò la tua ultima richiesta."
+
+### u044086
+[Raccogli una pistola da terra e spara a Cassia] "Avrei dovuto ucciderti non appena ti ho incontrata."
+
+### u044087
+"Hai paura, ma ciò non significa che tu possa arrenderti. Non lasciare che queste emozioni ti consumino!"
+
+### u044088
+[Raccogli una pistola da terra e spara a Cassia]
+
+### u044089
+"Siete {mf|arrabbiato|arrabbiata} con me? Perché?"
+
+### u044090
+"Il mio unico pensiero era salvarti."
+
+### u044091
+"Quello che dici è vero. Avvicinarci troppo non è di buon auspicio per nessuno dei due. Spero che tu capisca."
+
+### u044092
+"Pensavo a un futuro in cui stiamo insieme."
+
+### u044093
+"Non stavo pensando, stavo solo... agendo."
+
+### u044094
+"Qualunque cosa ti sia successa, possiamo rimediare. Fidati di me."
+
+### u044095
+[Scappa]
+
+### u044096
+[Baciala] "Le parole mi mancano mentre cerco di esprimere ciò che provo. Lascia che siano le mie azioni a parlare per me."
+
+### u044097
+"Vuoi trascorrere il resto dei tuoi giorni come cavia dell'Haemonculus?"
+
+### u044098
+"Per tutti quegli anni, paura e solitudine sono state tutto ciò che conoscevi. Non più. Non azzardarti a desiderare la morte! Quando sono con te, mi sforzerò di alleviare ogni tuo dolore!"
+
+### u044099
+[Stringila e baciala] "Non pensare nemmeno di lasciarmi, Cassia. Non ti lascerò andare."
+
+### u044100
+[Stringila più forte] "Temo che, se ti lasciassi andare, vorresti sparire di nuovo."
+
+### u044101
+[Uccidi Cassia] "Perdonami, amore. Esaudirò la tua ultima richiesta."
+
+### u044102
+"Siamo in territorio nemico! A meno che tu non riprenda il controllo di te stessa, porrò fine personalmente a questo tumulto!"
+
+### u044103
+"Cassia, il peggio è passato. Ti porto via da questo posto."
+
+### u044104
+"Pagherai a caro prezzo le ferite che mi hai causato. Vieni con me."
+
+### u044105
+"Grazie all'Imperatore, sembri di nuovo te stessa. Andiamo. Ci saranno altre occasioni per parlare."
+
+### u044106
+[Sorridi nonostante il dolore] "Va tutto bene, mia signora. Puoi sconfiggerlo. Resterò al tuo fianco e ti aiuterò in ogni modo possibile."
+
+### u044107
+"Cassia, abbiamo percorso una lunga strada insieme. Non farmi abbandonare qui. Continua a combattere!"
+
+### u044108
+"Hai già dovuto tenere a freno il tuo dono, in passato. Prova a ricordare come hai fatto allora!"
+
+### u044109
+"Io... sento. Finalmente, sento qualcosa..." {n}Vedi orrore e confusione negli occhi spalancati di Cassia. Il viso, il collo e le mani sono orribilmente graffiati e il sangue appiccicoso gocciola dalle punte delle sue unghie simili ad artigli.{/n} "Ah! Perché siete così tanti tutti insieme? Rosso. Nero. Viola. Scarlatto. Giallo. Bordeaux scuro... Via da me! Smettetela di sciamare nei miei pensieri!"
+
+### u044110
+"Il nome Orsellio... non è meno glorioso di quello dei von Valancius..." {n}Cassia si sforza di mettere a fuoco gli occhi su di te. Sul suo viso pallido e scarno è impressa un'espressione insolita, severa, sicura e imperiosa. È la stessa espressione che hai visto sul volto di Theodora von Valancius quando l'hai incontrata per la prima volta.{/n} "I Rogue Trader non sono i soli favoriti dall'Imperatore, {name}. Non osare minacciarmi."
+
+### u044111
+{n}Cassia si stringe di nuovo la testa, questa volta coprendosi il terzo occhio, ma senti già il respiro del warp provenire dal suo sguardo. La {d|Encyclopedia:Ch1_CassiaAmuletOn}pietra fusa nel suo corpo{/d} si scalda sotto la pelle pallida, la brucia e... si crepa.{/n} "{name}, non riesco a controllarlo!" {n}I poteri che fluiscono attraverso il fragile corpo di Cassia ti fanno girare la testa e ti rizzano i capelli.{/n}
+
+### u044112
+{n}Cassia si stringe di nuovo la testa, questa volta coprendosi il terzo occhio, ma senti già il respiro del warp provenire dal suo sguardo.{/n} "{name}, io... non riesco a controllarlo!" {n}I poteri che fluiscono attraverso il fragile corpo di Cassia ti fanno girare la testa e ti rizzano i capelli.{/n}
+
+### u044113
+"Vi ringrazio per avermi tirata fuori da quell'... oscurità, Lord Capitano. E vi imploro di perdonare ciò che è accaduto. Io... Oh, lasciamo finalmente questo orribile posto."
+
+### u044114
+{n}Cassia si sforza di mettere a fuoco gli occhi su di te. Sul suo viso pallido e scarno è impressa un'espressione insolita, severa, sicura e imperiosa. È la stessa espressione che hai visto sul volto di Theodora von Valancius quando l'hai incontrata per la prima volta.{/n} "...E possa la Sua luce disperdere l'oscurità che ci attende, perché l'Astronomican è il faro e la Sua guida benedetta per me..."
+
+### u044115
+{n}Cassia si sforza di mettere a fuoco gli occhi su di te. Sul suo viso pallido e scarno è impressa un'espressione insolita, severa, sicura e imperiosa. È la stessa espressione che hai visto sul volto di Theodora von Valancius quando l'hai incontrata per la prima volta.{/n} "In questo preciso istante sto cercando di salvarti la vita. Dovrei... smettere?"
+
+### u044116
+"Straordinario. Voi credete in me anche quando io ho perso ogni fede nella mia forza." {n}Cassia sorride debolmente, sopportando il dolore.{/n}
+
+### u044117
+{n}Il tuo corpo brucia come se ti avessero cosparso con una vasca di plastacciaio fuso, e la tua testa brulica di strani sussurri, ombre, voci... Ogni respiro è una lotta, come se qualcosa ti stesse graffiando dall'interno, cercando di farsi strada a forza fuori dal tuo petto. Ti sale la nausea. Sei {mf|sopravvissuto|sopravvissuta} all'esposizione all'occhio aperto del Navigatore, ma il tuo corpo e la tua mente reggeranno se accadrà di nuovo?{/n}
+
+### u044118
+"Sapete, quando l'oscurità vi avvolge... vi porta via tutto. Non lascia suoni, né odori, né un appiglio solido. L'oscurità divora ogni colore che tenta di farsi strada. Ogni colore che ho cercato di creare dentro di me. L'oscurità appassisce, inghiotte i colori, li mastica e li consuma... Ma quando la disperazione mi aveva sopraffatta del tutto, ho sentito di non essere sola in quell'oscurità. Qualcun altro era con me. Qualcuno di intangibile, freddo e incolore. E quella consapevolezza ha devastato ancora di più la mia sanità mentale."
+
+### u044119
+{n}Cassia chiude gli occhi e i tremiti del suo corpo si placano fino a fermarsi. Con un gesto stanco della mano, si sistema l'ornamento sulla fronte, attenta a coprire l'occhio da Navigatrice, e non senti più la minaccia che emanava da lei un istante prima.{/n} "Grazie... a voi? Le vostre parole mi hanno aiutata. Mi sento un po' meglio..."
+
+### u044120
+{n}Una foschia di rabbia, disperazione e paura ti soffoca come un sudario funebre, ma non è la prima volta che devi affrontare un'ondata di emozioni estranee che assalgono la tua mente. Vorresti morire qui e ora. No. Vorresti non essere mai {mf|nato|nata}. Raccogli la tua volontà e scacci questi pensieri come se parassi un colpo di spada, e i sentimenti di Cassia si dissolvono prima di poterti attecchire addosso.{/n}
+
+### u044121
+{n}Una foschia di rabbia, disperazione e paura ti soffoca come un sudario funebre. La rabbia ti scava sotto la pelle con centinaia di aghi e l'angoscia ti rivolta i polmoni. Un'inspiegabile senso di solitudine e vuoto permea la tua mente. Stai annegando nelle emozioni di qualcun altro... o sono le tue? Non importa più. Sei impotente e non puoi fermarle. Vorresti morire qui e ora. No. Vorresti non essere mai {mf|nato|nata}.{/n}
+
+### u044122
+{n}Cassia fa un passo esitante verso di te e annuisce lentamente. La sua paura e la sua disperazione si riversano su di te come un peso gravoso sulle spalle. Resistere alle sue emozioni era già difficile quando erano stabili. Ora i suoi poteri sono diventati molto più travolgenti.{/n}
+
+### u044123
+{n}Con evidente sforzo, Cassia congiunge le mani in un gesto di preghiera.{/n} "...e credere nel Suo potere, nel Suo aiuto e nella Sua saggezza. E se abbiamo ancora la forza di combattere, allora combatteremo fino alla fine..." {n}La sua pallida fronte si corruga e rivoli di sangue le scorrono dal naso e dagli occhi. Imperterrita, si concentra per riportare i suoi poteri sotto controllo... finché il suo corpo non sussulta come se fosse stato folgorato.{/n}
+
+### u044124
+{n}Con evidente sforzo, Cassia congiunge le mani in un gesto di preghiera, ma le lascia subito andare.{/n} "Non posso, io solo..." {n}All'improvviso si raddrizza e il suo sguardo si fa impassibile e vuoto.{/n}
+
+### u044125
+{n}Un brivido sinistro ti percorre l'intero corpo. È una sensazione che avevi dimenticato, ma il ricordo torna subito: il tumulto e le emozioni di qualcun altro e una volontà che non è la tua... Questa ondata schiacciante sta per consumarti.{/n}
+
+### u044126
+"L'Imperatore protegge, Lord Capitano." {n}Cassia sorride, sopportando il dolore.{/n}
+
+### u044127
+"Se non fosse stato per la vostra insistenza, ora potrei benissimo essere morta. Grazie... per non avermi abbandonata." {n}Cassia ti stringe affettuosamente la mano — con estrema delicatezza — e la lascia andare.{/n}
+
+### u044128
+{n}Facendo un goffo passo indietro, Cassia si copre con cautela il terzo occhio, come se temesse di scatenare di nuovo su di te i poteri tempestosi della sua anima.{/n} "Avete rischiato la vita per salvarmi. Per un Rogue Trader, sovrano di una grande dinastia, è stata... pura follia. È stata un'irresponsabilità!" {n}La fronte di Cassia si corruga con indignazione, ma i suoi occhi sono pieni di dolore e disperazione.{/n} "Il vostro protettorato, i vostri miliardi di sudditi, avrebbero potuto perdere il loro sovrano in un batter d'occhio. Eppure voi... A cosa stavate pensando?"
+
+### u044129
+"Non capite, io..." {n}Cassia scuote la testa e poi annuisce stancamente.{/n} "Non voglio restare qui per sempre. Non voglio..." {n}Prende un respiro profondo e raddrizza le spalle. La sua pallida fronte si corruga, rivoli di sangue le scorrono dal naso e dagli occhi, ma Cassia lotta per riportare i suoi poteri sotto controllo... finché il suo corpo non sussulta come se fosse stato folgorato.{/n}
+
+### u044130
+{n}Cassia chiude gli occhi, cercando di concentrarsi, ma poi grida subito e apre il terzo occhio — solo per un breve istante, ma basta a investirti con un'altra ondata di energie letali.{/n}
+
+### u044131
+"Io... non lo so!" {n}Cassia alza le mani al cielo e chiude gli occhi per l'esaurimento.{/n} "Sono così, così stanca..."
+
+### u044132
+{n}Ti slanci di nuovo verso la pistola, ma il peso dello shock emotivo quasi ti fa perdere l'equilibrio. Cassia si raddrizza all'improvviso e il suo sguardo si fa impassibile e vuoto.{/n}
+
+### u044133
+{n}Cerchi di raggiungere l'arma ai tuoi piedi, ma i tuoi arti non si muovono. Hai un mal di testa lancinante e vedi doppio. La tua mano scivola via e un brivido sinistro ti percorre l'intero corpo mentre Cassia si raddrizza all'improvviso. Il suo sguardo è impassibile e vuoto.{/n}
+
+### u044134
+{n}Una gelida pesantezza incombe nell'aria. Tutto il tuo essere ti implora di fuggire. Presto. Ora!{/n}
+
+### u044135
+{n}Cassia non fa nulla per scongiurare il proprio destino, si limita a chiudere gli occhi in segno di accettazione.{/n}
+
+### u044136
+"No!"
+
+### u044137
+"Nemmeno il mio terzo occhio riesce a vedere la luce dell'Imperatore in questo luogo maledetto. Tutte le mie preghiere resteranno inascoltate."
+
+### u044138
+"Io... capisco. Sarà difficile, ma è meglio dimenticare ciò che è accaduto." {n}Cassia si tocca involontariamente le labbra e un silenzio imbarazzato cala nell'aria, finché non nota la {d|Encyclopedia:Ch1_CassiaAmuletOn}pietra crepata{/d} che le ha lacerato la delicata pelle del collo.{/n}
+
+### u044139
+"{name}, guardate! Le energie che sostengono questo artefatto sono quasi esaurite! Se gli dessi ancora una spinta, so che riuscirei a rimuoverlo. Tuttavia, dopo quanto è accaduto oggi, non sono più certa che Felek e gli altri si sbagliassero così tanto su di me."
+
+### u044140
+"Potremmo allontanarci da questo orribile posto, ora, {name}? Non desidero restare qui un istante di più."
+
+### u044141
+"Vi prego, fermatevi!" {n}esclama Cassia, coprendoti dolcemente la bocca con una mano.{/n} "Le mie labbra... sono doloranti per le ferite. Sento il vostro cuore nelle vostre azioni, davvero. Ma per ora, vi prego... godiamoci un momento di tregua." {n}Ti accarezza la guancia e poi si scosta, imbarazzata.{/n}
+
+### u044142
+{n}Cassia lancia un'occhiata involontaria alla sfera dell'Haemonculus e il suo corpo rabbrividisce di nuovo.{/n} "Potreste acconsentire a continuare un'altra volta, {name}? Non riesco a restare ancora in questo posto."
+
+### u044143
+{n}Cassia lancia un'occhiata alla sfera dell'Haemonculus e la sua mano corre involontariamente all'Atlas che porta nel petto. È allora che nota la pietra crepata che le ha lacerato la delicata pelle del collo.{/n} "{name}, guardate! Le energie che sostengono questo artefatto sono quasi esaurite! Se gli dessi ancora una spinta, so che riuscirei a rimuoverlo. Tuttavia, dopo quanto è accaduto oggi, non sono più certa che Felek e gli altri si sbagliassero così tanto su di me."
+
+### u044144
+"Io... ci proverò." {n}Prende un respiro profondo e raddrizza le spalle. La sua pallida fronte si corruga, rivoli di sangue le scorrono dal naso e dagli occhi, ma Cassia lotta per riportare i suoi poteri sotto controllo... finché il suo corpo non sussulta come se fosse stato folgorato.{/n}
+
+### u044145
+{n}Il corpo di Cassia ondeggia violentemente, i suoi occhi si muovono avanti e indietro e le gambe stanno per cederle. L'occhio da Navigatrice trema senza sosta, pronto ad aprirsi in qualsiasi momento, e le emozioni opprimenti ti stringono il collo come un nodo serrato. Cassia sta cedendo di schianto, trattenendo a stento i suoi poteri incontrollabili.{/n}
+
+### u044146
+{n}Cassia chiude gli occhi e i tremiti del suo corpo si placano fino a fermarsi. Con un gesto stanco della mano, si sistema l'ornamento sulla fronte, attenta a coprire l'occhio da Navigatrice, e non senti più la minaccia che emanava da lei un istante prima.{/n} "Grazie. Le vostre parole mi hanno aiutata. Mi sento già meglio."
+
+### u044147
+"Vorrei avere anche solo la metà della vostra sicurezza e del vostro coraggio, Lord Capitano." {n}Un debole sorriso attraversa le pallide labbra di Cassia, che scuote la testa.{/n}
+
+### u044148
+{n}Cerchi di raggiungere l'arma ai tuoi piedi, ma i tuoi arti non si muovono. Hai un mal di testa lancinante e vedi doppio. La tua mano scivola via e un brivido sinistro ti percorre l'intero corpo. È una sensazione che avevi dimenticato, ma il ricordo torna subito: il tumulto e le emozioni di qualcun altro e una volontà che non è la tua... Questa ondata schiacciante sta per consumarti.{/n}
+
+### u044149
+"L-Lord Capitano, {name}, aspettate! Non lasciatemi, non così! Basta... Basta che mi uccidiate!"
+
+### u044150
+"P-perché i vostri colori sono diventati così all'improvviso sfumature scure di bordeaux?"
+
+### u044151
+"No! Vi prego, Lord Capitano! {name}!"
+
+### u044152
+{n}Cassia si prende un momento per riprendere le forze. Poi, con uno sguardo sorpreso, tocca la pietra crepata che le ha lacerato la delicata pelle del collo.{/n} "Le energie che sostengono questo artefatto sono quasi esaurite! Se gli dessi ancora una spinta, so che riuscirei a rimuoverlo! Tuttavia, dopo quanto è accaduto oggi, non sono più certa che Felek e gli altri si sbagliassero così tanto su di me."
+
+### u044153
+{n}Marazhai si ritrae, emettendo un sibilo frenetico.{/n} "Avrei dovuto uccidere questa cosa allora... È un lurido portale di Sai'lanthresh!"
+
+### u044154
+"Non l'hai ancora capito, vero? Una tempesta non si può domare. Un fuoco non si può costringere a risparmiare la sua vittima. Al sole non si può comandare di sorgere dall'altra parte dell'orizzonte. Non sono cose che una persona può compiere solo perché lo desidera. Nemmeno se quella persona è la figlia di una Casata di Navigatori." {n}Cassia si raddrizza all'improvviso e il suo sguardo si fa impassibile e vuoto.{/n}
+
+### u044155
+"{name}, indietro!"
+
+### u044156
+"Cass, luce dei miei occhi, sei più forte di così, mi senti? Combatti! Combatti, mia shereen dal viso pallido!"
+
+### u044157
+{n}Lanciando un'occhiata nervosa all'artefatto dell'Haemonculus, Cassia annuisce con cortesia.{/n} "Ne sarei onorata, Lord Capitano. Se posso chiedervi di aprire la strada?"
+
+### u044158
+{n}Cassia distoglie lo sguardo.{/n} "Le vostre parole sono giuste, eppure, credetemi... mi pento profondamente di ciò che è accaduto qui."
+
+### u044159
+{n}Cassia si sforza di mettere a fuoco gli occhi su di te. Sul suo viso pallido e scarno è impressa un'espressione insolita, severa, sicura e imperiosa. È la stessa espressione che hai visto sul volto di Theodora von Valancius quando l'hai incontrata per la prima volta.{/n} "Non credi nemmeno alle tue stesse parole. Guardami... Guarda! Sono un abominio. Un mostro! E sai cosa si deve fare con i mostri."
+
+### u044160
+"Non parlate di queste cose, mi sentite?" {n}Cassia conficca le unghie affilate nella testa, e rivoli di sangue trasformano i suoi capelli da bianchi a cremisi.{/n} "Avrei potuto uccidervi quando ci siamo {mf|incontrati|incontrate}. Avrei potuto privarvi della ragione, senza volerlo, sulla vostra nave. È colpa mia se siete {mf|stato attaccato|stata attaccata} nel vostro stesso palazzo, e ora..."
+
+### u044161
+"Non parlate di queste cose, mi sentite?" {n}Cassia conficca le unghie affilate nella testa e rivoli di sangue trasformano i suoi capelli da bianchi a cremisi.{/n} "Avrei potuto uccidervi quando ci siamo {mf|incontrati|incontrate}. Avrei potuto privarvi della ragione, senza volerlo, sulla vostra nave. È colpa mia se siete {mf|stato attaccato|stata attaccata} nel vostro stesso palazzo, e ora... ora..." {n}Cassia si raddrizza all'improvviso, e il suo sguardo si fa impassibile e vuoto.{/n}
+
+### u044162
+{n}I suoi occhi sono colmi di lacrime rosse mentre ti guarda con passione e tenerezza.{/n} "Non posso più mettervi in pericolo, {name}. Io... non vi lascerò soffrire." {n}Cassia si concentra, determinata a riportare i suoi poteri sotto controllo... finché il suo corpo non sussulta come se fosse stato folgorato.{/n}
+
+### u044163
+"Quando la capsula si è aperta, la mia mente è annegata in sudice sfumature di cremisi, e terra d'ombra, e nero, e... E sto impazzendo, {name}. Pensavo di poter imbrigliare questo potere, ma ora... Dovete porre fine a tutto questo. Per il mio bene, per il vostro... e per tutto ciò che abbiamo condiviso. Se lo farete, io... non avrò niente da obiettare." {n}Cassia chiude gli occhi, incapace di incontrare il tuo sguardo. I suoi tremiti si placano per un breve istante, come una vittima rassegnata che resta immobile in attesa della scure del boia.{/n}
+
+### u044164
+"Lord Capitano? P-perché i vostri colori sono diventati così all'improvviso sfumature scure di bordeaux?"
+
+### u044165
+{n}Cassia si blocca, sorpresa dal tuo tocco, e le tue labbra si uniscono alle sue in un bacio agrodolce che sa di sangue e lacrime. Vedi il terrore nei suoi occhi spalancati, ma poi il suo corpo si rilassa, e i suoi occhi si chiudono insieme all'occhio da Navigatrice. Ricambia lentamente, con incertezza, con dolcezza...{/n} "Vi prego, basta! Non riesco a respirare... temo di svenire..."
+
+### u044166
+{n}Yrliet stringe disperatamente la pietra spirituale sul suo petto.{/n} "Elantach, presto! Colei che ha Sete sta guardando attraverso i tre occhi di questo mon-keigh. Sta guardando noi!"
+
+### u044167
+{n}Con un misto di tenerezza e tristezza, Cassia osserva una viscosa pozza cremisi allargarsi sotto il suo corpo. La sua mano artigliata sfiora con cautela la tua guancia e lei rantola,{/n} "Grazie... a voi, {name}. Per averlo fatto per me. Io..." {n}Un sottile rivolo di sangue le sfugge dalla gola insieme a un colpo di tosse.{/n} "Siete stat{mf|o|a} la prima anima che ho imparato ad amare in questo mondo, anche se non riuscivo nemmeno ad amare me stessa. Perciò, vi prego, vivete! Vivete..."
+
+### u044168
+{n}La sua mano pallida scivola via dalla tua guancia, le unghie lasciano un taglio superficiale. I suoi occhi color rubino si fermano.{/n}
+
+### u044169
+"Io... capisco. Sarà difficile, ma è meglio dimenticare ciò che è accaduto." {n}Cassia si tocca involontariamente le labbra e un silenzio imbarazzato cala nell'aria.{/n} "Lasciamo questo orribile posto, {name}. Non riesco a restare qui un istante di più."
+
+### u044170
+{n}Cassia si sforza di mettere a fuoco gli occhi su di te. Sul suo viso pallido e scarno è impressa un'espressione insolita, severa, sicura e imperiosa. È la stessa espressione che hai visto sul volto di Theodora von Valancius quando l'hai incontrata per la prima volta.{/n} "Cosa ti fa pensare di poterti salvare da questo luogo, Lord Capitano?"
+
+### u044171
+{n}Cassia si sforza di mettere a fuoco gli occhi su di te. Fiumi inesauribili di lacrime di sangue le scorrono sulle guance.{/n} "Perdonatemi, io... non volevo niente di tutto questo... Andatevene, vi prego. Andate! Non voglio farvi del male più di quanto ne abbia già fatto!"
+
+### u044172
+{n}Cassia si sforza di mettere a fuoco gli occhi su di te. Fiumi inesauribili di lacrime di sangue le scorrono sulle guance.{/n} "Io... non posso tornare alla mia Casata in tali condizioni. No, preferisco morire qui per mano vostra piuttosto che mettere in pericolo la mia famiglia."
+
+### u044173
+"No!" {n}Cassia si ritrae inorridita.{/n} "Mai più! Non tornerò indietro!"
+
+### u044174
+"Quando la capsula si è aperta, la mia mente è annegata in sudice sfumature di cremisi, e terra d'ombra, e nero, e... E sto impazzendo, {name}. Credevo di poter controllare tutto questo, ma ora... Dovete porre fine a questo. Per il bene della mia Casata. Per la vostra sicurezza. Per me..."
+
+### u044175
+"Quando la capsula si è aperta, la mia mente è annegata in sudice sfumature di cremisi, e terra d'ombra, e nero, e... E sto impazzendo, {name}! Vi prego, aiutatemi!" {n}Cassia tende le mani verso di te in un gesto supplichevole, ma tutto il suo corpo è scosso dalla forza del suo potere traboccante, e capisci che sta per esplodere ancora una volta.{/n}
+
+### u044176
+"Quando la capsula si è aperta, la mia mente è annegata in sudice sfumature di cremisi, e terra d'ombra, e nero, e... Ed è tutta colpa vostra!" {n}Cassia stringe i pugni e un'altra ondata di rabbia ti investe. Il suo corpo è scosso dalla forza del suo potere traboccante e capisci che sta per esplodere ancora una volta.{/n} "Se non mi aveste coinvolta nei vostri intrighi e nei vostri complotti, niente di tutto questo sarebbe successo!"
+
+### u044177
+"Non lo so. Ma so che non posso sperare di rivedere la luce, per il resto dei miei giorni, senza di te."
+
+### u044178
+"Sì... Lo vedo nei vostri colori. Le vostre tonalità morbide e calde... E i bagliori luminosi ogni volta che mi guardate come state facendo ora, {name}. Io... provo la stessa cosa quando sono con voi! E ho paura di arrivare a dipendere da questa sensazione. I colori della beatitudine sono... così fugaci." {n}Cassia ti rivolge uno sguardo affettuoso e un timido sorriso.{/n}
+
+### u044179
+[Baciala di nuovo] "Ma è proprio quello che sto cercando di fare. Aiutarti a fuggire per un po'."
+
+### u044180
+{n}Cassia sorride debolmente e chiude gli occhi prima del vostro bacio successivo. Quando le vostre labbra si incontrano di nuovo, senti i nervi elettrizzati. Lei ti bacia rapidamente e con passione, come se stesse davvero cercando di perdersi nel momento.{/n} "Oh, {name}..."
+
+### u044181
+[Prendile la mano] "Ti prego, lasciami restare con te ancora un po'."
+
+### u044182
+{n}Cassia posa con cautela la mano sulla tua ed emette un sospiro di sollievo.{/n} "Siete {mf|vivo|viva}... Grazie all'Imperatore, siete {mf|vivo|viva}, {name}."
+
+### u044183
+"No, io... non me ne andrò. Lo prometto." {n}Cassia non trema più. Invece si stringe al tuo petto e posa la testa sulla tua spalla. Senti il suo cuore battere con un ritmo misurato, dolce e calmo.{/n} "Oh, {name}..."
+
+### u044184
+"Provo dei sentimenti per te."
+
+### u044185
+"No, fermatevi..."
+
+### u044186
+"È così."
+
+### u044187
+"Anch'io provo dei sentimenti per voi, {name}," {n}dice Cassia con voce affannata, tenendo dolcemente la tua mano.{/n} "E questi sentimenti mi spaventano. Ma non voglio... rinunciarvi."
+
+### u044188
+"Mi scuso. Non intendevo metterti a disagio con la mia insistenza inopportuna."
+
+### u044189
+"Quando ti ho incontrata, ho scoperto {mf|me stesso|me stessa}."
+
+### u044190
+"Oh, non riesco mai a capire se dite sul serio o scherzate. Come potreste ritrovarvi in una persona che non si è ancora trovata?" {n}Cassia ride piano.{/n} "Eppure, le vostre parole mi scaldano comunque il cuore. Un segno di buon auspicio, oserei dire?"
+
+### u044191
+"Cosa potreste mai vedere in una come me?" {n}La voce di Cassia è poco più di un sussurro. Lei distoglie lo sguardo.{/n}
+
+### u044192
+[Tocca la guancia di Heinrix] "Cosa ti hanno fatto..."
+
+### u044193
+[Esamina il corpo dentro il sarcofago]
+
+### u044194
+"Perché non ne parliamo più tardi?"
+
+### u044195
+"Ho dato un'altra possibilità alla xenos. Se fallisce, la accompagnerò fuori dal portello stagno."
+
+### u044196
+"Allontanati dal congegno e ti lascerò vivere."
+
+### u044197
+"Essenza del dolore, dici? Voglio osservare il processo di estrazione."
+
+### u044198
+[Uccidi lo xenos]
+
+### u044199
+"Qualcosa mi dice che hai consumato tu stesso quegli ultimi campioni. Cosa pensi che ti farà Tervantias quando lo scoprirà?"
+
+### u044200
+"Che razza di dispositivo è quello?"
+
+### u044201
+"Heinrix, sono {name}. Mi senti?"
+
+### u044202
+[Libera Heinrix dal dispositivo]
+
+### u044203
+[Tira i fili e uccidi Heinrix]
+
+### u044204
+[Libera Heinrix] "Non ho tempo di dimostrarti nulla."
+
+### u044205
+"{mf|Il prescelto|La prescelta} del Dio-Imperatore non sarà {mf|apostrofato|apostrofata} in questo modo da quelli come te, popolano!"
+
+### u044206
+"Al warp, io? Un'idea splendida, ma ti porto con me, altrimenti Calcazar mi farà la pelle."
+
+### u044207
+"Non è un trucco. Riprenditi. Ho bisogno del tuo aiuto."
+
+### u044208
+"Ora che ci penso, preferirei lasciarti così come sei. Addio, van Calox."
+
+### u044209
+"Cosa ti è successo dopo che siamo stati catturati?"
+
+### u044210
+"Riesci a camminare? Non abbiamo molto tempo."
+
+### u044211
+"Ti hanno accecato?"
+
+### u044212
+"Posso spiegare."
+
+### u044213
+"Questo xenos è ora sotto la mia protezione. Se gli accadrà del male, lo rimpiangerai."
+
+### u044214
+"Calmati, van Calox. Il nemico del nostro nemico è nostro alleato."
+
+### u044215
+"Non riesci a 'sentire' il tuo corpo? Cosa significa, esattamente?"
+
+### u044216
+"Yrliet non voleva che subissimo questo destino."
+
+### u044217
+"Siamo nel regno degli xenos. Ci serve uno xenos che ci aiuti. Hai qualcosa da obiettare?"
+
+### u044218
+{n}Il Drukhari, che era chino su un corpo racchiuso in uno strano dispositivo simile a un sarcofago, si volta. Il volto dello xenos è coperto da una maschera a specchio e lo xenos tiene in mano degli strumenti di qualche tipo. Somigliano più agli arnesi di un torturatore che a quelli di un chirurgo. Un sibilo gutturale proviene da dietro la maschera:{/n} "Che cosa vuoi, bestiame?"
+
+### u044219
+{n}All'inizio trasale al tuo tocco... poi, come se sentisse chi gli sta accarezzando la guancia, sospira di sollievo.{/n} "{name}... siete voi? Siete... {mf|vivo|viva}?" {n}Sforzandosi di girare la testa, Heinrix preme le labbra contro il tuo palmo.{/n} "Vi prego, trovate un modo per tirarmi fuori da questo aggeggio..."
+
+### u044220
+"Lord Capitano, aspettate!"
+
+### u044221
+{n}Heinrix fa un passo su piedi malfermi e tende il braccio, che comincia a tremare per lo sforzo. La sua mano trova la tua spalla, scivola leggera fino al collo, poi alla guancia.{/n} "{name}..." {n}Esita, ritrae la mano e fa un passo indietro.{/n}
+
+### u044222
+{n}Il Drukhari nota il tuo interesse e afferra la sua arma.{/n} "Fuori di qui, bestiame."
+
+### u044223
+{n}Il terzo occhio di Cassia freme minacciosamente sotto l'ornamento sulla sua fronte.{/n} "Sparite, xenos, se non volete conoscere la vera furia di una Navigatrice della Casata Orsellio!"
+
+### u044224
+"Uno. Un solo aiutante xenos." {n}Heinrix si sforza di non alzare la voce.{/n} "Ma non avete alcun motivo di trascinarvi dietro entrambe le creature, se non un innaturale desiderio di raggiungere l'aldilà prima piuttosto che poi! Mi chiedo quale dei due sarà il primo a realizzare il vostro sogno."
+
+### u044225
+{n}Senti una risata da dietro la maschera a specchio.{/n} "Questa macchina è una testimonianza del genio di Tervantias. Guarda tu {mf|stesso|stessa}." {n}Il Drukhari allunga la mano verso alcuni delicati fili che si estendono dagli aghi conficcati nel corpo di Heinrix fino a una strana membrana sul lato del sarcofago. Le dita dello xenos sfiorano leggermente i fili.{/n}
+
+### u044226
+{n}Il Drukhari solleva la mano dai fili, la porta verso un incavo alla base del dispositivo ed estrae una sottile fiala piena di un gas rosso pulsante e scintillante.{/n} "Nemmeno un'imperfezione... Irresistibile..."
+
+### u044227
+{n}Marazhai si sporge in avanti, gli occhi spalancati. Le sue dita si piegano, affondando nei palmi, e la sua bocca si distende in un ghigno vorace.{/n} "Ancora."
+
+### u044228
+{n}Un suono acuto e ultraterreno ti trafigge le orecchie. Il corpo di Heinrix è scosso da una convulsione così intensa che solo i legacci gli impediscono di slogarsi le articolazioni. All'inizio stringe i denti ma, dopo un paio di secondi di questa lotta, la camera di tortura si riempie di un urlo più simile a un ululato bestiale che a qualsiasi suono prodotto da un essere umano.{/n}
+
+### u044229
+{n}La testa di Heinrix si muove appena. Ora vedi bene i suoi occhi: le pupille sono contratte fino alle dimensioni di una capocchia di spillo. È cieco. Le sue labbra morsicate e insanguinate iniziano a muoversi:{/n} "Al warp con te, bestia. Ho già sentito tutto questo. Non mi ingannerai di nuovo..."
+
+### u044230
+"Mi hanno spostato più volte da un luogo all'altro, ma non saprei dire quali fossero. Ho visto guglie in un oceano di nebbia; ho visto le viscere di una nave Drukhari... Una volta sono quasi riuscito a liberarmi: poche cose spaventano gli xenos quanto i poteri del warp. Ero vicino..." {n}Heinrix scuote la testa.{/n} "Si potrebbero considerare le mie parole eretiche, ma direi che è stato solo grazie all'Haemonculus che mi ha portato qui che sono sopravvissuto dopo essere caduto in quella lotta. Da lì in poi c'è stato solo questo posto, questa bara... e il dolore."
+
+### u044231
+{n}Qualcosa nella tua voce fa esitare il torturatore, che inclina la testa. Non riesci a vedere la sua espressione a causa della maschera a specchio ma, un istante dopo, lo xenos sibila, incurva le spalle e si allontana di corsa.{/n}
+
+### u044232
+"Chi sei tu per darmi ordini, bestiame? Fuori! O sarai {mf|il prossimo|la prossima} a essere {mf|estratto|estratta} dopo questo mon-keigh!"
+
+### u044233
+"Cosa? Come hai fatto a..." {n}Il torturatore incurva le spalle e inizia a tremare violentemente, senza più cercare di nasconderlo.{/n} "Come potevo resistere? Essenza pura, incontaminata... Un estratto di vero tormento..." {n}La voce del Drukhari degenera in un sibilo incomprensibile prima che si volti e si allontani di corsa.{/n}
+
+### u044234
+{n}Fa un gesto debole verso i propri occhi.{/n} "Non vedo niente. Datemi un momento... per capire cosa mi hanno fatto..." {n}L'aria attorno a lui si fa sensibilmente più fredda.{/n} "Maledizione... non sento il mio corpo..."
+
+### u044235
+"Perché ti interessa, bestiame?" {n}Il Drukhari si blocca per un istante, e noti che le sue mani tremano.{/n} "Tervantias ti ha mandato per l'essenza del dolore, vero? Digli che gli ultimi campioni... sono venuti male. Ci vorrà tempo per estrarre dolore puro e incontaminato. Sì, molto tempo. Il mon-keigh è testardo e forte, ma la sua vitalità sta calando. Ho solo bisogno... di concentrarmi." {n}Le dita frementi del torturatore si protendono verso la sua vittima.{/n}
+
+### u044236
+{n}Il corpo dentro il sarcofago non si muove. Heinrix sembra non avere alcuna consapevolezza di ciò che lo circonda: il suo sguardo offuscato è rivolto oltre di te.{/n}
+
+### u044237
+"Vedo che hai perso del tutto la testa, {name}." {n}C'è rabbia nella voce quieta e quasi spenta di Jae.{/n} "Hai passato troppo tempo in compagnia di questi mostri, senza dubbio."
+
+### u044238
+{n}Allunghi la mano e strappi senza cerimonie i sottili fili, che ti lasciano tagli profondi sulle dita. Il corpo di Heinrix non inizia a contorcersi, ma sussulta una volta come colpito da un pugno. Il suo urlo dura solo un istante — la morte è quasi istantanea.{/n}
+
+### u044239
+{n}Gli occhi ciechi di Heinrix si muovono avanti e indietro, sforzandosi di vederti.{/n} "Non può essere... {name}... Siete davvero voi? Dove siete? Siete vicino? Allora, in nome del Trono, trovate un modo per tirarmi fuori da questa bara."
+
+### u044240
+{n}Heinrix emette una risata roca e subito ansima e ha un conato per il dolore.{/n} "Hah. Siete voi. Nemmeno Commorragh potrebbe generare qualcosa di tanto presuntuoso quanto Vostra Signoria. Liberatemi."
+
+### u044241
+"Cosa?" {n}Heinrix trasale alle tue parole.{/n} "Quel mostro non poteva conoscere il nome del Lord Inquisitore... il che significa... {name}. Siete {mf|vivo|viva}. Sia ringraziato il Trono d'Oro. Trovate un modo per tirarmi fuori da questa bara..."
+
+### u044242
+{n}Con una rapidità sorprendente date le sue condizioni, Heinrix si strappa il cerchietto nero dalla testa e ti afferra alla cieca. Un'ondata di dolore bruciante si riversa nel tuo corpo, come se il sangue nelle tue vene fosse stato portato istantaneamente a ebollizione.{/n}
+
+### u044243
+"Hai appena commesso il più grande errore della tua—" {n}Heinrix si ferma sentendo il tuo grido di dolore.{/n} "Cosa? {name}... {name} von Valancius? Siete {mf|vivo|viva}? Perdonatemi, credevo che il mio carnefice avesse trovato un nuovo modo di tormentarmi. Questi maledetti occhi..."
+
+### u044244
+"Posso... muovermi, sì. Il warp li porti, mi sento come se i nervi fossero stati rivoltati e poi ricuciti così. Per il momento dovrò soffrire a ogni passo finché non mi sarò ripreso. Ora che sono libero di usare di nuovo i miei poteri, è del tutto fattibile..."
+
+### u044245
+{n}Heinrix si strofina il viso e alza lo sguardo su di te, con gli occhi un po' sfocati. Non appena riesce a mettere a fuoco, però, il suo sguardo si sposta oltre la tua spalla. Poi si immobilizza, incontrando lo sguardo di Marazhai. Il volto di Heinrix assume un'espressione di ferocia primordiale.{/n}
+
+### u044246
+"Cosa intendete spiegarmi esattamente, Rogue Trader? Che la lurida feccia tre volte maledetta che ha distrutto i servitori dell'Imperatore e ci ha condannati a questa sorte è ora entrata nel vostro seguito? Allora risparmiatevi le spiegazioni, perché non faranno alcuna differenza per me!"
+
+### u044247
+"Alleato?" {n}Heinrix resta senza parole per un momento.{/n} "Cadranno prima i cieli di quanto io chiami alleato quella feccia! Potete estendere la vostra protezione a qualsiasi abominio che inevitabilmente vi sventrerà {mf|vivo|viva}, ma non osate istruirmi sul mio atteggiamento verso i nemici dell'Umanità!"
+
+### u044248
+{n}Lo sguardo ardente di Heinrix si sposta da te a Marazhai.{/n} "I privilegi dei Rogue Trader in azione, presumo? Ho abbandonato da tempo ogni illusione che potessi avere sulla natura umana, ma devo ammettere di non aver previsto che qualcuno si abbassasse tanto da accompagnarsi a feccia come questa."
+
+### u044249
+"Insultami ancora, mon-keigh, e questa feccia ti mostrerà com'è quando si arrabbia. Questo piccolo diversivo..." {n}Marazhai gratta il dispositivo simile a un sarcofago con un artiglio del suo guanto.{/n} "...ti sembrerà delizioso al confronto."
+
+### u044250
+"No... no, non credo. Probabilmente è solo il mio corpo che reagisce a lunghi periodi di dolore." {n}Heinrix ridacchia con amarezza.{/n} "E pensare che avevo dimenticato cosa si prova ad avere impulsi così elementari. Come biomante, posso soffocare le mie reazioni fisiche. Forse è per questo che sono stato scelto per questo... dispositivo. Perché mi ero distanziato dalla sensazione del dolore. E per la mia ostinazione che mi impediva di arrendermi."
+
+### u044251
+{n}Heinrix guarda nella tua direzione e sbatte le palpebre dei suoi occhi deboli.{/n} "Possiamo andare. Ma dovrete guidarmi per un po'."
+
+### u044252
+{n}Heinrix espira rumorosamente, fulminando Yrliet con lo sguardo. Alla fine annuisce con evidente riluttanza.{/n} "Potreste avere ragione. Vorrei che ci fosse un altro candidato."
+
+### u044253
+"Certo. Per questo ci ha traditi, consegnandoci al suo parente senza esitare un istante."
+
+### u044254
+"Un'altra occasione per ucciderci tutti. Avete considerato che potreste mostrare un po' troppa clemenza verso i nemici dell'Umanità?"
+
+### u044255
+{n}Heinrix scuote la testa come per scacciare un sogno atroce.{/n} "Basta. Niente di ciò che sento mi rassicurerà."
+
+### u044256
+"Se lo sapessi, non mi starei ponendo la domanda ora, {name}. Penso..." {n}Fa una pausa, come se ascoltasse qualcosa.{/n} "Il cerchietto sulla mia testa non inibiva le mie capacità — le rivolgeva verso l'interno. Le vincolava dentro il mio corpo. Mi facevano torturare me stesso con le energie del warp... Bruciavo e mutilavo i miei organi interni... Maledetti xenos!" {n}Heinrix stringe i pugni per la furia e subito sussulta per il dolore.{/n}
+
+### u044257
+{n}Heinrix sbatte le palpebre dei suoi occhi deboli e impreca sottovoce.{/n} "Avrò... bisogno di un po' di tempo per riprendermi. Quando la situazione lo permetterà, troverò un posto tranquillo e mi concentrerò proprio su questo."
+
+### u044258
+{n}Heinrix riesce a malapena a distogliere lo sguardo carico d'odio dal Drukhari quando nota Yrliet in piedi accanto a lui ed emette un gemito agonizzante.{/n} "{name}, dovete scherzare..."
+
+### u044259
+{n}Heinrix strizza gli occhi, sforzandosi di vedere qualcosa con le sue pupille sfocate. Alla fine se li strofina e volge lo sguardo a Yrliet, in piedi dietro di te.{/n} "{name}... Sto avendo le allucinazioni o lo xenos che ci ha condannati a quest'incubo è di nuovo nel vostro seguito?" {n}La voce dell'Interrogatore vibra di una rabbia incandescente.{/n}
+
+### u044260
+"Maestro van Calox!" {n}Gli occhi color rubino di Cassia si inumidiscono di lacrime contro la sua volontà.{/n} "È come se tutti i colori gli fossero stati prosciugati. Pallide ombre spettrali delle sue antiche tonalità si aggrappano ancora alla sua anima. Dobbiamo tirarlo fuori da questa macchina! Dobbiamo!"
+
+### u044261
+{n}Il torturatore si blocca, poi un istante dopo sibila e si lancia contro di te.{/n}
+
+### u044262
+{n}Tagli i tubi, estrai gli uncini e gli aghi e liberi Heinrix dai suoi legacci. Quasi cade fuori dal dispositivo Drukhari, riuscendo a malapena a reggersi in piedi.{/n}
+
+### u044263
+{n}Riconosci all'istante l'uomo inchiodato con uncini e legacci ai numerosi aghi che sporgono dalle viscere del dispositivo. Nonostante il pallore mortale e esangue della sua pelle, l'Interrogatore Heinrix van Calox è ancora vivo, a giudicare dal suo petto che si alza e si abbassa debolmente e dai suoi occhi socchiusi che vagano freneticamente. La testa è strettamente circondata da una larga fascia metallica. Da sotto filtra del sangue.{/n}
+
+### u044264
+[Disattiva lo xenodispositivo] "Ti sto liberando, che tu lo voglia o no."
+
+### u044265
+"Idira, che ci fai qui?"
+
+### u044266
+"Lo sono. Ed è bello vedere che anche tu sei viva."
+
+### u044267
+"Non c'è tempo per parlare. Ti porto via da questo posto."
+
+### u044268
+"Dobbiamo andarcene. Subito."
+
+### u044269
+"Dimenticate il vostro posto rivolgendovi al Rogue Trader col suo nome di battesimo."
+
+### u044270
+"Come ha fatto a far tacere le tue voci?"
+
+### u044271
+"Significa che... non puoi più usare i tuoi poteri?"
+
+### u044272
+"Non va bene, Idira. Qualunque cosa ti abbia fatto, è perversa."
+
+### u044273
+"Preferisci davvero vivere... così?"
+
+### u044274
+"Sembri sul punto di morire. Qualunque cosa ti stia facendo quella cosa, non durerai a lungo."
+
+### u044275
+"Questo non è vivere, Idira. È meglio vivere il tempo che ti resta alle tue condizioni che trascorrere un'eternità a esistere nel modo che intendi tu!"
+
+### u044276
+"Tutto ha un prezzo. Hai considerato il prezzo che stai pagando?"
+
+### u044277
+"Se non riesco a convincerti, troverò un altro modo per liberarti da questa compulsione!"
+
+### u044278
+"Se è una tua scelta consapevole, non vedo motivo di costringerti."
+
+### u044279
+[Uccidi Idira] "Morte alla traditrice!"
+
+### u044280
+"Tornerò da te più tardi."
+
+### u044281
+"Addio, Idira. Spero che questa sia la liberazione che cercavi."
+
+### u044282
+"Hai ragione, non sono {mf|arrabbiato|arrabbiata}... ma semplicemente non posso lasciarti così!"
+
+### u044283
+[Strappa lo xenodispositivo dalla testa di Idira]
+
+### u044284
+"Forse possiamo capire come funziona quella 'cosa'. Ma prima dovremo toglierla."
+
+### u044285
+"Credo nella salvezza attraverso la forza di volontà e il carattere, non per mano dei Drukhari."
+
+### u044286
+"Il Dio-Imperatore ti aiuterà. Devi credere che lo farà."
+
+### u044287
+"Pensiamo a tutto questo dopo che saremo usciti di qui."
+
+### u044288
+Hai convinto Idira ad accettare le voci e a rimuovere il soppressore psichico a Commorragh.
+
+### u044289
+[Ipnotizza Idira] "Perché i tuoi sussurri ti spaventano così tanto, Idira? Ti hanno mai tradita? Non dovresti rinunciare a un dono tanto straordinario. Accettalo, perché quel dono è ciò che sei."
+
+### u044290
+{n}Idira Tlass ti fissa come se avesse visto un fantasma. Sulla sua testa c'è uno strano dispositivo dall'aspetto sinistro, un groviglio di innumerevoli fili sottili e traslucidi avvolti in motivi elaborati e disgustosi sulle tempie. Molti di quei fili penetrano nella pelle del viso, del collo e delle clavicole.{/n} "Lord Capitano! Sei... {mf|vivo|viva}?"
+
+### u044291
+"Sì... {name}?" {n}Idira ti guarda attraverso con un debole sorriso.{/n}
+
+### u044292
+{n}Idira ridacchia con ironia.{/n} "Sono appena diventata me stessa, Cass. La vecchia noiosa me — un topolino grigio senza un briciolo di follia, e senza inquilini che vivono nella sua testa vuota."
+
+### u044293
+"Svegliati, idiota! Questo ashmag ti sta solo usando, ti prende in giro, fa esperimenti su di te! Lo abbiamo detto noi stessi tante volte davanti a un bicchiere di amasec: tutto in questa vita ha un cartellino col prezzo. Pensaci, shereen. Se qualcosa sembra gratis, allora il prezzo sei tu. Non lo vedi?"
+
+### u044294
+"Portarmi via?" {n}Idira indietreggia, come spaventata all'idea che tu possa afferrarla.{/n} "No! Mai!"
+
+### u044295
+"Oh sì, vivo!" {n}Idira ridacchia.{/n} "Non mi sono mai sentita così... viva."
+
+### u044296
+{n}Idira si guarda intorno nella stanza e poi ti guarda di nuovo con una punta di colpa sul volto.{/n} "Sai... pensavo che non ci fossi più. Che fosse finita per te. Pensavo che non ti avrei mai più {mf|rivisto|rivista}. Così io... ho provato a ricominciare da capo."
+
+### u044297
+{n}Più guardi Idira, più strani dettagli noti nel suo aspetto: il colorito insolito e terroso del suo viso; le sottili vene violacee attorno alle labbra aride e screpolate; il lieve cambiamento nel colore dei suoi occhi ormai opachi. Ti pervade una spiacevole sensazione di stonatura, come se la donna che hai di fronte non fosse del tutto viva.{/n}
+
+### u044298
+"No!" {n}Il grido di Idira riecheggia nella stanza in penombra.{/n} "Non è vero!"
+
+### u044299
+"Mi hanno liberata." {n}Idira ti guarda negli occhi e sorride in modo febbrile, ebbro.{/n} "Libera dalla paura. Dal dolore. Da... loro."
+
+### u044300
+{n}Idira indica vagamente lo strano "arnese" sulla sua testa.{/n} "Vedi questo? È una ricompensa. Una ricompensa per la mia lealtà."
+
+### u044301
+"Quando ci hanno catturati, io... non ricordo molto di allora. Ricordo catene che bruciavano ogni volta che sentivo un sussurro. Ricordo iniezioni che mi intorpidivano il corpo. Ricordo che mi... trascinavano via da te."
+
+### u044302
+"Poi sono finita qui, alla mercé del Maestro Tervantias. All'inizio mi ha studiata, mi ha punzecchiata con gli aghi, mi ha aperto la testa per vedere cosa c'era dentro, ma poi... poi ha fatto smettere le voci. Le ha fatte smettere! {name}, non sento più i sussurri!"
+
+### u044303
+"La nostra bambola dai tre occhi, Cassia... hanno preso anche lei, insieme a me. Il suo corpo c'era, almeno. Non si muoveva, non parlava, niente."
+
+### u044304
+"Si sono interessati anche a Heinrix. Una volta ha quasi combattuto per aprirsi la strada... I nuovi padroni si sono divertiti." {n}Idira china il capo e si morde il labbro.{/n}
+
+### u044305
+"Ma, Lord Capitano... Come dovrei chiamarti, altrimenti? Non sono più una suddita dei von Valancius. Non ti servo più. Sei {name}, e basta. Ti prego di non giudicarmi troppo duramente, ma non voglio tornare com'era prima. Ne ho avuto abbastanza."
+
+### u044306
+"Con questo, penso..." {n}Idira tocca uno dei tubi sulla sua testa.{/n} "Faceva male quando me lo stava mettendo. Fa male ancora, ma ormai ci sono abituata. {name}, ciò che conta è che quella maledetta porta sull'altro lato si è chiusa! Non sento i sussurri, non vedo fantasmi del futuro, non vengo svegliata da urla di tormento, e non sono perseguitata da visioni degli orrori che mi aspettano! Tutto questo si è semplicemente... fermato!"
+
+### u044307
+"Non posso, no — e meno male. Sai..." {n}Idira si guarda intorno.{/n} "Penso che gli xenos abbiano il terrore delle streghe umane. Perché altrimenti mi terrebbero mezza delirante e fuori di me? O farebbero tutte queste cose per recidere il nostro legame col warp? Hanno paura, eccome! Ma non sanno come combatterlo altrimenti!"
+
+### u044308
+"'Perversa'! Ah! Come se tu sapessi cosa si prova a nascere {mf|stregone|strega}! A vedere il proprio nome maledetto da tutti fin dall'infanzia, a vivere come un mostro inutile e pericoloso la cui unica utilità è diventare l'animale da compagnia di qualcuno!" {n}Idira digrigna i denti.{/n} "So che Lady Theodora non era così... e nemmeno tu... ma non è questo il punto. Mi ha resa NORMALE! Finalmente!"
+
+### u044309
+"Se significa dover servire uno xenos... così sia! Tutti i giorni che ho passato qui, li ho trascorsi in un silenzio beato. Nessuno mi disturba. Nessuno mi tormenta! Nessuno cerca di raggiungermi dall'altra parte, e da questa parte... nessuno mi nota affatto! Non voglio altro! Voglio solo... essere lasciata in pace..." {n}Idira si volta, barcollando leggermente per il movimento brusco.{/n}
+
+### u044310
+"Come cosa? Normale? Non speciale? Sì! Al vuoto tutti i miei 'talenti' e le mie 'abilità'! È la prima volta che sento i miei pensieri, {name}! Sono miei, non quelli di qualche abominio del warp! E non i pensieri e le parole futuri di un Lexmeccanico a caso al cogitatore accanto a me!"
+
+### u044311
+"Sto aiutando il Maestro Tervantias! Sono la sua assistente personale, come... come una segretaria! Faccio... cose. Proprio ieri ho passato diverse ore a cercare qualcosa nelle stanze sotto la sua sala operatoria. Ci sono così tante stanze e vicoli ciechi laggiù, mi chiedo perché... Il giorno prima stavo sistemando una delle sue macchine. Mi ha fatto male una o due volte, ma poi ci ho preso la mano..."
+
+### u044312
+"Non ho un bell'aspetto, vero?" {n}Idira si lecca le labbra aride. La sua lingua è gonfia e pallida.{/n} "Io... non sento davvero il mio corpo. Eh. Non avrei mai pensato di rischiare di morire per cause fisiche, ho sempre pensato che sarebbe stato per il mio cervello che si scioglieva fino a non lasciare niente..."
+
+### u044313
+"Il Maestro Tervantias mi direbbe se ci fosse qualcosa che non va. Dice che sono un esemplare prezioso... Mi apprezza. E apprezza ciò che faccio."
+
+### u044314
+{n}Idira fa una smorfia.{/n} "Un'eternità? Un'eternità sembra un tempo terribilmente lungo... soprattutto qui. Non ci avevo pensato..."
+
+### u044315
+"C'è qualcosa che mi spaventa più di trascorrere un'eternità qui, ed è un'eternità là... oltre la porta... diventando il giocattolo delle bestie che chiamano casa il warp..."
+
+### u044316
+{n}Idira fatica a deglutire. Pensi che stia cercando di piangere, ma non escono lacrime.{/n} "Ma se io... decido di andarmene... allora il Maestro Tervantias vorrà di sicuro riaverlo... Vorrà rimuovermi questa cosa... e allora i sussurri torneranno. Ricominceranno... a chiamarmi. E allora, {name}?"
+
+### u044317
+"Una volta mi hai promesso, {name}... hai promesso che avremmo trovato qualcosa, giusto? E ora sappiamo che gli xenos hanno cose come questa, quindi significa che... c'è speranza?"
+
+### u044318
+"Me l'hai detto tu una volta... 'Tieniti sotto controllo, sii utile, non essere un peso'... E ora vuoi che me lo tolga? Che senso ha?"
+
+### u044319
+"Fai quello che vuoi... se le mie parole non bastano a convincerti a lasciarmi in pace."
+
+### u044320
+{n}Idira alza lo sguardo su di te.{/n} "{name}, non sei... {mf|arrabbiato|arrabbiata} con me, vero?"
+
+### u044321
+{n}Lascia andare un gemito dolorante.{/n} "Quando capirete tutti..."
+
+### u044322
+{n}Idira non riesce a schivarti in tempo. Afferri lo strano dispositivo sulla sua testa e tiri...{/n}
+
+### u044323
+{n}Idira strilla e barcolla via.{/n} "No! E non provarci di nuovo, mi senti?"
+
+### u044324
+{n}Idira si ferma. C'è un lampo di sospetto nei suoi occhi.{/n} "Che strano. Ora che l'ho detto ad alta voce, quei compiti cominciano a suonare più come dei test..."
+
+### u044325
+"Be', che imbarazzo." {n}Idira si sforza di ridere mentre guarda i frammenti sul pavimento.{/n} "Sembra che gli xenos abbiano ragione a chiamarci animali maldestri. Oh be', visto che è deciso..." {n}Ti lancia uno sguardo di feroce gioia.{/n} "Tanto vale andarsene col botto. Fai strada, Lord Capitano!"
+
+### u044326
+"Come se avessi qualcosa del genere... Ah!" {n}Idira tira su col naso e ti rivolge un sorriso storto.{/n} "Che nessuno dica che il Lord Capitano non ha senso dell'umorismo..."
+
+### u044327
+"Va bene, basta chiacchiere. È il momento." {n}Afferra il dispositivo sulla sua testa con entrambe le mani e comincia a tirare. Il colore le abbandona all'istante il viso, gli occhi le sporgono e si morde il labbro così forte da farlo sanguinare...{/n}
+
+### u044328
+{n}Idira sbuffa all'improvviso proprio come faceva un tempo.{/n} "Ah-ah. Il nostro Imperatore paterno non mancherà di risparmiare un po' di liberazione per una strega pagana di qualche mondo dimenticato... Questa è bella."
+
+### u044329
+{n}Gli occhi di Idira si illuminano.{/n} "Hai ragione... Una volta a casa, sarà un gioco da ragazzi trovare qualche genio della xenotecnologia che ci capisca qualcosa..."
+
+### u044330
+{n}Idira non dice nulla per un po'.{/n} "Solo, non dire che non ti avevo avvertito."
+
+### u044331
+{n}...con un suono secco, i tubi scivolano fuori da sotto la sua pelle, spruzzando sangue misto a un viscidume color ocra dall'odore nauseabondo, e il dispositivo si stacca dalla testa di Idira. Lei emette un grido lacerante, la testa che scatta all'indietro per il dolore — e il delicato dispositivo tintinna mentre va in mille minuscoli frammenti.{/n}
+
+### u044332
+"Che cos'hai fatto?" {n}Idira ignora le centinaia di tagli sul viso, sul collo e sulle mani e si protende verso i frammenti sul pavimento.{/n} "Quella... quella era la mia speranza! La mia salvezza da tutta la porcheria che continua a strisciarmi nella testa! E tu hai appena..."
+
+### u044333
+{n}Impiega qualche istante a ricacciare indietro i singhiozzi che le salgono in gola. Poi si asciuga in fretta il viso, si raddrizza e ti rivolge uno sguardo rancoroso.{/n} "Hai vinto... Lord Capitano. Visto che morire di vecchiaia ora è fuori discussione, non ha senso che io resti qui. Vengo con te."
+
+### u044334
+{n}Cassia ti rivolge uno sguardo pieno di dolore e dubbio.{/n} "Forse non dovremmo negarle la scelta di essere... libera a modo suo?"
+
+### u044335
+{n}Incantata, Idira ascolta il suono della tua voce e ripete debolmente dopo di te,{/n} "Perché i sussurri sono ciò che sono, e io sono i sussurri... Sì, potrei vivere un po' più a lungo con questo... straordinario dono... perché è così grande... vero?" {n}La sua fronte si corruga mentre lotta con i suoi dubbi.{/n} "Per quanto sia grande, è anche pericoloso, {name}. I sussurri non mi aiutano soltanto. Mi stanno attirando verso qualcosa di... irreversibile."
+
+### u044336
+"Che ne è stato dei vostri colori, Idira? Si sono sciolti dentro di voi. No, siete voi che vi siete sciolta in loro. Siete diventata una macchia grigia."
+

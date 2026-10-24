@@ -1,0 +1,993 @@
+### u073257
+"La Cognisance Fleet loda il Messia ritornato. La gerarchia di comando è stata ripristinata. Che il Ciclo sia cessato!"
+
+### u073258
+"Vostra Signoria, stiamo osservando un grosso squadrone di forze dell'Adeptus Mechanicus. Molte navi sono gravemente danneggiate. A giudicare dalla posizione dei servitori dell'Omnissiah, sono divise in due gruppi. Oserei dire che hanno combattuto non molto tempo fa... Sto captando un segnale da una delle navi."
+
+### u073259
+"Vogliono sapere se la loro battaglia fratricida debba proseguire. Che cosa pensate che dovrei rispondere, {name}?"
+
+### u073260
+"Vogliono sapere se la loro lotta fratricida proseguirà. Ditemi, {name}, quale risposta dovrei dare loro?"
+
+### u073261
+"Vostra Signoria, la Cognisance Fleet chiede se il loro scisma sia ancora in piedi. Come devo rispondere?"
+
+### u073262
+"C'è qualcosa di insolito in queste navi?"
+
+### u073263
+"Metti in linea uno dei capitani."
+
+### u073264
+"Pasqal, sembra un raduno di credenti nella Cessazione del Ciclo."
+
+### u073265
+"Chiedi il permesso di atterrare a bordo della loro nave."
+
+### u073266
+"Lasciamoli in pace."
+
+### u073267
+"Siamo la Cognisance Fleet. Lodiamo il Messia della Cessazione. Restiamo in preghiera. Restiamo in attesa. Che il Ciclo sia cessato. L'Omnissiah sa tutto, comprende tutto. Siamo la Cognisance Fleet. Lodiamo il Messia della Cessazione..."
+
+### u073268
+"Sarà fatto, Vostra Signoria... Richiesta respinta. Riceviamo soltanto il messaggio trasmesso poco fa."
+
+### u073269
+"Vostra Signoria, l'aver chiamato le navi che circondano il relitto dell'Hermetico ha portato alla ricezione della seguente trasmissione."
+
+### u073270
+"Sì, Vostra Signoria. Stiamo captando tracce di combattimenti recenti su molte delle navi. Numerose tracce."
+
+### u073271
+"Dalla valutazione preliminare della radiazione di fondo, sembra che... sia stata usata contro di loro un'arma dell'Adeptus Mechanicus."
+
+### u073272
+"Non possiamo dire con certezza in chi si siano imbattuti. Ma con la situazione attuale nella Distesa, non c'è da stupirsi."
+
+### u073273
+"Confermato. Il numero di aderenti alla Cessazione del Ciclo non corrisponde alla previsione precedente. La disponibilità a dichiarare il proprio impegno verso gli insegnamenti del beato Amarnat è anomala. Questa unità è incuriosita."
+
+### u073274
+"Abbiamo ricevuto un messaggio standard di rifiuto della richiesta, Vostra Signoria. Che oltraggiosa impudenza!"
+
+### u073275
+"Ipotizzo che lo scisma all'interno della Cognisance Fleet abbia raggiunto il culmine. I miei tecno-compagni hanno levato le armi gli uni contro gli altri. È con dolore che registro questa informazione nell'archivio."
+
+### u073276
+"Manda un equipaggio di recupero sulla nave. Quel cumulo di metallo ci farebbe comodo."
+
+### u073277
+"Diamo a Pasqal una sepoltura degna. Ponte dei cannoni principali, aprite il fuoco sull'Hermetico."
+
+### u073278
+"Lasciala stare. Che resti come memoriale di Pasqal."
+
+### u073279
+"Vostra Signoria, gli ufficiali superiori piangono la tragica perdita dell'Enginseer Primo durante la spedizione. Quali saranno gli ordini successivi riguardo all'Hermetico?"
+
+### u073280
+"Sarà fatto. I clan nativi dei ponti inferiori verranno addestrati nell'arte dello smantellamento di base e trasportati sull'Hermetico.
+
+### u073281
+"Ponte principale al Lord Capitano, l'ordine sarà eseguito."
+
+### u073282
+"Ponte dei cannoni principali. Vi ordino di aprire il fuoco sull'Hermetico."
+
+### u073283
+"Potrei ancora farmi servire da questo rottame."
+
+### u073284
+"Lo scisma della Cessazione del Ciclo è da ora in poi soppresso. Richiedo una sepoltura di fuoco per i resti della sacra nave Hermetico... E per quel poco che rimane dell'Archmagos Amarnat."
+
+### u073285
+"L'Omnissiah sa tutto. Comprende tutto."
+
+### u073286
+"Richiesta respinta. Eschatos è la dottrina della cessazione. Attivo la suddetta dottrina, bersaglio: l'Hermetico."
+
+### u073287
+"Rimanderemo l'atterraggio."
+
+### u073288
+"Radunate l'equipaggio d'abbordaggio."
+
+### u073289
+"C'è un punto d'attracco sicuro?"
+
+### u073290
+"Che cosa sappiamo della nave?"
+
+### u073291
+"Permesso accordato. Che il Messia della Cessazione riveli la via verso un portello d'attracco sicuro."
+
+### u073292
+"Richiedo il diritto di partecipare alla prima squadra d'abbordaggio. Valuto le opzioni di attracco per la navetta."
+
+### u073293
+{n}La voce roca della persona che ha registrato il messaggio ti suona vagamente familiare, ma non riesci a ricordare a chi appartenga.{/n}
+
+### u073294
+"Risposta accettata. Presento una protesta e una richiesta di riesame. La missione è di massima priorità."
+
+### u073295
+"Ipotizzo che il portello stagno adatto possa essere aperto con il mio codice d'accesso personale. Motivazione: un messaggio dell'Ark Mechanicus."
+
+### u073296
+"In ogni caso, è il rudere di quella che fu la sua gloria. Osserviamo numerose tracce di decompressione interna, ma nemmeno un segno di aggressione portata dall'esterno. Per quel che vale, alcuni ponti sembrano intatti... Almeno da fuori."
+
+### u073297
+"Stiamo anche captando una strana radiazione che emana dallo scafo. Crediamo che la nave sia rimasta a lungo nella Processione dei Dannati."
+
+### u073298
+"Vostra Signoria, secondo il registro navale, abbiamo davanti l'Ark Mechanicus Hermetico. Abbiamo captato un segnale vox proveniente da essa."
+
+### u073299
+"Ogni Ark è un santuario per l'Adeptus Mechanicus. Ognuna di queste navi è una reliquia. Sono incredibilmente antiche e furono costruite per cercare i sacri schemi dello Standard Template Construct. Le leggende narrano di interi mondi forgia che furono letteralmente smontati per ricavarne i pezzi per simili vascelli."
+
+### u073300
+"Non al momento, Vostra Signoria. I danni allo scafo rendono difficili le osservazioni, e i portelli stagni sopravvissuti sono sigillati."
+
+### u073301
+"Ha rubato una navetta? Com'è potuto succedere?"
+
+### u073302
+"Perché non sono {mf|stato informato|stata informata} subito delle sue azioni?"
+
+### u073303
+"Adesso tutti i membri del mio seguito si metteranno a rubare navette?"
+
+### u073304
+"Giustizia le sentinelle che sorvegliavano le navette."
+
+### u073305
+"Lord Capitano, c'è stato un incidente sul ponte di volo. Il pianeta che abbiamo scoperto si trova alle coordinate di interesse per l'onorevole Ulfar, Angelo dell'Imperatore. Nel momento in cui lo ha saputo, egli... ha scelto di abbandonare la nave."
+
+### u073306
+"Ha ordinato che gli fosse fornita una navetta e l'ha diretta verso il mondo che abbiamo davanti. Non sappiamo dove esattamente intenda andare, ma gli augur hanno seguito la navetta fino al luogo di atterraggio."
+
+### u073307
+"Lord Ulfar si è semplicemente presentato sul ponte, ha cacciato via i tutori dell'ordine e ha preteso che gli fosse concessa l'autorizzazione al decollo. I vostri servitori si sono spaventati e non hanno osato disobbedire ai suoi ordini."
+
+### u073308
+"Egli... lo ha vietato. E i tutori dell'ordine non hanno osato sfidare un Angelo dell'Imperatore. Mi dispiace moltissimo."
+
+### u073309
+"Condivido pienamente la vostra indignazione, Lord Capitano. Un abuso così sfacciato delle risorse della nave è inaccettabile!"
+
+### u073310
+"Il vostro ordine sarà eseguito con la massima diligenza, Lord Capitano."
+
+### u073311
+"Mi scuso di dovervi portare questa notizia preoccupante, Lord Capitano."
+
+### u073312
+"Manda una navetta con degli esploratori a investigare sulla nave xenos."
+
+### u073313
+"Fai identificare agli accoliti del Culto della Macchina i resti della terza nave."
+
+### u073314
+"Manda una squadra di soccorso, se ci sono dei sopravvissuti sulla fregata."
+
+### u073315
+"Abbiamo fatto tutto il possibile. Ce ne andiamo."
+
+### u073316
+"Lord Cap', ci sono prove di una scazzottata recente proprio davanti a noi... Il Trono mi porti, questa non è una fregata, è solo un rottame sventrato!" {n}Il timoniere tace per un istante.{/n} "Perdinci, ci sono anche i colpevoli, quei mostri degli Aeldari! Riconosco i loro culi lucidi anche da qui. Solo che... gli xenos si comportano in modo sospetto, se ne stanno fermi lì e non cercano nemmeno di scappare. Ci avviciniamo o apriamo il fuoco da lontano?"
+
+### u073317
+"Richiama i tuoi uomini, elantach! C'è qualcosa che non va. I Figli di Asuryan sono sgomenti, ma fare una cosa simile a una nave dei mon-keigh... No, non siamo animali. Faccio appello alla tua prudenza e alla promessa che hai fatto: non distruggere i miei simili per colpe che non hanno commesso."
+
+### u073318
+"Magari non siamo stati d'accordo su tutto, ma almeno hai cercato di tendermi la mano. Per ringraziarti, ti darò le coordinate del nascondiglio dei miei simili, come promesso. Riceverai una ricompensa degna dei tuoi sforzi."
+
+### u073319
+"Lord Capitano, abbiamo ricevuto un rapporto dall'equipaggio degli augur. La situazione è... insolita. La nave xenos non mostra alcuna firma biologica o energetica, benché sembri intatta. Secondo gli scanner... a bordo non c'è nessuno."
+
+### u073320
+{n}La Maestra del Vox trasmette l'ordine ai Tecnopreti e riceve prontamente una risposta.{/n} "Lord Capitano, riferisco che i frammenti di scafo appartengono alla razza xenos dei Drukhari, ma la presenza delle loro navi nel sistema in questo momento non è stata confermata."
+
+### u073321
+"Tuttavia, si ritiene che dei sopravvissuti si nascondano in uno dei compartimenti del vascello danneggiato dell'Imperium. Abbiamo inoltre avvistato dei resti di rivestimento alla deriva che appartengono a un terzo vascello non identificato."
+
+### u073322
+{n}Dopo diverse ore di tediosa attesa, Vigdis torna in onda.{/n} "Lord Capitano, gli esploratori confermano il nostro rapporto precedente. La nave xenos è intatta. All'interno sono stati trovati molti artefatti di valore, ma non sono stati scoperti né gli Aeldari né i loro corpi."
+
+### u073323
+"Sarà fatto." {n}Vigdis aziona gli interruttori del cogitatore del sistema vox, e la trasmissione rimane muta per un po'.{/n}
+
+### u073324
+"Siamo... in ritardo di nuovo, elantach." {n}La voce di Yrliet suona flebile e quasi spenta.{/n}
+
+### u073325
+"Kae-morag!" {n}Un grido soffocato interrompe la trasmissione sul ponte di comando del capitano.{/n} "Sono venuta con voi sperando di trovare i miei simili sopravvissuti, elantach. E tutto ciò che ho trovato sono stati cadaveri sepolti dall'odio umano. Anche quando avresti potuto aiutare la mia gente, hai seguito ostinatamente la stessa strada di tutti gli altri mon-keigh, violando il nostro accordo. Non aspettarti gratitudine da me."
+
+### u073326
+"Gli xenos hanno unito le forze per eliminare un vascello dell'Imperium? Hmm. Un'alleanza tra Aeldari e Drukhari è una vista insolita, eppure un simile esito... non sorprende affatto."
+
+### u073327
+"Ma certo, Maestro Interrogatore, stavo pensando esattamente la stessa cosa! Finalmente io e voi possiamo andare d'accordo su qualcosa."
+
+### u073328
+"Somiglia moltissimo a una cospirazione tra i nostri affascinanti cugini xenos, che l'azhi li condanni tre volte. Un evento insolito per gli Aeldari e i Drukhari... Ma tutt'altro che impossibile."
+
+### u073329
+"Quanto sono ciechi i mon-keigh di fronte ai vizi della propria stirpe. Gli umani attaccano una nave dei Figli di Asuryan che naviga pacificamente, ma sono i miei simili a dover essere incolpati?" {n}Yrliet è fuori di sé dal disprezzo e dalla rabbia.{/n} "No, la mia gente non prenderebbe parte volontariamente a un massacro orchestrato dagli Oscuri per poi abbandonare la propria nave. Qui è successo qualcos'altro, qualcosa a cui ho paura persino di pensare."
+
+### u073330
+"Lord Capitano, gli esploratori sono riusciti a salvare diversi ufficiali emaciati dalla nave distrutta. Nonostante le ferite, sono stati in grado di raccontarci che cosa era successo: durante un pattugliamento, la fregata ha scoperto una nave Aeldari che attraversava il sistema e ha deciso di attaccare subito i nemici dell'Umanità. Il vascello xenos si è dimostrato troppo veloce e schivo, ma a un certo punto i suoi motori hanno ceduto, offrendo alla fregata l'occasione di attaccare."
+
+### u073331
+"Quando i cannoni sono stati puntati, diverse navi Drukhari sono balzate all'improvviso fuori dall'oscurità. All'inizio hanno attaccato da lontano, ma presto hanno abbordato la fregata e hanno compiuto un massacro sanguinoso sui ponti. Gli ufficiali sopravvissuti sono riusciti a fuggire solo per puro miracolo, chiudendosi in un compartimento tecnico nascosto di cui gli xenos non sapevano che farsene. I sopravvissuti sostengono che gli xenos abbiano cospirato e condotto deliberatamente la nave in una trappola, dove ha trovato la sua rovina."
+
+### u073332
+"Quanto sono ciechi i mon-keigh di fronte ai vizi della propria stirpe. Gli umani attaccano una nave dei Figli di Asuryan che naviga pacificamente, ma sono i miei simili a dover essere incolpati per la tragedia che li ha colpiti a causa delle loro azioni?" {n}Yrliet è fuori di sé dal disprezzo e dalla rabbia.{/n} "No, la mia gente non prenderebbe parte volontariamente a un massacro orchestrato dagli Oscuri per poi abbandonare la propria nave. Qui è successo qualcos'altro, qualcosa a cui ho paura persino di pensare."
+
+### u073333
+"So che hai fatto del tuo meglio per mantenere la promessa, elantach. E non ci sono abbastanza colori e sfumature nella tua lingua per descrivere quanto questo significhi per la mia gente. Quanto significhi per me..." {n}Per un breve istante, la voce di Yrliet annega nel silenzio.{/n} "Sono grata. E rispetterò la mia parte dell'accordo condividendo le coordinate del nascondiglio dei miei simili. Riceverai una ricompensa degna dei tuoi sforzi, elantach."
+
+### u073334
+"Elantach, è..." {n}L'auricolare vox nel tuo orecchio trasmette un sussulto soffocato.{/n} "La mia ricerca è giunta a un vicolo cieco? Mi sono avventurata nell'oscurità dello spazio con i mon-keigh sperando di trovare i miei simili... Ma tutto ciò che ho trovato sono stati cadaveri sepolti dall'odio umano." {n}La voce di Yrliet trema di disperazione o di rabbia.{/n}
+
+### u073335
+AAAAAA
+
+### u073336
+Attacco a Dourado's Passage
+
+### u073337
+Attacco a Sotto's Tomb
+
+### u073338
+Attacco a Tenebris Aquae
+
+### u073339
+Attacco a Smaragdus Mundos
+
+### u073340
+Attacco a Gartrafal's Calamity
+
+### u073341
+"Dov'è la feccia che mi ha tagliato la mano? Vengo a prenderti, e ti strapperò il cuore!"
+
+### u073342
+"Ingrati. Noi li proteggiamo e loro ballano sulle nostre ossa! Ricorderò quella faccia, e tornerò."
+
+### u073343
+"Dannazione, perché doveva essere proprio Godierda? Non so perché l'Imperatore ti abbia ordinato di ucciderla, ma dobbiamo fare in modo che non sia morta invano."
+
+### u073344
+"E proprio così, se n'è andata. Non saprà mai nemmeno per che cosa è morta. Intanto i filatori continuano a emettere i giudizi che gli pare."
+
+### u073345
+"Trono! Hai visto quella tutrice arrostita? Se l'è cercata, dico io! Almeno per qualche ora non ci picchieranno più."
+
+### u073346
+"Godierda è morta? Ah! Roba da festeggiare, finché non ne assegnano un'altra!"
+
+### u073347
+"La tutrice è semplicemente morta così, o ha... avuto un piccolo aiuto? Eh, chi se ne importa. Spero solo che portino via presto il corpo. L'ultima volta la puzza mi ha fatto stare male per tutto il turno."
+
+### u073348
+"Un cultista della morte? Lo sapevo che oggi dovevo cambiare turno."
+
+### u073349
+"Voi... non siete {mf|venuto|venuta} qui per me, vero? Non ho fatto niente di male!"
+
+### u073350
+"Non so perché siate qui, ma spero che non sia per portarmi via..."
+
+### u073351
+"Sapete, vi guardo, ma non ho affatto paura. Credo di aver visto troppi disastri per temere la morte."
+
+### u073352
+"Un mio amico della baia della fonderia sta ancora cercando sua figlia dopo quel raid dei tutori."
+
+### u073353
+"Dovevi dirgli che è finita nel tritarifiuti."
+
+### u073354
+"Perché tremi, ragazzo? Ti ha spaventato la sirena del turno?"
+
+### u073355
+"Lascialo stare. Se avessi vissuto quello che hanno fatto quei maledetti dei ponti superiori nella baia della fonderia, anche tu avresti paura della tua ombra."
+
+### u073356
+"Agli operai della fonderia hanno dato razioni e medicine gratis, e noi qui sbarchiamo a stento il lunario! Dov'è la giustizia in questo?"
+
+### u073357
+"Pare che quelli dei ponti superiori capiscano solo la forza. Dovremmo fare lo stesso e uccidere anche noi un pezzo grosso."
+
+### u073358
+"Che cos'ha Nemesite contro il Rogue Trader, poi? {rt_mf|Lui|Lei} ha fatto dei regali ai clan della fonderia invece di spaccare loro tutte le ossa."
+
+### u073359
+"Perché dovremmo essere contenti di un'elemosina? Oggi {rt_mf|lui|lei} si sente {rt_mf|generoso|generosa}, ma che cosa cambia? Ieri mangiavano avanzi e morivano di malattia, e domani sarà di nuovo così."
+
+### u073360
+"Non ti disturbare a nascondere quel bel distintivo del disonore, fonditore. Tutti sanno che hai venduto tuo fratello ai tutori per una razione."
+
+### u073361
+"Quell'idiota urlava di essere Nemesite! Tutta la nostra famiglia avrebbe potuto essere fucilata! Io... ho fatto quello che dovevo."
+
+### u073362
+"Ho sentito che dopo tutte quelle soffiate hanno impiccato trentatré 'Nemesite' nella fonderia."
+
+### u073363
+"E io ho sentito che metà dei delatori non è mai arrivata ai ponti di mezzo, grazie al lavoro di qualche anima gentile."
+
+### u073364
+"Morte ai venduti. E una piaga sugli infidi dei ponti superiori!"
+
+### u073365
+Un cavo vibrante della potenza della carica conduttiva. Un solo fendente della lama manderà l'anima del tutore dell'ordine dall'Imperituro.
+
+### u073366
+Compi la volontà dell'Imperituro
+
+### u073367
+Diventa un'ombra e ascolta la voce della folla
+
+### u073368
+È troppo presto. La preda non deve vedere il cacciatore tendere la trappola.
+
+### u073369
+Aspetta. Osserva. Preparati. Lei ti vede. Il momento non è ancora giunto.
+
+### u073370
+"Vedo che vi siete tutti tolti le sciarpe rosse. Non avete più voglia di giocare ai Nemesite, eh?"
+
+### u073371
+"Se non metti la sciarpa, diventi il nemico di qualcuno. Lo stesso se la metti."
+
+### u073372
+"Ascoltate, ascoltate! Ragazzi, ho una storia da raccontarvi!"
+
+### u073373
+"Com'è che i tutori non ti hanno ancora frustato fino a farti rimbambire per tutte le tue 'storie'?"
+
+### u073374
+Tendi una trappola versando il liquido
+
+### u073375
+Un serbatoio di fluido tecnico. Se perde, la potenza della carica conduttiva si diffonderà impercettibilmente sul pavimento.
+
+### u073376
+"Conosci la sensazione di essere fissato, senza riuscire a capire da chi né da dove? Io ce l'ho proprio adesso."
+
+### u073377
+"Non ne sono sicuro, ma non mi piace come ci guardano gli abitanti del posto. Forse è il tuo carisma accattivante, ma sospetto molto di più che la colpa sia dell'armatura da tutore."
+
+### u073378
+"Dov'è la Seconda Filatrice? Dovevamo incontrarci qui."
+
+### u073379
+"Spindle! Quel figlio di un grox! Ha la bocca come un setaccio, e non parlo dei denti che gli mancano."
+
+### u073380
+"Qualcuno ha colpito duro i ponti superiori e tutti gli indizi portano dritti giù alle camere! I tutori stanno venendo a macellarci!"
+
+### u073381
+"Ho sentito che Nemesite ha ferito un pezzo grosso, quindi i tutori si preparano a fare un raid nelle camere. Dobbiamo scappare! Non si preoccuperanno di capire chi è davvero colpevole e chi no!"
+
+### u073382
+"Qualcuno delle camere ha attaccato il tempio? Allora consegnatelo ai tutori! Non voglio morire per i crimini di un altro!"
+
+### u073383
+Amaro
+
+### u073384
+Fornace
+
+### u073385
+Stocco
+
+### u073386
+Voce Infuocata
+
+### u073387
+Padrona d'Acciaio
+
+### u073388
+Mani Grigie
+
+### u073389
+Incudine
+
+### u073390
+Macchia
+
+### u073391
+Primavera
+
+### u073392
+"Credete di essere adatto a servire sulla nave ammiraglia?"
+
+### u073393
+"Quindi le vostre ragioni sono il vostro coraggio incrollabile e il vostro amore per le stelle?"
+
+### u073394
+"Molto bene. Vi accetto al mio servizio."
+
+### u073395
+"Apprezzo il vostro fervore, ma la mia nave non manca di guerrieri abili."
+
+### u073396
+"Vostra Signoria! Primo Tenente Mattis Erebis, ai vostri ordini!" {n}Il giovane alto e dai capelli scuri scandisce le parole con precisione mentre vi saluta con grande fervore. Senza fiato per la propria audacia, sbotta:{/n} "Spero di non sembrare troppo sfrontato se dico che ho sempre sognato di servire sulla vostra nave ammiraglia. Sarebbe troppo per un umile servitore della dinastia sperare che il Lord Capitano voglia graziosamente accoglierlo nel suo equipaggio?"
+
+### u073397
+{n}Mattis distoglie lo sguardo per primo.{/n} "Perdonate la mia mancanza di tatto, Signora..." {n}Si schiarisce la voce.{/n} "Ho la strana sensazione che ci siamo già incontrati."
+
+### u073398
+"Ho servito con dedizione nelle forze planetarie, Vostra Signoria. Il Governatore Drivestem mi ha persino conferito una medaglia per aver difeso il formicaio meridionale dagli xenos. Sarò anche nato su un mondo legato alla gravità, ma il mio cuore appartiene al vuoto!"
+
+### u073399
+"C'è... un'altra ragione, Vostra Signoria, ma temo che la troverete ridicola. Vedete, ho sempre saputo che il mio destino mi attende sulla nave ammiraglia. Perché fin da bambino faccio sempre lo stesso sogno: una giovane donna dai capelli scuri che cammina a piedi nudi lungo i ponti, e io che seguo le sue orme. Corro, ma non riesco mai a raggiungerla."
+
+### u073400
+{n}Kibellah appare senza far rumore al tuo fianco. Il suo volto si riflette negli occhi scuri di Mattis. Quando i loro sguardi si incontrano, entrambi rimangono immobili per lo stupore e abbassano la testa.{/n}
+
+### u073401
+"È davvero un onore per me, Lord Capitano! Non vi deluderò! Gloria alla Casata von Valancius!"
+
+### u073402
+{n}La scintilla si spegne negli occhi del giovane tenente.{/n} "Certo, Vostra Signoria. Grazie per aver ascoltato la mia richiesta. Gloria alla dinastia!"
+
+### u073403
+"Andiamo," {n}sussurra piano Kibellah.{/n} "Ho sentito... e visto... tutto ciò che mi serviva."
+
+### u073404
+"Mio padre mi disse di aver provato qualcosa di simile quando incontrò mia madre." {n}Gli occhi di Mattis scorrono sui tratti di Kibellah. Sorride con tristezza.{/n} "Credo che il mio futuro mi attenda là."
+
+### u073405
+{n}Kibellah si prende il suo tempo per rispondere.{/n} "Voi... siete nato su un mondo e avete assorbito gli odori di un formicaio. Mi sarei ricordata di qualcuno con un simile odore. Non vi conosco."
+
+### u073406
+{n}Se Kibellah avesse mangiato a sufficienza da bambina, se non avesse sottoposto il proprio corpo a prove estenuanti, se non avesse usato sostanze inebrianti durante i rituali del culto... Si sarebbe potuto dire che i due si somigliassero parecchio.{/n}
+
+### u073407
+[Guarda il disegno]
+
+### u073408
+[Vattene] "Buon proseguimento del ricevimento."
+
+### u073409
+"Quel pezzo di pergamena dev'essere incredibilmente speciale. Non vedo altro motivo per cui tuo fratello e tua sorella stiano ignorando il Rogue Trader."
+
+### u073410
+"Quella figura scura nel ritratto. L'hai aggiunta tu, vero, Lorna? Chi è?"
+
+### u073411
+"Premi troppo forte con la penna, Lumi. Guarda come sono spesse le tue linee! E l'inchiostro non si è ancora asciugato! Madre andrà su tutte le furie quando vedrà questa macchia sul mio polsino..."
+
+### u073412
+"Gloria al protettorato von Valancius!"
+
+### u073413
+"E al Rogue Trader, {mf|signore|signora} di mille stelle!"
+
+### u073414
+"Perché non guardi quello che fai invece di farmi la predica di nuovo! Quante volte ha detto Maestro Rogbard: prima i colori di base, poi le tonalità più scure." {n}I bambini Erebis sono chini su un foglio di pergamena e discutono con passione. Accanto a loro, una scatolina finemente lavorata contiene penne e alcune boccette d'inchiostro.{/n}
+
+### u073415
+"È giusto. È onorevole." {n}Kibellah si intromette nella conversazione, fa una smorfia, poi sussurra piano:{/n} "Venite, Domin. Non spaventiamoli oltre."
+
+### u073416
+"La nostra famiglia era un tempo rinomata per il suo coraggio, ma Dargonus non ha bisogno di squadre d'abbordaggio. Così i nostri genitori hanno iscritto Rono e Lumi allo scriptorium per studiare pittura religiosa."
+
+### u073417
+{n}La pergamena è un ritratto di famiglia incompiuto che mostra i genitori Erebis e i loro quattro figli. L'abilità dei giovani artisti è impressionante.{/n}
+
+### u073418
+{n}Lorna afferra per il colletto i fratelli minori e li fa inchinare, con aria colpevole.{/n} "M-mi scuso, Vostra Signoria! La colpa è mia! Lumi e Rono tendono a farsi assorbire troppo dal lavoro, ma farò in modo che non dimentichino più le buone maniere."
+
+### u073419
+{n}L'ombra di Kibellah incombe sugli Erebis più giovani. Il suo sguardo fisso studia con attenzione il disegno incompiuto, e si fa ancora più cupo.{/n}
+
+### u073420
+"Vostra Signoria! Siamo onorati di trovarci nel palazzo von Valancius. Sono Lorna Erebis." {n}Una giovane donna pallida, appena più bassa di Kibellah, si liscia nervosamente una ciocca di capelli scuri mentre sta tra i fratelli minori e la filatrice.{/n}
+
+### u073421
+{n}Kibellah getta un'ultima occhiata al ritratto, poi si allontana in silenzio.{/n}
+
+### u073422
+{n}Lorna stringe le labbra e distoglie lo sguardo.{/n} "Madre dice che il clan Erebis ha un guardiano segreto che ci protegge dall'ombra. E ho pensato... Sarebbe ingiusto disegnare tutti noi ma non lui. Sciocco, lo so..."
+
+### u073423
+{n}Ma la tua attenzione è attirata non dalle linee sottili e dalle ombreggiature, bensì dallo schizzo di una figura scura aggiunto da una mano ancora più sapiente.{/n}
+
+### u073424
+"Grazie per la vostra ospitalità, Vostra Signoria."
+
+### u073425
+"Allora perché hai chiamato tua figlia Lorna e non Naaki? Non volevi che diventasse grande?"
+
+### u073426
+"Cerco una certa Naaki Erebis. Gli archivi della nave menzionano diversi vostri antenati, ma la persona che mi serve è una persona vivente."
+
+### u073427
+"L'Imperatore Imperituro? Eravate seguaci del Bloodspun Web?"
+
+### u073428
+"Parlami della famiglia Erebis."
+
+### u073429
+"Al momento c'è qualcuno di nome Naaki nella vostra famiglia?"
+
+### u073430
+"D'ora in poi Mattis servirà sulla mia nave."
+
+### u073431
+"Vostro figlio porta il nome Mattis."
+
+### u073432
+"Ricordi bene Theodora?"
+
+### u073433
+"È l'orgoglio della famiglia Erebis. Il suo sangue. La sua essenza. Siamo lieti che serva voi come un tempo servivamo Lady Theodora."
+
+### u073434
+{n}I due si scambiano di nuovo uno sguardo.{/n} "Il nostro clan aveva... ha una tradizione. Diamo ai nostri figli il nome dei nostri eroi passati: Mattis e Naaki Erebis, i gemelli fondatori della nostra famiglia. Un grande guerriero e una custode del sapere."
+
+### u073435
+{n}Xioni Erebis annuisce lentamente in risposta, con un sorriso triste sulle labbra.{/n} "Lo avevamo. Ma l'Imperatore ce l'ha portata via. L'Imperatore Imperituro."
+
+### u073436
+"Ci rendiamo conto che la vostra attenzione verso la Casata Erebis è stata dettata da qualche genere di circostanza. Vi preghiamo di farci sapere come possiamo esservi utili, e faremo ciò che richiedete."
+
+### u073437
+"Vostra Signoria, permetteteci di ringraziarvi ancora una volta per questo onore. Anche se abbiamo lasciato la nave ammiraglia molto tempo fa, è un piacere trovarci di nuovo al cospetto di un Lord Capitano." {n}Xioni vi guarda con uno sguardo pensoso e fisso, gli occhi più scuri del cielo notturno.{/n}
+
+### u073438
+"Il nostro figlio maggiore, Mattis, è nella guardia planetaria. Lo è anche Lorna, la nostra figlia maggiore, benché si sia dedicata alla medicina. E con mia grande sorpresa e gioia, i nostri figli più piccoli, Rono e Lumi, hanno trovato la loro vocazione nel servire il Dio-Imperatore e l'{g|Encyclopedia:AdeptusMinistorumGlossary}Ecclesiarchia{/g}."
+
+### u073439
+"Purtroppo siamo solo l'ombra di quello che era un clan molto più numeroso. La maggior parte dei nostri congiunti è caduta in battaglia, ma crediamo che l'ultima battaglia degli Erebis debba ancora essere combattuta. Alleviamo coorti di successori. Insegniamo alle nuove reclute, e ai nostri stessi figli, i segreti del servizio nel vuoto prima ancora che mettano piede a bordo. La nuova generazione... sta imparando a servire a modo suo."
+
+### u073440
+"No... Nessuno porta quel nome da molti anni ormai."
+
+### u073441
+"No, Vostra Signoria. Randor e io siamo sempre stati saldi nella fede, e veneravamo il servizio dei filatori, ma il loro sacro sentiero era troppo oscuro e spaventoso per noi."
+
+### u073442
+"Forse non abbiamo compreso le azioni del Bloodspun Web, ma non abbiamo mai dubitato che i filatori compissero la Sua volontà, perché davano tutto per il proprio dovere. È un dovere gravoso, ma un vero dovere lo è sempre."
+
+### u073443
+{n}Randor ride.{/n} "Che dire... Ho sempre voluto crescere una grande persona."
+
+### u073444
+"Non vi mentirò, Vostra Signoria, non l'abbiamo mai vista di persona. Non ne avevamo il rango. Persino il suo favore ci fu concesso sotto forma di un documento redatto e consegnato da uno scriba. Ma ricordiamo i suoi ordini, e rispecchiavano tutto il coraggio e il fervore di un vero Rogue Trader."
+
+### u073445
+"Io non—"
+
+### u073446
+"Vostra Signoria?"
+
+### u073447
+"Hanno chiamato una figlia Naaki." {n}Le parole di Kibellah pesano nell'aria.{/n}
+
+### u073448
+"Che il Trono d'Oro vi protegga."
+
+### u073449
+"Basta." {n}La voce fredda e roca di Kibellah ti fa correre un brivido lungo la schiena.{/n}
+
+### u073450
+"Un'acuta osservazione." {n}Gli occhi di Randor incontrano quelli di Kibellah mentre lei parla, ma non si lascia intimidire. Anzi, l'angolo della sua bocca si curva leggermente verso l'alto, e fa un rispettoso cenno del capo.{/n}
+
+### u073451
+"Si diceva che un grande futuro attendesse i portatori di quei nomi. Ogni Mattis o Naaki Erebis avrebbe accresciuto la fama del clan, e si sarebbero dimostrati assistenti fedeli di ogni Lord Capitano che avessero servito. Ma le leggende sono solo leggende. Non sono i nomi a dare forza alle persone, ma la fede nei loro cuori."
+
+### u073452
+"Sono {mf|pronto|pronta} a ricevere la delegazione dell'Arbites."
+
+### u073453
+"Mi ricordo di te. Tu dirigevi la cerimonia della mia Magnae Accessio."
+
+### u073454
+"Come vanno le cose su Dargonus?"
+
+### u073455
+"Farò organizzare subito l'udienza, Vostra Signoria."
+
+### u073456
+{n}Il volto dell'uomo si illumina in un sorriso, e s'inchina profondamente.{/n} "Così era, Vostra Signoria! E ora, secondo gli ordini dell'Alto Factotum, ho assunto il ruolo di vostro cancelliere facente funzione!"
+
+### u073457
+"Dopo che il Cancelliere Werserian è stato costretto a lasciare l'incarico, e il Segretario Scalander..." {n}Si schiarisce la voce, chiaramente indeciso se cambiare argomento.{/n} "Be', devo ammettere che mi aspettavo il peggio. Ma i miei predecessori hanno servito con dedizione la dinastia, ed è per questo che qui, sul mondo capitale, tutto è stabile per quanto possibile."
+
+### u073458
+"Hai accennato a un guardiano nell'ombra, vero, Lorna?"
+
+### u073459
+"Anch'io."
+
+### u073460
+[Menti] "Anch'io."
+
+### u073461
+"Naaki appartiene al passato. Quando moriranno quelli che la ricordano, morirà anche lei."
+
+### u073462
+"Tu sei Naaki Erebis. La volontà dell'Imperatore è chiara."
+
+### u073463
+[Fai un passo verso Kibellah] "Stai bene?"
+
+### u073464
+[Lascia che il ricongiungimento della famiglia Erebis prosegua indisturbato]
+
+### u073465
+"Hai ancora la destrezza della tua vecchia professione, Xioni."
+
+### u073466
+"Non uccido per ordine altrui. Non dovresti uccidere neanche tu Naaki."
+
+### u073467
+"Forse vorresti dire addio alla tua famiglia?"
+
+### u073468
+"Vieni."
+
+### u073469
+"Sono {mf|contento|contenta} che tu sia sopravvissuta."
+
+### u073470
+"Non puoi uccidere il tuo passato. Puoi distruggere le persone che vi sono legate, ma sei davvero pronta a trucidare degli innocenti solo per liberarti?"
+
+### u073471
+"Uccidere la tua famiglia non ti darà pace, ma frantumerà ancora di più la tua anima."
+
+### u073472
+"Se devi uccidere degli innocenti per sconfiggere i tuoi dubbi, allora non sei una filatrice ma una comune assassina. Dovresti temere la sete di sangue che senti!"
+
+### u073473
+"Ammetti di avere la mente offuscata. I Precetti della Rete ti permettono di compiere la Sua volontà con pensieri confusi?"
+
+### u073474
+"Se uccidere la tua famiglia ti libererà dai dubbi, allora fallo."
+
+### u073475
+"La scelta è tua e soltanto tua. Sei la filatrice dell'Imperituro."
+
+### u073476
+"Fai i conti con il passato versando il sangue di chi ti ha tradita. Tengono ancora Naaki nei loro cuori? Allora strappaglieli."
+
+### u073477
+"Quindi per tutto questo tempo, Mattis, i tuoi sogni ti stavano mostrando..."
+
+### u073478
+"Hai mentito quando hai detto che l'Imperatore aveva portato via Naaki."
+
+### u073479
+"A che cosa pensavate, a dare vostra figlia ai cultisti della morte?"
+
+### u073480
+"Una scelta difficile, ma giusta e devota."
+
+### u073481
+{n}Il grido di Kibellah riunisce la famiglia Erebis. Sei volti allarmati. Sei persone spalla a spalla come le mura di una fortezza. E, di fronte a loro, una sola figura cupa e solitaria. L'ombra scruta i loro occhi scuri... Gli stessi dei suoi. Le loro labbra pallide, le stesse delle sue. Stringe i pugni, ignorando gli artigli d'acciaio che le trafiggono i palmi.{/n}
+
+### u073482
+"Pochi anni prima che Lady Theodora mandasse i superstiti del nostro clan su Dargonus, il Vizsier del Bloodspun Web venne nella nostra baia. Disse che l'Imperatore pretendeva il prossimo primogenito del clan Erebis. Che aveva bisogno di un nuovo filatore."
+
+### u073483
+{n}Kibellah avverte la tua menzogna e sorride con amarezza.{/n}
+
+### u073484
+{n}Kibellah si volta di scatto verso di te.{/n} "Siamo qui per saldare il nostro debito con l'Imperituro. Ora abbiamo il nome, la persona e la spiegazione. Io... so che cosa va fatto. Allora perché sento dolore per una ferita invisibile nel cuore? Perché, per la prima volta nella vita, esito a recidere un filo? Per tutto questo tempo ho vagato nel labirinto della mia mente, ma la risposta non è mai arrivata. Che cosa devo fare, Domin? Come pongo fine a Naaki Erebis?"
+
+### u073485
+"Pensammo al sacrificio che dovevamo compiere, e... al sacrificio che l'Imperatore compie per tutti. Fu duro per noi, ma non dubitammo della Sua volontà. Era il nostro sacrificio e il nostro servizio."
+
+### u073486
+"La più difficile della nostra vita, Vostra Signoria. Ma sapevamo che nostra figlia era viva e serviva la fede. E, per quanto misteriose e sanguinose fossero le vie di questo servizio, erano vie gradite all'Imperatore."
+
+### u073487
+"Il rituale del congedo dal fardello." {n}Kibellah si avvicina a suo fratello, che le somiglia in tutto... eppure è così profondamente diverso.{/n} "Le nuove reclute del Bloodspun Web vi si sottopongono per dimenticare il proprio passato e votarsi all'Imperituro. E perché le loro anime non soffrano. Dimmi, Mattis... la tua anima soffre?"
+
+### u073488
+"Avrei potuto avere una famiglia e un futuro di giusto servizio. La possibilità di una vita diversa. Mi è stata tolta. Chi sarei stata e come avrei servito è stato deciso per me."
+
+### u073489
+"Il Vizsier. Il Bloodspun Web. Queste... persone. Hanno avuto l'audacia di decidere chi ero e per cosa esistevo. Per loro ero solo uno strumento." {n}Le labbra di Kibellah si torcono in un moto di disprezzo.{/n} "{d|Encyclopedia:CompKibellah_Distortion}Ma non più{/d}. Ora sono l'ombra del Domin. Sono grandezza e potere. Sono la paura e la furia dei nemici {mf|di lui|di lei}. L'universo infinito si apre davanti a me..."
+
+### u073490
+{n}I suoi occhi diventano più freddi del vuoto stesso.{/n} "Avete ragione, Domin'{name}. Perdonate la mia insolenza, ma voi e gli ospiti dovreste lasciare la sala. Ho... una questione personale da risolvere." {n}Gli Erebis iniziano ad arretrare terrorizzati, ma restano pietrificati a un solo gesto di Kibellah.{/n}
+
+### u073491
+{n}Kibellah sussulta, impallidisce ancora di più... Poi spalanca gli occhi. Si stringe il petto con un rantolo di dolore e crolla a terra come una bambola rotta.{/n}
+
+### u073492
+{n}Il corpo senza vita di Kibellah è scosso dalle convulsioni dell'agonia. Non senti il suo battito. La famiglia Erebis la circonda, con il panico e la paura che attraversano i loro volti solo per un breve istante, prima che subentri il loro rigoroso addestramento da marinai del vuoto.{/n}
+
+### u073493
+"Grazie, Vostra Signoria. Alcune cose non si dimenticano mai."
+
+### u073494
+{n}Kibellah, sgomenta, guarda prima la famiglia Erebis, poi te, poi il proprio riflesso nell'acciaio del suo pugnale.{/n} "Io... non ucciderò... Devo seguire i miei ordini quando tutta la mia natura vi si ribella e il mio cuore urla che è sbagliato? Questa non è la mia volontà."
+
+### u073495
+{n}Scossi e distrutti, gli Erebis possono solo guardare impotenti mentre Kibellah esce dalla sala del trono.{/n}
+
+### u073496
+"La mia famiglia mi ha abbandonato molti anni fa."
+
+### u073497
+"La mia famiglia... mi aspetta sulla nave ammiraglia."
+
+### u073498
+"Addio. Naaki... ha passato tutti questi anni sentendo la vostra mancanza. Ma io no."
+
+### u073499
+"Ricordo ciò che mi è permesso ricordare. I Precetti della Rete. Le preghiere all'Imperituro. I nomi dei veleni e delle sostanze inebrianti. Il nome che mi diede il Vizsier. Ma voi... No. Non vi ricordo. Non vi conosco."
+
+### u073500
+"Sussurrata... Il Dio-Imperatore esige un grande sacrificio, ma ciò rende ancora più onorevole servirLo." {n}La voce di Xioni trema, e lei si volge al marito in cerca di forza e sostegno.{/n}
+
+### u073501
+"Sei mesi dopo, nacquero due gemelli. Un maschio e una femmina con occhi più scuri dell'oscurità stessa." {n}Xioni sorride con tenerezza a Kibellah.{/n} "Tu sei nata per prima, Naaki. E con dolore e orgoglio consegnammo al Vizsier il nostro tesoro più prezioso. Perché è così che si onora il Dio-Imperatore."
+
+### u073502
+"Non abbiamo mentito. Non avremmo mai osato." {n}Randor guarda Kibellah, i suoi capelli scuri, le sue cicatrici.{/n} "Naaki..."
+
+### u073503
+"Quindi, se fossi nato un minuto prima, quel cadavere animato che oggi sta davanti a voi sarei stato io?" {n}Mattis si ritrae dai genitori.{/n} "Ma perché non ricorda niente? Perché non le è mai stato detto?"
+
+### u073504
+"Fa male solo perché in tutti questi anni non vi ho mai conosciuti."
+
+### u073505
+{n}Stringe il pugno.{/n} "Il Vizsier mi ha forgiata come un'arma e l'ha macchiata di sangue. Ha indicato un bersaglio. Ha dato una missione. Venite, Domin. Dobbiamo scendere nel tempio della morte, dove riferirò sul mio compito. E rivolgerò al Vizsier una sola domanda. 'Perché io?'"
+
+### u073506
+"Sei diventata una bella donna, Naaki. E sebbene tu ora possa essere smarrita, so che l'Imperatore ti indicherà la via. Siamo... orgogliosi di te."
+
+### u073507
+{n}Gli angoli dei suoi occhi si contraggono, come se provasse dolore.{/n} "Mi chiamo Kibellah."
+
+### u073508
+{n}Xioni si china e appoggia l'orecchio al petto immobile della figlia.{/n} "Il suo cuore non batte! Devo farlo ripartire! Indietro!" {n}Posa i palmi sullo sterno di Kibellah e preme — una volta, due, tre... dieci volte... trenta volte...{/n}
+
+### u073509
+{n}Un sospiro pesante e roco sfugge dal petto di Kibellah.{/n}
+
+### u073510
+"Naaki Erebis... è morta. Resta... solo Kibellah."
+
+### u073511
+{n}Xioni tocca la guancia di Kibellah.{/n} "Naaki... L'Imperatore è misericordioso! Non ci ha separate!" {n}Kibellah sposta con cautela la mano di Xioni.{/n}
+
+### u073512
+"Ero debole. Restia a farmi prendere dalle Sue mani. Ma poi una foschia mi ha annebbiato gli occhi... E l'ho vista. Una ragazzina spaventata. Naaki. La parte di me che nemmeno il rituale del congedo dal fardello era riuscito a cancellare. E ho capito che una parte di me si era sempre aggrappata a un passato che non ricordavo nemmeno. La mia paura della morte si è placata. Ho lasciato andare Naaki, perché l'Imperituro la stava aspettando per prenderla. E ciò che era spezzato è tornato intero. Naaki non c'è più. Resta solo Kibellah."
+
+### u073513
+{n}Kibellah annuisce e getta uno sguardo strano a coloro che, in un'altra vita, sarebbero stati la sua famiglia.{/n} "Naaki Erebis non esiste più. Il tributo alla morte è stato pagato. Resta... un'ultima cosa da fare."
+
+### u073514
+"Basta. Io... io so chi è Naaki Erebis." {n}Il suo sguardo fisso si volge verso di te.{/n}
+
+### u073515
+{n}Kibellah scuote la testa.{/n} "Vi sbagliate, Domin. Sento le vostre parole, ma sento anche... {d|Encyclopedia:CompKibellah_StillDoubts}i sussurri di mostri{/d} che vagano nella mia mente. E sono lieti che gli Erebis non muoiano. Perché queste persone sono la fonte dei miei dubbi: vane speranze, fantasmi di attaccamenti. Debolezze che dispiacciono all'Imperituro. Solo recidendo i loro fili dimostrerò di essere pronta a servirLo pienamente."
+
+### u073516
+{n}Chiude gli occhi ed esala un respiro convulso.{/n} "Potreste... avere ragione. Forse sto commettendo un errore. Mi fiderò di voi."
+
+### u073517
+{n}Lo sguardo dei suoi occhi scuri si fa più freddo del vuoto stesso.{/n} "Queste morti piacciono all'Imperituro. Non sono per me, ma per Lui. Sono solo una lama, che deve essere affilata per servire. E reciderò i fili."
+
+### u073518
+{n}La famiglia Erebis arretra inorridita, ma un gesto di Kibellah la inchioda sul posto.{/n} "Chiedo a voi e ai vostri ospiti di lasciare la sala: che solo l'Imperituro assista al mio ritorno al filo."
+
+### u073519
+"La Morte ha chiamato il nome... e la mia mente non ha potuto accogliere la volontà dell'Imperituro. Lo shock ha spento ogni pensiero, ma nel mio cuore è rimasta una durezza che alla mia coscienza mancava. Esso... semplicemente si è fermato. Ha fatto ciò che io non riuscivo a fare con la mia mano."
+
+### u073520
+"Naaki..." {n}Xioni Erebis guarda Kibellah con una paura appena celata, ma il marito nota la sua reazione e scuote la testa in segno di ammonimento.{/n}
+
+### u073521
+"No!" {n}urla Mattis.{/n} "Come avete potuto tenervi una cosa simile per voi? Come avete potuto... Come avete potuto!"
+
+### u073522
+{n}Lorna abbraccia i fratelli minori, che lanciano sguardi spaventati ai genitori e alla donna sinistra dal sorriso sghembo.{/n}
+
+### u073523
+"La donna che era destinata a me. Non l'amore della mia vita, ma... mia sorella?" {n}Mattis rabbrividisce e fissa intensamente Kibellah.{/n} "Non lo sapevo. Tu... ti ricordi di me?"
+
+### u073524
+"Un'ombra invisibile. Una serva della morte... Madre la chiamava Naaki, ma io sapevo che stava parlando con... qualcuno che conosceva."
+
+### u073525
+"Naaki Erebis..." {n}Kibellah getta indietro la testa, e la sua risata risuona nella sala.{/n} "Naaki Erebis sono io!"
+
+### u073526
+"Hai detto che l'Imperituro aveva preso Naaki. Ma la morte ha sussurrato il suo nome solo poco fa."
+
+### u073527
+"Godiamoci la serata! Unitevi agli ospiti. Parleremo più tardi."
+
+### u073528
+"Come se la passa la Casata Erebis su Dargonus?"
+
+### u073529
+"Il ricevimento è di vostro gradimento?"
+
+### u073530
+{n}Gli ufficiali Randor e Xioni Erebis fanno entrambi il segno dell'Aquila, con espressioni reverenti sui volti segnati dalle battaglie. Accanto a loro ci sono i figli. Cresciuti nell'amore per il Dio-Imperatore, sono mansueti ma affascinati dal nuovo ambiente. A giudicare dalle uniformi, i due figli maggiori fanno già parte della guardia planetaria di Dargonus.{/n}
+
+### u073531
+{n}Xioni sfiora appena il palmo del marito, gli fa un cenno rassicurante, poi si rivolge a te:{/n} "In segno della nostra massima riverenza verso la dinastia von Valancius, permettetemi di presentarvi una modesta reliquia di famiglia del clan Erebis. Possa servirvi fedelmente."
+
+### u073532
+"Certamente, Vostra Signoria. Siamo a vostra disposizione in ogni momento."
+
+### u073533
+"Siamo lieti del favore che ci mostrate, Vostra Signoria! La vita nella capitale è molto più calma e lenta rispetto alla nave. E mi sono quasi abituato alla gravità." {n}La protesi che sostiene la spina dorsale di Randor scricchiola sotto i vestiti mentre tenta un goffo inchino.{/n}
+
+### u073534
+"Va oltre ogni nostra aspettativa! Non... avremmo potuto sognare nulla di simile, a dire il vero. Persino il permesso di stabilirci su Dargonus e di continuare il nostro servizio sul mondo capitale della dinastia è stato un gesto graziosissimo da parte di Lady Theodora. Non ci aspettavamo altre attenzioni." {n}Xioni sorride con dolcezza, ma le sue dita si agitano attorno al ciondolo di famiglia.{/n}
+
+### u073535
+{n}Quando i genitori Erebis notano un cultista del Bloodspun Web al tuo fianco, si scambiano un'occhiata. Nell'aria aleggia una tensione quasi impercettibile.{/n}
+
+### u073536
+{n}Kibellah sussurra, appena udibile:{/n} "Una folla, l'attenzione del Domin e il fatto che sia la loro prima visita al palazzo... Sono nervosi. Dovete dare tempo a queste persone. Lasciate che si abituino all'ambiente... e alla vostra presenza. Lasciate che si aggirino per la sala e assaggino il cibo. Parleremo con ciascuno in privato."
+
+### u073537
+"Vostra Signoria, è un grande onore per la Casata Erebis essere invitata nel vostro palazzo." {n}Negli occhi di Randor Erebis si intravede una netta ansia.{/n}
+
+### u073538
+"Hai indossato subito l'armatura del Vizsier: ti aiuta ad abbracciare il tuo nuovo ruolo?"
+
+### u073539
+"So che è una domanda ridicola, ma... come stai?"
+
+### u073540
+"Ho appena visto il Dio-Imperatore? In carne e ossa?"
+
+### u073541
+"Che ne sarà ora del Bloodspun Web?"
+
+### u073542
+"Mi dispiace. Perdere un mentore è dura."
+
+### u073543
+"Hai fatto il tuo dovere verso il Dio-Imperatore. Era anche il suo desiderio."
+
+### u073544
+"Era un vecchio folle che ti ha mentito e ti ha usata. Non dispiacerti per lui."
+
+### u073545
+"Devo chiamarti 'Vizsier', ora?"
+
+### u073546
+"Che aspetto aveva il Vizsier ai tuoi occhi?"
+
+### u073547
+{n}Rivestita dell'armatura del Vizsier, Kibellah fissa il punto in cui, poco prima, giaceva il corpo dell'uomo che l'ha cresciuta. Le sue spalle tremano e la testa pende bassa, ma non si vedono lacrime e nessun singhiozzo esce da dietro la sua maschera d'oro scuro. All'improvviso getta indietro la testa, e un grido disperato, pieno di dolore, furia e rimpianto, riecheggia per il tempio. Quella che hai davanti non è il Vizsier, né una filatrice. È solo una figlia che ha perso il padre.{/n}
+
+### u073548
+{n}Yrliet scuote la testa e sussurra piano:{/n} "Coltivare un legame solo per sacrificarlo alla fine. Uccidere tuo padre solo per assumerne il posto. La paura che la tua gente prova per ciò che percepisce come debolezza è, in verità, la sua più grande debolezza di tutte, una che conduce il vostro spirito in una trappola senza via d'uscita."
+
+### u073549
+"Voi due avete avuto delle visioni? Io ho visto solo il vecchio in persona... Anche se ha combattuto con una forza che va oltre i semplici mortali. Era rapido e letale. Si è scelto una buona morte, anche se cupa." {n}Ulfar guarda Kibellah con aria pensosa.{/n}
+
+### u073550
+"I Precetti della Rete ci insegnano a non rimpiangere né esitare mai. Ma non avrei mai immaginato che un giorno avrei dovuto compiere una scelta così dolorosa. Ho fatto ciò che andava fatto... Ma questo non placa il dolore. So che è nelle mani dell'Imperituro, ma questo non allevia il lutto."
+
+### u073551
+"È così che avete visto il Vizsier, Domin'{name}? In lui avete visto un'immagine della Morte, ma era solo un'immagine. I fumi della sacra sostanza inebriante hanno benedetto il nostro rituale, ma ciò che avete visto, e ucciso, era un semplice uomo. L'Imperituro non viene dai vivi. Siamo noi che andiamo da Lui."
+
+### u073552
+"Il cambiamento è davanti a noi." {n}Kibellah taglia l'aria con il palmo.{/n} "Viaggiare con voi mi ha dato {d|Encyclopedia:CompKibellah_Fanatic}molte intuizioni{/d}. Siamo rimasti troppo a lungo in agguato nell'ombra! Per questo non siamo riusciti a prevenire i crimini di Nemesite né a sventare il complotto delle abominazioni. Per questo non siamo riusciti a proteggere Domin'Theodora. E non permetterò che accada nulla di simile a voi! Il Bloodspun Web stenderà i suoi fili fuori dall'ombra e assorbirà sangue nuovo."
+
+### u073553
+{n}Kibellah solleva la testa per scrutare le cavità oculari scure dell'Imperatore Imperituro.{/n} "Non devieremo dai Precetti. {d|Encyclopedia:CompKibellah_Humility}Non dimenticheremo{/d} i sacrifici dei nostri predecessori e gli insegnamenti dei nostri Vizsier. Il servizio all'Imperituro è la nostra vita. Perché Egli è dovere. Egli è morte."
+
+### u073554
+{n}Kibellah getta indietro la testa con orgoglio.{/n} "Per troppo tempo siamo rimasti a languire tra l'abbandono dei ponti inferiori, nascondendoci e compiendo la Sua volontà in segreto. Mai più! D'ora in poi saremo una mano scarlatta che guida le anime tremanti. Come Suoi santi servitori, ci rivestiremo d'oro e della venerazione che {d|Encyclopedia:CompKibellah_Distortion}meritiamo{/d}, perché disprezzare noi è disprezzare Lui! E vi serviremo, Domin'{name}, non dall'ombra ma immersi nello splendore. Tale è il nuovo Bloodspun Web."
+
+### u073555
+"Era... più di questo. Era un amico e..." {n}La voce di Kibellah si abbassa, e le parole successive sono appena udibili:{/n} "...un padre."
+
+### u073556
+"Era il suo dovere. Ma lui... era riluttante a lasciarmi fino alla fine. L'ho visto mentre i suoi occhi si spegnevano."
+
+### u073557
+{n}Kibellah sussurra piano:{/n} "Era un vecchio che mi ha mentito e mi ha usata... Ma c'era. E ora non c'è più."
+
+### u073558
+"Più giovane. Com'era quando lo vidi per la prima volta. Anch'io ero più giovane. Era come se ci fronteggiassimo in un incontro di addestramento come facevamo un tempo."
+
+### u073559
+"Non voglio perdere il mio nome come il mio mentore ha perso il suo. Ma nessun filatore lo pronuncerà mai più, perché sono io il loro Vizsier. Eppure voi siete il mio Domin. E io sono la vostra ombra. Lasciate che per voi rimanga almeno Kibellah."
+
+### u073560
+"Apriremo il tempio a quelli della nostra congregazione che desiderano servire la nave ammiraglia e l'Imperituro. Aumenteremo il nostro numero. Addestreremo combattenti. Condivideremo il dovere dei tutori dell'ordine e li rafforzeremo con le nostre abilità. Rifiuteremo di difendere il nostro territorio restando chiusi e passeremo all'offensiva. Non saremo più guardiani invisibili, ma diventeremo i Suoi soldati. E i vostri, Domin'{name}."
+
+### u073561
+{n}Kibellah scruta i filatori. La sua voce tuona sotto le volte del tempio:{/n} "Inchinatevi ora davanti al vostro nuovo Vizsier." {n}E cento sussurri rispondono: "La Morte ti saluta!"{/n}
+
+### u073562
+"So di aver cercato vendetta contro di lui, ma... sento già la sua mancanza."
+
+### u073563
+"Credo di sì." {n}Kibellah sfiora con reverenza una goccia di sangue sull'oro scuro.{/n} "Io... avverto il peso di questa sacra veste. Il peso del fardello del Vizsier e delle decisioni che dovrò prendere. Da questo giorno in poi: il mio fardello." {n}La sua voce è piena di cupo orgoglio.{/n}
+
+### u073564
+"Un combattimento degno delle arene di Commorragh. Ricordo spettacoli in cui membri della stessa famiglia erano costretti a uccidersi a vicenda. Che delizia assistere di nuovo a un parricidio tra mon-keigh."
+
+### u073565
+"Abbiamo scoperto come Kibellah sia entrata a far parte del Bloodspun Web. Abbiamo incontrato la sua famiglia."
+
+### u073566
+"Ci accogli in armatura. Ti prepari alla battaglia?"
+
+### u073567
+"Sacramento? Ci stanno trascinando in un altro rituale?"
+
+### u073568
+"Che cosa intendi con 'l'afflizione che hai coltivato'? Sei stato tu a condannare Kibellah alla sua sofferenza?"
+
+### u073569
+"Sei crudele, Vizsier."
+
+### u073570
+"Che cosa succederà adesso?"
+
+### u073571
+"Sembra che il tuo piano sia fallito. Kibellah non ha eseguito il suo ultimo ordine."
+
+### u073572
+"Sia fatto ciò che deve essere fatto."
+
+### u073573
+"Kibellah, non devi commettere... un parricidio!"
+
+### u073574
+"Non è possibile un semplice passaggio di potere? Perché deve esserci spargimento di sangue?"
+
+### u073575
+"Non pretendere da lei un altro sacrificio, Vizsier!"
+
+### u073576
+"L'hai strappata alla sua famiglia. Non chiamarla tua figlia."
+
+### u073577
+"Kibellah è stata guarita dalla sua afflizione."
+
+### u073578
+{n}Il Vizsier sussurra una preghiera, con il volto mascherato rivolto verso l'immagine dell'Imperituro. Al posto dei soliti abiti logori, indossa un'elegante armatura di osso e oro scuro, contrassegnata da sigilli di purezza. Si volta sentendoti avvicinare.{/n} "Kibellah... Sento i tuoi passi da molto tempo. Nei Suoi sussurri."
+
+### u073579
+{n}La voce del Vizsier si fa sorprendentemente dolce.{/n} "Figlia mia, credi di averLo servito solo perché ti ho posta sul filo della Rete? Credi di non avere fede in Lui? Sai che non è vero."
+
+### u073580
+"Piango per lei. E sono orgoglioso di te, Seconda Filatrice. La tua fede è fuori discussione."
+
+### u073581
+"E i sentimenti che esistono fra voi. Forse quelli prevalgono su tutto il resto. Avrei potuto impedire che nascessero? Soffocarli quando erano ancora deboli? Avrei potuto. Ma ho scelto di non farlo."
+
+### u073582
+"Sì. È difficile essere crudeli con qualcuno che si ama. Lo hai imparato, Domin?"
+
+### u073583
+"Non chiamatelo amore, Mentore. Vi sono stata leale e meritavo... di meglio."
+
+### u073584
+"Io... vi perdono per la vostra crudeltà, Mentore."
+
+### u073585
+"Questo è il mio rapporto finale, Mentore. Non desidero più servirvi."
+
+### u073586
+"Kibellah sarà il nuovo Vizsier. Il suo viaggio verso l'Imperituro e la scelta che ha compiuto si rifletteranno nel nuovo disegno del Bloodspun Web. Quanto a me... andrò da Lui, come attendo da tempo."
+
+### u073587
+{n}La confusione e l'allarme sul volto di Kibellah lasciano il posto alla rabbia e all'orrore. Il suo viso si deforma come una maschera di carta che si sfalda mentre le emozioni la sommergono. Troppe emozioni per qualcuno la cui anima è morta.{/n} "Io... non ho ancora fatto tutto ciò che vi aspettate da me, vero?"
+

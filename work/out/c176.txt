@@ -1,0 +1,921 @@
+### u059595
+"Ah ah ah... no! Il vostro intero convoglio è perduto. Ho preso l'uniforme di quel moccioso piagnone di Camille. Sei mesi coi tirapiedi del governatore mi hanno insegnato i loro modi. Non ho avuto problemi a spacciarmi per uno di loro. Dovevo assicurarmi che voi feccia non decideste di fare dietro-front e tornarvene a casa in volo, invece di camminare dritti nell'imboscata." {n}Il giovane rantola e sputa schiuma sanguinolenta.{/n} "Non montarti la testa per averci abbattuti. I miei compagni sono tanti e vengono a prendervi. E se non vengono... comunque, lo vedrete con i vostri occhi!"
+
+### u059596
+{n}Una scintilla di follia balena negli occhi del giovane.{/n} "Aurora è la verità nascosta. Nessuno è degno di vedere il suo volto! Ma chi le è fedele starà al suo fianco nell'ora dell'Alba Finale che consumerà ogni cosa! Loro sì, ma non tu. Sei un nemico di Aurora, e per questo sarai sconfitto."
+
+### u059597
+"Non temo la morte per mano di cani immondi, sprofondati nelle loro stesse menzogne! Prendi la mia anima, Aurora!"
+
+### u059598
+{n}La guardia spalanca gli occhi, incredula fino all'ultimo che questa sia la fine.{/n}
+
+### u059599
+"Maledetta feccia! Aurora vi prenderà tutti lo stesso! Aurora e l'Alba Finale!"
+
+### u059600
+"Sì, certo," {n}dice la guardia cupamente e distoglie lo sguardo.{/n}
+
+### u059601
+"Cosa? No! Io... io non sono un traditore! Non condurrei mai i miei compagni sotto il fuoco nemico... Mai!"
+
+### u059602
+{n}Gli occhi del giovane si spalancano. Fino all'ultimo istante restano pieni di sgomento e incredulità davanti alla schiacciante realtà che sta affrontando.{/n}
+
+### u059603
+"Ma perché, che cosa ho fatto? Vostra Signoria, non si prenderanno nemmeno la briga di indagare, mi porteranno al muro e mi fucileranno!" {n}Il soldato abbassa il capo con aria cupa, accettando il suo destino.{/n}
+
+### u059604
+"Grazie, Vostra Signoria!"
+
+### u059605
+"Lo giuro, Vostra Signoria! Forse per inesperienza ho fatto un po' di confusione, ed è per questo che i conti non tornano. Vi prego, andiamo al centro di comando del governatore. Devo eseguire i miei ordini. Una volta arrivati, potrete far fare un controllo su di me ai servizi segreti, se lo desiderate. Sono un soldato leale, è la verità!"
+
+### u059606
+{n}Idira apre e chiude la bocca più volte, come se faticasse a dire qualcosa, ma alla fine si limita a mordersi il labbro fino a farlo sanguinare e annuisce cupamente.{/n}
+
+### u059607
+{n}Nella tua {d|Encyclopedia:CharGen_Criminal}vita passata{/d}, saper capire se qualcuno era affidabile o una spia segnava spesso il confine tra la vita e la morte. Sotto il tuo esame, il soldato sembra fin troppo calmo — segno sicuro che il disgraziato si sta sforzando di ingannarti.{/n}
+
+### u059608
+"Certo, Vostra Signoria. Vi prego, muoviamoci — prima arriviamo, meglio è!"
+
+### u059609
+"Sissignore, Vostra Signoria!"
+
+### u059610
+{n}Idira tira su col naso e dice con dolcezza,{/n} "Ripensaci, Lord Capitano, abbi pietà del ragazzo. È così terribilmente agitato che è un miracolo che riesca ancora a parlare. Un po' ingenuo, tutto qui. Non percepisco astuzia in lui."
+
+### u059611
+"Senza dubbio, ma se fosse un codardo, avrebbe gettato il suo fucile laser in un fosso da un pezzo e se la sarebbe data a gambe. Eppure eccolo qui, a guidarvi e a fare il suo dovere, nonostante i denti che gli battono."
+
+### u059612
+"Non credergli, Lord Capitano! Dalle sue parole trasuda un verde pallido, e conosco bene questo colore dell'inganno. Una volta scambiai per sincere le parole di Felek, così umili e dolci. In verità erano... veleno."
+
+### u059613
+"Aggiornamento del catalogo dati. La tendenza caratteristica delle forze di difesa planetaria di Rykad Minoris a cadere in imboscate non è una conseguenza del caso o della negligenza. Si spiega solo come una contorta variante di tattica di combattimento. Questo fenomeno è deprimente."
+
+### u059614
+{n}Nella tua {d|Encyclopedia:CharGen_Criminal}vita precedente{/d}, saper distinguere un soldato da una spia spesso faceva la differenza tra la vita e la morte. Il soldato semplice è un pessimo attore — sai che non sta cercando di ingannarti.{/n}
+
+### u059615
+"Cosa? No! Che cosa non torna? Sono l'unico sopravvissuto di tutta la mia squadra, capite? Tutti i miei amici sono morti — giacciono laggiù! Avrei potuto fuggire o nascondermi, invece ho scelto di arrivare fin qui per avvertirvi... e voi..."
+
+### u059616
+"Qualcuno ha idea di cosa sia appena successo?"
+
+### u059617
+"Ora l'unica cosa che possiamo fare è cercare di raggiungere lo spazioporto."
+
+### u059618
+Hai permesso ai cittadini terrorizzati di seguirti quando l'oscurità è calata su Rykad Minoris.
+
+### u059619
+"Non abbandoniamo la gente in difficoltà. Tutti possono venire con noi."
+
+### u059620
+Hai abbandonato al loro destino i cittadini terrorizzati quando l'oscurità è calata su Rykad Minoris.
+
+### u059621
+"Non ho alcun obbligo di salvare nessuno. Ciascuno pensi a sé."
+
+### u059622
+"Basta così. Muoviamoci!"
+
+### u059623
+{n}Il tuo {g|Encyclopedia:CommBead}auricolare vox{/g} si accende. La voce di Vigdis lotta per farsi strada attraverso il tuonare dell'elettricità statica.{/n} "Lord... itano, qui... estra del Vox! Vi pre... atterrate subito e inv... ate un..."
+
+### u059624
+{n}Heinrix toglie le mani e scuote la testa come per scacciare qualcosa che lo assale. La sua voce trema mentre dice,{/n} "Una semplice soluzione per stabilizzare la vostra condizione. Controllatevi. Non cedete alla forza che cerca di impossessarsi di voi."
+
+### u059625
+"...itano... interfer... ripeto..."
+
+### u059626
+{n}Camille corre da te, con l'arma ancora in mano.{/n} "Vostra Signoria! Quali sono i vostri ordini? Non abbiamo idea di cosa stia succedendo! I civili fuggono in preda al panico e non riusciamo a contattare il governatore né i nostri ufficiali superiori!"
+
+### u059627
+{n}Il vecchio ti fissa cupamente.{/n} "Mi dicesti che la mia fede era falsa. Mi hai fatto voltare le spalle ad Aurora. E adesso che dici, {g|Encyclopedia:RogueTrader}Rogue Trader{/g}? Chi aveva ragione? Eccola — l'Alba Finale!" {n}Fa un ampio gesto con la mano.{/n}
+
+### u059628
+"Tieni a freno la lingua, Aryld! Alba o non alba, preferisco morire che lasciarmi straziare da quei mostri senza occhi! Quindi stai zitto e fa' come dice Sua Signoria! {mf|Lui|Lei} ci dirà cosa fare!"
+
+### u059629
+{n}Jaspar stringe saldamente la mano della fidanzata.{/n} "All'inferno questa mascherata! Qui è impazzito tutto e io sono vestito da civile e senza il mio vox-trasmettitore! Che facciamo, Vostra Signoria? Raquel dice che dobbiamo aprirci la strada combattendo fino allo spazioporto. Lì c'è la sua navetta, e anche la vostra, suppongo."
+
+### u059630
+"Meno chiacchiere, più azione! Cosa dice Vigdis, Lord Capitano? Ci manderanno una navetta?"
+
+### u059631
+"Gli agenti... amichevoli... dell'{g|Encyclopedia:Inquisition}Inquisizione{/g}... mi rendono così n-nervosa!"
+
+### u059632
+"Riprendetevi, Lady Tlass. E non opponete resistenza. È una tecnica semplice che vi darà sollievo." {n}Heinrix si china su Idira e le posa le mani sulle tempie.{/n}
+
+### u059633
+"Non sono affatto amichevole. Ciò che sta accadendo va oltre i normali intrighi dei cultisti. Non possiamo permetterci di perdere nemmeno un combattente."
+
+### u059634
+"...pening... ve osserv... scomparsa della stella da... vacuare..."
+
+### u059635
+"Stella... py che... lo spazio..."
+
+### u059636
+"Rosso, nero, rosso, nero... e tanta paura bianca e accecante. Tutta la città trema! No — il mondo intero!"
+
+### u059637
+"Non temerò l'oscurità, perché la luce è dentro di me, la luce della mia fede in {g|Encyclopedia:Emperor}Te{/g}. Non fuggirò davanti a nessun nemico, perché non c'è nemico più terribile della codardia, e io la sopraffarò..." {n}Argenta prega ad alta voce, controllando intanto l'equipaggiamento con dita abili.{/n}
+
+### u059638
+"Dobbiamo dirigerci subito verso lo spazioporto. Le navette non ci troveranno qui nemmeno se il collegamento si stabilizza. Cosa che non accadrà."
+
+### u059639
+{n}L'ex ribelle dai capelli rossi si siede sul marciapiede, con le lacrime che le rigano il viso.{/n} "Quando finirà tutto questo... quando... voglio tornare a caaasa!"
+
+### u059640
+{n}La comunicazione cade nel silenzio. Molti occhi ti fissano.{/n}
+
+### u059641
+"Solo un quadro incompleto." {n}Heinrix è mortalmente serio.{/n} "Ogni persona sensibile al warp su questo pianeta avverte la presenza di stregoneria... Sale come uno tsunami. Raramente ho incontrato qualcosa di simile nello {g|Encyclopedia:Realspace}spazio reale{/g}. E, cosa più notevole, la stregoneria continua a crescere. Non so dire, però, cosa abbia scatenato questa reazione né dove sia finita la luce."
+
+### u059642
+{n}Idira si tiene il naso, da cui cola sangue.{/n} "Ho visto ombre sfocate che si allungavano verso una palla di fuoco luminoso e la portavano via. E un'altra ombra, molto più grande e terrificante, che le seguiva. Ha aperto il suo occhio colossale quando le altre se n'erano andate con il bottino. Non ho visto legami, né complicità... era come un cappio che si impiglia a un gancio. Un piccolo terrore ne ha fatto uscire dalla tana un altro, più grande, e lo ha spinto ad agire. È il meglio che riesca a spiegare."
+
+### u059643
+"Ma posso dirti che nel futuro di Rykad Minoris vedo solo morte. Morte e nient'altro. E parlo del suo futuro immediato! In altre parole, è ora di darcela a gambe."
+
+### u059644
+{n}Idira lancia un'occhiata di sbieco ad Argenta.{/n} "Pazienza, gente. La Sorella santa qui ha quasi finito di incipriarsi il naso..."
+
+### u059645
+"L'Alba Finale!" {n}dice Argenta con furia.{/n} "Non siamo riusciti a decifrare l'intero piano del nemico... O Imperatore, perdonaci questa negligenza. Giuro che troveremo il modo di rimediare!"
+
+### u059646
+"Vi seguiremo a una certa distanza. Dobbiamo scortare i civili rimasti. Senza l'aiuto della guardia, si disperderanno o finiranno nelle mani del nemico."
+
+### u059647
+"Jaspar e io dobbiamo procurarci delle armi — qualsiasi arma. Vi raggiungeremo allo spazioporto. Magari raccoglieremo per strada qualcuno della guarnigione o dei civili."
+
+### u059648
+"E noi? Che ne sarà di noi? Possiamo venire con voi, Vostra Signoria? Vi prego, non lasciateci indietro!"
+
+### u059649
+{n}La vecchia ti guarda, senza grande speranza e con un po' di diffidenza, come se fosse riluttante a porre la sua domanda.{/n}
+
+### u059650
+{n}Il senso di allarme continua a crescere. Così come la sensazione di uno sguardo intenso fisso su di te.{/n}
+
+### u059651
+"Non sono una camminatrice veloce. Ma vi zoppicherò dietro. Se vi troverete in uno scontro, non vorrete certo una vecchia tra i piedi, comunque. E credo che ci saranno altri scontri..."
+
+### u059652
+"G-grazie, Vostra Signoria! Camminerò dietro di voi... sì..."
+
+### u059653
+"Ce ne saranno di sicuro. Sembra che alcuni dei miei ex compagni siano ancora in libertà." {n}La voce del vecchio suona letargica e quasi robotica.{/n}
+
+### u059654
+"Brutte notizie. Ma non inattese."
+
+### u059655
+"Rogue Trader! Dobbiamo aiutare queste persone a evacuare. L'Imperatore in persona ci ha affidato il loro destino."
+
+### u059656
+{n}Camille aggrotta la fronte ma saluta ugualmente.{/n} "Buona fortuna, Vostra Signoria!"
+
+### u059657
+"Ehi, tu, soldato! Ti va di aiutare una povera civile, sola e sfruttata, a mettersi in salvo?" {n}La donna dai capelli rossi infila risolutamente il braccio sotto quello del soldato.{/n}
+
+### u059658
+"Non scapperò. Lo prometto!" {n}La donna dai capelli rossi infila risolutamente il braccio sotto quello del soldato.{/n} "È così bello avere qualcuno che ti protegge e ti porta in salvo..."
+
+### u059659
+"Andiamo, Aryld." {n}La vecchia prende stancamente il marito per mano.{/n} "Forse troveremo i nostri nipoti e ci siederemo con loro un'ultima volta. E se non li troveremo... allora saremo solo noi due."
+
+### u059660
+{n}Il senso di allarme ti trapana ormai le tempie quasi fisicamente. I fugaci sussurri al limite dell'udito sono sinistri e gioiosi.{/n}
+
+### u059661
+{n}Un brivido ti corre lungo la schiena. Ti pare di sentire ancora una volta lo sguardo di Aurora su di te... solo che ora non proviene più dal suo cadavere, ma da ogni parte.{/n}
+
+### u059662
+{n}Una cacofonia ultraterrena, che fino a un attimo fa somigliava al rimbombo di cannoni lontani, ti inghiotte all'improvviso in tutta la sua intensità — le energie del warp sembrano esplodere dal nulla, precipitandosi nella tua {d|Encyclopedia:CharGen_Psyker}mente esposta{/d} come un'inarrestabile ondata di sozzura. Per un istante ti pare che la testa possa esploderti... poi la sensazione si ritira, lasciando dietro di sé un'altra — quella del tocco di qualcuno sulle tue tempie.{/n}
+
+### u059663
+{n}Kibellah ti rivolge un debole sorriso e sussurra,{/n} "Una grande danza ha inizio. Ma io sono ancora con voi, Domin. Non temete, perché non lascerò che la vostra anima cada nelle grinfie degli impuri. Se sarà necessario... sarò più rapida di loro."
+
+### u059664
+"Ho vinto, e tu sei perita insieme ai tuoi piani."
+
+### u059665
+"Darò la caccia a tutti i tuoi complici, ovunque si trovino. E tutti ti seguiranno nel fuoco."
+
+### u059666
+[Allontanati dal cadavere]
+
+### u059667
+"Vorrei poter conoscere i tuoi segreti, Aurora. Sei morta troppo presto e non me li hai mai rivelati."
+
+### u059668
+{n}Circondato da emblemi scaccia-male, il cadavere di Aurora sembra una minuscola isola di tenebra nel glorioso oceano del tuo imminente Trionfo. La gente del governatore deve aver lavorato parecchio per proteggere il corpo dalla decomposizione e per segare via la cupa maschera di ferro dal volto.{/n}
+
+### u059669
+{n}Non giunge alcun suono in risposta. Ma non appena sbatti le palpebre, l'angolo della bocca del cadavere sembra sollevarsi di un soffio. O è solo la tua immaginazione?{/n}
+
+### u059670
+{n}La profetessa morta ha il volto stanco e anonimo di una popolana del tutto insignificante. L'unica anomalia del suo aspetto sono le tante piccole bocche sulle guance e sulla fronte. Sono state cucite con cura, con filo spesso, e ricoperte da uno strato di cipria. I cosmetici trasformano il volto dell'eretica in una maschera inquietante. L'angolo della sua bocca è congelato in un accenno di ghigno, riecheggiato con ironia dalle bocche minori. "Sei soddisfatto, {mf|nemico mio|nemica mia}?" sembra chiedere il ghigno.{/n}
+
+### u059671
+[Saluta la gente] "È un piacere per me proteggere un mondo dell'Imperium e i suoi onesti abitanti! Che la luce dell'eterna Terra risplenda su tutti noi!"
+
+### u059672
+[Rivolgiti ai soldati del cordone] "Fermate la cerimonia! Portate via la gente! Sta per accadere qualcosa di terribile!"
+
+### u059673
+[Voltati e guarda il cadavere di Aurora]
+
+### u059674
+"Fate largo! Fate largo! Salutiamo {mf|l'eroe|l'eroina}!" {n}Un piccolo gruppo di {d|Encyclopedia:Ch1_Triumph_Noble}persone vestite a festa{/d} si precipita verso di te.{/n}
+
+### u059675
+"Ehm... salve, Vostra Signoria! Gloria a voi! Gloria!" {n}Un gruppo eterogeneo di {d|Encyclopedia:Ch1_Triumph_Commoners}persone vestite modestamente{/d} si affretta verso di te.{/n}
+
+### u059676
+"Ehm... Gloria a Vostra tre volte lodata Signoria! Siamo, ehm... molto, molto grati, davvero! Né io né i miei nipoti saremmo probabilmente {d|Encyclopedia:Ch1_Triumph_OldPeopleSurvived}vivi ora se non fosse per voi{/d}... Ehi! Aryld! Muovi quelle vecchie ossa! Vieni qui a salutare Sua Signoria!"
+
+### u059677
+"Arrivo, arrivo..." {n}Il vecchio che segue la moglie è quello a cui hai risparmiato la vita nonostante i suoi legami con i cultisti di Aurora. Getta un'occhiata apprensiva di sbieco al cadavere della profetessa, ma distoglie subito lo sguardo e ti rivolge un inchino.{/n} "Vostra Signoria!"
+
+### u059678
+{n}Tra le guardie del cordone di sicurezza riconosci Camille, il giovane esploratore che ti {d|Encyclopedia:Ch1_Triumph_KamilSaved}ha guidato{/d} al centro di comando. Quando incrocia il tuo sguardo, sorride e saluta.{/n}
+
+### u059679
+"Gloria alla dinastia von Valancius! Gloria a {name}, {mf|eroe|eroina} di Rykad Minoris!" {n}Una donna imponente, bella e vestita con raffinatezza pronuncia il tuo nome con voce sonora. Solo guardandola più da vicino la riconosci: è la Capitana Raquel, la pilota che hai {d|Encyclopedia:Ch1_Triumph_RakelHelped}incontrato{/d} a Rykadi Philia.{/n}
+
+### u059680
+{n}Accanto a lei c'è il suo fidanzato, Jaspar, l'operatore vox che hai {d|Encyclopedia:Ch1_Triumph_JasperSurvived}salvato{/d} allo spazioporto durante la tua prima visita al pianeta. Anche lui indossa abiti civili.{/n}
+
+### u059681
+"Rykad Minoris onora l'{g|Encyclopedia:Emperor}Imperatore{/g} e si inchina ai Suoi più leali servitori, i {g|Encyclopedia:RogueTrader}Rogue Trader{/g}!"
+
+### u059682
+{n}I soldati del cordone si scambiano occhiate perplesse, ma la disciplina in cui sono addestrati prevale e si voltano verso gli spettatori, preparandosi ad allontanare la folla.{/n}
+
+### u059683
+{n}Niente. Niente di strano. Il clamore di saluto della folla; il cadavere immobile della profetessa. Solo l'aria è stranamente ferma, come prima di un temporale.{/n}
+
+### u059684
+"Cosa... cosa... escono dall'oscurità, stanno rubando la luce... l'oscurità è insaziabile... e dietro di loro, dietro questi ladri, un occhio ineffabile li segue, osserva, osserva... aargh!"
+
+### u059685
+"Io... io sto... percependo qualcosa. Sconfinato. Azzurro... dorato... oscuro..."
+
+### u059686
+{n}Una smorfia contorce il volto di Heinrix. L'Interrogatore porta una mano alla tempia, come colpito da un'improvvisa emicrania.{/n} "Cosa..."
+
+### u059687
+"Guardate! Guardate! Guardate l'Alba Finale!"
+
+### u059688
+"I cittadini riconoscenti desiderano porgere doni al loro redentore!" {n}La voce sdolcinata del maestro di cerimonie ti porta quasi un sapore di miele in bocca.{/n}
+
+### u059689
+"Che senso aveva radunarci qui? Festeggiare? Potevo benissimo festeggiare a casa..." {n}Un'anziana — quella che hai {d|Encyclopedia:Ch1_Triumph_OldPeopleSurvived}salvato{/d} insieme agli altri ostaggi dal suo marito impazzito — si trascina verso di te.{/n}
+
+### u059690
+{n}Non sai perché, ma sei {mf|certo|certa} che proprio in questo momento lo "sguardo" delle orbite vuote e morte di Aurora sia fisso sulla tua nuca. Un pensiero affiora nella tua mente, non una voce dentro la tua testa, no, un semplice pensiero: "Moriranno tutti. Storditi, privati di tutto, senza aver mai visto la Verità. E tutto per colpa tua, {mf|nemico mio|nemica mia}."{/n}
+
+### u059691
+"Sta arrivando qualcosa, Domin. Una morte empia, contraria alla Sua volontà." {n}Gli occhi di Kibellah sono vuoti mentre affonda un artiglio d'acciaio in una ferita non rimarginata.{/n}
+
+### u059692
+"Grazie al nostro protettore! Al nostro benefattore!" {n}La vivace donna dai capelli rossi salta su e giù agitando le mani. Tuttavia, non appena si avvicina abbastanza da vederti in faccia, i suoi occhi si spalancano per lo shock.{/n} "Oh-oh. Ehm... oh. Non eravate voi {mf|quello|quella} che il Capo ha mandato a {d|Encyclopedia:Ch1_Triumph_RedLiedTo}rilevarci{/d}? Ehm... cioè... sono davvero contenta di vedervi {mf|vivo e vegeto|viva e vegeta}!"
+
+### u059693
+"Grazie al nostro protettore! Al nostro benefattore!" {n}La vivace {d|Encyclopedia:Ch1_Triumph_RedSurvived}donna dai capelli rossi{/d} salta su e giù agitando le mani.{/n} "Grazie per essere stat{mf|o|a} clemente!"
+
+### u059694
+"Parla."
+
+### u059695
+"Voglio iniziare subito il Trionfo. Dai l'ordine!"
+
+### u059696
+"Questo è disgustoso. Non voglio una messinscena di 'gratitudine'. Lascia che la gente comune di Rykad Minoris mi parli, oppure salta del tutto questa farsa!"
+
+### u059697
+"Un ottimo piano. Sono {mf|pronto|pronta} a iniziare il Trionfo!"
+
+### u059698
+"Vostra Signoria, impareggiabile {mf|Lord|Lady} von Valancius! Sono il maestro di cerimonie di Rykad Minoris. Tutto è pronto per il vostro Trionfo. Permettetemi di darvi un breve riepilogo dell'evento imminente."
+
+### u059699
+"Percorrerete la strada, ormai familiare, da qui allo spazioporto. Sarete {mf|accompagnato|accompagnata} dai vostri compagni d'armi e da una guardia d'onore. Il corpo dell'eretica nota come 'la profetessa Aurora' sarà trascinato al vostro seguito come trofeo di battaglia. È prevista una sosta a metà strada. Lì, cittadini riconoscenti accorreranno verso di voi, lodandovi per la loro salvezza."
+
+### u059700
+"Una volta espresse le loro lodi, il corteo proseguirà. Il Governatore Medineh vi attenderà presso lo spazioporto. È anche il luogo dove è stata eretta la pira per bruciare il corpo dell'eretica nota come Aurora. Vi sarà consegnato un lanciafiamme benedetto da un rappresentante dell'{g|Encyclopedia:AdeptusMinistorum}Ecclesiarchia{/g}. Potete scegliere di eseguire personalmente il rogo. Ma se desiderate sottolineare l'amichevole alleanza tra la Casata von Valancius e la Casata Winterscale, sarà opportuno cedere l'onore del rogo al Governatore Medineh. Tuttavia, la scelta è vostra!"
+
+### u059701
+"Non temete: è un interludio coreografato nei minimi dettagli! Il gruppo dei cittadini riconoscenti sarà composto esclusivamente da cittadini leali, da noi selezionati. Membri dell'esercito. Giovani, attraenti e in forma. Qualche bambino sano."
+
+### u059702
+"Certo, Vostra Signoria!"
+
+### u059703
+{n}Gli occhi del maestro di cerimonie si spalancano.{/n} "Le mie più sincere scuse, Vostra Signoria! Nulla è più lontano dai miei pensieri che attirarmi la vostra ira! Far passare la gente, ehm, comune, dite? Vedrò cosa si può fare!"
+
+### u059704
+"Dov'è il venerabile Governatore Drivestem? Si nasconde dal Rogue Trader?"
+
+### u059705
+"Urbend non avrebbe osato essere così insolente. È andato nel cortile a prendere una boccata d'aria con il Lord Inquisitore."
+
+### u059706
+"Allora dovremmo esserci anche noi. Sono certo che col tempo ci raggiungerà anche il benedetto capo della dinastia von Valancius."
+
+### u059707
+L'antica cronaca contiene un lungo elenco di covi di pirati annientati dalla dinastia von Valancius e di pianeti che essa ha condotto alla Conformità Imperiale.
+
+### u059708
+Il prigioniero Drukhari borbotta qualcosa con rabbia nella sua lingua innaturale.
+
+### u059709
+Il prigioniero Drukhari borbotta con rabbia maledizioni rivolte ai "detestabili mon-keigh", promettendo torture orribili a tutti i presenti.
+
+### u059710
+La testa mozzata della macchina mutilata dal Caos mostra minacciosa i suoi denti grotteschi.
+
+### u059711
+A giudicare dalle zone fuse sulla sua armatura, questo possente Leman Russ, decorato con lo stemma dei von Valancius, ha combattuto in numerose battaglie contro i nemici del Rogue Trader.
+
+### u059712
+Questo venerabile Leman Russ è noto come Skipian Punisher e serve la dinastia von Valancius da due secoli. Fu colpito nella battaglia contro gli xenos che abitavano Skipia II, ma distrusse eroicamente sessantatré veicoli nemici e portò la vittoria ai suoi compagni, assicurandosi lo status di reliquia benedetta dall'Imperatore.
+
+### u059713
+Obscura, somna, Black Lethe — gli ospiti del Rogue Trader possono gustare le varietà più esclusive e raffinate di intossicanti.
+
+### u059714
+"Vostra Signoria desidera recarsi nel cortile?"
+
+### u059715
+Il teschio del leggendario pirata Lakshim the Freak, che terrorizzò la Distesa di Koronus tre secoli fa. Fu preso in un assalto d'abbordaggio dalla stimata Theodora von Valancius.
+
+### u059716
+Dell'amasec eccezionale, della più alta qualità, è stato versato in una borraccia, di quelle da cui i soldati semplici bevono acqua e recaf.
+
+### u059717
+Questa fontana di vino inestimabile spegne la sete con la sola vista della sua abbondanza.
+
+### u059718
+I lineamenti raffinati di queste statue mostrano la bellezza e la perfezione della purezza genetica dell'Umanità.
+
+### u059719
+"Il giovane Gaprak ha ragione. Gli xenos non sono solo una minaccia — sono anche un'opportunità."
+
+### u059720
+[Sbadiglia] "Per te, forse. Per me è solo un giorno come un altro."
+
+### u059721
+[Guarda Drivestem con eloquente ostilità e non dire nulla]
+
+### u059722
+[Sorridi con grazia] "Vi do il benvenuto nel mio palazzo, onorati ospiti!"
+
+### u059723
+[Studia l'Inquisitore e il suo accompagnatore]
+
+### u059724
+[Guarda gli ospiti]
+
+### u059725
+"Di cosa stavate parlando poco fa?"
+
+### u059726
+[Parla con il giovane Sauerback] "Vedo che odi gli xenos con tutto il cuore."
+
+### u059727
+"Mi fa piacere vedere una fede così sincera. Devo complimentarmi."
+
+### u059728
+[Sorridi con veleno] "E quanti xenos hai ucciso di persona, Sauerback?"
+
+### u059729
+[Fai un cenno all'Inquisitore] "I miei saluti al membro della Santa Inquisizione."
+
+### u059730
+"Ben detto, Sauerback. Dato che l'hai già promesso, accetterò il tuo sostegno. Con la presente impongo un dovere alla tua casata — mi fornirai dei soldati. E tu, giovanotto, li guiderai."
+
+### u059731
+"Dato che il giovane Gaprak è così ispirato dall'idea di fare affari con gli xenos, lo prenderò al mio servizio come rappresentante commerciale. La sua casata farà in modo che si renda utile e che il suo servizio sia irreprensibile."
+
+### u059732
+"Una visita inattesa. Non mi era stato detto nulla."
+
+### u059733
+"Non ci siamo presentati..."
+
+### u059734
+"Godetevi la festa."
+
+### u059735
+"E chi è questo membro dell'onorevole sacerdozio dell'Adeptus Mechanicus?"
+
+### u059736
+[Guarda il giovane parente di Abelard] "Come ti chiami?"
+
+### u059737
+"Come trovi il ricevimento?"
+
+### u059738
+"Dove sono gli altri tuoi parenti, Abelard?"
+
+### u059739
+"Dove sono Abelard in persona e il resto dei tuoi parenti?"
+
+### u059740
+"Quindi desideri diventare anche tu mio servitore?"
+
+### u059741
+"Spero che la famiglia Werserian riconosca ad Abelard il merito che gli spetta?"
+
+### u059742
+"È vero, davvero non sono {mf|interessato|interessata}."
+
+### u059743
+"Taci, Urbend. Decido io chi può parlare e chi no. Prego, continua, Astartia."
+
+### u059744
+"Godetevi la serata."
+
+### u059745
+[Lasciali]
+
+### u059746
+"Sono {mf|pronto|pronta} ad accettare le vostre congratulazioni."
+
+### u059747
+[Prova a indovinare chi è alleato con chi in questo groviglio di serpi]
+
+### u059748
+"Posso chiedere notizie di Heinrix van Calox?"
+
+### u059749
+Hai valutato con acume i rapporti tra le casate nobili di Dargonus.
+
+### u059750
+[Studia i volti dei nobili presenti]
+
+### u059751
+{n}Il Governatore Urbend Drivestem è circondato da ospiti di alto lignaggio come un pianeta orbitato da molte lune. Tutto il suo fascino è rivolto a un uomo in splendente armatura potenziata, adorna del sigillo dell'{g|Encyclopedia:Inquisition}Inquisizione{/g}. Ma non appena ti avvicini, Drivestem è il primo a farti un elegante inchino, battendo gli altri sul tempo nell'esprimere lealtà.{/n} "È un gran giorno, Vostra Signoria!"
+
+### u059752
+{n}Il giovane Gaprak osserva i magnifici trofei che hai raccolto sui mondi xenos, poi risponde con serietà e senza servilismo,{/n} "Grazie per questo onore, Vostra Signoria. Mi dimostrerò un servitore devoto e diligente."
+
+### u059753
+{n}L'espressione rilassata del Lord Inquisitore emana uno strano senso di minaccia. È simile a un predatore in agguato, pago di nascondersi tra i cespugli di sorrisi falsi ed eleganti conversazioni — per ora.{/n}
+
+### u059754
+{n}Le tue parole altezzose producono l'effetto desiderato — le teste si inchinano un po' di più, e i volti si illuminano di zelo nel compiacere {mf|il glorioso|la gloriosa} {g|Encyclopedia:RogueTrader}Rogue Trader{/g}.{/n}
+
+### u059755
+{n}Il tuo disappunto non è sfuggito agli ospiti. Drivestem impallidisce e china il capo in segno di contrizione.{/n}
+
+### u059756
+{n}Sei {mf|investito|investita} da una salva di congratulazioni e complimenti.{/n}
+
+### u059757
+{n}Gli ospiti intorno al governatore cadono in un rispettoso silenzio al tuo avvicinarsi. A giudicare dall'ultimo brandello della loro conversazione, stavano discutendo dell'orribile avvelenamento di qualcuno avvenuto all'ultimo ritrovo mondano.{/n}
+
+### u059758
+{n}Le {g|Encyclopedia:Augmentation}augmetiche{/g} del {g|Encyclopedia:TechPriest}Tecnoprete{/g} sembrano insolite e bizzarre. Impianti come questi sono accessibili solo ai membri della benedetta gerarchia dell'Adeptus Mechanicus, e reliquie così sacre non si incontrerebbero nemmeno ai più alti livelli della nobiltà.{/n}
+
+### u059759
+{n}Tra gli aristocratici che circondano il sontuosamente vestito Drivestem, noti un paio di giovani nobili con i colori di Sauerback e Gaprak. Pare che le principali famiglie nobili di Dargonus abbiano deciso di presentare i loro membri più giovani all'alta società.{/n}
+
+### u059760
+{n}L'uomo alto in armatura potenziata grigia, adorna di una colonna con un teschio, è senza dubbio un Inquisitore di alto rango. Si tiene ai margini della conversazione, degnandosi di rado di commentare. Accanto a lui c'è il suo seguito — un guerriero allampanato in armatura nera e un {g|Encyclopedia:TechPriest}Tecnoprete{/g} vestito di rosso, il cui volto è nascosto da una maschera di ottone.{/n}
+
+### u059761
+{n}Abelard sta un po' in disparte dagli altri, come riluttante ad avvicinarsi a Drivestem. Accanto a lui c'è una giovane donna, e noti tra loro una somiglianza familiare.{/n}
+
+### u059762
+{n}Da un lato, a una certa distanza da Drivestem, sta una giovane donna il cui volto ha una somiglianza impressionante con quello di Abelard Werserian.{/n}
+
+### u059763
+"Parlavamo della brutale incursione {g|Encyclopedia:Xenos}xenos{/g} sulla nostra bella Dargonus. Tante vittime, tanti danni alle nostre industrie..."
+
+### u059764
+"Grazie all'Imperatore che siete il nostro protettore. Se non fosse stato per voi, i maledetti invasori avrebbero annientato l'intero pianeta." {n}Ti rivolge un sorriso sottile e untuoso.{/n}
+
+### u059765
+"Che grande peccato che le correnti del {g|Encyclopedia:Warp}warp{/g} abbiano ritardato l'arrivo del nostro protettore..." {n}C'è una nota acida nelle sue parole, ma è troppo lieve perché tu possa chiamarlo a risponderne. A giudicare dall'antipatico sorriso del giovane Sauerback, non è solo la tua immaginazione.{/n}
+
+### u059766
+"Condividere il settore con quei maledetti xenos è impossibile! Spero che risponderemo alla loro incursione su Dargonus con una campagna punitiva!" {n}Il sorriso del giovane Sauerback è presuntuoso e assetato di sangue.{/n}
+
+### u059767
+"Sì! Questa pestilenza contro l'{g|Encyclopedia:Emperor}Imperatore{/g} deve essere sterminata!" {n}Parla con ardore e fluidità, come un Commissario. Posa la mano sull'elsa della sua spada finemente ornata, il volto pallido ardente di nobile furia.{/n}
+
+### u059768
+"Oppure vanno costretti alla servitù. Molti xenos sono più utili vivi e obbedienti che morti." {n}Il giovane con i colori di Gaprak parla con saggezza e gravità, ma la sua opinione sembra avere poco peso in questa cerchia.{/n}
+
+### u059769
+{n}Sauerback arrossisce e alza il mento.{/n} "La Casata Sauerback è salda nella fede, Vostra Signoria!"
+
+### u059770
+{n}Sauerback si fa rosso e farfuglia in modo incoerente,{/n} "L'onorevole Macharius... ha vietato... ma io volevo... non mi ha lasciato andare in battaglia..."
+
+### u059771
+{n}L'Inquisitore tra gli ospiti rivolge un sorriso sottile.{/n} "Dev'essere stato difficile per questo giovane coltivare una tale sete di sangue verso i nemici dell'Imperium senza averne mai visto uno a distanza di lama."
+
+### u059772
+{n}Sauerback alza orgogliosamente il mento e getta un'occhiata alle austere decorazioni del palazzo — le armi, gli stendardi sacri e i gloriosi trofei. A giudicare dall'aspetto, un suo sogno giovanile si sta avverando.{/n} "È un onore per me servirvi, Vostra Signoria! Lo giuro davanti all'Imperatore, non vi deluderò!"
+
+### u059773
+{n}Il giovane Gaprak accetta la tua lode con calma e dignità, come si addice a un ragazzo sveglio, lodato da madre e padre per la sua prudenza.{/n}
+
+### u059774
+{n}L'Inquisitore tra gli ospiti si schiarisce la gola — piano, ma il volto di Gaprak impallidisce e si incupisce all'istante.{/n}
+
+### u059775
+{n}L'Inquisitore tra gli ospiti sorride appena e si china verso di te. Sussurra,{/n} "Mi congratulo con voi per aver procurato un ostaggio di alto lignaggio. {mf|Bravo|Brava}."
+
+### u059776
+{n}Te lo stai immaginando, o hai appena notato un lampo di scherno negli occhi dell'Inquisitore tra gli ospiti?{/n}
+
+### u059777
+{n}Risponde con un inchino dignitoso, il volto fiero calmo e imperturbabile.{/n} "E i miei saluti a voi, {mf|stimato|stimata} {name} von Valancius. Che le ombre non oscurino mai la luce dell'{g|Encyclopedia:Astronomican}Astronomican{/g} che vi guida."
+
+### u059778
+"Io, tuttavia, ho sentito parlare molto di voi." {n}Il volto dell'Inquisitore è imperscrutabile, ma dietro questa maschera cogli un accenno di scherno.{/n}
+
+### u059779
+"Una svista, certo. Mi chiamo Xavier Calcazar, e ho l'onore di servire come membro dell'illustre Ordo Xenos, capo del Conclave della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} e Lord Inquisitore di questa regione. È mio compito incessante garantire che questo settore sia pronto ad affrontare le minacce esterne e a resistere alla corruzione interna."
+
+### u059780
+"Questa serata sarà certamente illuminante."
+
+### u059781
+{n}Il compagno dell'Inquisitore, un membro dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g} in veste cremisi, si inchina a te. Da dietro la maschera d'ottone, tempestata di decine di augmetiche, giunge un rantolo metallico,{/n} "Gloria all'erede dei von Valancius."
+
+### u059782
+"Questo è Brasswhisper, che, naturalmente, non è il suo vero nome. L'esimio {g|Encyclopedia:Magos}Magos{/g} fa parte del mio seguito — ci sono momenti in cui il mio dovere verso l'Imperatore mi costringe a trattare con la {g|Encyclopedia:Xenos}xenotecnologia{/g}, e Brasswhisper garantisce la mia sicurezza in tali frangenti."
+
+### u059783
+"Le opere profanate dagli xenos sono pericolose. Meritano..." {n}Il suo sussurro si interrompe, sostituito da un respiro pesante e affannoso. Sembra che la voce sommessa del {g|Encyclopedia:TechPriest}Tecnoprete{/g} non sia una stravagante peculiarità, bensì la conseguenza di qualche ferita. Dopo aver ripreso fiato, Brasswhisper continua,{/n} "...meritano la dovuta cautela."
+
+### u059784
+"Vostra Signoria, permettetemi di presentarvi la figlia della Cancelliera Clementia Werserian e mia pronipote, Astartia." {n}Abelard guarda la giovane con solennità, con un orgoglio a stento celato.{/n}
+
+### u059785
+"Sono lieta di essere al vostro cospetto, Vostra Signoria." {n}Astartia si inchina, tenendo gli occhi attenti e intelligenti fissi su di te.{/n}
+
+### u059786
+"Astartia Werserian, Vostra Signoria. Sono la figlia della Cancelliera Clementia Werserian e la pronipote del vostro leale servitore Abelard. Lieta di essere al vostro cospetto." {n}S'inchina, gli occhi attenti e intelligenti fissi su di te.{/n}
+
+### u059787
+"È difficile da esprimere a parole, Vostra Signoria. Non avevo mai visto una cerimonia così grandiosa e impressionante." {n}La voce di Astartia suona appassionata e ispirata, e i suoi occhi brillano di un'eccitazione a stento contenuta.{/n}
+
+### u059788
+"Sono in città, impegnati a gestire i festeggiamenti e a vigilare su alcuni dei servizi più cruciali. Nessun incidente deve rovinare la vostra cerimonia."
+
+### u059789
+"Sono in città. Il mio caro avo vigila sui festeggiamenti organizzati per il popolo, e il resto dei miei parenti supervisiona i servizi più importanti. Non vogliamo che qualche inconveniente oscuri questo giorno glorioso."
+
+### u059790
+{n}Astartia aggrotta la fronte e aggiunge con stizza,{/n} "Ho chiesto anch'io all'onorevole Abelard di affidarmi qualche compito importante, ma mi ha ordinato di partecipare al ricevimento, dove non posso fare nulla per servire Vostra Signoria."
+
+### u059791
+{n}Il giovane Gaprak continua a fissare Astartia con curiosità e un po' di timidezza. Pare che la ragazza gli piaccia.{/n}
+
+### u059792
+{n}Sauerback ghigna.{/n} "Se l'avessi saputo, avrei chiesto anch'io ad Abelard di farti saltare la festa."
+
+### u059793
+{n}Astartia arrossisce e comincia a parlare in fretta e con fuoco nella voce — a quanto pare trova le conversazioni di lavoro molto più interessanti dei pettegolezzi di corte.{/n} "Certo! Lavoro a un progetto da quattro anni. Potremmo istituire—"
+
+### u059794
+"Basta, Astartia. Dubito fortemente che a Sua Signoria interessi ascoltare le fantasie di una giovane donna su come governare il proprio protettorato."
+
+### u059795
+{n}Abelard lancia a Drivestem uno sguardo così cupo e sanguinario che quest'ultimo comincia istintivamente a cercare il custode più vicino.{/n}
+
+### u059796
+"Assolutamente, Vostra Signoria. Lo rispettiamo molto per la sua saggezza, e lui ci ripaga con attenzione e gentilezza," {n}dice con calore.{/n}
+
+### u059797
+"Ti sono... obbligato, cara Astartia." {n}Sembra che Abelard sia un po' imbarazzato dalla piega che ha preso questa conversazione.{/n}
+
+### u059798
+"Assolutamente, Vostra Signoria. Lo rispettiamo molto per la sua saggezza, e lui ci ripaga con attenzione e gentilezza," {n}dice con calore, ma poi la sua voce assume un tono accusatorio.{/n} "Vorrei che altri lo apprezzassero quanto noi. È stato un colpo terribile per il mio stimato avo quando gli è stato ordinato di lasciare il vostro seguito."
+
+### u059799
+{n}Il Governatore Drivestem sibila piano e con minaccia,{/n} "Se pensi, ragazza, di avere il diritto di contestare gli ordini del {g|Encyclopedia:RogueTrader}Rogue Trader{/g}, allora alla tua famiglia è stato permesso di vivere in libertà per troppo tempo."
+
+### u059800
+{n}Incoraggiata, Astartia prosegue con il tono di una navigata impiegata dell'{g|Encyclopedia:AdeptusAdministratum}Administratum{/g},{/n} "La nostra proposta è istituire una catena di stazioni nel vuoto — fari al plasma che segnalerebbero le navi di passaggio. Collocandoli in punti logisticamente favorevoli, potremmo semplificare le rotte delle nostre navi in modo che possano suddividere i lunghi salti nel {g|Encyclopedia:Warp}warp{/g} in una serie di salti più brevi e sicuri da un faro all'altro. Ciò avrebbe un effetto positivo sulla sicurezza complessiva dei viaggi e sull'accessibilità delle colonie."
+
+### u059801
+{n}Nel suo discorso s'insinuano sempre più termini tecnici e percentuali. Cita rapporti dei {g|Encyclopedia:Lexmechanic}Lexmeccanici{/g} e resoconti di capitani di astronavi. Il vigore e l'acume di Astartia bastano a ridurre al silenzio anche i commentatori più velenosi. Restano tutti lì in silenzio, cercando di digerire ciò che dice.{/n}
+
+### u059802
+{n}Abelard osserva i nobili ammutoliti con aria trionfante, poi guarda la pronipote con orgoglio.{/n}
+
+### u059803
+"Le mie scuse, Vostra Signoria." {n}Intimidita, abbassa il capo, con una smorfia di frustrazione.{/n}
+
+### u059804
+{n}La mascella di Abelard si tende mentre tace, seppure con visibile sforzo.{/n}
+
+### u059805
+{n}Drivestem fulmina Astartia con fredda ostilità mentre il giovane Sauerback non si preoccupa nemmeno di nascondere il suo bruciante disprezzo.{/n}
+
+### u059806
+"In tal caso, permettetemi di essere il primo a offrirli." {n}Drivestem schiocca le dita e diversi domestici si avvicinano con dei doni. Il governatore indica una sottile lama curva {g|Encyclopedia:Drukhari}Drukhari{/g}.{/n} "I miei soldati hanno preso questo splendido trofeo dal corpo di uno dei comandanti {g|Encyclopedia:Xenos}xenos{/g}. L'arma è troppo bella e proibita per chiunque altro che non sia Vostra Signoria."
+
+### u059807
+{n}Il giovane Sauerback si fa largo per essere il successivo, spingendo da parte Gaprak con sicurezza.{/n} "Vostra Signoria, la Casata Sauerback prevede l'arrivo di tempi turbolenti e sanguinosi. Per far tremare gli empi xenos al vostro avvicinarsi, la mia famiglia vi presenta umilmente una dozzina di pezzi di armamento secondario per la vostra nave."
+
+### u059808
+{n}Il giovane Gaprak si inchina con cerimonia.{/n} "La Casata Gaprak è lieta di presentarvi questa benedetta opera dei fabbri dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}. Possa questa matrice di localizzazione, per la cui creazione il santo artigiano ha impiegato un'intera vita, mostrarvi sempre la retta via."
+
+### u059809
+{n}Dopo aver lasciato precedere gli aristocratici in segno di deferenza, Abelard è l'ultimo a parlare.{/n} "Vostra Signoria, la Casata Werserian non possiede reliquie degne di essere accettate da voi, ma siamo ricchi di persone di talento e laboriose. In segno della nostra lealtà, vi offro umilmente la mia carne e il mio sangue. Cento dei miei parenti andranno nelle colonie del vostro protettorato e useranno tutti i loro talenti perché i mondi a voi affidati prosperino."
+
+### u059810
+{n}La giovane donna con i colori dei Werserian è l'ultima a parlare.{/n} "Vostra Signoria, siamo una casata giovane e nei nostri forzieri non ci sono grandi reliquie. Ma abbiamo persone, leali e capaci. A nome della mia famiglia, vi presento cento Werserian. Si disperderanno nelle vostre colonie e faranno del loro meglio per portare prosperità ai vostri mondi e a voi."
+
+### u059811
+"Ma la vostra generosità mi ha stupito ben di più. Le provviste distribuite nelle strade della capitale faranno la differenza tra la vita e la morte per molti di coloro che hanno perso tutto nell'attacco {g|Encyclopedia:Xenos}xenos{/g}."
+
+### u059812
+{n}Il che potrebbe essere assai vantaggioso per Lady Gaprak — dopotutto, il disastro di Kiava Gamma ha lasciato la sua famiglia in una posizione estremamente vulnerabile. I Werserian restano in disparte, e la loro esclusione dal resto è palpabile.{/n}
+
+### u059813
+"È vivo e vegeto, Vostra Signoria. Immagino che lo vedrete presto di persona. E vi prego di accettare la mia gratitudine per la gentilezza di avergli prestato la vostra navetta. L'Inquisizione apprezza l'aiuto dei veri figli fedeli dell'Imperatore."
+
+### u059814
+{n}Drivestem è, ovviamente, ancora il capo dell'aristocrazia di Dargonus. Ma, a giudicare dalla cortesia che mostra al giovane Sauerback, vuole chiaramente rafforzare il rapporto con quella casata. I Sauerback e i Gaprak più anziani non si vedono da nessuna parte, il che può significare una cosa sola: Sauerback, la cui stirpe ha poca considerazione di te, sta sicuramente cercando di attirare Gaprak dalla sua parte.{/n}
+
+### u059815
+{n}Cominci a riflettere sulle complessità del panorama politico della tua capitale, ma l'unica ricompensa per lo sforzo è un mal di testa.{/n}
+
+### u059816
+"Non ho potuto fare a meno di notare un alleato di origine non umana accanto a Vostra Signoria durante la cerimonia. Lo considero un segno di possibilità che si aprono per... ah... la collaborazione tra il protettorato e le razze xenos. L'opportunità è assai entusiasmante. Sarei lieto di servire Vostra Signoria in questo campo."
+
+### u059817
+{n}Fissandoti, Brasswhisper aggiunge con gravità,{/n} "Ho visto la vostra compagna durante la cerimonia. Si dice che lei..." {n}Un'altra serie di rantoli.{/n} "...partecipi al {g|Encyclopedia:ColdTrade}Commercio Freddo{/g}. Fate attenzione alle pericolose curiosità che i suoi soci cercheranno di vendervi."
+
+### u059818
+"Avendo avuto al suo fianco un membro dell'{g|Encyclopedia:Inquisition}Inquisizione{/g} durante la cerimonia, Vostra Signoria ha mostrato l'intenzione di attenersi scrupolosamente al credo dell'{g|Encyclopedia:Imperium}Imperium{/g} — estirpare il flagello xenos! E la Casata Sauerback vi offrirà ogni sostegno in questa giusta impresa!"
+
+### u059819
+"Apprezzo la vostra dimostrazione di lealtà all'{g|Encyclopedia:Imperium}Imperium{/g}. Avendo accanto a voi uno dei membri del Santo Ordo durante la cerimonia, avete dimostrato di considerarvi {mf|un figlio|una figlia} nel seno della nostra riverente organizzazione."
+
+### u059820
+"La modestia impedisce al mio stimato avo di dirlo di persona, quindi lo dirò io. Tutta la nostra famiglia vi è grata per aver voluto avere al vostro fianco qualcuno di sangue Werserian mentre reclamate la vostra eredità."
+
+### u059821
+{n}Drivestem scambia occhiate eloquenti con il giovane Sauerback, che, a giudicare dal volto, trova all'improvviso il colletto della sua costosa palandrana sgradevolmente stretto.{/n}
+
+### u059822
+{n}Le parole di Drivestem hanno chiaramente scosso la sicurezza di Astartia. Il suo discorso si fa confuso e poco convincente. Da quel suo divagare capisci soltanto che è ossessionata dall'idea di istituire una sorta di rete di fari... e che probabilmente questa idea andrebbe scartata. Alla fine, rossa di vergogna, Astartia si ferma.{/n}
+
+### u059823
+{n}Il giovane Gaprak fissa Astartia a bocca aperta, con un'espressione strana e un po' ottusa.{/n}
+
+### u059824
+{n}Il Lord Inquisitore sembra di umore affabile oggi. La sua espressione è rilassata e il suo sguardo calmo non fa presagire alcuna punizione immediata o severa.{/n}
+
+### u059825
+{n}Tra le tante {g|Encyclopedia:Augmentation}augmetiche{/g}, spicca il {g|Encyclopedia:Cogitator}cogitatore{/g} orribilmente fuso e deforme collegato alla testa del {g|Encyclopedia:TechPriest}Tecnoprete{/g}. Come faccia a funzionare è sconcertante. Ancora più sconcertante è che il Tecnoprete non l'abbia ancora sostituito — quale influsso imprevedibile può avere questo impianto rovinato sulla sua mente?{/n}
+
+### u059826
+"Vedo che siete {mf|interessato|interessata} al mio compagno Pasqal. Vi concederò il privilegio di conversare con lui."
+
+### u059827
+"Prometto di rispondere ogni volta che non sarò {mf|occupato|occupata} con la conquista e la distruzione dei nemici dell'Umanità."
+
+### u059828
+"Dubito che la tua corrispondenza sarà una lettura interessante."
+
+### u059829
+"Molto bene."
+
+### u059830
+"Non ho tempo per te in questo momento."
+
+### u059831
+[Assumi un'aria severa] "Macharius, dovresti parlare con tua moglie di ciò che nell'alta società passa per condotta decorosa e di ciò che no."
+
+### u059832
+[Osserva gli ospiti]
+
+### u059833
+"Come stai in questi giorni, Toriana?"
+
+### u059834
+"Contribuisci a sanare le ferite inflitte a Kiava Gamma e la tua casata sarà perdonata."
+
+### u059835
+"Mi fa piacere vedere che le nostre prospettive coincidono. Anch'io penso che la colpa di tutto sia tua."
+
+### u059836
+"Parlami di più della tua famiglia."
+
+### u059837
+"Macharius, mi sorprende che ti sia degnato di comparire qui stasera."
+
+### u059838
+"Che cosa ti ha tanto dispiaciuto, Macharius?"
+
+### u059839
+"I Rogue Trader non sono rinnegati investiti di autorità. Siamo il lungo braccio dell'Imperium, e te lo dimostrerò."
+
+### u059840
+"La tua povera testa, tormentata da tante preoccupazioni. Vuoi che te la tolga dalle spalle?"
+
+### u059841
+"Parli del futuro del settore con tale sicurezza — possibile che tu voglia questo potere per te, che tu sia semplicemente invidioso dei Rogue Trader?"
+
+### u059842
+"Desidero saperne di più sulla Casata Sauerback."
+
+### u059843
+[Chinati verso Heinrix] "Una conversazione interessante?"
+
+### u059844
+"Anche nel tempo libero non smetti mai di essere d'aiuto. Lo apprezzo."
+
+### u059845
+"Smettila! Ti comporti mai da qualcosa di diverso da una squallida spia?"
+
+### u059846
+"Cosa puoi dirmi dei miei ospiti?"
+
+### u059847
+[Vattene in silenzio]
+
+### u059848
+"È un piacere. Macharius è fortunato ad avere una moglie così bella. Forse più di quanto tu lo sia ad avere lui."
+
+### u059849
+"Il tuo volto mi è in qualche modo familiare. Potrebbe essere la somiglianza con l'immagine di Santa Maletta?"
+
+### u059850
+[Punta l'arma contro Macharius e ridacchia] "Sai, Macharius, per una donna così splendida si potrebbe uccidere."
+
+### u059851
+"Non continuerò a mettere alla prova la lealtà di Macharius parlando oltre con la sua bella moglie."
+
+### u059852
+"C'è qualcosa che vorresti dirmi?"
+
+### u059853
+[Osserva attentamente Toriana]
+
+### u059854
+"Vorrei conoscere meglio tua moglie."
+
+### u059855
+"Se credi alle menzogne di Kunrad, allora sguaina l'arma. Battiamoci a duello, qui, davanti al volto dell'Imperatore."
+
+### u059856
+"Ho ordinato al Governatore Drivestem di dare una lezione alla Casata Gaprak per quanto accaduto a Kiava Gamma. Posso sperare che tu l'abbia imparata bene?"
+
+### u059857
+"Vieto a chiunque di ripetere le menzogne di Kunrad Voigtvir e con la presente ti impongo una multa, Macharius."
+
+### u059858
+"Tua cugina Jocasta è diventata la nuova Maestra d'Armi sulla mia nave."
+
+### u059859
+[Sorridi] "Macharius, non avrai nulla in contrario, vero?"
+
+### u059860
+{n}Un gruppo di aristocratici sta in disparte rispetto agli altri nobili. I loro bisbigli hanno una sfumatura di malcontento.{/n}
+
+### u059861
+"Che l'{g|Encyclopedia:Omnissiah}Omnissiah{/g} vi conceda la comprensione." {n}La donna con cui sta conversando, quella vestita con una veste decorata con motivi a forma di ingranaggio, è Toriana Gaprak. È difficile leggerle il volto perché è coperto da numerose augmetiche.{/n}
+
+### u059862
+{n}Cogli lo sguardo intenso di Heinrix su di te, mentre smette di picchiettare agitato su una tavoletta dati. Fa un gesto sottile, chiaramente desideroso di parlarti.{/n}
+
+### u059863
+{n}Dopo un'occhiata per assicurarsi che gli altri ospiti non ti stiano osservando, l'Interrogatore mormora,{/n} "Dobbiamo parlare, {name}. Subito."
+
+### u059864
+"Nulla di urgente, {name}." {n}Heinrix ti lancia uno sguardo impassibile e subito distoglie il suo.{/n}
+
+### u059865
+{n}Quasi senti lo stridore dei denti mentre Macharius risponde con un sibilo acuto e pieno d'odio:{/n} "Certamente no."
+
+### u059866
+{n}Heinrix apre la bocca per dire qualcosa, ma si trattiene con pura forza di volontà. I suoi occhi tornano a scrutare la folla nel salone.{/n}
+
+### u059867
+"Non qui. Andiamo altrove — non ci vorrà molto."
+
+### u059868
+{n}L'incomprensione di Macharius sembra appena un po' esagerata.{/n}
+
+### u059869
+{n}Regina arrossisce per l'imbarazzo e nasconde gli occhi.{/n} "Imploro il perdono di Vostra Signoria. Non intendevo offendervi con i miei modi."
+
+### u059870
+{n}Macharius è pallido, le dita tremanti di rabbia. Annuisce seccamente, con una nota di gratitudine a denti stretti nella voce:{/n} "Prometto che non accadrà più."
+
+### u059871
+{n}Toriana Gaprak sembra piuttosto in ansia. Macharius Sauerback, vestito in modo sorprendentemente semplice e austero per un aristocratico di tale rango, aggrotta la fronte con sospetto. È venuto al ricevimento con una compagna — una donna di bellezza abbagliante con una collana {g|Encyclopedia:Augmentation}augmetica{/g} dorata attorno alla gola. Sua moglie, probabilmente.{/n}
+
+### u059872
+{n}Heinrix, che si è unito al gruppo inosservato, per lo più tace, ascoltando attentamente ogni loro parola.{/n}
+
+### u059873
+{n}Come un martello da forgia, la voce di Toriana cade pesante sull'orecchio.{/n} "La corruzione di Kiava Gamma è stata un duro colpo per la mia famiglia. Il disprezzabile Cubis Delphim ha tradito la nostra fiducia, ha profanato le forge-cattedrali e ha tolto la vita al mio stimato cugino."
+
+### u059874
+{n}Macharius è visibilmente irritato da questa svolta nella conversazione. Sua moglie ti rivolge un sorriso riservato.{/n}
+
+### u059875
+"A nome della mia famiglia, vi imploro umilmente di perdonare la nostra negligenza. Sono pronta ad accettare qualsiasi punizione."
+
+### u059876
+{n}Toriana alza gli occhi meccanici al soffitto.{/n} "Giuro sulla visione onnicomprensiva dell'Omnissiah, faremo ogni sforzo per giustificare il costo della sua resurrezione."
+
+### u059877
+{n}Macharius sbuffa.{/n} "Solo un anno fa nessuno poteva dubitare dell'utilità della Casata Gaprak. Eppure eccoti qui, Toriana, in ginocchio, a 'giustificare il costo'."
+
+### u059878
+{n}Sospira con un clangore gutturale.{/n} "L'Omnissiah non mi ha concesso la comprensione. Mi pento della mia cecità."
+
+### u059879
+{n}Macharius sospira con compassione.{/n} "Che tragedia, Toriana. Pensare che non più di un anno fa nessuno avrebbe potuto dubitare dell'utilità della tua famiglia. Eppure è bastato un solo errore per gettare nell'oblio tutti i vostri traguardi."
+
+### u059880
+"Noi Gaprak proveniamo dal Settore Calixis, dall'ammasso di pianeti noto come Lathe Worlds. Lì abbiamo lavorato con fedeltà per il bene dei nostri padroni, l'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g}, e attraverso il nostro servizio abbiamo ottenuto una scintilla della conoscenza dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}. Poi il destino ci ha legati, con i vincoli della fedeltà, alla venerabile dinastia von Valancius, e ci siamo ritrovati nella {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}. Generazione dopo generazione, abbiamo adempiuto al nostro dovere senza errori, finché Kiava Gamma non ha distrutto e disonorato il nostro nome."
+
+### u059881
+{n}Il volto di Macharius si contorce in un sorriso sgradevole, che mette ancora più in risalto la pelle artificiale sul lato sinistro.{/n} "Sono un servitore della dinastia von Valancius. Se non fossi venuto, avrei commesso un atto di inaccettabile insolenza e danneggiato l'onore della mia famiglia."
+
+### u059882
+{n}Macharius dice con cautela,{/n} "Sono un leale servitore della vostra dinastia... Ma me l'avete chiesto, e risponderò. Troppo a lungo la {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} ha vissuto sotto il dominio dei {g|Encyclopedia:RogueTrader}Rogue Trader{/g}. I privilegi a loro concessi fanno pensare alla gente che anche i comuni mortali possano ignorare i divieti dell'{g|Encyclopedia:Imperium}Imperium{/g}."
+
+### u059883
+"Non oserei accusarvi di nulla, Vostra Signoria. Sono semplicemente preoccupato. Se vi capitasse di placare le mie preoccupazioni, la Casata Sauerback pregherà ogni giorno per il vostro benessere."
+
+### u059884
+"La vostra volontà è assoluta. Quando la mia testa cesserà di essere utile, la poserò umilmente sul ceppo del boia." {n}La voce di Macharius gronda di falsa obbedienza.{/n}
+
+### u059885
+"Come comandate, Vostra Signoria. Non ripeto le parole di un altro, vi informo soltanto che vengono pronunciate. Ma il vostro volere sarà eseguito."
+
+### u059886
+{n}A giudicare dalle risatine tra i nobili, le tue parole hanno colto nel segno. Macharius arrossisce per l'umiliazione.{/n} "Per nulla... affatto, Vostra Signoria. Mi accontento del mio ruolo di servitore."
+
+### u059887
+{n}Heinrix estrae una {g|Encyclopedia:Dataslate}tavoletta dati{/g} e vi annota qualcosa senza guardare.{/n}
+
+### u059888
+{n}Toriana distoglie lo sguardo con tatto per non vedere il suo associato umiliato.{/n}
+
+### u059889
+{n}Macharius gonfia il petto e dice con orgoglio,{/n} "La stirpe dei Sauerback fu una delle prime casate nobili ad arrivare nella {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}. Per millenni abbiamo servito il {g|Encyclopedia:GoldenThrone}Trono d'Oro{/g} e mantenuto la fede. I guerrieri Sauerback hanno sanguinato in cento guerre e in epoche diverse hanno governato moltissime colonie della dinastia von Valancius."
+
+### u059890
+"È stato molto illuminante. Mi ha dato molto su cui riflettere." {n}La risposta di Heinrix è appena udibile.{/n}
+
+### u059891
+"Non posso farci niente. È il mio compito conoscere i pensieri dei fedeli dell'{g|Encyclopedia:Imperium}Imperium{/g}."
+
+### u059892
+"Per questo la chiamano l'occhio insonne dell'{g|Encyclopedia:Inquisition}Inquisizione{/g}. Anche nel sonno, sento tutto."
+
+### u059893
+"Be', Macharius Sauerback sta quasi lanciando dardi al vostro ritratto. È più acuto nello scegliere le donne che i nemici. Cerca di attirare Gaprak dalla sua parte, ma lei è troppo spaventata dopo il fiasco di Kiava Gamma."
+
+### u059894
+{n}La moglie di Macharius ti rivolge un sorriso incantevole, come per scusarsi del tono velenoso del marito. I suoi grandi occhi scuri sono colmi di curiosità.{/n}
+
+### u059895
+"Persino voi, Vostra Signoria, siete oggetto delle voci più strane — e avete ereditato il vostro protettorato solo di recente. La gente di Kunrad Voigtvir, per esempio, sostiene che abbiate avuto parte nella morte della stimata Theodora e vi accusa di molte altre malefatte. Non importa se le loro affermazioni siano vere o no — la gente le sente. Ci crede. E pensa di poter seguire il vostro esempio."
+
+### u059896
+{n}Macharius china il capo senza troppa reverenza.{/n}
+
+### u059897
+"Sono lieta di sapere che avete una buona opinione della mia bellezza." {n}Regina arrossisce leggermente.{/n}
+
+### u059898
+{n}Macharius, il volto rosso scuro, è fin troppo pronto a cambiare argomento.{/n}
+
+### u059899
+"Mi lusingate, Vostra Signoria. Ma non posso dire che non mi sia gradito."
+
+### u059900
+"Sottovalutate Macharius, Vostra Signoria. Un uomo dei suoi talenti è un tesoro per chi serve." {n}La voce di Regina è calma mentre parla del marito, ma non particolarmente calorosa.{/n}
+
+### u059901
+"Non mi sognerei mai di dire di somigliare a una grande santa. Mi manca la sua... virtù." {n}Regina ti fa gli occhi dolci prima di abbassare con modestia lo sguardo.{/n}
+

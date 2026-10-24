@@ -1,0 +1,1733 @@
+### u003906
+Hai trovato nuovi oggetti! Tutti gli oggetti sono stati aggiunti al tuo inventario. Puoi aprirlo dall'accesso rapido tenendo premuto {console_bind|RightBottom}, selezionando l'icona dell'inventario con {console_bind|DPadFull} e poi rilasciando {console_bind|RightBottom}.
+Armi, {g|Encyclopedia:WarhammerArmourGlossary}armature{/g} e altri oggetti possono essere equipaggiati o utilizzati in altri modi. I {g|ib:Medikit}kit medici{/g} servono a ripristinare le {g|Encyclopedia:HitPoints}ferite{/g} e a curare le {g|Encyclopedia:Injury}lesioni{/g}.
+
+### u003907
+Puoi passare da un membro del gruppo all'altro tenendo premuto {console_bind|LeftBottom}, selezionando un personaggio con {console_bind|DPadFull}/{console_bind|LeftStick} e poi rilasciando {console_bind|LeftBottom}. Le descrizioni degli oggetti contengono un confronto con gli eventuali oggetti corrispondenti già equipaggiati dal personaggio.
+
+### u003908
+Per equipaggiare nuove armi o {g|Encyclopedia:WarhammerArmourGlossary}armature{/g}, apri l'<b>inventario</b> dall'accesso rapido, seleziona l'oggetto con {console_bind|DPadFull}/{console_bind|LeftStick}, premi {console_bind|Func01} e poi seleziona Equipaggia.
+In alternativa, puoi selezionare lo slot in cui vuoi equipaggiare il nuovo oggetto, premere {console_bind|Confirm} e poi scegliere l'oggetto dall'elenco.
+Per visualizzare i parametri di un oggetto, selezionalo e premi {console_bind|RightStickButton}.
+
+### u003909
+Per equipaggiare nuove armi o {g|Encyclopedia:WarhammerArmourGlossary}armature{/g}, apri l'inventario dall'accesso rapido, seleziona l'oggetto con {console_bind|DPadFull}/{console_bind|LeftStick}, premi {console_bind|Func01} e poi seleziona Equipaggia. In alternativa, puoi scegliere uno slot che contiene un oggetto che vuoi sostituire, premere {console_bind|Confirm} e poi selezionare un oggetto dall'elenco.
+Per visualizzare i parametri di un oggetto, selezionalo e premi {console_bind|RightStickButton}. Puoi scoprire ancora di più sull'oggetto tenendo premuto {console_bind|RightStickButton}.
+
+### u003910
+Puoi passare da un membro del gruppo all'altro tenendo premuto {console_bind|LeftBottom}, selezionando un personaggio con {console_bind|DPadFull}/{console_bind|LeftStick} e poi rilasciando {console_bind|LeftBottom}.
+Quando visualizzi la descrizione di un equipaggiamento, ne vedrai il confronto con gli eventuali oggetti corrispondenti già equipaggiati dal personaggio attualmente selezionato.
+
+### u003911
+Puoi far salire di livello il tuo personaggio e i suoi compagni! Vincere battaglie, esplorare la {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} e completare missioni ti fa guadagnare {g|Encyclopedia:ExperiencePoints}<b>punti esperienza</b>{/g}. Una volta accumulata abbastanza esperienza, il tuo personaggio ottiene un nuovo livello. Tieni premuto {console_bind|RightBottom}, seleziona l'icona per {g|Encyclopedia:CharacterLevel}salire di livello{/g} e poi rilascia {console_bind|RightBottom} per aprire la schermata di avanzamento.
+Ogni livello guadagnato offre ai tuoi personaggi nuove opzioni di progressione, tra cui nuove {g|Encyclopedia:Ability}abilità{/g}, {g|Encyclopedia:Talent}talenti{/g}, miglioramenti delle {g|Encyclopedia:Skills}competenze{/g} e altri potenziamenti.
+I tuoi compagni salgono di livello insieme al tuo personaggio. Anche se durante i tuoi viaggi non fanno parte del gruppo attivo, potrai sempre aumentare il loro livello in seguito.
+
+### u003912
+Puoi aprire la mappa per orientarti tenendo premuto {console_bind|FuncAdditional}.
+
+### u003913
+Ecco uno schema della tua nave del vuoto: è composta da diverse sezioni tra cui puoi spostarti. Alcune non sono ancora disponibili, ma col tempo il tuo personaggio otterrà l'accesso anche a quelle.
+Usa {console_bind|RightStickY}/{console_bind|DPadVertical} per selezionare il compartimento in cui vuoi andare e premi {console_bind|Confirm}.
+
+### u003914
+Muovi il tuo personaggio con {console_bind|LeftStick} in modalità libera.
+Puoi anche richiamare il cursore con {console_bind|LeftStickButton}, spostarlo in un punto dello schermo e premere {console_bind|Confirm}. Comparirà un simbolo e il tuo personaggio si dirigerà verso di esso. Se il punto scelto è inaccessibile, il simbolo comparirà nella posizione accessibile più vicina.
+
+### u003915
+Hai ricevuto una nuova arma, più efficiente, per il tuo personaggio. Per migliorare il tuo equipaggiamento, tieni premuto {console_bind|RightBottom}, seleziona nel menu l'icona dell'<b>inventario</b> e poi rilascia {console_bind|RightBottom}. Equipaggia il nuovo oggetto in uno slot per armi selezionando con {console_bind|DPadFull} l'icona dell'arma nell'inventario del gruppo, poi premi {console_bind|Confirm}.
+Puoi anche equipaggiare gli oggetti selezionando lo slot appropriato e premendo {console_bind|Confirm}. Nell'elenco che compare, seleziona l'oggetto che vuoi equipaggiare.
+Durante i tuoi viaggi troverai e acquisterai spesso nuovo equipaggiamento, quindi non dimenticare di aggiornare quello dei tuoi personaggi per renderli più potenti.
+
+### u003916
+Man mano che la storia del gioco procede, vedrai comparire in alto sullo schermo delle notifiche che indicano che lo stato dell'obiettivo attuale è stato aggiornato e che nuove informazioni sono state aggiunte al tuo diario. Puoi aprire il diario dall'accesso rapido. Tieni premuto {console_bind|RightBottom}, usa {console_bind|DPadFull}/{console_bind|LeftStick} per selezionare Diario e poi rilascia {console_bind|RightBottom}.
+Le voci del diario ti aiutano a tenere traccia degli eventi in corso e a guidare il tuo personaggio nel suo viaggio. La scheda delle missioni segue l'avanzamento della storia principale: qui trovi informazioni su tutte le missioni che hai accettato e sul loro stato attuale. Usa il diario per ricordare qual è il prossimo passo della tua avventura.
+Anche le sezioni delle voci di corridoio e dei contratti contengono informazioni importanti: ne saprai di più più avanti.
+
+### u003917
+Idira si è unita al tuo gruppo, che ora è composto da più personaggi. Il menu di selezione dei personaggi ti permette di passare dall'uno all'altro: tieni premuto {console_bind|LeftBottom}. Quando ti muovi, tutti i membri del gruppo seguono il personaggio che hai selezionato.
+Se vuoi muovere un solo personaggio o lasciare un membro del gruppo da qualche parte, puoi separarlo dal gruppo premendo {console_bind|Func02} nel menu di selezione dei personaggi.
+
+### u003918
+Pasqal è un {g|Encyclopedia:CareerAdeptGlossary}<b>Operative</b>{/g} come Idira, ma è anche membro della confraternita dei Tecnopreti, il che gli conferisce opzioni aggiuntive, vantaggi e capacità uniche.
+Uno dei <b>mecadendriti</b> di Pasqal gli permette di impugnare contemporaneamente la sua ascia da Tecnoprete a due mani e un'arma a distanza. Equipaggia una seconda arma nello slot del mecadendrite nella schermata dell'inventario, che si raggiunge dall'accesso rapido {console_bind|RightBottom}.
+{g|f:95cdd5f42ef5480d9fadd9e0acee641b}Machine Spirit Communion{/g} è un'{g|Encyclopedia:Ability}abilità{/g} speciale di Pasqal che riduce il {g|Encyclopedia:Recoil}<b>rinculo</b>{/g} e aumenta la {g|Encyclopedia:DodgeReduction}<b>riduzione della schivata</b>{/g} delle armi degli alleati in un'area. Tutti i nemici nella stessa area subiranno gli effetti opposti.
+{g|f:0b8058ef3f33406faebea94ee7967d66}Machine Spirit Banishment{/g} è una delle abilità speciali di Pasqal: riduce i danni inflitti dagli attacchi del bersaglio per 1 {g|Encyclopedia:Round}round{/g}. I bersagli con la caratteristica {g|f:ed0acc1731834a89bda8cc52ec769e3d}Reject the Flesh{/g} subiscono {g|Encyclopedia:ShockDamage}danni da shock{/g}. Se il bersaglio è un meccanismo o una macchina, questi danni raddoppiano e le sue {g|Encyclopedia:Characteristic}caratteristiche{/g} vengono ridotte fino alla fine del combattimento.
+
+### u003919
+Il {g|Encyclopedia:ProfitFactorFullGlossary}<b>Fattore di Profitto</b>{/g} misura il tuo status, la tua ricchezza e il tuo potere come {g|Encyclopedia:RogueTrader}Rogue Trader{/g}. Il suo valore è determinato dalle tue connessioni commerciali, dalle entrate dei tuoi possedimenti e dalle riserve del tuo tesoro. Il valore del tuo Fattore di Profitto è mostrato nella scheda della reputazione del menu del personaggio, che si apre dall'accesso rapido {console_bind|RightBottom}.
+Durante i viaggi, il tuo personaggio userà il Fattore di Profitto per acquistare oggetti e completare progetti coloniali.
+Il Fattore di Profitto non si spende in acquisti e transazioni: è il suo livello a determinare la tua capacità di concludere un affare commerciale. Il Fattore di Profitto può crescere o diminuire. La sua crescita dipende soprattutto dai grandi affari commerciali, mentre la sua diminuzione dagli investimenti nei progetti coloniali.
+
+### u003920
+I pianeti della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} abbondano di risorse preziose. Prima di poterle raccogliere, tuttavia, è necessario installare un extractium sulla superficie del mondo.
+Seleziona l'icona di estrazione delle risorse nella vista del pianeta, poi premi {console_bind|Confirm} per confermare l'installazione di un extractium. Il numero di extractium a tua disposizione è indicato in fondo allo schermo.
+
+### u003921
+Nuovi contratti sono ora disponibili nel diario!
+I contratti sono richieste emesse dalle tue colonie. Soddisfacendole puoi ottenere risorse, aumentare il tuo {g|Encyclopedia:ProfitFactorFullGlossary}Fattore di Profitto{/g} o ricevere oggetti unici. A volte, soddisfare i contratti offerti da una colonia può influire sulla produttività delle altre.
+Dall'accesso rapido, {console_bind|RightBottom}, apri il diario e seleziona la sezione Contratti premendo {console_bind|LeftUp}/{console_bind|RightUp}.
+
+### u003922
+Soddisfare i contratti costa una certa quantità di risorse o una parte del tuo {g|Encyclopedia:ProfitFactorFullGlossary}Fattore di Profitto{/g}. La descrizione di un contratto contiene sia i costi associati sia la ricompensa che riceverai. Puoi soddisfare un contratto selezionandolo nel diario e premendo {console_bind|Func01}. I contratti pronti per essere soddisfatti sono contrassegnati da un simbolo giallo.
+
+### u003923
+Il tuo personaggio ha ricevuto da un alleato un {g|Encyclopedia:PositiveEffect}effetto positivo{/g} temporaneo! Questi {g|Encyclopedia:CommonStatusesGlossary}effetti{/g} potenziano in qualche modo le capacità del tuo personaggio in combattimento.
+Premi {console_bind|LeftStickButton} per attivare il tracciato dell'{g|Encyclopedia:InitiativeGlossary}iniziativa{/g}, seleziona il personaggio con {console_bind|DPadVertical} e premi {console_bind|Func01}. Nella finestra delle informazioni del personaggio che si apre, seleziona l'{g|Encyclopedia:CommonStatuses}effetto{/g} e premi {console_bind|RightStickButton} per saperne di più.
+
+### u003924
+Ricorda di far salire di livello il tuo personaggio e i suoi compagni: ottengono sempre nuove {g|Encyclopedia:Ability}abilità{/g} e nuovi {g|Encyclopedia:Talent}talenti{/g} e migliorano le loro {g|Encyclopedia:Skills}competenze{/g} e {g|Encyclopedia:Characteristic}caratteristiche{/g}.
+Quando un personaggio è pronto per passare al livello successivo, l'opzione corrispondente compare nell'accesso rapido {console_bind|RightBottom}.
+
+### u003925
+Durante i tuoi viaggi sentirai molte voci di corridoio. Quelle che meritano l'attenzione del Rogue Trader vengono registrate nel diario.
+A volte le voci sono solo voci. Altre volte c'è del vero in esse, e in alcuni casi può esserci anche molto di più. Per verificare una voce, recati nel luogo indicato nella sua descrizione.
+Per rivedere le voci note, apri il diario dall'accesso rapido {console_bind|RightBottom} e seleziona la sezione Voci di corridoio premendo {console_bind|LeftUp}/{console_bind|RightUp}.
+
+### u003926
+Ogni arma della nave ha un'azione di attacco separata. Puoi attivare il pannello degli attacchi con {console_bind|Func01}. Una volta selezionata l'abilità con cui attaccare un nemico, verrà mostrato l'{g|Encyclopedia:FiringArcSpace}arco di fuoco{/g} dell'arma.
+
+### u003927
+Seleziona un'azione di attacco sul pannello degli attacchi e premi {console_bind|Confirm} per confermare la scelta. A ogni turno puoi usare una sola volta ciascuno degli attacchi della nave.
+Manovra la nave in battaglia e attacca con armi diverse per sfruttare al meglio le capacità del tuo vascello.
+
+### u003928
+Per muovere la nave, seleziona una casella accessibile sul campo di battaglia e premi {console_bind|Confirm}. Così facendo vedrai un ologramma della nave che ti permetterà di valutare l'efficacia di attacchi e azioni futuri da quella posizione, proprio come nel combattimento normale. Premi di nuovo {console_bind|Confirm} per confermare la scelta e ordinare alla nave di muoversi. In alternativa, puoi premere {console_bind|Decline} per rimuovere l'ologramma.
+
+### u003929
+Considera le postazioni come il "caricatore" delle tue abilità e dei tuoi attacchi nelle battaglie spaziali.
+Le abilità delle {g|Encyclopedia:PostSpace}postazioni{/g} si sbloccano man mano che la tua nave sale di livello.
+A ogni postazione puoi assegnare fino a due abilità di base e una {g|Encyclopedia:UltimateAbilities}abilità suprema{/g}.
+A ogni round puoi usare una sola abilità per postazione.
+I tempi di ricarica delle abilità vengono determinati a caso dopo ogni utilizzo e possono arrivare fino a 3 round.
+Per usare l'abilità di una postazione, attiva il pannello delle postazioni con {console_bind|Func02}, seleziona l'abilità che vuoi usare e premi {console_bind|Confirm} per usarla o per scegliere un bersaglio.
+
+### u003930
+La nave ha raggiunto la zona di movimento finale. Per terminare il turno, premi {console_bind|FuncAdditional}.
+
+### u003931
+Gli attacchi a lunga distanza contro le navi dei Drukhari sono meno efficaci a causa dello <b>Shadow Field</b> che le circonda. Prova a cambiare tattica attaccandole a distanza ravvicinata: così puoi infliggere più {g|Encyclopedia:DamageGlossary}danni{/g} e schiacciare il nemico.
+Premi {console_bind|LeftStickButton} per attivare il pannello della {g|Encyclopedia:SpaceBattleInitiativeGlossary}priorità{/g} sulla sinistra, seleziona una nave nemica e premi {console_bind|Confirm} per scoprire come funzionano le sue abilità passive.
+
+### u003932
+Hai ricevuto nuovo equipaggiamento per la tua nave!
+Apri la schermata di gestione della nave del vuoto dall'accesso rapido {console_bind|RightBottom} e seleziona il componente appena acquisito. Per installarlo, seleziona il compartimento o l'oggetto desiderato e premi {console_bind|Confirm}.
+
+### u003933
+La tua nave ha raggiunto un nuovo livello!
+Nella scheda di sviluppo della schermata di gestione della nave del vuoto puoi migliorare le abilità e i potenziamenti che già possiedi o sceglierne di nuovi. Per navigare rapidamente, seleziona l'opzione per salire di livello dall'accesso rapido {console_bind|RightBottom}.
+
+### u003934
+Puoi attivare la modalità cursore per regolare con più precisione la traiettoria di movimento della tua nave. Per farlo, premi {console_bind|LeftStickButton}.
+
+### u003935
+Gli attacchi nemici possono penetrare i tuoi {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} e infliggere {g|Encyclopedia:DamageGlossary}danni{/g} allo {g|Encyclopedia:HullIntegritySpace}scafo{/g} della tua nave. Questi danni persistono dopo la fine della battaglia e devono essere riparati. Apri la schermata di gestione della nave del vuoto dall'accesso rapido {console_bind|RightBottom} per riparare la nave.
+
+### u003936
+Non hai abbastanza {g|Encyclopedia:ScrapSpace}rottami{/g} a disposizione per riparare la nave, ma hai ancora delle possibilità se sei {mf|disposto|disposta} a sacrificare alcuni potenziamenti.
+Apri la schermata di gestione della nave del vuoto dall'accesso rapido {console_bind|RightBottom} e scegli un componente. Premi {console_bind|Confirm} e seleziona Declassa. Il livello attuale del componente verrà abbassato: il componente viene smantellato e trasformato in rottami di riserva (una parte dell'investimento originale) che possono servire a riparare la nave.
+
+### u003937
+Una delle navi del vuoto in battaglia ha ottenuto un nuovo {g|Encyclopedia:CommonStatusesGlossary}effetto{/g}!
+Premi {console_bind|LeftStickButton} per attivare il pannello della {g|Encyclopedia:SpaceBattleInitiativeGlossary}priorità{/g} sulla sinistra e seleziona una nave per vedere quali effetti ha attualmente. Per saperne di più su un effetto, premi {console_bind|Confirm}.
+
+### u003938
+Per attaccare, seleziona prima con {console_bind|DPadHorizontal} l'icona del {g|Encyclopedia:SingleRangedAttacksGlossary}<b>colpo singolo</b>{/g} sul pannello delle armi. Prendi di mira un nemico: comparirà un suggerimento che mostra le tue probabilità di {g|Encyclopedia:HitSequenceGlossary}colpirlo{/g} e i possibili {g|Encyclopedia:DamageGlossary}danni{/g} che puoi infliggere in caso di successo. Premi {console_bind|Confirm} durante la selezione del nemico per sparare.
+I danni inflitti dai tuoi personaggi dipendono dai parametri dell'arma che usano. L'efficacia del colpo dipende dalla distanza tra il personaggio e il nemico: quando prendi di mira un nemico con un colpo singolo, vedrai due aree che indicano la gittata efficace e quella massima dell'arma.
+
+### u003939
+Hai trovato un oggetto che può essere equipaggiato solo da personaggi con un certo grado di {g|Encyclopedia:SoulmarkTypesGlossary}convinzione{/g}. Puoi aprire il menu del personaggio per vedere quale convinzione segue il tuo personaggio.
+Tieni presente che sia il tuo personaggio sia i suoi compagni hanno ciascuno le proprie convinzioni. Puoi verificare a quale convinzione aderisce un personaggio nella scheda della biografia del menu del personaggio. Per raggiungere questo menu, apri l'accesso rapido tenendo premuto {console_bind|RightBottom}, seleziona l'icona del personaggio e poi rilascia {console_bind|RightBottom}.
+Le convinzioni cambiano di orientamento e di grado in base agli sviluppi della storia del gioco e alle decisioni importanti della trama.
+
+### u003940
+Ogni sistema stellare contiene oggetti con cui puoi interagire. Tali oggetti sono contrassegnati come punti di interesse. Sposta la tua nave su un punto di interesse con {console_bind|LeftStick}, poi premi {console_bind|Confirm} per avviare l'evento o aprire la vista del pianeta. Puoi annullare l'ordine di movimento con {console_bind|Decline}.
+
+### u003941
+Alcuni oggetti interattivi, come porte o bauli, non sono sempre contrassegnati da icone. Puoi premere {console_bind|FuncAdditional} per evidenziarli.
+
+### u003942
+Più avanti c'è una trappola! Ordina al tuo personaggio di disinnescarla. Se un personaggio entra in un'area minata o fallisce la {g|Encyclopedia:Test}prova{/g} per disinnescarla, la trappola scatta, infliggendo {g|Encyclopedia:DamageGlossary}danni{/g} e provocando {g|Encyclopedia:Injury}lesioni{/g} a tutti i personaggi nella sua {g|Encyclopedia:AreaOfEffect}area d'effetto{/g}.
+A volte vedrai una trappola contrassegnata da un'area rossa e da una linea tratteggiata di collegamento. Questa linea conduce al meccanismo che controlla la trappola. Avvicinati al meccanismo: se si evidenzia, la trappola può essere disinnescata interagendo con esso. Premi {console_bind|Confirm} per tentare la prova di disinnesco. Se tutti i personaggi sono selezionati come gruppo tramite l'accesso rapido {console_bind|RightBottom}, andrà a disinnescare la trappola il personaggio con il punteggio più alto nella {g|Encyclopedia:Skills}competenza{/g} pertinente. Se hai un personaggio selezionato separatamente dal resto del gruppo, sarà lui a tentare di disinnescare la trappola da solo. Se una trappola è contrassegnata da un'area rossa senza linea tratteggiata, avvicinati semplicemente e premi {console_bind|Confirm} per tentare la prova di disinnesco.
+Per disinnescare tipi diversi di trappole si usano competenze diverse.
+
+### u003943
+Una volta terminato il combattimento, le ferite di tutti i membri del gruppo vengono ripristinate automaticamente, ma le eventuali {g|Encyclopedia:Injury}lesioni{/g} subite restano: si possono curare con un kit medico.
+I kit medici possono essere usati solo dai personaggi che possiedono la caratteristica {g|f:9aefa8d7db3349358e23b2106578353b}Field Medic{/g}, la {g|f:37363b46061e46218f40e01ed81e9189}Competenza base: Medicae{/g}, o che hanno scelto almeno una volta l'avanzamento della competenza {g|Encyclopedia:SkillMedicae}Medicae{/g}. Ogni volta che un personaggio usa un kit medico in battaglia, una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:Skills}competenza{/g} di Medicae determina il numero di {g|Encyclopedia:HitPoints}ferite{/g} che verranno ripristinate.
+Abelard può curare la lesione del tuo personaggio. Tieni premuto {console_bind|LeftBottom} e seleziona il ritratto di Abelard. Premi {console_bind|DPadVertical} per selezionare il kit medico sul pannello in basso a sinistra dello schermo, poi usalo sul tuo personaggio premendo {console_bind|Confirm}. Abelard deve trovarsi proprio accanto al tuo personaggio per poterlo curare.
+
+### u003944
+Il combattimento inizia con la <b>fase tattica</b>, durante la quale i personaggi {g|Encyclopedia:CantAttackEffect}non possono attaccare{/g} né compiere altre azioni, ma possono cercare di assumere posizioni vantaggiose.
+Seleziona un personaggio tenendo premuto {console_bind|LeftBottom}, spostando il riquadro sul suo ritratto e poi rilasciando {console_bind|LeftBottom}. Scegli la casella in cui vuoi che il personaggio si sposti, poi premi {console_bind|Confirm}. Le caselle rosse sono aree inaccessibili al personaggio. Durante la fase tattica, ogni personaggio del gruppo può muoversi fino al massimo dei suoi {g|Encyclopedia:MovementPoints}punti movimento{/g}, ma non può posizionarsi adiacente a un nemico.
+Premi {console_bind|FuncAdditional} per iniziare la battaglia.
+
+### u003945
+Hai trovato un oggetto consumabile!
+Granate, stimolanti, kit medici e altri consumabili possono essere collocati negli slot di accesso rapido. Per farlo, seleziona uno di questi oggetti e apri il menu contestuale con {console_bind|Func01}. Selezionando l'opzione Equipaggia, l'oggetto verrà collocato nel primo slot di accesso rapido libero.
+Puoi anche equipaggiare gli oggetti selezionando lo slot appropriato e premendo {console_bind|Confirm}. Nell'elenco che compare, seleziona l'oggetto che vuoi equipaggiare.
+Ogni oggetto consumabile ha un certo numero di usi, indicato nella descrizione dell'oggetto.
+Come la maggior parte delle azioni in combattimento, usare oggetti consumabili spende i {g|Encyclopedia:ActionPoints}punti azione{/g} del personaggio.
+
+### u003946
+Una nuova voce di corridoio è stata aggiunta al tuo diario [{bind|OpenJournal}]! Recati nel luogo indicato sulla mappa della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} per scoprire se c'è del vero.
+
+### u003947
+Nuova voce di corridoio
+
+### u003948
+Puoi gestire le tue colonie a distanza tramite la schermata di gestione delle colonie [{bind|OpenColonyManagement}].
+
+### u003949
+Gestione delle colonie
+
+### u003950
+Solo alcuni mondi, di solito i più abitabili, sono adatti a ospitare colonie fiorenti, pronte a svilupparsi.
+Completare progetti ed eventi coloniali può far ottenere al Rogue Trader ricompense uniche, impossibili da ottenere in altro modo.
+
+### u003951
+I progetti sono la spina dorsale dello sviluppo delle colonie. Per completarli servono risorse che si ottengono esplorando pianeti e anomalie cosmiche.
+Completare un progetto richiede tempo. Mentre prosegui i tuoi viaggi nella {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}, quando un progetto sarà terminato riceverai una notifica sullo schermo che ti informerà che la ricompensa può essere ritirata.
+
+### u003952
+Progetti
+
+### u003953
+Colonie
+
+### u003954
+Si è verificato un evento importante in una delle colonie del tuo protettorato, che richiede l'attenzione personale del Rogue Trader.
+Puoi visitare la colonia e completare l'evento in qualsiasi momento. Puoi trovare maggiori informazioni su tutti gli eventi in corso che richiedono il tuo intervento nella schermata di gestione delle colonie [{bind|OpenColonyManagement}].
+
+### u003955
+Evento coloniale
+
+### u003956
+La scansione standard non ha rivelato una rotta verso il sistema selezionato, ma puoi comunque raggiungerlo spendendo punti di <b>intuito del Navigatore</b> per tracciare un percorso diretto garantito.
+Fai clic con {mouse_icon|LeftMouse} sul sistema e usa l'{g|Encyclopedia:NavigatorsInsight}intuito del Navigatore{/g} per tracciare la rotta.
+
+### u003957
+Rotte speciali
+
+### u003958
+La {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} è una vasta regione di spazio in cui viaggerai tra diversi sistemi stellari. In ciascun sistema possono verificarsi eventi unici. Dirigendo la tua {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} verso di essi, puoi esplorare pianeti, studiare anomalie e interagire con altre navi.
+Per passare alla mappa dell'intera Distesa di Koronus, fai clic sul pulsante nell'angolo in basso a destra dello schermo.
+
+### u003959
+Apertura della mappa della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}
+
+### u003960
+Viaggiare tra i sistemi è pieno di pericoli mortali e avviene in un'altra dimensione nota come {g|Encyclopedia:Warp}warp{/g}. Solo un <b>Navigatore</b> può tracciare una rotta attraverso il warp verso altri sistemi stellari.
+Fai clic sul pulsante circolare in fondo allo schermo per far tracciare al Navigatore della nave nuove rotte verso il sistema che hai selezionato.
+
+### u003961
+Per iniziare il viaggio, fai clic con {mouse_icon|LeftMouse} su un sistema e premi il pulsante di viaggio nel warp.
+
+### u003962
+Il colore di una rotta indica il suo livello di pericolo.
+-<indent=5%>Le rotte verdi sono in assoluto le più sicure.</indent>
+-<indent=5%>Le rotte gialle segnalano che durante il salto possono verificarsi eventi imprevedibili.</indent>
+-<indent=5%>Le rotte arancioni indicano un'alta probabilità che la nave venga attaccata, persino nel warp!</indent>
+-<indent=5%>Le rotte rosse sono un segno certo che la nave sarà assalita da forze ostili durante il viaggio.</indent>
+Il Navigatore della nave può rendere una rotta più sicura spendendo punti di {g|Encyclopedia:NavigatorsInsight}<b>intuito del Navigatore</b>{/g}, che si ottengono scoprendo e scansionando nuovi sistemi in tutta la {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}.
+
+### u003963
+Viaggiare lungo le rotte del warp
+
+### u003964
+Intuito del Navigatore
+
+### u003965
+Rotte del warp
+
+### u003966
+I pianeti della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} abbondano di risorse preziose. Prima di poterle raccogliere, tuttavia, è necessario installare un <b>extractium</b> sulla superficie del mondo.
+Scansiona il pianeta, poi seleziona l'icona della risorsa che ti interessa per installare un extractium. Fai clic su <b>accetta</b> per confermare la scelta. Il numero di extractium a tua disposizione è indicato in fondo allo schermo.
+
+### u003967
+Le risorse servono a sviluppare le colonie e a completare i contratti. Puoi anche usarle per commerciare con le varie fazioni.
+
+### u003968
+Nuovi <b>contratti</b> sono ora disponibili nel diario [{bind|OpenJournal}]!
+I contratti sono richieste emesse dalle tue colonie. Soddisfacendole puoi ottenere risorse, aumentare il tuo {g|Encyclopedia:ProfitFactor}Fattore di Profitto{/g} o ricevere oggetti unici. A volte, soddisfare i contratti offerti da una colonia può influire sulla produttività delle altre.
+
+### u003969
+Soddisfare i contratti costa una certa quantità di risorse o una parte del tuo {g|Encyclopedia:ProfitFactor}Fattore di Profitto{/g}. La descrizione di un contratto contiene sia i costi associati sia la ricompensa che riceverai. Puoi soddisfare un contratto selezionandolo nel diario e facendo clic su <b>completa contratto</b>.
+
+### u003970
+Contratti
+
+### u003971
+Esplorazione e sfruttamento dei pianeti
+
+### u003972
+Mentre attraversi la {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} nei panni del Rogue Trader, non potrai fare a meno di sentire voci di corridoio sulle tue gesta e imprese, alcune delle quali riflettono la reazione degli abitanti della Distesa alle scelte che hai compiuto.
+
+### u003973
+Durante i tuoi viaggi sentirai molte voci di corridoio. Quelle che meritano l'attenzione del Rogue Trader vengono registrate in una sezione separata del diario [{bind|OpenJournal}].
+A volte le voci sono solo voci. Altre volte c'è del vero in esse, e in alcuni casi può esserci anche molto di più. Per verificare una voce, recati nel luogo indicato nella sua descrizione.
+
+### u003974
+Voci di corridoio sul Rogue Trader
+
+### u003975
+Voci di corridoio
+
+### u003976
+A volte, durante il combattimento spaziale, vedrai diversi tipi di zone anomale. Qualsiasi vascello che entri in una di queste zone (anche solo con una parte dello scafo) riceverà specifici effetti positivi e negativi. Passa il cursore sull'icona dell'effetto per saperne di più sulla zona e adattare di conseguenza la tua strategia.
+Per esempio, in una nube di gas e polveri la tua nave ammiraglia viene rallentata. La fitta foschia oscura gli oggetti nella zona e crea una forte resistenza per i proiettili, influendo così sulla gittata e sulla precisione delle armi della tua nave del vuoto. Allo stesso tempo, la foschia nasconde la tua posizione, riducendo in modo significativo la probabilità che la tua nave venga colpita.
+Fai attenzione ai campi di asteroidi! Qualsiasi vascello intrappolato in queste zone subisce danni a ogni round. Ma se riesci ad attirare un nemico in una di queste zone, otterrai di certo il sopravvento e lo sbaraglierai in fretta.
+
+### u003977
+Zone anomale (combattimento spaziale)
+
+### u003978
+Puoi riempire gli arsenali della tua nave ammiraglia con vari tipi di munizioni che potenziano le capacità delle sue armi.
+L'arsenale di munizioni flak ti permette di usare speciali proiettili flak con i macrocannoni. Questi proiettili hanno testate esplosive che infliggono danni ad area in un raggio di 1 casella attorno a una casella selezionata.
+I colpi flak sono particolarmente efficaci contro i siluri nemici e le piccole squadriglie di velivoli d'attacco.
+
+### u003979
+Puoi riempire gli arsenali della tua nave ammiraglia con vari tipi di munizioni che potenziano le capacità delle sue armi.
+Se i tuoi arsenali dispongono di ponti per caccia o bombardieri, i tuoi tubi lanciasiluri possono lanciare Intercettori Fury o Bombardieri Starhawk al posto dei normali siluri.
+Per diversi round potrai controllare direttamente queste speciali unità leggere, usandole per creare un diversivo e infliggere danni ai nemici.
+I velivoli d'attacco hanno una quantità limitata di carburante. Quando si esaurisce, non possono più essere controllati direttamente e tornano automaticamente alla tua nave ammiraglia.
+
+### u003980
+Arsenale: colpi flak
+
+### u003981
+Arsenale: velivoli d'attacco
+
+### u003982
+La tua nave è dotata di un arsenale di armi che differiscono per {g|Encyclopedia:Range}gittata{/g} e ti offrono vari modi di assalire gli avversari.
+La nave può attaccare con ciascuna delle sue armi una volta per {g|Encyclopedia:Turn}turno{/g}. Nota che si può sparare mentre la nave si muove, perché attaccare non pone fine al movimento della nave.
+
+### u003983
+Ogni arma della nave ha un'azione di attacco separata sul pannello in fondo allo schermo. Puoi fare clic sull'icona di un attacco per visualizzarne l'{g|Encyclopedia:FiringArcSpace}arco di fuoco{/g} e valutare quale posizione sul campo di battaglia sarebbe la più vantaggiosa per la tua nave.
+
+### u003984
+Seleziona sul pannello in fondo allo schermo l'azione di attacco con cui attaccare un nemico, poi fai clic con {mouse_icon|LeftMouse} sulla nave nemica. A ogni {g|Encyclopedia:Turn}turno{/g} puoi usare una sola volta ciascuno degli attacchi della nave.
+Manovra la nave in battaglia e attacca con armi diverse per sfruttare al meglio le capacità del tuo vascello.
+
+### u003985
+Attaccare con le armi
+
+### u003986
+Nel combattimento spaziale, il campo di battaglia è suddiviso in tre zone contrassegnate da vari gradi di luminosità:
+1. Zona di accelerazione
+2. Zona di movimento intermedio
+3. Zona di movimento finale
+Le navi viaggiano ad alta velocità anche durante il combattimento, per questo sia le tue navi sia quelle nemiche devono percorrere una certa distanza a ogni {g|Encyclopedia:Round}round{/g}. Puoi terminare il {g|Encyclopedia:Turn}turno{/g} solo quando la tua nave ha percorso questa distanza minima richiesta ed è entrata nella zona di movimento finale.
+
+### u003987
+Per muovere la nave, fai clic con {mouse_icon|LeftMouse} su una qualsiasi casella accessibile del campo di battaglia. Così facendo vedrai un ologramma della nave che ti permetterà di valutare l'efficacia di attacchi e azioni futuri da quella posizione, proprio come nel combattimento normale. Fai di nuovo clic con {mouse_icon|LeftMouse} per confermare la scelta e ordinare alla nave di muoversi. In alternativa, puoi fare clic con {mouse_icon|RightMouse} per rimuovere l'ologramma.
+
+### u003988
+Hai ingaggiato il nemico in un combattimento spaziale!
+Le battaglie nello spazio e sulla superficie dei pianeti funzionano in modo piuttosto diverso.
+
+### u003989
+Zone di movimento
+
+### u003990
+Movimento della nave
+
+### u003991
+Muovere la nave in combattimento
+
+### u003992
+Oltre a sparare con le armi, il combattimento tra navi prevede l'uso di {g|Encyclopedia:Ability}abilità{/g} legate alle varie postazioni della nave occupate dai tuoi fidati ufficiali. Aumenta il livello della nave per ottenere l'accesso a nuove abilità. A ogni {g|Encyclopedia:PostSpace}postazione{/g} si possono assegnare fino a due abilità di base e una abilità suprema.
+
+### u003993
+Per ogni {g|Encyclopedia:PostSpace}postazione{/g} si può usare una sola {g|Encyclopedia:Ability}abilità{/g} per {g|Encyclopedia:Round}round{/g}. Il {g|Encyclopedia:Cooldown}tempo di ricarica{/g} prima che un'abilità possa essere usata di nuovo viene determinato a caso e può arrivare fino a 3 round.
+
+### u003994
+Postazioni e abilità
+
+### u003995
+Alcune navi sono protette da {g|Encyclopedia:VoidshipShieldsGlossary}<b>scudi</b>{/g}. Per infliggere {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} a un nemico simile, devi prima perforare i suoi scudi. Due batterie di scudi coprono i fianchi della nave, una protegge la prua e una la poppa.
+
+### u003996
+Quando affronti una nave nemica dotata di {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g}, scegli con cura l'angolo di attacco e dirigi il fuoco su un fianco in cui gli scudi sono indeboliti o del tutto esauriti.
+Tieni presente che gli scudi dei nemici si ripristinano a ogni round.
+
+### u003997
+Anche la {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} del Rogue Trader è protetta da {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g}. Se il nemico ti attacca da un fianco in cui gli scudi sono indeboliti o esauriti, la nave subirà {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g}.
+
+### u003998
+Gli {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} {g|Encyclopedia:SpaceBattleDamageGlossary}danneggiati{/g} della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} non si ripristinano all'inizio del turno successivo. Possono invece essere ripristinati con l'azione {g|f:bd61b300bcd84e06a80c8cf3b699c78b}riavvia gli scudi{/g} sul pannello in fondo allo schermo.
+
+### u003999
+{g|f:bd61b300bcd84e06a80c8cf3b699c78b}Riavvia gli scudi{/g} riduce l'efficienza in combattimento della {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g}: al turno successivo avrà una {g|Encyclopedia:SpeedSpace}velocità{/g} di movimento e una {g|Encyclopedia:FiringRangeSpace}gittata{/g} ridotte.
+
+### u004000
+Difese della nave
+
+### u004001
+Scudi della nave ammiraglia
+
+### u004002
+Riavvio degli scudi
+
+### u004003
+Esaurimento degli scudi e attacchi
+
+### u004004
+Nota: da qui in avanti potresti incontrare gruppi di piccole navi che in combattimento seguono le stesse regole dei siluri.
+
+### u004005
+Il nemico ha lanciato dei siluri! Tuttavia, puoi distruggerli prima che ti raggiungano.
+I siluri vengono sempre lanciati in salve e non hanno {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} né {g|Encyclopedia:HullIntegritySpace}integrità dello scafo{/g}: ogni attacco che colpisce una {g|Encyclopedia:TorpedoSalvoSpace}salva{/g} distrugge un siluro per colpo.
+
+### u004006
+Gruppi di navi
+
+### u004007
+Siluri nemici
+
+### u004008
+Le navi nemiche possono attaccare i tuoi siluri e distruggerli prima che raggiungano il bersaglio. Un colpo ben piazzato distrugge un siluro di una {g|Encyclopedia:TorpedoSalvoSpace}salva{/g}.
+
+### u004009
+Hai lanciato una {g|Encyclopedia:TorpedoSalvoSpace}salva di siluri{/g}. I siluri compariranno al turno successivo nell'ordine di {g|Encyclopedia:SpaceBattleInitiativeGlossary}priorità{/g}: quando inizierà il loro turno, potrai dirigerli.
+I tuoi siluri possono attraversare lo spazio occupato dalla tua {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} senza danneggiarla. Non appena raggiungono una casella adiacente a un qualsiasi nemico, esplodono.
+
+### u004010
+Siluri
+
+### u004011
+La nave ha raggiunto la zona di movimento finale. Per terminare il turno, premi [{bind|Pause}] o fai clic sul pulsante di fine turno.
+
+### u004012
+La tua nave ha ora accesso a un'<b>{g|Encyclopedia:Ability}abilità{/g} suprema</b>! Può cambiare drasticamente le sorti della battaglia: prova a usarla e vedrai con i tuoi occhi!
+Tieni presente che puoi usare una sola abilità suprema per combattimento.
+
+### u004013
+Le {g|Encyclopedia:Ability}abilità{/g} supreme sono così potenti che richiedono un tempo di ricarica molto più lungo. Quando usi le {g|Encyclopedia:UltimateAbilities}abilità supreme{/g}, ricorda che al tuo prossimo ingresso in battaglia potrebbero essere ancora in {g|Encyclopedia:Cooldown}ricarica{/g}.
+
+### u004014
+La barra del {g|Encyclopedia:Cooldown}tempo di ricarica{/g} dell'abilità suprema della nave si riempie gradualmente a ogni {g|Encyclopedia:Turn}turno{/g} della tua {g|Encyclopedia:FlagshipSpace}nave ammiraglia{/g} in combattimento, alla fine di ogni battaglia e in seguito a determinati eventi durante l'esplorazione spaziale.
+
+### u004015
+Shadow Field dei Drukhari
+
+### u004016
+Gli attacchi a lunga distanza contro le navi dei Drukhari sono meno efficaci a causa dello {g|f:f9b2e0f3583a491c91ad19d72e2d2024}Shadow Field{/g} che le circonda. Prova a cambiare tattica attaccandole a distanza ravvicinata: così puoi infliggere più {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} e schiacciare il nemico.
+Per scoprire come funzionano le abilità passive delle navi, trova l'effetto che ti interessa sul pannello della {g|Encyclopedia:SpaceBattleInitiativeGlossary}priorità{/g} e passa il cursore sulla sua icona.
+
+### u004017
+Hai ricevuto nuovo equipaggiamento per la tua nave!
+Per installarlo, apri la schermata di gestione della nave del vuoto dal pannello a destra. Fai doppio clic con {mouse_icon|LeftMouse} sull'icona dell'equipaggiamento oppure tieni premuto {mouse_icon|LeftMouse} e trascinala nella sezione desiderata.
+
+### u004018
+Installazione dei componenti
+
+### u004019
+La tua nave ha raggiunto un nuovo livello!
+Puoi aprire la schermata di gestione della nave del vuoto dal pannello a destra o premendo [{bind|OpenShipCustomization}]. Nella scheda di sviluppo puoi migliorare le abilità e i potenziamenti che già possiedi o sceglierne di nuovi.
+
+### u004020
+Avanzamento di livello della nave
+
+### u004021
+Fai clic con {mouse_icon|LeftMouse} in un punto qualsiasi della mappa del sistema per ordinare alla nave di spostarsi lì.
+
+### u004022
+Gli attacchi nemici possono penetrare i tuoi {g|Encyclopedia:VoidshipShieldsGlossary}scudi{/g} e infliggere {g|Encyclopedia:SpaceBattleDamageGlossary}danni{/g} allo {g|Encyclopedia:HullIntegritySpace}scafo{/g} della tua nave. Questi danni persistono dopo la fine della battaglia e devono essere riparati. Apri la schermata di gestione della nave del vuoto [{bind|OpenShipCustomization}] per riparare la nave.
+
+### u004023
+Usa i {g|Encyclopedia:ScrapSpace}<b>rottami</b>{/g} per riparare la nave e ripristinarne l'{g|Encyclopedia:HullIntegritySpace}integrità dello scafo{/g}. I rottami si trovano esplorando i sistemi stellari, si raccolgono dopo certe battaglie spaziali o si acquistano dai mercanti affiliati alle varie fazioni.
+
+### u004024
+Riparare la nave
+
+### u004025
+Puoi ottenere {g|Encyclopedia:ScrapSpace}rottami{/g} dai {g|Encyclopedia:ShipComponentsGlossary}componenti{/g} della nave solo se hai già installato un potenziamento per quel componente. Cerca di tenere a portata di mano abbastanza rottami di scorta, per non trovarti nella situazione di dover sacrificare parti critiche della nave per le riparazioni.
+
+### u004026
+Non hai abbastanza {g|Encyclopedia:ScrapSpace}<b>rottami</b>{/g} a disposizione per riparare la nave, ma hai ancora delle possibilità se sei {mf|disposto|disposta} a sacrificare alcuni potenziamenti.
+Apri la schermata di gestione della nave del vuoto e scegli un componente. Fai clic con {mouse_icon|LeftMouse} su di esso e seleziona <b>declassa</b>. Il livello attuale del componente verrà abbassato: il componente viene smantellato e trasformato in rottami di riserva (una parte dell'investimento originale) che possono servire a riparare la nave.
+
+### u004027
+Rottami e riparazioni della nave
+
+### u004028
+Effetti nel combattimento spaziale
+
+### u004029
+Una delle navi del vuoto in battaglia ha ottenuto un nuovo effetto! Puoi passare il cursore su una nave per vedere l'effetto e la sua icona mostrati sopra di essa.
+Per saperne di più su un effetto, passa il cursore sulla sua icona nel pannello della {g|Encyclopedia:SpaceBattleInitiativeGlossary}priorità{/g}.
+
+### u004030
+Sei {mf|saltato|saltata} in un settore inesplorato ai confini della Distesa.
+Il portale dimensionale si è chiuso e ora sei {mf|tagliato|tagliata} fuori dal resto della Distesa di Koronus. Non puoi tornare ai sistemi precedenti né tracciare rotte verso di essi. Anche la gestione del protettorato non è disponibile e non hai modo di contattare i rappresentanti commerciali delle fazioni.
+Non c'è via di ritorno ed è inutile guardare altrove che avanti: stabilisci sulla mappa le rotte verso i nuovi sistemi del settore inesplorato e va' incontro all'inevitabile.
+
+### u004031
+Oltre il Portale Dimensionale
+
+### u004032
+Gli eventi di Warhammer 40,000: Rogue Trader si svolgono in una vasta regione di spazio nota come {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}. Questo settore è composto da numerosi sistemi stellari, molti dei quali avrai la possibilità di visitare. Ti ritroverai a setacciare il vuoto in cerca di rotte che conducano a nuovi sistemi inesplorati, scoprendone sempre di nuove man mano che esplori la Distesa.
+Quella che hai davanti è la mappa di uno di questi sistemi.
+
+### u004033
+Ogni sistema stellare contiene oggetti con cui puoi interagire. Tali oggetti sono contrassegnati come punti di interesse. Sposta la tua nave su un punto di interesse, poi fai clic con {mouse_icon|LeftMouse} su di esso per avviare l'evento o aprire la vista del pianeta.
+
+### u004034
+Sistemi stellari
+
+### u004035
+Esplorazione dei sistemi
+
+### u004036
+Non puoi equipaggiare più di un famiglio
+
+### u004037
+Cherubino
+
+### u004038
+Una creazione bio-meccanica artificiale dei Tecnopreti del Magos Biologis. In base alle dottrine caricate nella loro memoria, i cherubini possono svolgere varie mansioni umili per i loro padroni.
+
+### u004039
+Servoteschio scriba
+
+### u004040
+Servoteschio registratore di pict
+
+### u004041
+Servoteschio immacolato
+
+### u004042
+Servoteschio archivista
+
+### u004043
+Questa creatura è estremamente agile e ottiene +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u004044
+Agile
+
+### u004045
+Questa creatura ottiene +1 di {g|Encyclopedia:Deflection}deviazione{/g}, +10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e subisce −5% alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u004046
+Reject the Flesh 1
+
+### u004047
+Questa creatura ottiene +2 di {g|Encyclopedia:Deflection}deviazione{/g}, +20% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e subisce −10% alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u004048
+Reject the Flesh 2
+
+### u004049
+Questa creatura ottiene +3 di {g|Encyclopedia:Deflection}deviazione{/g}, +30% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e subisce −15% alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u004050
+Reject the Flesh 3
+
+### u004051
+Questa creatura ottiene +4 di {g|Encyclopedia:Deflection}deviazione{/g}, +40% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e subisce −20% alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u004052
+Reject the Flesh 4
+
+### u004053
+Questa creatura ottiene +5 di {g|Encyclopedia:Deflection}deviazione{/g}, +50% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e subisce −25% alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u004054
+Reject the Flesh 5
+
+### u004055
+Questa creatura ottiene +6 di {g|Encyclopedia:Deflection}deviazione{/g}, +60% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e subisce −30% alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u004056
+Reject the Flesh 6
+
+### u004057
+Questa creatura ottiene +7 di {g|Encyclopedia:Deflection}deviazione{/g}, +70% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e subisce −35% alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u004058
+Reject the Flesh 7
+
+### u004059
+Per 1 {g|Encyclopedia:Turn}turno{/g} questa creatura aumenta la propria {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di +10% per ogni istanza di {g|Encyclopedia:DamageGlossary}danni{/g} subita.
+
+### u004060
+Adaptive Armour
+
+### u004061
+Per 1 {g|Encyclopedia:Turn}turno{/g} questa creatura aumenta la propria {g|Encyclopedia:Deflection}deviazione{/g} di +2 per ogni istanza di {g|Encyclopedia:DamageGlossary}danni{/g} subita.
+
+### u004062
+Adaptive Coating
+
+### u004063
+Questo attacco infligge {g|Encyclopedia:BleedingEffect}Sanguinamento{/g} al bersaglio.
+
+### u004064
+Sweep
+
+### u004065
+<u>(9 + {g|Encyclopedia:SkillMedicae}Medicae{/g} / 4)</u>
+
+### u004066
+Emette un breve raggio di luce oscura che trafigge tutte le creature in linea.
+
+### u004067
+Darklight Blast
+
+### u004068
+Bleeder Burst
+
+### u004069
+Bleeder Splinter
+
+### u004070
+Questa creatura subisce una {g|Encyclopedia:Penalty}penalità{/g} di −30 a {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+
+### u004071
+Dazed
+
+### u004072
+Fuoco a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} con l'{g|Encyclopedia:RangeAreaAttacksGlossary}arma a distanza{/g} equipaggiata.
+
+### u004073
+Burst Fire
+
+### u004074
+La cadenza di fuoco aumenta di +100%. Questo attacco termina il turno di chi impugna l'arma.
+
+### u004075
+Daring Burst
+
+### u004076
+Fuoco a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} con la pistola equipaggiata.
+
+### u004077
+Pistol Burst
+
+### u004078
+Sweeping Strike
+
+### u004079
+Questo colpo ha il 100% di {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g}.
+
+### u004080
+Laser Shot
+
+### u004081
+Liquefying Shot
+
+### u004082
+Plasma Shot
+
+### u004083
+Tesla Shot
+
+### u004084
+L'utilizzatore ottiene +15 di {g|Encyclopedia:WarhammerStrength}Strength{/g}, +15 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e −20 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} per 2 {g|Encyclopedia:Turn}turni{/g}.
+
+### u004085
+Elisir inebriante
+
+### u004086
+<u>(10 × (grado di {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} + {g|Encyclopedia:PsyRating}livello psichico{/g}))</u>
+
+### u004087
+Conferisce +40% di {g|Encyclopedia:DodgeGlossary}schivata{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u004088
+{g|Encyclopedia:WarhammerAgility}Agility{/g}, {g|Encyclopedia:WarhammerStrength}Strength{/g} e {g|Encyclopedia:WarhammerWillpower}Willpower{/g} sono ridotte di −10 per il {g|Encyclopedia:Round}round{/g} successivo.
+
+### u004089
+Riduce la {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} di −3, ma aumenta i {g|Encyclopedia:DamageGlossary}danni{/g} di +12.
+
+### u004090
+Adjusted Burst: Powerful
+
+### u004091
+Aumenta la {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} di +3, ma riduce i {g|Encyclopedia:DamageGlossary}danni{/g} di −3.
+
+### u004092
+Adjusted Burst: Rapid
+
+### u004093
+I {g|Encyclopedia:DamageGlossary}danni{/g} minimi sono ridotti di −10, quelli massimi aumentati di +18.
+
+### u004094
+Adjusted Burst: Volatile
+
+### u004095
+Colpisce le creature in linea retta, infliggendo {g|Encyclopedia:FireDamage}danni da fuoco{/g} e causando lo stato {g|Encyclopedia:BurningEffect}In fiamme{/g}.
+
+### u004096
+Colpisce le creature in un ampio cono, infliggendo {g|Encyclopedia:FireDamage}danni da fuoco{/g} e causando lo stato {g|Encyclopedia:BurningEffect}In fiamme{/g}.
+
+### u004097
+Flamer Shot: Spray
+
+### u004098
+Potente attacco concentrato in un'area ristretta.
+
+### u004099
+Focused Melta Scorching
+
+### u004100
+<u>(12 + {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g} / 3)</u>
+
+### u004101
+Crea una pozza di sangue con le stesse proprietà di quella creata con l'abilità {g|f:e299c13f2278479bbd4e23269af5657c}Raining Blood{/g}. Ogni volta che si usa {g|f:e299c13f2278479bbd4e23269af5657c}Raining Blood{/g}, si ripristina +1 carica di fiala di sangue.
+
+### u004102
+Infligge <u>(da 25 a 45)</u> {g|Encyclopedia:MentalDamage}danni mentali{/g} con il 20% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}, solo alle creature meccaniche.
+
+### u004103
+Crea un'area {g|Encyclopedia:BurningEffect}in fiamme{/g} per 1 {g|Encyclopedia:Turn}turno{/g}, infliggendo {g|Encyclopedia:DamageGlossary}danni{/g} a tutti i presenti e causando lo stato In fiamme.
+
+### u004104
+Miscela incendiaria
+
+### u004105
+<u>({g|Encyclopedia:SkillDemolition}Demolition{/g} / 2)</u>
+
+### u004106
+Infligge <u>(da 6 a 18)</u> {g|Encyclopedia:ShockDamage}danni da shock{/g} con il 25% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u004107
+Granata ad arco elettrico
+
+### u004108
+Infligge <u>(da 24 a 48)</u> {g|Encyclopedia:ShockDamage}danni da shock{/g} con il 40% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u004109
+Carica ad arco elettrico
+
+### u004110
+Infligge <u>(da 35 a 70)</u> {g|Encyclopedia:ShockDamage}danni da shock{/g} con il 50% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u004111
+Carica ad arco elettrico Mk Dominus
+
+### u004112
+Infligge <u>(da 18 a 40)</u> {g|Encyclopedia:ShockDamage}danni da shock{/g} con il 25% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u004113
+Granata pesante ad arco elettrico
+
+### u004114
+<u>(Demolition / 2)</u>
+
+### u004115
+All'inizio di ogni {g|Encyclopedia:Turn}turno{/g}, questa creatura ottiene +1 accumulo aggiuntivo di {g|Encyclopedia:PerplexedEffect}Confuso{/g}.
+
+### u004116
+<u>(15 + {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g} / 2)</u>
+
+### u004117
+Questo attacco {g|Encyclopedia:PushGlossary}spinge{/g} il nemico indietro di un numero di caselle pari al <u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerStrength}STR{/g}</u>.
+
+### u004118
+Harsh Shove
+
+### u004119
+Questo attacco dà fuoco all'area bersaglio per 1 round.
+
+### u004120
+Scorching Retribution
+
+### u004121
+Ogni volta che il bersaglio viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g}, deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|Test|b04f00d9faf0433eb413f55d0ccaa680} oppure viene immediatamente spinto di 4 caselle, provocando {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u004122
+<u>({g|Encyclopedia:SkillCoercion}Coercion{/g} di chi impugna l'arma / 3)</u>
+
+### u004123
+Rending Strike
+
+### u004124
+Inferno Pistol Shot
+
+### u004125
+Inferno Blast
+
+### u004126
+Liquefying Spray
+
+### u004127
+Contiene vari cerotti cataplasma, antisettici e applicatori di pelle sintetica. Ripristina {uip|Heal|083d5280759b4ed3a2d0b61254653273} {g|Encyclopedia:HitPoints}ferite{/g}. Rimuove anche il {g|Encyclopedia:BleedingEffect}sanguinamento{/g}. Rimuove una {g|Encyclopedia:Injury}lesione recente{/g} o, se non ce ne sono, tenta di rimuovere una vecchia lesione.
+
+### u004128
+Kit medico
+
+### u004129
+<u>(6 + {g|Encyclopedia:SkillMedicae}Medicae{/g} / 5)</u>
+
+### u004130
+{g|Encyclopedia:AreaOfEffect}Attacco ad area{/g} con un'arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}.
+
+### u004131
+Brutal Strike
+
+### u004132
+Attacco singolo con l'arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} equipaggiata.
+
+### u004133
+Strike
+
+### u004134
+Applica +1 accumulo dell'effetto {g|Encyclopedia:PerplexedEffect}Confuso{/g} per 2 {g|Encyclopedia:Round}round{/g} se il bersaglio fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u004135
+Hallucinogen Strike
+
+### u004136
+Potente {g|Encyclopedia:AreaOfEffect}attacco ad area{/g}.
+
+### u004137
+Melta Scorching (Area Attack)
+
+### u004138
+<u>(15 + {g|Encyclopedia:SkillMedicae}Medicae{/g} / 2)</u>
+
+### u004139
+Colpo rotante che raggiunge fino a tre nemici davanti all'attaccante.
+
+### u004140
+Swing
+
+### u004141
+Cleave
+
+### u004142
+Ampio colpo di taglio che raggiunge più nemici contemporaneamente.
+
+### u004143
+Bile Blow
+
+### u004144
+Infligge +50% di {g|Encyclopedia:DamageGlossary}danni{/g} extra.
+
+### u004145
+Disintegrator Cannon Overcharge (Extra Damage)
+
+### u004146
+Potente {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} che surriscalda l'arma al plasma per 2 {g|Encyclopedia:Turn}turni{/g}.
+
+### u004147
+Plasma Overcharge (Area Attack)
+
+### u004148
+Infligge +75% di {g|Encyclopedia:DamageGlossary}danni{/g} extra, ma surriscalda l'arma al plasma per 2 {g|Encyclopedia:Turn}turni{/g}.
+
+### u004149
+Plasma Overcharge (Extra Damage)
+
+### u004150
+Plasma Explosion
+
+### u004151
+Usare un attacco sovraccarico con un'arma al plasma dà il {uip|Chance|0835dbc012334dd49f849fcc92e9f708}% di probabilità (non oltre il 100%) di causare {g|f:2a5d173c50af4cfd86eb00b12848b450}Plasma Explosion{/g}.
+Ogni accumulo di questo effetto aumenta i danni di {g|f:0bc1f945b05e4b5593ec6151c7109a06}Plasma Overcharge (Area Attack){/g} di +5%, quelli di {g|f:1da644efeb174a789fc857602ebdfc1b}Plasma Overcharge (Extra Damage){/g} di +15% e quelli di {g|f:2a5d173c50af4cfd86eb00b12848b450}Plasma Explosion{/g} di +10%.
+All'inizio del {g|Encyclopedia:ExtraTurn}turno non extra{/g} di chi impugna l'arma, viene rimosso −1 accumulo di questo effetto.
+
+### u004152
+Plasma Cell Overheating
+
+### u004153
+<u>(25 × numero di accumuli di {g|f:0835dbc012334dd49f849fcc92e9f708}plasma cell overheating{/g})</u>
+
+### u004154
+Power Strike
+
+### u004155
+Attacco con mazza potenziata che infligge {g|Encyclopedia:DamageGlossary}danni{/g} a tutti in un'area e li stordisce se subiscono 6 o più danni.
+
+### u004156
+Power Maul Slam
+
+### u004157
+Ampio {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} che {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} altri bersagli ai due lati dell'attaccante.
+
+### u004158
+Power Swing
+
+### u004159
+Piercing Strike
+
+### u004160
+Colpo mirato con precisione, con un {g|Encyclopedia:Bonus}bonus{/g} di +50% alla {g|Encyclopedia:Range}gittata efficace{/g} dell'arma e +10% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}.
+
+### u004161
+Deadeye Shot
+
+### u004162
+Infligge <u>(da 5 a 11)</u> {g|Encyclopedia:ToxicDamage}danni tossici{/g} e applica +1 accumulo dell'effetto burst of disease.
+
+### u004163
+Granata di pus
+
+### u004164
+{g|Encyclopedia:Reload}Ricarica{/g} l'arma equipaggiata.
+
+### u004165
+Ground Slam
+
+### u004166
+Il bersaglio di questo attacco è costretto a una prova di resistenza di Toughness. Se la fallisce, si crea un'{g|Encyclopedia:Opening}apertura{/g} permanente sul lato del bersaglio più vicino a chi impugna l'arma. Sia chi impugna l'arma sia i suoi alleati possono sfruttare l'{g|Encyclopedia:Opening}apertura{/g}.
+
+### u004167
+Drilling Strike
+
+### u004168
+Infligge {g|Encyclopedia:BleedingEffect}Sanguinamento{/g} se il bersaglio fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u004169
+Rending Shots
+
+### u004170
+Attacco ad ampio cono a corto raggio.
+
+### u004171
+Rending Shotgun
+
+### u004172
+Plasma Single Shot
+
+### u004173
+{g|Encyclopedia:SingleRangedAttacksGlossary}Colpo singolo{/g} con l'{g|Encyclopedia:RangeAreaAttacksGlossary}arma a distanza{/g} equipaggiata.
+
+### u004174
+Pistol Shot
+
+### u004175
+Splinter Burst
+
+### u004176
+Colpo a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} che avvelena i nemici con {g|Encyclopedia:ToxinEffect}Tossina{/g}.
+
+### u004177
+Toxic Burst
+
+### u004178
+Toxic Shot
+
+### u004179
+<u>(2 × {g|Encyclopedia:PsyRating}livello psichico{/g} + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u004180
+Attacco speciale che conta come {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} maggiore.
+Infligge {uip|damage|8f63a3008a614bc085b6fb56443d3f92} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi, ma può scatenare {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g} e {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.
+
+### u004181
+Psychic Force
+
+### u004182
+{g|Encyclopedia:AreaOfEffect}Attacco ad area{/g} che abbatte ogni creatura davanti e ai lati dell'attaccante.
+
+### u004183
+Thunder Slam
+
+### u004184
+Questa sostanza tossica corrode senza pietà qualsiasi {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} con cui venga a contatto.
+<indent=5%>−10% di armatura</indent>
+<indent=5%>−2 di {g|Encyclopedia:Deflection}deviazione{/g}</indent>
+
+### u004185
+Curse of Rust
+
+### u004186
+Toxic Needle
+
+### u004187
+{g|Encyclopedia:SingleRangedAttacksGlossary}Colpo singolo{/g} che, se {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, avvelena il nemico con {g|Encyclopedia:ToxinEffect}Tossina{/g} virale per 3 {g|Encyclopedia:Round}round{/g} qualora fallisca una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u004188
+Scocca un piccolo ago d'argento rivestito di tossine virali. A ogni {g|Encyclopedia:Turn}turno{/g}, per 3 turni, il bersaglio deve superare una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −15 o subire <u>(da 4 a 6)</u> {g|Encyclopedia:ToxicDamage}danni tossici{/g}. Questi {g|Encyclopedia:DamageGlossary}danni{/g} non possono essere ridotti dall'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+
+### u004189
+Hack and Slash
+
+### u004190
+Attacco con lanciafiamme ad ampio cono che dà fuoco anche ai bersagli e a chi lo usa, applicando lo stato {g|Encyclopedia:BurningEffect}In fiamme{/g} (10).
+
+### u004191
+Bold Flames
+
+### u004192
+<u>(12 + {g|Encyclopedia:SkillMedicae}Medicae{/g} / 3)</u>
+
+### u004193
+Ampio colpo di taglio che raggiunge più nemici contemporaneamente e avvelena i bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} con {g|Encyclopedia:ToxinEffect}Tossina{/g}.
+
+### u004194
+Venomous Slash
+
+### u004195
+{g|Encyclopedia:MeleeAttacksGlossary}Attacco in mischia{/g} che avvelena i nemici con {g|Encyclopedia:ToxinEffect}Tossina{/g}.
+
+### u004196
+Venomous Strike
+
+### u004197
+Il personaggio subisce 10 {g|Encyclopedia:ToxicDamage}danni tossici{/g} a ogni {g|Encyclopedia:Round}round{/g}.
+
+### u004198
+Infligge {g|Encyclopedia:DamageGlossary}danni{/g} a ogni {g|Encyclopedia:Turn}turno{/g} se le creature avvelenate falliscono una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u004199
+Scocca un ago realizzato appositamente che infligge {g|Encyclopedia:ToxinEffect}Tossina{/g} (6) e +1 accumulo di {g|Encyclopedia:FatiguedEffect}Affaticato{/g} fino alla fine del combattimento. Il bersaglio subisce anche {g|Encyclopedia:SlowedEffect}Rallentato{/g} per 1 {g|Encyclopedia:Round}round{/g}. Si cumula.
+
+### u004200
+Debilitating Shot
+
+### u004201
+I bersagli colpiti da questo {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} devono superare una prova di resistenza di Agility o restare {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} per 1 round.
+Alla fine del loro turno, i bersagli colpiti devono superare una prova di resistenza di Agility per rimuovere l'effetto, altrimenti subiscono danni diretti pari al <u>bonus di AGI del bersaglio</u>.
+
+### u004202
+Cannone a rete
+
+### u004203
+Fucile al plasma
+
+### u004204
+<u>30% dello {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} attuale</u>
+
+### u004205
+Il bersaglio di chi impugna l'arma deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} o restare {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g} fino all'inizio del {g|Encyclopedia:Turn}turno{/g} successivo di chi impugna l'arma. Questa {g|Encyclopedia:Ability}abilità{/g} viene usata al posto degli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u004206
+Halt!
+
+### u004207
+Infligge {uip|Damage|1c5f4edca9f64fe0911bc946e0b4ea4a} {g|Encyclopedia:DamageGlossary}danni{/g} a un singolo bersaglio.
+
+### u004208
+Shield Bash
+
+### u004209
+<u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerStrength}STR{/g} + bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g})</u>
+
+### u004210
+Infligge {uip|Damage|b7113e32083d4344ad172d296119d40c} danni a ogni bersaglio nell'area d'effetto.
+
+### u004211
+Shield Swing
+
+### u004212
+Prima dell'inizio del suo {g|Encyclopedia:Turn}turno{/g} successivo, quando per la prima volta un nemico attacca chi impugna l'arma dal lato protetto dopo l'uso di questa {g|Encyclopedia:Ability}abilità{/g}, chi impugna l'arma effettua un attacco preventivo contro quel nemico. Tale attacco viene eseguito prima dell'attacco del nemico. In questo {g|Encyclopedia:Round}round{/g}, chi impugna l'arma non può effettuare {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} prima che scatti l'attacco preventivo.
+
+### u004213
+Get Ready!
+
+### u004214
+Gli scudi permettono a chi li impugna di {g|Encyclopedia:BlockChance}bloccare{/g} gli attacchi.
+Il primo attacco con scudo in un {g|Encyclopedia:Turn}turno{/g} costa −1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u004215
+Chi impugna l'arma marchia i nemici nell'{g|Encyclopedia:AreaOfEffect}area d'effetto{/g} e termina immediatamente il {g|Encyclopedia:Turn}turno{/g}. Fino all'inizio del turno successivo, ottiene +15% di {g|Encyclopedia:BlockChance}blocco{/g} contro il primo attacco di ciascuno dei nemici marchiati. Se tale attacco viene bloccato, contrattacca il nemico corrispondente.
+
+### u004216
+Stalwart Defence
+
+### u004217
+Chi impugna l'arma si volta verso un oggetto o una casella selezionati.
+Può essere usata più volte per {g|Encyclopedia:Turn}turno{/g}.
+
+### u004218
+Shield Up!
+
+### u004219
+Ogni volta che chi impugna la spada subisce danni energetici, da fuoco, da potenza o warp, la spada ne assorbe una parte, riducendoli di −{uip|Damage|3ccf46b177184d7b886568fa5451c43b}%. Chi la impugna ottiene +{uip|Range|3ccf46b177184d7b886568fa5451c43b}% di penetrazione dell'armatura per il suo prossimo attacco. Si cumula.
+
+### u004220
+Antica spada della forza
+
+### u004221
+[Mezoa-Pattern] Fucile ad arco elettrico
+
+### u004222
+I nemici {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} da questo fucile subiscono +{uip|Damage|1c8dbdedc0904ea7b47ba45a25ebbeab}% di danni in più da chi lo impugna fino alla fine del combattimento. Non si cumula.
+
+### u004223
+Alpha's Arc Rifle
+
+### u004224
+Ogni volta che chi impugna il fucile {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un bersaglio con un fucile ad arco elettrico, colpisce anche ogni creatura in un raggio di 2 caselle attorno al bersaglio principale.
+I colpi di un fucile ad arco elettrico non possono {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrare{/g}.
+I danni {g|Encyclopedia:CritChancesAndCritDamageGlossary}critici{/g} del fucile ad arco elettrico aumentano di +{uip|CritDamage|23a11a94517345a6a7925e239cbc8ceb}%.
+
+### u004225
+Fucile ad arco elettrico
+
+### u004226
+Grin of the Iron Wolf
+
+### u004227
+Un'arma prediletta degli Adeptus Astartes.
+
+### u004228
+Bolter Astartes
+
+### u004229
+[Mezoa-Pattern] Pistola bolt Astartes
+
+### u004230
+Pistola bolt Astartes
+
+### u004231
+Ascia a catena Astartes
+
+### u004232
+[Ryza-Pattern] Spada a catena Astartes
+
+### u004233
+Questa spada a catena conferisce +10% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} per i colpi critici.
+
+### u004234
+Spada a catena Astartes
+
+### u004235
+Se un attacco con questo coltello uccide il bersaglio, chi lo impugna ripristina +1 {g|Encyclopedia:ActionPoints}PA{/g} e può effettuare un attacco aggiuntivo con questo coltello.
+
+### u004236
+Coltello da combattimento Astartes
+
+### u004237
+[Mars-Pattern] Lanciafiamme Astartes
+
+### u004238
+Lanciafiamme Astartes
+
+### u004239
+Pistola al plasma Astartes
+
+### u004240
+Pistola al plasma Astartes massiccia
+
+### u004241
+Spada potenziata Astartes
+
+### u004242
+Bolter tempesta Astartes
+
+### u004243
+Autocannone pesante dei tutori dell'ordine
+
+### u004244
+I bersagli colpiti da quest'arma devono superare una prova di resistenza di Toughness con una penalità di −10 o essere {g|Encyclopedia:PushGlossary}spinti{/g} a 2 caselle di distanza.
+
+### u004245
+[Civitas Pattern] Fucile automatico
+
+### u004246
+Fucile automatico a fuoco rapido
+
+### u004247
+[Mezoa-Pattern] Fucile automatico
+
+### u004248
+Le armi a proiettili solidi hanno una {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g} aumentata (+50%).
+
+### u004249
+Fucile automatico
+
+### u004250
+Pistola automatica migliorata
+
+### u004251
+Orthlak Mark IV
+
+### u004252
+Pistola automatica
+
+### u004253
+Ascia dissanguatrice
+
+### u004254
+Ascia ben curata
+
+### u004255
+Ascia massiccia
+
+### u004256
+Le asce hanno un attacco speciale che infligge {g|Encyclopedia:BleedingEffect}Sanguinamento{/g}.
+
+### u004257
+Ascia
+
+### u004258
+Blaster
+
+### u004259
+[Ryza-Pattern] Pistola blaster
+
+### u004260
+Pistola blaster
+
+### u004261
+Bolter modificato
+
+### u004262
+Bolter
+
+### u004263
+[Mezoa-Pattern] Pistola bolt
+
+### u004264
+Pistola bolt
+
+### u004265
+Mitragliatore pesante calibrato
+
+### u004266
+Ascia a catena rinforzata
+
+### u004267
+Mars-Pattern
+
+### u004268
+Mezoa-Pattern
+
+### u004269
+Ascia a catena lacerante
+
+### u004270
+Ascia a catena
+
+### u004271
+Grande ascia a catena
+
+### u004272
+Sega da roccia pesante arrugginita
+
+### u004273
+Sega da roccia pesante ben curata
+
+### u004274
+Sega da roccia pesante
+
+### u004275
+[Ryza-Pattern] Spada a catena
+
+### u004276
+Spada a catena
+
+### u004277
+<u>(2 × {g|Encyclopedia:VeilThickness}degrado del Velo{/g})</u>
+
+### u004278
+{g|Encyclopedia:VeilThickness}<u>Degrado del Velo</u>{/g}
+
+### u004279
+<u>({g|Encyclopedia:VeilThickness}degrado del Velo{/g} / 5)</u>
+
+### u004280
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Fanatic
+Ogni attacco riuscito con Edge of the Irrevocable aumenta il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} di +<u>(da 1 a 5)</u> e infligge +{uip|Damage|cce8d529e407406695a7cc7dde1ebe70} {g|Encyclopedia:WarpDamage}danni warp{/g} aggiuntivi. Conferisce inoltre:
+-<indent=5%>Tutti gli alleati infliggono +{uip|AllyDamage|cce8d529e407406695a7cc7dde1ebe70}% di {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.</indent>
+-<indent=5%>Chi impugna l'arma ottiene +{uip|PsyRating|cce8d529e407406695a7cc7dde1ebe70} (minimo +1) di {g|Encyclopedia:PsyRating}livello psichico{/g} aggiuntivo.</indent>
+-<indent=5%>Se il degrado del Velo raggiunge 20, gli attacchi riusciti con Edge of the Irrevocable scatenano i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.</indent>
+-<indent=5%>Se il degrado del Velo scende a 0, Edge of the Irrevocable perde tutti i suoi poteri fino alla fine del combattimento.</indent>
+
+### u004281
+Edge of the Irrevocable
+
+### u004282
+Fucile a pompa da combattimento
+
+### u004283
+Questa pistola aumenta di +10 la {g|Encyclopedia:SkillCoercion}Coercion{/g} di chi la impugna e non richiede addestramento all'uso dell'arma per essere impugnata.
+
+### u004284
+Pistola inferno corrotta
+
+### u004285
+Lancia oscura
+
+### u004286
+Ogni volta che un alleato adiacente a chi impugna l'arma attacca un nemico, chi la impugna effettua, se possibile, un attacco di opportunità contro quel nemico.
+
+### u004287
+Partner in Death
+
+### u004288
+Lama del Culto della Morte
+
+### u004289
+Pattern del Culto della Morte
+
+### u004290
+Lama potenziata
+
+### u004291
+Lama potenziata del Culto della Morte
+
+### u004292
+Questa lama può eseguire solo attacchi ad area. Anche gli attacchi di opportunità eseguiti con essa sono attacchi ad area.
+
+### u004293
+Blade of Sorrow
+
+### u004294
+<u>(10 + 2 × bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g})</u>
+
+### u004295
+Questa lama infligge +{uip|Damage|483093afe6d34109a1eba3000eec4d9a}% di danni aggiuntivi ai nemici con più del 50% di ferite.
+
+### u004296
+Singing Retribution
+
+### u004297
+Questa lama infligge +{uip|Damage|c4ae9d253c654ac5804f7a9bdd49bb61}% di danni aggiuntivi ai nemici con meno del 50% di ferite.
+
+### u004298
+Whispering Mercy
+
+### u004299
+Lama insanguinata
+
+### u004300
+Spinner's Blade
+
+### u004301
+Djin's Favour
+
+### u004302
+Djin's Curse
+
+### u004303
+Klaive Incubus
+
+### u004304
+Klaive Drukhari
+
+### u004305
+Spada a catena Aeldari di fattura eccellente
+
+### u004306
+Spada a catena Aeldari
+
+### u004307
+Pistola blaster d'élite
+
+### u004308
+Spada a catena d'élite
+
+### u004309
+Fucile a schegge a canna lunga
+
+### u004310
+Eviscerator
+
+### u004311
+[Kiava Gamma Pattern] Ascia omnissiana
+
+### u004312
+[Mars-Pattern] Lanciafiamme manuale
+
+### u004313
+Lanciafiamme manuale
+
+### u004314
+[Mars-Pattern] Lanciafiamme
+
+### u004315
+Lanciafiamme
+
+### u004316
+[Retobi-Pattern] Foehammer
+
+### u004317
+[Ryza-Pattern] Foehammer
+
+### u004318
+{g|Encyclopedia:PsyRating}<u>Livello psichico</u>{/g}
+
+### u004319
+Questa spada infligge +{g|Encyclopedia:PsyRating}{uip|Damage|fd5c99b0b98543938875fa3c17294b71}{/g} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u004320
+Spada della forza
+
+### u004321
+Chi impugna questa spada ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +25% alla {g|Encyclopedia:Parry}parata{/g}.
+
+### u004322
+Lama frattale
+
+### u004323
+Fucile a fusione
+
+### u004324
+Ogni attacco con questo pugnale aumenta i suoi danni di +1 fino alla fine del combattimento. Si cumula.
+
+### u004325
+Bio-pugnale
+
+### u004326
+LD-Pattern
+
+### u004327
+Ogni attacco di base riuscito con questa mazza infligge un trauma casuale al bersaglio.
+
+### u004328
+Bonecracker
+
+### u004329
+Spada fantasma
+
+### u004330
+[Retobi-Pattern] Spadone
+
+### u004331
+[Mezoa-Pattern] Spadone
+
+### u004332
+Spadone pesante
+
+### u004333
+Spadone
+
+### u004334
+Granata
+
+### u004335
+Sega da roccia pesante migliorata
+
+### u004336
+Harlequin's Kiss
+
+### u004337
+Bringer of Terror
+
+### u004338
+Bolter pesante
+
+### u004339
+Quest'arma infligge danni aggiuntivi pari al livello di difficoltà del bersaglio.
+
+### u004340
+Fiery Retribution
+
+### u004341
+Lanciafiamme pesante
+
+### u004342
+Mitragliatore pesante
+
+### u004343
+Se {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} con successo, il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|Test|b04f00d9faf0433eb413f55d0ccaa680} oppure viene immediatamente spostato di 4 caselle, provocando {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u004344
+Interrogator's Dagger
+
+### u004345
+[Retobi-Pattern] Lama Hekatarii
+
+### u004346
+Lama Hekatarii affilata
+
+### u004347
+Lama Hekatarii di fattura eccellente
+
+### u004348
+Lama Hekatarii dal filo raffinato
+
+### u004349
+Lama Hekatarii
+
+### u004350
+Fucile laser hot-shot di tecnologia Necron
+
+### u004351
+Fucile laser hot-shot
+
+### u004352
+Pistola laser hot-shot
+
+### u004353
+[Mezoa-Pattern] Hexrifle
+
+### u004354
+Quando questo colpo {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, avvelena il bersaglio con una {g|Encyclopedia:ToxinEffect}tossina{/g} virale per 3 {g|Encyclopedia:Round}round{/g} se il nemico fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u004355
+Hexrifle
+
+### u004356
+I {g|Encyclopedia:DeadeyeShot}Deadeye Shot{/g} sparati da questo fucile infliggono +5 danni base aggiuntivi per classe di dimensione del nemico, ovvero:
+-<indent=5%>Le creature massicce (2×2 caselle) subiscono +5 danni.</indent>
+-<indent=5%>Le creature enormi (3×3 caselle) subiscono +10 danni.</indent>
+
+### u004357
+Fucile da caccia
+
+### u004358
+Fucile da tiratore scelto
+
+### u004359
+Quest'arma infligge +2 {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi per ogni nemico adiacente a chi la impugna. I nemici {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} da quest'arma non possono effettuare {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u004360
+Pala da geniere del Munitorum, modello standard
+
+### u004361
+Questa creatura non può effettuare {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u004362
+Disoriented
+
+### u004363
+Martello industriale
+
+### u004364
+Se {g|Encyclopedia:HitSequenceGlossary}colpiti{/g}, i bersagli devono effettuare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con un {g|Encyclopedia:Bonus}bonus{/g} di +10.
+Se la falliscono, subiscono {g|Encyclopedia:BurningEffect}In fiamme{/g} (24) e {g|Encyclopedia:MeltingEffect}In fusione{/g}. Inoltre sono {g|Encyclopedia:Stun}storditi{/g} per 1 {g|Encyclopedia:Turn}turno{/g}.
+Se la superano, subiscono In fiamme (8) e {g|Encyclopedia:MeltingEffect}In fusione{/g}.
+
+### u004365
+Virtuous Vindication
+
+### u004366
+[Mezoa-Pattern] Pistola inferno
+
+### u004367
+Pistola inferno
+
+### u004368
+L'{g|Encyclopedia:AreaOfEffect}attacco ad area{/g} di questa klaive ha un'area d'effetto maggiore.
+
+### u004369
+Cry of Agony
+
+### u004370
+Con quest'arma chi la impugna può eseguire solo attacchi {g|Encyclopedia:DeadeyeShot}Deadeye Shot{/g}. Ogni volta che uccide un nemico con un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} usando quest'arma, ottiene un attacco aggiuntivo in questo {g|Encyclopedia:Turn}turno{/g}.
+
+### u004371
+Wanderer's Portent
+
+### u004372
+Coltello
+
+### u004373
+Blaster laser
+
+### u004374
+Fucile laser rabberciato
+
+### u004375
+Fucile laser ben curato
+
+### u004376
+[Mezoa-Pattern] Fucile laser
+
+### u004377
+Fucile laser trofeo
+
+### u004378
+Usare {g|f:7ae09bd99a7f4fa8842d64fb001af19b}Bayonet Strike{/g} con questo fucile laser infligge +18 livelli di {g|Encyclopedia:ToxinEffect}Tossina{/g}.
+
+### u004379
+Zarkov's Sting
+
+### u004380
+Fucile laser
+
+### u004381
+Retobi-Pattern
+
+### u004382
+Pistola laser
+
+### u004383
+Conferisce +25% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}. Se chi impugna l'arma possiede almeno {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Zealot, i {g|Encyclopedia:DamageGlossary}danni{/g} aumentano di +{uip|Damage|3188b332a5044c73964b85b1e07438ad}.
+
+### u004384
+Fucile laser a canna lunga Exitus
+
+### u004385
+Fucile laser a canna lunga
+
+### u004386
+Dream's Infinity
+
+### u004387
+Fucile a canna lunga Ranger
+
+### u004388
+Fucile a canna lunga Guardian
+
+### u004389
+Fucile a canna lunga Aeldari
+
+### u004390
+Fucile da tiratore
+
+### u004391
+Mecadendrite bolt
+
+### u004392
+[Ryza-Pattern] Fucile melta
+
+### u004393
+[Mars-Pattern] Fucile melta
+
+### u004394
+[Sol-Pattern] Fucile melta
+
+### u004395
+Quest'arma melta modificata dall'Adeptus Mechanicus ha potenza di fuoco e gittata maggiori.
+
+### u004396
+Melta Ultima
+
+### u004397
+Fucile melta
+
+### u004398
+Fucile laser modificato
+
+### u004399
+Un fucile laser modificato da un qualche faccendiere.
+
+### u004400
+Lama velenosa esotica
+
+### u004401
+Artigli
+
+### u004402
+Pistola ad aghi
+
+### u004403
+Fucile ad aghi
+
+### u004404
+Infligge {g|Encyclopedia:MentalDamage}danni mentali{/g} al bersaglio. Se il bersaglio fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, la sua {g|Encyclopedia:WarhammerWillpower}Willpower{/g}, la sua {g|Encyclopedia:WarhammerPerception}Perception{/g} e la sua {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} sono ridotte di −10 e il suo {g|Encyclopedia:PsyRating}livello psichico{/g} è ridotto di −1.
+
+### u004405
+Neurodisgregatore
+
+### u004406
+[Mars-Pattern] Ascia omnissiana
+
+### u004407
+Le asce omnissiane conferiscono a chi le impugna un {g|Encyclopedia:Bonus}bonus{/g} di +15 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}.
+
+### u004408
+Ascia omnissiana
+
+### u004409
+Rallenta i nemici e infligge +1 accumulo dell'effetto {g|Encyclopedia:FatiguedEffect}Affaticato{/g}.
+
+### u004410
+Pistola shuriken migliorata
+
+### u004411
+Pistola shuriken
+
+### u004412
+Spada della peste
+
+### u004413
+[Retobi-Pattern] Pistola al plasma
+
+### u004414
+[Sol-Pattern] Pistola al plasma
+
+### u004415
+Pistola al plasma
+
+### u004416
+[Mezoa-Pattern] Fucile al plasma
+
+### u004417
+[Retobi-Pattern] Fucile al plasma
+
+### u004418
+[Mars-Pattern] Fucile al plasma
+
+### u004419
+Fucile al plasma pesante
+
+### u004420
+Fucile al plasma Ragefire
+
+### u004421
+Fucile al plasma
+
+### u004422
+Questa spada ignora la {g|Encyclopedia:Deflection}deviazione{/g}.
+
+### u004423
+Lama Hekatarii avvelenata affilata
+
+### u004424
+Lama Hekatarii avvelenata dal filo raffinato
+
+### u004425
+Lama Hekatarii avvelenata
+
+### u004426
+[Mars-Pattern] Ascia potenziata
+
+### u004427
+Ascia potenziata di fattura eccellente
+
+### u004428
+Ascia potenziata
+
+### u004429
+Claymore potenziata di fattura eccellente
+
+### u004430
+[Retobi-Pattern] Mazza potenziata
+
+### u004431
+[Ryza-Pattern] Mazza potenziata
+
+### u004432
+[Mars-Pattern] Mazza potenziata
+
+### u004433
+[Sol-Pattern] Mazza potenziata
+
+### u004434
+Sol Pattern
+
+### u004435
+Mazza potenziata di fattura eccellente
+
+### u004436
+Mazza potenziata
+
+### u004437
+Piccone potenziato migliorato
+
+### u004438
+Quest'arma ignora l'armatura e la deviazione dei bersagli.
+
+### u004439
+Smiter
+
+### u004440
+Quest'arma ha un'azione di attacco extra che aumenta di +10 la penetrazione dell'armatura di tutti gli attacchi successivi contro lo stesso bersaglio per 1 {g|Encyclopedia:Round}round{/g}. Si cumula.
+
+### u004441
+Piccone potenziato
+
+### u004442
+Riduce di −3 i {g|Encyclopedia:DamageGlossary}danni{/g} dell'arma del bersaglio per 2 {g|Encyclopedia:Round}round{/g} dopo che chi impugna l'arma ha parato un attacco.
+<indent=5%>+30% di {g|Encyclopedia:Parry}parata{/g}</indent>
+
+### u004443
+Spada potenziata del Mondo Astronave
+
+### u004444
+Spada potenziata d'élite
+
+### u004445
+Spada potenziata
+
+### u004446
+Ogni volta che chi impugna l'arma effettua un attacco a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} con quest'arma, la sua {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} aumenta di +2 (fino a un massimo di +10). Si cumula e dura fino alla fine del combattimento.
+

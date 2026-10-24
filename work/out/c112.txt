@@ -1,0 +1,841 @@
+### u040449
+{n}Solomorne ti rivolge uno sguardo severo.{/n} "Il fatto che il Mandato vi consenta molte cose non vi obbliga a esercitare ogni diritto di cui disponete. Non tutti gli strumenti sono adatti al servizio del Dio-Imperatore. Riflettetevi."
+
+### u040450
+{n}Scintille crepitano dai pistoni sul mento di Eogunn, mentre le sue batterie emettono un brontolio d'avvertimento. Il Manipulus fissa con fascinazione il mostro meccanico.{/n} "Questo costrutto è estremamente pericoloso, eppure quanto è insondabile la sua natura! Se davvero intendete reclamarlo, Rogue Trader, faccio valere il mio diritto di priorità per studiarlo."
+
+### u040451
+{n}Heinrix alza una mano, e un velo invisibile di gelo gli cala all'istante addosso.{/n}
+
+### u040452
+{n}Senza dire una parola, Argenta punta l'arma.{/n}
+
+### u040453
+{n}Il Siniscalco emette un suono strano, sofferto.{/n} "Certo, Lord Capitano. Dopotutto, le mie opzioni sono piuttosto limitate."
+
+### u040454
+{n}Heinrix alza una mano, e la temperatura intorno a lui inizia a precipitare.{/n}
+
+### u040455
+{n}Pasqal, ancora più pallido del solito, fissa la creatura con un misto di rabbia e disgusto, il visore che lampeggia di blu e di verde. Qualche scintilla schizza dai circuiti bruciati sotto l'armatura del mostro, come se la rabbia di Pasqal gli stesse dando fuoco dall'interno.{/n}
+
+### u040456
+{n}La voce di Pasqal risuona come plastacciaio di grado militare:{/n} "Sacrilegio inaccettabile! L'abominio deve essere estirpato!"
+
+### u040457
+{n}Pasqal si blocca mentre i suoi mecadendriti si agitano avanti e indietro. Dopo una lunga pausa, dice sommessamente,{/n} "L'anatema deve essere dotato di un meccanismo per la cessazione delle funzioni vitali, da porre sotto la mia supervisione. Solo allora la sua esistenza potrà essere prolungata per il tempo giustificato dalla sacra missione della Comprensione."
+
+### u040458
+"Se l'anatema dimostra la minima disobbedienza, questa unità aprirà le sue placche corazzate, polverizzerà i suoi pistoni idraulici e inizierà a recidere i suoi fili di contatto uno dopo l'altro per vedere quali gruppi di cogitazione si spengono per primi." {n}Mentre Pasqal sussurra le sue minacce, la forma corazzata della mostruosità si rimpicciolisce ed emette un ringhio feroce, ma in qualche modo cauto.{/n}
+
+### u040459
+{n}La Sorella della Battaglia alza l'arma.{/n} "Fermatevi in Suo nome! Comprendete almeno quale eresia state per compiere?"
+
+### u040460
+{n}Abelard diventa bianco come un lenzuolo.{/n} "Con rispetto parlando, Lord Capitano... Dove la metteremmo, poi... Dovremmo tenerla rinchiusa... Distruggerà mezzo ponte!"
+
+### u040461
+"Shereen, il vostro trionfo sui servi dell'Arcinemico deve avervi offuscato la mente, perché quale altra spiegazione posso trovare per ciò che sento? Portare un'arma che è il flagello dell'Umanità a bordo della nave dei prescelti dell'Eccelso? Voglio dire..."
+
+### u040462
+[Forza l'accesso ai sistemi del cogitatore]
+
+### u040463
+[Risveglia lo spirito macchina del cogitatore]
+
+### u040464
+[Consulta il registro]
+
+### u040465
+{n}Costringi la macchina ad aggirare i propri divieti e le proprie restrizioni. La strana intrusione e i guasti logici potrebbero in seguito far impazzire lo spirito macchina del cogitatore, ma per ora il terminale ti obbedisce in tutto e per tutto.{/n}
+
+### u040466
+{n}Sei quasi {mf|certo|certa} che la tua intrusione abbia danneggiato la struttura interna del cogitatore. I conflitti potrebbero portare al collasso dell'intero sistema, il che significa che dovresti sbrigarti.{/n}
+
+### u040467
+{n}Il cogitatore tace, in attesa di nuovi comandi.{/n}
+
+### u040468
+{n}La tua conoscenza degli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g} è sufficiente a ingannare il sistema e a piegarlo al tuo volere. Una richiesta falsa, un'abile manipolazione dei comandi — e ottieni ciò che vuoi.{/n}
+
+### u040469
+{n}La tua comprensione delle tecnologie sacre non basta per superare il fedele guardiano del cogitatore — il suo {g|Encyclopedia:MachineSpirit}spirito macchina{/g}. Per quanto tu cerchi di costringerlo, il sistema resta impenetrabile.{/n}
+
+### u040470
+{n}Tocchi le leve e le bobine sul pannello di controllo e disturbi il sonno degli spiriti che dimorano in questo cogitatore. La macchina indugia come se fosse ancora assonnata, ma esegue comunque la funzione assegnata.{/n}
+
+### u040471
+{n}Scopri la cripta dati locale, con contenuti raccolti dai precedenti operatori o dallo spirito macchina stesso. Grazie al tuo accesso, studi gli archivi conservati in questo cogitatore.{/n}
+
+### u040472
+{n}Ottieni l'accesso ai sistemi del cogitatore. Lo spirito macchina del dispositivo non può far nulla per ostacolarti — sottomesso dalla sconfitta, si nasconde nelle profondità del suo covo.{/n}
+
+### u040473
+{n}Davanti a te c'è una console antica ma del tutto comune, pensata per essere usata da persone non addestrate ai misteri dell'accudimento degli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g}. Il {g|Encyclopedia:Cogitator}cogitatore{/g} è completamente silenzioso, ma avvicinandoti senti il calore che emana dal suo involucro metallico — un chiaro segno che la macchina è in funzione.{/n}
+
+### u040474
+{n}Il pannello del {g|Encyclopedia:Cogitator}cogitatore{/g} ha decine di interruttori automatici, pulsanti, maniglie, deviatori e altri meccanismi di controllo.{/n}
+
+### u040475
+{n}Avvicinandoti al {g|Encyclopedia:Cogitator}cogitatore{/g}, noti numerosi graffi profondi lasciati da artigli enormi sulle sue superfici metalliche. Nonostante i danni evidenti, la macchina sembra funzionante.{/n}
+
+### u040476
+{n}Qualcosa ulula all'interno dell'involucro metallico, come se gli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g} di questo {g|Encyclopedia:Cogitator}cogitatore{/g} piangessero una perdita irreparabile.{/n}
+
+### u040477
+{n}Il {g|Encyclopedia:Cogitator}cogitatore{/g} sembra morto — solo un singolo lumen acceso rivela che c'è vita dentro la macchina.{/n}
+
+### u040478
+{n}Il cogitatore è completamente silenzioso, ma avvicinandoti senti il calore che emana dal suo telaio metallico — un chiaro segno che la macchina è in funzione.{/n}
+
+### u040479
+{n}Le vaste banche dati contengono milioni di stringhe relative alla ricezione di materie prime da lavorare, alla spedizione di metalli lavorati e ai programmi dei rituali sacri da officiare sulle macchine che escono dalla linea di produzione... Un tempo il {g|Encyclopedia:Manufactorum}manufactorum{/g} funzionava come un unico, gigantesco meccanismo ben oliato. L'ultima registrazione risale a due mesi fa.{/n}
+
+### u040480
+[Consulta il primo dato del registro]
+
+### u040481
+[Consulta il secondo dato del registro]
+
+### u040482
+[Consulta il terzo dato del registro, nascosto dalla protezione dello spirito macchina]
+
+### u040483
+"...sia lode all'{g|Encyclopedia:Omnissiah}Omnissiah{/g}, la cui forza e il cui potere trasformano il metallo morto per manifestare le sacre visioni del Dio-Macchina. I nuovi protocolli ricevuti al sinodo dal grande {g|Encyclopedia:Fabricator}Fabricator-Censor{/g} sono stati eseguiti, nonostante coloro che hanno tremato all'idea di cambiare una Procedura Standard. Rinfrancate i vostri cuori, voi la cui debolezza interiore genera errori nei calcoli personali, perché il Fabricator-Censor è il conduttore della volontà superiore e il più saggio tra noi..."
+
+### u040484
+"...oggi, alla suprema assemblea, il {g|Encyclopedia:Fabricator}Fabricator-Censor{/g} ha dissigillato le volte dei sacri progetti e ha consegnato allo smaltimento purificatore quelli ritenuti ridondanti o eretici. Oggi decine di Procedure Standard sono andate perdute, per essere sostituite da nuove, che il Fabricator-Censor consegnerà a coloro che dimostreranno la massima devozione nel servire la verità... ma le banche dati non contengono alcuna nozione di 'Verità' — può esserci stato, che l'Onnisciente, il Clemente Custode, mi perdoni, un errore nei calcoli del Fabricator-Censor, e voleva dire 'servire la Ricerca della Conoscenza'?"
+
+### u040485
+"...i terminali strumentali sono già stati sostituiti e i sistemi di consegna dei materiali sono in preparazione per la trasformazione divina. L'esecuzione della Nuova Procedura è stata ritardata, perché ci sono nei nostri ranghi alcuni che dubitano delle parole del {g|Encyclopedia:Fabricator}Fabricator-Censor{/g} e dei suoi devoti. E ce ne sono altri che non sono sensibili al Protocollo di Potenziamento che porta i nostri tecno-compagni all'illuminazione — possano i messaggeri del fato essere misericordiosi con loro. L'inazione è morte, e devo tornare al nostro grande lavoro. Lode alla Verità che rivelerà il sentiero verso la Conoscenza avvolta nelle tenebre..."
+
+### u040486
+[Attiva il protocollo di abbassamento d'emergenza del ponte]
+
+### u040487
+{n}Il registro non contiene nulla di interessante — il programma dei rituali di manutenzione della sacra macchina che muove il ponte, un registro di attivazione e qualche annotazione di natura religiosa inserita dai Tecnopreti.{/n}
+
+### u040488
+[Esamina il protocollo di approvvigionamento]
+
+### u040489
+[Esamina il protocollo di produzione]
+
+### u040490
+[Esamina il protocollo di ascensione]
+
+### u040491
+{n}A prima vista le registrazioni sembrano un tipico rapporto di spedizione, ma leggendo più a fondo diventa chiaro che il centro dell'attenzione non sono il minerale o i componenti da assemblare, bensì le {g|Encyclopedia:Augmentation}augmetiche{/g} estratte da {g|Encyclopedia:TechPriest}Tecnopreti{/g} vivi e la "massa esausta" — la carne delle vittime uccise durante o per i rituali delle macchine.{/n}
+
+### u040492
+{n}Il registro sembra danneggiato — le righe sono irregolari e alcuni valori paiono impossibili. Dopo qualche minuto passato a studiare le registrazioni, senti la testa iniziare a girare — i dati archiviati possono essere compresi solo da una mente contorta, toccata dalla corruzione del {g|Encyclopedia:Chaos}Caos{/g}.{/n}
+
+### u040493
+{n}Questa registrazione sembra il sermone di un folle adoratore del {g|Encyclopedia:Chaos}Caos{/g}. Il registro, chiaramente scritto sotto dettatura, parla di "il cuore che trasuda virtù" e di "la culla che dondola il figlio della Verità."{/n}
+
+### u040494
+[Avvicina il tuo elettatuaggio allo scanner]
+
+### u040495
+{n}Diversi lumen si accendono sul pannello. Senti dei clic distinti — e il cogitatore tace, avendo evidentemente adempiuto al proprio scopo.{/n}
+
+### u040496
+"Hai ragione. La produzione di servitori è disumana. Vorrei poterle porre fine — ma non è in mio potere."
+
+### u040497
+"Che cosa trovi di tanto orribile in questa usanza?"
+
+### u040498
+[Taglia via il tumore che si sta formando sul cogitatore spinale]
+
+### u040499
+[Trova l'augmetica difettosa e disattivala]
+
+### u040500
+[Osserva il servitore più vicino a te]
+
+### u040501
+[Allontanati dai servitori]
+
+### u040502
+"È un sacrificio necessario per la sopravvivenza di tutta la nostra civiltà."
+
+### u040503
+"Almeno i servitori hanno qualche utilità. Cosa che non si può dire per due terzi dell'Umanità."
+
+### u040504
+[Trova la fonte dei clic ripetuti]
+
+### u040505
+"Ehi? Mi senti?"
+
+### u040506
+"Ehm... segui la tua programmazione di base?"
+
+### u040507
+"Disattivati. Il tuo servizio è finito."
+
+### u040508
+"Resta qui."
+
+### u040509
+[Blocchi]
+
+### u040510
+[Evita il suo tocco]
+
+### u040511
+"Essere un servitore è un onore, xenos. Non puoi capire."
+
+### u040512
+[Colpisci la sua mano]
+
+### u040513
+"Fermo!"
+
+### u040514
+{n}I {g|Encyclopedia:Servitor}servitori{/g} davanti a te sembrano eseguire una danza elaborata e sconcertante — assumendo pose strane, ondeggiano avanti e indietro con le braccia piegate ad angoli bizzarri. Al tuo avvicinarti, uno dei servitori sussulta e tenta di voltarsi nella tua direzione. Gli altri ripetono subito il movimento.{/n}
+
+### u040515
+{n}Sembra che i {g|Encyclopedia:Servitor}servitori{/g} "danzanti" non si siano mossi affatto — se ne stanno ancora in mezzo alla stanza come bizzarre sculture snodate.{/n}
+
+### u040516
+{n}La testa del servitore si volta verso di te. Il {g|Encyclopedia:Vox}vox{/g} integrato nella sua gola emette uno stridio forzato, e a quel punto, in perfetta sincronia, i costrutti senza cervello scattano in movimento e si avventano su di te.{/n}
+
+### u040517
+"Avete ridotto i vostri simili al livello di meccanismi. Voi amate i meccanismi, non è vero? Vi sforzate di rendere tutto vuoto, freddo... comodo." {n}La bocca di Yrliet si contorce in una smorfia di repulsione.{/n}
+
+### u040518
+"Non capisco, e non desidero farlo. A volte la comprensione può essere come un fardello che grava sulla mente e sull'anima."
+
+### u040519
+{n}Il servitore ti tocca. Qualcosa nelle profondità dell'uomo-macchina crepita — e vieni colpito da una scarica elettrica. Il suono fa sussultare gli altri servitori, che però restano per il resto immobili.{/n}
+
+### u040520
+{n}Con delicatezza e rapidità, ti scosti dal servitore. Lui tende la mano, come se cercasse alla cieca di toccarti nello spazio che hai già lasciato, e si ferma di nuovo — pare che il suo cervello non sia in grado di elaborare rapidamente i cambiamenti dell'ambiente circostante.{/n}
+
+### u040521
+"Pare dunque che nemmeno voi teniate in grande considerazione i vostri simili. Eppure non riuscite a vedere i difetti dove dovreste."
+
+### u040522
+"La vostra specie è abile a sopravvivere, questo è certo. Ma non credo che ciò che vedo sia stato fatto solo per sopravvivere..."
+
+### u040523
+{n}La strana scena è completata da un suono stridente — clic sordi appena al limite del tuo udito, provenienti da una fonte sconosciuta.{/n}
+
+### u040524
+{n}Il servitore più vicino ha uno spasmo — e gli altri lo seguono. È chiaro che l'intero gruppo è collegato da un unico spirito macchina, e qualcosa ne ha causato l'arresto. Uno dei servitori deve avere un guasto nel cogitatore o in qualche altra augmetica — e quel guasto ha finito per colpire l'intero gruppo.{/n}
+
+### u040525
+{n}Da un'ispezione sommaria concludi che i servitori furono progettati per lavori di precisione su una catena di montaggio — forse la produzione di circuiti. Il numero di {g|Encyclopedia:Augmentation}augmetiche{/g} costose e di alta qualità nei loro corpi supera di gran lunga gli standard di base.{/n}
+
+### u040526
+{n}Ben presto individui la fonte dei clic. Sulla schiena di uno dei servitori, un tumore che trasuda icore torbido cresce proprio attraverso le augmetiche. I relè, ricoperti di tessuto infiammato, sono bloccati: ecco il motivo dei clic persistenti.{/n}
+
+### u040527
+{n}Esamini con cura il servitore finché non scorgi il coperchio sul suo petto. Dopo aver svitato e rimosso la piastra, scopri i fili delle parti {g|Encyclopedia:Augmentation}augmetiche{/g} guaste e li recidi.{/n}
+
+### u040528
+{n}Non essendo {mf|riuscito|riuscita} a comprendere appieno il progetto del servitore, scegli un {g|Encyclopedia:Cogitator}cogitatore{/g} più o meno a caso, uno che sembra rotto, e lo separi dal resto del sistema. Subito senti un sibilo provenire dal profondo della carne del servitore. Cogli un sentore di carne carbonizzata e cablaggi bruciati.{/n}
+
+### u040529
+{n}Senza troppe difficoltà, ritagli la carne in eccesso dai meccanismi. Il relè liberato emette una rapida raffica di clic, poi una scintilla lampeggia davanti ai tuoi occhi, e qualcosa inizia a ronzare nel profondo della carne del servitore.{/n}
+
+### u040530
+{n}Un maldestro sussulto della tua mano — e tagli troppa carne. Il moncone si gonfia all'improvviso, e lo vedi inglobare l'intero relè — chiaramente una mutazione causata dalle energie del {g|Encyclopedia:Warp}warp{/g}.{/n}
+
+### u040531
+{n}Come se fosse un segnale, i servitori smettono di muoversi, abbassano le braccia e si voltano verso di te.{/n} "Squadra 24, seconda corsia del {g|Encyclopedia:Manufactorum}manufactorum{/g}. Avvio del lavoro. Indicare la richiesta." {n}Il servitore che si rivolge a te guarda oltre le tue spalle, e la voce proviene dal {g|Encyclopedia:Vox}vox{/g} integrato nella sua gola.{/n}
+
+### u040532
+{n}Indietreggi goffamente, inciampi nei tuoi stessi piedi e agiti le braccia per tentare di mantenere l'equilibrio. I servitori reagiscono al movimento — con strida assordanti dalle giunture, si raddrizzano e si lanciano in avanti!{/n}
+
+### u040533
+{n}Il colpo stacca di netto il braccio del servitore all'altezza dell'articolazione. Il braccio cade a terra, ma il servitore non se ne accorge — punzecchia l'aria con il moncone, poi si immobilizza.{/n}
+
+### u040534
+{n}Yrliet è assorta nei suoi pensieri, e sembra non aspettarsi di sentire una risposta.{/n}
+
+### u040535
+{n}Scacci via la mano del servitore — e questo emette uno stridio acuto. Gli altri servitori si raddrizzano e, con lo stesso insopportabile stridio, avanzano verso di te.{/n}
+
+### u040536
+"Squadra 24, seconda corsia del {g|Encyclopedia:Manufactorum}manufactorum{/g}. Avvio della procedura standard."
+
+### u040537
+{n}Ti allontani dai servitori, ed essi restano al loro posto.{/n}
+
+### u040538
+"Una mutazione in un servitore? I {g|Encyclopedia:TechPriest}Tecnopreti{/g} di solito rifiutano di usare tessuti molli difettosi per i loro costrutti. Forse qualcosa ha causato questa crescita aggressiva — e piuttosto di recente."
+
+### u040539
+{n}Yrliet lancia un'occhiata ai servitori e distoglie lo sguardo.{/n} "Molte delle usanze dei mon-keigh sono terribili... ma alcune sono più folli e disgustose delle altre."
+
+### u040540
+{n}La mano del servitore si muove — si sta protendendo lentamente verso di te...{/n}
+
+### u040541
+{n}Yrliet ti fissa con stupore, inclinando la testa di lato come un uccello.{/n} "Non mi aspettavo parole simili da te. Sei... interessante, {g|Encyclopedia:MonKeigh}mon-keigh{/g}."
+
+### u040542
+"Guarda, Nuncius: una formazione atipica all'interno del servitore, ma funzionale." {n}Eogunn si rivolge al servoteschio nel suo modo eccentrico e caratteristico, mentre ispeziona con rapidità l'escrescenza.{/n} "Inoltre, questo teratoma è una formazione recentissima, eppure è già riuscito a ostruire più nodi di controllo critici, imprigionando lo spirito macchina in catene di materia organica. Mera coincidenza, o intento malevolo?"
+
+### u040543
+[Esamina il Tecnoprete]
+
+### u040544
+"È questo il modo di salutare {mf|il padrone|la padrona} del vostro mondo?"
+
+### u040545
+[Attacca] "Ti insegnerò un po' di rispetto!"
+
+### u040546
+"{name}. Erede della Casata von Valancius. Rogue Trader."
+
+### u040547
+"Dov'è il Fabricator-Censor? Parlerò solo con il responsabile di questo manufactorum."
+
+### u040548
+[Attacca] "Era ora che ti rottamassero."
+
+### u040549
+"Che cos'è questo Protocollo 39-42?"
+
+### u040550
+"Non farò nulla finché non avrò incontrato il Fabricator-Censor."
+
+### u040551
+"Che cosa sta succedendo su questo pianeta? Perché il governatore non risponde alle chiamate della nave? Che ci fanno navi eretiche in questo sistema?"
+
+### u040552
+"Il Fabricator-Censor è un traditore dell'Imperium e dell'Umanità. Non rispetterò nessun protocollo da lui approvato."
+
+### u040553
+"D'accordo, atteniamoci ai tuoi protocolli."
+
+### u040554
+{n}Glaito mostra i denti, e Solomorne gli dà subito uno strattone al collare per calmarlo.{/n} "Qualunque flagello lo abbia colpito, è abbastanza pericoloso da aver quasi fatto scattare i protocolli di autodifesa di Glaito. L'ho visto accadere una sola volta prima d'ora."
+
+### u040555
+"Una descrizione inadeguata impedisce di comprendere appieno l'azione proposta e, di conseguenza... lascia un margine troppo ampio a letture ambigue a nostro svantaggio. Raccomando di ottenere una cripta dati con una copia del Protocollo 39-42 per un'indagine successiva, {name}, astenendosi dall'esecuzione immediata."
+
+### u040556
+{n}Studi con attenzione la figura avvolta nella tunica. Un bordo nero di necrosi si estende attorno agli impianti del Tecnoprete — per qualche motivo il suo corpo sta rigettando la Vera Carne. Un istante dopo, riconosci l'odore dominante nel miscuglio di effluvi che impregna l'aria attorno al Tecnoprete — il fetore di carne in putrefazione.{/n}
+
+### u040557
+{n}È praticamente impossibile distinguere il volto del Tecnoprete con il cappuccio calato così in basso. L'aria del {g|Encyclopedia:IndustrialWorld}mondo industriale{/g} è satura di odore di fumi e plastacciaio fuso, ma stando vicino al Tecnoprete senti distintamente il fetore che emana — una stupefacente miscela di lubrificanti per macchine, sudore vecchio e qualcosa di ancora più rivoltante.{/n}
+
+### u040558
+"Raccomandazione respinta. Il catechismo dei protocolli potrebbe essere stato distorto. Si raccomanda l'aderenza alla procedura standard di ricognizione e purificazione."
+
+### u040559
+"Puah... questo tizio puzza peggio di un {g|Encyclopedia:Grox}grox{/g} fermentato nel {g|Encyclopedia:Promethium}promethium{/g} esausto. Scommetto che ha anche un sapore peggiore."
+
+### u040560
+{n}Il Tecnoprete estrae l'arma e, mentre la sua tunica si apre, i tuoi sensi vengono investiti da un'ondata fetida di marciume.{/n}
+
+### u040561
+{n}Il Tecnoprete fa scattare il suo relè.{/n} "{g|Encyclopedia:Magos}Magos{/g} Custos del sacrario delle macchine, livello 2-0. Identificazione."
+
+### u040562
+{n}Il Tecnoprete si ferma mentre i suoi {g|Encyclopedia:Cogitator}cogitatori{/g} esterni ronzano, elaborando le informazioni. Infine il vox difettoso produce una voce incrinata.{/n} "Irregolarità. Si raccomanda l'esecuzione del Protocollo 39-42 approvato dal {g|Encyclopedia:Fabricator}Fabricator-Censor{/g}."
+
+### u040563
+"Un sacro decreto emanato dal Fabricator-Censor che stabilisce la linea d'azione che i tecno-compagni di Kiava Gamma in condizioni operative non ottimali devono seguire. Si raccomanda l'esecuzione immediata del Protocollo 39-42."
+
+### u040564
+"Processo previsto interrotto. Si raccomanda l'esecuzione del protocollo di smaltimento."
+
+### u040565
+"Negato. L'irregolarità richiede l'esecuzione del Protocollo 39-42 in conformità al decreto del Fabricator-Censor."
+
+### u040566
+{n}Il Tecnoprete annuisce e ti fa cenno di avvicinarti.{/n}
+
+### u040567
+{n}I rigonfiamenti sotto la logora tunica rossa del {g|Encyclopedia:TechPriest}Tecnoprete{/g} lasciano intuire i meccanismi impiantati nel suo corpo. Sotto l'arcaico respiratore {g|Encyclopedia:Augmentation}augmetico{/g} vedi il suo volto emaciato e malato.{/n} "Io... io..." {n}Un clic, un tonfo metallico, un sibilo appena udibile — e solo allora il {g|Encyclopedia:Vox}vox{/g} del Tecnoprete completa la parola,{/n} "Identificazione."
+
+### u040568
+"No." {n}L'unica parola pronunciata da Eogunn risuona con un tintinnio metallico del tutto estraneo alla sua voce.{/n} "In condizioni controllate di laboratorio mi avventurerei in una simile comunicazione, ma al momento Nuncius sconsiglia vivamente di assumersi il rischio di una contaminazione dei dati. Mi allineo al suo giudizio e propongo che tutti facciano lo stesso."
+
+### u040569
+"Una risposta perfettamente accurata e perfettamente inutile. Adoro il gergo degli ingranaggi."
+
+### u040570
+"Richiesta negata." {n}Pasqal si volta verso di te, il visore che brilla di un rosso cremisi.{/n} "Rilevato comportamento anomalo negli organici di questo servitore e una risposta non valida della Noosfera. Questa unità è compromessa."
+
+### u040571
+{n}Il vox di Pasqal sibila con una nota di sorpresa,{/n} "Il consumo della carne dei membri dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g} è sconsigliato, a prescindere dal loro odore o dal loro stato compromesso."
+
+### u040572
+"La dimostrazione di un approccio razionale-critico da parte del servoteschio 'Nuncius' è stata registrata. Lo status del servoteschio 'Nuncius' è stato elevato. Lo status del Genetor Eogunn Februs resta invariato."
+
+### u040573
+[Inserisci il codice per disattivare l'erogazione del gas]
+
+### u040574
+[Inserisci il codice per disattivare le trappole]
+
+### u040575
+[Richiedi i dati di Theodora]
+
+### u040576
+{n}L'imponente fornace avvolta da una luce scarlatta ti riempie di timore reverenziale. Mentre ti avvicini, un pesante ronzio di antichi servomotori erompe dalle profondità della macchina insieme a crepitanti sottofondi binarici. I tasti coperti di polvere sono illuminati da un debole bagliore pallido.{/n}
+
+### u040577
+{n}Un lungo trillo binarico dalle viscere della fornace provoca un'ondata di clic sommessi che giungono da ogni direzione.{/n}
+
+### u040578
+{n}La fornace risponde con un breve segnale binarico che evoca il fruscio meccanico di interruttori invisibili.{/n}
+
+### u040579
+{n}La macchina reagisce con un secco segnale binarico seguito da un tono basso e prolungato.{/n}
+
+### u040580
+{n}Un rombo si accumula nelle viscere della fornace, crescendo di pari passo con il suono degli antichi motori. Il rombo è accompagnato dallo stridio di ingranaggi metallici e dal fragore di meccanismi sconosciuti. Lentamente, quasi con esitazione, la creazione dell'Adeptus Mechanicus espelle una banca dati incisa con lo stemma della Casata von Valancius.{/n}
+
+### u040581
+[Avvicinati all'uomo ancora vivo]
+
+### u040582
+[Poni fine alla sofferenza dell'uomo]
+
+### u040583
+[Allontanati dai resti]
+
+### u040584
+"Pasqal, la tua richiesta è accolta."
+
+### u040585
+"Chi ti ha fatto questo?"
+
+### u040586
+[Poni fine alla sofferenza dell'uomo] "Va' dall'Omnissiah."
+
+### u040587
+"Tieni duro. Ti aiuterò."
+
+### u040588
+Hai posto fine all'agonia del Tecnoprete tormentato su Kiava Gamma.
+
+### u040589
+Hai prolungato l'agonia del Tecnoprete tormentato su Kiava Gamma.
+
+### u040590
+[Ritarda la morte dell'uomo prestandogli assistenza medica]
+
+### u040591
+Hai lasciato morire il Tecnoprete tormentato su Kiava Gamma.
+
+### u040592
+[Lascia morire l'uomo]
+
+### u040593
+Hai fatto appello al senso del dovere del Tecnoprete tormentato su Kiava Gamma.
+
+### u040594
+"Fatti forza, servitore dell'Imperium! Le tue parole mi aiuteranno ad abbattere chi ha tradito Kiava Gamma!"
+
+### u040595
+{n}Questo cumulo di resti umani, gettati insieme senza cura, emana un fetore soffocante. I corpi dilaniati ed eviscerati appartenevano un tempo a {g|Encyclopedia:TechPriest}Tecnopreti{/g}, ma non scorgi nemmeno un luccichio di metallo — tutti i loro {g|Encyclopedia:Augmentation}impianti{/g} sono spariti. All'improvviso uno dei corpi straziati ha un lievissimo movimento. Le labbra dell'uomo torturato si muovono appena, le palpebre socchiuse che fremono.{/n}
+
+### u040596
+{n}Senza proferire parola, Eogunn tende un mecadendrite, con l'iniettore scoperto, verso il poveretto, somministrandogli nel collo un ignoto liquido dorato. Il volto del Manipulus è fisso in una maschera del più profondo dolore.{/n}
+
+### u040597
+{n}I tratti alieni e duri di Yrliet sono abbelliti da qualcosa di straordinariamente simile al dolore e alla compassione.{/n} "Che selvaggia insensatezza."
+
+### u040598
+"Che orribile destino... essere tradito dai propri."
+
+### u040599
+{n}L'uomo, a pochi minuti dalla morte, rantola debolmente,{/n} "È un onore... sono grato... per il diritto di servire..."
+
+### u040600
+{n}L'uomo riesce a malapena a respirare senza il suo impianto respiratorio. È un miracolo che sia sopravvissuto all'orrenda vivisezione. Ma basta un solo sguardo alle ferite spalancate da cui è stata strappata l'{g|Encyclopedia:Augmentation}augmetica{/g} per capire — la morte è solo questione di tempo. Come se avesse percepito la tua presenza, l'uomo mezzo morto ti guarda e inspira bruscamente l'aria calda.{/n} "Spirito macchina... liberami..."
+
+### u040601
+{n}Ti allontani dai corpi, sforzandoti di cancellare dalla memoria quelle immagini — la carne straziata e le maschere di morte per sempre impresse sui volti esangui.{/n}
+
+### u040602
+{n}Con un unico gesto poni fine al suo lungo tormento. Dopo esserti {mf|assicurato|assicurata} che non ci siano altri sopravvissuti in questo cumulo di resti umani, ti allontani da quella vista da incubo.{/n}
+
+### u040603
+"I miei... compagni..." {n}La sua voce è appena udibile. Sembra che ogni parola costi all'uomo un enorme sforzo.{/n} "Spirito macchina... l'{g|Encyclopedia:Omnissiah}Omnissiah{/g} ci ha davvero... abbandonati? Kiava Gamma è caduta... nelle fauci del Nemico Eterno..."
+
+### u040604
+"I santi {g|Encyclopedia:Magos}Magi{/g}... hanno ceduto all'eresia... gli altri... sono stati privati della loro Vera Carne... per nutrire l'eresia... Preservaci... liberaci... liberami dall'errare..."
+
+### u040605
+"Sacrificio... sangue vivo... da vasi di Vera Carne... mentre il loro cuore... batte ancora. Poi... l'oblio." {n}I suoi occhi si fanno vitrei.{/n} "Io... sapevo... che saresti {mf|venuto|venuta}... ho aspettato... così a lungo. Liberami dal mio tormento..."
+
+### u040606
+{n}Nessuna cura può preservare la vita in questo corpo che si spegne, ma per il momento riesci a stabilizzarlo. Lui geme debolmente.{/n} "Perché... perché prolunghi... il mio ciclo? Aspetti... il mio pentimento? Non ho ancora purgato... la mia anima... con il mio tormento..." {n}Viene preso da un accesso di tosse.{/n} "O devo... pentirmi... per gli altri..."
+
+### u040607
+{n}Nonostante tutti i tuoi sforzi, l'uomo esala l'ultimo respiro tra le tue braccia. Ti allontani dal cumulo di cadaveri con la sensazione che il tuo intervento abbia solo aggiunto sofferenza all'uomo morente.{/n}
+
+### u040608
+{n}Qualcosa lampeggia negli occhi dell'uomo, come se le tue parole gli avessero permesso di raccogliere ciò che resta delle sue forze. Stringendo i denti, solleva a stento la testa e fissa su di te il suo sguardo folle.{/n} "Che l'Omnissiah rafforzi la mia volontà... che io possa rinunciare alla dissonanza della variazione..."
+
+### u040609
+"Senza la Vera Carne... sono debole, spirito macchina... troppo... debole..." {n}L'uomo muore tra le tue braccia. Lasci andare il defunto, ti rialzi e ti allontani dal cumulo di corpi.{/n}
+
+### u040610
+"Sappi, spirito macchina, angelo del Deus Mechanicus... che ho visto... il {g|Encyclopedia:Fabricator}Fabricator-Censor{/g} in persona... strappare la Carne ai nostri tecno-compagni... e intonare una litania sopra vasi di corruzione... sarcofagi forgiati con metallo corrotto... gusci empi progettati per ospitare il male!" {n}Lascia sfuggire un debole ululato.{/n}
+
+### u040611
+"Il Fabricator-Censor non serve l'Omnissiah... obbedisce a un altro potere... quello il cui araldo... giunse su Kiava Gamma all'inizio dell'insurrezione... la bocca che vomitava menzogne e corruzione... Temetelo, perché egli è... egli è..." {n}Le parole sfuggono dalla bocca dell'uomo insieme al suo ultimo respiro. Dopo aver speso le ultime forze nella sua confessione, si affloscia tra le tue braccia — per sempre, stavolta.{/n}
+
+### u040612
+{n}Dietro di te senti un respiro affannoso e rotto che ricorda vagamente le fervide parole di una preghiera.{/n}
+
+### u040613
+{n}L'uomo trasalisce violentemente, come se il solo pensiero lo terrorizzasse.{/n} "No! Sono stato privato... della grazia del {g|Encyclopedia:Omnissiah}Deus Mechanicus{/g}... non sprecare i tuoi sforzi... e ascolta la mia confessione..."
+
+### u040614
+"Eresia. Osare separare il metallo sacro dalla carne del servitore del Dio-Macchina... Dannazione su coloro che hanno compiuto questo atto. Purgherò la Forza Motrice dai loro corpi e ridurrò la loro carne a biomassa di scarto." {n}Con l'angoscia negli occhi, Eogunn levita accanto al poveretto. Una lieve nebbia comincia a fuoriuscire dal suo alambicco, portando il dolce profumo di un anestetico.{/n}
+
+### u040615
+{n}Il requiem binarico che proviene dal {g|Encyclopedia:Vox}vox{/g} di Pasqal suona solenne e cupo. Nell'udirlo, il volto mutilato dell'uomo si piega in una debole parvenza di sorriso.{/n}
+
+### u040616
+"Attesto che i tre requisiti categorici per l'assegnazione dello status di martire della fede sono stati soddisfatti: opposizione al nemico, preservazione dell'adesione al dogma e morte brutale. Richiedo il diritto di estrarre la materia organica del soggetto affinché sia impiegata nella creazione di un onorevole servoteschio."
+
+### u040617
+{n}L'uomo mutilato sussulta appena all'iniezione, ma il suo respiro comincia a regolarizzarsi. Nonostante la patina oleosa che gli vela gli occhi, traspare il debole fantasma della gratitudine.{/n}
+
+### u040618
+{n}Chinandosi sul moribondo, Pasqal, con un gesto deciso ma sorprendentemente rispettoso, gli taglia la gola. Con un lungo bisturi, gli bastano pochi istanti per liberare le vertebre cervicali dalla presa di muscoli e tendini e per tagliarle, separando la testa dal corpo.{/n}
+
+### u040619
+"Che il tuo servizio continui, tecno-compagno."
+
+### u040620
+"Sai perché mi piacciono i barattoli di latta squinternati come te? Quando vi ammazzano, lasciate in giro un sacco di pezzi di ricambio utili. Penso che ci farò una macchina portatile per il recaf."
+
+### u040621
+[Controlla il cronometro] "I tuoi cinque minuti sono scaduti. Ti condanno a morte. E sarò io a eseguire la sentenza!"
+
+### u040622
+"Chi diavolo sei?"
+
+### u040623
+"Che cosa hai appena detto?"
+
+### u040624
+"Sono {mf|disgustato|disgustata} di sentire la Techna-Lingua dalla bocca di un traditore."
+
+### u040625
+"I tuoi tirapiedi sono morti. Né tu né il tuo ospite riuscirete a fermarmi."
+
+### u040626
+"Perché non ti uccido insieme ai tuoi tirapiedi e la facciamo finita?"
+
+### u040627
+"Ho visto gli strani costrutti sulle linee del manufactorum. Quali folli macchine state creando qui?"
+
+### u040628
+"Kiava Gamma appartiene alla Casata von Valancius, del cui {mf|rampollo|rampolla} hai l'onore di ascoltare la voce."
+
+### u040629
+"Che cosa hai fatto al governatore di Kiava Gamma? È vivo?"
+
+### u040630
+"Meriti una morte dolorosa per ciò che hai inflitto alle macchine di questo mondo e ai loro sacerdoti."
+
+### u040631
+"Quindi hai scambiato un padrone con un altro? Mi sarei {mf|aspettato|aspettata} che un Fabricator-Censor fosse più intelligente di così."
+
+### u040632
+"Questo è il mio mondo, e servirà solo me."
+
+### u040633
+[Attacca] "Per l'Imperium! Per il Dio-Imperatore!"
+
+### u040634
+"Puoi ancora salvarti. Fermiamo insieme questo incubo!"
+
+### u040635
+"In nome del Trono d'Oro, fermerò te e coloro che ti seguono."
+
+### u040636
+[Attacca] "Purgherò Kiava Gamma dalla tua corruzione!"
+
+### u040637
+Hai piegato al tuo volere la Macchina Demoniaca su Kiava Gamma.
+
+### u040638
+[Domina la bestia metallica] "Spirito del warp! Piegati al mio volere e difendimi!"
+
+### u040639
+"Perché gli intrighi dei Poteri Rovinosi sono impotenti contro i servitori del Dio-Imperatore, guidati dalla Sua luce."
+
+### u040640
+"Proponi che io, {mf|il|la} Rogue Trader della stirpe dei von Valancius, mi inginocchi davanti a te? Ti concedo cinque minuti. No, non per implorare perdono. Per pronunciare le tue ultime parole e per offrire la tua confessione finale."
+
+### u040641
+"Di solito preferisco negoziare che combattere. Combattere distrugge proprietà e spreca risorse. Ma nel tuo caso, temo che si debbano adottare misure estreme."
+
+### u040642
+"Che c'è, piccolo tecno-amico di latta? Gli impianti fanno le bizze? Hai dimenticato come si parla come si deve?"
+
+### u040643
+"Abbiamo già abbattuto quella bestia di predicatore che ha fatto il lavaggio del cervello a te e ai tuoi sottoposti. Ora tocca a te."
+
+### u040644
+"Pare che i tuoi padroni ti abbiano voltato le spalle, e ora sei solo."
+
+### u040645
+"Ho visto che cosa hai fatto a questo mondo e alla sua povera gente. Non permetterò che continui."
+
+### u040646
+"Provo a indovinare. È perché io sono l'illustre Rogue Trader von Valancius, {mf|conquistatore|conquistatrice} della Distesa di Koronus, e tu sei un rifiuto parlante."
+
+### u040647
+[Attacca] "Il tuo ronzio mi irrita."
+
+### u040648
+{n}Il massiccio {g|Encyclopedia:Magos}Magos{/g} in abiti rituali emette un trillo binarico e si volta verso di te. Da sotto il profondo cappuccio del suo mantello, due {g|Encyclopedia:Augmentation}impianti{/g} oculari fiocamente illuminati ti scrutano. Senti un'altra tirata binarica — stavolta chiaramente rivolta a te.{/n}
+
+### u040649
+"Osi rivolgerti a me nella vile lingua dei selvaggi? A me, il siniscalco di Kiava Gamma, signore del mondo-macchina? In ginocchio, patetica progenie, se desideri un rapido smaltimento."
+
+### u040650
+"Spezzare le catene del Cult Mechanicus è il destino di coloro che operano su frequenze e livelli di produttività del tutto diversi. La mia mente è in grado di concepire la Conoscenza in un modo che nessun altro cogitatore biologico può — eppure ci si aspetta che io obbedisca ai tabù imposti da intelletti molto più primitivi del mio. Ma questi tabù possono e saranno disfatti. Hai visto ciò che possiamo fare una volta liberi, {mf|schiavo|schiava} dell'Omnissiah, e lo temi!"
+
+### u040651
+"Anche una sommaria analisi dei dati mostra che la probabilità di questo esito è trascurabile. Tu, come il tuo predecessore, non sei che un artefatto di certi calcoli, uno che richiede risorse minime per essere rivisto."
+
+### u040652
+"Accogli questo nuovo sacrificio, sacra Verità!"
+
+### u040653
+"Creatura primitiva, priva della vera Conoscenza. Potrebbe essere uno degli schiavi fuggiti dalla prigionia? In ginocchio, {mf|servo|serva}, davanti al padrone di Kiava Gamma."
+
+### u040654
+"L'estraneo comprende il linguaggio binarico. Forse hai ancora una possibilità di servire i nuovi signori di Kiava Gamma. In ginocchio, spregevole, e permetterò che la tua Vera Carne sia usata per il nostro grande scopo."
+
+### u040655
+"Compagni. Purgate il {g|Encyclopedia:Manufactorum}manufactorum{/g} da ogni variabile casuale. Devo prepararmi per il culmine della nostra grande opera."
+
+### u040656
+{n}Una risata roca proviene dal vox del Fabricator-Censor.{/n} "Esistono cose più spaventose della morte, trogloditi. Sottomettere la propria esistenza a un falso dogma, condannare macchine sacre vincolate da una fragile carne a calcoli privi di senso... l'idea è respinta."
+
+### u040657
+"Un'impossibilità. Non sono una variabile che si possa estrarre dal processo senza influire gravemente sulla probabilità della sua riuscita." {n}Il Fabricator-Censor si blocca.{/n} "Forse un test di stress. Inatteso."
+
+### u040658
+"Creazioni d'acciaio destinate a servire i disegni della Verità. Hai visto l'eleganza della loro forma? La loro ergonomia impeccabile? E quelli sono semplici gusci. La vera perfezione li riempie quando vengono infusi della scintilla della vita e dotati di uno scopo — abbattere la loro ira sul capo degli apostati. Quando questo esercito sarà radunato... ma perché sprecare parole? Vedrai di persona un briciolo dello splendore che attende la {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}."
+
+### u040659
+"Sei {mf|uno|una} dei trogloditi che un tempo ebbero la sfrontatezza di opprimere i miei compagni e di resistere alla mia volontà? {mf|Un messaggero|Una messaggera} della barbara che ha bevuto gli unguenti sacri a lei concessi grazie alla fatica altrui? Molto bene, allora, la tua comparsa è l'occasione perfetta per dare una lezione alla tua risma."
+
+### u040660
+"La rimozione degli artefatti inservibili fu il primo passo per riconvertire questo mondo. Solo i miei tecno-compagni diedero ascolto al richiamo della verità che raggiunse i loro {g|Encyclopedia:Cogitator}cogitatori{/g} e permise loro di squarciare il velo dei dogmi vuoti."
+
+### u040661
+"Il mio nome è Cubis Delphim. Un tempo detenevo il titolo di {g|Encyclopedia:Fabricator}Fabricator-Censor{/g} del {g|Encyclopedia:Manufactorum}manufactorum{/g} di Kiava Gamma, ma l'ho rifiutato — insieme agli altri ceppi che ostacolavano il progresso. Un tempo la mia fede era viziata e condusse ingenui sciocchi del Cult Mechanicus nelle tenebre dell'ignoranza. Ora sono il padrone di questo mondo e servo i veri dei. Tu calpesti il loro territorio e non fai parte della loro legione di servitori — pertanto devi essere sottoposto a smaltimento immediato."
+
+### u040662
+"Le macchine imperfette meritano l'eliminazione — così come gli elementi viventi inclini a vulnerabilità quali il sentimentalismo."
+
+### u040663
+{n}Il vox di Cubis emette un suono distorto dalle interferenze — una parvenza di risata maligna.{/n} "Il donatore della Verità che mi ha aperto gli occhi è lontano da questo mondo. Suo figlio sarà forse caduto, ma la sua opera sarà compiuta."
+
+### u040664
+"Prima di essere sottoposto a smaltimento, ti è concesso confessare. Che cosa ha spinto te, un ex {g|Encyclopedia:Fabricator}Fabricator-Censor{/g} delle sacre sale del Deus Mechanicus, a infrangere i precetti dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g} e a trasformare il tuo tempio in un covo di tecno-eresia?"
+
+### u040665
+"Ehi, {name}... non sei {mf|stufo|stufa} di ascoltare i vaneggiamenti di questo ingranaggio arrugginito? Sembra che stia prendendo tempo per... eh."
+
+### u040666
+{n}Il Fabricator-Censor raddrizza la schiena e le spalle. Senti un ronzio crescente, come di potenti turbine, seguito da passi pesanti e dallo stridore di metallo contro metallo.{/n}
+
+### u040667
+"Tante aperte ammissioni di eresia in così poche frasi. Sorella, quante condanne a morte direste che meritino le sue parole?"
+
+### u040668
+"Il tuo fragile costrutto logico deduce il mio consenso a tornare schiavo del Deus Mechanicus. Un'asserzione errata, considerate le rivelazioni che la Verità mi ha dischiuso."
+
+### u040669
+"Presumi troppo, rendendo così invalida la tua conclusione."
+
+### u040670
+"Che... che cos'è quella cosa?"
+
+### u040671
+"Non posso rispondere, Maestro van Calox. Non spetta a me misurare la colpa degli eretici. Quando le {g|Encyclopedia:AdeptaSororitas}Adepta Sororitas{/g} si trovano di fronte ai nemici dell'{g|Encyclopedia:Imperium}Imperium{/g} — è tempo di sparare, non di contare."
+
+### u040672
+"E questo è uno di quei momenti."
+
+### u040673
+"Come osi insultarmi! La tua insolenza è un fattore imprevisto. Non importa... l'errore sarà presto rettificato. Presto!"
+
+### u040674
+"In quanto membro funzionante più anziano del Sacerdozio di Marte, io, Magos Explorator Pasqal Haneumann, dichiaro compromesso questo tempio del {g|Encyclopedia:Omnissiah}Dio-Macchina{/g} e proibisco con effetto immediato ogni servizio al suo interno. Depongo il Fabricator-Censor, l'ignorante eretico che ha tradito l'Omnissiah, e condanno come anatema tutte le procedure standard da lui implementate. Che il ciclo delle blasfeme operazioni da lui avviate sia interrotto."
+
+### u040675
+"Haneumann? Bugiardo, tu non sei lui. Dementz Haneumann mi obbedisce, la sua mente è aperta alle voci del vuoto, e il codice spazzatura da lui creato protegge il mio mondo. E non permetterò a te, rifiuto arrugginito della casta degli Explorator reietti, di chiamarmi 'ignorante'!"
+
+### u040676
+"Questa affermazione è falsa. Le tue insegne sono state revocate, sei stato giudicato difettoso e sarai eliminato." {n}Pasqal si volta verso di te e dice con tono asciutto,{/n} "Avvio della ricerca {g|Encyclopedia:Heretek}heretek{/g}, designazione: Dementz Haneumann. Desidero eseguire la procedura di ritorsione."
+
+### u040677
+{n}Pasqal passa al binarico, e senti la dissonanza crescere nelle profondità della cattedrale-forgia — alcuni dei giganteschi meccanismi obbediscono al suo ordine e si fermano, mentre altri, obbedendo alla volontà del Fabricator-Censor, continuano il loro lavoro. Schianti, esplosioni e il fragore di metallo che si accartoccia segnalano che un certo dissenso tra le macchine ha interrotto il ciclo di produzione del manufactorum.{/n}
+
+### u040678
+{n}Con una calma collaudata, Pasqal controlla che la sua arma sia pronta per la battaglia. La sua voce è colma di freddo disprezzo:{/n} "Un Fabbro Cibernetico teme il codice spazzatura che potrebbe rovinare il suo lavoro. Ma io non sono un Fabbro Cibernetico. Un Signore della Forgia teme la corruzione che potrebbe colpire i torni a lui affidati e deformare il prodotto della sua officina. Ma io non sono un Signore della Forgia."
+
+### u040679
+"Sono un Magos Explorator. Un ricognitore della Conoscenza, un raggio di lumen nel buio dell'ignoto. Non so come si faccia a temerti. So solo come si esplora e si uccide."
+
+### u040680
+{n}Heinrix ride in modo sprezzante, prima di interrompersi di colpo con un secco{/n} "No."
+
+### u040681
+{n}Le parole non escono mai dalle tue labbra. Nel momento in cui toccano la tua lingua, ti ustionano l'interno della bocca e ti fanno soffocare e tossire. Ciononostante, gli spiriti del warp danno ascolto alla tua intenzione, e l'aria attorno a te comincia a pulsare di bagliori cremisi. Tutti i suoni nel manufactorum vengono momentaneamente zittiti mentre il demone d'acciaio ti trafigge con uno sguardo intenso e funesto... che poi si sposta sul Fabricator-Censor.{/n}
+
+### u040682
+"Troppo a lungo sono stato prigioniero dei dogmi, un'unità statica di obbedienza. Ma chi ha conosciuto la libertà della creazione senza legge non può essere rimesso in quella gabbia. Ho visto... cose che non potrai mai comprendere. La Vera Tecnologia! L'ho toccata con i miei strumenti, ho afferrato i suoi misteri e il suo potenziale. Ho scorto profondità che non si possono dimenticare, e ora nulla può trascinarmi di nuovo nelle tenebre dell'ignoranza."
+
+### u040683
+{n}Notandoti, Cubis Delphim si raddrizza — senti il tintinnio e il cigolio del metallo, come se i pistoni e i cuscinetti nel corpo potenziato del {g|Encyclopedia:Fabricator}Fabricator-Censor{/g} si fossero fusi insieme. Raschi e stridii ripugnanti punteggiano il suo discorso.{/n} "Tu. La probabilità che tu trovassi la strada... che raggiungessi la linea interna... era trascurabile. La Verità Primordiale protegge me e la mia opera... allora perché questa variabile non è ancora stata eliminata?"
+
+### u040684
+"Un grossolano fraintendimento comune alle menti primitive. La tua esistenza non è che un errore statistico che sarà presto corretto."
+
+### u040685
+"I governatori planetari — danno sempre problemi... O lasciano scoppiare una ribellione, o muoiono al momento sbagliato, o peggio. Non ricordo l'ultima volta che ho visto un sovrano planetario decente."
+
+### u040686
+"I precetti dell'Omnissiah sono catene concepite per limitare la potenza di calcolo di coloro che rappresentano una minaccia per l'{g|Encyclopedia:Imperium}Imperium{/g}. I precetti dell'Omnissiah annunciano solo l'eterna stagnazione all'ombra di macchinari imperfetti creati da inutili reduci di un passato lontano. I precetti dell'Omnissiah non sono che menzogne racchiuse in un guscio di verità."
+
+### u040687
+"Povero vecchio Gaprak. Una decina d'anni fa mi disse che si sentiva a disagio in presenza dei compagni di latta — volevo dire, dell'esimio Adeptus Mechanicus. Si lamentava, così, di non aver avuto in sorte un pianeta normale. Dovrò onorare la sua memoria con una preghiera... una volta finita la purga di questo posto." {n}Abelard brandisce l'arma.{/n} "Per fortuna il Fabricator-Censor di qui non ha avuto bisogno di alcuna costrizione per confessare il tradimento."
+
+### u040688
+{n}Il Fabricator-Censor emette un trillo binarico.{/n} "Ammirate l'arma concepita per portare la gloria dei veri dei nelle tenebre della Distesa di Koronus! Il mio pastore mi ha inviato uno dei suoi angeli di ferro affinché la sua stessa presenza infonda fede e timore reverenziale nei cuori del suo gregge. Accettate la grandezza della Verità Primordiale unita alla potenza della nuova Kiava Gamma — e perite!"
+
+### u040689
+"Non so se ho mai visto qualcosa di più bizzarro di due {g|Encyclopedia:MonKeigh}mon-keigh{/g} che gareggiano per dimostrare chi possieda la maggiore tracotanza."
+
+### u040690
+{n}Il {g|Encyclopedia:Vox}vox{/g} del Fabricator-Censor emette un suono acuto, appena udibile, che ti fa rabbrividire le viscere.{/n} "Ti strapperò la colonna vertebrale e la intreccerò attorno al mio bastone, creatura arrogante."
+
+### u040691
+"Potrai anche essere spinto dalla tua volontà di combattere, ma sappi questo — Kiava Gamma è già stata convertita. Le sue linee sono state ristrutturate e i suoi servitori hanno già assaggiato i frutti del progresso. Nei crogioli di questo manufactorum, metalli liquidi torridi serviranno a forgiare vasi per spiriti sacri. Gli adepti si stanno già addentrando instancabilmente in nuovi misteri un tempo preclusi da falsi precetti. Voi, servitori di falsi dei, siete in ritardo — l'intera potenza di questo mondo si leverà presto contro l'Anatema e i suoi schiavi."
+
+### u040692
+"Non farei affidamento su un simile esito. Anche se... il ricalcolo delle probabilità mostra che persino la vostra comparsa imprevista e la vostra deludente resistenza possono servire il progresso — dove altrimenti avrei trovato un esemplare adatto per il collaudo pratico?"
+
+### u040693
+Hai appreso il sermone blasfemo dello Space Marine del Caos su Kiava Gamma.
+
+### u040694
+[Memorizza le parole del sermone]
+
+### u040695
+[Ascolta il sermone]
+
+### u040696
+[Attacca] "Morte alla progenie del Caos!"
+
+### u040697
+[Continua ad ascoltare il sermone]
+
+### u040698
+Hai interrotto il sermone dello Space Marine del Caos su Kiava Gamma con un peana al Dio-Imperatore.
+
+### u040699
+[Interrompi il sermone con un peana al Dio-Imperatore]
+
+### u040700
+{n}Lo Space Marine del Caos si erge sopra le teste chine dei {g|Encyclopedia:TechPriest}Tecnopreti{/g} come una scogliera oscura. Sta recitando un sermone — lentamente, quasi in un salmodiare. Al solo suono della sua voce profonda e bassa, scoppi in un sudore freddo e senti la nausea salire.{/n}
+
+### u040701
+"...ascoltate, perché le mie parole vi rivelano un sentiero dalle tenebre alla Verità Primordiale, che ha spalancato i suoi cancelli alle anime smarrite in cerca di liberazione dal sudario di menzogne e dai tormenti della schiavitù. Le vostre menti si sono liberate dei vincoli del dogma che vi ha guidati nell'abisso — accogliete ora la speranza concessavi dal più grande dei Word Bearers..."
+
+### u040702
+"Sacrilegio! Qui, sul suolo di un mondo imperiale!"
+
+### u040703
+{n}Lo Space Marine del Caos non sembra notarti — il suo sguardo è fisso sul suo gregge, appeso a ogni sua parola.{/n} "Chi vive nella menzogna non vedrà la Verità finché non avrà rinnegato i falsi dei. Solo grazie alla vostra fede regge il dominio di quei vermi dei cadaveri, vermi che divorano il vostro stesso corpo, devastando le anime deboli, rodendovi gli occhi e le orecchie perché non li rivolgiate ai veri padroni."
+
+### u040704
+"Il vostro mondo, una fonderia nel regno dei cadaveri, ha avuto l'onore di fungere da crogiolo della vittoria imminente, e noi, i Word Bearers, saremo alla sua punta, insieme a quanti di voi sapranno superare la calunnia dei falsi idoli. I fuochi inceneritori di Kiava Gamma partoriranno armi la cui avanzata annuncia l'avvento di una nuova era — un'era cinta dalla gloria e dallo splendore del Caos Indiviso!"
+
+### u040705
+{n}Pare che a ogni parola dello Space Marine del Caos la luce attorno a te si affievolisca. Qualcosa ti solletica il volto — un sottile rivolo di sangue scende dal tuo naso, gocciolando sulle labbra e sul mento.{/n}
+
+### u040706
+"...date ascolto alla Verità liberatrice che è parola fatta carne benedetta, che segna ogni vero servitore degli Dei. Date ascolto alla saggezza di Lord Lorgar, il Word Bearer, il figlio più amato del Caos..."
+
+### u040707
+{n}Più ascolti, più le parole del sermone si fondono in un ronzio incoerente. Il prurito alle orecchie si trasforma in un dolore pulsante che ti stritola le tempie e ti stringe il collo — e si propaga verso il basso, fino al tuo stesso cuore, che trafigge con un ago gelido.{/n}
+
+### u040708
+{n}Attraverso la foschia del dolore e il velo di lacrime sugli occhi, avverti lo sguardo rovente dello Space Marine del Caos, che ha girato la testa nella tua direzione.{/n} "Il tempo delle parole è finito, figli del {g|Encyclopedia:Chaos}Caos{/g}. Lodate gli Dei con un'offerta di sangue!"
+
+### u040709
+{n}Lo Space Marine del Caos ruggisce di furia mentre i Tecnopreti si voltano e ti caricano, come se avessero ricevuto un segnale.{/n}
+
+### u040710
+"Basta, ne ho abbastanza di queste parole profane. Voltati, bestia dell'Arcinemico! Hai invocato su di te la fiamma purificatrice — e la fiamma è giunta!"
+
+### u040711
+"Voce... quella voce... l'ho già sentita? O forse no? È come se... sovrastasse tutte le altre voci... andiamocene. Presto, ti prego!"
+
+### u040712
+"Rilevata intrusione nelle sacre fornaci sia col pensiero sia con l'azione. Avvio della procedura di eradicazione virtuosa." {n}La voce di Pasqal è un ringhio assetato di sangue, simile al rombo di una spada a catena. Uno dei suoi mecadendriti fa scattare le pinze mentre si getta nella mischia.{/n}
+
+### u040713
+{n}Pasqal fissa i suoi ex confratelli e sussurra con tono asciutto,{/n} "La firma della Noosfera delle unità difettose è stata archiviata. In conformità ai sacri comandamenti, non tollererò alcuna eresia e vi condanno con la presente allo smaltimento categorico senza redenzione."
+
+### u040714
+{n}Heinrix sibila a denti stretti.{/n} "Sapevo che il nostro incontro su Rykad Minoris non sarebbe stato l'ultimo, ma imbattermi in questo anatema qui... Kiava Gamma non ha semplicemente ceduto all'eresia, {name}. Il vostro mondo è nelle grinfie del male più grande conosciuto all'Imperium."
+
+### u040715
+{n}Le parole del giusto inno squarciano il torrente delle empie proclamazioni dell'eretico. Senti come se la luce dell'Imperatore in persona toccasse il tuo cuore, scaldandolo con la grazia e proteggendolo dalla maligna corruzione.{/n}
+
+### u040716
+{n}Solomorne fissa la figura mostruosa con occhi vitrei.{/n} "Credevo di sapere tutto sulle violazioni della Lex Imperialis, ma quella cosa offende la Sua Legge con la sua stessa esistenza..."
+
+### u040717
+{n}Eogunn parla con dolcezza, alzando le mani:{/n} "Così parlò il Dio-Macchina nel binarico che tutto comprende: 'La distorsione del Mio disegno è eresia.' I confratelli che hanno ceduto a questa piaga devono essere completamente purgati, prima che diffondano ulteriormente la corruzione."
+
+### u040718
+"Il solo suono di queste parole è carico di entropia e porta rovina a tutto ciò che esiste. In nome dell'Omnissiah, che questa informazione malevola sia completamente estirpata!" {n}La cella galvanica del Manipulus esplode in un fragoroso crepitio di Forza Motrice.{/n}
+
+### u040719
+"Così parlò il Dio-Macchina nel binarico che tutto comprende: 'La distorsione del Mio disegno è eresia.' Dinanzi allo sguardo dell'Omnissiah, dichiaro giusto questo verdetto e lo ripeto cento volte."
+
+### u040720
+"1000001 1110110 1100101 100000
+1001111 1101101 1101110 1101001
+1110011 1110011 1101001 1100001
+1101000
+Identificazione: Cubis Delphim, Fabricator-Censor designato di Kiava Gamma
+Voce 1.
+Per lungo tempo, Questa Unità ha servito il Grande Creatore nell'Imperium. Come ingranaggio motore. Come catena di vincolo. Come unguenti sacri. Per grazia del Dio-Macchina, Questa Unità possiede una straordinaria capacità di calcolo, ed è ciò che l'ha spinta a studiare le strutture e i sistemi logici più complessi che riempiono i grandi doni lasciati dagli antichi.
+Tuttavia, l'incessante Ricerca della Conoscenza per la Sua gloria ha fornito a Questa Unità un motivo inatteso per alterare le variabili. Precisazione: Kiava Gamma è la nuova destinazione di Questa Unità, situata ai confini dei mondi.
+Il conflitto nei dati in ingresso indica che il Dio-Macchina vieta a Questa Unità di compiere progressi tecnologici, che essa cerca di portare in questo mondo. Conclusione: l'Omnissiah incoraggia i Suoi servitori a rimanere primitivi elementari e improduttivi.
+Questa Unità ha formulato la presupposizione che su Kiava Gamma, un pianeta lontano dal pensiero dogmatico dell'Ordine, i suoi subordinati avrebbero dato ascolto a idee nuove e fatto muovere gli ingranaggi arrugginiti del progresso. I risultati sono stati negativi. Coloro che seguono le orme dell'Omnissiah non possiedono la capacità di calcolo richiesta per la Ricerca della Conoscenza, e dunque continuano a seguire solo i comandi più elementari, senza comprenderne il vero significato.
+Che Questa Unità sia afflitta dalla maledizione della carne se permetterà alla semplicità dei primitivi di distoglierla dal suo scopo: eguagliare la maestria del Creatore."
+
+### u040721
+Appunti del Fabricator-Censor, Parte Prima
+
+### u040722
+"1001110 1101111 1101110 100000 1110000 1110010
+1101111 1100111 1110010 1100101 1100100 1101001
+100000 1100101 1110011 1110100 100000 1110010
+1100101 1100111 1110010 1100101 1100100 1101001
+Identificazione: Cubis Delphim, Fabricator-Censor facente funzione di Kiava Gamma
+Voce 2.
+Ho adeguato sistematicamente i processi su Kiava Gamma per far comprendere anche al più semplice dei primitivi la difettosità dei propri schemi. Tuttavia, gli ultimi calcoli sommari hanno mostrato che l'efficacia della mia influenza sui subordinati si sta spostando verso valori negativi.
+Se dovessi usare il linguaggio semplice degli elementi biologici, la mia condizione nel momento presente potrebbe essere equiparata ai termini 'disperazione' e 'rabbia'. Nonostante le mie capacità di calcolo, non ero in grado di proseguire da solo le ricerche che mi interessano.
+Ho avuto un'epifania logica intercettando un segnale di origine ignota. Una variabile, che chiamerò Theta, mi ha trasmesso un flusso continuo di informazioni, aprendo nella mia mente la via verso la libertà che il Grande Creatore aveva un tempo sbarrato. Al termine della trasmissione, Theta mi ha fatto un'offerta che rifiutare sarebbe stato non solo difficile ma anche illogico.
+Utilizzando le conoscenze appena ottenute, ho iniziato ad apportare modifiche insignificanti alle variabili dei rituali sacri, intessendovi le parole e i simboli necessari in modo che restassero entro un margine d'errore accettabile, ma infallibilmente alterati nella loro essenza. Un rischio? Affermativo. Tuttavia, l'Omnissiah ci ha creati affinché ampliassimo i confini della nostra stessa esistenza. Il rischio è una variabile intrinseca, benché in continuo mutamento, che deve essere inclusa nei calcoli, il tutto perseguendo l'obiettivo finale di diventare qualcosa di più grande."
+

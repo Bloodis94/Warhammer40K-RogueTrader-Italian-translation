@@ -1,0 +1,1184 @@
+### u016916
+"Certo. Buona fortuna, Eklendyl."
+
+### u016917
+"Direi che un riscatto per la sua liberazione sia d'obbligo."
+
+### u016918
+[Estrai l'arma] "Desidero contestare la tua audace affermazione. Lui è mio prigioniero."
+
+### u016919
+"Dunque. Chi sei?"
+
+### u016920
+"Hai detto che Yrliet servirebbe di nuovo gli Aeldari. Cerchi di servirtene ancora?"
+
+### u016921
+"Bene, allora. Quella sulla donna con le corna suona promettente. Continua."
+
+### u016922
+"Sono {mf|certo|certa} che i tuoi simili si siano attirati la sfortuna da soli."
+
+### u016923
+"Mi servono una navetta e un modo per contattare il Coro Astropatico, così da convocare qui la mia nave del vuoto."
+
+### u016924
+"Il tuo parente, Eklendyl, ci ha aiutati a fuggire da Commorragh."
+
+### u016925
+"Ho appena abbattuto un buon centinaio di Aeldari a Commorragh. Continua con questo tono e diventerai il centunesimo."
+
+### u016926
+"Calorosi saluti anche a te. Sei quasi ospitale quanto la Città Oscura."
+
+### u016927
+"Cosa dice la gente di Janus del mio rapimento?"
+
+### u016928
+"La governatrice sta bene?"
+
+### u016929
+"Yrliet, spiega gentilmente al tuo parente che non c'è alcun motivo di agitarsi tanto."
+
+### u016930
+{n}Un popolano mal rasato, in tuta logora, ti osserva con sospetto. Stringe un fucile automatico che sembra a una ricarica distratta dallo sfasciarsi. L'uomo socchiude gli occhi e domanda,{/n} "Ehi! Chi siete voi? Non siete banditi, vero?"
+
+### u016931
+"Vistenza Janus Vyatt ab Aram af Koronus?" {n}Il popolano pronuncia alla perfezione il fiorito nome della governatrice, ma a ogni parola trasalisce come se qualcuno lo colpisse con un bastone.{/n} "{d|Encyclopedia:Ch2_JanusVistenzaAlive}Preghiamo per la sua salute{/d} ogni giorno!"
+
+### u016932
+{n}L'uomo strizza i suoi occhi deboli e infine capisce chi gli sta davanti. Crolla in ginocchio con una smorfia lamentosa e piagnucola,{/n} "Santo Trono! Pietà, Vostra Signoria, abbiate pietà! Questi vecchi occhi maledetti non vi avevano riconosciuto!"
+
+### u016933
+"I Chem-Principi riscuotono le decime, frustano i piantagrane, ci proteggono dai banditi e non litigano troppo fra loro... Va tutto bene."
+
+### u016934
+"Non possiamo dire che la nostra vita sia a posto, però. La guerra ha rovinato tutto. I nobili avevano così paura delle sommosse che hanno abbandonato gli impianti di irrigazione e si sono dati alla macchia nella capitale per sempre. Hanno troppa paura che nelle loro tenute si nascondano ancora dei cospiratori, pronti a sventrarli di notte."
+
+### u016935
+{n}L'uomo ti guarda perplesso.{/n} "Come? Qualche furfante vi ha rapito? Chi può aver commesso una simile infamia? Rapire Sua Signoria, che faccia tosta! Qui su Janus non abbiamo sentito niente!"
+
+### u016936
+"I nostri nuovi padroni, gli Ultrequisitori, sono gente dignitosa. Ma amano i tipi istruiti, e dagli eruditi non viene mai niente di buono. In compenso, però, vi pagano in troni per il vostro servizio. Ci credete? In vita mia non avevo mai visto un trono, e loro ce ne danno due per ogni mese di lavoro!"
+
+### u016937
+"Santo Trono! State scherzando! Sua Signoria, qui in questi buchi sperduti! Che onore, un grande onore, questo!" {n}L'uomo cade in ginocchio e cerca in ogni modo di nascondere la sua parodia di arma da fuoco, fingendo di non avertela puntata contro il petto fino a un attimo prima.{/n}
+
+### u016938
+{n}L'uomo aggrotta le sue sopracciglia irsute e ti punta contro la sua parodia di arma da fuoco.{/n} "Cercate di fregarmi, eh? Come se Sua Signoria se ne andasse a zonzo per questa palude... Gah! Imperatore onnipotente!"
+
+### u016939
+{n}Il vecchio trasale per il terrore, lascia cadere la sua parodia di arma da fuoco e si inginocchia con una smorfia piagnucolosa.{/n} "Trono dei cieli! Vostra Signoria, pietààà! Non vi avevo riconosciuto!"
+
+### u016940
+{n}Il vecchio aggrotta le sopracciglia irsute e ti punta contro la sua parodia di arma da fuoco.{/n} "Cercate di farmela sotto, eh? Be', non ci sto! O chiamo i custodi col vox e vi prendono per le orecchie in un battibaleno! Quei custodi non vanno tanto per il sottile con i banditi come voi—"
+
+### u016941
+"Ho qualcosa da dire sulla vita dei mon-keigh? No, i tuoi servitori mi interessano quanto interessano a te. Hanno semplicemente... continuato a vivere in tua assenza. Alcuni sono morti. Altri hanno compiuto cose insignificanti. Non è cambiato nulla."
+
+### u016942
+"Che avete detto? Mi suona come un discorso da eretici..."
+
+### u016943
+"Agli ordini, Vostra Signoria! Non possiamo lasciare libera una feccia xenos come lui." {n}Punta con foga l'arma contro il Veggente.{/n}
+
+### u016944
+{n}La vista dello xenos morente riempie di gioia il popolano.{/n} "Fategli vedere, Vostra Signoria! Morte ai nemici dell'Umanità!"
+
+### u016945
+{n}Una foschia iridescente offusca per un istante il mondo attorno a te, e basta quell'istante perché Muaran nasconda Eklendyl dietro il velo della sua stregoneria xenos.{/n} "Non parleremo più del destino dei miei simili. Tutto ciò che andava detto è stato detto."
+
+### u016946
+"Addio, mon-keigh. Sono lieto che il nostro incontro non abbia versato sangue nel grembo della Lilaethan." {n}Una foschia iridescente offusca per un istante il mondo attorno a te, e basta quell'istante perché Muaran svanisca dietro il velo della sua stregoneria xenos.{/n}
+
+### u016947
+{n}Yrliet annuisce in silenzio e lascia correre, come se le importasse meno delle parole di Muaran che della tua reazione.{/n}
+
+### u016948
+"Nostre sono le anime dei veri Aeldari. I nostri antenati, che i codardi dei Mondi Astronave hanno preferito dimenticare..."
+
+### u016949
+"Tu, spregevole, disonorato rinnegato cieco e folle, non parlerai di cosa significhi essere un Aeldari."
+
+### u016950
+"Oh, ma siamo noi tutto ciò che tiene viva la loro stessa essenza, Veggente. Tu hai scelto di abbandonare la loro grande eredità al richiamo della codardia, quindi non metterti in ridicolo ora con i tuoi patetici tentativi di giustificare un simile tradimento."
+
+### u016951
+{n}Eklendyl ti lancia un'occhiata acuta e domanda con freddezza,{/n} "La tua capitale offrirà protezione? Non desidero scambiare una prigione con un'altra."
+
+### u016952
+"Il mon-keigh si è rivelato un traditore. Che sorpresa!"
+
+### u016953
+"Ehi, tieniti le battutacce per te! Se sento parlare male di Sua Signoria, ti stacco le orecchie a fucilate!"
+
+### u016954
+{n}La sagoma di {d|Encyclopedia:Ch2_JanusEldarAllies}Muaran{/d} emerge dal fitto fogliame senza smuovere un solo filo d'erba. Si rivolge a te con tono accusatorio e scontento,{/n} "Ho percepito la tua mente, mon-keigh. Perché ti aggiri {mf|furtivo|furtiva} presso il Portale della Tela? Perché sei {mf|venuto|venuta} di nascosto alla Lilaethan? Intendi farci del male?"
+
+### u016955
+{n}La sua espressione si fa cupa.{/n} "C'è questa piaga che gira su Janus, però... Fa cadere i capelli, sbiancare la pelle e sparire la voce. Trasforma la brava gente timorata dell'Imperatore in veri mostri, feccia dell'Umanità. Chiamiamo quelli come loro i rantolanti. Fanno paura a vederli, meglio abbatterli tutti. Be', lo facciamo, poco a poco. Col veleno."
+
+### u016956
+{n}Dopo una lunga pausa al limite dell'insulto, Muaran inclina appena il capo.{/n} "Non cerco lo scontro, mon-keigh. Le mie parole sono state scelte senza la dovuta cura."
+
+### u016957
+"Il mio popolo non accoglie bene spie e infiltrati." {n}Muaran ti scruta, poi dice pensieroso,{/n} "Tuttavia tu, mon-keigh, non sei {mf|venuto|venuta} qui per spiare il Portale della Tela. Sei {mf|passato|passata} attraverso di esso. Ne sento l'energia indugiare su di te anche ora. Questo cambia molte cose."
+
+### u016958
+"La notizia della tua scomparsa non ha raggiunto Janus. Immagino che i tuoi servitori più vicini abbiano deciso di nascondere l'accaduto per non generare timore."
+
+### u016959
+{n}Con una smorfia accigliata, il popolano si inchina e borbotta fra sé,{/n} "Oh, qui finisce male. Con ospiti così, meglio prenderli per le orecchie e portarli al rogo. Bruciarli subito."
+
+### u016960
+"La Lilaethan è stata caritatevole con i mon-keigh. Concede doni speciali ad alcuni dei vostri servitori; stringe legami con loro. È la prima volta che vedo il nostro mondo così... tollerante verso la vostra specie. Mi ricorda quanto ancora non comprenda. Ahimè, i vostri simili non si preoccupano di riflettere su questa faccenda. Temono chi è stato benedetto dalla Lilaethan, lo disprezzano e cercano di ucciderlo. E questo non mi sorprende affatto."
+
+### u016961
+{n}La voce di Muaran si fa pensosa.{/n} "Il sonno della Lilaethan è inquieto. Ha tenuto al riparo da voi una parte di sé — è ciò che i mon-keigh chiamano la regione isolata. All'inizio ho pensato che fosse un tentativo della Lilaethan di respingervi, per poter guarire dalle ferite che il vostro ferro freddo aveva inflitto alla sua carne, ma... in ciò che sta accadendo vedo qualcos'altro. Un mistero."
+
+### u016962
+{n}Muaran scambia un lungo sguardo con Eklendyl, poi dice con gravità,{/n} "Qui il sentiero di Eklendyl e il tuo si separano, mon-keigh. Lui resterà con noi quando te ne andrai."
+
+### u016963
+"Manderemo istruzioni ai nostri servi... ai nostri alleati mon-keigh perché ti forniscano un mezzo di trasporto. Addio, mon-keigh. Sono lieto che il nostro incontro non abbia versato sangue nel grembo della Lilaethan."
+
+### u016964
+{n}Notando un non umano nel tuo seguito, il vecchio storce il viso con disprezzo e stringe l'Aquila che porta al collo.{/n} "E in compagnia di feccia inumana, per giunta! Vattene, scarnificato mostro! Ti scongiuro nel nome di San Cognatius, nel nome di San Nicomedes Keefe, nel nome di San Drusus..."
+
+### u016965
+{n}{d|Encyclopedia:Ch3_EklendylSaved}Eklendyl{/d} getta uno sguardo stanco sul popolano e domanda piano,{/n} "Questo mon-keigh è posseduto o semplicemente pazzo?"
+
+### u016966
+"Sono solo un uomo di umili origini, piccolo e modesto! Ho visto il vostro volto fulgido solo sulle sacre icone nei templi della capitale."
+
+### u016967
+{n}Marazhai ride con scherno.{/n} "Un altro Veggente che ha scelto di nascondersi dalle lame della Reaving Tempest! Be', nulla che io non possa rimediare, codardo."
+
+### u016968
+{n}Notando {d|Encyclopedia:Ch3_EklendylSaved}Eklendyl{/d}, Muaran trasale, poi dice con solennità,{/n} "Fratello Eklendyl, lodo Asuryan per la fortuna di rivederti. Ti prego, poniti sotto la mia protezione senza indugio."
+
+### u016969
+"Fratello Muaran, non mi sento minacciato... non più."
+
+### u016970
+{n}Muaran guarda Yrliet e dice con ostilità nella voce,{/n} "Reietta Yrliet, percorri il sentiero lastricato dalle tue stesse colpe. Ancora una volta i mon-keigh hanno trovato la via per il nostro dominio, e ancora una volta tu li aiuti a farlo!"
+
+### u016971
+{n}La voce di Muaran precipita in un sibilo velenoso quando vede Marazhai.{/n} "Gli Oscuri non hanno posto qui."
+
+### u016972
+"Né guerra né cattive intenzioni ci seguono, Muaran. La tua ira è ingiustificata."
+
+### u016973
+{n}Lo sguardo di Muaran passa da Yrliet a Marazhai, da Marazhai a Eklendyl, poi di nuovo a Yrliet. Esclama indignato,{/n} "Per la grazia di Asuryan, che significa questa strana visita?"
+
+### u016974
+"Né bandito né xenos, si vede bene! Potete dire lo stesso? Voi..."
+
+### u016975
+{n}Il vecchio abbassa la voce.{/n} "Chissà con lui. La gente dice che non ci governa più per niente. Dicono che lo abbiano ammaliato gli {d|Encyclopedia:Ch2_JanusEldarGovern}spiriti della foresta{/d}, quelli che si infilano nel suo palazzo di notte. Quegli spiriti gli sussurrano all'orecchio cose — tutti i loro intrighi e complotti malvagi. Per poco non gli hanno fatto vietare le spedizioni verso le isole, ma i sacerdoti rossi non gliel'hanno permesso. È lì che vivono, quegli spiriti. Nei loro antichi santuari nella foresta."
+
+### u016976
+{n}Eklendyl annuisce.{/n} "Sono felice di trovarmi di nuovo fra coloro con cui ho condiviso il tempo di fioritura di Crudarach, Muaran."
+
+### u016977
+"Grazie, mon... elantach."
+
+### u016978
+"Il mio popolo non tratta per la vita dei propri simili," {n}dichiara Muaran con rabbia.{/n} "Ricorderemo il tuo gesto — nulla più."
+
+### u016979
+"Non è in discussione, mon-keigh. È così."
+
+### u016980
+"Manderemo istruzioni ai nostri servi... ai nostri alleati mon-keigh perché ti forniscano un mezzo di trasporto. Sei {mf|libero|libera} di andare dove desideri. Ma Eklendyl resta con noi." {n}Muaran indica il Veggente che hai salvato.{/n}
+
+### u016981
+"Sono un esploratore, Vostra Signoria. Giro per i boschi, saggio il terreno." {n}Con grande cautela, il vecchio infila la mano nel sacco e ne estrae un auspex graffiato con un lungo puntale, avvolto in uno straccio infangato.{/n}
+
+### u016982
+{n}La sua voce si abbassa a un sussurro.{/n} "Preghiamo anche che non posi mai lo sguardo su di noi. Dicono cose spaventose sulla capitale, sulla sua corte, sulle persone scomparse. Corre voce che nel suo palazzo diano un ballo senza fine. Le danze non si fermano mai, nemmeno un istante. Ogni servo che entra nel palazzo non ne esce più. Dev'esserci un gran bel lavoro da fare a quel loro ballo."
+
+### u016983
+"Il Tecnoprete mi ha detto: 'Dopo mille passi percorsi, infila la sonda mistica nel terreno, recita una preghiera, poi premi il sigillo smeraldino. Offri tre preghiere all'Imperatore, poi premi il sigillo rubino. Così la sonda saggerà la terra e ti dirà quali minerali vi dimorano.'"
+
+### u016984
+{n}Marazhai socchiude un occhio.{/n} "Il suo corpo non è né abbastanza forte né abbastanza vivace da sopportare il tormento. Non sprecherò le mie energie su di lui."
+
+### u016985
+"Non mi svergognerò lamentandomi. Viviamo, grazie al Dio-Imperatore e a Vostra Signoria. Preghiamo per la vostra salute ogni giorno."
+
+### u016986
+{n}Lo sguardo di Muaran trapassa Yrliet per qualche istante in un silenzio teso, mentre pondera qualcosa nella mente. Alla fine dice con tono imperioso,{/n} "Il tuo arrivo è improvviso, Reietta Yrliet. Ma forse c'è uno scopo dietro di esso. Servirai presto il tuo popolo."
+
+### u016987
+"E alcuni tizi dicono di aver visto una donna con le corna in questi boschi—" {n}Nonostante l'entusiasmo per la rara occasione di raccontare a un forestiero tutte le frottole che conosce, il vecchio si ricorda all'improvviso di chi ha davanti e si strozza con la storia lasciata a metà.{/n}
+
+### u016988
+"Oh, sono solo fandonie, Vostra Signoria, non è niente. Solo qualche chiacchierone che spara a vanvera." {n}Il vecchio abbassa lo sguardo imbarazzato.{/n}
+
+### u016989
+{n}Muaran fa una smorfia sprezzante.{/n} "Un mon-keigh non può comprendere la profondità della tragedia che ha colpito la nostra casa, la nostra... Crudarach. Il dovere di ogni Figlio di Asuryan è fare il possibile per placare il dolore di quella perdita. E Yrliet la Reietta non fa eccezione."
+
+### u016990
+"A differenza di te, Muaran, io sono riuscita a trovare la verità. La verità sulla rovina di Crudarach mi è stata rivelata... anche se per questo ho dovuto gettarmi nell'abbraccio mortale della Città Oscura." {n}Yrliet aggrotta la fronte e fissa con aria di sfida il Veggente negli occhi.{/n}
+
+### u016991
+"Il fuoco delle nostre anime non è meglio indirizzato verso imprese degne che a discutere con i nostri simili?" {n}Eklendyl agita le mani nell'aria, tracciando vari gesti di significato ignoto. Muaran e Yrliet cadono in un silenzio sottomesso.{/n} "Vedo che qualcosa turba il tuo cuore sensibile, mio parente Muaran. Condividi allora i tuoi sentimenti con me e con la Reietta, e io ti rivelerò la verità sul destino di Crudarach un po' più tardi."
+
+### u016992
+"Tu..." {n}Muaran china il capo, sorpreso.{/n} "Permettimi di vedere la verità che è stata rivelata ai tuoi occhi." {n}Il Veggente si avvicina a Yrliet. Le sfiora la fronte con una mano e con l'altra la pietra spirituale debolmente luminescente.{/n}
+
+### u016993
+"Ora... capisco." {n}Ombre scure si addensano sul volto del Veggente, e lo sguardo nei suoi occhi si fa ancora più severo di prima.{/n} "Ed è per questo che mi appello di nuovo al tuo senso del dovere, Reietta. Non abbiamo trascorso il nostro tempo sulla Lilaethan in un lutto infruttuoso. Al contrario, i nostri simili perduti hanno risposto al mio richiamo e ora implorano aiuto. Spinti dalla vendetta, si sono messi sulle tracce del responsabile della triste fine di Crudarach, solo per ritrovarsi prigionieri su un mondo mon-keigh."
+
+### u016994
+"Non abbiamo trascorso il nostro tempo sulla Lilaethan in un lutto infruttuoso. Al contrario, i nostri simili perduti hanno risposto al mio richiamo e ora implorano aiuto. Spinti dalla vendetta, si sono messi sulle tracce del responsabile della triste fine di Crudarach, solo per ritrovarsi prigionieri su un mondo mon-keigh."
+
+### u016995
+"Questo non lo so. Tutto ciò che le mie visioni mi hanno mostrato è stato un mare infinitamente verde... Un mare vivente. E la sete folle di un cacciatore che inseguiva i Figli di Asuryan. Reietta, il tuo Sentiero ti conduce di nuovo verso le stelle. Trova i nostri simili e non lasciarli morire."
+
+### u016996
+"Non saprei proprio dirvelo. Non abbiamo mai nemmeno sentito il nome della governatrice. Ma sempre meglio che vivere sotto quell'eretico maledetto, Vistenza la Succhiasangue."
+
+### u016997
+{n}Il suo sguardo verde smeraldo si volge a te e si ferma su di te un po' più a lungo del solito.{/n} "Posso sperare che... mi presterai di nuovo una spalla su cui appoggiarmi, elantach?"
+
+### u016998
+"Forse l'hanno fatto... Ma questo non significa che debbano pagare i loro errori con la vita."
+
+### u016999
+{n}Kibellah solleva lo sguardo verso il Veggente con il tormento negli occhi.{/n} "Dovresti."
+
+### u017000
+"In un lampo, Vostra Signoria! Siate {mf|benvenuto|benvenuta} sul nostro traghetto volante, è proprio laggiù, nella macchia. È anche lì che sta il mago del vox della nostra spedizione."
+
+### u017001
+{n}Il vecchio lancia un'occhiata sospettosa al Veggente.{/n} "Quel chiacchierone verrà a volare fino alla capitale con Vostra Signoria? Ha una boccaccia terribile, ha l'aria di uno che porta guai..."
+
+### u017002
+"Venite da Commorragh?" {n}Muaran resta un momento in silenzio, poi prosegue, con la voce scossa,{/n} "Ora capisco. Il Portale rifiutava di obbedirmi perché era stato sigillato dall'interno. Dagli Oscuri, senza dubbio. La Lilaethan era destinata a diventare un mattatoio per i Drukhari!"
+
+### u017003
+"'Agitarsi'?" {n}Yrliet ti rivolge uno sguardo confuso, poi annuisce.{/n} "Elantach e io abbiamo viaggiato a lungo, Muaran. Noi..." {n}Ti rivolge un altro lungo sguardo.{/n} "Eravamo prigionieri a Commorragh, ma abbiamo seguito un filo della Tela per uscirne. Quel filo ci ha condotti qui."
+
+### u017004
+"I nostri buoni padroni, i saggi Magi, si prendono cura di noi. Ogni mese diamo loro una goccia di sangue come pagamento per la protezione, e loro la usano per preparare pozioni che scoprono i mostri. Facciamo tutti i compiti mistici che ci richiedono, e in cambio i Magi ordinano agli impianti di irrigazione di rendere il doppio."
+
+### u017005
+Vecchio
+
+### u017006
+"Ti aiuterò a trovare i tuoi simili."
+
+### u017007
+{n}Yrliet espira quasi in silenzio e le sue spalle si rilassano.{/n} "E io ti sono grata, elantach."
+
+### u017008
+"Al momento non posso promettere nulla."
+
+### u017009
+"Dopo tutto quello che hai fatto? No. Neanche per sogno."
+
+### u017010
+"Spero che la tua risposta cambi presto. La attenderò con più impazienza di quanta ne abbia avuta nell'attendere di essere liberata dalla Città Oscura."
+
+### u017011
+"Io non ho distrutto nulla. Non mi prenderò alcuna colpa per tutto questo."
+
+### u017012
+[Attacca] "Non abbiamo nulla da discutere. Muori."
+
+### u017013
+"Cerchiamo un'altra strada. Ritirata."
+
+### u017014
+[Esamina la creatura]
+
+### u017015
+[Attacca] "Distruggete questa creatura!"
+
+### u017016
+"Non abbiamo fatto alcun male alla vostra razza. Una volta trovato ciò che sono {mf|venuto|venuta} a cercare, non vi disturberò più."
+
+### u017017
+"Dichiara il tuo nome, xenos."
+
+### u017018
+"Che succede qui?"
+
+### u017019
+[Spara alla fonte del discorso del Necron] "Basta con queste blaterazioni, lurido rottame!"
+
+### u017020
+{n}I lunghi gemiti metallici formano una melodia dolorosa e malinconica, ma che trasuda un livore velenoso.{/n} "Esisto di nuovo e contemplo la discordia! Una vista abominevole! Grandi conquistatori abbattuti da una pestilenza fugace! Corrosione ovunque. L'interno cavo è in fiamme!" {n}Il ruggito stridente somiglia più al suono di uno strumento di tortura metallico che al {d|Encyclopedia:Ch5_NecronKnowlege}discorso di un essere senziente{/d}.{/n}
+
+### u017021
+{n}I lunghi gemiti metallici formano una melodia dolorosa e malinconica, ma che trasuda un livore velenoso. Le placche corazzate {d|Encyclopedia:Ch5_NoNecronKnowlege}cantano in una lingua sconosciuta{/d}, e ti sembra che il significato stia per raggiungere la tua mente — a meno che il mostro non tronchi prima le vostre vite. Il ruggito stridente somiglia più al suono di uno strumento di tortura metallico che al discorso di un essere senziente.{/n}
+
+### u017022
+{n}Lo stridio del Necron ricorda vagamente una risata, o forse dei singhiozzi. {/n} "La ruggine non ha il privilegio di assistere alla morte del metallo nobile! Il distruttore sarà distrutto. Il maledetto semina malattia. I grandi e potenti si danno battaglia — i meschini e inutili cadranno!"
+
+### u017023
+"La ruggine è ruggine. Divora un giorno e scompare il successivo. La smaterializzerò! Annientamento!"
+
+### u017024
+{n}Il suono delle placche metalliche vibranti ha sia la malizia ritmica di una marcia sia il cupo ronzio della miseria — il lamento di un meccanismo immortale condannato a eoni di ira e battaglia, oppure a una fine imminente. La salva del mostruoso cannone è un accordo orchestrale infernale che fa tremare la stessa trama dello spazio.{/n}
+
+### u017025
+"Sei un antico incubo di un passato da tempo dimenticato..." {n}Il respiro di Yrliet si fa irregolare mentre fissa a occhi sgranati l'essere di fronte a te.{/n} "Ne ho incontrati altri come te, Oghyr. Una volta. E farò a te ciò che feci a loro: ti rimanderò nelle profondità della tua tomba."
+
+### u017026
+{n}Lo xenos emette un clic metallico, una parvenza di risata.{/n} "Un'antica arma spezzata in battaglie dimenticate... inutile!"
+
+### u017027
+{n}L'intero corpo scheletrico dello xenos è fatto di un metallo ignoto intrecciato con canali energetici verdastri incandescenti di correnti. Sotto la vita, i getti di un grav-pad ronzano e tintinnano. Gli arti superiori si fondono in un formidabile cannone pesante. Nessuna parte del corpo del mostro tradisce vulnerabilità. Senza dubbio si tratta di una macchina tecnologicamente superba, progettata per annientare ogni vita. Metterla fuori uso non sarà facile.{/n}
+
+### u017028
+{n}Il vox-traduttore sputa alcuni suoni metallici, e un nuovo accesso d'ira fa rimbombare il corpo massiccio del Necron.{/n} "Profanazione del discorso intelligente! Preferisco vederlo annientato!"
+
+### u017029
+{n}La testa simile a un teschio scatta, e per alcuni istanti fra le mascelle compare un'apertura circolare, simile a una bocca spalancata per lo stupore. La ferita si richiude con un tintinnio terrificante e tremulo. Il ruggito assordante che segue ti trafigge di dolore. Dalle orecchie inizia a colarti il sangue.{/n}
+
+### u017030
+"I mocciosi dell'universo saranno eliminati! Li sbaraglio e li polverizzo in polvere insanguinata! Mi libero di loro e del mio dolore! Il maledetto rimpiangerà di essere mai esistito!" {n}Lo xenos inizia a tremare, dalle placche corazzate sulla testa fino ai lembi di coda del suo grav-pad. Il tremore fa crepare e sprofondare la roccia sotto di lui.{/n}
+
+### u017031
+"Riconosco un capo e un vero guerriero in questo qui. Sì, pur sempre uno xenos indegno di vivere, ma un guerriero comunque. Scommetto che questo nobile folle della battaglia cadrà per mano mia!" {n}Ulfar lancia uno sguardo gioioso al gruppo, come aspettandosi che qualcuno raccolga la scommessa.{/n}
+
+### u017032
+{n}Marazhai ghigna.{/n} "Parole audaci per uno schiavo dell'arena. Accetto la sfida. Solo, non prendere la tua sconfitta troppo a cuore."
+
+### u017033
+[Esamina la macchina]
+
+### u017034
+[Conferma l'attivazione dei pannelli informativi]
+
+### u017035
+[Vattene]
+
+### u017036
+[Continua il tentativo]
+
+### u017037
+[Trasferisci i dati al tuo Elucidator]
+
+### u017038
+[Cancella tutti i dati]
+
+### u017039
+[Prova a estrarre i dati sui padroni del meccanismo]
+
+### u017040
+[Seleziona l'opzione] "Cronaca."
+
+### u017041
+incorrect
+
+### u017042
+[Avvia la catalogazione finale]
+
+### u017043
+[Interrompi]
+
+### u017044
+{n}Diversi cadaveri sfigurati in uniforme da soldati dell'Inquisizione sono stati gettati in una pila grottesca fra il cogitatore e la grande statua simile a un obelisco. I loro assassini non hanno lasciato tracce, ma hai la sensazione fastidiosa e opprimente che le pareti stesse ti stiano osservando. L'aria, densa di elettricità e del pesante fetore di carne in putrefazione, non fa che peggiorare quella sensazione.{/n}
+
+### u017045
+{n}Non hai mai visto una macchina crittografica così complessa e poco ortodossa. I numerosi sacri sigilli dell'ascesi algoritmica suggeriscono che lo spirito che vi dimora sia eccezionalmente astuto e potente, a conoscenza di sapere proibito.{/n}
+
+### u017046
+{n}Se c'è una cosa di cui sei {mf|certo|certa}, è che la macchina è costosa, rara e abbastanza sacra da permetterti di ricavarne facilmente un buon prezzo.{/n}
+
+### u017047
+{n}Il meccanismo, che ha servito così fedelmente l'Inquisizione, è restio a separarsi dai suoi segreti. Uno dopo l'altro, minacciosi punti scarlatti si accendono sul suo involucro.{/n}
+
+### u017048
+{n}Un impulso della Forza Motrice percorre gli spessi cavi attorno al cogitatore. "Dati accettati. [Alg.84521-4521] Analisi linguistica completa. Avviare la catalogazione finale?"{/n}
+
+### u017049
+{n}Lo schermo video si riempie degli stessi simboli che hai visto sugli edifici circostanti. Provi un'inspiegabile ondata di disgusto nel vederli al posto di parole e numeri familiari. Forme geometriche quasi identiche si combinano in lunghe catene e scorrono troppo in fretta perché tu riesca a coglierle.{/n}
+
+### u017050
+{n}Un messaggio lampeggia con impazienza sullo schermo video del cogitatore: "PROCESSO: Analisi linguistica [Alg.54782136]
+STATO: In attesa della catalogazione dei dati. Attivare i pannelli informativi."{/n}
+
+### u017051
+{n}Ora collegato al cogitatore, il tuo Elucidator ronza intensamente. Mentre apprende il significato dei glifi finora sconosciuti, risponde con sferragliamenti e gemiti metallici. Lo schermo video del cogitatore si illumina: "Operazione completata."{/n}
+
+### u017052
+{n}Un codice binarico scorrevole sostituisce i simboli xenos. Lo schermo video mostra il seguente messaggio: "Analisi linguistica interrotta. [Alg.13697512]."{/n}
+
+### u017053
+{n}La tua spietata intrusione nelle camere di memoria del cogitatore produce il seguente messaggio: "Prepararsi all'avvio dell'Operazione Precious Sentinel. L'evento Horrific Vision potrebbe verificarsi. Ordini di interrompere la missione di ricerca e unirsi al contingente su Epitaph. In allegato i codici per attraversare i campi minati." Il messaggio ha un allegato contenente le coordinate astronomiche di un pianeta insieme a del codice binarico.{/n}
+
+### u017054
+{n}Il cogitatore strilla indignato, accendendosi di abbaglianti indicatori rossi ed emettendo un ululato ad alta frequenza. Una parola compare per tutta la larghezza dello schermo video: "[Alg. 00-02] INTRUSIONE!" Quando il ronzio nelle tue orecchie si attenua, ti accorgi di sentire qualcos'altro... i pesanti passi di qualcuno. Lo spirito macchina vendicativo mostra con aria trionfante un messaggio profetico lampeggiante.{/n}
+
+### u017055
+un gran numero di simboli incomprensibili riempie lo schermo, causando mal di testa e richiedendo chiarimenti sui simboli non contrassegnati
+
+### u017056
+{n}Il ronzio dei servomotori all'interno del cogitatore si fa più forte mentre la macchina elabora le informazioni. "ATTENZIONE. Dati insufficienti per la catalogazione finale. [Alg.54782136-125]
+STATO: In attesa di inserimento dati."{/n}
+
+### u017057
+Conflitto rilevato. Reimpostare
+
+### u017058
+un altro simbolo non contrassegnato
+
+### u017059
+{n}Le luci ti lampeggiano contro un'ultima volta con aria compiaciuta e maligna, poi si spengono.{/n}
+
+### u017060
+"Ora capisco perché serviva uno spirito macchina così antico e potente. Decifrare una lingua xenos significa praticamente comprenderla. Questa archeotecnologia è sul punto di trasformarsi in un'Intelligenza Abominevole." {n}Nella voce del Tecnoprete trepidazione e orrore si mescolano.{/n} "Non può essere lasciata qui. Invio alla nave l'ordine di schierare una squadra di tecnomati per smantellare ed estrarre la sacra macchina."
+
+### u017061
+{n}Pasqal china il capo e mormora una preghiera, poi compie un rapido movimento con le dita. Diverse luci del cogitatore si spengono mentre le sue difese cedono.{/n} "Perdonami, antico spirito. Devi essere pacificato."
+
+### u017062
+{n}"Priorità zero: contatto perso con lo squadrone di sbarramento durante la ricarica del portale dimensionale. Nessuna conferma di avvenuta chiusura del portale. Restare in massima allerta!"{/n}
+
+### u017063
+"{mf|Attento|Attenta}, Rogue Trader. Gli Oghyr sono abili a far scattare trappole."
+
+### u017064
+{n}Chiudendo gli occhi e annusando rumorosamente, il Lupo ringhia cupo,{/n} "Ciò che ha ucciso questi mortali è ancora vicino. Lo sento... Un fetore senza vita. Non di cadavere, ma come i denti di ferro nelle fauci di Morkai."
+
+### u017065
+{n}Eogunn scende con riverenza più in basso, quasi sfiorando il pavimento, e congiunge le mani in un gesto di rispetto.{/n} "Questa macchina è l'antenata dell'Elucidator che impiegammo su Amsanct. Se avessimo posseduto tutta la conoscenza che essa racchiudeva, chissà, forse tutto sarebbe andato diversamente. Tuttavia, il mio sentimentalismo si correla male con le probabilità statistiche."
+
+### u017066
+{n}Un testo in Basso Gotico compare sotto i glifi: "Rifuggendo le imperfezioni della carne, la sua caducità e la sua finitezza, ci siamo avviati su una nuova traiettoria fra le stelle e siamo diventati immortali. Siamo diventati il Nuovo, conservando un legame con il Vecchio attraverso il ritmo, le immagini e i simboli. Prima che l'esistenza si volga in tenebra, sarà conquistata e tremerà di paura."{/n}
+
+### u017067
+{n}Pasqal si inchina con riverenza alla sacra macchina e sussurra,{/n} "Lo spirito di questa macchina è capriccioso e apprensivo, perché è tormentato. La sua mente intricata porta molte cicatrici delle litanie binariche pacificatrici." {n}Il Tecnoprete rimuove con cautela il dito umano mozzato dal pannello di input, sussurra al cogitatore una preghiera di scuse e getta via con noncuranza il pezzo di carne.{/n}
+
+### u017068
+{n}"RAPPORTO. [Err. rif.] [Alg. 7458-14] Catalogazione completata con successo. Vocabolario attivo della razza xenos compilato. [Alg. 7458-41] ATTENZIONE. Per salvare il catalogo è richiesto il trasferimento dei dati al dispositivo di traduzione. Rifiutare comporterà la cancellazione del catalogo. Continuare?"{/n}
+
+### u017069
+"Rivendico il diritto di priorità per eseguire la diagnostica sacra sulla reliquia. La mia ricerca sui dati xenos accelererà la comprensione e la cura del male dello spirito macchina." {n}Dopo aver scambiato alcuni trilli binarici acuti e prolungati, i Tecnopreti sembrano raggiungere un accordo.{/n}
+
+### u017070
+Attiva la scala di sinistra
+
+### u017071
+Attiva la scala di destra
+
+### u017072
+Cripta xenos
+
+### u017073
+"Restate dietro di me, Lord Capitano! Lo tratterrò finché potrò."
+
+### u017074
+"Traditore del sangue dell'Imperatore! Arcisacrilegio! La mia sarà una morte degna!"
+
+### u017075
+"Cosa... cos'è quel mostro? La sua immagine... è distorta dalla corruzione! Oh, Imperatore, la mia vita è destinata a finire così presto?"
+
+### u017076
+"Addio. Se qualcuno di voi riuscisse in qualche modo a sopravvivere, trovi il Lord Inquisitore Calcazar e lo informi di ciò che ha visto qui."
+
+### u017077
+"Cos'è quello? Le voci... urlano, gemono, soffocano! Abbiamo di fronte la morte stessa!"
+
+### u017078
+"La mia analisi della minaccia indica una superiorità insormontabile. La prognosi di sopravvivenza è... scoraggiante."
+
+### u017079
+"Imperatore, prendi la mia anima per il giudizio finale, perché ciò che vedo è la morte!"
+
+### u017080
+"Ora ho visto proprio tutto, Vostra Signoria."
+
+### u017081
+"Il traditore è caduto, mentre noi viviamo ancora. Sia lode a Lui per questo miracolo!"
+
+### u017082
+"I suoi colori erano un cremisi fiammeggiante e furioso... Grazie all'Imperatore, le nostre anime non sono bruciate!"
+
+### u017083
+"Incredibile... Essere sopravvissuti all'incontro con un Astartes eretico..."
+
+### u017084
+"Siamo... vivi? Lord Capitano, siamo vivi!"
+
+### u017085
+"Sia lode all'Omnissiah per aver manifestato questo miracolo statistico e invalidato una prognosi tattica sfavorevole."
+
+### u017086
+"Io sono... vivo, e lo è anche Glaito... Davvero, l'Imperatore protegge — non c'è altra spiegazione."
+
+### u017087
+"Per il Trono! Ne ho viste tante nella mia vita, ma cos'è quell'abominio?"
+
+### u017088
+"Imperatore, dammi forza, perché un orrore dell'Immaterium è su di noi!"
+
+### u017089
+"Vattene! Non appartieni allo spazio reale! Non dovrei riuscire a vederti... non con questi occhi!"
+
+### u017090
+"Un demone dell'Immaterium! Tenetevi pronti, ci troviamo di fronte a un incubo da svegli!"
+
+### u017091
+"Mi parla, è nella mia testa! No, zitto!"
+
+### u017092
+"Avvio dell'analisi del nemico... Errore. Questo è impossibile... Omnissiah abbi pietà di me, cos'è quello?"
+
+### u017093
+"No... È impossibile! In nome della Lex, come può esistere una cosa simile?"
+
+### u017094
+"La squadra di scorta sta sorvegliando e ispezionando la vostra navetta!"
+
+### u017095
+"Vivo per servire, Vostra Signoria!"
+
+### u017096
+"Spirito macchina, sii misericordioso, sii glorioso!"
+
+### u017097
+"Onoro la tua Forza Motrice, spirito macchina! Onoro la potenza del tuo motore!"
+
+### u017098
+Salta
+
+### u017099
+Demolisci
+
+### u017100
+Scassina la serratura
+
+### u017101
+Attraversa
+
+### u017102
+Forza l'accesso
+
+### u017103
+Apri il chiavistello
+
+### u017104
+Suona
+
+### u017105
+Rivolgi i tuoi pensieri al Dio-Imperatore
+
+### u017106
+Premi
+
+### u017107
+Spegni
+
+### u017108
+Accendi
+
+### u017109
+Offri una preghiera
+
+### u017110
+La Lord Capitano Theodora von Valancius è perita insieme al suo erede, Edelthrad, e a migliaia di membri dell'equipaggio.
+
+### u017111
+Eppure la speranza rimaneva, perché {mf|il secondo|la seconda} in linea della dinastia di Rogue Trader sopravvisse
+
+### u017112
+al prezzo di molti sacrifici compiuti dal Lord Capitano in nome delle proprie ambizioni.
+
+### u017113
+e, grazie alla forza della propria determinazione, salvò coloro che contavano su di {mf|lui|lei} per essere protetti.
+
+### u017114
+per appendere ancora una volta gli stendardi ancestrali e vendicarsi dei nemici della Casata von Valancius e dell'Umanità.
+
+### u017115
+Il tradimento del Maestro dei Sussurri fu vano, ma la vittoria giunse a caro prezzo.
+
+### u017116
+Mentre la nave del vuoto s'inoltrava sempre più nella Distesa di Koronus, i sudditi del Rogue Trader diedero un congedo formale alla defunta capo della dinastia, Theodora von Valancius.
+
+### u017117
+Resi gli ultimi omaggi, l'equipaggio radunò le forze e si preparò a qualunque cosa sarebbe venuta.
+
+### u017118
+La nave ammiraglia dei von Valancius si fece strada fuori dal sistema stellare condannato.
+
+### u017119
+Per un periodo le minacce si placarono, le rotte commerciali si riattivarono e i mondi riconquistati cominciarono a guarire.
+
+### u017120
+I sudditi del nuovo Lord Capitano lodarono con tutto il cuore il Dio-Imperatore e il loro capo — perché nessuno sapeva quale destino li attendesse.
+
+### u017121
+L'ascesa dell'erede Rogue Trader ripristinò un fragile equilibrio nel protettorato dei von Valancius.
+
+### u017122
+Nonostante le difficoltà, riuscirono a fuggire dalla labirintica Tela e a ritrovare la via di... casa.
+
+### u017123
+Lasciati alle spalle gli orrori fisici di Commorragh, al Rogue Trader e al suo gruppo si prospettava un viaggio lungo e arduo, possibile solo con l'aiuto di una guida xenos: da una strana destinazione all'altra, attraverso ambienti inconoscibili, la cui sola vista poteva condurre alla follia.
+
+### u017124
+Dopo aver riunito alleati e dopo essersi {mf|preparato|preparata} ad addentrarsi nell'ignoto, il Lord Capitano si gettò a capofitto nell'oscurità che custodiva antichi incubi... e le risposte a tutte le sue domande.
+
+### u017125
+L'antico portale, per lungo tempo impenetrabile al Rogue Trader, era infine pronto a svelare i suoi segreti.
+
+### u017126
+"Con il giro di questa chiave inglese, lodo la saggezza dell'Omnissiah!"
+
+### u017127
+"E così Egli ci diede un segno e bagnò i nostri umili volti nella luce del lumen smeraldino!"
+
+### u017128
+"Che il dono della Forza Motrice benedica i catodi consacrati di questo cogitatore!"
+
+### u017129
+"Taglia il sigillo con una lama consacrata e lascia che la valvola si abbeveri all'olio della vita."
+
+### u017130
+"Possa questo unguento curativo scacciare il morbo dalla carne devastata di questo meccanismo!"
+
+### u017131
+"Metti a nudo il tuo essere adamantino e lascia che queste umili mani compiano il rito sacro."
+
+### u017132
+Risorse sprecate in una propaganda inefficace fra la popolazione di Janus.
+
+### u017133
+Janus ha subito una serie di devastanti attacchi terroristici perpetrati dai ribelli.
+
+### u017134
+Le tattiche di guerriglia impiegate contro i ribelli su Janus sono fallite e hanno causato molte morti e un colossale spreco di risorse.
+
+### u017135
+L'attacco su larga scala delle truppe della milizia contro gli accampamenti dei ribelli su Janus è fallito e ha causato molte morti e un colossale spreco di risorse.
+
+### u017136
+Ricevuta una ricompensa per aver aiutato Jae Heydari.
+
+### u017137
+Jae Heydari si è unita al tuo seguito.
+
+### u017138
+Corrotti i vandali eretici nelle rovine di Scipione 84-249.
+
+### u017139
+Permesso ai Vandali del Motore nelle rovine di Scipione 84-249 di riscattarsi davanti al Deus Mechanicus e di servire di nuovo l'Omnissiah.
+
+### u017140
+Ordinato di non badare a spese e di assumere Astropati autorizzati per ripristinare il Coro Astropatico di Dargonus.
+
+### u017141
+Trasferiti i dati sui pianeti della Distesa di Koronus a Opticon-22.
+
+### u017142
+Trasferiti nuovi dati sui pianeti della Distesa di Koronus a Opticon-22.
+
+### u017143
+Recuperato tutto ciò che aveva valore dalle rovine di un'antica città dell'Imperium su un pianeta arido.
+
+### u017144
+La Casata Drivestem ha rimpinguato le casse dei von Valancius triplicando le decime riscosse dai propri sudditi.
+
+### u017145
+Jae è stata tradita e consegnata ai pirati.
+
+### u017146
+Ottenuto il sostegno del nuovo prelato dell'Ordine del Martello, Fratello Nigmus, indagando sui suoi oscuri segreti.
+
+### u017147
+Fratello Nigmus è stato nominato nuovo prelato dell'Ordine del Martello.
+
+### u017148
+Permesso al profeta di lasciare Foulstone portando con sé il Crucible e assegnata una scorta per accompagnarlo.
+
+### u017149
+Permesso al profeta di lasciare Foulstone portando con sé il Crucible.
+
+### u017150
+Donato promethium alla colonia di Vonvalancius e ricevuti in segno di gratitudine dalla popolazione antiche statue dorate e gioielli.
+
+### u017151
+Triplicate le decime riscosse da Janus come punizione per le azioni della governatrice.
+
+### u017152
+Inviate provviste dalla nave alla popolazione affamata di Footfall.
+
+### u017153
+Organizzata la consegna di provviste contaminate a Footfall.
+
+### u017154
+Inviate provviste a Footfall.
+
+### u017155
+Richiesto l'aiuto di maestri xenosussurratori per fermare l'invasione degli spiriti xenos su Janus.
+
+### u017156
+Tentato di nascondere gli eventi di Janus all'unità punitiva dell'Ordo Xenos.
+
+### u017157
+Isolato il manufactorum di Kiava Gamma colpito dalla xenomalattia e invitate le parti interessate che hanno pagato per il diritto di studiare la tecno-lebbra.
+
+### u017158
+Procurati Tecnopreti ad alta psicosensibilità per sostenere il rendimento dei manufactorum su Kiava Gamma.
+
+### u017159
+Accettate le richieste dei ribelli dei ponti inferiori.
+
+### u017160
+Ricevuta una generosa ricompensa per aver fornito elementi transuranici alla stazione del vuoto dell'Adeptus Mechanicus.
+
+### u017161
+Eurac V è stato spogliato di tutto ciò che aveva valore.
+
+### u017162
+Emessa una lettera di pagamento pari a dieci volte lo stipendio dell'ufficiale di certificazione.
+
+### u017163
+Donata la Dargonus University of Medicae al giovane nobile perché potesse studiare le scienze insieme alla sua amata di umili natali.
+
+### u017164
+Ordinato che il servitore dismesso venga acquistato e consegnato a suo nonno.
+
+### u017165
+Dato del denaro a uno sconosciuto nella coda al Palazzo dell'Administratum.
+
+### u017166
+Corrotto il supplicante nella coda al Palazzo dell'Administratum.
+
+### u017167
+Trasferiti nuovi dati sui pianeti della Distesa di Koronus al rappresentante della Explorator Cognisance Fleet.
+
+### u017168
+Trasferiti dati sui pianeti della Distesa di Koronus al rappresentante della Explorator Cognisance Fleet.
+
+### u017169
+Acquistati i prigionieri mutanti di Footfall.
+
+### u017170
+Tenuto un ricevimento per i Navigatori della Casata Orsellio.
+
+### u017171
+Concluso un accordo con il Pellegrino permettendogli di estrarre flogiston con i tuoi extractium.
+
+### u017172
+Assoldati mercenari per occuparsi del Culto dell'Alba Finale su Vheabos VI.
+
+### u017173
+Obbligato il governatore del Sistema Rykad a fornire risorse e persone all'equipaggio della nave ammiraglia dei von Valancius.
+
+### u017174
+Il governatore del Sistema Rykad ha accettato di fornire assistenza materiale al Rogue Trader.
+
+### u017175
+Appropriata l'eredità del pirata Denz.
+
+### u017176
+Sconfitti in battaglia gli eredi di Denz.
+
+### u017177
+Appropriata l'eredità del pirata Denz spacciandosi per il suo legittimo erede, Fidelio.
+
+### u017178
+Annullato il testamento del pirata Denz e confiscato l'intero patrimonio.
+
+### u017179
+Una folata di vento freddo ti scompiglia i capelli
+
+### u017180
+Cristalli di ghiaccio compaiono nell'aria
+
+### u017181
+L'aria si riempie di un odore putrido
+
+### u017182
+Per un istante le ombre si invertono
+
+### u017183
+Una sensazione di terrore ti stringe il cuore
+
+### u017184
+L'aria si riempie di sussurri malvagi
+
+### u017185
+Un cupo presentimento offusca la mente
+
+### u017186
+Una scarica di terrore ti trafigge il cuore
+
+### u017187
+Il puzzo di carne bruciata riempie l'aria
+
+### u017188
+Le superfici circostanti sono ricoperte di muco
+
+### u017189
+La temperatura dell'aria scende di qualche grado
+
+### u017190
+Uno stridio ultraterreno ti perfora le orecchie
+
+### u017191
+Il sangue ti si gela nelle vene
+
+### u017192
+Scariche della Forza Motrice riempiono l'aria
+
+### u017193
+Tagli e crepe compaiono sulla tua pelle
+
+### u017194
+Le fonti di luce diventano dolorosamente luminose
+
+### u017195
+Insetti iniziano a strisciare sotto la tua pelle
+
+### u017196
+Le ombre cominciano a sanguinare
+
+### u017197
+I suoni diventano insopportabilmente forti
+
+### u017198
+Una folata di vento ultraterreno porta l'odore di putrefazione
+
+### u017199
+"...giunge il Rogue Trader, {mf|Portatore|Portatrice} del Mandato di Commercio, Erede Stellare e {mf|Guardiano|Guardiana} dell'Umanità!"
+
+### u017200
+"Sua {mf|Signoria|Signoria} {name} von Valancius, Rogue Trader per grazia del Dio-Imperatore e dei sacri Signori di Terra..."
+
+### u017201
+"...fedele {mf|servitore|serva} dell'Imperium dell'Uomo, {mf|invitto|invitta}!"
+
+### u017202
+"Lunga vita al Rogue Trader {name} von Valancius, {mf|legittimo successore|legittima erede} al Mandato di Commercio e al protettorato dei von Valancius..."
+
+### u017203
+"...Warpstrider della Distesa di Koronus — che il mondo tremi!"
+
+### u017204
+"Dinanzi al Rogue Trader von Valancius, {mf|Guardiano|Guardiana} dell'Ordine, {mf|Sovrano|Sovrana} dei Mondi Maggiori e Minori..."
+
+### u017205
+"Lunga vita a {name} von Valancius, erede di Theodora von Valancius, {mf|legittimo Portatore|legittima Portatrice} del Mandato di Commercio, {mf|acclamato|acclamata} come Flagello degli Xenos e {mf|Salvatore|Salvatrice} di Dargonus, che il suo nome sia glorificato attraverso gli eoni!"
+
+### u017206
+"Rallegratevi, perché fra voi vi è {name} von Valancius, Rogue Trader dell'Imperium dell'Uomo, {mf|sovrano|sovrana} di Footfall!"
+
+### u017207
+"...{mf|il Salvatore|la Salvatrice} di Janus e di decine di altri mondi. Gloria!"
+
+### u017208
+"Gloria al Rogue Trader della Casata von Valancius, {mf|il Guardiano|la Guardiana} del Mondo, {mf|lo Sterminatore|la Sterminatrice} dei Nemici dell'Umanità..."
+
+### u017209
+"...e colpisce i Suoi eterni nemici, {mf|l'Estirpatore|l'Estirpatrice} del Caos, {mf|l'Eroe|l'Eroina} di Janus!"
+
+### u017210
+"Tremate, perché giunge la Spada dell'Imperatore! {name} von Valancius porta la Sua punizione..."
+
+### u017211
+"Inchinatevi! {name} von Valancius, {mf|Portatore|Portatrice} del Mandato di Commercio per volere divino, {mf|Nemico|Nemica} degli adoratori dell'Arcinemico, Carnefice di Kiava Gamma!"
+
+### u017212
+"{mf|Protettore|Protettrice} di Kiava Gamma e dei figli dell'Omnissiah, {mf|illuminato|illuminata} {name} von Valancius, il Rogue Trader della sacra dinastia!"
+
+### u017213
+Al livello inferiore
+
+### u017214
+Alla mappa della Distesa di Koronus
+
+### u017215
+Torna alla nave del vuoto
+
+### u017216
+Continua.
+
+### u017217
+Chiudi.
+
+### u017218
+Questo incarico è concluso.
+
+### u017219
+Nascondiglio dei contrabbandieri
+
+### u017220
+[Forza l'accesso con il pannello di controllo]
+
+### u017221
+[Fai saltare la porta]
+
+### u017222
+[Apri la porta con i tagliatori al plasma, sopportando i fumi]
+
+### u017223
+[Allontanati dalla porta]
+
+### u017224
+{n}L'imponente porta è costellata di piccole scheggiature, graffi e segni di proiettili. Non c'è traccia di cardini, leve o di qualcosa che somigli a una serratura. Sulla destra, incassato nella parete, c'è un pannello impolverato. Mentre ti avvicini, lo schermo incrinato inizia a tremolare debolmente.{/n}
+
+### u017225
+{n}Il pannello sulla parete lampeggia in segno di addio — e si spegne.{/n}
+
+### u017226
+{n}Un po' di pazienza — e senti il clic stanco dei meccanismi al di là della parete. La porta si apre lentamente, con un gemito.{/n}
+
+### u017227
+{n}Gli spiriti macchina si irritano per la tua intrusione e attivano i sistemi di difesa. I lumen finora addormentati sopra la porta sbocciano di luci ambrate.{/n}
+
+### u017228
+{n}Individui i punti più vulnerabili e applichi con cura gli esplosivi.{/n}
+
+### u017229
+{n}Dopo aver individuato quelli che ritieni i punti più vulnerabili, applichi gli esplosivi e premi il detonatore.{/n}
+
+### u017230
+{n}Tagli la porta cercando di evitare al meglio i meccanismi di difesa. Dopo dieci lunghi minuti l'ostacolo cede, ma hai inalato vapori velenosi a sazietà.{/n}
+
+### u017231
+{n}L'imponente porta ti accoglie con un silenzio impenetrabile.{/n}
+
+### u017232
+Senti uno strano suono che ricorda il gocciolio dell'acqua... o il tintinnio di qualcosa di affilato contro il metallo.
+
+### u017233
+Attraverso il condotto di ventilazione puoi sentire il gocciolio costante della condensa proveniente dalle profondità della nave.
+
+### u017234
+Le sbarre non sono state distrutte dalla corrosione o dalla ruggine: sono state strappate e divelte da una creatura potente.
+
+### u017235
+Persino le sbarre di plastacciaio hanno ceduto alla corrosione dopo secoli di abbandono.
+
+### u017236
+Il sistema di ventilazione funziona ancora. Sul metallo ci sono strani solchi: sembrano segni di artigli di una bestia che cercava di arrampicarsi nel condotto.
+
+### u017237
+Il sistema di ventilazione funziona ancora, anche se le pale della ventola sono coperte di ruggine.
+
+### u017238
+"Vostra Signoria! Se ci sentite, sappiate che abbiamo quasi abbattuto la porta! Resistete se siete ancora {mf|vivo|viva}! L'Imperatore protegge!"
+
+### u017239
+Questo bolter modello Godwyn fu consegnato a Sorella Argenta il giorno in cui pronunciò i voti per unirsi all'Ordine della Dama Martire. Purtroppo, nonostante il suo nome illustre, il lucore del metallo si è offuscato dopo anni di viaggi e incontri con orrori indicibili, e le sacre preghiere incise sulla canna sono state consumate fino a divenire lisce in alcuni punti. A ogni colpo sparato, un'altra scintilla si spegne nell'alone di santità che circonda questa nobile arma.
+
+### u017240
+Unfading Valour
+
+### u017241
+...maschio
+
+### u017242
+...femmina
+
+### u017243
+...{g|Comissar_Occupation_GlossaryEntry}Commissario{/g} dell'Officio Prefectus nell'Astra Militarum
+
+### u017244
+... {g|Criminal_Occupation_GlossaryEntry}capo di un'organizzazione criminale non specificata{/g} [dati espunti per ragioni di reputazione]
+
+### u017245
+... {g|ImperialWorld_Homeworld_GlossaryEntry}mondo imperiale{/g} Volrus VI. Educazione marcatamente lealista, capacità di comando e diplomatiche sviluppate, conoscenza approfondita della storia e della cultura dell'Imperium.
+
+### u017246
+... {g|FeudalWorld_Homeworld_GlossaryEntry}mondo feudale{/g} Fort Camgarrot. Ambiente culturale primitivo, notevoli attributi fisici e atletici, spiccata consapevolezza dell'ambiente circostante.
+
+### u017247
+... {g|ForgeWorld_Homeworld_GlossaryEntry}mondo forgia{/g} Temacrioq V. Pianeta dell'Adeptus Mechanicus. Forti capacità intellettive e di resistenza, profonda conoscenza della tecnologia sacra e abilità di medicae.
+
+### u017248
+... {g|FortressWorld_Homeworld_GlossaryEntry}mondo fortezza{/g} Koritsura Major. Pianeta militarista ai margini dell'Imperium. Addestramento di base al combattimento con un corso di medicae e istruzione aggiuntiva in demolizioni.
+
+### u017249
+...una rivolta dell'Ottava Città sul mondo formicaio Castas Primus
+
+### u017250
+...un attacco di un'armata pirata al mondo paradiso Lacura Cove
+
+### u017251
+...un grave incidente criminale che coinvolge navi del vuoto assegnate all'Astra Militarum
+
+### u017252
+...riuscì a rintracciare il capo spirituale della rivolta, che poi usò come merce di scambio nelle trattative con l'Astra Militarum per ottenere la propria libertà.
+
+### u017253
+...usò i propri soci come scudo umano per aprirsi un varco fino alle prese d'aria inferiori del formicaio e fuggire nelle lande.
+
+### u017254
+...mandò le reclute alle barricate nei tunnel del formicaio, giustiziando personalmente chiunque mostrasse paura o dubbio. Il reggimento subì perdite enormi, ma fu il primo a penetrare nella città assediata.
+
+### u017255
+...guidò personalmente l'attacco, ispirando le Guardie con il proprio esempio ad adempiere al loro dovere verso il Dio-Imperatore. Il reggimento mostrò un coraggio senza precedenti di fronte al pericolo mortale, anche se i gradi superiori non approvarono il rischio ingiustificato.
+
+### u017256
+...diede l'ordine di bombardamento totale del formicaio ribelle, ignorando la presenza di forze alleate all'interno del perimetro.
+
+### u017257
+...fornì supporto alle forze di terra, effettuando attacchi orbitali mirati e prolungando l'operazione militare.
+
+### u017258
+...guidò azioni partigiane contro i pirati con l'obiettivo di difendere il territorio. La popolazione sopravvissuta non solo proclamò {mf|eroe|eroina} {mf|il candidato|la candidata}, ma {mf|lo|la} ricompensò anche generosamente per aver protetto le proprie case.
+
+### u017259
+...stabilì un contatto con il capo della flotta pirata e, in cambio di una remunerazione considerevole, fornì informazioni sulla posizione delle forze di terra e sugli ultimi nominativi in codice.
+
+### u017260
+...riconobbe la superiorità del nemico e attuò una ritirata tattica.
+
+### u017261
+...lanciò la propria nave contro la flotta in un attacco suicida, dando alle forze imperiali rimaste il tempo di riorganizzarsi e prepararsi a difendere il pianeta.
+
+### u017262
+...inviò inviti a una finta festa fra ufficiali per attirare tutti i coinvolti nel crimine in un unico hangar, poi avviò la procedura di depressurizzazione, che in seguito fu attribuita a un malfunzionamento di uno dei cogitatori della nave.
+
+### u017263
+...sfruttò la propria posizione per arrestare i colpevoli e portarli davanti a un tribunale, ignorando i complessi rapporti gerarchici fra l'Astra Militarum e la Navis Imperialis.
+
+### u017264
+...accrebbe di molte volte il proprio patrimonio personale, approfittando dell'ignoranza di entrambe le parti sul vero valore dei carichi in discussione.
+
+### u017265
+...trovò il modo di intercettare il carico in un porto del vuoto e di rubarlo con l'aiuto di una terza parte non identificata.
+
+### u017266
+...sparò personalmente e con discrezione a ogni ufficiale coinvolto nell'operazione di contrabbando, e lasciò che lo schema criminale crollasse da solo.
+
+### u017267
+...contattò l'alto comando nello spazioporto di origine e ottenne la conversione dell'intero reggimento in Legione Penale.
+
+### u017268
+... {g|NavyOfficer_Occupation_GlossaryEntry}capitano di nave del vuoto nella Flotta Imperiale{/g}
+
+### u017269
+...sovrintese allo schieramento delle forze e alla difesa delle aree vitali, proteggendo così i nodi infrastrutturali chiave e i membri più importanti della dirigenza del pianeta fino all'arrivo dei rinforzi.
+
+### u017270
+...lanciò le forze in un contrattacco decisivo, che bloccò l'offensiva terrestre dei pirati. Al termine dell'operazione, il reggimento dell'Astra Militarum era stato completamente annientato.
+
+### u017271
+Origine prima della requisizione: ...
+
+### u017272
+Dossier 17-KB, compilato ed elaborato per ordine della graziosissima Lord Capitano Theodora von Valancius.
+
+### u017273
+{mf|Candidato|Candidata}: soddisfa i criteri di consanguineità — è imparentato con la Lord Capitano in settimo grado; proviene da una diramazione dinastica nel Settore Scarus; l'attuale ubicazione dei progenitori non è specificata.
+
+### u017274
+{mf|Il candidato|La candidata} si trovava con il proprio reggimento vicino alla capitale nell'emisfero meridionale di Lacura quando iniziò il primo attacco dei pirati. Ricevute notizie di un consistente gruppo di sbarco nemico nei pressi della tenuta del governatore, {mf|il candidato|la candidata}...
+
+### u017275
+{mf|Il candidato|La candidata} e il proprio seguito si trovavano nei quartieri di piacere quando una massiccia forza di sbarco toccò il suolo del pianeta. Approfittando della presenza di armi e di fidati soci, {mf|il candidato|la candidata}...
+
+### u017276
+Pianeta di nascita e circostanze della prima infanzia: ...
+
+### u017277
+- calcolo tattico;
+- competenze logistiche;
+- ammirevole lealtà verso i migliori e più preziosi servitori dell'Imperium.
+
+### u017278
+- valore personale;
+- flessibilità tattica e capacità di comandare con prontezza;
+- odio implacabile per i nemici dell'Umanità.
+
+### u017279
+- capacità innate di comando;
+- adattabilità a circostanze mutevoli;
+- spirito d'iniziativa commerciale.
+
+### u017280
+- spirito d'iniziativa mercantile;
+- capacità diplomatiche;
+- ambivalenza morale.
+
+### u017281
+- interesse personale;
+- capacità di prendere decisioni rapide;
+- pragmatismo tattico.
+
+### u017282
+Su richiesta della Lord Capitano, è stato messo in evidenza l'episodio più significativo della biografia {mf|del candidato|della candidata}, che dimostra le sue qualità personali e il suo rendimento sotto pressione. In base ai dati raccolti, si tratta di...
+
+### u017283
+- volontà di comando;
+- intolleranza per le trasgressioni altrui;
+- disponibilità a infrangere le regole comunemente accettate.
+
+### u017284
+- spirito d'iniziativa;
+- capacità di manipolazione sociale;
+- ampia conoscenza degli aspetti finanziari dell'attività di Rogue Trader.
+
+### u017285
+- capacità organizzative;
+- abilità nelle trattative difficili;
+- flessibilità morale.
+
+### u017286
+- forza di carattere;
+- spirito d'iniziativa;
+- impegno nella lotta contro i nemici dell'Imperium (compresi quelli interni).
+
+### u017287
+{mf|Il candidato|La candidata} si trovava sul pianeta per concludere un contratto [dati espunti] con i baroni dei livelli inferiori. Dopo che il formicaio fu bloccato e i collegamenti di trasporto con i mondi vicini furono interrotti, {mf|il candidato|la candidata}...
+
+### u017288
+La nave del vuoto al comando {mf|del candidato|della candidata} attuò un blocco del pianeta. A causa dell'interruzione delle comunicazioni vox e della necessità di agire unilateralmente, {mf|il candidato|la candidata}...
+
+### u017289
+La rivolta contadina, provocata dall'ultimo abbassamento dell'età minima per gli operai dei manufactorum, si diffuse in gran parte della guglia della città formicaio centrale. Le forze imperiali arrivarono troppo tardi per spegnere la fiamma della ribellione — tuttavia l'Astra Militarum riuscì a bloccare il formicaio ribelle.
+
+### u017290
+{mf|Il candidato|La candidata} partecipava all'operazione di terra quando dall'alto comando giunse l'ordine di prendere d'assalto il sottoformicaio — la parte della città meglio protetta e più pericolosa. Avvicinandosi alla linea di contatto, {mf|il candidato|la candidata}...
+
+### u017291
+Il profilo {mf|del candidato|della candidata} è stato ritenuto degno di essere sottoposto alla graziosissima Lord Capitano per un'ulteriore valutazione. Riguardo alla requisizione {mf|del candidato|della candidata} dalla sua attuale posizione per servire le necessità dell'illustre dinastia von Valancius, la decisione finale spetta alla graziosissima Lord Capitano.
+
+### u017292
+- coraggio personale;
+- imperturbabilità di fronte alla superiorità numerica del nemico;
+- disponibilità a sacrificarsi nel nome del Dio-Imperatore.
+
+### u017293
+--- Fine del dossier ---
+
+### u017294
+La nave del vuoto {mf|del candidato|della candidata} era una delle due imbarcazioni presenti nel vuoto sopra Lacura al momento dell'arrivo della flotta pirata. Di fronte a forze nemiche schiaccianti, {mf|il candidato|la candidata}...
+
+### u017295
+- valore personale;
+- disponibilità a sacrificare il personale;
+- volontà di sopravvivere [dimostrata nel trovare una navetta e fuggire dalla nave distrutta].
+
+### u017296
+- cautela nell'agire;
+- attitudine per le complesse macchinazioni sociali;
+- spietatezza verso i nemici interni dell'Imperium.
+
+### u017297
+--- Inizio del dossier ---
+
+### u017298
+Qualità notevoli dimostrate nell'agire in circostanze difficili o ambigue:
+
+### u017299
+Le qualità dimostrate sono ritenute preziose e auspicabili in {mf|un potenziale successore|una potenziale erede} della Lord Capitano.
+
+### u017300
+La nave del vuoto al comando {mf|del candidato|della candidata} era fra quelle usate per trasportare carico di contrabbando. Quando {mf|il candidato|la candidata} venne a sapere dell'operazione illecita, {mf|lui|lei}...
+
+### u017301
+{mf|Il candidato|La candidata} era {mf|coinvolto|coinvolta} nell'impresa illegale, facendo da intermediario fra l'élite dell'Astra Militarum e i baroni del crimine ai margini del settore. Sfruttando la situazione, {mf|il candidato|la candidata}...
+

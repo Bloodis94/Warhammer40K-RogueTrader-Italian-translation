@@ -1,0 +1,848 @@
+### u061076
+"Infatti, Vostra Signoria! Ma d'ora in poi il grosso delle preoccupazioni ricadrà sulle spalle dei vostri sudditi."
+
+### u061077
+"La Signora Toliman ha inviato un messaggio per chiedere un'udienza. Ha un rapporto cruciale da consegnare e vi aspetterà sul ponte di comando della nave."
+
+### u061078
+{n}Jae fa una smorfia amara.{/n} "Non avrei mai pensato che parole di lode potessero farmi sentire l'anima come soffocata. Tutto questo inchinarsi e strisciare mi sembra a dir poco esagerato."
+
+### u061079
+"Mi hai ingannato quando hai fissato il luogo del nostro scontro finale!"
+
+### u061080
+[Attacca] "Pagherai per ogni servitore dell'Imperium che hai ucciso!"
+
+### u061081
+"Uno xenos è a terra. Ne resta ancora uno."
+
+### u061082
+"Perché hai attaccato il palazzo?"
+
+### u061083
+"Hai idea di quanto mi sia costata la tua incursione? Una sola pelle di xenos conciata non basterà a ripagare i danni!"
+
+### u061084
+"Tazarra era convinta che stessimo lavorando insieme... quali sciocchezze le hai messo in testa?"
+
+### u061085
+[Attacca] "Mi sono {mf|stancato|stancata} di te: è ora di morire."
+
+### u061086
+{n}Marazhai fa un gesto distratto con la mano, o per darti il benvenuto o per invitarti ad ammirare la sala devastata.{/n} "Finalmente! Cominciavo a pensare che il tuo goffo catorcio fosse andato perduto durante il ritorno! Un simile epilogo non avrebbe soddisfatto né te né me, non è vero?"
+
+### u061087
+"Sei ancora con {mf|lui|lei}, cugina?" {n}La voce di Marazhai gronda di sdolcinato scherno.{/n} "Come procede la ricerca della tua famiglia perduta? O l'essere ai comodi di un mon-keigh occupa tutti i tuoi pensieri e il tuo tempo?"
+
+### u061088
+{n}La vista di uno xenos sdraiato sul trono dinastico fa avvampare di rosso il volto di Abelard.{/n} "Che... Come hai... Cesserai subito di profanare con la tua presenza una reliquia dell'Imperium, feccia xenos!"
+
+### u061089
+"Che c'è, questa abominazione?" {n}Il Drukhari batte un dito sul bracciolo.{/n} "Con piacere. Ma prima finirò la mia conversazione con il tuo padrone, mon-keigh."
+
+### u061090
+"Tacerai, Oscuro, o ti ridurrò al silenzio con le mie mani!"
+
+### u061091
+{n}Il Drukhari si immobilizza per un istante.{/n} "Oh, sento la tua rabbia... la tua furia... e il tuo dolore nel vedere lo stato delle tue sale. Confidavo che avresti apprezzato i nostri sforzi qui. Avrei potuto svanire da tempo nei meandri della Tela senza attendere il tuo arrivo, mon-keigh... ma non potevo negarmi il piccolo piacere di assaporare il tuo tormento alla vista di ciò che ho fatto alla tua casa."
+
+### u061092
+"L'unica cosa per cui quelli della tua specie sono buoni, mon-keigh, è la capacità di soffrire. Mi sono saziato da tempo del dolore fisico: i tuoi simili ne forniscono in abbondanza dalle loro gabbie a Commorragh. Il dolore dell'anima, invece... è una rara delizia. Dopotutto, dovevo ripagarti per tutti i fastidi che mi hai causato."
+
+### u061093
+"Tuttavia, non ti ho fatto anch'io un dono generoso? Quella fastidiosa, impicciona Tazarra che ha tormentato per tanto tempo i tuoi piccoli mondi... tu hai ottenuto la sua testa, e io un'esistenza tranquilla in cui lei non mi intralcia di continuo." {n}Ti rivolge un sorriso sottile.{/n} "Morire per mano di un mon-keigh è la peggior punizione possibile per una campionessa delle arene gladiatorie di Commorragh. I suoi ultimi istanti sono stati strazianti."
+
+### u061094
+"Non essere avido, mon-keigh: dovresti accontentarti dell'elemosina che ti getto con tanta gentilezza."
+
+### u061095
+"Mm? Quell'altezzosa sacca di pelle pensava che io mi sarei alleato con dei mon-keigh? Vorrei non aver lasciato la sua morte a te e averle strappato il cuore con le mie mani. Eppure, aver notato il mio interesse per la tua persona è stato piuttosto perspicace, tanto più per una Wych da arena senza cervello."
+
+### u061096
+"Ora che il nostro incontro ha avuto luogo, qui i miei affari sono conclusi. Ho trascorso fin troppo tempo nello {g|Encyclopedia:Realspace}spazio reale{/g} ed è ora di porgerti il mio addio."
+
+### u061097
+"{mf|Ingannato|Ingannata}? Gli eguali si possono ingannare, ma te mi sono limitato a usarti. Hai recitato alla perfezione la parte che ti era stata assegnata: eri esattamente dove dovevi essere e hai fatto esattamente ciò che dovevi fare. Tutto tranne morire."
+
+### u061098
+"Non sei felice di vedermi, Tazarra?"
+
+### u061099
+[Attacca] "In nome dell'Imperatore, per la gloria dell'Umanità: muori, mostro!"
+
+### u061100
+[Attacca] "Io? Lavorare con uno xenos? Muori per la tua blasfemia, bestia!"
+
+### u061101
+"Dimmi qual è il tuo obiettivo nel palazzo, e forse ti concederò una morte rapida."
+
+### u061102
+"E se ti dicessi di sì?"
+
+### u061103
+"Aspetta, di quale cane stai parlando?"
+
+### u061104
+[Attacca] "Basta con le chiacchiere."
+
+### u061105
+[Attacca] "La tua piccola incursione mi è costata una fortuna, e io non perdono simili perdite! Muori!"
+
+### u061106
+[Attacca] "Che effetto fa essere usata, Tazarra? Mi hai divertito a dovere: ora fammi il favore di morire."
+
+### u061107
+{n}Quando Tazarra ti nota, il suo volto si contorce in una maschera di rabbia. Le labbra della Drukhari si tendono in un ghigno predatorio che non reca più traccia della sua antica alterigia, ma solo la promessa del dolore.{/n} "Tu! Mon-keigh deforme, putrida feccia! Pagherai per ogni istante che ho trascorso su questo pietoso pianeta!"
+
+### u061108
+{n}Lancia un grido di battaglia e si getta in avanti.{/n}
+
+### u061109
+"Ecco il vero volto degli Oscuri. La sua ira nei tuoi confronti è così grande che ha gettato la maschera e ha rivelato la bestia che si cela sotto!"
+
+### u061110
+"Oh, ora che sei finalmente {mf|arrivato|arrivata}, sono piena di attesa: l'attesa di scuoiarti, di impalarti su dei ganci e di farti danzare per il divertimento mio e dell'Arconte!"
+
+### u061111
+"Non mi abbasserò a dare spiegazioni a un mon-keigh, figuriamoci a un verme come te. Una morte rapida? Ti insegnerò la vera arte di uccidere: una goccia di sangue alla volta, un istante alla volta di insopportabile agonia!"
+
+### u061112
+"Allora dirò che ne ho abbastanza dei giochi altrui. Sorelle, lode alle Muse!"
+
+### u061113
+"Basta..." {n}Tazarra scopre le zanne affilate.{/n} "Estorcerò la verità dai vostri cadaveri, il tuo e quello di Marazhai. Sorelle, all'attacco!"
+
+### u061114
+"Piccola Asuryani, obbediente serva del mon-keigh. Cerca di sopravvivere al futuro, e allora noi due ci divertiremo ancora parecchio." {n}La Drukhari si lecca le labbra con la lingua biforcuta.{/n}
+
+### u061115
+{n}Lo strido di Tazarra scende a un sibilo.{/n} "Sospettavo che tu e quel cane di Trueborn lavoraste insieme. Non ha costretto me e le mie sorelle a indugiare qui per un capriccio: aveva un motivo, e quel motivo ti riguarda. Sì? È così? Dimmelo... fa' solo un cenno, così potrò presentarmi davanti all'Arconte e accusarlo di tradimento e di aver compromesso l'incursione!"
+
+### u061116
+{n}Le orribili cicatrici lasciate sul suo volto dagli artigli dell'aquila cibernetica sono un vivido ricordo del vostro scontro precedente. Il bagliore scarlatto del suo occhio malconcio si fissa su di te in attesa di vendetta.{/n}
+
+### u061117
+"I litigi tra falsi alleati sono lo sport preferito dei Drukhari. Dopo la tortura, s'intende." {n}Heinrix sembra compiaciuto: si gode chiaramente la vista della furia dello xenos.{/n}
+
+### u061118
+"Di cosa desideravate parlarmi?"
+
+### u061119
+[Impugna l'arma] "Apprezzo l'avvertimento, Idira."
+
+### u061120
+"I miei affari con il Liege sono affari miei. Non riguardano la Casata Chorda."
+
+### u061121
+"Sono {mf|aperto|aperta} alla cooperazione."
+
+### u061122
+"Quindi volete spogliare la stazione fino all'osso, una stazione che affronta la carestia, e proponete a me di unirmi al vostro piccolo banchetto di avvoltoi?"
+
+### u061123
+"Vi dispiacerebbe approfondire i termini della vostra proposta?"
+
+### u061124
+"Non ho tempo di fermarmi a chiacchierare."
+
+### u061125
+[Nascondi la verità] "Esatto, sono {mf|l'inviato|l'inviata} di Lady Theodora."
+
+### u061126
+[Rivela la verità] "Theodora von Valancius è stata uccisa da degli eretici. Stai parlando con {mf|il suo erede|la sua erede}."
+
+### u061127
+{n}Un giovane ben curato ti chiama. È sbarbato e veste abiti costosi ma sobri, con un'Aquila luminosa ricamata in bella vista.{/n}
+
+### u061128
+"{d|Encyclopedia:Ch2_FootfallOfficial}Vostra Signoria{/d}, vi chiedo umilmente un minuto del vostro tempo! Sono Bastian in Derama Bastaal-Chorda, il più giovane dei cugini della Casata Chorda, inviato di Incendia Bastaal-Chorda, {g|Encyclopedia:RogueTrader}Rogue Trader{/g} della Distesa di Koronus per grazia del santissimo {g|Encyclopedia:Emperor}Imperatore{/g}."
+
+### u061129
+"Nobile {mf|signore|signora}, un minuto del vostro tempo, se vi aggrada! Sono Bastian in Derama Bastaal-Chorda, il più giovane dei cugini della Casata Chorda, inviato di Incendia Bastaal-Chorda, {g|Encyclopedia:RogueTrader}Rogue Trader{/g} della Distesa di Koronus per grazia del santissimo {g|Encyclopedia:Emperor}Imperatore{/g}. E voi dovete essere {mf|un|un'}{d|Encyclopedia:Ch2_FootfallIncognito}{mf|inviato|inviata}{/d} di Theodora von Valancius? Ho notato che siete arrivat{mf|o|a} sulla nave della stimata signora."
+
+### u061130
+"Splendido. È un piacere parlare con un pari: a dire il vero, in presenza dei potenti mi agito un po'..." {n}Bastian sorride timidamente.{/n}
+
+### u061131
+{n}Gli occhi di Bastian si spalancano per un istante mentre assimila la nuova informazione.{/n} "Che tragedia! Che perdita terribile... Vi prego di accettare le mie condoglianze, Vostra Signoria! Che la luce dell'Imperatore sia con i giusti scomparsi e che il loro splendore non si offuschi mai nel ricordo dei discendenti... E vi prego di accettare altresì le mie congratulazioni per aver ottenuto lo status di Rogue Trader, seppur in conseguenza di un evento così tragico."
+
+### u061132
+"I più fedeli servitori dell'Imperatore dovrebbero preoccuparsi di più di portare la Sua volontà attraverso le stelle e meno di spartirsi i profitti," {n}dice Argenta con disapprovazione, ma abbastanza piano da non interrompere le trattative.{/n} "Soprattutto quando è in gioco il benessere di uno dei mondi dell'Imperium, anche se si tratta di uno come Footfall."
+
+### u061133
+"Per nulla. Vi andrebbe di spostare queste trattative in un luogo più adatto, così che io possa esaminare i dettagli?"
+
+### u061134
+"Un peccato, davvero un peccato... Magari potremmo incontrarci più tardi? In un momento più comodo per voi?"
+
+### u061135
+"Una questione della massima delicatezza... Vedete, siete stat{mf|o|a} alla residenza del Liege. Vladaym vi avrà quasi certamente chiesto aiuto per organizzare i carichi diretti a Footfall. Il protettorato von Valancius è famoso per l'abbondanza del suo principale {g|Encyclopedia:AgriWorld}mondo agricolo{/g}, Janus. Sarebbe strano se non avesse colto una simile opportunità, con Footfall sull'orlo della carestia."
+
+### u061136
+"Tuttavia, la dinastia Chorda persegue i propri interessi su Footfall. Abbiamo già comunicato i nostri termini al Liege, ma lui temporeggia, immagino nella speranza di ottenere da voi un'offerta migliore. La dinastia Chorda ritiene..." {n}Bastian sorride e fa una lieve scrollata di spalle.{/n} "...che la cooperazione sarebbe preferibile per entrambe le casate di Rogue Trader. Se rifiutate Vladaym, costringendolo così ad accettare un accordo con noi, la dinastia Chorda può promettervi una quota dei profitti del futuro contratto, oltre ad altri benefici. Ne trarranno vantaggio tutti!"
+
+### u061137
+"Sono semplicemente affari. Onesti e diretti. Footfall è un covo di banditi e approfittatori. Forse non saranno eretici dichiarati, ma sono ben lontani dalla luce dell'Imperium. Dovrebbero essere grati che i Rogue Trader permettano a questo covo di esistere. Esigere da loro un pagamento equo è più che giusto."
+
+### u061138
+"Sono felice di sentirlo. Non avevo dubbi sugli interessi comuni delle nostre dinastie."
+
+### u061139
+"Parole forti. Forse gradireste riflettere ancora un poco sulla mia proposta?"
+
+### u061140
+{n}Bastian sorride e apre la bocca per offrire un'altra cortesia zuccherosa, quando all'improvviso...{/n}
+
+### u061141
+{n}Idira, che un istante fa sbadigliava per la noia, sussulta e si stringe il viso, con le unghie che affondano nella pelle.{/n} "Stanno arrivando! Di nuovo! Fratelli di quelli arrivati prima! Davvero non capisco: hanno tutti il desiderio di morire?"
+
+### u061142
+"Dietro il tuo sorriso, Maestro Bastian, ombre turchesi turbinano. Altri forse non le vedono, ma la tua inquietudine non sfugge al mio occhio. Di cosa hai paura? Dell'ira della tua casata se queste trattative si rivelassero infruttuose? O dell'ira della Casata von Valancius?"
+
+### u061143
+"Chorda, hmm. Sono tra i Rogue Trader più influenti della Distesa di Koronus. Ma non su Footfall: questa stazione è sotto il controllo della Casata Winterscale. Qualcosa mi dice che stiamo per ascoltare un'offerta davvero curiosa..." {n}dice Abelard a mezza voce, in modo che solo tu possa sentirlo.{/n}
+
+### u061144
+"Cosa?" {n}Bastian ti fissa sorpreso, poi si volta...{/n}
+
+### u061145
+"Vladaym sarà anche un ashmag dalla bocca putrida, ma non è uno sciocco. I termini dell'accordo devono essere stati ridicoli perché rifiutasse l'offerta di un {g|Encyclopedia:RogueTrader}Rogue Trader{/g}. Catastroficamente sfavorevoli, direi."
+### u061146
+Una targa corrosa è stata inchiodata rozzamente al corpo crocifisso: "Eretico di Anver. Giustiziato per crimini contro l'Imperium dell'Uomo."
+
+### u061147
+Non volendo morire, gli avventori del bar hanno fatto l'ultima resistenza proprio lì.
+
+### u061148
+L'ammasso fetido di cadaveri carbonizzati e semi-inceneriti fuma sotto il peso dei corpi freschi.
+
+### u061149
+"Lunga vita a Sua Signoria la Rogue Trader Incendia Chorda!"
+
+### u061150
+"Finalmente su Footfall ci sarà ordine."
+
+### u061151
+"Fino a ieri me ne stavo nei Quartieri d'Ombra a elemosinare, e guardatemi ora: faccio la guardia! Non riesco ancora a crederci... Lunga vita alla grande Incendia Chorda!"
+
+### u061152
+"Presto... prestissimo! Footfall sarà purgata dall'eresia! Ancora un poco..."
+
+### u061153
+Il dolce odore di putrefazione e il profumo d'incenso si mescolano in un tanfo denso e nauseabondo.
+
+### u061154
+"Rogue Trader. Non ostacolate l'indagine della Santa Inquisizione."
+
+### u061155
+"Anche voi potreste ritrovarvi al centro di un'indagine, Rogue Trader. Siate prudente."
+
+### u061156
+L'uomo di fronte a te sta scrutando una tavoletta dati. L'insegna della Santa Inquisizione gli pende dal petto.
+
+### u061157
+"Vi prego, non disturbate i pellegrini: la messa è in corso..."
+
+### u061158
+"Sua Signoria Incendia Chorda vi sta aspettando."
+
+### u061159
+"Per volontà dell'onorevole Lord Inquisitore Calcazar, il palazzo è off-limits!"
+
+### u061160
+"Mostri senza onore! Vorrei che moriste tutti insieme!"
+
+### u061161
+Le sofferenze e le privazioni che questa donna ha sopportato le gravano sul volto come un'ombra profonda. Fissa lo sguardo nel vuoto senza battere ciglio, come se non si accorgesse nemmeno di te.
+
+### u061162
+"Vi supplico! Io... io sono innocente! Lo giuro sul Trono!"
+
+### u061163
+Lo sguardo spento e gelido della creatura nella gabbia è inequivocabilmente disumano.
+
+### u061164
+Sopra gli occhi allungati della creatura vedi i resti di palpebre decisamente umane. Sembra proprio che questo "xenos" sia opera di un chirurgo non particolarmente abile e di un truccatore appena un po' più competente.
+
+### u061165
+La creatura nella gabbia ha un aspetto straniero e minaccioso.
+
+### u061166
+È chiaro che quello nella gabbia non è uno xenos, ma solo un comune nato nel vuoto che ha perso alla lotteria delle mutazioni.
+
+### u061167
+"Yaldaree. Comportamento: Subdolo, aggressivo. Habitat: Boschi. Dieta: Neonati (2 o 3 a settimana). Paure: L'Imperatore, la gente retta."
+
+### u061168
+"Durrukhara. Comportamento: Malvagità, malizia. Habitat: Ovunque (si nasconde tra la gente). Dieta: Non mangia, si nutre di pensieri blasfemi. Paure: L'Imperatore, la preghiera, i pensieri retti."
+
+### u061169
+"Xenobeastus Unknownus. Comportamento: Crudeltà, inganno, accoppiamento sfrenato. Habitat: Vuoto (non ha bisogno d'aria). Dieta: Rocce. Paure: L'Imperatore, il fuoco."
+
+### u061170
+[Punisci i nemici dell'Umanità]
+
+### u061171
+"Temo che il nostro locale sia stato costretto a sospendere l'esposizione di xenos."
+
+### u061172
+"Venite, venite tutti! Guardate negli occhi i nemici dell'Umanità!"
+
+### u061173
+"La migliore attrazione di Footfall: xenos vivi in gabbia!"
+
+### u061174
+"Guardare è gratis! E per un paio di monete potete sfogarvi sulle bestie malvagie!"
+
+### u061175
+"Punisci lo xenos: una moneta per un colpo!"
+
+### u061176
+"Sei nei guai fino al collo, {mf|amico|amica}. Hai fatto arrabbiare delle persone molto potenti."
+
+### u061177
+"Fermo! No! Aspetta!"
+
+### u061178
+"Vladaym ci ha detto di assicurarci che non ti si veda più da queste parti. E lo faremo."
+
+### u061179
+"Cosa turba il tuo cuore?"
+
+### u061180
+"Vedo che il tuo pentimento è andato bene."
+
+### u061181
+"Accettare la carità di un pirata e di un assassino non si addice a un servitore dell'Imperatore."
+
+### u061182
+"Ognuno merita una possibilità di redenzione."
+
+### u061183
+"Ho sentito dire che Drusus non era un soldato della Guardia, ma un aristocratico, e che furono i rivali di Golgenna per la sua posizione ad attentare alla sua vita. E non è risorto dai morti: l'assassino ha semplicemente deciso di non ucciderlo."
+
+### u061184
+"Possiamo spostare la nostra conversazione in un luogo più consono a persone del nostro rango?"
+
+### u061185
+[China il capo e non dire nulla]
+
+### u061186
+"Che tutti acclamino il nome di San Drusus."
+
+### u061187
+"Perché non vai dal Liege con questa faccenda?"
+
+### u061188
+"Verificheremo questa voce, Reverendo Hieronymus."
+
+### u061189
+"I Rogue Trader sono gli unti dell'Imperatore. Agisco per Suo comando, come attesta la Sua firma sul mio Mandato."
+
+### u061190
+"La Sorella Argenta è rimasta al mio fianco durante l'assalto alla nave e potrei farmi aiutare da lei d'ora in avanti."
+
+### u061191
+"Sinceramente, non ho bisogno della scorta della Sorella Argenta."
+
+### u061192
+"Che ne pensi della giustizia che ho amministrato, Reverendo?"
+
+### u061193
+[Impugna l'arma] "Per i tuoi crimini, ti condanno a morte."
+
+### u061194
+"Continuate con questo atteggiamento e comparirete nella mia prossima confessione."
+
+### u061195
+Hai minacciato il Reverendo Hieronymus.
+
+### u061196
+[Impugna l'arma] "Un bigotto spaccone che ha chiaramente perso il senno. Sono {mf|certo|certa} che ucciderti sarebbe una trasgressione perdonabile... per un Rogue Trader."
+
+### u061197
+[Giustizialo] "Non lo sarà."
+
+### u061198
+Hai ammesso davanti al Reverendo Hieronymus di essere {mf|un reprobo|una reproba}.
+
+### u061199
+"Non avere dubbi su di me. Sono {mf|un completo reprobo|una completa reproba} e {mf|un incallito malfattore|un'incallita malfattrice} la cui esistenza è un affronto all'Imperatore."
+
+### u061200
+"Che ci fai su Footfall?"
+
+### u061201
+"Vorrei dare un'occhiata a ciò che i seguaci di San Drusus hanno da offrirmi."
+
+### u061202
+"Ho una domanda sulla fede."
+
+### u061203
+"Parlami ancora dei Drusiani."
+
+### u061204
+"Chi era San Drusus?"
+
+### u061205
+"Chi eri in passato?"
+
+### u061206
+"L'Imperatore è misericordioso a concederti una possibilità di redenzione."
+
+### u061207
+"Ah, quindi ora che ti sei saziato di bassezze, pensi di poter fare la predica agli altri?"
+
+### u061208
+"Parlami ancora dell'Imperatore."
+
+### u061209
+"Qual è il modo giusto di venerare l'Imperatore?"
+
+### u061210
+"I servitori dell'Imperatore: chi sono?"
+
+### u061211
+"Chi è il nemico dell'Imperium?"
+
+### u061212
+"Parlami di Incendia Chorda."
+
+### u061213
+"Grazie per le tue spiegazioni."
+
+### u061214
+Hai elogiato l'Ecclesiarchia conversando con il Reverendo Hieronymus.
+
+### u061215
+"Che l'Imperatore benedica i Suoi fedeli servitori."
+
+### u061216
+Hai messo in dubbio le virtù dell'Ecclesiarchia conversando con il Reverendo Hieronymus.
+
+### u061217
+"Immagino sia molto vantaggioso per l'Ecclesiarchia atteggiarsi a congregazione di santi. Perdonami se non ci casco."
+
+### u061218
+Hai ammirato la devozione di Incendia Chorda conversando con il Reverendo Hieronymus.
+
+### u061219
+"La sua intolleranza è degna di rispetto."
+
+### u061220
+Hai disapprovato la sete di sangue di Incendia Chorda conversando con il Reverendo Hieronymus.
+
+### u061221
+"Da quando orchestrare massacri è segno di virtù?"
+
+### u061222
+Hai criticato il Reverendo Hieronymus per aver cercato il favore di Incendia Chorda.
+
+### u061223
+"Capisco. Vi siete trovati un'ottima patrona e ora siete fin troppo ansiosi di diffondere la parola della sua devozione."
+
+### u061224
+"Hai sentito quello che ho detto."
+
+### u061225
+[Gettagli qualche moneta] "Un sant'uomo, eh? Tieni, un po' di elemosina per te."
+### u061226
+"Spero che ora la sua anima bruci luminosa quanto bruciarono le sue vittime."
+
+### u061227
+"Un vecchio sentimentale che cerca di comprare l'assoluzione dalla sua tumultuosa giovinezza... Che patetico."
+
+### u061228
+"Mi pare, zelota, che siano le uccisioni a darti gioia."
+
+### u061229
+"Non ho tempo per occuparmi di questo."
+
+### u061230
+"Stai dicendo che Theodora era una trasgressora?"
+
+### u061231
+"Footfall ha ora una nuova patrona: Incendia Chorda."
+
+### u061232
+[Dagli il diario del capitano della Wasteland Wayfarer] "La tua spedizione è perita."
+
+### u061233
+"Mi imbatto in eresie sorprendentemente spesso, di questi tempi."
+
+### u061234
+Hai salutato il Reverendo Hieronymus con il segno dell'Aquila.
+
+### u061235
+[Fai il segno della santa Aquila] "Ripongo la mia fede nell'Imperatore."
+
+### u061236
+"Ho cambiato idea. Portare il fardello dei tuoi crimini fino alla fine dei tuoi giorni è già punizione sufficiente."
+
+### u061237
+"Ho trovato questa scrittura nella dimora in rovina di Jesevon..."
+
+### u061238
+"La tua richiesta è stata esaudita. Il covo dei cultisti nei Quartieri d'Ombra è stato ripulito."
+
+### u061239
+Hai avvertito il Reverendo Hieronymus della natura blasfema della scrittura trovata a Jesevon.
+
+### u061240
+"No, Reverendo. È un testo blasfemo, frutto della mente di un eretico e di un apostata che ha tradito l'Umanità. Bisogna conoscere il volto del proprio nemico."
+
+### u061241
+Hai presentato la scrittura blasfema trovata a Jesevon come testi sacri.
+
+### u061242
+"Un'interpretazione affascinante della Sua parola. Di certo sarà una lettura interessante: potresti persino imparare qualcosa."
+
+### u061243
+"Continui a smerciare le sacre reliquie dei Drusiani? Che ipocrisia."
+
+### u061244
+"Parlami del tuo nuovo cammino, Reverendo."
+
+### u061245
+"Aggiungerei qualcosa, se non fosse al di sotto della mia dignità."
+
+### u061246
+"Non desidero entrare in un dibattito con te."
+
+### u061247
+"Molti considererebbero eretiche le tue osservazioni sull'Ecclesiarchia."
+
+### u061248
+"L'Imperatore protegge, Reverendo!"
+
+### u061249
+"Correzione: non ho bisogno della tua protezione, ma non ho nulla contro la tua presenza a bordo della mia nave."
+
+### u061250
+"È vero che il pirata Denz Bellardo era un tuo parrocchiano e che ha dotato i Drusiani di donazioni?"
+
+### u061251
+{n}Hieronymus annuisce pensieroso.{/n} "Segui il richiamo della tua anima, Sorella. Il reliquiario di Footfall sarà preservato anche senza il tuo contributo... come lo è stato in tutti gli anni precedenti al tuo arrivo."
+
+### u061252
+"Nella {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}, essere {g|Encyclopedia:Drusians}Drusiano{/g} significa essere l'unico vero credente, e la nostra forza è grande."
+
+### u061253
+"Lo era. Reverendo, sappiate che la nave di Theodora von Valancius è stata attaccata da servitori dell'{g|Encyclopedia:Chaos}Arcinemico{/g}, che fanno inorridire il cuore di ogni anima retta," {n}dice, sibilando quasi di furia.{/n} "E non tutti hanno trovato una fine adeguata. Alcuni sono fuggiti, e c'è di più: le loro parole blasfeme indicavano chiaramente che questo attacco faceva parte di un disegno più ampio."
+
+### u061254
+{n}Hai ovviamente già sentito questa storia. Chi non ha sentito parlare di San Drusus? Forse non ne conosci i dettagli come il Reverendo Hieronymus, ma la sua descrizione degli eventi sembra reggere.{/n}
+
+### u061255
+{n}Lo sguardo di Hieronymus è acceso di meraviglia. Inspira l'odore di carne bruciata e promethium e ti dice,{/n} "Contemplate, nobile {name}, come Footfall si trasforma davanti ai vostri occhi! Sulla scia delle vostre fatiche, questa tana di depravazione tornerà a essere una testimonianza della grandezza dell'Imperatore, come era nel suo progetto originario. Vi riempie di gioia?"
+
+### u061256
+"Nessuno è immacolato. La corruzione che ci annega è così impenetrabile che non vedo differenza tra il più puro e il più abietto."
+
+### u061257
+{n}Lo sguardo contrariato di Argenta ti trafigge, ma lei non dice nulla.{/n}
+
+### u061258
+"Perché? Per un missionario, il suo tempio è il lembo di ponte sotto i suoi piedi. Da dove mi trovo, vedo chiaramente la vita del mio gregge, tutto il suo brulicare, sbocciare e appassire. Qui posso vedere le loro bassezze, le speranze vane e i lampi di sincerità."
+
+### u061259
+"Se avessi l'abitudine di rinchiudermi in un tempio, sarei arrivato in tempo per intervenire nel massacro dei vostri sudditi di Kiava Gamma? No, la verità non risiede nelle sale dorate, ma qui, nella piazza, tra la gente. Le sale dorate ospitano altre cose, ben più sudicie."
+
+### u061260
+"Non hai paura di parlare liberamente, vero? Ti ritieni più virtuosa e più saggia degli altri, persino di coloro i cui occhi e orecchie hanno assorbito più luce e saggezza di te?" {n}Gli occhi di Hieronymus lampeggiano in modo sinistro.{/n}
+
+### u061261
+"Lo faranno. Credimi."
+
+### u061262
+"In quei giorni vidi con i miei occhi la sfacciata bruttezza dell'anima. Mi pentii della mia tracotanza, lasciai la carica di prefetto e divenni missionario itinerante. Lo sono da allora. Quanto al mio mondo... Vent'anni dopo, la Santa {g|Encyclopedia:Inquisition}Inquisizione{/g} lo consegnò alle fiamme purificatrici."
+
+### u061263
+"Che l'anima di Denz Bellardo, indegno servitore dell'Imperatore, venga un giorno purificata attraverso la sofferenza."
+
+### u061264
+"Reverendo Hieronymus, desidero unirmi all'equipaggio dell'illustre Rogue Trader e aiutare a proteggere la dinastia von Valancius dalle forze dell'Arcinemico. Mi spoglio della responsabilità di custodire il reliquiario di Footfall."
+
+### u061265
+"L'Imperatore mi ha benedetto con un udito acuto, e la gente ha fatto il resto. Quanti membri del vostro equipaggio pensate siano venuti a confessarsi nel momento in cui sono approdati? Quanto tempo credete che mi sia servito per ricostruire la verità dalle loro parole?"
+
+### u061266
+"Qui ti saluto, Sorella. Nobile {name}, c'è altro che desiderate chiedermi?"
+
+### u061267
+"Non posso ignorare la richiesta del Reverendo Hieronymus né la minaccia di eresia su Footfall. Se non potete assumervi questo compito, {name}, andrò io stessa nei Quartieri d'Ombra!"
+
+### u061268
+"Sono afflitto, giovane von Valancius. Abbiamo fatto ciò che dovevamo, ma piango comunque la nostra {d|Encyclopedia:Ch4_ChordaDead}perdita{/d}. L'anima di Incendia può essere andata perduta, ma era comunque più pura di quella di molte vipere che si definiscono santi padri dell'Ecclesiarchia. La sua vita avrebbe potuto servire da esempio di vera fede a molti..."
+
+### u061269
+"Il Liege e i suoi complici {d|Encyclopedia:Ch4_Footfall_VladaymDead}hanno trovato la retribuzione{/d} che meritavano. Il mio cuore esulta al pensiero della giustizia compiuta, eppure mi addolora che Vladaym non abbia saputo imboccare la via del pentimento. Con il suo intelletto e la sua risolutezza, sarebbe potuto diventare un degno servitore dell'Imperatore, se solo avesse messo a frutto i suoi talenti."
+
+### u061270
+{n}Sorridendo come un pazzo, Hieronymus allarga le braccia e spinge in fuori il petto.{/n} "Allora non indugiate! Portatemi la Pace dell'Imperatore, se vi ritenete {mf|degno|degna} di superare il Suo giudizio. Che la vostra mano non tremi sotto il peso di tutte le malefatte che ha compiuto."
+
+### u061271
+"E quale misfatto confesserete?" {n}La curiosità si accende nel volto ossuto mentre l'angolo della bocca si abbassa in un ghigno storto.{/n} "Riuscirà a spaventarmi?"
+
+### u061272
+{n}Ti guarda in silenzio per un po', poi si muove pesantemente, come se le sue articolazioni si fossero fatte di pietra, per inchinarsi davanti a te.{/n} "Ricordo ancora chi sono i {g|Encyclopedia:RogueTrader}Rogue Trader{/g}. Padroni e conquistatori dei settori selvaggi del vuoto. Messaggeri irascibili dell'{g|Encyclopedia:Emperor}Imperatore{/g} che portano la Sua parola nell'oscurità pagana. Mettersi contro un Rogue Trader è follia, se si tiene alla testa."
+
+### u061273
+{n}Il suo sorriso si spegne.{/n} "È vero. La morte sarebbe stata una liberazione fin troppo facile per me. Vivere sapendo di quali abissi di malvagità sia capace la mia anima è davvero un destino straziante. Eppure in quell'agonia c'è serenità."
+
+### u061274
+"Vi prego di accettare le mie scuse, mio stimato Lord Capitano. Le mie parole erano... carenti di rispetto."
+
+### u061275
+{n}Ti studia con il suo sguardo pesante, poi esplode in una risata, con una voce così roca che temi che le corde vocali stiano per spezzarsi.{/n}
+
+### u061276
+"Be', almeno non mentite a voi stess{mf|o|a}. Siete {mf|un sudicio blasfemo|una sudicia blasfema} e una piaga ai Suoi occhi. Come me. Come tutti noi. Questa è la {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}, e qui non c'è virtù, solo profanatori intrisi di scelleratezza."
+
+### u061277
+"Cosa ci faccio in questa tana di blasfemi, pagani e anime vilissime, volete dire? Ebbene, Footfall è la prima e l'ultima tappa nella Distesa di Koronus. È il punto d'arrivo per chi ha appena iniziato il proprio cammino ed è anche il luogo in cui tornano coloro che ne raggiungono la fine, con l'anima ferita e sanguinante. Accolgo gli uni e gli altri, affinché possano posare uno sguardo onesto sulla propria impurità."
+
+### u061278
+"Inoltre, le voci di tutto il settore si accumulano su Footfall. Se sento membri dell'equipaggio bisbigliare di un mondo santuario riconquistato o esprimere il desiderio di portare la luce dell'Imperatore nell'oscurità tra le stelle, aiuto il mio gregge nel suo sacro dovere. I pionieri devoti hanno bisogno di assistenza sia spirituale sia materiale: attrezzi, equipaggiamento, persino abiti e semplici oggetti di uso quotidiano. Qualsiasi cosa possa aiutare i pellegrini durante il lungo viaggio e nei primi giorni della dura vita di frontiera vale per noi il suo peso in oro. Sia benedetto ogni aiuto che offrirete allo sforzo di raccogliere simili cose."
+
+### u061279
+"Porto un altro dovere, più oscuro. La Distesa è piena delle creazioni contaminate di eretici empi. Questi oggetti insidiosi sono un pericolo per l'anima, ma io so cosa farne. Se nei vostri viaggi vi imbatterete in oggetti pericolosi e corrotti, portateli a me, e la ricompensa per la vostra vigilanza sarà ancora più generosa. La missione drusiana ha molto da condividere con il Rogue Trader."
+
+### u061280
+"Fammi vedere."
+
+### u061281
+"Il mio sermone ha piantato una volta il seme della fede nel cuore di un altro Rogue Trader: Incendia Chorda. Forse siete destinat{mf|o|a} a diventare il mio secondo pulcino."
+
+### u061282
+"Né il mio passato né il mio presente hanno segreti. Ma state {mf|attento|attenta} quando guardate nel mio cuore, perché vi si annidano molti pensieri oscuri."
+
+### u061283
+"Mi stupisce che ne avessi."
+
+### u061284
+"Siamo un culto imperiale sanzionato che onora San Drusus, Flagello dei Bale Childer, Rovina degli Xenos. Come un tempo si avventurò senza timore nel Settore Calixis e guidò la sua conquista, così noi viaggiamo verso territori indomiti ed espandiamo i confini dell'Imperium. Siamo pellegrini ed esploratori che scendono nell'oscurità dei settori senza legge, e i nostri occhi sono avvezzi al vizio e alla sozzura."
+
+### u061285
+"Fu un grande santo, irrefrenabile e risoluto. Drusus servì l'Imperatore come semplice membro della Guardia, combatté nella gloriosa Crociata Angevin e raggiunse il grado di generale. Fu una conquista logorante: l'Imperium invase il Settore Calixis, allora una distesa selvaggia popolata da xenos ed eretici. Drusus inflisse molte sconfitte ai nemici dell'Umanità: abbatté i Twisted Kings su Acreage, liberò il pianeta Dreah dagli empi Demoni Oscuri e ottenne molti trionfi."
+
+### u061286
+"Ma poi incontrarono una razza di xenos empi. Fiumi di sangue scorsero. Golgenna Angevin morì nel suo quartier generale, la crociata stava per crollare, ma poi... ricevemmo un aiuto inaspettato da un nemico."
+
+### u061287
+"Un miserabile scellerato. Accecato dalle mie ambizioni, servii nella divisione dell'{g|Encyclopedia:AdeptusAdministratum}Adeptus Administratum{/g} del mio pianeta natale. Ero un burocrate astuto e scaltro, e salii a grandi altezze, fino alla poltrona di prefetto. In trent'anni trasformai la mia casa da un'appassita colonia di frontiera in un mondo prospero. La nostra ricchezza crebbe man mano che fiorivamo."
+
+### u061288
+"Ma la fioritura era una vernice sopra la putredine. L'opulenza ci aveva depravati e il lusso ci aveva sedotti con le sue sordide promesse. Gli abitanti del pianeta non volevano più pregare né lavorare, cercavano solo svago e pericolose filosofie. Mille vili eresie e un milione di vizi orribili proliferarono sul mio mondo come muffa su una nutribarra."
+
+### u061289
+"Chi ha detto che mi sono redento? Ho condannato un intero pianeta alla degenerazione. Pensate che un decennio o due di vagabondaggio con una missione bastino a espiare tutto ciò? No, ai Suoi occhi sono una pessima scusa di pastore."
+
+### u061290
+{n}Annuisce con calma.{/n} "Avete perfettamente ragione. Sono un furfante malvagio e irredimibile. Ci abbracciamo, {mf|fratello|sorella}?"
+### u061291
+"Questo fu il mio cammino verso la fede."
+
+### u061292
+"Pensate sia così facile mettere in parole la Sua essenza e il Suo splendore? L'{g|Encyclopedia:Emperor}Imperatore{/g} è la divinità perfetta che legge i nostri cuori e ci concede la Sua luce. Ha condotto l'Umanità fuori dall'oscurità e dall'orrore, ha creato la nostra grande dimora. Ha conosciuto tormento e dolore, che lo hanno solo reso più forte. È una lezione per tutti noi: la purezza non si trova in fondo al più sudicio formicaio né nei palazzi d'oro, ma solo tra le fila di coloro che soffrono."
+
+### u061293
+"Pregate Lui, distruggete i Suoi nemici e non toccate i loro doni avvelenati. Scacciate ogni dubbio e state in guardia contro le anime deboli al vostro fianco. Quando vedete un segno di contaminazione, bruciatelo senza pietà. Il dolore è buono, strappa la crosta di sozzura dall'anima. E ricordate che se non vedete colpe in voi o attorno a voi, allora non state cercando con sufficiente diligenza. Oppure siete troppo indulgente con voi stess{mf|o|a} e distogliete gli occhi dalla verità."
+
+### u061294
+"Non pensateci, giovane von Valancius."
+
+### u061295
+"Ha tre volti. Gli {g|Encyclopedia:Xenos}xenos{/g} disumani, che ci vogliono morti semplicemente perché sono diversi da noi. I miseri mutanti subumani, abomini che ci vogliono morti perché ci invidiano e si vergognano di se stessi. E l'{g|Encyclopedia:Chaos}Arcinemico{/g} che regna nell'{g|Encyclopedia:Warp}Immaterium{/g}, che ci vuole morti per sua stessa natura."
+
+### u061296
+"Parlate dell'{g|Encyclopedia:AdeptusMinistorum}Adeptus Ministorum{/g}? Ebbene, questi araldi della Sua parola detengono grande potere. Ogni sacerdote, me compreso, fa parte della sua gerarchia, e l'Ecclesiarchia possiede l'esclusivo diritto di giudicare ciò che è virtuoso e ciò che è maligno. L'Adeptus Ministorum prega e si prende cura dei templi, invia missioni come la mia in ogni angolo del dominio dell'Umanità, combatte le eresie."
+
+### u061297
+"Avete sentito parlare di Aspyce Chorda: pirata, blasfema, xenofila e spudorata apostata? Incendia è la sua erede, e una rarità tra i Rogue Trader. La protezione del sacro {g|Encyclopedia:Warrant}Mandato{/g} porta di solito alla rapida atrofia della coscienza e del timore pio, ma non nel caso di Incendia."
+
+### u061298
+"Dà la caccia senza tregua a pirati e agitatori, e porta le colonie ribelli al pentimento, instaurando una rigida disciplina. Il peso della sua ira è davvero grande: le colonie che punisce vengono cinte da anelli orbitali di cadaveri di eretici come monito per i sopravvissuti. Come suo confessore personale e guida, non finisco mai di gioire per i trionfi di fede che ottiene."
+
+### u061299
+"Pensate che la Sua misericordia si estenda così lontano? Ho visto molti che desiderano essere i nostri pastori. Il potere offusca la loro vista e le loro mani avide arraffano tutto ciò che possono raggiungere. L'Ecclesiarchia ha bisogno di una purificazione da tempo."
+
+### u061300
+"E a ragione. L'Ecclesiarchia ospita molti recidivi avidi e assetati di potere. Hanno dimenticato cosa significhi essere pastori. Sono diventati molli e pigri. Per troppo tempo le loro anime e i loro corpi sono rimasti senza sofferenza."
+
+### u061301
+{n}Hieronymus si ferma, poi aggiunge cupo,{/n} "Tuttavia, queste non sono altro che parole. La vera Ecclesiarchia è molto più spaventosa, vile e oscura di quanto fosse un tempo."
+
+### u061302
+"Bene che ve ne rendiate conto. Può essere difficile ammetterlo, ma la misericordia è una debolezza e una porta verso il degrado."
+
+### u061303
+"Non sono massacri. È una guerra contro l'apostasia e il tradimento, e in questa guerra Incendia Chorda sta infliggendo ferite gravissime ai malvagi."
+
+### u061304
+{n}Ridacchia.{/n} "A che ci servono le sue ricchezze? La fede ci dà tutto ciò di cui abbiamo bisogno. È lei a essere in debito con noi: fu una spedizione {g|Encyclopedia:Drusians}drusiana{/g} a scoprire la cripta criogenica in cui Aspyce l'aveva imprigionata. Se non fosse stato per noi, riposerebbe ancora lì nel suo sonno ghiacciato."
+
+### u061305
+{n}Argenta batte il piede per stizza.{/n} "Come desiderate," {n}borbotta a denti stretti, prima di rivolgersi al sacerdote.{/n} "Reverendo Hieronymus. Devo andare a... pregare nel tempio. Potremo parlare quando il nobile {name} se ne sarà andato."
+
+### u061306
+{n}Curioso. La storia di San Drusus che conosci è completamente diversa.{/n}
+
+### u061307
+{n}Hieronymus scuote la testa con tristezza.{/n} "Pare che la Sorella Argenta si sia sbagliata sul vostro conto e solo ora abbia compreso la verità. Ma non importa. C'era altro di cui desideravate discutere?"
+
+### u061308
+{n}Hieronymus guarda oltre di te, assorto nella sua storia.{/n}
+
+### u061309
+{n}Hieronymus ti guarda con un ghigno.{/n} "Be', certo che l'avete sentito dire. Ma considerate per un momento di chi sono le parole che state ripetendo ora. Colui che ve le ha messe in testa: vuole bene all'Imperium? Pensateci."
+
+### u061310
+"Una risposta prevedibile."
+
+### u061311
+"Footfall è consumata dalla profanità, ma anche qui la vera eresia, servire l'Arcinemico, è una rarità. I cultisti che ora dimorano nei Quartieri d'Ombra contrassegnano le loro dimore con un sole inciso in blu e oro e compiono strani rituali in segreto. I deboli trovano conforto nel credere che questi resoconti siano dicerie, ma io so bene che il male si annida tutt'intorno a noi. E desidero vedere la retribuzione."
+
+### u061312
+"Non percorro i sentieri graditi al Liege." {n}Hieronymus aggrotta la fronte.{/n} "Vladaym è debole e rosicchiato dai vermi all'interno. Cerca di compiacere i suoi padroni {g|Encyclopedia:KasballicaMission}Kasballica{/g}, quei mercanti di reliquie dei {g|Encyclopedia:Xenos}xenos{/g} empi."
+
+### u061313
+"Con gran piacere!" {n}Argenta posa una mano sull'arma.{/n} "Quasi spero che la voce sia vera: il mio cuore brama combattere degli eretici!"
+
+### u061314
+{n}Un cupo sorriso gli illumina i lineamenti ed egli fa il segno dell'{g|Encyclopedia:Aquila}Aquila{/g}.{/n} "Spero che la loro sofferenza sia stata commisurata alle loro azioni."
+
+### u061315
+{n}L'uomo dal volto così scavato da sembrare fatto solo di pelle e ossa fissa su di te i suoi occhi da uccello, senza battere ciglio. Le semplici vesti nere del sacerdote hanno a malapena degli ornamenti e non fanno nulla per nascondere la sua malsana magrezza. Con voce incrinata, dice,{/n} "L'{g|Encyclopedia:Emperor}Imperatore{/g} protegge."
+
+### u061316
+"Sono il Reverendo Hieronymus: Hieronymus Doloroso, come mi chiamano. Capo della missione {g|Encyclopedia:Drusians}drusiana{/g} e forse l'ultima speranza per le anime smarrite che abitano questa frontiera abbandonata dal nostro Padrone."
+
+### u061317
+"Ma Egli protegge solo chi ha il cuore puro. Pensate di essere {mf|uno|una} di loro? Diffidate di questa vostra convinzione. Molti che sono saliti al culmine della fede ne sono caduti nell'abbraccio dell'orgoglio più degenerato."
+
+### u061318
+"Non ho bisogno di gingilli, giocateci voi stess{mf|o|a} se vi danno gioia. Il denaro non può comprare né pace né salvezza."
+
+### u061319
+{n}Il suo sguardo ti penetra come se cercasse di entrare nei tuoi pensieri.{/n}
+
+### u061320
+"E voi dovete essere {mf|il giovane|la giovane} von Valancius. Quel nome ha un peso... ed è gravoso, perché la sua reputazione lascia intendere che Theodora lo abbia caricato di molte trasgressioni. Mi chiedo se cercherete di liberarvene o se le porterete avanti, raccogliendole lungo il cammino come frutti maturi e assaporandone il dolce veleno."
+
+### u061321
+"Una donna di grandi doti, ma pochi consideravano la virtù una di queste. Si diceva che il potere l'avesse corrotta, convincendola di avere diritto a qualsiasi cosa desiderasse. È noto che mostrò cordialità verso gli {g|Encyclopedia:Xenos}xenos{/g}, infranse tabù e violò dogmi. D'altra parte, lo fanno quasi tutti i {g|Encyclopedia:RogueTrader}Rogue Trader{/g}."
+
+### u061322
+"E Lui lo ha concesso a voi di persona? L'Imperatore ha affidato ai Suoi servitori il futuro dell'Umanità, ma le persone sono troppo deboli e imperfette per dimostrarsi degne della Sua fiducia. Solo la sofferenza può purificarci, ma noi la temiamo e così restiamo insozzati."
+
+### u061323
+{n}Ti rivolge uno sguardo scrutatore, poi il suo tono si addolcisce:{/n} "Ebbene, siate due volte più diligente. Perché questo settore coglierà ogni occasione per mettere alla prova la vostra fede."
+
+### u061324
+"Prego soltanto che la benedetta Incendia non trovi il fardello delle offese degli abitanti di Footfall così indelebile da purificare la stazione in una fontana di fuoco. Anche se se lo merita senz'altro."
+
+### u061325
+{n}Ti rivolge uno sguardo scrutatore, poi dice con tono asciutto,{/n} "Vedremo quanto durerà sotto l'assalto dei profanatori che abitano questo settore e che sono respinti da tutto ciò che è sacro e puro."
+
+### u061326
+"Come San Drusus trovò la sua morte da martire e rinacque nella fede, così noi cerchiamo il potere purificatore delle prove e della sofferenza." {n}Dalle pieghe della sua tonaca nera estrae un sottile opuscolo.{/n} "Leggete questo. Contiene i fondamenti del nostro dogma. Forse anche voi sentirete la verità nelle parole di San Drusus."
+
+### u061327
+"Non amo la morte. E non gioisco quando muoiono degli innocenti. Ma chi è innocente? Colui il cui vicino ha ceduto al culto dell'Arcinemico? Colui il cui fratello è diventato pirata? Colei la cui figlia ha rinnegato sia la legge sia la Sua luce? Sono innocenti? O sono vigliacchi ciechi che assecondano il male? Li compiangete?"
+
+### u061328
+"E molti altri le troverebbero veritiere. Sono un predicatore di un insegnamento radicale che rinnega la paura. Ho lasciato i confini del benedetto Imperium per portare la Sua luce nell'oscurità della frontiera. Ho conosciuto la depravazione in prima persona e ora sono in grado di percepirla sotto qualsiasi sembianza. Credo di potermi concedere un pizzico di verità."
+
+### u061329
+{n}La voce del sacerdote è rauca e aspra, ma riesci comunque a cogliere uno strano cambiamento di tono. C'è qualcosa di nascosto dietro questo mutamento del suo discorso, qualcosa che non ha ritenuto necessario spiegare.{/n}
+
+### u061330
+"Lo è. Nel corso della sua vita, quel reprobo aveva gravato la sua anima di molti atti vili ed enormi. Le sue confessioni somigliavano a un grande catechismo che elencava i vizi e le nefandezze immanenti dell'Umanità."
+
+### u061331
+"Fu tanto più doloroso per lui rendersi conto che, tra tutti gli atti efferati che aveva commesso, nessuno era stato dimenticato dall'{g|Encyclopedia:Emperor}Imperatore{/g}. Denz Bellardo aveva paura della morte e di ciò che lo attendeva dopo. Sperava di espiare le proprie colpe. Anelava a convincere, se non l'Imperatore, almeno se stesso, di essere stato per tutta la vita più di un'infima macchia consapevole di muffa maligna."
+
+### u061332
+"Ed è vero per i malfattori più di chiunque altro. Quanto maggiore è la trasgressione, tanto più miracoloso e meraviglioso è il pentimento."
+
+### u061333
+"Ne sono certo. Il pentimento ci prepara soltanto al tormento salvifico dell'anima, non lo sostituisce."
+
+### u061334
+"Così è. Siamo spregevoli nelle nostre colpe quanto patetici nel nostro desiderio di fuggire dalla consapevolezza della nostra bassa natura."
+
+### u061335
+{n}Guarda Argenta, in piedi lì accanto, e la sua voce si addolcisce leggermente.{/n} "Salute, Sorella. Mi congratulo per il tuo ritorno. Il tuo pellegrinaggio è stato fruttuoso?"
+
+### u061336
+"Infatti. I Suoi fedeli servitori hanno già istituito unità di confessione il cui compito è pattugliare la stazione e invitare i suoi abitanti a pentirsi dei loro molti crimini. Che l'Imperatore mi sia testimone, i Suoi pii assistenti hanno il loro bel da fare su Footfall. Perché la depravazione, come il vuoto, è incommensurabile e onnipresente. Ma è forse una ragione per non tentare di conquistarla?"
+
+### u061337
+{n}Studia il diario in silenzio per un po', poi dice cupo,{/n} "Il capitano Virkyl era un uomo gentile ma fallibile. Così lo era mio fratello in servizio, Gravik. Così lo erano i milioni di pellegrini che si imbarcarono sulla Wasteland Wayfarer molti anni fa."
+
+### u061338
+"Mi addolora che la loro gentilezza abbia fallito la prova che il vuoto ha posto loro. Che la loro morte ci serva da monito: la corruzione ha molti volti e può macchiare anche le anime più pure. Grazie per la notizia, Lord Capitano. La colonia AIII-649-Minoris è con ciò ufficialmente dichiarata caduta e perduta."
+
+### u061339
+"Infatti. Tempi oscuri incombono su di noi e le anime miserabili sono sempre più ansiose di abbracciare l'eresia. Sia su Footfall sia altrove, i suoi germogli immondi stanno sbocciando. Giungono notizie inquietanti da molti pianeti. Si mormora di cose empie che avverrebbero su Kiava Gamma. E proprio di recente un trasporto di nome Naviica, pieno di profughi, è giunto su Footfall dal Regno di Winterscale. Il loro mondo era stato colpito da una sedizione blasfema, così grave che hanno dovuto fuggire per salvarsi."
+
+### u061340
+"Il Liege si rifiutò di accoglierli, e così si diressero verso Foulstone, un desolato chiostro dei giusti. Fu saggio da parte loro non trattenersi in questa tana di bassezza."
+
+### u061341
+"Davvero? E dove si trova questo mondo? Nel Settore Calixis o nella Distesa di Koronus? Quale sistema?"
+
+### u061342
+"Il solo ricordo di quella tana di bassezza insulta la mia fede. Con preghiere e solenni veglie ho cancellato dalla memoria il nome del mio mondo natale: altrimenti avrei piantato i semi del rimpianto e dell'eresia nella mia stessa anima."
+
+### u061343
+{n}Argenta fa in silenzio il segno dell'{g|Encyclopedia:Aquila}Aquila{/g}, con gli occhi luminosi che bruciano di una fiamma incrollabile.{/n}
+
+### u061344
+{n}Jae tocca la sua Aquila d'oro appesa a una catena. La sua voce trabocca di stizza.{/n} "Che l'Eccelso mi fulmini se mento, ma la fede e l'Ecclesiarchia appartengono a mondi diversi. La prima è pura e dona salvezza, la seconda marcisce sul corpo della prima perché i suoi adepti possano lucrare sul lavoro di chi cerca forza nella speranza."
+
+### u061345
+"Sono abbastanza furba da non faticare per gli scribacchini imperiali che ingrassano di giorno in giorno, e abbastanza devota da distinguere la luce dell'Imperatore dall'oro della cornice di un'icona. Direi di chiuderla qui, mio buon uomo."
+
+### u061346
+"Cattivi presagi. Sono giunti tempi oscuri: le navi dell'{g|Encyclopedia:Imperium}Imperium{/g} ormai si vedono a malapena nella Distesa di Koronus. Nei Quartieri d'Ombra di Footfall la contaminazione prospera e la gente qui è abbastanza corrotta da soccombervi volentieri."
+
+### u061347
+{n}Idira inizia a ridacchiare alle parole di Hieronymus.{/n} "Ha dimenticato di citare gente come me... Per tutta la vita mi hanno detto che sono sporcizia sul volto dell'Umanità, il suo veleno, la sua rovina..." {n}Si interrompe di colpo con un singhiozzo.{/n}
+
+### u061348
+"Si parla sempre più di come vadano male le cose nella Distesa: certi giorni mi sembra di non poter fare due passi senza sentire qualche contadino pontificare sull'argomento, uff! Anche se fosse grave come dicono, il reame von Valancius non crollerà sotto i colpi del fato, per quanto devastanti. Coraggio, Lord Capitano! Non è il momento di perdersi d'animo e lamentarsi della propria sorte."
+
+### u061349
+"La tua speranza non è solo falsa, è anche pericolosa: tra i Suoi servitori ci sono state persone di maggiore integrità che si sono macchiate nel tentativo di elevarsi sopra gli altri."
+
+### u061350
+"Le tue parole sul passato annegano in tinte torbide di un verde malato, e il tuo discorso sul presente cade in scaglie grigie di cenere sulle spalle di chi ti ascolta. Il dolore... pesa davvero su di te, Reverendo Hieronymus. Ed è per questo che il fuoco nelle tue parole è privo di splendore dorato: i bagliori sbiaditi degli insegnamenti non lasciano altro che fuliggine nera sulle loro anime."
+
+### u061351
+{n}Gli occhi immobili di Hieronymus Doloroso si fissano su Yrliet.{/n} "Non so perché la Sua voce, investita del compito di proteggere i confini dell'{g|Encyclopedia:Imperium}Imperium{/g} dalle intrusioni dei nemici dell'Umanità, abbia ritenuto opportuno tenere uno {g|Encyclopedia:Xenos}xenos{/g} empio nel proprio seguito. Ma io vi dico: pentitevi, giovane von Valancius, e pregate l'Imperatore per il perdono, perché la vostra anima è stata macchiata per sempre dalla contaminazione di un estraneo. Non può esservi virtù in ciò che è contrario alla Sua volontà divina!"
+
+### u061352
+"Il sentiero dei veri credenti conduce nell'oscurità, alla ricerca di mondi che hanno perduto il Suo splendore, intrisi di depravazione. Benedette siano le opere di coloro che si abbandonano al vuoto e al warp sperando che le loro azioni possano portare luce nelle regioni più oscure della Distesa e consegnare al servizio dell'Imperium un mondo prima sterile." {n}Hieronymus tace per qualche secondo.{/n} "E tanto più amara è la consapevolezza che non tutte le anime coraggiose riusciranno nella loro missione. Footfall attende ancora notizie dalla Wasteland Wayfarer, un'antica arca diretta verso stelle lontane. Il suo ultimo messaggio astropatico fu inviato da oltre il Cinerus Maleficum, e da allora le stelle hanno tenuto segreto il suo destino."
+
+### u061353
+{n}Riconosci a malapena il Reverendo Hieronymus. Il suo corpo è coperto di ulcere gonfie e ascessi, un occhio è quasi uscito dall'orbita e gronda un disgustoso pus verdastro, mentre l'altro è offuscato dalla cataratta. Schiude le labbra deformate dalle ustioni chimiche e dice,{/n} "L'Imperatore protegge."
+
+### u061354
+{n}Hieronymus scopre le gengive annerite in una parvenza di sorriso.{/n} "L'Imperatore è stato misericordioso con me: il mio corpo è rovinato e avvizzito, ma la mia anima ha ricevuto la possibilità di lavare via almeno una parte della contaminazione accumulata attraverso un tormento benedetto. La sozzura che ho dovuto sopportare non era nulla in confronto alla bassezza che coltivavo dentro di me, spacciandola per virtù. Porterò il segno della mia penitenza con orgoglio. Che tutti vedano che il rimorso è un sentiero di spine, ma percorribile, e io non ho esitato a pagarne il prezzo."
+
+### u061355
+"Avrei dovuto confessare io stesso i miei crimini a Incendia, ma ero un vigliacco senza spina dorsale. Vi ringrazio per esservi {mf|assunto|assunta} quel fardello e avermi liberato dalle catene della menzogna e della paura."
+
+### u061356
+{n}Il Reverendo Hieronymus è chino in preghiera. La fronte è aggrottata e gli occhi sono pieni di un dolore che non cerca di nascondere.{/n} "Salute, giovane von Valancius. Sto rivolgendo le mie preghiere all'Imperatore per le anime a cui è stata sottratta la possibilità di servirLo ancora un poco. L'unica cosa che mi consola è sapere che i loro ultimi istanti sono stati di angoscia e dunque di sublimazione. Cosa vi porta da me?"
+
+### u061357
+"Gli xenos mandarono i loro assassini contro il grande Drusus, ma la volontà dell'Imperatore protesse il Suo servitore dall'attacco. Ucciso ma resuscitato per miracolo, Drusus si affermò alla testa della Crociata Angevin come suo Lord Militant e portò a termine lo sterminio degli xenos. Riportò il Settore Calixis alla concordia e fu proclamato Santo Vivente."
+
+### u061358
+"Ricordate che siamo tutti colpevoli! Il mio sangue non laverà le colpe della vostra anima, per quanto disperatamente possiate desiderare il contrario. L'Imperatore proteg—" {n}Hieronymus fa appena in tempo a tracciarsi il segno dell'Aquila sul petto prima che il suo corpo crolli a terra con un sorriso beato sulle labbra screpolate.{/n}
+
+### u061359
+"Le voci in giro per la Distesa dicono che i maledetti {g|Encyclopedia:Xenos}xenos{/g} si siano fatti audaci e stiano rialzando la testa. Attaccano navi e insediamenti, camminano sotto i soli dei mondi dell'Imperium come re invece di rintanarsi nell'ombra. E poi? Quali avversità ci attendono se già accade una simile vergogna?" {n}Scuote la testa con severità.{/n}

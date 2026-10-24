@@ -1,0 +1,829 @@
+### u043561
+"Doveva andare in tutt'altro modo. La vostra esibizione doveva essere una lezione di rispetto, non una dichiarazione di guerra! Avreste dovuto uccidere qualcuno di irrilevante e far sanguinare la vanità delle Wych. Le Wych avrebbero ricevuto la vostra testa come unguento per il loro orgoglio ferito. Per un po' si sarebbero ricordate che ero ancora qualcuno in grado di complicare enormemente la loro esistenza. Invece mi avete deluso, tutti quanti! Keykeross non ha mantenuto la parola, e voi non siete morti nella sua trappola! È tutta colpa vostra se la situazione è sfuggita di mano."
+
+### u043562
+"Ricordalo: se tenti di ingannarmi, subirai un destino peggiore della morte. So perfino quale destino, nello specifico: il mon-keigh pallido, quello che non la smetteva di cianciare sulla vostra patetica fede, si è rivelato piuttosto sensibile al mio metodo."
+
+### u043563
+"Esemplare femmina, influenza sul Velo trascurabile, nozioni primitive sulla morte. Ho confutato le sue idee sulla cessazione dell'esistenza tramite la rianimazione e una semplice manipolazione della mente. Puoi prendere la tua serva mon-keigh... o quante ne restano là dentro: intendevo sbarazzarmi di tutte comunque."
+
+### u043564
+"No!" {n}Solomorne grida disperato prima ancora che tu riesca a finire di formulare la richiesta.{/n}
+
+### u043565
+{n}Tervantias sibila con disappunto.{/n} "Rovistare di nuovo tra gli impianti scadenti di quella bestia? Non l'avrei fatto nemmeno una volta, se non avessi avuto certi... piani. A quanto pare sono giunti a compimento, e quindi l'animale non merita più la mia attenzione."
+
+### u043566
+{n}Nonostante la risposta dell'Haemonculus, il Proctor avanza per fare scudo a Glaito contro lo xenos.{/n}
+
+### u043567
+"Un collega, dici?" {n}Il volto dell'Haemonculus si stira in un ghigno storto, dalle labbra sottili.{/n} "Intendi quel guscio ossuto appartenuto a quello sciocco chiacchierone? Mon-keigh, lo consideri davvero qualcosa di... vivo? Ha!" {n}La sua sgradevole risatina ti punge le orecchie.{/n}
+
+### u043568
+"Non è altro che un cranio imbottito di rozze imitazioni di dispositivi bionici. Un costrutto del tutto inutile, privo di qualsiasi capacità di conversare o di ragionare, anche minima. Non mi darò la pena di chiedermi che cosa abbia indotto le vostre menti primitive a credere che questo oggetto sia dotato di una personalità."
+
+### u043569
+{n}Il volto orrendo di Tervantias si contorce in un ghigno sprezzante.{/n} "L'esemplare con le facoltà cognitive compromesse? Quando fu portato qui, mostrò una... scarsa docilità. Le sue tendenze tecnomaniacali sconfinano nella psicosi, il che con ogni probabilità ha ridotto drasticamente la sua volontà di sopravvivere e ha provocato un accesso di deliri di grandezza."
+
+### u043570
+"Al momento questo esemplare è usato come punizione in uno dei miei esperimenti. Ho rimosso tutte le parti che ostacolavano la sua partecipazione, ma ciò che resta è perfettamente funzionante. E tale resterà finché la sua misera mente non si piegherà, dopo aver assimilato il vero stato delle cose."
+
+### u043571
+{n}Le lame sulle sue dita si estendono lentamente, emettendo uno stridio lacerante, mentre i suoi arti meccanici cominciano a protendersi verso di te.{/n} "I suoni che emetti durante la dissezione mi compiacciono, mon-keigh. Cerca di sopravvivere alla procedura, altrimenti avrò sprecato il mio tempo."
+
+### u043572
+{n}Le labbra di Tervantias si piegano malignamente.{/n} "Finché quell'esemplare non riconoscerà la mia superiorità porgendomi le sue scuse e ammettendo la propria insignificanza, resterà qui. Osa chiamarmi 'stimato collega', come se immaginasse che siamo pari! Una simile ingenuità è davvero nauseante."
+
+### u043573
+"Quel meccanismo cranico era un'altra beffa. L'esemplare ha avuto l'audacia di attirarmi nello studio di questo 'Nuncius' trattandolo da pari. Ho sprecato il mio prezioso tempo su di esso, e che cosa ho imparato?" {n}I suoi artigli tintinnano con disprezzo.{/n} "È solo un altro ninnolo mon-keigh, primitivo persino secondo i vostri patetici standard!"
+
+### u043574
+{n}Tervantias ti conficca un artiglio nella spalla, pericolosamente vicino a un'arteria.{/n} "Stai dimenticando il tuo posto, esemplare. Ho sventrato, smontato e reinventato decine di questi patetici ninnoli mon-keigh che chiamate servoteschi. Nessuno era primitivo in modo così offensivo come questo."
+
+### u043575
+"Se vuoi vederlo di persona, lo troverai accanto alle gabbie con gli esemplari decapitati. Ho riadattato quello scheletrico pugno nell'occhio per comunicare."
+
+### u043576
+"Quel mon-keigh di ferro e il suo inutile ninnolo sono diventati tediosi. Per dimostrare la mia maestria lo ricomporrò con un'attenzione meticolosa e straziante, perché a ogni secondo capisca che la sua esistenza è un privilegio che posso revocare. Potenzialmente un piacere ben più squisito, per me, di tutti i suoi patetici piagnistei."
+
+### u043577
+{n}Armeggia con il campione ottenuto.{/n} "È un prezzo sproporzionato per gli insulti che ha rivolto, ma..."
+
+### u043578
+{n}Tervantias ti guarda con aria confusa.{/n} "Perché dovrei, esemplare?"
+
+### u043579
+"Una domanda assurda, degna della tua razza meschina. Gli Haemonculi sono artisti dell'angoscia e maestri della carne. Esploratori di fonti di dolore ancora ignote. I più grandi tra la loro gente. La mia testa contiene un intelletto brillante, le mie mani comandano il potere sulla vita e sulla morte, il mio corpo è il culmine della disciplina chirurgica. Le nostre menti custodiscono la conoscenza di centinaia di generazioni."
+
+### u043580
+"Quando Sinisthoria regnava sul Culto della Sete Fatale, i Proseliti si comportavano con più rispetto, ma da allora la Succube anziana si è ritirata nell'ombra. Ora Keykeross regna nell'arena e Tazarra guida le incursioni. Una megera insolente e una nullità presuntuosa, una coppia perfetta... Non appena Tazarra ha esalato l'ultimo respiro, le ambizioni di Keykeross sono raddoppiate. È diventata del tutto insopportabile."
+
+### u043581
+{n}Con un sibilo irritato, Tervantias agita una mano e per poco non ti sfregia il volto con le dita affilate. La sua voce risuona tagliente come una ghigliottina:{/n} "No, esemplare."
+
+### u043582
+{n}Gli arti meccanici di Tervantias iniziano ad agitarsi per l'eccitazione.{/n} "Riconosco il segno del pasto squisito del Chtonos. Che onore per te essere il recipiente con cui la mia meravigliosa creatura sazia la sua sete, e donare la tua modesta forza vitale perché un convertitore di energia la trasformi... Non temere, esemplare, è in mio potere invertire gli effetti del suo tocco."
+
+### u043583
+{n}Jae si volta verso di te con un sorriso cupo sul volto.{/n} "Be', shereen... non so se dovremmo festeggiare la nostra vittoria o i nostri ultimi istanti. In un modo o nell'altro, faremmo meglio a sbronzarci. Non c'è momento migliore del presente: andiamo dritti al nostro rifugio nella tana degli Shriekers."
+
+### u043584
+"Tuttavia, la resistenza dell'esemplare lascia molto a desiderare. Stimo che il collasso irreversibile del sistema cardiovascolare avverrà entro quattro-sette cicli di coscienza: un effetto curioso, ma del tutto prevedibile, dell'impianto del soppressore psichico. Eseguirò un'analisi più dettagliata dei danni organici dopo la dissezione dell'esemplare."
+
+### u043585
+"Stimo che il collasso irreversibile del sistema cardiovascolare avverrà entro sette o più cicli di coscienza: una reazione curiosa, ma del tutto prevedibile, all'impianto del soppressore psichico. Eseguirò un'analisi più dettagliata dei danni organici dopo la dissezione dell'esemplare."
+
+### u043586
+{n}L'Haemonculus fruga tra i brandelli di carne con l'entusiasmo di un avvoltoio affamato. Infine sbotta:{/n} "Buon materiale. Buon esemplare. Portamene ancora!"
+
+### u043587
+{n}Tervantias esamina le parti del corpo insanguinate con un interesse lascivo, poi si strappa un organo dal proprio petto, lo aggiunge ai trofei e sibila soddisfatto:{/n} "Una composizione interessante. Un insolito insieme di parametri iniziali che può essere potenziato da una miscela originale di essenze. Sarà una bestia possente... La chiamerò il Cercatore d'Angoscia! Hai fatto bene, esemplare, e per questo sarai {mf|ricompensato|ricompensata}."
+
+### u043588
+"Sia lode all'Eccelso! Shereen, pensavo che fossi {mf|crepato|crepata} e che mi avessi lasciata in questo letamaio."
+
+### u043589
+"Silenzio, esemplare! O ti toglierò gli organi della parola e la testa."
+
+### u043590
+"E dopo tutto questo hai deciso di strisciare davanti al maestro della carne? Che cosa... primitiva, elantach."
+
+### u043591
+"Chi lo sa, Asuryani, chi lo sa..." {n}Lo xenos emette un suono simile a una risatina.{/n}
+
+### u043592
+{n}L'Haemonculus riflette per un momento.{/n} "Il maschio mon-keigh che ha esaurito il proprio corpo oltre ogni possibilità di recupero? L'ho tenuto nel recinto, ma i suoi tentativi di fuggire per cercarvi sono diventati così irritanti che l'ho scacciato. Ho sentito dei servi bisbigliare che gli avevano detto di controllare nel Settore Dilaniato. Un tiro davvero subdolo. Approvo."
+
+### u043593
+"Il Chtonos è stato un esperimento interessante, capace di convertire le forze vitali delle vittime in carburante. Ma era un esemplare difettoso e disobbediente, ed è fuggito." {n}Ti lancia uno sguardo beffardo.{/n} "Non ti consiglio di fuggire, esemplare. Il dolore della trasformazione cessa solo dopo che ho iniettato il bloccante. E lo faccio solo alla fine della procedura. Desideri trascorrere il resto della tua esistenza con la sensazione che la pelle si sciolga e le ossa si spezzino?"
+
+### u043594
+"Consiglio il dolore come mezzo di pacificazione. E puoi prendere la sua armatura: l'ho trovata del tutto priva di interesse." {n}Tervantias ti porge una chiave d'osso.{/n}
+
+### u043595
+"Il maestro della carne è abbastanza folle da aiutarci a fuggire in favore dei propri empi disegni. Ma il prezzo, elantach, sarà ingiusto e terribile."
+
+### u043596
+{n}Tervantias sorride con acidità.{/n} "Molto bene. Libererò... un esemplare. Quale sarà, lo decidi tu."
+
+### u043597
+{n}Jae tossisce violentemente.{/n} "A-aiuto da te? Pensi che qualcuno ci crederà dopo i tuoi ripugnanti esperimenti?" {n}Jae si tocca la cicatrice sul collo e tossisce di nuovo.{/n}
+
+### u043598
+"Sei consapevole della meravigliosa varietà di essenze che si possono estrarre dall'energia psichica di una creatura senziente in punto di morte? Di come le sfumature del tormento e i metodi di eliminazione alterino le proprietà di un'essenza? Questa è la grande alchimia della morte e della trasformazione!"
+
+### u043599
+"Dovresti stare attento a ciò che desideri, xenos."
+
+### u043600
+"E così si sbrogliano i fili marci dell'arazzo del destino. Elantach, ecco la vera natura degli Oscuri, una menzogna nascosta dietro dolci promesse. Avendo imparato da un crudele errore, avevo previsto questo esito."
+
+### u043601
+"Abbiamo sentito gli xenos definirci creature inferiori e primitive così tante volte. Ma si comportano come nobiluccoli di un pianeta di provincia, ingraziandosi i potenti, umiliando i deboli, sbarazzandosi dei rivali con mezzi sporchi."
+
+### u043602
+{n}La bocca di Jae si storce e sembra pronta a scagliare un torrente di imprecazioni in faccia all'Haemonculus, ma si trattiene e ingoia la sua ira. A testa china, la contrabbandiera si sdraia di nuovo sotto il coltello dello xenos.{/n}
+
+### u043603
+"Quindi il tuo piano originale ci avrebbe comunque ammazzati tutti. Bastardo auto-dissezionato."
+
+### u043604
+"Ho fatto crescere questo esemplare appositamente per te, mon-keigh. Durante il tuo interrogatorio ha intossicato i tuoi deboli sensi per limitare ogni resistenza non necessaria. Che esperimento curioso. Di solito estraggo i vermi di controllo dagli esemplari dopo la morte. Tu possiedi una certa robustezza fisica."
+
+### u043605
+{n}Yrliet ti rivolge uno sguardo preoccupato.{/n} "La tua memoria deve essere stata indebolita dall'influenza deleteria del verme di controllo. La corte degli Arconti lo ha condannato."
+
+### u043606
+{n}Yrliet ti rivolge uno sguardo preoccupato.{/n} "La tua memoria deve essere stata indebolita dall'influenza deleteria del verme di controllo. Sei {mf|stato|stata} tu in persona a {d|Encyclopedia:Ch3_RTSentMarazhaiToArena}condannarlo{/d}."
+
+### u043607
+"Shereen, stai ancora cercando davvero una logica nelle azioni di questo ashmag?"
+
+### u043608
+{n}Cassia annuisce brevemente e sussurra:{/n} "Conosci il tuo nemico, poi schiaccialo... Questa è una tattica che ricorderò."
+
+### u043609
+"Kae-morag, elantach! Non ne hai abbastanza di mostri in questa città maledetta?"
+
+### u043610
+"È stata reclamata dai miei patroni del Kabal della Reaving Tempest. Ho sentito dire che l'hanno mandata per le strade della Voragine a insegnarle che cosa significa essere una Drukhari. Ha davanti a sé molte dure lezioni di sofferenza."
+
+### u043611
+{n}Gli arti dell'Haemonculus reagiscono con un eccitato tintinnio di lame.{/n} "Ho pochi pari a Commorragh. La mia conoscenza è vasta e va oltre i misteri della carne e delle essenze. Ho osservato molte disgiunzioni in cui le energie distruttive dell'irreale sono eruttate qui, nella {g|Encyclopedia:Webway}Tela{/g}... Ho studiato quella forza devastante e ho imparato a imbrigliarla."
+
+### u043612
+"Un attimo! Te ne vai così, eh? Be', buon per te, ma io e il mio problema azhi-dannato?" {n}Jae indica la cicatrice sulla gola.{/n}
+
+### u043613
+"Il maschio mon-keigh con un legame costante con il Velo. Splendida resistenza al dolore. La sua ostinazione produce essenze di tormento di alta qualità, letteralmente schiumanti di agonia. Attendi che sia esaurito e potrai avere ciò che ne resta."
+
+### u043614
+"La femmina con un legame eccezionalmente forte con il Velo e svariate rare mutazioni mon-keigh, la più notevole delle quali è un terzo occhio? Sto studiando l'influenza dell'isolamento totale dal Velo e dal mondo esterno sulle capacità, sulla sanità mentale e sulle condizioni fisiche dell'esemplare. Non urla più dentro il suo serbatoio, ma è certamente ancora viva, e non sono ancora pronto a concludere l'esperimento."
+
+### u043615
+{n}Lo xenos lascia sfuggire un'altra sgradevole risatina.{/n} "Molto bene, esemplare. Quando non mi sarai più utile, eseguirò su di te un altro test e dimostrerò che non è così."
+
+### u043616
+"Ah, l'esemplare volontario. L'ho dotata di un dispositivo sperimentale per isolare la sua mente dal Velo. L'esemplare svolge umili mansioni attorno al laboratorio e funge da fonte consenziente di essenze. Può scegliere da sé il proprio tormento: fratturarsi le ossa con onde vibranti, rinchiudersi in una capsula di calore estremo, farsi impiantare sotto la pelle uno scarabeo elettrico o spegnere il soppressore psichico. L'esemplare non ha mai scelto quest'ultima opzione."
+
+### u043617
+"Saggezza tardiva."
+
+### u043618
+{n}L'Haemonculus nota Marazhai.{/n} "Dracon Aezyrraesh. Dopo esserti opposto all'Arconte della Reaving Tempest, hai deciso di violare anche i desideri dell'Arconte del Cuore Nero? Sei stato gettato nell'arena a morire. Dimostri una miserabile incompetenza sfidando i tuoi padroni."
+
+### u043619
+"Tra pochi istanti la valvola del tuo cuore sarà lacerata dagli spasmi. Potrei sostituirla, ma... sarebbe davvero troppo tedioso riportarti indietro dal baratro per la terza volta. Addio, esemplare."
+
+### u043620
+{n}Con un'occhiata di disgusto a Tervantias, Jae dice a malincuore:{/n} "Forse hai ragione, shereen. Questo macellaio non sembra il tipo che si lava le mani tra una procedura e l'altra."
+
+### u043621
+"No! Sto morendo! MORENDO, non capisci? Voglio che questo ashmag rimetta tutto a posto com'era! Subito!"
+
+### u043622
+"Ah sì? Al vuoto con te, Vostra Preziosa Signoria. Se non vuoi aiutarmi, perché diavolo dovrei aiutare te? Mi occuperò io dei miei problemi, e tu d'ora in poi occupati dei tuoi!"
+
+### u043623
+{n}Un suono inudibile eppure assordante invade la tua mente. I timpani sono sul punto di scoppiare. L'unico suono che riesci a sentire è il ticchettio degli arti dello xenos e la sua voce gelida.{/n} "Abbandona ogni illusione di scelta. Farai la mia volontà. E, se smetterai di opporre resistenza e comincerai a comportarti da buon esemplare, potresti un giorno ricevere il mio aiuto per fuggire da Commorragh."
+
+### u043624
+"La mia presenza ti offende, vedo? Bene." {n}Marazhai ghigna e si guarda attorno.{/n} "Ti sei sistemato piuttosto comodamente qui nella Voragine. È questo il posto in cui tenevi le cose che non osavi portare alla Guglia della Reaving Tempest? Dev'essere irritante dover abbandonare tutto mentre fuggi dall'ira del Culto..."
+
+### u043625
+{n}Uno degli arti di Tervantias ha uno spasmo e colpisce alla cieca. Solo i riflessi di Marazhai lo salvano da una ferita mortale al collo, ma l'Haemonculus non fa altri tentativi di attaccare: sembra interessarsi più alle proprie sostanze e ai propri strumenti che all'insopportabile Kabalite.{/n}
+
+### u043626
+{n}Tervantias sibila e scatta con il ventaglio di arti dotati di strumenti affilati.{/n} "Non avanzare pretese con me, esemplare. O potrei decidere che anche tu hai bisogno di un collare."
+
+### u043627
+{n}Una grottesca figura simile a un ragno incombe su di te. I suoi arti si agitano freneticamente, ticchettando e scattando mentre strappano qualcosa e poi lo ricuciono... e ti rendi conto che la sua tela è la tua carne. Lo sguardo dello {g|Encyclopedia:Xenos}xenos{/g} è indifferente, e la sua voce bassa riecheggia nella stanza:{/n} "Il campione è stato estratto. L'esemplare è vivo. Corpo e mente dovrebbero funzionare entro parametri normali, {g|Encyclopedia:MonKeigh}mon-keigh{/g}."
+
+### u043628
+"Il verme di controllo nel tuo sistema nervoso ha rilevato la mia vicinanza. Ha segnalato che stava morendo iniettando nel tuo flusso sanguigno una dose letale di euforizzanti allucinogeni. Un individuo pieno di risorse."
+
+### u043629
+{n}Il Drukhari solleva il pallido verme, lo stesso che hai visto tra le mani di Marazhai. Mentre guardi, le appendici-strumento eseguono una rapida dissezione: la carne del verme esplode sotto l'artiglio simile a un bisturi e sboccia in un disgustoso fiore viscido. Il lento modo di parlare dello xenos crea un'inquietante dissonanza con i frenetici movimenti dei suoi arti.{/n}
+
+### u043630
+{n}L'espressione di Marazhai cambia all'improvviso. Il ghigno beffardo scompare e lui fissa lo sguardo sull'Haemonculus.{/n} "Alla Guglia della Reaving Tempest? A nascondersi sotto l'ala di Yremeryss, un'Arconte caduta in disgrazia? Che scelta imprudente. Dovresti fuggire da lei e dai suoi guai, a meno che tu non sia in qualche modo legato al suo crimine."
+
+### u043631
+"Raramente uso il rinforzo positivo. Ma il tuo comportamento è stato obbediente, quindi perché no?" {n}Lo xenos infila una delle appendici più piccole in una delle proprie cavità corporee, estrae un fagotto avvolto nella pelle e te lo lancia senza guardare.{/n} "Non mi interessa più. Prendilo."
+
+### u043632
+"Hai assolutamente ragione, esemplare. Io sono Tervantias l'Archmachinator, Haemonculus e direttore di questo luogo che sconvolge l'immaginazione e l'anima. La mia Opera Anatomica."
+
+### u043633
+"L'Arebennian mi ha esortato a prestare attenzione alla tua persona, a suo dire straordinariamente dotata, esemplare. Vediamo se sarai un buono strumento."
+
+### u043634
+{n}Lo xenos emette uno strano suono che somiglia quasi a uno sbuffo di scherno.{/n} "Queste informazioni non dovrebbero gravare sulla tua mente sottosviluppata. L'Arebennian mi ha detto abbastanza da darti la possibilità di entrare nella mia Opera Anatomica. È tutto ciò che devi sapere."
+
+### u043635
+"Ultimamente si sono mostrate arroganti e irrispettose nei miei confronti. Vogliono salire nella stima dell'Arconte e sminuirmi. Mettono le loro insipide danze di carne al di sopra della mia arte! Vengono nella mia dimora a sbirciare i miei tesori segreti! È tempo di ricordare alla Voragine che anche le Wych possono sanguinare."
+
+### u043636
+"'Fare affari'?" {n}L'Haemonculus sembra perplesso.{/n} "Non farò alcun affare con te. Ti userò. Sei {mf|sopravvissuto|sopravvissuta} a una battaglia nell'arena, il che significa che hai parametri insoliti per la tua specie. Sei un organismo inferiore, è vero, ma le vette torreggianti della mia saggezza rendono difficile distinguere tra la tua inferiorità e quella della maggior parte dei miei simili."
+
+### u043637
+"Al momento sto lavorando a un Grotesque di potenza finora ignota, costruito con le parti del corpo più squisite ed esotiche prelevate da forti combattenti. Esemplare, se mai vedessi il cadavere di un guerriero eccellente o di una creatura possente ai tuoi piedi, taglia via la parte migliore e portamela."
+
+### u043638
+"La cooperazione aumenterà le tue probabilità di sopravvivenza. Finché continuerai a esserci utile, manterrò in buono stato le tue parti organiche e magari ti lascerò perfino giocare con qualcuno dei miei campioni meno importanti."
+
+### u043639
+"La risposta è accettabile. Se ti comporterai da buon esemplare, mon-keigh, potresti un giorno ricevere il mio aiuto per fuggire da Commorragh."
+
+### u043640
+{n}Un artiglio affilato ti sfiora il mento, ti buca la pelle, trova un nervo impercettibilmente sottile, e il tuo corpo si contorce dal dolore.{/n} "Questa risposta è inaccettabile. Concentrati, mon-keigh, o farò di te un Wrack oppure un divano su cui ospitare orge. Sarai molto più utile in entrambe le forme."
+
+### u043641
+"Mi servirai. Così va la vita nelle guglie."
+
+### u043642
+{n}Tervantias fa una pausa prima di rispondere, come se stesse sezionando la tua domanda dentro la propria testa.{/n} "Chiedi."
+
+### u043643
+"Le Wych dominano le arene: questa è la via delle guglie. Sono letali, spose dei nostri dèi morti. Quando entrano nell'arena, la folla si contorce di estasi, ma è uno spettacolo raro. Di solito sono i loro pupilli, i Proseliti Insanguinati, a sovrintendere al massacro. Sono i migliori assassini e atleti al servizio del Culto... Arroganti arrivisti. Sono rimasti imbattuti per troppo tempo."
+
+### u043644
+"Il mio servo raccoglie carne nella Voragine e la consegna alle loro sanguinose esibizioni. Io la miglioro con augmetiche e stimolanti per renderla abbastanza interessante da far divertire le Wych nell'ucciderla. A volte le vizio con piccole delizie: biomacchine o bestie plasmate dal mio genio chirurgico."
+
+### u043645
+{n}Senti l'impazienza stridere nella voce di Tervantias mentre dice:{/n} "Hai informazioni a sufficienza, ora, esemplare?"
+
+### u043646
+{n}Con un gorgoglio, lo xenos avvicina lentamente ma con fermezza il dito affilato al tuo occhio, sempre più vicino, quasi a sfiorarlo... poi si ferma con un sospiro.{/n} "Non ora. Forse più tardi."
+
+### u043647
+{n}Lo xenos fa schioccare pensosamente l'appendice tempestata di decine di pungiglioni sottili come aghi.{/n}
+
+### u043648
+"Ho creato i soppressori psichici per mantenere intatto lo spazio attorno a questa guglia! Ho toccato conoscenze così antiche..." {n}Tervantias interrompe bruscamente il discorso, ti lancia un'occhiata sospettosa e poi sbotta:{/n} "Non è necessario che tu lo sappia, esemplare."
+
+### u043649
+"L'eviscerazione è un aspetto della mia arte più stimata." {n}Le sue dita-bisturi strisciano l'una contro l'altra con uno stridio metallico sommesso.{/n}
+
+### u043650
+{n}La voce di Tervantias è colma di disprezzo.{/n} "La tua perspicacia è sbalorditiva, esemplare. Ma hai notato di aver condannato anche {mf|te stesso|te stessa}?"
+
+### u043651
+"Non posso trasportarli nel mio nuovo santuario. Puoi prenderli tu. Ho sbloccato i sarcofagi di contenimento per gli esemplari pericolosi. Va' a ispezionarli. Alcuni dei tuoi servitori potrebbero essere ancora vivi. Ma non permettere loro di usare le proprie abilità finché non avrò lasciato l'Opera Anatomica!"
+
+### u043652
+{n}Tervantias ti getta con sufficienza un minuscolo oggetto.{/n} "Questa è la chiave del dispositivo indossato dall'esemplare volontario. Quello che sopprime il suo legame con il Velo. Mi chiedo se abbia già causato danni fisiologici permanenti. Non importa. Ti servirà la chiave solo se l'esemplare opporrà resistenza. Ha sempre avuto la libertà di rimuovere il dispositivo da sola."
+
+### u043653
+"I miei recinti sono pieni di prigionieri catturati nelle incursioni. Puoi scegliere l'esemplare che preferisci, anche uno di cui non ho ancora estratto gli organi."
+
+### u043654
+"Di quali risorse hai bisogno?"
+
+### u043655
+"Che esemplare {mf|sicuro|sicura} di sé." {n}Un sottile sorriso gli si apre sulle labbra.{/n} "Fallo. Uccidi {mf|te stesso|te stessa}. Posso sempre rianimare il tuo corpo. Ma lo farò?"
+
+### u043656
+{n}Con un forte clic delle dita simili a forbici, la voce di Tervantias si fa mostruosa:{/n} "Vediamo che tipo di interessanti danni ha subito il tuo corpo e quali parti dei tuoi miseri organi possono essere migliorate senza arrecare alcun danno sostanziale alla tua sanità mentale. Cerca di non urlare: alcuni esemplari finiscono per lacerarsi le corde vocali durante questa procedura. D'altra parte... urlerai che tu lo voglia o no."
+
+### u043657
+"Lodami per la mia generosità, esemplare."
+
+### u043658
+"Oh, ma c'è dell'altro... Spero che Keykeross e Sinisthoria stiano ora fremendo di orrore al solo pensiero che i loro subordinati senza testa abbiano perso il Kabalite condannato a morte da Nazrakhei in persona. Prima hanno deciso di giocare alla carità facendomi diventare un Proselita, e adesso... si sono lasciati sfuggire la preda. Oh, vorrei poter vedere il volto della Succube quando le è stata data la notizia."
+
+### u043659
+{n}Tervantias fulmina Marazhai con lo sguardo.{/n} "Prima non eri nella posizione di conoscere i piani dell'Arconte, tanto meno ora."
+
+### u043660
+"Allora trovati altri combattenti. La Voragine ha prigionieri, mercenari e gladiatori a sufficienza. I miei esemplari non sono tuoi da sprecare."
+### u043661
+{n}L'Haemonculus borbotta con furia e alterigia:{/n} "Avrei dovuto smettere da tempo di sprecare tempo con questa idiozia. Tutto ciò che quei patetici sempliciotti hanno fatto è stato indebolire la mia concentrazione e distrarmi dal mio capolavoro. Finalmente potrò dedicarmi a esso con tutto me stesso!"
+
+### u043662
+"Buon esemplare." {n}Estrae l'artiglio dalla tua carne e noti una grossa goccia di sangue che pende da esso.{/n} "Molto reattivo agli stimoli dolorosi."
+
+### u043663
+"Come puoi esserne certo? Non hai ancora provato... ma stai per farlo."
+
+### u043664
+"Cerchi di fare {mf|il resistente|la resistente}?" {n}Il sorriso dello xenos si allarga.{/n} "Vuoi mettere alla prova i miei talenti? Non hai la minima idea di chi ti stia davanti. Io sono il maestro del coro dell'agonia." {n}Un secondo artiglio, questo munito di un ago sottile e incredibilmente affilato, ti penetra la fronte, poco sopra l'attaccatura del naso, attraversando l'osso con la stessa facilità con cui attraverserebbe l'aria. Per qualche istante l'ago vaga dentro il tuo cervello, provocando strane sensazioni in tutto il corpo, e poi...{/n}
+
+### u043665
+{n}L'oscurità viene dissolta da una scheggia di luce: il bisturi luccicante nella mano di Tervantias. L'Haemonculus ti rivolge un sorriso storto.{/n} "Posso continuare a lanciarti da una parte all'altra della morte per tutto il tempo che desidero. Ma dubito che rianimarti ancora sarà altrettanto divertente. Ti suggerisco di non incorrere nel mio disappunto."
+
+### u043666
+"Ho fatto perire il tuo corpo... per un breve periodo. E poi gli ho ordinato di funzionare di nuovo. Simili manipolazioni sono bazzecole per uno come me. Anche se ti riducessero a pezzi, potrei riportarli in vita. Anche se non sprecherei il mio tempo con te: non ne vali la pena."
+
+### u043667
+"Vedo che sei incorreggibile, esemplare. Mi aspettavo di più da te. Se sei incapace di seguire i comandi più semplici, non c'è motivo di tentare di usarti per qualcosa di più importante. Ti troverò un impiego più pratico." {n}Una delle sue appendici meccaniche si ricopre di una corona di uncini dentati che si protendono verso il tuo volto, e poi al suo interno.{/n}
+
+### u043668
+{n}Non riesci a muovere le braccia. Lo xenos sorride appena e inclina la testa, osservando le convulsioni che scuotono ogni tuo arto.{/n} "I segnali di dolore dei mon-keigh sono così poco pratici. Sommergono ogni altro impulso del vostro cervello: processi cognitivi, schemi motori. Questo è davvero l'unico vantaggio che avete sulla maggior parte delle altre razze: siete più bravi a sentire dolore."
+
+### u043669
+{n}Lo xenos emette all'improvviso una risata maligna, una reazione sorprendentemente vivace per una creatura così fredda.{/n} "Il che è stata una sgradevole sorpresa per il Dracon Marazhai. Ex Dracon, per la precisione. Quello sciocco cucciolo si aspettava meno da te, e tu lo hai {d|Encyclopedia:Ch3_TrialFailed}umiliato{/d}. Mi ha dato qualcosa su cui riflettere. Un buon esemplare."
+
+### u043670
+"I servi continuano a trascinare qui dentro inutili cianfrusaglie. Non so che farmene. Trovati una clava o un bastone appuntito adatto alle tue capacità. Potresti provare qualcosa di più avanzato... sempre che tu non tema di ucciderti accidentalmente con esso."
+
+### u043671
+Una pistola goffa e indicibilmente orrenda, con un'impugnatura scomoda, di marca e provenienza ignote. Questa letale abominazione di arma potrebbe essere stata fabbricata da un umano o, altrettanto probabilmente, da una delle numerose razze xenos.
+
+### u043672
+Beggar's Weapon
+
+### u043673
+Un'arma pesante in grado di far piovere proiettili a frammentazione, innestata sul corpo biomeccanico del Chtonos dal crudele Haemonculus. Il suo radiatore magnetico si nutre dell'essenza liquida raccolta dai corpi delle vittime del mostro.
+
+### u043674
+Life Sunderer
+
+### u043675
+La testa mozzata del Commissario: l'audace capo dei prigionieri provenienti dall'Imperium.
+
+### u043676
+Testa del Commissario
+
+### u043677
+Un sacchetto di strana polvere che luccica di sfumature impossibili di colori che non dovrebbero esistere.
+
+### u043678
+Polvere della Lacerazione
+
+### u043679
+Un biglietto scarabocchiato in fretta, che dice:
+"Hai fatto infuriare le Wych in grande stile, non sfuggirai alla loro ira. Serve un piano. Incontriamoci alla Fossa. L'Imperatore protegge.
+Commissario."
+
+### u043680
+Nota del Commissario
+
+### u043681
+Questo artefatto xeno a forma di prisma è fatto di un metallo nero stranamente freddo al tatto. Lo strano dispositivo non ha giunture, pulsanti o fori visibili.
+
+### u043682
+Prisma dell'Haemonculus
+
+### u043683
+Armatura carapace drukhari rimodellata per la struttura dei mon-keigh. Un agonizzatore integrato invia impulsi dolorosi accuratamente calibrati al sistema nervoso di chi la indossa, stimolando il midollo spinale e potenziando i riflessi.
+
+### u043684
+Carapace of Sorrows
+
+### u043685
+Una squisita carabina a schegge. È abbastanza leggera da poter essere impugnata dal grande rapace dei cieli di Commorragh: il Flagello. Ora appartiene a un impugnatore più degno.
+
+### u043686
+Sweet Perdition
+
+### u043687
+Un mantello intessuto di fili magnetici controllati da una matrice di cristallo nel fermaglio. Per realizzarlo è stato scuoiato un servo, come punizione per il suo fallimento. Gli occhi del servo vegliano per sempre sulle spalle di chi lo indossa, poiché l'Haemonculus non gli ha concesso né la liberazione della morte né il diritto di ignorare, per pietà, la propria miserabile condizione.
+
+### u043688
+Incompetent's Punishment
+
+### u043689
+<b>Proprietà base dell'armatura</b>: +20 di Strength.
+
+### u043690
+Wolfskin
+
+### u043691
+Una chiave di sostanza ossea ricoperta da una miriade di minuscole spine. Può essere usata solo se nutrita con il giusto tipo di sangue.
+
+### u043692
+Chiave d'osso
+
+### u043693
+Una pistola scadente e debole. L'incisione che ne ricopre la superficie vale molto più del suo misero potere d'arresto.
+
+### u043694
+Dono dall'oltretomba
+
+### u043695
+"Rimettete in sesto questa creatura, la portiamo con noi."
+
+### u043696
+"Perché sei fuggito da Tervantias?"
+
+### u043697
+[Prendi a calci con forza l'abominio]
+
+### u043698
+[Poni fine allo strano scambio]
+
+### u043699
+[Elimina la creatura]
+
+### u043700
+[Aspetta che la cosa esali l'ultimo respiro]
+
+### u043701
+"Pasqal, vuoi studiare questo dispositivo?"
+
+### u043702
+"Che cosa ti ha fatto fermare?"
+
+### u043703
+"Se pensi che questa cosa sia viva, puoi porre fine alle sue sofferenze."
+
+### u043704
+"Per te questa cosa è qualcosa di più di una perversione e di un oltraggio?"
+
+### u043705
+"Sei un Explorator. Studiala prima che esali l'ultimo respiro."
+
+### u043706
+"Purifica questa corruzione."
+
+### u043707
+[Rivolgiti al mostro] "Riesci a capirmi?"
+
+### u043708
+"Per che cosa è stata costruita questa macchina?"
+
+### u043709
+"Eogunn, vuoi eseguire una vivisezione?"
+
+### u043710
+"Non ti farò più del male."
+
+### u043711
+{n}La creatura biomeccanica agita debolmente gli arti. Il suo corpo è spezzato e reca i segni di uno scontro, ma sembra che nessuno abbia intenzione di ripararlo. Si intravede la carne lucida sotto la corazza incrinata e i grovigli di fili che la permeano. Le placche dell'armatura si sollevano pesantemente e la creatura emette un sospiro cigolante e malinconico, pieno di rimpianto.{/n}
+
+### u043712
+{n}L'artiglio sul mecadendrite di Pasqal risuona con forza. Il visore emette una serie di clic, cambiando lo spettro di osservazione. Le mani di Pasqal cercano automaticamente il multiutensile alla cintura mentre i suoi occhi osservano attentamente la creatura morente.{/n}
+
+### u043713
+{n}Pasqal si immobilizza all'improvviso e fa un piccolo passo indietro.{/n} "Processo interrotto. Rilevata una collisione operativa."
+
+### u043714
+{n}Tutto il corpo di Cassia trema.{/n} "I colori di questa creatura... trasudano sfumature di cremisi macchiato e l'oscurità tenebrosa della sofferenza. È come se questo costrutto fosse stato creato di proposito per assorbire i colori più terribili che gli esseri viventi possono emanare. Ma come è possibile?"
+
+### u043715
+{n}Ogni arto della creatura, quelli rigidi sulle zampe scheletriche e quelli flessibili sui cavi metallici, è dotato di una varietà di strumenti simili ad attrezzi chirurgici. Le seghe circolari seghettate, i trapani contorti e i monobisturi vibranti promettono un dolore insopportabile.{/n}
+
+### u043716
+{n}Se nel progetto di questa creatura esistono funzioni oltre a mutilare e uccidere brutalmente gli avversari, ti sfuggono.{/n}
+
+### u043717
+{n}Il colpo raggiunge un segmento di corazza incrinato e dalle viscere del meccanismo erompe un ululato umido e rimbombante, un suono che potrebbe facilmente essere scambiato per un gemito di dolore. Gli arti del mostro si contraggono per la paura e si ritraggono sotto il ventre.{/n}
+
+### u043718
+{n}Pasqal non dice una parola, ma ti sembra di vedere il suo volto che si increspa di disgusto e disapprovazione sotto il respiratore.{/n}
+
+### u043719
+"Che il vuoto ti porti, Heydari!" {n}Le donne si fulminano con lo sguardo, ma poi si rilassano e ridacchiano piano.{/n}
+
+### u043720
+"Richiesta approvata." {n}Pasqal dispiega con impazienza i mecadendriti, che si lanciano tutti verso il mostro. Un trapano stridente affonda nella corazza, mentre un artiglio stacca avidamente brandelli di carne trafitti da fili metallici. La creatura si dibatte e rantola ma non può sfuggire alla spietata vivisezione. I campioni raccolti vengono inviati a un analizzatore portatile e il visore del Tecnoprete scatta, registrando la procedura in immagini pict.{/n}
+
+### u043721
+"Questa unità è sotto l'influenza di impulsi contrastanti. Il vettore operativo della cognizione impone la necessità di studiare questo soggetto. Il vettore operativo dell'obbedienza all'Omnissiah e alle Sue Leggi Universali impone la necessità di ritrarsi dal soggetto e di purificarlo."
+
+### u043722
+"La categorizzazione è corretta. L'oggetto è una perversione e un oltraggio, pericolosamente vicino alla creazione dell'anatemizzata Intelligenza Abominevole."
+
+### u043723
+"Richiesta approvata come dottrinalmente corretta." {n}Pasqal si china sulla creatura e il trapano ronza, con un suono regolare, rassicurante e giusto. La voce del Tecnoprete vibra di acute frequenze ultraterrene:{/n} "Che il Ciclo cessi, che cessi la tua sofferenza!"
+
+### u043724
+"Richiesta approvata come dottrinalmente corretta." {n}Pasqal si china sulla creatura e il trapano ronza, con un suono acuto e implacabile. La voce del Tecnoprete risuona della gelida determinazione di un vivisettore divino:{/n} "Che il Ciclo cessi, che cessi l'ignoranza!"
+
+### u043725
+"Richiesta approvata come dottrinalmente corretta." {n}Pasqal si china sulla creatura e il trapano ronza con ira e furore. La voce del Tecnoprete ribolle come lava, risuonando della promessa di una punizione divina:{/n} "Che il Ciclo cessi, che la corruzione sia epurata!"
+
+### u043726
+{n}La creatura risponde con una serie di suoni soffocati e ringhianti. Dopo un momento, come se si rendesse conto che il suo linguaggio non è chiaro per te, protende un arto da combattimento nella tua direzione con un gesto minaccioso. Il messaggio è chiaro: "Sono un guerriero. Sono un assassino."{/n}
+
+### u043727
+"Sta cercando di comunicare."
+
+### u043728
+{n}La creatura emette una serie di suoni rantolanti. Era una risposta, un lamento di agonia o solo il normale rombo del suo meccanismo? Non c'è modo di saperlo.{/n}
+
+### u043729
+{n}I servomotori della creatura ululano mentre riversano nel suo corpo l'ultima energia rimasta. Uno degli arti si getta contro di te, ma la carica non basta perché il colpo raggiunga il bersaglio.{/n}
+
+### u043730
+{n}Qualcosa scoppia nelle viscere della creatura con un sommesso sciacquio e una pozza di icore oleoso si allarga da sotto il suo ventre.{/n}
+
+### u043731
+"Presento un'ipotesi. Esistere sotto l'oppressione dell'Haemonculus era insopportabile e doloroso persino per un costrutto così empio."
+
+### u043732
+"La natura dei danni indica che l'unità ha preso parte a un combattimento. Ipotizzo che il suo costruttore l'abbia mandata nell'arena. In base alle sue condizioni attuali, il risultato dei test di combattimento è stato insoddisfacente. In caso contrario, l'unità sarebbe stata riparata."
+
+### u043733
+"Le creature di questo posto capiscono solo il linguaggio del dolore, shereen. Sfondiamogli la testa prima che accada qualcosa che non potremo disfare."
+
+### u043734
+"Gli Oscuri sono intrappolati in un ciclo di tormento, e cercano disperatamente il piacere nella sofferenza altrui. Questa macchina non è che uno strumento del loro desiderio infinito, un simbolo di ciò che sono disposti a fare per placare la sete e la paura che li consumano."
+
+### u043735
+"Ha semplicemente avuto la ventura di essere più intelligente degli altri. Non è vero, Idira?"
+
+### u043736
+{n}Eogunn tende verso la creatura un mecadendrite diagnostor, ma si ritrae subito quando la bestia accoglie l'arto proteso del Manipulus con un ringhio minaccioso. Il Tecnoprete non fa un secondo tentativo: si immobilizza all'improvviso e osserva l'agonia della creatura con uno strano sguardo, come se la sua mente fosse vagata altrove.{/n}
+
+### u043737
+"La reazione è valutata come congruente. In altre parole: molto probabilmente sì, Rogue Trader."
+
+### u043738
+"Ha tentato di porre fine all'agonia. Eppure l'agonia è la costante della sua esistenza." {n}Eogunn distoglie cupamente lo sguardo e per un istante lo posa su Nuncius.{/n}
+
+### u043739
+{n}Eogunn si volta, come se trovasse insopportabile osservare il tormento della creatura.{/n}
+
+### u043740
+"No, Rogue Trader. Non questa volta." {n}Il suo tono è del tutto piatto; si sforza deliberatamente di tenere lo sguardo lontano dalla bestia.{/n} "Comprendo l'irrazionalità di questa decisione, ma il tormento di questo costrutto ha smosso in me frammenti di ricordi che preferirei non turbare. È tutto ciò che posso dire."
+
+### u043741
+{n}Guarda Pasqal con aria stanca.{/n} "Sono pronto a concedere il privilegio della vivisezione allo stimato Magos, se desidera eseguire il rito."
+
+### u043742
+{n}Quando la creatura smette di muoversi, il volto di Eogunn si rilassa per il sollievo. Sussurra una preghiera all'Omnissiah.{/n}
+
+### u043743
+"Il vettore operativo dell'adorazione davanti alla Sua potenza impone... la necessità di riverenza verso il soggetto in cui lo spirito naturale risiede in sintesi con quello della macchina."
+
+### u043744
+"Richiesta respinta. I danni inflitti sono critici. Il soggetto non può essere riparato."
+
+### u043745
+"Ma è anche un miracolo della Sua infinita polimorfia." {n}La voce di Pasqal ha una nota metallica.{/n}
+
+### u043746
+"Presento un'ipotesi. Questo costrutto è una camera di esecuzione mobile. Un soggetto viene immobilizzato dagli strumenti, collocato all'interno del costrutto e sottoposto a un'eliminazione estremamente dolorosa tramite iniezione chimica. I resti biologici vengono conservati nel serbatoio integrato del costrutto."
+
+### u043747
+{n}Attraverso i fori nella corazza si vede chiaramente l'interno del meccanismo. Le sue viscere possono aprirsi per trascinare all'interno una vittima azzoppata. Una volta che la vittima si trova nello "stomaco" del mostro, viene trafitta da iniettori che la liquefanno. La sostanza defluisce poi nei serbatoi all'estremità della coda della creatura.{/n}
+
+### u043748
+"L'analisi chimica iniziale dei resti produce... un risultato anomalo." {n}Il vox emette una nota metallica e stridente.{/n} "È come se il dolore delle vittime di questa macchina fosse dissolto in esse. Circola nelle vene metalliche di questa creatura. Essa può sentire... tutto."
+
+### u043749
+{n}Qualcosa dentro la creatura tintinna impotente, poi essa inizia a tirare uno dei propri arti con movimenti nervosi, cercando di strapparlo dalla sede. Il suo corpo si contorce in un dolore atroce.{/n}
+
+### u043750
+"Sembra che la creatura blasfema possa provare dolore e paura... È glorioso." {n}Il volto di Ulfar si apre in un sorriso al tempo stesso gioioso e assetato di sangue.{/n}
+
+### u043751
+"Questa è una Macchina del Dolore, elantach. Un carnefice creato dalla depravazione dei miei perversi cugini, carne viva fusa a un meccanismo il cui unico scopo è infliggere quanto più dolore possibile." {n}Il volto di Yrliet è contratto dall'amarezza e dal disgusto.{/n}
+
+### u043752
+"Finché non avrò una tazza di recaf, il mio stato vitale resta da determinare."
+
+### u043753
+[Ignora la voce vagamente familiare]
+
+### u043754
+[Alzati. Raduna le forze e alzati, semplicemente]
+
+### u043755
+"Aiuto..."
+
+### u043756
+"Il Rogue Trader {name} von Valancius giace davanti a te. Inginocchiati... e aiutami ad alzarmi."
+
+### u043757
+[Guarda chi ti ha soccorso]
+
+### u043758
+"Io... ti ho già visto da qualche parte. Chi sei?"
+
+### u043759
+"I miei compagni... Dove sono?"
+
+### u043760
+[Tenta di alzarti]
+### u043761
+Hai pregato gli dèi del warp per uscire dal cumulo di cadaveri di Commorragh.
+
+### u043762
+[Prega gli dèi del warp per ottenere aiuto]
+
+### u043763
+"Che... cosa mi accadrà ora?"
+
+### u043764
+Hai ricordato il dovere verso i tuoi compagni per uscire dal cumulo di cadaveri di Commorragh.
+
+### u043765
+[Ricorda tutte le persone le cui vite dipendono da te]
+
+### u043766
+Hai pregato l'Imperatore per uscire dal cumulo di cadaveri di Commorragh.
+
+### u043767
+[Supera questa prova, nel nome dell'Imperatore, perché il tuo servizio a Lui non è ancora concluso]
+
+### u043768
+[Resta a terra]
+
+### u043769
+[Rivolgi i tuoi pensieri agli dèi del warp]
+
+### u043770
+{n}Il mondo è una nebbia impenetrabile di dolore tiepido. Giaci immobile... no, riposi! Nella penombra torbida, dissolvendoti lentamente nel nulla. A volte il tuo riposo è turbato da spiacevoli e insistenti tremiti che provengono dal punto in cui un tempo c'erano le tue gambe. Fai del tuo meglio per ignorarli.{/n}
+
+### u043771
+"Via, avvoltoio, questa non è la tua preda!" {n}Una voce vagamente familiare ti raggiunge attraverso il sipario dell'oscurità, ma i tuoi pensieri ribelli si rifiutano di rivelare dove e quando l'hai già sentita. Era solo poco tempo fa, o cento vite fa? Il tremito alle gambe è sostituito da uno scatto violento, e poi cessa finalmente.{/n}
+
+### u043772
+"Ahimè, la beatitudine della morte non ti salverà,
+il vorticoso valzer di sorte e tenebra danzerai."
+
+### u043773
+{n}Non ti accorgi subito di quando qualcosa di estraneo e dolorosamente familiare entra nella tua mente. Il frenetico bisbiglio si trasforma in molte voci, ma attutite, come se le udissi attraverso molti muri.{/n}
+
+### u043774
+"...al riparo nella Tela delle Anime... assetate... datemele... cercate i segni... occasioni... abbattete le inibizioni... distruggete le barriere... trovate il soppressore e distruggetelo... lasciate che la Verità pervada ancora una volta la Città Oscura... vi aiuterò..."
+
+### u043775
+{n}Una sensazione pungente ti brucia la spalla, e l'oscurità si ritira finalmente del tutto dalla tua mente. Qualunque cosa fosse l'iniezione, ti fa battere il cuore in un ritmo frenetico e restringe le pupille, così che ora registri ogni dettaglio dell'orribile luogo in cui ti trovi con una chiarezza spietata.{/n}
+
+### u043776
+{n}Le tue labbra screpolate lavorano all'unisono con i polmoni in fiamme per pronunciare le familiari parole di preghiera. Ogni verso pronunciato riempie il tuo corpo della Sua luce, dandoti forza e scacciando il dolore, come se l'Imperatore in persona ti ordinasse di alzarti. Fai un altro tentativo.{/n}
+
+### u043777
+{n}Una risata sommessa ti raggiunge le orecchie.{/n}
+"Alle tue gambe serve una guida, Mercante mio,
+dunque rivolgi a loro le tue suppliche, non a me.
+La loro sete di danza potrebbe ancora spronarle!"
+
+### u043778
+{n}Il tono dello sconosciuto parla di annoiata indifferenza:{/n}
+"Lascia che l'alterigia diventi un saldo sostegno
+e la vanità ti offra il proprio gomito."
+
+### u043779
+{n}Ti penti subito di questa decisione. Ogni centimetro del tuo corpo soffre. Hai un dolore sordo e debilitante alla testa, causato da qualche tipo di sostanza chimica. Il tuo corpo è coperto di tagli profondi, inflitti per divertimento o con intenzioni sinistre. Tutti gli organi sembrano intatti, ma lo stesso non si può dire del tuo sangue: ne hai perso moltissimo. Infine, uno strano spasmo corrosivo si accende di tanto in tanto alla base del cranio. Non è grave, ma per qualche ragione è ciò che ti preoccupa più di tutto.{/n}
+
+### u043780
+{n}Ogni singolo centimetro del tuo corpo soffre. {mf|Soddisfatto|Soddisfatta} di questo risultato, non ti addentri in un esame dettagliato della tua sventura.{/n}
+
+### u043781
+{n}Sei {mf|circondato|circondata} dai morti: numerosi cadaveri, corpi mutilati e pezzi di essi. Umani, Drukhari e altri xenos che non conosci giacciono immobili in questo macabro obitorio.{/n}
+
+### u043782
+{n}I tuoi occhi si rifiutano di mettere a fuoco la figura sfocata della persona che ti è venuta in aiuto. Sembra alto, e... la tua mente si rifiuta categoricamente di proseguire, perché ogni momento di concentrazione ti causa sofferenza.{/n}
+
+### u043783
+{n}Tutto il tuo equipaggiamento è scomparso, così come le scarpe. Non hai nemmeno un coltello a portata di mano per respingere i nemici o per aprirti le vene.{/n}
+
+### u043784
+"Un sogno oscuro di morte, liberazione,
+volontà che illumina, e agonia."
+
+### u043785
+"Non qui. I ruoli ormai sono stati decisi,
+ma se reciterai la tua parte, forse, la trama
+vi riunirà... o vi condurrà alla rovina."
+{n}Segue la risata crudele della figura.{/n}
+
+### u043786
+"Questa ouverture in versi, le righe finali:
+Per {mf|il|la} Mercante è giunta l'ora di calcare le scene,
+dà inizio ora al tuo pellegrinaggio.
+E accetta il mio dono d'addio: un umile oggetto di scena."
+{n}Lo sconosciuto ti depone qualcosa in mano e scompare nel crepuscolo.{/n}
+
+### u043787
+{n}I tuoi piedi nudi sembrano imbottiti di stracci e si rifiutano di obbedire. Devi attingere a tutta la tua forza di volontà per sopprimere la ribellione e rimetterti in piedi. Il dolore che avvolge tutto il tuo corpo ti fa subito dubitare della saggezza di questo atto di sfida.{/n}
+
+### u043788
+{n}Cerchi di far rivivere nella memoria i volti dei tuoi amici, ma sembrano tutti avvolti da una nebbia impenetrabile. Il dolore ti impedisce di concentrarti su uno solo di essi, e la rabbia e la disperazione cominciano a sopraffarti. Devi ricordare, non puoi morire qui! {mf|Spinto|Spinta} dalla disperazione, fai un altro tentativo di alzarti.{/n}
+
+### u043789
+{n}Le tue labbra screpolate tentano invano di pronunciare le parole di una preghiera. I versi familiari ti sfuggono uno a uno, divorati dalla penombra torbida dei tuoi pensieri erranti e dai lampi di dolore. Ma ti rifiuti di credere che l'Imperatore ti abbia {mf|abbandonato|abbandonata}. Se non puoi pregarLo adesso, devi alzarti e sopravvivere per poter pronunciare altre mille preghiere in seguito. Fai un altro tentativo di alzarti.{/n}
+
+### u043790
+{n}Il tuo corpo ha sofferto troppo per obbedire alla tua mente... o meglio, sarebbe stato così per qualcun altro, forse. Ma non per te. {d|Encyclopedia:CharGen_DH_Torture}Hai vissuto di peggio{/d}. L'angoscia e la tortura non potranno mai più spezzarti. Ti alzerai in piedi e andrai avanti. Resta solo da capire perché dovresti farlo.{/n}
+
+### u043791
+{n}Ti alzi. Sì, il tuo corpo duole e si ribella contro di te, ma la tua mente temprata è più forte della carne mortale. Ti raddrizzi e osservi ciò che ti circonda.{/n}
+
+### u043792
+{n}La figura sussurra con fare cospiratorio:{/n}
+"Risparmio il fiato. Il sipario sta a te scostarlo."
+
+### u043793
+"Tra le ombre delle quinte giaci,
+dove tesi sono i fili del burattinaio."
+{n}Lo sconosciuto intreccia con maestria le dita per imitare gli strumenti di un burattinaio.{/n}
+
+### u043794
+"Da questa fantasmagoria ritirati
+e afferra con destrezza, mio Mercante Vagabondo,
+i fili del burattinaio lasciati penzolare.
+Rialzati ancora per prendere il tuo posto e danzare."
+{n}Una scintilla si accende nell'oscurità, e la sua luce taglia spietatamente la penombra che ti avvolge. Una brutta immagine della realtà intorno a te assale la tua retina. Senti di nuovo il tuo corpo e ti rendi conto che è pieno di dolore. La spalla ti fa male per un'iniezione.{/n}
+
+### u043795
+"Il tuo mutismo vale cento parole,
+ma qui commerci in altre gemme:
+rossi rubini di sangue e smeraldi di dolore,
+la danza ti lascerà le tasche piene da scoppiare."
+
+### u043796
+{n}Per qualche istante, la tua preghiera resta senza risposta. Eppure... Eppure qualcosa raggiunge la tua coscienza tormentata dopo un po'. La familiare sensazione di una presenza aliena scende su di te, ma quando parla le voci sono appena udibili, come se foste separati da decine di spessi muri.{/n}
+
+### u043797
+{n}Forse nella tua vita precedente hai comandato più pianeti e milioni di vite, ma in questa nuova realtà nemmeno i tuoi piedi ti obbediscono. Come per punirti della tua arroganza, i tuoi arti ribelli inviano una brusca scarica di dolore lungo il corpo.{/n}
+
+### u043798
+{n}Sarebbe bello sprofondare di nuovo in un beato oblio e dimenticare le tue disgrazie, ma la realtà è spietata: il tuo corpo ha già compreso la posizione poco invidiabile in cui si trova e ti avverte con le ultime forze, inviando vivide fiammate di dolore agli arti, ai muscoli e agli organi. Se non ti alzi subito, probabilmente non lo farai mai più.{/n}
+
+### u043799
+{n}Centinaia di volti lampeggiano davanti al tuo occhio interiore: amici, sudditi e compagni. L'universo è crudele e pieno di oscurità, e la tua volontà e la tua determinazione sono l'unica barriera tra i tuoi cari e la sua schiacciante apatia e brutalità. Non hai il diritto di morire, non qui e non ora. La risolutezza ti inonda le vene come plasma incandescente, e fai un altro tentativo di alzarti.{/n}
+
+### u043800
+La Preda mi afferra per la gola, mi solleva in aria e ringhia. Sembra voler sapere perché ho tentato di ucciderla.
+
+### u043801
+...convoca dei compagni in suo aiuto.
+
+### u043802
+...cerca di individuarmi nell'intrico di minareti acuminati.
+
+### u043803
+Muoio.
+
+### u043804
+...si mette a correre.
+
+### u043805
+...fugge lungo il percorso più prevedibile e diretto, sperando che le forze non la abbandonino.
+
+### u043806
+...scivola via usando come copertura i corpi di passanti a caso.
+
+### u043807
+...afferra l'arma di qualcuno da terra e risponde al fuoco a caso.
+
+### u043808
+...punta tutto sulla forza bruta, cercando di spezzarmi le fragili ossa e di frantumarmi le articolazioni.
+
+### u043809
+Il caotico scoppio di violenza che ha insanguinato le strade di Commorragh finisce all'improvviso com'era esploso. Così va la vita nelle guglie.
+
+### u043810
+...afferra una delle lame appese alla mia cintura e me la punta alla gola.
+
+### u043811
+...risponde con attacchi clinici mirati ai miei punti deboli.
+
+### u043812
+La caccia continua!
+
+### u043813
+...mi lascia avvicinare, avvolgendomi in un abbraccio mortale nella speranza di soffocarmi prima che io la riduca a brandelli.
+
+### u043814
+...aizza contro di me alcuni astanti.
+
+### u043815
+...mi sbarra la strada con un cataclisma.
+
+### u043816
+...scivola via con l'abilità di chi ha vissuto qui per tutta la vita.
+
+### u043817
+La fine si avvicina!
+
+### u043818
+...sembra indifesa e io attacco, senza accorgermi della trappola che ha predisposto per me.
+
+### u043819
+...non è dove me l'aspettavo. Arrampicatasi sul bordo di un muro, mi si avventa contro e ruggisce.
+
+### u043820
+...mi attacca per primo. Capisco troppo tardi che dietro non c'è disperazione ma fredda determinazione.
+
+### u043821
+Tutto sarà finito in pochi istanti.
+
+### u043822
+La Preda muore ai miei piedi.
+
+### u043823
+Ma decido comunque di aspettare e di osservare meglio la Preda.
+
+### u043824
+Agisco!
+
+### u043825
+La Preda...
+
+### u043826
+La carabina a schegge vomita un fiume di proiettili cristallini che ululano e si frantumano trafiggendo la carne della Preda. Un letale blizzard di tagli ricopre la strada di neve insanguinata, mentre i corpi di passanti a caso, colti dal fuoco, cadono a terra. È un evento comune nelle guglie.
+Tutti attorno a me fuggono dal campo di morte di cui ho reso chiari i confini. La Preda cade, ma è ancora viva. Non mi aspettavo che la caccia finisse con la prima salva. La Preda è gravemente ferita. Posso finirla facilmente allo scoperto.
+
+### u043827
+Le correnti ascensionali portano gli odori del dolore, del sangue, dell'icore e delle ambizioni fallite. Gli odori della Città Oscura.
+Con le ali spalancate, tesso un percorso tra le guglie come un fulmine oscuro, caotico e imprevedibile nei suoi schemi. Volare significa cacciare, e chiunque sia in volo dà la caccia a tutti gli altri. Persino io, il Flagello Garthairyt Bloodfeather, da queste parti non godo del privilegio dell'inviolabilità. Potrei diventare la preda di qualcun altro, tranne che... probabilmente non oggi. Oggi sono il Cacciatore.
+I miei recettori olfattivi modificati da un Haemonculus colgono l'odore della mia Preda e mi muovo con cautela mentre mi avvicino. Il fetore dei mon-keigh è nauseabondo ma variegato, e l'odore della mia Preda è piuttosto rivelatore. Un esemplare potente, sfacciato e puzzolente del sangue altrui.
+Scendo sul minareto che cresce dalla guglia più vicina e mi offre un'ottima visuale. Riflessi accelerati mi permettono di valutare la situazione in una frazione di istante.
+È il momento.

@@ -1,0 +1,846 @@
+### u039108
+"Chi dirige i ribelli? Qualcuno lo sa?"
+
+### u039109
+"Perché devi spedire il teschio a qualcuno su Footfall?"
+
+### u039110
+"Voglio dei dettagli. Dove hanno colpito i ribelli, e come?"
+
+### u039111
+"Che cosa state facendo per combattere i ribelli?"
+
+### u039112
+"Fa' quello che vuoi, basta che apponi il sigillo."
+
+### u039113
+Hai sostenuto l'insostituibilità di Atilius Quint nel tentativo di dissuaderlo dalla servitorizzazione.
+
+### u039114
+"Puoi servire l'Umanità restando come sei. Potrebbe un servitore sostituire un vero funzionario amministrativo appassionato del proprio lavoro?"
+
+### u039115
+Hai appoggiato la decisione di Atilius Quint di diventare un servitore e di rispettare le leggi dell'Imperium.
+
+### u039116
+"Ha ragione, Jae. Ciascuno di noi deve seguire la lettera della legge."
+
+### u039117
+"Hmm. Una curiosità come questa starebbe benissimo sulla mia scrivania..."
+
+### u039118
+"Toglietemelo dalla vista."
+
+### u039119
+[Distruggi il teschio] "Che barbarie ripugnante!"
+
+### u039120
+"Janus ha bisogno di un segretario intelligente, non di una macchina senza cervello. Procurati semplicemente un servitore."
+
+### u039121
+"Quale registrazione della nostra conversazione?"
+
+### u039122
+"Lodevole lungimiranza."
+
+### u039123
+"Smetti di registrare. Subito."
+
+### u039124
+"Uno strano passatempo. Ma puoi continuare."
+
+### u039125
+"Ho scoperto il servitore che ha tradito il governatore. Ecco il luogo dove troverete il suo corpo."
+
+### u039126
+"Non mi dispiacerebbe dare un'occhiata a un oggetto così notevole."
+
+### u039127
+"Basta così."
+
+### u039128
+"Mi serve un sigillo. Di nuovo."
+
+### u039129
+Hai convinto Atilius Quint a non diventare un servitore, assicurandogli che è insostituibile.
+
+### u039130
+"Atilius, non c'è bisogno di questo. Sì, qualsiasi servitore può apporre un sigillo. Ma può farlo regalandomi un sorriso sincero o colpendomi con una finezza impeccabile e una cura dei dettagli? Non credo. Tu invece sì."
+
+### u039131
+"Mi serve un sigillo per certificare un Mercatum Tabula Officiale."
+
+### u039132
+"Apprezzo le specie locali."
+
+### u039133
+"Non ho intenzione di viaggiare fino a Janus ogni volta che mi serve un sigillo su un pezzo di pergamena. D'ora in poi il tuo sigillo sarà custodito su Dargonus."
+
+### u039134
+{n}L'uomo curvo, avvolto in un mantello dell'Adeptus Administratum, sta esaminando alcune informazioni su una {g|Encyclopedia:Dataslate}tavoletta dati{/g} mentre le sue braccia meccaniche, dal lieve ronzio, riempiono di scrittura un lungo rotolo. Accorgendosi di te, l'uomo distende le sottili labbra in un sorriso e si inchina con deferenza. La luce negli occhi del servoteschio che gli fluttua sopra la spalla destra pulsa piano.{/n}
+
+### u039135
+{n}Atilius Quint rivolge un sorriso cordiale e un inchino.{/n} "Vostra Signoria, parlare con voi è sempre un onore!"
+
+### u039136
+"Oh, Vostra Signoria, le nostre spedizioni di rifornimenti sono tutte in ordine: ogni derrata e ogni altro articolo è pronto per l'esportazione e attende soltanto l'arrivo delle navi da trasporto. Tuttavia, date le circostanze attuali sul pianeta, Janus non potrebbe fornire nemmeno una tranche in più di quanto è già preparato. Sono certo che la situazione sarà sanata nel prossimo futuro!"
+
+### u039137
+"L'assenza di una firma richiesta è, ovviamente, l'aspetto più orripilante di questa situazione."
+
+### u039138
+{n}Atilius lancia un'occhiata in tralice a Yrliet e abbozza un sorriso forzato.{/n} "Un individuo altamente, altamente eccezionale... dopo il deplorevole evento di oggi, comincio a stimare in modo particolare le sue doti! In verità, perfino i mutanti che hanno visto la luce del Dio-Imperatore possono servire fedelmente il suo gregge!"
+
+### u039139
+"A essere sincero, Vostra Signoria, trovo la sua presenza assai sconcertante. Naturalmente non metterei mai in dubbio la saggezza della governatrice. Chi, se non lei, potrebbe cogliere il vero valore di una persona, anche se quella persona è una mutante?"
+
+### u039140
+"Inoltre, le particolari capacità di Yrliet potrebbero essere un interessante oggetto di studio per il Magos Biologis. Quella forma allungata della testa, quegli occhi... A giudicare dal teschio che mi è stato consegnato perché lo inoltrassi a Footfall, simili anomalie dello sviluppo su Janus non sono un capriccio della natura, ma una sorta di tratto ereditario..."
+
+### u039141
+{n}Il segretario annuisce con energia.{/n} "Ma certo, certo! Sarebbe un onore assistere il Rogue Trader! Attendete solo pochi minuti, Vostra Signoria, e il vostro umile servitore avrà pronto il vostro sigillo."
+
+### u039142
+{n}Atilius fa una smorfia, gli occhi che guizzano nervosi tutt'intorno.{/n} "La nuova {d|Encyclopedia:Ch2_JanusEldarGovern}dirigenza{/d} della colonia ha emanato una serie di decreti... irregolari. Siamo stati costretti a spendere quantità prodigiose di risorse per trasferire complessi agricoli e magazzini dalla cosiddetta 'Area Forestale Riservata di L-Than'. Riceviamo inoltre con regolarità denunce di vari gradi di assurdità, tutte accomunate da un tema: accusano i responsabili di avere legami con... elementi stranieri. Dagli spiriti della foresta fino, Imperatore ce ne scampi, agli agenti degli xenos."
+
+### u039143
+"Per grazia del Dio-Imperatore, sovrintendo all'apparato amministrativo del pianeta e svolgo la funzione di segretario. Sono inoltre responsabile della logistica relativa ai rifornimenti dei pianeti della dinastia von Valancius e del puntuale pagamento delle decime ai riscossori ufficiali dell'Imperium."
+
+### u039144
+"La governatrice è una guida superba. Possiede un'eccellente padronanza di ogni questione e non usa mai un modulo errato per una data situazione. Non m'intrometto nei suoi affari personali, ma se mi è concesso parlare chiaro, una dama che compila le scartoffie con tale finezza non può essere una cattiva persona, a mio avviso."
+
+### u039145
+"Un incidente vergognoso, semplicemente vergognoso! Non riesco a credere che questi furfanti abbiano osato avvicinarsi tanto, e trascinare nella faccenda anche la nobiltà... Se sono penetrati nella tenuta, significa che hanno avuto l'aiuto di qualche servo da quattro soldi. La sicurezza sta interrogando i sopravvissuti, ma il colpevole non è stato trovato. Ancora." {n}Atilius Quint sorride in modo sgradevole.{/n}
+
+### u039146
+"Janus è sempre onorata di ricevere Vostra Signoria."
+
+### u039147
+"Ahimè, Vostra Signoria, le ribellioni ci hanno causato fin troppi problemi di recente. I ribelli interferiscono con le procedure consolidate, interrompono i rifornimenti, sabotano il lavoro dei servi. Alcuni nobili sono stati perfino uccisi e, peggio ancora, alcune vittime ricoprivano incarichi amministrativi importanti! Finché i loro sostituti non superano i controlli, non completano tutti i moduli di insediamento e non attraversano la procedura ufficiale di nomina, documenti importanti restano senza firma! È una catastrofe burocratica!"
+
+### u039148
+"Un oggetto notevolissimo, devo dire, una vera anomalia! Un momento..."
+
+### u039149
+"Faceva parte di una commissione per un gioielliere, Vostra Signoria. Una delle dame di corte inviò questo ninnolo insieme a istruzioni precise per l'artigiano, che doveva incastonarlo di pietre preziose. Un momento..."
+
+### u039150
+"Ma certo, certo, sarei lieto di fornirvi tutte le informazioni in mio possesso. Negli ultimi mesi sono stati perpetrati quindici attacchi organizzati e sette attentati terroristici. Le attrezzature irrigue sono state sabotate nei settori agrari da tre a cinque, le vie di trasporto due-sette, quattro-tredici, e anche..."
+
+### u039151
+{n}Dopo aver frugato in un contenitore lì vicino, Atilius estrae un pacchetto, che scarta all'istante.{/n} "Ecco qui... Credo che il pezzo finito fosse destinato a essere donato alla governatrice, ma date le circostanze attuali dubito che potrò spedirlo a Footfall a breve."
+
+### u039152
+"Ma... Dopo settant'anni di servizio, e nemmeno una direttiva! Né da Sacra Terra né da Dargonus! Un completo collasso delle comunicazioni! Che farsa, che insulto a ogni procedura..." {n}Chiazze scarlatte sbocciano sul pallido volto del segretario.{/n} "Ma si rimedia facilmente! Se l'Administratum richiede un servitore simile, comincerò subito i preparativi per la servitorizzazione. La volontà della {g|Encyclopedia:LexImperialis}Lex Imperialis{/g} è suprema!"
+
+### u039153
+{n}I dati sono raccolti in modo superbo e la mappa mostra con chiarezza le azioni dei ribelli. A prima vista la loro campagna sembra priva di logica, ma dopo aver analizzato i dati e le caratteristiche del terreno noti un chiaro sistema che indica uno schema geografico nei loro attacchi.{/n}
+
+### u039154
+{n}I dati sono raccolti in modo superbo e il diagramma riflette con chiarezza le azioni dei ribelli. Purtroppo, per quanto tu fissi le coordinate, non riesci a scorgere alcuna logica negli attacchi.{/n}
+
+### u039155
+{n}Yrliet fissa il teschio in silenzio. Vedi la sua mascella muoversi sotto la pelle delicata. Dopo qualche secondo, si volta bruscamente.{/n}
+
+### u039156
+"Oh, oro del Trono, il Rogue Trader in persona ha dato la sua benedizione al mio impulso! Ora sono certo di aver scelto la strada giusta!"
+
+### u039157
+{n}Dopo molti tentennamenti, la figura ingobbita di Atilius si affloscia.{/n} "Certo, certo che avete ragione. Continuerò a servire Janus e il protettorato dei von Valancius come prima. E oggi stesso invierò una richiesta di copie degli editti emanati dall'Imperium negli ultimi cinquant'anni. Chissà che altro ci siamo persi qui su Janus?"
+
+### u039158
+"Eh? Voglio dire, sì, certo, senza dubbio! Come desiderate, Vostra Signoria, se ciò può risollevarvi il morale dopo il recente incidente..."
+
+### u039159
+"I ribelli sono ben armati e ben addestrati. Per di più, i consiglieri della governatrice propendono per credere che gli istigatori delle rivolte conoscano benissimo il terreno e il clima del pianeta. I miei subalterni passano al setaccio giorno e notte i registri anagrafici, cercando individui che abbiano completato un addestramento militare, ma finora non siamo riusciti a identificare il furfante."
+
+### u039160
+"I nostri servizi di sicurezza stanno rintracciando chi sostiene i ribelli e i nostri custodi regolari annientano questi sabotatori senza la minima pietà, ma continuano a spuntare. I miei scribi sono sfiniti dal tenere i registri di tutte le udienze pubbliche e le esecuzioni, ma sono fiducioso che la governatrice troverà presto una soluzione."
+
+### u039161
+"Attendo con impazienza di incontrarvi di nuovo, Vostra Signoria!"
+
+### u039162
+"Vostra Signoria, registro con scrupolo ogni conversazione con personaggi di alto rango e poi compilo di persona tutti e sette i moduli di accompagnamento." {n}Atilius arrotola il rotolo completato con un gesto esperto, lo ripone e ne estrae uno nuovo.{/n} "Le vostre parole e i vostri giudizi sono in buone mani."
+
+### u039163
+"Suppongo... suppongo che questo non vi dirà molto. Prego." {n}Con un gesto affettato, preme diversi tasti sullo schermo della sua {g|Encyclopedia:Dataslate}tavoletta dati{/g} e una mappa tridimensionale con le coordinate degli attacchi appare sul tuo {g|Encyclopedia:Cogitator}cogitatore{/g}.{/n}
+
+### u039164
+"Vostra Signoria, che onore parlarvi di persona! Permettetemi di presentarmi: Atilius Quint, prefectus dell'Officio Agricultae. Conserverò per sempre la registrazione della nostra conversazione."
+
+### u039165
+"Vi ringrazio. Momenti come l'apparizione di un Rogue Trader devono essere preservati per i posteri."
+
+### u039166
+{n}Atilius emette un sospiro appena udibile e si blocca come folgorato.{/n} "Perdonatemi, Vostra Signoria... Smetto subito di registrare. Subito..." {n}Arrotola il rotolo e lo ripone.{/n}
+
+### u039167
+{n}Gli occhi del segretario si accendono di un fuoco malvagio.{/n} "Che notizia meravigliosa! Procederemo all'identificazione senza indugio e saranno presi provvedimenti punitivi contro gli stretti collaboratori del criminale: instilleremo in quelle menti deboli il giusto terrore che il potere della governatrice merita."
+
+### u039168
+{n}Yrliet si blocca del tutto, trasformandosi in una statua vivente.{/n} "Che cos'hai detto?"
+
+### u039169
+"Oh, signora, le mie parole vi hanno turbata? Sono certo che il vostro congiunto sarebbe lieto di apprendere che c'è chi vuole ricavare graziosi presse-papier dai suoi resti! E d'altronde, potrei sbagliarmi sulla natura delle sue origini..."
+
+### u039170
+"Senza i nemici dell'Umanità sulla nostra terra? Meravigliosamente, Vostra Signoria! Il popolo di Janus vi è debitore per aver {d|Encyclopedia:Ch2_JanusEldarEliminated}liberato{/d} il nostro mondo dall'eresia!"
+
+### u039171
+"La governatrice Vyatt ha tutto ben in pugno, Vostra Signoria. La gente è ancora inquieta, ma dopo il vostro intervento la maggior parte dei ribelli e degli scontenti si è calmata."
+
+### u039172
+"Oh sì, la flora di Janus può mozzare il fiato! Mentre la fauna può ucciderti per distrazione..."
+
+### u039173
+"Ecco a voi." {n}Il segretario porge con cura il certificato sigillato.{/n} "E mi troverete molto cambiato quando ci rivedremo, ve lo garantisco."
+
+### u039174
+"I-il Rogue Trader ha di nuovo onorato Janus con la sua presenza! Che onore! Vi prego, ditemi, che cosa può fare un umile servitore come me per Vostra Signoria?"
+
+### u039175
+"Come, prego? C-cos'è questa storia dei servitori? Ho adempiuto fedelmente ai miei sacri doveri verso l'Imperium e l'Administratum per tutta la vita! E custodire i sigilli ne fa parte! E dopo mezzo secolo, nemmeno un sigillo danneggiato! Li tengo in una custodia speciale e ungo le impugnature ogni mese, come stabilisce il regolamento!"
+
+### u039176
+"Non aggiungete altro! Un momento..."
+
+### u039177
+{n}Jae scrolla le spalle.{/n} "Mi limito a ripetere la parola del Maestro dei Sigilli su Dargonus: i servitori hanno sostituito un'intera categoria di burocrati di basso rango assegnati ai pianeti dei von Valancius, oh, circa dieci anni fa ormai."
+
+### u039178
+{n}Atilius annuisce in segno di comprensione.{/n} "Sua Signoria ha mancato la scadenza per la certificazione? Non importa, è un fatto frequente nell'Adeptus Administratum. Se volete, ecco il vostro nuovo sigillo."
+
+### u039179
+"Vostra Signoria! Ai sensi del 13° Emendamento al Decreto sulla Custodia e l'Uso dei Sacri Sigilli Imperiali..." {n}Il segretario coglie il tuo sguardo e deglutisce nervosamente.{/n} "Voglio dire, c-certo, Vostra Signoria. Provvederò a far consegnare il sigillo in custodia al palazzo dell'Adeptus Administratum su Dargonus. Tuttavia, il processo di ratifica per simili... cambiamenti... richiede da cinque anni a diversi decenni. Vi prego umilmente di tenerlo presente."
+
+### u039180
+"A parte gli xenos che si sono {d|Encyclopedia:Ch2_JanusEldarAllies}stabiliti{/d} nelle nostre foreste e di tanto in tanto spaventano la gente, è tutto tranquillo, Vostra Signoria. Siamo riusciti a raggiungere una sorta di intesa... Anche se non senza concessioni da parte nostra, in particolare riguardo alla collocazione dei nostri nuovi complessi agricoli."
+
+### u039181
+"L'Imperatore mi è testimone, Janus continuerà a servire la dinastia von Valancius. Ma non esattamente allo stesso modo di prima."
+
+### u039182
+"Temo tuttavia che le {d|Encyclopedia:Ch2_JanusViolent}conseguenze{/d} dell'operazione per stanare i ribelli si faranno sentire ancora a lungo. La flora e la fauna e, soprattutto, i nostri complessi agricoli impiegheranno decenni a riprendersi."
+
+### u039183
+"Se le cose proseguono in questo modo, non oso nemmeno immaginare a cosa potrebbero portare! Ci sono mondi devastati dalla guerra per generazioni... generazioni, Vostra Signoria! Come quel pianeta folle presso la Stella Senza Nome, così vicino al nostro pacifico sistema. Si dice che gli abitanti vivano sotto il patrocinio del Rogue Trader Winterscale: rabbrividisco al pensiero di ciò che ha creato laggiù!"
+
+### u039184
+{n}Jae si lecca nervosamente le labbra: è chiaro che non si aspettava questa risposta alla sua osservazione.{/n} "Atilius, non credo che l'Eccelso abbia un particolare desiderio di vederti lobotomizzato e trasformato in un ghoul tintinnante senza cervello solo perché qualcuno, da qualche parte, ha cambiato una legge..."
+
+### u039185
+"Temo che non comprendiate! All'Administratum non serve più Atilius Quint. La mia vita e la mia carriera sono finite, ma il mio servizio... oh, il mio servizio sta solo cominciando!"
+
+### u039186
+"Oh, sì, certo, certo..." {n}Atilius rimette in fretta il teschio nel contenitore.{/n}
+
+### u039187
+"Proprio così! Rapporti finanziari, direttive logistiche, bolle di accompagnamento per le spedizioni di viveri... Senza la firma del rispettatissimo e ora defunto capo della Casata Zakaris, le spedizioni agli insediamenti di Aegis-24 sono state sospese. Gli eredi sono ancora alle prese con il trasferimento dei possedimenti e i rapporti in arrivo ci dicono che un quarto dei lavoratori degli insediamenti colpiti è già morto di fame, mentre la maggior parte dei rimanenti ha lasciato il perimetro e non è ancora tornata ai posti assegnati!"
+
+### u039188
+"Ah! Le mie più profonde scuse, Vostra Signoria! Non intendevo offendervi!" {n}Atilius si inchina fino a terra, tremando da capo a piedi.{/n}
+
+### u039189
+"Sapevo che avreste apprezzato i miei sforzi di servire l'Imperium come la legge comanda, Vostra Signoria!"
+
+### u039190
+{n}Jae guarda il segretario con sincera pietà.{/n} "La disponibilità a gettare via tutto ciò che ti rende te stesso... Non la capirò mai. Mai."
+
+### u039191
+{n}Jae emette un respiro, chiaramente sollevata.{/n} "È meraviglioso, Atilius, semplicemente meraviglioso... Solo non andare a frugarti negli occhi con un lungo ago, almeno finché non riceverai un ordine diretto in tal senso dal tuo prezioso Administratum..."
+
+### u039192
+{n}Yrliet serra i denti e ti incenerisce con uno sguardo di totale disprezzo.{/n}
+
+### u039193
+{n}Le dita meccaniche di Atilius volano sul rotolo mentre compila un'altra riga.{/n} "E naturalmente, che grande fortuna vedere, per la prima volta in tutti i miei anni di servizio, un emissario della Navis Nobilite qui su Janus! Porgo umilmente il mio benvenuto all'illustre..."
+
+### u039194
+"Cassia Tisiphia Evriaella, Lady Navigatrice della Casata Orsellio." {n}Tutto in lei, dallo sguardo condiscendente al portamento sicuro e alla voce calma ma autoritaria, segna Cassia come l'erede di una grande stirpe. Sbalordito, il segretario annota ogni lettera del suo nome con particolare meticolosità.{/n}
+
+### u039195
+{n}Getti un {d|Encyclopedia:CharGen_Militarum}occhio esperto{/d} sulle informazioni che ti sono state fornite e ti fai subito un'idea chiara della situazione.{/n}
+
+### u039196
+"Spero che i vostri subordinati abbiano la presenza di spirito di non uccidere i colpevoli sul posto e di interrogarli invece, apprendere l'identità degli altri ribelli ed eseguire prima una serie di interrogatori e punizioni. A parte questo, l'approccio è valido."
+
+### u039197
+{n}Il Manipulus si sposta rapido a incombere su Atilius, esaminandone il cranio con curiosità e ignorando del tutto l'espressione sconvolta del prefectus.{/n} "Devo notare che si tratta di un esemplare xenos eccezionalmente ben conservato. Rogue Trader, osservate il bordo appiattito degli incisivi, le arcate sopraccigliari levigate, l'assenza della terza coppia di molari tipica degli Aelda... che c'è, Nuncius?" {n}Eogunn si ferma di colpo.{/n} "Sì, in effetti mi sono lasciato trasportare, perdonatemi."
+
+### u039198
+"Come desiderate, Vostra Signoria!"
+
+### u039199
+"Che decisione saggia, shereen. Che i figli e i parenti innocenti dei ribelli marciscano sul cavalletto a lezione per tutti gli eretici. Giuro sull'Eccelso, il vostro nome sarà ricordato con affetto su Janus!"
+
+### u039200
+"Oh, Vostra Signoria... Devo confessare che finora non ho avuto il piacere di compilare un sacro modulo di protocollo della decima, poiché le ultime navi imperiali giunte qui lo fecero sotto il mio predecessore. Ripensandoci, saranno passati diversi decenni... Spero davvero che i logisti responsabili di una dimenticanza così imperdonabile ci rimettano la testa!"
+
+### u039201
+"Oh... Devo confessare che la notizia del suo arresto mi ha scosso nel profondo... Posso parlare apertamente? Ammetto di non avere una sola parola cattiva da dire sulla governatrice Vyatt, e spero che, quando valuterete i suoi sforzi, la vostra ira si muterà in clemenza."
+
+### u039202
+{n}I mecadendrite di Pasqal si protendono con interesse verso Atilius, e sembrano inquietarlo un poco.{/n} "Conservato in modo adeguato. Peccato che sia vuoto all'interno: avrebbe potuto diventare un vero araldo servoteschio per il Rogue Trader. Poco ortodosso."
+### u039203
+{n}Atilius Quint tira nervosamente l'orlo del suo mantello impolverato e si inchina con rispetto.{/n} "Vostra Signoria, i sudditi di Janus vi danno il benvenuto! Quali pensieri vi portano sul nostro umile mondo in questa occasione?"
+
+### u039204
+{n}L'espressione di Jae è pensosa mentre si avvolge una ciocca di capelli attorno al dito metallico.{/n} "Interessante, shereen. Pensavo che avremmo avuto a che fare con dei servitori, e invece no: in alcuni luoghi del tuo dominio questo lavoro è ancora svolto da persone in carne e ossa!"
+
+### u039205
+"Ecco a voi." {n}Il segretario porge con cura il certificato sigillato.{/n} "E che l'Imperatore benedica il vostro cammino!"
+
+### u039206
+{n}Il tuo {g|Encyclopedia:Vox}vox{/g} gracchia e si anima. Il sollievo risuona nella voce di Vistenza Vyatt.{/n} "...{name}? State bene! Che sollievo! Vi prego, per la vostra sicurezza, venite all'interno della tenuta. Proseguiremo la nostra conversazione nel mio salotto: immagino desideriate una spiegazione di quanto è accaduto."
+
+### u039207
+Resti che sono stati raschiati e ripuliti a fondo.
+
+### u039208
+Teschio strano
+
+### u039209
+Bacche rugose e fibrose, ricoperte da una corta peluria.
+
+### u039210
+Bacche essiccate
+
+### u039211
+"Hai aiutato i ribelli a entrare nella tenuta!"
+
+### u039212
+"Puoi ancora essere salvato..."
+
+### u039213
+"I tuoi complici risponderanno del tuo tradimento al posto tuo."
+
+### u039214
+"Di' quello che vuoi dire. E sbrigati."
+
+### u039215
+"Quali stanze segrete?"
+
+### u039216
+"Accusi la governatrice, con solo congetture e dicerie a sostegno delle tue parole? Come osi!"
+
+### u039217
+"Che altro succede negli insediamenti?"
+
+### u039218
+"Che cosa ti sei iniettato?"
+
+### u039219
+Giustiziato il servitore che ha tradito la governatrice di Janus.
+
+### u039220
+[Giustizia il servitore] "Morte ai traditori dell'Imperium."
+
+### u039221
+"No! Non ho ancora fatto tutte le mie domande!"
+
+### u039222
+"Manterrò il tuo segreto."
+
+### u039223
+{n}Udendo i tuoi passi, l'anziano servitore afferra un iniettore e se lo pianta nel braccio. L'area attorno all'ago comincia subito a farsi nera.{/n} "Siete in ritardo, cani di Vyatt! Sono padrone del mio destino!" {n}Ma quando ti vede meglio, l'uomo lascia cadere l'iniettore per lo stupore e sembra sul punto di prostrarsi a terra davanti a te.{/n} "Siete voi! Vostra Signoria! Il Dio-Imperatore deve avervi condotto qui! Vi supplico, aiutate i ribelli e salvate Janus!"
+
+### u039224
+"Giuro che non mento! Pregate per me, santa sorella... per me e per Janus!"
+
+### u039225
+"Carne fresca per intrattenere la nobiltà... certe cose non cambiano mai, che si sia sul mio pianeta o in qualunque altro luogo del giusto Imperium."
+
+### u039226
+"Vostra Signoria, avrei potuto fare altrimenti? No, non potevo... non dopo tutto ciò che ho visto nel palazzo! Gente portata lì e torturata. Servitori spinti alla follia. Per molto tempo ho creduto che accadesse solo dentro la tenuta... ma quando sono stato contattato da persone all'esterno, ho scoperto che tutta Janus è minacciata! Solo la vostra clemenza e la luce del Dio-Imperatore possono salvarci!"
+
+### u039227
+"No! Non sprecate il vostro tempo con uno che è già come morto... Lascerò questo mondo felice, sapendo di essere libero dalle grinfie di quel mostro seduto sul trono della governatrice..."
+
+### u039228
+"In nome del Trono d'Oro, Vostra Signoria, abbiate pietà degli umili lavoratori, il sale di Janus: salvateli! Vistenza Vyatt, l'intoccabile governatrice e capo della nobiltà, sta creando qualcosa di mostruoso a porte chiuse. Usa gli interessi dell'Imperium come cortina fumogena e si spaccia per studiosa, ma le sue azioni... le sue azioni stanno avvelenando il nostro pianeta!"
+
+### u039229
+"Camere nascoste nelle profondità del palazzo. Non vi sono mai stato... per fortuna. I servitori a cui è permesso entrare, quelli di cui la governatrice si fida... cambiano. È lei a cambiarli. Li abbellisce. Li profana."
+
+### u039230
+"Vostra Signoria, sono pronto a giurare sulla mia vita e sulla mia anima, che la luce dell'Imperatore la preservi, che non sono congetture. Viviamo sotto il governo di Vyatt da decenni ormai e le cose peggiorano sempre di più a ogni anno che passa... La gente non riesce più a tollerare l'incubo che si annida tra le mura di questa tenuta!"
+
+### u039231
+"Sapevate che agli insediamenti che non pagano la decima dovuta in tempo è stato permesso di pagare con delle persone? Le consegnano perfino su ordinazione: a volte vecchi, a volte bambini..." {n}Abbassa la voce in un sussurro e si china verso di te.{/n} "Ho visto quelle persone. Le ho viste consegnare alla tenuta... e poi nessuno le rivede o ne sente più parlare. Entrano nelle stanze segrete e non ne escono più, Vostra Signoria. Mai."
+
+### u039232
+"Vi dirò esattamente ciò che mi hanno detto le persone che mi hanno contattato. Queste decime... alcuni insediamenti sono già passati a pagare con persone. Dicono che gli insediamenti accondiscendenti ricevano un trattamento speciale dai cani della governatrice. Dispongono che all'insediamento vengano forniti medicinali. Poi la sicurezza. E poi lo isolano del tutto: ogni contatto fra chi sta dentro l'insediamento e il mondo esterno viene tagliato!"
+
+### u039233
+"Un ragazzo è riuscito a scappare: è lui che mi ha raccontato tutto questo... che la gente laggiù marcisce viva! Escrescenze strane, occhi gialli, puzza di cadavere... I più sfigurati vengono radunati e portati via... Quello che è scappato sembrava stare bene, ma nel giro di un paio di giorni da quando i ribelli l'avevano raccolto, ha cominciato a vedere mostri al posto delle persone. Hanno dovuto rinchiuderlo lontano dagli altri, povero diavolo, e poi lui... i suoi polsi..."
+
+### u039234
+"Liberazione... da ciò che i cani di Vyatt mi farebbero se mi prendessero." {n}Si forza a sfoggiare un sorriso.{/n} "Mi è stata data la fiala insieme alle istruzioni su quando far entrare nella tenuta i nostri liberatori."
+
+### u039235
+{n}Il vecchio crolla a terra come un peso di piombo. Il sangue gli cola dalla bocca sul mento, un'espressione di sorpresa congelata negli occhi vitrei.{/n}
+
+### u039236
+{n}Si piega in due, stringendosi le braccia al petto, scosso da una tosse che gli lascia le labbra umide di sangue.{/n} "...Perdonatemi, Vostra Signoria. Se solo avessi saputo che eravate voi. I miei occhi mi hanno ingannato! Ora abbiamo poco tempo, ma giuro che vi dirò tutto!"
+
+### u039237
+"Che il Trono ti danni, vecchio, dove hai preso questa roba? Le capsule di veleno di questo tipo sono una scelta diffusa fra gli ashmag disperati che ne hanno abbastanza di essere torturati da fanatici pazzi o di peggio. Qui su Janus, però... non esiste antidoto."
+
+### u039238
+"Neppure i contadini portati su Eurac V a servire la Casata Orsellio sono mai più stati visti né sentiti. Sono diventati servitori leali e hanno faticato per il bene di una grande dinastia: perché mai dovrebbero tornare alle loro sudice e squallide dimore?"
+
+### u039239
+"Non vedo ombre d'inganno dietro le tue parole, e anche così... me ne sarei accorta. So che me ne sarei accorta dei segni di cui tu..." {n}Il volto di Yrliet si tende come una corda e il dubbio si insinua nella sua espressione.{/n} "Tranne che, ogni volta che Vistenza dà uno dei suoi balli al palazzo, mi manda a cercare i ribelli. Nelle foreste, lontano dagli insediamenti umani."
+
+### u039240
+{n}Kibellah raccoglie con l'artiglio una goccia di veleno dall'ago e se la porta con cautela sulla lingua. Emette un suono di approvazione.{/n} "Una tossina potente. Qualcosa di simile lo applichiamo sulle labbra dei nuovi iniziati del Bloodspun Web. Uccide i nervi minori ed elimina la sensibilità al dolore. Per questo profano, però, è una morte certa e violenta."
+
+### u039241
+"L'aristocrazia è nota per le sue innumerevoli inclinazioni riprovevoli. Tuttavia, a meno che queste debolezze non diano motivo di dubitare della lealtà del pianeta verso l'Imperium, non meritano una condanna a morte."
+
+### u039242
+{n}Eogunn raccoglie l'iniettore con il suo mecadendrite e ne espelle i residui nell'alambicco che porta sulla spalla, mentre il liquido all'interno si tinge all'istante di un nero cupo.{/n} "Un agente nervino ad azione periferica. La neutralizzazione è impossibile fuori dall'infermeria della nave. Tempo stimato fino al decesso... questione di minuti. Mi dispiace."
+
+### u039243
+"Non perdere tempo con domande ovvie, {name}! Non durerà a lungo: fa' in modo che le tue domande contino!"
+
+### u039244
+"Accusi di eresia la governatrice nominata dal Rogue Trader. Se le tue parole sono false, esse stesse equivalgono a eresia. Ma se ciò che dici è vero... se è vero, il tuo sacrificio sarà a tuo merito, brav'uomo!" {n}Argenta pronuncia queste ultime parole con appassionata convinzione.{/n}
+
+### u039245
+{n}Osservando da vicino il vecchio, il Tecnoprete proferisce,{/n} "Tossina nervina. La cessazione inevitabile delle funzioni vitali è prevista entro non più di sessanta secondi." {n}Clic silenziosi emessi dalla visiera indicano una registrazione pict in corso.{/n}
+
+### u039246
+{n}Il vecchio servitore emette un gemito. La macchia scura sul suo braccio sembra insinuarsi nelle vene finché braccia e collo non diventano un reticolo di nero. Il respiro del servitore si fa rapido e irregolare.{/n}
+
+### u039247
+{n}Il servitore trema e tossisce con violenza.{/n} "Non... non sono sicuro di durare abbastanza da rispondere a tutte le vostre domande..."
+
+### u039248
+{n}Il vecchio comincia a convulsionare, segno che è vicino alla morte. Solleva su di te gli occhi ormai ciechi.{/n} "Vostra Signoria... se permettete a un moribondo di fare un'ultima richiesta... Non dite a nessuno che sono stato io a sbloccare le porte... Se lo fate... loro... loro si rifaranno sulla mia famiglia... sulla mia casa..."
+
+### u039249
+"Vi prego, salvateci... salvate... Janus..." {n}Il servitore rantola con violenza e si accascia su un fianco, squassato dalle convulsioni.{/n}
+
+### u039250
+"Parla, o farò a pezzi questo mondo per sbarazzarmi di feccia come te e dei tuoi simili!"
+
+### u039251
+"Non ci sarà fine alla guerra su questo pianeta finché non avrò la situazione in pugno. Ma per farlo devo incontrare il vostro capo."
+
+### u039252
+Giustiziato il giovane ribelle su Janus.
+
+### u039253
+[Giustizia il ribelle] "Morte agli insorti."
+
+### u039254
+[Sfonda la porta]
+
+### u039255
+[Scassina la serratura]
+
+### u039256
+"Sono {name}, Rogue Trader e {mf|sovrano|sovrana} di questo pianeta. In nome dell'Imperatore, apri questa porta!"
+
+### u039257
+[Rivolgiti all'ufficiale] "Ho finito. Procedi con l'operazione di bonifica."
+
+### u039258
+"Salvarti da che cosa?"
+
+### u039259
+[Allontanati dalla porta]
+
+### u039260
+"Perché dovrei ascoltare un lurido insorto?"
+
+### u039261
+[Esamina la porta]
+
+### u039262
+"Alzati e vieni con me. Ti do la mia parola di Rogue Trader: vivrai."
+
+### u039263
+"Come osi ribellarti a {mf|un vassallo|una vassalla} dell'Imperium!"
+
+### u039264
+"Mi stai dicendo che la gente vede spiriti maligni?"
+
+### u039265
+"Chi c'è dietro i ribelli?"
+
+### u039266
+[Giustizia il ribelle] "Ho finito di ascoltarti, ribelle."
+
+### u039267
+Concessa una morte facile al giovane ribelle su Janus.
+
+### u039268
+[Concedi al ribelle una morte facile] "Le persone che aspettano fuori ti infliggeranno un tormento ben peggiore del mio. Addio."
+
+### u039269
+{n}Mentre ti avvicini alla porta dall'aspetto massiccio, una voce acuta e giovanile grida,{/n} "Fuori dai piedi! Non mi prenderete vivo! Meglio una pallottola nel cervello che lasciare che i cani della governatrice mi mettano le mani addosso!"
+
+### u039270
+"Questo sarebbe uno degli inafferrabili e astuti ribelli contro cui la governatrice combatte da mesi? Davvero?"
+
+### u039271
+{n}Il corpo del ragazzo si affloscia e cade a terra.{/n}
+
+### u039272
+{n}Il ribelle tremante si rannicchia a terra sotto il tuo sguardo.{/n} "Vostra Signoria, no! Vi prego, non fate del male agli altri!"
+
+### u039273
+"Io... no! No, preferisco morire!" {n}Il ribelle, tremante di terrore, unisce le mani e comincia a pregare.{/n}
+
+### u039274
+{n}Il ragazzo esita per qualche secondo, poi la sua testa ciondola inerte.{/n} "Purché manteniate la parola..."
+
+### u039275
+{n}Deglutisce nervosamente e ti guarda con paura.{/n} "Vostra Signoria, vi prego, non chiedetemelo! Non posso vendere gli altri... non li tradirò!"
+
+### u039276
+{n}Qualche colpo potente e la porta si spalanca, rivelando la via d'accesso.{/n}
+
+### u039277
+{n}Dopo diversi colpi, ti rendi conto che abbattere questo ostacolo va oltre le tue capacità. Senti i custodi scambiarsi occhiate dietro di te e la nuca ti si fa rovente.{/n}
+
+### u039278
+{n}Ti ci vuole mezzo minuto per capire l'arcaico meccanismo. Con un lieve clic, la porta si apre e ti permette di entrare.{/n}
+
+### u039279
+{n}La serratura si rifiuta di cedere, nonostante i tuoi sforzi. Per di più, sembra che una delle molle all'interno si sia spostata, trasformando la serratura chiusa in un chiavistello inamovibile.{/n}
+
+### u039280
+{n}Per molto tempo non accade nulla. Poi la porta si apre con un rapido clic.{/n}
+
+### u039281
+"Mi prendi per un idiota? Prenditi le tue menzogne e soffocaci, tu e quella tua maledetta padrona!"
+
+### u039282
+"Ricevuto, Vostra Signoria! Vi prego, state indietro: non voglio che vi facciate male."
+
+### u039283
+"Dalla governatrice Vyatt! Tutti qui sanno cosa ci sta facendo. Lo sopportiamo da molto tempo, sperando che qualcuno intervenisse e ci aiutasse... Ma nessuno l'ha mai fatto..."
+
+### u039284
+{n}Lo spazio è angusto, gli angoli colmi di ombre nere come inchiostro, ma riesci comunque a distinguere la persona nella stanza. Stringe disperatamente tra le mani un fucile laser scarico. Il ribelle ti guarda sbalordito.{/n} "Siete davvero voi..."
+
+### u039285
+{n}L'interno è poco illuminato, ma individui una persona in piedi nell'angolo più lontano. Stringe disperatamente tra le mani un fucile laser scarico. Alla tua vista gli occhi gli si spalancano in un misto di riconoscimento e paura.{/n} "N-non può essere... Il Rogue Trader!"
+
+### u039286
+{n}La porta massiccia ti sbarra diligentemente la via. Cercare di sfondare questa lastra senza una sorta di ariete sarebbe una follia. Il tuo sguardo cade sulla serratura: un modello militare, tipicamente usato per le porte esterne degli edifici governativi.{/n}
+
+### u039287
+{n}Deglutisce nervosamente e ti guarda con paura.{/n} "Vostra Signoria, vi prego, non chiedetemelo! Non posso vendere i miei fratelli! Per me è finita, ma gli altri... non li tradirò!"
+
+### u039288
+"Io... La mia sorellina è stata portata al palazzo. Vostra Signoria, era così piccola... Ogni volta che penso a quello che le è successo, vorrei uccidere tutti, la governatrice e chiunque la protegga." {n}Il ragazzo deglutisce.{/n} "Tutti noi piangiamo le nostre perdite."
+
+### u039289
+{n}L'interno dell'edificio è immerso nella penombra. Noti mobili rovesciati e sangue sparso su tutto il pavimento.{/n}
+
+### u039290
+"Lasciate fare a noi, Vostra Signoria. Questo ratto ha avuto campo libero nella tenuta fin troppo a lungo. Risolveremo il problema in un minuto, ma vi prego di allontanarvi dall'edificio."
+
+### u039291
+{n}Il ribelle ti guarda sconcertato, poi si inchina profondamente davanti a te. Quando parla, la sua voce trema:{/n} "Vostra Signoria... grazie! Grazie per questa gentilezza... Non avrei mai pensato di sopravvivere a questo..."
+
+### u039292
+{n}La porta sembra solida e imponente, ma noti segni scuri sui cardini: segno sicuro che il materiale è degradato. Neppure la serratura sembra nuova: con un attrezzo adatto potrebbe essere aperta senza difficoltà.{/n}
+
+### u039293
+"Non sono mai stato nel loro campo, nessuno di noi c'è stato. Solo il capo ha visto una persona della loro base: è venuta un paio di volte, portando armi e ordini; diceva di rappresentare una forza più grande di quanto possiamo immaginare... e diceva che i cani della governatrice pagheranno per le loro rappresaglie negli insediamenti. Ma non si nascondono lì: tengono le distanze dalla gente comune."
+
+### u039294
+{n}Il giovane, poco più di un ragazzo, cade in ginocchio e tende verso di te le mani insanguinate. I suoi vestiti sono bruciati da un lato e sporchi di sangue rappreso.{/n} "Vostra Signoria, pietà! Siete {mf|il sovrano|la sovrana} di questo pianeta! Solo voi avete il potere di salvarci!"
+
+### u039295
+"Lei... ha trasformato tutto il mondo in un mattatoio! La gente viene radunata come {g|Encyclopedia:Grox}grox{/g} dagli insediamenti, ufficialmente per andare al palazzo, e non viene più vista! I suoi servitori versano qualcosa sui campi e poi la gente perde la testa: comincia a sentire voci e a vedere spiriti maligni! E mentre noi moriamo, lei siede dietro le sue mura bianche e banchetta con le nostre ossa!"
+
+### u039296
+"Voi... voi non potete restare a guardare mentre i vostri vassalli distruggono i vostri mondi! La governatrice fa quello che vuole! Rastrella famiglie, rade al suolo interi insediamenti!"
+
+### u039297
+"Sì! Altri diventano selvaggi e attaccano i propri cari... E poi c'è..." {n}Il ragazzo abbassa la voce.{/n} "La gente dice che in alcuni insediamenti... beh... hanno smesso del tutto di rispettare la legge. La legge imperiale, e... e... la legge della semplice decenza umana. La gente si sta trasformando in animali."
+### u039298
+"Abbiamo organizzato tutto in modo che, se qualcuno viene preso, gli altri non vengano presi con lui. Ma io ho fregato il {g|Encyclopedia:Vox}vox{/g} del capo... Pensavo che, dopo aver ucciso la governatrice, avrei potuto usare le coordinate dei messaggi per trovare la base e nascondermi lì..." {n}Il ragazzo estrae un vox dalla tasca e te lo porge con mano tremante.{/n} "Questo è tutto quello che so, Vostra Signoria."
+
+### u039299
+"La giovinezza è un tempo di avventatezza. L'ho sentito dire più di una volta nella Schola Progenium e durante il mio noviziato. Ma la giovinezza è anche un tempo di franchezza! Ascoltiamo questo giovane prima di giudicarlo."
+
+### u039300
+"Mi hanno insegnato che i contadini tendono a esagerare le proprie sofferenze per pigrizia e debolezza di spirito. Ma questo giovane... Spine vermiglie trafiggono ogni centimetro del suo corpo e grigi ceppi gli serrano mani, piedi e collo... Non c'è menzogna nelle sue parole. Solo terrore e disperazione senza fine."
+
+### u039301
+{n}Il volto di Yrliet si contrae.{/n} "Sacrifici, follia, dolore e morte... anche in una società primitiva come questa, simili riti appaiono... insensati, indegni di tanti sforzi. Che cos'è, un capriccio casuale della natura, o qualcosa di più oscuro?"
+
+### u039302
+{n}Idira guarda Argenta un po' confusa, come se non si aspettasse tanta gentilezza da lei.{/n} "Sono d'accordo con la sorella. La gente non diventa ribelle perché nella sua vita va tutto a gonfie vele. E il ragazzino è acerbo come un frutto verde, sarebbe un peccato ammazzarlo per niente... Qualcosa non va su Janus, lo sento: forse lui può far luce su quello che sta succedendo."
+
+### u039303
+"Non sono prove sufficienti per un'accusa in piena regola, ma la dottrina degli Arbites esalta la vigilanza. Propongo di verificare se si tratti di disinformazione che i capi della ribellione somministrano ai loro sottoposti o di una testimonianza genuina."
+
+### u039304
+"Che cosa succede qui?"
+
+### u039305
+"Chi è?"
+
+### u039306
+"Voglio parlare con la persona all'interno."
+
+### u039307
+"Stermina quel ratto."
+
+### u039308
+"Sei evidentemente occupato. Non ti disturberò oltre."
+
+### u039309
+"Hai intenzione di avvelenare il ribelle?"
+
+### u039310
+"D'accordo, va bene. Darò un'occhiata in giro quando avrai finito."
+
+### u039311
+"Osi mettermi in discussione? Fuori dai piedi."
+
+### u039312
+"Voglio risolvere questo problema senza troppo sangue né troppe storie."
+
+### u039313
+Hai lasciato andare il giovane ribelle su Janus.
+
+### u039314
+"Scorta quest'uomo in sicurezza fino al perimetro della tenuta. È libero di andare."
+
+### u039315
+Hai ordinato di arrestare il giovane ribelle su Janus.
+
+### u039316
+"Quest'uomo è ora sotto la mia protezione. Fa' in modo che sia tenuto al sicuro in custodia finché il suo destino non sarà deciso da un processo equo."
+
+### u039317
+Hai ordinato di scuoiare il giovane ribelle su Janus.
+
+### u039318
+"Fai un esempio con questa feccia. Scuoialo pubblicamente e appendi il suo cadavere fuori dalla casa della sua famiglia come monito. Se qualcuno prova a rimuoverlo, spara."
+
+### u039319
+"Che cos'ha di tanto speciale questo edificio?"
+
+### u039320
+Hai ordinato di servitorizzare il giovane ribelle su Janus.
+
+### u039321
+"Quest'uomo servirà ancora Janus. Consulta i tuoi consiglieri e fa' in modo che questo ribelle diventi un utile servitore."
+
+### u039322
+{n}Un uomo massiccio, con un'uniforme che lo contraddistingue come ufficiale dei custodi governatoriali, sorveglia da vicino i suoi subordinati mentre circondano l'edificio. Percependo il tuo avvicinarsi, si volta di scatto, impallidisce e si inchina profondamente.{/n} "Vostra Signoria! Vi prego, non avvicinatevi troppo all'edificio. Uno dei terroristi dell'attacco di oggi vi si è asserragliato. Potrebbe essere pericoloso."
+
+### u039323
+{n}L'ufficiale tira nervosamente il colletto, che sembra essersi improvvisamente fatto troppo stretto per il suo comfort.{/n} "R-risolveremo la cosa. Subito, lo giuro sul Trono!"
+
+### u039324
+"Ho una sola domanda, ufficiale: perché non l'avete già fatto? Il Rogue Trader è qui e, più indugiate, più ne mettete inutilmente a rischio la vita!"
+
+### u039325
+{n}L'ufficiale sussulta appena al ringhio di Abelard.{/n} "È imperdonabile, Vostra Signoria! I barili di veleno sono stati consegnati solo ora... Ma siamo... siamo pronti a cominciare!"
+
+### u039326
+"Pronto a riferire, Vostra Signoria. Abbiamo compiuto un rastrellamento della zona dopo l'attacco. Tutti gli assassini sono stati arrestati o neutralizzati, tranne uno..." {n}L'ufficiale aggrotta cupamente la fronte.{/n} "Si è sigillato là dentro. Ha già ferito due custodi che hanno tentato di raggiungerlo. Ma non c'è motivo di preoccuparsi: lo avveleneremo e ripuliremo la tenuta dagli ultimi residui di sporcizia."
+
+### u039327
+{n}L'ufficiale aggrotta la fronte.{/n} "A dire il vero, Vostra Signoria, al momento mi preme più sgombrare la zona che conoscere la sua identità. Non ci aspettiamo di ottenere da lui informazioni di valore, a meno che non troviamo qualcosa sul suo cadavere dopo aver finito il nostro lavoro."
+
+### u039328
+"Sono l'ufficiale della sicurezza della signora governatrice. Mi rammarico che abbiate dovuto assistere all'incidente di oggi, Vostra Signoria. Vi assicuro che nulla di simile accadrà mai più."
+
+### u039329
+"Ne siete {mf|certo|certa}? Non è esattamente sicuro, Vostra Signoria." {n}Gli occhi dell'ufficiale ti percorrono involontariamente, soppesandoti.{/n}
+
+### u039330
+"Ricevuto, Vostra Signoria! Custodi! Al lavoro!"
+
+### u039331
+{n}L'ufficiale sembra ricordarsi di sé e rivolge un altro profondo inchino.{/n} "Perdonatemi, Vostra Signoria! Agite come ritenete opportuno!" {n}Al segnale dell'ufficiale, gli altri custodi fanno un deferente passo indietro, liberandoti la strada verso la porta.{/n}
+
+### u039332
+"Avremo finito tra pochi minuti." {n}L'ufficiale si inchina ancora una volta profondamente, poi si volta verso i suoi soldati.{/n} "Cominciate!"
+
+### u039333
+"Sì, Vostra Signoria?"
+
+### u039334
+{n}L'ufficiale annuisce.{/n} "Stiamo usando l'insetticida delle nostre scorte, Vostra Signoria. Non disponiamo di veleni di grado militare, ma non ci servono, non per questo parassita."
+
+### u039335
+{n}L'ufficiale prende fiato.{/n} "Come desiderate, Vostra Signoria." {n}Al segnale dell'ufficiale, gli altri custodi fanno un deferente passo indietro, liberandoti la strada verso la porta.{/n}
+
+### u039336
+{n}L'ufficiale dei custodi getta uno sguardo sdegnoso al ribelle prima di rivolgere l'attenzione a te.{/n} "Vostra Signoria, onoro il vostro coraggio. Permettetemi di liberarvi di questo ratto."
+
+### u039337
+"Volentieri, Vostra Signoria. Trascinate questa carogna in una cella, ragazzi."
+
+### u039338
+{n}Un'espressione sbalordita compare sul volto dell'ufficiale.{/n} "Con il più profondo rispetto, Vostra Signoria..." {n}L'ufficiale ripensa alle parole successive e si inchina bruscamente.{/n} "Sarà fatto."
+
+### u039339
+"Cosa? No! Tutto, ma non questo..."
+
+### u039340
+"Subito, Vostra Signoria!" {n}L'ufficiale fa un segnale ai suoi subordinati.{/n}
+
+### u039341
+"È uno degli edifici di servizio. Per fortuna era vuoto al momento dell'attacco: dentro non c'erano potenziali ostaggi né innocenti. Se volete il mio parere, credo sia stato il primo posto in cui l'assassino è arrivato durante la ritirata. Siamo riusciti a rastrellare tutti gli altri, ma questo si è asserragliato là dentro."
+
+### u039342
+"Un solo ashmag contro tutti i custodi di questa tenuta, e riesce ancora a creare guai? Su Efreet sarebbe già stato nominato capitano e messo a capo della sicurezza della governatrice: l'Eccelso sa che ha più cervello di tutti voi messi insieme!"
+
+### u039343
+"Questo non è un edificio di servizio vuoto, ma una cripta di riserva inattiva per lo stoccaggio di refrigerante e attrezzature di congelamento. È evidente. La tua ignoranza è deprimente, servo."
+
+### u039344
+"Scusate!"
+
+### u039345
+"Quanti servitori dell'Adeptus Mechanicus ci sono sul pianeta?"
+
+### u039346
+"Che cosa fai qui su Janus?"
+
+### u039347
+"Parleremo più tardi."
+
+### u039348
+"Di che cosa stai parlando? Non posso crederci! Dobbiamo occuparcene con urgenza!"
+
+### u039349
+"Quali patologie nella flora e nella fauna?"
+
+### u039350
+"Come affronta la governatrice le 'patologie indesiderate'?"
+
+### u039351
+[Ringhiando minacciosamente] "Zitto, sciocco. Racconta questa cosa a qualcuno e ti uccido."
+
+### u039352
+"Tracce di attività xenos?"
+
+### u039353
+"L'ho trovato sul corpo di un ribelle morto. Sai dirmi qualcosa su questi esemplari?"
+
+### u039354
+"Non dire sciocchezze, ingranaggio. Fa' il tuo lavoro invece di cercare di scovare cospiratori immaginari!"
+
+### u039355
+"Grazie per le informazioni."
+
+### u039356
+"Come vanno le cose con te e i tuoi confratelli?"
+
+### u039357
+{n}Avvolto in un mantello rosso, il corpo del Magos ha ben poco di umano. Fili, tubi e manipolatori metallici ne fanno una bizzarra macchina, mentre gli impianti nascondono il suo volto dietro una sinistra maschera. Il Tecnoprete detta a tratti qualcosa in Techna-Lingua al servoteschio che gli fluttua accanto, ma al tuo avvicinarsi tace e rivolge un inchino riservato.{/n} "Salute, Vostra Signoria. Lexmeccanico Vinzelex. Come posso servirvi?"
+
+### u039358
+{n}Il Magos ti nota e rivolge un inchino dignitoso.{/n} "Vostra Signoria. Come posso aiutarvi?"
+
+### u039359
+"Interessante... Spesso sono anomalie apparentemente insignificanti come queste a condurre a guai maggiori."
+
+### u039360
+"I cambiamenti potrebbero essere artificiali. È stata presa in considerazione la possibilità che qualcuno stia manipolando l'ecosistema per ridurre il nostro spazio vitale?"
+
+### u039361
+"Grazie all'{d|Encyclopedia:Ch2_JanusEldarEliminated}eradicazione{/d} degli elementi anarchici e delle xenocreature che li manipolavano, si registra una tendenza positiva nel campo della ricerca sulle remote regioni forestali del pianeta. I resti della xenocivilizzazione degli Aeldari, i cui insignificanti insediamenti esistevano sul pianeta in un lontano passato, sono stati scoperti e sottoposti a catalogazione primaria."
+
+### u039362
+"Gli algoritmi di lavoro dei miei compagni sono stati sottoposti a interrogazione e tutti gli ordini dell'ex governatrice sono stati rimossi dalla coda procedurale per evitare un'influenza corruttrice occulta sulle sacre opere dei servitori del Deus Mechanicus."
+
+### u039363
+"Che tu sia benedetto, tecno-fratello. La tua diligenza e quella di chi è come te trasformano l'anarchia in ordine e conferiscono classificazione alla Conoscenza." {n}Uno dei mecadendrite di Pasqal sfiora leggermente il corpo del Lexmeccanico. Il Tecnoprete si inchina rispettosamente in risposta, chiaramente un po' sorpreso.{/n}
+
+### u039364
+"L'osservazione delle remote regioni forestali è difficoltosa a causa dell'attività delle xenocreature. Il livello di minaccia rilevato è basso. Protocolli per evitare il contatto sono stati introdotti nelle Procedure Standard al fine di evitare provocazioni di aggressione."
+
+### u039365
+"Avvio del rapporto. Il suolo del pianeta possiede una composizione unica, adatta alla riprogettazione del pianeta e alla produzione di massa di derrate alimentari. Coltivazione significativa dell'emisfero orientale con l'obiettivo di migliorare i processi produttivi e le operazioni logistiche. Tracce di attività xenos che non costituiscono una minaccia immediata per le operazioni in corso. Sono state rilevate patologie indesiderate della flora e della fauna, che possono costituire una minaccia a breve termine."
+
+### u039366
+"Vostra benedizione per l'esame, Magos?" {n}Il Lexmeccanico attende rispettosamente finché Pasqal non annuisce.{/n}
+
+### u039367
+"Patologie genetiche e chimiche, Vostra Signoria. Specie innocue mutano e diventano aggressive, mentre le piante cambiano composizione chimica e diventano velenose. Accade sempre più spesso e, se non si interviene, l'ecosistema del mondo sarà irrimediabilmente sconvolto."
+
+### u039368
+"Ho analizzato il genoma delle specie colpite e sto sviluppando geni soppressori per rendere gli organismi del pianeta resistenti alla patologia, ma finora non sono riuscito a risolvere il problema. Un'ulteriore esplorazione del pianeta forse accelererebbe questi processi, ma l'apparato amministrativo ha imposto il divieto di spedizioni che non siano direttamente mirate al miglioramento della produzione."
+
+### u039369
+"Vi ascolto."
+
+### u039370
+{n}La voce meccanica del Tecnoprete proviene dall'altoparlante che ha sul collo.{/n} "Per ordine dell'Adeptus Mechanicus mi è stata affidata la gestione dell'Adeptus Administratum, al fine di catalogare i dati agronomici e analizzare le informazioni sul pianeta durante il processo di assoggettamento alla volontà dell'Imperium."
+
+### u039371
+"Secondo i dati ottenuti durante la ricognizione iniziale, in diversi settori del pianeta sono state rilevate strutture in rovina di origine non umana, ma non ho avuto la capacità amministrativa di studiarle più in dettaglio. Per ora devo rinviare la Ricerca della Conoscenza."
+
+### u039372
+{n}Il Tecnoprete studia le bacche essiccate e si immobilizza. Senti i distinti clic dei suoi {g|Encyclopedia:Cogitator}cogitatori{/g} cerebrali che elaborano l'informazione.{/n} "Creeweed strisciante, una pianta tipica dell'emisfero occidentale. Abbiamo studiato la possibilità di una coltivazione industriale, ma il processo è risultato inefficiente a causa dei requisiti specifici del suolo, che si trova nella giusta composizione solo negli arcipelaghi del pianeta."
+
+### u039373
+{n}Eogunn risponde al Lexmeccanico con una breve frase in Lingua-Technis. Vinzelex si inchina rispettosamente a sua volta davanti al Manipulus.{/n}
+
+### u039374
+{n}Il Tecnoprete ti porge una tavoletta dati. La voce si fa ancora più querula:{/n} "Trasmetto i dati di diciotto visite registrate di alti dirigenti della colonia all''Area Forestale Riservata di L-Than', compiute in segreto."
+
+### u039375
+{n}Il Genetor annuisce con gravità.{/n} "Un'impresa degna. Solo i dati statistici, compilati con sufficiente diligenza, possono servire da fondamento per ipotesi meritevoli di considerazione."
+
+### u039376
+"No, Nuncius, mi sembra un'assunzione troppo azzardata. Non possiamo accettare come fatto che l'intera biosfera di Janus sia un unico organismo che manifesta in tal modo una risposta immunitaria a uno stimolo. Affidarsi a congetture invece che a dati provati è inaccettabile."
+
+### u039377
+"Dunque l'Adeptus Administratum cerca di aumentare l'efficienza della produzione agricola, ma al contempo pone il veto a ogni ricerca e bonifica delle anomalie genetiche nella flora e nella fauna locali?" {n}Il Manipulus inarca un sopracciglio con scetticismo.{/n} "La decisione è contraddittoria fin dalle fondamenta. Di chi è la colpa: mancanza di competenza o sabotaggio deliberato?"
+
+### u039378
+{n}Vinzelex emette un lugubre trillo binarico.{/n}
+
+### u039379
+"Vostra benedizione per l'esame, Magos?" {n}Il Lexmeccanico attende rispettosamente finché Eogunn non annuisce.{/n}
+
+### u039380
+{n}Il Tecnoprete balbetta con timore,{/n} "Confermato. Mi scuso. Declassamento della priorità di sovrintendenza ai processi di amministrazione della colonia, ritorno alle funzioni primarie."
+
+### u039381
+"Vostra benedizione per l'esame, stimati Magi?" {n}Il Lexmeccanico attende rispettosamente il permesso di Pasqal ed Eogunn.{/n}
+
+### u039382
+"State suggerendo che il pianeta sia, alla lettera, un essere vivente, stimato Genetor?"
+
+### u039383
+"Nuncius ne è convinto, collega. Non ci badate, è una mera ipotesi non verificata."
+
+### u039384
+{n}Il Lexmeccanico pronuncia queste ultime parole con evidente invidia, tenendo gli occhi fissi sul Genetor Februs.{/n}
+
+### u039385
+{n}Il Lexmeccanico pronuncia queste ultime parole con evidente invidia, tenendo gli occhi fissi sia sul Magos Haneumann sia sul Genetor Februs.{/n}
+
+### u039386
+"È l'ira dei Lilaethan, un'ira che si sta manifestando nella natura stessa, nel funzionamento di questo mondo... Che gli dei ci preservino, come abbiamo fatto a non accorgercene prima..." {n}Yrliet ti lancia un'occhiata prima di distogliere subito lo sguardo.{/n}
+
+### u039387
+"Secondo i dati conservati nel mio {g|Encyclopedia:Cogitator}cogitatore{/g}, tutti i nodi infrastrutturali per la raccolta e la lavorazione dei viveri dispongono di un proprio contingente di tecnomati: il numero totale ammonta a duecentocinquantatré. Correzione: in base ai dati più recenti, la cifra è di duecentoundici unità."
+
+### u039388
+{n}Pasqal e il Lexmeccanico si scambiano trilli binarici di saluto. La serie di suoni emessa da Vinzelex risulta molto più lunga e deferente di quella di Pasqal.{/n}
+
+### u039389
+{n}Il Lexmeccanico pronuncia le ultime parole con evidente invidia, gli occhi fissi sul Magos Haneumann.{/n}
+
+### u039390
+"Niente affatto, venerabile Magos. Io... I nostri tecno-compagni del Magos Biologis sono umili lavoratori, non guerrieri. Non avrebbero potuto concepire un pensiero di natura così bellicosa."

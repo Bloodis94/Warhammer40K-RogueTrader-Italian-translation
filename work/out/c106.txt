@@ -1,0 +1,858 @@
+### u038559
+"Se il Lilaethan rimane sotto la nostra custodia, sono disposto a raggiungere un accordo. Non perderemo un altro dei nostri e potremo prenderci cura di questo mondo, che ha sofferto così a lungo sotto il giogo dell'Umanità. Quanto ai mon-keigh che governano..." {n}Muaran fa uno strano gesto, e gli Aeldari dietro di lui si lanciano di corsa nella foresta.{/n} "Vi aiuteremo."
+
+### u038560
+{n}Cassia guarda lo xenos e si copre la bocca.{/n} "Così... luminoso... Tutti questi colori accecanti rendono difficile concentrarsi... Stanno divorando la feccia ribelle e cercano di divorare anche noi."
+
+### u038561
+"Io..." {n}Yrliet si interrompe.{/n} "Avevo dimenticato il mio Sentiero. Avevo dimenticato cosa significhi fidarsi del mio giudizio. Elantach, hai ragione. Ho visto troppi segni per negarlo: sul Lilaethan incombe una minaccia, e non viene dai mon-keigh."
+
+### u038562
+"I colori di questi xenos sono dolorosi da guardare, ma altrettanto dolore c'è nei loro cuori. Oppure è... paura? Disperazione? Non so dirlo, le sfumature sono troppo strane... troppo... Ah!" {n}Cassia sussulta, e un filo di sangue le scorre lungo la guancia.{/n}
+
+### u038563
+{n}L'Aeldar ridacchia, e la sua voce si fa velenosa.{/n} "Oppure potrebbe essere che la vostra incontenibile fame di distruggere tutto ciò che incontrate regni su ogni vostro pensiero e ogni vostra azione."
+
+### u038564
+"Stai pur {mf|certo|certa} che il solo suono della vostra lingua primitiva ci provoca altrettanta sofferenza: nemmeno un traduttore può attenuarne la rozzezza."
+
+### u038565
+{n}Muaran ti fissa intensamente.{/n} "Se queste parole fossero venute da un {g|Encyclopedia:Aeldari}Aeldari{/g}, ci avrei creduto. Ma tu sei solo un mon-keigh, un giocattolo delle tue stesse passioni. Qualunque emozione si impadronisca della tua anima può scacciare ogni traccia di ragione e di onore."
+
+### u038566
+"Non è mia intenzione far sedere i miei fratelli e le mie sorelle nel consiglio, mon-keigh. Quel ruolo toccherà agli umani: puoi scegliere chi vuoi per questo compito. Purché ricordino chi sta alle loro spalle e seguano le nostre indicazioni."
+
+### u038567
+{n}Yrliet apre la bocca, ma Muaran la interrompe.{/n} "Vattene, Reietta. Il tuo posto è sulle strade tortuose dello spazio, non tra di noi."
+
+### u038568
+{n}Yrliet scuote la testa.{/n} "Stai cercando di annebbiarmi la vista, mon-keigh."
+
+### u038569
+"Non crederete a quello che fanno alla gente! Nelle tenute dei nobili non si vede granché, ma se andate negli insediamenti agricoli... Appena arrivano i cani del governatore, è finita, l'insediamento è sparito! Prima li costringono a bere una porcheria che dopo un po' li storpia, poi li portano a quelle adunanze... So quello che dico: un mio cugino di uno di quegli insediamenti all'inizio mi mandava lettere, e poi è sparito! Se la gente comincia a parlare troppo di mutanti e di pazzi, mandano i custodi e zittiscono chiunque sia stato denunciato! Gli insediamenti morti sono sempre di più: che dobbiamo fare, sederci ad aspettare che ci ammazzino tutti?"
+
+### u038570
+{n}Dopo le parole di Yrliet, i due alti Aeldari dietro Muaran si muovono: uno si volta a guardare il capo, mentre l'altro lancia un grido, soffocato dalla visiera. Il ribelle accanto a te si contrae, come se la lingua degli Aeldari gli causasse dolore. Si sforza di dire qualcosa, ma Muaran fa un gesto imperioso e il soldato si raddrizza docilmente e saluta, fissando gli xenos con servile devozione.{/n}
+
+### u038571
+{n}Il ribelle più vicino a te ti guarda con un misto di odio e confusione. Le sue mani, strette attorno a una strana arma, tremano appena. Al collo dell'uomo pende, appeso a una cinghia, uno strano dispositivo.{/n} "Voi... Il Trono mi protegga, chi siete?"
+
+### u038572
+{n}Muaran ti fissa per diversi secondi. Alla fine dice:{/n} "Un'alleanza? È così che hai interpretato le mie parole? Be', se preferisci questo termine, chiamiamola alleanza."
+
+### u038573
+{n}Il ribelle annuisce soddisfatto.{/n} "Bene, bene... I nostri comandanti devono restare al comando, sapranno cosa fare... sapranno cosa è meglio, cosa compiace il Dio-Imperatore..." {n}Pronuncia le ultime parole in un sussurro appena udibile, con una smorfia come per un mal di testa lancinante.{/n}
+
+### u038574
+"L'affermazione che prevede un successo futuro è fallace. I dogmi di sicurezza si fondano su ampi dati statistici sugli scontri con le xenorazze, e i casi di coesistenza riuscita sono pari a zero."
+
+### u038575
+"Ah! Bella battuta, shereen! Pensa un po', un'alleanza tra umani e xenos... È una battuta, vero?"
+
+### u038576
+"Ehm, Lord Capitano, siete davvero {mf|sicuro|sicura} — mi perdoni la franchezza — di non aver fatto il passo più lungo della gamba? Chi vi ha detto che l'idea sarebbe piaciuta alla gente del posto?"
+
+### u038577
+{n}Infine Muaran inclina la testa.{/n} "Non sono disposto a rischiare la vita dei miei simili, mon-keigh. Tempererò il mio animo e cercherò di credere alla tua promessa."
+
+### u038578
+"Cosa ritieni malvagio, mon-keigh? Se desideri sradicarlo, perché non cominciare dai profanatori del Lilaethan, la tua stirpe?"
+
+### u038579
+"Li avete trovati. E cosa avete intenzione di fare di noi?"
+
+### u038580
+"Questa è una grave violazione di ogni sacro patto dell'{g|Encyclopedia:Imperium}Imperium{/g}. Non so, {name}, cosa detti questa... questa ostinazione, ma vi prometto che Janus ne subirà le conseguenze più serie."
+
+### u038581
+"Che c'è, ora che ci siamo ribellati al governatore, voialtri non ci considerate nemmeno più persone? Siamo tutti mostri e mutanti per voi, eh?" {n}Il ribelle si volta verso l'alta creatura in veste.{/n} "Comandante, dite una parola e gli facciamo saltare le cervella!"
+
+### u038582
+{n}I guerrieri sono i primi a levare le armi e a lanciarsi nella mischia. Un attimo dopo, i ribelli li imitano.{/n}
+
+### u038583
+{n}L'alto essere in una lunga e raffinata veste si volta verso di te, il volto nascosto dietro la visiera vuota dell'elmo. Quando comincia a parlare, anche da lontano senti l'aria attorno alla figura farsi gelida.{/n} "Mon-keigh. Non dovresti essere qui."
+
+### u038584
+{n}Vedi Yrliet tra gli esseri raccolti attorno alla strana, alta struttura. Ti osserva con totale indifferenza, come si osserva un insetto che striscia su un muro.{/n}
+
+### u038585
+{n}Yrliet avanza a grandi passi, con gli occhi che lampeggiano.{/n} "Muaran! Ti chiamo a rispondere! Hai detto che il grande pericolo che minaccia il Lilaethan si annidava nel cuore dei mon-keigh, nella loro avidità e nella loro ignoranza. E intanto un altro nemico incombeva su questo mondo, un nemico di cui avresti dovuto scorgere le tracce nelle cose a venire. Sai'lanthresh, Colei che ha Sete, minaccia questo mondo, e tu ce l'hai nascosto! Rispondimi: hai visto o no il nostro più grande nemico nel futuro del Lilaethan? Mi hai mentito?"
+
+### u038586
+{n}La figura in veste china il capo. Poi comincia a parlare.{/n} "Yrliet la Reietta. Hai abbandonato il sentiero che era stato tracciato per te. Hai portato dei {g|Encyclopedia:MonKeigh}mon-keigh{/g} sconosciuti nel nostro rifugio. E ora mi parli con una rabbia sconveniente. I tuoi lunghi vagabondaggi lontano da Crudarach hanno alterato la tua mente e macchiato la tua vista."
+
+### u038587
+"Finalmente!" {n}Argenta alza l'arma.{/n} "Che Egli guidi la mia mano, perché io sono la Sua ira vendicatrice!"
+
+### u038588
+"'Comandante'?" {n}Il volto di Abelard diventa rosso di furia.{/n} "In quale mondo è accettabile che i sudditi dell'Imperium chiamino capi degli xenos? Che vergogna!"
+
+### u038589
+"Richiama all'ordine il tuo seguito, Yrliet la Reietta. La loro sola presenza offende la mia sensibilità: il minimo che possano fare è mostrare l'obbedienza che abbiamo imposto ai nostri servi mon-keigh."
+
+### u038590
+"I miei vagabondaggi sono il Sentiero che ho scelto per me. Lontano dalle mura di Crudarach, ho visto e conosciuto cose che nessun altro {g|Encyclopedia:Aeldari}Aeldari{/g}, nascosto per tutta la vita in un mondo astronave, potrebbe conoscere. Perché neghi le mie parole su Sai'lanthresh? È perché mentivi a me e ai miei simili quando ci mostravi il vero Sentiero?"
+
+### u038591
+"Queste persone non ragionano lucidamente, {name}." {n}Heinrix fissa senza battere ciglio l'alta figura in veste.{/n} "Avverto un'influenza. Un incantesimo ammaliatore. Una stregoneria nota solo ai più potenti tra gli Aeldari: i loro Veggenti."
+
+### u038592
+"Giochi con le parole ed eludi la domanda!" {n}Ora nella voce di Yrliet si insinuano note di disperazione, e di rabbia.{/n} "Il Lilaethan è minacciato dal nostro nemico eterno, eppure ti preoccupi più della presenza degli elantach che della corruzione che scorre nelle vene di questo mondo! Non hai mai considerato che la tua guerra potrebbe soltanto accelerare il trionfo di Sai'lanthresh? Forse i servitori della sovrana, nei loro sforzi per proteggerla, ricorreranno a strumenti di corruzione sempre più numerosi..."
+
+### u038593
+{n}Il ribelle ti guarda, e sul suo volto vedi chiaramente il {d|Encyclopedia:Ch2_JanusBenevolent}sollievo{/d}.{/n} "Esatto, proprio così... Non lasceremo che venga fatto del male ai nostri, ma sapremo noi cosa fare." {n}Fa una smorfia e porta una mano alla tempia come se provasse dolore.{/n}
+
+### u038594
+{n}Yrliet ti rivolge un lungo sguardo indagatore.{/n} "La storia dei Figli di Asuryan sul Lilaethan sta per finire, ma da qualche parte là fuori, tra le fredde stelle del cosmo che la tua gente chiama la Distesa, ce ne sono altri. Privati della loro casa. Perduti. Sofferenti..." {n}Yrliet chiude gli occhi, e il dolore contorce i suoi lineamenti finemente scolpiti.{/n}
+
+### u038595
+"Guardati intorno, mon-keigh. La tua gente ha conquistato un mondo che non le apparteneva. Gli avete spezzato il cuore, schiacciato la volontà, sfigurato il volto, cercando di spremere dal Lilaethan fino all'ultima goccia di vita come da un frutto maturo. Ho visto i sentieri che si stendono davanti a noi: su ognuno, la presenza dei mon-keigh annuncia la morte dello Spirito del Mondo. Non lo permetterò."
+
+### u038596
+"Siamo venuti dal cielo, proprio come voi. Se vuoi sapere dove siano le nostre navi e i nostri simili, non te lo dirò. Quelli che ci hanno portati qui hanno tracciato da tempo i confini di questa stella, alla ricerca di altri nostri simili perduti nell'oscurità tra le stelle."
+
+### u038597
+"Accetta la liberazione da un'esistenza impura, e sii grato." {n}Kibellah assume una posa, pronta a iniziare una danza di sangue.{/n}
+
+### u038598
+"Davvero? È per questo che i tuoi servi {d|Encyclopedia:Ch2_JanusViolent}massacravano i loro stessi simili{/d}? È per questo che le tue armi cercavano di sfigurare il Lilaethan dall'orbita? Le tue parole non sono altro che menzogne e ipocrisia, mon-keigh."
+
+### u038599
+"Questo influirà sulla valutazione della decima di Janus. C'è meno fiducia nei prodotti dei mondi agricoli con problemi di parassiti."
+
+### u038600
+"Sento spesso pronunciare questa parola, 'xenos'... pare sia offensiva nella vostra lingua quanto 'mon-keigh' nella nostra." {n}Sospira.{/n} "Noi ci chiamiamo {g|Encyclopedia:Asuryani}Figli di Asuryan{/g}. Gli umani, quelli che il destino ha portato a stringere un'alleanza con noi, ci chiamano Aeldari."
+
+### u038601
+{n}Yrliet resta immobile come una statua, poi si volta all'improvviso verso Muaran.{/n} "L'elantach ha ragione. Ho scambiato l'intento malvagio del tuo cuore per ostinazione e vanità. Ma nessun Veggente ignorerebbe la minaccia di Sai'lanthresh sapendo cosa significhi per questo mondo e per la sua anima... No. Può esserci una sola risposta: ci hai traditi, Muaran. Ti sei schierato dalla Sua parte."
+
+### u038602
+"Un patto con un mon-keigh è come una stella morente: il suo tempo è destinato a finire. Eppure... c'è un modo per dimostrarmi che ti sta davvero a cuore il benessere del mondo che hai conquistato. Elimina il sovrano dei mon-keigh che soggiorna sul Lilaethan e cedi il governo di questo mondo a me e ai miei simili."
+
+### u038603
+{n}Con un acuto grido aquilino, l'aquila a due teste piomba in picchiata e affonda i suoi artigli forgiati nel volto del Veggente. Le enormi ali della cibernetica creatura e la sua giusta furia distrarranno il nemico dalla battaglia per alcuni secondi cruciali.{/n}
+
+### u038604
+"Una decisione estremamente ambivalente, Rogue Trader. L'unico beneficio che può offrire è facilitare l'accesso a cadaveri e tecnologia xenos. E state {mf|certo|certa} che i cadaveri non scarseggeranno da nessuna delle due parti, qualunque promessa gli xenos abbiano fatto."
+
+### u038605
+{n}La voce di Muaran rimbomba come un temporale lontano.{/n} "Osi accusarmi di una cosa simile? Hai perso la ragione, Reietta..."
+
+### u038606
+"Cammina con cautela, Reietta. Non lasciare che le parole di un altro scuotano la tua fede nel destino che hai scelto."
+
+### u038607
+"Forse. Forse i mon-keigh avvertono la loro imminente, inevitabile fine e sono pronti ad arrendersi. Ebbene... se è così, l'ora della resa dei conti è più vicina di quanto avessi colto nelle trame del fato."
+
+### u038608
+Hai mostrato a Yrliet lo strano teschio che era in possesso dei nobili di Janus.
+
+### u038609
+{n}Yrliet ti rivolge un lungo sguardo indagatore.{/n} "Aspetta, elantach. Prima che tu lasci queste foreste per sempre... Portami con te. Verso i soli lontani. La storia dei Figli di Asuryan sul Lilaethan sta per finire, ma da qualche parte là fuori, tra le fredde stelle del cosmo che la tua gente chiama la Distesa, ce ne sono altri. Privati della casa. Perduti. Sofferenti..." {n}Yrliet chiude gli occhi, e il dolore contorce i suoi lineamenti finemente scolpiti.{/n}
+
+### u038610
+"Possiamo aiutarci a vicenda, elantach. Tu sarai le mie ali, e io la tua lancia che ferisce. E la tua voce della ragione, se dovessi incontrare i miei simili. Se ancora non basta..." {n}Yrliet riflette un istante e prosegue con cautela.{/n} "Ti prometto una ricompensa meravigliosa, elantach. I tesori del mio mondo nascosti nella vastità dello spazio in cambio della salvezza dei miei simili. Se rimarrai fedele alla tua parola e non verrai meno al nostro patto."
+
+### u038611
+"Proprio come i Figli di Asuryan si sono stabiliti su questo mondo che consideri tuo, i miei simili hanno inondato questa regione dello spazio. Cercando disperatamente di sopravvivere, cercheranno riparo nei tuoi domini, magari persino facendo razzia sulle navi dei mon-keigh per procurarsi rifornimenti e sostentamento. Non desidero un simile destino per nessuno dei miei, così come spero che tu non lo desideri per i tuoi sudditi."
+
+### u038612
+"È un onore accogliere una vagabonda Aeldari tra i miei ranghi."
+
+### u038613
+"Non ti manca l'audacia. Persino la tua richiesta è formulata non come una supplica ma come un trattato. Ma mi piace, quindi affare fatto."
+
+### u038614
+{n}L'{g|Encyclopedia:Aeldari}Aeldari{/g} si muove appena e abbassa il capo. Un fantasma di sorriso le appare sulle labbra.{/n} "Il mio cuore canta al pensiero dell'imminente liberazione del Lilaethan... ma non dobbiamo riposare finché i servitori di Sai'lanthresh deturpano ancora il volto del Mondo Vergine."
+
+### u038615
+"Dunque, elantach... {name}, giusto? Sono stanca dei titoli e delle denominazioni, i miei e quelli altrui. Poiché il tuo cammino si spinge oltre i confini del Lilaethan, verrò con te, a cercare altri della mia stirpe sparsi tra le stelle. Forse mi accoglieranno con più calore di questa covata."
+
+### u038616
+"E ricorda la tua promessa, elantach. Quando lasceremo il Lilaethan, sarà per andare verso le stelle lontane. Muaran le ha viste nelle sue visioni, ed esse cantavano canti dolenti sul destino del mio popolo. E combatterò al tuo fianco finché il canto delle stelle non si trasformerà in un lamento funebre."
+
+### u038617
+"Gli xenos non hanno posto nel seguito di un Rogue Trader."
+
+### u038618
+"Perché mai dovrei preoccuparmi degli affari degli xenos?"
+
+### u038619
+"Ho sempre desiderato aggiungere uno xenos al mio seguito! Benvenuta, benvenuta."
+
+### u038620
+{n}Yrliet increspa le labbra sottili.{/n} "E sia."
+
+### u038621
+Hai condannato a morte i ribelli di Janus.
+
+### u038622
+[Attacca] "Non c'è scusa per ribellarsi all'autorità legittima dell'Imperium. Che gli xenos vi abbiano manipolato con tanta facilità dimostra la vostra debolezza di fede e la vostra viltà. La pena per questo crimine è la morte."
+
+### u038623
+Hai risparmiato i ribelli di Janus.
+
+### u038624
+"Gente di Janus, avete sofferto abbastanza! Gli xenos sono stati eliminati, ora è tempo di liberarvi del governatore che adora il Caos!"
+
+### u038625
+"Aiutandomi, vi siete guadagnati il perdono... Tornate alle vostre case, e dimenticherò di avervi mai visti qui. La vostra rivolta contro l'autorità legittima di questo mondo è finita."
+
+### u038626
+[Attacca] "Ora sarà ancora più facile uccidervi tutti!"
+
+### u038627
+{n}I ribelli sopravvissuti ansimano pesantemente, riprendendo fiato dopo la battaglia. Uno dopo l'altro, ti guardano in attesa.{/n}
+
+### u038628
+{n}I ribelli ingannati si scambiano un'occhiata, e si gettano nella battaglia con grida furiose!{/n}
+
+### u038629
+"Be'... e adesso? Che intendete fare di questi... di questi creduloni, Lord Capitano?"
+
+### u038630
+{n}Grida di giubilo scuotono la foresta. I sopravvissuti urlano il tuo nome, lodando il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} e farfugliando promesse di eterna lealtà. Pare che con la scomparsa degli Aeldari un peso invisibile sia stato sollevato dalle loro spalle.{/n}
+
+### u038631
+{n}I ribelli ingannati levano le armi e si lanciano in un attacco disperato.{/n}
+
+### u038632
+{n}I ribelli ingannati si scambiano occhiate, chiaramente senza comprendere del tutto cosa sia appena accaduto. Alla fine, la stanchezza e la confusione fanno il loro corso: lentamente, con qualche occhiata furtiva da sopra la spalla, se ne vanno tutti dal campo di battaglia, lasciandosi alle spalle l'accampamento e i corpi straziati dei loro ex alleati.{/n}
+
+### u038633
+"Si sono lasciati trasformare in un'arma nelle mani degli xenos." {n}Kibellah scandisce ogni parola come se annunciasse un verdetto.{/n} "La loro mancanza di spirito ha aperto la strada ai Suoi nemici. Così sono avvelenati, sia dalla loro stessa debolezza sia dalla stregoneria disumana."
+
+### u038634
+"Immagino che stiate ancora studiando questo portale, voialtri..."
+
+### u038635
+"Dov'è tuo fratello Muaran?"
+
+### u038636
+"Che succederà se riuscirete ad aprirlo?"
+
+### u038637
+"Cosa state facendo esattamente al portale?"
+
+### u038638
+"Sei mai stata nella Tela? Com'è?"
+
+### u038639
+"Se la tua offerta di reciproca collaborazione è ancora valida, vorrei averti nel mio seguito."
+
+### u038640
+{n}Yrliet ti guarda dall'alto in basso. Ha le mani posate sull'arma, eppure appare perfettamente rilassata.{/n} "Sei {mf|tornato|tornata}, elantach."{g|Encyclopedia:Aeldari}{/g}
+
+### u038641
+"Ti saluto, elantach. Cosa ti porta al nostro santuario?"
+
+### u038642
+"Al mio ritorno, ha trovato in sé la forza di credere che fossi in grado di badare a me stessa senza che lui vegliasse su di me, così ha scelto di occuparsi di quelli di noi che non avevano ancora meritato un grado così alto di fiducia." {n}La voce di Yrliet è quasi impassibile, ma un mezzo sorriso le gioca agli angoli della bocca.{/n}
+
+### u038643
+"Addio, elantach."
+
+### u038644
+"Come desideri, elantach."
+
+### u038645
+"Gli ex ribelli sono tornati alle loro case. Continuiamo a estirpare la corruzione di Sai'lanthresh che si è infiltrata nelle vene del Lilaethan... ma ora il pianeta è in pace, e lo Spirito del Mondo è al sicuro da ogni male."
+
+### u038646
+"Il nostro dovere ci tiene sul Lilaethan, ma dubito che tutti i miei simili resteranno sul Mondo Vergine. Solo quelli indispensabili a proteggere questo pianeta dalle macchinazioni di Sai'lanthresh."
+
+### u038647
+"I miei simili che lavorano al portale sono più versati nell'arte delle creazioni in ossospettro... ma nemmeno loro riescono a comprendere ogni dettaglio ideato dal Cantore del Mondo, il sacro custode del Lilaethan, che condivideva un raro legame con lo Spirito del Mondo. Il suo spirito ora riposa tra i suoi simili, mentre noi, ciechi nella nostra intuizione, inciampiamo nell'intricato groviglio del portale, sconcertati dal mistero del suo silenzio."
+
+### u038648
+"Immagina miriadi di sentieri, intrecciati dalla volontà dei più raffinati creatori che questo universo abbia mai conosciuto... La Tela fu creata in un'epoca leggendaria, quando la galassia apparteneva a esseri ben più potenti di te o di me."
+
+### u038649
+"Il Portale della {g|Encyclopedia:Webway}Tela{/g} è una delle reliquie sopravvissute del vecchio mondo che abbiamo perso per sempre. Crudarach aveva un suo portale, ma funzionava... in modo diverso. Non come le creazioni degli {g|Encyclopedia:Aeldari}Aeldari{/g} che diedero vita al Lilaethan."
+
+### u038650
+"Lasceremo questo mondo. Non era forse ciò che desideravi quando hai negato ai miei simili il diritto di essere i custodi del Lilaethan?"
+
+### u038651
+"La Tela attraversa l'intero cosmo: varcando un portale su un pianeta, si possono percorrere milioni di anni luce in poche ore ed emergere dall'altra parte dell'universo. Il mio popolo usa da tempo la Tela per spostarsi tra i mondi sopravvissuti, sia pianeti sia mondi astronave."
+
+### u038652
+"La corruzione di Sai'lanthresh viene lentamente epurata dal volto del Mondo Vergine. Il Lilaethan non riacquisterà mai la sua antica purezza... ma ora lo Spirito del Mondo ha un fedele custode."
+
+### u038653
+"Andiamo, elantach."
+
+### u038654
+"Basta parlare: portami dai ribelli, così posso mettere fine a tutta questa eresia."
+
+### u038655
+"Basta parlare: portami dove stavi andando."
+
+### u038656
+"Se la colpa è di Vistenza, perché non siete già andati al palazzo a ucciderla?"
+
+### u038657
+"Calmati. È già finita."
+
+### u038658
+"Non so di chi parli, ma ti prometto che ti aiuterò volentieri a fargli ingoiare la 'coppa della sofferenza'."
+
+### u038659
+"Datti una calmata. Dubito che sarà l'ultima battaglia di oggi, e mi servono alleati con tutte le facoltà in ordine."
+
+### u038660
+"Ma guarda, chi l'avrebbe detto che sotto quella superficie imperturbabile infuriava una tempesta!"
+
+### u038661
+"Se vogliamo incontrare i capi della rivolta, è meglio che ci muoviamo."
+
+### u038662
+"Non è ora che mi dici cosa sta succedendo qui?"
+
+### u038663
+"Chi è Muaran? Di quale tradimento parli?"
+
+### u038664
+"Perché i tuoi stessi simili ti hanno attaccata?"
+
+### u038665
+"Nessuno ha costretto i tuoi simili a mettersi contro di me e a morire. Le loro pietre ora sono i miei trofei. Me le sono guadagnate."
+
+### u038666
+"Puoi prendere le pietre: non so che farmene."
+
+### u038667
+"Pare che queste pietre abbiano un valore enorme... Credo che le terrò."
+
+### u038668
+"Mi fido del tuo giudizio, Yrliet. Vistenza sarà punita per il suo tradimento."
+
+### u038669
+"Perché una manciata di xenos dovrebbe muovere guerra a un intero pianeta? Non potete uccidere tutti!"
+
+### u038670
+"Com'è che ti sei trovata su questo pianeta?"
+
+### u038671
+"Non credo che Vistenza sia colpevole. Magari i mon-keigh non ti piacciono, ma noi non serviamo l'Arcinemico."
+
+### u038672
+"Sei venuta su Janus insieme al resto degli Aeldari?"
+
+### u038673
+"Che legame hanno i tuoi simili con la rivolta sul pianeta?"
+
+### u038674
+"Perché mi stai dicendo tutto questo? Cos'è questa franchezza improvvisa?"
+
+### u038675
+"Forse Vistenza è corrotta per aver avuto a che fare con l'Arcinemico. Dovremo scoprirlo da soli."
+
+### u038676
+"Muovi un'altra accusa contro un servitore dell'Imperium e ti farò impagliare ed esporre nella mia cabina."
+
+### u038677
+{n}Il volto di Yrliet, di solito imperturbabile, è contratto in una smorfia di dolore e rabbia. Il tuo {g|Encyclopedia:Elucidator}Elucidator{/g} si attiva quando lei comincia a parlare nella propria lingua.{/n} "Giuro sul cuore squarciato di Khaine, Muaran, pagherai per il tuo tradimento! Che Morai-Heg spezzi il tuo destino e lo getti via, che il sangue di Eldanesh ti inondi la gola..."
+
+### u038678
+{n}Yrliet chiude gli occhi, aspira tra i denti e mormora in fretta qualcosa. Quando riapre gli occhi, il suo volto è di nuovo una maschera di fredda serenità. Ti guarda e comincia a parlare, questa volta in Basso Gotico.{/n}
+
+### u038679
+"I segni che mi sono stati rivelati indicano tutti la presenza della corruzione su questo mondo. Filamenti di corruzione potrebbero intrecciarsi allo Spirito del Mondo, avvelenandolo proprio mentre parliamo. Ma perché la corruzione si impadronisca del pianeta così in fretta serve uno sforzo, uno sforzo diretto dalla volontà di un altro." {n}Yrliet fa una pausa.{/n} "Credo che Vistenza Vyatt sia in balia della volontà di Sai'lanthresh."
+
+### u038680
+"Dopo la calamità, il Lilaethan ha offerto ai miei simili un santuario, un luogo di riposo tra le rovine dei nostri antenati, sotto la volta delle foreste create dalla saggezza dei nostri Cantori del Mondo... a vivere accanto alla vostra gente, che raccoglie i frutti del nostro lavoro con tanta volgarità."
+
+### u038681
+"Alcuni mali trascendono la lealtà verso i propri simili. Che ne sarà del Lilaethan se permetti al nemico di ogni creazione di vivere tra i tuoi sudditi? Per quanto tempo questo mondo mutilato resterà fedele al tuo {g|Encyclopedia:Imperium}Imperium{/g}, prima di diventare una voragine che partorisce servitori di Sai'lanthresh?"
+
+### u038682
+"Scusami, elantach: ho lasciato che il tumulto della mia anima avesse la meglio sulla ragione. Uno scivolone simile potrebbe costarmi più di quanto tu possa immaginare: la mia stessa anima. Devo essere più cauta... anche di fronte al tradimento."
+
+### u038683
+"Finita? Oh no, {g|Encyclopedia:MonKeigh}mon-keigh{/g}, questo sentiero è ben lungi dalla fine!" {n}Yrliet quasi grida, con la voce che risuona di furia.{/n} "Ma quando arriveremo da Muaran, lo costringerò a rivelare tutta la portata della sua doppiezza e a dirmi dove finisce la verità e dove iniziano le menzogne!"
+
+### u038684
+"Non vedo altra via. Meriti la verità."
+
+### u038685
+"L'unica punizione per un simile crimine è la morte, elantach. Chi mette piede sul sentiero di Sai'lanthresh perde la luce per sempre."
+
+### u038686
+"C'è un solo crimine più grave che servire Sai'lanthresh: tradire i Figli di Asuryan a suo vantaggio. Muaran ha visto i sentieri, ha contemplato il futuro... come ha potuto non vedere la macchia oscura sul suo volto? Come ha potuto non fare tutto ciò che era in suo potere per liberare il Lilaethan da questo cancro?" {n}La voce di Yrliet si fa più irata, più penetrante.{/n} "Prima di strappare questo seme avvelenato dal corpo del Lilaethan, costringerò Muaran a rispondermi!"
+
+### u038687
+"I mon-keigh sono deboli di spirito: sono sensibili alle proposte di Colei che ha Sete e, nella loro brama di ottenere i suoi doni avvelenati, compiono rituali perversi in suo nome... rituali che richiedono sacrifici. Come i mon-keigh portati al palazzo e mai più rivisti."
+
+### u038688
+"Muaran è il responsabile delle ribellioni contro il sovrano di Janus... ma permettimi di raccontarti tutto dall'inizio."
+
+### u038689
+"I miei simili sono diventati consiglieri militari dei mon-keigh che si sono sollevati contro il sovrano di questo mondo. Io avevo un'altra missione: diventare la guida di Vistenza, dato che i ribelli non avrebbero potuto raggiungerla finché entrambe le parti non fossero state sufficientemente indebolite. La sovrana degli umani non aveva mai visto un Figlio di Asuryan, e così ha accettato la menzogna di un ramo degenere dei mon-keigh che vive lontano dai propri simili."
+
+### u038690
+"No. Il mio cammino mi ha portata al Lilaethan più tardi..." {n}Yrliet esita.{/n} "...per un'altra via."
+
+### u038691
+"È stato Muaran ad accogliermi qui: era uno dei Veggenti sopravvissuti di Crudarach. Era con una manciata di {g|Encyclopedia:Asuryani}Asuryani{/g} scampati alla morte che avevano trovato la strada fin qui, nella culla distrutta della nostra stirpe. Erano indignati nel vedere come i mon-keigh avessero devastato il nostro florido giardino!"
+
+### u038692
+"Non conosco la risposta a questa domanda." {n}Yrliet abbassa il capo.{/n} "Sono passati molti cicli da quando ho lasciato queste foreste e i miei simili. Non possono... non possono avermi dimenticata, vero?"
+
+### u038693
+"Prima di lasciare questo luogo..." {n}La voce di Yrliet trema.{/n} "Permettimi di frugare tra i corpi dei caduti, elantach. Desidero raccogliere le loro pietre spirituali, i vasi che ci proteggono dalle fauci di Sai'lanthresh dopo la nostra morte fisica. La preveggenza di Muaran ha guidato questi guerrieri contro di noi, una preveggenza che può essere corrotta da intenti malvagi di cui non erano consapevoli. Le loro anime sono racchiuse in queste pietre: non lasciare che periscano qui."
+
+### u038694
+"La tua anima è piena di rabbia sprecata e di fame per le sofferenze altrui. Forse Sai'lanthresh ha già posato il suo tocco anche su di te."
+
+### u038695
+"Grazie, elantach. Mi prenderò cura dei miei simili."
+
+### u038696
+"Come può un mon-keigh conoscere il valore dell'anima altrui? Specie ripugnante e selvaggia..."
+
+### u038697
+"Fai fatica a comprendere i Figli di Asuryan, e non ti biasimo: siamo troppo diversi." {n}Yrliet resta in silenzio per qualche istante, scegliendo le parole.{/n} "I mon-keigh camminano alla cieca verso il futuro. Noi scegliamo il sentiero, guidati dai nostri Veggenti. Crudarach era la patria dei potenti osservatori delle cose a venire: i nostri capi venivano scelti tra i loro ranghi, e la loro parola era scolpita nella pietra, incrollabile come l'universo stesso."
+
+### u038698
+"Muaran, il nostro capo qui, è uno di quel gruppo. I Figli di Asuryan sono soggetti alla sua volontà, ed egli è soggetto alla volontà delle sue visioni. Muaran ha visto il Lilaethan in una visione, sofferente e invocante di essere purificato, e noi abbiamo fatto tutto il possibile per liberare il Mondo Vergine dai mon-keigh. Le nostre vite, i nostri desideri: tutto è polvere a confronto con la luce del sentiero che Muaran ha scelto per noi. Almeno, questo è ciò che credono i miei simili. Lo credevo anch'io... fino a poco tempo fa."
+
+### u038699
+"Lo Spirito del Mondo del Lilaethan avverte la minaccia, e resiste come può. Gli esseri viventi che abitano questo mondo stanno diventando le sue armi, armi rivolte contro i mon-keigh. Piante velenose, bestie rabbiose: sono tutte come una lama nella mano del Lilaethan mentre lotta contro l'arrivo di Sai'lanthresh."
+
+### u038700
+"Sai'lanthresh è ingannevole e astuta... Penetra sottilmente nell'anima, offrendo una falsa perfezione, attirando le vittime nella sua rete con promesse di un ideale malvagio. La sovrana dei mon-keigh forse non sa nemmeno che la sua anima è stata corrotta."
+
+### u038701
+"Gli {g|Encyclopedia:Asuryani}Asuryani{/g} non affrontano battaglie che non possono vincere. Tuttavia è in nostro potere dirigere le correnti in modo che siano gli elementi stessi a spazzare via gli ostacoli e i nemici dal nostro cammino. Così è stato anche in questo caso: Muaran, il Veggente di Crudarach, ha visto un futuro senza i {g|Encyclopedia:MonKeigh}mon-keigh{/g}, e noi abbiamo seguito la sua guida. Abbiamo semplicemente usato contro i mon-keigh le loro stesse passioni. Il loro amore per la libertà e l'anarchia. Il loro amore per il dominio e la violenza. Fomentare l'inimicizia tra servi e governanti è più facile quando i bersagli sono guidati dalle emozioni anziché dalla ragione."
+
+### u038702
+"Forse i segni che ho scoperto non sono riusciti a convincerti. Prego gli dei che emerga un'altra prova, qualcosa di più comprensibile per te, capace di far cambiare la tua opinione."
+
+### u038703
+"Chi ti ha dato l'autorità di garantire per ogni anima della tua gente? Ce ne sono tra voi di deboli o pervertiti dalla passione: sono quei mon-keigh che Sai'lanthresh sceglie per servirla."
+
+### u038704
+{n}Con la visiera verde che lampeggia d'interesse, Pasqal chiede con cautela:{/n} "Quale confine, esattamente?"
+
+### u038705
+"Ho incontrato negli archivi riferimenti a xenoartefatti di questo tipo. Se Vostra Signoria lo permette, esaminerò questi... trofei." {n}Dal sintetizzatore vox sgorga una voce vellutata e curiosa, senza il minimo sibilo di disturbo.{/n}
+
+### u038706
+{n}Un rabbioso crepitio di {g|Encyclopedia:Vox}vox{/g} interrompe Jae. Tuttavia Pasqal si limita a questo gesto minaccioso, evidentemente non volendo bisticciare davanti all'Aeldari su chi abbia il diritto di saccheggiare il mondo della sua stirpe.{/n}
+
+### u038707
+"Non hai bisogno di saperlo, mon-keigh di ferro. Conosco le vostre pratiche di saccheggio."
+
+### u038708
+{n}"Sai'lanthresh" e "Colei che ha Sete" sono i nomi che gli Aeldari danno al Dio del Caos Slaanesh, il loro nemico supremo. Slaanesh è il dio della passione, dell'eccesso e dei piaceri proibiti, ed è noto per la sua natura volubile e traditrice.{/n}
+
+### u038709
+{n}Non hai mai sentito parlare di questa entità. Dev'essere un altro termine aeldari per uno degli esseri del pantheon dei Poteri Rovinosi noti all'Umanità.{/n}
+
+### u038710
+"Per quanto sia deplorabile, la storia dell'Imperium conosce molti casi in cui persino i più saldi seguaci del Credo si sono allontanati dalla Sua luce. La Governatrice Vyatt ha dovuto attingere a molte fonti di sapere per trasformare Janus in un prospero mondo agricolo. Forse... una di quelle fonti è stata la sua rovina."
+
+### u038711
+"Ah, gli xenos... Che creature meravigliose, shereen! Poco prima del nostro arrivo, Orecchie a Punta passava le giornate a servire la governatrice, ma appena è cambiato il vento ha cominciato a deliziarci con storie tragiche sul triste destino del suo popolo e sulle sventure del mondo... e la colpa è di noi umani, naturalmente!" {n}Jae schiocca la lingua e guarda Yrliet con sospetto.{/n} "Anche se c'è un briciolo di buon senso nelle sue parole, questo glielo concedo."
+
+### u038712
+"Scuoti con forza abbastanza qualunque governatore planetario e ne verrà fuori una marea di eresie, quindi non siamo scioccati come potresti pensare, xenos. Comunque sia, se Vyatt è colpevole di qualcosa, non sarà giudicata sulla base della tua parola."
+
+### u038713
+"Noi ci chiamiamo {g|Encyclopedia:Asuryani}Figli di Asuryan{/g}. {g|Encyclopedia:Aeldari}Aeldari{/g} è un altro nostro nome. Siamo gli echi del grande impero che un tempo governava la galassia e creava nuovi mondi. Il pianeta che chiamate Janus è uno di questi Mondi Vergini, il Lilaethan. Un rifugio che i nostri antenati crearono per i propri simili. Per molti millenni, solo le ombre dei nostri predecessori hanno vissuto tra le rovine... finché non siete arrivati voi umani."
+
+### u038714
+"Siamo gli eredi, e abbiamo pieno diritto di considerare nostro il Mondo Vergine. Tuttavia il nostro arrivo è una tragedia, non un ritorno a casa." {n}Il dolore filtra nella voce di Yrliet.{/n} "Noi appartenevamo... apparteniamo al {g|Encyclopedia:Craftworld}Mondo Astronave{/g} Crudarach, caduto al confine di questa regione stellare. Solo la provvidenza degli dei misericordiosi ci ha permesso di sfuggire al destino di coloro le cui anime sono perite tra la polvere di stelle insieme alla nostra dimora."
+
+### u038715
+{n}Yrliet esita un istante, come se si preparasse a dire qualcosa, prima di voltarsi infine dall'altra parte.{/n}
+
+### u038716
+"Distruggere un mondo astronave aeldari è un risultato notevole. Mi piacerebbe stringere la mano a chi ci è riuscito."
+
+### u038717
+"Un mondo astron—" {n}Jae si interrompe, poi ti sussurra in fretta:{/n} "Ehi, {name}... Se ne avremo l'occasione, dovremmo dare un'occhiata a questo posto. Anche se il mondo astronave è stato ridotto in pezzi, chiunque trovi un frammento farà fortuna."
+
+### u038718
+"Le deturpazioni, che voi chiamate 'mutazioni' a quanto pare, sono il segno più certo di questa minaccia. Mutilando le forme viventi, questo potere malevolo le sottomette e le piega alla propria volontà. Hai visto le deformità sui volti di coloro che sono più vicini al corpo del Lilaethan di altri: i ribelli che si nascondono sotto la volta di queste foreste."
+
+### u038719
+"Cosa? Vistenza Vyatt? La governatrice che ha servito con onore la dinastia e l'Imperium per decenni? {name}, spero che non tollererete una calunnia così scurrile contro una delle vostre migliori serve!"
+
+### u038720
+"Elantach, il tuo arrivo ha gettato nel caos i miei sentieri, e ha sollevato il velo sulla verità che mi era stata nascosta. Mentre pedinavo la sovrana degli umani, non ho colto i segni: i segni di un'altra minaccia incombente sul Lilaethan oltre alle azioni dei mon-keigh. La minaccia dovrebbe esserti familiare, come lo è per le altre specie intelligenti della galassia. Noi la chiamiamo Sai'lanthresh. Colei che ha Sete. Dea del Caos."
+
+### u038721
+"Avete eliminato con ammirevole efficacia i nemici dell'Umanità. Sarete un'eccellente xenos autorizzata."
+
+### u038722
+"Hai appena massacrato i tuoi simili per un disaccordo da poco. Non sei nella posizione di parlare di orgoglio."
+
+### u038723
+Hai giustiziato Yrliet dopo aver sterminato gli altri Aeldari su Janus.
+
+### u038724
+[Uccidi Yrliet] "Tanto vale mandarti via insieme agli altri."
+
+### u038725
+"Qui non c'è più nulla da fare. È ora di tornare alla navetta."
+
+### u038726
+"Levati dalla mia vista. Non ho bisogno della compagnia di una traditrice."
+
+### u038727
+{n}Yrliet osserva il campo di battaglia.{/n} "Che gli dei ci proteggano dall'orgoglio e dal vagare nei capricci del fato..."
+
+### u038728
+{n}Yrliet ti ricompensa con uno sguardo sprezzante.{/n} "Su una cosa Muaran aveva ragione: la tua coscienza primitiva ti impedisce di vedere qualunque cosa non stia in superficie. Le mie azioni non sono state compiute per il desiderio di compiacerti."
+
+### u038729
+"I miei simili hanno confidato per millenni nelle visioni dei Veggenti per mostrarci il nostro cammino tra le stelle. Ma per tutta la vita su Crudarach, ho visto troppo spesso la conoscenza delle cose a venire, mutevole e capricciosa come le correnti d'acque profonde, tessere catene attorno ai corpi di chi teme di addentrarsi in acque torbide. Per questo sono diventata una Reietta, rinunciando alle tradizioni di Crudarach e lasciandone i confini, per cercare il mio Sentiero."
+
+### u038730
+"La tua coscienza è incapace di afferrare la piena profondità dell'abisso in cui Muaran ha attirato i miei simili, ed è per questo che le mie azioni ti sembrano mostruose. Tutt'altro: almeno ora le loro anime non finiranno nelle fauci di Sai'lanthresh."
+
+### u038731
+"Sto bene? Sono sopraffatta dal dolore, dalla rabbia e dall'angoscia. Ma se do libero sfogo alle mie emozioni, attirerò la sete di Colei che ha già irretito il Lilaethan e, a quanto pare, ha ottenebrato la mente di colui che era chiamato a guidare i miei simili."
+
+### u038732
+"Forse la caduta di Crudarach ha riempito Muaran di un dolore così grande da avvelenargli la mente. O forse è stato l'odio per i mon-keigh che hanno profanato il volto del Lilaethan a far precipitare la sua mente nell'oscurità. O forse... forse Sai'lanthresh in persona si stava prendendo gioco del Veggente che si era ritrovato tra i suoi giardini avvelenati." {n}Yrliet comincia a parlare più piano, anche se a tratti nella sua voce irrompe l'asprezza.{/n} "Non conoscerò mai la risposta a questa domanda... ma forse, se scoprirò il segreto della caduta di Crudarach, potrò sollevare almeno un poco il velo su questo mistero."
+
+### u038733
+{n}Yrliet cade a terra come un tralcio reciso.{/n}
+
+### u038734
+{n}Yrliet ti guarda, inclinando leggermente la testa.{/n} "Non dimenticare che il Lilaethan ha ancora bisogno di aiuto. Vistenza Vyatt deve essere uccisa perché il Mondo Vergine possa vivere."
+
+### u038735
+{n}Yrliet sussulta come se le tue parole l'avessero strappata alla realtà.{/n} "Molto bene. Allora addio, elantach. Che le stelle guidino ciascuno di noi sul nostro Sentiero."
+
+### u038736
+"Se doveste stancarvi di questa xenos, Domin, potrei portare le sue ossa sottili al tempio della Tela Intessuta di Sangue. Serviranno da polvere sotto i piedi dei giusti."
+
+### u038737
+"La voce di Sai'lanthresh si affievolisce. Il Lilaethan è al sicuro."
+
+### u038738
+"Questo luogo deve essere purificato. Brucialo, mon-keigh."
+
+### u038739
+"Abbiamo adempiuto ai termini dell'accordo. Non dimenticare ciò che ci hai promesso, mon-keigh."
+
+### u038740
+"È un onore, Rogue Trader!"
+
+### u038741
+"Un'occasione così importante, la visita di un Rogue Trader, guastata da un incidente tanto spiacevole..."
+
+### u038742
+"La Casata Grantis non ha mai ispirato rispetto né fiducia. Non ho alcun dubbio che siano stati loro a far entrare nella tenuta quei servi traditori!"
+
+### u038743
+Un camino ornato, decorato con un bassorilievo che raffigura i passati governatori della Casata Vyatt.
+
+### u038744
+Il camino ornato che raffigura i passati governatori della Casata Vyatt non può nascondere al tuo sguardo acuto il meccanismo rotante che apre un passaggio segreto.
+
+### u038745
+"Sembravano spari... no?"
+
+### u038746
+"Cos'era? Non ho ricevuto nessun ordine..."
+
+### u038747
+"Il governatore... Cos'è successo al governatore? Vostra Signoria?"
+
+### u038748
+"Vostra Signoria, siete {mf|salvo|salva}! Che sollievo!"
+
+### u038749
+"Come posso servirvi?"
+
+### u038750
+"Basta una parola e obbedirò!"
+
+### u038751
+"Voglio parlare con la governatrice {mf|da solo|da sola}."
+
+### u038752
+"Il mio seguito mi accompagnerà all'incontro con la governatrice."
+
+### u038753
+"Non voglio perdere tempo con questo, adesso."
+
+### u038754
+{n}La guardia della porta si inchina con ossequio.{/n} "{mf|Lord|Lady} von Valancius, siamo lietissimi di accogliervi come nostro ospite! Vostra Signoria preferisce parlare con la governatrice da {mf|solo|sola} o con il proprio seguito?"
+
+### u038755
+{n}Alla vista di te, la guardia alla porta lancia un guaito spaventato e si piega in un profondo inchino.{/n} "Vostra Signoria, l'{mf|Onorevolissimo|Onorevolissima} {name} von Valancius! La governatrice vi attende nel suo ufficio, dove è protetta da mura e guardie. Preferite incontrarla {mf|solo|sola} o con il vostro seguito?"
+
+### u038756
+{n}La guardia alla porta si inchina davanti a te, tremando da capo a piedi.{/n} "Come posso servire Vostra Signoria?"
+
+### u038757
+"Andrò fino in fondo a questa faccenda. Sono {mf|certo|certa} che i ribelli avranno qualcosa da dire {mf|al padrone|alla padrona} del loro mondo."
+
+### u038758
+"Be', se su Janus non si trovano persone competenti, dovrò occuparmene io."
+
+### u038759
+"Chi c'è dietro l'assassinio?"
+
+### u038760
+[Attacca] "Sì, e la prima cosa da fare è sbarazzarsi dei servitori inadeguati!"
+
+### u038761
+"I vostri piccoli tumulti locali non mi riguardano. Ho urgente bisogno di rifornimenti da Janus."
+
+### u038762
+"Decime triplicate per compensare i miei profitti perduti: basterà."
+
+### u038763
+"Dove sei andata nel mezzo del combattimento? Era una qualche stregoneria?"
+
+### u038764
+"Non m'interessano le tue scuse. Avrei potuto essere {mf|ucciso|uccisa}!"
+
+### u038765
+"Un paio di casse del miglior amasec di Janus andranno bene come scuse, Signora Governatrice."
+
+### u038766
+"Dietro le ribellioni c'erano degli xenos. Ora sono morti."
+
+### u038767
+"La tua prudenza è lodevole, Governatrice Vyatt."
+
+### u038768
+"Mi aspetto che i miei sudditi affrontino il pericolo spalla a spalla con me. Tienilo presente la prossima volta, prima di premere il pulsante."
+
+### u038769
+"Una tecnologia davvero intrigante. Non direi di no a qualcosa del genere."
+
+### u038770
+"Gli xenos erano responsabili delle rivolte. Li ho lasciati vivere."
+
+### u038771
+"I ribelli erano manipolati dagli xenos. Ho spazzato via quei disgustosi alieni, ma ho lasciato vivere gli umani."
+
+### u038772
+"Conosci i motivi della ribellione?"
+
+### u038773
+"Le tue scuse non m'interessano. Occuparti dei ribelli è una tua precisa responsabilità."
+
+### u038774
+"Sei accusata di adorare i Poteri Rovinosi, Vistenza."
+
+### u038775
+"Vorrei tornare a parlare delle forniture alimentari da Janus."
+
+### u038776
+"Bene, darò la caccia io {mf|stesso|stessa} a questi elusivi fuggiaschi. Quanto a te, Vistenza, non ti sarà permesso di fallire di nuovo. Ti rimuovo dalla carica di governatrice di questo pianeta e ti metto agli arresti. Quando avrò finito con i ribelli, deciderò cosa fare di te."
+
+### u038777
+"Ne ho sentito abbastanza, Vistenza. Ma se vuoi che mi ripeta, sappiamo che la tua lealtà va ai Poteri Rovinosi."
+
+### u038778
+"Non stai salvando Janus né migliorandolo, Vistenza. Stai distruggendo questo mondo con le tue stesse mani."
+
+### u038779
+"Non riuscirò a farti cambiare idea, vero? Allora non ci proverò."
+
+### u038780
+"Questo mondo possiede un'anima. Un'anima che il tuo 'patrono' sta cercando di distruggere, e senza la quale Janus diventerà sterile."
+
+### u038781
+"Il predecessore di Yrliet. Sapevi che un altro xenos è venuto da te prima di Yrliet? Il tuo seguito ti ha nascosto il suo arrivo per poterlo catturare e sacrificare."
+
+### u038782
+"Quand'è stata l'ultima volta che hai lasciato la tenuta, Vistenza? Dai un'occhiata alle giungle di Janus e vedrai che, qualunque cosa tu pensassi di fare per il bene del pianeta, in realtà lo stai uccidendo!"
+
+### u038783
+"Cosa coltivate su Janus?"
+
+### u038784
+"Il Tecnoprete ha menzionato antiche rovine appartenenti agli xenos."
+
+### u038785
+"Hai omesso di menzionare gli strani cambiamenti nella flora e nella fauna del pianeta."
+
+### u038786
+"Quante altre prove ti servono, Vistenza? Basta così! Rinuncia a quella vile stregoneria finché c'è ancora speranza!"
+
+### u038787
+[Attacca] "La ragione mi dice che, tutto sommato, è più sicuro ucciderti. Mi dispiace, non è niente di personale."
+
+### u038788
+"Passiamo agli affari, ora."
+
+### u038789
+"Ne ho sentito abbastanza. Continua come hai fatto finora, Vistenza: fa' che i poteri sotto il tuo controllo giovino alla dinastia von Valancius."
+
+### u038790
+"È indegno di una governatrice dimenarsi in modo così patetico, Vistenza."
+
+### u038791
+"Osi mentirmi, Vistenza?"
+
+### u038792
+Hai approvato le azioni eretiche di Vistenza Vyatt.
+
+### u038793
+"Non ho nulla da rimproverarti. Finché le decime affluiscono nelle casse dell'Imperium e nelle mie, non vedo alcun problema."
+
+### u038794
+"Qual è la situazione sul pianeta?"
+
+### u038795
+"Vuoi che vada a catturarti dei ribelli?"
+
+### u038796
+Non hai accusato Vistenza Vyatt di eresia.
+
+### u038797
+"Tutti hanno i propri segreti, suppongo. Tra noi tutto può restare com'era."
+
+### u038798
+[Attacca] "Sono {mf|stufo|stufa} dei tuoi giochetti e della tua segretezza. Muori!"
+
+### u038799
+Hai condannato a morte Vistenza Vyatt per le sue azioni eretiche.
+
+### u038800
+Hai attaccato Vistenza Vyatt dopo aver smascherato le sue azioni eretiche.
+
+### u038801
+"Ti lascerò vivere e restare al tuo posto, Vistenza, a una condizione: smetti di cercare di distruggere lo Spirito del Mondo di Janus. Non tollererò un parassita sul mio mondo."
+
+### u038802
+"Le tue parole hanno il suono della verità. Tutto può restare com'era prima."
+
+### u038803
+"Te lo prometto, Governatrice, darò la caccia ai semi della ribellione e dell'eresia sul tuo pianeta e li ridurrò in cenere."
+
+### u038804
+"Costringi gli insediamenti a pagare le decime in corpi umani."
+
+### u038805
+"Mi sono giunte voci di stranezze tra la popolazione di Janus..."
+
+### u038806
+"Sei perdonata. Puoi tornare ai tuoi doveri."
+
+### u038807
+"Uno dei tuoi custodi ci ha aiutato in battaglia. Un tiratore eccellente. Chi era?"
+
+### u038808
+"La morte, mia cara. Credevi davvero che potesse esserci un altro esito?"
+
+### u038809
+"Parlami di Janus."
+
+### u038810
+"Non sprechiamo tempo in chiacchiere inutili, Vistenza. Sei una serva dell'Arcinemico."
+
+### u038811
+"Qualche dozzina di frustate basterà. Lascio a te il compito di organizzarle. Quando riceverò il rapporto pict, potrai tornare al tuo posto."
+
+### u038812
+"Persino per un mondo agricolo in capo al mondo, questo posto è una vera discarica. Cosa fate qui per divertirvi, quando avete tempo libero, s'intende?"
+
+### u038813
+[Attacca] "Io non discuto con gli eretici!"
+
+### u038814
+"Tutto, Vistenza. So tutto. E ora hai una sola possibilità di implorare pietà."
+
+### u038815
+"Tuttavia... lasciamo le cose come stanno."
+
+### u038816
+"La Stazione di Footfall è sull'orlo della carestia. Janus può rifornire di provviste la gente di lì?"
+
+### u038817
+"Il più forte. Non ho più bisogno di te, Vistenza."
+
+### u038818
+"Schiacciare quella feccia è una tua responsabilità. Riuscirai a occupartene, confido?"
+
+### u038819
+Hai fatto capire a Vistenza Vyatt di essere stata manipolata dai Poteri Rovinosi.
+
+### u038820
+"La volontà dell'Umanità, o la volontà dei Poteri Rovinosi? Vistenza, sei una sovrana forte, con un'attitudine eccezionale e un talento nel far vedere alle persone le cose solo come desideri tu. Non hai mai considerato la possibilità che qualcuno possa fare lo stesso con te?"
+
+### u038821
+"Con la tua incompetenza disonori lo stesso status di governatrice. In nome dell'Imperatore, ti condanno a morte."
+
+### u038822
+[Sorridi con condiscendenza] "Ah, vedo che non sei mai stata in un salotto appena decente, Vistenza. La tua capacità di mantenere una facciata signorile lascia molto a desiderare..."
+
+### u038823
+"Di recente sono {mf|stato|stata} su Thassera e ho visto delle laceraxe. Quelle bestie erano state importate da Janus, non è vero?"
+
+### u038824
+"Ho trovato il covo dei ribelli, Vistenza."
+
+### u038825
+[Fai un cenno verso la sua compagna] "Chi è questa persona accanto a te?"
+
+### u038826
+[Attacca] "Non sprecherò fiato cercando di persuaderti. È ora di mandare in pensione la stirpe dei Vyatt!"
+
+### u038827
+"Lascia perdere. Vorrei tornare a parlare delle forniture alimentari da Janus."
+
+### u038828
+"Metterai immediatamente a morte tutti coloro che sono legati alla tua stregoneria, e cancellerai per sempre dalla tua mente questo vile capitolo! È un ordine del tuo sovrano, Vistenza!"
+
+### u038829
+"Una bravata riprovevole? Pensavo che sparare ai bersagli in movimento facesse parte della cerimonia!"
+
+### u038830
+"Puoi smettere di scusarti, Vistenza. Non sono {mf|offeso|offesa}."
+
+### u038831
+"Non è affar tuo, Vistenza. Hai un problema ben peggiore da affrontare."
+
+### u038832
+"Cosa sta succedendo sul pianeta?"
+
+### u038833
+"Janus può soddisfare le forniture alimentari nelle condizioni attuali?"
+
+### u038834
+{n}Vistenza Janus Vyatt ab Aram af Koronus sta digitando furiosamente su una {g|Encyclopedia:Dataslate}tavoletta dati{/g}, impartendo ordini a un {g|Encyclopedia:Vox}vox{/g} dorato. Vedendoti, ripone in fretta i suoi dispositivi, si liscia la gonna e si lascia cadere in un profondo inchino.{/n} "Vostra Signoria, accettate le mie umili scuse per la riprovevole bravata che ha guastato il ricevimento! Nemmeno nei miei peggiori incubi avrei mai potuto immaginare..."
+
+### u038835
+"Davvero, Vostra Signoria? E cosa avete scoperto?"
+
+### u038836
+"Yrliet!" {n}Vistenza esclama senza fiato.{/n} "Come osi, lurida bestiaccia! Ti farò scorticare per questo sfogo! Vostra Signoria, cosa sta succedendo?"
+
+### u038837
+"Questo mondo era un tempo un pianeta selvaggio, pieno di xenobestie e del tutto inadatto a coltivare qualunque cosa. Ancora oggi, nonostante tutti i nostri sforzi, Janus si ribella regolarmente contro di noi. Terremoti, tsunami, la comparsa di nuovi parassiti ed erbacce che invadono le terre coltivabili... a volte non posso fare a meno di pensare che questo mondo sia dotato di coscienza: la coscienza di un bambino capriccioso e testardo a cui piace rovinare tutto ciò che abbiamo ottenuto!"
+
+### u038838
+"Com'è rinfrescante la novità: i ricchi che trattano la povera gente come sporcizia e ricoprono tutto con le migliori intenzioni." {n}La solita voce mielata di Jae ora stride come metallo arrugginito.{/n}
+
+### u038839
+"Dimenticate chi siete, Proctor! Non spetta a voi accusarmi o condannarmi alla presenza di Sua Signoria!" {n}La governatrice ti rivolge uno sguardo supplichevole.{/n} "Vi prego, non permettete che questo... questo abuso continui!"
+
+### u038840
+{n}Lanciando un'occhiata di traverso a Pasqal, Idira osserva con leggerezza:{/n} "Pare che le scienze non siano prerogativa esclusiva dell'Adeptus Mechanicus. Non lede l'autorità dello stimato Magos?"
+
+### u038841
+"Questa affermazione è vera. Ma chi credete siano stati i suoi insegnanti? L'Adeptus Mechanicus. Ogni sapere scaturisce da noi."
+
+### u038842
+{n}Cassia annuisce con aria comprensiva.{/n} "Theobald e Felek cercarono di limitare l'effetto che i miei poteri avevano sui servi di umili natali di Eurac V. I laboratorium della stazione condussero esperimenti su coloro che ebbero la sventura di perdere la ragione a causa del mio dono. Quei test aumentarono la durata della vita dei nostri servi... e poi si schierarono con Felek."
+
+### u038843
+"Oh, mia cara governatrice, l'unica voce davvero angelica su questo mondo sta per rimbombare come un tuono proprio tra..."
+
+### u038844
+"Una banda di servi della gleba della casa di uno dei nobili invitati alla cerimonia. Tutti i coinvolti vengono interrogati proprio in questo momento." {n}Vistenza serra le labbra.{/n} "Non avrebbero potuto organizzare tutto questo senza aiuto dall'interno della tenuta... cioè, stanno solo eseguendo degli ordini. Quanto ai veri colpevoli, temo che non si troveranno nei locali."
+

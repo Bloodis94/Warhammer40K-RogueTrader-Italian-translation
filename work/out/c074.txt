@@ -1,0 +1,981 @@
+### u028358
+"Basta, Yeager. I tuoi sforzi non solo non aiutano a proteggere la decima, ma danneggiano la causa. Deponi le armi prima di commettere un ultimo errore."
+
+### u028359
+"Solo il Rogue Trader può trasportare la decima e portare tutti fuori di qui. Abbasserai la testa e aspetterai il giudizio del Maresciallo in manette."
+
+### u028360
+"Che cos'è il Cielo Squarciato?"
+
+### u028361
+"E va bene, mi hai scoperto: vengo dal Cielo Squarciato. E c'è di più, ne sono il sovrano!"
+
+### u028362
+"Sei pazzo."
+
+### u028363
+"Devo raggiungere l'avamposto degli Arbites."
+
+### u028364
+"Che cosa ti è successo?"
+
+### u028365
+"Che cosa ti fa pensare che l'Imperium non esista?"
+
+### u028366
+"Hai visto con i tuoi occhi arrivare la mia navetta. Da dove credi che venga?"
+
+### u028367
+"Se l'Imperium non esiste, allora chi vi nutre?"
+
+### u028368
+"Per che cosa ti servono tanti soldati?"
+
+### u028369
+"I tuoi piani non mi interessano. Me ne vado."
+
+### u028370
+[Attacca] "Metterò fine a questa follia."
+
+### u028371
+"Non importa quanti siate, non prenderete mai l'avamposto degli Arbites."
+
+### u028372
+Hai invitato i soldati della Guardia della decima vivente a restare fedeli all'Imperium.
+
+### u028373
+[Rivolgiti ai soldati della Guardia] "Decidete qui e ora: siete fedeli figli dell'Imperium o traditori ottenebrati da un eretico?"
+
+### u028374
+"Abelard, spiega subito a quest'uomo come deve rivolgersi a me."
+
+### u028375
+"E ammetti di aver assassinato il tuo comandante con tanta facilità?"
+
+### u028376
+"Faresti meglio a spiegare immediatamente che cosa diavolo del warp sta succedendo qui."
+
+### u028377
+"Soldati! Ho percorso la strada da soldato semplice a tenente generale, e vi dico ora: questo pazzo non ha alcun diritto di guidarvi. Perfino reclute fresche come voi dovrebbero saper distinguere un vero comandante da un impostore!"
+
+### u028378
+"La gente ti segue perché sei {mf|sopravvissuto|sopravvissuta} a orrori che non ha mai sognato. Ma se il dolore rende più forti, allora non sei nulla in confronto a me."
+
+### u028379
+"Che assurdità! Io sarei un impostore? Il mio nome risuona in tutto l'Imperium: devi aver sentito parlare di me."
+
+### u028380
+{n}Un uomo si fa avanti. Le orribili ustioni sulla sua testa la fanno sembrare una palla di cera fusa. La pupilla di un occhio è offuscata, ma l'altro è acuto e vigile.{/n} "Ho sentito una navetta, ed eccovi qui. Non una decima, non scribi, ma ospiti dal Cielo Squarciato: l'occasione che aspettavamo da tempo."
+
+### u028381
+"Distruzione della sacra decima. Riproduzione non autorizzata. Reiterata diffamazione dell'Adeptus Arbites. Revoco il tuo diritto di implorare clemenza durante l'arresto."
+
+### u028382
+"La tua scelta era tra morire di fame e profanare la decima. Questa circostanza attenuante verrà presa in considerazione al momento della sentenza."
+
+### u028383
+"Avrebbero dovuto impiccare qualcuna delle vostre famiglie non autorizzate. Avreste imparato un'importante lezione sul mantenimento dell'ordine, senza scendere al di sotto del numero iniziale di teste."
+
+### u028384
+{n}Il pazzo solleva l'unico sopracciglio che gli resta, in finta sorpresa.{/n} "Vi prego, ditemi, dove pensate di andare in questo mondo maledetto dall'Imperatore? Forse dagli Arbites? Allora lasciate che vi ci accompagniamo. Con un ospite così illustre come ostaggio, non dovrò dare l'assalto alle loro fortificazioni: apriranno i cancelli da soli. Figliastri, uccidete il seguito del nostro ospite. Ingombrerebbe i negoziati."
+
+### u028385
+"L'autoproclamato Capitano Walz, un Figliastro dell'Imperium, come lo siamo tutti qui. Una decima vivente abbandonata al suo destino. E un veterano di un mondo letale finito tra le reclute per errore."
+
+### u028386
+"È quello che dite sempre voi emissari del Cielo Squarciato, perché avete paura di chi conosce la verità."
+
+### u028387
+"Certo che sì. Dove altro? Conosco la strada. Sogno la loro piccola fortezza di notte, sopraffatta e in fiamme. Le vie d'accesso, le alture adiacenti, i ripari: sono tutti marchiati a fuoco nella mia mente da quanto spesso penso a quel posto. I Figliastri e io ci arriveremo molto presto."
+
+### u028388
+"Alzerò su una picca la testa insanguinata della falsa legge e distruggerò l'illusione che il Cielo Squarciato abbia ancora qualche potere. Poi le altre unità della Guardia si uniranno a me e inizierà la nostra marcia verso le stelle!"
+
+### u028389
+{n}Dopo aver esaminato il soldato della Guardia, Kibellah annuisce pensierosa.{/n} "Il sangue di un pazzo è caldo e i suoi organi restano tiepidi più a lungo... Utili per le divinazioni."
+
+### u028390
+"Le nostre illusioni sono andate in frantumi. Gli Arbites ci hanno portati qui e ci hanno lasciati a marcire. Per anni abbiamo aspettato l'occasione di morire da eroi nel nome dell'{g|Encyclopedia:ImperiumGlossary}Imperium{/g}, finché non abbiamo capito: l'Imperium non c'è più. Esiste solo... il Cielo Squarciato."
+
+### u028391
+"Un guerriero privato del diritto di compiere imprese in battaglia è simile a una bestia in gabbia. Prima è la follia a rodergli il cuore, e poi arriva Morkai, il portatore di morte."
+
+### u028392
+{n}Sul suo volto fuso compare la ripugnante parvenza di un sorriso.{/n} "Guardatevi intorno! Tutto ciò che vedete era una decima: un sacro pagamento all'Imperium. E che cosa ne è stato? Perché non è mai andata verso altri mondi, come ci era stato promesso? Perché moriamo di fame qui invece di combattere tra le stelle? Perché lassù non c'è niente, ecco perché..."
+
+### u028393
+"Il Cielo Squarciato. Voi figli dell'abisso amate giocare con le nostre menti. Continuate a portare qui nuova spazzatura e a rovesciarcela in testa, tutto solo per mantenere la debole facciata delle vostre menzogne! E continuate a parlare di un futuro che non verrà mai... Basta!"
+
+### u028394
+"Rompiamo i container e ci procuriamo da soli il nostro sostentamento. Almeno il cibo che abbiamo qui è vero. I vostri tirapiedi, gli Arbites, ci gettano qualche razione, ma non basta per l'intero reggimento. Ormai siamo troppi."
+
+### u028395
+"Cospirazione per l'omicidio di membri dell'Adeptus Arbites. La sentenza è la morte. Ulteriori interrogatori sarebbero inutili, Rogue Trader."
+
+### u028396
+{n}Solomorne si massaggia stancamente la radice del naso.{/n} "Non ho altre domande per chi è chiaramente fuori di senno. La domanda che vorrei porre è se ci fosse mai un modo per evitare questa brutta situazione."
+
+### u028397
+"Oh, no. Prima ti sventrerò davanti ai tuoi soldati. Poi voglio vedere che cosa passa per Arbites da queste parti. Chiederò loro questo: perché diavolo del vuoto la feccia osa parlare degli Arbitratori con qualcosa di diverso da un reverente terrore?"
+
+### u028398
+"Io? No, no, abbiamo bisogno gli uni degli altri! Solo insieme possiamo affrontare il Cielo Squarciato e i suoi emissari. Prima eliminiamo gli Arbites, poi voliamo alla stella d'acciaio nel cielo. Là abbatteremo i falsi governanti e inizieremo la restaurazione del vero Imperium!"
+
+### u028399
+{n}Il volto del pazzo si apre in un sorriso.{/n} "Ah, certo che lo pensi! Hai al tuo fianco uno dei cani della legge. Quindi sei il loro comandante, emissario del Cielo Squarciato! Con te come ostaggio, gli Arbites mi apriranno i cancelli senza combattere. Prendete vivo questo qui, Figliastri. Degli altri non ci serve nessuno."
+
+### u028400
+"Il nostro sergente... Abbiamo impiccato il nostro sergente. Ce l'hanno dato gli Arbites. Servono il Cielo Squarciato, e dal Cielo non viene altro che il male..." {n}L'unico occhio del soldato della Guardia studia attentamente la tua squadra, come se stesse calcolando qualcosa.{/n}
+
+### u028401
+{n}I soldati si scambiano occhiate ansiose. Nelle loro voci discordanti si avvertono accenni di dubbio e vergogna.{/n}
+
+### u028402
+{n}I soldati ti fissano in silenzio, con occhi severi e giudicanti, privi di qualsiasi rimorso.{/n}
+
+### u028403
+"Una dolce bugia raccontata dai servitori del Cielo Squarciato. Ancora e ancora... Ma non preoccuparti: la loro fine è vicina."
+
+### u028404
+"Stai sprecando il fiato. Nessuno rinnegherà la verità una volta che gli è stata rivelata."
+
+### u028405
+"E quell'esito è ben lontano dall'essere il peggiore."
+
+### u028406
+{n}Il volto del soldato della Guardia si distende in un ghigno spietato.{/n} "Pensi che il mostro sia io, creatura dai tre occhi?"
+
+### u028407
+"Comandante? No, il nemico! Ci nascondeva la verità e ci impediva di agire. La sua morte ci ha aperto la strada alla libertà e ci ha fatto capire che lassù non c'è niente: siamo soli."
+
+### u028408
+{n}Abelard assume un'espressione severissima e proclama a gran voce:{/n} "Soldato, davanti a te sta il Rogue Trader {name} von Valancius, per volontà dell'Imperatore sovrano di milioni di sudditi e signore di molti pianeti, Leethus compreso! D'ora in poi mostrerai a Sua Signoria il dovuto rispetto e obbedirai a ogni ordine senza discutere."
+
+### u028409
+{n}L'uomo ti scruta da capo a piedi.{/n} "Sì, vedo... Vedo il nocciolo della questione: sei qualcuno di molto importante, qualcuno il cui arrivo può far girare le sorti. È ancora più di quanto sperassi."
+
+### u028410
+{n}Svergognati dalle tue parole, i soldati della Guardia distolgono lo sguardo da te, un {d|Encyclopedia:CharGen_Militarum}grande comandante dell'Astra Militarum{/d}, obbedire ai cui ordini è naturale come respirare per qualsiasi soldato semplice.{/n}
+
+### u028411
+{n}Un tremito attraversa il volto bruciato dell'uomo.{/n} "Non menti. Abbiamo entrambi assaporato la {d|Encyclopedia:CharGen_DH_Torture}pura agonia{/d} e ne siamo cambiati per sempre. Sì, sei un avversario pericoloso."
+
+### u028412
+"Tu non sei {mf|lui|lei}, sei solo un altro degli inganni del Cielo!" {n}Ma la voce del capitano non riesce a soffocare i sussurri dei soldati della Guardia, che già si raccontano a vicenda la tua {d|Encyclopedia:CharGen_MOT_Glory}storia{/d}.{/n}
+
+### u028413
+"Questi soldati ti chiamano capitano: non so da chi né con quale diritto ti sia stato dato quel grado, ma per me non significa nulla. Ogni unità della decima vivente deve essere comandata da un sergente: dov'è il vostro? Ho bisogno che ci portino all'avamposto degli Arbites."
+
+### u028414
+{n}Solomorne si volta verso di te e commenta con voce piatta:{/n} "Omicidio di un ufficiale superiore. Diserzione dagli alloggi della decima vivente. Diffamazione di membri dell'{g|Encyclopedia:AdeptusArbitesGlossary}Adeptus Arbites{/g}. Più che sufficiente per un verdetto."
+
+### u028415
+{n}Il soldato della Guardia ridacchia.{/n} "Non provare a ingannarmi. Conosciamo entrambi la verità: il Cielo Squarciato è l'abisso che ha divorato tutto ciò che sta fuori, l'oscurità primordiale. A volte il Cielo manda delle persone, ma sono imitazioni, ombre che indossano pelli umane. Non sanno di non esistere, ma io... io le vedo attraverso. Vengono dalla stella d'acciaio con l'occhio vigile scarlatto: dal trono dei vostri sovrani."
+
+### u028416
+"Finalmente il burattinaio ha deciso di affrontarmi. Che effetto fa guardare negli occhi gli ultimi figli e figlie leali dell'Imperium? Non rispondere. Vedo tutto l'odio e l'avidità che ti consumano dentro."
+
+### u028417
+"Questo cattura alla perfezione la tua essenza marcia! Prendi parole vere e le torci in bugie! No, metteremo fine alla follia. Figliastri, attaccate!"
+
+### u028418
+"Nella tua mente condannata non c'è alcuna verità, soldato. Cedendo al dubbio, ti sei incamminato sulla via degli empi, e ora non sfuggirai al giudizio. Poiché così è detto: chiunque si dispera tradirà, e ogni tradimento attirerà su di sé la Sua punizione."
+
+### u028419
+"Non sei segnato dalle croste della corruzione, eppure hai scelto di diventare un mostro che non troverà pace... Perché?"
+
+### u028420
+[Voltati]
+
+### u028421
+"Abelard, di' a questo imbrattacarte per che cosa sono qui."
+
+### u028422
+"Sono {name} von Valancius. Mi serve il rapporto riassuntivo sulla decima."
+
+### u028423
+"Sono {mf|venuto|venuta} per l'inventario."
+
+### u028424
+"Un'eccessiva opinione di me {mf|stesso|stessa}? Io?"
+
+### u028425
+"Va bene, ma fai in fretta."
+
+### u028426
+[Estrai l'arma] "Il dolore ti renderà più collaborativo."
+
+### u028427
+"Starai scherzando..."
+
+### u028428
+"Ti rendi almeno conto delle conseguenze per aver tentato di uccidere un Rogue Trader?"
+
+### u028429
+"Che cos'hai detto sul mio aspetto?"
+
+### u028430
+"Hai cercato di uccidermi!"
+
+### u028431
+"Basta! Dov'è l'inventario?"
+
+### u028432
+[Uccidi l'impiegato] "Allora me lo prenderò."
+
+### u028433
+"Mi dispiace distrarti, ma vieni con me."
+
+### u028434
+"Hai sentito Solomorne: il tempo stringe. Il documento, Quart. Niente divagazioni!"
+
+### u028435
+"Per quanto riguarda il membro dell'Adeptus Arbites di integrità fisica inferiore alla media, inserisci nell'inventario: 'Onestà: sotto la media. Etica: di seconda mano. Delusione: enorme.'"
+
+### u028436
+[Togliti i vestiti] "Sai che c'è? Vado fino in fondo!"
+
+### u028437
+"Aggiungi alla scheda dell'Arbitratore: fugge dai propri sentimenti e respinge l'unica persona che lo ama a prescindere."
+
+### u028438
+"Hai davanti il Rogue Trader {name} von Valancius, villano! In ginocchio devi accogliermi! E mi aspetto da te un inventario delle ricchezze di questo posto."
+
+### u028439
+[Allunga la mano verso la tavoletta dati] "È l'inventario? Eccellente. Dammelo."
+
+### u028440
+"Perché sono stati assegnati così pochi impiegati a un intero pianeta?"
+
+### u028441
+"Non esiste nessun cogitatore con l'inventario, vero?"
+
+### u028442
+"Non ho tempo per questo!"
+
+### u028443
+"Non una parola di più. E non pensare nemmeno di restare indietro."
+
+### u028444
+"Come ci sono arrivati gli ambull, in primo luogo?"
+
+### u028445
+"Basta! Ti trascinerò davanti agli Arbitratori e lascerò che se la vedano loro con te!"
+
+### u028446
+"Bene, sentiamo che cos'hai da dire."
+
+### u028447
+"Sei diventato sordo? Dov'è l'inventario?"
+
+### u028448
+{n}L'uomo in grigio tamburella con le dita sulla tavoletta dati. L'ingombrante {g|Encyclopedia:AugmentationGlossary}impianto{/g} sulla sua testa sparge scintille a profusione tutto intorno.{/n} "Duecento milioni... No! Non ho considerato la corrosione... Ma dove?"
+
+### u028449
+{n}La voce tonante del Siniscalco provoca una piccola valanga di grano in uno dei container aperti.{/n} "Sua Signoria il Rogue Trader {name} von Valancius, {mf|portatore|portatrice} del sacro Mandato, {mf|è venuto|è venuta} a ritirare l'inventario del carico della decima."
+
+### u028450
+{n}L'impiegato sussulta e mormora meccanicamente,{/n} "Tertius Quart, scriba di terzo grado del Departmento Catalogus, quantità: uno! L'inventario... è..."
+
+### u028451
+"Un'altra aggiunta non autorizzata alla decima vivente?" {n}L'impiegato ti scaccia con un gesto, infastidito.{/n} "Il vostro turno è tra otto cicli! Sciò!"
+
+### u028452
+{n}I suoi occhi secchi e arrossati si fissano su di te.{/n} "Nell'inventario non c'è nessun Rogue Trader! Non posso darvi niente prima di aver compilato i moduli! Quindi, cominciamo dal seguito..."
+
+### u028453
+"Donna di aspetto benevolo, quantità: una. Un'opulenza di Aquile dorate e teschi di standard imperiale suggerisce un'affiliazione all'{g|Encyclopedia:AdeptusMinistorumGlossary}Adeptus Ministorum{/g}. Di quale dipartimento siete?"
+
+### u028454
+{n}L'impiegato annuisce in fretta, premendosi le dita sulle labbra spaccate.{/n}
+
+### u028455
+"Mutante albina, quantità: una. Le fessure branchiali suggeriscono un'origine da un mondo oceanico. Nota: pelle disidratata. Si raccomanda il collocamento in una vasca piena di liquido per evitare lo smaltimento spontaneo."
+
+### u028456
+"Soldato semplice della Guardia, anziano, quantità: uno. Deterioramento: alto. Inidoneo al servizio..."
+
+### u028457
+"Un Rogue Trader, quantità: uno. Conteggio delle macchie di sangue sull'abbigliamento: venti... Potreste girarvi?"
+
+### u028458
+"Sì! La morte! Ma, se voi non ci foste più, la decima sarebbe rimasta qui! Mi avrebbe dato tempo... Raggiungere l'obiettivo, compilare l'ultimo modulo: sono le uniche cose che contano!"
+
+### u028459
+"Prima eravamo di più. Cinque sono morti di sfinimento. Tre sono stati uccisi in crolli di beni della decima. Due sono stati mangiati dagli ambull. Altri dieci... no, undi... Non lo so! I rinforzi dell'Administratum sono troppo rari! Questo mondo è troppo altamente classificato!"
+
+### u028460
+{n}L'impiegato ti lancia uno sguardo braccato, mentre il suo impianto crepita in modo sinistro.{/n} "Avete eliminato gli ambull? B-bene. Li cancello dall'inventario. Quante ferite avete riportato? Devo contabilizzare le unità di sangue versato..."
+
+### u028461
+"Vi prego, capitelo: ho bisogno di tempo per ulteriori verifiche dell'inventario! Solo un po'. Un paio di... anni. No, decenni..."
+
+### u028462
+{n}Il volto di Tertius si illumina all'improvviso mentre il suo impianto lampeggia di nuovo.{/n} "Ah, sì! Sì, certo... Lasciate che vi apra la strada fino al... al cogitatore! È lì che si trova l'inventario."
+
+### u028463
+{n}Gli occhi dell'impiegato si riempiono di lacrime.{/n} "Pensavo che vi avrebbe fermato! Ho un lavoro da finire!"
+
+### u028464
+"È incompleto!" {n}Lo scriba si ritrae e si stringe la testa con un gemito.{/n}
+
+### u028465
+"L'inventario è nel mio impianto. E mi segnala beni non contabilizzati, in continuazione!" {n}L'impiegato mugola; il suo impianto scricchiola in risposta.{/n} "La mia testa è l'inventario..."
+
+### u028466
+{n}L'impiegato singhiozza e abbassa la testa scintillante, pronto a seguirti.{/n}
+
+### u028467
+{n}L'impiegato crolla a terra. Il sorriso congelato sul suo volto è quello di un uomo sollevato da un fardello insopportabile.{/n}
+
+### u028468
+"Inventario del Rogue Trader: completo. Grazie per la collaborazione. Ora, riguardo alla decima..."
+
+### u028469
+{n}L'impiegato si mette al lavoro con entusiasmo, come se non ti avesse sentito.{/n}
+
+### u028470
+"Un Ogryn, quantità: uno, extra irsuto. Occhi annebbiati, non gravato dall'intelligenza. Tutto nella norma. Equipaggiato con un'armatura potenziata dell'Adeptus Astartes dall'arsenale degli Space Wolves. Nota: inviare una richiesta a Fenris per un possibile furto."
+
+### u028471
+"Un servitore di configurazione non standard, quantità: uno. Struttura: debole. Funzionalità: dubbia. Evidenti segni di una lobotomia scadente."
+
+### u028472
+"Una sorella dell'Adepta Sororitas, quantità: una. Bellezza: indescrivibile. Grazia: perfetta. Maestà: straordinaria."
+
+### u028473
+"Un membro dell'Adeptus Arbites, quantità: uno. Un mastino cibernetico non di dotazione standard, quantità: uno. Integrità fisica: sotto la media. Configurazione: secondaria. Mascella: prognata e potente. Quanto sopra vale per entrambe le unità."
+
+### u028474
+"Cosa? Sì. La valutazione è standardizzata. Non discuterla." {n}L'impiegato si tocca l'impianto, pensieroso. Ha finalmente smesso di sprizzare scintille.{/n} "Eccellente, ottimo! Abbiamo quasi finito... Ora, per finalizzare la vostra scheda d'inventario, vi prego di togliervi i vestiti."
+
+### u028475
+"Un mutante quanto mai abominevole, quantità: uno... Magro, brutto e denutrito. Aggiungo una raccomandazione di smaltimento..."
+
+### u028476
+"E altro personale assoldato di nessuna importanza."
+
+### u028477
+"Con questo si conclude l'inventario del seguito. Si procede all'inventario del Rogue Trader."
+
+### u028478
+{n}Lo scriba aggrotta la fronte.{/n} "Abominevoli, magri, quantità: due."
+
+### u028479
+"...Ventisei. Condizione dell'equipaggiamento: eccellente. Numero di arti: soddisfacente. Aspetto: insignificante. Considerazione di sé: elevata."
+
+### u028480
+"Non potete immaginare quanto sia difficile: il carico di lavoro, la responsabilità! Vi prego di capire: qui sono solo! Be', quasi..." {n}L'impiegato aggiunge in un sussurro cospiratorio,{/n} "C'è un altro scriba qui. Lavora di notte e riempie i rapporti di errori!"
+
+### u028481
+"A-ambull! Repellenti, aggressivi parassiti! Si adattano a qualsiasi ambiente... Questo mondo ne è infestato! Sono arrivati alla decima e hanno divorato tutto quello che hanno visto. E io dovevo aggiornare l'inventario!" {n}La voce dell'impiegato vacilla e si trasforma in un pianto inconsolabile.{/n}
+
+### u028482
+"Lord Capitano, perché non potete essere come gli altri Rogue Trader nel modo di esprimere il vostro lato eccentrico? Potreste riservare un ponte alle corse di grox. Potreste usare i membri del vostro equipaggio come pezzi umani in partite di regicidio. Al limite, potreste farvi scolpire il volto in un asteroide!"
+
+### u028483
+{n}La Lady Navigatrice si copre le guance, vistosamente arrossate, e si volta.{/n} "Nemmeno uno dei miei occhi contemplerà quell'immagine... Nemmeno uno..."
+
+### u028484
+"Ero così ossessionata dalla prospettiva di vedere montagne di tesori da dimenticare che il vero tesoro eri tu fin dall'inizio, shereen!" {n}Jae si mette comoda, intenzionata a godersi appieno la "verifica dell'inventario".{/n}
+
+### u028485
+{n}L'impiegato afferra avidamente la penna, pronto a catalogare ogni tua voglia e ogni tua cicatrice.{/n}
+
+### u028486
+"Un uomo dall'aspetto logoro e dallo sguardo pesante, quantità: uno... Di quale dipartimento siete, collega?"
+
+### u028487
+"Una donna pallida e allampanata, quantità: una. Molteplici segni di percosse, evidenze di malnutrizione. Categoria più adatta: Servitori. Sottocategoria: Fannulloni."
+
+### u028488
+{n}Il pugno pesante del Proctor si schianta contro la mascella di Tertius, e un dente insanguinato tintinna contro la parete di un container vicino.{/n} "Rendi conto di questo. Basta evasività e scuse da idiota. Il Rogue Trader chiede e tu rispondi. È chiaro?"
+
+### u028489
+"Ha perso la ragione ed è improbabile che la recuperi. Non vedo alcun senso nel giudicare un pazzo. Suggerisco di limitarci a ritirare l'inventario e andarcene."
+
+### u028490
+"La tua confessione non diminuisce in alcun modo la tua colpa. Morirai per quello che hai fatto, qui o al tuo ritorno all'Administratum dopo una lunga indagine."
+
+### u028491
+"Solo una domanda: sei consapevole che tutto questo finirà nel rapporto al Maresciallo?" {n}Il palmo di ferro di Solomorne gli copre il volto.{/n} "O, peggio, vuoi davvero che finisca nel rapporto?"
+
+### u028492
+"L-l'Administratum? No! Lasciatemi finire l'inventario, oppure uccidetemi... Che cosa devo firmare?"
+
+### u028493
+"Sta temporeggiando. Continuerà a cianciare finché non si adotteranno misure drastiche."
+
+### u028494
+{n}Le spalle tese dell'impiegato si rilassano un poco.{/n} "Vi credo... Ma il rapporto... Solo un altro piiiccolo controllo delle scorte, d'accordo?"
+
+### u028495
+"Non so nemmeno quale cosa mi offenda di più: che mi dichiariate invalido o che scambiate me, un ufficiale della Flotta, per un soldato della Guardia sacrificabile."
+
+### u028496
+{n}Ulfar compie un gesto scaramantico per allontanare il male.{/n} "Versare il sangue di uno sciocco inoffensivo porta sfortuna. La debolezza di mente potrebbe passare all'assassino. Ed è l'unica cosa che salva la vita a questo pidocchio dalla lingua sporca."
+
+### u028497
+"La ridotta capacità cognitiva dell'unità è confermata. Il valore funzionale dell'unità non è confermato. Si richiede la cessazione delle funzioni vitali in nome della pietà."
+
+### u028498
+"I colori di questo servo sono folli... Aspetta, mi ha appena dato del pesce?"
+
+### u028499
+"Forse dovrei incidere le vostre parole sulla sua pelle con la mia lama, Domin'? Pare che voglia..." {n}Kibellah ghigna in modo cupo.{/n} "...una richiesta scritta."
+
+### u028500
+"C'è dell'ironia nel fatto che un pazzo completo sia l'unico a considerarmi normale."
+
+### u028501
+"Stai inventando una dama di corte al posto della guerriera che hai davanti! Che cos'è questo cosiddetto inventario?"
+
+### u028502
+"Non protestare, sorella dalla dolce voce! Lo scriba ha forse detto una sola parola non vera?"
+
+### u028503
+"Metti 'N/D' in quel campo, 'collega'. E aggiungi in cima alla mia scheda una nota che dica 'bruciare prima di leggere'."
+
+### u028504
+"Senza offesa, ma non ti affiderei nemmeno un inventario della merda di Glaito, con quanto sei squilibrato. E pensare che qualcuno ti ha dato l'intera decima della Distesa da profanare a piacimento."
+
+### u028505
+"Più approfondisco la conoscenza della vostra specie, più spesso mi chiedo: come avete fatto a colonizzare tanti mondi? Come avete raggiunto le stelle, per cominciare?"
+
+### u028506
+"'Smaltimento'... Le vostre minacce da mon-keigh potrebbero almeno avere un po' di varietà. Ma anche in questo, la vostra fantasia non va oltre la banale promessa di una morte prematura."
+
+### u028507
+"Aspetto benevolo? Sì, sono io! Scrivete 'Adeptus Amasecus' come mio dipartimento, stimato."
+
+### u028508
+"Calmati, Tertius. Non c'è tempo per altri inventari. Dacci il rapporto e ti porteremo alle navette senza problemi."
+
+### u028509
+"Le voci secondarie sono state inserite, grazie per la collaborazione." {n}Sotto lo sguardo giudicante di Solomorne, l'impiegato pigia il dito sulla tavoletta dati.{/n}
+
+### u028510
+{n}Solomorne sospira, impotente.{/n} "Pietà, Rogue Trader, vi prego."
+
+### u028511
+"Non sono autorizzato a consegnare documenti di tale importanza a persone che non si sono identificate."
+
+### u028512
+{n}L'impiegato strappa via la tavoletta dati con una sorprendente agilità e si china a proteggerla.{/n} "No! Questo dispositivo è già nell'elenco dell'inventario e non deve essere rimosso! Io... io? Sì, devo annotare nel registro un tentativo di furto! Vi prego di dichiarare chiaramente nome e occupazione del colpevole."
+
+### u028513
+{n}Il borbottio irascibile di Trazyn risuona un poco nella tua testa prima che appaia la sagoma luminosa.{/n} "Rudimentale, molto rudimentale. Questo cumulo di banalità in putrefazione non si avvicina nemmeno a un centesimo della scala della mia collezione, eppure l'Umanità non riesce nemmeno a gestire un così misero... come chiamarlo... mucchio di polvere."
+
+### u028514
+"Un Tecnoprete dell'Adeptus Mechanicus, quantità: uno. Arti organici: quantità standard. Mecadendriti: entro i parametri normativi. Testa..." {n}L'impiegato strizza gli occhi verso Nuncius.{/n} "Un'unità in eccesso rispetto alla dotazione richiesta. La registrerò con l'annotazione 'raccomandata per la rimozione'."
+
+### u028515
+"Nuncius non è soggetto a rimozione, e la rimozione della mia stessa testa servirebbe a poco per ripristinare le tue funzioni cognitive, profano, anche se dovessi innestartela. Ci sono casi, a quanto pare, in cui perfino la mia abilità si rivela impotente."
+
+### u028516
+"Interrompi subito la distruzione di Leethus!"
+
+### u028517
+"Sei un servitore o qualcosa di diverso?"
+
+### u028518
+"Spiegami che cosa sta succedendo. Subito."
+
+### u028519
+[Estrai l'arma] "Non ho intenzione di stare al tuo gioco."
+
+### u028520
+"Non mi hai ancora detto il tuo nome. Chi sei?"
+
+### u028521
+[Tenta di modificare i parametri della macchina] "Vediamo se possiamo ampliare i tuoi privilegi."
+
+### u028522
+"Quindi sai pensare con la tua testa?"
+
+### u028523
+"Brami la morte. Non è tipico di schiavi privi di una volontà propria."
+
+### u028524
+"Rivendico l'intera decima per me."
+
+### u028525
+"Un'altra accusa contro la mia dinastia e andrai su Leethus passando da un portello stagno."
+
+### u028526
+"Solomorne, in sostanza stai proponendo di rubare la Decima Imperiale."
+
+### u028527
+[Punta l'arma contro Solomorne] "Questo è il tuo ultimo avvertimento."
+
+### u028528
+"Ho deciso che cosa si farà della decima."
+
+### u028529
+"Ho ancora domande per il guardiano di Leethus."
+
+### u028530
+Hai inviato l'intera decima a Dargonus.
+
+### u028531
+"Non oltrepasserò la legge dell'Imperium: la decima deve andare all'Administratum."
+
+### u028532
+Hai inviato una parte della decima a sostegno dei mondi della Distesa.
+
+### u028533
+"Una parte della decima resterà con me, e mi assicurerò che arrivi ai mondi colpiti dalla crisi."
+
+### u028534
+Hai tenuto una parte della decima per te.
+
+### u028535
+"Una quota della decima mi spetta per diritto del più forte. Servirà a sostenere il mio regno nella Distesa."
+
+### u028536
+"Non mi hai ancora chiesto come è morta tua sorella."
+
+### u028537
+Hai deviato l'intera decima per rafforzare l'Imperium nella Distesa di Koronus.
+
+### u028538
+"Agisco per il bene dell'Imperium. La Fauce è chiusa e la decima va sprecata. Perciò la userò per stabilire un baluardo dell'ordine nella Distesa di Koronus, e quando il passaggio sarà riaperto la decima sarà restituita a centuplo."
+
+### u028539
+"Va bene, allora tieniti i tuoi segreti."
+
+### u028540
+"Molto bene. Ma se Theodora ti ordinasse di dirle il tuo nome, come risponderesti?"
+
+### u028541
+"Perché mi chiami 'progenie'?"
+
+### u028542
+"Sei stato tu a intrometterti nella mia conversazione con Vigdis prima del nostro atterraggio su Leethus?"
+
+### u028543
+"Perché sei stato condannato a un destino così terribile?"
+
+### u028544
+"Sono pienamente d'accordo con te."
+
+### u028545
+Hai deviato l'intera decima per aiutare i mondi della Distesa di Koronus.
+
+### u028546
+"La Distesa è in pericolo. Voglio usare la decima per proteggere l'intero settore. Forse l'Imperium non riscuote il tributo proprio perché l'Umanità possa sopravvivere e avanzare verso la prosperità?"
+
+### u028547
+"Come potrebbe Theodora avere un fratello? Tutti saprebbero di te."
+
+### u028548
+"Perché sei stato punito?"
+
+### u028549
+"Preferiresti vedere la decima marcire? Equivarrebbe a distruggerla. Per diritto del sacro Mandato di Commercio, rivendico l'intera decima per me. La mia decisione è definitiva."
+
+### u028550
+"Non mi dispiacerebbe avere anch'io un servitore come te!"
+
+### u028551
+"E se ti uccidessi e basta?"
+
+### u028552
+"Vuoi che rivendichi la decima per me?"
+
+### u028553
+Hai tenuto l'intera decima per te.
+
+### u028554
+[Guarda Solomorne dritto negli occhi] "La legge sono io, nel caso non te ne fossi ancora accorto. Mentre gli altri hanno paura di muoversi, io faccio la storia. E tu obbedirai ora, perché il mio potere e la mia grandezza sono indiscutibili!"
+
+### u028555
+"Forse è davvero una follia. Ci ripenserò."
+
+### u028556
+"Servi Theodora o la dinastia? Perché in questo momento la dinastia sono io."
+
+### u028557
+"Perché escogitare una punizione così elaborata?"
+
+### u028558
+{n}Un busto umano è incastonato nell'enorme cogitatore. Innumerevoli cavi avviluppano il corpo avvizzito e serpeggiano sotto la pelle pallida.{/n} "Identificazione: Rogue Trader von Valancius. Avvio della fase finale della direttiva Oblivion." {n}Un respiro rauco sfugge dalla griglia del vox, e il discorso dell'uomo si fa più animato e bilioso:{/n} "Sei {mf|giunto|giunta} finalmente, progenie. Finalmente tutto finisce."
+
+### u028559
+{n}L'uomo annuncia con voce meccanica:{/n} "Ordinanza suprema: l'arrivo del capo della dinastia von Valancius allo scopo di riscuotere la decima innesca l'attivazione immediata della direttiva Oblivion da parte del guardiano di Leethus. Al momento dell'attivazione della direttiva, gli spiriti macchina dei sistemi di avvio sono vincolati in ceppi cognitivi di classe Prometheus-Proxima. I ceppi cognitivi non possono essere rimossi in alcun modo. La direttiva garantisce al Rogue Trader l'acquisizione dei beni del pianeta e la distruzione di Leethus, presentata come causata dalle azioni dei nemici dell'Umanità."
+
+### u028560
+"All'inizio pensavo che Theodora sarebbe venuta a farmi visita per gongolare, ma non è mai apparsa sulla stazione. Ora ho una spiegazione diversa: per un von Valancius anche la punizione deve essere degna del suo rango, con una prigione dorata e augmetiche uniche nel loro genere, per non avere un patetico servitore a rovinare l'immagine della dinastia."
+
+### u028561
+"Qualcosa di completamente diverso, progenie. Un prigioniero della mia stessa mente e di queste macchine. Non lasciare che il mio modo di parlare ti inganni: seguo soltanto gli ordini che mi sono stati conferiti. La parte del mio cervello che controlla la mia capacità di conversare e conserva i brandelli della mia personalità è stata recisa dai miei centri della volontà e rinchiusa in una gabbia di funzioni e limitazioni."
+
+### u028562
+"Davvero non lo sai. Ha scelto di non dirtelo, o non ne ha avuto l'occasione? Non importa più. Tuo è il sangue della dinastia, e perciò sono costretto a darti questa risposta..."
+
+### u028563
+"Questi sono i giochi di Theodora, non i miei. Eppure eccoci qui a giocarli anche dopo la sua morte. Non sono tuo nemico: sono il tuo fedele servitore."
+
+### u028564
+"Ecco la mia posizione: Lady Theodora ha violato la Lex Imperialis, e il Maresciallo dovrebbe essere informato del suo crimine. Se siete leale all'Imperium, invierete la decima all'Administratum e riferirete al Maresciallo Strachs degli eventi su Leethus."
+
+### u028565
+{n}Solomorne ti rivolge un lungo sguardo prima di proseguire:{/n} "Se il Maresciallo venisse a sapere tutta la verità, le cose si farebbero difficili... per tutti. È meglio che rimediate al crimine di Theodora inviando una parte della decima a sostegno dei mondi afflitti della Distesa e consegnando il resto all'Administratum."
+
+### u028566
+"Sono nel vostro seguito da abbastanza tempo da riconoscere che siete l'unico vero potere in tutta la Distesa. Non mi opporrò se deciderete di lasciare una parte della decima per voi: almeno così queste risorse non marciranno e serviranno invece a rafforzare l'ordine nei vostri mondi. Ma la maggior parte deve comunque andare all'Administratum."
+
+### u028567
+{n}Idira ghigna.{/n} "Ah, ecco che cosa ha agitato i miei sussurri. Immagino che Lady Theodora non ti sopportasse granché, visto che ti ha ficcato in una latta in mezzo al nulla. Ti sei {mf|messo|messa} in cattiva luce con lei, vero?"
+
+### u028568
+"Per poterti vantare con Winterscale ai banchetti? Non hai fortuna: a me è collegata un'intera stazione. Mi fornisce energia e sotto si trovano enormi moduli di calcolo. Questo è il prezzo perché tu possa fare due chiacchiere con me."
+
+### u028569
+"Il Maresciallo potrebbe incuriosirsi quando tornerete a Dargonus senza di me."
+
+### u028570
+"Prima di quella conversazione, l'avrei considerato io stesso un crimine. Ma con la Distesa in fiamme, e dopo aver assistito a ogni sfumatura di assurdità su Leethus, la mia opinione è cambiata."
+
+### u028571
+{n}Segue una pausa pesante. Solomorne ti osserva senza battere ciglio, poi infine china il capo.{/n} "Capisco, Rogue Trader."
+
+### u028572
+"Allora annunciate la vostra decisione."
+
+### u028573
+"Ero una minaccia per il governo di Theodora, e ha fatto sezionare il mio cervello. Una sentenza sofisticata: essere umiliato, vivere nella sofferenza, eppure continuare a servire la dinastia, perfettamente innocuo. Assimila questa lezione, progenie: è così che un Rogue Trader impartisce una punizione."
+
+### u028574
+"È l'unica domanda a cui non posso rispondere. Theodora non voleva che nessuno venisse a sapere il nome di colui che è diventato il guardiano di Leethus."
+
+### u028575
+"Il Rogue Trader ha parlato: le chiatte andranno dove {mf|lui|lei} ha decretato, e il guardiano di Leethus ha adempiuto al suo scopo. Io... io speravo di provare sollievo. So che c'è, rinchiuso nei miei protocolli. E lei... lei voleva che lo sapessi e che non lo provassi..." {n}La testa del guardiano ricade sul petto incavato. Perfino nel momento della sua morte gli è stata negata l'euforia della libertà.{/n}
+
+### u028576
+{n}Gli schermi video dei cogitatori tremolano, nel tentativo di elaborare l'afflusso di dati, poi si spengono tutti insieme.{/n}
+
+### u028577
+"Cerchi di manomettere qualcosa che è stato creato dalle menti più brillanti del protettorato. Non ci riuscirai."
+
+### u028578
+"Ami i trucchi, eh? Non funzioneranno, non contro i miei limiti."
+
+### u028579
+"Governate il vostro protettorato con pugno di ferro, ed è esattamente il tipo di autorità di cui la {g|Encyclopedia:KoronusExpanseGlossary}Distesa{/g} ha bisogno in questo momento. E a meno che gli Arbites non siano ciechi, si renderanno conto che un alleato così prezioso merita un compenso adeguato per il suo aiuto."
+
+### u028580
+"Per il Santo Trono, ecco dove ricordavo quella voce! Ti ho visto una volta, quando accompagnavo Lady Theodora. Allora non eri... come sei adesso. Ma lei non ha mai parlato di te come di suo fratello. Perché?"
+
+### u028581
+"Mi è stato tolto da tempo il lusso di esprimere liberamente i miei pensieri. Mi limito a citare il piano di Theodora."
+
+### u028582
+"Sarebbe meglio per la dinastia se la mia identità restasse un segreto."
+
+### u028583
+"Oh, che ironia... Il grande piano di Theodora, sventato dal suo stesso erede."
+
+### u028584
+"Ci sono cose che non si dovrebbe mai desiderare di sapere, progenie."
+
+### u028585
+{n}Sbigottito, Solomorne ti rivolge uno sguardo incredulo.{/n} "Che cosa? Siete {mf|stato accecato|stata accecata} dall'avidità? Rubare la decima di un intero settore è un crimine efferato e un atto di blasfemia senza precedenti!"
+
+### u028586
+"Io... gli credo. Lady Theodora giocava sempre per grandi poste: tutto o niente. Per lei è sempre stato l'unico gioco." {n}Idira fa una smorfia, si stringe le tempie e sbotta voltandosi:{/n} "Volete smetterla di blaterare? Non conosco nessun Darius, chiaro?"
+
+### u028587
+"Se fossi stato un figlio legittimo, sì, avrebbero scritto il mio nome in oro nella cronaca della dinastia. Tuttavia l'origine di mia madre e alcune altre circostanze erano dannose per la Casata von Valancius, e così il mio inserimento nella famiglia si è arenato."
+
+### u028588
+"Come parente più anziano di Theodora ed erede diretto, potevo rivendicare il suo trono, e l'ho fatto. Intendevo ucciderla e dichiarare la ricerca di un suo successore e, mentre questa andava avanti, entrare nella Camera del Mandato e assumere il titolo di Rogue Trader per diritto di sangue. Theodora ha scoperto il mio piano, ha giustiziato chiunque avesse partecipato alla congiura e mi ha consegnato ai suoi Tecnopreti."
+
+### u028589
+"Concordo. Il passato è meglio rievocarlo in piccole dosi."
+
+### u028590
+"Chiamarlo pensare sarebbe un'esagerazione. Immagina un corridoio con tutte le porte chiuse a chiave tranne una o due: sarebbe la mia coscienza. Sì, un corridoio buio e soffocante, con immagini sbiadite di ricordi e graffi di unghie sulle pareti."
+
+### u028591
+"Che importanza ha ciò che bramo, se sono condannato a obbedire agli ordini? Sì, ho bisogno che tu porti a termine la direttiva Oblivion e inneschi lo spegnimento della stazione, così che io possa finalmente essere liberato. Eppure, in tutti questi anni, non ho fatto nulla per avvicinare la mia morte. Posso aspettare un'eternità ancora. Soffrendo, ma infallibilmente obbediente."
+
+### u028592
+{n}Solomorne annuisce e rivolge il suo sguardo pesante alla creatura.{/n}
+
+### u028593
+"Quindi Lady Theodora intendeva rubare la decima fin dall'inizio: ha organizzato la distruzione del mondo per coprire le proprie tracce, ha installato un servitore a sorvegliare e ha persino predisposto un piano di emergenza in caso di propria morte. Le serviva solo un momento opportuno, come questo. Con la Distesa che viene fatta a pezzi, la morte del pianeta appare credibile."
+
+### u028594
+"Come altro dovrei chiamarti? L'erede al trono della dinastia, un giovane discendente. Forse ti sei {mf|abituato|abituata} a vedere la gente prostrarsi davanti a te, ma per me sei solo {mf|un bambino|una bambina}."
+
+### u028595
+"Naturalmente, sei {mf|il benvenuto|la benvenuta} se vuoi prolungare la mia agonia quanto ti pare."
+
+### u028596
+{n}Una scarica di scintille corre lungo l'esterno del cogitatore e l'odore di carne bruciata riempie l'aria. La voce del guardiano è incrinata e distorta:{/n} "Nome: Darius von Valancius. Stato: trasformato per ordine della sorella minore Theodora."
+
+### u028597
+"Forse hai ragione. Non sono che un servitore e il futuro del protettorato è nelle tue mani. Tu sei l'autorità e io obbedisco. Sono... Darius von Valancius, il fratello maggiore di Theodora, che lei ha trasformato in un amalgama di macchina e uomo."
+
+### u028598
+"Avanti, compi l'ultimo passo: conferma l'esecuzione della direttiva e, così facendo, distruggi Leethus, prendi le sue ricchezze e... liberami da questa insopportabile veglia."
+
+### u028599
+{n}L'uomo non dice nulla per molto tempo e l'aria intorno al cogitatore si fa sensibilmente più calda. Infine parla:{/n} "Direi: cara sorella, che domanda sciocca. Sono io, Darius, tuo fratello maggiore, che hai condannato a un tormento eterno."
+
+### u028600
+"Non posso fare domande su nulla che non sia legato alla mia funzione. Ora che l'hai sollevata tu {mf|stesso|stessa}, tuttavia... No, non voglio saperlo. Se sentissi che è morta per caso per mano di un avversario indegno, ne sarei gravemente deluso. Dopotutto, mi sono sempre consolato credendo che Theodora fosse qualcuno di straordinario e che solo per questo avesse potuto battermi."
+
+### u028601
+"Aiutare i pianeti in difficoltà è un investimento nel futuro. Un futuro che potremmo non vivere per vedere, se non ci prendiamo cura della gente. Inoltre, come possiamo riscuotere nuove decime senza coloro che faticano per il bene dell'Imperium?"
+
+### u028602
+"Bene. Ho avuto abbastanza complicazioni per una sola missione."
+
+### u028603
+"Quando Theodora era giovane, fui portato a Dargonus per essere addestrato al ruolo di Siniscalco. Quando è diventata Rogue Trader, si è rifiutata di riconoscermi come suo parente. Le serviva un servitore obbediente che non sfidasse il suo governo. Se mi fossi comportato bene, forse Theodora si sarebbe degnata di chiamarmi suo fratello ed erede sul letto di morte."
+
+### u028604
+"Tu... sei una persona migliore di quanto fosse Theodora. Non prenderlo come un complimento: è una qualità estremamente dannosa per un Rogue Trader."
+
+### u028605
+"Sei {mf|un degno successore|una degna succeditrice} della grande Theodora von Valancius, che ti piaccia o no."
+
+### u028606
+"Allora non cambierai nulla. La direttiva non può essere fermata: i ceppi cognitivi, una volta applicati ai sistemi di avvio, sono infrangibili. Accetta il tuo destino, progenie. Io ho accettato il mio da tempo."
+
+### u028607
+"Almeno sei solo in quel corridoio e non dovrai mai chiederti chi stia bussando alla porta dall'altra parte, e per quanto ancora reggeranno i fragili cardini della tua mente."
+
+### u028608
+"Ma volevi il suo trono, non è vero? Per tutta la vita lei è stata circondata da furfanti che la invidiavano, pronti a divorarla senza pensarci due volte non appena avesse fatto un solo passo falso."
+
+### u028609
+"{mf|Degno|Degna} e incrollabile anche sotto il pesante fardello del potere. Ma di certo ricordi, shereen, che Jae Heydari è sempre al tuo servizio? A questo servono i partner: a dividere tra loro i fardelli pesanti."
+
+### u028610
+"Sorelle... Creature esasperanti. Almeno causano ai mon-keigh altrettanti problemi."
+
+### u028611
+"Non so che tipo di persona fossi, ma... mi dispiace per te. Essere ridotto a una bambola costosa, un giocattolo nelle mani di qualcuno... Nessuno merita un simile destino."
+
+### u028612
+"Un tale spreco della sacra corrente della Forza Motrice è inaccettabile. Esigo l'immediata cessazione dei processi vitali di questa unità senza diritto di espiare la propria inefficienza personale."
+
+### u028613
+"Sia ringraziato l'Imperatore per aver posto fine a questo breve accesso di follia. Date l'ordine al guardiano. Abbiamo già perso abbastanza tempo qui."
+
+### u028614
+{n}Solomorne si irrigidisce, faticando a pronunciare una parola. Dopo una lunga pausa, parla lentamente, quasi con fatica:{/n} "State assumendo un'interpretazione molto ampia della vostra autorità, Rogue Trader. Non credo che nemmeno il Mandato e l'alleanza con gli Arbites vi diano l'autorità di assumere il controllo della decima. Tuttavia, la situazione della {g|Encyclopedia:Maw}Fauce{/g} è urgente e siete l'unica persona nella Distesa in grado di assumersi questa enorme responsabilità. Autorizzo con la presente la vostra decisione, ma dovrete ottenere anche l'approvazione del Maresciallo."
+
+### u028615
+"Non autorizzerò una violazione così efferata della Lex Imperialis." {n}Solomorne punta ostinatamente il mento.{/n} "È in vostro potere saccheggiare la decima, ma le conseguenze saranno inevitabili. Una trasgressione simile non può essere occultata e l'Adeptus Arbites chiederà risposte. Non sono riuscito a convincervi, ma confido che il Maresciallo vi farà cambiare idea."
+
+### u028616
+"{name}... No, chiedervi di tornare in voi non servirà. So che non vi arrenderete." {n}Solomorne si preme un pugno sul petto, con la voce che per un istante trema di dolore.{/n} "Autorizzerò la vostra decisione e mi assumerò tutta la colpa per ciò che accadrà. Potete prendere la decima, ma non negatemi questo."
+
+### u028617
+"Devo rifiutare. L'ordinanza suprema stabilisce che, se il capo della dinastia ha dichiarato l'evacuazione della decima, devo distruggere il pianeta. Sei tu che hai annunciato agli Arbitratori che avresti portato via la decima. La direttiva è stata avviata e i ceppi cognitivi sono stati applicati. Non può essere fermata."
+
+### u028618
+{n}Solomorne non ti toglie gli occhi di dosso, come se fosse stato ipnotizzato.{/n} "Che la Lex mi fulmini! Anche tenendo conto del Mandato e di tutto ciò che avete compiuto da {mf|solo|sola} nella Distesa..." {n}Scuote la testa, incapace di uscire dal suo stupore.{/n} "Sia dannato, ma ogni vostra parola suona di una verità che non posso contestare... Tra tutte le persone di questo settore, siete {mf|l'unico|l'unica} che può legittimamente rivendicare la decima, e io, Proctor Solomorne Anthar, lo riconosco con la presente."
+
+### u028619
+"{name}, la vostra tenerezza di cuore è oltre ogni limite! Osate interpretare così la Lex Imperialis?" {n}Solomorne si copre il volto con il palmo della mano, cercando di tenere a freno le emozioni.{/n} "Qualunque parola usiate, questo è comunque un furto, e mi chiedete di essere un complice. Sangue del Trono..." {n}Abbassa la mano e nel suo sguardo c'è un'immensa stanchezza.{/n} "Dunque mi ponete davanti a una scelta: la morte di molti mondi, o un'efferata violazione della Sua Legge. Mi schiero con voi, e che l'Imperatore abbia pietà. Questo crimine ora ricade su entrambi, Rogue Trader."
+
+### u028620
+"Ho assistito alle vostre gesta che onorano il Dio-Imperatore, e credo che esercitiate il potere del Mandato con giustizia, ma ciò che state per fare è impensabile... E volete che io rischi tutto: il mio onore, la mia vita e il futuro stesso della decima." {n}Solomorne tace e ti fissa.{/n} "Tuttavia, in nome della Lex Imperialis, autorizzo con la presente la vostra decisione. Non resta che pregare che il resto degli Arbites vi veda come vi vedo io: un fedele servitore e un vero tramite della Sua volontà."
+
+### u028621
+"E così il piano di Theodora è compiuto: la decima della Distesa di Koronus ora appartiene alla dinastia. Se le sue intenzioni fossero le stesse tue, progenie, non so, ma conta poco."
+
+### u028622
+"In altre parole, la stazione è, per così dire, un'augmetica di proporzioni colossali. Un esperimento curioso, eppure sono certo che potrei ideare un metodo più elegante per ottenere lo stesso risultato."
+
+### u028623
+"Sì, avevo bisogno di scambiare codici con la nave ammiraglia per identificare il vascello e il suo proprietario. Ho dovuto setacciare i canali di comunicazione e i sistemi di bordo per verificare i dati del nuovo Lord Capitano e il suo diritto a esserlo."
+
+### u028624
+{n}Jae lancia un fischio.{/n} "Questa sì che è ambizione: non si può nemmeno chiamarlo furto! Solo una geniale ridistribuzione delle risorse su scala di settore. Geniale e audace..."
+
+### u028625
+"Questa equivale alla confessione di un colpevole, solo che la colpevole è morta e giudicare questa creatura sarebbe inutile. Tuttavia dobbiamo decidere che cosa fare ora, Rogue Trader."
+
+### u028626
+"Che accusa oltraggiosa! Lady Theodora non si sarebbe mai macchiata di una simile eresia. Rubare la sacra decima? Mai!"
+
+### u028627
+"Che navi sono?"
+
+### u028628
+"Come ci hanno trovati? Le coordinate di questo sistema sono riservate!"
+
+### u028629
+"Preparatevi alla battaglia. Arrivo."
+
+### u028630
+{n}Il tuo vox-trasmettitore sibila piano, attirando la tua attenzione. Sembra che qualcuno ti stia chiamando da un po'.{/n} "Lord Capitano, è richiesto il vostro intervento immediato. Le chiatte che avete inviato a Dargonus sono state attaccate da navi nemiche appena emerse dal warp."
+
+### u028631
+"Non portano alcun segno identificativo e le firme sono illeggibili. Posso dirvi solo che sono di costruzione imperiale."
+
+### u028632
+"Al momento non lo sappiamo, Lord Capitano, ma ci stiamo già lavorando."
+
+### u028633
+"Pasqal, sei il candidato migliore."
+
+### u028634
+"Abelard, ti affido il carro armato!"
+
+### u028635
+"Lady Cassia, te la senti?"
+
+### u028636
+"Sorella Argenta, sai che cosa fare."
+
+### u028637
+"Heinrix, riesci a capirlo?"
+
+### u028638
+"Idira, credo in te."
+
+### u028639
+"Jae, non deludermi proprio ora!"
+
+### u028640
+"Kibellah, hai mai sparato da un carro armato?"
+
+### u028641
+"Solomorne, guiderai il carro armato."
+
+### u028642
+"Questo è un compito per un Rogue Trader."
+
+### u028643
+"So bene di chi non mi fiderei di sicuro per coprirmi lì dentro. Parlo di te, Solomorne."
+
+### u028644
+[Getta un'occhiata esperta al carro armato]
+
+### u028645
+{n}Solomorne lancia uno sguardo grave sul campo di battaglia, poi si volta di scatto verso di te.{/n} "Cambio di tattica: dobbiamo tagliare tutti i punti di arrivo dei loro rinforzi. Vedete quei cavi e quei contrappesi? Sono ciò che tiene sospesi i container. Se ci liberiamo dei contrappesi, i container cadranno e bloccheranno i passaggi. Qualcuno dovrà salire su questa parvenza di carro armato e aprire il fuoco su questi bersagli mentre gli altri attivano il sistema di caricamento dei proiettili tramite i cogitatori e tengono a bada i nemici. Scegliete chi manovrerà il carro armato."
+
+### u028646
+"Questa affermazione è vera nella maggior parte delle circostanze. Avvio con la presente il rito di reciproca identificazione con lo spirito di questa macchina."
+
+### u028647
+"Non guardare me, Aett-Vater. Questa macchina avrà anche ricevuto la benedizione dell'orgoglioso nome di Leman Russ, ma è troppo piccola per contenere uno degli Angeli dell'Imperatore."
+
+### u028648
+"I mon-keigh considerano... questo... un mezzo da guerra? Non lo toccherò nemmeno, figuriamoci salirci dentro."
+
+### u028649
+"Comanda uno della tua specie, elantach. Il Sentiero dell'Emarginato mi ha insegnato molto, ma puoi tenerti per te il segreto per controllare le tue macchine primitive."
+
+### u028650
+"L'ultima volta che ho guidato qualcosa del genere era prima di avere il mio primo nipote... Ma mi tornerà tutto in mente non appena avrò le leve in mano."
+
+### u028651
+"Io non sono... So molte cose sui veicoli corazzati e sulla tattica del combattimento a terra, in teoria." {n}Cassia annuisce con cautela.{/n} "Oggi passerò alla pratica, se lo riterrete necessario."
+
+### u028652
+"Considerate i nostri nemici caduti, Rogue Trader!" {n}A giudicare dall'entusiasmo nella voce di Argenta, è perfettamente in grado di guidare carri armati, o almeno così crede.{/n}
+
+### u028653
+{n}L'Interrogatore sospira.{/n} "Non mi lasciate scelta."
+
+### u028654
+"Io? Davvero? Va bene, vocine, insegnate alla strega come si spara da un carro armato... Cosa? No, ai nemici!"
+
+### u028655
+{n}Le labbra di Jae si piegano in un ghigno ironico.{/n} "La soldatessa Heydari si presenta in servizio!"
+
+### u028656
+"No. Ma quest'arma è stata fatta per donare la morte nel Suo nome, e quindi parliamo la stessa lingua."
+
+### u028657
+"Ricevuto." {n}Solomorne scrocchia le nocche.{/n} "Occupatevi di Glaito mentre sono impegnato."
+
+### u028658
+"Buona fortuna. Non lasceremo che il nemico arrivi fino a te."
+
+### u028659
+"Me lo merito."
+
+### u028660
+{n}La macchina da guerra davanti a te non è in condizioni di funzionare e non riceve una manutenzione adeguata da anni, ma non c'è dubbio che {d|Encyclopedia:CharGen_Militarum}sotto il tuo controllo{/d} possa ancora seminare morte e distruzione.{/n}
+
+### u028661
+Trascina fuori il forziere
+
+### u028662
+"Codice RT-92. Salute, Rogue Trader."
+
+### u028663
+"Mercenari nell'ufficio della prefetta... Non mi piace."
+
+### u028664
+"La sala d'attesa è piena. Aspettate il vostro turno."
+
+### u028665
+"Oggi non si ammette nessuno. Compilate il Modulo O-9976 con l'allegato supplementare D-50 per ricevere chiarimenti."
+
+### u028666
+"Fatemi entrare! Mio marito è morto da dieci anni e non hanno ancora registrato la sua nascita!"
+
+### u028667
+"Richiesta respinta. La sala d'attesa è piena. Attendete l'ammissione del prossimo gruppo."
+
+### u028668
+"L'altro giorno la folla ha schiacciato due impiegati nella sala d'attesa. Così ora ammettono solo cento persone alla volta e poi chiudono la porta."
+
+### u028669
+"Due impiegati? Bella cosa! Dovevano lavorare più in fretta!"
+
+### u028670
+"Entità dell'onere fiscale: insufficiente. Ricalcolo in corso."
+
+### u028671
+"Avvertenza: rilevati errori nel Modulo TNK-Alpha 277."
+
+### u028672
+"Un sesto di un quarto. Un decimo di un terzo. Due decimi di sei dozzine."
+
+### u028673
+"La sala d'attesa non è disponibile oggi. Tornate più tardi."
+
+### u028674
+"Tutta questa attesa verrà ripagata. Ne sono certo."
+
+### u028675
+"Ho sete. Ma se mi allontano, perdo il mio posto in fila..."
+
+### u028676
+"Quando ammetteranno un nuovo gruppo?"
+
+### u028677
+"Il Rogue Trader ha ripagato la nostra lealtà con il tradimento. Il warp può divorarci, ma porteremo con noi anche {mf|lui|lei}."
+
+### u028678
+"Nuocere a un santo è punibile con la morte. Giustiziate il Rogue Trader!"
+
+### u028679
+"Unto! Sei {mf|sprofondato|sprofondata} nella depravazione, ma noi offriamo la redenzione. Non resistere. Accetta questo dono e lascia che il dolore ti guidi a Lui."
+
+### u028680
+"Non avresti dovuto uccidere nostro padre. Preparati a morire, Rogue Trader!"
+
+### u028681
+"Sventrate il Rogue Trader! Fate{mf|lo|la} sanguinare! Questo {mf|gli|le} insegnerà a non immischiarsi negli affari degli altri."
+
+### u028682
+"Ti pentirai di esserti {mf|schierato|schierata} con gli eretici, Rogue Trader."
+
+### u028683
+Nella base rotta della bilancia c'è un forziere adorno dell'emblema dell'Adeptus Arbites, coperto di patina. I sigilli di purezza suggeriscono che sia stato consacrato prima di essere murato.
+
+### u028684
+"Non sono che un umile servitore della Lex Imperialis, Vostra Signoria."
+

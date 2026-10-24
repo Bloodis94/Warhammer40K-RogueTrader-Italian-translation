@@ -1,0 +1,972 @@
+### u021910
+"Shereen, questo poveraccio cerca solo di sopravvivere. Un piccolo atto di clemenza da parte del Rogue Trader, e quest'uomo tornerà a casa con almeno metà delle ossa intatte."
+
+### u021911
+"Sono circondata da mon-keigh o da un branco di mangiatori di carogne che si azzuffano per un solo brandello di carne marcia?"
+
+### u021912
+"Impara ad assaporare la loro compagnia, cugina. Quest'aria di violenza ottusa e grossolana è il meglio che la loro razza sappia offrire." {n}Marazhai ghigna con ferocia, fissando l'operaio terrorizzato.{/n}
+
+### u021913
+"Sparisci!" {n}Il pesante manganello del tutore dell'ordine si abbatte più volte sulla schiena e sulle spalle dell'uomo. Le sue ossa scricchiolano in modo udibile.{/n}
+
+### u021914
+"Le mie più sincere scuse, Lord Capitano! Il vostro stivale... lo pulisco subito!"
+
+### u021915
+{n}Il tutore dell'ordine si blocca sul posto, senza osare portare le mani al viso rovente, e sibila con voce spenta:{/n} "Sì, Lord Capitano."
+
+### u021916
+{n}Il rumore delle ossa spezzate, le grida dell'uomo e le risate odiose del tutore dell'ordine ti ricordano ciò che {d|Encyclopedia:CharGen_DH_Torture}hai subito{/d} tu {mf|stesso|stessa}. Troppo vividamente, e troppo dolorosamente.{/n}
+
+### u021917
+"Ci prendono le tessere, Vostra Signoria! E poi ingrassano usandole per sé!" {n}L'operaio stringe forte le palpebre mentre sussurra le sue accuse. Sembra incapace di credere alla propria fortuna.{/n}
+
+### u021918
+"Avete messo in quarantena lo snodo per venti turni di guardia e vi siete rifiutati di distribuire le razioni a chi non aveva le tessere. Tessere che non avevamo modo di guadagnare!"
+
+### u021919
+"E oggi ne hai guadagnate quindici in un solo turno perché fai il lavoro di tre persone, vero? Oppure hai portato i tuoi compari in un angolo buio, li hai fatti fuori e ti sei preso la loro parte?"
+
+### u021920
+{n}La folla ruggisce, ispirata dalle parole di un vero {d|Encyclopedia:CharGen_Commissar}ufficiale disciplinare{/d}. L'operaio si asciuga il viso sulla manica e fa il segno dell'Aquila con le mani tremanti. Non pensa più alle tessere di razionamento mentre sta spalla a spalla con lo stesso tutore dell'ordine che poco fa lo picchiava.{/n}
+
+### u021921
+"Per quale crimine hai ucciso quest'uomo?"
+
+### u021922
+"Sono il Lord Capitano di questa nave. In ginocchio, insolente feccia!"
+
+### u021923
+[Attacca] "La nave sarà un po' più pulita senza di te."
+
+### u021924
+"Hai bisogno di medicine e di cibo. Te li farò portare."
+
+### u021925
+"Credo che me ne andrò."
+
+### u021926
+[Dai una moneta] "Vedo che nessuno ti ha mai mostrato un po' di gentilezza."
+
+### u021927
+Ha spinto i mutanti che abitano il pozzo della pestilenza dello snodo merci al servizio delle forze della putrefazione e del decadimento.
+
+### u021928
+[Sussurra] "Voglio solo che tu sappia: sei stato ricoperto di benedizioni che gli altri possono solo sognare."
+
+### u021929
+[Attacca] "Sei condannato a morte per aver commesso un omicidio sulla mia nave."
+
+### u021930
+"Che cosa siete? Mutanti? Invalidi?"
+
+### u021931
+{n}Gli individui davanti a te devono essere gli abitanti più ripugnanti del compartimento: sono coperti di piaghe e chiazze calve lucide di pus, e il lezzo di corpi non lavati ti fa lacrimare gli occhi. Uno di loro ti fulmina con lo sguardo e grugnisce:{/n} "Che vuoi?"
+
+### u021932
+{n}Afferra il Trono e lo saggia con i denti.{/n} "Non aspettarti ringraziamenti: me l'hai dato tu di tua spontanea volontà, chiaro?"
+
+### u021933
+"Che diavolo..." {n}L'uomo si interrompe, poi sul suo brutto volto si allarga un ghigno scaltro, e le sue numerose piaghe cominciano a riempirsi di pus.{/n} "È vero, non è così? Sì... Qualcuno veglia su di noi, ci tiene al sicuro. Come ho fatto a non accorgermene prima?"
+
+### u021934
+{n}Ghignando, il capo sputa fuori:{/n} "Per il crimine della ricchezza. Quel bastardo morto aveva razioni e celle energetiche. Le scambieremo con della sbobba."
+
+### u021935
+{n}I reietti si guardano e scoppiano in cachinni roschi e gorgoglianti.{/n} "Il Lord Capitano nella nostra fogna! E io sono San Drusus, ecco i miei paramenti!" {n}L'uomo mostra un'ascella irta di foruncoli.{/n}
+
+### u021936
+{n}Cassia lascia sfuggire un debole sospiro, coprendosi in fretta il viso con le mani.{/n} "Santo Imperatore... Perché stiamo parlando con questa gente orribile?"
+
+### u021937
+{n}Argenta si erge sopra il mostro, impeccabile e impassibile.{/n} "Persino incontrare miserabili eretici come costui mi dà gioia. Annientare anche solo una goccia di corruzione è comunque un'azione degna."
+
+### u021938
+{n}Abelard le porge con premura un fazzoletto bianco come la neve.{/n} "Temo, Lady Cassia, che queste e molte altre domande resteranno senza risposta."
+
+### u021939
+{n}Il mutante scopre i monconi neri che sono i suoi denti.{/n} "Vi sventreremo e scambieremo ciò che avete addosso con una pila di cibo. Ehi, reietti, venite su se volete una parte del bottino!"
+
+### u021940
+{n}Più a lungo fissi quell'uomo, più deviazioni dalla forma umana scorgi. Disgraziati come lui, sfigurati da anomalie genetiche e malattie, sono il terreno di coltura perfetto per la vera corruzione.{/n}
+
+### u021941
+{n}Il reietto si lecca le labbra e vedi una lingua costellata di piccoli denti atrofici. Non è una malattia, ma una palese mutazione.{/n}
+
+### u021942
+{n}L'uomo scopre i denti con malevolenza.{/n} "Davvero? Conosciamo la vostra gentilezza: ci cospargerete di veleno e ci lascerete morire. Così non macchiamo la vostra nave."
+
+### u021943
+"Oh, te ne andrai. Ma senza stivali. E senza armi. E magari senza un pezzo o due della tua carne." {n}Ghigna con scherno.{/n} "Nessuno ti ha mai detto che è pericoloso ficcare il naso nel pozzo della pestilenza?"
+
+### u021944
+"Se siamo benedetti, allora possiamo vivere in questo buco. Possiamo vivere... e condividere le nostre benedizioni." {n}Lo sguardo del mutante indugia su di te, gli occhi lucidi di muco.{/n} "Grazie."
+
+### u021945
+{n}Nella risata dei vagabondi cogli una nota di isteria. Le dita di molti tremano convulsamente. E c'è qualcosa nel modo impavido in cui ti guardano, un'indifferenza alla morte... troppo strana e innaturale.{/n}
+
+### u021946
+{n}Dalle bocche dei vagabondi esce la risata più ripugnante che tu abbia mai udito.{/n}
+
+### u021947
+"Mangiamuffa. Reietti. Gente che non ha posto nemmeno tra gli ultimi degli ultimi. Alcuni sono nati così, altri sono stati cacciati per impedire che diffondessero il contagio. Il Caposquadra non ci lascia avvicinare alla vasca, i tutori dell'ordine cercano di spararci a vista. Come se fosse colpa nostra se siamo nati in un posto terribile... Siamo vermi nel ventre marcio di questa nave, cibo per la malattia."
+
+### u021948
+"Perché porti catene e maschera? Non sarai mica scappata dai tutori dell'ordine, vero?"
+
+### u021949
+"Che posto ripugnante è questo? Vivete qui?"
+
+### u021950
+"Parli con... i fantasmi?"
+
+### u021951
+[Scruta nell'oscurità] "Non riesco a capire che cosa dovrei vedere qui..."
+
+### u021952
+"Come faccio a diventare il sangue della nave ammiraglia?"
+
+### u021953
+"Sei pazza. Fuori dalla mia vista!"
+
+### u021954
+"Accanto a te c'è un simbolo di sangue. Ho già visto segni simili. È un'altra parte del Canto della Scia di Sangue?"
+
+### u021955
+{n}Una figura in cenci in decomposizione dondola avanti e indietro, borbottando in modo indistinto con voci diverse, scoppiando di tanto in tanto in una risata roca. Mentre ti avvicini, si blocca e si volta lentamente a guardarti. Una brutta maschera arrugginita le copre il volto.{/n} "Siete... qui per portare Zdena dall'altra parte? No. No no no."
+
+### u021956
+"Vaghi nel buio e basta. Cerchi la luce... ma non si trova da nessuna parte. Davvero non la vedi?"
+
+### u021957
+{n}La donna comincia a salmodiare in fretta:{/n}
+"Vagò un'eternità nel buio,
+eppure fu consolata. La Rete predisse:
+i segreti di sangue dell'Imperituro brillarono,
+luce a guidare il suo fedele gregge.
+Ma i fili devono finire. E così il ragno
+fece ciò che era dovuto:
+vita e morte alla nave donò..."
+
+### u021958
+"La vecchia Zdena. Zdena la Reietta. Zdena la Pazza. Zdena il Disastro. Zdena la Maledizione. Zdena la Respinta." {n}La donna si stringe le braccia al petto e comincia a ridere forte. Catene spezzate tintinnano ai suoi polsi e al collo emaciati.{/n} "Un fantasma del passato? Un'ombra del presente? Lo sa solo l'Imperituro. Lui solo..."
+
+### u021959
+{n}La donna si gratta il collo con nervosismo. Noti le sue dita deformi, devastate da qualche malattia sconosciuta.{/n} "Qui, dove gli sventurati incontrano la loro non-morte. Qui, discarica dei corpi di coloro che l'Imperituro rifiuta. Qui, dove dimora la pestilenza. Zdena li accoglie tutti. Parla con i loro fantasmi. Qui, dove Zdena... vive? Sì. Suona giusto."
+
+### u021960
+"Ah, queste. Doni, sono. Le catene tintinnano per annunciare l'arrivo di Zdena. Perché gli altri sentano." {n}Fa scivolare il palmo scurito dalla malattia lungo il metallo ruvido e arrugginito della maschera.{/n} "Si nascondono, temono di diventare come Zdena. Paura di perdere la faccia... ah ah ah!"
+
+### u021961
+"Tu... non li senti?" {n}Zdena indica un punto laterale, ride, poi si ferma di colpo.{/n} "Non gli piace quando la gente viene qui."
+
+### u021962
+{n}Zdena scoppia in una risata isterica.{/n} "Tornerai! Tutti quelli che cercano qualcosa tornano. Oppure... no? Perché tornare quando hai trovato ciò che cercavi?"
+
+### u021963
+{n}Scruti nell'oscurità e a poco a poco riesci a distinguere i contorni degli oggetti nascosti nell'ombra. Cadaveri in putrefazione. Pareti grezze. Gli spasmi di agonia degli infetti lasciati qui a morire. Non vedi alcuna luce in questo luogo, solo altro buio e disperazione.{/n}
+
+### u021964
+"Non vedi, vero? Non vedi!" {n}Zdena scuote la testa freneticamente e comincia a strapparsi di dosso gli stracci. Strisce della sua carne in decomposizione si staccano insieme a essi.{/n} "Non vedrai finché non diventerai come Zdena. La carne e il sangue di questa nave!"
+
+### u021965
+"Oh, Zdena ti mostrerà. E vedrai la vera luce. Vieni. Vieni adesso!"
+
+### u021966
+{n}La donna si volta e comincia a parlare con qualcuno che solo i suoi occhi vedono.{/n}
+
+### u021967
+{n}Ulfar stringe il suo amuleto protettivo, aggrottando la fronte.{/n} "Spiriti malevoli e sempre affamati si aggirano in luoghi come questo. Sono stati loro a consumare la mente della pazza fino a renderla sottile. È pericoloso parlare con gente come lei: la follia è una piaga contagiosa."
+
+### u021968
+"I suoi colori sono tutti mescolati, sbavati, pronti a rivelare una tonalità pura di follia... Eppure fili scarlatti separano queste chiazze tremanti, impedendole di perdere sé stessa."
+
+### u021969
+{n}Zdena scoppia in una risata isterica.{/n} "Oh sì! Oh sì... Il canto... Qui, ascolta, ascolta!"
+
+### u021970
+"Lord Capitano, questa donna è chiaramente malata sia nello spirito sia nel corpo. Meglio lasciarla stare."
+
+### u021971
+{n}Ride di nuovo.{/n} "E vedrai, vedrai se imparerai a vedere! Guarda nell'oscurità, guarda, guarda!"
+
+### u021972
+{n}La prova finale. Stavolta vogliono che tu faccia un sacrificio. Se si {d|Encyclopedia:CharGen_MOT_Mind}interpretasse{/d} l'intera ricerca mistica come la ripetizione del viaggio del santo, la conclusione logica sarebbe che devi sacrificare {mf|te stesso|te stessa}: fonderti con il sangue che ha intriso la nave ammiraglia da prua a poppa.{/n}
+
+### u021973
+[Osserva il ratto]
+
+### u021974
+[Ascolta la melodia]
+
+### u021975
+"Una favola davvero, rischiare sé stessi per niente. Se un uomo simile esistesse, di certo trarrebbe profitto in segreto dalle vostre disgrazie."
+
+### u021976
+"Ehi, tu. Perché te ne stai a bighellonare e distrai gli altri operai?"
+
+### u021977
+"È un flauto dall'aspetto curioso. Come ne sei entrato in possesso?"
+
+### u021978
+"Questa volta hai perso, ma so che stai barando. Levati dalla mia vista prima che ti denunci ai tutori dell'ordine!"
+
+### u021979
+[Taglia un bottone dalla manica e lancialo all'uomo] "Per l'intrattenimento."
+
+### u021980
+"Di recente ho salvato un lavoratore da un pestaggio: dov'è la mia canzone? O bisogna essere un personaggio di fantasia per ricevere un simile onore?"
+
+### u021981
+[Baro] "Sarà divertente."
+
+### u021982
+[Vattene] "Mi rifiuto di partecipare a tutto questo."
+
+### u021983
+"Jae, volevi giocare, non è vero? Accomodati pure."
+
+### u021984
+[Taglia un bottone dalla manica e lancialo all'uomo] "Per oggi ho avuto la mia dose di intrattenimento."
+
+### u021985
+[Gioca onestamente] "Giochiamo di nuovo."
+
+### u021986
+[Osserva il gioco]
+
+### u021987
+[Risolvi il mistero del trucco analizzandone i singoli elementi]
+
+### u021988
+[Gioca onestamente] "Proverò."
+
+### u021989
+[Indica la scacchiera] "Mi stai proponendo di fare una partita?"
+
+### u021990
+[Sorridi] "Facciamo un'altra partita?"
+
+### u021991
+[Baro] "Ho un'idea. Cominciamo."
+
+### u021992
+[Baro] "Stavolta vincerò io!"
+
+### u021993
+"Opponendosi all'autorità legittima, il vostro vile Nemesita calpesta il Credo. E chiunque lo glorifichi è un criminale."
+
+### u021994
+"Suonami uno dei brani preferiti da queste parti."
+
+### u021995
+[Getta una moneta nella cassetta] "Un bello spettacolo."
+
+### u021996
+"So che stai barando. Levati dalla mia vista prima che ti denunci ai tutori dell'ordine!"
+
+### u021997
+"Possano giungere tempi migliori per te, e allora non ci sarà più bisogno di canzoni che combattono l'ingiustizia. Nel frattempo, sforzati di sollevare il morale della gente, suonatore di flauto."
+
+### u021998
+"Spiegami le regole di questo gioco."
+
+### u021999
+"Invece di strimpellare canzonette frivole durante il tuo turno, mettiti al lavoro, fannullone."
+
+### u022000
+[Scrolla le spalle]
+
+### u022001
+"Un flauto non ha bisogno di parole per cantare, ma sono {mf|curioso|curiosa} di sapere quale storia racconta la tua melodia."
+
+### u022002
+{n}Un gruppo di curiosi si accalca attorno a un palco improvvisato, guardando l'esibizione di uno strano duo. Un uomo con buffi occhialoni sollevati sulla fronte, le mani avvolte in guanti di cuoio consunti, suona una melodia con un flauto fatto a mano. Accanto a lui c'è una pila di casse che regge una specie di tavola da gioco. Un ratto malconcio fa rotolare sul tavolo piccole sfere di vetro.{/n}
+
+### u022003
+"Spero che vi siate {mf|divertito|divertita}. Di certo non dimenticherò il mio fatidico incontro con il Lord Capitano." {n}Il suonatore di flauto sgombra il tavolo con un movimento abile e comincia una nuova melodia.{/n}
+
+### u022004
+"Oro del Trono! Ero a un passo dallo scoprire come quell'ashmag fa ballare il suo ratling a tempo! Mi deve essere sfuggito qualcosa. Il mio ritmo era sbagliato? Cantavo troppo piano? Hmm..." {n}Lancia una moneta al suonatore di flauto e scrolla le spalle, a disagio.{/n} "Mille scuse, shereen. Immagino che oggi sia uno di quei giorni in cui la fortuna decide di mostrarti il cul— il didietro."
+
+### u022005
+{n}La folla, troppo assorta nello spettacolo per accorgersi della tua presenza, si volta verso di te, e sui volti degli operai compare un timoroso stupore. Molti cominciano a sussurrare preghiere.{/n}
+
+### u022006
+{n}L'uomo alza le mani.{/n} "Ai forti non serve altro che le parole per vincere! Ricorderò questa importante lezione, Vostra Signoria."
+
+### u022007
+{n}Diversi operai svuotano le tasche e cominciano a gettare tessere di razionamento, dadi per bulloni e persino qualche pannello energetico nella piccola cassetta accanto alla tavola. Il suonatore di flauto strizza l'occhio alla folla e passa a un'altra melodia.{/n}
+
+### u022008
+{n}Il ratto squittisce eccitato e comincia a far rotolare le sfere colorate scelte dai giocatori nel labirinto di gallerie sulla tavola. Ma nemmeno una raggiunge l'obiettivo: un buco segnato da un cerchio rosso. Il ratto fa semplicemente cadere tutte le sfere giù dalla tavola o in vicoli ciechi. Appena il primo gruppo di giocatori vede svanire le proprie speranze e se ne va a mani vuote, nuovi operai prendono subito il loro posto.{/n}
+
+### u022009
+"Sono solo uno tra tanti." {n}L'uomo indica con un ampio gesto la stazione brulicante.{/n} "Una voce nella folla. Un ingranaggio del meccanismo. Il suo umile servitore. 'Suonatore di flauto' è tutto ciò che mi chiamano, perché è quello che sono. Invento melodie e do un po' di tregua alla gente dopo una dura giornata di lavoro."
+
+### u022010
+{n}Dà una pacca gentile al suo strumento.{/n} "Mia madre amava la musica. Mi canticchiava melodie bellissime, e quando è morta ho intagliato questo flauto dal suo osso dell'anca e ho imparato a suonare. Per dolore e rispetto verso la sua memoria."
+
+### u022011
+{n}Il ratto zampetta attorno alla tavola, spronato dal flauto. A prima vista i suoi movimenti sembrano irregolari, ma dopo un po' noti con quanta costanza le sfere sembrano mancare l'obiettivo all'ultimo momento. Mentre le goffe e divertenti corsette del ratto distraggono gli spettatori, la sua agile coda devia le sfere lontano dal buco.{/n}
+
+### u022012
+{n}Il comportamento del ratto è irregolare e privo di senno. Quando fa rotolare un'altra sfera proprio oltre l'obiettivo, la folla geme forte e comincia a ridere del perdente.{/n}
+
+### u022013
+{n}I movimenti del ratto, dai colpi di coda al momento e al punto in cui spinge le sfere, obbediscono con precisione sorprendente ai comandi silenziosi del suo padrone. Le note, le pause, il ritmo: ogni parte della melodia serve da segnale per il minuscolo assistente del suonatore di flauto.{/n}
+
+### u022014
+{n}La melodia successiva è così orecchiabile che dimentichi del tutto ciò che accade sulla tavola.{/n}
+
+### u022015
+{n}Jae si china sulla tavola da gioco e comincia a canticchiare una lenta melodia efreet, schioccando le {g|Encyclopedia:AugmentationGlossary}dita augmetiche{/g} a tempo con la musica. Il ratto si blocca di colpo, ascolta il nuovo ritmo e poi spinge la sfera dritta nel buco rosso.{/n} "Dedico questa vittoria a te, shereen!"
+
+### u022016
+{n}Jae fissa la tavola per diversi minuti, alternando i colpetti del {g|Encyclopedia:AugmentationGlossary}dito augmetico{/g} sul bordo a fischi di una melodia nettamente diversa da quella del suonatore di flauto. Il ratto sfiora l'impresa di far rotolare la sfera nel buco non una ma tre volte, eppure ogni volta manca il bersaglio.{/n}
+
+### u022017
+{n}L'uomo prepara il flauto e il ratto si tuffa sotto la tavola. Senti zampette artigliate raspare contro la cassa e, pochi istanti dopo, una sfera verde spunta dal centro.{/n}
+
+### u022018
+{n}L'uomo scrolla le spalle, strappando qualche risatina alla folla. Dopo che hai fatto qualche passo, senti il suo flauto attaccare un'altra melodia.{/n}
+
+### u022019
+{n}Jae ti sussurra all'orecchio in tono cospiratorio:{/n} "Ehi, shereen, che ne dici se provo io? Mentre quei poveri ashmag erano impegnati a perdere i loro miseri averi, credo di aver capito i trucchi di quel truffatore."
+### u022020
+{n}Non sei del tutto {mf|certo|certa} di come il suonatore di flauto controlli il suo ratto, ma hai ancora a disposizione il tuo sacco di vecchi e fidati trucchi. Il tuo piede sfiora la base della pila di casse come per caso, e la tavola si inclina leggermente. Nel frattempo il ratto, attirato dal pezzo di galletta che stringi di nascosto tra le dita, fa rotolare con gioia la sfera proprio dove vuoi tu.{/n}
+
+### u022021
+{n}Hai già smascherato l'esibizione del suonatore di flauto. Ascolti la sua musica e osservi il ratto con attenzione. Poi, a un certo punto, cominci a battere le dita sul bordo della cassa, aggiungendo il tuo ritmo alla melodia. Il ratto si agita confuso, scambiando i tuoi comandi per quelli del padrone, e comincia a far rotolare la sfera verso l'obiettivo.{/n}
+
+### u022022
+{n}Il ratto quasi riesce a mettere la sfera nel buco, ma cambia bruscamente direzione all'ultimo momento. Poi succede di nuovo. E ancora. Alla fine la sfera finisce in un vicolo cieco, segnando la tua sconfitta.{/n}
+
+### u022023
+"Un'altra partita, Vostra Signoria?" {n}L'uomo china il capo con un lieve sorriso.{/n} "Sapete, ho sentito dire da saggi visitatori dei ponti superiori che questo giochino offre più del semplice svago. Dicono che sia un'occasione per mettere alla prova strategie diverse. Per conoscere meglio gli altri e sé stessi."
+
+### u022024
+"Mi dispiace, Vostra Signoria. Non mi è rimasto nulla da mettere in palio." {n}Sorride con imbarazzo rivoltando le tasche strappate.{/n}
+
+### u022025
+{n}Stavolta la partita va ancora meglio per te, ma alla fine l'insopportabile ratto fa incastrare di nuovo la sfera.{/n}
+
+### u022026
+"C'è mancato poco, Vostra Signoria! Volete giocare ancora o... può bastare?" {n}Qualcosa nel sorriso del suonatore di flauto ti fa sospettare che questa partita non si possa vincere. E il maestro del gioco non sembra cercare di nasconderlo.{/n}
+
+### u022027
+{n}L'uomo smette di suonare e scrolla le spalle, un sorriso colpevole sul volto.{/n} "Chissà da quanti turni di guardia non ho lavoro. E anche se me ne dessero, i tutori dell'ordine mi deruberebbero del guadagno subito dopo. Così ho trovato una vocazione secondo il mio cuore: scambio fortuna con tessere di razionamento. Qui la gente smercia quel poco che ha da parte, comunque, quindi perché non potrei farlo io?" {n}La folla fa eco alle sue parole con un cauto assenso.{/n}
+
+### u022028
+{n}Il suonatore di flauto si sistema goffamente gli occhialoni sulla fronte.{/n} "La storia di un uomo semplice dei ponti inferiori, onesto con sé stesso e con gli altri. Rischia la vita per proteggere gli oppressi da chi è corrotto dal potere. Toglie ai ricchi e dà ai bisognosi. Aiuta senza chiedere nulla in cambio. Nemesita, eroe delle fiabe, ammirato da bambini e adulti."
+
+### u022029
+{n}La folla annuisce in segno di approvazione. I sussurri eccitati si fondono in un'unica preghiera per la tua salute. Il suonatore di flauto sorride.{/n} "Per un umile servitore non c'è ricompensa più grande dell'approvazione del proprio {mf|signore|signora}. Farò del mio meglio per ispirare con la musica quanti più dei vostri sudditi possibile."
+
+### u022030
+{n}La gente si guarda sconvolta nell'udire questa sgradevole verità della vita. La loro gioia svanisce, lasciando solo l'amarezza della delusione.{/n}
+
+### u022031
+{n}Il suonatore di flauto sorride timidamente.{/n} "Ho soltanto esaudito la vostra richiesta. Ho suonato ciò che piace alla gente quaggiù."
+
+### u022032
+{n}L'uomo fa un cenno di gratitudine, onorato dalla sola attenzione che gli hai riservato.{/n}
+
+### u022033
+{n}Con un inchino ossequioso, si getta in spalla il sacco con il ratto dentro, poi ripone il flauto in una semplice custodia.{/n} "Non oserei mettere ulteriormente alla prova la vostra pazienza. Possiamo incontrarci ancora, Lord Capitano."
+
+### u022034
+{n}Il suonatore di flauto getta un'occhiata al ratto, un po' scoraggiato.{/n} "È vero quello che si dice. Il potere dei grandi sta nei talenti dei loro seguaci."
+
+### u022035
+"Cedendo a passatempi primitivi, cercano di dimenticare la sporcizia e la miseria che li circondano. Si lasciano ingannare dalle risate: un breve lampo di piacere, un momento immaginario di sollievo prima che la mente assopita sprofondi di nuovo in un'esistenza priva di senso."
+
+### u022036
+{n}La tua {d|Encyclopedia:CharGen_MOT_Mind}mente{/d} elimina tutti i fattori irrilevanti: il mescolare delle tessere, il fragore dei dadi per bulloni, i gesti eccitati di gente ingenua che crede nella fortuna dove regna il calcolo. Ci sono solo il gioco e i suoi componenti strutturali: una melodia ingegnosa e un animale addestrato che è più furbo di quanto sembri.{/n}
+
+### u022037
+{n}Dove gli altri sentono musica, tu distingui una serie di direttive in codice impartite al minuscolo complice del suonatore di flauto. Il ratto distrae gli spettatori con una dimostrazione di goffaggine, seguendo con precisione i comandi del padrone. È così che le sfere "capitano" di rotolare oltre l'obiettivo, con grande disappunto dei partecipanti.{/n}
+
+### u022038
+"Grazie per questo generoso dono! Questa gente mi coprirà di tessere di razionamento pur di mettere le mani su qualcosa appartenuto a Vostra Signoria. Oggi la Fortuna mi ha mostrato il suo sorriso più luminoso."
+
+### u022039
+{n}Il suonatore di flauto sorride con entusiasmo.{/n} "Vi prego, benedite la nostra piccola allodola con la vostra attenzione."
+
+### u022040
+{n}Il ratto comincia a inseguire la sfera sulla tavola. Ogni tanto urti "accidentalmente" la tavola per spaventare il ratto, facendolo correre nella direzione che vuoi. Eppure, proprio alla fine, la sfera manca il buco per un soffio. Succede ancora e ancora, finché la sfera finisce in un vicolo cieco, segnando la tua sconfitta.{/n}
+
+### u022041
+{n}Quando la sfera cade nel buco rosso, dalla folla si levano alcuni fischi d'ammirazione e il suonatore di flauto ride di gusto.{/n} "Ben fatto, Vostra Signoria! Be', non dubitavo che sareste {mf|stato|stata} un avversario degno. E la vostra strategia... credo che la terrò a mente per le mie partite future."
+
+### u022042
+{n}Stavolta ti riesce ancora meglio. Urli al ratto, quasi spingendolo a nascondersi nel buco insieme alla sfera, eppure un attimo dopo la partita finisce di nuovo con la sfera incastrata in un vicolo cieco.{/n}
+
+### u022043
+{n}L'Interrogatore storce il labbro, ma resta in silenzio, senza distogliere dall'uomo il suo sguardo gelido.{/n}
+
+### u022044
+"Questo suonatore di flauto non è semplice come finge di essere, {name}. Sono molto curioso di sapere che cosa stia davvero facendo qui. Lo farò sorvegliare."
+
+### u022045
+{n}Le persone abbassano gli occhi all'unisono, con sguardi così intensi da minacciare di bruciare nuovi buchi nelle scarpe consunte. I loro volti smunti mostrano paura, ma non rimorso.{/n}
+
+### u022046
+{n}La gente fissa il pavimento con vergogna, come bambini colpevoli. Uno degli anziani, in una tonaca logora, afferra l'Aquila fatta in casa che porta al collo, sussurrando una preghiera penitenziale.{/n}
+
+### u022047
+{n}Il suonatore di flauto sorride in modo enigmatico e porta il flauto alle labbra. Dallo strumento sgorga una melodia semplice e vivace, i volti cupi di operai e commercianti si distendono un poco, e le gallerie attorno a te sembrano meno squallide di prima. Molto dopo che la musica è cessata, in molti continuano a fischiettare la modesta canzonetta.{/n}
+
+### u022048
+{n}La gente sussurra con eccitazione discutendo del salvataggio miracoloso di Twelve. La folla ti guarda con soggezione.{/n}
+
+### u022049
+{n}La gente mormora un esitante assenso alle tue parole. Non c'è un briciolo di sincerità in questo brusio: la plebaglia semplicemente non osa sfidare le parole del Lord Capitano in persona.{/n}
+
+### u022050
+{n}Il suonatore di flauto china il capo così in basso che non si vede più il suo volto.{/n} "Il mio umile flauto non è degno di cantare la melodia del Lord Capitano. Ma poiché è vostra volontà, comporrò una nuova melodia. Spero che sarà così bella da essere udita su ogni ponte."
+
+### u022051
+{n}Il suonatore di flauto sorride con rammarico.{/n} "Credo che la canzone sia appena morta. Ma non mi dispero: la vita ci suggerisce sempre nuove melodie che piaceranno alla gente."
+
+### u022052
+{n}Gli occhi limpidi del suonatore di flauto si spalancano per la sorpresa. Poi, con un sorriso aperto e amichevole, dice:{/n} "Si raccontano molte grandi storie sulla generosità del Lord Capitano e, lo giuro sul mio stesso flauto, oggi ne aggiungerò un'altra! Per un venditore di fortuna, la grazia del Lord Capitano è un dono del destino stesso!" {n}Ti applaude con gratitudine, e gli operai si uniscono timidamente.{/n}
+
+### u022053
+"È semplice: su questa tavola giocate col destino. Scegliete una sfera e datela a Bolts, la mia ratta. Se entro tre minuti fa rotolare la vostra sfera nella buca segnata di rosso, vincete. Se non ci riesce, perdete. Semplice."
+
+### u022054
+"Forse vorreste scambiare con noi un po' di quella vostra fortuna da capitano, Vostra Signoria?" {n}Il suonatore di flauto si inchina con rispetto e indica la tavola da gioco. La folla freme di attesa.{/n}
+
+### u022055
+"Dimmi perché non dovrei giustiziarti qui e ora."
+
+### u022056
+"Abelard, aiuta questi miserabili a comprendere appieno la loro poco invidiabile posizione."
+
+### u022057
+"Sono il Rogue Trader {name} von Valancius, e voi mi spiegherete che cosa sta succedendo qui."
+
+### u022058
+"Chi sono non ha importanza. Che cosa ci fate qui?"
+
+### u022059
+"Oggi è il vostro giorno fortunato: posate ciò che speravate di rubare e andatevene."
+
+### u022060
+"Suppongo che possiate tornare utili. Vi permetterò di prendere alcune delle armi più semplici e di andarvene. Servite bene la nave."
+
+### u022061
+[Attacca] "I criminali sulla mia nave hanno un solo destino: la morte."
+
+### u022062
+[Osserva più da vicino gli individui sospetti]
+
+### u022063
+"Perché volete le mie armi? Avete intenzione di ribellarvi?"
+
+### u022064
+"Avete tutti il mignolo mozzato. Che cosa significa?"
+
+### u022065
+[Attacca] "Ho poche parole da dire a gente come voi."
+
+### u022066
+"Era evidente che non vi aspettavate nessuno qui. I tutori dell'ordine vi coprono?"
+
+### u022067
+{n}Diverse persone frugano con ansia in una rastrelliera piena di armi dell'arsenale dei tutori dell'ordine. Un omone dal volto butterato è il primo a reagire alla tua presenza: attira l'attenzione degli altri con un fischio acuto e abbaia:{/n} "Chi siete? Non dovrebbe esserci nessuno qu— ah, non importa. Identificatevi!"
+
+### u022068
+"Gli Hard Nines, una banda... cioè, una confraternita dell'Hangar di Trasporto 9. Non pensate che siamo parassiti. Facciamo la nostra parte per la prosperità della nave. Siamo una specie di... ehm... assistenti dei tutori dell'ordine. Autonominati. Ci assicuriamo che l'ordine venga mantenuto nei compartimenti in cui i tutori dell'ordine sono troppo pigri o avidi di mazzette. Mettiamo fine a rapine e libero pensiero, e, be', accettiamo un piccolo contributo in segno di gratitudine."
+
+### u022069
+"Come volete, allora!" {n}Il teppista butterato ghigna storto e si precipita verso la rastrelliera delle armi.{/n}
+
+### u022070
+"Davanti a voi sta il Lord Capitano {name} von Valancius, {mf|padrone|padrona} di questa nave e di tutto ciò che contiene, comprese le merci su cui state mettendo le vostre mani sporche, e anche le vostre miserabili vite."
+
+### u022071
+{n}La gente si volta a fissarti incredula e scambia sussurri concitati. L'agitazione è interrotta dal ruggito del capo:{/n} "Che avete da stare a bocca aperta? Sbrigatevi a piegare la schiena come si conviene!"
+
+### u022072
+{n}Il capo osserva il tuo equipaggiamento con aria stimatrice e aggrotta la fronte.{/n} "Ha importanza. Fareste meglio a rispondere, o questa conversazione durerà ben poco."
+
+### u022073
+"Se le {d|Encyclopedia:CharGen_Criminal}voci su di voi{/d} sono vere, allora sapete già come funziona. Ci sono i criminali, e poi ci sono i criminali."
+
+### u022074
+{n}Il capo annuisce prontamente.{/n} "Segnerò questo giorno come il mio secondo compleanno: ho salvato la pelle e ho visto il Lord Capitano, tutto in un giorno. Lunga vita a Vostra Signoria."
+
+### u022075
+"Sentito, ragazzi? Il Lord Capitano in persona si aspetta grandi cose da noi. Non possiamo {mf|deluderlo|deluderla}." {n}I suoi scagnozzi emettono suoni di approvazione.{/n} "Eseguiremo il vostro comando alla lettera."
+
+### u022076
+{n}Il capo sputa a terra, irritato.{/n} "Che accidenti ho fatto discorsi a fare, qui in piedi? Pensavo di avere un Lord Capitano a posto, e invece è del tipo tutto d'un pezzo! E allora venite avanti, Vostra Signoriosità."
+
+### u022077
+{n}Armature di fortuna spuntano da sotto i loro abiti stracciati, e le loro armi malconce mostrano un rattoppo di riparazioni grossolane. Il gruppo fissa con desiderio la rastrelliera dove brilla il buon plastacciaio, stringendo con inquietudine le proprie umili armi.{/n}
+
+### u022078
+{n}Il Siniscalco serra i denti, impotente di fronte alla tua scelta.{/n} "Un giorno comprenderò la profondità e la saggezza delle vostre decisioni, Lord Capitano, ma nel frattempo pregherò che quest'atto non torni a perseguitarvi."
+
+### u022079
+{n}Noti che a ognuno manca il mignolo della mano destra. Difficilmente è una coincidenza.{/n}
+
+### u022080
+"Persino sparare a questi è uno spreco di proiettili. Dubito che questi degenerati da fondo di sentina abbiano mai sentito parlare della Lex in vita loro."
+
+### u022081
+"La Lex, eh? Che razza di ciurma sarebbe? Sono con i Rust Rats del Carico 10 o con i Piperunners dello snodo principale di smistamento?"
+
+### u022082
+"È il rito di iniziazione della nostra banda, una bella tradizione. Rimuovendosi volontariamente un dito, la recluta dimostra la propria determinazione e la volontà di unirsi a noi per sempre. È anche un segno d'onore." {n}Mostra con orgoglio il moncone del mignolo.{/n}
+
+### u022083
+"Ehm... Potreste giustiziarci, ma chi prenderebbe il nostro posto? Feccia spudorata che deruba e uccide a piacimento. Bastardi che accolgono mutanti nelle loro bande e pregano l'Arcinemico. Su questa nave ci sono sempre stati fuorilegge. Vi conviene avere fuorilegge come noi, che non esagerano e che tengono a bada gli eretici."
+
+### u022084
+"Perché fermarvi lì? Tanto vale che vi chiamiate santi e diciate che il destino dell'intera dinastia poggia sulle vostre spalle!"
+
+### u022085
+"Per fare affari." {n}Il capo della banda sorride in modo servile.{/n} "Non siamo ribelli. Se qualcuno bestemmia contro Vostra Signoria, richiamiamo all'ordine i piantagrane. E versiamo sangue per la nave ammiraglia senza paura. Suppongo che questo ci renda... difensori della nave?" {n}Il teppista inarca le sopracciglia con aria interrogativa e ti guarda in attesa.{/n}
+
+### u022086
+"Vostra Signoria, dovete scusare questi zucconi. Anch'io sono rimasto spiazzato: non capita tutti i giorni di vedere il Rogue Trader in carne e ossa. E quanto a questo..." {n}L'uomo lancia un'occhiata cupa alla rastrelliera.{/n} "Non vi insulterò negandolo: ci avete colti con le mani nel sacco."
+
+### u022087
+"Vorrei... Frensoe, il capitano appena nominato, ha fatto impiccare il nostro informatore. Stringe le viti, maledizione, riusciamo a malapena a respirare. Oggi è l'ultima volta che veniamo a spulciare questo compartimento."
+
+### u022088
+Tutore dell'ordine irritato
+
+### u022089
+Mendicante
+
+### u022090
+Vecchio bendato
+
+### u022091
+Uomo ustionato
+
+### u022092
+Scriba
+
+### u022093
+Eddock Frensoe
+
+### u022094
+Tutore dell'ordine
+
+### u022095
+Il Caposquadra
+
+### u022096
+Abitante dei ponti intermedi
+
+### u022097
+Venditore ambulante
+
+### u022098
+Tutore dell'ordine agitato
+
+### u022099
+Quartiermastro
+
+### u022100
+Controllore del traffico
+
+### u022101
+Twelve
+
+### u022102
+Reietto
+
+### u022103
+Zdena la Reietta
+
+### u022104
+Suonatore di flauto
+
+### u022105
+Capo butterato
+
+### u022106
+Ufficiale del Vox Toliman
+
+### u022107
+Guardia della vasca
+
+### u022108
+Lavoratore
+
+### u022109
+Ti sembra di distinguere delle lettere intessute nell'intricato simbolo. E sebbene il significato di ogni singola lettera ti sfugga, insieme formano inequivocabilmente una freccia che indica una certa direzione.
+
+### u022110
+"È... è sangue?"
+
+### u022111
+"Non può essere! Abbiamo strofinato il ponte tre volte appena prima dell'arrivo del Rogue Trader! Che il vuoto mi porti! Il capitano ci farà tagliare la testa!"
+
+### u022112
+"Dubito che il culto della morte ci condurrebbe in una trappola, ma comunque... Per precauzione ho inviato le nostre coordinate alla Signora Toliman."
+
+### u022113
+"Se stiamo davvero seguendo le orme di una santa, il Dio-Imperatore sarebbe compiaciuto se portassimo a termine questo cammino."
+
+### u022114
+"Questo simbolo... Riesco ancora a vedere i colori che ne emanano, simili a... sangue mescolato al latte. Dovrebbe essere una vista di cattivo presagio... eppure perché mi sento così calma?"
+
+### u022115
+"Il sangue è ancora umido. Hanno aspettato il nostro arrivo."
+
+### u022116
+"I miei sussurri si stanno agitando. Questo simbolo non gli piace per niente. Ed è un buon segno! Significa che dobbiamo continuare a cercare!"
+
+### u022117
+"Verrà il giorno in cui resisteremo all'impulso di strisciare nei buchi più oscuri in cerca dei presagi più macabri... e allora saprò che la mia anima è andata incontro all'Eccelso."
+
+### u022118
+Kibellah getta un'occhiata al simbolo di sangue e si fa da parte, studiando attentamente la tua reazione.
+
+### u022119
+"Un altro segno. Ah! Be', be', Rogue Trader. Qualcuno ha una gran voglia di giocare con te."
+
+### u022120
+"Seguire i simboli consentirà la corretta categorizzazione di una suddivisione dell'equipaggio ancora non registrata e la localizzazione di un compartimento ancora non mappato. Metodo approvato."
+
+### u022121
+"Glaito ha percepito un altro segno. Questo sangue è fresco... A che gioco stanno giocando quei fanatici?"
+### u022122
+"C'è un detto su Fenris: se cerchi un incontro con la morte, ti troverà nell'istante in cui le volterai le spalle."
+
+### u022123
+"Se questi simboli sono una minaccia per te, elantach, allora trova la minaccia e mettile fine. Se sono segni di rispetto, accettali per quello che sono."
+
+### u022124
+Un'impronta di stivale ha sbavato leggermente questo simbolo. La pista porta verso i bassifondi.
+
+### u022125
+"A-aiu... to... Salvatemi... Vi prego..."
+
+### u022126
+Colui che si definiva un uomo morto, dopo essersi vendicato dei filatori, giace immobile con un ago avvelenato nel collo e un ghigno sulle labbra.
+
+### u022127
+Più a lungo fissi il segno, più i suoni della stazione si fanno sommessi. Le ombre si allungano e sembrano stendersi in direzione della sezione adiacente.
+
+### u022128
+Un brivido ti corre lungo la schiena. Non riesci a scrollarti di dosso la sensazione che una figura invisibile ti stia osservando.
+
+### u022129
+"La sua morte alla nave donò!"
+
+### u022130
+[Esamina il segno]
+
+### u022131
+"Spiegati, Frensoe. Che cos'è questo pasticcio?"
+
+### u022132
+"Dunque sono {mf|invitato|invitata} a seguire una scia di sangue, a quanto pare. Accetto l'invito dei filatori."
+
+### u022133
+"Sciocchezze e sudiciume, tutto quanto! Cancellate subito il simbolo!"
+
+### u022134
+"Perché avrebbero lasciato questo segno qui?"
+
+### u022135
+"Cancellatelo all'istante e punite chiunque abbia avuto a che fare con la sua comparsa qui! Non asseconderò i cultisti della morte prendendo parte ai loro folli giochi!"
+
+### u022136
+"Sai che segno è questo?"
+
+### u022137
+"Che cos'è il Canto della Scia di Sangue?"
+
+### u022138
+"Hai memorizzato il verso? Perché?"
+
+### u022139
+{n}L'angolo della bocca del capitano ha un tic nervoso mentre borbotta:{/n} "Maledetti quei... Come hanno fatto anche solo a..."
+
+### u022140
+"Lord Capitano, uno dei cultisti deve essersi introdotto di soppiatto e aver lasciato questo segno. O forse hanno costretto qualcuno a farlo. È una vergogna che possano compiere simili imprese sotto il mio naso, ma almeno posso assicurarvi che il segno non è pericoloso."
+
+### u022141
+{n}Hai già visto un simbolo di questo tipo. I cultisti della morte incidono segni sanguinanti come questo sulla propria pelle.{/n}
+
+### u022142
+{n}Frensoe respira a fondo.{/n}
+"L'ombra silente nel buio affondò.
+Piedi squarciati in un crescendo, danza fatale:
+canto di lame a tempo, ogni filo un'eco,
+due odi all'agonia mortale.
+Ora sul suo sangue sacro,
+come un tempo calcò le schiene dei nemici,
+calcano anime infinite, ma nessuna che sappia."
+
+### u022143
+"Somiglia a uno dei simboli associati alla Bloodspun Web. Come si chiamava... 'Il Canto della Scia di Sangue', credo. È una preghiera nota a molti in questo compartimento. Abbiamo sentito i filatori recitarla quando... be'... compiono i loro tipici atti di servizio all'Imperatore."
+
+### u022144
+"È questo il benvenuto che riservate al Rogue Trader?" {n}Le narici di Abelard si dilatano per la rabbia.{/n} "Chiunque abbia avuto l'audacia di lasciare questo... questo orribile simbolo, farò in modo che sia la stessa Maestra d'Armi a chiamarlo a risponderne!"
+
+### u022145
+"Spero che troviate ciò che cercate e che torniate sani e salvi ai ponti superiori, Lord Capitano."
+
+### u022146
+"Sì, Lord Capitano!" {n}Frensoe fa un cenno ai suoi subordinati, e i tutori dell'ordine si affrettano a eseguire la tua volontà.{/n}
+
+### u022147
+"Per quanto posso dire, è qualcosa di simile a una preghiera con diversi versi che narrano la vita di una delle sante del culto. Erianne, o la Matriarca Ragno, come la chiamano."
+
+### u022148
+{n}Il sangue usato per dipingere il simbolo è ancora fresco, ma non vedi indizi su chi l'abbia lasciato qui o su quali fossero le sue intenzioni.{/n}
+
+### u022149
+{n}In altre parole, è un invito. È fin troppo {d|Encyclopedia:CharGen_MOT_Mind}ovvio{/d} che dei cultisti ossessionati dal misticismo non userebbero mai la prosa per segnare la via del loro tempio: amano troppo i loro canti oscuri e i loro versi criptici.{/n}
+
+### u022150
+{n}Kibellah incide lo stesso simbolo sul dorso della propria mano con un coltello e sussurra una preghiera.{/n} "Domin'{name}, ricorda questo segno. È l'inizio della tua ricerca, la prima scia di sangue."
+
+### u022151
+"Quando ho assunto il mio incarico qui, mi sono assicurato di familiarizzare con tutte le... caratteristiche particolari di questo compartimento. Ben presto ho sentito parlare del verso e ho deciso di indagare. Ho interrogato diverse persone che seguono la Bloodspun Web cercando di capire se ci fosse qualcosa di pernicioso, e alla fine ho appreso tutto." {n}Aggrotta la fronte.{/n} "Le parole sono certamente strane, ma a quanto pare non c'è niente di peggio."
+
+### u022152
+"Forse c'entra il fatto che vi invitano a visitare il loro tempio. Forse cercano di attirare la vostra attenzione? Perdonatemi, Lord Capitano, non sono bravo a decifrare i loro inquietanti enigmi."
+
+### u022153
+Hai salvato l'uomo ustionato.
+
+### u022154
+[Attiva il vox] "Mandate qui dei tutori dell'ordine e del personale medicae, subito. C'è un uomo da rianimare. Quando si sarà ripreso, assegnatelo come apprendista di uno scriba: è ferito troppo gravemente per tornare alla vita da operaio."
+
+### u022155
+"Il filatore ti ha sussurrato un verso? Puoi ripetermelo?"
+
+### u022156
+[Valuta le probabilità di sopravvivenza dell'uomo]
+
+### u022157
+Hai ucciso l'uomo ustionato.
+
+### u022158
+[Poni fine alla vita dell'uomo] "Ti concedo una morte misericordiosa."
+
+### u022159
+"Sai qualcosa del segno accanto a te?"
+
+### u022160
+Hai lasciato l'uomo ustionato a morire di una morte atroce.
+
+### u022161
+[Vattene] "Tutti dobbiamo affrontare il nostro destino."
+
+### u022162
+"Chi sei e che cosa ti è successo?"
+
+### u022163
+"I soccorsi stanno arrivando. Resisti ancora un po'."
+
+### u022164
+"Pietà... Vi prego, salvatemi..." {n}Il giovane boccheggia in cerca d'aria con le labbra ustionate, scivolando dentro e fuori dal delirio. La pelle gli cola dal corpo scarno come cera sciolta da una candela. I suoi occhi, in qualche modo intatti, vivi, limpidi e pieni di dolore, ti fissano da sotto le palpebre incrostate.{/n}
+
+### u022165
+{n}Comincia a sussurrare, le labbra contorte dal dolore:{/n}
+"All'anima imbrattata di fuliggine, la sua pietà concesse.
+Ultimo respiro esalato, il coltello incontrò il cuore:
+tolta dal petto... passata alla morte.
+Il suo dovere benedetto, un balsamo per chi
+soffre... angoscia e tormento...
+Un desiderio condotto al riposo:
+dei vincoli mortali l'anima spogliare..."
+
+### u022166
+{n}Potrebbe sopravvivere, ma sarà mutilato per sempre. Troppi muscoli sono carbonizzati fino all'osso: anche se conserverà un po' di capacità di movimento, il dolore sarà il suo compagno costante. La sua motricità è stata danneggiata in modo irreparabile. Un uomo distrutto o un cadavere, il tempo lo dirà presto.{/n}
+
+### u022167
+"No! Pietà..." {n}L'orrore balena negli occhi dell'uomo, ma non appena vede la tua espressione calma, abbandona la paura e china il capo rassegnato.{/n} "E sia... Non posso... più sopportare questo dolore... Preferisco... morire..."
+
+### u022168
+{n}Cerca di voltare la testa, la pelle annerita che scricchiola aprendosi in crepe scarlatte.{/n} "È venuto un filatore... Ha dipinto il simbolo... Poi mi ha dato dell'acqua... e ha sussurrato uno strano verso... Mi ha detto di memorizzarlo e di recitarlo più tardi... così che sarebbero arrivati i soccorsi. Ed eccovi qui! Allora dovrei..."
+
+### u022169
+"Mi chiedo da quanto tempo sia seduto qui così. Un turno di guardia? Tre? I sussurri dicono che a nessuno importava perché non contava nulla, ma dicono anche che in qualche modo dovrebbe contare per noi... Strano."
+
+### u022170
+"Non dimenticare mai la misericordia che il Lord Capitano ti ha concesso."
+
+### u022171
+"Sono Vayle, un addetto alle pulizie... Ero a casa, dormivo... sono arrivati i tutori dell'ordine... le hanno dato fuoco... Non... sono riuscito a uscire in tempo..."
+
+### u022172
+"Quando l'Imperituro è pronto ad accogliere un'anima, essa deve essere inviata da lui, e così sarà liberata dal tormento della carne. Eppure voi avete scelto di... prolungare la sofferenza di quest'uomo. Le vostre intenzioni mi lasciano perplessa."
+
+### u022173
+{n}L'uomo scuote la testa con disperazione, strappando la crosta che aveva appena cominciato a formarsi sulle sue ustioni.{/n} "No... Vi prego... Vi supplico!"
+
+### u022174
+"Non c'è maledizione più terribile di un'esistenza tra non-vita e non-morte. Hai liberato un'anima tormentata, Domin'{name}. L'Imperituro vede il bene che hai compiuto."
+
+### u022175
+"Razza di ashmag senz'anima..." {n}borbotta Jae a mezza voce.{/n}
+
+### u022176
+{n}Altri versi. Il nodo di questa prova è {d|Encyclopedia:CharGen_MOT_Mind}chiaro{/d}: per seguire le orme della santa, devi uccidere il giovane e liberarlo così dalle sue sofferenze. I cultisti vogliono vedere se comprendi la filosofia di coloro che cerchi.{/n}
+
+### u022177
+"C-certo! Gra... grazie..."
+
+### u022178
+"La prognosi è sfavorevole, Rogue Trader. Potrei..." {n}Vedendo lo sguardo negli occhi del giovane, il Manipulus si interrompe.{/n} "Ma no, non potrei. Per quanto ci sia qualche speranza di sopravvivenza per quest'uomo, con ogni probabilità è illusoria."
+
+### u022179
+"L'ho implorato di salvarmi, ma si è solo voltato ed è andato via... Perché?" {n}Tossisce e comincia a grattarsi febbrilmente nella carne gli stessi simboli che hai visto.{/n} "Vi prego, aiutatemi! Voglio vivere..."
+
+### u022180
+{n}Un sorriso beato storce le labbra dell'uomo, e una lacrima si forma all'angolo della sua orbita rovinata.{/n} "Il Dio-Imperatore vi ha mandato a salvarmi... Siete la Sua luce... Siete la Sua grazia... Grazie... Grazie per non avermi lasciato qui..."
+
+### u022181
+"I cultisti della morte vogliono che poniamo fine alla vita del poveretto? Quei folli malati! Chiunque può essere salvato finché vuole ancora vivere!" {n}Le dita di Jae si muovono istintivamente verso l'augmetica del collo.{/n} "Per lo meno, merita che si tenti di salvarlo prima di scartarne la vita."
+
+### u022182
+"Ci sono momenti in cui la morte è più misericordiosa di una vita di agonia perpetua."
+
+### u022183
+"Le probabilità di sopravvivenza di questa unità sono scarse. L'utilità funzionale in caso di stabilizzazione dei processi vitali è minima. Si raccomanda lo smaltimento."
+
+### u022184
+{n}Pus giallo-brunastro si è raccolto sotto la sua pelle riarsa. Le sue ferite sono già state toccate dalla putredine dei ponti inferiori, e anche se il suo corpo sopravvivesse al trasporto alla struttura medicae, l'uomo morirebbe comunque per lo shock o per l'infezione.{/n}
+
+### u022185
+{n}Marazhai si avvicina all'uomo mutilato, chiude gli occhi e respira a fondo. Gli angoli delle sue labbra si curvano in un sorriso soddisfatto.{/n}
+
+### u022186
+[Urla nel condotto] "Ne ho abbastanza di questa follia e dei vostri enigmi! Non rischierò la vita solo per trovare un tempio!"
+
+### u022187
+[Invoca i Poteri Rovinosi] "Sono {mf|disposto|disposta} a correre il rischio per apprendere i segreti della Bloodspun Web, ma ho bisogno del vostro aiuto!"
+
+### u022188
+[Salta]
+
+### u022189
+[Allontanati]
+
+### u022190
+[Prega l'Imperatore] "Pongo la mia vita nelle Tue mani, perché credo sinceramente che Tu mi proteggerai."
+
+### u022191
+{n}Le lame rotanti non promettono altro che una morte brutale e insensata. Sgusciare oltre richiederebbe calcoli di una precisione irragionevole... o una fortuna cieca. Mentre ascolti le correnti d'aria, per un istante credi di udire la preghiera sussurrata di Zdena salire dal fondo del condotto.{/n}
+
+### u022192
+{n}Tutto ciò che ricevi in risposta è l'eco delle tue stesse parole.{/n}
+
+### u022193
+{n}Le parole vengono con facilità, e tutti i tuoi dubbi svaniscono. In qualche modo sai con certezza che la tua vita non finirà qui.{/n}
+
+### u022194
+{n}Sulle tue labbra compare un sorriso sicuro che non è il tuo. Le lame rombanti non sembrano più pericolose, e la prospettiva di saltare diventa una semplice sciocchezza.{/n}
+
+### u022195
+"I tuoi occhi tornano sempre a quel simbolo di sangue. Che cosa ne sai?"
+
+### u022196
+Hai ribaltato il verdetto del Vizsier su Sebreid, incoraggiandolo così a intraprendere una nuova ondata di omicidi.
+
+### u022197
+"In quanto {mf|unto|unta} dell'Imperatore, ribalto qui il verdetto del Vizsier. Il culto ti ha rovinato la vita, e per cosa? Per qualche semplice omicidio?"
+
+### u022198
+[Osserva in silenzio]
+
+### u022199
+[Guarda le cicatrici dell'uomo]
+
+### u022200
+[Vattene] "Dubito che tu possa essermi di qualche aiuto."
+
+### u022201
+"Che cosa credi di fare?"
+
+### u022202
+"Conosci i simboli della Bloodspun Web. Porti cicatrici simili. Sei un filatore?"
+
+### u022203
+"Hai l'aria di uno che sta per togliersi la vita. Stai passando una pessima giornata?"
+
+### u022204
+"Ti è stato ordinato di morire? Per quale motivo?"
+
+### u022205
+"Quindi i filatori ti hanno semplicemente lasciato andare? Non hanno tentato di trovarti e ucciderti?"
+
+### u022206
+"Sei disgustoso. Non ti concederò la liberazione che brami tanto. Che tu possa vivere nella sofferenza, timoroso di ogni ombra."
+
+### u022207
+"Sei un codardo e un macellaio di innocenti. Purgherò la mia nave della tua esistenza."
+
+### u022208
+"Hai ucciso altre anime innocenti da quando sei fuggito?"
+
+### u022209
+"Non mi sembri particolarmente pentito."
+
+### u022210
+"Abelard, fa' qualcosa!"
+
+### u022211
+"Non ti giudicherò, né deciderò il tuo destino. Addio."
+
+### u022212
+"Non azzardarti nemmeno a macchiare la parte inferiore del mio strascico con le tue viscere!"
+
+### u022213
+{n}Un uomo di mezza età, nerboruto, osserva il viavai dell'hangar con un'espressione distaccata. Di tanto in tanto, quando il suo sguardo indugia sul segno di sangue inciso lì vicino, il suo volto cambia in modo strano e le sue mani si serrano a pugno.{/n}
+
+### u022214
+"Un uomo morto. Ho perso il mio nome anni fa. Da allora sono solo un altro uomo morto."
+
+### u022215
+"Voi... avete ragione, Lord Capitano! Il Vizsier mi ha insegnato a servire. A uccidere. Ho fatto ciò per cui ero stato scelto... e mi hanno punito per questo. Mi hanno fatto vivere nella paura quasi per tutta la vita!" {n}Gli occhi spenti dell'uomo si riempiono di malvagità.{/n} "Grazie per avermi aperto gli occhi. È ora che Sebreid ritorni... e che l'uomo morto scompaia, insieme ai suoi creatori."
+
+### u022216
+"Perfido ashmag! Hai sfruttato la fede della gente nell'Eccelso per giustificare l'abuso del potere che ti era stato dato!"
+
+### u022217
+"Che cosa? Io... non ho..." {n}L'uomo sussulta e quasi cade, ma riesce a mantenere l'equilibrio. Nella fioca luce dei {g|Encyclopedia:Lumen}lumen{/g}, noti vecchie cicatrici sparse su tutto il suo corpo. Le cicatrici ti sembrano vagamente familiari.{/n}
+
+### u022218
+{n}Le cicatrici variano tutte per lunghezza, larghezza, profondità e forma. Tuttavia noti uno schema nel modo in cui sono allineate, oltre a una serie di simboli sbiaditi sulla pelle ruvida dell'uomo. I cultisti della morte portano segni simili sul corpo.{/n}
+
+### u022219
+"Osi insultare il Rogue Trader con la tua impudenza? Il tuo corpo sarà già coperto di cicatrici, ma la tua lingua sembra chiederne altre."
+
+### u022220
+"Il Vizsier mi ordinò di uccidere colui che sarebbe stato a un certo incrocio dei tunnel di servizio a una certa ora. Andai nel punto stabilito. Poi aspettai. Un'ora. Due. Cinque. L'incrocio era ancora vuoto. Non venne nessuno. Dopo ore di attesa, finalmente capii: la persona all'incrocio ero stato io per tutto il tempo. Era il mio turno di andare dall'Imperituro. Ma avevo... paura. Non riuscii a fare il mio dovere. Scappai."
+
+### u022221
+"Tutta la mia vita è stata marcia. E la colpa è solo mia. Ho provato a cambiare le cose, a sistemarle. Ma sono sempre finito qui, così alla fine ho accettato la verità."
+
+### u022222
+"Se l'Umanità seguisse i propri Sentieri come fanno i Figli di Asuryan... questo mon-keigh sarebbe uno che ha perso il suo Sentiero."
+
+### u022223
+"Se questo fosse un interrogatorio, accoglierei con favore una simile risposta. Ma in questo caso stiamo solo perdendo tempo."
+
+### u022224
+{n}Kibellah studia brevemente il volto dell'uomo, poi si volta.{/n} "Non ti conosco. Lo sguardo della Morte non è su di te."
+
+### u022225
+{n}Si inchina senza convinzione.{/n} "Non riesco nemmeno ad aiutare me stesso."
+
+### u022226
+"Lo ero. Ma non sono riuscito a portare a termine il mio ultimo incarico, così sono stato... esiliato dal culto."
+
+### u022227
+"Non ci fu alcun inseguimento. Pensavo che il giorno dopo avrei visto le loro lame nere. Invece passarono anni senza che mi prendessero il cuore. Provai a ricominciare una nuova vita, ma il terrore non smise mai di divorarmi. Quando fui davvero disperato, andai io stesso al tempio della morte. Ma lì nessuno volle parlarmi. Quando diedi loro il mio nome, sussurrarono solo: 'Sebreid è andato dall'Imperituro.' Mi guardavano attraverso, come se non fossi nemmeno lì. Vivo così da vent'anni. Come un codardo. Come un morto."

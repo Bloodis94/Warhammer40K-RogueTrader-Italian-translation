@@ -1,0 +1,788 @@
+### u038845
+{n}La governatrice, tremando da capo a piedi, china il capo ancora più in basso{/n}. "Vi assicuro, Vostra Signoria, che non oserei mai... Vi imploro, datemi la possibilità di dimostrare la mia lealtà e di spiegarmi..."
+
+### u038846
+"...adesso. Come miele per le orecchie, non trovate?"
+
+### u038847
+{n}Vistenza sospira e getta le braccia al cielo.{/n} "Oh, Vostra Signoria, sarebbe per me un grande piacere dimostrarvi subito la potenza produttiva di Janus... ma ci sono alcuni problemi."
+
+### u038848
+"Oh, hanno le loro ragioni, certo. Libertà insufficienti, spostamenti limitati, dispute con le autorità locali... e queste sono solo quelle che si possono prendere almeno un poco sul serio. La gente non ama le restrizioni, specialmente se il suo governante ha già mostrato una certa indulgenza verso la plebaglia nella speranza di incoraggiare una maggiore produttività. C'è chi confonde la lealtà con la debolezza."
+
+### u038849
+"Salute a voi, Vostra Signoria! In che modo posso esservi utile?"
+
+### u038850
+{n}Vistenza china il capo con dignità.{/n} "In tempi difficili, non contiamo solo sulla benevolenza dell'Imperatore, ma anche sulle nostre capacità."
+
+### u038851
+"Vi riferite a Yrliet, la nostra principale alleata nella lotta contro i ribelli. Ho chiuso un occhio sulle sue orribili mutazioni, visti gli innegabili vantaggi che porta. Vedete, Yrliet proviene dalla locale stirpe degenere di questo mondo e conosce Janus come le sue tasche, perciò ci ha fornito diverse piste su dove trovare basi e depositi segreti. Anche se ammetto che a volte sono tentata di allontanarla dalla tenuta: la sua innaturalezza mi lascia sempre a disagio, quando le parlo. Una figura così emaciata, così poco femminile, e così alta..."
+
+### u038852
+{n}Vistenza sussulta per lo stupore.{/n} "Cosa? No!"
+
+### u038853
+{n}L'espressione di Heinrix cambia.{/n} "Ho sentito bene, Governatrice Vyatt: avete un misterioso mutante nella vostra tenuta, proprio in questo momento? Uno di statura prodigiosa, esile, con un talento soprannaturale per il tiro? L'arrivo di questa aiutante non vi ha mai dato da pensare?"
+
+### u038854
+"Lasciate che mi spieghi chiaramente: rifiutare l'aiuto di Yrliet nelle nostre circostanze sarebbe stato incredibilmente avventato. Sì, i mutanti sono creature aborrite dall'Imperatore e dovrebbero essere sterminate, ma talvolta l'Umanità fa delle eccezioni per chi può servire l'Imperium..."
+
+### u038855
+"Se desiderate parlare con Yrliet, la troverete fuori, nell'aranciera, molto probabilmente vicino al gazebo. Preferisce tenersi a distanza dagli altri."
+
+### u038856
+"Non mi preoccupa che la vostra aiutante sia una mutante. Mi preoccupa molto di più che possa non essere niente del genere." {n}Heinrix si volta verso di te.{/n} "{name}? Vorrei incontrare senza indugio questa aiutante della Governatrice Vyatt. Per interesse professionale."
+
+### u038857
+"Naturalmente, siete {mf|libero|libera} di insistere perché il conflitto venga risolto a livello locale. Secondo il rapporto del mio consiglio, forse tra un paio d'anni... quando i servizi di sicurezza saranno stati riequipaggiati e sarà stata istituita in orbita una stazione del vuoto di sorveglianza... potremo, nonostante gli attacchi, produrre abbastanza da soddisfare gli esattori della decima." {n}Vistenza sospira.{/n} "Senza dubbio questa risposta vi dispiace. Capisco. Ma con le nostre risorse è lo scenario più probabile."
+
+### u038858
+"Considerato quanto è accaduto, la vostra visita è una vera benedizione. Vedete, Janus non ha una flotta propria. Potremmo organizzare una ricerca su scala planetaria, se avessimo delle navi a disposizione... navi come la vostra, Vostra Signoria! Forse troverete il modo di sostenere i vostri sudditi nell'ora del bisogno? Sono certa che anche delle coordinate approssimative basterebbero a far collaborare le forze di terra e l'equipaggio della nave per dare la caccia al nemico!"
+
+### u038859
+{n}Vistenza emette un respiro rotto, come se l'avessero colpita allo stomaco.{/n} "Vostra Signoria! Ma... Ma ho servito la vostra dinastia con fedeltà e onestà, ho lavorato senza sosta per domare questo pianeta ribelle..." {n}Si trattiene dal dire altro e annuisce.{/n} "C-come desiderate."
+
+### u038860
+"Basta, mon-keigh!" {n}Yrliet alza l'arma.{/n} "Kaela Mensha, guida la mia mano mentre schiaccia il male!"
+
+### u038861
+"Io e il mio seguito siamo al vostro servizio. La mia segretaria sta controllando il personale proprio in questo momento e rimuovendo dalla tenuta ogni traccia dell'attacco. Anche uno stimato Magos, responsabile degli sforzi agronomici sul pianeta, è qui: si trovava in visita questa settimana per consegnare il suo rapporto personale. E, naturalmente, c'è la mia aiutante nella guerra contro i ribelli, Yrliet. Non ho dubbi che sarà lieta di condividere la sua conoscenza di Janus con Vostra Signoria!"
+
+### u038862
+"Ma io ho qualcosa da rimproverarle," {n}dice Argenta, con la voce piena di fredda furia.{/n} "Nessuna pietà per i servi dell'Arcinemico!"
+
+### u038863
+{n}Gli occhi di Vistenza si stringono.{/n} "Perdonatemi per quello che sto per dire, Vostra Signoria, ma state mentendo! Non sono cieca: vedo come Janus sta cambiando, come diventa più docile, più sottomesso alla volontà dell'Umanità!"
+
+### u038864
+"Soprattutto mais da focolare di Helica e rapa rossa. Oltre a questo, nell'emisfero meridionale abbiamo destinato vaste distese di terra alla popolazione di {g|Encyclopedia:Grox}grox{/g}. E, naturalmente, non posso non menzionare le diverse migliaia di acri di terreno coltivato dedicati alla coltivazione di frutta da fermentazione. Per uso personale ed esportazione limitata."
+
+### u038865
+"Dove l'avete sentito dire? Sì, è vero che di tanto in tanto organizzo delle esecuzioni per una piccola cerchia di amici... Aspettate, ricordo che la mia confidente mi chiese il permesso di usare il salone per qualche riunione. Pensavo intendesse discussioni ideologiche, non sacrifici!"
+
+### u038866
+"Con cosa vorreste che fossi d'accordo, Vostra Signoria? Che la mia trasformazione di Janus è stata inutile? Mai!"
+
+### u038867
+"So a cosa vi riferite: strane strutture di un materiale ignoto. Per prevenire qualsiasi spiacevole incidente, ho ordinato che la zona fosse dichiarata off-limits per tutti. Certe cose è meglio lasciarle sotto un fitto strato di terra, fuori dalla portata persino delle menti illuminate dell'Adeptus Mechanicus."
+
+### u038868
+"Il Magos Vinzelex è un uomo molto saggio, ma la sua fissazione per i processi evolutivi mi sembra un po' eccessiva. Janus è stato coltivato intensamente: foreste abbattute e montagne rase al suolo su metà del pianeta. Non c'è da stupirsi se ne notiamo ancora le conseguenze."
+
+### u038869
+"È possibile che le mutazioni delle piante siano legate ai rifiuti di scarico dei macchinari per la raccolta. E i cambiamenti nel comportamento della fauna potrebbero essere una reazione all'espansione dell'area coltivata." {n}Vistenza scuote la testa con una risata.{/n} "Vi sorprende la mia conoscenza dell'argomento? Tutta la nostra dinastia si è dedicata a domare Janus, questo pianeta rigoglioso ma ostinato. Ogni membro della stirpe dei Vyatt è versato nei fondamenti dell'ingegneria planetaria, e nelle sue conseguenze."
+
+### u038870
+"Basta così, Vostra Signoria. Semplicemente non so cosa pensare della vostra servile adesione a questa nozione assurda! Suvvia, dimentichiamo tutto questo e torniamo a discutere di questioni più serie..."
+
+### u038871
+{n}Vistenza si inchina in una profonda riverenza.{/n} "Sapevo che eravate {mf|un uomo|una donna} di ragione, che apprezza i sudditi leali. Lunga vita all'alleanza di Vyatt e von Valancius!"
+
+### u038872
+{n}Vistenza stringe i denti così forte che senti uno scricchiolio.{/n} "Io, figlia della Casata Vyatt, Governatrice di Janus e cittadina dell'Imperium, non servo nessuno se non l'Imperatore e la dinastia von Valancius! E ciò di cui... di cui mi accusate... è semplicemente uno strumento a mia disposizione! Uno strumento che ho il potere e il coraggio di usare! Pensate che i metodi ordinari sarebbero bastati a domare questo pianeta folle? No! La mia famiglia ha lottato per decenni per sottomettere Janus una volta per tutte, ed è stato tutto vano!"
+
+### u038873
+{n}Vistenza arriccia il naso.{/n} "Lo dico con infinito rispetto, Vostra Signoria, ma la vostra insolenza comincia a mettere alla prova persino la mia pazienza."
+
+### u038874
+"Ma i servitori leali di quelle famiglie che risiedono su Janus da secoli mi hanno aiutata a sbloccare una nuova fonte di potere. Un'antica conoscenza tramandata in segreto di generazione in generazione, accessibile a pochi eletti, che concede potere sulla natura stessa. Come avrei potuto rifiutarla? Come avrei potuto annullare tutto il lavoro dei miei predecessori, a cui fu affidato Janus, che servirono fedelmente la dinastia von Valancius e che con l'ossessione di un folle scolpirono questa roccia fino a farne uno splendido diamante? Due giorni trascorsi tra gli iniziati furono sufficienti perché cominciassi a sentire nelle orecchie le voci degli angeli: angeli che mi donarono le chiavi per conquistare questo mondo!"
+
+### u038875
+"Non proprio, Vostra Signoria. I miei custodi stanno schiacciando senza sosta i miseri sabotatori in tutto il pianeta, {name}, ma sarà tutto inutile se i loro nidi non verranno distrutti. Qualcuno controlla la feccia che muore in scorribande sconsiderate come quella a cui abbiamo assistito oggi, e quel qualcuno potrebbe nascondersi ovunque! Voi avete a disposizione risorse e capacità quali io non potrei mai sperare di possedere! La vostra nave da sola è una risorsa impareggiabile per rintracciare i criminali oltre i confini della mia influenza."
+
+### u038876
+"Se qualcuno di coloro che hanno attaccato la tenuta fosse sopravvissuto, forse sarebbe stato una preziosa fonte di informazioni... ma ne avete fatto un esempio per il resto della stolta plebaglia." {n}Vistenza getta un'occhiata al vox.{/n} "A proposito, ho sentito i custodi parlare di un certo straniero nella zona. Inoltre, non sappiamo ancora chi abbia fatto entrare quei reprobi nella tenuta: chi l'ha fatto potrebbe sapere qualcosa."
+
+### u038877
+"Molto meglio. La mia gente sta ripulendo sistematicamente gli insediamenti da ogni ribelle sopravvissuto, e la nobiltà sta facendo tutto il possibile per lasciarsi alle spalle questa pagina oscura della storia del nostro mondo e ritrovare il giusto buonumore, componente cruciale per la prosperità della nostra preziosa Janus."
+
+### u038878
+"Grazie, Vostra Signoria. La vostra saggezza e la vostra indulgenza verso i vostri inferiori vi fanno onore come membro della dinastia von Valancius."
+
+### u038879
+{n}Vistenza incrocia le braccia.{/n} "Sono lieta di sentire che avete ascoltato la ragione, Rogue Trader. Conosco questo pianeta come le mie tasche. Ancora un poco, e lo piegherò completamente al mio volere."
+
+### u038880
+"Avete commesso un errore a pensare che qualcuno sarebbe venuto in vostro aiuto sul mio mondo! Servitori, a me!"
+
+### u038881
+"Impartirò tutte le istruzioni necessarie. Le spedizioni di rifornimenti inizieranno oggi, Vostra Signoria. E le decime trattenute a causa delle recenti difficoltà saranno pagate nei prossimi giorni."
+
+### u038882
+{n}Il sorriso di Vistenza si spegne come una candela nel vento.{/n} "Voi... non osereste... è l'opera della mia vita..." {n}La governatrice stringe i pugni, poi si controlla. Il suo sorriso è quasi perfetto nell'imitare la sincerità.{/n} "Bene. Anche una vita smorta è meglio di una morte vibrante. Prometto di trovarmi un nuovo... passatempo."
+
+### u038883
+"Molto prudente, Vostra Signoria. E quanto ai calunniatori... presumo che sarete {mf|disposto|disposta} a fornire alla mia gente le coordinate del buco in cui si nascondono quei ripugnanti ratti?"
+
+### u038884
+"Diversi mesi fa a Janus scoppiarono delle rivolte. All'inizio non fui nemmeno avvisata: i vermi che si lamentano sono un problema dei custodi. Purtroppo, seppi di quanto stava accadendo solo dopo che i malfattori cominciarono a colpire le famiglie nobili." {n}Vistenza scuote la testa.{/n} "E poi divenne evidente che quelli che i registri dell'Administratum definivano 'disordini' erano in realtà attacchi organizzati contro le infrastrutture e i capi della società!"
+
+### u038885
+"Hanno già paralizzato 13 complessi agricoli e ora sono passati ai tentativi di assassinio. I miei custodi stanno dando la caccia ai ribelli con tenacia, ma i loro capi ci sfuggono ancora una volta."
+
+### u038886
+{n}La preoccupazione compare negli occhi di Vistenza.{/n} "La d-determinazione e il valore della dinastia von Valancius non conoscono limiti. Vi sono immensamente grata per il vostro aiuto!"
+
+### u038887
+"Cosa? Davvero, {name}, parlate come se credeste sul serio alle affermazioni di quei miserabili contadini... Non chiedo a nessuno di pagare le decime in corpi umani. Sto alleggerendo il fardello degli insediamenti che hanno sofferto per via di esperimenti falliti con cibo arricchito, e raccolgo i soggetti più colpiti, quelli ormai incapaci di lavorare, per ulteriori studi. Alcuni nella mia cerchia definirebbero una debolezza una simile premura per le classi inferiori. Una debolezza che potrebbe aver istigato la ribellione tra la plebaglia imbaldanzita."
+
+### u038888
+"Non lo nego: alcuni dei nostri esperimenti presentano un conto più alto alla popolazione di altri... Vedete, di recente una delle famiglie nobili di Janus ha assunto il difficile compito di potenziare le caratteristiche dei nostri lavoratori. Finora ha comportato l'aggiunta di integratori sperimentali al cibo e un condizionamento mentale in insediamenti monitorati. A volte le procedure vengono disturbate e parte della popolazione soffre di effetti collaterali... Gli specialisti della famiglia Gravaz sarebbero più adatti a informarvi su questo argomento, ma purtroppo sono attualmente impegnati sul campo."
+
+### u038889
+"Sì e no, Vostra Signoria. Se la domanda è: un mondo così esteso e fertile può nutrire qualche migliaio di ratti del vuoto? Certo che può: perdiamo più provviste ogni ciclo a causa dei parassiti roditori di quante quelli di Footfall ne potrebbero mangiare in tutta la loro vita. Ma possiamo spedire quelle provviste a Footfall? Nemmeno per sogno."
+
+### u038890
+"Qualsiasi navetta da carico che lasci la superficie sarà un bersaglio: i ribelli non esiteranno ad abbatterla, facendo piovere detriti in fiamme sulla capitale. I nostri silos potrebbero diventare bersagli di sabotaggio: il cibo potrebbe essere avvelenato o minato. La logistica per il trasporto dei rifornimenti a Footfall sarà possibile solo quando la sollevazione sarà stata completamente schiacciata."
+
+### u038891
+{n}Il vox di Pasqal emette un sibilo pensieroso:{/n} "Ecco la prova del perché la Conoscenza debba restare nelle mani dei degni. Molti profani sono in grado di possederla, ma una mente saggia non vincolata dai giuramenti di obbedienza all'Omnissiah è vulnerabile alla corruzione e al libero pensiero. Ancora più vulnerabile della mente di un ignorante popolano."
+
+### u038892
+{n}Vistenza sussulta e si china subito in un inchino.{/n} "Certamente, Vostra Signoria!"
+
+### u038893
+"Grazie, Vostra Signoria. Credetemi, sono infinitamente dispiaciuta che i problemi di Janus ci abbiano raggiunti persino qui, nel luogo più protetto di Janus."
+
+### u038894
+"Oh no, Vostra Signoria, non oserei mai mettere deliberatamente in pericolo l'erede dell'illustre dinastia von Valancius! Tuttavia, non posso non esprimere la mia gioia per il fatto che abbiate tratto un certo piacere da quanto è accaduto."
+
+### u038895
+"Rischio di farvi arrabbiare, Vostra Signoria, ma questo non è nulla in confronto a ingannarvi spudoratamente. Consideriamo la situazione con distacco: persino i più talentuosi esperti di logistica dell'Administratum non sono in grado di garantire decime stabili quando le navette hanno timore di atterrare allo spazioporto e i contadini terrorizzati assecondano una pericolosa minoranza tra le loro file. Finché a Janus non sarà ripristinato il solito ordine delle cose, qualsiasi commercio è quasi impossibile."
+
+### u038896
+"No, era una creazione antica dell'Umanità. La reliquia della nostra famiglia: un generatore personale di campo di dislocazione." {n}Vistenza si tocca il plesso solare.{/n} "Secondo la tradizione della famiglia Vyatt, ha salvato la vita a diversi membri della mia stirpe e, molto probabilmente, oggi anche la mia."
+
+### u038897
+"Sono certa che la vostra posizione vi permetterà di acquisire in breve tempo una reliquia così preziosa e rara. Vi consiglierei di fare ciò che hanno fatto generazioni della mia famiglia: impiantarla nel vostro corpo, così da non separarvene mai nemmeno per un minuto." {n}Con maggiore enfasi stavolta, Vistenza si tocca di nuovo il plesso solare.{/n}
+
+### u038898
+"Io..." {n}Vistenza si interrompe, poi incrocia le braccia e annuisce.{/n} "Certamente, Vostra Signoria."
+
+### u038899
+"Vostra Signoria si è degnata di farmi visita? A cosa devo il piacere?"
+
+### u038900
+"Hai intessuto invano la tua rete di inganni: non puoi più nasconderti dietro il velo dell'ignoranza. {name} ha visto le prove delle tue azioni, ha udito le grida dei Lilaethan tormentati, ha camminato in mezzo al decadimento che hai portato sul Mondo Vergine. Basta con le tue menzogne, miserabile del Caos!"
+
+### u038901
+"Non giriamoci intorno, Governatrice Vyatt. Sono state mosse contro di voi accuse estremamente gravi, che l'Inquisizione desidera portare alla vostra attenzione. Le vostre azioni, direttamente o indirettamente, servono i fini dell'Arcinemico."
+
+### u038902
+"Come osate! La Casata Vyatt non tollererà simili insulti tra le sue mura!" {n}Vistenza volge la testa verso di te con uno sguardo implorante.{/n} "Vostra Signoria!"
+
+### u038903
+{n}La donna in piedi accanto a Vistenza ride con delicatezza, ma dopo uno sguardo di sbieco della governatrice riprende il suo atteggiamento di deferente afflizione.{/n}
+
+### u038904
+"Basta con menzogne e diversivi. Se resta in voi anche un granello, la più pallida ombra, della dignità dei figli dell'Imperium, confessate ora!"
+
+### u038905
+"Mi accusate di inganno! Non lo tollererò! Vostra Signoria, di che si tratta?"
+
+### u038906
+{n}La dama di compagnia in piedi accanto a Vistenza china rispettosamente il capo. Si sforza ostinatamente di non voltarsi verso di te, ma è evidente che ti osserva da sotto le ciglia abbassate.{/n}
+
+### u038907
+"Di recente ho cominciato a introdurre una serie di miglioramenti per aumentare la produzione del pianeta e ridurre così gli effetti collaterali della coltivazione del suolo. Immaginate come reagiscono i contadini arretrati quando le loro tradizioni e i loro metodi, immutati da generazioni, scompaiono all'improvviso... Ogni cambiamento è accolto con i forconi. Temo che qualcuno stia sfruttando la miopia della plebaglia per colpire la Casata Vyatt."
+
+### u038908
+"Xenos? Su Janus? Quale orrore si annidava proprio sulla nostra soglia! Ho con voi un debito che non potrà mai essere ripagato, Vostra Signoria!" {n}Vistenza si esibisce in un profondo inchino davanti a te.{/n}
+
+### u038909
+{n}Vistenza serra le labbra sbiancate in una linea sottile.{/n} "Suppongo che abbiate avuto solide ragioni per prendere una simile decisione..."
+
+### u038910
+"Bene, allora. Ora che la fonte del sentimento ribelle è stata eliminata, credo che possiamo passare ad altre questioni..."
+
+### u038911
+{n}Vistenza scambia un'occhiata con la sua dama di compagnia, in piedi accanto a lei. La dama lancia verso di te uno sguardo rapido e spaventato e abbassa in fretta gli occhi.{/n}
+
+### u038912
+"Eccellente! Non perdiamo altro tempo, dovremmo discutere di cosa Janus possa offrire ora che il problema dei ribelli è stato risolto."
+
+### u038913
+"Una deplorevole dimostrazione di debolezza, Rogue Trader." {n}L'aria attorno a Heinrix comincia a crepitare di scariche elettriche.{/n} "In nome dell'Inquisizione, io condanno voi, Vistenza Janus Vyatt ab Aram af Koronus, a morte."
+
+### u038914
+"Di cosa state parlando, Vostra Signoria?"
+
+### u038915
+{n}Jae si sporge in avanti, incuriosita.{/n} "La magrezza e la statura alta sono caratteristiche comuni persino tra i nati nel vuoto, mia cara governatrice. Questo non li rende mutanti. E allora, di grazia, cosa trovate di così sgradevole nell'aspetto di questa... Yrliet?"
+
+### u038916
+"Cosa? No! Custodi! Custodi!"
+
+### u038917
+"E prima che mi offendiate le orecchie con altre accuse o ammonimenti morali... ricordate chi ha servito con dedizione la vostra dinastia per tutti questi anni. Ricordate chi ha dedicato la propria vita a trasformare Janus nella principale fonte di ricchezza del vostro protettorato. Ricordate a chi la vostra predecessora affidò uno dei suoi mondi più preziosi, senza timore di tradimenti o congiure! Senza di me, senza il mio servizio, il mio sacrificio, Janus non sarebbe nulla!"
+
+### u038918
+"Una delle mie dame di compagnia, Amelia. Amelia svolge mansioni di segreteria e mi aiuta a restare in contatto costante con quelle famiglie che sono più responsabili della produttività e della prosperità di Janus. Mi fido ciecamente dei miei consiglieri e, col tempo, Amelia è diventata non solo una fedele compagna, ma quasi la mia ombra! Perderla sarebbe come perdere la mia mano destra!" {n}Vistenza ride e rivolge ad Amelia un cenno di incoraggiamento.{/n}
+
+### u038919
+{n}Vistenza rabbrividisce al ricordo.{/n} "I movimenti strani. Gli sguardi strani. Gli occhi anormalmente grandi su un viso distorto in modo innaturale. Le orecchie a punta..."
+
+### u038920
+{n}Jae solleva un sopracciglio con aria significativa.{/n} "Ho delle novità per te, shereen... ma sono solo per le tue orecchie. Te le dirò quando incontreremo il nostro misterioso nuovo alleato."
+
+### u038921
+{n}La dama di compagnia dietro Vistenza brandisce una lama ricurva.{/n} "Traditrice! Il Principe ha visto il tuo tradimento: puoi morire insieme al Mercante, Vistenza!"
+
+### u038922
+"Come desiderate, Vostra Signoria. Mi è sgradito farlo notare, ma sono ancora agli arresti, Vostra Signoria, e difficilmente potrò adempiere ai miei doveri in simili condizioni. Propongo che, innanzitutto, pronunciate il vostro giudizio finale sul torto che vi ho fatto e sul tipo di punizione..."
+
+### u038923
+"Grazie, Vostra Signoria! La vostra clemenza non conosce limiti!"
+
+### u038924
+"Che insensato, pseudoscientifico ciarpame..." {n}Vistenza tace.{/n} "A volte posso definire Janus un bambino indisciplinato, ma un pianeta con un'anima? Una nozione ridicola..."
+
+### u038925
+"Farò in modo che sia fatto, Vostra Signoria... ma devo avvertirvi che un fardello di tale entità dissanguerà Janus. Spero che presto scambierete la vostra furia con la clemenza."
+
+### u038926
+"Giungle? Gli effetti dei cambiamenti sono arrivati a tanto? Ma secondo le mie valutazioni i biomi avrebbero dovuto essere preservati intatti come future terre arabili!"
+
+### u038927
+"È davvero imbarazzante ammettere che persino Vladaym, che azhi si porti quell'uomo, sa svolgere il suo lavoro di Liege di Footfall meglio di quanto Lady Vyatt sappia tenere a bada il suo mondo."
+
+### u038928
+"Bene, in tal caso ordinerò subito l'apertura delle mie riserve personali e vi fornirò il meglio che questo mondo possa offrire!"
+
+### u038929
+{n}Amelia si china in una profonda riverenza.{/n} "Crogiolarsi nella luce della vostra grandezza è un vero onore, Rogue Trader!"
+
+### u038930
+{n}Vistenza diventa bianca come un lenzuolo. A malapena riesce a pronunciare le parole a denti stretti:{/n} "Sa... sarà f-fatto, Vostra Signoria."
+
+### u038931
+{n}Vistenza si sporge in avanti.{/n} "Janus è un mondo straordinario, sia per il suo vasto potenziale sia per il lavoro svolto per trasformarlo in un mondo agricolo. La Casata Vyatt governa su Janus da molte generazioni e ogni nuovo governatore ha contribuito, senza eccezione, alla domatura del pianeta."
+
+### u038932
+"Io... io..." {n}Vistenza tace, e poi grida all'improvviso, cadendo in ginocchio. Vedi una macchia di sangue allargarsi lungo la sua schiena.{/n}
+### u038933
+"Se vi riferite a quelli della nostra cerchia, lasciate che vi assicuri che sul mondo ci sono abbastanza famiglie nobili da tenere a bada la noia. Ospito spesso degli invitati, Vostra Signoria, e i miei servitori organizzano intrattenimenti adatti: dai concerti da salotto alle esecuzioni private dei traditori che infrangono la legge imperiale."
+
+### u038934
+"Vostra Signoria! Ma... non ho idea di cosa stiate dicendo!"
+
+### u038935
+"I mon-keigh non possono domare i Lilaethan." {n}Il sussurro di Yrliet è pieno di rabbia e di disprezzo malcelato.{/n} "La vostra razza umana tormenta questo mondo da ere. Lo perverte, cerca di scolpire la propria esistenza su un pianeta già perfetto. Siete voi gli unici bambini capricciosi e testardi, qui."
+
+### u038936
+{n}Vistenza non bada ai sussurri di Yrliet. Ci sono poche persone in questo palazzo interessate al parere della servitù.{/n}
+
+### u038937
+"Io... non mi sono mai goduta simili intrattenimenti, prima d'ora." {n}Cassia ti rivolge uno sguardo speranzoso, poi abbassa timidamente gli occhi.{/n} "È un vero peccato che non abbiamo tempo per i concerti da salotto. Comincio a essere piuttosto stanca delle manifestazioni di spargimento di sangue: è praticamente la stessa scena ogni volta che atterriamo da qualche parte."
+
+### u038938
+"Quando saremo di nuovo a Footfall, ricordami, mia bellezza incoronata dal pallido volto, di portarti a un 'concerto' di un certo tipo in un certo 'salotto'. Con danze private e vini inebrianti."
+
+### u038939
+"I colori guizzano di qua e di là come ombre spaventate. I colori sanno... sanno di essere il velo che sta tra l'anima e la verità. Se il velo cade, tutto diventerà rosso e viola. Anche adesso... vedo già il viola cupo filtrare."
+
+### u038940
+{n}Anche la dama di compagnia di Vistenza, in piedi accanto a lei, si piega in un inchino servile, mentre allunga una mano per offrire un tocco rassicurante a quella di Vistenza, la quale la ritrae all'istante.{/n}
+
+### u038941
+"Una spiegazione indegna della governatrice del mondo." {n}Una sottile linea compare tra le sopracciglia aggrottate di Cassia.{/n} "Vi aspettate di essere ricompensata per un servizio fedele e vi vantate di un sacrificio che non avreste mai dovuto compiere. Il mondo vi ha voltato le spalle, Vistenza. E ora lo ha fatto anche il Dio-Imperatore."
+
+### u038942
+"Quale altra prova ti serve, elantach? La mon-keigh ha confessato la sua opera."
+
+### u038943
+"Le vostre empie azioni non resteranno impunite, eretica!"
+
+### u038944
+{n}Sussulta quando nota Kibellah al tuo fianco.{/n} "Una cultista della morte? C-credo che... che inaspettato... Qualcuno deve forse subire una severa punizione in nome dell'Imperatore?"
+
+### u038945
+"Qualcuno sempre. Quanto a chi e quando, lo dirà l'Imperituro." {n}Kibellah risponde con dignità, apparentemente ignara di quanto suonino sinistre le sue parole.{/n}
+
+### u038946
+"Tradire i miei soci? Dimenticare il mio dovere verso la nostra famiglia?" {n}Gli occhi di Vistenza ardono come carboni ardenti.{/n} "Mi dispiace che non siate in grado di cogliere la piena grandezza dei poteri che si sono sottomessi al mio volere, Vostra Signoria. Mi dispiace molto, molto. Custodi! Uccidete il Rogue Trader!"
+
+### u038947
+"Stimato Arbitratore! C'è stato qualche problema con l'ultima spedizione della decima da Janus?"
+
+### u038948
+"La decima è stata consegnata per intero, venti cicli planetari fa. In altre parole, esattamente in orario, Governatrice Vyatt." {n}Non c'è alcun segno di approvazione nelle aride parole del Proctor.{/n} "Sono qui per altre questioni."
+
+### u038949
+"I campi di Janus sono fertili grazie ai miei sforzi. I vostri sudditi hanno già iniziato la loro trasformazione in servitori perfetti che non mettono mai in dubbio e non si stancano mai! Io sono l'esempio che ogni persona nobile di questo mondo si sforza di emulare! E non nascondo avidamente la mia perfezione dentro di me: la elargisco a chi non riesce a raggiungerla senza il mio aiuto!"
+
+### u038950
+{n}Facendo lampeggiare il visore, Pasqal osserva con una nota di curiosità,{/n} "Questo oggetto è di notevole interesse. Stimo la probabilità di sopravvivenza di una procedura di rimozione al 26 per cento."
+
+### u038951
+"Perché avete aspettato fino ad ora per segnalarlo? La decima di Janus include persone: se pensate che l'Imperium sia interessato ai vostri cosiddetti 'lavoratori potenziati', vi sbagliate."
+
+### u038952
+"Non preoccupatevi, Proctor, trasferisco agli Arbites solo carichi di persone comuni. Conosco la legge e non oserei mai attirarmi la vostra ira."
+
+### u038953
+"Fare la vittima innocente non servirà. Governatrice Vyatt, sono stati sollevati sospetti di eresia contro di voi: avete esattamente una sola occasione per confutarli."
+
+### u038954
+{n}La mascella di Solomorne si contrae, il suo sguardo freddo e pesante conficcato nella governatrice.{/n} "Colpevole."
+
+### u038955
+"Esattamente, Vostra Signoria, perché il lacerax si trova solo qui su Janus. I combattimenti tra bestie cibernetiche erano molto popolari su Idex, e Ruoldo portò con sé una grande collezione quando divenne Governatore di Thassera. Che peccato che sia stato assegnato a quel mondo dimenticato: purtroppo, la comunicazione tra noi si interruppe di conseguenza. Non incontrai mai Ruoldo di persona, ma corrispondere con lui fu un vero piacere."
+
+### u038956
+"Il mio collega Nuncius è vivamente interessato a discutere i risultati ottenuti con i nostri stimati colleghi tra i Magos Biologis... E io sostengo con fervore la sua iniziativa." {n}Il Manipulus fissa intensamente Vistenza.{/n} "Dopotutto, la ricerca metagenomica viene condotta sotto gli auspici del Cult Mechanicus, non è così?"
+
+### u038957
+"Oh, i vostri dubbi sono del tutto infondati, Genetor. La famiglia Gravaz è ben esperta di tali complessità e possiede tutte le autorizzazioni pertinenti."
+
+### u038958
+{n}La governatrice non si preoccupa di nascondere il disgusto che per un momento filtra nella sua voce:{/n} "'Procedura di rimozione'... È solo un altro modo di dire 'tentato assassinio', non è vero, stimato Magos? Se mi sparaste al petto, la probabilità di sopravvivenza sarebbe più o meno la stessa."
+
+### u038959
+{n}Vistenza china il capo.{/n} "Vi sono immensamente grata per il vostro aiuto, Vostra Signoria."
+
+### u038960
+"Vi assicuro che, non appena i piloti smetteranno di diffidare dei porti e i lavoratori non temeranno più il turno successivo nei campi, Janus ripristinerà prontamente tutte le spedizioni di rifornimenti! Vi sono immensamente grata per il vostro aiuto, Vostra Signoria!"
+
+### u038961
+"Da chi? Dai ribelli? Da quelli che hanno cercato di uccidermi? Davvero intendete credere alle parole infami di quei nemici dell'Umanità?"
+
+### u038962
+"Impartirò tutte le istruzioni necessarie per la preparazione dei rifornimenti. Riceverete rapporti sui primi risultati nel prossimo futuro, {name}."
+
+### u038963
+"Devo informarvi che i vostri metodi per dare la caccia ai ribelli hanno {d|Encyclopedia:Ch2_JanusTyrannical}prosciugato{/d} di lavoratori i nostri impianti di produzione. Tra i perduti non ci sono solo anziani e bambini, ma anche esperti inestimabili che hanno portato nella tomba i segreti del loro mestiere. Temo che tutto ciò che potrete aspettarvi nei prossimi anni siano le decime imperiali e provviste minime per i vostri mondi più importanti."
+
+### u038964
+"Molti complessi agricoli sono stati danneggiati dal {d|Encyclopedia:Ch2_JanusViolent}bombardamento{/d} e un numero significativo di lavoratori è morto. Alcuni insediamenti operai sono stati ridotti a crateri... Temo che ci vorrà molto lavoro per riportare la produzione ai livelli precedenti. Ma fidatevi: i miei subordinati faranno ogni sforzo perché Janus torni a essere utile al vostro protettorato!"
+
+### u038965
+"In nome dell'Imperatore, io, Rogue Trader della dinastia von Valancius, ti condanno, Vistenza Janus Vyatt ab Aram af Koronus, a morte."
+
+### u038966
+"Non permetterò a un reprobo come te di continuare a diffondere il male!"
+
+### u038967
+"Ho visto molti trasgressori come voi che giustificano le proprie azioni con il loro servizio all'Imperium. Sapete qual è la differenza tra voi e i veri giusti? La vostra paura della sofferenza e del dolore. È solo attraverso di essi che possiamo percorrere il Suo cammino. Confessate, e vi mostrerò come."
+
+### u038968
+"Theodora sapeva della tua 'inclinazione'?"
+
+### u038969
+"Se sapeva? Ha posseduto questo pianeta per molti decenni, probabilmente ha notato le... stranezze della nobiltà locale. Ma me lo ha chiesto apertamente, come state facendo voi ora? No. La vostra predecessora era molto più interessata ai rifornimenti e alle decime, che ho fornito senza mai mancare."
+
+### u038970
+{n}Vistenza abbassa il braccio: scorgi un impianto dorato nel suo avambraccio.{/n} "Grazie, Rogue Trader. Un esemplare meraviglioso, meraviglioso, che avrà un posto d'onore nel mio salone. Ora... a che punto eravamo?"
+
+### u038971
+"E va bene, avete vinto. Sarebbe inopportuno da parte mia negare di servire poteri così grandi. Esatto, tutte le aspirazioni e gli sforzi miei e del mio seguito sono dedicati al servizio del Principe dell'Eccesso, il più generoso di tutti i signori del warp."
+
+### u038972
+{n}La serva del Caos scrolla le spalle con noncuranza.{/n} "Ma prima che mi offendiate le orecchie con altre accuse o ammonimenti morali... ricordate chi ha tenuto questo mondo lontano dall'orlo della morte quando la Distesa iniziò a tremare per la furia del warp. Ricordate chi ha servito con dedizione la vostra dinastia per tutti questi anni. Ricordate a chi la vostra predecessora affidò uno dei suoi mondi più preziosi, senza timore di tradimenti o congiure! Janus sarebbe diventato nulla senza di me!"
+
+### u038973
+"Le tue azioni stanno distruggendo il mio mondo, Vistenza."
+
+### u038974
+"Stai distruggendo il tuo stesso mondo, Vistenza. Senza lo Spirito del Mondo, Janus smetterà di dare raccolti."
+
+### u038975
+"Distruggerlo? Sto trasformando questo pianeta selvaggio e barbaro in qualcosa di così perfetto che è semplicemente al di là dell'immaginazione di qualsiasi patetico xenos! Non insultate la mia opera solo perché non è ancora completa!"
+
+### u038976
+{n}Yrliet si volta verso di te, dicendo,{/n} "Cosa?" {n}...prima di accasciarsi a terra, stringendosi il collo.{/n}
+
+### u038977
+"Essere un Aristocratico significa esistere in uno stato superiore dell'essere, senza alcun dubbio. Ciascuno di noi nasce per realizzare un unico scopo supremo: guidare l'Umanità verso la perfezione con il nostro esempio, perfezione che gli esseri inferiori hanno dimenticato nell'incessante ciclo di guerra e servitù. Solo provvedendo ai loro bisogni fisici, intellettuali e spirituali un Aristocratico può dedicarsi pienamente a ciò per cui è nato: le passioni creative, che si tratti delle belle arti, della parola scritta, del governo o di altre sfere più raffinate del sapere mondano. La passione di un Aristocratico è in sé una virtù e il bene supremo.
+Un Aristocratico deve soddisfare questi bisogni con ogni mezzo a sua disposizione. Nulla stimola una mente stanca come un buon amasec, una bella frustata o il godimento dei piaceri carnali con donne, uomini e animali. Nell'ebbrezza della passione, un Aristocratico è libero di torturare o mutilare l'oggetto del suo desiderio. Se il clero disapprova un simile atto, pentitevi, espiate l'apostasia con gioielli e perdonate loro le menti chiuse, poiché solo a un Aristocratico è dato comprendere che tali atti sono al servizio di un grande scopo.
+Se un Aristocratico limitasse deliberatamente i propri desideri in qualche modo e non apprezzasse i doni concessigli come uno degli esseri superiori della natura, in che cosa si differenzierebbe dalla polvere sotto i piedi, dalla bestia senza cervello o dalla plebaglia rozza, bugiarda e inutile? Un simile simulatore è una macchia straziante sulla nostra nobile società, e spetta a ogni Vero Aristocratico riportare all'ovile il nostro fratello perduto oppure stroncare la sua spregevole vita con la stessa gioia con cui schiacceremmo sotto lo stivale un insetto molesto."
+
+### u038978
+Ophelius Delenor, "Appunti sulla natura dell'aristocrazia"
+
+### u038979
+"Vistenza Vyatt è tragicamente perita per mano di perfidi traditori dell'Imperium che si erano infiltrati nella sua cerchia ristretta. Deve essere vendicata: date la caccia ai cospiratori e giustiziateli."
+
+### u038980
+[Menti] "Vistenza Vyatt è tragicamente perita per mano di perfidi traditori dell'Imperium che si erano infiltrati nella sua cerchia ristretta. Deve essere vendicata: date la caccia ai cospiratori e giustiziateli."
+
+### u038981
+"Vistenza Vyatt è stata giustiziata come traditrice dell'Imperium. I suoi complici devono essere trovati e messi a morte immediatamente."
+
+### u038982
+"Non fate domande: le risposte non vi riguardano. Riceverete tutte le istruzioni future dai miei rappresentanti autorizzati."
+
+### u038983
+"Fuori dai piedi! Non ho tempo per voi!"
+
+### u038984
+"Janus era sotto due distinte minacce: la corruzione del Caos nella persona di Vistenza Vyatt e dei suoi associati, e gli xenos che avevano manipolato i servitori dell'Imperium. Mi sono {mf|occupato|occupata} di entrambi."
+
+### u038985
+{n}Il segretario trema di terrore, guardandosi attorno tra la devastazione.{/n} "V-V-Vostra Signoria! Cos'è successo? Dov'è Lady Vyatt?"
+
+### u038986
+"Eresia? Xenos?" {n}Il segretario fa un gesto protettivo nell'aria.{/n} "Il Dio-Imperatore ci preservi! Vostra Signoria, ci avete sicuramente salvati dalla rovina! Inizieremo subito a setacciare il pianeta per estirpare ogni cospiratore e traditore rimasto!"
+
+### u038987
+{n}Il segretario fissa Yrliet con orrore. Il suo volto si contorce, ma sembra incapace di pronunciare una sola parola.{/n}
+
+### u038988
+"Oh no! Eresia! Eresia su Janus!" {n}Il segretario compie su di sé un gesto protettivo.{/n} "Che il Dio-Imperatore vegli su di noi! Qualunque cosa abbia fatto la governatrice, io non ne sapevo nulla! Estirperemo subito chi era in combutta con lei!"
+
+### u038989
+{n}Il segretario si ferma, poi si piega in un profondo inchino.{/n} "Certamente, Vostra Signoria."
+
+### u038990
+{n}Il segretario inizia a parlare, ma ci ripensa e sceglie invece di farsi da parte e chinare il capo al tuo passaggio.{/n}
+
+### u038991
+"La governatrice... uccisa da eretici?" {n}Il segretario compie su di sé un segno protettivo.{/n} "Il Dio-Imperatore ci protegga! Presto estirperemo i responsabili!"
+
+### u038992
+"Spero che questa sia l'ultima volta che sento parlare di cultisti su Janus."
+
+### u038993
+"Dunque, l'eretica è morta. E adesso?"
+
+### u038994
+"Stai cercando di dire che ora per gli Aeldari è aperta la caccia agli umani?"
+
+### u038995
+"Molto probabilmente tornerò su Janus in futuro. Devo tenere d'occhio i miei mondi."
+
+### u038996
+"Lascio Janus. E spero di non rivedere mai più né te né i tuoi simili."
+
+### u038997
+{n}Yrliet abbassa l'arma, ma le sue spalle restano tese. Finalmente riprende fiato, scosta i capelli dal viso con un movimento fluido e ti guarda.{/n}
+
+### u038998
+"Speri invano. I semi che queste progenie lasciano dietro di sé possono germogliare tra cent'anni, in altre persone e in altre azioni. Prego di sbagliarmi."
+
+### u038999
+"Solo se consideri umani i servitori di Colei che ha Sete... Spero di no. L'unica cosa che quelle abominazioni meritano è la morte e il fuoco."
+
+### u039000
+"Sì, sì, dare la caccia ai tuoi simili... e inoltre sulla nave ci sarà qualcuno che spaventa a morte tutti ancora più di me."
+
+### u039001
+{n}Le labbra di Yrliet si piegano in un sorriso amaro.{/n} "Credo che sarebbe la cosa migliore. Per te, mon-keigh. Addio."
+
+### u039002
+{n}Yrliet annuisce pensierosa.{/n}
+
+### u039003
+"Non spetta a voi giudicare indegno nessuno del seguito del Domin, Vil'Jae." {n}Kibellah si volta verso di te e china leggermente il capo.{/n} "Le vostre decisioni sono imperscrutabili, Domin, ma ciononostante la vostra ombra terrà d'ora in poi un occhio vigile sull'impura xenos."
+
+### u039004
+"Dubito che gli xenos siano in grado di eliminare l'eresia dal pianeta, {name}. Ma in una situazione di risorse limitate... Che il Trono mi preservi se mai ripeterò questo sentimento, ma... l'aiuto degli Aeldari è il meglio che possiamo sperare nel breve termine. A meno di una soluzione radicale al problema."
+
+### u039005
+"Il Mandato permette di prendere servitori xenos, ma speravo di non vedere mai nessuno invocare davvero questo... diritto singolare."
+
+### u039006
+"Hai fatto il tuo dovere, elantach. D'ora in poi i Lilaethan hanno una speranza per il futuro: un futuro senza Sai'lanthresh e i suoi seguaci. Questo mondo deve ancora essere purificato, ma c'è un tempo per ogni cosa. Ora è il momento di ringraziarti." {n}Yrliet china leggermente il capo.{/n}
+
+### u039007
+"Oh, shereen... Prego l'Eccelso che il tuo buon cuore non sia spezzato dalla nera ingratitudine di coloro che accogli nel tuo seguito. La mia unica consolazione è che questa xenos è ancora un po' diversa dalla maledetta feccia che infesta l'Umanità nella Distesa di Koronus."
+
+### u039008
+"Non c'è dubbio che la nostra visita abbia... agitato gli abitanti di questo luogo. Ma è improbabile che la loro devozione a Colei che ha Sete superi il timore della tua autorità, qualunque sia il suo fondamento nella tua società. Non hai nulla da temere."
+
+### u039009
+"Uno xenos nel seguito di un Rogue Trader è un precedente accettabile. Sebbene altamente indesiderabile e carico di pericoli."
+
+### u039010
+"Se ti importasse davvero dell'elantach, non seguiresti {mf|lui|lei}: ti saresti gettato nell'abisso molto tempo fa. Sei una piaga, e le fauci di Sai'lanthresh si spalancano dentro di te. Non parlarmi di pericoli, tu, un mon-keigh che non ha idea di con cosa sta giocando!"
+
+### u039011
+"Ammettilo, sei in soggezione davanti a una figura tanto illustre, la cui fama si è diffusa fino a quel luogo dimenticato che è la Distesa di Koronus."
+
+### u039012
+"Theodora von Valancius è morta. Ora io sono a capo della dinastia."
+
+### u039013
+"Spero che il mio arrivo al posto di Theodora non ti abbia deluso troppo."
+
+### u039014
+"Finiamola con i convenevoli, Governatrice Vyatt, e passiamo allo scopo della mia visita."
+
+### u039015
+{n}Una nobildonna riccamente vestita, con un opulento abito di seta, ti osserva con aria d'attesa, poi china con grazia il capo. Impianti tempestati di gemme sporgono dalle sue braccia e dal collo.{/n}
+
+### u039016
+"Vi do il benvenuto a nome della nobile Casata Vyatt ab Aram. Il mio nome è Vistenza Janus Vyatt ab Aram af Koronus. Per grazia dell'Imperatore e per volontà del Rogue Trader Theodora von Valancius, servo come governatrice planetaria e comandante supremo imperiale di questo mondo." {n}Vistenza Vyatt solleva leggermente il capo.{/n}
+
+### u039017
+"Che notizia tragica. Farò in modo che il pianeta osservi un mese di lutto—"
+
+### u039018
+"Niente affatto, Vostra Signoria. Al contrario, sono lieta, dopo tutti questi anni, di accogliere di nuovo nel mio mondo—"
+
+### u039019
+"Non oserei trattenervi più del necessario, Vostra Signoria. Se posso invitarvi—"
+
+### u039020
+"A dire il vero, il vostro arrivo al posto dell'illustre Lady von Valancius è del tutto inatteso."
+### u039021
+{n}La governatrice schiude le labbra per la sorpresa e le sue guance si arrossano.{/n} "Oh! Ma certo, {d|Encyclopedia:CharGen_MOT_Glory}sì{/d}, Vostra Signoria, sono davvero incantata—"
+
+### u039022
+{n}Vistenza Vyatt si volta verso Abelard.{/n} "E salute a voi, nobile Werserian. Sono passati anni dalla vostra ultima visita a Janus. Sono lieta di rivedervi."
+
+### u039023
+"È un buon segno quando il Siniscalco di un Rogue Trader non visita un pianeta suddito per molto tempo. Non è forse così, Lady Vyatt? Significa che la governatrice si occupa di ogni faccenda e che il Siniscalco non ha bisogno di interferire."
+
+### u039024
+{n}Vistenza emette una risata melodiosa.{/n} "Sento un elogio in queste parole e vi ringrazio per esse." {n}Si volge ancora una volta verso di te.{/n}
+
+### u039025
+"Ora conducimi dalla tua padrona, inetta feccia."
+
+### u039026
+"Togliti dalla mia vista: troverò la strada {mf|da solo|da sola}."
+
+### u039027
+"Sto bene. Non posso dire lo stesso degli aggressori."
+
+### u039028
+[Uccidi l'ufficiale] "Branco di incompetenti, inetti, inutili pezzi di merda di grox! A cosa servite, se posso essere {mf|attaccato|attaccata} nella tenuta stessa della governatrice?"
+
+### u039029
+"Dovreste essere tutti frustati per una simile negligenza! Chi erano e come sono riusciti a entrare nella tenuta della governatrice?"
+
+### u039030
+"Dov'è andata la Governatrice Vyatt?"
+
+### u039031
+"Va bene. Fai strada."
+
+### u039032
+"Troverò la strada {mf|da solo|da sola}. Fatti da parte!"
+
+### u039033
+"Vostra Signoria! L'Imperatore ci preservi, state bene?"
+
+### u039034
+"Non agitatevi, profano. Ci siamo abituati alla sconcertante trascuratezza dei custodi di ogni mondo che visitiamo." {n}Il vox di Pasqal, dapprima basso, rimbomba di furia alla fine della sua osservazione.{/n}
+
+### u039035
+{n}L'ufficiale cade morto davanti agli occhi sconvolti dei testimoni, che alzano lo sguardo su di te con orrore.{/n}
+
+### u039036
+"La governatrice è al sicuro, protetta da mura e custodi. Vi prego di seguirmi, vi scorterò da lei di persona."
+
+### u039037
+{n}L'ufficiale si rannicchia sotto il tuo sguardo.{/n} "Sono feccia che osa alzare la mano contro la legittima autorità del pianeta... Vi imploro, Vostra Signoria, permettetemi di scortarvi all'interno. La governatrice vi spiegherà tutto!"
+
+### u039038
+"Sia lodato il Trono! Se volete seguirmi, vi scorterò personalmente dalla governatrice, dove avrete la protezione di mura e custodi!"
+
+### u039039
+"Un grigiore pallido strangola questo contadino come un cappio: le sue parole sono cariche di timore per il nostro benessere. Eppure teme ancora di più per il proprio."
+
+### u039040
+"Una domanda straordinariamente tempestiva e, in quanto tale, retorica."
+
+### u039041
+"Li ho visti di nuovo. Creature orribili, innaturali, erano..."
+
+### u039042
+"Zitto! Zitto! Hanno un udito finissimo. Meglio non parlare così dei nuovi favoriti del Rogue Trader."
+
+### u039043
+"È passato un bel po' da quando Vistenza è sparita e queste... creature... hanno cominciato ad apparire nei nostri insediamenti. Mi sorprende che non siano ancora arrivate segnalazioni di crimini contro l'Umanità."
+
+### u039044
+"Forse... non sono qui per farci del male? Per quanto ne so, i complessi agricoli funzionano, i rifornimenti vengono spediti. La vita è... proprio come prima."
+
+### u039045
+Il muro è crivellato di fori di fucile laser. In alcuni punti l'intonaco si è staccato a grossi pezzi.
+
+### u039046
+I corpi sono costellati di fori: ogni ribelle è stato colpito più volte e alcune ferite sono state inflitte dopo la morte.
+
+### u039047
+"Manteniamo la parola, mon-keigh. La Morte si desta, la guerra chiama!"
+
+### u039048
+"La minaccia è stata eliminata, Vostra Signoria. La mia gente ha controllato la zona: potete dare un'occhiata in giro {mf|voi stesso|voi stessa}, se lo desiderate."
+
+### u039049
+"Vi ringrazio umilmente per il vostro aiuto. La mia gente si occuperà dei resti e verificherà che l'edificio sia sgombro."
+
+### u039050
+"Lasciatemi andare! Mi avete mentito, Mercante! {mf|Bugiardo|Bugiarda}!"
+
+### u039051
+"Vi prego, no! Non fatemi diventare un servitore!"
+
+### u039052
+"Grazie, Vostra Signoria. Senza il vostro patrocinio sarei già morto."
+
+### u039053
+"Morte a Vistenza Vyatt!"
+
+### u039054
+"Morte alla governatrice!"
+
+### u039055
+Il luogo sembra essere stato disturbato di recente: la polvere è stata spazzata via dalle pietre, tra le fessure c'è della terra non identificabile e noti diversi graffi sottili sulla superficie.
+
+### u039056
+Sulla pietra biancastra è visibile della terra scura: chiaramente non proviene dal suolo della tenuta. Ne hai già raccolta la maggior parte.
+
+### u039057
+Tracce di terra sono chiaramente visibili sulla pietra biancastra: terra nera con grandi macchie colorate. Prendi un pizzico dello strano terriccio e lo avvolgi in un panno.
+
+### u039058
+"Il Trono mi preservi! Cos'è quello?"
+
+### u039059
+"Guarda! Guarda!"
+
+### u039060
+"Non ho mai visto una cosa simile!"
+
+### u039061
+Nell'acqua si vedono catene o corde con dei ceppi all'estremità.
+
+### u039062
+Nell'acqua si vedono catene o corde con dei ceppi all'estremità. Attraverso il luccichio è visibile anche qualcosa di bianco: un frammento d'osso con segni lasciati da denti affilati.
+
+### u039063
+"Vostra Signoria! Non badate ai corpi: stiamo aspettando che la tenuta sia completamente sgombrata, così potremo liberarci di questa spazzatura!"
+
+### u039064
+Una lussuosa cappella decorata con simboli dell'Imperatore. L'enorme porta è chiusa a chiave.
+
+### u039065
+La cappella è costruita con materiali lussuosi, ma il luogo sacro sembra semiabbandonato: nell'aria non senti odore di incenso bruciato, sulle porte non vedi sigilli di purificazione e non odi preghiere: né voci umane né registrazioni vox.
+
+### u039066
+Contenitori sigillati con insegne imperiali e sigilli della nave mercantile che ha consegnato la merce al pianeta.
+
+### u039067
+Contenitori sigillati marcati con la familiare insegna del Munitorum e con ulteriori sigilli di un mondo forgia a te sconosciuto: le casse contengono armi di alta qualità, probabilmente fabbricate su ordinazione.
+
+### u039068
+"Un attentato! Nella tenuta stessa della governatrice! E nel giorno della visita del Rogue Trader, per di più!"
+
+### u039069
+"Forse è collegato? Sono venuti molti ospiti di alto rango per l'incontro... O forse non miravano alla cara Lady Vyatt, ma al Mercante?"
+
+### u039070
+"Vi prego! Solo un folle completo ricorrerebbe a una trovata così avventata contro la sovrana di questo mondo!"
+
+### u039071
+"La plebaglia ha avuto l'audacia di ribellarsi, quindi chi lo sa? Con tutto il rispetto, Lady Vyatt è stata troppo morbida con questi vermi! Ai tempi di suo nonno, un servo avrebbe temuto di alzare gli occhi su un nobile, figuriamoci la mano!"
+
+### u039072
+Nell'aiuola sono riunite le specie più efficaci della flora locale. Frutti sconosciuti maturano sulle piante potate con cura.
+
+### u039073
+L'acqua che gorgoglia allegramente emana un piacevole fresco.
+
+### u039074
+La fontana è un costoso giocattolo per la nobiltà: al momento ne sgorga acqua pura, ma le tubature aggiuntive indicano la presenza di sifoni separati per vino frizzante e altre bevande.
+
+### u039075
+Sotto gli archi del gazebo regna un silenzio ultraterreno: forse nella cupola è montato un generatore di barriera acustica.
+
+### u039076
+L'edera che copre l'arco emana un profumo delicato e inebriante, sebbene non si vedano fiori.
+
+### u039077
+"La tenuta è sotto controllo! Siete completamente al sicuro, Vostra Signoria!"
+
+### u039078
+"C'è qualcosa che non va, Vostra Signoria?"
+
+### u039079
+"Manteniamo una sorveglianza costante!"
+
+### u039080
+"Troveremo e squarteremo chiunque osi minacciare i nostri illustri ospiti, state certi!"
+
+### u039081
+"Quando si calmerà questa plebaglia senza cervello..."
+
+### u039082
+"Hai visto la mutante far fuori quel bersaglio? I nostri uomini vicino alla governatrice se ne stavano lì a bocca aperta, e lei gli aveva già fatto saltare le cervella!"
+
+### u039083
+"Dillo a me. Mi mette i brividi. È terrificante da guardare, parla in modo strano e sa il fatto suo con un'arma... Ora che ci penso, non avevo mai visto quel tipo di arma. Chissà dove l'ha presa."
+
+### u039084
+"Magari qualcuno del posto se le fabbrica da sé? E senza la benedizione di alcun Tecnoprete, senza dubbio... Bah, eresia su Janus proprio sotto il nostro naso, e dobbiamo pure sopportarla!"
+
+### u039085
+Vox danneggiato con un registro delle conversazioni dei ribelli.
+
+### u039086
+Vox dei ribelli
+
+### u039087
+Le braccia e il viso del defunto sono coperti di piccole pustole che trasudano pus torbido anche dopo la morte.
+
+### u039088
+La pelle sul collo del morto è scolorita e coperta di croste rilevate.
+
+### u039089
+"Più in fretta, più in fretta... Prima snidiamo questo pidocchio, prima possiamo riferire che l'operazione di bonifica è completa."
+
+### u039090
+"Attenti a dove puntate quei tubi. L'ultima cosa che ci serve è una nube di gas velenoso nell'aria sopra la tenuta."
+
+### u039091
+Il palazzo della governatrice risplende di dorature applicate con generosità a tutte le rifiniture metalliche e ai bassorilievi più vistosi.
+
+### u039092
+Il palazzo della governatrice è opulento: le finiture dorate e gli intonaci sembrano rinnovati regolarmente e di frequente, troppo di frequente persino per un edificio situato sulla costa.
+
+### u039093
+"È un onore per noi servire ospiti così illustri, Vostra Signoria!"
+
+### u039094
+"Gradite qualcosa da bere, Vostra Signoria?"
+
+### u039095
+Il servitore guarda oltre te, senza accorgersi della tua presenza.
+
+### u039096
+Le parti meccaniche del servitore producono un sommesso ronzio, di tanto in tanto interrotto da dei clic.
+
+### u039097
+Una guglia decorativa trasformata in fretta in una torre di guardia è un chiaro segno di una situazione turbolenta sul mondo agricolo.
+
+### u039098
+"Non disturbare la mia contemplazione, elantach. Mi serve tempo."
+
+### u039099
+"Questi sono segni di corruzione... non decadimento né malattia... ma come..."
+
+### u039100
+"A proposito della dinastia von Valancius: quando sono state inviate le ultime spedizioni?"
+
+### u039101
+"Quando sono state a Janus per l'ultima volta le navi di raccolta?"
+
+### u039102
+"Cosa hai da dire sull'aiutante della governatrice, Yrliet?"
+
+### u039103
+"Quali sono i tuoi compiti qui?"
+
+### u039104
+"Cosa pensi di Vistenza Vyatt?"
+
+### u039105
+"Cosa sai dell'attacco alla tenuta?"
+
+### u039106
+"Parlami di Janus. Cosa sta succedendo sul pianeta?"
+
+### u039107
+"Di quale teschio parli?"

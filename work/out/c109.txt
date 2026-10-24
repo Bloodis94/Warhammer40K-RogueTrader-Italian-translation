@@ -1,0 +1,896 @@
+### u039391
+"La mente deve essere aperta a ogni forma di Conoscenza. Ti ordino di avviare una verifica. Qualora il tuo resoconto sull'indolenza delle loro menti venga confermato, richiederò la penitenza appropriata."
+
+### u039392
+"L'attuale situazione sul pianeta è valutata come — stabile. Il progresso delle prospettive è valutato come — incoraggiante."
+
+### u039393
+{n}La voce del Tecnoprete si fa all'improvviso scontrosa.{/n} "Rapporto: si sospetta che anche l'attuale dirigenza planetaria sia {d|Encyclopedia:Ch2_JanusEldarGovern}compromessa{/d}. L'ordine di istituire la 'Zona Forestale Riservata di L-Than' limita la nostra capacità di comprensione e verosimilmente serve a proteggere una regione abitata dagli xenos. Indizi circostanziali indicano che i vertici della colonia sono in contatto con queste xenocreature e potrebbero essere sotto il loro controllo. Richiedo un'indagine."
+
+### u039394
+"Perché non hai detto nulla?"
+
+### u039395
+"Che rivelazione inattesa e sospetta."
+
+### u039396
+"Meglio tardi che mai, suppongo. Mostrami la via."
+
+### u039397
+"Preferisco mostrarti la via — verso la tua tomba. Custodi, afferratela!"
+
+### u039398
+"Se uno dei mondi dell'Imperium è in pericolo — sia pure, ti seguirò."
+
+### u039399
+"Ti credo. Fai strada."
+
+### u039400
+"Di quale calamità stai parlando? Stai ancora nascondendo informazioni!"
+
+### u039401
+"Non ti credo. Mi stai attirando in una trappola. Custodi, afferratela!"
+
+### u039402
+"Eccellente — cominciavo ad annoiarmi senza bersagli vivi a cui sparare."
+
+### u039403
+[Attacca] "Sono {mf|stufo|stufa} delle tue bugie!"
+
+### u039404
+"Elantach!" {n}Yrliet ti fa un gesto per attirare la tua attenzione.{/n} "Come un tempo cercasti il mio aiuto, ora io cerco il tuo. È giunto il momento di dissipare le ultime ombre sul nostro cammino."
+
+### u039405
+"Nessun altro sentiero mi era aperto, ma ora i nostri cammini coincidono. E la mia decisione non è stata dettata dal capriccio, bensì dalla ragione, che ora mi impone di essere sincera con la persona che può rimediare a tutto questo."
+
+### u039406
+"Tutto ciò che hai scoperto, tutto ciò che hai appreso dalla tua gente, sono tracce della medesima calamità. Una calamità che oscurerà ogni conflitto e ogni guerra sulla faccia di questo mondo. Tutti i segni erano evidenti, ma io ero qui e i mon-keigh non hanno saputo riconoscere la tempesta in arrivo... Ti prego, seguimi, {name} — devi farlo, se questo mondo ti sta davvero a cuore!"
+
+### u039407
+"Forse la mia ammissione suona così... ma credi almeno a una cosa — ciò che mi spinge ora è molto più importante del mio silenzio di prima."
+
+### u039408
+"Andiamo, elantach. Prego gli dèi che non sia troppo tardi..."
+
+### u039409
+"Hai scelto la strada sbagliata, mon-keigh — la strada del dolore e della disperazione. Addio."
+
+### u039410
+"Grazie, elantach. Devi essere {mf|stato condotto|stata condotta} qui dalla provvidenza, perché... no. È stata solo la tua volontà a portarti qui, e questo è divenuto una benedizione per la Lilaethan."
+
+### u039411
+"Rivelerò la verità molto presto, ma non qui, non nel luogo in cui sembra che il male abbia fatto il suo nido... Abbi pazienza, elantach — e fidati di me."
+
+### u039412
+"Ti prego, frena la tua sete di sangue — finché sono con te, nulla ci minaccerà."
+
+### u039413
+"Non credo che al Rogue Trader servano le tue rivelazioni adesso, xenos... sempre ammesso che tu non stia mentendo anche ora."
+
+### u039414
+"Ti ho nascosto la verità. So molto di coloro che turbano la pace del sovrano locale, e so anche dove si nascondono. Permettimi di mostrarti la via — a condizione che tu mi conduca da loro."
+
+### u039415
+{n}Jae si lascia sfuggire una risatina.{/n} "I tuoi simili di solito se la cavano meglio a contrattare. Offri sempre ciò che non si può ottenere con la tortura o con i troni."
+
+### u039416
+"La xenos crede di poterci dettare le condizioni — Vyatt è davvero una pessima padrona. Continuo a chiedermi perché voglia tenere ai suoi ordini una creatura così indisciplinata."
+
+### u039417
+"Non sei una mutante..."
+
+### u039418
+"Parlerò con te, Yrliet Lanaevyss. Ma tieni le mani dove posso vederle."
+
+### u039419
+"Il Rogue Trader von Valancius non parlerà mai a una feccia come gli xenos come se fossero suoi pari. Quindi, se vuoi vivere, ti rivolgerai a me con il dovuto rispetto."
+
+### u039420
+Hai attaccato Yrliet dopo aver smascherato la sua vera natura.
+
+### u039421
+[Attacca] "Non converso con i nemici dell'Umanità!"
+
+### u039422
+"Hai dieci secondi per togliermi dalla vista la tua faccia, xenos. Da adesso."
+
+### u039423
+"Quindi sei tu la misteriosa aiutante del governatore?"
+
+### u039424
+[Attacca] "Muori, xenos!"
+
+### u039425
+"A dire il vero, l'unica cosa che ho capito è che non hai alcun desiderio di combattere. È una cosa che abbiamo in comune."
+
+### u039426
+"Perché aiuti il governatore?"
+
+### u039427
+"Che cosa sai dei ribelli comuni?"
+
+### u039428
+"Se vuoi, puoi unirti a me. Nessuno degli abitanti oserà guardarti di traverso in presenza del Rogue Trader."
+
+### u039429
+"Perché mi chiami 'elantach'?"
+
+### u039430
+"Le tue risposte non sono particolarmente utili."
+
+### u039431
+"Ho parlato con il Magos che dirige le operazioni sul pianeta. Dice che qualcosa è andato storto in questo mondo — ci sono mutazioni spontanee, attacchi di animali. Forse hai qualcosa da dire in proposito?"
+
+### u039432
+"Il ribelle sopravvissuto ha parlato di strani esperimenti condotti sugli abitanti di Janus. Si dice che le persone vengano portate nella tenuta e non siano mai più viste. Ne sai qualcosa?"
+
+### u039433
+"Ho esaminato i corpi dei ribelli — presentavano tracce di mutazione. È una cosa normale su Janus?"
+
+### u039434
+"Guarda questo teschio. È stato dato al segretario del governatore da uno del seguito del governatore. Sembra che tu e il defunto abbiate una certa somiglianza..."
+
+### u039435
+"Sai chi c'è dietro le rivolte sul pianeta?"
+
+### u039436
+{n}La bizzarra creatura che hai davanti ricorda solo vagamente un essere umano. Corpo allungato, arti sottili, lineamenti affilati — ogni aspetto del suo aspetto è innaturale e alieno. La creatura volta la testa verso di te.{/n} "Yrliet Lanaevyss ti saluta, elantach."
+
+### u039437
+"Ma guarda un po'! Degli xenos — che gli azhi li divorino — che si mescolano agli umani!" {n}Jae inclina la testa di lato.{/n} "Non si credono al di sopra di queste cose, quelli della sua razza? Comunque, questo non cambia il fatto che a fare gli occhi dolci a Vyatt è una xenos, non una mutante."
+
+### u039438
+{n}Heinrix pronuncia alcune parole in una lingua strana — c'è una nota di musicalità in essa, ma la resa dell'Interrogatore è aspra e sgradevole. Dopo aver incrociato lo sguardo dell'essere sconosciuto, Heinrix si volta verso di te.{/n} "Brutte notizie, {name}. Questa creatura non è una mutante come supponevano gli abitanti, ma una rappresentante degli {g|Encyclopedia:Aeldari}Aeldari{/g} — uno degli innumerevoli nemici dell'Umanità. Non dovreste fidarvi di questa creatura. Non comunicate con essa più a lungo del necessario."
+
+### u039439
+{n}Yrliet sembra guardare attraverso di te.{/n} "Elantach."
+
+### u039440
+"Non c'è bisogno di storpiare la mia lingua, mon-keigh — parlo la tua abbastanza bene da conversare con gli elantach senza un traduttore. E dato che hai intuito il mio sentiero, sarò diretta nel parlare."
+
+### u039441
+"{name}, con tutto il rispetto... siete {mf|sicuro|sicura} che sia la decisione giusta? Non sappiamo nulla di questa xenos né del motivo per cui si è insinuata nella fiducia del governatore. Per quanto posso dire, non è particolarmente desiderosa di aiutarci — eppure per qualche ovvio e oscuro motivo ha deciso di prendere parte alla nostra indagine..."
+
+### u039442
+"Wow... o sei la xenos più stupida della galassia, o sei più coraggiosa di un intero reggimento della Guardia Imperiale. Dev'essere un po' di tutte e due, se parli con Sua Signoria il Rogue Trader con quel tono!"
+
+### u039443
+"Sono qui per volere del sovrano di questo popolo. I tuoi ordini non significano nulla per me, elantach."
+
+### u039444
+"Tra i miei simili, il rispetto nasce dalla grandezza, elantach. Sono pochissimi tra la tua gente quelli degni del nostro rispetto. Non cambierò il mio sentiero a favore del tuo — ma potresti ancora guadagnarti la stima che la tua anima cerca."
+
+### u039445
+{n}Yrliet china il capo di una quantità infinitesimale.{/n} "Ho bandito dai tuoi pensieri l'ombra del dubbio riguardo alla mia natura. Ora risponderai alla mia domanda — perché mi hai cercata?"
+
+### u039446
+"Non hai ancora trascorso abbastanza tempo tra gli umani se pensi che le minacce mi renderanno più ben disposta verso di te. La decisione spetta a te, Rogue Trader, ma sia chiaro — eliminerò la tua xenos da compagnia al primo segno di disobbedienza."
+
+### u039447
+"Lo sono, elantach. La mia mano ha parato la morte promessa al sovrano di questo popolo, e ti ho aiutato in battaglia contro i perduti."
+
+### u039448
+"Ma tu non chiedi aiuto, elantach — fai solo domande, le cui risposte sono prive di importanza o avvolte nell'ombra. Esplora questo luogo. Parla con chi sa..." {n}Yrliet esita, poi aggiunge più piano,{/n} "Un compito semplice per te e una sfida insormontabile per me, dato che il mio stesso aspetto suscita paura e sospetto. Quando scoprirai qualcosa, dimmelo. Forse allora le mie risposte saranno utili alla tua ricerca."
+
+### u039449
+"Questo mondo è in pena. Desidero proteggerlo da sofferenze inutili."
+
+### u039450
+"Solo che minacciano l'ordine stabilito. Per questo mondo il rischio è grande, se il sovrano dovesse morire."
+
+### u039451
+{n}Yrliet rimane in silenzio per alcuni secondi, con lo sguardo fisso su qualcosa oltre di te. Poi, dilungando le parole, risponde,{/n} "Sia. Verrò con te."
+
+### u039452
+"Il mondo che chiami Janus fu creato un tempo dalla volontà della mia gente. Ho molto più diritto di voi tutti a stare sulla Lilaethan."
+
+### u039453
+"Sono pronta, elantach. Andiamo."
+
+### u039454
+"La Lilaethan sta esprimendo la sua ira..." {n}Yrliet fa una pausa.{/n} "Per secoli questo mondo ha resistito alla brutalità inflittagli da macchine senz'anima e creature prive di giudizio. Ma ciò che ti ha detto l'uomo-macchina — quello è qualcosa di diverso, qualcosa di più spaventoso. Il pianeta sta combattendo un male che ha messo radici nella sua stessa culla."
+
+### u039455
+"Ho visto dei prigionieri portati alle porte posteriori col favore del buio, ma che ne sia stato di loro non so. E non è affar mio ciò che voi umani fate ai vostri simili..." {n}Yrliet sfiora una gemma scintillante sul petto, come per controllare che sia al suo posto.{/n}
+
+### u039456
+"Questo mondo era puro, finché la vostra razza non l'ha macchiato con la sua presenza. La Lilaethan non possiede simili poteri — dev'essere all'opera un'altra forza."
+
+### u039457
+{n}Yrliet guarda il teschio che hai tra le mani con uno stupore non celato che si muta rapidamente in rabbia.{/n} "Hai ragione, elantach. Oh, Muaran, che abiezione! E questo è il prezzo del vostro destino? Il prezzo del vostro sentiero?" {n}L'Aeldari furente ti guarda e ti volta le spalle.{/n} "Portalo via... ti prego..."
+
+### u039458
+"Perché è questo che sei. Elantach significa straniero dall'oscurità tra le stelle. Siete discesi su macchine dalle ali di fuoco in un tempo oscuro, quando l'aria del pianeta è intrisa di sangue e dolore... Sarai tu a portare la pace alla Lilaethan?"
+
+### u039459
+{n}Heinrix emette un suono di disapprovazione.{/n} "Avventato."
+
+### u039460
+"Devo forse ricordarvi, Maestro van Calox, che il Mandato conferisce ai Rogue Trader il sacro diritto di trattare con gli xenos quando necessario? Quella vostra memoria eccezionale sembra avervi tradito."
+
+### u039461
+"Qui c'è una malevolenza che spinge i tuoi simili sulla via della violenza."
+
+### u039462
+"Elantach... tutto ciò che mi hai detto desta dubbio e allarme nella mia anima. Devo prendermi del tempo per riflettere. Non disturbarmi oltre..." {n}Yrliet si volta, chiaramente gravata dai suoi pensieri.{/n}
+
+### u039463
+"I tuoi tentativi di intimidirmi sono vuoti quanto le menzogne che ti colano dalle labbra. Solo la grazia del Domin si frappone tra la mia lama e la tua gola, xenos."
+
+### u039464
+"L'orgogliosa xenos sente le parole ma non vede la lama che si cela dietro di esse. Bene. Un nemico incauto e troppo sicuro di sé è un nemico di scarsa minaccia."
+
+### u039465
+"I miei giudizi e le mie scelte riguardano me sola, mon-keigh. Se unirmi {mf|al tuo padrone|alla tua padrona} porterà pace alla Lilaethan, allora è la via giusta. Non intralciarmi se tieni al tuo prossimo respiro."
+
+### u039466
+{n}Yrliet ti fissa con i suoi strani occhi, con un'espressione straordinariamente difficile da interpretare. Alla fine inarca un sopracciglio in modo così sottile che quasi non te ne accorgi.{/n} "Ho già incontrato anime come la tua. Percorri un sentiero che ti offre l'illuminazione — un dono raro tra la tua limitata specie."
+
+### u039467
+"La mia anima non ha nulla in comune con la vostra — la tua gente ci chiama xenos, come se fossimo tutti uguali. Sono venuta qui per proteggere la Lilaethan aiutando la governatrice contro i suoi nemici. Mi ascolterai, o ti lascerai accecare dai tuoi precetti?"
+
+### u039468
+"C'è paura nelle tue parole. Sai che cosa sono, e dunque non posso più seguire il sentiero ombroso e devo essere diretta."
+
+### u039469
+"Ma, Domin, questa è... una xenos. I Precetti della Rete ci mettono in guardia dalla loro natura ingannevole e vile. Ci impongono di distruggerli a vista. È una nemica dell'Imperatore Imperituro, ed è guidata da oscuri disegni."
+
+### u039470
+{n}Il volto di Yrliet è imperscrutabile, ma nella sua voce percepisci una strana tensione, come se scegliesse le parole con cura.{/n}
+
+### u039471
+"Ho forse bisogno di un'altra ragione per venire in aiuto di chi ne ha bisogno?"
+
+### u039472
+"Finché siamo su Dargonus, controllerò i rapporti dei segretari e terrò d'occhio i logisti. Il Maestro Danrok fa bene il suo lavoro, ma con lui un po' di sorveglianza fa molta strada."
+
+### u039473
+"Quanto ancora resteremo qui, Rogue Trader? Il Dio-Imperatore esige che i Suoi servitori portino la morte ai nemici, non che se ne stiano dietro le mura!"
+
+### u039474
+"I miei complimenti per il vostro gusto in fatto d'arte: la collezione qui è vasta e interessantissima."
+
+### u039475
+"Oh, quanto tempo è passato da quando mi sono dedicato a un simposio spontaneo di questa natura! Il nutrimento intellettuale che offrite, colleghi, è di immenso valore."
+
+### u039476
+"La mancanza di osservatori su questo mondo ha reso i vostri nobili estremamente compiacenti. Solo oggi ho sentito tre affermazioni che, volendo, potrebbero essere trasformate in motivo di accusa di eresia."
+
+### u039477
+"Ah, la buona vecchia Dargonus... Qui ci si annoia senza Lady Theodora — adorava ravvivare questo posticino sonnolento con un paio di decreti folli e pubbliche fustigazioni di nobili sbalorditi!"
+
+### u039478
+"Che società illustre! Che nobili facoltosi! In effetti varrebbe la pena visitare Dargonus anche senza fare la vostra conoscenza, shereen. Questo mondo offre enormi possibilità di fare affari!"
+
+### u039479
+"Ricordo quando questo posto era diverso — in fiamme, in agonia, annegato nel sangue... Lo preferivo così. Fatemi sapere se vorreste vederlo restaurato al suo antico splendore."
+
+### u039480
+"La mia presenza ha causato un lieve scompiglio tra i ranghi dei servitori dell'Omnissiah assegnati al palazzo. L'analisi dell'esecuzione dei rituali e delle litanie di manutenzione ha prodotto un risultato soddisfacente."
+
+### u039481
+"Un buon drekkar del vuoto, e un equipaggio rispettoso, ma non si può paragonare a una nave dei lupi."
+
+### u039482
+"Le mura della tua casa mi soffocano, elantach. Desidero lasciare questo mondo distorto — alla prima occasione."
+
+### u039483
+Il corpo di questa persona è coperto da escrescenze, croste e ulcere dall'aspetto sgradevole. Sembrano mutazioni recenti.
+
+### u039484
+L'odore dolciastro che proviene dal cadavere sembra strano, e il sangue ha una tonalità insolita.
+
+### u039485
+Lo spirito macchina del cogitatore resta in silenzio nel tentativo di raggiungere i sistemi morti della nave distrutta.
+
+### u039486
+Libri e oggetti di lusso. La legalità di alcuni di essi è dubbia, ma la Navis Nobilite chiude spesso un occhio su simili diversivi.
+
+### u039487
+Il trono del Navigatore. Le impugnature sono estremamente consunte, con segni di unghie ben visibili — testimonianza delle terribili ore passate a lottare contro il potere del warp.
+
+### u039488
+"Non sono... non sono... non sono..."
+
+### u039489
+"...non ho finito con... non ho finito con..."
+
+### u039490
+"...te ancora... te ancora..."
+### u039491
+"Serrate i ranghi! Non lasciate che raggiungano il sarcofago!"
+
+### u039492
+Anche se della pict restano solo frammenti carbonizzati, riconosci che ritrae te, scattata il giorno dell'attacco alla nave e della morte di Theodora.
+
+### u039493
+Pict semibruciata
+
+### u039494
+"Che ne è stato della nave e dell'equipaggio, Hann?"
+
+### u039495
+Hai esortato il Navigatore Hann a togliersi la vita piuttosto che cadere vittima della corruzione.
+
+### u039496
+"Se sei un vero figlio della Navis Nobilite, sai che cosa devi fare. Non lasciare che la corruzione che ti ha toccato divori la tua anima."
+
+### u039497
+Hai giustiziato il Navigatore Hann e l'equipaggio mutato.
+
+### u039498
+[Attacca] "Siete tutti contaminati dal Caos. Morte ai mutanti!"
+
+### u039499
+"Gli affari di un Rogue Trader non vi riguardano. Non angustiatevi con domande inutili."
+
+### u039500
+"Puoi venire con me, ma i resti dell'equipaggio saranno eliminati. Queste persone sono oltre ogni salvezza — sono corrotte dal Caos."
+
+### u039501
+"Quindi il pacco 'bomba del Caos' era destinato a me? Chi è il mittente?"
+
+### u039502
+Hai preso a bordo della nave del vuoto il Navigatore Hann e l'equipaggio mutato.
+
+### u039503
+"Ti porto a bordo della mia nave. Lì la mia parola è legge, e nessuno oserà prendersela con te, nonostante le mutazioni."
+
+### u039504
+"Dov'è ora l'artefatto?"
+
+### u039505
+[Attacca] "Mi hai arrecato un'offesa mortale, che si può lavare solo con il sangue."
+
+### u039506
+"Secondo la legge della Flotta Imperiale, che conosco a fondo, l'autorità suprema su questa nave sono io, non voi, Hann Cassini. Obbedite al Lord Capitano!"
+
+### u039507
+"Non sei stato colpito dalle mutazioni e dalla follia?"
+
+### u039508
+"Non osate accusarmi di collusione con il Caos. Non osate nemmeno suggerirlo."
+
+### u039509
+"Non sono {mf|contaminato|contaminata} dal Caos e non sapevo nulla di questo pacco. Ve lo giuro come Rogue Trader."
+
+### u039510
+"Vorrei comunque dare un'occhiata all'artefatto."
+
+### u039511
+"Rassegnati, Hann Cassini. Non puoi lasciare questa nave. La corruzione della bomba del Caos ti ha colpito, anche se non con la stessa forza degli altri. E tu lo sai, lo capisco dalla tua reazione."
+
+### u039512
+"Potremmo piazzare delle mine in ciò che resta della nave e farla saltare insieme all'artefatto da una distanza di sicurezza. Ho le risorse e le conoscenze per farlo."
+
+### u039513
+"Fidati di me. Prenderò il sarcofago che contiene l'artefatto e lo consegnerò a chi può distruggerlo in sicurezza."
+
+### u039514
+Hai punito il Navigatore Hann per essersi opposto a un Rogue Trader.
+
+### u039515
+[Attacca] "Ti frapponi tra me e ciò che è mio. Morirai per questo!"
+
+### u039516
+{n}Il capo dell'equipaggio della nave devastata si asciuga il sudore dalla fronte con un gesto caratteristico dei {g|Encyclopedia:Navigator}Navigatori{/g} — non con tutta la mano, ma con due dita che si muovono da sinistra a destra e ritorno, per non toccare per sbaglio il terzo occhio. Questo movimento è l'unico segno di stanchezza che si concede. La sua postura è impeccabile, le spalle larghe, lo sguardo dritto davanti a sé — come se non fosse appena uscito da una battaglia estenuante e ti stesse semplicemente salutando sul ponte di comando in una giornata tranquilla.{/n}
+
+### u039517
+{n}Mentre Hann parla, gli altri ti fissano con cupa tensione. Da vicino, vedi chiaramente che ognuno di loro è un mutante. I loro volti e i loro corpi portano il segno di deformità incredibilmente grottesche, le stesse dei pazzi farfuglianti che ti hanno attaccato. Tuttavia, i compagni di Hann sembrano perfettamente lucidi, senza alcun segno di follia.{/n}
+
+### u039518
+"Il disastro si è abbattuto durante il balzo {g|Encyclopedia:Warp}warp{/g}. Non conoscerò mai tutti i dettagli, perché ero impegnato nei miei compiti principali, ma per qualche ragione il capitano ha deciso di aprire il pacco. Ciò, come avrete notato, ha avuto un impatto devastante sull'equipaggio."
+
+### u039519
+{n}Hann si acciglia.{/n} "Il pacco conteneva un artefatto del {g|Encyclopedia:Chaos}Caos{/g}. Una bomba del Caos, se volete. Nel momento in cui è stato rimosso dal suo bozzolo protettivo, l'equipaggio ha cominciato a perdere la ragione e a mutare. I primi a essere colpiti sono stati il capitano e gli ufficiali superiori, ma l'effetto si è diffuso con una rapidità incredibile. Ogni ponte ne è stato consumato, fino all'ultimo. I mutanti infuriati, ormai privi di senno, hanno danneggiato molti sistemi. La nave era in difficoltà e sarebbe stata quasi certamente distrutta se non fossi ricorso a un'uscita d'emergenza dal {g|Encyclopedia:Warp}warp{/g}."
+
+### u039520
+"Le persone che vedete qui sono gli unici sopravvissuti. O meglio, gli unici che sono riusciti a conservare sia la vita sia la sanità mentale. Ho radunato tutti quelli che potevo, ho isolato la fonte del pericolo e ho lanciato un segnale di soccorso. Eravamo alla deriva, in attesa dei soccorsi e respingendo i membri dell'equipaggio impazziti. Poi siete arrivati voi."
+
+### u039521
+{n}Vi rivolge uno sguardo indagatore, poi china il capo.{/n} "Vi chiedo perdono, Vostra Signoria. Ho visto con i miei occhi la terribile morte dell'intero equipaggio, sono stato costretto a far uscire la nave dal warp con una manovra d'emergenza, e poi ho dovuto combattere i miei ex compagni, folli e deformi. Sono stanco."
+
+### u039522
+"Be', dipende — vedete, io sono nato mutante." {n}Hann sorride, cupo e stanco.{/n} "I Navigatori sono addestrati a resistere all'influenza del Caos, e io l'ho fatto, per quanto ho potuto. Ma sarò franco con voi — non posso essere certo di averla evitata del tutto. Non ci sono stati segni visibili. Per ora."
+
+### u039523
+"Per quanto ne so, l'ordine è venuto da Kunrad Voigtvir, il Maestro dei Sussurri nel seguito del Rogue Trader. È probabile che abbia organizzato la consegna, di persona o tramite intermediari."
+
+### u039524
+"Tuttavia, il mittente voleva che tutto questo," {n}Hann indica con un gesto ampio la distruzione e i cadaveri dei membri dell'equipaggio attorno a lui,{/n} "accadesse alla vostra nave, non alla nostra."
+
+### u039525
+{n}La stanchezza e la tensione nella postura di Hann hanno finalmente la meglio su di lui. Il capo gli cade in avanti e si strofina di nuovo la fronte.{/n} "Fisso gli occhi del warp da quando ho memoria, eppure non ne sono mai stato così vicino. Ci sono volute tutte le mie forze per tenerlo a bada. Ma per quanto tempo ancora potrò resistere? Non voglio impazzire e diventare come gli altri."
+
+### u039526
+"Fisso gli occhi del warp da quando ho memoria. Posso combatterlo!" {n}Nella voce di Hann ci sono orgoglio e distacco.{/n}
+
+### u039527
+{n}Le tue parole fanno riflettere Hann, ma sembra convinto. Si rilassa un poco, poi chiede — con cautela, come per saggiare il terreno,{/n} "E io e l'equipaggio? Ci porterete con voi?"
+
+### u039528
+{n}La tensione nella sua postura e nel suo sguardo si fa ancora più evidente.{/n} "L'ho riposto in un sarcofago protettivo, più affidabile del precedente contenitore. Purtroppo un artefatto potente come questo non poteva essere distrutto in queste circostanze — o meglio, non avevo alcuna garanzia che non ci disintegrasse tutti e non ci disperdesse nello spazio vicino per diverse ore luce. Ma una volta che saremo fuori dalla nave, troverò senz'altro un modo per distruggere quella cosa abominevole."
+
+### u039529
+{n}Il sospetto cresce negli occhi di Hann.{/n} "Volete vedere il gingillo che ha quasi spazzato via un'intera nave? Perché? Ho visto abbastanza da impedire a chiunque altro di avvicinarsi a esso. Darò la vita, se necessario, per impedire che quella cosa faccia del male ad altre persone."
+
+### u039530
+{n}Hann non sembra mentire. È impossibile valutare fino a che punto l'artefatto abbia influito su di lui.{/n}
+
+### u039531
+{n}Hann solleva di scatto il mento.{/n} "Questa è la mia gente. Abbiamo vissuto insieme questo incubo. Sono responsabile di loro. O lasciamo tutti questa nave, o nessuno."
+
+### u039532
+"Ci ha abbandonati — tutti ci hanno abbandonati!" {n}Vedi paura e disperazione negli occhi dei mutanti, ormai senza guida. Tremando, afferrano le armi.{/n}
+
+### u039533
+"Grazie." {n}Hann ti saluta militarmente prima di aggiungere,{/n} "Lord Capitano."
+
+### u039534
+"Una scelta nobile..." {n}sussurra Argenta. I suoi occhi sono spalancati e lucidi di dolore.{/n} "Ha scelto la morte piuttosto che lasciare che la corruzione lo consumasse del tutto."
+
+### u039535
+"Lady Navigatrice, che incontro inatteso e piacevole, date le circostanze." {n}Hann china con garbo il capo verso Cassia.{/n} "Non ho avuto l'onore di fare personalmente la vostra conoscenza, ma naturalmente conosco l'emblema della Casata Orsellio. Come sta l'onorevole reggente?"
+
+### u039536
+"Cassia Orsellio." {n}Fa un cenno del capo, riservato.{/n} "La cordialità non nasconderà la gelida freddezza delle vostre parole, Navigatore Hann. Tuttavia dirò al Reggente Aaronto che vi siete informato sulla sua salute. Potete porgere i miei migliori saluti al {g|Encyclopedia:Novator}Novator{/g} Cassini. E ora mettiamo da parte i convenevoli. Sono certa che il Rogue Trader vorrà farvi qualche domanda."
+
+### u039537
+"Che cosa dite?" {n}La solitamente riservata Cassia ti fulmina con lo sguardo.{/n} "Il Rogue Trader ha una così scarsa opinione del sangue della Navis Nobilite? Se la corruzione dell'Immaterium potesse spezzare così facilmente la nostra volontà e mutilare la nostra anima, l'Imperatore non ci avrebbe mai affidato il nostro sacro dovere!"
+
+### u039538
+{n}Hann fa una pausa, poi aggiunge con franchezza, quasi con sfrontatezza,{/n} "La vostra reazione suggerisce che non vi aspettavate un pacco di questo genere. È bene saperlo. Mi ero quasi convinto che il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} stesse collezionando deliberatamente artefatti del Caos."
+
+### u039539
+{n}Il volto di Abelard diventa di un rosso cupo.{/n} "Quel maledetto traditore ci ha preceduti su Dargonus e ora è libero di agire impunemente! Non mi sorprenderebbe scoprire che questa sia opera di stregoneria — altrimenti come avrebbe potuto raggiungere il mondo in così poco tempo?"
+
+### u039540
+"Un eretico investito di un potere legittimo e le cui ultime attività restano un mistero per tutti... Credetemi, {name}, un individuo come il vostro ex Maestro dei Sussurri non si fermerà all'invio di un artefatto del Caos nei suoi tentativi di destabilizzare il vostro protettorato."
+
+### u039541
+{n}Hann esita per un po', combattuto tra dovere e orgoglio. Poi china il capo.{/n} "Io appartengo alla Navis Nobilite e dunque non rispondo alla Flotta Imperiale... eppure non posso disobbedire al detentore del più alto titolo della flotta di Dargonus. Sbarcherò dalla nave con voi..."
+
+### u039542
+"I miei omaggi, Vostra Signoria. Non c'è bisogno di presentazioni — conosco di vista gli eredi della stirpe dei von Valancius. Sono Hann della Casata Cassini, il Navigatore di questo vascello e, in quanto ufficiale superstite più alto in grado, ho assunto il comando dopo l'incidente."
+
+### u039543
+"Questa nave è assegnata al porto di Dargonus. Qualche tempo fa, al capitano fu ordinato di consegnare un pacco. Urgentemente, a mano — a voi, Vostra Signoria. Ci è stata mostrata persino una {g|Encyclopedia:Pict}pict{/g} del vostro volto." {n}La voce del Navigatore sembra calma. Eppure c'è tensione nei suoi occhi, che sono puntati su di te.{/n}
+
+### u039544
+"Fidarmi del destinatario di quel maledetto pacco? Rogue Trader o no, mi chiedete troppo. No, o vedrò di persona distrutta quell'abominio, o non lascerò questa nave."
+
+### u039545
+{n}Hann impallidisce, ma solleva la testa. Dopo una pausa di un minuto, dice con voce roca,{/n} "Avete ragione. Ho lottato troppo a lungo contro l'inevitabile."
+
+### u039546
+"Vi chiedo perdono. Sono troppo stanco per parlare con diplomazia."
+
+### u039547
+{n}Tutto indica che Hann dice la verità. Ma noti anche chiari segni di quanto gli sia difficile lottare contro la corruzione. È estremamente stanco, praticamente sfinito.{/n}
+
+### u039548
+{n}Qualcosa che somiglia a una cupa disperazione affiora per un istante nei suoi occhi. Ma annuisce.{/n} "Come desiderate, Vostra Signoria."
+
+### u039549
+{n}Hann ti rivolge uno sguardo scrutatore, poi annuisce.{/n} "Dovrò fidarmi della vostra parola, dato che non ho altra scelta. Ma che ne sarà di me? E del resto dell'equipaggio?"
+
+### u039550
+Marinaio mutato
+
+### u039551
+Mutante impazzito
+
+### u039552
+Hai ordinato di minare la nave che trasporta l'artefatto eretico.
+
+### u039553
+[Dai l'ordine di piazzare le mine] "Questa cosa deve essere distrutta insieme alla nave."
+
+### u039554
+[Dai l'ordine di piazzare le mine] "Abbiamo risorse e conoscenze sufficienti — distruggeremo questa cosa insieme alla nave."
+
+### u039555
+[Apri il contenitore]
+
+### u039556
+Hai recuperato l'artefatto eretico dalla nave morta.
+
+### u039557
+[Prendi l'artefatto insieme al contenitore]
+
+### u039558
+[Continua a ispezionare]
+
+### u039559
+{n}Il contenitore è ricoperto da un fine ornamento di simboli, tra i quali spiccano il sigillo della {g|Encyclopedia:NavisNobilite}Navis Nobilite{/g} e lo stemma personale della Casata Cassini. Il contenitore è chiuso e sigillato, ma la serratura non sembra particolarmente complicata.{/n}
+
+### u039560
+{n}Abelard fa una smorfia come per un mal di denti.{/n} "Guardate chi ha deciso di riemergere. Sarà mio onore liberarci di questo 'inseguitore' se mai si troverà a tiro."
+
+### u039561
+{n}Ti rendi conto di essere {mf|caduto|caduta} sotto gli effetti dell'artefatto. Sembra che il tuo vox sia stato incantato con il tuo stesso sangue, che Kunrad ha rubato il giorno del vostro scontro. L'artefatto avrebbe dovuto funzionare come un sifone, prosciugando l'anima di chi apriva il contenitore e di tutti coloro che gli stavano intorno — ma l'equipaggio della sfortunata nave ha subito il peso maggiore dell'attacco. Gli effetti residui dell'artefatto non sono abbastanza forti da farti un danno serio.{/n}
+
+### u039562
+{n}Capisci di essere {mf|caduto|caduta} sotto gli effetti dell'artefatto, ma non sei {mf|sicuro|sicura} dei dettagli di ciò che è appena accaduto. Il silenzio rimasto sembra profondo come un pozzo e pieno dello stesso oscuro terrore del buio al suo interno.{/n}
+
+### u039563
+{n}Senti una leggera nausea. Una cacofonia di voci rauche e mormoranti emerge da qualche parte ai margini della tua coscienza, sussurrando parole incomprensibili.{/n}
+
+### u039565
+{n}Mentre tocchi il sarcofago, un leggero brivido ti attraversa. La serratura cede con facilità, ma sembra che la temperatura nella stanza scenda di diversi gradi nel momento in cui il coperchio si apre. Dentro c'è un normale {g|Encyclopedia:Vox}vox{/g}. Una serie di graffi corre lungo l'involucro, formando strani simboli. Minuscole sfere rosse scivolano e rotolano tra di essi — è sangue, che si comporta come mercurio.{/n}
+
+### u039566
+"Sai chi sono. Sai che sono vicino e che non ti lascerò mai in pace. Goditi il potere che mi hai rubato finché puoi. Ma non ho ancora finito con te!"
+
+### u039567
+{n}Il dispositivo ti sembra vagamente familiare. Potrebbe essere il tuo {g|Encyclopedia:Vox}vox{/g}, quello che gli ammutinati ti hanno portato via il giorno in cui Theodora è morta? Sotto il tuo sguardo, le sfere di sangue cominciano a correre freneticamente lungo l'involucro, poi si immobilizzano all'improvviso. Il vox si anima e, attraverso un crepitio roco, pronuncia una serie di brevi frasi. La voce che le pronuncia ti è nota quanto il dispositivo — è la voce dell'ex Maestro dei Sussurri, il tuo rivale e collaboratore del Caos.{/n}
+
+### u039568
+{n}La voce nel vox tace, ma il silenzio dura solo un istante. Poi un coro di voci — centinaia, forse migliaia — esplode dentro la tua testa, ripetendo all'infinito l'ultima frase di Kunrad. Proprio come i mutanti che ti hanno attaccato. Il coro è così forte e feroce che senti i timpani sul punto di scoppiare per la tensione. Raggiunto il crescendo, le voci esplodono in un'agonia di grida di morte e rantoli. Poi tacciono. Senti il sangue che ti martella nelle orecchie.{/n}
+
+### u039569
+"Eh, no. Mettiti in fila. Il mio piccolo amico Kunrad finirà male non appena si farà vedere..."
+
+### u039570
+"Poche parole, ma quante emozioni... Sento l'eco di un'inimicizia profonda, coltivata a lungo. Del tipo che esiste solo tra amanti o consanguinei."
+
+### u039571
+{n}Mentre le pinze dei suoi mecadendrite scattano rumorosamente, Pasqal sibila,{/n} "Lo spirito di questa macchina è stato ferito da qualcosa di ignoto. Lo percepisco nella sua respirazione elettromagnetica. Raccomando una purificazione immediata."
+
+### u039572
+{n}La voce nel vox tace. Un istante dopo, un torrente di voci si abbatte sulla tua sanità mentale, ma non riesce a farti alcun male. Affidandoti alle lezioni apprese nella tua {d|Encyclopedia:CharGen_DH_Signs}vita passata{/d}, svuoti d'istinto la mente da ogni pensiero e il cuore da ogni dubbio per proteggerti dai poteri oscuri. Hai parato il colpo diretto contro di te.{/n}
+
+### u039573
+"L'Adeptus Arbites non riconoscerà mai quell'eretico come sovrano legittimo. Se si mostrerà su Dargonus, metteremo subito in catene il traditore e ve lo consegneremo."
+
+### u039574
+{n}Le celle galvaniche incastonate nel nucleo di Eogunn emettono un vibrio di avvertimento, brillando di una luce blu. Il Manipulus studia i contorni del meccanismo con vivo interesse.{/n} "Lo spirito macchina di questo dispositivo trabocca di emanazioni di una natura a me ignota. Le correnti della Forza Motrice che lo percorrono me lo hanno rivelato. La sua fame di essere ascoltato è davvero immensa! Propongo di compiere un atto esplorativo di comunicazione con lo spirito che abita questo vox."
+
+### u039575
+Un mucchio di corpi mutilati con tendini recisi e ossa frantumate.
+
+### u039576
+I corpi sono appena visibili sotto lo strato di sporcizia, sangue e interiora estratte, ma sembrano donne e uomini in abiti formali e gioielli raffinati.
+
+### u039577
+Sembra che questo custode sia morto prima ancora di poter alzare l'arma.
+
+### u039578
+Il volto e le mani sono contorti in uno spasmo di agonia — gli ultimi istanti della vittima sono stati pieni di tormento.
+
+### u039579
+Il custode morto è inchiodato al suolo con la lama del suo stesso pugnale spezzato — conficcata proprio sotto il mento per assicurarsi che la vittima morisse lentamente soffocata.
+
+### u039580
+"Kae-morag! Non è ancora tempo di ucciderti, mon-keigh. Non hai ancora recitato la tua parte..."
+
+### u039581
+La nobildonna morta fissa il cielo con occhi spalancati. Le sue dita sono state spezzate con cura, e un groviglio di intestini giace sul suo addome squarciato.
+
+### u039582
+Il corpo giace a faccia in giù, con le dita storte aggrappate al terreno. A questa donna è stata spezzata la spina dorsale, poi le è stato permesso di trascinarsi nella vana speranza di fuggire.
+
+### u039583
+Al cadavere mancano occhi, naso e labbra. A giudicare dalla bocca mutilata, anche i denti e la lingua sono stati strappati prima della morte.
+
+### u039584
+Qualcuno ha squarciato il torace dell'uomo e gli ha rivoltato le costole.
+
+### u039585
+Il corpo del governatore è stato sviscerato con maestria — i suoi numerosi impianti sono stati rimossi, dopodiché, a giudicare dalla quantità di sangue, la vittima è vissuta ancora per un po'.
+
+### u039586
+"Maledizione! Siamo arrivati troppo tardi!"
+
+### u039587
+"Gli xenos hanno raggiunto i fuggitivi prima di noi. Dubito che qualcuno di loro sia ancora vivo."
+
+### u039588
+"Tanto dolore nell'aria... Tanta sofferenza vana e vuota intorno a noi..."
+
+### u039589
+"Mi dispiace, {name}, non c'è nulla che possiamo fare per aiutare le persone che hanno tentato di nascondersi qui."
+
+### u039590
+[Spara allo xenos]
+### u039591
+"Ci siamo incontrati sul mondo minerario. Sei uno degli xenos che sono riusciti a scappare."
+
+### u039592
+"Ma guarda, questa bestia sa parlare la nostra lingua!"
+
+### u039593
+"Di che cosa stai parlando?"
+
+### u039594
+"Yrliet mi ha {mf|aiutato|aiutata}. Ora tocca a me aiutare lei."
+
+### u039595
+"Sono {mf|stufo|stufa} di te, xenos. Preparati a morire!"
+
+### u039596
+"Siamo più intelligenti di quanto sembriamo."
+
+### u039597
+[Indica Heinrix] "Il mio amico dell'Inquisizione mi ha presentato alle persone giuste. Puoi ringraziarlo di persona."
+
+### u039598
+"Dispongo di risorse considerevoli."
+
+### u039599
+"Irritante, non è vero? Farsi battere sul proprio terreno."
+
+### u039600
+"Non così in fretta. Ho risposto alla tua domanda. Ora tu rispondi alla mia."
+
+### u039601
+"Perché andare altrove? Ti ucciderò qui."
+
+### u039602
+"Continuo a sentir parlare di un Arconte. Chi è?"
+
+### u039603
+"Che cosa ci fate sui miei pianeti? Perché ci attaccate?"
+
+### u039604
+"Come fai a conoscere il Basso Gotico?"
+
+### u039605
+"Le conversazioni finiscono quando lo dico io!"
+
+### u039606
+"Ho un'altra domanda!"
+
+### u039607
+[Attacca] "Era ora!"
+
+### u039608
+"Siete tu e la tua banda i responsabili del furto del sole?"
+
+### u039609
+"Ci sarò, xenos. Puoi contarci."
+
+### u039610
+"Che il vuoto ti inghiotta, farabutto."
+
+### u039611
+"Di certo ne abbiamo massacrata abbastanza, di feccia xenos come voi, al vostro piccolo ricevimento — non è il genere di cosa che si dimentica."
+
+### u039612
+"Hmm? Oh, hai finito di pontificare? Credo di essermi {mf|appisolato|appisolata} per un secondo — ti dispiace ripetere tutto dall'inizio?"
+
+### u039613
+"Quale relitto pieno zeppo di mon-keigh? Rispondimi!"
+
+### u039614
+"Che cosa sai dei simili di Yrliet?"
+
+### u039615
+"Non sono affari tuoi, feccia."
+
+### u039616
+"So quanto questo mistero pesi su Yrliet. Desidero alleggerire il suo fardello."
+
+### u039617
+"Ho un desiderio ardente di trovare quegli xenos e organizzare una grande caccia."
+
+### u039618
+{n}Lo {g|Encyclopedia:Xenos}xenos{/g} in elaborata armatura nera volta la testa verso di te. Il suo viso sottile e pallido è coperto di tatuaggi e schizzi di sangue. Dopo un istante, le sue labbra sottili si distendono in un sorriso storto e sgradevole.{/n} "Finalmente. Hai impiegato parecchio tempo a venire da me, {g|Encyclopedia:MonKeigh}mon-keigh{/g}." {n}Passano un paio di secondi prima che ti renda conto che l'{g|Encyclopedia:Elucidator}Elucidator{/g} è silenzioso — lo xenos si sta rivolgendo a te in Basso Gotico.{/n}
+
+### u039619
+"Come mai, tra tutti quelli della tua razza, sei {mf|l'unico|l'unica} ad aver scoperto in anticipo i nostri banchetti? Di solito siete tutti così lenti e pigri che i miei simili hanno sempre abbastanza tempo per lasciare il campo di battaglia prima che arrivino i soccorsi. Eppure, ancora e ancora, i tuoi cani si sono messi di traverso sulla strada del Kabal." {n}Fa una pausa, in attesa della tua risposta.{/n}
+
+### u039620
+"Hai rovinato il ricevimento che la nostra povera piccola Tazarra si era data tanta pena di organizzare. Ora è il sogno della Succube trascinarti a Commorragh e fare di te ciò che vuole. Che terribile delusione sarebbe per lei se ti accadesse qualcosa prima di allora... Ma non dobbiamo correre troppo, no? Prima, mon-keigh, lascia che ti osservi bene."
+
+### u039621
+"Sì, mon-keigh. Godi di quei ricordi finché puoi, perché ti farò ancora pentire di quella tua bravata. Ma per ora — per ora approfitterò dell'occasione per studiarti."
+
+### u039622
+"La tua giovialità è poco saggia, mon-keigh. Se solo sapessi chi hai offeso, ti taglieresti la gola all'istante per sfuggire alla punizione. Ma ci sarà tempo anche per questo."
+
+### u039623
+"Parlare la tua lingua mette alla prova la mia pazienza un poco meno che essere costretto ad ascoltare una macchina dei mon-keigh che massacra la nostra. Inoltre voglio che tu comprenda bene ciò che sto per dirti."
+
+### u039624
+{n}Schiocca la lingua.{/n} "Dunque la servi davvero. Molto bene. C'è qualcosa che posso dirti, Yrliet... dopo che avrò finito con questi mon-keigh. Togliti dalla mia strada."
+
+### u039625
+"Piccola bestia ingenua. Oggi non sporcherò le mie lame con le tue viscere. I miei sudditi, invece... saranno lieti di divertirsi con te."
+
+### u039626
+{n}Heinrix abbassa la voce.{/n} "{name}, qualcosa non quadra. Un Arconte non si lascerebbe sfuggire l'occasione di guidare un'incursione e di crogiolarsi di persona nella violenza e nel dolore. Che cosa sta pianificando? È un diversivo per mascherare le sue vere intenzioni? O un tentativo di sbarazzarsi del suo subordinato?"
+
+### u039627
+"Cerchi di convincermi che un mon-keigh, anche un animale da compagnia mon-keigh ben addestrato, sia in grado di percepire i disegni dei {g|Encyclopedia:Drukhari}Drukhari{/g}? Tu e il tuo 'amico' pagherete per questa audacia."
+
+### u039628
+"Suppongo che non arriveranno ringraziamenti."
+
+### u039629
+"E allora? È tutto? Solo l'asserzione che la tua razza non è priva di cervello quanto sembra? Questa risposta non mi soddisfa."
+
+### u039630
+"Suppongo che su questo tu sia {mf|schietto|schietta}. Ma la semplice ricchezza non cambia il fatto della vostra natura debole, miope e carente. No, c'è un altro motivo per cui i mon-keigh sono diventati così all'improvviso così astuti."
+
+### u039631
+"Dai troppo peso alle tue imprese — per quanto insignificanti possano essere."
+
+### u039632
+"Hmph. Molto bene. Divertimi."
+
+### u039633
+"Il mio nome è Marazhai Aezyrraesh. Dracon del Kabal della Reaving Tempest. Prima lama di Lady Yremeryss. Evisceratore di Illiridos, Fiamma del Regno di Barkhag e Massacratore di Carrocius il Pallido."
+
+### u039634
+"Signora del Kabal i cui territori di caccia si estendono in questa regione dello spazio reale. È stata lei a ordinare ai suoi sudditi di sventrare i mondi dei mon-keigh per rifornire di carne le gabbie delle sue arene."
+
+### u039635
+"Perché è così che vanno le cose, mon-keigh. Voi fuggite. Noi cacciamo. Voi morite soffrendo. Noi ci godiamo ogni istante. Quando il tormento immediato perde lustro e cerchiamo il modo di estrarre dalle nostre vittime qualcosa di più squisito, be'... I tuoi simili sono ospiti frequenti nel mio regno, anche se non di loro volontà."
+
+### u039636
+"Una sfortunata necessità. A volte sono costretto a parlare con quelli come te — quando l'eloquenza della frusta non basta."
+
+### u039637
+"Suppongo che non avrei dovuto aspettarmi nulla di avvincente da un mon-keigh. Le tue domande generano noia. La conversazione è finita."
+
+### u039638
+"Oh, mon-keigh. Io non gioco secondo le tue regole."
+
+### u039639
+{n}Lo xenos china la testa con aria pensierosa, ma ciò che cattura la tua attenzione è altro — un movimento appena percettibile delle sue dita nel guanto corazzato. Sta facendo un segnale a qualcuno che si trova alle tue spalle.{/n}
+
+### u039640
+{n}Lo xenos china la testa, chiaramente intento a considerare le tue parole.{/n}
+
+### u039641
+"Rubare il sole? I {g|Encyclopedia:Drukhari}Drukhari{/g} ne sono capaci, e di molto di più, mon-keigh — Commorragh si bagna nella luce di tre stelle rubate dai miei simili. Ma se pensi che io abbia avuto parte in questo o in qualunque altro furto di soli — ti sbagli."
+
+### u039642
+"Splendido, mon-keigh. Bene, ora che l'offerta è stata fatta... devo congedarmi. Spero che tu sappia rivelarti divertente per i miei sudditi, che lascio al mio posto."
+
+### u039643
+"In ogni caso, sono piuttosto stanco dei tuoi tentativi di ritardare l'inevitabile. Di certo anche tu ti sei {mf|spossato|spossata} a inseguirci tra le stelle. Mettiamo fine a tutto questo. Concludiamo questo stallo. Le mie forze contro le tue. Una volta per tutte."
+
+### u039644
+"Desideri trovarlo?" {n}I suoi occhi lampeggiano di oscuro diletto e la sua voce si fa beffardamente compiacente.{/n} "Allora, mon-keigh, ti suggerisco di mandare i tuoi servi oltre il Cinerus Maleficum. Sono certo che torneranno con risultati sorprendenti."
+
+### u039645
+"Trattieni la tua lingua immonda, abominio! Una simile feccia non userà quel tono con {mf|il prescelto|la prescelta} dell'Imperatore!" {n}Abelard è bianco di furia.{/n}
+
+### u039646
+{n}Lo xenos inclina la testa da un lato.{/n} "Perché? Ho mandato un invito — per mezzo del bestiame che abitava questo mondo — e {mf|il 'prescelto' è comparso|la 'prescelta' è comparsa} così docilmente. In che modo le mie parole sarebbero altro che la verità?"
+
+### u039647
+{n}Si volta verso Yrliet con un movimento da serpente.{/n} "Una dei miei simili dal corpo molle. Quale misera offerta ti ha tentata ad abbassarti ad assistere questi animali? O la loro compagnia ti ricorda quella dei tuoi fratelli e sorelle perduti?"
+
+### u039648
+{n}Yrliet si blocca — solo i suoi occhi sgranati tradiscono sgomento e rabbia.{/n} "Che cosa sai dei miei fratelli e sorelle, Oscuro?"
+
+### u039649
+{n}Lascia andare una risata sgradevole.{/n} "Solo che vagano, ciechi e indifesi, derubati della loro casa e della loro speranza... Ma perché lo dico a te? Non è tuo dovere vegliare sui tuoi simili, Reietta?"
+
+### u039650
+{n}Heinrix socchiude gli occhi.{/n} "Che delusione. Questa chiaramente non è Yremeryss, l'Arconte del Kabal che abbiamo avuto il dispiacere di incontrare su Vheabos VI. Ancora una volta abbiamo a che fare con una pedina invece che con la vera radice del problema."
+
+### u039651
+{n}Lo xenos emette un sibilo di irritazione.{/n} "Il piccolo mon-keigh si è ricordato il nome dell'Arconte? Che creatura intelligente sei... Potresti anche diventare un buon animale da compagnia — dopo essere stato addestrato a dovere e privato della tua arroganza fuori luogo."
+
+### u039652
+"Aggiungiamo un altro paio di titoli, che ne dici? Il Fuggiasco di Vheabos VI e l'Insopportabile Chiacchierone di Grantis."
+
+### u039653
+"Quella cosa è perspicace." {n}Nel mormorio di Heinrix senti una sfumatura di preoccupazione.{/n}
+
+### u039654
+"Ed è tutto per impedire alle vostre anime putrescenti di consumarsi nell'ardente corruzione di Sai'lanthresh." {n}Yrliet sputa quasi le parole.{/n} "Giorno dopo giorno, secolo dopo secolo, inseguite il tormento altrui nella speranza che i sussurri di Colei che ha Sete possano finalmente svanire dalle vostre orecchie."
+
+### u039655
+{n}Il Drukhari inclina la testa e guarda Yrliet con finta pietà.{/n} "Parole di chi si è rinchiusa volontariamente in una gabbia di regole e tabù. Dimmi, Asuryani: quale parte di te è vera Aeldari? Ti sei mai lasciata consumare, nella tua vita, da una pura euforia? Hai mai provato una vera passione? Ti invito a unirti a me. Ti inizierò all'arte del dolore e svelerò tutto ciò che i tuoi Sentieri tengono nascosto."
+
+### u039656
+{n}Jae scrolla le spalle senza convinzione.{/n} "Guarda un po'. Una lite di famiglia tra xenos. Almeno in questo ricordano la benedetta Umanità."
+
+### u039657
+"Forse mi sbagliavo, e non è la mia cugina del mondo astronave a seguirti — forse sei tu a servirla? Perché mai un mon-keigh dovrebbe curarsi della sorte di coloro che chiami xenos? Non li consideri — non ci consideri — i tuoi nemici mortali?"
+
+### u039658
+{n}Lo sguardo acuto di Yrliet ti trafigge. Emozioni si susseguono rapide sul suo volto, e una scintilla di luce appare nei suoi occhi.{/n}
+
+### u039659
+{n}Yrliet stringe i pugni. Dopo una pausa, sussurra,{/n} "No, Oscuro. Questo... non accadrà."
+
+### u039660
+"La vostra esitazione dice molto, xenos." {n}La voce di Heinrix è gelida di disprezzo.{/n}
+
+### u039661
+"Allora non ho nulla da dirti."
+
+### u039662
+{n}Lo sguardo sdegnoso di Yrliet ti trafigge.{/n}
+
+### u039663
+{n}Lo xenos sibila con irritazione.{/n} "Non mettere alla prova la mia pazienza, mon-keigh."
+
+### u039664
+{n}Il Drukhari inclina la testa.{/n} "Comincio a simpatizzare con te, mon-keigh."
+
+### u039665
+{n}Jae rabbrividisce.{/n} "Se un Drukhari si prendesse una cotta per me, shereen, saprei di non dovermi aspettare nulla di buono. Sei troppo popolare, persino tra i tuoi nemici."
+
+### u039666
+"Hai dimenticato un titolo, xenos. Il tuo titolo finale e vero: il Morto."
+
+### u039667
+{n}Lo xenos si ferma, rimuginando su qualcosa. Poi continua con l'inconfondibile tono di una stanca noia,{/n} "Ti dirò questo, mon-keigh... So che potresti mentirmi. O potresti persino ignorare chi guida la tua mano. In ogni caso, sono piuttosto stanco dei tuoi tentativi di ritardare l'inevitabile. Di certo anche tu ti sei {mf|spossato|spossata} a inseguirci tra le stelle. Mettiamo fine a tutto questo. Concludiamo questo stallo. Le mie forze contro le tue. Una volta per tutte."
+
+### u039668
+{n}La maschera di compostezza svanisce dal volto dello xenos — sputando una fiorita e veemente tirata, sfodera l'arma.{/n}
+
+### u039669
+"Vaghi tra le stelle, dunque devi conoscere questo luogo. Un'antica distesa dove ancora risuona l'eco dell'agonia stellare. Un luogo che serve da cimitero per vecchie stelle, ancora pieno di emissioni residue e polvere scintillante. Il luogo che ha seppellito il vostro relitto pieno zeppo di deliziosi mon-keigh spaventati e degli orrori che li hanno divorati. La soglia del nostro dominio. La tua razza lo chiama Cinerus Maleficum. È là che le nostre dispute saranno risolte. Il Kabal della Reaving Tempest ti aspetterà, mon-keigh — non venire {mf|disarmato|disarmata}."
+
+### u039670
+"Non fare {mf|lo sciocco|la sciocca}, Rogue Trader. I mon-keigh sanno quando il loro mondo o la loro nave sono pronti per essere mietuti. I mon-keigh si nascondono o tentano di mostrare i denti. In qualche modo, i mon-keigh sanno ciò che sappiamo noi — e sospetto che la ricerca di questa falla debba cominciare da te. Dopotutto, è con te che è cominciata questa serie di rovesci."
+
+### u039671
+{n}Lo xenos si ferma e solleva leggermente il mento, esaminandoti.{/n} "C'è deplorevolmente poco che ti distingua dal resto della tua ottusa specie. Eppure, mon-keigh... eppure sei {mf|diverso|diversa}. Dopotutto, appartieni alla casta dei loro governanti, non è vero? 'Rogue Trader' — è così che ti chiamano? Bene, allora, Rogue Trader, dato che hai comunque deciso di degnare questo incontro della tua presenza, dimmi il tuo piccolo segreto."
+
+### u039672
+{n}Uno strano artefatto sul petto dello xenos lampeggia di un fuoco ultraterreno — e con un movimento abile, schiva il colpo. La sua voce assume un tono beffardo.{/n} "Non ho finito, mon-keigh."
+
+### u039673
+{n}Lo xenos schiocca la lingua.{/n} "Prevedibile. Noioso."
+
+### u039674
+La carica è stata disinnescata in sicurezza.
+### u039675
+La struttura dello xenomeccanismo va oltre la tua comprensione.
+
+### u039676
+Questa bomba produce brevi impulsi elettromagnetici che mettono fuori uso reti elettriche e dispositivi. È abbastanza potente da togliere la corrente a un intero distretto cittadino o a diverse sezioni di una nave del vuoto.
+
+### u039677
+Corpi dilaniati in tute a brandelli recanti le iniziali della dinastia di marinai del vuoto che serve questa sezione.
+
+### u039678
+Interrompi l'alimentazione
+
+### u039679
+A giudicare dai corpi degli xenos, l'equipaggio della nave del vuoto ha combattuto gli incursori con un certo successo.
+
+### u039680
+"Non mettermi fretta! O periremo insieme a loro!"
+
+### u039681
+"Altri mon-keigh? Guardate, miei simili, non vedono l'ora di morire!"
+
+### u039682
+"Guardatemi, Kaela Mensha Khaine!"
+
+### u039683
+"Saziami con il tuo dolore, mon-keigh!"
+
+### u039684
+"Che cosa sta richiedendo tanto tempo con il motore? I mon-keigh sono già qui!"
+
+### u039685
+Anche da dietro la parete spessa metri del reattore, senti il respiro della possente bestia di plasma che mette in moto la nave del vuoto.
+
+### u039686
+[Indica la toppa sulla manica dell'uomo] "Il tuo equipaggio non è assegnato a questa sezione. Spiegati."
+
+### u039687
+"Gettate questo corpo fuori da un portello stagno insieme a tutti gli altri."
+
+### u039688
+"Parlami di queste allucinazioni. Quando sono cominciate?"
+
+### u039689
+"Sei chiaramente ferito in modo grave. Devi essere portato in infermeria."
+
+### u039690
+"Tuo figlio non è qui."
+
+### u039691
+"Qui non ci sono Guardie. Sei a bordo della nave del Rogue Trader... e immerso fino alle ginocchia nel sangue e nelle viscere degli xenos."

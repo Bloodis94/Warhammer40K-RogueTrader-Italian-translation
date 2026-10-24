@@ -1,0 +1,6 @@
+u030033: "Ma siete, nondimeno, un profano." → "Ma siete, nondimeno, {mf|un profano|una profana}." (voi rivolto al giocatore)
+u030033: "Non siete versato nei" → "Non siete {mf|versato|versata} nei" (voi rivolto al giocatore)
+u030054: "è raro il sovrano che" → "è raro {mf|il sovrano|la sovrana} che" (EN {mf|he|she} riferito al giocatore)
+u030063: "di non essere disposto a" → "di non essere {mf|disposto|disposta} a" (giocatore, accordo con {mf|certo|certa})
+u030083: "vi siete {mf|avvicinato|avvicinata}" → "vi siete avvicinato" (il soggetto è Eogunn, PNG maschile)
+u030241: "mio collega:" → "{mf|mio collega|mia collega}:" (Eogunn si rivolge al giocatore)

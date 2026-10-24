@@ -1,0 +1,603 @@
+### u051074
+"Almeno Jae è il tuo vero nome?"
+
+### u051075
+"C'è stato qualcosa su cui non mi hai mentito, Jae?"
+
+### u051076
+"Come ti sei messa in affari con la Kasballica?"
+
+### u051077
+"Molto bene. Grazie per le risposte."
+
+### u051078
+"Sei bellissima, sotto qualunque aspetto, Jae."
+
+### u051079
+"Non credo. Non sei abbastanza determinata per questo fardello."
+
+### u051080
+"Avevi detto di voler riflettere su quello che è successo."
+
+### u051081
+"Hai molti talenti."
+
+### u051082
+"Vorrei vedere la vera te, il più spesso possibile."
+
+### u051083
+"Come se la cava la tua banda, Jae?"
+
+### u051084
+"Fai come ritieni opportuno."
+
+### u051085
+"Hai risorse a sufficienza per diventare un Barone dell'Ombra della Kasballica qui nella Distesa."
+
+### u051086
+"Chi altri potrebbe prendere il posto di Liege di Footfall, se non tu?"
+
+### u051087
+"Con il Mercatum Tabula Officiale puoi essere ciò che vuoi!"
+
+### u051088
+"Perdonate la mia indiscrezione, ma il cuore della stimata principessa è stato rapito da qualche fortunato?"
+
+### u051089
+"Semplice curiosità. Mi piace conoscere ogni minimo dettaglio sui membri del mio seguito."
+
+### u051090
+"Perché eviti di rispondere, Signora Heydari?"
+
+### u051091
+"Mi piace stare con te. Vorrei che passassimo più tempo insieme."
+
+### u051092
+"Continui a usare parole che non capisco. Come chiamarmi 'shereen'."
+
+### u051093
+"Forse ti concederò l'alto onore di servirmi come mia delizia notturna."
+
+### u051094
+"Non ha molta importanza. Lascia perdere."
+
+### u051095
+"Devo sapere chi devo uccidere per liberarmi di un rivale. Uomo o donna."
+
+### u051096
+"Ti invito a cena. Davanti a del buon vino, sono {mf|certo|certa} che troveremo un fertile argomento di conversazione."
+
+### u051097
+"Aspetterò che tu mi riservi un pegno del tuo affetto, mia abbagliante."
+
+### u051098
+"Che ne diresti di andare subito nelle mie stanze? Tra l'altro, ho una vasca per le abluzioni."
+
+### u051099
+"No. Questi complicati giochi di passione non fanno per me."
+
+### u051100
+[Chiedi con timidezza] "Jae Heydari, vuoi essere la mia, ehm, compagna romantica?"
+
+### u051101
+[Inginocchiati] "Mia abbagliante, posso fidarmi che custodisci nel cuore almeno la più piccola goccia di stima per me?"
+
+### u051102
+"Guarda, sono {mf|un uomo semplice|una donna semplice}, e queste schermaglie amorose..."
+
+### u051103
+"C'era qualche affare di cui volevi parlare?"
+
+### u051104
+"Dobbiamo parlare di quello che c'è tra noi."
+
+### u051105
+"Quando verrai finalmente nelle mie stanze?"
+
+### u051106
+"Ti piace stare con me?"
+
+### u051107
+"Metterò fine alla nostra relazione."
+
+### u051108
+"Non ho nulla da aggiungere."
+
+### u051109
+"Vorrei accettare i tuoi ringraziamenti più tardi, senza spettatori."
+
+### u051110
+"Quindi capisci. Bene."
+
+### u051111
+"Suona terribile. Non posso farti questo."
+
+### u051112
+"Ti invito nelle mie stanze."
+
+### u051113
+"Vieni nei miei alloggi oggi, con il nuovo abito che ti ho regalato. Voglio ammirarti."
+
+### u051114
+"Ti aiuterò a ottenere un certificato di mercante."
+
+### u051115
+"Allora, raccontami la tua vera storia."
+
+### u051116
+"Non posso proseguire la nostra relazione dopo questo."
+
+### u051117
+"Credo che abbiamo chiarito tutto. Torna ai tuoi doveri."
+
+### u051118
+"Chi è questa Mercy con cui Danrok ti ha accusata di avere rapporti?"
+
+### u051119
+"Mi hai {mf|cercato|cercata} davvero? Speravi di salvarmi?"
+
+### u051120
+"Jae, sai perché la mia scorta di servoteschi ha cominciato a dire cose piuttosto insolite?"
+
+### u051121
+"Di cosa si trattava?"
+
+### u051122
+"Da quando i piccoli affari commerciali ti rendono così nervosa?"
+
+### u051123
+"Questa è una scelta tua, Jae. Posso solo sostenerla."
+
+### u051124
+"Non hai mai voluto dirmi la verità, nemmeno una volta? In fondo sono più di un semplice patrono."
+
+### u051125
+"Perché non mi hai detto subito la verità?"
+
+### u051126
+"D'ora in poi pretendo assoluta onestà tra noi."
+
+### u051127
+[Scrolla le spalle] "Se ti stai chiedendo se per me le cose siano cambiate, la risposta è no. Tu non sei cambiata, e i miei sentimenti non sono cambiati."
+
+### u051128
+"Non posso giudicarti. Anch'io preferirei che la mia amata mi vedesse come {mf|un principe|una principessa} piuttosto che come feccia del sottoformicaio."
+
+### u051129
+[Distogli educatamente lo sguardo e non dire nulla]
+
+### u051130
+"Le cose che facciamo per profitto e guadagno, vero?"
+
+### u051131
+{n}Jae sorride a tutta bocca, mostrando i denti perlacei.{/n} "Permettimi di ringraziarti ancora per avermi aiutata con il carico, shereen. Sono certa che gli ashmag che hanno nascosto la mia merce non si arrenderanno tanto facilmente e sentirò ancora parlare dei loro intrighi. Facciamo un patto, shereen: io ti guarderò le spalle, se tu mi farai il favore di guardare le mie." {n}La donna ride melodiosamente.{/n} "Be', basta scherzi — c'è qualcosa che volevi?"
+
+### u051132
+"Che l'{g|Encyclopedia:Emperor}Eccelso{/g} ti protegga! Ti sei {mf|annoiato|annoiata} senza le nostre chiacchierate, shereen?" {n}Jae ti rivolge un sorriso di benvenuto, facendo rotolare una moneta sulle nocche delle sue dita augmetiche.{/n}
+
+### u051133
+{n}Conosci impianti come quello che ha sostituito il collo di Jae — è solo una parte di un'enorme augmetica che rimpiazza gli organi interni. Una gola tagliata non può essere stata la causa dell'installazione di un dispositivo così sofisticato.{/n}
+
+### u051134
+"Splendido. Non roviniamo la nostra relazione di reciproco vantaggio, d'accordo?" {n}Jae sorride dolcemente, ma ti accorgi comunque di un tic nervoso che per un breve istante le contrae i lineamenti.{/n}
+
+### u051135
+"Hmm." {n}Jae scrolla appena le spalle. Non sembra sorpresa, piuttosto delusa... e spaventata?{/n} "In tal caso, non mi resta che andare a fare le valigie. Che peccato, {name}, che vero peccato. Addio."
+
+### u051136
+"Non è mai stata detta parola più vera — sono molto più eccitante di qualche piccolo venditore ambulante di {g|Encyclopedia:Footfall}Footfall{/g}!" {n}Jae esegue un grazioso e vagamente esotico inchino.{/n} "Permettimi di presentarmi come si deve — sono Jae Amira Fathreen Tameri ash Efreet, dodicesima figlia del signore di Efreet, un mondo lontano ai margini dell'{g|Encyclopedia:Imperium}Imperium{/g}."
+
+### u051137
+"Su {g|Encyclopedia:Footfall}Footfall{/g} non è difficile. Ho lavorato per un anno per il buon vecchio Cristo — era un soldato coraggioso che ha tirato le cuoia in una scaramuccia con gli Orki — e poi ho rilevato la sua attività. Avere la testa sulle spalle e tenere l'{g|Encyclopedia:Emperor}Eccelso{/g} nel cuore aiuta a stringere in fretta nuovi contatti. Alla fine ho riunito un gruppo di persone oneste e leali, e sono bastati pochi contratti andati a buon fine perché la Kasballica si accorgesse di me. Mi sono stabilita presto a Footfall e ho cominciato a elargire la mia saggezza ai miei protetti e subordinati — ho perso il gusto di sporcarmi le mani."
+
+### u051138
+"C'è stato un tempo in cui non avrei nemmeno potuto sognare di diventare Liege di quel cumulo di macerie perennemente in rovina che è {g|Encyclopedia:Footfall}Footfall{/g}. Ma adesso... adesso, shereen, sono quasi certa che un certificato di mercante permetterà a Jae Heydari di trasformare Footfall nella perla più lucente fra i mondi e le stazioni della Distesa! Certo, c'è ancora una piccola duna a forma di Vladaym che mi sbarra il cammino... Ma nessun vecchio cammello raggiunge una giovane antilope."
+
+### u051139
+"Se vuoi il mio parere, il lato oscuro è la vera {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}... Ma cosa vuoi sapere al riguardo, shereen?"
+
+### u051140
+"Potresti avere ragione... Ho davvero compreso il potere di chi si nasconde nella luce accecante di luminari come te, shereen. Dovrei essere un'ombra che difende l'ordine e la luce aggirando leggi antiquate? Non un'altra pedina della {g|Encyclopedia:KasballicaMission}Missione Kasballica{/g}, ma un Barone dell'Ombra della Distesa a pieno diritto? Un potere ben più imperioso e formidabile di qualunque spilorcio siniscalco?"
+
+### u051141
+"Un sapore più dolce del miele e più stuzzicante dell'odore di giovani corpi accaldati, shereen!" {n}Jae sfoggia un sorriso complice, si sporge in avanti e ti sostiene lo sguardo senza ritegno, ignorando del tutto le occhiate di disapprovazione degli ufficiali mentre attende la tua risposta.{/n}
+
+### u051142
+"Niente mi farà separare da questo tesoro, shereen, che l'Eccelso mi sia testimone — Lui e tutte le stelle della Distesa che brillano come una manciata di perle sparse sul velluto scuro della galassia! Ho solo un'ultima domanda da farti..." {n}Jae sfoggia un sorriso complice, si sporge in avanti e ti sostiene lo sguardo senza ritegno, ignorando del tutto le occhiate di disapprovazione degli ufficiali circostanti mentre attende la tua risposta.{/n}
+
+### u051143
+"La dolcezza delle tue labbra, shereen, annebbia la mente meglio del vino calixiano in una giornata tiepida. Ma non penserai che ti lasci andare così, vero?" {n}Le guance di Jae si accendono come una pesca matura e i suoi occhi brillano più del solito mentre ti porge un piccolo pacchetto.{/n} "Un umile dono in cambio di tutti i disturbi. Che l'Eccelso continui a vegliare sui sentieri che percorri."
+
+### u051144
+"Come se avessi avuto scelta, shereen!" {n}La risata di Jae è spontanea e sincera.{/n} "So bene che non si morde la mano che mi versa l'amasec."
+
+### u051145
+"Ti prometto che non ti pentirai di essere {mf|stato paziente|stata paziente}, shereen."
+
+### u051146
+"Certo che no, shereen." {n}La voce di Jae è piena di allegro entusiasmo come un attimo fa.{/n} "Sarebbe troppo in fretta. Nell'attesa e nel gioco sta uno dei grandi piaceri della passione. C'è una fine arte nell'attizzarla come promethium in ebollizione e nel liberarla prima che esploda. Ma la ricompensa è sublime. Apprezzo troppo la tua compagnia, shereen, per lasciare questo piatto intatto solo per tuffarmi avidamente nel dolce. Ma tu mi apprezzi abbastanza da aspettare?"
+
+### u051147
+"Allora cosa vuoi sentire, shereen? Una fiaba per bambini su una bellissima principessa? Una ballata su una regina dei ladri?" {n}Jae si irrigidisce alle sue stesse parole e, con tutta la rozzezza di un soldato veterano, sputa per terra.{/n} "Che ne dici di una storia nuova, shereen? C'era una volta una bambina che viveva su un ammasso di roccia ricoperto di sabbia, e il cuore di quella roccia conteneva ricchezze incalcolabili per i servitori dell'{g|Encyclopedia:Imperium}Imperium{/g}. La bambina estraeva quelle ricchezze con le sue piccole mani, spezzandosi la schiena e sputando i polmoni, per conto di gente che non l'aveva mai vista in faccia e che non avrebbe mai saputo il suo nome. Lo fece ogni giorno fino a sedici anni. E poi..."
+
+### u051148
+"Non guardarmi così, shereen! I nobili che complottano, i furfanti di {g|Encyclopedia:Footfall}Footfall{/g} che tramano, i misteri dei manufatti xeno, gli inchini e le riverenze davanti all'Ecclesiarchia che si compiace di sé... Tutto finito! Tutto ciò che sta oltre queste mura, dissolto come un sogno! Sto lottando per la mia vita, la mia anima viene fatta a brandelli e il mio corpo sanguina... È troppo chiedere di voler essere me stessa, shereen?" {n}Jae ti guarda disperata, quasi supplichevole.{/n}
+
+### u051149
+"Grazie, shereen. Saper leggere e scrivere è la principale. Forse non lo sai, ma questa scienza è al di là delle capacità di miliardi di sudditi dell'Imperium — eppure loro continuano felici a sgobbare nelle loro fabbriche, fonderie e catene di montaggio. Io? Non sono scappata da Efreet per condannarmi a una simile miseria. È stata l'istruzione a spianarmi la strada verso ordini copiati, firme false, documenti contraffatti... Le cose meravigliose che fanno girare le ruote della burocrazia nella direzione giusta."
+
+### u051150
+"In altre parole, non sai cosa vuoi: mi hai presa sotto la tua ala, mi hai trascinata in questa città, mi hai salvata da una morte atroce, hai ascoltato mentre mi sfogavo... E ora mi cacci via? Bene, come vuoi tu. Me ne vado, shereen. E non venire mai più a bussare alla mia porta — per te resterà chiusa."
+
+### u051151
+{n}Jae chiude gli occhi, lasciando che i ricordi la riportino indietro negli anni.{/n} "Poi i servitori di {g|Encyclopedia:Emperor}Lui{/g} sono arrivati e hanno arruolato la ragazzina nel 19° Reggimento di Efreet, ci credi? Ovviamente il reggimento fu spazzato via alla prima sortita, ma la ragazzina sopravvisse. L'Eccelso protegge! E poi? Anni di servizio nell'{g|Encyclopedia:AstraMilitarum}Astra Militarum{/g}, un cumulo di lavori durissimi. E combattimenti. E affari... E conoscenze losche e nuove opportunità."
+
+### u051152
+"Mi dispiace, shereen, ma non mi vedo su quella strada. Sai cosa dicono i saggi del mio mondo natale? 'Prendi solo quanto le tue mani e il tuo cuore possono reggere. Altrimenti l'Eccelso ti priverà di entrambi per la tua avidità.'"
+
+### u051153
+{n}Jae ci riflette per un po'.{/n} "Io... suppongo di poter provare, shereen. Se non altro, il pensiero di questo cambiamento mi fa battere più forte il cuore e scorrere più veloce il sangue nelle vene. Di certo l'{g|Encyclopedia:Emperor}Eccelso{/g} mi sta mandando un segno?"
+
+### u051154
+{n}Jae si scosta con noncuranza una ciocca di capelli neri e poi si immobilizza.{/n} "Quanto ai... nostri affari in comune, shereen... resterò la tua leale socia, se lo desideri. Una socia alla pari." {n}Pronuncia le ultime parole con particolare veemenza.{/n}
+
+### u051155
+"Oh dav-vero, shereen? E io che pensavo fossi {mf|pronto|pronta} a credere alla mia interpretazione teatrale affinata nel tempo."
+
+### u051156
+"Sai, shereen, potrei ancora essere là a rimbalzare da un mondo all'altro, rinchiusa su vecchie navi stanche con la sola compagnia di bruti venali, se non avessi deciso di volere di più dalla vita. Accettai una spedizione dalla Kasballica di certi... prodotti chimici. Sai, per i piaceri carnali e simili. Un pezzo grosso dava una festa per celebrare il suo quinto decennio di servizio."
+
+### u051157
+"Mi sono lasciata un po' prendere la mano, shereen. Lo ammetto senza problemi."
+
+### u051158
+"Sono stati gli Orki." {n}Jae fa un gesto frustrato.{/n} "Non tutto quello che dico è una bugia, shereen."
+
+### u051159
+"Ah, saper leggere! La mia benedizione e la mia maledizione. Tormentavo ogni nobile che visitava la nostra caserma per i suoi affari da nobile. Studiavo i timbri sulle casse nel magazzino e i sigilli su ogni porta, guardavo i comandanti sbrigare le pratiche e mi offrivo di aiutare... È così che ho imparato, un passo alla volta. E poi saper leggere è diventato il mio biglietto per una vita agiata!" {n}Jae raddrizza le spalle, evidentemente molto orgogliosa di sé.{/n}
+
+### u051160
+"Che cavolo del Trono, shereen? No, no, no, {name}, non farlo!"
+
+### u051161
+{n}{d|Encyclopedia:JaeRevealed}La voce di Jae scende subito{/d} al ringhio roco di un soldataccio.{/n} "C'era una volta una bambina che viveva su un ammasso di roccia ricoperto di sabbia, e il cuore di quella roccia conteneva ricchezze incalcolabili per i servitori dell'{g|Encyclopedia:Imperium}Imperium{/g}. E ogni giorno, fino a sedici anni, la bambina estraeva quelle ricchezze con le sue piccole mani, spezzandosi la schiena e sputando i polmoni, per conto di gente che non l'aveva mai vista in faccia e che non avrebbe mai saputo il suo nome."
+
+### u051162
+"Evviva, che pal— eh, lascia stare."
+
+### u051163
+"C'era una volta una bambina che viveva su un ammasso di roccia ricoperto di sabbia, e il cuore di quella roccia conteneva ricchezze incalcolabili per i servitori dell'{g|Encyclopedia:Imperium}Imperium{/g}. E ogni giorno, fino a sedici anni, la bambina estraeva quelle ricchezze con le sue piccole mani, spezzandosi la schiena e sputando i polmoni, per conto di gente che non l'aveva mai vista in faccia e che non avrebbe mai saputo il suo nome."
+
+### u051164
+{n}Il labbro spaccato di Jae trema prima di piegarsi in un sorriso amaro.{/n} "Mi dispiace, shereen, ma non funzionerà. Tutti i poveracci di Footfall mi conoscono come la dolce signora di un pianeta rovente. Ho recitato la principessa troppo a lungo per mandarla in frantumi così."
+
+### u051165
+"Non temere, shereen, avevo intenzione di farlo anche senza che me lo chiedessi tu. Ma finché siamo qui nella Città Oscura a danzare sul filo di una scimitarra... assecondami, ti va? E dopo rimetterò tutte le mie arie e le mie grazie, e il ricordo di questa Jae sarà spazzato via come le ragnatele di un brutto sogno dopo una bella tazza di {g|Encyclopedia:Recaf}recaf{/g} forte."
+
+### u051166
+"Se non mi avessi {d|Encyclopedia:Ch3_JaeWasInCommoragh}salvato i polmoni{/d}, shereen, ti prenderei a pugni in faccia per questo. Siamo praticamente morti ora che siamo atterrati a Commorragh. Va bene, prendimi pure in giro prima che gli azhi ti strappino la lingua beffarda," {n}dice Jae con una smorfia, davvero ferita per quella che sembra la prima volta da quando la conosci.{/n}
+
+### u051167
+"Signorsì, Vostra Signoria, shereen! Sarò qui, pronta e carica." {n}Le labbra di Jae si curvano in un lieve sorriso ora che il sigillo di silenzio che per anni le ha incatenate è stato finalmente spezzato.{/n}
+
+### u051168
+"Negativo, shereen. Ideare piani astuti è stata l'ultima cosa che avevo in mente di recente, vedi. Ma il lato positivo è che mentre quell'ashmag di un Haemonculus — che gli azhi divorino quel sacco d'ossa dall'anima nera — era impegnato a fare esperimenti su di me, sono riuscita a sgraffignare un paio di cianfrusaglie dal suo laboratorio. Tieni, potrebbero tornare utili, se non per fuggire, almeno per sopravvivere in questo buco marcio."
+
+### u051169
+"Oh. Be', grazie... suppongo? Ma posso essere la persona che voglio davvero essere un'altra volta, shereen? Finché siamo bloccati a Commorragh, fare il soldato mi sta più comodo. Non so proprio perché."
+
+### u051170
+"Caporale Heydari si presenta in servizio, {mf|signore|signora}!" {n}Jae ti saluta, ma la stupida recita non fa che inasprirle l'umore.{/n} "Ho avuto abbastanza delle schifezze dell'Astra Militarum per tutta una vita, shereen. E il mio corpo ha raccolto abbastanza souvenir degli scontri con {g|Encyclopedia:Xenos}xenos{/g} ed eretici per due vite. Tranne che... quando si parla della Guardia, non esiste 'ero abituata'. Quella vita maledetta mi ha piantato gli artigli addosso per bene. Ma questo significa anche che ricordo cosa vuol dire essere una pedina piccola, tremante, insignificante. Ed è per questo che apprezzo ancora di più quello che ho adesso."
+
+### u051171
+"Penso che su questo argomento abbiamo detto tutto."
+
+### u051172
+"Non ho dubbi che tu sia {mf|un ottimo conversatore|un'ottima conversatrice}, shereen. Prenderò nota del tuo invito e farò in modo di accettarlo... quando avrò di nuovo fame."
+
+### u051173
+"Capisco. Mi sto solo divertendo un po', shereen. Non posso certo dire semplicemente: 'Oh, anche tu mi piaci, {name}.' Parole aride e insipide come il pranzo di un marinaio del vuoto. Sono indegne di noi."
+
+### u051174
+"Certo che lo farò! Come potrei dire di no?" {n}La risata di Jae risuona come un rivolo d'acqua preziosa sul mondo di Jae — un mondo di caldo desertico e di raffinatissimi rituali di corteggiamento.{/n}
+
+### u051175
+"Non posso semplicemente respingere {mf|un corteggiatore così ardente|una corteggiatrice così ardente} — offendere una passione tanto sincera sarebbe un atto malvagio agli occhi dell'Eccelso!"
+
+### u051176
+"...può andare dagli azhi." {n}Jae ridacchia allegramente.{/n} "Non dire altro, shereen."
+
+### u051177
+"Esiste un argomento più dolce di cui discutere nell'universo, shereen? Hai tutta la mia attenzione."
+
+### u051178
+"Allora tacciamo insieme, entrambi, su questo bellissimo sentimento, shereen."
+
+### u051179
+"Sono solo un fragile fiore nella tua mano possente, shereen. Posso darti soltanto il profumo che l'Eccelso mi ha concesso, finché non ti stancherai di me. Gettami via, e lascia che il caldo rovente mi trasformi in un sarcofago disseccato per il sentimento che un tempo ci univa."
+
+### u051180
+"Jae Heydari fa affari con gente pericolosa, volubile, gente come il Rogue Trader. Se non fosse comprensiva, la sua vita sarebbe più amara del fumo di lho che si arriccia tra labbra invecchiate."
+
+### u051181
+"Sì. Perdermi, restare {mf|solo|sola} con i ricordi di Jae Heydari, suona davvero terribile. Chi vorrebbe portare nel cuore il marchio di un rimpianto così atroce?"
+
+### u051182
+"Argenta..." {n}La contrabbandiera arrossisce.{/n} "Cosa può esserci di più bello della vista di una Sorella della Battaglia, la cui sola presenza porta luce negli angoli bui di anime perdute come la mia? Ma ahimè, ciò che resta della mia sanità mi dice che la povera Jae può solo ammirare lo splendore di questo angelo, rinunciando a ogni speranza di toccarne le ali."
+
+### u051183
+"'Piacere' non è la parola che userei per descrivere il danzare sul filo di un coltello, shereen. È cominciato come un piacevole modo di passare il tempo... ma la sincerità che è sbocciata fra noi così all'improvviso è pericolosa per me. Ora, al tuo fianco, cammino sul filo di una sciabola e prego l'Eccelso che la punta non mi spezzi il cuore in due metà sanguinanti. Ora hai su di me un potere enorme, shereen."
+
+### u051184
+"Chiedi alla rosa se le piace ricevere i baci del sole ogni mattina. Chiedi alla duna se le piace sentire il tocco carezzevole e giocoso del vento. Chiedi, e ascolta la mia risposta, shereen."
+
+### u051185
+"Ma se i sentimenti della tua anima sono diventati un fuoco che ti consuma dall'interno..." {n}Jae ti fa l'occhiolino.{/n} "Allora puoi esprimerli concedendo un dono alla tua umile serva."
+
+### u051186
+{n}Jae porta un dito alle labbra.{/n} "{mf|Zitto|Zitta}, shereen, non spaventiamo il meraviglioso sentimento che tesse fra noi un disegno di passione con filo di seta. Presto."
+
+### u051187
+"Come vedi, so essere grata e generosa, e sono certa che lo sai anche tu." {n}Jae ammicca in modo allusivo.{/n} "Ti prometto che continuerò ad accettare ogni tuo dono, in futuro, con reverenza e timore."
+
+### u051188
+"Come comandi, shereen. Non oso sfidare la volontà del formidabile {mf|massacratore|massacratrice} dei mostri burocratici dell'Administratum."
+
+### u051189
+"Ti sei {mf|preso|presa} cura di me, e così vorrei prendermi cura di te... e spingermi un po' oltre i termini rigorosi del nostro accordo. Tieni, ho portato un piccolo dono in segno di gratitudine. E che l'Eccelso continui a vegliare sui sentieri che percorri."
+
+### u051190
+"Non posso dirti di no, shereen. E nemmeno voglio."
+
+### u051191
+"Mi vedrai con quello addosso, shereen, e anche senza."
+
+### u051192
+{n}Sorridendo con tristezza, Jae annuisce.{/n} "Capisco. Mi dispiace di aver tradito la tua fiducia ingannandoti. E grazie per avermi lasciato ingannare così a lungo."
+
+### u051193
+{n}Il volto di Jae si fa serio.{/n} "Mi dispiace, ma no. Non abbiamo fatto voti sull'acqua, e non ho mai promesso di tenere il mio cuore spalancato davanti a te. Ho e avrò sempre il mio passato e la mia vita, e non vedo perché dovresti rivendicarli. Ma ti prometto che i miei segreti non ti causeranno mai alcun danno."
+
+### u051194
+"Un abitante di Footfall su tre è kasballicano, ma questo non significa che tutta quella feccia marcia agisca di concerto — sono stata incastrata più di una volta solo perché qualche kasballicano potesse averla vinta sui suoi rivali. Eppure la {g|Encyclopedia:KasballicaMission}Kasballica{/g} è generosa con i suoi clienti — se puoi permetterteli. Tutto può essere ottenuto, organizzato e trasportato al prezzo giusto. Il cliente ha sempre ragione, a meno che non sia un ratto, nel qual caso..." {n}Jae sospira e alza le mani al cielo.{/n}
+
+### u051195
+{n}Con un sospiro stanco, Jae ti lancia uno sguardo severo.{/n} "Bene, Vostra Signoria, chiedete pure. Dirò le cose come stanno. Non cercherò di svicolare."
+
+### u051196
+"Temi che io cominci a sputare sul ponte e a ustionare le orecchie dei tuoi ufficiali con la mia lingua sporca? Non preoccuparti, shereen. Preferisco di gran lunga essere vista come una principessa piuttosto che come una disertrice. Continuerò a recitare la parte davanti agli altri, ma volevi parlare con franchezza, e quindi ho smesso di recitare."
+
+### u051197
+"Be', era prevedibile. Il Rogue Trader accetta la compagnia di una contrabbandiera, ma tollerare una popolana e una disertrice nel proprio seguito? No, è un passo troppo lungo. D'ora in poi cercherò di non offendere il vostro sguardo maestoso con la mia umile persona."
+
+### u051198
+"Davvero?" {n}Jae ti guarda incredula.{/n} "Allora sei {mf|molto, molto strano|molto, molto strana}. E io sono molto fortunata. Sia lode all'Eccelso." {n}Una risatina nervosa le sale dal petto, e lei arrossisce leggermente.{/n}
+
+### u051199
+{n}Jae ride senza allegria e si ritrae come se si aspettasse un colpo.{/n} "Mai, se riesci a crederci. 'A proposito, shereen, non sono davvero una principessa. Sono sudicia feccia del sottoformicaio, e ti ho mentito per tutto il tempo'... Sarei stata sbattuta fuori dal tuo letto così in fretta che il mio urlo ci avrebbe messo qualche secondo a raggiungermi."
+
+### u051200
+"Per lo stesso motivo per cui mente chiunque. Voglio piacere alla gente. Voglio attirarla, non respingerla."
+
+### u051201
+"A differenza dei Rogue Trader, i cui sacri {g|Encyclopedia:Warrant}Mandati{/g} li rendono immuni persino dalle leggi dell'Eccelso, gli agenti kasballicani sono abituati a nascondersi e a coprire le proprie tracce. Nessuno vuole attirare attenzioni indesiderate, chiunque possa interessarsene... Soprattutto ora che la Distesa di Koronus ha come sentinella un guerriero del {g|Encyclopedia:GoldenThrone}Trono d'Oro{/g}."
+
+### u051202
+{n}Jae continua a sorridere, ma i suoi occhi si stringono appena, come per il dolore di un colpo che non è riuscita a schivare.{/n} "Sono contenta che ci capiamo."
+
+### u051203
+{n}Facendosi seria in volto, risponde senza sorridere,{/n} "Non ora, {name}. Non oggi. Probabilmente riderai di me, ma ho paura di restare sola con te senza la mia maschera. La vulnerabilità fa paura. Ma so che col tempo supererò questa paura."
+
+### u051204
+"Non è che potessi semplicemente abbandonarti. Anche i contrabbandieri hanno dei principi... e dei sentimenti." {n}Jae ti rivolge un piccolo sorriso.{/n} "Purtroppo, tutto quello che sono riuscita a fare è stato spendere un mucchio dei tuoi troni senza ottenere nulla. Nessuno degli operativi che fanno affari con gli xenos sapeva dove trovarti. Nemmeno Mercy... Non avrei dovuto rivolgermi a lui. Mi aiutò a trasferirmi nella Distesa e ad avviare qui gli affari tanto tempo fa, ma lo preferivo quando era al sicuro nel mio passato."
+
+### u051205
+"Ci conoscevamo una volta. Mi aiutò a trasferirmi nella Distesa e a stabilire i miei primi contatti. Ma è una vecchia storia che preferisco non rimestare, se posso evitarlo. Ora nella mia vita le cose vanno bene, e non ho bisogno di Mercy."
+
+### u051206
+{n}Scrollando le spalle, Jae ti osserva con aria civettuola da dietro una scura cortina di capelli.{/n} "L'Eccelso in persona deve aver messo le parole di verità nella sua bocca, shereen."
+
+### u051207
+{n}Jae ti liquida con un gesto.{/n} "Shereen, tra noi c'era sicuramente una scintilla, ma si è spenta. Non voglio puntare il dito, ma avresti ignorato la mia richiesta di aiuto per ottenere il Mercatum Tabula Officiale se avessi avuto un vivo interesse per me? Non riempirti la testa di pensieri su ciò che sarebbe potuto essere, shereen. Ho visto molto di buono in te, e questo basta a guadagnarti la mia eterna gratitudine. Ma l'Eccelso non ci ha mandato altro che questo."
+
+### u051208
+{n}Jae scuote la testa quando nota il marchio sul tuo collo.{/n} "Pensavo che solo la grazia dell'Eccelso dovesse lasciare la sua impronta sulla persona di un Rogue Trader... Ne vale davvero la pena, shereen?"
+
+### u051209
+{n}Il dispositivo di comunicazione di Jae si illumina, segnalando un messaggio in arrivo. Lei ti rivolge un educato cenno del capo, distoglie lo sguardo e si concentra sul messaggio che le viene trasmesso nell'auricolare vox. Man mano che passano i momenti, la sua espressione si incupisce. Poi interrompe la trasmissione con un gesto nervoso.{/n}
+
+### u051210
+{n}Jae assume un'aria poco convincente di noncuranza.{/n} "Niente di importante, davvero... Solo una piccola questione commerciale."
+
+### u051211
+"In breve, shereen, ho avuto la sfortuna di assaggiare ciò di cui parlano i tuoi ufficiali — dicono che quando la ragazza degli Orsellio si agita, tutti i presenti perdono la testa e vengono sopraffatti dagli azhi. E faceva male da morire... Ricordo solo tutti rannicchiati in un angolo, a ululare come sirene d'allarme. Quanto a Cassia... credo che Cassia fosse imbarazzata dallo stato dei nostri vestiti, che allora erano molto scarsi, come puoi immaginare. Prima che riuscissi a orientarmi, la poveretta era sparita. Tutta la situazione era imbarazzante... Quanto alle minacce, erano rivolte a una delle ragazze che avevo avuto la sciocchezza di invitare alla nostra festicciola. Quella kaskha ha approfittato della confusione per rubarmi sotto il naso un intero sacchetto di {g|Encyclopedia:Lho}lho{/g}!"
+
+### u051212
+{n}Per un po', anche Jae resta in silenzio, alle prese con una lotta interiore, poi infine dice con un sospiro,{/n} "Penso che sia meglio che tu lo sappia."
+
+### u051213
+{n}Sospira.{/n} "Va bene. Forse è meglio fartelo sapere."
+
+### u051214
+"La {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}... Un nome magnifico, non è vero?" {n}Jae chiude gli occhi per un istante in un'esagerata esibizione di piacere.{/n} "Ma questo buco dimenticato non era la mia destinazione originale quando sono fuggita, shereen. Oh no, sono state le voci di una libertà incredibile a portarmi nella Distesa di Koronus, una libertà che viene generosamente concessa a chiunque riesca a sopravvivere da queste parti. Qui tutte le porte sono aperte — puoi diventare un santo, un magnate, un creatore di re, o chiunque tu voglia, davvero. Qui il duro lavoro paga, a meno che tu non sia {mf|abituato|abituata} a stare {mf|sdraiato|sdraiata} sul ciglio della strada a lamentarti invece di faticare per il bene della tua anima, per la gloria, per il portafoglio, o per quello che ti pare. Io sono abituata a lavorare sodo. E così ho trovato la mia benedizione."
+
+### u051215
+"{d|Encyclopedia:MiniJealousyRomanceBroken}Le voci si diffondono{/d} più in fretta del fuoco su una nave, non è vero, shereen?" {n}Con un sorriso volutamente ampio, Jae traccia nell'aria le iniziali familiari... poi le cancella con un gesto della mano.{/n} "Be', il cuore vuole ciò che vuole. Che questa nuova passione ti porti tanto calore e divertimento quanto ne hai dati a me."
+
+### u051216
+{n}Gli occhi scuri di Jae si spalancano per la sorpresa.{/n} "Oh shereen, grazie per tanta generosità! Attenderò con umiltà che tu diriga la tua nave verso Dargonus! Il Mercatum Tabula Officiale... Suona quasi maestoso quanto il Mandato di Commercio!"
+
+### u051217
+"È davvero semplice, shereen. La {g|Encyclopedia:KasballicaMission}Kasballica{/g} gestisce il mercato nero dell'{g|Encyclopedia:Imperium}Imperium{/g}, offrendo merci speciali a chi può permettersi i suoi servizi. Sì, parlo anche di manufatti xeno — armi aliene, tecnologia... A volte persino certi tipi di... creature viventi."
+
+### u051218
+"Un antico cartello criminale nato con i primi coloni del Settore Calixis. È guidato da clan oscuri con baroni ladroni al comando. Attraversa la loro strada, e rischi di farti nemici in tutta la Distesa di Koronus, o addirittura in tutto l'{g|Encyclopedia:Imperium}Imperium{/g}. Quanto agli agenti, sono solo feccia avida e senza vergogna."
+
+### u051219
+"Perché no? La decisione spetta a te, shereen."
+
+### u051220
+"Convinsi mio padre che desideravo supervisionare di persona l'ispezione delle merci importate — dovevo fare esperienza per non coprire di vergogna la nostra famiglia, no? Strinsi amicizia con mercanti, missionari e soldati al porto. Ascoltavo le loro storie, studiavo le carte, imparavo quali documenti dovevo falsificare per fuggire dal pianeta. Una parola gentile qua, una moneta lucente là — ed eccomi nel ventre di ferro di una nave, a sfidare il vuoto in cerca di una nuova vita."
+
+### u051221
+"Consideralo un segno del mio mestiere. Questa qui..." {n}La mano meccanica di Jae si chiude a pugno.{/n} "...{g|Encyclopedia:Xenos}xenos{/g}. Orki testa di legno... Chi poteva immaginare che non fossimo gli unici tentati dal relitto di quel predone? Quanto a questo tesoro..." {n}Jae tocca il suo prezioso {g|Encyclopedia:Augmentation}impianto{/g} al collo.{/n} "L'ho ricevuto come ricompensa per una vita che era stata un po' troppo bella. Avevo fretta di arrivare all'Adeptus Amasecus dopo che l'Eccelso mi aveva benedetta con un'immensa ricchezza. Ero a due vicoli dal locale quando un patetico ashmag mi aggredì, invidioso della fortuna altrui." {n}Si passa il pollice sulla gola.{/n}
+
+### u051222
+{n}La risata di Jae è contagiosa, spensierata e allegra come mai prima.{/n} "Allora è deciso, {name}! Da oggi navigherò verso il futuro che scelgo io. Che emozione sarà cavalcare le onde ovunque vogliano portarmi..."
+
+### u051223
+"Senti chi parla, {name}." {n}Jae solleva un sopracciglio.{/n} "Mi ero stancata di scrivere contratti e accordi senza fine, ben riposti su Footfall. L'ho fatto per... quanti anni? Ma qui, tra le stelle, sei sempre in equilibrio sul filo di un coltello. Niente mi emoziona più della tensione di un salto {g|Encyclopedia:Warp}warp{/g}, o del pericolo che si annida a ogni angolo di un pianeta. Footfall stava cominciando a rendermi grassa e stupida, shereen. Non lo voglio."
+
+### u051224
+"Rispetto alla marmaglia di Footfall? Forse. Rispetto a te?" {n}Jae solleva un sopracciglio.{/n} "Che si tratti di potere o di denaro, ho ancora molta strada da fare. Potrei comprare uno degli asteroidi di Footfall, ma non un pianeta. Potrei sottomettere qualche banda dei quartieri loschi, ma non Vladaym! E quindi la risposta alla tua domanda è no. Non mi considero ricca. Non sono abbastanza ricca."
+
+### u051225
+"Si è visto succedere. Dopo anni passati a trattare con gli xenos, ho imparato i loro costumi e ho persino afferrato qualcosa della loro lingua — solo che si irrigidiscono ogni volta che comincio a parlare. Arroganti bastardi! Non sopportano nemmeno le nostre voci, ma non rifiutano mai le nostre merci di valore. D'altronde, sono abituata a vedere facce acide — in questo commercio, chi si offende facilmente fallisce."
+
+### u051226
+"Ho imparato la lezione e ho cominciato a fare il giro più lungo. Solo che da allora non ho più avuto grossi colpi di fortuna..."
+
+### u051227
+"Il mio mestiere vuol dire conoscere le persone e le non-persone giuste, avere i contatti giusti e assicurarsi che le merci preziose finiscano nelle mani dei miei altrettanto preziosi clienti. La mia saggezza comprende la conoscenza dei nemici dell'Umanità, siano essi {g|Encyclopedia:Xenos}xenos{/g} o la peggior feccia dell'Imperium, oltre alle ultime informazioni su quanto chiedono per una data curiosità al mercato di {g|Encyclopedia:Footfall}Footfall{/g}. Nemmeno l'azhi più astuto ti ingannerà finché sarò con te, shereen — te lo prometto. Tutto ciò che ho può essere tuo — se la tua insondabile ricchezza non ti basta già, intendo."
+
+### u051228
+"Il figlio più giovane è destinato a diventare una pedina di scambio nei giochi politici della famiglia. Ma io non ero disposta ad accettare un destino simile e volevo scegliere cosa diventare e quale strada seguire. Quando ho scoperto che l'{g|Encyclopedia:Emperor}Eccelso{/g} veglia su centinaia di altri mondi tra stelle lontane, ho capito che oltre Efreet c'era un intero mondo di opportunità. Dovevo solo spezzare i legami familiari che mi trattenevano e fuggire dal pianeta — cosa che ho fatto molto tempo fa."
+
+### u051229
+{n}Jae smette di sorridere e si strofina stancamente la radice del naso.{/n} "Ascolta, shereen, {mf|datore|datrice} di felicità e {mf|il più caro|la più cara} dei miei amici... Io sono quella che sono — una {g|Encyclopedia:ColdTrade}mercante del Commercio Freddo{/g}, un'agente {g|Encyclopedia:KasballicaMission}kasballicana{/g} e la tua socia. Abbiamo tutti un passato, e quel passato è sigillato. Io non ficco il naso nella tua anima, vero? Bene, abbi pietà della mia, è già stata rosicchiata dagli azhi. E se non ti piace come suona, ce ne andremo ciascuno per la propria strada, affare fatto?"
+
+### u051230
+{n}Jae parla con calma, con la giusta dose di pigrizia nella voce, ma la sua recita non riesce a nascondere il leggero tremito nella voce. Qualunque cosa spaventi Jae, è ciò che l'ha cacciata da Footfall.{/n}
+
+### u051231
+"Shereen! O glorioso sole di decine di mondi e miliardi di sudditi, sei {mf|venuto|venuta} a conversare con Jae Heydari sulla dolcezza della sua anima? O desideri parlare con una rappresentante commerciale dell'{g|Encyclopedia:Imperium}Imperium{/g}?" {n}Jae resta ostinatamente seria per qualche istante prima di riempire il ponte di comando con la sua risata gentile.{/n} "Allora, {name}, l'aspetto di una delle persone più potenti della {g|Encyclopedia:KoronusExpanse}Distesa{/g} mi sta bene?"
+
+### u051232
+"Tutte le relazioni si basano sulla fiducia reciproca. Vale anche per gli affari."
+
+### u051233
+{n}La mano tremante di Jae cerca il {d|Encyclopedia:Ch3_JaeHealedOnTheShip}doloroso gonfiore al collo{/d}.{/n} "Mi sono lacerata la gola a forza di tossire, shereen. Ogni respiro è una tortura peggiore delle fruste avvelenate dei Drukhari. Sembra di soffocare con plastacciaio incandescente e di mandarlo giù con promethium grezzo." {n}Il corpo di Jae è squassato da un altro spasmo, e una schiuma sanguinolenta le gorgoglia dalle labbra pallide.{/n} "G-gli azhi mi prendano... Spero di arrivare alle infermerie della Distesa..."
+
+### u051234
+"Conto sul fatto che la vita nel tuo seguito sia più emozionante che starmene seduta dietro una scrivania nel mio ufficio."
+
+### u051235
+"Mi vizi di nuovo con lo splendore della tua presenza, shereen! Hai deciso di regalare alla tua anima i frutti della mia eloquenza? O desideri discutere d'affari con la neoeletta proprietaria di un Mercatum Tabula Officiale?" {n}Il sorriso di Jae brilla più di qualunque stella tu abbia mai visto.{/n}
+
+### u051236
+"Vediamo, Vostra Signoria {g|Encyclopedia:RogueTrader}Rogue Trader{/g}, shereen, rovina della mia anima e {mf|salvatore|salvatrice} della mia carne. Il crudele destino ci ha spinti dritti nell'angolo più immondo della galassia, dolce casa della feccia {g|Encyclopedia:Drukhari}Drukhari{/g}. Ho da fonte autorevole che nessuno esce da questo posto. Né vivo, né morto, nemmeno a pezzi." {n}La cupa serietà e il corpo magro e smunto non possono appartenere alla Jae Heydari che conosci. Davanti a te sta una soldatessa, dura e pragmatica.{/n}
+
+### u051237
+{n}Jae Heydari tiene con tenerezza il pezzo di pergamena coperto di scrittura come una giovane madre che allatta il suo neonato.{/n} "Shereen, luce dei miei occhi, {mf|elargitore|elargitrice} di doni e {mf|salvatore|salvatrice} dei bisognosi! D'ora in poi, due soli adorneranno il firmamento del protettorato dei von Valancius, uno luminoso e potente come il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} in persona, e l'altro un po' più modesto. Come la sua schiva socia, la diligente proprietaria del Mercatum Tabula Officiale e delizia a tutto tondo, Jae Heydari."
+
+### u051238
+{n}"Feccia", "sporca marmaglia", "ratti": è quasi come se la maschera di Jae fosse scivolata per un istante e lei avesse cominciato a usare parole che non hanno posto nel vocabolario di una persona degli strati alti dell'Imperium.{/n}
+
+### u051239
+"Eredi di dinastie che bevono con i criminali, {g|Encyclopedia:RogueTrader}Rogue Trader{/g} che stringono accordi con la {g|Encyclopedia:KasballicaMission}Kasballica{/g}, e decine di navi che fanno scalo per una gradita pausa da un lungo viaggio — esiste un posto più bello in tutto l'Imperium? L'Imperatore è misericordioso con i miti e con i potenti. C'è un lavoro per tutti, purché abbiano la testa sulle spalle. E se hai voglia di parlare con Lui di persona, la statua dell'Eccelso si vede da qualunque asteroide — puoi pregare a cuor contento."
+
+### u051240
+"Cosa ti ha dato un'idea così oltraggiosa? Il mio abito immacolato? I miei splendidi gioielli? Non preoccuparti, shereen, te lo farò sapere quando diventerò baronessa — se l'{g|Encyclopedia:Emperor}Eccelso{/g} lo vorrà. Immagina solo la forte e fruttuosa alleanza che potrebbe nascere tra un {g|Encyclopedia:RogueTrader}Rogue Trader{/g} e un'artefice della Kasballica."
+
+### u051241
+{n}Jae sorride con aria cospiratrice e si sporge in avanti, con un respiro caldo che ti brucia l'orecchio:{/n} "In realtà ho qualcos'altro per te, shereen." {n}La mercante del Commercio Freddo ti sostiene lo sguardo senza ritegno, ignorando le occhiate di disapprovazione degli ufficiali circostanti, e attende la tua risposta.{/n}
+
+### u051242
+"Oh, non ho dubbi che lo farai!" {n}Jae ride e ti saluta con un occhiolino.{/n}
+
+### u051243
+"Bestie feroci, crudeli, pericolose. Gli umani interessano poco agli xenos — siamo un divertimento per loro, un modo per tenere a bada la noia, una merce... Ma alcuni di loro ci contattano di tanto in tanto servendosi della loro gente. Non illuderti di essere al sicuro perché non ci sono xenos in vista. Quegli azhi sono tanto astuti quanto spietati: tirano con abilità i fili di spie e traditori, sottomettono chi non cede alla ricompensa promessa, trasformano chi resiste alle loro promesse in burattini senz'anima... L'{g|Encyclopedia:Emperor}Imperatore{/g} veglia su di me, ed è per questo che non ho ancora subito il destino di molti miei soci che hanno perso la vita per mano di quei furfanti filiformi."
+
+### u051244
+{n}Jae si ritrae e sbuffa, apparentemente offesa.{/n} "Sei {mf|libero|libera} di chiamare i nostri rapporti come preferisci, shereen. Dopotutto le parole sono vento e contano poco. Ma ti sei {mf|preso|presa} cura di me, e così vorrei prendermi cura di te... e spingermi un po' oltre i termini rigorosi del nostro accordo. Tieni, ho portato un piccolo dono in segno di gratitudine. E che l'Eccelso continui a vegliare sui sentieri che percorri."
+
+### u051245
+{n}Jae annuisce pensierosa.{/n} "Non ho dubbi che prima o poi dovrai vedertela con gli xenos. Quando verrà quel momento, shereen, ringrazierai l'{g|Encyclopedia:Emperor}Eccelso{/g} per avermi mandata a stare al tuo fianco!"
+
+### u051246
+"Tradire significa piantare un coltello nella schiena di uno dei tuoi. Io uso i nostri nemici per arricchire l'{g|Encyclopedia:Imperium}Imperium{/g}. Il denaro fa girare le macine della guerra, e dato che i servitori dell'Imperatore combattono la loro battaglia senza sosta anche qui, ai confini del vuoto e lontano dalla {g|Encyclopedia:HolyTerra}Sacra Terra{/g}, hanno bisogno del mio oro mal guadagnato più che mai, sia nelle loro tasche sia in circolazione."
+
+### u051247
+"Sia lodato l'Imperatore! Mi hai tolto le parole di bocca."
+
+### u051248
+"Eppure, shereen... sei tu {mf|quello|quella} con lo xenos da compagnia." {n}Jae scuote lentamente la testa con un sorriso di rimprovero.{/n}
+
+### u051249
+"Perdonami, shereen. Io... non sono molto affezionata a quelli con cui sono costretta a dividere il mercato. Soprattutto perché non sono neanche lontanamente bravi quanto me." {n}Jae sbuffa e liquida la cosa con un gesto della mano.{/n}
+
+### u051250
+"Come nuovo, shereen," {n}dice Jae con un ironico inarcarsi di sopracciglio mentre si strofina l'{g|Encyclopedia:Augmentation}augmetica{/g} sbiadita che ha sostituito i suoi polmoni e la sua gola. Come se non riuscisse a credere che sia {d|Encyclopedia:Ch3_JaeWasInCommoragh}di nuovo parte del suo corpo{/d}.{/n} "No, sul serio. Posso respirare e non sputo più sangue in faccia alla gente... Ti sei {mf|comportato|comportata} bene con me ancora una volta, shereen. Grazie... Farò del mio meglio per ricambiarti."
+
+### u051251
+{n}Jae sta confrontando con entusiasmo dei registri su una tavoletta dati dorata con i rapporti freschi in arrivo da {g|Encyclopedia:Footfall}Footfall{/g}. Quando ti nota, Jae sorride e li mette da parte.{/n} "Ah, shereen! Il fardello di una rappresentante commerciale dell'Imperium è pesante, soprattutto quando detta rappresentante si dedica anche al {g|Encyclopedia:ColdTrade}Commercio Freddo{/g}... Uff! È esaltante, come se tutti diventassero all'improvviso alleati e nemici allo stesso tempo. Allora, come te la passi, o prezioso gioiello dei miei occhi?"
+
+### u051252
+"Mi ricordi un uomo che conoscevo, {name}. Aveva un negozio ben fornito ma invidiava il vicino perché il suo negozio rendeva di più. Così uccise il vicino e rilevò il negozio, ma non gli piacevano le merci e le sostituì subito con le sue. Poi si chiese perché gli affari del vicino non gli facessero guadagnare di più."
+
+### u051253
+{n}Jae comincia ad attorcigliarsi attorno al dito una ciocca dei suoi capelli corvini.{/n} "La lingua di Efreet, il mio mondo natale, è piuttosto diversa da quella parlata nella {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}. Conferiamo a ogni parola più di un significato, permettendo ai nostri saggi di esprimere appieno i loro sagaci pensieri, e a noi, umili dilettanti, le nostre basse passioni e i nostri desideri."
+
+### u051254
+"Come ho promesso prima, la mia ciurma sarà i tuoi occhi e le tue orecchie in tutta la {g|Encyclopedia:KoronusExpanse}Distesa{/g}, shereen, dagli solo il tempo. E ovviamente l'assistente della Rappresentante Commerciale Ufficiale Jae Heydari si sta già affrettando verso Dargonus per consegnare a te e ai tuoi merci di qualità rara ed eccezionale, o {mf|padrone|padrona} di molti mondi." {n}Gli occhi di Jae brillano maliziosi nella perenne penombra del ponte di comando.{/n} "E ancora una volta... Grazie, shereen, dal profondo del mio umile cuore."
+
+### u051255
+"Mi fido dei Gemelli Imbroglioni? Per l'Eccelso, no! I furfanti subdoli di Footfall hanno inventato quel nome per una ragione. I trucchi di quei folli ashmag riguardano cose ben più intriganti di quanto possano immaginare i sudditi onesti e rispettosi della legge dell'Imperium." {n}Il riferimento ai suoi colleghi del Commercio Freddo fa brillare gli occhi di Jae un po' più del solito.{/n}
+
+### u051256
+"D'altro canto, è per questo che li tengo vicini. Kor e Torra sanno chi li ha tirati fuori dalla fogna che chiamano con orgoglio Quartieri d'Ombra. E chi ha nutrito quella bestia vorace, la loro insaziabile sete di guadagno. No, non mi tradiranno, se non altro perché sanno che ora faccio parte del tuo seguito, shereen. Non lasceranno che la torta più grande dell'Imperium gli passi sotto il naso senza provare a prenderne una fetta per sé."
+
+### u051257
+"No?" {n}Jae si ritrae con un sospiro di sincera delusione, rimettendosi dietro l'orecchio una ciocca sfuggita.{/n} "Gli azhi devono avermi annebbiato la mente, shereen. O forse è stato il tuo sguardo penetrante. In ogni caso, volevo solo ringraziarti per il tuo aiuto e darti qualcosa in più oltre a questo umile dono." {n}Jae estrae un piccolo pacchetto che aveva evidentemente nascosto in anticipo.{/n}
+
+### u051258
+"Oh, non sono affatto contraria, shereen." {n}Jae ti bacia con avidità, tra i mormorii indignati del vostro pubblico.{/n}
+
+### u051259
+"Se porterà pace al tuo cuore, shereen, allora lo faremo senz'altro." {n}La mano augmetica e fredda di Jae scivola nella tua e lei ti conduce fuori dal ponte di comando.{/n}
+
+### u051260
+{n}Jae si ritrae e sbuffa, apparentemente offesa.{/n} "Shereen! Non penserai che stessi cercando di pagarti, vero? Accetta questo piccolo dono per esserti {mf|preso|presa} cura di me. E che l'Eccelso continui a vegliare sui sentieri che percorri."
+
+### u051261
+{n}Jae solleva un sopracciglio con genuina sorpresa. Ci mette qualche secondo a trovare una risposta, e quando parla abbassa lo sguardo.{/n} "Un Rogue Trader non può avere amici, shereen. Solo servitori per i quali la parola del loro {mf|padrone|padrona} è legge suprema. E soci per i quali il favore {mf|del detentore|della detentrice} del Mandato è la massima ricompensa per i loro sforzi comuni. Perché mi guardi così? Quanti amici ha il Sol che splende sulla {g|Encyclopedia:HolyTerra}Sacra Terra{/g}?"
+
+### u051262
+"Sei {mf|libero|libera} di chiamare i nostri rapporti come preferisci, shereen. Dopotutto le parole contano poco. Ma ti sei {mf|preso|presa} buona cura di me, e così vorrei prendermi buona cura di te... e spingermi un po' oltre i termini rigorosi del nostro accordo. Tieni, ho portato un piccolo dono in segno di gratitudine. E che l'Eccelso continui a vegliare sui sentieri che percorri."
+
+### u051263
+"Ma grazie per le belle parole. È bello sapere che la mia lingua da soldato non ti ha spaventato." {n}Jae sorride di nuovo, stavolta con molto più calore.{/n}
+
+### u051264
+"Prendi 'azhi', per esempio. È così che chiamo ogni feccia e ogni furfante, perché 'azhi' significa male, e nemico, e patetico verme indegno di considerazione. Oppure prendi 'ashmag' — significa sciocco, e fratellino, e cieco che inciampa e cadrebbe in un fosso senza una guida. 'Shereen' è... 'shereen' significa amico, e compagno, e compagno di fila in uno schieramento di battaglia — come lo siamo noi, {name}."
+
+### u051265
+{n}No. Decisamente no.{/n}
+
+### u051266
+"Ma tutto in questo mondo finisce prima o poi, shereen. La ragazzina ormai non più tanto piccola andò a mettersi con la {g|Encyclopedia:KasballicaMission}Kasballica{/g}, mise da parte un po' d'oro, e di tanto in tanto si concesse persino qualche eccesso... Finché la bella vita quasi non costò la testa alla ragazzina, quando i suoi protettori finirono in un'indagine interna tra l'Officio Prefectus e il Departmento Munitorum."
+
+### u051267
+"Così la ragazza scappò più in fretta che le sue gambette poterono portarla, finché i suoi occhi e i capricci della fortuna non la condussero nella {g|Encyclopedia:KoronusExpanse}Distesa{/g}. Una storia di merda, tutto sommato, shereen."
+
+### u051268
+"Oh, tante cose, shereen, faccio fatica a tenerne il conto." {n}La voce rauca del soldataccio è scomparsa e Jae parla di nuovo con la sua familiare voce di miele.{/n} "Ti ho detto la verità sulla Distesa, e non una sola parola era una bugia. Quello che ti ho detto su {g|Encyclopedia:Footfall}Footfall{/g} e Vladaym, e su come si fanno gli affari da queste parti — tutto vero. Non fraintendermi, gioiello dei miei occhi stanchi, ci sono due cose in questa vita che detesto: guardare indietro al passato e avere qualcuno che ficca il naso nella mia anima senza chiedere."
+
+### u051269
+"Cosa, pensi che sia difficile? Una volta io e i miei compagni della Guardia ci siamo intrufolati nella città alta in cerca di una buona bettola dove si ritrovavano i pezzi grossi di quel mondo. Un'altra volta il nostro reggimento fu mandato a difendere le guglie più alte di un mondo formicaio... e io ebbi un'illuminazione. Vidi come vive l'altra metà, e per metà intendo quelli nati con un cucchiaio di diamante in bocca, invece di una vanga da trincea ficcata nel di dietro."
+
+### u051270
+"Lo giuro sulla tomba di mio padre ubriacone che mi vendette alle miniere e sulle vite degli undici fratelli che non ho mai avuto, shereen!"
+
+### u051271
+{n}È difficile dirlo. La Jae di adesso è una persona del tutto sconosciuta per te.{/n}
+
+### u051272
+{n}Jae fa spallucce con indifferenza.{/n} "La gente di {g|Encyclopedia:Footfall}Footfall{/g} è la mia unica famiglia, shereen. I Gemelli Imbroglioni e il resto della marmaglia. Schietti e leali come cani... E a volte ottusi come il pomolo di una lama consumata."
+
+### u051273
+{n}Jae ti lancia un'occhiata di sbieco, sorridendo con tristezza.{/n} "Ci sono alcune cose su cui non ti ho mai mentito, {name}."
+
+### u051274
+"I miei occhi si sono aperti sulla verità, shereen. L'Imperium è pieno di opportunità, anche per persone come me. Il trucco sta nel sapere a chi ungere i palmi, a chi leccare gli stivali, a chi stringere la gola e a chi prendere a calci il sedere. Ero molto popolare con tutto il comando della Guardia, vedi — procuravo cose per loro, qualunque cosa volessero... E così la Kasballica si accorse di me."
+

@@ -1,0 +1,808 @@
+### u071098
+{n}Marazhai ti osserva, poi sbuffa.{/n} "Creature cieche... {name}, guarda il collo."
+
+### u071099
+"Che sorpresa, sei versato nell'arte dell'omicidio subdolo. Hai fatto spesso ricorso all'arma del codardo, nella tua vita, invece di combattere ad armi pari?"
+
+### u071100
+"Sì. Tutte le mie vittime erano nemiche dell'Imperium e non sarebbe stato possibile raggiungerle in nessun altro modo. Preferireste che fossero ancora vive, mio signore Ulfar?" {n}Heinrix sostiene con dignità lo sguardo minaccioso del Lupo, ignorando l'ondata di minaccia quasi palpabile che emana dall'Angelo dell'Imperatore.{/n}
+
+### u071101
+{n}Kibellah esamina rapidamente il corpo.{/n} "Quest'uomo è stato avvelenato. Con una tossina paralizzante. La vittima non può gridare, chiedere aiuto, attirare l'attenzione... e nemmeno respirare. Un ottimo strumento per uccidere in silenzio. In passato me ne sono servita."
+
+### u071102
+{n}Il mastino cibernetico annusa rumorosamente il cadavere in tutta la sua lunghezza, poi si ferma al collo del morto e lascia uscire un ringhio sommesso e intermittente.{/n}
+
+### u071103
+"Glaito ha trovato il segno di un'iniezione e ha rilevato anche tracce di veleno. Tracce debolissime: dev'essere una tossina che decade in fretta. Ma non c'è niente che il naso di un mastino cibernetico non riesca a cogliere."
+
+### u071104
+{n}Un'ombra cala sul volto di Abelard. Il suo tono è fermo, ma vi senti il lieve suono del rammarico.{/n} "La nobile dinastia e tutti i suoi rami sono stati giudicati colpevoli di eresia. Per ordine del Rogue Trader, l'intera casata sarà giustiziata. La sentenza dev'essere eseguita immediatamente."
+
+### u071105
+"Chi ti ha aiutato? Non è possibile che tu abbia fatto tutto questo da solo."
+
+### u071106
+"Le accuse mosse dal Governatore Drivestem erano false. La Casata Werserian non c'entrava nulla con l'orchestrazione delle rivolte né con il complotto contro il Rogue Trader. Tuttavia, i veri colpevoli si trovano proprio in questa sala..."
+
+### u071107
+"Voglio sentire di nuovo il tuo ragionamento. Cosa ti fa pensare che i Werserian siano dietro il complotto contro di me?"
+
+### u071108
+"Tutti gli aggressori erano servitori ad alta funzionalità. Servitori di questo tipo sono impiegati solo da famiglie vicine all'Adeptus Mechanicus."
+
+### u071109
+"Parlami ancora di tuo figlio, Drivestem."
+
+### u071110
+"Regina, perché lo hai fatto?'
+
+### u071111
+"...Casata Drivestem colpevole. Non perdonerò la tua negligenza e le false accuse che hai lanciato contro la Casata Werserian."
+
+### u071112
+"...Casata Gaprak colpevole. Avete perso la mia fiducia dopo l'incidente su Kiava Gamma."
+
+### u071113
+"Cornelius, qual è il vero motivo del tuo nervosismo?"
+
+### u071114
+"Nella cospirazione contro il Rogue Trader, ritengo..."
+
+### u071115
+"Sono troppo {mf|impegnato|impegnata} per occuparmi di questo. Ritengo colpevoli i Werserian."
+
+### u071116
+"Tornerò da voi più tardi."
+
+### u071117
+"Convocate tutti. Sono {mf|pronto|pronta} a pronunciare il mio verdetto."
+
+### u071118
+"Urbend Drivestem, hai mostrato una negligenza imperdonabile non mettendo in dubbio il possibile coinvolgimento di qualsiasi altra famiglia oltre ai Werserian. Abbiamo scoperto che l'attentato alla mia vita è stato orchestrato da un membro della Casata Gaprak."
+
+### u071119
+"So che la Casata Sauerback ha offerto il proprio aiuto ai Gaprak e che il defunto Halen Gaprak sembra aver accettato l'offerta. Sospetto che tu sia responsabile anche della sua morte."
+
+### u071120
+"Cornelius Drivestem, ti condanno a morte. Immediatamente."
+
+### u071121
+"Non c'era nessuno accanto al defunto: i custodi avevano abbandonato la loro postazione. Sei stato tu a ordinarglielo?"
+
+### u071122
+"Hai visto Halen Gaprak oggi, prima del mio arrivo?"
+
+### u071123
+"Ho trovato un cadavere nel mio palazzo. Un membro della Casata Gaprak è stato ucciso davanti a un altare. Ne sai qualcosa?"
+
+### u071124
+"Che ne pensi di questa lettera? L'ho trovata addosso a uno degli aggressori."
+
+### u071125
+"...Casata Sauerback colpevole. Siniscalco, puoi proseguire tu."
+
+### u071126
+"Chi è questo 'amico' che ti ha avvicinato, Cornelius? Come comunicavate?"
+
+### u071127
+"...Casata Gaprak colpevole. Uno dei vostri ha orchestrato un attacco al Rogue Trader: tradimento, per chiunque."
+
+### u071128
+"...Casata Sauerback colpevole. Il capo della vostra famiglia non ha mai cercato di nascondere il suo atteggiamento nei miei confronti. Basta e avanza per condannarlo."
+
+### u071129
+[Porta la mano all'arma] "Stai parlando con un Rogue Trader. E la mia pazienza sta per finire."
+
+### u071130
+"Vedo che non riesci a contenere il tuo timore reverenziale di fronte alla grande persona del tuo {mf|signore|signora}. Non ti disturberò con altre domande."
+
+### u071131
+"Urbend Drivestem, hai accusato la Casata Werserian di violazioni che in realtà erano il risultato di un grave errore commesso da tuo figlio."
+
+### u071132
+"Toriana Gaprak, un membro della tua famiglia ha orchestrato un attentato contro di me, qui, nel mio stesso palazzo. E anche se è già stato trovato morto, il suo atto basta a marchiare per sempre la vostra casata come traditrice."
+
+### u071133
+"Macharius Sauerback, il tuo palese disprezzo nei miei confronti basta a coinvolgerti nella cospirazione."
+
+### u071134
+"Hai paura di parlare con me? Forse ti sentiresti più a tuo agio a parlare con un Interrogatore dell'Inquisizione."
+
+### u071135
+"La povera anima è così spaventata... forse dovrei andarmene e lasciare che sia Marazhai a parlare al mio posto. Conosci il mio compagno drukhari, vero?"
+
+### u071136
+"Urbend, tuo figlio ha trovato il coraggio di ammettere il proprio errore. Cercherò di trovare un po' di compassione per lui nel mio cuore."
+
+### u071137
+"Perché i Werserian?"
+
+### u071138
+"Tutta la famiglia. Il sangue corrotto sarà spazzato via."
+
+### u071139
+"Non sterminerò un'intera stirpe nobile che mi è fedele solo per colpa di un traditore."
+
+### u071140
+"Le accuse mosse dal Governatore Drivestem erano false. La Casata Werserian non c'entrava nulla con l'orchestrazione delle rivolte né con il complotto contro il Rogue Trader. Eppure questa faccenda è ben lontana dall'essere conclusa..."
+
+### u071141
+"Portami in quel posto."
+
+### u071142
+"Parlami del tuo lavoro, Cornelius. Di cosa ti occupi?"
+
+### u071143
+"Come sei riuscito a trovare i documenti contraffatti nell'inferno burocratico che è l'Administratum?"
+
+### u071144
+"Ma la Casata Werserian ha accesso all'Adeptus Administratum? Non è concepibile che possano aver fatto tutto questo in un luogo in cui non detengono alcun potere."
+
+### u071145
+"Perché hai ucciso Halen Gaprak?"
+
+### u071146
+"Abelard, la sentenza non è stata ancora eseguita. Concludi."
+
+### u071147
+"Pensavo che potesse esserci qualcosa di speciale tra noi."
+
+### u071148
+{n}Il Governatore Drivestem è circondato dal suo seguito, tutti vestiti con abiti costosi e sfarzosi. I colori coordinati dei loro abiti e la netta somiglianza fisica fra loro suggeriscono che provengano tutti dalla stessa famiglia.{/n}
+
+### u071149
+{n}Quando ti avvicini, le conversazioni si spengono. Il governatore china il capo in segno di deferenza.{/n} "Come posso servirvi, Vostra Signoria? Siete già {mf|pronto|pronta} a pronunciare il vostro verdetto?"
+
+### u071150
+"Madre..." {n}Resosi conto di quanto è accaduto, Hetka si ritrae dalla madre.{/n}
+
+### u071151
+"Vostra Signoria! Vi ringrazio per aver dedicato a questo caso la vostra totale attenzione." {n}Il governatore si inchina e gli altri si affrettano a imitarlo.{/n}
+
+### u071152
+"Mentre compilavo i rapporti sulla catena di approvvigionamento dell'ultimo ciclo, ho notato imprecisioni e discrepanze nei dati. Con l'aiuto degli altri impiegati, sono riuscito a trovare diversi altri documenti..." {n}Cornelius balbetta e deglutisce rumorosamente.{/n} "Un'analisi completa dei dati ha mostrato che le discrepanze erano state causate da una manomissione intenzionale delle cifre, che ha portato a problemi logistici praticamente insolubili."
+
+### u071153
+"Sarebbe un piacere parlare con l'illustre Cornelius Drivestem. In privato, per la tranquillità di suo padre."
+
+### u071154
+{n}Marazhai si sfrega le mani, producendo un ripugnante stridio metallico.{/n} "Diventeremo amici. Te lo prometto."
+
+### u071155
+{n}L'aria nella sala è congelata da un silenzio teso, quasi elettrico. Tutti i nobili, alcuni con timore e altri con reverente attesa, aspettano il tuo verdetto...{/n}
+
+### u071156
+{n}Il volto di Urbend Drivestem diventa più pallido a ogni secondo. Dietro di lui si sentono i singhiozzi di una donna, che presto si trasformano in lamenti disperati.{/n} "Vostra Signoria... accetto la vostra decisione... con dignità."
+
+### u071157
+{n}Molti volti ti osservano: ognuno attende il verdetto del Rogue Trader con il fiato sospeso.{/n}
+
+### u071158
+{n}Il Governatore Drivestem si inchina con tensione e risponde senza esitare,{/n} "Inteso, Vostra Signoria. Permettetemi di preparare tutto..."
+
+### u071159
+"Non mi opporrò al vostro verdetto spregevole. Lo accetterò. La Casata Sauerback non vi ha mai dato alcun motivo di dubitare della nostra lealtà e, perciò, accetterò la morte con orgoglio, perché c'è più onore in questo che nel servire gente come voi." {n}Solleva il mento con aria di sfida e sembra che all'improvviso vi guardi dall'alto di una grande altezza.{/n}
+
+### u071160
+{n}Regina prende fiato per dire qualcosa, ma si ferma all'ultimo momento. Il suo bel volto non esprime altro che una gelida rassegnazione.{/n}
+
+### u071161
+{n}Abelard fa un passo avanti e fissa intensamente il patriarca della Casata Sauerback.{/n} "Macharius, devo ammettere che ho sempre ammirato la vostra franchezza. Ma proprio come io dovetti dire addio a una promozione per la mia avversione agli intrighi, voi, e la vostra famiglia, potreste presto dire addio alle vostre teste. Ditemelo ora, a modo vostro, senza giri di parole: siete leale alla Casata von Valancius?"
+
+### u071162
+{n}Abelard scuote la testa.{/n} "E voi avete messo in dubbio l'onore della mia famiglia, Urbend. Tuttavia, non ho alcun desiderio di infierire su un uomo caduto. Lord Capitano, la confessione che avete ottenuto significa che la Casata Werserian può ora essere scagionata da ogni accusa."
+
+### u071163
+{n}Lo sguardo duro del Siniscalco si addolcisce. Un gesto sfuggente, visibile solo a te, trasmette il messaggio: "Toriana Gaprak è colpevole solo del proprio scarso giudizio."{/n}
+
+### u071164
+"Che l'Imperatore non voglia, Vostra Signoria!" {n}Il governatore getta le mani all'aria, impotente, come a voler significare la propria impotenza.{/n}
+
+### u071165
+"Halen? Non l'ho visto di persona, ma forse..." {n}Il governatore si volta e chiede alla sua famiglia,{/n} "Qualcuno di voi lo ha visto oggi?"
+
+### u071166
+"Infatti." {n}Abelard ti guarda in volto per pochi istanti, poi distoglie lo sguardo.{/n} "Come desiderate, Lord Capitano."
+
+### u071167
+"Lord Capitano, penso che dovremmo andare in quel posto e dare un'occhiata. Non so con certezza cosa potremmo trovarvi, ma oggi è una giornata piena di sorprese... per lo più sgradevoli."
+
+### u071168
+{n}Macharius non fa in tempo a rispondere: Regina, in piedi accanto a lui, alza il braccio come per schiaffeggiare l'anziano Siniscalco. Abelard le afferra con destrezza il polso, fermandole la mano proprio davanti al proprio viso. La sua mano aggraziata è adornata da un massiccio anello augmetico sormontato da una sottile punta che gocciola veleno.{/n}
+
+### u071169
+"Macharius, la vostra franchezza fa di voi un libro aperto. Quando parlavo di aiutare i Gaprak, non avevate idea di cosa intendessi. Vostra moglie, invece... i suoi occhi hanno iniziato a saettare in un modo che non potete immaginare. Regina Sauerback, siete stata solo voi a tradire il Rogue Trader, mettendo a repentaglio la prosperità della dinastia mercantile dei von Valancius. E siete solo voi la responsabile del vostro smascheramento."
+
+### u071170
+"Non appena i problemi logistici ed economici hanno dato origine alle prime voci, abbiamo cercato di trovare il responsabile della diffusione degli appelli per il ritorno di Voigtvir. L'indagine ha dimostrato che alcuni dei documenti all'interno dell'Adeptus Administratum erano falsi. Per queste osservazioni così acute dobbiamo ringraziare mio figlio Cornelius."
+
+### u071171
+"Servitori ad alta funzionalità?" {n}Drivestem riflette su questo, strofinandosi il mento con il pollice.{/n} "Servitori simili sono effettivamente rari e i Gaprak ne hanno al loro servizio, ma potrebbe essere stato fatto di proposito per confondervi. Chiunque abbia il desiderio e i fondi sufficienti può assoldarli."
+
+### u071172
+"Un membro della Casata Gaprak è stato ucciso nel palazzo?" {n}Gli occhi del governatore si sgranano per la sorpresa.{/n} "E nessuno se n'è accorto? Ma come... ci sono custodi di guardia a ogni altare..."
+
+### u071173
+"Figlio, mostra il dovuto rispetto. Perdonatelo, Vostra Signoria. È la prima volta che ha l'onore di attirare l'attenzione del Rogue Trader."
+
+### u071174
+{n}Il Governatore Drivestem osserva da vicino il foglio macchiato di sangue.{/n} "Sembra un'altra prova che incrimina la Casata Werserian. Forse intendevano davvero uccidervi, o almeno creare scompiglio per aiutarli a fuggire dalla custodia nella confusione che ne sarebbe seguita."
+
+### u071175
+"Vostra Signoria..." {n}Un giovane snello si inchina goffamente davanti a te e si lecca nervosamente le labbra secche.{/n} "Vi assicuro che la mia umile persona non merita la vostra attenzione..."
+
+### u071176
+"Cornelius ricopre una posizione prestigiosa al Palazzo dell'Administratum ed è stato lui a scoprire gli errori che hanno causato l'interruzione della logistica. È anche grazie a lui che abbiamo trovato gli autori delle falsificazioni, i quali hanno ammesso di aver agito per ordine della Casata Werserian."
+
+### u071177
+{n}Abelard studia Sauerback, poi annuisce all'improvviso.{/n} "Non state mentendo. Ma qualcun altro sì, qualcuno pronto a distruggere sia voi sia la vostra famiglia per il proprio tornaconto."
+
+### u071178
+{n}Le pupille del giovane si dilatano di colpo. Si mette sull'attenti e ti risponde tutto d'un fiato:{/n} "Questa è la prima volta che parlo faccia a faccia con il Rogue Trader... Ho paura di dire qualcosa di sbagliato o di dimenticare qualcosa di importante."
+
+### u071179
+{n}Il governatore osserva attentamente il figlio. Il suo tono cambia, ora è severo e brusco:{/n} "Desideri dire altro al Lord Capitano?"
+
+### u071180
+{n}Heinrix socchiude gli occhi e, guardandoti, scuote la testa.{/n}
+
+### u071181
+{n}Vedi un lampo di terrore negli occhi di Cornelius mentre fissa la tua mano sull'arma. Parla piano e con aria confusa, senza alzare la testa:{/n} "Perdonatemi, perdonatemi, Vostra Signoria... Io... io... non ce la faccio più."
+
+### u071182
+{n}Come la punta sul suo anello, le parole di Regina grondano veleno e rabbia.{/n} "Perché Dargonus serve un impostore. Il vero erede del protettorato porta un altro nome! Quando Kunrad è apparso su Dargonus, mi ha fatto visita e mi ha aperto gli occhi sulla verità della situazione. Theodora è stata uccisa da colui che aveva preso così incautamente sotto la sua ala!"
+
+### u071183
+{n}Sauerback sposta lo sguardo confuso dalla moglie ad Abelard, poi di nuovo sulla moglie. La rigida arroganza è svanita dal suo portamento.{/n} "Regina... Tu?"
+
+### u071184
+{n}Un brivido percorre il corpo di Toriana e sembra sul punto di svenire, ma riesce a restare in piedi. Le augmetiche sul suo volto emettono un sgradevole scatto prima che inizi a parlare.{/n} "Come desiderate, Vostra Signoria. La Casata Gaprak vi è stata leale in vita e resterà leale... nella morte."
+
+### u071185
+" Vostra Signoria... Mi avete fatto un grande onore permettendomi di servirvi..." {n}La voce di Vicent trema in modo evidente, ma il suo portamento resta eretto e fermo.{/n}
+
+### u071186
+{n}Cornelius si inchina e risponde, visibilmente sollevato,{/n} "Vi ringrazio, Vostra Signoria!"
+
+### u071187
+"Questa menzogna è andata troppo oltre e non riesco più a controllarla... La verità è... è... che tutti i problemi logistici sono stati causati da un singolo errore nei numeri... Un mio errore."
+
+### u071188
+{n}Urbend stringe le mani a pugno, le nocche che sbiancano.{/n} "Cosa hai fatto... Come hai potuto... Vostra Signoria!" {n}Si volta di scatto verso di te, come per fare da scudo al figlio.{/n} "È colpa mia! Mi sono fidato di mio figlio e vi ho deluso! Vi prego, abbiate pietà!"
+
+### u071189
+{n}La voce di Cornelius trema, ma suona sicura:{/n} "Non ho altro da aggiungere, Vostra Signoria. Se il mio nervosismo al nostro incontro è il motivo della vostra ira... chiedo umilmente il vostro perdono."
+
+### u071190
+{n}Il governatore fissa per un po' il corpo senza vita del figlio, senza muovere un muscolo. Con le labbra tremanti, parla all'improvviso con una voce sorprendentemente ferma:{/n} "Vi ringrazio, Vostra Signoria. Questa è una vergogna per la mia famiglia. Spero di poterla espiare."
+
+### u071191
+{n}La folla di nobili accoglie la fine della Casata Sauerback con sogghigni gelidi e rimproveri.{/n}
+
+### u071192
+"Oh, certo che no. Ho troppi aiutanti per elencarli tutti, ma state {mf|certo|certa} che sono molti, così come sono molti coloro che seguono Maestro Voigtvir. La mia morte non cambierà nulla: il vero Rogue Trader verrà e prenderà il posto che gli spetta di diritto, quando sarà il momento."
+
+### u071193
+"Halen era un buon agente, ma era anche un codardo. Venne da me poco prima dell'arrivo del nostro formidabile Rogue Trader: era pronto a confessare tutto. Gli suggerii di implorare prima il perdono dell'Imperatore... e Lui gli ha concesso misericordia, non è vero?"
+
+### u071194
+{n}Regina inclina la testa e ti sorride, dolce come prima.{/n} "Ammetto di aver provato rammarico per avervi causato tali difficoltà. Ma cosa dovevo fare? Il dovere ci impone di frenare i nostri desideri più autentici. Non è vero, Rogue Trader?"
+
+### u071195
+"Ma ancora non sappiamo chi ci fosse dietro le falsificazioni, le rivolte, il complotto e l'attentato. Qualcuno sta compiendo le sue azioni immonde e seminando il caos proprio sotto il naso dei vostri sudditi. Lasciare quella pietra non rivoltata sarebbe... pericoloso."
+
+### u071196
+"Sarà fatto, Vostra Signoria. Macharius Sauerback, Regina Sauerback e Hetka Sauerback, così come il resto della Casata Sauerback, sono stati giudicati colpevoli di eresia. Per ordine del Rogue Trader, l'intera casata è condannata a morte. La sentenza dev'essere eseguita immediatamente."
+
+### u071197
+{n}Sauerback socchiude gli occhi, con una smorfia.{/n} "Sono leale, Werserian."
+
+### u071198
+"Vi ringrazio, Vostra Signoria!" {n}Il governatore si inchina profondamente, poi lancia al figlio uno sguardo carico di amarezza e frustrazione.{/n} "E quanto al tuo incarico... penso che verrai riassegnato a un ruolo che richieda meno responsabilità."
+
+### u071199
+{n}Un'ondata di mormorii sconvolti attraversa i nobili radunati, poi lascia rapidamente il posto a un silenzio opprimente. Nemmeno un sussurro interrompe il tuo discorso.{/n}
+
+### u071200
+{n}Il Siniscalco ti rivolge un cenno come per esortarti a proseguire, poi sposta il suo sguardo penetrante sulla folla davanti a te.{/n}
+
+### u071201
+{n}Il governatore chiude gli occhi, sopraffatto dalla paura e dalla vergogna. Alcuni volti tra la folla appaiono confusi e sorpresi, ma ne vedi di più con espressioni di compiaciuto disprezzo.{/n}
+
+### u071202
+{n}Sussurri beffardi serpeggiano tra la folla. Toriana trema appena. Ancora non alza la testa, forse per paura di incontrare il proprio destino faccia a faccia.{/n}
+
+### u071203
+"La vostra negligenza è sbalorditiva, Urbend. Un tentato assassinio seguito da una morte misteriosa, eppure eccovi qui, ignaro di tutto. Il Rogue Trader può giustamente accusarvi di aver permesso che un nobile fosse ucciso nel palazzo e di non esservene nemmeno accorto."
+
+### u071204
+{n}La folla resta in silenzio, con solo gli sguardi tesi e ansiosi che saettano tra te e Macharius. Le sopracciglia di Sauerback si alzano sempre più e noti la sua mascella che si contrae nervosamente.{/n}
+
+### u071205
+"Può darsi, ma spetta al Rogue Trader accusarmi di negligenza, non a voi." {n}Il governatore si rivolge di nuovo a te.{/n} "Vostra Signoria, accettate le mie più profonde scuse per la mia imprudenza. Nulla conta più del mio onore. Manderò subito i domestici a occuparsi di tutto questo..."
+
+### u071206
+{n}I nobili parlano sommessamente tra loro, poi una donna di mezza età con un'alta e stravagante acconciatura ti risponde,{/n} "Credo che mia sorella e io lo abbiamo visto seduto su una panchina a una certa distanza dall'ingresso del palazzo... Pensiamo che fosse accompagnato da un gentiluomo, ma, perdonateci, Vostra Signoria, non siamo riuscite a distinguerne il volto."
+
+### u071207
+{n}Sauerback aggrotta la fronte e inclina leggermente la testa: distoglie lo sguardo per la prima volta, come se cercasse di ricordare o di capire qualcosa. Noti alcuni movimenti inquieti dietro di lui.{/n}
+
+### u071208
+"Ha paura... Sì, in questo moccioso c'è abbastanza paura da sfamare una piccola squadra."
+
+### u071209
+{n}Abelard guarda dal governatore a te e scuote sottilmente la testa, come per dire: "No, non è Drivestem a tirare i fili qui."{/n}
+
+### u071210
+{n}Abelard socchiude gli occhi ed esamina Macharius Sauerback e il suo seguito, fermo dietro di lui. Per un istante, i suoi occhi acuti sembrano aver scorto qualcosa, per poi perderlo di vista subito dopo. Un sospiro deluso ti dice: "Potrebbe essere un Sauerback... ma è davvero lui il responsabile di tutto questo?"{/n}
+
+### u071211
+{n}Abelard socchiude gli occhi ed esamina Macharius Sauerback e il suo seguito, fermo dietro di lui. I suoi occhi acuti si illuminano quando individua qualcosa di importante, nascosto tra la folla. Il Siniscalco ti guarda e annuisce, come per dire: "Il burattinaio si è tradito. Pronuncia il verdetto."{/n}
+
+### u071212
+"Mio padre e io siamo riusciti a individuare gli impiegati dell'Administratum responsabili della manomissione dei dati. Dopo un... acceso interrogatorio, hanno confessato di seguire gli ordini di qualcuno della Casata Werserian. Tutto doveva sembrare come se fossero loro a subire le perdite dovute ai problemi logistici ed economici..."
+
+### u071213
+"Quando ho scoperto il mio errore... era quasi impossibile ripristinare le linee di rifornimento... poi... mi ha avvicinato... qualcuno che diceva di essere... un amico. Non mi ha dato il suo nome e non ne ho mai visto il volto. Ha promesso di risolvere il problema. Tutto ciò che dovevo fare era fingere che i Werserian fossero responsabili dell'errore. Quanto al resto delle prove, ha promesso di organizzare tutto lui. E... e..." {n}Cornelius soffoca per la paura, incapace di parlare.{/n}
+
+### u071214
+"Per lettera. Un giorno ho ricevuto una lettera dal nulla: non era firmata, ma chi la scriveva sapeva già dei miei calcoli sbagliati. Mi ha offerto di aiutarmi a coprire la mia colpa... e in cambio avrei dovuto indicare i Werserian come coloro che avevano sabotato le linee di rifornimento. Dovevo solo raccogliere alcuni documenti e rapporti elencati in una delle lettere... quello, e tenere la bocca chiusa."
+
+### u071215
+"Certo! Considerate fatto."
+
+### u071216
+"No! No, vi prego, questo no! Io... Sì, ho qualcosa da dire che prima ho omesso..."
+
+### u071217
+"COSA?" {n}Urbend appare davvero sconvolto, e furioso.{/n}
+
+### u071218
+"Macharius è troppo ottuso per prendere anche solo in considerazione l'idea di opporsi al Rogue Trader, persino a uno illegittimo. Così ho dovuto aspettare il momento giusto... e la scomparsa del Lord Capitano non poteva capitare in un momento migliore. È stato piuttosto semplice innescare una catena di eventi su Dargonus affinché la gente ricordasse i servigi passati di Maestro Voigtvir: sembra che molti dei vostri sudditi non vi ritengano affatto un degno successore."
+
+### u071219
+"Perché privata della protezione del Siniscalco, questa casata è la più debole di tutta Dargonus. E sono anche particolarmente invisi alla famiglia del governatore. Sarebbe stato facile seppellire i Werserian sotto accuse di eresia."
+
+### u071220
+{n}Abelard rivolge lo sguardo a te.{/n} "Il Rogue Trader condanna soltanto la mela marcia o l'intero barile?"
+
+### u071221
+"Vi ringrazio per l'interesse, Vostra Signoria, ma non ne sono degno..." {n}Il figlio del governatore si inchina e resta immobile, fissando nervosamente il pavimento.{/n}
+
+### u071222
+"In tal caso, Regina Sauerback sarà sottoposta a un intenso interrogatorio seguito dall'esecuzione."
+
+### u071223
+{n}Il governatore ti fissa con lo sguardo vuoto, cercando di non guardare il corpo senza vita del figlio che giace lì accanto.{/n} "Vostra Signoria."
+
+### u071224
+"Mi occupo dei documenti e dei registri relativi all'economia di Dargonus. Probabilmente sapete quanto siano scrupolosi i lavoratori dell'Adeptus Administratum. Temo che una spiegazione più dettagliata dei miei compiti rispecchierebbe i processi amministrativi dell'Administratum: troppo lunga e fin troppo minuziosa." {n}Cornelius cerca di guardarti negli occhi, ma è evidente che gli riesce difficile.{/n}
+
+### u071225
+{n}Prima di rispondere, il figlio del governatore si sistema nervosamente la costosa marsina.{/n} "Penso... che la giusta somma di denaro possa aprire qualsiasi porta."
+
+### u071226
+"Secondo te, quali nobili potrebbero avere un motivo per partecipare a una simile cospirazione?"
+
+### u071227
+"Vicent, volevi parlarmi di qualcosa?"
+
+### u071228
+"Pensi che le accuse contro la famiglia Werserian siano vere?"
+
+### u071229
+"Ho esaminato i corpi degli aggressori uccisi oggi. Erano tutti servitori ad alta funzionalità. Servitori di questo tipo sono impiegati solo da famiglie vicine all'Adeptus Mechanicus, non è così?"
+
+### u071230
+"Vicent, desidero parlarti."
+
+### u071231
+"Ho scoperto un cadavere, un membro della tua casata, proprio qui nel mio palazzo. È morto inginocchiato in preghiera."
+
+### u071232
+"Mi dici questo anche se la tua famiglia rischia la morte se verrà giudicata colpevole di tradimento?"
+
+### u071233
+"Grazie, Vicent."
+
+### u071234
+"Capito. Torniamo dagli altri."
+
+### u071235
+"Halen, dici? Parlami di lui, Toriana."
+
+### u071236
+"Cosa ti ha spinto a decidere di parlarmene?
+
+### u071237
+"Cosa suggerisci di fare?"
+
+### u071238
+"La Casata Gaprak potrebbe essere responsabile dei crimini? Dopo le misure punitive prese contro di voi, avete molte ragioni per minare il mio governo."
+
+### u071239
+"Ho trovato questo biglietto sui corpi di uno degli aggressori. Che ne pensi?"
+
+### u071240
+"Cosa può essergli successo?"
+
+### u071241
+"Penso che la tua famiglia sia coinvolta in questa faccenda."
+
+### u071242
+"Che ne pensi delle accuse contro la famiglia Werserian? Potrebbero davvero essere colpevoli?"
+
+### u071243
+"So che tieni ad Astartia Werserian. Sei pronto a vederla morire?"
+
+### u071244
+"Il morto aveva addosso un biglietto. Menziona una sorta di debito."
+
+### u071245
+{n}I lord e le lady sontuosamente vestiti con i colori della Casata Gaprak sono disposti a semicerchio attorno a Toriana e a suo figlio Vicent. I corpi e i volti di quasi tutti i membri di questa dinastia sono ricoperti di grandi e ornate augmetiche.{/n}
+
+### u071246
+{n}Un'ondata di saluti e di inchini rispettosi nei tuoi confronti attraversa la folla.{/n}
+
+### u071247
+"Lady Toriana, la mia famiglia non è ancora stata giudicata colpevole di nulla. Quel verdetto spetta al Rogue Trader."
+
+### u071248
+"Sono grato per l'opportunità di servirvi a bordo della vostra nave e vorrei ricambiare tanta generosità..." {n}Vicent guarda indietro verso la sua famiglia prima di continuare.{/n} "Vedete, nutro sentimenti speciali e teneri per Astartia Werserian. Penso di sapere qualcosa che può aiutarla a sfuggire alla morte, anche se rivelarlo potrebbe mettere a repentaglio la mia stessa famiglia."
+
+### u071249
+"Oggi ho notato che uno dei miei familiari era di un umore strano, insolito per lui. Halen Gaprak è un mio cugino di secondo grado per parte di padre, che l'Imperatore salvi la sua anima. Di solito riservato e padrone di sé, oggi era frenetico e ansioso, tormentava un pezzetto di carta e sembrava cercare qualcuno senza riuscire a trovarlo. L'ultima volta che l'ho visto, si dirigeva verso l'atrio d'ingresso, dove si trovano gli altari. Forse dovreste parlare con lui."
+
+### u071250
+"Halen è uno dei membri di rango inferiore della Casata Gaprak... Nonostante l'età avanzata, non ha mai ricoperto cariche importanti, ma si è sempre sforzato di migliorare la propria posizione, persino oltre le sue capacità. Molti membri della mia casata... hanno faticato a far fronte alla sventura che si è abbattuta su Kiava Gamma e sulla nostra famiglia. Alcuni non riuscivano a rassegnarsi alla nostra nuova posizione. Halen era uno di loro."
+
+### u071251
+"Non credo di poter dubitare della validità delle accuse, ma..." {n}La voce di Vicent si affievolisce e sembra ritirarsi in se stesso per un istante. Prima di continuare, fa un respiro profondo.{/n} "Non sono nemmeno certo che la Casata Werserian avesse un motivo per tradirvi, Vostra Signoria. Non conosco alcun caso in cui la loro lealtà verso di voi e verso l'Imperatore sia stata altro che incrollabile."
+
+### u071252
+"Non mi assumerei una simile responsabilità giudicando la loro colpevolezza, Vostra Signoria. Credo però che le accuse del Governatore Drivestem meritino di essere prese in considerazione."
+
+### u071253
+{n}È impossibile leggere le emozioni di Toriana sul suo volto ricco di augmetiche, ma il suo brusco voltarsi verso la famiglia tradisce la sua confusione e la sua sorpresa. Sussurri perplessi rimbalzano da un familiare all'altro: "Impossibile!"; "Siamo venuti qui da soli, senza servitori..."; "Non ne sappiamo nulla!"{/n}
+
+### u071254
+"Vostra Signoria... Vi ringrazio per averci informato. Avete assolutamente ragione: la mia casata è stata davvero dotata di servitori ad alta funzionalità, una benedizione per chi venera l'Omnissiah. Ma oggi... nessuno dei membri della nostra casata era accompagnato da loro."
+
+### u071255
+{n}Vicent china il capo in un rispettoso inchino.{/n}
+
+### u071256
+{n}Toriana si copre la bocca aperta con la mano per la sorpresa e, voltandosi verso la famiglia, cerca qualcuno tra loro.{/n} "Halen... Non può essere."
+
+### u071257
+{n}L'augmetica della mascella di Vicent stride leggermente. Il giovane scruta per qualche istante la madre e gli altri familiari.{/n} "C'è qualcosa che dovreste sapere, Vostra Signoria."
+
+### u071258
+"Abbiamo perso Kiava Gamma, un colpo davvero devastante per ogni membro della Casata Gaprak. Io ho perso ogni speranza per il futuro e i miei parenti hanno perso il senso di uno scopo. Avevamo bisogno di tempo per riprenderci e tracciare una nuova rotta. Eravamo, e siamo ancora, più che capaci di farlo. Ma non lo negherò: le altre casate ci hanno offerto il loro aiuto... per i propri fini egoistici. Forse Halen ha deciso di accettare una delle loro offerte alle mie spalle."
+
+### u071259
+"Vostra Signoria... Un membro della mia famiglia sembra essere stato coinvolto in qualcosa di sinistro e ne ha pagato il prezzo, ma era un'anomalia tra i nobili della Casata Gaprak. Noi serviamo l'Omnissiah e voi." {n}Toriana china umilmente il capo.{/n}
+
+### u071260
+"Lasciatemi dare un'occhiata... Oh, Halen... sciocco. Perdonatemi, Vostra Signoria, ma non ho nulla da dire. È la prima volta che vedo questa lettera e non ho idea di quale debito possa riferirsi."
+
+### u071261
+"Vostra Signoria..." {n}Vicent balbetta con imbarazzo e guarda brevemente la sua famiglia.{/n} "Vorrei parlarvi di una cosa in privato... se non vi dispiace, abbiate la bontà di ascoltarmi."
+
+### u071262
+"Sì, Vostra Signoria. Parliamo in privato."
+
+### u071263
+"Non potrei sopportare di vivere sapendo di non aver rivelato informazioni che avrebbero potuto salvare degli innocenti." {n}Vicent distoglie lo sguardo, imbarazzato.{/n}
+
+### u071264
+{n}Vicent resta in silenzio per un po', poi risponde con un pesante sospiro,{/n} "Sì. Forse in me c'è ancora un barlume di speranza che Halen non sia coinvolto in alcun modo e che sarà in grado di indicarvi il responsabile di tutto questo... Ma la verità è che le mie azioni, adesso, vengono dal cuore, non dalla testa."
+
+### u071265
+"Vostra Signoria." {n}Vicent china rispettosamente il capo.{/n}
+
+### u071266
+{n}Il Siniscalco si inchina appena e parla a bassa voce, in modo che solo tu possa sentirlo:{/n} "Lord Capitano, i Gaprak, tutti o forse solo alcuni, sono senza dubbio coinvolti, ma sospetto che non fossero loro dietro il complotto contro di voi. Halen Gaprak potrebbe essere nulla più che una marionetta nelle mani di un abile burattinaio. Dobbiamo smascherare chiunque sia, se vogliamo impedire che la pestilenza dell'eresia si diffonda ulteriormente."
+
+### u071267
+"Interrogate i capi delle casate Drivestem e Sauerback. Uno dei due ha tirato i fili. Una volta scoperte nuove prove, annunciate che il colpevole sarà giustiziato pubblicamente. Prima di pronunciare il verdetto, suggerisco di concentrarvi su ciascuna casata nel vostro discorso d'accusa, e io le osserverò."
+
+### u071268
+"Avete già motivo di sospettare che la Casata Sauerback sia coinvolta nella cospirazione e nell'attentato alla vostra vita. Anche la decisione del Governatore Drivestem di accusare ingiustamente la Casata Werserian getta dubbi sulla sua competenza. Ditegli che siete {mf|pronto|pronta} a pronunciare il verdetto. Ma prima di farlo, suggerisco di concentrarvi su ciascuna casata nel vostro discorso d'accusa, e io le osserverò."
+
+### u071269
+{n}Gli occhi di Toriana si sgranano.{/n} "No, Vostra Signoria! La mia famiglia vi ha deluso: è stato per via delle nostre stesse azioni che la nostra lealtà è stata messa in discussione... Ammetto che ci sono alcuni nella mia casata che sono stati scoraggiati da questa giusta punizione e hanno scelto di lamentarsi del proprio destino invece di impegnarsi per ripulire il nome della famiglia. Sto prendendo provvedimenti affinché i loro lamenti restino nient'altro che vuoti piagnistei e affinché la Casata Gaprak possa un giorno riguadagnare il vostro favore."
+
+### u071270
+{n}Le dita meccaniche di Toriana stringono il foglio.{/n} "Ufficialmente, i servitori ad alta funzionalità sono impiegati dalla mia casata e solo dalla mia casata. Se tali unità attaccassero il Rogue Trader, il sospetto cadrebbe immediatamente sui Gaprak. Presumo che fosse proprio quello che i Werserian intendevano far accadere, ma non si aspettavano che i servitori avessero addosso questa lettera."
+
+### u071271
+{n}Toriana Gaprak ti rivolge una riverenza. La sua voce meccanica suona distante e indifferente:{/n} "Salute a voi, Vostra Signoria. Che l'Omnissiah vi conceda comprensione." {n}Con uno scatto, gli oculari del suo visore ruotano verso il Siniscalco.{/n} "Abelard. Dev'essere difficile per voi essere qui in queste circostanze, con la vostra casata accusata di un crimine così grave."
+
+### u071272
+"Conosco quelle persone da molto più tempo di voi. Conosco tutti i loro gesti, le loro abitudini e le loro stranezze comportamentali. Sono certo che sarò in grado di stabilire quale di loro sia responsabile delle rivolte in base al loro comportamento."
+
+### u071273
+{n}Riflette per qualche istante prima di rispondere:{/n} "Perdonate la mia franchezza, Vostra Signoria, ma risponderò con sincerità: potrebbe essere chiunque. L'avidità, la paura e gli ideali possono spingere anche i sudditi più leali a fare l'impensabile."
+
+### u071274
+"Pronto a servirvi, Vostra Signoria. Come posso aiutarvi?"
+
+### u071275
+"Toriana, il tempo di restare in silenzio è finito da un pezzo. Il futuro della dinastia mercantile dei von Valancius e della tua casata è ora in gioco."
+
+### u071276
+{n}Gli oculari del visore di Toriana sono fissi sul pavimento, mentre le sue dita si stringono senza posa nella stoffa dell'abito.{/n}
+
+### u071277
+{n}Abelard aggrotta la fronte.{/n} "Per quanto ne so, la Casata Gaprak ha ricevuto in passato servitori di questo tipo in dono dal sacerdozio cremisi, anche se è la prima volta che ne vedo uno di persona."
+
+### u071278
+[Indica i cadaveri] "Cos'è questo disastro?"
+
+### u071279
+"Dov'è la cancelliera di corte, Clementia Werserian?"
+
+### u071280
+"Perché il governatore non è qui ad accogliere il Rogue Trader?"
+
+### u071281
+[Esamina gli aggressori]
+
+### u071282
+{n}Ti trovi di fronte alla vista di cadaveri all'ingresso del palazzo. I corpi sono stati ammucchiati in una pila: alcuni indossano le uniformi dei custodi del palazzo, altri sono vestiti con abiti tipici della nobiltà di Dargonus.{/n}
+
+### u071283
+{n}Vedendoti, il giovane tutore dell'ordine si mette sull'attenti e deglutisce rumorosamente. La sua voce trema mentre dice,{/n} "Vostra Signoria! Siamo onorati della vostra presenza!"
+
+### u071284
+"Vedete, Vostra Signoria... Quelle persone volevano attaccare..." {n}Il custode si schiarisce la gola.{/n} "Sottotenente della Guardia del Palazzo Elam Weit, a rapporto. Poco prima del vostro arrivo, abbiamo sventato un... attentato al Rogue Trader. I soldati del palazzo hanno individuato degli intrusi e li hanno affrontati in combattimento."
+
+### u071285
+"Penso che sia con il resto della Casata Werserian... Detenuta nella sala del trono, intendo. Il Governatore Drivestem ha riunito lì tutta la nobiltà di Dargonus per pronunciare un verdetto di colpevolezza contro la Casata Werserian."
+
+### u071286
+"Non lo so, Vostra Signoria! Forse è..." {n}La guardia lancia uno sguardo timoroso ad Abelard.{/n} "Probabilmente lo troverete nella sala del trono, dove il governatore intende processare la Casata Werserian."
+
+### u071287
+{n}I corpi degli aggressori sono costellati di molte augmetiche, ma a un esame più attento ti rendi conto che non sono semplici impianti. La loro costruzione chiarisce che i defunti non erano esseri umani ma, in realtà, rari servitori ad alta funzionalità.{/n}
+
+### u071288
+"Osservazione. Tra le unità defunte sono presenti rari esemplari di servitori ad alta funzionalità. Tali esemplari vengono tradizionalmente concessi alle case nobili più fedeli alla sacra fratellanza dell'Adeptus Mechanicus."
+
+### u071289
+{n}Gli aggressori indossano abiti semplici ma ben confezionati, sotto i quali si intravedono strane augmetiche.{/n}
+
+### u071290
+{n}Le augmetiche dei defunti differiscono dagli impianti che portano le persone comuni. La loro costruzione intricata chiarisce che i defunti non erano normali esseri umani.{/n}
+
+### u071291
+La lettera è intrisa di sangue. Solo una parte del testo è leggibile attraverso le macchie cremisi.
+"...ttento e discreto. Tieniti lontano dai lord e dalle lady. Devi sembrare un nobile agli occhi dei domestici e dei custodi. Non intavolare conversazione con nessuno. Il tuo compito è evitare di esporti in anticipo e lasciare che i Werserian fuggano mentre i custodi sono impegnati a sorvegliare il Rogue Trader."
+
+### u071292
+Lettera macchiata di sangue
+
+### u071293
+"Assicurati che il Rogue Trader sia attaccato da qualcuno di fedele. Deve sembrare che sia tutta una messinscena per far fuggire la famiglia Werserian. Questo è l'ultimo incarico. Presto il tuo debito sarà saldato per intero."
+
+### u071294
+Breve biglietto
+
+### u071295
+Un raffinato anello augmetico che nasconde al suo interno una minuscola lama simile a una spina. Un simile accessorio potrebbe rivelarsi un'arma letale nelle mani giuste.
+
+### u071296
+Anello del traditore
+
+### u071297
+"Tu e la tua famiglia dovete essere preparati per la prossima volta che accadrà qualcosa del genere."
+
+### u071298
+{n}Quando i nobili si disperdono, sazi dello spettacolo sanguinoso, Abelard ti si avvicina con passo deciso.{/n} "Lord Capitano."
+
+### u071299
+"Urbend e io potremmo non essere sempre stati d'accordo, ma la sua lealtà a Lady Theodora era assoluta, ed è {d|Encyclopedia:CompAbelard_Q2_KilledGuilty}finita{/d} in modo così... ignominioso."
+
+### u071300
+"Non c'è dubbio che i Gaprak fossero {d|Encyclopedia:CompAbelard_Q2_KilledGuilty}coinvolti{/d} nel complotto contro di voi... Spero che la loro morte ponga fine al diffondersi dell'eresia pestilenziale tra i nobili del vostro dominio."
+
+### u071301
+"I Sauerback sono stati una delle prime famiglie a giungere nella Distesa. Servono l'Imperatore da centinaia di anni e non hanno mai mostrato segni di slealtà, almeno nessuno registrato nelle fonti ufficiali. È piuttosto deplorevole che la loro nobile stirpe sia {d|Encyclopedia:CompAbelard_Q2_KilledGuilty}finita{/d}... in tal modo."
+
+### u071302
+"Penso che Macharius abbia abbassato la guardia e sia caduto vittima della propria imprudenza. Non credo che né lui né Hetka fossero a conoscenza delle azioni di Regina. È una... triste ma giusta {d|Encyclopedia:CompAbelard_Q2_KilledGuilty}conclusione{/d} della loro storia."
+
+### u071303
+"Ho bisogno di tempo per riflettere su quanto è accaduto e sul ruolo che vi ho avuto. Penso che sarò pronto a riprendere questa conversazione più tardi, quando saremo di nuovo a bordo della nave." {n}Abelard ti rivolge un deferente inchino e si allontana, perso nei suoi pensieri.{/n}
+
+### u071304
+"Grazie a voi, Lord Capitano, la Casata Werserian è salva, anche se è stata a un passo dall'essere spazzata via a causa di intrighi esterni e imprudenza interna." {n}Abelard si ferma un istante, con lo sguardo perso in lontananza.{/n} "A volte penso a quanto potrei insegnare loro. Potrei far sì che sopravvivano in futuro, senza di me."
+
+### u071305
+{n}Abelard annuisce, assorto.{/n} "È vero. Devono essere preparati, e voglio credere che saranno in grado di badare a se stessi."
+
+### u071306
+"Avete i miei ringraziamenti. Un Rogue Trader non dovrebbe perdere tempo con questioni che i suoi sottoposti e fiduciari possono risolvere, ma in questo caso il vostro intervento era necessario. Non solo per il bene della mia famiglia, ma anche per quello della vostra dinastia mercantile."
+
+### u071307
+"Regina Sauerback... Evidentemente i complici di Kunrad continuano a tramare contro il vostro protettorato. Temo che non abbiamo ancora sentito l'ultima di {d|Encyclopedia:CompAbelard_Q2_KilledRegina}simili canaglie{/d}."
+
+### u071308
+[Osserva attentamente Macharius]
+
+### u071309
+"I miei compagni ti mettono a disagio, Sauerback?"
+
+### u071310
+"Il tuo odio palese nei miei confronti è così evidente, Sauerback, da bastare per accusarti di eresia."
+
+### u071311
+"Credi davvero che i Werserian siano colpevoli?"
+
+### u071312
+[Bacia la mano di Regina] "Sono {mf|onorato|onorata}, Lady Sauerback."
+
+### u071313
+"Chi, oltre ai Werserian, potrebbe avere un motivo per cospirare contro di me?"
+
+### u071314
+"Sullo sfondo cupo degli eventi attuali e della severa famiglia di tuo marito, oggi appari particolarmente splendida, Regina."
+
+### u071315
+"Gli aggressori mandati al palazzo erano rari servitori ad alta funzionalità. Pensi che i Gaprak possano essere dietro l'attacco?"
+
+### u071316
+"Ho scoperto un cadavere nel mio palazzo: un uomo della Casata Gaprak è stato ucciso mentre pregava l'Imperatore. Aveva addosso questo biglietto. Ne sai qualcosa?"
+
+### u071317
+"Hetka, desidero scambiare due parole con te. In privato."
+
+### u071318
+"Sembri teso. Cosa c'è che non va?"
+
+### u071319
+"Torniamo dagli altri."
+
+### u071320
+{n}I membri della Casata Sauerback, guidati da Macharius, hanno tutti una netta somiglianza tra loro, con le loro corporature snelle e gli sguardi severi. Si inchinano a te quasi all'unisono.{/n}
+
+### u071321
+{n}Prima di inchinarsi, Sauerback ti scruta con uno sguardo amaro e giudicante.{/n} "Vostra Signoria."
+
+### u071322
+{n}Hetka Sauerback, che sembra una copia più giovane del padre, sta a leggera distanza, vicino alla madre. Un abito costoso ma sobrio serve a mettere in risalto la straordinaria bellezza della moglie di Macharius, Regina Sauerback.{/n}
+
+### u071323
+"Certamente," {n}risponde Sauerback senza esitare.{/n} "Il Governatore Drivestem possiede la prova della loro colpevolezza ed essi non hanno modo di confutarla. Anche ammettendo che i Werserian siano stati incastrati, per quanto ancora la loro casata sarebbe durata, se è così impreparata al tradimento?" {n}Si rivolge ad Abelard con tono leggermente beffardo.{/n} "Il mio consiglio alla Casata Werserian sarebbe di non appellarsi al Rogue Trader per ottenere aiuto, ma di fermarsi semplicemente, accettare il proprio destino e non peggiorare le cose per se stessi."
+
+### u071324
+"Non ricordo che {name} von Valancius abbia chiesto il vostro parere su cosa debba fare la Casata Werserian in questa situazione. State attento, Macharius, concentratevi sulle domande del Rogue Trader."
+
+### u071325
+{n}Sauerback fissa Yrliet e un'ombra di ripugnanza gli attraversa il volto.{/n}
+
+### u071326
+{n}Nonostante i tentativi di Sauerback di reprimere la ripugnanza, la presenza di non umani nel tuo seguito riflette senza dubbio il suo fervente desiderio di eliminare i nemici dell'Umanità.{/n}
+
+### u071327
+{n}Cogli il tono aspro, la postura rigida e lo sguardo ostile di Macharius Sauerback. Il sentimento è decisamente reciproco.{/n}
+
+### u071328
+{n}Il volto di Sauerback diventa rosso, il suo sguardo furioso puntato su di te. Una rabbia incontenibile ribolle in ogni sua parola:{/n} "Il Rogue Trader è il servitore prescelto dell'Imperatore e uno dei migliori dell'Umanità. Circondandovi di xenos depravati che disprezzano la stessa eccezionalità del genere umano, vi trovate sull'orlo dell'eresia. E nessun privilegio concesso dall'Imperatore può impedire agli altri di vederlo."
+
+### u071329
+{n}Il volto di Sauerback diventa rosso e lui serra i denti con agitazione. Gli echi della sua rabbia trattenuta si sentono nel tono roco della sua voce:{/n} "Sono un fedele servitore della vostra dinastia. Non spetta a me giudicare i compagni del Rogue Trader."
+
+### u071330
+{n}Gli occhi del patriarca dei Sauerback sono fissi su Marazhai. Sembra che l'aria stessa si sia fatta pesante. Con evidente sforzo, Sauerback riporta lo sguardo su di te.{/n}
+
+### u071331
+"L'idea di esistere nello stesso settore di xenos è rivoltante, ma la loro presenza nel vostro seguito, qui, nella capitale della dinastia mercantile dei von Valancius, mi fa infuriare. Avere xenos che insozzano le strade di questo pianeta dopo quello che abbiamo sopportato, e per di più sotto la protezione del Rogue Trader!" {n}Sauerback fa un respiro profondo ed espira rumorosamente. La sua rabbia si placa, ma il suo sguardo ardente resta fisso su di te.{/n}
+
+### u071332
+"Lo sento dire da voi, il servitore dell'Imperatore che disprezza tutto ciò che è sacro? La persona che sembra pensare che le leggi dell'Imperium non significhino nulla?"
+
+### u071333
+"Vostra Signoria, sono felicissima che abbiate scelto di onorarci della vostra attenzione." {n}Regina si abbassa in una riverenza, guardandoti intensamente negli occhi.{/n}
+
+### u071334
+"La Casata Drivestem, che desidera espandere la propria influenza. La Casata Gaprak, che ha perso la sua influenza dopo l'incidente di Kiava Gamma." {n}Sauerback guarda la sua famiglia, poi si volta di nuovo verso di te.{/n} "La Casata Sauerback, il cui patriarca è troppo diretto nella comunicazione con il Rogue Trader. Chiunque potrebbe avere un motivo per cospirare contro di voi, e allo stesso modo potrebbe non averne. Non è una questione di movente, ma di lealtà: ciascuno dei vostri sudditi vi ha giurato fedeltà, perciò di chi mettete in dubbio la sincerità?"
+
+### u071335
+{n}Notando il tuo gesto, Regina tende prontamente la sua mano delicata, dalle unghie lunghe e curate.{/n} "Ma che gentile da parte vostra dirlo, Vostra Signoria!"
+
+### u071336
+{n}Con gli occhi ardenti fissi su di te, Sauerback si raddrizza e si sporge in avanti, cercando di occupare in parte lo spazio tra te e sua moglie.{/n}
+
+### u071337
+{n}Una scintilla civettuola si accende negli occhi della bella dama.{/n} "Davvero, Vostra Signoria? Sono lieta di sentirlo dal Rogue Trader, soprattutto oggi..."
+
+### u071338
+{n}Sembra che il tuo complimento non sia piaciuto a Regina. Fa un passo indietro, sorridendo educatamente. Macharius si rilassa visibilmente, ma continua a osservare ogni tua mossa.{/n}
+
+### u071339
+{n}Macharius quasi abbaia, ogni parola che colpisce come un martello sul metallo,{/n} "Regina. Stai. Lontana. Da. Sua Signoria."
+
+### u071340
+{n}La voce acuta di Regina quasi si spezza in uno strillo: interrompe il marito, replicando con aria di sfida e insubordinazione,{/n} "Oh, che il Trono ti preservi, Macharius! Smettila di essere così geloso e di fare scenate per niente! Solo perché un rozzo zoticone come te non ha la raffinatezza e la cortesia di {name} von Valancius!"
+
+### u071341
+{n}Sauerback distoglie brevemente lo sguardo e ti risponde con una breve risata,{/n} "Ho sempre pensato che Toriana fosse troppo debole per partecipare a imprese tanto... rischiose, ma a quanto pare mi sbagliavo sul suo conto."
+
+### u071342
+{n}Hetka, in piedi dietro Macharius, nota il biglietto che tieni in mano. Subito stringe i pugni e volta bruscamente la testa. Espira profondamente dal naso nel tentativo di contenere un'emozione chiaramente soverchiante.{/n}
+
+### u071343
+{n}Macharius guarda il biglietto senza prenderlo dalle tue mani e risponde senza esitazione,{/n} "No, non so nulla di questo biglietto."
+
+### u071344
+"Vostra Signoria, forse avete notato il mio... momentaneo cedimento. Scusate il mio sfogo."
+
+### u071345
+"Quel biglietto, vedete... Non sono stato abbastanza veloce da leggere il testo, ma riconoscerei quella carta ovunque. Quei fogli, con la goffratura dorata personalizzata sui bordi, si trovano nello studio di mio padre." {n}Il giovane china la testa, spostando il peso da un piede all'altro con disagio.{/n}
+
+### u071346
+"Io... non credo che mio padre possa essere coinvolto in questo. Spesso può essere duro e scortese, ma una cospirazione contro il Rogue Trader è impensabile. Va contro tutto ciò che mi ha insegnato fin dalla nascita. Non riesco nemmeno a immaginare la possibilità che lui... abbia tradito se stesso in un modo simile."
+
+### u071347
+{n}Macharius non presta attenzione al figlio mentre si riunisce al gruppo, ma gli sguardi dei membri più giovani della famiglia Sauerback, irti di sfiducia e dubbio, quasi inchiodano il ragazzo al pavimento.{/n}
+
+### u071348
+{n}Lasci andare la mano di Regina. La sua delusione e la sua frustrazione sono ben visibili nei suoi occhi.{/n}
+
+### u071349
+"Macharius, questo è un momento in cui faresti bene a fermarti e a non peggiorare la tua situazione."
+
+### u071350
+{n}Con un'espressione dolorante e afflitta, Regina lancia un'occhiata al marito, tormentando con le mani i volant del suo abito.{/n}
+
+### u071351
+{n}La voce di Regina cala a un sussurro, in modo che solo tu possa sentirla.{/n} "La sua bile avvelena l'aria intorno a lui ovunque vada. Una volta che si mette in testa qualcosa, si lancia a mozzare le teste altrui solo per dimostrare di avere ragione."
+
+### u071352
+"Gli aggressori erano servitori ad alta funzionalità, più simili a normali esseri umani. Ne sai qualcosa?"
+
+### u071353
+"Ho scoperto il corpo di Halen Gaprak qui, in questo palazzo. Aveva addosso questo biglietto. Ne sai qualcosa?"
+
+### u071354
+"Sei davvero colpevole? Sii sincera: non tollererò menzogne."
+
+### u071355
+"Il governatore sostiene che tu abbia falsificato dei documenti nell'Administratum."
+
+### u071356
+"Ho trovato questa lettera su uno dei corpi degli eretici che hanno pianificato l'attacco. Cosa puoi dirmene?"
+
+### u071357
+"Il figlio del governatore ha ammesso che è stato un suo errore a causare l'interruzione della logistica. Con l'aiuto di un complice non identificato, ha accusato i Werserian per coprire il proprio errore."
+
+### u071358
+"Se non sei colpevole, chi lo è? A chi giova incastrarti?"
+
+### u071359
+"Voglio scoprire cosa sta succedendo qui e chi sia il vero artefice di tutto questo. Da dove devo cominciare?"
+
+### u071360
+{n}Mentre ti avvicini, i custodi si fanno da parte, inchinandosi rispettosamente, e ti permettono di raggiungere la famiglia Werserian. Clementia, stanca e leggermente scarmigliata, è la prima a chinare il capo davanti a te in segno di deferenza. Diversi uomini e donne dietro di lei la imitano.{/n}
+
+### u071361
+{n}La famiglia Werserian ti saluta a voce bassa.{/n}
+
+### u071362
+"Vostra Signoria..." {n}La donna balbetta, come a corto di parole.{/n} "Accettate le mie più umili scuse per non avervi {mf|accolto|accolta} come si deve. E il mio ringraziamento per aver acconsentito a parlare con me prima di prendere la vostra decisione finale."
+
+### u071363
+"Le accuse mosse dal governatore sono gravi, ma, posso solo assicurarvelo e giurarlo sul mio stesso onore, non siamo colpevoli dei crimini di cui la Casata Werserian è accusata."
+
+### u071364
+"Abelard, è anche la tua famiglia, sai!" {n}Le parole della donna ardono di sfida.{/n} "Scusatemi: non dovrei perdere la compostezza. Nessun membro della Casata Werserian è coinvolto in una cospirazione contro Sua Signoria. L'onore e la lealtà non sono cose che prendiamo alla leggera, e sappiamo chi serviamo."
+
+### u071365
+"La flotta è la principale competenza della Casata Werserian: è una nostra responsabilità. La logistica e le rotte di rifornimento sono un altro ambito di nostra responsabilità. Non abbiamo alcuna influenza diretta sul funzionamento interno dell'Adeptus Administratum. Le prime consegne su larga scala sono state annullate dopo che alcune quantità di cibo erano state calcolate male dagli impiegati dell'Administratum. Poi ci siamo trovati di fronte a dati meteorologici errati e a un esiguo budget di carburante. Era chiaro che la causa di tutti questi problemi erano i calcoli effettuati nell'Administratum, in un modo o nell'altro, ma per quante volte lo abbiamo chiesto, non siamo mai riusciti a ottenere alcun chiarimento in merito."
+
+### u071366
+{n}Mentre Clementia legge la lettera, i Werserian dietro di lei la leggono da sopra la sua spalla.{/n} "Vostra Signoria, siamo franchi. Sarebbe stato sciocco da parte mia cercare di orchestrare una cosa del genere, sapendo quanti custodi pattugliano il vostro palazzo. Non avrei permesso né a me né a nessuno della mia famiglia di farsi coinvolgere in un piano simile."
+

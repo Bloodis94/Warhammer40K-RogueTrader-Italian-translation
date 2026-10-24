@@ -1,0 +1,666 @@
+### u002729
+Un tipo di {g|Encyclopedia:EnergyDamage}danni energetici{/g}. Inflitti da qualsiasi cosa usi fasci di energia o plasma, o disintegri il bersaglio.
+
+### u002730
+Danni termici
+
+### u002731
+Un'arma da nave del vuoto che lancia siluri. I siluri possono mettere a segno un {g|Encyclopedia:DirectHitSpace}colpo diretto{/g} oppure infliggere danni ad area in caso di mancato bersaglio (detonando per via di una spoletta di prossimità) o quando vengono fatti detonare manualmente.
+
+### u002732
+Tubi lanciasiluri
+
+### u002733
+Siluri lanciati che possono essere controllati sul campo di battaglia.
+
+### u002734
+Salva di siluri
+
+### u002735
+Un tipo di {g|Encyclopedia:EnergyDamage}danni energetici{/g}. Inflitti da qualsiasi cosa infligga {g|Encyclopedia:DamageGlossary}danni{/g} con veleno, acido corrosivo e simili.
+
+### u002736
+Danni tossici
+
+### u002737
+All'inizio di ogni {g|Encyclopedia:Turn}turno{/g}, il bersaglio colpito deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} per rimuovere questo effetto, altrimenti subisce {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u002738
+Tossina
+
+### u002739
+Tutti gli alleati ottengono +7% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} contro un nemico {g|Encyclopedia:Trailed}pedinato{/g}, +15% se il {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del nemico è pari o superiore a V.
+
+### u002740
+Pedinato
+
+### u002741
+Se un personaggio che ha riportato tre o più {g|Encyclopedia:Injury}lesioni{/g} non le cura in tempo con un {g|ib:Medikit}kit medico{/g}, le lesioni diventeranno <b>traumi</b> (il numero di lesioni necessario a causare un trauma può variare in base alla difficoltà di gioco scelta). I traumi riducono la {g|Encyclopedia:Resolve}determinazione{/g} del personaggio e infliggono anche un ulteriore effetto negativo, che dipende dalle caratteristiche del singolo trauma. I traumi possono essere rimossi e curati completamente solo negli alloggi privati del Rogue Trader a bordo della nave del vuoto.
+
+### u002742
+La somma delle azioni di un personaggio durante un {g|Encyclopedia:Round}round{/g}. Nel proprio turno, un personaggio può spendere {g|Encyclopedia:MovementPoints}punti movimento{/g} per muoversi e {g|Encyclopedia:ActionPoints}punti azione{/g} per eseguire un'azione di attacco o usare le proprie {g|Encyclopedia:Ability}abilità{/g}. L'ordine in cui compi le azioni in combattimento è importante. Un personaggio può muoversi sul campo di battaglia solo prima di compiere un'<b>azione di attacco</b>.
+Una volta che un personaggio attacca, perde i punti movimento rimanenti e non può muoversi fino all'inizio del turno successivo. C'è però un modo per aggirare il problema, ad esempio se il personaggio ha un modo di ottenere punti movimento dopo aver attaccato.
+
+### u002743
+Turno
+
+### u002744
+Esistono abilità speciali utilizzabili nel combattimento a terra: gli {g|Encyclopedia:HeroicAct}atti eroici{/g} e le {g|Encyclopedia:DesperateMeasure}misure disperate{/g}. Ogni personaggio può usare un atto eroico o una misura disperata una sola volta per combattimento. Una misura disperata può essere usata una sola volta per {g|Encyclopedia:Round}round{/g} da tutto il gruppo. Queste abilità diventano disponibili in base al valore di {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g} del gruppo. Se lo slancio del gruppo raggiunge 175, un personaggio può usare un atto eroico. Se il valore dello slancio è 25 o inferiore, diventano disponibili le misure disperate.
+Nel combattimento spaziale i personaggi possono usare una serie diversa di abilità supreme, non disponibili nel combattimento a terra. In ogni combattimento si può usare una sola abilità suprema. La barra che rappresenta la carica dell'abilità suprema si riempie gradualmente a ogni round di combattimento, alla fine del combattimento e durante certi eventi spaziali.
+
+### u002745
+Ogni attacco contro il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} gli conferisce +1 accumulo di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g}. Ogni accumulo aumenta la sua {g|Encyclopedia:Resolve}determinazione{/g} di +1, fino a un massimo di +15. Tutti gli alleati in un raggio di 2 caselle intorno al Vanguard ottengono 1/5 di quel {g|Encyclopedia:Bonus}bonus{/g}.
+Se all'inizio del {g|Encyclopedia:Turn}turno{/g} del Vanguard il numero di {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} rimanenti è inferiore al numero di accumuli di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g}, diventa pari al numero di tali accumuli, anche se all'inizio del turno il Vanguard non ha ferite temporanee.
+
+### u002746
+Quando gli psyker si spingono più a fondo nel warp per alimentare le proprie {g|Encyclopedia:Ability}abilità{/g}, c'è sempre la possibilità che l'Empireo si riversi nella nostra realtà, scatenando la sua influenza distruttiva.
+L'uso dei {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} in battaglia, da parte di alleati e nemici, lacera il velo tra il Materium e l'Immaterium, tra la realtà e i regni da incubo che si trovano oltre. Finché il velo regge, usare i <b>poteri psichici</b> comporta pochi pericoli e provoca soltanto {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g}. Ma se il degrado del velo raggiunge 15, la probabilità di causare <b>fenomeni psichici</b> raddoppia e i {g|Encyclopedia:PerilsOfWarp}pericoli del warp{/g} possono manifestarsi ogni volta che si usa un <b>potere psichico maggiore</b>: la probabilità che accada è pari a <b><u>(10 + {g|Encyclopedia:PsyRating}livello psichico{/g} + degrado del velo)</u>%</b>.
+
+### u002747
+Degrado del Velo
+
+### u002748
+Il personaggio subisce <b>+<u>(numero di accumuli di vulnerabilità × {unit_stat|WarhammerPerception|bonus})</u>%</b> di {g|Encyclopedia:DamageGlossary}danni{/g} in più dagli attacchi dell'{g|Encyclopedia:CareerAssassinGlossary}Assassin{/g}.
+
+### u002749
+Agility (AGI)
+
+### u002750
+Ballistic Skill (BS)
+
+### u002751
+Fellowship (FEL)
+
+### u002752
+Intelligence (INT)
+
+### u002753
+Perception (PER)
+
+### u002754
+Strength (STR)
+
+### u002755
+Toughness (TGH)
+
+### u002756
+Weapon Skill (WS)
+
+### u002757
+Willpower (WP)
+
+### u002758
+Un tipo di {g|Encyclopedia:IrreducibleDamage}danni irriducibili{/g}. Ignora l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}. Inflitti da qualsiasi tipo di esposizione alle energie del warp.
+
+### u002759
+Danni warp
+
+### u002760
+Se un testimone non ha l'{g|Encyclopedia:CareerAssassinGlossary}Assassin{/g} nella propria {g|Encyclopedia:LineOfSight}linea di vista{/g} alla fine del {g|Encyclopedia:Turn}turno{/g} dell'Assassin, quel testimone subisce <b><u>({g|Encyclopedia:Lethality}letalità{/g} / 3)</u>%</b> dei {g|Encyclopedia:DamageGlossary}danni{/g} base massimi dell'arma attuale dell'Assassin.
+
+### u002761
+Durante la <b>fase tattica</b>, i personaggi {g|Encyclopedia:CantAttackEffect}non possono attaccare{/g} né compiere altre azioni, ma possono provare a prendere posizioni vantaggiose. In questa fase, ogni personaggio del gruppo può muoversi fino al proprio massimo di {g|Encyclopedia:MovementPoints}punti movimento{/g}, ma non può posizionarsi adiacente a un nemico.
+La fase tattica non è disponibile se vieni colto in un'imboscata dai nemici.
+
+### u002762
+Mondi aridi
+
+### u002763
+Mondi di cenere
+
+### u002764
+Mondi infuocati
+
+### u002765
+Mondi continentali
+
+### u002766
+Mondi fratturati
+
+### u002767
+Mondi morti
+
+### u002768
+Giganti gassosi
+
+### u002769
+Mondi di ghiaccio
+
+### u002770
+Mondi di lava
+
+### u002771
+Mondi minerari
+
+### u002772
+Mondi oceanici
+
+### u002773
+Planetoide
+
+### u002774
+Mondi rocciosi
+
+### u002775
+Mondi desertici
+
+### u002776
+Mondi di savana
+
+### u002777
+Mondi innevati
+
+### u002778
+Mondi di steppa
+
+### u002779
+Mondi di giungla
+
+### u002780
+Un personaggio che impugna un'arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} crea attorno a sé un'<b>area minacciata</b>. Quest'area comprende tutte le caselle che il personaggio può raggiungere con quell'arma.
+Le azioni di un nemico all'interno di quest'area minacciata, o che tenta di uscirne, possono provocare un attacco con quell'arma da mischia. Questi attacchi sono detti attacchi di opportunità.
+
+### u002781
+Attacchi di opportunità
+
+### u002782
+<b>Un attacco di opportunità</b>:
+-<indent=5%>Consiste in un singolo attacco normale con l'arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} attualmente equipaggiata dal personaggio.</indent>
+-<indent=5%>Può essere parato o {g|Encyclopedia:DodgeGlossary}schivato{/g} dal bersaglio proprio come un attacco normale.</indent>
+-<indent=5%>Può essere potenziato da vari {g|Encyclopedia:Talent}talenti{/g} dell'attaccante, compresi quelli che influiscono specificamente sugli attacchi di opportunità aumentandone i {g|Encyclopedia:DamageGlossary}danni{/g}, la {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} o altri parametri.</indent>
+-<indent=5%>Non consuma i {g|Encyclopedia:ActionPoints}punti azione{/g} dell'attaccante.</indent>
+Un personaggio in un'<b>area minacciata</b>:
+-<indent=5%>Non può usare armi {g|Encyclopedia:Range}a distanza{/g}, ad eccezione di pistole e fucili a pompa.</indent>
+-<indent=5%>Provoca un attacco di opportunità se tenta di uscire dall'area minacciata, cioè se si sposta da una delle caselle minacciate a una non minacciata.</indent>
+-<indent=5%>Deve spendere 3 {g|Encyclopedia:MovementPoints}PM{/g} per spostarsi fra due caselle minacciate adiacenti, invece dei soliti 1 o 2 PM. Entrare in un'area minacciata costa il solito 1 PM.</indent>
+-<indent=5%>Non può compiere certe azioni (come sparare con la maggior parte delle armi a distanza) e provoca attacchi di opportunità compiendo certe altre azioni. Alcune azioni possono essere eseguite normalmente. Puoi scoprire quali conseguenze comporta, se ce ne sono, una certa azione consultando la descrizione che appare quando selezioni l'{g|Encyclopedia:Ability}abilità{/g} o l'arma di un personaggio.</indent>
+-<indent=5%>Può essere minacciato da più personaggi contemporaneamente. Quando vengono provocati attacchi di opportunità, tutti i personaggi che minacciano la casella eseguono gli attacchi uno dopo l'altro.</indent>
+
+### u002783
+Grazie a strutture specializzate a bordo della nave del vuoto, un Rogue Trader può sostituire parti del proprio corpo, e di quello di compagni consenzienti, con augmetiche.
+Una volta installate, le augmetiche non possono essere rimosse, poiché la parte del corpo originale è perduta per sempre. Tuttavia, se necessario possono essere sostituite con augmetiche standard.
+Le augmetiche hanno sia effetti positivi sia effetti negativi.
+
+### u002784
+Augmetiche
+
+### u002785
+Le augmetiche sono sacri meccanismi dell'Omnissiah, forgiati per sostituire la debolezza della carne ed elevare il corpo oltre i suoi limiti naturali.
+In tutto l'Imperium servono sia come sostituti necessari di arti spezzati, sia come strumenti di potenziamento autorizzato, legando acciaio e spirito in un'unica forma duratura.
+
+### u002786
+Alcune {g|Encyclopedia:AugmentsFullGlossary}augmetiche{/g} possiedono abilità di galvanizzazione. Usare un'abilità di galvanizzazione permette a un'augmetica di operare oltre i propri limiti normali, ma al prezzo di un grave sforzo per l'utilizzatore.
+Si può impostare la galvanizzazione su una sola augmetica alla volta.
+Se una parte del corpo con un'augmetica installata subisce un {g|Encyclopedia:Traumas}trauma{/g}, quell'augmetica si guasta e perde i propri effetti positivi e l'abilità di galvanizzazione.
+
+### u002787
+Compiere un attacco a <b>raffica</b> permette di eseguire più colpi o sparare più proiettili: il loro numero è pari al numero di colpi o al parametro di {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} indicato sull'arma. Sono considerati una sola azione e hanno l'etichetta "attacco": questo significa che per ogni colpo o proiettile si applicano i {g|Encyclopedia:Bonus}bonus{/g} che funzionano per un attacco (ma non per un singolo colpo o proiettile).
+Un attacco a raffica in mischia è diretto contro un singolo bersaglio. Se il primo colpo va a segno, tutti i colpi successivi colpiscono automaticamente. Se il primo colpo viene schivato o parato, tutti i colpi successivi vengono automaticamente schivati o parati.
+Un attacco a raffica a distanza può colpire più bersagli. Quando si spara una raffica, invece di tirare per {g|Encyclopedia:HitSequenceGlossary}colpire{/g}, si effettua una {g|Encyclopedia:Test}prova{/g} per determinare la traiettoria del proiettile. La probabilità di deviazione è aumentata dal {g|Encyclopedia:Recoil}rinculo{/g} dell'arma e ridotta dal parametro di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} aggiuntiva dell'arma. I proiettili di una raffica colpiscono automaticamente il primo bersaglio sulla propria traiettoria, che sia amico o nemico.
+<i>! Le raffiche <b>non</b> sono considerate {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g}.</i>
+
+### u002788
+Raffica
+
+### u002789
+Per determinare la traiettoria dei proiettili in un attacco a raffica a distanza si usa la {g|Encyclopedia:Characteristic}<b>caratteristica</b>{/g} {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} del personaggio.
+I proiettili di una raffica possono seguire la linea centrale oppure deviare leggermente o fortemente da un lato o dall'altro.
+Entro la gittata efficace di un'arma, le traiettorie con deviazione leggera si sovrappongono alla linea centrale, mentre i proiettili con deviazione forte sono diretti verso i bersagli a 1 casella di distanza dalla linea centrale, da una parte o dall'altra. Entro la gittata massima di un'arma, i proiettili con deviazione leggera sono diretti verso i bersagli a 1 casella di distanza dalla linea centrale, da una parte o dall'altra, e quelli con deviazione forte colpiscono i bersagli a 2 caselle di distanza dalla linea centrale.
+La probabilità base di dirigere i proiettili lungo la linea centrale o con deviazione leggera è <b><u>(40 + Ballistic Skill / 2)</u>%</b>: questo valore non può essere inferiore al 30% né superiore al 95%. Tale probabilità è divisa equamente fra il tiro lungo la linea centrale e quello con deviazione leggera. In caso contrario, il proiettile ha una deviazione forte.
+Se il proiettile {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un bersaglio al riparo dietro una {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} su una qualsiasi delle traiettorie, i personaggi possono tentare di evitare l'attacco. La copertura parziale dà il 35% di probabilità di evitare un attacco e la copertura totale la porta al 60%. Questa probabilità può variare in base alle {g|Encyclopedia:Ability}abilità{/g} del personaggio e a eventuali {g|Encyclopedia:NegativeEffectTypesGlossary}effetti{/g} positivi o negativi. Se la copertura fallisce, il bersaglio tenterà di {g|Encyclopedia:DodgeGlossary}schivare{/g} l'attacco. La probabilità base di schivata è <b><u>(30 + {g|Encyclopedia:WarhammerAgility}Agility{/g} del bersaglio − {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} dell'attaccante)</u>%</b>. La probabilità totale di schivata può essere ulteriormente influenzata da abilità ed effetti che conferiscono {g|Encyclopedia:Bonus}bonus{/g} o penalità alla schivata del bersaglio o alla riduzione della schivata dell'attaccante. Il bersaglio subirà {g|Encyclopedia:DamageGlossary}danni{/g} se non riesce a ripararsi o a schivare l'attacco a {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g}.
+Quando si spara lungo la traiettoria centrale, per ogni 1% aggiuntivo di probabilità di colpire oltre il 95%, la probabilità di mettere a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} aumenta di +1%. La <b>probabilità di colpo critico</b> viene calcolata separatamente per ogni proiettile. Ogni proiettile di una raffica è soggetto alle regole che governano la {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g} e lo {g|Encyclopedia:PushGlossary}<b>spintone</b>{/g}.
+
+### u002790
+Proiettili della raffica
+
+### u002791
+Gli Operative sostengono il gruppo e indeboliscono le difese nemiche. La loro {g|Encyclopedia:Ability}abilità{/g} chiave, {g|f:502b9195c84c42c5b180f3f63ed7955c}Analyse Enemies{/g}, infligge automaticamente un accumulo dell'{g|Encyclopedia:CommonStatusesGlossary}effetto{/g} {g|Encyclopedia:Exploit}Exploit{/g} a ogni nemico nella {g|Encyclopedia:LineOfSight}linea di vista{/g} dell'Operative all'inizio di ogni {g|Encyclopedia:Turn}turno{/g} dell'Operative.
+
+### u002792
+Archetipo: Operative
+
+### u002793
+Se un Operative attacca un bersaglio colpito da un {g|Encyclopedia:Exploit}Exploit{/g}, l'attacco infligge <b><u>(5 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}Perception{/g})</u>%</b> di {g|Encyclopedia:DamageGlossary}danni{/g} in più, aumentati ulteriormente del 10% per ogni Exploit sul bersaglio. Tutti gli Exploit sul bersaglio vengono poi rimossi.
+Un Operative può anche usare {g|f:502b9195c84c42c5b180f3f63ed7955c}Analyse Enemies{/g} in modo attivo per applicare <b><u>(1 + bonus di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} / 2)</u></b> Exploit a un nemico.
+La seconda {g|Encyclopedia:Ability}abilità{/g} chiave dell'Operative, {g|f:fbdba5fe2a264c25bada29aecd64049a}Expose Weakness{/g}, rimuove tutti gli Exploit da un nemico per ridurne la {g|Encyclopedia:DodgeGlossary}schivata{/g}, la {g|Encyclopedia:Parry}parata{/g} e l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di <b>−<u>(10 + accumuli di Exploit × bonus di Perception)</u>%</b> fino all'inizio del {g|Encyclopedia:Turn}turno{/g} successivo dell'Operative.
+L'{g|Encyclopedia:HeroicAct}atto eroico{/g} dell'Operative infligge 1 Exploit a ogni nemico in combattimento, poi l'Operative attacca un bersaglio, mettendo a segno un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} garantito. Il bersaglio subisce una {g|Encyclopedia:Penalty}penalità{/g} di −30% alla schivata e all'armatura fino alla fine del combattimento.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: Intelligence, Perception, {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillAwareness}Awareness{/g}, {g|Encyclopedia:SkillMedicae}Medicae{/g}, {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g}, {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}, {g|Encyclopedia:SkillTechUse}Tech-Use{/g}, {g|Encyclopedia:SkillLogic}Logic{/g}.
+Gli Operative possono diventare {g|Encyclopedia:CareerAssassinGlossary}Assassin{/g}, {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g}, {g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} o {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g}.
+
+### u002794
+{g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g}, {g|Encyclopedia:CareerAdeptGlossary}Operative{/g} e {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} possono diventare Assassin, killer eccelsi nell'infliggere colpi devastanti e nello schivare gli attacchi nemici.
+Gli Assassin hanno un parametro unico chiamato {g|Encyclopedia:Lethality}<b>letalità</b>{/g}, il cui valore può cambiare nel corso del combattimento. Il suo valore base è pari alla {g|Encyclopedia:DodgeGlossary}schivata{/g} dell'Assassin o alla sua {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g}, a seconda di quale sia maggiore.
+
+### u002795
+Archetipo: Assassin
+
+### u002796
+Gli Assassin possiedono un'{g|Encyclopedia:Ability}abilità{/g} chiave passiva chiamata {g|f:74a1e39f3d0c4cab828d49d4acd54851}Seek the Opening{/g}, che permette loro di vedere i punti deboli del nemico. Se l'Assassin attacca un bersaglio da un lato che presenta un'{g|Encyclopedia:Opening}apertura{/g}, l'attacco sarà particolarmente efficace e infliggerà {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari al 10% delle {g|Encyclopedia:MaxWounds}ferite massime{/g} del bersaglio.
+La loro abilità chiave attiva, {g|f:e2af8c0124f94ca5b9a8b3f91982908a}Aim for the Opening{/g}, permette all'Assassin di creare aperture aggiuntive sul lato del nemico a lui più vicino.
+L'{g|Encyclopedia:HeroicAct}atto eroico{/g} dell'Assassin esegue un attacco contro un bersaglio. Questo attacco {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} sempre e infligge +50% di danni in più, oltre a danni aggiuntivi pari al 25% delle {g|Encyclopedia:HitPoints}ferite{/g} mancanti del bersaglio.
+Per questo attacco, la {g|Encyclopedia:DodgeGlossary}schivata{/g}, la {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g}, la {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e la {g|Encyclopedia:ParryReduction}riduzione della parata{/g} dell'Assassin sono raddoppiate.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: {g|Encyclopedia:WarhammerAgility}Agility{/g}, {g|Encyclopedia:WarhammerPerception}Perception{/g}, {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillAwareness}Awareness{/g}, {g|Encyclopedia:SkillMedicae}Medicae{/g}, {g|Encyclopedia:SkillCoercion}Coercion{/g}, {g|Encyclopedia:SkillAthletics}Athletics{/g}, {g|Encyclopedia:SkillCarouse}Carouse{/g}.
+
+### u002797
+I Bladedancer sono maestri della spada rapidi e letali, specializzati nel sferrare raffiche di colpi fulminei con la loro abilità chiave {g|f:e955823f54d24088ae1fdefe88d3684d}Blade Dance{/g}. Questa abilità permette al Bladedancer di eseguire diversi colpi in mischia contro bersagli adiacenti scelti a caso.
+
+### u002798
+Archetipo: Bladedancer
+
+### u002799
+La seconda {g|Encyclopedia:Ability}abilità{/g} chiave, {g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g}, permette al Bladedancer di saltare per una breve distanza e, all'atterraggio, di infliggere danni a tutti i nemici adiacenti. Questa abilità può essere usata più volte per turno, ma ogni uso richiede di spendere una carica. Le cariche si ottengono uccidendo nemici. {g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g} migliora notevolmente la mobilità del Bladedancer e gli concede la capacità di compiere rapidamente una serie di uccisioni.
+L'atto eroico del Bladedancer è una letale sequenza di salti e colpi. Il Bladedancer salta verso il bersaglio usando {g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g}, poi attacca quel bersaglio con una spada e infine ripete più volte quella combinazione contro bersagli casuali entro la gittata.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: {g|Encyclopedia:WarhammerAgility}Agility{/g}, {g|Encyclopedia:WarhammerStrength}Strength{/g}, {g|Encyclopedia:WarhammerToughness}Toughness{/g}, {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillAthletics}Athletics{/g}, {g|Encyclopedia:SkillAwareness}Awareness{/g}, {g|Encyclopedia:SkillCarouse}Carouse{/g}, {g|Encyclopedia:SkillDemolition}Demolition{/g}, {g|Encyclopedia:SkillMedicae}Medicae{/g}.
+I Bladedancer possono diventare {g|Encyclopedia:CareerVeteranGlossary}Arch-Militant{/g}, {g|Encyclopedia:CareerAssassinGlossary}Assassin{/g}, {g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} o {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g}.
+
+### u002800
+Gli Executioner sono maestri degli effetti di danno nel tempo, compresi tutti gli effetti di sanguinamento, fiamme e tossina. Ad esempio, l'abilità {g|f:47f5b3809fba409b9d27611ef0a77cd3}Scourging Strikes{/g} permette all'Executioner di infliggere sanguinamento a qualsiasi bersaglio colpito con attacchi in mischia. {g|f:4f04773685be45c29927c6740ccf64d8}Forced Repentance{/g} rende gli effetti di danno nel tempo ancora più distruttivi quando vengono inflitti a bersagli che già subiscono gli stessi effetti. Infine, {g|f:5c06542194b74ecc922b92f3543703d2}Where It Hurts{/g} fa detonare gli effetti di danno nel tempo su un bersaglio, infliggendo all'istante una quantità incredibile di danni.
+
+### u002801
+Archetipo: Executioner
+
+### u002802
+{g|Encyclopedia:CareerFighterGlossary}Warrior{/g}, {g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g} e {g|Encyclopedia:CareerAdeptGlossary}Operative{/g} possono diventare Executioner, maestri degli effetti di danno nel tempo.
+La prima abilità chiave, {g|f:47f5b3809fba409b9d27611ef0a77cd3}Scourging Strikes{/g}, permette all'Executioner di infliggere sanguinamento a qualsiasi bersaglio colpito con attacchi in mischia, in modo che i suoi nemici subiscano costantemente effetti di danno nel tempo.
+La seconda abilità chiave si chiama {g|f:4f04773685be45c29927c6740ccf64d8}Forced Repentance{/g}. Ogni volta che l'Executioner infligge un effetto di danno nel tempo a un bersaglio che ne subisce già uno dello stesso tipo, {g|f:4f04773685be45c29927c6740ccf64d8}Forced Repentance{/g} fa subire subito al bersaglio un'ulteriore istanza di danni dell'effetto iniziale. Inoltre, tutti i successivi effetti di danno nel tempo di questo tipo su quel bersaglio hanno il livello aumentato fino alla fine del combattimento.
+Quando l'Executioner usa la terza abilità chiave, chiamata {g|f:5c06542194b74ecc922b92f3543703d2}Where It Hurts{/g}, il suo attacco successivo fa subire subito al bersaglio diverse istanze degli effetti di danno nel tempo inflitti in precedenza. Dopodiché, quegli effetti vengono rimossi.
+L'atto eroico dell'Executioner infligge subito sanguinamento, fiamme e tossina a tutti i nemici in combattimento, aumentando notevolmente anche il livello di questi effetti. Ora il tempo è dalla tua parte, e i tuoi nemici sono pronti a essere raccolti.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, {g|Encyclopedia:WarhammerStrength}Strength{/g}, {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillMedicae}Medicae{/g}, {g|Encyclopedia:SkillAthletics}Athletics{/g}, {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g}, {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}.
+
+### u002803
+Un Warrior fa affidamento sulle proprie superiori capacità nel combattimento in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}. L'{g|Encyclopedia:Ability}abilità{/g} chiave del Warrior, {g|f:4955b43454f6488f82892e166c76c995}Charge{/g}, gli offre sia una grande mobilità sul campo di battaglia sia un modo per mettere a segno un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} extra in combattimento.
+
+### u002804
+Archetipo: Warrior
+
+### u002805
+La seconda {g|Encyclopedia:Ability}abilità{/g} chiave del Warrior, {g|f:4d2f2a839d2340388d45cf4cf66c947b}Endure{/g}, gli conferisce {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} e <b>+<u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} / 2)</u></b> di {g|Encyclopedia:Deflection}deviazione{/g}.
+L'{g|Encyclopedia:HeroicAct}atto eroico{/g} del Warrior ripristina all'istante tutti i suoi {g|Encyclopedia:ActionPoints}PA{/g}, gli conferisce <b>+<u>(2 × bonus di {g|Encyclopedia:WarhammerAgility}Agility{/g})</u></b> {g|Encyclopedia:MovementPoints}PM{/g} e rimuove il limite di attacchi per il {g|Encyclopedia:Turn}turno{/g} in corso.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerStrength}Strength{/g}, Toughness, Agility.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillCoercion}Coercion{/g}, {g|Encyclopedia:SkillAthletics}Athletics{/g}, {g|Encyclopedia:SkillCarouse}Carouse{/g}.
+I Warrior possono diventare {g|Encyclopedia:CareerVeteranGlossary}Arch-Militant{/g}, {g|Encyclopedia:CareerAssassinGlossary}Assassin{/g}, {g|Encyclopedia:CareerExecutionerGlossary}Executioner{/g} o {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g}.
+
+### u002806
+{g|Encyclopedia:CareerMarksmanGlossary}Soldier{/g} e {g|Encyclopedia:CareerAdeptGlossary}Operative{/g} possono diventare Bounty Hunter, cacciatori delle proprie {g|Encyclopedia:Prey}prede{/g} specializzati nello sfondare le difese nemiche e nel mettere a segno {g|Encyclopedia:HitSequenceGlossary}colpi{/g} critici.
+
+### u002807
+Archetipo: Bounty Hunter
+
+### u002808
+I Bounty Hunter sono in grado di vedere il {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} dei loro nemici, che può andare da I a VII.
+L'{g|Encyclopedia:Ability}abilità{/g} chiave del Bounty Hunter, {g|f:802d21391d2f4573bfff126023df39bb}Hunt Down the Prey{/g}, ha 3 cariche. Spendendo una carica, può infliggere l'{g|Encyclopedia:CommonStatusesGlossary}effetto{/g} {g|Encyclopedia:Prey}preda{/g} a un nemico.
+Se un Bounty Hunter uccide la propria preda, ottiene {g|Encyclopedia:Bonus}bonus{/g} che durano fino alla fine del combattimento e dipendono dal livello di difficoltà del nemico:
+<b>Livelli I–II</b>: {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} pari al 25% delle {g|Encyclopedia:MaxWounds}ferite massime{/g} del Bounty Hunter.
+<b>Livelli III–IV</b>: +<u>(5 × livello di difficoltà della preda)</u>% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} e +<u>(2 × livello di difficoltà della preda)</u>% di probabilità di colpo critico.
+<b>Livelli V–VII</b>: tutti i bonus sopra citati.
+Questi bonus si sommano.
+L'{g|Encyclopedia:HeroicAct}atto eroico{/g} del Bounty Hunter gli permette di attaccare in un colpo solo tutte le sue prede nella propria {g|Encyclopedia:LineOfSight}linea di vista{/g}.
+Questi attacchi {g|Encyclopedia:HitSequenceGlossary}colpiscono{/g} sempre e mettono sempre a segno colpi critici.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, {g|Encyclopedia:WarhammerPerception}Perception{/g}, {g|Encyclopedia:WarhammerAgility}Agility{/g}.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillAwareness}Awareness{/g}, {g|Encyclopedia:SkillMedicae}Medicae{/g}, {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g}, {g|Encyclopedia:SkillAthletics}Athletics{/g}, {g|Encyclopedia:SkillDemolition}Demolition{/g}.
+
+### u002809
+Gli Officer ispirano i propri compagni d'armi e offrono loro ulteriori opportunità di influire sul corso della battaglia. L'{g|Encyclopedia:Ability}abilità{/g} chiave dell'Officer, {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g}, aumenta le {g|Encyclopedia:Characteristic}caratteristiche{/g} di un alleato di <b>+<u>(5 + 2 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} dell'Officer)</u></b> per 1 {g|Encyclopedia:Round}round{/g}.
+Un alleato influenzato da questa abilità può essere preso di mira anche dalle altre abilità dell'Officer da qualsiasi distanza.
+
+### u002810
+Archetipo: Officer
+
+### u002811
+La seconda {g|Encyclopedia:Ability}abilità{/g} chiave dell'Officer, {g|f:5bfccf14d8604ae1a041fb347fb8f19f}Bring It Down!{/g}, concede subito a un alleato un {g|Encyclopedia:ExtraTurn}turno extra{/g} con 0 {g|Encyclopedia:MovementPoints}PM{/g} e 2 {g|Encyclopedia:ActionPoints}PA{/g}.
+Se questo alleato è anche sotto l'{g|Encyclopedia:CommonStatusesGlossary}effetto{/g} di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} e uccide un nemico entro la fine del {g|Encyclopedia:Turn}turno{/g} dell'Officer, l'alleato otterrà anche <b><u>(2 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerFellowship}FEL{/g} dell'Officer)</u></b> di {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g}.
+L'{g|Encyclopedia:HeroicAct}atto eroico{/g} dell'Officer concede subito a un alleato un turno extra con PM e PA al massimo. L'alleato non ha inoltre alcun limite di attacchi fino alla fine di questo turno extra.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: Fellowship, {g|Encyclopedia:WarhammerWillpower}Willpower{/g}, {g|Encyclopedia:WarhammerToughness}Toughness{/g}, {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillPersuasion}Persuasion{/g}, {g|Encyclopedia:SkillCoercion}Coercion{/g}, {g|Encyclopedia:SkillCommerce}Commerce{/g}, {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}, {g|Encyclopedia:SkillCarouse}Carouse{/g}.
+Gli Officer possono diventare {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g}, {g|Encyclopedia:CareerStrategistGlossary}Grand Strategist{/g} o {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g}.
+
+### u002812
+I Soldier seminano il panico nelle file nemiche da lontano. La loro {g|Encyclopedia:Ability}abilità{/g} chiave, {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g}, conferisce loro <b>+<u>(2 + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} / 2)</u></b> {g|Encyclopedia:MovementPoints}PM{/g} e consente di compiere un attacco in più per {g|Encyclopedia:Turn}turno{/g}. Questo attacco costerà −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+Tuttavia, dal momento in cui il Soldier attiva questa abilità e fino alla fine del suo turno successivo, il Soldier rimane senza fiato. Finché è senza fiato, subisce una {g|Encyclopedia:Penalty}penalità{/g} di −10 a {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e non può usare {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g}.
+
+### u002813
+Archetipo: Soldier
+
+### u002814
+La seconda {g|Encyclopedia:Ability}abilità{/g} chiave del Soldier, {g|f:530b6d2cefef42f180b90c7bdbb99f90}Revel in Slaughter{/g}, rimuove subito l'effetto senza fiato, ma può essere usata solo dopo che il Soldier ha ucciso 3 nemici in quella battaglia.
+Una volta usata, l'abilità conferisce al Soldier una serie di {g|Encyclopedia:Bonus}bonus{/g} fino alla fine del combattimento: +10 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, <b>+<u>(5 + 2 × bonus di {g|Encyclopedia:WarhammerAgility}Agility{/g})</u>%</b> di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} e <b>+<u>bonus di Agility</u>%</b> di probabilità di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico.
+L'{g|Encyclopedia:HeroicAct}atto eroico{/g} del Soldier {g|Encyclopedia:Reload}ricarica{/g} all'istante la sua arma e gli permette di compiere un numero di attacchi extra pari alla {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} della sua arma (minimo 2), usando l'attacco con l'arma che normalmente costa meno {g|Encyclopedia:ActionPoints}PA{/g}. Questi attacchi non spendono PA. Fino alla fine del suo {g|Encyclopedia:Turn}turno{/g}, il primo attacco del Soldier contro ogni nuovo nemico mette automaticamente a segno un colpo critico.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: Ballistic Skill, Agility, {g|Encyclopedia:WarhammerPerception}Perception{/g}, {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillAwareness}Awareness{/g}, {g|Encyclopedia:SkillDemolition}Demolition{/g}, {g|Encyclopedia:SkillMedicae}Medicae{/g}, {g|Encyclopedia:SkillAthletics}Athletics{/g}.
+I Soldier possono diventare {g|Encyclopedia:CareerVeteranGlossary}Arch-Militant{/g}, {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} o {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g}.
+
+### u002815
+{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} e {g|Encyclopedia:CareerAdeptGlossary}Operative{/g}, ma anche Arbitratori e psyker (sia autorizzati sia non autorizzati), possono diventare {g|Encyclopedia:CareerOverseerGlossary}Overseer{/g}. Le loro tattiche e capacità sono determinate dal famiglio che scelgono.
+
+### u002816
+Archetipo: Overseer
+
+### u002817
+La caratteristica chiave dell'Overseer, da selezionare tra diverse opzioni, gli permette di controllare un famiglio. Ogni opzione determina quale famiglio può controllare. Il famiglio è un'unità di supporto con un proprio insieme di {g|Encyclopedia:Ability}abilità{/g} e {g|Encyclopedia:Talent}talenti{/g}. Non conta ai fini del limite di personaggi del gruppo. Per impostazione predefinita, un famiglio è controllato dal proprio Overseer e non può agire da solo in combattimento.
+L'abilità dell'Overseer, {g|f:374265cc61d5475898f17ac969795f7c}Reactivate{/g}, gli permette di ripristinare {g|Encyclopedia:HitPoints}ferite{/g} a un famiglio disattivato, riportandolo così in combattimento. Anche se costa 3 {g|Encyclopedia:ActionPoints}PA{/g} e può essere usata solo una volta ogni 2 {g|Encyclopedia:Round}round{/g}, se usata con saggezza può cambiare completamente il corso di una battaglia.
+L'{g|Encyclopedia:HeroicAct}atto eroico{/g} dell'Overseer porta il suo famiglio alle ferite massime (anche se è disattivato) e riduce di −1 PA il costo delle successive tre abilità dell'Overseer. Inoltre, attiva il bonus passivo unico del famiglio.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}, {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, {g|Encyclopedia:WarhammerPerception}Perception{/g}.
+<b>Competenze</b>: {g|Encyclopedia:SkillAwareness}Awareness{/g}, {g|Encyclopedia:SkillCarouse}Carouse{/g}, {g|Encyclopedia:SkillCoercion}Coercion{/g}, {g|Encyclopedia:SkillMedicae}Medicae{/g}, {g|Encyclopedia:SkillTechUse}Tech-Use{/g}.
+
+### u002818
+{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} e {g|Encyclopedia:CareerAdeptGlossary}Operative{/g} possono diventare Grand Strategist, acuti comandanti che dividono il campo di battaglia in zone chiave che offrono vari vantaggi.
+
+### u002819
+Archetipo: Grand Strategist
+
+### u002820
+I Grand Strategist possiedono un insieme di {g|Encyclopedia:Ability}abilità{/g} chiave classificate come {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}: {g|f:7cdf3a1dd3b5477096e008492e738587}Frontline{/g}, {g|f:bc99e6ba256f45368bc6bc529e59effd}Backline{/g} e {g|f:b1e24d15bb6841d89b9873829f7b3ba5}Rear{/g}. Ognuna di esse designa un'area del campo di battaglia che avrà interazioni specifiche con il resto delle abilità del Grand Strategist, conferendo al contempo vari {g|Encyclopedia:Bonus}bonus{/g} agli alleati e imponendo {g|Encyclopedia:Penalty}penalità{/g} ai nemici.
+Il Grand Strategist può usare il proprio {g|Encyclopedia:HeroicAct}atto eroico{/g} su una di queste aree. All'inizio del {g|Encyclopedia:Turn}turno{/g} successivo del Grand Strategist, ogni alleato che si trova nell'area quando inizia questo turno ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g} con 1 {g|Encyclopedia:ActionPoints}PA{/g} e 2 {g|Encyclopedia:MovementPoints}PM{/g}.
+Per ogni nemico ucciso nell'area tra il momento in cui si usa l'atto eroico e l'inizio dei turni extra, il numero di PA aumenta di +1 (fino a un massimo di 3) e quello di PM di +2 (fino a un massimo di 6).
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}, {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, {g|Encyclopedia:WarhammerPerception}Perception{/g}, {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillPersuasion}Persuasion{/g}, {g|Encyclopedia:SkillCommerce}Commerce{/g}, {g|Encyclopedia:SkillDemolition}Demolition{/g}, {g|Encyclopedia:SkillLogic}Logic{/g}, {g|Encyclopedia:SkillTechUse}Tech-Use{/g}, {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}, {g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g}.
+
+### u002821
+{g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g}, {g|Encyclopedia:CareerLeaderGlossary}Officer{/g} e {g|Encyclopedia:CareerMarksmanGlossary}Soldier{/g} possono diventare Master Tactician, combattenti astuti che sfruttano al meglio i punti di forza del proprio gruppo.
+
+### u002822
+Archetipo: Master Tactician
+
+### u002823
+L'{g|Encyclopedia:Ability}abilità{/g} chiave passiva del Master Tactician, {g|f:b669fe2c03a240fca1b3b2429ca87414}Tactical Advantage{/g}, gli conferisce accumuli di un {g|Encyclopedia:CommonStatusesGlossary}effetto{/g} unico con lo stesso nome ogni volta che lui o i suoi alleati ottengono {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g}.
+Al Master Tactician viene concesso un numero di accumuli pari al 20% dello slancio ottenuto (cioè 1 accumulo ogni 5 di slancio). Il Master Tactician inizia il combattimento con un numero di accumuli pari al proprio {g|Encyclopedia:Bonus}bonus{/g} di Fellowship.
+L'abilità chiave attiva del Master Tactician, {g|f:7989c6e3109841329aee9e4546138395}Press the Advantage{/g}, potenzia il suo attacco successivo, facendogli infliggere +4% di {g|Encyclopedia:DamageGlossary}danni{/g} in più per ogni accumulo di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} sul Master Tactician, poi rimuove metà di questi accumuli (arrotondando per eccesso).
+L'{g|Encyclopedia:HeroicAct}atto eroico{/g} del Master Tactician gli permette di selezionare un'area 3×3 sul campo di battaglia. Tutti gli alleati del Master Tactician (compreso il Master Tactician stesso) che hanno {g|Encyclopedia:LineOfSight}linea di vista{/g} su almeno un nemico all'interno dell'area selezionata e possono {g|Encyclopedia:HitSequenceGlossary}colpire{/g} almeno un nemico con l'arma che stanno impugnando compiono immediatamente un singolo attacco contro un nemico casuale che possono prendere di mira all'interno di quest'area.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, {g|Encyclopedia:WarhammerAgility}Agility{/g}, {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}, {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillMedicae}Medicae{/g}, {g|Encyclopedia:SkillDemolition}Demolition{/g}, {g|Encyclopedia:SkillPersuasion}Persuasion{/g}, {g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g}.
+
+### u002824
+Dopo aver completato l'{g|Encyclopedia:Career}archetipo{/g} di secondo livello, i personaggi ottengono l'accesso all'archetipo di terzo livello, che ha un percorso di progressione unico.
+È la loro occasione per acquisire altre {g|Encyclopedia:Ability}abilità{/g} e {g|Encyclopedia:Talent}talenti{/g} dai primi due archetipi già padroneggiati, migliorare ancora di più le proprie {g|Encyclopedia:Characteristic}caratteristiche{/g} e {g|Encyclopedia:Skills}competenze{/g}, ottenere {g|Encyclopedia:ActionPoints}PA{/g} aggiuntivi e selezionare 5 nuovi talenti da un elenco speciale.
+
+### u002825
+Archetipo di terzo livello
+
+### u002826
+Questi {g|Encyclopedia:Talent}talenti{/g} sono più potenti dei normali talenti d'{g|Encyclopedia:Career}archetipo{/g} e la maggior parte di essi è versatile: solo pochi richiedono che siano soddisfatte determinate condizioni (come il fatto che il personaggio abbia accesso a {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} o ai {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}).
+
+### u002827
+{g|Encyclopedia:CareerLeaderGlossary}Officer{/g} e {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} possono diventare Vanguard, bastioni viventi che attirano su di sé il fuoco nemico.
+
+### u002828
+Archetipo: Vanguard
+
+### u002829
+L'{g|Encyclopedia:Ability}abilità{/g} chiave passiva del Vanguard, {g|f:fc83a8ac57e54db59c3bb70083dc385c}Unyielding Beacon{/g}, gli permette di accumulare un {g|Encyclopedia:CommonStatusesGlossary}effetto{/g} unico con lo stesso nome, che ottiene ogni volta che viene attaccato.
+Ogni accumulo aumenta la {g|Encyclopedia:Resolve}determinazione{/g} del Vanguard di +1, fino a un massimo di +15. I suoi alleati in un raggio di 2 caselle intorno a lui ricevono 1/5 di questo {g|Encyclopedia:Bonus}bonus{/g}.
+Il Vanguard può anche ottenere {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} in base al numero di accumuli fino all'inizio del suo {g|Encyclopedia:Turn}turno{/g} successivo.
+Se all'inizio del suo turno un Vanguard ha meno {g|Encyclopedia:HitPoints}ferite{/g} temporanee rimanenti degli accumuli di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g}, il numero di ferite temporanee diventa pari al numero di accumuli, anche se all'inizio del suo turno il Vanguard non aveva alcuna ferita temporanea.
+L'{g|Encyclopedia:HeroicAct}atto eroico{/g} del Vanguard gli permette di attaccare i nemici ogni volta che attaccano gli alleati del Vanguard entro 3 caselle da lui.
+Il Vanguard risponde allo stesso modo a chiunque attacchi il Vanguard stesso. Entrambi gli effetti durano fino all'inizio del turno successivo del Vanguard.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerToughness}Toughness{/g}, {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}, {g|Encyclopedia:WarhammerWillpower}Willpower{/g}, {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillAthletics}Athletics{/g}, {g|Encyclopedia:SkillCarouse}Carouse{/g}, {g|Encyclopedia:SkillPersuasion}Persuasion{/g}, {g|Encyclopedia:SkillCoercion}Coercion{/g}.
+
+### u002830
+{g|Encyclopedia:CareerBladedancerGlossary}Bladedancer{/g}, {g|Encyclopedia:CareerMarksmanGlossary}Soldier{/g} e {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} possono diventare Arch-Militant, esperti versatili che utilizzano diversi tipi di armi alla massima efficienza.
+
+### u002831
+Archetipo: Arch-Militant
+
+### u002832
+L'{g|Encyclopedia:Ability}abilità{/g} chiave passiva dell'Arch-Militant, {g|f:7f7d109653f24774939f758d094b8812}Versatility{/g}, gli conferisce un accumulo di versatility ogni volta che compie un attacco di tipo diverso da quello usato in precedenza dall'Arch-Militant.
+Ai fini di questa abilità, i tipi di attacco sono: {g|Encyclopedia:SingleRangedAttacks}colpo singolo{/g}, {g|Encyclopedia:MeleeAttacks}attacco in mischia{/g} (a bersaglio singolo o a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}), attacco in mischia ad area, attacco {g|Encyclopedia:Range}a distanza{/g} ad area e attacco a distanza a raffica.
+Per ogni accumulo di questo {g|Encyclopedia:CommonStatusesGlossary}effetto{/g} sull'Arch-Militant, il suo {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e il suo {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} aumentano di +5.
+Se l'Arch-Militant accumula 4 o più accumuli di questo effetto, i suoi attacchi iniziano a infliggere un ulteriore <b>+<u>(3 × {g|Encyclopedia:Bonus}bonus{/g} di Weapon Skill)</u>%</b> o <b>+<u>(3 × bonus di Ballistic Skill)</u>%</b> di {g|Encyclopedia:DamageGlossary}danni{/g} (a seconda di quale sia maggiore).
+L'{g|Encyclopedia:HeroicAct}atto eroico{/g} dell'Arch-Militant gli permette di compiere 1 {g|Encyclopedia:AttacksPerTurn}attacco per turno{/g} in più fino alla fine del combattimento, compreso il {g|Encyclopedia:Turn}turno{/g} in cui viene usato l'atto eroico. Il primo attacco dopo l'uso dell'atto eroico e il primo attacco che l'Arch-Militant compie in ognuno dei turni successivi costano 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+<b>{g|Encyclopedia:Characteristic}Caratteristiche{/g} chiave</b>: Weapon Skill, Ballistic Skill, {g|Encyclopedia:WarhammerAgility}Agility{/g}, {g|Encyclopedia:WarhammerStrength}Strength{/g}, {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+{g|Encyclopedia:Skills}<b>Competenze</b>{/g}: {g|Encyclopedia:SkillAwareness}Awareness{/g}, {g|Encyclopedia:SkillMedicae}Medicae{/g}, {g|Encyclopedia:SkillCarouse}Carouse{/g}, {g|Encyclopedia:SkillAthletics}Athletics{/g}, {g|Encyclopedia:SkillDemolition}Demolition{/g}.
+
+### u002833
+Sotto molti aspetti, un protettorato commerciale si fonda sulla ricerca del profitto da parte del Rogue Trader nella Distesa di Koronus. I Rogue Trader cercano pianeti ricchi di determinate risorse e li assorbono nella propria infrastruttura commerciale tramite gli <b>extractium</b>. Un extractium è un complesso di macchinari che comprende tutto il necessario per sfruttare le risorse naturali in qualsiasi angolo della Distesa. Puoi ottenere extractium riconquistando colonie, completando progetti, adempiendo a contratti e commerciando con i mercanti.
+Le risorse estratte dagli extractium possono essere usate per adempiere ai <b>contratti</b>, missioni speciali elencate in una scheda separata del tuo diario. I contratti offrono come ricompensa risorse aggiuntive e altri mezzi per sviluppare ulteriormente il tuo protettorato.
+
+### u002834
+Colonizzazione
+
+### u002835
+Una parte consistente della fortuna di un Rogue Trader dipende dall'efficienza e dal benessere delle sue <b>colonie</b>. La Casata von Valancius ha già fondato quattro colonie, che {mf|il suo nuovo erede|la sua nuova erede} deve ora riconquistare: Janus, Kiava Gamma, Dargonus e Vheabos VI. Man mano che procedi nella storia, avrai anche l'opportunità di aggiungere al tuo dominio una nuova colonia: Foulstone.
+Sviluppare le colonie richiede di completare progetti che consistono per lo più nel costruire migliorie o nell'assistere varie fazioni. Questi progetti garantiscono ricompense uniche, {g|Encyclopedia:Reputation}reputazione{/g} presso le fazioni o punti di {g|Encyclopedia:SoulmarkTypesGlossary}convinzione{/g}. Sono inoltre il metodo principale per aumentare il tuo {g|Encyclopedia:ProfitFactorFullGlossary}Fattore di Profitto{/g}. Completare i progetti richiede tempo, perciò le colonie avviseranno il Rogue Trader quando un progetto è concluso e consegneranno le ricompense alla tua nave. Puoi reclamare queste ricompense nel menu di gestione della colonia.
+Ogni colonia ha una propria storia in evoluzione, una <b>cronaca</b> che incide in modo significativo sullo sviluppo della colonia e offre ricompense o effetti speciali. Le cronache vengono aggiornate in occasione di importanti tappe della crescita di una colonia.
+Nelle colonie possono verificarsi anche eventi unici, che offriranno {g|Encyclopedia:Bonus}bonus{/g} oppure richiederanno l'intervento diretto del Rogue Trader per affrontare le minacce che incombono sulla popolazione.
+
+### u002836
+Il registro di combattimento mostra informazioni dettagliate sulle azioni dei personaggi e sui loro esiti.
+È il tuo strumento principale per valutare i dati di combattimento relativi ad attacchi, abilità e tiri di prova.
+
+### u002837
+Puoi selezionare qualsiasi riga del registro di combattimento per scoprire di più sui fattori che influenzano l'efficacia delle azioni compiute dai tuoi nemici e dal tuo gruppo, come fonti di danni aggiuntivi, protezione potenziata o probabilità di colpire modificate.
+
+### u002838
+I personaggi possono ricevere vari <b>effetti</b> temporanei o permanenti che influenzano, in modo benefico o dannoso, la condizione del personaggio colpito.
+Questi effetti possono essere suddivisi approssimativamente in tre gruppi:
+-<indent=5%>Effetti di danno nel tempo</indent>
+-<indent=5%>Modificatori delle {g|Encyclopedia:Characteristic}caratteristiche{/g} e dei parametri</indent>
+-<indent=5%>Effetti di controllo</indent>
+Esistono due ampie categorie di {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g}: comuni e unici. Puoi scoprire di più sulle loro differenze e su esempi specifici consultando la relativa voce dell'enciclopedia.
+
+### u002839
+Tipi di effetti
+
+### u002840
+Un {g|Encyclopedia:CommonStatusesGlossary}effetto{/g} di danno nel tempo infligge una certa quantità di danni al personaggio colpito all'inizio del suo {g|Encyclopedia:Turn}turno{/g}.
+Questi effetti possono essere rimossi usando oggetti o {g|Encyclopedia:Ability}abilità{/g}.
+Ad esempio, l'effetto di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} infligge danni all'inizio di ogni turno del personaggio e dura a tempo indeterminato, ma il sanguinamento può essere rimosso con un kit medico.
+Alcuni effetti di stato dannosi: {g|Encyclopedia:ToxinEffect}tossina{/g}, sanguinamento, {g|Encyclopedia:BurningEffect}fiamme{/g} e così via, hanno un numero che ne indica la potenza.
+Ad esempio, fiamme (4) significa che questo effetto infliggerà 4 danni a ogni turno, finché non viene rimosso.
+Questo numero può essere modificato da vari {g|Encyclopedia:Talent}talenti{/g}, abilità o equipaggiamenti che possono aumentare o diminuire la potenza dell'effetto.
+Non è possibile accumulare lo stesso effetto, ma le fonti più potenti dell'effetto sostituiscono quelle più deboli quando vengono applicate.
+Ad esempio, se una creatura che subisce fiamme (5) viene attaccata con un lanciafiamme con fiamme (6), subirà l'effetto fiamme (6). Se dopo viene attaccata con un lanciafiamme con fiamme (3), avrà comunque l'effetto fiamme (6).
+I modificatori delle {g|Encyclopedia:Characteristic}caratteristiche{/g} e dei parametri possono ridurre o aumentare certe statistiche del personaggio. In genere durano un tempo limitato e vengono rimossi dopo un certo numero di {g|Encyclopedia:Round}round{/g} o alla fine del combattimento. Un esempio di tale effetto è {g|Encyclopedia:BlindedEffect}accecato{/g}, che riduce di −30 il {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e il {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} del personaggio e di −30% la sua probabilità di {g|Encyclopedia:DodgeGlossary}schivata{/g} e di {g|Encyclopedia:Parry}parata{/g}.
+1 è il valore minimo possibile di una caratteristica. Nessun effetto può ridurre una caratteristica al di sotto di 1.
+Gli effetti di controllo privano il personaggio della capacità di compiere certe azioni.
+Questi effetti hanno sempre una durata limitata.
+Ad esempio, l'effetto {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g} impedisce al personaggio di muoversi.
+
+### u002841
+Il <b>colpo critico</b> permette al personaggio di infliggere maggiori {g|Encyclopedia:DamageGlossary}danni{/g} al nemico. Se un personaggio mette a segno un colpo critico, il bersaglio subisce per impostazione predefinita il 150% dei danni normali dell'attaccante, ma alcuni {g|Encyclopedia:Talent}talenti{/g}, effetti e {g|Encyclopedia:Ability}abilità{/g} possono aumentare questo valore.
+La probabilità di mettere a segno un <b>colpo critico</b> dipende dalla <b>probabilità di colpo critico</b> del personaggio. La probabilità base è del 10% per gli attacchi {g|Encyclopedia:Range}a distanza{/g} e dello 0% per gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+
+### u002842
+Quando si usa un'arma {g|Encyclopedia:Range}a distanza{/g}, la <b>probabilità di colpo critico</b> aumenta dell'1% per ogni 1% di probabilità di colpire superiore al 95%. In {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, la <b>probabilità di colpo critico</b> aumenta dell'1% per ogni punto di differenza tra la {g|Encyclopedia:Characteristic}<b>caratteristica</b>{/g} {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} dell'attaccante e quella del suo bersaglio.
+Anche i <b>{g|Encyclopedia:DamageGlossary}danni{/g} critici</b> dipendono dalle proprietà dell'arma selezionata. I <b>danni critici</b> vengono calcolati prima di considerare le difese e si sommano agli altri modificatori percentuali di danno, senza moltiplicarsi.
+
+### u002843
+Probabilità critica e danni critici
+
+### u002844
+I danni ricevuti dagli attacchi con armi {g|Encyclopedia:Range}a distanza{/g} o {g|Encyclopedia:MeleeAttacksGlossary}da mischia{/g}, così come da altre {g|Encyclopedia:Ability}abilità{/g}, vengono calcolati allo stesso modo. Sono coinvolti diversi fattori.
+I danni inflitti da un personaggio sono influenzati dai parametri dell'arma usata, dalle abilità del personaggio e anche dagli effetti attivi. La {g|Encyclopedia:Deflection}deviazione{/g} del bersaglio riduce direttamente i danni ricevuti del proprio valore, ma la <b>deviazione</b> può essere ridotta dall'{g|Encyclopedia:DeflectionNegation}annullamento della deviazione{/g}.
+I danni sono ridotti anche dall'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio, applicata come percentuale fissa (ad esempio, se il bersaglio ha 56 di <b>armatura</b>, i danni in arrivo saranno ridotti del 56%), ma anche l'<b>armatura</b> può essere ridotta dalla {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u002845
+Calcolo dei danni
+
+### u002846
+Il valore di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e la {g|Encyclopedia:Deflection}deviazione{/g} possono proteggere il personaggio in caso di {g|Encyclopedia:HitSequenceGlossary}colpo{/g}. Il valore di armatura è calcolato come percentuale, mentre la deviazione dei {g|Encyclopedia:DamageGlossary}danni{/g} è rappresentata con valori interi positivi. Dopo aver calcolato i danni, si sottrae prima la deviazione e poi i danni vengono ulteriormente ridotti in base al valore percentuale dell'armatura.
+Parametri dell'arma come l'{g|Encyclopedia:DeflectionNegation}annullamento della deviazione{/g} e la {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} possono ridurre il valore di armatura e di deviazione. Tuttavia, la penetrazione non può mai portare le difese al di sotto di zero.
+
+### u002847
+Protezione dai danni
+
+### u002848
+La formula per il {g|Encyclopedia:Damage}calcolo dei danni{/g}, tenendo conto della protezione dai {g|Encyclopedia:DamageGlossary}danni{/g}, è la seguente:
+<b>danni = <u>(calcolo dei danni con tutti i moltiplicatori − ({g|Encyclopedia:Deflection}deviazione{/g} − {g|Encyclopedia:DeflectionNegation}annullamento della deviazione{/g})) × (1 − ({g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} − {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}/100))</u></b>.
+I {g|Encyclopedia:Bonus}bonus{/g} e le {g|Encyclopedia:Penalty}penalità{/g} ai danni, compresi i {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g}, vengono sommati prima di calcolare la protezione dai danni.
+
+### u002849
+Protezione dai danni
+
+### u002850
+I {g|Encyclopedia:PhysicalDamage}danni <b>fisici</b>{/g} sono in genere inflitti da proiettili o armi da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}. I loro tipi sono:
+-<indent=5%><b>Da impatto</b>: tutto ciò che può infliggere un {g|Encyclopedia:Traumas}trauma{/g} da forza contundente, come armi contundenti, colpi a mani nude, proiettili bolt ed esplosioni.</indent>
+-<indent=5%>{g|Encyclopedia:RendingDamage}<b>Laceranti</b>{/g}: tutto ciò che ha un bordo affilato, come le armi da taglio, e i proiettili affilati come gli shuriken.</indent>
+-<indent=5%><b>Perforanti</b>: qualsiasi proiettile perforante, come pallottole o munizioni ad aghi.</indent>
+-<indent=5%><b>Da potenza</b>: {g|Encyclopedia:DamageGlossary}danni{/g} inflitti da un campo che spezza i legami molecolari della materia e usato di solito nelle armi potenziate, come spada potenziata, mazza potenziata o ascia potenziata.</indent>{br}
+I {g|Encyclopedia:EnergyDamage}danni <b>energetici</b>{/g} sono in genere inflitti da varie sostanze chimiche, fuoco, elettricità e fasci di energia. I loro tipi sono:
+-<indent=5%><b>Da fuoco</b>: tutto ciò che dà fuoco al bersaglio.</indent>
+-<indent=5%><b>Da shock</b>: tutto ciò che fulmina il bersaglio.</indent>
+-<indent=5%><b>Tossici</b>: tutto ciò che infligge danni con veleno, acido corrosivo e simili.</indent>
+-<indent=5%><b>Termici</b>: tutto ciò che usa fasci di energia o plasma, o disintegra il bersaglio.</indent>{br}
+I {g|Encyclopedia:IrreducibleDamage}danni <b>irriducibili</b>{/g} ignorano l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}. I loro tipi sono:
+-<indent=5%><b>Warp</b>: qualsiasi tipo di esposizione alle energie del warp.</indent>
+-<indent=5%><b>Mentali</b>: tutto ciò che danneggia il sistema nervoso dei bersagli organici. I bersagli non organici, come le macchine e le {g|Encyclopedia:DetailsOfTheCoverGlossary}coperture{/g} fisiche, sono immuni.</indent>
+-<indent=5%><b>Macchina</b>: tutto ciò che colpisce esclusivamente macchine e tecnologia. I bersagli organici e gli oggetti fisici non meccanici sono immuni.</indent>{br}
+Esiste anche un tipo speciale di danni chiamato {g|Encyclopedia:DirectDamage}<b>danni diretti</b>{/g}, che non può essere ridotto dai parametri o dai {g|Encyclopedia:Bonus}bonus{/g} del bersaglio.
+
+### u002851
+I danni si calcolano con la formula:
+<b>danni = <u>((calcolo dei danni con tutti i moltiplicatori − ({g|Encyclopedia:Deflection}deviazione{/g} − {g|Encyclopedia:DeflectionNegation}annullamento della deviazione{/g})) × (1 − ({g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} − {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}) / 100))</u></b>.
+Per prima cosa si esegue il calcolo dei danni con tutti i moltiplicatori. I modificatori (ad esempio +2, −3, +4) vengono sommati ai danni: sono indicati nella descrizione dell'arma o dell'{g|Encyclopedia:Ability}abilità{/g} selezionata. Poi si applicano i moltiplicatori percentuali (+20%, +35%, −10%): ad esempio, i danni aumentano di una certa percentuale in caso di {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} o di surriscaldamento di un'arma al plasma. Alcuni nemici hanno anche {g|Encyclopedia:Bonus}bonus{/g} percentuali ai danni unici.
+Da questo valore risultante si sottrae il valore di <b>deviazione</b>, tenendo conto dell'<b>annullamento della deviazione</b> (questi valori sono espressi come interi positivi, ad esempio 2, 4, 5). Poi si sottrae la riduzione dei danni data dall'<b>armatura</b>, tenendo conto della <b>penetrazione dell'armatura</b> (espressa come percentuale, ad esempio 20%, 50%).
+Il valore dei danni è sempre arrotondato per difetto (fino a zero).
+
+### u002852
+Danni
+
+### u002853
+Un personaggio al riparo dietro una <b>copertura</b> ha la possibilità di evitare gli attacchi {g|Encyclopedia:Range}a distanza{/g} dei nemici.
+La <b>copertura totale</b>, indicata da un teschio sullo scudo, riduce del 60% la probabilità di {g|Encyclopedia:HitSequenceGlossary}colpire{/g} il personaggio. La <b>copertura parziale</b> riduce del 35% la probabilità di colpire. Tuttavia, la probabilità di colpire un personaggio dietro una copertura può variare in base alla difficoltà di gioco scelta e può essere alterata da certe {g|Encyclopedia:Ability}abilità{/g}, {g|Encyclopedia:Talent}talenti{/g} ed effetti.
+
+### u002854
+Quando i nemici dal lato opposto della copertura di un personaggio lo attaccano, il personaggio deve superare una {g|Encyclopedia:Test}prova{/g} di copertura. Se ci riesce, evita i {g|Encyclopedia:DamageGlossary}danni{/g} dell'attacco; tuttavia, se la copertura può essere distrutta, a subire i danni sarà la copertura al posto del personaggio.
+La copertura non può proteggere il personaggio dagli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}. Gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} (compresi quelli delle armi da mischia) possono annientare completamente le coperture distruttibili.
+La <b>copertura totale</b> e quella <b>parziale</b> offrono probabilità diverse di evitare gli attacchi. La <b>copertura parziale</b> protegge un personaggio dagli attacchi che provengono da almeno una casella di distanza dalla copertura parziale, ma non da quelli provenienti direttamente accanto ad essa.
+La <b>copertura totale</b> protegge un personaggio da un lato. Per attaccare da dietro una copertura totale, il personaggio deve trovarsi proprio al suo bordo. Durante un attacco {g|Encyclopedia:Range}a distanza{/g}, esce automaticamente su una casella libera vicina, attacca e torna al riparo.
+I nemici possono sparare a un personaggio dietro una copertura totale solo se riescono a vedere la casella in cui si trova il personaggio o quella su cui esce per attaccare.
+
+### u002855
+Dettagli sulla copertura
+
+### u002856
+Le armi della nave del vuoto possono sparare solo entro determinati <b>archi</b>, stabiliti dallo slot in cui l'arma è montata e dalla sua {g|Encyclopedia:FiringRangeSpace}gittata di tiro{/g}.
+
+### u002857
+Archi di tiro nel combattimento spaziale
+
+### u002858
+Un'arma montata a {g|Encyclopedia:ProwSpace}prua{/g} spara in avanti, mentre le armi installate nelle sezioni di {g|Encyclopedia:PortSpace}babordo{/g} e {g|Encyclopedia:StarboardSpace}tribordo{/g} della nave sparano di lato. Le armi montate in posizione {g|Encyclopedia:DorsalSpace}dorsale{/g} hanno il miglior {g|Encyclopedia:FiringArcSpace}arco di tiro{/g}, di 270 gradi, ma in questo particolare slot possono essere installate solo speciali versioni leggere di {g|Encyclopedia:MacroCannonsSpace}macrocannoni{/g} e {g|Encyclopedia:LanceWeaponSpace}armi lancia{/g}.
+
+### u002859
+Attacchi e colpi
+
+### u002860
+In combattimento, i personaggi possono attaccare a distanza con armi da fuoco o combattere da vicino usando armi da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}.
+Esistono tre tipi di attacchi {g|Encyclopedia:Range}a distanza{/g}: {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g}, {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} e {g|Encyclopedia:AreaOfEffect}attacco ad area{/g}.
+Quando attacca con un'arma da fuoco, il personaggio deve effettuare una {g|Encyclopedia:Test}prova{/g} della {g|Encyclopedia:Characteristic}<b>caratteristica</b>{/g} {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}. Per questa prova si tengono conto della distanza tra il tiratore e il bersaglio, della gittata efficace dell'arma e dei {g|Encyclopedia:Bonus}bonus{/g} che influiscono sulla {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} (oggetti, {g|Encyclopedia:Talent}talenti{/g} e alcune {g|Encyclopedia:Ability}abilità{/g}). Se la prova riesce, il bersaglio tenterà di {g|Encyclopedia:DodgeGlossary}schivare{/g} l'attacco: la probabilità di schivata riuscita dipenderà dall'{g|Encyclopedia:WarhammerAgility}Agility{/g} del bersaglio, dalla {g|Encyclopedia:WarhammerPerception}Perception{/g} del tiratore e da altri fattori che influenzano i parametri di schivata e di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g}. Inoltre, se il bersaglio è dietro una {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}, questa gli darà un'ulteriore possibilità di evitare l'attacco. Se il bersaglio non riesce a schivare né a ripararsi, subisce {g|Encyclopedia:DamageGlossary}danni{/g}.
+Le armi da mischia possono eseguire attacchi singoli, attacchi a raffica in mischia e attacchi ad area.
+Se un personaggio attacca un bersaglio con un'arma da mischia, il bersaglio tenterà sia di schivare sia di {g|Encyclopedia:Parry}parare{/g} l'attacco. Più il {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} dell'attaccante è alto rispetto a quello del bersaglio, più è alta la probabilità che l'attacco non venga parato e che il bersaglio subisca danni. Allo stesso modo, più sono alte la Perception e l'Agility dell'attaccante, più è facile per lui danneggiare il bersaglio nonostante il suo tentativo di schivata. Quando si compie un attacco a raffica in mischia, se il primo colpo va a segno, tutti i colpi successivi colpiscono automaticamente. Se il primo colpo viene schivato o parato, tutti i colpi successivi vengono automaticamente schivati o parati.
+
+### u002861
+All'inizio di ogni battaglia, tutti i personaggi in combattimento vengono suddivisi in gruppi alleati e nemici di 2-4 personaggi ciascuno. Il {g|Encyclopedia:Turn}turno{/g} di un gruppo alleato si alterna a quello di un gruppo nemico. L'{g|Encyclopedia:InitiativeGlossary}iniziativa{/g} di un personaggio determina a quale gruppo di alleati o nemici viene assegnato. Più è alta l'iniziativa di un personaggio, più è probabile che venga aggiunto a un gruppo più vicino all'inizio del tracciato dell'iniziativa, e quindi che agisca per primo in combattimento. Il primo ad agire è il gruppo la cui iniziativa media (iniziativa totale divisa per il numero di personaggi del gruppo) è la più alta.
+L'iniziativa si calcola con la seguente formula: <b><u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} + bonus di {g|Encyclopedia:WarhammerPerception}Perception{/g} / 2 + (da 1 a 10))</u></b>
+
+### u002862
+Se un personaggio attacca un bersaglio con un'arma da mischia, il bersaglio può tentare sia di {g|Encyclopedia:DodgeGlossary}schivare{/g} l'attacco sia, se usa a sua volta un'arma da mischia, di {g|Encyclopedia:Parry}pararlo{/g}. Più è alto il punteggio di {g|Encyclopedia:Characteristic}caratteristica{/g} {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} dell'attaccante, più è facile per lui ignorare il tentativo di parata del bersaglio. Più sono alte la {g|Encyclopedia:WarhammerPerception}Perception{/g} e l'{g|Encyclopedia:WarhammerAgility}Agility{/g} dell'attaccante, più è facile per lui ignorare il tentativo di schivata del bersaglio.
+
+### u002863
+La probabilità di {g|Encyclopedia:Parry}parare{/g} con successo è <b><u>(20 + {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} del bersaglio + {g|Encyclopedia:Bonus}bonus{/g} di parata − (Weapon Skill dell'attaccante + {g|Encyclopedia:ParryReduction}riduzione della parata{/g}))</u>%</b>. Se un alleato con un'arma da mischia si trova vicino al bersaglio o al personaggio attaccante, si attiva la {g|Encyclopedia:MeleeSuperiority}<b>superiorità in mischia</b>{/g}, che dà:
+1) +10 al Weapon Skill dell'attaccante per ogni alleato con un'arma da mischia vicino al bersaglio
+2) +10 al Weapon Skill del bersaglio per ogni alleato con un'arma da mischia accanto all'attaccante.
+La probabilità base di {g|Encyclopedia:DodgeGlossary}schivare{/g} un tale attacco è <b><u>(30 + {g|Encyclopedia:WarhammerAgility}Agility{/g} del bersaglio − {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} dell'attaccante)</u>%</b>. La probabilità totale di schivata può essere ulteriormente influenzata da {g|Encyclopedia:Ability}abilità{/g} ed effetti che conferiscono bonus o penalità alla schivata del bersaglio o alla riduzione della schivata dell'attaccante. Il bersaglio subisce {g|Encyclopedia:DamageGlossary}danni{/g} se non riesce a schivare o parare l'attacco.
+Gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} in mischia vengono eseguiti allo stesso modo degli attacchi a bersaglio singolo, ma le {g|Encyclopedia:Test}prove{/g} contro ciascun bersaglio nell'area interessata vengono effettuate separatamente. I danni degli attacchi ad area colpiscono tutti i bersagli nell'area interessata, sia alleati sia nemici.
+
+### u002864
+I <b>mercenari</b> sono personaggi speciali che puoi creare e aggiungere al tuo gruppo. Quando giochi in modalità cooperativa, puoi controllare uno dei compagni del Rogue Trader oppure creare un mercenario unico per te.
+Una volta giunto all'inizio del Capitolo 1, puoi rinforzare il tuo gruppo con dei mercenari parlando con l'Alto Factotum a bordo della tua nave del vuoto.
+Reclutare un mercenario equivale essenzialmente a creare un personaggio completamente nuovo.
+
+### u002865
+Mercenari
+
+### u002866
+Un mercenario reclutato parte automaticamente con lo stesso livello e la stessa esperienza del gruppo del Rogue Trader, anche se non ha alcun equipaggiamento.
+Puoi cambiare qualsiasi {g|Encyclopedia:Ability}abilità{/g} del mercenario usando il sistema di riaddestramento simile a quello disponibile per il tuo personaggio principale.
+Non c'è alcun limite al numero di mercenari che puoi avere. Tuttavia, nel Capitolo 1 il numero di personaggi che puoi avere nel gruppo è limitato a 3, escluso il tuo personaggio principale. Alcuni eventi del Capitolo 1 possono aumentare questo limite fino a un massimo di 5.
+Ogni volta che recluti un mercenario, il tuo {g|Encyclopedia:ProfitFactorFullGlossary}Fattore di Profitto{/g} diminuisce di −1.
+
+### u002867
+Grazie allo slancio, i membri del tuo gruppo possono usare {g|Encyclopedia:Ability}abilità{/g} uniche chiamate {g|Encyclopedia:HeroicAct}atti eroici{/g} e {g|Encyclopedia:DesperateMeasure}misure disperate{/g}.
+In battaglia, il livello di slancio cambia a seconda delle azioni dei personaggi. Se la barra dello slancio raggiunge 175 o più, qualsiasi membro del gruppo può usare un <b>atto eroico</b>. Se lo slancio scende sotto 25, il tuo gruppo ottiene la possibilità di usare le <b>misure disperate</b>, che comportano una serie di {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g}.
+All'inizio di ogni combattimento, lo slancio del gruppo parte da 100. Lo slancio massimo del gruppo è 200, il minimo è 0.
+
+### u002868
+Il primo uso di un {g|Encyclopedia:HeroicAct}<b>atto eroico</b>{/g} in combattimento costa 75 punti di slancio; a ogni uso successivo, il costo aumenta di 25 punti.
+Ogni membro del gruppo ha una statistica di {g|Encyclopedia:Resolve}determinazione{/g}: il suo valore base è pari al {g|Encyclopedia:Bonus}bonus{/g} della {g|Encyclopedia:Characteristic}<b>caratteristica</b>{/g} {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}, ma può cambiare per effetto di varie {g|Encyclopedia:Ability}abilità{/g}, {g|Encyclopedia:Talent}talenti{/g} ed effetti. La determinazione serve a calcolare l'accumulo e la perdita di slancio.
+Il valore dello slancio cambia costantemente durante il combattimento. Ad esempio, possono influenzarlo i seguenti eventi:
+1) All'inizio del {g|Encyclopedia:Turn}turno{/g} di un personaggio che non ha ancora usato in combattimento un <b>atto eroico</b> o una {g|Encyclopedia:DesperateMeasure}<b>misura disperata</b>{/g}, lo slancio del gruppo aumenta della determinazione di quel personaggio.
+2) Quando si uccide un nemico, il gruppo ottiene uno slancio pari a <b><u>(determinazione dell'attaccante × {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del nemico sconfitto)</u></b>. Il livello di difficoltà dipende dalla forza del nemico.
+3) Se le {g|Encyclopedia:HitPoints}ferite{/g} di uno dei membri del gruppo scendono sotto 0, l'intero gruppo perde uno slancio pari a <b><u>(determinazione dell'alleato caduto × 10)</u></b>.
+
+### u002869
+Dettagli sullo slancio
+
+### u002870
+Tipi di effetti negativi
+
+### u002871
+Sotto l'influenza degli effetti negativi, le probabilità di sopravvivenza del tuo personaggio si riducono: riceve {g|Encyclopedia:Penalty}penalità{/g} alle proprie {g|Encyclopedia:Characteristic}caratteristiche{/g}, {g|Encyclopedia:Skills}competenze{/g} o azioni e può anche subire {g|Encyclopedia:DirectDamage}danni diretti{/g} a ogni {g|Encyclopedia:Turn}turno{/g}.
+Quando un personaggio è soggetto a un qualsiasi {g|Encyclopedia:CommonStatusesGlossary}effetto{/g}, accanto al suo ritratto appare un'icona corrispondente.
+Esistono due ampie categorie di effetti negativi: comuni e unici.
+
+### u002872
+Gli effetti negativi comuni comprendono:
+-<indent=5%>{g|Encyclopedia:BurningEffect}In fiamme{/g}: subisce {g|Encyclopedia:FireDamage}danni da fuoco{/g} a ogni {g|Encyclopedia:Round}round{/g}.</indent>
+-<indent=5%>{g|Encyclopedia:BleedingEffect}Sanguinamento{/g}: subisce {g|Encyclopedia:DamageGlossary}danni{/g} all'inizio di ogni {g|Encyclopedia:Turn}turno{/g}.</indent>
+-<indent=5%>{g|Encyclopedia:ToxinEffect}Tossina{/g}: all'inizio di ogni turno, il bersaglio colpito deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} per rimuovere questo {g|Encyclopedia:CommonStatusesGlossary}effetto{/g}, altrimenti subisce danni.</indent>
+-<indent=5%>{g|Encyclopedia:FatiguedEffect}Affaticato{/g}: ogni accumulo conferisce una {g|Encyclopedia:Penalty}penalità{/g} di −10 a {g|Encyclopedia:WarhammerStrength}Strength{/g}, Toughness e {g|Encyclopedia:WarhammerAgility}Agility{/g} e di −1 {g|Encyclopedia:MovementPoints}punto movimento{/g}.</indent>
+-<indent=5%>{g|Encyclopedia:DisturbedEffect}Turbato{/g}: ogni accumulo conferisce una penalità di −10 a {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}.</indent>
+-<indent=5%>{g|Encyclopedia:PerplexedEffect}Confuso{/g}: ogni accumulo conferisce una penalità di −10 a {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g}.</indent>
+-<indent=5%>{g|Encyclopedia:BlindedEffect}Accecato{/g}: subisce una penalità di −30 a Ballistic Skill e Weapon Skill, oltre a una penalità di −30% a {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g}.</indent>
+-<indent=5%>{g|Encyclopedia:StaggeredEffect}Barcollante{/g}: subisce una penalità di −20 a Weapon Skill, Ballistic Skill, Strength, Toughness e Agility.</indent>
+-<indent=5%>{g|Encyclopedia:SlowedEffect}Rallentato{/g}: i punti movimento sono ridotti di −3.</indent>
+-<indent=5%>{g|Encyclopedia:CalmedWarpEffect}Smorzamento psichico{/g}: il {g|Encyclopedia:PsyRating}livello psichico{/g} è ridotto di −1.</indent>
+-<indent=5%>{g|Encyclopedia:Stun}Stordito{/g}: finché è stordito, un personaggio non può parare, schivare né compiere {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.</indent>
+-<indent=5%>{g|Encyclopedia:ImmobilisedEffect}Immobilizzato{/g}: i bersagli immobilizzati non recuperano punti movimento all'inizio del loro turno e non possono usare {g|Encyclopedia:Ability}abilità{/g} che li spostano o aggiungono punti movimento.</indent>
+-<indent=5%>{g|Encyclopedia:CantAttackEffect}Non può attaccare{/g}: non può usare armi.</indent>
+-<indent=5%>{g|Encyclopedia:PsychosomaticTraumaEffect}Trauma psicosomatico{/g}: non può usare {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}.</indent>
+-<indent=5%>{g|Encyclopedia:ProneEffect}A terra{/g}: non può agire e subisce una penalità di −30 a parata e schivata.</indent>
+Tutti gli altri effetti negativi sono considerati unici: non si incontrano nemmeno lontanamente così spesso. Questi effetti unici sono in genere applicati da abilità specifiche di personaggi o nemici.
+
+### u002873
+La maggior parte degli attacchi con armi {g|Encyclopedia:Range}a distanza{/g} non ad area ha una probabilità di causare sovrapenetrazione. Quando succede, l'attacco {g|Encyclopedia:DamageGlossary}danneggia{/g} anche le creature e gli oggetti dietro il bersaglio previsto, anche se i danni ai bersagli successivi al primo sono di solito inferiori.
+
+### u002874
+Questa probabilità dipende dal valore di sovrapenetrazione dell'arma (di solito 50%), dalla {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} dell'arma e dall'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio. La probabilità è pari a <b><u>(sovrapenetrazione + penetrazione dell'armatura − armatura del bersaglio)</u>%</b>. I {g|Encyclopedia:DamageGlossary}danni{/g} al bersaglio successivo sono pari a <b><u>(percentuale precedente × danni originali al primo bersaglio)</u></b>, ma non possono superare il 100% dei danni originali. La sovrapenetrazione può attivarsi dopo il secondo bersaglio (anche se la probabilità è ridotta dall'armatura sia del secondo sia del primo bersaglio). La sovrapenetrazione può verificarsi finché la probabilità è superiore allo 0%, ridotta dall'armatura di ogni bersaglio {g|Encyclopedia:HitSequenceGlossary}colpito{/g} successivo.
+Tutti gli attacchi di sovrapenetrazione vengono risolti separatamente, il che può far sì che alcuni di essi siano {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g} o attivino più volte {g|Encyclopedia:Talent}talenti{/g} o effetti.
+Alcune {g|Encyclopedia:Ability}abilità{/g}, talenti e proprietà delle armi possono aumentare le probabilità di sovrapenetrazione; ad esempio, {g|f:e92f1c119dd64d3981fd750a56e5aab2}Piercing Shot{/g} del {g|Encyclopedia:CareerHunterGlossary}Bounty Hunter{/g} la aumenta addirittura del 100%. Questo può portare la probabilità di sovrapenetrazione a oltre il 100%, il che significa che la sovrapenetrazione trapasserà un numero maggiore di nemici in fila prima che la loro armatura riduca la probabilità sotto il 100%.
+
+### u002875
+Il <b>Fattore di Profitto</b> (FP) è una misura della ricchezza e del potere di un Rogue Trader, il valore aggregato delle sue entrate, delle riserve del tesoro e del suo status elevato.
+Il Fattore di Profitto funge da sostituto della valuta convenzionale e si usa per tutti gli acquisti del Rogue Trader, dalle granate alle migliorie planetarie.
+Acquistare oggetti non riduce il tuo Fattore di Profitto. Il suo valore serve piuttosto come soglia che determina il tuo accesso a certi acquisti e opportunità.
+
+### u002876
+Il <b>Fattore di Profitto</b> è un valore numerico che può aumentare o, più raramente, diminuire.
+-<indent=5%>Il FP non può mai scendere sotto 0.</indent>
+-<indent=5%>Se un'azione richiede di ridurre il tuo FP sotto 0, quell'azione non è disponibile.</indent>
+-<indent=5%>Il FP non ha un limite massimo.</indent>
+Puoi aumentare il tuo Fattore di Profitto:
+-<indent=5%>Completando missioni della storia</indent>
+-<indent=5%>Selezionando certe opzioni di dialogo</indent>
+-<indent=5%>Adempiendo a contratti</indent>
+-<indent=5%>Completando progetti delle colonie</indent>
+Puoi far diminuire il tuo Fattore di Profitto:
+-<indent=5%>Completando missioni della storia</indent>
+-<indent=5%>Selezionando certe opzioni di dialogo</indent>
+-<indent=5%>Adempiendo a contratti</indent>
+-<indent=5%>Avviando progetti delle colonie</indent>
+
+### u002877
+I {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} sono {g|Encyclopedia:Ability}abilità{/g} speciali disponibili solo agli psyker. Permettono agli psyker di attingere al warp e di usarlo in vari modi. Come le abilità normali, si usano in combattimento, si possono scegliere salendo di livello (al posto delle abilità d'{g|Encyclopedia:Career}archetipo{/g}) e alcuni di essi possono essere considerati attacchi. Le principali differenze rispetto alle abilità normali sono che possono essere scelti solo da uno psyker, sono suddivisi in discipline uniche e usarli degraderà il {g|Encyclopedia:VeilThickness}velo{/g} tra la realtà e il warp. Più il degrado è grave, più è alta la probabilità che i poteri psichici scatenino {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g} o persino {g|Encyclopedia:PerilsOfWarp}pericoli del warp{/g}.
+
+### u002878
+Esistono diverse discipline di {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}: ad esempio, la piromanzia permette allo psyker di controllare e creare il fuoco, {g|Encyclopedia:BurningEffect}incenerendo{/g} gli avversari, mentre la biomanzia permette allo psyker di controllare i processi biologici all'interno delle creature viventi, potenziando e curando gli alleati dello psyker.
+Quando lo psyker seleziona una nuova {g|Encyclopedia:Ability}abilità{/g} da un {g|Encyclopedia:Career}archetipo{/g}, può invece selezionare un nuovo potere psichico o una nuova disciplina. Quando lo psyker acquisisce una nuova disciplina, ottiene anche il potere base di quella disciplina. I poteri psichici hanno dei livelli: per selezionare un potere psichico di livello alto, lo psyker deve conoscere un potere psichico di livello inferiore della stessa disciplina e avere un {g|Encyclopedia:PsyRating}livello psichico{/g} sufficientemente alto (che può essere aumentato al posto della scelta di un {g|Encyclopedia:Talent}talento{/g} se il livello dello psyker è abbastanza alto).
+Tutti i poteri psichici sono intrinsecamente pericolosi, poiché attingere al warp può causare {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g}, inquietanti manifestazioni che riducono lo {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g} del gruppo. I poteri psichici di base sono detti poteri psichici minori. Hanno solo una probabilità di scatenare fenomeni psichici e aumentano il {g|Encyclopedia:VeilThickness}degrado del velo{/g} di +1.
+Ma alcuni poteri psichici sono molto più pericolosi di altri: questi poteri sono detti poteri psichici maggiori e causano fenomeni psichici molto più spesso, aumentando inoltre il degrado del velo di +3. Usare questi poteri psichici quando il degrado del velo è pari o superiore a 15 è molto pericoloso e può scatenare i {g|Encyclopedia:PerilsOfWarp}pericoli del warp{/g}.
+Alcuni poteri psichici sono legati a un fulcro psichico nel bastone di uno psyker: questi poteri psichici, di solito poteri psichici maggiori, richiedono che lo psyker impugni un bastone specifico e hanno versioni come {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. La loro potenza varia notevolmente in base alla qualità del bastone. Usare una misura disperata da un bastone scatenerà sempre i pericoli del warp.
+

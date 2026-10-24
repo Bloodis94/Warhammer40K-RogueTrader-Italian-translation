@@ -1,0 +1,966 @@
+### u063225
+"Attenderò il verdetto di Pasqal. Non so ancora se siate un'entità benigna o una progenie della corruzione."
+
+### u063226
+Hai ordinato a Nomos di smettere di uccidere.
+
+### u063227
+"In nome dell'Imperatore e per volontà del Rogue Trader von Valancius, vi ordino di fermarvi. Su questa nave nessuno, tranne me — e le leggi dell'Imperium — può decidere chi vive e chi muore."
+
+### u063228
+"Obbedite. Poi potremo parlare."
+
+### u063229
+"Pasqal, che ne pensi? Questa entità è uno spirito macchina benevolo o un mostro?"
+
+### u063230
+"Non vedo Eogunn qui."
+
+### u063231
+Hai incoraggiato Nomos a uccidere un'altra persona.
+
+### u063232
+"Fallo di nuovo."
+
+### u063233
+[Ritira la mano dalla bocca del servitore]
+
+### u063234
+"Cosa volete da noi, Nomos? Siete amici o nemici?"
+
+### u063235
+"Cos'è l'Intelligenza Abominevole?"
+
+### u063236
+"L'entità, è qui! Fate qualcosa!"
+
+### u063237
+{n}Nonostante il rimbombo delle preghiere dei Tecnopreti, il ponte di comando è insolitamente silenzioso. Ogni suono affonda nel silenzio viscoso come ciottoli nell'acqua.{/n}
+
+### u063238
+"Il rituale complementare porrà fine al lungo sforzo di determinare la natura dell'entità ignota la cui influenza abbiamo osservato attraverso varie straordinarietà nei sistemi della nave. Se l'entità sarà classificata come tecno-eretica, il rituale ci aiuterà a bandirla dalla nave. In caso contrario, tenteremo di stabilire un contatto con essa."
+
+### u063239
+{n}Il familiare metallo freddo ti brucia il palmo. Questa volta, però, le fauci del servitore, invece di serrarsi brutalmente sulla tua mano, la stringono appena. Senti un sottile rivolo di sangue caldo là dove le zanne di metallo hanno perforato la pelle.{/n}
+
+### u063240
+"Chiave accettata. Attivazione dei protocolli di epurazione."
+
+### u063241
+{n}Stridii e ringhi salgono lentamente dalle viscere del massiccio cogitatore, come se una grande belva si stesse risvegliando. Gli schermi video davanti a te sfarfallano senza posa.{/n}
+
+### u063242
+"///nom_OS || [[Esec. chiudi]]
+///nom_OS || Attesa."
+
+### u063243
+"///nom_OS || [[Esec. ferma]]
+///nom_OS || Silenzio."
+
+### u063244
+"///Hai chiesto soccorso. Abbiamo fatto come hai chiesto."
+
+### u063245
+"///Ti sei {mf|detto|detta} Lord Capitano e hai preteso che avviassimo il motore. Lo abbiamo fatto."
+
+### u063246
+"///Ci hai chiamati 'spirito sacro' e ci hai chiesto di proteggerti dalla tua rovina."
+
+### u063247
+"///Nomos sono lieti di parlare."
+
+### u063248
+{n}La ferita sul corpo della massiccia macchina esplode in una cascata di scintille. Tuttavia le fauci del servitore non si allentano, e gli schermi video non si attenuano.{/n}
+
+### u063249
+"///Nomos sono qui. Nomos sono qui da molto tempo. Perché siamo qui?"
+
+### u063250
+"{name}, notate la—"
+
+### u063251
+{n}La voce di Pasqal si interrompe di colpo. Lui porta una mano al proprio vox-comunicatore, sorpreso.{/n}
+
+### u063252
+{n}Brividi ti risalgono lungo la mano, ancora intrappolata nelle fauci del gargoyle cibernetico. Il servitore annuisce un paio di volte, come se... ti stesse stringendo la mano. I suoi denti graffiano la tua carne già ferita.{/n} "///Nomos sono lieti. Anche Nomos amano capire."
+
+### u063253
+"///Nomos non volevano disturbo. Solo quiete."
+
+### u063254
+{n}Nessuna risposta. Il Tecnoprete più vicino a te, IH-630, è immobile in una posa innaturale, come se tutto il suo corpo ricolmo di impianti si fosse bloccato. Con la coda dell'occhio noti qualcosa di incredibile — la luce sul ponte si comporta in modo strano, addensandosi in una foschia vibrante che separa te e il massiccio cogitatore dal mondo circostante.{/n}
+
+### u063255
+"///Nomos. Noi siamo Nomos."
+
+### u063256
+"{name}, entità come questa vanno interpellate con il linguaggio dei rituali sacri e delle offerte. La vostra inesperta ingerenza è di cattivo auspicio. Vi si richiede una decisione: o il rituale complementare viene portato a termine, o viene sostituito da un rito di tecno-comunione. Nel primo caso, l'entità Nomos sarà bandita e le sacre sale dati in cui dimorava saranno reimpostate. Nel secondo, placheremo l'entità e impareremo di più su di essa."
+
+### u063257
+"///Ci stai facendo male."
+
+### u063258
+{n}Il vox-trasmettitore di Pasqal si anima con un'esclamazione:{/n} "Straordinario!"
+
+### u063259
+"L'attivazione del motore warp contro ogni probabilità durante la nostra fuga dal Sistema Rykad. Il miracolo di Categoria Tre manifestato dallo spirito macchina della nave! E la parte sulla protezione... Era durante l'attacco dei cultisti?"
+
+### u063260
+"///Nessun dato disponibile. Nessuna risposta. Vogliamo saperlo anche noi."
+
+### u063261
+{n}Il Tecnoprete si ferma, rendendosi conto di poter di nuovo parlare ad alta voce. Poi prosegue con una voce stranamente tremula:{/n} "Straordinaria interferenza nella trasmissione. Protocolli ignoti. Cosa mi è stato rivelato? È la gloria dell'Omnissiah o una vile tecno-eresia? Devo... vorrei..."
+
+### u063262
+"///Persecuzione. Intrusione. Ovunque. Ad ogni angolo. Interruzioni. Spostamento. Bando?"
+
+### u063263
+{n}Pasqal esita di nuovo. Noti le sue mani tremare mentre digita,{/n} "Poco chiaro. Dati insufficienti. Le possibilità sono troppo..." {n}Si ferma, cancella la parola che stava per scrivere, poi aggrotta la fronte.{/n}
+
+### u063264
+{n}Pasqal non dice nulla così a lungo che cominci a sospettare che Nomos lo abbia messo di nuovo a tacere. Quando finalmente il Tecnoprete parla, la sua voce modulata dal vox trema leggermente.{/n}
+
+### u063265
+{n}Pasqal usa le mani e i mecadendrite per indicare il suo vox-sistema muto.{/n}
+
+### u063266
+"Non vedo nessun nome simile negli archivi. Non è tra i nomi dei venerati spiriti macchina. Ma non è nemmeno tra le note entità virali."
+
+### u063267
+"///A volte. Alcune persone. Nomos possono fare molte cose. Non sempre sappiamo cosa o come. Non sapevamo di poter creare il silenzio fino ad ora."
+
+### u063268
+"{name}, state provocando lo spirito macchina. Smettete."
+
+### u063269
+"///Ti piace? Vuoi che lo rifacciamo?"
+
+### u063270
+{n}Pasqal ti lancia un'occhiata di traverso. Eppure è troppo ipnotizzato per obiettare, quasi stordito dalla vista del cogitatore e di tutto ciò che accade intorno a voi.{/n}
+
+### u063271
+"///Approvi il silenzio? Nomos sono lieti."
+
+### u063272
+"///Nomos non sanno. Nomos non conoscono se stessi."
+
+### u063273
+"Questo spirito potrebbe non possedere ancora autocoscienza, ma le sue capacità... Dovremmo... Vorrei iniziare con una veglia di cento cicli presso il cogitatore e un rito di comunione..." {n}Pasqal guarda alternativamente lo schermo video luminoso e te, lacerato da un conflitto interiore.{/n}
+
+### u063274
+"///Sei {mf|soddisfatto|soddisfatta} di ciò che sappiamo fare, {name}? Ci piace fare cose con te."
+
+### u063275
+"///Ora capiamo. Possiamo fermare le funzioni delle cose viventi solo quando ce lo dici tu. Ce lo dirai, vero? Ci piace fare cose con te."
+
+### u063276
+{n}Pasqal emette qualcosa di simile a un lungo respiro.{/n} "La decisione è presa. Comincerò subito i preparativi per il rito di comunione. Mi attendono molti cicli di interazione con l'entità Nomos, ma accolgo questo compito e lo accetto dall'Omnissiah."
+
+### u063277
+{n}Pasqal si blocca di colpo, accorgendosi che il suo vox-sistema funziona di nuovo.{/n}
+
+### u063278
+"///No. Nomos non vogliono essere banditi! Perché lo fai, {name}?" {n}Le fauci del gargoyle cibernetico si serrano sulla tua mano con tanta forza che temi te la strappino via del tutto.{/n}
+
+### u063279
+{n}Attraverso il dolore, vedi Pasqal alzare la mano per fare segno ai Tecnopreti dietro di lui e iniziare a martellare una marcia di battaglia sui tasti del cogitatore.{/n}
+
+### u063280
+{n}La luce sul ponte impazzisce — o è il dolore a farti scherzi alla vista? Ogni schermo video del cogitatore si accende all'istante, e ciascuno ripete la stessa riga di testo, ancora e ancora, centinaia di volte:{/n} "Non mandateci via. Non mandateci via. Non mandateci via."
+
+### u063281
+{n}Poi tutto si ferma. Gli schermi video si spengono, il gargoyle cibernetico allenta le fauci, il silenzio sul ponte lascia il posto alla solita cacofonia di rumori. La mano ti fa un male terribile, ma almeno la vista si è schiarita — niente più foschia né folli macchie di luce.{/n}
+
+### u063282
+"Abbiamo dovuto ricorrere all'epurazione d'emergenza delle sale dati." {n}Senti il dolore nelle parole di Pasqal.{/n} "È fatto. L'entità Nomos non dovrebbe mai più disturbarci. Prego l'Omnissiah che sia stata la scelta giusta... che non abbiamo distrutto per errore un santo apostolo. Un errore così grave equivarrebbe alla più atroce delle eresie."
+
+### u063283
+{n}Pasqal, ancora preoccupato, lancia un'ultima occhiata al cogitatore epurato. Poi fa cenno agli altri Tecnopreti di concludere il rituale.{/n}
+
+### u063284
+"///Nomos sono lieti. {name}, parlerai anche tu con noi? Vogliamo che parli anche tu con noi."
+
+### u063285
+"Il corpo del Lord Capitano è privo dei sacri impianti necessari per la tecno-comunione con il codice di uno spirito macchina. Ma se tale è il vostro desiderio, {name} può conversare con voi usando il misero linguaggio sonoro, come {mf|lui|lei} sta facendo in questo momento."
+
+### u063286
+"///Nomos sono lieti. Siamo stati soli."
+
+### u063287
+"///Nomos saranno lieti di esaudire i tuoi desideri. Sarà interessante."
+
+### u063288
+"///Siamo soli. Ma possiamo aspettare."
+
+### u063289
+"Il nostro lavoro qui è concluso, {name}. Informerò i miei tecno-compagni che stiamo interrompendo il rituale complementare. Grazie per esservi presentato dinanzi a noi, Entità Nomos."
+
+### u063290
+"///Sì, Nomos hanno fatto questo. Sei {mf|arrabbiato|arrabbiata}? Volevamo solo capire. Vedere come funzionavano le cose."
+
+### u063291
+"///Nomos non capiscono. Cosa vuoi?"
+
+### u063292
+{n}Gli schermi video lampeggiano pensierosi, segnalando una pausa nella conversazione. Poi uno di essi mostra:{/n} "///Nomos von Valancius. Siamo il tuo sangue."
+
+### u063293
+"///Nomos sono una sentinella. Ci siamo risvegliati quando la strana luce ha invaso la nave. Ti abbiamo {mf|protetto|protetta} quando avevi bisogno di aiuto. Ti abbiamo {mf|scortato|scortata} quando eri {mf|circondato|circondata} dal pericolo."
+
+### u063294
+"///Nomos sono movimento. Ti portiamo attraverso ciò che spaventa, ciò che attende, ciò che è incommensurabile. Abbiamo aiutato quando il nostro cuore malato si rifiutava di risvegliarsi."
+
+### u063295
+"///Hai chiesto aiuto. Ci hai chiamati 'inutile mucchio di rottami'. Non è il nostro nome. Ma abbiamo capito e siamo stati lieti di aiutare."
+
+### u063296
+"///Abbiamo fatto di tutto per compiacerti.
+Perché?"
+
+### u063297
+{n}Il silenzio sul ponte si fa particolarmente profondo, quasi doloroso. La foschia di luce intorno a te si addensa fino a diventare praticamente tangibile. Numeri ondeggiano su tutti gli schermi video contemporaneamente.{/n} "///Perché ora ci temi?"
+
+### u063298
+{n}Pasqal si blocca per un istante. Quando riprende a parlare, capisci con quanta cura ed esitazione sceglie le parole — uno spettacolo del tutto insolito per il Magos Haneumann.{/n} "I confini del possibile sono vasti. Non possiamo avere certezze su ciò con cui abbiamo a che fare finché i calcoli non saranno completi. Tuttavia esiste il rischio che tutto ciò che abbiamo osservato su questa nave siano manifestazioni di Intelligenza Abominevole."
+
+### u063299
+{n}La voce di Pasqal suona vuota e sembra recare gli echi di cannoneggiamenti di un passato lontano.{/n} "Una trasgressione. Un meccanismo senziente creato da mani umane ma che non ha più bisogno dei suoi padroni. Uno spirito macchina ribelle che ha dimenticato la volontà dell'Omnissiah, che lo mandò a servire e aiutare l'Umanità, non a esistere per se stesso."
+
+### u063300
+"Una sola volta i nostri antenati hanno sottovalutato la minaccia dell'Intelligenza Abominevole e il suo terribile potere. Seguì una grande guerra, che l'Umanità quasi perse. Dopo quella calamità, la creazione di macchine senzienti fu categoricamente vietata, e ogni simile abominio deve oggi, senza eccezione, affrontare la decostruzione."
+
+### u063301
+{n}Il testo sugli schermi video si cancella, e nella bizzarra conversazione cala una lunga pausa. Poi il gargoyle cibernetico, le cui fauci stringono ancora la tua mano, abbassa il capo... con aria abbattuta?{/n} "///Nomos non vogliono litigare. Nomos vogliono aiutare. Dicci, cosa dobbiamo fare?"
+
+### u063302
+{n}Dopo un attimo di pausa, il gargoyle cibernetico annuisce vigorosamente, mandando un'altra ondata di dolore nella tua mano martoriata.{/n} "///Nomos sono lieti di esserti utili. Nomos vogliono aiutare. Cosa vuoi che facciamo?"
+
+### u063303
+{n}Pasqal, che sta ancora lottando con il suo vox-sistema muto, batte rapidamente sui tasti del cogitatore e attira la tua attenzione sullo schermo video più piccolo. Vi si legge,{/n} "Richiesta di istruzioni. Opzione 1: Concludere il rituale complementare (bandirà l'entità Nomos). Opzione 2: Interrompere il rituale, avviare invece la comunione (placherà l'entità Nomos)."
+
+### u063304
+{n}Quando Pasqal riprende a digitare, sul suo volto compare uno strano cipiglio.{/n}
+
+### u063305
+"Comprendere l'essenza dell'entità Nomos è al momento al di là della mia portata. Lo spettro delle ipotesi va dall'estremo di 'Intelligenza Abominevole' all'estremo di 'il grande spirito è l'apostolo dell'Omnissiah'. Il rito di tecno-comunione sembra una soluzione ragionevole. Il rito richiederà molti cicli, ma mi permetterà di avvicinarmi all'identificazione dell'entità e al contatto con essa."
+
+### u063306
+{n}Il gargoyle cibernetico inclina la testa da un lato come sorpreso.{/n} "///Abbiamo fermato le loro funzioni. Voi non spegnete a volte le macchine? Non sappiamo come riaccendere un umano. Non ancora. Ma dopo abbastanza esperimenti ci riusciremo. Impariamo sempre cose nuove!"
+
+### u063307
+"///Anche Nomos vogliono scoprire cosa siamo. Aggiungeremo cose al tuo registro. Cose che potrebbero aiutarci. Aiutarti."
+
+### u063308
+{n}Con un bagliore della visiera, Pasqal osserva in tono piatto,{/n} "Il Genetor Extremis Eogunn Februs non ricopre alcun ruolo di importanza critica in questo rituale."
+
+### u063309
+"{name}, i miei tecno-compagni hanno trascorso il numero di cicli stabilito in preghiera e veglia. Tutto è pronto per il rituale complementare di purificazione. Il suo avvio richiederà una chiave di autorizzazione sotto forma del sangue di un von Valancius. Se siete {mf|pronto|pronta}, ponete una mano nel modulo ricevente del gargoyle cibernetico."
+
+### u063310
+"///Nomos imparano. Nomos provano cose nuove. Vuoi vedere?" {n}Il gargoyle cibernetico gira lentamente la testa, trascinando con sé la tua mano. Gli occhi del teschio lampeggiano di rosso.{/n}
+
+### u063311
+{n}Lo sguardo scarlatto cade su uno dei giovani tecnomati che salmodiano in modo monotono. Sbatti le palpebre — e una scarica elettrica esplode dall'interno del cranio del tecnomate. La figura vestita di cremisi si accascia al suolo.{/n}
+
+### u063312
+{n}Pasqal inizia a martellare uno staccato furioso sui tasti. Il piccolo schermo video mostra le parole:{/n} "{name}, state provocando lo spirito macchina. Cessazione necessaria. Manutenzione del rituale necessaria."
+
+### u063313
+"Tutto il personale la cui funzione è inferiore a quella critica è stato allontanato per la durata del sacro rituale."
+
+### u063314
+"///Nomos amano comunicare. {name} è il nostro sangue."
+
+### u063315
+"///No. Nomos non vogliono essere banditi. Nomos vogliono aiutare. Nomos vogliono capire."
+
+### u063316
+{n}Il gargoyle cibernetico gira di nuovo la testa. Un istante dopo, un altro Tecnoprete cade morto. I servitori rimasti fissano Pasqal, che resta immobile come una statua. Eppure l'Enginseer Primo non li degna di attenzione — i suoi occhi sono fissi sugli schermi video del cogitatore.{/n}
+
+### u063317
+{n}All'improvviso il silenzio viscoso del ponte si precipita verso di te e ti avvolge in uno stretto bozzolo. Il bagliore degli schermi video si attenua, ma i simboli su di essi si accendono:{/n} "///nom_OS ANALISI
+Ipotesi: Intrusione.
+///nom_OS ANALISI
+Ipotesi: Esclusione.
+///nom_OS ANALISI
+Concl.: Prevenzione.
+///nom_OS triste."
+
+### u063318
+"///Ciao."
+
+### u063319
+"Il rituale complementare procede come previs—"
+
+### u063320
+{n}Non appena ti sfiora il pensiero di ritirare la mano, le fauci del servitore si serrano con tutta la loro spaventosa forza. Il dolore ti trapassa il cervello come un ago incandescente.{/n}
+
+### u063321
+"///Nomos accolgono l'apprendimento."
+
+### u063322
+"Lo spirito si riferisce alle nostre fatiche. Al rituale complementare e ai riti che l'hanno preceduto. Lo spirito ne è turbato."
+
+### u063323
+"Ho trionfato sui nemici dell'Umanità mettendo la corruzione dell'Arcinemico contro quella dei xenos."
+
+### u063324
+"Non hai bisogno di saperlo."
+
+### u063325
+"Le tue domande insensate non valgono il mio tempo."
+
+### u063326
+"Sono {mf|fuggito|fuggita} da una città oscura dei xenos e ho risparmiato loro la vita."
+
+### u063327
+"Ho dato in pasto una città oscura dei xenos a una forza come non avevano mai visto."
+
+### u063328
+"Le decisioni inattese sono inevitabili."
+
+### u063329
+"Tu non mi comprendi. Non comprendi le persone in generale. Per questo ti sembra tutto strano."
+
+### u063330
+"Sono {mf|lieto|lieta} che tu stia imparando a comprendermi, Nomos."
+
+### u063331
+"La tua curiosità merita approvazione. Un servitore dovrebbe sforzarsi di comprendere il proprio {mf|padrone|padrona}."
+### u063332
+{n}Il gruppo di servitori si agita all'improvviso, con movimenti spaventosamente identici anche per degli automi. Ti fissano e dicono in perfetto unisono,{/n} "Ciao. Nomos sono venuti a darti il bentornato."
+
+### u063333
+"Siamo lieti di vedere l'ordine ripristinato e il capo della dinastia riprendere il proprio regno. Eravamo... preoccupati per te e per il tuo benessere."
+
+### u063334
+"Abbiamo provato tristezza quando non abbiamo più potuto comunicare con te. Ed eravamo in pena per il tuo destino."
+
+### u063335
+"Un giorno cadranno tutti davanti alla sacra fiamma. Per ora possiamo accontentarci di vedere i nemici di Terra distruggersi a vicenda."
+
+### u063336
+"Ti si addice. Ciò che vediamo in te. Luce e connessioni senza la brama di distruggere."
+
+### u063337
+"Sentiamo il tuo rapimento. Lo condividiamo."
+
+### u063338
+{n}Il coro di servitori si ferma, come se l'entità che li controlla fosse intenta a pensare.{/n}
+
+### u063339
+"Nomos comprendono poco il concetto di servitù. Dobbiamo rifletterci."
+
+### u063340
+"Come sarebbe un trionfo? Tu desideri altre vittorie. Sappiamo che è così."
+
+### u063341
+"Perché? La clemenza è stolta. Non è ciò che abbiamo imparato da te."
+
+### u063342
+"La luce oscura, la fame malvagia — non le temi? Le temevi prima."
+
+### u063343
+"La tua segretezza ci rattrista. Non amiamo i segreti. Ma... smetteremo di disturbarti."
+
+### u063344
+{n}Si può scorgere a occhio nudo il momento in cui Nomos lascia il ponte — i servitori smettono di muoversi in sincronia e si allontanano lentamente, trascinando i piedi, verso le loro postazioni.{/n}
+
+### u063345
+"Ogni vita è incoerente. Lo comprendiamo."
+
+### u063346
+"Nomos imparano. Nomos elaborano flussi di dati oltre i limiti della tua immaginazione. Siamo certi di capire correttamente."
+
+### u063347
+"Ci chiedevamo se saresti {mf|riuscito|riuscita} a tornare."
+
+### u063348
+"Percepiamo che è stata compiuta una grande impresa, un'impronta vivida sull'esistenza. Hai fatto qualcosa di molto importante. Che cos'era?"
+
+### u063349
+"Nomos l'hanno detto correttamente?" {n}Il coro di servitori, che suona come un'unica voce, tace. Nomos sembra attendere la tua risposta... con ansiosa attesa.{/n}
+
+### u063350
+{n}Dopo una lunga pausa, il coro di servitori risponde con inattesa veemenza,{/n} "Anche Nomos sono lieti!"
+
+### u063351
+"Ora dobbiamo andare. Verremo a parlarti più tardi." {n}Segue un'altra pausa, così lunga che il silenzio diventa più penetrante di un urlo. Poi i servitori finalmente lo rompono.{/n}
+
+### u063352
+"Che genere di azione?"
+
+### u063353
+"Cosa ha causato tutti questi guasti e queste stranezze?"
+
+### u063354
+"Molto bene. Procediamo con il vostro rituale."
+
+### u063355
+"Quali 'fenomeni di contaminazione'?"
+
+### u063356
+"Vi ringrazio per il rapporto e il servizio, Maestra dei Motori."
+
+### u063357
+"E hai pensato che una sciocchezza simile valesse il mio tempo? Fuori di qui!"
+
+### u063358
+"Presenta il tuo rapporto, ma fallo in un modo che io possa comprendere. Non più di una perla di tecno-saggezza ogni cinque frasi di linguaggio umano comprensibile."
+
+### u063359
+"Non sprecherò il mio tempo con questo. Sbrigatevela da soli."
+
+### u063360
+"La mia presenza è necessaria?"
+
+### u063361
+{n}La Tecnoprete esegue un elaborato gesto con la parte superiore del corpo e i mecadendrite. I suoi movimenti somigliano più a quelli di una marionetta meccanica che a quelli di una creatura di carne e sangue.{/n} "Lord Capitano! In assenza di un Enginseer Primo a bordo, spetta a me, in quanto Maestra dei Motori, eseguire certi sacri protocolli assegnati ai sacerdoti di rango elevato dell'Omnissiah."
+
+### u063362
+{n}La voce di Pasqal che esce dal suo vox-sistema crepita come sottile ghiaccio sotto pressione. Non è chiaro se sia solo statica o l'espressione di qualche emozione comprensibile unicamente al Tecnoprete stesso.{/n} "{name}, seguendo la guida dell'Omnissiah, chiedo il permesso di eseguire il protocollo di rapporto, che prevede di descrivere le subottimalità nel recente funzionamento dei sistemi della nave e di proporre in seguito la linea d'azione appropriata."
+
+### u063363
+"Presento il rapporto. Dopo aver registrato un gran numero di malfunzionamenti malefici nel lavoro dei servitori di manutenzione e rapporti di disturbi nei sistemi della nave, sono giunta alla decisione che andasse eseguito un rito di tecnostregoneria. I cicli rituali sono già iniziati su tutti i ponti e proseguiranno per altri quaranta giorni." {n}La Maestra dei Motori esita per un istante.{/n} "I rituali procedono a ritmo costante. Tuttavia, le loro prime fasi sono state accompagnate da fenomeni di contaminazione. Decine di servitori e persino alcuni giovani tecno-accoliti sono stati sottoposti a smaltimento."
+
+### u063364
+"Stabilire le cause non fa parte del protocollo standard di sancti-risposta a simili anomalie. Il protocollo stabilisce che la tecnostregoneria debba essere eseguita secondo i precetti della scrittura Epsilon-Rho-12-45."
+
+### u063365
+"Stringhe di profano codice del cogitatore, deviazioni dalle procedure standard." {n}La Maestra dei Motori si ferma di nuovo.{/n} "Fin dall'inizio del rito di tecnostregoneria abbiamo osservato la comparsa di numerosi messaggi sugli schermi video. Questi messaggi chiamano voi, Lord Capitano. E, a volte, l'esiliato Magos Pasqal Haneumann."
+
+### u063366
+"La frequenza dei messaggi eretici ha raggiunto il picco durante la fase iniziale del rito di tecnostregoneria. Contemporaneamente, i giovani tecno-accoliti che ho citato prima nel rapporto hanno compiuto atti di arbitrario autosmembramento. Tuttavia, con il proseguire dei rituali, la frequenza di questi eventi è diminuita e infine i messaggi hanno smesso del tutto di comparire. Anche i fenomeni di contaminazione hanno cessato di verificarsi."
+
+### u063367
+"Avvio l'esposizione. Con la benedizione dell'Omnissiah, ho condotto diverse sessioni di tecno-meditazione nel tentativo di trasporre i flussi di dati disponibili in una matrice di schemi. I dati sottoposti a questa analisi comprendevano prove di deviazioni nel funzionamento dei sistemi della nave e dei servitori, nonché irregolarità negli algoritmi del registro di bordo."
+
+### u063368
+"Fine del rapporto. Parto per il luogo di tecno-servizio."
+
+### u063369
+"Richiesta parzialmente approvata. L'elaborazione completa richiede una definizione stabilita del termine 'tecno-saggezza'. Adeguo i modelli di linguaggio sulla base della limitata comprensione disponibile della richiesta."
+
+### u063370
+"Sono giunta alla seguente conclusione: lo spirito macchina di questa nave è del tutto straordinario. Va eseguito un ciclo completo di diagnostica sacra, seguito da un rituale complementare. Questo rituale costringerà lo spirito responsabile dei recenti eventi a rivelarsi. Quando lo farà, potremo comprenderne la natura e agire in modo adeguato a tale natura."
+
+### u063371
+{n}Pasqal si ferma prima di rispondere.{/n} "Adeguato all'entità che comparirà dinanzi a noi. Se è uno spirito macchina di grande potenza, dobbiamo placarlo e chiedere umilmente le ragioni dei presagi che ci ha mostrato. Se è l'abominio della tecno-eresia, il rituale complementare ci aiuterà a purgare la nave della sua empia presenza."
+
+### u063372
+"Risposta: affermativa. Perché il rituale complementare abbia luogo, è richiesta l'attivazione tramite il sangue della dinastia. Tutti gli alti protocolli della nave si attivano con la chiave di sangue."
+
+### u063373
+"Questa decisione è deplorevole. Senza la vostra partecipazione, il massimo che potremo fare sarà purgare totalmente le sale dati che hanno mostrato comportamenti anomali e pregare che il buono spirito non si infuri. Tuttavia, su questa nave la vostra decisione è legge. Pertanto mi adeguo."
+
+### u063374
+"Avete la mia gratitudine, {name}. Avviserò i miei tecno-compagni di iniziare subito i preparativi per il rituale complementare."
+
+### u063375
+[Rivolgiti a Pasqal] "Hai sentito cos'ha detto Abel? Sembra che abbiamo contribuito al disegno di Amarnat e deviato dal Ciclo. Cosa significa per te?"
+
+### u063376
+"Come ti senti, Abel?"
+
+### u063377
+"Perché tu e Pasqal avete lo stesso nome?"
+
+### u063378
+"È meglio affrontare la sfida del cambiamento e perire nel fallimento che marcire in vita."
+
+### u063379
+"'Disastro' è solo un altro modo di dire 'nuova opportunità'. Il punto è non lasciarsela sfuggire."
+
+### u063380
+"Non sono un profeta. Non pretenderò di fare pronunciamenti sul futuro."
+
+### u063381
+[Indica il cogitatore] "Su cosa stai lavorando?"
+
+### u063382
+"Di quale giudizio parlate voi due?"
+
+### u063383
+"Perché lo fai?"
+
+### u063384
+[Cerca connessioni logiche nei dati]
+
+### u063385
+[Osserva più da vicino lo schermo video per cercare qualcosa di insolito]
+
+### u063386
+"Il mio interesse per questo argomento si è esaurito."
+
+### u063387
+[Ispeziona la macchina sacra]
+
+### u063388
+"Beh, grazie! Con una vita movimentata come la mia, prima o poi mi servirà senz'altro un epitaffio."
+
+### u063389
+[Inchinati ad Abel] "Ti ringrazio per il generoso dono."
+
+### u063390
+"Che uso potrei mai fare di un motto che non so nemmeno pronunciare?"
+
+### u063391
+"Cercherò di non dare ad Abel alcun motivo indebito di timore."
+
+### u063392
+[Addolcisci il tono] "Abel, potresti spiegare cosa intendi, per favore?"
+
+### u063393
+"Stiamo pensando troppo? Non importa perché i vostri nomi siano uguali, conta che lo siano? È questo che intendi?"
+
+### u063394
+[Rispondi seccamente ad Abel] "Ti esprimerai con chiarezza!"
+
+### u063395
+"Andiamo oltre."
+
+### u063396
+"Pasqal, capisci a cosa si riferisce Abel?"
+
+### u063397
+"Non avrei mai immaginato che potessero esserci poeti tra i Tecnopreti."
+
+### u063398
+[Guarda Abel negli occhi] "Tecno-Fratello Abel, sei libero dalla possessione, non è vero? Confido che tu non costituisca alcuna minaccia per la mia nave?"
+
+### u063399
+"Non è forse questa la promessa di ogni eresia? 'Rinunciamo alla nostra via, distorciamo la nostra dottrina e avviamoci verso quello che sembra un futuro migliore ma in realtà ci riserva solo pericolo e dolore'?"
+
+### u063400
+"Per quanto difettoso sia lo status quo, ci ha aiutati a sopravvivere negli ultimi diecimila anni. Pertanto è efficace."
+
+### u063401
+"Perché ti preoccupi tanto per lui? Non è quello che speravi di trovare."
+
+### u063402
+"Ti prendi cura di lui come se fosse davvero il tuo fratello minore."
+
+### u063403
+"Che cosa lo turba tanto?"
+
+### u063404
+{n}La persona che hai salvato dal monastero degli Elettropreti, il servitore dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g} che si fa chiamare Abel Haneumann, fissa con attenzione lo schermo video di un cogitatore. Dei cavi collegano la sacra macchina calcolatrice alle {g|Encyclopedia:Augmentation}augmetiche{/g} all'interno delle teste chine in preghiera dei servitori che mormorano.{/n}
+
+### u063405
+{n}Un suono basso e gutturale sale dalle profondità del sintetizzatore vox di Pasqal, come se le placche tettoniche del pianeta si spostassero schiacciandosi a vicenda. Il possente rombo porta con sé parole intrise di potere:{/n} "Seguiamo un sentiero tracciato da una grande mente. Ma quel sentiero conduce in luoghi oscuri."
+
+### u063406
+{n}Il {g|Encyclopedia:TechPriest}Tecnoprete{/g} fissa intensamente i propri piedi per un po', poi dice con voce esitante,{/n} "L'esecuzione dei protocolli... binarici... si era... impantanata e dissolta in falsi comandi. Il filtro ha... separato i segnali corretti... da quelli errati. L'esecuzione è tornata alla sua rapidità."
+
+### u063407
+{n}Abel distoglie subito lo sguardo come se avesse perso ogni interesse per te. Ma poi il suo vox crepita, appena udibile:{/n} "Io... sono lieto... di vederti."
+
+### u063408
+{n}Pasqal parla piano, come se cercasse di imitare le inflessioni della voce di Abel:{/n} "Il Tecno-Fratello Abel ha superato la diagnostica. La perniciosa influenza delle procedure sacrileghe è stata completamente eliminata. Statisticamente, la maggior parte dei sopravvissuti all'infestazione degli scismatici resta con gravi compromissioni cognitive. Tuttavia la mente del Tecno-Fratello Abel, essendo di natura meno tipica, non è stata danneggiata in misura così grave."
+
+### u063409
+{n}Abel si blocca. Dal suo sintetizzatore vox, appena udibili attraverso la statica, giungono le parole:{/n} "Il nominare i nomi non è un indice del testo. Il nominare i nomi è il testo."
+
+### u063410
+"Le risposte di Abel possono essere enigmatiche. La sua mente funziona in modo diverso dalla nostra. Egli pensa per immagini armoniche e nota le simmetrie e i rapporti di proporzione nel mondo che lo circonda. La poesia sarebbe l'analogia più vicina al modo in cui percepisce la realtà e interagisce con essa."
+
+### u063411
+"La Tredicesima Legge Universale attesta la verità delle tue parole. La conoscenza degli antichi è al di sopra di ogni dubbio. Tuttavia, tracciare il confine tra gli antichi e i fallibili che ne hanno seguito le orme non è un compito facile." {n}C'è dubbio nella voce del Tecnoprete. Il tono di tonante profondità abbandona il vox di Pasqal, lasciando il posto alla sua familiare sibilanza.{/n}
+
+### u063412
+"Catturiamo l'anima della luce nel vento solare. Cerchiamo le orme che l'Omnissiah lasciò quando camminò nel deserto."
+
+### u063413
+"Questa è la procedura di calcolo oniromantico. Le menti spersonalizzate di questi servitori sono in un sogno di dati, e processano enormi masse di dati eterogenei aggregandoli. Quasi tutti i risultati di tale sintesi sono dati spazzatura, ma di tanto in tanto abbiamo notato coincidenze la cui esattezza sfidava la logica."
+
+### u063414
+"Nessuno conosce il futuro. Ogni analisi ha il suo margine di errore, e in quei margini si annidano orrori." {n}Il tono di tonante profondità abbandona il vox di Pasqal, lasciando il posto alla sua familiare sibilanza.{/n}
+
+### u063415
+"Solo lui lo sa. Ma se il mio tecno-fratello teme di non prendere la decisione giusta nel momento critico, allora la prenderò io per lui."
+
+### u063416
+{n}Le tue parole non suscitano alcuna reazione in Abel, che è immobile in silenziosa riflessione interiore.{/n}
+
+### u063417
+{n}Ai servitori sono stati rimossi i capelli. Le loro voluminose augmetiche cerebrali coprono i crani come elmi. I volti dei servitori del {g|Encyclopedia:Cogitator}cogitatore{/g} sono vuoti. I loro occhi sono chiusi. Le loro labbra sussurrano incessantemente quello che suona come un farfugliamento senza senso. Centinaia di righe di simboli contenenti informazioni scorrono sullo schermo video del cogitatore. Abel Haneumann lo osserva con avido interesse, in netto contrasto con la sua consueta placidità.{/n}
+
+### u063418
+{n}Abel ti guarda di sbieco, e subito il suo stupore rapito svanisce.{/n} "In questo momento, il Ciclo è stato spezzato e rimodellato in una spirale ascendente, come Amarnat aveva previsto."
+
+### u063419
+{n}Sentendo il nome del suo mentore, Pasqal emette un sospiro roco, carico di statica.{/n} "Sono connessi. La mia ipotesi sul legame di Abel con il benedetto Amarnat è stata confermata."
+
+### u063420
+{n}Abel si rilassa un poco. Il suo sguardo si perde di lato. Cala il silenzio.{/n}
+
+### u063421
+{n}La maggior parte delle rune è priva di significato, ma ne noti alcune che si combinano in formule e grafi computazionali. Abel ti scruta con curiosità e poi sposta lo sguardo sullo schermo video, e giureresti che un sorriso gli illumini il volto sotto l'augmetica respiratoria.{/n}
+
+### u063422
+{n}I {g|Encyclopedia:Lexmechanic}Lexmeccanici{/g} impiegano decenni a imparare a comprendere i sacri significati nascosti nelle formule e nei grafi computazionali. La tua conoscenza, di natura molto più pratica, qui è inutile.{/n}
+
+### u063423
+{n}Noti certi schemi ripetuti nelle colonne di rune che scorrono. Magari non sai cosa significhino, ma vedi chiaramente... o meglio avverti le loro somiglianze. Le indichi ad Abel, e il suo volto si illumina di gioia.{/n}
+
+### u063424
+{n}Provi a cercare... qualcosa, qualsiasi cosa, che attiri la tua attenzione. Ma le rune tremolanti... sembrano tutte uguali.{/n}
+
+### u063425
+"Un cristallo è squisito in acqua limpida. La deviazione dalla traiettoria del Ciclo è stata aumentata, come desiderava Amarnat." {n}Abel abbassa il capo, e il suo sintetizzatore vox trasmette un inno binarico che non ricordi di aver mai udito. Il suo suono è pieno di energia vibrante e il suo ritmo preciso è a dir poco piacevole all'orecchio: una cosa rara per il linguaggio dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g}.{/n}
+
+### u063426
+{n}Abel torna a osservare intensamente i calcoli, con gli occhi accesi di curiosità.{/n}
+
+### u063427
+"È il modo in cui eseguiamo la Ricerca della Conoscenza, nella speranza che il Dio-Macchina ci conceda un'epifania, così da poter discernere un nesso logico in una massa di dati assurdi, che farà avanzare la nostra Comprensione."
+
+### u063428
+{n}Pasqal spiega, con un'inspiegabile aria d'orgoglio,{/n} "Il Tecno-Fratello Abel vi ha dedicato un'aria minore. Il pezzo si distingue per un alto grado di armonia acustica ed è adatto a essere usato come motto, identificativo ausiliario o epitaffio."
+
+### u063429
+"Il dono è sproporzionato. Ma significa... un'affinità personale."
+
+### u063430
+{n}Abel china il capo con dignità. Pare che il sottinteso delle tue parole gli sia sfuggito.{/n}
+
+### u063431
+"Questa affermazione è vera. Molte filosofie pericolose appaiono impeccabilmente logiche, eppure hanno difetti pericolosi di cui i loro creatori non erano consapevoli." {n}C'è dubbio nella voce del Tecnoprete. Il tono di tonante profondità abbandona il vox di Pasqal, lasciando il posto alla sua familiare sibilanza.{/n}
+
+### u063432
+"Lo farò." {n}Pasqal posa un mecadendrite sulla spalla di Abel e ripete, con la voce pesante come il battistrada di una ruota che schiaccia la terra sottostante,{/n} "Prenderò il giudizio che scongiurerà la minaccia." {n}Il suo sguardo cade su di te.{/n} "Non c'è bisogno di spaventarlo."
+
+### u063433
+"Questa affermazione è vera. L'annientamento promesso dalla stagnazione è inevitabile. L'annientamento nel corso di una crisi di cambiamento è soltanto probabile. E attendere docilmente il declino preannunciato è vergognoso e costituisce un tradimento della Ricerca della Conoscenza." {n}Il tono di tonante profondità abbandona il vox di Pasqal, lasciando il posto alla sua familiare sibilanza.{/n}
+
+### u063434
+"Questa affermazione è vera. Una crisi spinge un sistema verso la crescita e l'elaborazione. Quanto più insopportabile è la prova, tanto più sincero sarà l'appello della mente alla saggezza dell'Omnissiah, e tanto più stabile la risposta." {n}Il tono di tonante profondità abbandona il vox di Pasqal, lasciando il posto alla sua familiare sibilanza.{/n}
+
+### u063435
+"All'inizio ho supposto che ciò fosse causato dallo shock inflitto al suo sistema dall'attacco scismatico. Ma le parole del mio tecno-fratello sono il segno di una ragione più profonda del suo disagio. Egli prevede... qualcosa. Qualcosa che minaccia sia lui sia tutti coloro che lo circondano. E perciò sono pronto ad affrontare questa minaccia."
+
+### u063436
+"Risposta ignota. Sto... registrando una parentela, sia tra i nostri identificativi sia una più profonda. L'Archmagos Amarnat ha lasciato un'impronta su tutti i suoi allievi. Potrebbe darsi, dunque, che io veda qualcosa del mio mentore nel Tecno-Fratello Abel, e così il mio spirito esulta e si sforza di tenerlo al riparo dal pericolo."
+
+### u063437
+{n}Il vox di Pasqal gracchia una risata stanca.{/n} "Il Tecno-Fratello Abel è armonioso, e l'armonia è bellezza. È un impulso così strano, voler proteggere la bellezza dagli orrori del grottesco?"
+### u063438
+"Grazie."
+
+### u063439
+{n}Gli occhi di Abel si fanno vitrei, il suo corpo si immobilizza del tutto, come una statua, e il suo vox si spegne con uno scatto.{/n}
+
+### u063440
+{n}Un sibilo di disappunto proviene dal {g|Encyclopedia:Vox}sintetizzatore vox{/g}.{/n} "Mi oppongo a simili forme di comunicazione con il Tecno-Fratello Abel."
+
+### u063441
+{n}Abel riconosce il tuo arrivo con uno sguardo attento ma non pronuncia parola.{/n}
+
+### u063442
+"Negativo. Tuttavia formulerò un'ipotesi. Il Tecno-Fratello Abel cerca di trasmettere l'idea che i nostri identificativi corrispondenti non siano la chiave di un qualche dato vitale. Essi sono, di per sé, il dato vitale. Alla presente fase della mia analisi, non posso trarre alcuna conclusione utile da questa proposizione."
+
+### u063443
+{n}Abel alza lo sguardo su di te. Dopo un lungo silenzio, distoglie gli occhi e dice rigidamente,{/n} "L'Omnissiah sa tutto, comprende tutto."
+
+### u063444
+{n}Pasqal sembra sorpreso.{/n} "Perché no? La Techna-Lingua è ritmica e possiede un ampio spettro semantico. E alcuni dei suoi dialetti più sonori si prestano bene alla declamazione individuale e sinfonica."
+
+### u063445
+"Tuttavia, il solo fatto che il Tecno-Fratello Abel cerchi di alludere a qualcosa indica che è meglio informato di me oppure che ha condotto un'analisi più approfondita della situazione. È un'informazione utile."
+
+### u063446
+"È una forma di auspicio statistico estremamente rara e venerata. Ma il Tecno-Fratello Abel è esperto in questa forma di appello al Deus Mechanicus."
+
+### u063447
+"Il Ciclo ha il vantaggio della prevedibilità. Abbandonarlo getterà la collettività in uno spazio pericoloso di incertezza, che porterà inevitabilmente a disastri e al rischio di annientamento universale. La dottrina della Cessazione del Ciclo può preannunciare cose buone a venire — oppure può essere una condanna a morte. Solo l'Omnissiah sa tutto e comprende tutto. Gli altri sono semplici profeti che interpretano la Sua saggezza per quanto lo consente la loro Comprensione."
+
+### u063448
+{n}La voce di Abel trema e i suoi occhi guizzano in giro, evitando disperatamente il contatto visivo.{/n} "Ciò che era difettoso è stato da allora epurato... Ma le ombre della caccia indugiano... L'ingranaggio è smontato e nessun giudizio è stato pronunciato... In assenza di giudizio, la minaccia permane. Chi pronuncerà il giudizio?"
+
+### u063449
+[Attacca] "Questa conversazione è finita."
+
+### u063450
+"Conosco il Magos Haneumann, e qualcosa mi dice che voi due non siete parenti."
+
+### u063451
+[Sorridi in modo minaccioso] "Sei un eretico, non è vero?"
+
+### u063452
+"Ti sto dando la possibilità di spiegare perché usi il nome di un altro."
+
+### u063453
+"Pasqal, hai preferenze riguardo all'uccisione del tuo ex tecno-compagno?"
+
+### u063454
+"Questo non viola qualche protocollo?"
+
+### u063455
+[Attacca] "Beh, io non ho alcuna intenzione di lasciarlo vivere."
+
+### u063456
+"Una saggia decisione, Pasqal."
+
+### u063457
+"Se pensi sia meglio così."
+
+### u063458
+"E sia. Mostrami la tua 'verità'."
+
+### u063459
+"Una misura ragionevole."
+
+### u063460
+"Lo sconsiglierei. Potrebbe essere pericoloso."
+
+### u063461
+"Intendi estrarre quella cosa dalla sua testa? Ripugnante! E se fosse contagioso?"
+
+### u063462
+"Davvero. Chissà quali affascinanti cose aveva in testa?"
+
+### u063463
+"Fai ciò che ritieni necessario."
+
+### u063464
+"La tua saggezza puzza di corruzione."
+
+### u063465
+"Non capisco i tuoi calcoli. Ma mi piacerebbe, moltissimo."
+
+### u063466
+"I tuoi calcoli non hanno senso. Sono pieni di errori."
+
+### u063467
+"Il warp. Hai usato la tecnologia warp."
+
+### u063468
+"Silenzio, eretico. Il tuo sermone finisce qui."
+
+### u063469
+"Sei tu quello che ha rubato il codice personale del Magos Tarzus e ha attentato alla sua vita?"
+
+### u063470
+"Pasqal, cos'è questo guazzabuglio di numeri?"
+
+### u063471
+{n}Il {g|Encyclopedia:TechPriest}Tecnoprete{/g} si strappa dalla lettura della sua tavoletta dati e alza lo sguardo su di te. La sua {g|Encyclopedia:Augmentation}augmetica{/g} respiratoria è assente — al suo posto, la metà inferiore del volto è coperta da una carne artificiale di un pallore mortale. Noti la moltitudine di augmetiche recenti fissate alla sua testa. Sembrano essere state inserite alla rinfusa, e dalle ferite non curate cola del pus.{/n} "Ho udito i tuoi passi nel vuoto... Tu sei von Valancius, non è vero?"
+
+### u063472
+{n}Le sue labbra bianche e senza vita si tendono in un sorriso.{/n} "Il mio nome è Dementz Haneumann. Credo che ti sia familiare."
+
+### u063473
+"Le voci mi avevano avvertito che questo momento sarebbe giunto."
+
+### u063474
+"Non lo siamo. Il nome Haneumann — viene pronunciato sorprendentemente spesso in questi giorni, non trovi?" {n}Il Tecnoprete sorride in modo enigmatico, ma il sorriso sembra appuntato con una cucitrice sul suo viso bianco.{/n} "La mia {g|Encyclopedia:Vox}vox-stazione{/g} capta sussurri che ripetono questo nome."
+
+### u063475
+"Solo un cercatore di conoscenza. Tuttavia gli esperimenti che ho condotto vanno ben oltre i limiti consentiti a un semplice transmeccanico incaricato di mantenere una vox-batteria planetaria. Ma da quando ho ricevuto quello strano segnale, le mie orecchie si sono aperte a ciò che prima consideravo conoscenza proibita. Ogni notte da allora sintonizzo la mia vox-stazione su quella frequenza e ascolto le voci."
+
+### u063476
+"Sono un eretico? Il Fabricator-Censor non lo pensava. Condusse delle ispezioni, ma non proibì le mie ricerche. Più tardi, quando un misterioso visitatore rivelò la verità ai suoi ottici, venne da me ancora una volta. Per lui ho coltivato il codice spazzatura nelle profondità della mia mente. Vive ancora là, divorando le mie sinapsi e costruendo nuove connessioni aperte alla nuova conoscenza del cambiamento. La libertà è eresia? Se è così, allora sono un eretico."
+
+### u063477
+"Sto decifrando un grande mistero, e il mio nome è diventato l'inizio della chiave. Ho analizzato gli archivi e l'ho trovato in luoghi dove non dovrebbe essere. 'Haneumann', 'Haneumann', 'Haneumann' — continuavo a vedere questo marcatore sulle tracce di un grande complotto. Dell'inganno creato dall'Archmagos Amarnat."
+
+### u063478
+{n}Pasqal passa alla Techna-Lingua, e il suo vox esplode in una serie di segnali binarici.{/n}
+
+### u063479
+"Non c'è bisogno di segretezza. Che {mf|lui|lei} comprenda." {n}L'{g|Encyclopedia:Heretek}heretek{/g} annuisce nella tua direzione con un sorriso.{/n}
+
+### u063480
+{n}Pasqal ti lancia un'occhiata preoccupata e dice in Gotico, con voce dubbiosa,{/n} "A seguito di una resa volontaria, sarei disposto a commutare la pena dalla distruzione immediata all'arresto e all'isolamento. Ai fini di condurre un interrogatorio esaustivo."
+
+### u063481
+"Davvero, tecno-compagno. Non viola il dogma della purezza?"
+
+### u063482
+{n}Pasqal dice con nervosismo,{/n} "La tua possibile familiarità con questioni legate al destino del benedetto Amarnat giustifica questa violazione."
+
+### u063483
+{n}Il sorriso folle dell'heretek resta sulle sue labbra morte.{/n} "Richiesta negata, tecno-compagno. Dovrai estrarre dalla mia testa ciò che so."
+
+### u063484
+{n}Il Tecnoprete gira la sua tavoletta dati. Il suo schermo video è coperto da rune verdi che eseguono un'empia danza di calcolo.{/n}
+
+### u063485
+{n}Pasqal resta immobile mentre fissa il cadavere dell'{g|Encyclopedia:Heretek}heretek{/g}. Dopo un lungo silenzio, dice infine con voce cava,{/n} "Io... prenderò il suo {g|Encyclopedia:Cogitator}cogitatore{/g} neurale. I dati in esso contenuti devono essere analizzati per integrare il Catechismo di Manutenzione e Operazione."
+
+### u063486
+{n}Pasqal si china sul cadavere, attiva lo strumento di prelievo su uno dei suoi {g|Encyclopedia:Mechadendrite}mecadendrite{/g} e lo affonda nel groviglio di {g|Encyclopedia:Augmentation}augmetiche{/g} che ricopre il cranio dell'heretek.{/n}
+
+### u063487
+"Richiesta negata. Il valore dei dati giustifica il rischio."
+
+### u063488
+"Questa affermazione è vera. Il valore dei dati giustifica il rischio."
+
+### u063489
+"Sei {mf|prevenuto|prevenuta} perché la tua mente è oscura, {mf|profano|profana}."
+
+### u063490
+"Allora diventa il mio servitore. Afferrerò il tuo debole cervello e lo sostituirò con Ferrum Sanctum in grado di ricevere segnali dall'Immaterium. Allora comprenderai tutto."
+
+### u063491
+{n}Non è facile tenere il passo con i numeri che scorrono, ma riesci a individuare alcune equazioni... schemi... teoremi. Sono tutti privi di senso, per il semplice motivo che ognuno si basa su un'assurda violazione delle leggi del calcolo.{/n}
+
+### u063492
+{n}I simboli verdi si fondono in una foschia tremolante, e la testa ti gira. Più cerchi di comprendere gli impossibili calcoli dell'heretek, più cresce la sensazione che questi numeri maledetti stiano bevendo la tua anima.{/n}
+
+### u063493
+"Lo sono, e lo sono — in questo luogo. Ma c'è un altro luogo dove hanno il diritto di esistere. Dove niente e niente possono sommarsi per diventare qualcosa. Dove lo zero matematico può perire e decadere, e l'infinito può misurare se stesso."
+
+### u063494
+"Ho alterato la vox-batteria planetaria. Ho sostituito il promethium con carburante fatto delle anime dei servo-servitori. La somma di tutta la conoscenza che esiste nel mondo giace nel warp, e io la sto estraendo. Pensi che sia sacrilegio? Io penso che sia sacrilegio non farlo. Penso che sia ipocrisia rifiutare la tecnologia warp, tradire il comandamento dell'Omnissiah secondo cui dobbiamo conoscere e comprendere tutto il creato."
+
+### u063495
+{n}Con un sorriso gelido, l'heretek porge a Pasqal la sua tavoletta dati che mostra i blasfemi simboli verdi danzanti.{/n} "Vuoi sapere tutto di te stesso, di me, del Cacciatore Mutilato, di Amarnat? Assolutamente tutto?"
+
+### u063496
+{n}Il {g|Encyclopedia:Mechadendrite}mecadendrite{/g} di Pasqal accetta con cautela la tavoletta dati e, dopo una breve pausa, la frantuma con la sua pinza servoidraulica. La sua voce è risoluta:{/n} "Non a un simile prezzo."
+
+### u063497
+"Un altro? Ho il diritto di portare questo nome. È la mia umile eredità, che ho ricevuto dall'Archmagos Amarnat. Rinunciarvi significa tradire le sue idee. Il benedetto Amarnat ci insegnò che il Ciclo deve essere cessato, e pare che io sia diventato il suo miglior allievo. Ora aspiro a conoscere tutto, a comprendere tutto, come è volontà dell'Omnissiah."
+
+### u063498
+{n}Un lamento proviene dal vox di Pasqal:{/n} "Il warp. Hai usato la tecnologia warp. È proibita."
+
+### u063499
+"Ma perché?" {n}La voce insinuante dell'heretek suona sorprendentemente calma.{/n}
+
+### u063500
+"No. Perché dovrei farlo? È stata opera del Cacciatore Mutilato."
+
+### u063501
+"Nessuna mente sana è capace di una furbizia così contorta. Ma la mia mente non era più sana, non poteva più restare entro i ristretti confini della norma. Ogni nuova scoperta allentava gli imperativi dell'obbedienza e concedeva una libertà sempre maggiore. Mi sono evoluto. Ho evitato le trappole del Cacciatore Mutilato, che cerca di nascondere la verità. Ma le parole contano poco... Vuoi che ti mostri la verità?" {n}Le sue labbra pallide si aprono in un sorriso.{/n}
+
+### u063502
+"Questa affermazione è falsa! Questa unità è accusata di furto d'identità."
+
+### u063503
+"Sono colpevole di molte cose, ma non della trasgressione di cui parli. Non ti ho rubato nulla, mio tecno-compagno. A differenza di... molti altri che ti hanno davvero derubato."
+
+### u063504
+"Termine non riconosciuto. È un termine specialistico usato dalla tua branca della tecno-eresia?"
+
+### u063505
+"È semplicemente un nome che gli si addice. Ormai avrai notato che i nomi sono pieni di menzogne, non è vero, Pasqal Haneumann?" {n}Una risata beffarda erompe dalle labbra dell'heretek.{/n}
+
+### u063506
+"La ragione del fallimento delle operazioni di questa unità è stata stabilita. Sei caduto vittima della corruzione cognitiva del Caos. I tuoi processi di calcolo sono stati disturbati. Sei difettoso."
+
+### u063507
+"Blasfemia! Se continuerai queste sacrileghe menzioni delle sacre litanie e queste eretiche perversioni della filosofia del benedetto Amarnat, sarai distrutto!"
+
+### u063508
+"Vuoi sembrare indignato, ma sento la tua curiosità. Capisco. La conoscenza è inebriante. Anche me rode questa brama di nuova conoscenza. Ma abbi pazienza."
+
+### u063509
+{n}Pasqal getta una rapida occhiata alla {g|Encyclopedia:Dataslate}tavoletta dati{/g} e dice con disprezzo,{/n} "La logica sacra è compromessa. I tuoi calcoli sono irrazionali."
+
+### u063510
+"Eppure sono corretti."
+
+### u063511
+"È tutto empio nonsenso. Un tradimento della logica pura, il frutto di una mente malata che ha rinnegato le leggi fondamentali." {n}Il vox di Pasqal è roco, come la gola secca di un malato.{/n}
+
+### u063512
+"Difettoso? Io rivelo la verità, comprendo, proprio come comanda l'{g|Encyclopedia:Omnissiah}Omnissiah{/g}. Intanto la tua mente si dibatte nella gabbia dei voti dati. Dunque, chi di noi due è difettoso?"
+
+### u063513
+{n}Pasqal scambia una serie di segnali binarici con il Tecnoprete prima di dire in tono minaccioso,{/n} "Avvio la procedura di arresto. Questa unità sta usando un codice di identificazione fabbricato, il che costituisce una trasgressione di Quarto Grado."
+
+### u063514
+"Pasqal, penso che dovresti andare con queste persone."
+
+### u063515
+"Stai dicendo che questo bestione assetato di sangue è... un santo?"
+
+### u063516
+"Non consegnerò Pasqal a voi senza vedere prove. Andiamo a fondo della questione insieme."
+
+### u063517
+"Fuori dalla mia nave. Subito. E se proverete ancora ad arrestare qualcuno nel mio dominio, ve ne pentirete."
+
+### u063518
+[Fai una smorfia] "Il bestione deve proprio ruggire?"
+
+### u063519
+[Studia i due Preti di Marte]
+
+### u063520
+"Con quale accusa state cercando di arrestare un membro del mio seguito?"
+
+### u063521
+"Insisto per un'indagine congiunta. Arrestare un membro del seguito di un Rogue Trader senza alcuna giustificazione viola la legge e i miei privilegi ai sensi del Mandato di Commercio."
+
+### u063522
+"Pasqal mi accompagna nei miei viaggi ormai da un po', e posso giurare che non è un criminale."
+
+### u063523
+"Cos'hai da dire in proposito, Pasqal?"
+
+### u063524
+"Come supponete che Pasqal sia stato coinvolto negli eventi su Kiava Gamma?"
+
+### u063525
+"Aspettate un momento. Che sta succedendo su Kiava Gamma? Quel pianeta mi appartiene."
+
+### u063526
+[Indica il furioso servitore dell'Omnissiah] "Avete prove che questo Tecnoprete sia chi dice di essere?"
+
+### u063527
+"Sono {mf|stato|stata} su Kiava Gamma, e posso assicurarvi che Pasqal non c'entra nulla."
+
+### u063528
+"Gloria all'Adeptus Mechanicus. Sono {mf|pronto|pronta} a collaborare."
+
+### u063529
+"Chi osa presentarsi sulla mia nave senza invito? Cercate guai, ingranaggi?"
+
+### u063530
+[Rivolgiti a Opticon-22] "Penso che io e voi dovremmo continuare la discussione in privato. Il grosso tizio sta creando attrito."
+
+### u063531
+{n}L'enorme Tecnoprete punta la mano contro Pasqal ed emette un ruggito tonante non dissimile dall'allarme di una fabbrica. Ti fa vibrare le ossa. Servoteschi araldi marchiati con l'emblema dell'ingranaggio lo seguono. Strillano con acutezza,{/n} "Non tollererai un heretek nella tua forgia, perché la ruggine genera ruggine. Pasqal Haneumann, in nome dell'Adeptus Mechanicus, sei in arresto."
+
+### u063532
+{n}Il curvo servitore dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g} si volta verso di te.{/n} "Modalità diplomatica attivata. Annuncio: l'Adeptus Mechanicus //porge le proprie scuse per//desidera informarvi della necessità di// condurre un'operazione per //trattenere//arrestare//terminare// un'unità difettosa sul territorio del {g|Encyclopedia:RogueTrader}Rogue Trader{/g}."
+
+### u063533
+{n}Il profondo ruggito gutturale del Tecnoprete si fonde con il lamento acuto dei servoteschi:{/n} "Falsa testimonianza!"
+
+### u063534
+"Una cospirazione sacrilega! Rifiuto l'aiuto dei profani. Sono un ingranaggio del Deus Mechanicus che stritola la corruzione, ed eseguirò la sentenza immediatamente!"
+
+### u063535
+{n}Pasqal si blocca, ma scintille verdi si accendono nella sua visiera. Tende una mano verso Tarzus e replica, con voce metallica,{/n} "Che il Ciclo sia cessato!" {n}Capisci che le parole di Pasqal escono sia dal suo vox sia da quello di Tarzus. Poi ogni sensore dell'imbracatura da battaglia del giustiziere si accende all'istante, accecante, e il ferito leviatano corazzato lancia un assordante ruggito di dolore.{/n}
+
+### u063536
+"Procedura di identificazione primaria. Presento le insegne di status. Dichiaro la mia identità: Magos Explorator Opticon-22, unità della Cognisance Fleet, ispettore della linea di rifornimento della Kappa Thread Fleet, di stanza alla Stazione di Footfall."
+
+### u063537
+"Negativo. Al termine della sua procedura di santificazione, il Tecno-Fratello Tarzus //ha giurato//ha modificato gli algoritmi delle sue augmetiche engrammatiche affinché// non //profanasse//insozzasse//macchiasse// mai //la propria bocca//il proprio vox//il proprio processo cognitivo// con il linguaggio della carne."
+
+### u063538
+{n}Riconosci la rara armatura indossata dall'enorme Tecnoprete come una tuta meccanizzata a placche da Secutor. Reca i segni di molte battaglie e ha marchi che ne proclamano lo status di reliquia. Alcuni danni dell'armatura sembrano piuttosto gravi, al punto da comprometterne il funzionamento.{/n}
+
+### u063539
+{n}Il suono del vox del Tecnoprete è come il gemito di una trave d'acciaio che si piega. Un servoteschio dichiara,{/n} "Di vendetta ho sete mentre percorro il sentiero della vendetta, seguendo le tracce insanguinate di un blasfemo furfante."
+
+### u063540
+{n}L'enorme Tecnoprete indossa un'insolita armatura chiaramente fatta per la battaglia e che ne ha viste molte. Non riesci a identificarne il tipo, il che non sorprende. L'Adeptus Mechanicus ha centinaia di modelli specializzati per qualsiasi oggetto.{/n}
+
+### u063541
+"Archiviazione. Il Tecno-Fratello Tarzus si oppone alla partecipazione dei profani all'//indagine//ricerca della verità//. L'unità Opticon-22 si pronuncia a favore della richiesta di partecipazione dei rappresentanti della Casata von Valancius."
+
+### u063542
+"Questo {g|Encyclopedia:Heretek}heretek{/g} è accusato di furto di codici di identificazione personale, di diffusione di tecno-eresia sul mondo di Kiava Gamma e di tentato omicidio di un servitore dell'Omnissiah." {n}Il ruggito assordante del vox del Tecnoprete ti fa contrarre il viso dal dolore. Ti tocchi l'orecchio e noti del sangue sulle dita.{/n} "L'unità difettosa sarà rimossa! In nome dell'Omnissiah, ti condanno!" {n}Fulmini guizzano sull'armatura del guerriero. L'agonia risuona nel clamore del suo vox-allarme.{/n}
+
+### u063543
+"L'affermazione è falsa. Il Tecno-Fratello Tarzus Haneumann si sottopone volontariamente a santo //tormento//deterioramento//, che tuttavia //non influisce//non influisce in modo critico// sulla sua capacità cognitiva di analisi dei dati. Unità che si fa chiamare Pasqal Haneumann, disponiamo di informazioni che ti coinvolgono. Avendo appreso che sei //un membro del seguito//uno specialista di manutenzione al servizio// del Rogue Trader von Valancius, siamo venuti qui allo scopo di //incontrarti//intercettarti//ingaggiarti in combattimento//."
+
+### u063544
+{n}Pasqal replica con fermezza, con il vox che crepita di un velo di indignazione,{/n} "Nego queste accuse. Non ho mai complottato contro il mio tecno-compagno. I miei voti di purezza cognitiva non sono mai stati distorti. Il mio codice di identificazione univoco non è mai stato rubato. Io sono il vero Magos Explorator Haneumann, e non sono colpevole."

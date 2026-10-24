@@ -1,0 +1,1242 @@
+### u011992
+All'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} di Eogunn, questa creatura ripristina {uip|HealAmount|1ca137865f7f4d668e2e409bab8ece43} {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u011993
+Eogunn sceglie come bersaglio un alleato adiacente con almeno un'augmetica installata e ripristina {uip|HealAmount|66a1334321bc4000b9c19ee35614538d} ferite (fino a un massimo di {uip|HealLimit|66a1334321bc4000b9c19ee35614538d}).
+<i>Per usare questa abilità, Eogunn deve avere almeno <b>2 accumuli</b> di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}, che vengono poi rimossi.</i>
+! Utilizzabile solo una volta per combattimento.
+
+### u011994
+Repair Mechadendrite
+
+### u011995
+<u>({g|Encyclopedia:SkillMedicae}Medicae{/g} di Eogunn)</u>
+
+### u011996
+<u>(Tech-Use di Eogunn / 10 × numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g} sul bersaglio)</u>
+
+### u011997
+<u>(numero di accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g} su Eogunn + numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g} sul bersaglio)</u>
+
+### u011998
+High Voltage
+
+### u011999
+Gli alleati che si muovono attraverso le caselle occupate dal muro di energia ottengono +{uip|BonusMP|52fe1454f6054f119ddafd9941b3950c} PM (una volta per round).
+I nemici che attraversano il muro di energia subiscono {uip|BonusMP|52fe1454f6054f119ddafd9941b3950c} danni da shock (fino a un massimo di {uip|MaxDamage|52fe1454f6054f119ddafd9941b3950c}).
+
+### u012000
+<u>({g|Encyclopedia:SkillLogic}Logic{/g} di Eogunn / 20)</u>
+
+### u012001
+<u>(2 × {g|Encyclopedia:Resolve}determinazione{/g} di Eogunn)</u>
+
+### u012002
+<u>(Logic di Eogunn / 5)</u>
+
+### u012003
+Eougunn ripristina le ferite di un alleato e recupera anche le proprie.
+
+### u012004
+At the Speed of Thought
+
+### u012005
+Eogunn può usare su se stesso l'abilità {g|f:5bfccf14d8604ae1a041fb347fb8f19f}Bring It Down!{/g}. In tal caso, la sua {g|Encyclopedia:Resolve}determinazione{/g} è ridotta di −100% per 1 {g|Encyclopedia:Round}round{/g}.
+Non ottiene {g|Encyclopedia:ActionPoints}PA{/g} ma può invece effettuare un attacco aggiuntivo. Finché è sotto l'effetto di questa abilità, Eogunn ottiene +{uip|StatBonus|fb3769f45c4b4429aeb5c6323be7b8fa} di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g}.
+
+### u012006
+Transcranial Stimulation
+
+### u012007
+<u>determinazione ridotta</u>
+
+### u012008
+Eogunn può usare l'abilità {g|f:5bfccf14d8604ae1a041fb347fb8f19f}Bring It Down!{/g} sui nemici. In tal caso, la sua {g|Encyclopedia:Resolve}determinazione{/g} è ridotta di −100% per 1 {g|Encyclopedia:Round}round{/g}.
+Il bersaglio attacca subito la creatura più vicina (dando la priorità agli altri nemici). Poi il bersaglio subisce −{uip|ResolveLowered|b9936af246d44bb19c8bc8167b891714} a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g}. Un bersaglio affetto da {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g} viene {g|Encyclopedia:Stun}stordito{/g} per 1 round, a meno che non sia un nemico potente. Un bersaglio non affetto subisce invece +1 accumulo di {g|Encyclopedia:PerplexedEffect}confusione{/g} per 1 round.
+Ogni bersaglio può essere colpito da questa abilità una sola volta per combattimento.
+
+### u012009
+Electroconvulsive Therapy
+
+### u012010
+Alla fine del suo turno, una creatura che ha subito danni da {g|f:4644d27aca624059883392696c49456d}electrified strikes{/g} durante il round subisce di nuovo quei danni.
+
+### u012011
+Conduction
+
+### u012012
+Una creatura affetta da {g|f:d751b596af79422796fb0da9a27dec47}blessing of the Omnissiah{/g} ottiene +{uip|BonusCritChance|c49f6ede0ecd44f1aa996e9300513c17}% di probabilità di colpo critico.
+La probabilità di colpo critico degli attacchi effettuati contro questa creatura è ridotta di −{uip|BonusCritChance|c49f6ede0ecd44f1aa996e9300513c17}%.
+
+### u012013
+The Machine God's Protection
+
+### u012014
+All'inizio del suo turno, Eogunn ottiene +1 PA se ha almeno {uip|EnergySpent|e2892494765548f984b6173cb7f1b340} accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}.
+
+### u012015
+Excess Energy
+
+### u012016
+Dopo che Eogunn usa la {g|f:5b46732f51a9413bbc94491ac63c807f}magnarail lance{/g}, la successiva istanza di danni da shock o energetici che infligge entro 1 round è aumentata di +{uip|BonusDamage|577cb8202ec3465fbd4821afce831bd7}%.
+
+### u012017
+Potential Difference
+
+### u012018
+<u>(Tech-Use / 3)</u>
+
+### u012019
+Quando il {g|f:09c4605a50c74262aec197ec9f9a9d58}transonic cannon{/g} viene usato contro una creatura {g|Encyclopedia:BurningEffect}in fiamme{/g}, la potenza dell'effetto {g|Encyclopedia:BurningEffect}In fiamme{/g} aumenta di +{uip|AdditionalBurning|eb0608b0a5f148deb38226e8fc6f6997}.
+
+### u012020
+Induction Transmission
+
+### u012021
+<u>(bonus di INT)</u>
+
+### u012022
+Eogunn ottiene +{uip|DamageBlocked|dc6f47b218804f308ef002560628e43d}% di blocco quando è bersaglio di attacchi a distanza.
+
+### u012023
+Trajectory Calculation
+
+### u012024
+<u>(({g|Encyclopedia:SkillLogic}Logic{/g} + {g|Encyclopedia:SkillTechUse}Tech-Use{/g}) / 10)</u>
+
+### u012025
+All'inizio del combattimento, Eogunn ottiene +{uip|BonusEnergy|c1c1223167f041e2aa5a7d4885d3f80f} accumuli aggiuntivi di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}.
+
+### u012026
+Reserve Optimisation
+
+### u012027
+<u>(Logic / 50)</u>
+
+### u012028
+Ogni volta che un nemico attacca un alleato affetto da {g|f:e6926d919c6d4246b1feb2ff8d7611fc}Galvanic Field{/g}, quel nemico subisce {uip|DamageAmount|930ce7e4b50d489d825b3dd69329c3bd} danni da shock.
+
+### u012029
+Galvanic Reaction
+
+### u012030
+<u>(Tech-Use di Eogunn / 3)</u>
+
+### u012031
+Se lo sciame di servoteschi è bersaglio dell'abilità {g|f:823b70d6ab9349b2a1e2b1bbbe4798e2}Galvanic Field{/g}, ne ottiene a sua volta l'effetto.
+
+### u012032
+Galvanic Module
+
+### u012033
+Eogunn sceglie un bersaglio principale e 2 caselle entro un raggio di 4 caselle attorno ad esso. Tutte le creature in quelle 2 caselle, e nelle caselle comprese tra esse e il bersaglio principale, diventano bersagli aggiuntivi.
+Eogunn infligge {uip|DamageAmount|b0f26c799e1d461b855f619a2c1cb1a1} danni da shock con {uip|ArmorPen|b0f26c799e1d461b855f619a2c1cb1a1}% di penetrazione dell'armatura al bersaglio principale, e poi la stessa quantità ai bersagli aggiuntivi. Il bersaglio principale subisce +{uip|DamageIncrease|b0f26c799e1d461b855f619a2c1cb1a1} danni in più, e i bersagli aggiuntivi la metà. I danni inflitti alla stessa creatura sono ridotti di −50%.
+<i>Tutti gli accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g} vengono rimossi da Eogunn.</i>
+
+### u012034
+<u>(INT / 3)</u>
+
+### u012035
+<u>(10 × numero di accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g} rimossi)</u>
+
+### u012036
+Questa lancia concede a Eogunn l'abilità {g|f:2c4d692f28fe47e3a65f45a914c5189b}Magnarail Blast{/g}. Non conta ai fini del limite di attacchi per turno.
+Questa augmetica è considerata un innesto destro. Eogunn non può subire un {g|f:b6a0edb0040f450a8a0c85c1300d6548}braccio destro menomato{/g}.
+
+### u012037
+<u>(Intelligence / 2)</u>
+
+### u012038
+<u>({g|Encyclopedia:SkillTechUse}Tech-Use{/g} / 2)</u>
+
+### u012039
+Questa lancia modificata concede a Eogunn la versione potenziata dell'abilità {g|f:2c4d692f28fe47e3a65f45a914c5189b}Magnarail Blast{/g}. Non conta ai fini del limite di attacchi per turno.
+Questa augmetica è considerata un innesto destro. Eogunn non può subire un {g|f:b6a0edb0040f450a8a0c85c1300d6548}braccio destro menomato{/g}.
+
+### u012040
+Eogunn sceglie un bersaglio principale e 3 caselle entro un raggio di 5 caselle attorno ad esso. Tutte le creature in quelle 3 caselle, e nelle caselle comprese tra esse e il bersaglio principale, diventano bersagli aggiuntivi.
+Eogunn infligge {uip|DamageAmount|544287d567d447138284d1baf73fa6b8} danni da shock con {uip|ArmorPen|544287d567d447138284d1baf73fa6b8}% di penetrazione dell'armatura al bersaglio principale, e poi la stessa quantità ai bersagli aggiuntivi. Il bersaglio principale subisce +{uip|DamageIncrease|b0f26c799e1d461b855f619a2c1cb1a1} danni in più, e i bersagli aggiuntivi la metà. I danni inflitti alla stessa creatura sono ridotti di −50%.
+<i>Tutti gli accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g} vengono rimossi da Eogunn.</i>
+
+### u012041
+Modified Magnarail Lance
+
+### u012042
+Tutte le creature in un cono di 6 caselle davanti a Eogunn subiscono {uip|DamageDealt|fbca800b9c8d46c0a22a7cf5982984f3} {g|Encyclopedia:RendingDamage}danni laceranti{/g} con {uip|ArmorPen|fbca800b9c8d46c0a22a7cf5982984f3}% di penetrazione dell'armatura. I bersagli colpiti subiscono +{uip|ArmorPen|fbca800b9c8d46c0a22a7cf5982984f3} accumuli di {g|f:7e42fcb1d83040e38e8d68d7edd96375}echopulse{/g} fino alla fine del combattimento.
+Eogunn ottiene +1 accumulo di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g} per ogni bersaglio colpito.
+
+### u012043
+Questo cannone concede a Eogunn l'abilità {g|f:09c4605a50c74262aec197ec9f9a9d58}Transonic Wave{/g}. Non conta ai fini del limite di attacchi per turno.
+Questa augmetica è considerata un innesto destro. Eogunn non può subire un {g|f:b6a0edb0040f450a8a0c85c1300d6548}braccio destro menomato{/g}.
+
+### u012044
+Questo cannone transonico modificato concede a Eogunn una versione potenziata dell'abilità {g|f:c0dc6cf8887946e5910c64aa17ecb4c8}Transonic Wave{/g}. Non conta ai fini del limite di attacchi per turno.
+Questa augmetica è considerata un innesto destro. Eogunn non può subire un {g|f:b6a0edb0040f450a8a0c85c1300d6548}braccio destro menomato{/g}.
+
+### u012045
+Tutte le creature in un cono di 7 caselle davanti a Eogunn subiscono {uip|DamageDealt|26d7e8d0c00e4d3f9bd6f433d253197d} {g|Encyclopedia:RendingDamage}danni laceranti{/g} con {uip|ArmorPen|26d7e8d0c00e4d3f9bd6f433d253197d}% di penetrazione dell'armatura. I bersagli colpiti subiscono +{uip|ArmorPen|26d7e8d0c00e4d3f9bd6f433d253197d} accumuli di {g|f:7e42fcb1d83040e38e8d68d7edd96375}echopulse{/g} fino alla fine del combattimento.
+Eogunn ottiene +2 accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g} per ogni bersaglio colpito.
+
+### u012046
+Modified Transonic Cannon
+
+### u012047
+Magnarail Blast
+
+### u012048
+Magnarail Lance
+
+### u012049
+Transonic Wave
+
+### u012050
+Transonic Cannon
+
+### u012051
+L'aquila cibernetica ha {uip|EagleArmor|fe156ca111b8485cb947f85384152a07}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e {uip|EagleDeflection|fe156ca111b8485cb947f85384152a07} di {g|Encyclopedia:Deflection}deviazione{/g}. La sua {g|Encyclopedia:DodgeGlossary}schivata{/g} è aumentata di +30%.
+
+### u012052
+<u>(5 + {g|Encyclopedia:WarhammerPerception}PER{/g} del famiglio / 2)</u>
+
+### u012053
+<u>(bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} del famiglio / 3)</u>
+
+### u012054
+All'inizio del combattimento e ogni volta che l'{g|Encyclopedia:CareerOverseerGlossary}Overseer{/g} termina il proprio {g|Encyclopedia:Turn}turno{/g}, l'aquila cibernetica inizia a librarsi ({g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}). Finché è in {g|f:ec56854df2e84ef196a49079a43b5211}soaring{/g}, recupera +10% delle sue {g|Encyclopedia:MaxWounds}ferite massime{/g} all'inizio di ogni {g|Encyclopedia:Round}round{/g}.
+
+### u012055
+Winged Aegis
+
+### u012056
+Il mastino cibernetico ha {uip|Armour|267ea941490e468aa0b6e262ea6fd171}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e {uip|Deflection|267ea941490e468aa0b6e262ea6fd171} di {g|Encyclopedia:Deflection}deviazione{/g}. La sua {g|Encyclopedia:DodgeGlossary}schivata{/g} è aumentata di +15%.
+
+### u012057
+Advanced Sensors
+
+### u012058
+<u>(5 + {g|Encyclopedia:WarhammerStrength}STR{/g} del famiglio / 2)</u>
+
+### u012059
+Quando si muove, il mastino cibernetico non provoca mai {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u012060
+Bestial Reflexes
+
+### u012061
+Gli attacchi del famiglio ignorano il {g|Encyclopedia:BlockChance}blocco{/g} del bersaglio.
+
+### u012062
+Flanking Manoeuvre
+
+### u012063
+Il corvo psibernetico ha {uip|RavenArmor|36c3b6aec151475aa701bd920cbf227a}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e {uip|RavenDeflection|36c3b6aec151475aa701bd920cbf227a} di {g|Encyclopedia:Deflection}deviazione{/g}. La sua {g|Encyclopedia:DodgeGlossary}schivata{/g} è aumentata di +20%.
+
+### u012064
+<u>({g|Encyclopedia:WarhammerAgility}AGI{/g} del famiglio / 3)</u>
+
+### u012065
+Lo sciame di servoteschi ha {uip|ArmorBonus|7b088e5f02c74a828f0b0d19bc04cee1}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e {uip|DeflectionBonus|7b088e5f02c74a828f0b0d19bc04cee1} di {g|Encyclopedia:Deflection}deviazione{/g}. La sua {g|Encyclopedia:DodgeGlossary}schivata{/g} è aumentata di +20%.
+
+### u012066
+<u>({g|Encyclopedia:WarhammerIntelligence}INT{/g} del famiglio / 3)</u>
+
+### u012067
+<u>(bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del famiglio / 3)</u>
+
+### u012068
+Il bersaglio ottiene +{uip|ChanceBonus|6f1395647e8b4f6cb47bce10d7cccd2f}% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} al suo prossimo attacco, di {g|Encyclopedia:DodgeGlossary}schivata{/g} alla sua prossima {g|Encyclopedia:Test}prova{/g} di schivata e di probabilità di successo alla sua prossima {g|Encyclopedia:ResistanceTest}prova di resistenza{/g}. Questi {g|Encyclopedia:Bonus}bonus{/g} scompaiono indipendentemente l'uno dall'altro dopo essere stati applicati con successo.
+
+### u012069
+Glimpse of Fate
+
+### u012070
+<u>(5 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del Navigatore)</u>
+
+### u012071
+Prescient Instincts
+
+### u012072
+Il Navigatore riduce il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} di −{unit_stat|WarhammerWillpower|bonus} punti.
+Tutti gli alleati ottengono +{unit_stat|WarhammerWillpower|bonus} di {g|Encyclopedia:Deflection}deviazione{/g} contro tutti i {g|Encyclopedia:WarpDamage}danni warp{/g} e i {g|Encyclopedia:DamageGlossary}danni{/g} dei {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} fino alla fine del prossimo turno del Navigatore.
+
+### u012073
+Mend Reality
+
+### u012074
+Gli alleati subiscono −{uip|PerceptionBonus|2d5c8abfc6ff4b2fa09971935817ebc7}% di {g|Encyclopedia:DamageGlossary}danni{/g} dai poteri del Navigatore e ottengono +{uip|ChanceBonus|2d5c8abfc6ff4b2fa09971935817ebc7} alle {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro di essi.
+
+### u012075
+Path of the Open Eye
+
+### u012076
+Gli alleati subiscono −{unit_stat|WarhammerPerception|stat}% di {g|Encyclopedia:DamageGlossary}danni{/g} dai poteri del Navigatore e ottengono +{uip|ResistanceBonus|2d5c8abfc6ff4b2fa09971935817ebc7} alle {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro di essi.
+
+### u012077
+<u>(2 × bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} del Navigatore)</u>
+
+### u012078
+L'alleato bersaglio ottiene +{uip|StatBonus|8b97251d56204c40904d06c927930572} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerToughness}Toughness{/g} fino alla fine del combattimento.
+
+### u012079
+Reveal the Light
+
+### u012080
+<u>(10 + 2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del Navigatore)</u>
+
+### u012081
+Questa {g|Encyclopedia:Ability}abilità{/g} può avere come bersaglio solo alleati che hanno almeno un'arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} in uno dei loro set di armi. L'alleato ottiene immediatamente un {g|Encyclopedia:ExtraTurn}turno extra{/g} durante il quale può usare una sola abilità, imitando l'effetto di {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} del Warrior, che costa 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u012082
+Show the Path
+
+### u012083
+Il primo uso di questa {g|Encyclopedia:Ability}abilità{/g} su un qualsiasi bersaglio lo marchia. I bersagli nemici devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} per evitarlo.
+Il secondo uso riporta il bersaglio nella posizione in cui si trovava durante il primo uso e ripristina le sue {g|Encyclopedia:HitPoints}ferite{/g} allo stato di quel momento.
+Se quella casella è occupata o irraggiungibile dalla sua posizione attuale, il bersaglio si sposta nella casella libera più vicina in direzione del Navigatore.
+
+### u012084
+Vigil Beyond Time
+
+### u012085
+Il Navigatore infligge <u>(da {uip|MinDamage|ec639338f11e49b1a75a7b9757a77076} a {uip|MaxDamage|ec639338f11e49b1a75a7b9757a77076})</u> {g|Encyclopedia:DamageGlossary}danni{/g} a un nemico. Quel nemico deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} o restare {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g} fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} del Navigatore.
+
+### u012086
+Held in My Gaze
+
+### u012087
+<u>(1 + 2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u012088
+<u>(6 + 4 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u012089
+Infligge <u>(da {uip|MinDamage|08767fbd714148ae88d5b1daf1dbc327} a {uip|MaxDamage|08767fbd714148ae88d5b1daf1dbc327})</u> danni a tutti i bersagli in linea e applica l'effetto soul burn.
+<i>Soul Burn</i>:
+Il bersaglio subisce {uip|BurnDamage|08767fbd714148ae88d5b1daf1dbc327} danni all'inizio del suo {g|Encyclopedia:Turn}turno{/g}. Alla fine del suo turno, deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} per spegnere le fiamme.
+Quando è {g|Encyclopedia:BurningEffect}in fiamme{/g}, lo psyker subisce danni aggiuntivi ogni volta che usa {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}, e i demoni — ogni volta che attaccano o usano poteri psichici.
+
+### u012090
+Immolate the Soul
+
+### u012091
+<u>(10 + 4 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u012092
+<u>(3 + 2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del Navigatore)</u>
+
+### u012093
+<u>(3 + 2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u012094
+Tutti i poteri del Navigatore ora hanno una probabilità di mettere a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}. La loro {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} critica di base è pari a <u>({g|Encyclopedia:WarhammerPerception}PER{/g} del Navigatore / 2)</u>%.
+
+### u012095
+Path of the Open Gate
+
+### u012096
+Tutti i poteri del Navigatore ottengono +{uip|CritChance|1b425f19327f429eb4fbfae69950b868}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+
+### u012097
+<u>({g|Encyclopedia:WarhammerPerception}PER{/g} del Navigatore / 2)</u>
+
+### u012098
+Il Navigatore crea un cerchio con raggio di 2 caselle. Ogni creatura che si trova al suo interno, vi entra o inizia il proprio {g|Encyclopedia:Turn}turno{/g} nel cerchio subisce <u>(da {uip|MinDamage|9043cccc4e3a4aef82d86f4c46052dc6} a {uip|MaxDamage|9043cccc4e3a4aef82d86f4c46052dc6})</u> {g|Encyclopedia:DamageGlossary}danni{/g}. Il cerchio rimane per 3 {g|Encyclopedia:Round}round{/g} o finché il Navigatore non lo crea di nuovo.
+
+### u012099
+<u>(1 + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del Navigatore)</u>
+
+### u012100
+Tutti i nemici nell'area subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|StatPenalty|3db1b866b28e4256b359b89f45a6f38a} a {g|Encyclopedia:WarhammerWillpower}Willpower{/g} e {g|Encyclopedia:WarhammerToughness}Toughness{/g} fino alla fine del combattimento.
+
+### u012101
+Waking Nightmare
+
+### u012102
+Il nemico viene maledetto fino alla fine del combattimento.
+<i>Maledetto</i>: tutti i {g|Encyclopedia:WarpDamage}danni warp{/g} subiti aumentano di +{uip|WarpDamageBonus|3705e0ad78154ee0bd6436fc15dac784}% e gli altri tipi di {g|Encyclopedia:DamageGlossary}danni{/g} subiti aumentano di +{uip|DamageBonus|3705e0ad78154ee0bd6436fc15dac784}%.
+All'inizio del suo {g|Encyclopedia:Turn}turno{/g}, anche il nemico più vicino a lui viene maledetto.
+
+### u012103
+Warp Curse Unleashed
+
+### u012104
+<u>(5 + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} del Navigatore)</u>
+
+### u012105
+Il Navigatore designa una casella. Il nemico più vicino a quella casella si sposta immediatamente fino a 4 caselle verso di essa. Se più nemici si trovano alla stessa distanza da quel punto, si spostano tutti. I bersagli si muovono anche se sono {g|Encyclopedia:Stun}storditi{/g} o {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g}.
+
+### u012106
+Notch of Purpose
+
+### u012107
+Tutte le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro i poteri del Navigatore ricevono una {g|Encyclopedia:Penalty}penalità{/g} di −<u>(2 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>.
+
+### u012108
+Path of the Open Soul
+
+### u012109
+Tutte le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro i poteri del Navigatore subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|ResistancePenalty|d1825e9618cb4b9f9e06d12e3824d5c3}.
+
+### u012110
+Tutti i nemici in un raggio di 6 caselle attorno al punto bersaglio, fino a 12 caselle di distanza dal Navigatore, devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} o spostarsi immediatamente di 3 caselle verso quel punto. I bersagli si muovono anche se sono {g|Encyclopedia:Stun}storditi{/g} o {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g}.
+
+### u012111
+Point of Curiosity
+
+### u012112
+Il Navigatore crea un cerchio con raggio di 3 caselle. Ogni creatura che si trova al suo interno, vi entra o termina il proprio {g|Encyclopedia:Turn}turno{/g} al suo interno, senza essere sotto l'effetto di apatia, effettua una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}. Se fallisce, alla creatura viene applicato l'effetto di apatia.
+<i>Apatia</i>:
+Il bersaglio è {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}.
+Dopo che è trascorso un round sotto l'effetto di apatia, il bersaglio deve effettuare una {g|Encyclopedia:Test}prova{/g} di resistenza di Willpower. Se la supera, l'apatia viene rimossa. Se fallisce, la creatura resta stordita per 1 round, l'apatia viene rimossa e la creatura diventa immune a ogni ulteriore effetto di <b>Spot of Apathy</b> fino alla fine del combattimento.
+
+### u012113
+Spot of Apathy
+
+### u012114
+Tutti i nemici in un raggio di 2 caselle attorno al punto bersaglio devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Willpower. Chi fallisce, anche se {g|Encyclopedia:Stun}stordito{/g} o {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, ottiene immediatamente un {g|Encyclopedia:ExtraTurn}turno extra{/g} in cui attacca i propri alleati.
+Ogni volta che un nemico diventa di nuovo bersaglio di questo potere del Navigatore nello stesso combattimento, ottiene un bonus cumulabile di +20 alle {g|Encyclopedia:Test}prove{/g} di resistenza di Willpower contro di esso.
+
+### u012115
+Touch of Anger
+
+### u012116
+Tutte le creature nell'area d'effetto devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Willpower o uscire immediatamente dalla zona, anche se sono {g|Encyclopedia:Stun}stordite{/g} o {g|Encyclopedia:ImmobilisedEffect}immobilizzate{/g}. Questo movimento provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} da parte degli alleati del Navigatore che hanno superato la {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} o si trovano fuori dalla zona.
+
+### u012117
+Zone of Fear
+
+### u012118
+<u>(5 + bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} del Navigatore)</u>
+
+### u012119
+<u>bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} del Navigatore</u>
+
+### u012120
+<u>(1 + bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} / 2)</u>
+
+### u012121
+I nemici {g|Encyclopedia:DamageGlossary}danneggiati{/g} dal Navigatore subiscono +{uip|DamageBonus|e406f5febaa0417892d1b55e9223761e}% di danni aggiuntivi da qualsiasi fonte di {g|Encyclopedia:WarpDamage}danni warp{/g}. I danni bonus si accumulano per ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} inflitto dal Navigatore. Questo effetto si accumula fino a 5 volte.
+
+### u012122
+Blood Augury
+
+### u012123
+Ogni {g|Encyclopedia:Turn}turno{/g} pari (secondo, quarto, ecc.), il Navigatore ottiene un {g|Encyclopedia:ActionPoints}punto azione{/g} aggiuntivo. Ogni turno dispari (primo, terzo, ecc.), il Navigatore ottiene +20 di {g|Encyclopedia:WarhammerPerception}Perception{/g}.
+
+### u012124
+Ebb and Flow
+
+### u012125
+Ogni nemico che il Navigatore ha nella propria {g|Encyclopedia:LineOfSight}linea di vista{/g} ha la {g|Encyclopedia:DodgeGlossary}schivata{/g} e la {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} ridotte di −{uip|DodgePenalty|51fa09bfa6334b46ac543174326fbd33}.
+
+### u012126
+Eye of Oblivion
+
+### u012127
+I poteri del Navigatore infliggono +1 danno aggiuntivo ogni 5 {g|Encyclopedia:Bonus}bonus{/g} di caratteristica del bastone attualmente equipaggiato dal Navigatore. {g|Encyclopedia:Castigating}Castigating{/g}, {g|Encyclopedia:Infusing}infusing{/g} e {g|Encyclopedia:Devastating}devastating{/g} contano come caratteristiche ai fini di questo {g|Encyclopedia:Talent}talento{/g}.
+
+### u012128
+Tonicity
+
+### u012129
+Il Navigatore inizia tutti i {g|Encyclopedia:Turn}turni{/g}, compresi i {g|Encyclopedia:ExtraTurn}turni extra{/g}, con +3 {g|Encyclopedia:MovementPoints}punti movimento{/g} aggiuntivi. Il primo alleato bersagliato dal Navigatore con un'{g|Encyclopedia:Ability}abilità{/g} a bersaglio singolo in ogni turno ottiene la stessa quantità di punti movimento aggiuntivi all'inizio del suo turno successivo.
+
+### u012130
+Guide of Souls
+
+### u012131
+Ogni volta che un alleato in combattimento ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g}, il Navigatore ottiene un {g|Encyclopedia:Bonus}bonus{/g} cumulabile di +5 a {g|Encyclopedia:WarhammerWillpower}Willpower{/g} fino alla fine del combattimento. Si accumula fino a 5 volte (fino a un massimo di +25 Willpower).
+
+### u012132
+Mastery of Time
+
+### u012133
+Il Navigatore effettua tutte le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} con la propria {g|Encyclopedia:WarhammerWillpower}Willpower{/g} se questa è superiore alla {g|Encyclopedia:Characteristic}caratteristica{/g} base per quella prova. Se la Willpower del Navigatore è superiore alla sua {g|Encyclopedia:WarhammerToughness}Toughness{/g}, le {g|Encyclopedia:HitPoints}ferite{/g} del Navigatore sono calcolate in base alla sua Willpower.
+
+### u012134
+Mind Over Matter
+
+### u012135
+I nemici colpiti dai poteri del Navigatore subiscono una {g|Encyclopedia:Penalty}penalità{/g} cumulabile di −10 alla successiva {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} contro i poteri del Navigatore. La penalità viene persa dopo che tale prova è stata effettuata.
+
+### u012136
+Open to the Warp
+
+### u012137
+Se la {g|Encyclopedia:WarhammerPerception}Perception{/g} del Navigatore è superiore alla sua {g|Encyclopedia:WarhammerAgility}Agility{/g}, la sua {g|Encyclopedia:DodgeGlossary}schivata{/g} viene calcolata invece con la Perception.
+
+### u012138
+Pass Unscathed
+
+### u012139
+I nemici spostati dai poteri del Navigatore subiscono {uip|Damage|5615a2517001450ea9205f263c72fd1e} {g|Encyclopedia:DamageGlossary}danni{/g} alla fine del movimento. Questi danni aumentano di +1 per ogni casella percorsa dal nemico.
+
+### u012140
+Perilous Ways
+
+### u012141
+Ogni volta che il Navigatore usa un potere del Navigatore, il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} è ridotto di −1.
+
+### u012142
+Stable Routes
+
+### u012143
+Il Navigatore recupera {unit_stat|WarhammerWillpower|bonus} {g|Encyclopedia:HitPoints}ferite{/g} all'inizio di ogni {g|Encyclopedia:Turn}turno{/g} e ottiene +1 ferita aggiuntiva per ogni {g|Encyclopedia:Talent}talento{/g} del Navigatore acquisito. La guarigione aumenta di +1 per ogni creatura uccisa tra un turno del Navigatore e l'altro.
+
+### u012144
+Strange Vitality
+
+### u012145
+Ogni volta che il Navigatore usa un potere del Navigatore non ancora usato in questo combattimento, ottiene +2 di {g|Encyclopedia:WarhammerPerception}Perception{/g} fino alla fine del combattimento.
+
+### u012146
+The Course Untravelled
+
+### u012147
+Ogni volta che un nemico fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} contro un potere del Navigatore, gli attacchi contro di lui ottengono +{uip|CritChanceBonus|d01deb8d10f64c8cbd0717df85adb61b}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}. L'effetto è cumulabile ma viene azzerato da un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico.
+
+### u012148
+Threads and Faults
+
+### u012149
+Tutti gli effetti applicati dal Navigatore e attivati all'inizio o alla fine del {g|Encyclopedia:Turn}turno{/g} del bersaglio vengono inflitti una volta in più alla fine di ogni turno del Navigatore.
+
+### u012150
+Tides of Time and Space
+
+### u012151
+Fino alla fine del combattimento, i nemici {g|Encyclopedia:DamageGlossary}danneggiati{/g} dal Navigatore subiscono +{unit_stat|WarhammerPerception|bonus} danni aggiuntivi da tutti gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} e non possono {g|Encyclopedia:DodgeGlossary}schivarli{/g}.
+
+### u012152
+Unblinking Stare
+
+### u012153
+Finché sono sotto l'effetto di un qualsiasi potere del Navigatore, i nemici hanno l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} ridotta di −{uip|ResistancePenalty|79abfcdecc5f434b80214d0c8647fe3e}. Questa riduzione è aumentata dal parametro {g|Encyclopedia:Devastating}devastating{/g} del bastone del Navigatore ma non è cumulabile.
+
+### u012154
+Undam the Sea of Souls
+
+### u012155
+Gli alleati bersaglio delle {g|Encyclopedia:Ability}abilità{/g} del Navigatore ottengono +5 a tutte le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro gli effetti {g|Encyclopedia:VeilThickness}warp{/g} (causati da demoni, {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}, poteri del Navigatore, ecc.) fino alla fine del combattimento. L'effetto si cumula a ogni abilità applicata.
+
+### u012156
+Under My Protection
+
+### u012157
+Il Navigatore ottiene +5 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} e un ulteriore +1 di Fellowship per ogni {g|Encyclopedia:Talent}talento{/g} del Navigatore o potere del Navigatore acquisito.
+
+### u012158
+Unnatural Allure
+
+### u012159
+Gli alleati bersaglio del potere del Navigatore ottengono +10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}. Questa armatura aggiuntiva è ridotta in base al {g|Encyclopedia:VeilThickness}degrado del Velo{/g} (fino a un minimo di +0%) e aumentata dal parametro {g|Encyclopedia:Infusing}infusing{/g} del bastone del Navigatore attualmente equipaggiato.
+
+### u012160
+Veil of Protection
+
+### u012161
+Ogni volta che lo psyker viene curato o cura un alleato, se il personaggio curato ha già tutte le {g|Encyclopedia:HitPoints}ferite{/g}, ottiene invece {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} pari alla guarigione. Queste ferite temporanee non si cumulano.
+
+### u012162
+Confer Immunity
+
+### u012163
+Quando un nemico adiacente a un alleato muore, quell'alleato ottiene un effetto cumulabile di corpus conversion. Se più alleati sono adiacenti al nemico morto, ne viene scelto uno a caso.
+Il prossimo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} dello psyker che ha come bersaglio solo il bersaglio con corpus conversion funzionerà come se il {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker fosse superiore di +2, non degraderà il {g|Encyclopedia:VeilThickness}Velo{/g}, non attiverà {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g} né {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g} e rimuoverà −1 accumulo di corpus conversion dal bersaglio.
+
+### u012164
+Corpus Conversion
+
+### u012165
+Ogni volta che lo psyker cura se stesso o un altro personaggio con un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} o con un effetto applicato da un potere psichico, questa cura può essere critica con una probabilità del {uip|CritChance|d46817aabd934faeb9187cfcddb64f26}%. Questa probabilità di cura critica è aumentata da tutti gli effetti che aumentano la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}, e la quantità curata è aumentata dello stesso valore dei {g|Encyclopedia:DamageGlossary}danni{/g} critici.
+
+### u012166
+Pulse of Life
+
+### u012167
+Ogni volta che un effetto applicato dallo psyker aumenta i {g|Encyclopedia:DamageGlossary}danni{/g} subiti da un bersaglio, tale effetto è aumentato della metà (ad esempio, un aumento del 20% diventa un aumento del 30%).
+
+### u012168
+Deterioration
+
+### u012169
+Nel primo {g|Encyclopedia:Round}round{/g} di ogni combattimento, tutti i {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} della disciplina biomanzia costano −1 {g|Encyclopedia:ActionPoints}punto azione{/g}.
+
+### u012170
+Adrenaline Surge
+
+### u012171
+Tutti gli attacchi dello psyker, compresi i {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} offensivi, ora avvelenano i nemici. Questo veleno infligge {uip|Damage|c31aa2454d10447db0f279883bc5904a} {g|Encyclopedia:ToxicDamage}danni tossici{/g} all'inizio di ogni {g|Encyclopedia:Turn}turno{/g} del nemico.
+
+### u012172
+Biophysical Distortion
+
+### u012173
+Ogni volta che lo psyker infligge {g|Encyclopedia:DamageGlossary}danni{/g}, ottiene +1 accumulo dell'effetto sanguine siphon. Se quei danni sono stati inflitti a un bersaglio adiacente allo psyker, ottiene invece +2 accumuli. Quando lo psyker subisce danni letali, gli accumuli di sanguine siphon vengono rimossi per ridurre tali danni di −1 per ogni accumulo, finché non vengono rimossi tutti gli accumuli o i danni non sono più letali.
+
+### u012174
+Sanguine Siphon
+
+### u012175
+<u>(5 + 2 × bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u012176
+Quando gli alleati dello psyker o lo psyker stesso sono sotto l'effetto di {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}, ottengono +5 di {g|Encyclopedia:WarhammerToughness}Toughness{/g} per ciascuno di tali effetti.
+
+### u012177
+Warp Saturation
+
+### u012178
+Lo psyker drena la vita dal bersaglio, infliggendo {uip|Damage|65791f6355c04864b890c9e964b9c372} {g|Encyclopedia:DamageGlossary}danni{/g} e curando tutti gli alleati dello psyker e lo psyker stesso di {uip|Healing|65791f6355c04864b890c9e964b9c372} {g|Encyclopedia:HitPoints}ferite{/g}. Alla fine del prossimo turno dello psyker, tutti gli alleati dello psyker perderanno {uip|Wounds|65791f6355c04864b890c9e964b9c372} ferite, a meno che il combattimento non sia già concluso.
+Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} attiva sempre i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.
+
+### u012179
+Syphon Life (Desperate Measure)
+
+### u012180
+<u>(4 × livello di potenza del bastone dello psyker)</u>
+
+### u012181
+Lo psyker drena la vita dal bersaglio, infliggendo {uip|Damage|f8629a743eaf414eb8bf79edee9b02d0} {g|Encyclopedia:DamageGlossary}danni{/g} e curando tutti gli alleati dello psyker e lo psyker stesso di {uip|Healing|f8629a743eaf414eb8bf79edee9b02d0} {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u012182
+Syphon Life (Heroic Act)
+
+### u012183
+Lo psyker drena la vita dal bersaglio, infliggendo {uip|Damage|fb5efed90c6442acb6f9c756905072eb} {g|Encyclopedia:DamageGlossary}danni{/g} e curando lo psyker di {uip|Healing|fb5efed90c6442acb6f9c756905072eb} {g|Encyclopedia:HitPoints}ferite{/g}. Se lo psyker ha già tutte le ferite, questo potere cura invece l'alleato dello psyker con meno ferite.
+
+### u012184
+<u>(livello di potenza del bastone dello psyker × (1 + {g|Encyclopedia:PsyRating}livello psichico{/g}))</u>
+
+### u012185
+<u>Livello di potenza del bastone dello psyker</u>
+
+### u012186
+<u>(2 × livello di potenza del bastone dello psyker × (1 + {g|Encyclopedia:PsyRating}livello psichico{/g}))</u>
+
+### u012187
+<u>(2 × livello di potenza del bastone dello psyker)</u>
+
+### u012188
+Syphon Life
+
+### u012189
+Lo psyker drena la vita dal bersaglio, infliggendo <u>(livello di potenza del bastone dello psyker × {g|Encyclopedia:PsyRating}livello psichico{/g})</u> danni e curando lo psyker di <u>livello di potenza del bastone dello psyker</u> {g|Encyclopedia:HitPoints}ferite{/g}. Se lo psyker ha già tutte le ferite, questo potere cura invece l'alleato dello psyker con meno ferite.
+{g|Encyclopedia:HeroicAct}Atto Eroico{/g}: lo psyker drena la vita dal bersaglio, infliggendo <u>(2 × livello di potenza del bastone dello psyker × livello psichico)</u> danni e curando tutti gli alleati dello psyker e lo psyker stesso di <u>(2 × livello di potenza del bastone dello psyker)</u> ferite.
+{g|Encyclopedia:DesperateMeasure}Misura Disperata{/g}: lo psyker drena la vita dal bersaglio, infliggendo <u>(2 × livello di potenza del bastone dello psyker × livello psichico)</u> danni e curando tutti gli alleati dello psyker e lo psyker stesso di <u>(2 × livello di potenza del bastone dello psyker)</u> ferite. Alla fine del prossimo turno dello psyker, tutti gli alleati dello psyker perderanno <u>(4 × livello di potenza del bastone dello psyker)</u> ferite, a meno che il combattimento non sia già concluso. Questo potere psichico attiva sempre i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.
+
+### u012190
+All'inizio di ogni combattimento, gli alleati dello psyker ottengono +15% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}. Il primo {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico rimuove questo effetto.
+
+### u012191
+Edge of Fate
+
+### u012192
+Gli alleati sotto l'effetto di almeno un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} applicato da questo psyker ottengono un ulteriore +{uip|ArmourPenetrationBonus|119525ff526c431c9a931d6f655e3f09}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u012193
+Fatebringer
+
+### u012194
+Lo psyker inizia sempre il combattimento per primo nell'ordine di {g|Encyclopedia:InitiativeGlossary}iniziativa{/g}.
+
+### u012195
+Never Surprised
+
+### u012196
+Ogni 9ª {g|Encyclopedia:DodgeGlossary}schivata{/g} e/o {g|Encyclopedia:Parry}parata{/g} riuscita dallo psyker e dai suoi alleati combinati concede allo psyker +2 {g|Encyclopedia:ActionPoints}PA{/g} aggiuntivi nel {g|Encyclopedia:Turn}turno{/g} successivo.
+
+### u012197
+Flawless Plan
+
+### u012198
+Il primo tentativo di {g|Encyclopedia:DodgeGlossary}schivata{/g} di ogni nemico in combattimento subisce una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|DodgePenalty|ced3039da8724fcea4690f614db18d6c}%.
+
+### u012199
+Predicted Downfall
+
+### u012200
+<u>(7 + 7 × {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker)</u>
+
+### u012201
+Qualsiasi effetto applicato dallo psyker che riduce la {g|Encyclopedia:DodgeGlossary}schivata{/g} del nemico riduce anche la sua {g|Encyclopedia:Parry}parata{/g}, a meno che non lo faccia già.
+
+### u012202
+Tarot of Swords
+
+### u012203
+Quando lo psyker usa un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} di divinazione su un alleato privo dell'effetto unnatural luck, quell'alleato ottiene unnatural luck.
+<i>Unnatural Luck</i>: quando l'alleato subisce un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}, questo diventa invece un normale {g|Encyclopedia:HitSequenceGlossary}colpo{/g} e l'effetto unnatural luck viene rimosso.
+
+### u012204
+Unnatural Luck
+
+### u012205
+Se un alleato è già sotto l'effetto di uno dei {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} dello psyker, lo psyker può averlo come bersaglio di un potere psichico a bersaglio singolo indipendentemente dalla gittata e dalla {g|Encyclopedia:LineOfSight}linea di vista{/g}.
+
+### u012206
+Web of Probabilities
+
+### u012207
+Il prossimo {g|Encyclopedia:HitSequenceGlossary}colpo{/g} contro ogni creatura in combattimento (sia alleati sia nemici) sarà automaticamente un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} attiva sempre i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.
+
+### u012208
+Consign (Desperate Measure)
+
+### u012209
+Il prossimo attacco contro ogni nemico in combattimento sarà automaticamente un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+
+### u012210
+Consign (Heroic Act)
+
+### u012211
+Il prossimo {g|Encyclopedia:HitSequenceGlossary}colpo{/g} contro il bersaglio sarà automaticamente un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+
+### u012212
+Consign
+
+### u012213
+Il prossimo colpo contro il bersaglio sarà automaticamente un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+{g|Encyclopedia:HeroicAct}Atto Eroico{/g}: il prossimo colpo contro ogni nemico in combattimento sarà automaticamente un colpo critico.
+{g|Encyclopedia:DesperateMeasure}Misura Disperata{/g}: il prossimo colpo contro ogni creatura in combattimento (sia alleati sia nemici) sarà automaticamente un colpo critico. Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} attiva sempre i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.
+
+### u012214
+<u>(1 + {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u012215
+<u>(5 + 5 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u012216
+Gli attacchi con arma della forza infliggono +{uip|DamageBonus|0618c379e430483bab1a17b2de559bc5} {g|Encyclopedia:DamageGlossary}danni{/g} in più e hanno +{uip|ArmourPenetrationBonus|0618c379e430483bab1a17b2de559bc5}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u012217
+Blade of Light
+
+### u012218
+[draft]I {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} che hanno come bersaglio alleati hanno una probabilità di non {g|Encyclopedia:DamageGlossary}danneggiare{/g} il {g|Encyclopedia:VeilThickness}Velo{/g}. La probabilità è pari al valore più alto di <u>5×({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u>%, ed è basata sulla Fellowship più alta tra lo Psyker e tutti gli alleati bersaglio del potere psichico.
+
+### u012219
+[draft]Bond of Souls
+
+### u012220
+L'uso di un {g|Encyclopedia:HeroicAct}Atto Eroico{/g} da parte dello psyker riduce il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} di −{unit_stat|WarhammerIntelligence|bonus}.
+
+### u012221
+Enforce Reality
+
+### u012222
+[draft]Se il secondo attacco che lo Psyker usa nel {g|Encyclopedia:Turn}turno{/g} è un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g}, funziona come se lo Psyker avesse +2 di {g|Encyclopedia:PsyRating}livello psichico{/g}.
+
+### u012223
+[draft]Persistant Assault
+
+### u012224
+Ogni volta che lo psyker usa un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} offensivo su bersagli a 6 caselle o più dallo psyker, i bersagli subiscono +{unit_stat|WarhammerBallisticSkill|bonus} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u012225
+Psychic Barrage
+
+### u012226
+I {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} dello psyker con una gittata di 2 caselle o più hanno la gittata aumentata di +{unit_stat|WarhammerPerception|bonus}.
+
+### u012227
+Second Sight
+
+### u012228
+Il primo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} usato in ogni {g|Encyclopedia:Turn}turno{/g} aumenta il {g|Encyclopedia:VeilThickness}degrado del Velo{/g} di 2 punti in meno. Se questo {g|Encyclopedia:Talent}talento{/g} riduce l'effetto sul degrado del Velo a meno di 0, il degrado del Velo viene invece diminuito di 1.
+
+### u012229
+Stabilising Factor
+
+### u012230
+Lo psyker può usare un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} offensivo mentre è minacciato da nemici nel raggio di {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} senza provocare {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}. I {g|Encyclopedia:PsychicPowers}poteri psichici{/g} non offensivi non provocano attacchi di opportunità neanche senza questo {g|Encyclopedia:Talent}talento{/g}.
+
+### u012231
+Subtle Manipulation
+
+### u012232
+[draft]I nemici sotto l'effetto dei {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} dello Psyker subiscono +10% di {g|Encyclopedia:DamageGlossary}danni{/g} dagli alleati dello Psyker sotto l'effetto delle {g|Encyclopedia:Ability}abilità{/g} dello Psyker derivanti da dottrine o poteri psichici. Questo {g|Encyclopedia:Bonus}bonus{/g} aumenta a +20% se un alleato è sotto l'effetto sia del potere psichico dello Psyker sia dell'abilità dello Psyker di una {g|Encyclopedia:Career}dottrina{/g}.
+
+### u012233
+[draft]United in Purpose
+
+### u012234
+Finché lo psyker non è nella {g|Encyclopedia:LineOfSight}linea di vista{/g} del bersaglio, oppure lo psyker è in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}, tutte le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} del bersaglio subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|ResistancePenalty|f92bf6d353374502953387488d2ba3e2}.
+
+### u012235
+Obscured Threat
+
+### u012236
+<u>(4 + 4 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u012237
+La {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} dello psyker aumenta di +1% fino alla fine del combattimento ogni volta che lo psyker infligge {g|Encyclopedia:DamageGlossary}danni{/g} con qualsiasi mezzo.
+
+### u012238
+Blazing Inferno
+
+### u012239
+Ogni volta che un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} usato dallo psyker infligge {g|Encyclopedia:DamageGlossary}danni{/g}, un nemico a caso entro 2 caselle dal bersaglio iniziale subisce metà di quei danni. Tali danni non attivano di nuovo questo {g|Encyclopedia:Talent}talento{/g}.
+
+### u012240
+Backdraft
+
+### u012241
+Lo psyker ottiene +{uip|ArmourAgainstFire|52a24c4f709741489b8a0034109ecfdb}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} aggiuntiva contro i {g|Encyclopedia:DamageGlossary}danni{/g} da fuoco e metà di questo valore come armatura aggiuntiva contro i {g|Encyclopedia:EnergyDamage}danni energetici{/g} di armi laser, melta e al plasma.
+
+### u012242
+Body of Flames
+
+### u012243
+<u>(8 + 8 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u012244
+Quando lo psyker usa un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g}, tutti i nemici adiacenti allo psyker subiscono {uip|Damage|8e85511b779e41548d0b57635ecfd4db} {g|Encyclopedia:DirectDamage}danni diretti{/g}. Lo stesso accade quando lo psyker subisce danni a causa di {g|Encyclopedia:BurningEffect}fiamme{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g} o {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+
+### u012245
+Burning Blood
+
+### u012246
+<u>(4 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u012247
+Quando lo psyker è {g|Encyclopedia:BurningEffect}in fiamme{/g}, il suo {g|Encyclopedia:PsyRating}livello psichico{/g} aumenta di +1 e la sua {g|Encyclopedia:Resolve}determinazione{/g} aumenta di +2. I {g|Encyclopedia:DamageGlossary}danni{/g} da fuoco non riducono più lo {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} dello psyker.
+
+### u012248
+Relentless Blaze
+
+### u012249
+Ogni volta che lo psyker uccide o mette a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} contro 8 creature in un combattimento, il prossimo attacco dello psyker (compresi i {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} offensivi) costerà 0 {g|Encyclopedia:ActionPoints}PA{/g} e non conterà ai fini del limite di attacchi per {g|Encyclopedia:Turn}turno{/g}.
+
+### u012250
+Fire Within
+
+### u012251
+Melting Armour (Armour Penalty)
+
+### u012252
+Melting Armour (Deflection Penalty)
+
+### u012253
+Ogni volta che un nemico subisce {g|Encyclopedia:DamageGlossary}danni{/g} dallo psyker, la sua {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} è ridotta di −5%. Se l'armatura del nemico è già 0, la sua {g|Encyclopedia:Deflection}deviazione{/g} è invece ridotta di −1.
+
+### u012254
+Melting Armour
+
+### u012255
+Tutti gli effetti di {g|Encyclopedia:DamageGlossary}danni{/g} nel tempo applicati dallo psyker ottengono il {uip|Chance|25d44ec9def7447e9548469634168275}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}. Questa probabilità è aumentata da tutti i {g|Encyclopedia:Bonus}bonus{/g} alla {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} critica.
+
+### u012256
+Sparks of the Greater Flame
+
+### u012257
+Lo psyker scatena un torrente di {uip|Count|8a759cdc2b754309b1fb75397798fbf1} proiettili infuocati, ciascuno dei quali infligge <u>(da {uip|DamageMin|8a759cdc2b754309b1fb75397798fbf1} a {uip|DamageMax|8a759cdc2b754309b1fb75397798fbf1})</u> danni. I proiettili hanno il 60% di probabilità di volare lungo la linea centrale e il 40% di probabilità di deviare su una delle linee laterali. Le creature colpite da 2 o più proiettili ottengono l'effetto {g|f:b91a3b9afb9147848d8167dbcf16d092}warp burn{/g}.
+
+### u012258
+Inferno
+
+### u012259
+Lo psyker scatena un torrente di {uip|Count|c4ea2ad9fe1e4509916cb5f1787b1530} proiettili infuocati, ciascuno dei quali infligge <u>(da {uip|DamageMin|c4ea2ad9fe1e4509916cb5f1787b1530} a {uip|DamageMax|c4ea2ad9fe1e4509916cb5f1787b1530})</u> danni. I proiettili seguono traiettorie casuali. Le creature colpite da 2 o più proiettili subiscono l'effetto {g|f:b91a3b9afb9147848d8167dbcf16d092}warp burn{/g}. Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} attiva sempre i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.
+Questo potere psichico non può essere influenzato dall'abilità {g|f:27dc9a14aaca464a901dc6242123c154}Rapid Fire{/g}.
+
+### u012260
+Lo psyker scatena un torrente di {uip|Count|84ddefd28f224d5fb3f5e176375c1f05} proiettili infuocati, ciascuno dei quali infligge <u>(da {uip|DamageMin|84ddefd28f224d5fb3f5e176375c1f05} a {uip|DamageMax|84ddefd28f224d5fb3f5e176375c1f05})</u> danni. I proiettili hanno l'80% di probabilità di volare lungo la linea centrale e il 20% di probabilità di deviare su una delle linee laterali. Le creature colpite da 2 o più proiettili subiscono l'effetto {g|f:b91a3b9afb9147848d8167dbcf16d092}warp burn{/g}.
+Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} non può essere influenzato dall'abilità {g|f:27dc9a14aaca464a901dc6242123c154}Rapid Fire{/g}.
+
+### u012261
+Inferno (Heroic Act)
+
+### u012262
+Inferno (Desperate Measure)
+
+### u012263
+<u>livello di potenza del bastone dello psyker</u>
+
+### u012264
+<u>(2 + {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u012265
+<u>({g|Encyclopedia:PsyRating}livello psichico{/g} + livello di potenza del bastone dello psyker)</u>
+
+### u012266
+<u>(2 × {g|Encyclopedia:PsyRating}livello psichico{/g} + livello di potenza del bastone dello psyker)</u>
+
+### u012267
+Ogni volta che lo psyker ottiene {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g}, ottiene anche {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} pari alla metà dello Slancio ottenuto. Le {g|Encyclopedia:HitPoints}ferite{/g} temporanee ottenute con questo effetto non si cumulano.
+
+### u012268
+Blessed Contempt
+
+### u012269
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} dello psyker aumenta di +5%. Questo {g|Encyclopedia:Bonus}bonus{/g} aumenta di +5% all'inizio di ogni {g|Encyclopedia:Round}round{/g} di combattimento tranne il primo.
+
+### u012270
+Destined
+
+### u012271
+I nemici adiacenti allo psyker subiscono +10% di {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u012272
+Edge of Dawn
+
+### u012273
+La prima volta che lo {g|Encyclopedia:MomentumWithDetailsGlossary}Slancio{/g} raggiunge 200 durante il {g|Encyclopedia:Turn}turno{/g} dello psyker, lo psyker ottiene +5 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g}, +1 di {g|Encyclopedia:Resolve}determinazione{/g}, +1 di {g|Encyclopedia:Deflection}deviazione{/g} e +1 a tutti i danni che infligge fino alla fine del combattimento.
+
+### u012274
+Eternal Glory
+
+### u012275
+Ogni volta che lo psyker usa un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} su se stesso o un potere psichico ad area che ha come bersaglio solo lo psyker, può usare di nuovo quel potere psichico in questo turno spendendo 1 {g|Encyclopedia:ActionPoints}PA{/g} in meno e senza influire sul {g|Encyclopedia:VeilThickness}Velo{/g} né attivare {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g} o {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.
+Questo secondo uso del potere psichico non può influire sullo psyker.
+
+### u012276
+First Light
+
+### u012277
+I {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g} messi a segno da chiunque si trovi nella {g|Encyclopedia:LineOfSight}linea di vista{/g} dello psyker (compreso lo psyker stesso) aumentano i {g|Encyclopedia:DamageGlossary}danni{/g} critici dello psyker di +1% fino alla fine del combattimento. Cumulabile.
+
+### u012278
+Hymns of Hatred
+
+### u012279
+Il {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker aumenta di +1 fino alla fine del combattimento ogni volta che un alleato usa un {g|Encyclopedia:HeroicAct}Atto Eroico{/g}.
+
+### u012280
+Psalms of Heroes
+
+### u012281
+La {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} dello psyker aumenta di +{unit_stat|Resolve|Resolve}%.
+
+### u012282
+Sanctified Slayer
+
+### u012283
+Chiunque sia adiacente alla casella bersaglio subisce <u>(da 1 a {uip|Damage|560aa7c658a441df8bb4b2f9f431064b})</u> {g|Encyclopedia:DamageGlossary}danni{/g}. I danni inflitti da questo attacco agli alleati sono ridotti dalla {g|Encyclopedia:Resolve}determinazione{/g} di quell'alleato.
+
+### u012284
+Emperor's Wrath
+
+### u012285
+Chiunque sia adiacente alla casella bersaglio subisce <u>(da 1 a {uip|Damage|7039f3b35fc5487e9b6c64909062ea04})</u> {g|Encyclopedia:DamageGlossary}danni{/g}. I danni subiti da queste creature aumentano di +{uip|Debuff|7039f3b35fc5487e9b6c64909062ea04}% fino alla fine del combattimento. Anche lo psyker subisce questi danni e questo effetto.
+Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} attiva sempre i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.
+
+### u012286
+Emperor's Wrath (Desperate Measure)
+
+### u012287
+Chiunque sia adiacente alla casella bersaglio subisce <u>(da 1 a {uip|Damage|bdde427505b14cd68b20ab0d915d5fe3})</u> {g|Encyclopedia:DamageGlossary}danni{/g} e i danni da esso subiti aumentano di +{uip|Debuff|bdde427505b14cd68b20ab0d915d5fe3}% fino alla fine del combattimento.
+
+### u012288
+Emperor's Wrath (Heroic Act)
+
+### u012289
+<u>((1 + {g|Encyclopedia:PsyRating}livello psichico{/g}) × livello di potenza del bastone dello psyker)</u>
+
+### u012290
+<u>(2 × (1 + {g|Encyclopedia:PsyRating}livello psichico{/g}) × livello di potenza del bastone dello psyker)</u>
+
+### u012291
+[draft]I nemici che {g|Encyclopedia:HitSequenceGlossary}colpiscono{/g} lo Psyker (o la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} dello Psyker mentre cercano di colpirlo) con un attacco a distanza subiscono <u>2+({g|Encyclopedia:PsyRating}livello psichico{/g})</u> {g|Encyclopedia:IrreducibleDamage}danni irriducibili{/g}.
+
+### u012292
+[draft]Impulse Reversal
+
+### u012293
+[draft]Qualsiasi nemico dello Psyker che venga {g|Encyclopedia:PushGlossary}spinto{/g} via o cada {g|Encyclopedia:ProneEffect}a terra{/g} subisce {g|Encyclopedia:IrreducibleDamage}danni irriducibili{/g} pari al {g|Encyclopedia:PsyRating}<u>livello psichico</u>{/g}. Lo stesso accade ai nemici che spingono o atterrano uno degli alleati dello Psyker.
+
+### u012294
+[draft]Pendulum Swing
+
+### u012295
+[draft]Dopo ogni uso di un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g}, lo Psyker recupera 2 {g|Encyclopedia:MovementPoints}punti movimento{/g}.
+
+### u012296
+[draft]Perpetual Movement
+
+### u012297
+[draft]I {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} infliggono {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari alla metà dei {g|Encyclopedia:MovementPoints}punti movimento{/g} che lo Psyker aveva prima di usarli.
+
+### u012298
+[draft]Potential Energy
+
+### u012299
+[draft]Lo Psyker usa Willpower anziché {g|Encyclopedia:WarhammerStrength}Strength{/g} per calcolare i danni delle armi da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, i livelli delle competenze, il {g|Encyclopedia:Recoil}rinculo{/g} delle armi a distanza e gli effetti delle {g|Encyclopedia:Ability}abilità{/g} e dei {g|Encyclopedia:Talent}talenti{/g} che dipendono da Strength.
+
+### u012300
+[draft]Telekinetic Empowerment
+
+### u012301
+[draft]Ogni uso di un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} aumenta di +5 la {g|Encyclopedia:WarhammerAgility}Agility{/g} e la {g|Encyclopedia:DodgeGlossary}schivata{/g} dello Psyker contro gli attacchi a distanza fino all'inizio del suo prossimo {g|Encyclopedia:Turn}turno{/g}.
+
+### u012302
+[draft]Unexpected Acceleration
+
+### u012303
+[draft]Lo Psyker e i suoi alleati ottengono un {g|Encyclopedia:Bonus}bonus{/g} di +<u>5×({g|Encyclopedia:PsyRating}livello psichico{/g} dello Psyker)</u>% alla probabilità di {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g} per gli attacchi a distanza, e i loro attacchi hanno −15% di probabilità di essere parati.
+
+### u012304
+[draft]Unstoppable Force
+
+### u012305
+[draft]I nemici colpiti da {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} di tipo telecinetico subiscono −20 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} dello Psyker.
+
+### u012306
+[draft]Vertigo
+
+### u012307
+[draft]I bersagli in un cerchio con raggio di 4 caselle attorno allo Psyker, e lo Psyker stesso, subiscono <u>2×X</u> danni e devono superare una {g|Encyclopedia:WarhammerWillpower}Willpower{/g} {g|Encyclopedia:Test}prova{/g} con una penalità di −<u>2×X</u>. Le creature che falliscono la prova restano {g|Encyclopedia:ImmobilisedEffect}immobilizzate{/g} fino al turno successivo dello Psyker. Lo Psyker fallisce automaticamente la prova.
+All'inizio del turno successivo dello Psyker l'effetto si ripete per lo Psyker.
+Questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} attiva sempre i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.
+<i>In tutte le formule, X equivale al livello di questo potere psichico concesso dal bastone dello psyker.</i>
+
+### u012308
+[draft]Desperate Measure: Bind
+
+### u012309
+[draft]I nemici in un cerchio con raggio di 4 caselle attorno al punto bersaglio subiscono <u>2×X</u> danni e devono superare una {g|Encyclopedia:WarhammerWillpower}Willpower{/g} {g|Encyclopedia:Test}prova{/g} con una penalità di −<u>2×X</u>. I nemici che falliscono la prova restano {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} fino al prossimo {g|Encyclopedia:Turn}turno{/g} dello Psyker. All'inizio del turno successivo dello Psyker, l'effetto si ripete nella stessa area.
+<i>In tutte le formule, X equivale al livello di questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} concesso dal bastone dello psyker.</i>
+
+### u012310
+[draft]Heroic Act: Bind
+
+### u012311
+[draft]Tutti i bersagli in un'area a forma di croce con raggio di 1 casella attorno al punto bersaglio subiscono X {g|Encyclopedia:DamageGlossary}danni{/g} e devono superare una {g|Encyclopedia:WarhammerWillpower}Willpower{/g} {g|Encyclopedia:Test}prova{/g} con una penalità di −<u>2×X</u>. Le creature che falliscono la prova restano {g|Encyclopedia:ImmobilisedEffect}immobilizzate{/g} fino al turno successivo dello Psyker.
+<i>In tutte le formule, X equivale al livello di questo {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} concesso dal bastone dello psyker.</i>
+
+### u012312
+[draft]Bind
+
+### u012313
+Ogni volta che lo psyker infligge {g|Encyclopedia:MentalDamage}danni mentali{/g} da qualsiasi fonte diversa da <b>Aftershock</b>, il bersaglio subisce la metà di quei {g|Encyclopedia:DamageGlossary}danni{/g} mentali alla fine del suo prossimo {g|Encyclopedia:Turn}turno{/g}.
+
+### u012314
+Aftershock
+
+### u012315
+I nemici che hanno subito {g|Encyclopedia:DamageGlossary}danni{/g} dallo psyker almeno una volta subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −20 a tutte le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro lo psyker fino alla fine del combattimento.
+
+### u012316
+Mental Breach
+
+### u012317
+I nemici che hanno fallito una {g|Encyclopedia:WarhammerWillpower}Willpower{/g} {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} contro uno qualsiasi dei {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} dello psyker subiranno ulteriori +{uip|Damage|95b11cc99c294b35a151c89ba6805241} {g|Encyclopedia:DirectDamage}danni diretti{/g} ogni volta che subiscono {g|Encyclopedia:DamageGlossary}danni{/g} mentali fino alla fine del combattimento.
+
+### u012318
+Mind Siege
+
+### u012319
+Ogni volta che un nemico diventa bersaglio di una determinata {g|Encyclopedia:Ability}abilità{/g} dello psyker per la prima volta, subisce una {g|Encyclopedia:Penalty}penalità{/g} di −5 a {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g}, mentre Intelligence e Perception dello psyker aumentano di +2 fino alla fine del combattimento.
+
+### u012320
+Mind Thief
+
+### u012321
+Ogni volta che lo psyker uccide un nemico con un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} che infligge più {g|Encyclopedia:DamageGlossary}danni{/g} delle {g|Encyclopedia:HitPoints}ferite{/g} del bersaglio, i danni in eccesso vengono inflitti al nemico più vicino al bersaglio.
+
+### u012322
+Pain Channelling
+
+### u012323
+I nemici che diventano bersaglio dei {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} dello psyker ottengono una {g|Encyclopedia:Penalty}penalità{/g} cumulabile di −5% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} e alla {g|Encyclopedia:Parry}parata{/g} fino alla fine del combattimento.
+
+### u012324
+Visions of Doom
+
+### u012325
+Dopo ogni 6° uso di un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} da parte dello psyker, tutti i nemici ottengono una {g|Encyclopedia:Penalty}penalità{/g} cumulabile di −5 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del combattimento.
+
+### u012326
+Warp Minds
+
+### u012327
+I nemici afflitti dagli effetti {g|Encyclopedia:BlindedEffect}accecato{/g}, {g|Encyclopedia:Stun}stordito{/g}, {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g} o {g|Encyclopedia:ProneEffect}a terra{/g} inflitti dallo psyker subiscono +10% di {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u012328
+Weak Hearts
+
+### u012329
+Il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Willpower o subire {g|Encyclopedia:MentalDamage}danni mentali{/g} pari a {uip|Damage1|5a328c19cc214780b878be2183550910} + 30% delle sue {g|Encyclopedia:HitPoints}ferite{/g} attuali. La seconda parte dei danni non può superare 300. Se supera la prova, il bersaglio subisce invece {uip|Damage2|5a328c19cc214780b878be2183550910} danni mentali.
+
+### u012330
+<u>(livello di potenza del bastone dello psyker + {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker)</u>
+
+### u012331
+Il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Willpower o subire {g|Encyclopedia:MentalDamage}danni mentali{/g} pari a {uip|Damage1|5a328c19cc214780b878be2183550910} + 30% delle sue {g|Encyclopedia:HitPoints}ferite{/g} attuali. La seconda parte dei danni non può superare 300. Se supera la prova, anche lo psyker subisce gli stessi danni.
+Questo potere psichico attiva sempre i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}.
+
+### u012332
+Vision of Death (Desperate Measure)
+
+### u012333
+Il bersaglio subisce {g|Encyclopedia:MentalDamage}danni mentali{/g} pari a {uip|Damage1|5b19d80b3d694f77b84c2b38a04efe8f} + 30% delle sue {g|Encyclopedia:HitPoints}ferite{/g} attuali. La seconda parte dei danni non può superare 300.
+
+### u012334
+Vision of Death (Heroic Act)
+
+### u012335
+Il bersaglio subisce <u>(livello di potenza del bastone dello psyker + {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker + 30% delle {g|Encyclopedia:HitPoints}ferite{/g} attuali del bersaglio)</u> {g|Encyclopedia:MentalDamage}danni mentali{/g}.
+
+### u012336
+"Desiderate fare un bagno, Vostra Signoria?"
+
+### u012337
+Compi le tue abluzioni
+
+### u012338
+Stazione astropatica VX-02-537
+
+### u012339
+Forte del vuoto Heriokh's Rim
+
+### u012340
+Stazione Heriokh's Rim
+
+### u012341
+Una modesta colonia
+
+### u012342
+"Lo xenos che parla per enigmi mi ha mandato qui. Mi ha assicurato che ci avrebbe condotti al nostro ricongiungimento, Domin'{name}."
+
+### u012343
+Chierico
+
+### u012344
+Magus della Stella Vorace
+
+### u012345
+Tempio del Bloodspun Web
+
+### u012346
+Chiama il montacarichi
+
+### u012347
+Cospiratore
+
+### u012348
+Caposquadra di turno Nije
+
+### u012349
+Gira il servitore
+
+### u012350
+Il Mietitore
+
+### u012351
+Re Abominevole
+
+### u012352
+Attiva la stazione vox
+
+### u012353
+Questo artefatto della collezione di Bartholomeus Ort assomiglia a una gemma coperta da una delicata ragnatela di sottili crepe. Lungo il bordo sono incise a graffio le parole "Fai del dolore altrui la tua arma".
+
+### u012354
+Un misterioso manufatto archeotech ritrovato tra i tesori del Capitano Bartholomeus Ort. Vi sono incise le parole "Anche un'onda furiosa può sollevarti più in alto."
+
+### u012355
+Un dispositivo archeotech deformato dalla mano sconsiderata di un Tecnoprete fin troppo devoto ai suoi alleati laici. Desideroso di garantire loro una protezione extra durante gli scontri, condusse un esperimento del tutto condannato dall'Adeptus Mechanicus; poco dopo venne tradito e la sua creazione fu venduta ai pirati.
+
+### u012356
+Un'armatura appartenuta al comandante di una squadra d'abbordaggio, che scoprì che i suoi datori di lavoro erano tecno-eretici e li consegnò alla Cognisance Fleet. In un attacco coordinato con l'Adeptus Mechanicus, inondò di sangue i ponti della nave nemica, ma nel farlo trovò la morte. In segno di rispetto, i servitori dell'Omnissiah conservarono e modificarono la sua armatura, onorando l'eroismo dell'ufficiale con nuove funzioni.
+
+### u012357
+Una tecno-litania dai remoti confini del Settore Calixis che conferisce la benedizione dell'Omnissiah al motore warp. Si scoprì che la preghiera aveva un effetto benefico sugli psyker che la ascoltavano: le parole sul possente meccanismo che soggioga l'Empireo riempivano quelle anime maledette della fede che le loro turpi capacità potessero essere volte a beneficio dell'Imperium.
+
+### u012358
+Il rovescio di questa uniforme rinforzata è coperto di simboli empi, incisi da uno stregone della Fellowship of the Void per rallentare la corruzione che gli consumava la mente mentre trasportava artefatti eretici.
+
+### u012359
+Non è chiaro cosa abbia tanto infuriato il tuo mastino cibernetico, ma non c'è modo di scoprire cosa stesse facendo qui lo sconosciuto — {petname} lo ha ridotto in una poltiglia sanguinolenta.
+
+### u012360
+{petname} ha fatto a brandelli la vittima. Le viscere mutilate della vittima luccicano di icore e sono inframmezzate da escrescenze squamose vestigiali. Un abominio genetico — non c'è alcun dubbio.
+
+### u012361
+Thassera
+
+### u012362
+Questa pagina del diario di qualcuno è stata ritagliata con cura e ripristinata.{br}
+"...Ma ciò che incontrai su questa dimenticata zolla di terra... Quando arrivammo, gli auspex della nave rivelarono la presenza di una sorta di rovine. Incuriosito, io e il mio seguito scendemmo sulla superficie del mondo morto. Quale sfida mi aveva preparato questa volta la galassia? Quale grande impresa avrei potuto compiere nel Suo nome e in quello della dinastia? Quali tesori mi attendevano, pronti a servire l'Umanità e la Casata von Valancius? Mai prima di allora avevo posato gli occhi su simili edifici. Obelischi lucidati, di un nero opaco, incisi con luminosi glifi verdi di una lingua a me sconosciuta. Persino il mio indispensabile sapiente linguista poté solo allargare le braccia, sconcertato. Ammaliato dalla severa bellezza delle rovine, l'illustre Explorator toccò uno degli obelischi — e fu allora che comparve. La creatura... Non avevo mai visto nulla di simile, il che era già di per sé sconcertante. Era come se qualcuno avesse immerso uno scheletro umano nel metallo fuso e poi lo avesse costretto a muoversi. Rabbrividisco al ricordo di quel mostro. Non capiva gli ordini in Gotico, né il mio Enginseer riuscì a comunicare con la cosa in alcun dialetto della Techna-Lingua. Pensammo, ingenuamente, che la creatura fosse un raro tipo di servitore o di automa. L'unica cosa emessa dai suoi vox-sintetizzatori fu "yergmek." Misericordioso Dio-Imperatore, fu solo per Sua volontà che tornai alla nave ammiraglia. Il Tecnoprete, che il Maestro dell'Umanità lo accolga, tentò sia di prendere il controllo dei sistemi che governavano la creatura sia di fermarla con i suoi tecno-miracoli — tutto invano. Vidi i miei fedeli servitori perire uno dopo l'altro. Ricordo il gelido orrore che mi invase quando compresi la mia impotenza. Come se vedessi la rovina stessa avvicinarsi sempre più, il suo teschio di metallo ad annunciare la mia distruzione. Ma io sono un Rogue Trader. Io sono Seberian von Valancius! Per il patto del Dio-Imperatore e per Sua volontà, è mio dovere sfidare l'ignoto e sottomettere la Galassia al Trono d'Oro. E quando la cosa crollò a terra con un clangore, ne seguì un'eresia del più alto ordine. Il costrutto semplicemente svanì in un lampo verde, privandomi del mio legittimo diritto di reclamare il trofeo. Quella fu la vera, devastante perdita, più ancora di quella dei miei più fidati servitori..."
+
+### u012363
+Pagina strappata
+
+### u012364
+"Nel fare il conto delle imprese di Seberian, non vi è alcun dubbio: restituì la gloria alla Casata von Valancius nella sua ora più buia. A Seberian fu concesso un Mandato, insieme al grande nome, alla fortuna e alla storia che lo accompagnavano, ma con così pochi possedimenti e risorse. Eppure divenne una testimonianza vivente della benevolenza del Dio-Imperatore, un esempio di come l'Umanità possa sopportare qualsiasi prova se porta la Sua luce nel cuore. Un grande condottiero che rafforzò la posizione della Casata von Valancius nella Distesa di Koronus, aprendo un nuovo capitolo della illustre storia della dinastia. Nel sangue dello xenos, firmò un'alleanza con la Casata Armengard. Gli Explorator lo lodano per il suo aiuto nel trovare archeotecnologia nelle Unbeholden Reaches. E la consegna del feroce pirata eretico Worgen Gald alla custodia della Navis Imperialis è scritta negli annali della Koronus Line Fleet. E anche quando venne il momento di raccogliere i frutti delle sue giuste fatiche e dei doni del Dio-Imperatore per il suo fedele servizio, Seberian von Valancius non si concesse riposo. Così di rado sedeva nel palazzo su Dargonus che il governo dei possedimenti del protettorato e la gestione delle imprese commerciali della dinastia ricaddero su servitori e amministratori. Ahimè, quest'onore non sempre finì in mani degne. Più spesso che no, i sudditi della dinastia dimenticavano a chi dovessero davvero la propria lealtà. Dopo essere asceso al suo posto di possente signore, il nobile e coraggioso Rogue Trader rimase un avventuriero nel cuore, preferendo ciò all'altro suo dovere. Forse dopo una dozzina d'anni le necessità del protettorato lo avrebbero costretto ad assumere il proprio legittimo mantello di viceré del Dio-Imperatore, ma non lo sapremo mai. Durante l'ultima rischiosa impresa in una lunga serie di successi, Seberian scomparve tra le stelle aliene che lo chiamavano. Il degno succedette al degno e, contro l'eresia dell'infedeltà o il declino dei commerci nelle mani degli empi, la dinastia fu preservata dal nuovo erede del Mandato, che consolidò ciò che Sua Signoria aveva conquistato. Così ebbe inizio il regno del glorioso..."
+
+### u012365
+Annali delle gesta di gloria e fedeltà della dinastia von Valancius, Volume 30
+
+### u012366
+In profondità nel misterioso cubo, un'immagine fantasma è avvolta in una foschia verde vorticante. L'immagine tremola e scintilla, come se cercasse di solidificarsi, ma si disgrega in una massa di luci scintillanti prima di poter prendere forma.
+
+### u012367
+Eogunn
+
+### u012368
+Nuncius
+
+### u012369
+Il Reattore a fusione miracoloso fu consegnato dal Rogue Trader alla benedetta dimora di Altar-Templum-Calixis-Ext-17. I tecno-asceti circondarono la macchina archeotech di grande reverenza e instancabili cure, volgendo la potenza della Forza Motrice che la riempiva al servizio del Dio-Macchina. La presenza del Reattore ebbe un effetto benefico sullo sviluppo della stazione, che nel giro di pochi anni divenne un fiorente bastione del Cult Mechanicus.
+
+### u012370
+Seberian von Valancius non fu mai più visto nella Distesa. Il suo nome, tuttavia, fu invocato ancora diverse volte dalle casate nobili scontente di Dargonus, che cospiravano per estromettere il Lord Capitano con il pretesto di "ritrovare il sire perduto". Ma quando l'ultimo di quei cospiratori morì, il ritorno di Seberian tornò a essere nulla più di uno strano racconto, di quelli che gli ufficiali della nave ammiraglia si scambiavano nei rari momenti di svago.
+
+### u012371
+La nave di Seberian von Valancius svanì senza lasciare traccia nel vuoto oltre i confini del protettorato. Per qualche tempo dopo, la nave ammiraglia ricevette messaggi astropatici con resoconti degli incontri di Seberian con ominose meraviglie e orrori inconcepibili, ma dopo alcuni anni cessarono anch'essi. Nell'ultimo dispaccio, l'antenato resuscitato della Casata von Valancius promise di consegnare un dono d'addio alla dinastia, ma la sua nave non varcò mai più i confini dello spazio noto all'Umanità.
+
+### u012372
+L'Arch-Militant Batoshski fu uno degli ultimi membri dell'equipaggio della nave ammiraglia a morire. Combatté contro l'inevitabile con fiera ferocia e, prima di morire, disse a denti stretti: "Lo sapevo che tutte quelle storie sulle stelle erano parole da Commissario."
+
+### u012373
+Dopo diversi anni di servizio, l'Arch-Militant Izdrig Batoshski morì per mano di uno dei suoi migliori ufficiali, un devoto credente che sospettava Izdrig di scetticismo nei confronti della sacra dottrina imperiale.
+
+### u012374
+Il più temibile dei seguaci del Caos controllati da {name} von Valancius era un combattente bestiale e assetato di sangue — nientemeno che l'ex Arch-Militant Izdrig Batoshski in persona.
+
+### u012375
+L'Arch-Militant Izdrig Batoshski guidò il suo reggimento fino a tarda età. Dopo aver subito una ferita invalidante sul campo di battaglia ed essersi dimesso dal suo alto incarico, Batoshski trovò la morte su Zarkov come sergente istruttore e capostipite di una lunga stirpe di soldati.
+
+### u012376
+L'Arch-Militant Izdrig Batoshski tentò invano di salvare il 32° Reggimento di Merov, dilaniato dallo scisma, ma alla fine fu costretto a ordinarne lo scioglimento.
+
+### u012377
+L'unica unità rimasta fedele alla dinastia fu il 32° Reggimento di Merov, guidato personalmente dall'Arch-Militant Izdrig Batoshski.
+
+### u012378
+Il Governatore Izdrig Batoshski, venuto a conoscenza della strada scelta dal rampollo dei von Valancius, scatenò una delle rivolte planetarie più sanguinose della storia della Distesa di Koronus. Assediato, lasciò la Gabbia e si ritirò nelle foreste, dove i resti dell'esercito di Zarkov combatterono una guerriglia per nove mesi. Al nono mese, Izdrig fu ucciso dai suoi stessi soldati disperati, che donarono la testa dell'ex governatore {mf|al signore oscuro|alla signora oscura} von Valancius in cambio del suo favore.
+
+### u012379
+Rimasto su Zarkov a sovrintendere al pianeta, il Governatore Izdrig Batoshski perseguì una politica di massima indipendenza dagli altri mondi e rimase fedele solo al Dio-Imperatore e al Lord Capitano. I soldati nati e cresciuti su Zarkov erano famosi come i combattenti più pericolosi della Distesa di Koronus.
+
+### u012380
+Dopo la sua morte in una delle battaglie, Izdrig Batoshski divenne un santo de facto tra la sua gente. La sua effigie, venerata come sacra, si diceva portasse fortuna e aiutasse nella lotta contro le proprie debolezze. Per molti anni dopo, si credette che il solo pronunciare ad alta voce il suo nome proteggesse dall'eresia.
+
+### u012381
+L'Arch-Militant Vedka Dunawski fu una degli ultimi membri dell'equipaggio della nave ammiraglia a morire, combattendo con fermezza e disperazione, come una vera figlia di Zarkov. L'ultima cosa che la guerriera vide prima di morire furono le stelle lontane che la chiamavano a sé, e la persona che considerava la salvatrice del suo mondo natale.
+
+### u012382
+L'Arch-Militant Vedka Dunawski si rifiutò di accettare il tradimento del suo comandante supremo. Per sei giorni si protesse dalla nuova realtà nei suoi alloggi, sparando a chiunque tentasse di entrare. Il settimo giorno, avendo perso un occhio e ogni speranza, una creatura coperta di croste e distrutta emerse dai suoi alloggi e tornò docilmente al suo posto di Arch-Militant.
+
+### u012383
+L'Arch-Militant Vedka Dunawski guidò il giusto esercito della dinastia von Valancius con uno zelo senza precedenti. Dopo la sua morte eroica in battaglia contro i cultisti del Caos, la sua effigie fu venerata come icona sacra e posta sullo stendardo del 32° reggimento. Da allora, i commilitoni credettero che bastasse pronunciare ad alta voce il suo nome per restare al riparo da eresia e corruzione.
+
+### u012384
+L'Arch-Militant Vedka Dunawski servì fedelmente la dinastia per decenni, ispirando con il suo esempio i combattenti di Zarkov. Ogni grave ferita che riceveva servì solo a temprarla ulteriormente — e ad aggiungere altro ferro al suo corpo. Ma Vedka trovò la morte non sul campo di battaglia, bensì sul tavolo operatorio durante l'impianto di un'ulteriore augmetica per mantenere in vita il suo corpo devastato.
+
+### u012385
+Nel corso del suo fedele servizio alla dinastia, l'Arch-Militant Vedka Dunawski subì gravi ferite in battaglia. Il Lord Capitano ordinò che continuasse a servire e così, dopo aver sopportato numerosi interventi augmetici, fu elevata al rango di portabandiera della dinastia. Nel suo zelo ardente, Vedka pretese che lo stendardo dei von Valancius venisse innestato sulla sua stessa spina dorsale come testimonianza che la dinastia non si sarebbe mai piegata di fronte ai suoi nemici — nel suo caso, alla lettera. Proclamando senza sosta la gloria della dinastia attraverso vox impiantati nella gola, compì molte imprese, spinta dalla sua devota fede nel Dio-Imperatore e nella dinastia, finché, nei suoi anni crepuscolari, fu riconosciuta come una benedetta devota. Con l'avvicinarsi degli ultimi giorni, indebolita dalla decrepitezza e dal dolore incessante dei suoi impianti, Vedka riuscì a ricordare una sola cosa: i regolamenti del Manuale, che gridò fino all'ultimo respiro.
+
+### u012386
+Per molto tempo l'Arch-Militant Vedka Dunawski riuscì a distribuire strategicamente le esigue forze militari del protettorato, ma la scarsa disciplina delle sue reclute la costringeva a una presenza costante sul campo di battaglia. Durante una di queste operazioni, Vedka fu uccisa da un'arma mal puntata del suo stesso reggimento.
+
+### u012387
+L'Arch-Militant Vedka Dunawski servì fedelmente la dinastia fino a una fatale traslazione warp in cui la sua vita fu stroncata da un mostro che penetrò sul ponte da oltre il Velo. L'Arch-Militant morì difendendo disperatamente un gruppo di persone disarmate. Il gruppo riuscì a resistere fino all'arrivo dei rinforzi e alla fine fu salvato grazie al sacrificio della donna di Zarkov.
+
+### u012388
+L'Arch-Militant Vedka Dunawski servì fedelmente la dinastia per decenni, ispirando con il suo esempio i combattenti di Zarkov. Ogni grave ferita che riceveva servì solo a temprarla ulteriormente — e ad aggiungere altro ferro al suo corpo. Vedka morì reprimendo una rivolta in una delle nuove colonie del protettorato, uccisa dal comandante a cui aveva affidato la sicurezza della colonia.
+
+### u012389
+La Governatrice Vedka Dunawski si ritrovò incapace di accettare il tradimento del suo Lord Capitano. Per sette lunghi anni difese con successo Zarkov dalle forze del Caos, ma a ogni battaglia perdeva sempre più fede. Alla fine del settimo anno, Vedka scomparve dal suo ufficio senza lasciare traccia — pochi giorni prima che l'esercito di Zarkov fosse colpito da una malattia mortale mai vista prima. Si dice che poco dopo sia apparsa su Zarkov una terrificante sacerdotessa dei poteri oscuri — la Hope Breaker, con un solo occhio e piagata di ulcere, che distolse le anime dei giusti dal Dio-Imperatore con le sue parole di salvezza nella disperazione.
+

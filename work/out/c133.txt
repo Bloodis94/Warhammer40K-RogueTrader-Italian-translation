@@ -1,0 +1,781 @@
+### u046513
+"Basta parole. I vostri imputati attendono, e anche i miei doveri."
+
+### u046514
+"Hai emesso molte assoluzioni?"
+
+### u046515
+"Applaudo ai tuoi sforzi. A questo posto servivano da tempo legge e ordine come si deve."
+
+### u046516
+"In questo processo non c'è nulla di giusto. Le tue accuse sono costruite ad arte, e il loro unico scopo è trasformare l'intera popolazione di Footfall in automi docili!"
+
+### u046517
+"Sei molto scrupolosa."
+
+### u046518
+"E io cosa ci guadagno?"
+
+### u046519
+"Ti aiuterò a occuparti di Vladaym."
+
+### u046520
+[Menti] "Trascinerò Vladaym davanti a questo tribunale."
+
+### u046521
+"Ammettilo: ti diverte semplicemente trasformare le persone in schiavi. Perché senti il bisogno di inventare scuse per seminare carneficina?"
+
+### u046522
+"Che cosa ti fa pensare di avere il diritto di governare questo posto come meglio credi?"
+
+### u046523
+"Hai dichiarato Vladaym un criminale?"
+
+### u046524
+"Perché Hieronymus è andato all'Adeptus Amasecus?"
+
+### u046525
+"Da quanto tempo è già in seduta il tuo tribunale?"
+
+### u046526
+"Alcune delle persone che vuoi giustiziare mi sono utili. Acquisto da loro equipaggiamento di valore."
+
+### u046527
+"Dov'è il Lord Inquisitore?"
+
+### u046528
+[Poni fine alle sofferenze del poveretto] "Questo tuo spettacolo puzza di corruzione."
+
+### u046529
+"E allora? Serve a qualcosa?"
+
+### u046530
+"Una prelibatezza raffinatissima. Devo assaggiarla anch'io, magari più tardi."
+
+### u046531
+"Suggerisco di non addentrarci troppo in questa discussione."
+
+### u046532
+[Osserva attentamente Incendia]
+
+### u046533
+"Le tue sentenze mi hanno privato di diversi fornitori di equipaggiamento di valore."
+
+### u046534
+"Quale sorte hai riservato a Falco?"
+
+### u046535
+"Andrò da Calcazar. Ho delle domande da fargli."
+
+### u046536
+Hai salvato le vittime del giudizio di Incendia Chorda facendo loro giurare fedeltà alla Casata von Valancius.
+
+### u046537
+[Rivolgiti alla folla] "Chi di voi mi riconosce come proprio sovrano è considerato dalla legge suddito della Casata von Valancius e quindi è esente dal giudizio di Chorda. Vi porterò a bordo della mia nave."
+
+### u046538
+Ti sei {mf|sottoposto|sottoposta} al giudizio di Incendia Chorda.
+
+### u046539
+"Hai detto che non avresti riposato finché non avessi giudicato ogni anima di questa stazione. Anch'io desidero comparire davanti al tuo tribunale."
+
+### u046540
+"Che cosa desideri che io faccia?"
+
+### u046541
+Hai usato stregoneria proibita per nascondere la tua natura a Incendia Chorda.
+
+### u046542
+[Sussurra le parole dell'incantesimo proibito] "Se vedi corruzione in me, accusami pure!"
+
+### u046543
+"Non vedo un solo tomo della Lex Imperialis in questo posto, il che significa che hai disprezzato la lettera della Legge dell'Imperatore e quella della Sacra Terra: il tuo giudizio è solo tuo. Quanto sei caduta in basso nella tua superbia, Incendia?"
+
+### u046544
+[Indica l'uomo con il cranio aperto] "Che... cos'è quello?"
+
+### u046545
+"Ti porgo i miei saluti."
+
+### u046546
+"Non ho il minimo desiderio di immischiarmi nelle vostre meschine beghe."
+
+### u046547
+"Correzione: Calligos Winterscale è un traditore morto."
+
+### u046548
+"Condivido di cuore la tua indignazione. Calligos è un reprobo."
+
+### u046549
+"Avete perso la testa, tu e Calligos? La Distesa è in uno stato catastrofico, e voi due siete impegnati a regolare i conti! Dovete smetterla subito."
+
+### u046550
+"Se vuoi il mio parere, stai solo sfruttando la situazione per saccheggiare il suo protettorato. Se lui dovesse chiedere aiuto alla Casata von Valancius, risponderemo."
+
+### u046551
+"È disgustoso. Indicibilmente."
+
+### u046552
+{n}Incendia Chorda è assorta nella lettura di una lunga striscia di pergamena. Nella mano sinistra tiene un cucchiaio d'argento, con cui raccoglie con cura materia cerebrale dal cranio aperto dell'uomo contorto accanto a lei.{/n} "{name} von Valancius. Sono stata informata del vostro arrivo."
+
+### u046553
+{n}Incendia alza lo sguardo dalla pergamena e chiede con tensione,{/n} "Che cosa vi porta da me, {name}?"
+
+### u046554
+"Non ho mai dubitato di voi, {name}. L'Imperatore protegge."
+
+### u046555
+{n}La stanchezza ha segnato i lineamenti di Incendia con un reticolo di rughe e solchi più profondi. La sua guancia è perennemente contratta da un tic nervoso continuo, eppure i suoi occhi ardono di una risolutezza indomabile. Un'abbagliante aura di potere e furia giusta la avvolge come un manto. Con grazia porta alle labbra un inalatore placcato d'oro, trae un respiro profondo, e il fuoco nel suo sguardo divampa come un propulsore al plasma.{/n}
+
+### u046556
+"Sì, è arrivata, anche se il suo viaggio fin qui ha richiesto fin troppo tempo. Ma mai più allenterà la sua presa su questa stazione. Lo giuro."
+
+### u046557
+{n}Incendia fa schioccare il collo, che deve essersi irrigidito dopo tante ore di lettura, prima di prendere un altro foglio. Ovunque guardi, i servitori si piegano sotto pesanti pile di nuove denunce, mandati e altri documenti.{/n}
+
+### u046558
+{n}Incendia solleva il mento di scatto e risponde con sdegno,{/n} "Questa È vera giustizia. Imparziale, inesorabile e ugualmente spietata con tutti."
+
+### u046559
+"Il Lord Inquisitore mi ha concesso l'onore di portare ordine in questa cloaca di pirati ed eretici. Di liberare Footfall dalla corruzione che ne ha incatenato le membra e ha trasformato questa stazione imperiale in un focolaio di libero pensiero e inefficienza. E non avrò pace finché tutti non saranno stati giudicati."
+
+### u046560
+{n}Incendia vi studia con un sorriso predatorio.{/n} "Dev'essere stata la provvidenza dell'Imperatore a portarvi qui, nella mia corte. Sarebbe un piacere per me incriminarvi per i crimini che avete commesso."
+
+### u046561
+"Mi fa piacere che possiate condividere con me il trionfo dell'epurazione di Footfall."
+
+### u046562
+{n}Inghiotti la materia cerebrale, che scivola nello stomaco senza il minimo problema. Senti un debole gemito dalla vittima, e intercetti lo sguardo rapito di Marazhai, che sembra sul punto di svenire per pura esaltazione.{/n}
+
+### u046563
+{n}Incendia tocca un pannello sul bracciolo del trono e viene subito protetta da un campo rifrattore. Senti in lontananza il suono di allarmi che si attivano. Un sorriso beffardo le taglia il viso.{/n} "Avanti, {name}. Dammi un motivo."
+
+### u046564
+{n}Il guerriero in armatura inquisitoriale annuncia,{/n} "Le istruzioni del Lord Inquisitore erano di mantenere l'ordine e garantire la sicurezza dei suoi alleati. Con qualsiasi metodo, per quanto estremo debba essere."
+
+### u046565
+"I miei omaggi, {name}." {n}Lancia a Incendia un'occhiata orgogliosa.{/n} "Sapevo di aver visto giusto su di te."
+
+### u046566
+"Ecco, ecco, {name}." {n}La voce di Marazhai gronda di finta pietà.{/n} "Controllati. Tuttavia... non posso dire che il sentimento non mi diletti. Anche se hai ancora molto da imparare." {n}Concede a Incendia uno sguardo condiscendente, poi torna a guardarti con orgoglio represso.{/n}
+
+### u046567
+"Non sperate che imitarmi e ascoltare il vostro inumano da compagnia vi permetta di cogliere ciò che io ho colto dal sapore dei pensieri di questo eretico. Io lo faccio con disgusto e nel nome dell'Imperatore, mentre voi siete {mf|spinto|spinta} da un diletto morboso e da una curiosità perversa."
+
+### u046568
+"Tutti sanno con quanta libertà interpretate i severi divieti dell'Imperatore. Con cuore debole, concedete clemenza a chi non la merita, non punite le trasgressioni con la massima severità e non infondete nei vostri sudditi quel terrore che li condurrebbe a una pia trepidazione. Sprecate energie e attenzione per i bisogni di nullità invece di volgerle al Suo servizio. Sotto la vostra mano prosperano il pericoloso libero pensiero e la sazietà, che presto si gonfieranno delle piaghe dell'anarchia e della decadenza."
+
+### u046569
+{n}Il guerriero in armatura adorna del segno dell'Inquisizione parla con una voce piatta e secca come carta:{/n} "Il Lord Inquisitore è a conoscenza dell'arrivo del Rogue Trader von Valancius su Footfall. Lo ha permesso e non ha dato alcun ordine di persecuzione. Anzi, la volontà del Lord Inquisitore è che il Rogue Trader von Valancius sia trattato con il rispetto che si addice al suo alto rango. Con le sue asserzioni, Lady Chorda si avvicina pericolosamente all'abuso della propria autorità e alla violazione della catena di comando. Questo è il vostro avvertimento."
+
+### u046570
+{n}Uno spasmo colpisce la guancia pallida di Incendia. Le sue labbra si arricciano mentre borbotta,{/n} "Non ho alcuna intenzione di mettere in discussione gli ordini del Lord Inquisitore. Forse desidera riceverti {mf|tutto intero|tutta intera} per poterti condurre un interrogatorio personale."
+
+### u046571
+"Che i nemici dell'Umanità ti detestino e ti temano non ti rende {mf|puro|pura} agli occhi dell'Imperatore. Ma forse Egli ha ritenuto opportuno metterti su un sentiero diverso, fatto di giusto xenocidio e di redenzione intrisa di sangue per le tue colpe. Non oserei mai contraddire la Sua volontà."
+
+### u046572
+"Il fatto che i nemici dell'Umanità vi considerino loro rivale nella lotta per le anime dell'Umanità non vi assolve agli occhi di questo tribunale."
+
+### u046573
+"La vostra... impavidità mi dà motivo di dubitare della sufficienza delle mie prove. Forse dovrei rimandare la pronuncia del verdetto. Brevemente." {n}La sua espressione furente non lascia presagire nulla di buono.{/n}
+
+### u046574
+"Dite la vostra, {name}. Siete a un passo dal fare dichiarazioni che saranno considerate una violazione delle mie prerogative, quindi vi invito a continuare."
+
+### u046575
+{n}Dopo essersi schiarito la gola e aver mostrato le insegne da Interrogatore, Heinrix proclama in tono perentorio,{/n} "A nome del Conclave di Koronus, informo con la presente la Casata Chorda dei Rogue Trader che, per ordine del Lord Inquisitore Calcazar, il Rogue Trader von Valancius è stato posto sotto la custodia dell'Inquisizione. Qualsiasi attacco alla sua incolumità sarà trattato come un atto di interferenza negli affari dell'Inquisizione."
+
+### u046576
+"Insultate il giudizio dell'Imperatore! Schernite il Rogue Trader! Bestemmiate! Non pensate nemmeno per un istante di farla franca!"
+
+### u046577
+"In effetti lo sono. Quando il Lord Inquisitore ha instaurato la legge marziale nella Distesa, gli ho offerto subito il mio sostegno. Footfall è stata scelta come quartier generale del Lord Inquisitore, e la carica di Liege di Footfall è stata temporaneamente abolita per la durata di questa guerra... o forse più a lungo. Tutta l'autorità è stata trasferita al custode della stazione: a me. Mentre il Lord Inquisitore è impegnato nella pianificazione strategica, io ho il compito di sovrintendere alla sicurezza e all'ordine."
+
+### u046578
+{n}Incendia, intenta a leggere una delle sue tante pergamene, vi saluta con voce sonora e solenne:{/n} "{name} von Valancius, sono lieta di vedervi. In quest'ora oscura, in cui tutta la feccia della Distesa ha fiutato la libertà ed è strisciata in superficie, è consolante avere al mio fianco un fedele alleato. Insieme {d|Encyclopedia:Ch4_Footfall_VladaymHanged}porteremo a termine l'epurazione di Footfall{/d} e ripristineremo l'ordine in ogni sistema della Distesa!"
+
+### u046579
+"Tutti sanno che la vostra maledetta nave ospita traditori dell'Imperatore e adoratori dei Poteri Rovinosi. In ogni porto che visitate, le persone scompaiono e i semi dei culti malvagi mettono radici. Ostentate senza vergogna la vostra morale perversa e offrite patronato a chi vi venera come se foste una divinità. La vostra capitale è una fogna di lordura che diffonde l'eresia in tutto il settore."
+
+### u046580
+"Soppesiamo la gravità delle vostre trasgressioni, {name}, e scopriamo come vi siete {mf|insozzato|insozzata} agli occhi dell'Imperatore."
+
+### u046581
+"Fingete di essere {mf|un servitore fedele e devoto|una serva fedele e devota} dell'Imperatore, ma non mostrate alcuno zelo o fervore autentico nella fede. La vostra nave non trema di inni e canti che glorificano il Suo nome, e la vostra capitale non è stata condotta a una pia trepidazione. In un'ora così oscura vi è stato concesso l'onore di essere una luce di giustizia agli occhi della Distesa, ma la vostra luce... è in modo traditore fioca."
+
+### u046582
+"Ritengo le prove contro di voi sufficienti a condannarvi come {mf|nemico|nemica} dell'Umanità."
+
+### u046583
+"Tutti! Ladri, contrabbandieri, pirati, traditori, eretici, disertori! Favoreggiatori, ricettatori, codardi e spergiuri! Chiunque abbia mai trasgredito, chiunque abbia mai protetto un malfattore o taciuto su un crimine di cui era a conoscenza. Saranno tutti condannati!" {n}Con ossessiva determinazione, Incendia comincia a spulciare le sue carte, apparentemente senza più rendersene conto.{/n}
+
+### u046584
+"Abbiamo fatto diversi tentativi di arrestarlo, ma ogni volta è sfuggito alla cattura. Il Reverendo Hieronymus è andato là per convincerlo ad arrendersi senza storie, ma anche i suoi sforzi sono stati vani. Nell'interesse dell'integrità di Footfall, Tocara deve essere catturato."
+
+### u046585
+"Insieme faremo pagare a quel furfante i suoi crimini. Che beva fino in fondo il calice della Sua ira, un calice che sarà porto dalle nostre mani."
+
+### u046586
+"In qualità di Rogue Trader in carica, vi ordino di aiutarmi a consegnarlo alla giustizia."
+
+### u046587
+"L'asteroide dove si trova l'Adeptus Amasecus è stato isolato, ma il mio tutore dell'ordine vi condurrà là. Voglio che attiriate Tocara fuori dalla sua tana e lo catturiate perché possa essere processato. Fatelo per la liberazione di Footfall e per spianare la strada che la mia giustizia percorrerà."
+
+### u046588
+"Non una sola anima pura è stata portata davanti a me, {name}. Nelle azioni o nelle intenzioni, tutti sono stati colpevoli di fronte all'Imperatore."
+
+### u046589
+"E si oda il mio voto: non lascerò questa stazione, non cederò al sonno, non permetterò al mio corpo di essere lavato finché ogni ultimo criminale che si nasconde in questo covo senza legge non avrà affrontato il Suo giudizio!"
+
+### u046590
+"L'universo è un luogo terribile. Siamo circondati dalle macchinazioni dell'Arcinemico e dalla feccia xenos che ci negherebbe il diritto di esistere. La minaccia è inconcepibile, e la debolezza umana non ci aiuterà a scongiurarla. Se l'uomo è debole, io lo libero della sua mancanza di spina dorsale e della sua fiacchezza, dotandolo di una sacra ristrettezza mentale ed eliminando tutto ciò che gli impedisce di impiegare tutto sé stesso al servizio dell'Imperium."
+
+### u046591
+{n}Il volto di Incendia si contrae per il disappunto, e la sua voce trema di rabbia e tensione:{/n} "Ancora non riuscite a comprendere che tutto è cambiato, {name}. È finito il tempo in cui potevate fare solo ciò che desideravate. Ora è tempo di fare ciò che dovete."
+
+### u046592
+"Non carneficina, ma giudizio. Il Suo giudizio. E non conosco altro diletto che servirLo."
+
+### u046593
+"Pensavo di parlare con voi, eppure sento le parole di Theodora, avide e piene di superbia. Il vostro 'guadagno' è l'ordine che giungerà su questa stazione e la sua obbedienza all'Imperatore, alla Sua legge e ai Suoi amministratori."
+
+### u046594
+"Questa è la legge di Footfall. Qualunque Rogue Trader che giunga qui assume il diritto di autorità assoluta. Di certo non è quel furfante di Tocara a meritare di governare questa stazione. Presto penderà da un cappio, e con lui i suoi sgherri kasballicani, e anche quegli agitatori di Anver le cui attività scandalose hanno causato a Footfall tanti guai."
+
+### u046595
+"E su quel fronte c'è molto da fare. Pirati e contrabbandieri, apostati e mercanti del Commercio Freddo, disertori e fuorilegge... Ognuno di loro merita attenzione."
+
+### u046596
+"E perché no? L'infamia di quel vile furfante è nota a tutti. Ha protetto ladri, contrabbandieri e pirati. Con il suo beneplacito, eresie e culti empi sono fioriti. Che sia sfuggito alla punizione così a lungo può essere definito solo grossolana negligenza, a cui intendo porre rimedio a breve."
+
+### u046597
+"Il Reverendo Hieronymus si è diretto dove i ribelli si vedono più spesso, per predicare loro e convincerli a pentirsi. Ahimè, ancora non riesce a vedere la differenza fra chi ha sbagliato e chi è al di là di ogni speranza di redenzione."
+
+### u046598
+{n}Incendia sembra leggermente perplessa dalla vostra domanda. Comincia a spostare sentenze firmate da una pila all'altra, poi dice con incertezza,{/n} "Tre... settimane. Il tribunale prosegue giorno e notte, perciò il mio senso del tempo mi sfugge."
+
+### u046599
+"I furfanti e i ladri saranno sostituiti da fornitori onesti. Persino dei degenerati come i Kasballica possono essere di una qualche utilità nella crisi imminente, ma i loro capi ostinati vanno sostituiti con successori più docili e timorosi. È l'unico modo per proteggerci dal rischio di essere pugnalati alle spalle."
+
+### u046600
+"Dato che voi, {name}, mi avete già aiutata una volta a {d|Encyclopedia:Ch2_FootfallNotAlly}frenare gli... appetiti di Calligos{/d}, vi invito a dividere con me i suoi territori. Una volta spenti questi ruggenti fuochi di malvagità, la Casata von Valancius sarà la benvenuta a partecipare alla conquista dei mondi di quel profanatore."
+
+### u046601
+"Credevo che voi e io fossimo alleati. Ma se desiderate sfidare la mia autorità... siete {mf|libero|libera} di provarci." {n}Incendia tocca un pannello sul bracciolo del trono e viene subito protetta da un campo rifrattore. Senti in lontananza il suono di allarmi che si attivano.{/n}
+
+### u046602
+"Negli appartamenti del Liege, a coordinare la difesa della Distesa. La sua attenzione è concentrata su questioni di vitale importanza, e non riceve supplicanti."
+
+### u046603
+{n}Il soldato in armatura inquisitoriale fa eco alle parole di Incendia:{/n} "Vostra Signoria non può vedere il Lord Inquisitore adesso. Tuttavia, egli mi ha incaricato di informare Vostra Signoria che vi convocherà più tardi, quando le circostanze lo permetteranno."
+
+### u046604
+"Allora non c'è più. Purtroppo ha {d|Encyclopedia:Ch4_WinterscaleDead}trovato la sua fine con troppa facilità{/d}. Calligos avrebbe dovuto confessare davanti al tribunale e assaporare l'odio che meritava."
+
+### u046605
+"Presto gli astrocartografi avranno il loro bel da fare a cancellare il nome 'Winterscale's Realm' dalle mappe stellari. La disgrazia punitiva che si abbatterà sulla dinastia sarà una giusta pena per i crimini di Calligos."
+
+### u046606
+"Negoziare con quel cane rabbioso è fuori discussione, ormai. Si limiterà a ridere dei vostri discorsi di riconciliazione e a giustiziare i vostri emissari. Per troppo tempo Calligos si è crogiolato nell'impunità e si è creduto il re del suo mondo."
+
+### u046607
+{n}Il sorriso di Incendia diventa feroce.{/n} "Adoro la franchezza. Quando chi sta davanti al tribunale ammette apertamente di condividere le convinzioni di qualcuno che sta per essere dichiarato anarchico e traditore dell'Imperium conclamato... io dico che una simile confessione dovrebbe valere {mf|a lui|a lei} un'esecuzione rapida e meno straziante."
+
+### u046608
+"Se Sua Signoria è gravemente minacciata, siamo autorizzati a far detonare la cupola sopra questo settore. Ciò provocherà una decompressione esplosiva. Gli aggressori saranno distrutti durante la depressurizzazione mentre Sua Signoria sarà protetta dal campo proiettato dal suo trono. Vi esorto a non intraprendere azioni che potrebbero essere interpretate come un atto di aggressione."
+
+### u046609
+{n}Incendia non batte ciglio davanti alla morte dell'uomo.{/n} "Un'accusa ridicola. Vi credete capace di individuare la corruzione?"
+
+### u046610
+"Un'anima pura non può concepire né comprendere i meccanismi di una mente ingiusta. I deboli abbracciano la propria ignoranza, mentre i forti la bandiscono. Se solo sapeste cosa significa conoscere ogni sfumatura di corruzione che si annida nelle anime depravate..."
+
+### u046611
+"Ho approfondito la mia comprensione degli impulsi meschini e odiosi che spingono alla degenerazione i deboli di volontà. Ho imparato a scorgere questi impulsi nei loro occhi. Se solo sapeste cosa significa conoscere ogni sfumatura di corruzione che si annida nelle anime depravate..."
+
+### u046612
+"Non è una perversa brama di piacere. Mi istruisco per discernere la corruzione che dimora nei cuori e nelle menti degli impuri."
+
+### u046613
+"Aspettate. Avete un dovere verso l'Imperatore a cui dovete adempiere. Vladaym Tocara, il deplorevole ribelle che un tempo governava questa stazione, mi è sfuggito di mano. Sta incitando la gente alla rivolta, uccide i miei servitori e si nasconde dalla mia ira con la destrezza di un ratto del vuoto. I miei informatori sostengono che compaia spesso in quel covo di agitazione che porta l'irriverente nome di Adeptus Amasecus."
+
+### u046614
+{n}Non sta mentendo. Lo capisci dai suoi occhi e dalla sua voce, tremante di fede sincera: Incendia crede davvero a ogni parola che ha appena pronunciato.{/n}
+
+### u046615
+{n}Per quanto ti sforzi, non riesci a capire cosa faccia tremare la voce di Incendia quando parla di giustizia: lo zelo di una vera fede o l'estasi lussuriosa di una maniaca.{/n}
+
+### u046616
+{n}Basta un'occhiata all'alta uniforme di Incendia per capire che non viene cambiata da molti giorni: il colletto è unto e la bordatura a treccia è macchiata di sudore. L'aria è pervasa dall'odore di uno stimolante inalato che viene usato per dare ai servi la capacità di sostenere più turni di guardia senza riposo.{/n}
+
+### u046617
+"Finché rifiuterete di collaborare, i settori isolati di Footfall vi resteranno preclusi. Andate e riflettete sulle mie parole... e sulla vostra posizione." {n}Con una sgarbatezza che sfiora l'offesa, Incendia ti congeda con un gesto della mano.{/n}
+
+### u046618
+{n}Facendo schioccare il collo, rigido dopo molte ore di lettura di documenti, Incendia affonda di nuovo il cucchiaio d'argento e raccoglie materia cerebrale dal cranio aperto del poveretto in piedi accanto a lei. Ovunque guardi, i servitori si piegano sotto pesanti pile di nuove denunce, mandati e altri documenti.{/n}
+
+### u046619
+{n}Incendia si appoggia stancamente a un bracciolo e ti guarda con disprezzo.{/n} "Prendete questa pietosa accozzaglia di malfattori, {name}, se lo desiderate. Il mio processo non finirà qui: ho tutta Footfall da giudicare."
+
+### u046620
+{n}È difficile guardare Incendia a lungo: non riesci a smettere di fissare i suoi occhi, che ardono come braci, con uno sguardo così ipnotico e opprimente da riempirti dello sconveniente impulso di abbassare gli occhi.{/n}
+
+### u046621
+"Ho incontrato culti della morte sanzionati che praticavano il cannibalismo come parte del loro modo di lodare l'Imperatore. Un numero sorprendentemente alto di loro nascondeva eresia al proprio interno."
+
+### u046622
+"Nutrite sospetti su di me? Be', è vostro dovere sospettare. Ma i vostri occhi vedono forse qualche trasgressione qui? No. Non ho commesso alcun misfatto contro di Lui."
+
+### u046623
+"Quanto a quella pirata Ryzza, non c'è bisogno che la piangiate. Sì, a volte si è imbattuta in bottini di valore, ma il più delle volte quei bottini erano contaminati. Di certo qualche altro ratto della sua ciurma ha già rilevato il suo losco commercio all'Amasecus e sarà aperto agli affari... finché non li impiccherò tutti, s'intende."
+
+### u046624
+"Se cercate il sostituto di Tocara, lasciate che vi dia un nome: Octaviana. Le mie spie hanno scoperto che, dopo il suo processo, è diventata la rappresentante principale dei Kasballica su Footfall. Per ora le permetto di condurre i suoi affari senza scrupoli: i Kasballica hanno promesso di pagarci generosamente con le risorse di cui abbiamo bisogno e di rientrare nei ranghi se fermerò le repressioni. Quegli sciocchi... Concedo loro solo una breve tregua prima dell'inevitabile processo."
+
+### u046625
+"I suoi crimini erano gravi, ma non gli hanno impedito di ricevere clemenza. L'eretico è stato purificato in una procedura sacra e convertito a una nuova missione: servire l'Imperium come servitore. Come molti, moltissimi altri."
+
+### u046626
+"Temo che non avrete l'occasione di chiederglielo: il Lord Inquisitore ha lasciato Footfall. Mi ha affidato la difesa del Sistema Furibundus ed è partito in gran fretta per una missione segreta. Nessuno ne conosce i dettagli." {n}Il tono di Incendia lascia trasparire una nota di orgoglio ferito.{/n}
+
+### u046627
+{n}La folla speranzosa nell'Atrio comincia a gridare istericamente i propri giuramenti di fedeltà alla Casata von Valancius. Nessuno di loro ci pensa due volte ad aggrapparsi all'ancora di salvezza che hai offerto.{/n}
+
+### u046628
+{n}Incendia ti fissa con stupore.{/n} "Desiderate davvero essere {mf|processato|processata}? Molto bene. Che il vostro zelo sia d'esempio agli altri."
+
+### u046629
+"Winterscale è un traditore! Mentre la Distesa brucia, devastata da eretici e xenos sacrileghi, ha abbandonato del tutto il proprio dovere e ha avuto la sfrontatezza di ignorare la chiamata alle armi del Lord Inquisitore. I miei servitori stanno catturando i suoi mondi e le sue navi mentre lui si nasconde dalla resa dei conti, abbandonandosi ai suoi bassi istinti. Molto presto anche lui comparirà davanti al giudizio."
+
+### u046630
+"Gioite alla vista di una Footfall nuova e trasformata." {n}Incendia chiude stancamente gli occhi, poi estrae un libricino di preghiere drusiane e comincia a leggere. Un sorriso sereno si dipinge presto sul suo volto.{/n}
+
+### u046631
+{n}Incendia si sporge in avanti e scruta nei tuoi occhi. Il suo sguardo, come un monaco con una candela di giunco, vaga lungo i corridoi della fortezza della tua anima, controllando ogni angolo alla ricerca della minima colpa o traccia di corruzione. Passano momenti mentre Incendia conduce la sua accurata indagine, finché alla fine si reclina di nuovo sul trono. Un sorriso stanco le sfiora le labbra.{/n}
+
+### u046632
+"Questo tentativo è stato mediocre e tutt'altro che il primo. Ma i miei tutori dell'ordine e il mio trono mi tengono al sicuro." {n}Incendia dà una pacca a un bracciolo e sorride.{/n} "Il suo campo rifrattore resiste persino ai proiettili dei carri armati. Quel ladro di Tocara teneva questa sacra reliquia drusiana nascosta in uno dei suoi magazzini."
+
+### u046633
+"Non vedo alcun segno di contaminazione nella vostra anima, {name}. Siete {mf|puro|pura} di fronte all'Imperatore, e perciò vi assolvo e vi concedo la Sua benedizione per il commiato. Andate e portate la Sua punizione a coloro che hanno voltato le spalle alla Sua parola."
+
+### u046634
+"A tempo debito estirperò ogni contaminazione che si è sviluppata qui su Footfall per così tanto tempo. E allora il timore pio, la lealtà e la devozione torneranno a essere i pilastri di questa stazione sotto il Suo sguardo vigile."
+
+### u046635
+"Vi avevo promesso che avrei ripulito Footfall, e ho mantenuto la promessa. Grazie al {d|Encyclopedia:Ch2_FootfallNotAlly}vostro sostegno{/d}, la stazione tornerà a essere un avamposto dell'Imperium: un bastione purificato di operosità e rettitudine. Gli eretici che hanno osato sfidarmi sono stati quasi tutti sterminati fino all'ultimo."
+
+### u046636
+{n}Ti guarda con un ghigno soddisfatto.{/n} "Un tempo avete {d|Encyclopedia:Ch2_FootfallAlly}ostacolato i miei sforzi di sottomettere questa stazione{/d}. Eppure eccomi qui, ora, a rendere giustizia ai malvagi. Mi rammarico solo di non aver potuto cominciare prima: i facinorosi di Tocara sarebbero già stati schiacciati, invece di nascondersi nelle stive e nei tunnel di manutenzione. In ogni caso, me ne occuperò presto."
+
+### u046637
+{n}Gli occhi di Marazhai sono inchiodati sul disgraziato che ha il cranio spaccato. L'angolo della bocca del Drukhari si contrae, stirando il suo volto scarno in un ghigno distorto.{/n}
+
+### u046638
+"Percepire la corruzione? Che isterie nobili eppure meschine. I tuoi metodi, però..." {n}Marazhai squadra Incendia e scoppia in una risata lasciva.{/n} "Questo posto è intriso di dolore, proprio come le camere di tortura della mia vecchia guglia. Serve una mano esperta per suscitare un'angoscia così raffinata, così artistica. Notevole! Sono stupito dall'ingegno di questa mon-keigh... e dai suoi intricati mezzi per assecondare la sua passione." {n}Il suo sguardo si sposta sull'uomo dal cervello scoperto.{/n}
+
+### u046639
+"Togli dalla mia vista quella sudicia profanità. Mi fa ribrezzo osservare i penosi tentativi dell'inumano degradato di attirare l'attenzione. L'unica cosa che ne trattiene l'immediata morte sono i privilegi del tuo Rogue Trader, che ti concedono il diritto di trascinarti dietro un simile rifiuto xenos nel tuo seguito. Per quanto desideri disperatamente sterminarlo, non andrò contro la parola della legge qui, in un luogo dove viene amministrata la Sua solenne giustizia."
+
+### u046640
+{n}Incendia affonda il cucchiaio d'argento nel cervello dell'uomo e consuma lentamente il disgustoso boccone.{/n} "Devo conoscere il sapore dei pensieri di un criminale. È così che imparo a riconoscere i loro schemi."
+
+### u046641
+{n}Marazhai sembra aver ignorato del tutto la sua tirata e continua a parlare con noncuranza, lo sguardo ancora fisso sulla miserabile vittima:{/n} "Che peccato che il Rogue Trader con cui mi sono imbattuto non sia in grado di godere di simili raffinate delizie... o forse lo è?" {n}Ti osserva, con occhi divoranti.{/n}
+
+### u046642
+{n}Marazhai guarda il pasto di Incendia. Un ghigno incuriosito gli compare sulle labbra: lo xenos attende di vedere la tua reazione.{/n}
+
+### u046643
+{n}Marazhai schiocca la lingua e distoglie lo sguardo, perdendo subito ogni interesse sia per te sia per Incendia, e per tutto ciò che accade nella sua sala di giustizia, a quanto pare.{/n}
+
+### u046644
+{n}La materia cerebrale ti si riversa in bocca, scivola nella gola... e scatena all'istante un'ondata di nausea. Riesci a stento a trattenerti dal vomitare davanti a tutti. Gli occhi ti si riempiono di lacrime e la vista si oscura, e non un briciolo della tua sofferenza sfugge a Marazhai, che assapora ogni mutamento della tua espressione.{/n}
+
+### u046645
+{n}Marazhai sussulta ma reagisce troppo lentamente per fermarti. Si volta con un sibilo risentito, visibilmente deluso.{/n}
+
+### u046646
+"Allora cominciamo." {n}Chorda si sporge in avanti e fissa intensamente i tuoi occhi. Appena lo sguardo di Incendia incontra il tuo, comincia a contorcersi dal dolore e a stringersi la testa. Trae un respiro profondo e prova di nuovo a guardarti negli occhi, ma un nuovo lampo di dolore quasi la fa gridare. Confusione e paura sono visibili nei suoi occhi.{/n}
+### u046647
+"Io... non riesco. Non riesco a vedere i vostri crimini. Com'è possibile? {mf|Uno|Una} come voi non può essere {mf|puro|pura}!"
+
+### u046648
+"La vostra collaborazione sarà tenuta in considerazione, {name}."
+
+### u046649
+"Quale abominevole atto sta compiendo questa figlia di Lui?" {n}La Sorella della Battaglia sussurra incredula, fissando il mostruoso banchetto di Chorda.{/n} "Dev'esserci... una ragione..."
+
+### u046650
+"Non vi basta che ordine e Conformità Imperiale saranno ripristinati su Footfall? Vedo che avete imparato troppo da Theodora: cioè la sua superbia, la sua avidità e la sua indifferenza al dovere."
+
+### u046651
+{n}Qualcosa di selvaggio si accende nei suoi occhi pallidi.{/n} "Non sapete nemmeno la prima cosa su come percepirla. Sentirla! Scrutare nelle anime della gente e vedervi l'infamia. Non sapete cosa significhi guardare i loro volti e vedervi il marchio delle loro azioni empie. Ma io lo so fin troppo bene! E nessuno sfuggirà alla mia ira!"
+
+### u046652
+"All'Inquisitore è per caso venuto in mente che anche lui si sta avvicinando pericolosamente a qualcosa di leggermente folle? Com'è possibile tollerare una cosa simile? Come può chiunque guardare con calma queste atrocità e pensare che tutto proceda come dovrebbe?"
+
+### u046653
+"Calmatevi, Idira." {n}Abelard si frappone tra la psyker e Chorda.{/n} "Posso capire la vostra rabbia, ma per il Dio-Imperatore, un'altra parola fuori luogo... e vi ritroverete a seguire quegli sventurati."
+
+### u046654
+"Questo non è un tribunale. Questo è un massacro."
+
+### u046655
+{n}Argenta fa una smorfia.{/n} "Per quanto la mia anima detesti dare ragione a uno xenos... è proprio così."
+
+### u046656
+"Sempre più nuovi condannati ricevono il grande dono di sottoporsi alla Servitude Imperpituis e, liberatisi di una coscienza riprovevole, di servire l'Imperium senza dubbi né debolezze. Footfall tornerà a essere un bastione di legge e rettitudine: sradicherò ogni eresia che impedisce ai senza fede di consacrarsi al bene del lavorare nel Suo nome!"
+
+### u046657
+"Carne e sangue possono donare rivelazioni, ma non così. Divorare la carne è un atto profano." {n}Kibellah guarda con disapprovazione il cervello scoperto e la vena blu pulsante al suo interno.{/n} "Questo non è il modo di servire l'Imperituro."
+
+### u046658
+{n}Idira lascia andare un sommesso fischio.{/n} "Se perfino Skully ne è turbato, dev'essere davvero brutta."
+
+### u046659
+{n}Solomorne compie un gesto deciso, come per mettersi sulla linea di tiro davanti a voi.{/n} "Vi ricordo, Rogue Trader Chorda, che potete giudicare la gente comune, ma non un vostro pari. Tanto meno..." {n}Ricevi uno sguardo lungo e duro.{/n} "...{mf|lui|lei}. Fate attenzione quando formulate accuse."
+
+### u046660
+{n}Gli occhi di Incendia brillano di trionfo mentre punta Solomorne con aria accusatoria.{/n} "Ho a lungo rifiutato di credere che Theodora avesse corrotto l'Adeptus Arbites perché chiudesse un occhio sui suoi misfatti, ma ora vedo che l'eresia ha corrotto i servitori della Lex Imperialis. Il che significa che ogni giudizio in Suo nome è ormai un mio dovere esclusivo."
+
+### u046661
+"Ha tutto il diritto di decidere i destini degli abitanti della stazione, ma ciò non cambia il fatto che questa sia una perversione della giustizia. Ecco cosa accade quando un giudice è guidato da un fanatismo morboso invece che dalla Lex."
+
+### u046662
+"Pensate che io provi piacere in questo? Guardare ignominia dopo ignominia, ascoltare una scusa dopo l'altra? Lo aborro e disprezzo ogni malfattore là fuori. Se fossi debole di volontà, avrei annientato questa lurida stazione con il fuoco nucleare. Invece sono qui per offrire a ciascuno di loro il diritto di essere giudicato nel Suo nome e la possibilità di tornare rinnovato nel Suo gregge."
+
+### u046663
+"Avete la sfacciataggine di accusarmi di eresia? No, siete voi a indulgere nella superbia, credendo che {d|Encyclopedia:CharGen_Arbitrator}la vostra vita passata{/d} pesi più delle azioni del vostro presente! Nascondetevi pure dietro i vostri tomi polverosi: vi mostrerò la vera giustizia."
+
+### u046664
+"Un fanatico per eccellenza della vostra specie primitiva. Ecco perché ci sono così pochi esemplari di Umanità nella mia collezione: siete tutti uguali. Siete tutti come questa 'Chorda', diversi solo per il grado di illusione sulla vostra unicità. Noiosi, deplorevolmente noiosi..."
+
+### u046665
+"Che pratica... stravagante." {n}Un interesse di ricerca si accende negli occhi scuri di Eogunn.{/n} "Mi azzardo a sperare che gli ufficiali medicae della dinastia Chorda abbiano sottoposto la materia grigia del donatore a un esame per individuare sostanze patogene."
+
+### u046666
+{n}Mantenendo la sua compostezza flemmatica, Eogunn annota un appunto sulla sua tavoletta dati.{/n} "Non è impossibile che la mia ipotesi sulla trasmissione di patologie attraverso l'ingestione di materia grigia si riveli corretta. I mutamenti nei modelli comportamentali sono evidenti, indicativi di un degrado organi—" {n}Passa all'istante alla Lingua-Technis incrociando lo sguardo d'acciaio di Incendia.{/n}
+
+### u046667
+"Ma ricordate..." {n}Gli occhi di Incendia lampeggiano in modo maniacale.{/n} "A nessuno dei capi ribelli è permesso morire prima del processo. Vi proibisco di giustiziarli senza il mio consenso."
+
+### u046668
+"Capisco. Anch'io ho sempre accettato le reliquie del Reverendo Hieronymus con grande reverenza. Tuttavia, tra i seguaci di San Drusus c'è molto più di Hieronymus Doloroso. Parlate con il missionario che tutti chiamano Cappellano. Predica alla marmaglia all'Adeptus Amasecus. Dopo la morte di Hieronymus, è diventato il nuovo capo dei pii su Footfall e il nuovo custode del suo reliquiario."
+
+### u046669
+"Sei venuto a farmi gli auguri di buona fortuna, Vladaym?"
+
+### u046670
+"Octaviana, l'Amasecus dovrà fare a meno delle mie mance per un po'."
+
+### u046671
+"Benedirmi è l'unica cosa che sei venuto a fare, Hieronymus?"
+
+### u046672
+"Benedirmi è l'unica cosa che sei venuto a fare, Cappellano?"
+
+### u046673
+"Perché sei venuto, Opticon?"
+
+### u046674
+"Perché sei venuto, Tecnoprete?"
+
+### u046675
+"Ryzza, sei qui per discutere di affari o solo per farmi gli auguri?"
+
+### u046676
+[Rivolgiti al pirata tremante] "Che cosa vuoi?"
+
+### u046677
+[Voltati verso l'ufficiale] "Quali sono i tuoi ordini?"
+
+### u046678
+"Dovresti proprio smettere con il contrabbando. O finirai come qualcuno che conosciamo entrambi."
+
+### u046679
+"Smettila di comportarti da barista e comincia ad abituarti a essere un boss del crimine."
+
+### u046680
+"Mi aspetto che manterrai l'ordine sulla stazione."
+
+### u046681
+"Devo andare."
+
+### u046682
+"È tempo di partire. Addio."
+
+### u046683
+"Che l'Imperatore ti assista nella tua impresa."
+
+### u046684
+"Non dimenticare la clemenza, buon pastore. È importante quanto la giustizia."
+
+### u046685
+"Porta le tue cicatrici come monito e non ripetere i tuoi errori passati."
+
+### u046686
+"Non ho risposta per te."
+
+### u046687
+"Ricorda gli errori di Hieronymus, Cappellano. E non ripeterli."
+
+### u046688
+"Se fossi in te, rinuncerei alla predicazione e tornerei alla pirateria."
+
+### u046689
+"Gloria all'Omnissiah. Cerca di essere degno del tuo predecessore."
+
+### u046690
+"Sappi solo che quando tornerò, ripulirò la Distesa dai servitori dell'Arcinemico. E farai meglio a non essere fra loro."
+
+### u046691
+"Come osi presentarti qui e infangare il mio buon nome parlandomi, feccia di pirata!"
+
+### u046692
+"Fai il tuo dovere, ma non essere inutilmente duro. La Distesa è ancora abitata da gente libera."
+
+### u046693
+"Proteggi la Distesa mentre sono via."
+
+### u046694
+"Mi aspetto che i miei mondi siano sotto la tua speciale protezione."
+
+### u046695
+"Quando tornerò, mi aspetto che tu abbia imparato a comportarti come il nuovo capo della Fellowship of the Void e non come un piagnucoloso smidollato."
+
+### u046696
+"Le tue operazioni di saccheggio dovrebbero essere a pieno regime. Tornerò con trofei di valore."
+
+### u046697
+[Sorridi] "Niente scherzi mentre sono via. O ti faccio impiccare appena torno."
+
+### u046698
+"Be', Opticon-22 era un modello di eloquenza in confronto a te, ingranaggio."
+
+### u046699
+[Voltati senza dire una parola]
+
+### u046700
+"Addio, mio compagno. Ricorda Eufrates II."
+
+### u046701
+"Gloria all'Omnissiah, Tecnoprete."
+
+### u046702
+"Un consiglio: lascia il contrabbando e occupati di Footfall. O finirai comunque sulla forca."
+
+### u046703
+"Di' a tutti i tuoi soci che ora lavorano per me."
+
+### u046704
+[Voltati senza degnare il miserabile di una risposta]
+
+### u046705
+"Continua così, ma ricorda che ora gestisci i tuoi affari sotto la mia protezione."
+
+### u046706
+"Cerca clienti ricchi. Ho intenzione di tornare con una grande ricchezza di trofei che avranno bisogno di acquirenti."
+
+### u046707
+{n}Un intero gruppo di persone ti saluta. La maggior parte di loro — una scorta d'onore composta da membri di seguiti, soci, segretari, guardie del corpo e altri ancora — si inchina profondamente e grida i propri saluti, facendo un gran chiasso. Sembra che la notizia della tua imminente partenza si sia già diffusa in tutta la stazione.{/n}
+
+### u046708
+"Non so nemmeno... {d|Encyclopedia:DrusiansRep_Min}Non vi siete mai {mf|interessato|interessata} particolarmente alla nostra missione{/d}, quindi potete pensare a me come a un vecchio marinaio del vuoto venuto a rendervi omaggio, non come a un uomo di chiesa. Quindi, da un conquistatore del vuoto a un altro: buona fortuna."
+
+### u046709
+"Status del soggetto valutato come {d|Encyclopedia:AdMechRep_Max}Alleato di Massima Fiducia{/d}. In conformità con il manuale di mutuo supporto, si prega di confermare la propria disponibilità a ricevere //una tariffa//una donazione//un contributo// dalla Cognisance Fleet. Descrizione dell'asset: set standard di rifornimenti da spedizione per una nave del vuoto Revelation-02 e //un dono//uno strumento//una benedizione// personale."
+
+### u046710
+"Ci lasciate, Vostra Signoria?" {n}Vladaym Tocara è di nuovo nei panni del pulito e decoroso burocrate imperiale, come se lo sgozzatore che si è aperto un sanguinoso {d|Encyclopedia:Ch4_Footfall_VladaymLiege}cammino verso il trono del Liege{/d} non fosse mai esistito.{/n}
+
+### u046711
+"Il mio gregge mi dice che il Rogue Trader von Valancius partirà per una lunga spedizione. Sarebbe ingiusto lasciarvi andare senza una benedizione per il viaggio."
+
+### u046712
+"Il Lord Inquisitore ci ha lasciati, e ora anche voi? Footfall sembra straordinariamente vuota dopo i recenti eventi. Tutti i nostri clienti rispettabili stanno prendendo il volo."
+
+### u046713
+"Opzione di interazione comunicativa sbloccata. Scopo dello scambio di dati: rafforzare i legami e consegnare //un dono//beni materiali//una donazione// a un alleato."
+
+### u046714
+"Funzionalità di saluto inizializzata. Gloria alla Casata von Valancius. Terminale commerciale Zeta-42//33-Mu pronto a eseguire la funzione designata. Gloria all'Omnissiah."
+
+### u046715
+"Abbiamo appena avuto la notizia che il Lord Inquisitore ha lasciato il suo comodo trespolo di Footfall, e ora parti anche tu per un lungo viaggio." {n}Ryzza sogghigna soddisfatta.{/n} "Ho pensato di venire a salutare una {d|Encyclopedia:Ch4_RyzzaAlive}vecchia conoscenza{/d}."
+
+### u046716
+{n}Un uomo dalla barba arruffata si inchina profondamente davanti a te, {d|Encyclopedia:Ch4_RyzzaDead}tremante di terrore e reverenza{/d}.{/n} "Gloria all'Imperatore, Vostra Signoria! Forse non vi ricordate affatto di me..." {n}Sembra sperare ardentemente che sia così.{/n} "Sono un mercante della Fellowship of the Void... che è sopravvissuta su Footfall e nei dintorni per vostra grazia..."
+
+### u046717
+"Tra il mio gregge corre voce che il Rogue Trader von Valancius stia per intraprendere un viaggio pericoloso. Accettate dunque questa benedizione per il cammino, nobile {name}."
+
+### u046718
+"Non andremo in bancarotta, Vostra Signoria. Vi prego di accettare questo piccolo dono da parte mia... e dei miei soci d'affari." {n}Octaviana vi porge una vecchia e, senza dubbio, {d|Encyclopedia:KasballicaRep_Mid}costosissima bottiglia di amasec rosso scuro{/d}.{/n} "La miglior medicina contro i terrori che si annidano nell'ignoto oscuro."
+
+### u046719
+{n}Un ufficiale in uniforme della Flotta Imperiale congiunge le mani nel segno dell'Aquila.{/n} "È un onore, Vostra Signoria! Sono qui per ordine dei miei superiori, per rendere omaggio alla Casata von Valancius."
+
+### u046720
+"E anche per promettere qualcosa. La mia missione si prenderà cura dei vostri sudditi. {d|Encyclopedia:DrusiansRep_Max}Ci avete fatto molto bene{/d}, e sarebbe ingiusto non ricambiare. Membri della mia congregazione stanno già caricando provviste sulla vostra nave. E ho un dono personale di apprezzamento per voi da parte del Culto di San Drusus. Con persone come voi, questo angolo di universo abbandonato dal Dio-Imperatore ha ancora una possibilità di diventare un bel posto."
+
+### u046721
+"Sì, Vostra Signoria. A nome della mia organizzazione, vorrei esprimere il nostro rammarico per essere stati {d|Encyclopedia:KasballicaRep_Min}incapaci di instaurare un rapporto d'affari proficuo{/d}. Ma questa, spero, è... una complicazione temporanea, e col tempo vedrete il potenziale e le promesse di ciò che possiamo offrirvi."
+
+### u046722
+"Che Drusus il Guerriero vi conceda buona sorte in battaglia. E una buona spinta ai vostri motori."
+
+### u046723
+"Ricorderò, Vostra Signoria. Tutti ricorderemo il Reverendo Hieronymus e le lezioni che ci ha impartito. Che il Dio-Imperatore abbia pietà della sua anima."
+
+### u046724
+"A volte lo sogno anch'io, Vostra Signoria. Guidare un gruppo d'abbordaggio è tanto più facile che guidare una congregazione, l'Imperatore mi sia testimone. Ma Drusus il Guerriero mi ha dato un obiettivo tattico, e lo perseguirò."
+
+### u046725
+"Richiesta approvata. Informazioni sulla purificazione congiunta del mondo sacro catalogate come Dati di Alto Valore."
+
+### u046726
+"L'Omnissiah sa tutto, comprende tutto. I migliori auguri di prosperità funzionale."
+
+### u046727
+"Impostazione algoritmica accettata. Quadro motivazionale 'Proteggere dall'ignominia la memoria di un'unità degna' catalogato. Gloria all'Omnissiah."
+
+### u046728
+"Registrazione di una blasfema denigrazione delle capacità tecnologiche di questa unità. Trasgressione assolta in virtù dell'alto valore dell'unità {name} von Valancius. Gloria all'Omnissiah."
+
+### u046729
+"Gloria all'Omnissiah."
+
+### u046730
+"Ehm... Ho vissuto troppo a lungo per prendere ancora sul serio simili suggerimenti. Grazie per l'interessamento, Vostra Signoria. Ne terrò conto."
+
+### u046731
+"Ah, la vecchia Ryzza dovrà darsi parecchio da fare prima di trovare qualcosa di abbastanza grosso per un cliente così esigente. Ma abbi fiducia in me. Ce la farò."
+
+### u046732
+{n}Ryzza soffoca una risatina.{/n} "Be', spero che non ti scorderai della vecchia Ryzza. Sai, scegli una corda più morbida per i vecchi tempi."
+
+### u046733
+"Che il warp vi sia lieve, Vostra Signoria."
+
+### u046734
+"Non oso dire quanto mi senta lusingaticato nell'udirlo! Prometto a Vostra Signoria che farò ogni sforzo per dimostrarmi degno della grande fiducia accordatami... concessami... elargitata! Ora che ho il vostro appoggio, di certo riporterò all'ordine quei figli di puttana!"
+
+### u046735
+"Non oso accampare scuse per i miei più spregevoli errori, Vostra Signoria! Imploro solo la vostra pietà e clemenza! Rimetteremo tutto a posto! Dimostreremo il nostro valore! Non vi deluderemo, lo giuro!"
+
+### u046736
+"La Fellowship of the Void sarà lieta di compiacere un patrono di tale rango, influenza e autorità! E chi non ne sarà lieto sarà annientato!"
+
+### u046737
+{n}Il mercante tremante si inchina in adorazione.{/n} "Ma certo, grazie, Vostra Signoria. È un tale piacere sentirlo. Saremo all'altezza della vostra fiducia, ci comporteremo al meglio e non intralceremo inutilmente i grandi signori e le grandi dame!"
+
+### u046738
+{n}Il pirata si asciuga il sudore dalla fronte, evidentemente sollevato.{/n}
+
+### u046739
+"Anche se ciò che avete detto è in contrasto con la politica ufficiale della Flotta Imperiale riguardo a questo settore, prometto che lo riferirò ai miei superiori."
+
+### u046740
+"Non dimenticheremo il nostro dovere, Vostra Signoria. Queste stelle saranno nostre!"
+
+### u046741
+"Il protettorato von Valancius può contare sulla forza della nostra armatura del vuoto e sul potere dei nostri macrocannoni. Ci assicureremo che i vostri sudditi non siano molestati."
+
+### u046742
+"Tornate {mf|vittorioso|vittoriosa} dalla vostra campagna, Vostra Signoria."
+
+### u046743
+"Richiesta di scambio di informazioni accettata. La Cognisance Fleet si rammarica che non sia stato stabilito {d|Encyclopedia:AdMechRep_Min}un rapporto di alleanza di rango superiore{/d} tra la sua missione e la Casata von Valancius. Pertanto la Cognisance Fleet vi dona il seguente asset: un augurio di buona fortuna. Gloria all'Omnissiah."
+
+### u046744
+"Ma certo. Nessun partner d'affari della Missione Kasballica è {d|Encyclopedia:KasballicaRep_Max}più affidabile o più redditizio{/d} di Vostra Signoria. Perciò accettate questo dono e gli altri che saranno consegnati alla vostra nave come investimenti nel vostro successo."
+
+### u046745
+{n}Una moltitudine di voci ti risponde con auguri di buona fortuna, benedizioni, consigli di commiato e parole di rispetto: si sovrappongono nel gridare, ma sono simili nella sincerità. Per un istante senti con particolare chiarezza che probabilmente non rivedrai mai più nessuna di queste persone.{/n}
+
+### u046746
+"Va tutto bene. Siete {mf|stato un generoso elargitore|stata una generosa elargitrice} di mance, quindi non ce la passiamo male. E non solo noi dell'Amasecus... Anche l'organizzazione che rappresento — sapete quale — ha prosperato grazie agli affari con voi. E i miei soci vorrebbero contribuire con i loro investimenti alla vostra spedizione. I rifornimenti vengono caricati nella stiva della vostra nave, e questo è un {d|Encyclopedia:KasballicaRep_Max}dono personale{/d} per voi da parte della Missione Kasballica."
+
+### u046747
+"E per {d|Encyclopedia:DrusiansRep_Max}impegnare il mio aiuto{/d}. Andate senza timore. Il Culto di San Drusus vigilerà sulla fede dei vostri sudditi. Siete uno dei pilastri della fede nella Distesa, e dunque non sarebbe opportuno vedervi partire verso l'empia palude oscura tra le stelle senza un dono. Altre offerte minori saranno consegnate alla vostra nave, così che nulla vi manchi durante il viaggio."
+
+### u046748
+"Quale dono di maggior valore potrei portarvi? La nostra missione forse non è tra i più stretti confidenti della vostra dinastia, eppure {d|Encyclopedia:DrusiansRep_Mid}le vostre azioni sono lodevoli{/d}. E pregheremo per voi nella vostra prossima impresa."
+
+### u046749
+"Sì, Vostra Signoria. Siete {mf|un|una} {d|Encyclopedia:KasballicaRep_Mid}{mf|prezioso|preziosa} partner d'affari{/d}, anche se mi piacerebbe molto portare il nostro rapporto commerciale a un livello di fiducia più alto. Quando tornerete dalla spedizione con i trofei, ricordate che posso offrire il prezzo migliore."
+
+### u046750
+"Ma i miei soci e io speriamo ancora di partecipare alle vostre ricchezze in futuro. Purtroppo Vladaym non è riuscito a {d|Encyclopedia:KasballicaRep_Min}instaurare un solido rapporto d'affari{/d} con Vostra Signoria. Spero che al vostro ritorno voi e io potremo rimediare."
+
+### u046751
+"Affari. È usanza fra la Fellowship of the Void non salutare mai un {d|Encyclopedia:PiratesRep_Max}amico{/d} in partenza per una lunga e pericolosa spedizione senza doni. I rifornimenti vengono caricati sulla tua nave proprio ora, e questo... questo è dalla vecchia Ryzza in persona."
+
+### u046752
+"Solo per augurarti buona fortuna e farti sapere che quando tornerai con la stiva piena di trofei, nessuna nave della Fellowship of the Void proverà ad attaccarti. Noi {d|Encyclopedia:PiratesRep_Mid}rispettiamo{/d} Vostra Signoria."
+
+### u046753
+"Per augurarti buona fortuna. Hai {d|Encyclopedia:PiratesRep_Min}evitato{/d} di fare affari con la Fellowship of the Void, ma... forse in futuro le cose potrebbero cambiare? Quando tornerai con la stiva che scoppia di trofei, mi troverai all'Amasecus. Offro io da bere."
+
+### u046754
+"La Fellowship of the Void è esultatissima di avere la protezione del grande e illustrissimevole Rogue Trader. Mi ha incaricato di portarvi questi modesti doni che vi saranno utili durante la spedizione, oltre a essere un segno della nostra {d|Encyclopedia:PiratesRep_Max}speciale deferenziosità{/d} nei confronti della vostra persona."
+
+### u046755
+"La Fellowship of the Void nutre il {d|Encyclopedia:PiratesRep_Mid}massimissimo rispetto{/d} per ogni accordo che ha mai concluso con Vostra Signoria. Oggi forse non saremo alleati fedelissimi, ma conserviamo la speranza di diventarlo d'ora in avantissimo."
+
+### u046756
+"La Fellowship of the Void spera disperatamente che al vostro ritorno apprezzerete la nostra {d|Encyclopedia:PiratesRep_Min}disponibilità a collaborare e le prospettive{/d} di grande beneficio reciproco che la nostra cooperazione dischiude."
+
+### u046757
+"Gloria all'Imperatore, Rogue Trader. I migliori auguri di prosperità funzionale."
+
+### u046758
+"Vostra Signoria, prima che lasciate Footfall, vorrei presentarvi una {d|Encyclopedia:FleetRep_Max}dichiarazione ufficiale di gratitudine{/d} da parte della mia organizzazione. La Flotta Imperiale stima la Casata von Valancius come leali compagni d'arme: permetteteci dunque di ribadire il nostro grato apprezzamento! Fateci l'onore di accettare una modesta quantità di rifornimenti a sostegno della vostra coraggiosa spedizione."
+
+### u046759
+"Il mio comando mi ha incaricato di farvi sapere che tiene in grande considerazione la nostra alleanza con la Casata von Valancius. Anche se al momento non siamo riusciti a costruire un'alleanza solida, ritiene che in futuro potremo {d|Encyclopedia:FleetRep_Mid}rafforzare i nostri trattati{/d} e portare la luce dell'Imperium nella Distesa. Un giorno."
+
+### u046760
+"Il mio comando si rammarica che non siamo {d|Encyclopedia:FleetRep_Min}mai riusciti a instaurare un rapporto solido{/d} con il vostro protettorato. Ma speriamo di rimediare in futuro."
+
+### u046761
+"Grazie per l'avvertimento, Vostra Signoria."
+
+### u046762
+"Non dubitate della mia memoria, Vostra Signoria. La Casata von Valancius potrà sempre contare su una cospicua percentuale delle entrate della mia organizzazione in segno di gratitudine per il vostro generoso patrocinio."
+
+### u046763
+"Avete sempre saputo come far tifare di cuore per la vostra causa, Lord Capitano. Siate {mf|certo|certa} che la mia organizzazione troverà gli oggetti più rari e speciali da offrire alla vostra considerazione commerciale."
+
+### u046764
+"Tutta la migliore fortuna a Vostra Signoria. E siate vigile."
+
+### u046765
+"Grazie per l'avvertimento, Vostra Signoria. Dopo il processo a Vladaym, non lo trovo proprio un esempio ispiratore. Più passa il tempo, più apprezzo l'opportunità di essere un semplice barista."
+
+### u046766
+"Apprezzo la vostra fiducia nella mia umile persona. Spero che gestire un'organizzazione criminale non sia più complicato che gestire un bar."
+
+### u046767
+"Abbiamo imparato la lezione dai recenti eventi. E quanto a chi non ha imparato la propria, farò in modo che possiate impiccare personalmente quegli sciocchi testardi una volta {mf|tornato|tornata}."
+
+### u046768
+"E per augurarvi che nel vostro viaggio attraverso l'oscurità l'Imperatore vi conceda rivelazioni e {d|Encyclopedia:DrusiansRep_Min}apra il vostro cuore al nostro insegnamento{/d}. Se ciò accadrà, venite da me, e forse deciderete di fare del nostro culto parte della vostra cerchia di amici intimi."
+
+### u046769
+"Spero di sentire una storia o due emozionanti quando tornerete. Terrò da parte una bottiglia di qualcosa di speciale per l'occasione."
+
+### u046770
+"Conserva la fede, giovane von Valancius. La Distesa ha bisogno della tua fede."
+
+### u046771
+"Spero che la clemenza sia una pozione curativa e non una coppa di veleno servita al mio gregge. Ma ho udito le tue parole e le ho impresse nella memoria."
+
+### u046772
+"Queste cicatrici sono bazzecole. Porto segni molto più terribili sul cuore. Sono la mia fede."
+
+### u046773
+"E per promettere che la missione pregherà per voi. Anche se avete scelto di non porre il Culto di San Drusus tra i vostri più stretti confidenti, avete fatto {d|Encyclopedia:DrusiansRep_Mid}generose donazioni{/d} alla nostra causa, e ricorderemo il vostro nome nelle nostre liturgie."

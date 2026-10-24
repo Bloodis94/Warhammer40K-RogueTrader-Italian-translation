@@ -1,0 +1,2435 @@
+### u008967
+Voce
+
+### u008968
+Attendi, sincronizzazione dei dati in corso.
+
+### u008969
+Descrizione
+
+### u008970
+Strategia
+
+### u008971
+Nessun contatto con le colonie
+
+### u008972
+Visita
+
+### u008973
+Decisione del Lord Capitano
+
+### u008974
+Caratteristiche della colonia
+
+### u008975
+Eventi
+
+### u008976
+Richiede la decisione del Lord Capitano
+
+### u008977
+Sarà necessaria la presenza del Lord Capitano
+
+### u008978
+ATTENZIONE: è richiesta la presenza del Lord Capitano su un mondo colonizzato!
+Raggiungi il sistema della colonia e scopri cosa sta accadendo sul pianeta.
+
+### u008979
+I trofei attendono la presenza del Lord Capitano per il trasferimento
+
+### u008980
+La colonia {0} ha iniziato una nuova fase di sviluppo.
+
+### u008981
+Alla gestione della colonia
+
+### u008982
+Un evento della colonia {0} richiede l'attenzione del Lord Capitano
+
+### u008983
+Traguardo di sviluppo
+
+### u008984
+Evento della colonia
+
+### u008985
+Il seguente progetto deve essere completato nel protettorato: {0}
+
+### u008986
+Il seguente progetto deve essere completato nella colonia: {0}
+
+### u008987
+Uno dei progetti è stato completato: {0}
+
+### u008988
+Blocca il progetto: {0}
+
+### u008989
+Costo in Fattore di Profitto: {0}
+
+### u008990
+Reputazione presso {0}
+
+### u008991
+Tutte le colonie
+
+### u008992
+Ritira il trofeo della colonia
+
+### u008993
+Ricompensa della colonia
+
+### u008994
+per tutte le colonie
+
+### u008995
+Trofei
+
+### u008996
+{0} ottiene la caratteristica {1}.
+
+### u008997
+Il seguito del Lord Capitano ottiene la caratteristica {0}.
+
+### u008998
+La nave del vuoto del Lord Capitano ottiene la caratteristica {0}.
+
+### u008999
+La difficoltà della rotta nel warp non può essere superiore a pericolosa.
+
+### u009000
+Costo della rotta
+
+### u009001
+Reputazione presso {0} {1}
+
+### u009002
+Contratto disponibile: {0}
+
+### u009003
+Ricompensa
+
+### u009004
+{0}% eseguito
+
+### u009005
+Evento non concluso
+
+### u009006
+Progetti della colonia
+
+### u009007
+Nella colonia è avvenuto un evento che rimarrà nelle cronache di questo mondo.
+
+### u009008
+È già in corso un altro progetto
+
+### u009009
+In esecuzione
+
+### u009010
+Completato
+
+### u009011
+Progetto
+
+### u009012
+Requisiti del progetto non soddisfatti
+
+### u009013
+Rango
+
+### u009014
+Mostra i progetti esclusi
+
+### u009015
+Mostra i progetti conclusi
+
+### u009016
+Tratti della colonia
+
+### u009017
+Fallimento automatico
+
+### u009018
+Successo automatico
+
+### u009019
+Cambia dimensione
+
+### u009020
+Più è basso il valore del tiro di dado con tutti i modificatori di difficoltà, maggiori sono le probabilità di colpire lungo la linea centrale.
+
+### u009021
+Tiro di direzione
+
+### u009022
+Risultato dell'attacco con arma lancia
+
+### u009023
+Slancio cambiato
+
+### u009024
+Motivo del cambiamento
+
+### u009025
+Modificatore del motivo del cambiamento
+
+### u009026
+Bonus fisso
+
+### u009027
+Perdita base di Slancio
+
+### u009028
+{0}: determinazione
+
+### u009029
+{0}: modificatore del livello di difficoltà del nemico
+
+### u009030
+Costo dell'abilità
+
+### u009031
+Caduta, morto o privo di sensi
+
+### u009032
+Morte del nemico
+
+### u009033
+Inizio del turno
+
+### u009034
+Lesione
+
+### u009035
+Danni reindirizzati
+
+### u009036
+colpi (copertura)
+
+### u009037
+colpi
+
+### u009038
+mancati
+
+### u009039
+{0} colpo della raffica: {1}
+
+### u009040
+Fissa
+
+### u009041
+Sblocca
+
+### u009042
+Mostra creatura
+
+### u009043
+Attacco di opportunità
+
+### u009044
+Combattimento
+
+### u009045
+Registro
+
+### u009046
+Gravemente ferito
+
+### u009047
+Appena ferito
+
+### u009048
+Morto
+
+### u009049
+Ferito
+
+### u009050
+In fin di vita
+
+### u009051
+Illeso
+
+### u009052
+aA bB cC dD eE fF gG hH iI jJ kK lL mM nN oO pP qQ rR sS tT uU vV wW xX yY zZ
+0123456789/*-+!@#$%^&*()_+{}":><?|~
+
+### u009053
+Sei sicuro?
+
+### u009054
+accumulo {0} di {1}
+
+### u009055
+Comprimi
+
+### u009056
+Cursore
+
+### u009057
+Formazione
+
+### u009058
+Non mostrare più questo messaggio
+
+### u009059
+Questo oggetto andrà perso per sempre. Sei sicuro?
+
+### u009060
+Espandi
+
+### u009061
+Noi sviluppatori cerchiamo sempre di migliorare il nostro lavoro. Per farlo, abbiamo bisogno di informazioni che possiamo ottenere solo da te. Inviandoci statistiche di gioco e segnalazioni di bug, puoi aiutarci a capire meglio come giochi e quali difficoltà incontri nel nostro gioco.
+Poiché questo gioco si basa sulle tecnologie Unity, usiamo Unity Analytics per analizzare i dati della tua esperienza di gioco.
+Puoi rinunciare alla raccolta dei dati in qualsiasi momento dal menu delle opzioni.
+Vuoi acconsentire all'invio delle statistiche di gioco?
+Cliccando su "ACCETTA" confermi di aver letto e di accettare i termini del nostro <link="eula">Contratto di licenza con l'utente finale</link> e della nostra <link="pp">Informativa sulla privacy</link>, nonché dell'<link="upp">Informativa sulla privacy di Unity</link>.
+
+### u009062
+[Tieni premuto]
+
+### u009063
+Aumenta
+
+### u009064
+Informazioni
+
+### u009065
+Menu
+
+### u009066
+In pausa
+
+### u009067
+Premi un tasto qualsiasi
+
+### u009068
+Tutti i progressi non salvati andranno persi.
+
+### u009069
+Quotes-paws: " "
+Double quotes: " "
+Single quotes: ' '
+Chinese paws: 《 》
+Chinese double: " "
+Chinese single: ‘ '
+Middle dash (n-dash): –
+Long dash: — Auto-
+formatting hyphens with spaces: -
+Chinese dash: ——
+Auto-formatting ellipsis: ...
+Chinese Ellipsis: ……
+
+### u009070
+Uscire sul desktop?
+
+### u009071
+Tornare al menu principale?
+
+### u009072
+Segnala
+
+### u009073
+Cerca
+
+### u009074
+Seleziona
+
+### u009075
+Salta
+
+### u009076
+[Tieni premuto] Salta
+
+### u009077
+Questa azione non può essere annullata.
+
+### u009078
+Visibilità dell'interfaccia
+
+### u009079
+Riprendi
+
+### u009080
+In attesa degli altri giocatori.
+{0} di {1} confermati.
+
+### u009081
+Avviso
+
+### u009082
+Grazie per aver segnalato un bug!
+
+### u009083
+Aggiungi ai preferiti
+
+### u009084
+Aggiungi sempre alla zona "carico"
+
+### u009085
+Menu contestuale
+
+### u009086
+Declassa lo scafo
+
+### u009087
+Declassa lo sperone
+
+### u009088
+Rimuovi dai preferiti
+
+### u009089
+Potenzia lo scafo
+
+### u009090
+Potenzia lo sperone
+
+### u009091
+Non puoi cambiare i comandi mentre questa interfaccia è attiva
+
+### u009092
+Cambio dei comandi in corso...
+
+### u009093
+Cambia
+
+### u009094
+Gamepad rilevato
+
+### u009095
+Passare ai comandi del gamepad?
+
+### u009096
+Gamepad disconnesso
+
+### u009097
+Passare ai comandi della tastiera?
+
+### u009098
+Premi <b>{console_bind|Confirm}</b> per usare un gamepad o <sprite name="UI_Enter"> per usare una tastiera.
+
+### u009099
+Sei sicuro di voler saltare i titoli di coda?
+
+### u009100
+Cerca nome...
+
+### u009101
+Gruppo successivo
+
+### u009102
+Pagina successiva
+
+### u009103
+Mostra i ruoli
+
+### u009104
+Gruppo precedente
+
+### u009105
+Pagina precedente
+
+### u009106
+Accelera
+
+### u009108
+[Richiede: {0} — {1}]
+
+### u009111
+<color=#67ee70><link="{0}">[{1}: Superata]</link></color> {2}
+
+### u009114
+[Carico pieno richiesto: {0}]
+
+### u009115
+[Oggetto richiesto: {0}]
+
+### u009116
+Carico: {0}
+
+### u009117
+Chiudi il glossario
+
+### u009118
+fallita
+
+### u009119
+[prova di <b>{2}</b> <b><color=#{1}>{0}</color></b>]
+
+### u009120
+Nascondi i voti
+
+### u009121
+Apri il glossario
+
+### u009122
+Sono richiesti tutti i seguenti elementi:
+
+### u009123
+È richiesto almeno uno dei seguenti elementi:
+
+### u009124
+All'ultimo
+
+### u009125
+Mostra i voti
+
+### u009127
+superata
+
+### u009128
+Espansione della storia
+
+### u009129
+Sei sicuro di voler eliminare questo DLC dal tuo dispositivo?
+
+### u009130
+Disponibile per l'acquisto
+
+### u009131
+Questo contenuto è già incorporato nel tuo gioco e non può essere disattivato.
+
+### u009132
+Al momento non puoi cambiare lo stato del DLC
+
+### u009133
+Al momento non puoi cambiare le mod
+
+### u009134
+In arrivo
+
+### u009135
+Contenuti aggiuntivi
+
+### u009136
+Elimina il DLC
+
+### u009137
+Scopri altre fantastiche mod!
+
+### u009138
+Non installato
+
+### u009139
+Download in corso...
+
+### u009140
+DLC
+
+### u009141
+Stato del DLC
+
+### u009142
+Quando avvii una nuova partita, puoi attivare il DLC selezionato. Se avvii una nuova partita con il DLC disattivato, sarà impossibile attivarlo in seguito.
+Per avviare una sessione cooperativa con giocatori che non possiedono determinati DLC, devi disattivare quei DLC.
+
+### u009143
+Installa
+
+### u009144
+DLC attivati
+
+### u009145
+Mod installate
+
+### u009146
+Riavvia il gioco, per favore.
+
+### u009147
+Impostazioni delle mod
+
+### u009148
+Mod
+
+### u009149
+Riavvia il gioco per continuare a giocare con i DLC che hai acquistato.
+
+### u009150
+Stai usando una versione obsoleta della mod.
+
+### u009151
+Attendi il completamento del download.
+
+### u009152
+Nexus Mods
+
+### u009153
+Metti in pausa il video
+
+### u009154
+Riproduci il video
+
+### u009155
+Un'avventura epica del tutto nuova
+
+### u009156
+Acquista
+
+### u009157
+Acquistato
+
+### u009158
+Sei sicuro di voler annullare queste modifiche e tornare al precedente insieme di DLC attivati?
+
+### u009159
+Sei sicuro di voler annullare queste modifiche e tornare al precedente insieme di mod attivate?
+
+### u009160
+Devi riavviare il gioco per applicare queste modifiche.
+Riavviare il gioco ora?
+
+### u009161
+Riavvia
+
+### u009162
+Steam Workshop
+
+### u009163
+Ferma il video
+
+### u009164
+Campagna:
+
+### u009165
+Nuova campagna narrativa
+
+### u009166
+Vai al Nintendo eShop
+
+### u009167
+Contenuti scaricabili
+
+### u009168
+Nintendo eShop
+
+### u009169
+Installato
+
+### u009170
+Attivando questa opzione modificherai la tua partita attuale e i salvataggi successivi.
+
+### u009171
+Non hai ancora nessun DLC attivato.
+
+### u009172
+Non hai ancora nessuna mod installata.
+
+### u009173
+Non possiedi ancora questo DLC
+
+### u009174
+Non possiedi ancora la <b>campagna narrativa {0}</b> di questo DLC
+
+### u009175
+Stai per attivare nuovi contenuti.
+Una volta attivato, il DLC non potrà essere disattivato.
+
+### u009176
+: aggiunto ai mondi della Distesa
+
+### u009177
+Data:
+
+### u009178
+Leggi
+
+### u009179
+Ricevuto il:
+
+### u009180
+Da:
+
+### u009181
+Enciclopedia
+
+### u009182
+La Flotta Esplorativa non ne è a conoscenza
+
+### u009183
+La Flotta Esplorativa ne è a conoscenza
+
+### u009184
+Mondi scoperti sconosciuti alla Flotta Esplorativa
+
+### u009185
+Missioni attive:
+
+### u009186
+Voci attive:
+
+### u009187
+Colonizzato:
+
+### u009188
+Sicurezza: {0}%
+
+### u009189
+Sistema: {0}
+
+### u009190
+vedi nell'enciclopedia
+
+### u009191
+Ai mondi della Distesa
+
+### u009192
+Premi {mouse_icon|LeftMouse} per mostrare questa pagina nell'Enciclopedia
+
+### u009193
+Ombre del Futuro
+
+### u009194
+Non puoi giocare in cooperativa con la modalità Oscurità Truce attivata
+
+### u009195
+DLC e mod
+
+### u009196
+Evento imprevisto
+
+### u009197
+Deposito di carico
+
+### u009198
+Oggetto non identificato
+
+### u009199
+Risorse scoperte
+
+### u009200
+Firma di un oggetto ostile
+
+### u009201
+Spedizione
+
+### u009202
+Anomalia del mondo
+
+### u009203
+Invia
+
+### u009204
+Già esplorato
+
+### u009205
+Avvia la scansione
+
+### u009206
+Sei sicuro di voler annullare la scansione?
+
+### u009207
+Non esplorato
+
+### u009208
+Non disponibile
+
+### u009209
+Risorse:
+
+### u009210
+Nessuna risorsa
+
+### u009211
+Punti di interesse:
+
+### u009212
+Fenomeno celeste
+
+### u009213
+Luogo di atterraggio
+
+### u009214
+Trofeo
+
+### u009215
+Deposito di trofei
+
+### u009216
+Nessun oggetto anomalo da scansionare
+
+### u009217
+L'estrazione di risorse richiede un extractium
+
+### u009218
+Vuoi spegnere l'<b>{text}</b>? Se le risorse estratte sono già state immesse nella rete commerciale, la carenza sarà compensata da una diminuzione del Fattore di Profitto.
+
+### u009219
+Extractium
+
+### u009220
+Risorse estratte
+
+### u009221
+Risorse e minerali
+
+### u009222
+Struttura artificiale
+
+### u009223
+Extractium posizionato
+
+### u009224
+Accetta
+
+### u009225
+Extractium rimosso
+
+### u009226
+Vuoi installare un <b>{text}</b> per iniziare a produrre <b>{description}</b>?
+
+### u009227
+Apparizione del warp
+
+### u009228
+Gli augur hanno rilevato giacimenti di risorse utili!
+
+### u009229
+Discord
+
+### u009230
+Facebook
+
+### u009231
+Sondaggio
+
+### u009232
+Twitter
+
+### u009233
+Cambia
+
+### u009234
+Tieni premuto Shift per muoverti liberamente
+
+### u009235
+Tieni premuto per muoverti liberamente
+
+### u009236
+Formazione del gruppo ottimizzata automaticamente
+
+### u009237
+Reimposta
+
+### u009238
+Formazione non modificabile
+
+### u009239
+{0} è morto!
+
+### u009240
+Cosa sceglierai? Proseguire con onore ed eliminare il salvataggio, oppure continuare la partita rinunciando alla possibilità di ottenere l'obiettivo "There Is Only War..." e una ricompensa speciale?
+
+### u009241
+Continua la partita
+
+### u009242
+Elimina il salvataggio
+
+### u009243
+Il tuo viaggio è finito
+
+### u009244
+La Distesa di Koronus
+
+### u009245
+Oggetti artificiali rilevati
+
+### u009246
+Cambia finestra
+
+### u009247
+Nascondi le risorse
+
+### u009248
+Traccia la rotta
+
+### u009249
+La difficoltà della rotta nel warp determina la probabilità di incontrare nemici
+
+### u009250
+In questo sistema ti attende un combattimento spaziale
+
+### u009251
+Sistemi stellari noti
+
+### u009252
+Non abbastanza
+
+### u009253
+Mondi
+
+### u009254
+Rotta nel warp
+
+### u009255
+Scansiona
+
+### u009256
+Traccia nuove rotte
+
+### u009257
+Alla nave ammiraglia
+
+### u009258
+Centra la visuale sulla nave ammiraglia {0}
+
+### u009259
+Mostra le risorse
+
+### u009260
+Sistema colonizzato
+
+### u009261
+Informazioni sul sistema
+
+### u009262
+<i><b>Premi per ridurre la difficoltà</b></i>
+
+### u009263
+Viaggio nel warp
+
+### u009264
+Viaggia verso {0}{1}[la rotta è {2}]
+
+### u009265
+Questo è un sistema inesplorato.
+
+### u009266
+Riduci la difficoltà della rotta
+
+### u009267
+Riduci a <color=#2EA122><b>sicura</b></color>
+
+### u009268
+Premi <sprite name=LeftMouseBTN> per visitare il sistema
+
+### u009269
+Nelle vicinanze di una voce
+
+### u009270
+Pericolosa
+
+### u009271
+Letale
+
+### u009272
+Sicura
+
+### u009273
+Insicura
+
+### u009274
+Limite del gruppo raggiunto!
+
+### u009275
+Non puoi avere più di un Navigatore nel gruppo.
+
+### u009276
+Non può essere escluso dal gruppo
+
+### u009277
+Cambia set di armi
+
+### u009278
+Termina il turno
+
+### u009279
+Registro di combattimento
+
+### u009280
+Centra sulla nave del vuoto attuale
+
+### u009281
+Centra sul personaggio attuale
+
+### u009282
+Nascondi la barra delle azioni
+
+### u009283
+Evidenzia gli oggetti
+
+### u009284
+Postazioni
+
+### u009285
+Mostra la barra delle azioni
+
+### u009286
+Cambia modalità della telecamera
+
+### u009287
+Abilità attive
+
+### u009288
+Poppa
+
+### u009289
+Armatura di poppa
+
+### u009290
+Armatura di prua
+
+### u009291
+Armatura di babordo
+
+### u009292
+Corazzatura e scudi
+
+### u009293
+Armatura di tribordo
+
+### u009294
+Efficacia della copertura
+
+### u009295
+Probabilità di colpo critico
+
+### u009296
+Quando mette a segno un colpo, c'è una probabilità che l'attacco infligga invece un colpo critico, con danni doppi. Questa probabilità può essere influenzata dall'auspex della nave.
+
+### u009297
+Effetti alleati
+
+### u009298
+Effetti di danni nel tempo
+
+### u009299
+Effetti nemici
+
+### u009300
+Prua
+
+### u009301
+Probabilità di colpire
+
+### u009302
+La probabilità di colpire è determinata dall'<b>auspex</b> della nave ed è ridotta dall'{g|Encyclopedia:EvasionSpace}evasione{/g} del bersaglio.
+
+### u009303
+Nessuna abilità
+
+### u009304
+Nessuna caratteristica
+
+### u009305
+Nessun effetto
+
+### u009306
+Numero
+
+### u009307
+Abilità passive
+
+### u009308
+Scudo di poppa
+
+### u009309
+Scudo di prua
+
+### u009310
+Scudo di babordo
+
+### u009311
+Scudo di tribordo
+
+### u009312
+Integrità dello scafo
+
+### u009313
+Mostra/nascondi il gruppo
+
+### u009314
+Questo elenco non contiene modificatori condizionali
+
+### u009315
+Chiglia
+
+### u009316
+Non puoi modificare questa impostazione se la modalità di antialiasing non è SMAA o TAA
+
+### u009317
+Non puoi modificare questa impostazione se la VSync è attiva o il limite di frame rate non è abilitato.
+
+### u009318
+Non puoi modificare questa impostazione se la VSync è attiva
+
+### u009319
+Non puoi modificare questa impostazione se la modalità FSR è disattivata
+
+### u009320
+Al momento non puoi cambiare la lingua
+
+### u009321
+Non puoi modificare questa impostazione nel menu principale
+
+### u009322
+I comandi del mouse non sono ora disponibili
+
+### u009323
+Non puoi attivare la modalità Oscurità Truce nella tua partita attuale.
+Puoi iniziare una nuova partita con questa opzione attivata.
+
+### u009324
+Seleziona il set di armi
+
+### u009325
+Scegli l'oggetto
+
+### u009326
+Preferiti
+
+### u009327
+Notevoli
+
+### u009328
+Mano principale
+
+### u009329
+Mano secondaria
+
+### u009330
+A una mano
+
+### u009331
+Arma a distanza
+
+### u009332
+Nascondi gli oggetti non indossabili
+
+### u009333
+Mostra/nascondi le caratteristiche
+
+### u009334
+A due mani
+
+### u009335
+Centra la telecamera sul Rogue Trader
+
+### u009336
+Nascondi la legenda
+
+### u009337
+Mostra la legenda
+
+### u009338
+Riduci lo zoom
+
+### u009339
+Aumenta lo zoom
+
+### u009340
+I tuoi trofei sono stati imballati come carico.
+
+### u009341
+Raccogli tutto ed esci
+
+### u009342
+Per lasciare il luogo, raccogli i trofei rimanenti
+
+### u009343
+Raccogli tutto
+
+### u009344
+OGGETTO NON SUPPORTATO
+
+### u009345
+Sei sicuro di voler raccogliere i trofei rimanenti e lasciare questo luogo?
+
+### u009346
+All'inventario
+
+### u009347
+I trofei conservati qui saranno spostati nell'inventario.
+
+### u009348
+Lascia il luogo
+
+### u009349
+Merci
+
+### u009350
+<b>ATTENZIONE</b>: impossibile stabilire le comunicazioni con la nave ammiraglia! Accesso al carico non disponibile.
+
+### u009351
+Gestione del bottino
+
+### u009352
+Caveau
+
+### u009353
+Tutto al carico
+
+### u009354
+Tutto all'inventario
+
+### u009355
+Aggiungi al carico
+
+### u009356
+Aggiungi all'inventario
+
+### u009357
+Aggiungi al caveau
+
+### u009358
+Al carico
+
+### u009359
+I trofei conservati qui saranno depositati nel carico.
+
+### u009360
+Personaggio
+
+### u009361
+Sembra che l'ultima volta il gioco sia andato in crash. Vuoi inviare una segnalazione dell'errore agli sviluppatori?
+
+### u009362
+Sembra che dei file locali danneggiati abbiano causato il crash del gioco durante l'ultimo avvio. Ti consigliamo di verificare l'integrità dei file: https://owlcat.games/how-to-verify-integrity.
+
+### u009363
+Sembra che durante l'ultima sessione il gioco sia andato in crash per mancanza di spazio su disco.
+
+### u009364
+Sembra che l'ultima volta il gioco sia andato in crash a causa di un errore nelle mod che hai installato. Purtroppo in questo caso non possiamo aiutarti. Segnala GameLogFull.txt e GameLogFullPrev.txt allo sviluppatore della mod. Se non usi mod, inviaci una segnalazione del crash all'indirizzo https://owlcat.games/support.
+
+### u009365
+Sembra che l'ultima volta il gioco sia andato in crash per RAM insufficiente, perciò non verrà inviata alcuna segnalazione.
+
+### u009366
+Titoli di coda
+
+### u009367
+L'errore è stato probabilmente causato da file locali danneggiati. Ti consigliamo di verificare l'integrità dei file: https://owlcat.games/how-to-verify-integrity.
+
+### u009368
+Spazio su disco insufficiente.
+
+### u009369
+Esci
+
+### u009370
+Sali di livello
+
+### u009371
+Licenza
+
+### u009372
+Carica partita
+
+### u009373
+Cordiali saluti,
+Owlcats
+
+### u009374
+Nuova partita
+
+### u009375
+Impostazioni
+
+### u009376
+Gestione della nave del vuoto
+
+### u009377
+Avanzamento di livello della nave ammiraglia
+
+### u009378
+Impossibile cambiare regione. Riprova più tardi.
+
+### u009379
+Impossibile creare la lobby. Controlla la tua connessione a internet e riprova. Codice di errore:
+
+### u009380
+Autenticazione al servizio non riuscita. Controlla la tua connessione a internet e riprova.
+
+### u009381
+Autenticazione al servizio scaduta. Controlla la tua connessione a internet e riprova.
+
+### u009382
+Si è verificato un errore interno.
+
+### u009383
+Impossibile connettersi alla lobby. Assicurati che la lobby esista ancora. Codice di errore:
+
+### u009384
+La lobby a cui stai cercando di unirti è piena.
+
+### u009385
+Lobby non trovata. Assicurati che la lobby esista ancora.
+
+### u009386
+Per giocare in cooperativa devi avere un abbonamento PlayStation Plus attivo.
+
+### u009387
+Disconnesso dal server. Controlla la tua connessione a internet.
+
+### u009388
+Impossibile inizializzare PlayStation™Network. Riprova più tardi.
+
+### u009389
+Salvataggio non trovato. Riprova più tardi.
+
+### u009390
+Impossibile scaricare i dati di salvataggio. Controlla la tua connessione a internet e riprova.
+
+### u009391
+L'host del salvataggio si è disconnesso.
+
+### u009392
+Errore nell'invio dei dati al server. Controlla la tua connessione a internet.
+
+### u009393
+Impossibile inizializzare il servizio della piattaforma. Riprova più tardi.
+
+### u009394
+Ops, qualcosa è andato storto! Inviaci una segnalazione del bug o riprova più tardi.
+
+### u009395
+Nella lobby c'è un giocatore che hai bloccato: {0}
+
+### u009396
+Attenzione: sono in uso modifiche di terze parti (mod)! Potresti riscontrare dei crash o non riuscire a giocare in modalità cooperativa.
+
+### u009397
+Non puoi selezionare nessuno dei tuoi salvataggi perché tutti contengono DLC ({0}) che {1} non possiede.
+Devi creare un nuovo salvataggio senza questi DLC per invitare {1} a una sessione di gioco cooperativa.
+
+### u009398
+Non puoi unirti alla lobby a causa delle impostazioni sulla privacy.
+
+### u009399
+Scegli il salvataggio
+
+### u009400
+Attendi che il capogruppo scelga un salvataggio
+
+### u009401
+Connessione in corso...
+
+### u009402
+Per unirsi alla lobby è richiesto il codice della lobby.
+
+### u009403
+La regione cooperativa deve essere la stessa per tutti i partecipanti alla sessione.
+
+### u009404
+Ver. coop.
+
+### u009405
+Versione cooperativa. Deve essere la stessa per tutti i partecipanti alla sessione.
+
+### u009406
+Copia
+
+### u009407
+L'ID della lobby è stato copiato.
+
+### u009408
+Crea una lobby
+
+### u009409
+È stata rilevata una desincronizzazione.
+Aprire la finestra "modalità cooperativa" per riavviare il gioco?
+
+### u009410
+Disconnetti
+
+### u009411
+Elenco dei DLC
+
+### u009412
+Condiviso dal capogruppo
+
+### u009413
+Nascondi il codice della lobby
+
+### u009414
+L'host non ha DLC.
+
+### u009415
+Elenco dei DLC dell'host
+
+### u009416
+Puoi premere {console_bind|Confirm} per evidenziare abilità e consumabili nel pannello in fondo allo schermo, oppure le scelte nei dialoghi e negli eventi a libro, per mostrare agli altri membri del gruppo quale opzione vorresti scegliere. Per altri oggetti, come le caselle sul campo di battaglia, i modelli delle creature o gli oggetti sulla mappa, usa {console_bind|LeftUp}+{console_bind|Confirm}.
+
+### u009417
+Puoi segnalare qualcosa ai tuoi compagni usando {console_bind|LeftUp}+{console_bind|Confirm}.
+
+### u009418
+Puoi premere <sprite name="UI_LeftMouseBTN"> per evidenziare abilità e consumabili nel pannello in fondo allo schermo, oppure le scelte nei dialoghi e negli eventi a libro, per mostrare agli altri membri del gruppo quale opzione vorresti scegliere. Per altri oggetti, come le caselle sul campo di battaglia, i modelli delle creature o gli oggetti sulla mappa, usa ALT + <sprite name="UI_LeftMouseBTN">.
+
+### u009419
+Puoi segnalare qualcosa ai tuoi compagni usando ALT sinistro + <sprite name="UI_LeftMouseBTN">.
+
+### u009420
+Come si gioca
+
+### u009421
+Al momento non è possibile avviare una partita cooperativa
+
+### u009422
+Chi può invitare
+
+### u009423
+Invita un amico da Epic Games
+
+### u009424
+Accettare l'invito?
+
+### u009425
+Invita giocatore
+
+### u009426
+Giocatori insufficienti per la modalità cooperativa.
+
+### u009427
+Chi può unirsi
+
+### u009428
+Unisciti alla lobby
+
+### u009429
+Inserisci l'ID della lobby
+
+### u009430
+Sei stato espulso dalla lobby.
+
+### u009431
+Espelli giocatore
+
+### u009432
+Espellere <b>{0}</b> dalla lobby?
+
+### u009433
+L'ultimo giocatore ha lasciato la sessione cooperativa.
+
+### u009434
+Avvia
+
+### u009435
+oppure
+Premi {0} per creare un salvataggio dalla tua partita attuale e usarlo automaticamente per il multigiocatore.
+
+### u009436
+Disconnettersi dalla sessione cooperativa attuale e chiudere la lobby?
+
+### u009437
+Per avviare una partita cooperativa è necessario un salvataggio. Se non ci sono salvataggi, avvia il gioco in modalità giocatore singolo e crea un personaggio. Dopo il video introduttivo, scegli "modalità cooperativa" nelle impostazioni.
+
+### u009438
+Modalità cooperativa
+
+### u009439
+{0} si sta unendo alla lobby e attende il riavvio della sessione di gioco.
+
+### u009440
+{0} si è unito alla lobby.
+
+### u009441
+Questa azione non è disponibile in modalità cooperativa.
+
+### u009442
+Incolla l'ID della lobby
+
+### u009443
+Questo giocatore non ha nessun DLC
+
+### u009444
+{0} ha lasciato la sessione di gioco.
+
+### u009445
+Riconnetti
+
+### u009446
+regione
+
+### u009447
+Reimposta il salvataggio selezionato
+
+### u009448
+Seleziona i giocatori
+
+### u009449
+Seleziona la regione
+
+### u009450
+Mostra la scheda del profilo
+
+### u009451
+Mostra il codice della lobby
+
+### u009452
+Seleziona il gamertag
+
+### u009453
+Accedi all'account Epic Games
+
+### u009454
+Al momento la sovrapposizione dello store in-game non è disponibile. Usa il codice della lobby per giocare in cooperativa.
+
+### u009455
+Deseleziona i giocatori
+
+### u009456
+Chiunque
+
+### u009457
+Amici
+
+### u009458
+Amici di amici
+
+### u009459
+Capogruppo
+
+### u009460
+Nessuno
+
+### u009461
+Solo il Rogue Trader ha il diritto di compiere questa azione.
+
+### u009462
+Questo giocatore non ha gli stessi DLC dell'host. L'elenco dei salvataggi sarà limitato a quelli senza conflitti di DLC.
+
+### u009463
+Ora sei il capogruppo
+
+### u009464
+Assegnazione dei personaggi
+
+### u009465
+Nessun personaggio giocabile assegnato
+
+### u009466
+La scelta di questa difficoltà è sconsigliata ai giocatori che non conoscano già il sistema di Rogue Trader e la sua implementazione in questo gioco.<br>Confermi la tua scelta?
+
+### u009467
+Crea un nuovo personaggio
+
+### u009468
+Crea da zero il tuo Rogue Trader. Il dettagliato processo di personalizzazione ti permette di scegliere chi era il tuo personaggio prima di iniziare l'avventura. Con un'ampia varietà di opzioni, puoi determinarne l'aspetto, le caratteristiche e le capacità di combattimento.
+
+### u009469
+Raccogli il mantello di un Rogue Trader, il rampollo di un'antica dinastia di audaci corsari che regnano sul loro protettorato commerciale ed esplorano i margini della galassia conosciuta. L'oscurità incombe sul lignaggio dei von Valancius, che deve affrontare molteplici minacce, dall'interno delle proprie file e dall'esterno, mentre innumerevoli nemici cercano di distruggere gli agenti più audaci e coraggiosi dell'Umanità. Spetta a te prendere le redini di questo protettorato in frantumi e tracciare una nuova strada per la dinastia dei von Valancius, che si ritrova ora in un vortice di guerre, intrighi, calamità ed eresia. La posta in gioco è alta e cresce ancora di più quando incroci la strada di avversari terribilmente potenti e ambiziosi nell'oscurità della Distesa di Koronus.
+
+### u009470
+Altre modalità narrative arriveranno presto
+
+### u009471
+Scenario
+
+### u009472
+Pulsante destro del mouse
+
+### u009473
+Rotellina di scorrimento
+
+### u009474
+Pulsante sinistro del mouse
+
+### u009475
+Stacca il <nobr>Joy-Con 2 (R)</nobr> dalla tua <nobr>Nintendo Switch 2</nobr> per attivare i comandi del mouse. Appoggia il sensore del mouse a faccia in giù su una superficie piana e fai scorrere il <nobr>Joy-Con 2 (R)</nobr> per usarlo come un mouse.
+
+### u009476
+<nobr>Nintendo Switch 2</nobr>
+
+### u009477
+<b>{1}</b> ha ottenuto l'abilità <b>{0}</b>.
+
+### u009478
+<b>{1}</b> ha ottenuto l'effetto <b>{0}</b>, durata: <b>{2}</b>.
+
+### u009479
+<b>Carico acquisito</b>: {0}
+
+### u009480
+<b>Carico rimosso</b>: {0}
+
+### u009481
+Ricompensa della colonia ottenuta: <b>{0}</b>
+
+### u009482
+Danni subiti: {0}
+
+### u009483
+<b>Reputazione di fazione persa</b>: {0}
+
+### u009484
+<b>Reputazione di fazione ottenuta</b>: {0}
+
+### u009485
+Hai perso uno sconto di {0} FP sugli oggetti della fazione {1}.
+
+### u009486
+Hai ottenuto uno sconto di {0} FP sugli oggetti della fazione {1}.
+
+### u009487
+Fattore di Profitto ottenuto: <b>{0}</b>.
+
+### u009488
+<b>Oggetti persi</b>: {0}
+
+### u009489
+<b>Oggetti ricevuti</b>: {0}
+
+### u009490
+Fattore di Profitto perso: <b>{0}</b>.
+
+### u009491
+Intuizione del Navigatore ottenuta: <b>{0}</b>
+
+### u009492
+Intuizione del Navigatore persa: <b>{0}</b>
+
+### u009494
+La nave del vuoto ha subito danni: {0}
+
+### u009495
+<b>Ottenuti {0} punti esperienza</b>
+
+### u009496
+Disponibile
+
+### u009497
+Richiesto
+
+### u009498
+Collega
+
+### u009499
+Collega tutto
+
+### u009500
+Scollega
+
+### u009501
+Scollega tutto
+
+### u009502
+Prerequisiti
+
+### u009503
+Riscatta le tue ricompense
+
+### u009504
+Collega il tuo account
+
+### u009505
+Vedi gli altri ranghi
+
+### u009506
+Talento ottenuto
+
+### u009507
+Il {g|Encyclopedia:ProfitFactorFullGlossary}Fattore di Profitto{/g} rappresenta il valore relativo del Mandato di Commercio del Rogue Trader e le opportunità e le risorse a cui può attingere.
+
+### u009508
+Entrate
+
+### u009509
+Iniziale
+
+### u009510
+Perdita
+
+### u009511
+Il Fattore di Profitto non è ancora cambiato
+
+### u009512
+{0} <sprite=0 color=#C6FEBE> Fattore di Profitto ottenuto
+
+### u009513
+{0} <sprite=0 color=#C6FEBE> Fattore di Profitto perso
+
+### u009514
+Progetto della colonia: {0}
+
+### u009515
+Evento della colonia: {0}
+
+### u009516
+Contratto: {0}
+
+### u009517
+Cronaca della colonia: {0}
+
+### u009518
+Carenza di risorse: {0}
+
+### u009519
+Colonia fondata: {0}
+
+### u009520
+Reclutamento di mercenari
+
+### u009521
+Azzera i progressi
+
+### u009522
+Valore totale
+
+### u009523
+Tutte le voci
+
+### u009524
+Completa il contratto
+
+### u009525
+Nascondi le missioni completate
+
+### u009526
+NESSUN DATO
+
+### u009527
+Nessun {0} disponibile.
+
+### u009528
+Risorse disponibili
+
+### u009529
+Completata
+
+### u009530
+Fallita
+
+### u009531
+Prossimo sviluppo tra {0}
+
+### u009532
+Fallirà tra {0}
+
+### u009533
+Spese
+
+### u009534
+Profitto
+
+### u009535
+Ti trovi nelle vicinanze del luogo di questa voce.
+
+### u009536
+Voci sulla dinastia von Valancius
+
+### u009537
+Mostra le missioni completate
+
+### u009538
+Ti trovi nelle vicinanze di una voce
+
+### u009539
+completata
+
+### u009540
+Nuova
+
+### u009541
+contratto
+
+### u009542
+rimandata
+
+### u009543
+missione
+
+### u009544
+Missione completata
+
+### u009545
+Missione fallita
+
+### u009546
+Nuova missione
+
+### u009547
+In corso
+
+### u009548
+Aggiornamento della missione
+
+### u009549
+voce
+
+### u009550
+aggiornata
+
+### u009551
+Sei sicuro di voler eliminare tutti i salvataggi di questo gruppo?
+
+### u009552
+Sei sicuro di voler eliminare questo personaggio?
+
+### u009553
+Non puoi caricare questo salvataggio in modalità Oscurità Truce
+
+### u009554
+Non puoi caricare un salvataggio con la modalità Oscurità Truce attivata in una partita cooperativa
+
+### u009555
+(Clicca per modificare)
+
+### u009556
+Confermare il caricamento rapido?
+
+### u009557
+Elimina il personaggio
+
+### u009558
+Elimina
+
+### u009559
+Eliminare il salvataggio ''{0}''?
+
+### u009560
+Non tutti i DLC sono ancora stati caricati
+
+### u009561
+DLC richiesto
+
+### u009562
+L'elenco dei salvataggi è vuoto
+
+### u009563
+In gioco: {0}
+
+### u009564
+Carica
+
+### u009565
+Caricamento del salvataggio ''{0}''.
+La partita non salvata andrà persa.
+Continuare?
+
+### u009566
+Sovrascrivere il salvataggio esistente?
+
+### u009567
+Rinomina il salvataggio
+
+### u009568
+<i>(Clicca per modificare)</i>
+
+### u009569
+Nuovo salvataggio
+
+### u009570
+Salvataggio in modalità Oscurità Truce
+
+### u009571
+Non puoi salvare manualmente la partita in modalità Oscurità Truce
+
+### u009572
+Salvataggio automatico
+
+### u009573
+Modalità Oscurità Truce
+
+### u009574
+Salvataggio rapido
+
+### u009575
+Mostra la schermata
+
+### u009576
+Stai caricando un salvataggio con la modalità Oscurità Truce attivata. In questa modalità non potrai salvare la partita manualmente.
+
+### u009577
+Stai caricando un salvataggio senza la modalità Oscurità Truce. I progressi compiuti in questa modalità verranno salvati automaticamente.
+
+### u009578
+Nella truce oscurità del lontano futuro, esiste solo la guerra.
+
+### u009579
+Sei sicuro di voler disattivare la modalità Oscurità Truce?
+Nella tua partita attuale sarà impossibile riattivarla in seguito.
+
+### u009580
+Sei sicuro di voler attivare la modalità <b>Oscurità Truce</b>?
+In questa modalità i salvataggi manuali non saranno disponibili. Se il tuo gruppo o la tua nave del vuoto verrà sconfitto in battaglia, il tuo viaggio <b>Oscurità Truce</b> finirà.
+
+### u009581
+Annulla
+
+### u009582
+Annullare tutte le impostazioni in {0}?
+
+### u009583
+Conferma l'azione
+
+### u009584
+Rifiuta l'azione
+
+### u009585
+Naviga in basso
+
+### u009586
+Naviga a sinistra
+
+### u009587
+Naviga a destra
+
+### u009588
+Naviga in alto
+
+### u009589
+Funzione aggiuntiva 1
+
+### u009590
+Funzione aggiuntiva 2
+
+### u009591
+Funzione aggiuntiva 3
+
+### u009592
+Selezione del personaggio
+
+### u009593
+Controllo del personaggio
+
+### u009594
+Precedente
+
+### u009595
+Opzioni
+
+### u009596
+<color=#777876>Segnalazione nella versione cooperativa </color> <b>{console_bind|LeftUp}</b><color=#A09F5F>+</color><b>{console_bind|Confirm}</b>
+
+### u009597
+<color=#777876>Evidenzia scelte, abilità e consumabili</color>
+
+### u009598
+<color=#777876>Evidenzia caselle, oggetti, creature, ecc.</color> <b>{console_bind|LeftUp}</b><color=#A09F5F>+</color><b>{console_bind|Confirm}</b>
+
+### u009599
+Menu di gioco
+
+### u009600
+Controllo della telecamera
+
+### u009601
+Predefinito
+
+### u009602
+Sei sicuro di voler eliminare i tuoi dati statistici?
+
+### u009603
+No
+
+### u009604
+OK
+
+### u009605
+Ripristina
+
+### u009606
+Sì
+
+### u009607
+Luci
+
+### u009608
+Mezzitoni
+
+### u009609
+Ombre
+
+### u009610
+Tieni premuto per terminare la configurazione
+
+### u009611
+In questa modalità i salvataggi manuali non saranno disponibili, e la morte del personaggio del giocatore o la sconfitta della nave del vuoto porteranno alla fine della partita.
+
+### u009612
+Il tasto rapido è in uso e non può essere assegnato.
+
+### u009613
+Conferma
+
+### u009614
+Navigazione
+
+### u009615
+Ripristina i valori predefiniti
+
+### u009616
+Alcune modifiche verranno applicate al prossimo avvio del gioco. Riavviare il gioco ora? Tutti i progressi non salvati andranno persi!
+
+### u009617
+Ripristinare i valori predefiniti di tutte le impostazioni in {0}?
+
+### u009618
+Salvare tutte le impostazioni modificate in {0}?
+
+### u009619
+Accessibilità
+
+### u009620
+Comandi
+
+### u009621
+Schermo
+
+### u009622
+Gioco
+
+### u009623
+Lingua
+
+### u009624
+Audio
+
+### u009625
+Mostra
+
+### u009626
+Valore
+
+### u009627
+Tutte le caratteristiche
+
+### u009628
+Già potenziato
+
+### u009629
+Livello massimo di potenziamento raggiunto
+
+### u009630
+Assegna alla postazione
+
+### u009631
+Corazzatura
+
+### u009632
+La corazzatura blocca una parte dei danni in arrivo.
+
+### u009633
+Arsenali
+
+### u009634
+Potenzia
+
+### u009635
+Abilità migliorata
+
+### u009636
+Potenziamento fallito: l'integrità dello scafo è danneggiata
+
+### u009637
+Condizioni di potenziamento non soddisfatte
+
+### u009638
+Potenziamento riuscito
+
+### u009639
+Aggiuntivo
+
+### u009640
+Potenziamento disponibile
+
+### u009641
+Impossibile declassare
+
+### u009642
+Armamento non corretto
+
+### u009643
+Impossibile potenziare
+
+### u009644
+Può essere potenziato
+
+### u009645
+Competenze del personaggio disponibili quando assegnato a una postazione
+
+### u009646
+Rottami necessari per il prossimo livello di potenziamento
+
+### u009647
+Personaggio attualmente alla postazione
+
+### u009648
+Livello di potenziamento attuale
+
+### u009649
+Declassato
+
+### u009650
+Motore
+
+### u009651
+Uno o più ufficiali hanno una penalità
+
+### u009652
+Componenti
+
+### u009653
+Sviluppo
+
+### u009654
+Livello minimo
+
+### u009655
+Nessun ufficiale assegnato alla postazione
+
+### u009656
+Ufficiale comune
+
+### u009657
+Nessuna abilità speciale
+
+### u009658
+Rottami insufficienti
+
+### u009659
+Nessun componente disponibile
+
+### u009660
+Il vuoto non può essere esplorato senza un motore!
+
+### u009661
+Durata
+
+### u009662
+Durata dell'abilità
+
+### u009663
+Ritardo
+
+### u009664
+Ritardo di attivazione dell'abilità
+
+### u009665
+Sperone
+
+### u009666
+Bonus ai danni
+
+### u009667
+Danni aggiuntivi inflitti con lo sperone della nave del vuoto
+
+### u009668
+Riduzione dei danni
+
+### u009669
+Riduzione dei danni subiti speronando un'altra nave del vuoto.
+
+### u009670
+Rimuovi dalla postazione
+
+### u009671
+Ripara
+
+### u009672
+Se lo scafo della nave ammiraglia è danneggiato, usa i rottami per ripararlo.
+
+### u009673
+Tempo di ricarica (round)
+
+### u009674
+round prima di usare l'abilità suprema
+
+### u009675
+Metallo e pezzi di ricambio che possono essere usati per riparare la nave.
+
+### u009676
+Personaggio selezionato
+
+### u009677
+Un indicatore della potenza complessiva della nave ammiraglia dei von Valancius: l'efficienza delle sue postazioni di combattimento, la robustezza dello scafo e la forza delle sue armi. Prevalere sui nemici nelle battaglie spaziali fa salire di livello la nave ammiraglia, migliorandone i parametri e sbloccando nuove abilità, miglioramenti delle postazioni e potenziamenti dei componenti.
+
+### u009678
+Integrità dello scafo: nessun danno
+
+### u009679
+Armi della nave del vuoto
+
+### u009680
+Competenza richiesta
+
+### u009681
+Posizione originale
+
+### u009682
+Abilità suprema non disponibile
+
+### u009683
+Potenziato
+
+### u009684
+Aumenta l'integrità dello scafo.
+
+### u009685
+Aumenta i danni dello sperone e riduce i danni subiti speronando un'altra nave del vuoto.
+
+### u009686
+Usa una volta l'abilità attuale
+
+### u009687
+ESP
+
+### u009688
+contro
+
+### u009689
+Tira d100
+
+### u009690
+Risultato del tiro
+
+### u009691
+Prova di competenza
+
+### u009692
+Probabilità
+
+### u009693
+Valore della competenza
+
+### u009694
+Torna al ponte di comando
+
+### u009695
+Hai {0} PM
+
+### u009696
+Equipaggio
+
+### u009697
+La battaglia è finita
+
+### u009698
+Valutazione militare
+
+### u009699
+Questa postazione sovrintende all'equipaggio e impartisce ordini alle altre postazioni.
+
+### u009700
+COMANDANTE SUPREMO
+
+### u009701
+Questa postazione gestisce l'artiglieria di bordo.
+
+### u009702
+MAESTRO CANNONIERE
+
+### u009703
+Questa postazione gestisce i vari sistemi tecnici della nave, compresi gli scudi del vuoto.
+
+### u009704
+MAESTRO DEGLI SCUDI
+
+### u009705
+Questa postazione sovrintende all'esecuzione dei movimenti e delle manovre della nave.
+
+### u009706
+MAESTRO DELLE MANOVRE
+
+### u009707
+Questa postazione esegue varie abilità warp.
+
+### u009708
+CANALIZZATORE DEL WARP
+
+### u009709
+Questa postazione analizza gli augur e i sistemi vox della nave, sempre vigile in cerca di tracce del warp.
+
+### u009710
+MAESTRO DELL'ETERE
+
+### u009711
+La nave ammiraglia deve completare il suo movimento lungo la traiettoria indicata!
+
+### u009712
+Trib.
+
+### u009713
+Round rimasti
+
+### u009714
+Numero di round rimanenti
+
+### u009715
+Autodistruzione
+
+### u009716
+{0} esplorato
+
+### u009717
+Colonizzato
+
+### u009718
+Non colonizzato
+
+### u009719
+Punti di interesse rilevati
+
+### u009720
+Riparazione dello scafo {0}<sprite=0>
+
+### u009721
+Recuperare {0} punti di integrità dello scafo usando <color=#B4DA9F>{1}</color><sprite=0> unità di rottami?
+
+### u009722
+Riparazione dello scafo
+
+### u009723
+È richiesta una scansione
+
+### u009724
+Integrità dello scafo
+
+### u009725
+Lo scafo è riparato
+
+### u009726
+Servono rottami per riparare
+
+### u009727
+Accetto
+
+### u009728
+Sei sicuro di voler rifiutare il contratto e uscire dal gioco?
+
+### u009729
+Rifiuto
+
+### u009730
+<b>CONTRATTO DI LICENZA CON L'UTENTE FINALE PER L'USO DEL SOFTWARE DAL TITOLO "WARHAMMER 40,000: ROGUE TRADER"</b>
+
+### u009731
+<uppercase><size=115%><b>CLUF DI "WARHAMMER 40,000: ROGUE TRADER"</b></size></uppercase>
+<b>AVVISI IMPORTANTI</b>
+LEGGI ATTENTAMENTE IL SEGUENTE CONTRATTO DI LICENZA CON L'UTENTE FINALE ("CLUF") PRIMA DI SCARICARE, INSTALLARE O USARE IL GIOCO "WARHAMMER 40,000: ROGUE TRADER" O QUALSIASI SOFTWARE CORRELATO (collettivamente, il "GIOCO"). SE NON SEI D'ACCORDO CON TUTTI I TERMINI DEL PRESENTE CLUF, NON PUOI INSTALLARE O USARE IL GIOCO.
+SCARICANDO, INSTALLANDO E/O GIOCANDO AL GIOCO, RICONOSCI E ACCETTI DI AVER RAGGIUNTO LA MAGGIORE ETÀ NEL TUO PAESE DI RESIDENZA. SE NON HAI RAGGIUNTO LA MAGGIORE ETÀ, DEVI OTTENERE IL CONSENSO NECESSARIO DA PARTE DEL TUO GENITORE O TUTORE LEGALE PRIMA DI ACCEDERE AL GIOCO O USARLO.
+IL PRESENTE CLUF DEVE ESSERE LETTO INSIEME ALLA NOSTRA INFORMATIVA SULLA PRIVACY, DISPONIBILE ALL'INDIRIZZO https://owlcat.games/privacy, CHE NE COSTITUISCE PARTE INTEGRANTE.
+LA VERSIONE INGLESE DI QUESTO DOCUMENTO È L'UNICA VERSIONE ORIGINALE E PREVARRÀ IN CASO DI DIFFERENZE, DUBBI O CONTROVERSIE RIGUARDANTI IL SIGNIFICATO, LA FORMA, LA VALIDITÀ O L'INTERPRETAZIONE.
+Il presente CLUF è un contratto legale tra te (<b>"tu"</b>), persona fisica, e Owlcat Games Ltd. (<b>"noi"</b>, <b>"ci"</b>, <b>"nostro"</b>), società costituita e operante ai sensi delle leggi della Repubblica di Cipro, con numero di registrazione HE 398803 e sede legale in Irodi Attikou, 8A, Lakatamia, 2332, Nicosia, Cipro, relativo al tuo utilizzo del Gioco. Quando il Gioco è fornito tramite una piattaforma di terze parti, sei l'unico responsabile di garantire che il tuo utilizzo di tale piattaforma sia conforme alle sue politiche e ai suoi accordi. Tieni presente che potremmo essere tenuti a modificare il presente CLUF per rispettare i requisiti delle piattaforme di terze parti.
+<b>1. CONCESSIONE DELLA LICENZA</b>
+1.1 <indent=3%><b>Licenza concessa.</b> Con il presente documento ti concediamo una licenza personale, limitata, non esclusiva, revocabile e non trasferibile per scaricare, installare, conservare, eseguire e usare il Gioco:</indent>
+<indent=4%>•</indent> <indent=5%><b>Personale:</b> significa che puoi usare il Gioco solo sul tuo dispositivo personale e solo per scopi non commerciali; </indent>
+<indent=4%>•</indent> <indent=5%><b>Limitata:</b> significa che puoi usare il Gioco solo nei modi previsti dal presente CLUF, e non ti concediamo alcun diritto sull'uso del Gioco, salvo i diritti espressamente indicati nel presente CLUF;</indent>
+<indent=4%>•</indent> <indent=5%><b>Non esclusiva:</b> significa che possiamo concedere la stessa licenza o qualsiasi altra licenza ad altri;</indent>
+<indent=4%>•</indent> <indent=5%><b>Revocabile:</b> significa che possiamo risolvere il presente CLUF secondo quanto previsto dalla sezione 8.2;</indent>
+<indent=4%>•</indent> <indent=5%><b>Non trasferibile:</b> significa che solo tu puoi usare il Gioco, e non puoi cedere, trasferire o concedere in sublicenza a nessun'altra persona i diritti e la licenza che ti sono forniti ai sensi del presente CLUF.</indent>
+1.2 <indent=3%><b>Uso consentito.</b> Nel rispetto del presente CLUF, hai il diritto di trasmettere in streaming, registrare e pubblicare contenuti video del gameplay del Gioco, per scopi commerciali e non commerciali. Per evitare dubbi, hai il diritto di includere pubblicità in tali contenuti video in streaming o registrati e di monetizzare altrimenti tali contenuti con i mezzi consentiti dai rispettivi siti web di streaming o di condivisione video. Possiamo revocare questo diritto in qualsiasi momento.</indent>
+1.3 <indent=3%><b>Territorio.</b> Puoi usare il Gioco in tutto il mondo, salvo che non stabiliamo diversamente sul nostro sito web <b>https://owlcat.games/</b>, all'interno del Gioco o con qualsiasi altro mezzo a nostra discrezione.</indent>
+<b>2. LIMITAZIONI DELLA LICENZA</b>
+2.1 <indent=3%>Possiamo sospendere o revocare la licenza che ti è stata concessa ai sensi del presente CLUF se violi, o aiuti altri a violare, le seguenti limitazioni della licenza:</indent>
+<indent=4%>•</indent> <indent=5%><b>Divieto di trasferimento:</b> ti è vietato vendere, rivendere, distribuire, noleggiare, concedere in sublicenza, concedere in locazione o trasferire in qualsiasi altro modo il Gioco o sue copie, in tutto o in parte, a terzi;</indent>
+<indent=4%>•</indent> <indent=5%><b>Divieto di opere derivate:</b> ti è vietato creare opere derivate basate sul Gioco;</indent>
+<indent=4%>•</indent> <indent=5%><b>Divieto di modifiche o di decompilazione:</b> salvo quanto previsto dalla sezione 2.2 qui sotto, ti è vietato alterare, unire, adattare, decompilare, decodificare, sottoporre a decompilazione inversa, disassemblare, modificare, tradurre in altre lingue o in qualsiasi modo cambiare il Gioco o uno qualsiasi dei suoi componenti;</indent>
+<indent=4%>•</indent> <indent=5%><b>Divieto di hacking o di imbroglio:</b> ti è vietato intraprendere, agevolare o promuovere qualsiasi attività non autorizzata che comprometta l'integrità, la sicurezza o il funzionamento del Gioco, compresi, a titolo esemplificativo, l'hacking, l'imbroglio o lo sfruttamento di vulnerabilità nel codice del Gioco.</indent>
+<indent=4%>•</indent> <indent=5%><b>Divieto di modificare le informazioni sul copyright o i marchi:</b> ti è vietato falsificare, rimuovere o disconnettere qualsiasi informazione sul copyright; in particolare i riferimenti all'autore, le conferme legali del copyright o qualsiasi altro messaggio o istruzione, nonché qualsiasi nota sull'origine o sulla fonte del software o di altri contenuti; ti è vietato rimuovere i marchi.</indent>
+2.2 <indent=3%><b>Mod.</b> Se desideri compiere una qualsiasi delle azioni descritte nella sezione "Divieto di modifiche o di decompilazione" qui sopra, contattaci per ottenere l'approvazione all'indirizzo <b>mod@owlcat.games</b>. Tieni presente che apprezziamo molto il contributo che potresti dare al Gioco. Tuttavia, ci riserviamo il diritto di esaminare ogni richiesta e, a nostra esclusiva discrezione, di accettarla o respingerla se necessario. Tieni presente che l'approvazione può essere concessa solo se accetti (a) di non causare né permettere la vendita o altra distribuzione commerciale o sfruttamento commerciale delle modifiche da te presentate e (b) di concederci una licenza non esclusiva, mondiale, esente da royalty, sublicenziabile e trasferibile (i) per usare, riprodurre, distribuire, preparare opere derivate, mostrare, eseguire e altrimenti sfruttare in qualsiasi modo le modifiche da te realizzate, o qualsiasi loro parte, nel Gioco nonché tramite qualsiasi mezzo ora noto o sviluppato in seguito, e (ii) per pubblicizzare, commercializzare e promuovere le stesse.</indent>
+<b>3. REQUISITI DI SISTEMA E TECNICI</b>
+3.1 <indent=3%>Puoi trovare i requisiti di sistema minimi e consigliati del dispositivo per un uso corretto del Gioco sui siti web ufficiali delle piattaforme di terze parti da cui acquisti o accedi al Gioco. </indent>
+3.2 <indent=3%>A causa di potenziali modifiche e miglioramenti di programmazione, i requisiti di sistema minimi e consigliati del dispositivo per il Gioco possono cambiare nel tempo e il Gioco potrebbe non essere più disponibile su alcuni dispositivi.</indent>
+<b>4. AGGIORNAMENTI AUTOMATICI DEL GIOCO</b>
+4.1 <indent=3%>In qualsiasi momento, a nostra discrezione e senza ulteriore preavviso, abbiamo il diritto di modificare le funzionalità e i contenuti del Gioco. Per migliorare le funzionalità e l'esperienza del Gioco, ci riserviamo il diritto di effettuare aggiornamenti e modifiche in modo automatico, cioè senza un'ulteriore richiesta del tuo consenso. Per garantire l'efficacia di tali aggiornamenti e modifiche e la possibilità di estendere l'uso del Gioco, con il presente documento acconsenti all'introduzione di aggiornamenti e modifiche automatici.</indent>
+<b>5. USO DEI DATI</b>
+5.1 <indent=3%>In ogni momento, qualsiasi dato raccolto ed elaborato ai sensi del presente CLUF sarà trattato in conformità con la nostra Informativa sulla privacy, disponibile all'indirizzo <b>https://owlcat.games/privacy</b> e incorporata nel presente CLUF per riferimento. </indent>
+<b>6. ESCLUSIONE DI GARANZIA LIMITATA</b>
+NELLA MASSIMA MISURA CONSENTITA DALLA LEGGE APPLICABILE, DECLINIAMO ESPRESSAMENTE QUALSIASI GARANZIA, DIRETTA O INDIRETTA, NEI TUOI CONFRONTI RELATIVAMENTE AL GIOCO, COMPRESE, A TITOLO ESEMPLIFICATIVO, LE GARANZIE INDIRETTE DI QUALITÀ, IDONEITÀ A SCOPI SPECIFICI E RISPETTO DEI DIRITTI. IL GIOCO È FORNITO "COSÌ COM'È", SENZA ULTERIORI GARANZIE DI ALCUN GENERE. TI ASSUMI TUTTI I RISCHI RELATIVI A QUALSIASI DANNO E PERDITA DERIVANTI DALL'USO O DALL'IMPOSSIBILITÀ DI USARE IL GIOCO. NON GARANTIAMO CHE IL GIOCO SODDISFI I TUOI REQUISITI E CHE IL FUNZIONAMENTO DEL GIOCO SIA INFALLIBILE E PRIVO DI ERRORI.
+<b>7. LIMITAZIONE DI RESPONSABILITÀ</b>
+NELLA MASSIMA MISURA CONSENTITA DALLA LEGGE APPLICABILE, NÉ NOI NÉ I NOSTRI LICENZIANTI O PARTNER SARANNO RESPONSABILI NEI TUOI CONFRONTI PER ALCUN DANNO (COMPRESI, A TITOLO ESEMPLIFICATIVO, PERDITE EFFETTIVE, PERDITE ACCIDENTALI, PERDITE INDIRETTE, MANCATI PROFITTI O PERDITA DI DATI, INDIPENDENTEMENTE DAL FATTO CHE TALE DANNO FOSSE PREVEDIBILE O MENO) DERIVANTE IN RELAZIONE AL PRESENTE CLUF E AL TUO UTILIZZO DEL GIOCO E DEGLI ALTRI MATERIALI FORNITI DA NOI.
+NON SAREMO RESPONSABILI DELL'IMPOSSIBILITÀ DI INSTALLARE O AVVIARE IL GIOCO SUL TUO DISPOSITIVO PERSONALE, NÉ DI POSSIBILI ERRORI E MALFUNZIONAMENTI NEL FUNZIONAMENTO DEL GIOCO. PER USARE IL GIOCO DEVI COLLEGARTI A INTERNET. TUTTI I COSTI DELLA CONNESSIONE A INTERNET SARANNO A TUO CARICO. NON SAREMO RESPONSABILI DI ALCUN DANNO CHE TI VENGA CAUSATO A SEGUITO DELLA CONNESSIONE A INTERNET O DELL'INSTALLAZIONE DI SOFTWARE DANNOSO SUL TUO DISPOSITIVO.
+NELLA MISURA CONSENTITA DALLA LEGGE APPLICABILE, DECLINIAMO OGNI RESPONSABILITÀ RIGUARDO A QUALSIASI ATTIVITÀ CHE POSSA ESSERE SVOLTA DA MINORI SENZA IL PERMESSO DEI LORO GENITORI O TUTORI LEGALI. SE SEI UN GENITORE O TUTORE LEGALE E DAI IL TUO PERMESSO AFFINCHÉ TUO FIGLIO USI IL GIOCO, ACCETTI CON IL PRESENTE DOCUMENTO I TERMINI RELATIVI ALL'USO DEI SERVIZI DA PARTE DI TUO FIGLIO.
+LA PRESENTE LIMITAZIONE NON SI APPLICA ALLA RESPONSABILITÀ PER MORTE O LESIONI PERSONALI NELLA MISURA IN CUI LA LEGGE APPLICABILE VIETI TALE LIMITAZIONE. ALCUNE GIURISDIZIONI NON CONSENTONO O LIMITANO L'ESCLUSIONE O LA LIMITAZIONE DI RESPONSABILITÀ, OPPURE NON CONSENTONO L'ESCLUSIONE O LA LIMITAZIONE DELLE GARANZIE IMPLICITE; LA LIMITAZIONE DI CUI SOPRA POTREBBE QUINDI NON APPLICARSI IN ALCUNE CIRCOSTANZE.
+<b>8. PROPRIETÀ DEL GIOCO</b>
+8.1 <indent=3%>Tutti i titoli, i diritti di proprietà e i diritti di proprietà intellettuale sul Gioco e su qualsiasi sua parte appartengono a noi o ai nostri licenzianti. Salvo quanto espressamente stabilito nel presente CLUF, tutti i diritti qui non concessi a te sono espressamente riservati da noi.</indent>
+8.2 <indent=3%>Il Gioco è concesso in licenza, non venduto, il che significa che nessun titolo o proprietà relativo al Gioco ti viene trasferito o ceduto.</indent>
+<b>9. DURATA E RISOLUZIONE</b>
+9.1 <indent=3%><b>Durata.</b> Puoi usare il Gioco dal momento in cui accetti il presente CLUF fino alla sua risoluzione secondo quanto previsto dalle sezioni 9.2 e 9.3 qui sotto.</indent>
+9.2 <indent=3%><b>Risoluzione da parte nostra.</b> Possiamo risolvere immediatamente il presente CLUF se non rispetti uno qualsiasi dei termini e delle condizioni del presente CLUF. Immediatamente dopo la risoluzione, devi cessare qualsiasi uso del Gioco, distruggere tutte le copie del Gioco in tuo possesso o sotto il tuo controllo e rimuovere il Gioco dal tuo dispositivo. La risoluzione non limiterà i tuoi diritti o rimedi previsti dalla legge o dall'equità. </indent>
+9.3 <indent=3%><b>Risoluzione da parte tua.</b> Puoi risolvere immediatamente il presente CLUF smettendo definitivamente di usare il Gioco ed eliminandolo dal tuo dispositivo.</indent>
+<b>10. LEGGE APPLICABILE. GIURISDIZIONE</b>
+10.1 <indent=3%>Il presente CLUF è disciplinato e interpretato in conformità con le leggi di Cipro. </indent>
+10.2 <indent=3%>In caso di controversia derivante da o connessa al presente CLUF, accetti di negoziare con noi tale controversia in buona fede entro 60 giorni di calendario dal ricevimento di una comunicazione scritta di controversia. Tale comunicazione scritta deve essere inviata fisicamente per posta all'indirizzo Irodi Attikou, 8A, Lakatamia, 2332, Nicosia, Cipro ed elettronicamente all'indirizzo email <b>legal@owlcat.games</b>, e deve contenere le seguenti informazioni:</indent>
+<indent=4%>•</indent> <indent=5%>il nome completo e i recapiti del ricorrente e del suo rappresentante (se presente);</indent>
+<indent=4%>•</indent> <indent=5%>la descrizione della natura e del fondamento della pretesa e della controversia;</indent>
+<indent=4%>•</indent> <indent=5%>la descrizione della prestazione richiesta a noi in base e in relazione alla pretesa.</indent>
+10.3 <indent=3%>Accetti espressamente che, se la controversia non può essere risolta tramite negoziazione come sopra stabilito, nella misura consentita dalla legge applicabile la giurisdizione esclusiva per qualsiasi pretesa o azione derivante da o relativa al presente CLUF sia quella dei tribunali ordinari della Repubblica di Cipro, e acconsenti espressamente all'esercizio della giurisdizione personale di tali tribunali.</indent>
+<b>11. PRECAUZIONI PER LA SALUTE</b>
+11.1 <indent=3%>Quando giochi al Gioco, dovresti adottare le seguenti precauzioni: evita di giocare se sei stanco o hai dormito poco, gioca a una buona distanza dallo schermo, gioca in una stanza illuminata e modera la luminosità dello schermo, fai pause da dieci (10) a quindici (15) minuti ogni ora.</indent>
+11.2 <indent=3%>ATTENZIONE: ALCUNE PERSONE SONO SOGGETTE A CRISI EPILETTICHE, COMPRESA, IN CERTI CASI, LA PERDITA DI COSCIENZA, IN PARTICOLARE SE ESPOSTE A FORTI STIMOLAZIONI LUMINOSE (RAPIDA SUCCESSIONE DI IMMAGINI O RIPETIZIONE DI SEMPLICI FIGURE GEOMETRICHE, LAMPI O ESPOSIZIONI). QUESTE PERSONE SONO ESPOSTE A RISCHI DI CRISI QUANDO GIOCANO A CERTI VIDEOGIOCHI CHE CONTENGONO TALI STIMOLAZIONI LUMINOSE; TI RACCOMANDIAMO VIVAMENTE DI CONSULTARE IL TUO MEDICO PRIMA DI QUALSIASI UTILIZZO DEL GIOCO. I GENITORI DEVONO PRESTARE PARTICOLARE ATTENZIONE AI PROPRI FIGLI QUANDO GIOCANO AI VIDEOGIOCHI. SE PRESENTI UNO DEI SEGUENTI SINTOMI: VERTIGINI, PROBLEMI DI VISTA, CONTRAZIONE DEGLI OCCHI O DEI MUSCOLI, DISORIENTAMENTO, MOVIMENTI INVOLONTARI O CONVULSIONI O PERDITA MOMENTANEA DI COSCIENZA, DEVI INTERROMPERE IMMEDIATAMENTE IL GIOCO E CONSULTARE UN PROFESSIONISTA MEDICO.</indent>
+<b>12. MODIFICHE AL PRESENTE CLUF</b>
+12.1 <indent=3%>Ci riserviamo il diritto di rivedere di volta in volta i termini del presente CLUF. Ti daremo l'opportunità di esaminare e accettare la versione rivista, che sostituirà il CLUF attuale a partire dalla data della tua accettazione. Se non accetti il CLUF rivisto, o non puoi rispettare uno qualsiasi dei suoi termini, non ti sarà più consentito giocare al Gioco e ci riserviamo il diritto di risolvere il presente CLUF. L'uso continuato del Gioco da parte tua sarà considerato come accettazione di eventuali termini rivisti.</indent>
+<b>13. DISPOSIZIONI VARIE</b>
+13.1 <indent=3%>A nostra discrezione, possiamo cedere o delegare i nostri diritti e obblighi ai sensi del presente CLUF, o una parte di essi, a qualsiasi terzo senza preavviso nei tuoi confronti. I tuoi diritti e obblighi sono personali e non sono soggetti a cessione o delega.</indent>
+13.2 <indent=3%>Il presente CLUF costituisce l'intero accordo tra te e noi in merito al tuo utilizzo del Gioco e sostituisce qualsiasi precedente accordo orale e scritto, o accordo orale e scritto contestuale alla stipula del presente CLUF, relativo al suo oggetto e riunito nel presente CLUF.</indent>
+13.3 <indent=3%>Se una qualsiasi disposizione del presente CLUF dovesse essere ritenuta contraria alla legge da un tribunale competente, tale disposizione sarà fatta valere nella massima misura consentita e le restanti disposizioni del presente CLUF rimarranno pienamente in vigore.</indent>
+<b>14. INFORMAZIONI DI CONTATTO</b>
+14.1 <indent=3%>Per contattarci, invia un'email a: <b>team@owlcat.games</b>. </indent>
+<indent=3%>Ultimo aggiornamento: 7 dicembre 2023
+© Owlcat Games Ltd. 2023. Tutti i diritti riservati.</indent>
+
+### u009732
+<uppercase><size=115%><b>CLUF DI "WARHAMMER 40,000: ROGUE TRADER"</b></size></uppercase>
+<b>AVVISI IMPORTANTI</b>
+LEGGI ATTENTAMENTE IL SEGUENTE CONTRATTO DI LICENZA CON L'UTENTE FINALE ("CLUF") PRIMA DI SCARICARE, INSTALLARE O USARE IL GIOCO "WARHAMMER 40,000: ROGUE TRADER" O QUALSIASI SOFTWARE CORRELATO (collettivamente, il "GIOCO"). SE NON SEI D'ACCORDO CON TUTTI I TERMINI DEL PRESENTE CLUF, NON PUOI INSTALLARE O USARE IL GIOCO.
+SCARICANDO, INSTALLANDO E/O GIOCANDO AL GIOCO, RICONOSCI E ACCETTI DI AVER RAGGIUNTO LA MAGGIORE ETÀ NEL TUO PAESE DI RESIDENZA. SE NON HAI RAGGIUNTO LA MAGGIORE ETÀ, DEVI OTTENERE IL CONSENSO NECESSARIO DA PARTE DEL TUO GENITORE O TUTORE LEGALE PRIMA DI ACCEDERE AL GIOCO O USARLO.
+IL PRESENTE CLUF DEVE ESSERE LETTO INSIEME ALLA NOSTRA INFORMATIVA SULLA PRIVACY, DISPONIBILE ALL'INDIRIZZO https://owlcat.games/privacy, CHE NE COSTITUISCE PARTE INTEGRANTE.
+LA VERSIONE INGLESE DI QUESTO DOCUMENTO È L'UNICA VERSIONE ORIGINALE E PREVARRÀ IN CASO DI DIFFERENZE, DUBBI O CONTROVERSIE RIGUARDANTI IL SIGNIFICATO, LA FORMA, LA VALIDITÀ O L'INTERPRETAZIONE.
+Il presente CLUF è un contratto legale tra te (<b>"tu"</b>), persona fisica, e Owlcat Games Ltd. (<b>"noi"</b>, <b>"ci"</b>, <b>"nostro"</b>), società costituita e operante ai sensi delle leggi della Repubblica di Cipro, con numero di registrazione HE 398803 e sede legale in Irodi Attikou, 8A, Lakatamia, 2332, Nicosia, Cipro, relativo al tuo utilizzo del Gioco. Quando il Gioco è fornito tramite una piattaforma di terze parti, sei l'unico responsabile di garantire che il tuo utilizzo di tale piattaforma sia conforme alle sue politiche e ai suoi accordi. Tieni presente che potremmo essere tenuti a modificare il presente CLUF per rispettare i requisiti delle piattaforme di terze parti.
+<b>1. CONCESSIONE DELLA LICENZA</b>
+1.1 <indent=3%><b>Licenza concessa.</b> Con il presente documento ti concediamo una licenza personale, limitata, non esclusiva, revocabile e non trasferibile per scaricare, installare, conservare, eseguire e usare il Gioco:</indent>
+<indent=4%>•</indent> <indent=5%><b>Personale:</b> significa che puoi usare il Gioco solo sul tuo dispositivo personale e solo per scopi non commerciali; </indent>
+<indent=4%>•</indent> <indent=5%><b>Limitata:</b> significa che puoi usare il Gioco solo nei modi previsti dal presente CLUF, e non ti concediamo alcun diritto sull'uso del Gioco, salvo i diritti espressamente indicati nel presente CLUF;</indent>
+<indent=4%>•</indent> <indent=5%><b>Non esclusiva:</b> significa che possiamo concedere la stessa licenza o qualsiasi altra licenza ad altri;</indent>
+<indent=4%>•</indent> <indent=5%><b>Revocabile:</b> significa che possiamo risolvere il presente CLUF secondo quanto previsto dalla sezione 8.2;</indent>
+<indent=4%>•</indent> <indent=5%><b>Non trasferibile:</b> significa che solo tu puoi usare il Gioco, e non puoi cedere, trasferire o concedere in sublicenza a nessun'altra persona i diritti e la licenza che ti sono forniti ai sensi del presente CLUF.</indent>
+1.2 <indent=3%><b>Uso consentito.</b> Nel rispetto del presente CLUF, hai il diritto di trasmettere in streaming, registrare e pubblicare contenuti video del gameplay del Gioco, per scopi commerciali e non commerciali. Per evitare dubbi, hai il diritto di includere pubblicità in tali contenuti video in streaming o registrati e di monetizzare altrimenti tali contenuti con i mezzi consentiti dai rispettivi siti web di streaming o di condivisione video. Possiamo revocare questo diritto in qualsiasi momento.</indent>
+1.3 <indent=3%><b>Territorio.</b> Puoi usare il Gioco in tutto il mondo, salvo che non stabiliamo diversamente sul nostro sito web <b>https://owlcat.games/</b>, all'interno del Gioco o con qualsiasi altro mezzo a nostra discrezione.</indent>
+<b>2. LIMITAZIONI DELLA LICENZA</b>
+2.1 <indent=3%>Possiamo sospendere o revocare la licenza che ti è stata concessa ai sensi del presente CLUF se violi, o aiuti altri a violare, le seguenti limitazioni della licenza:</indent>
+<indent=4%>•</indent> <indent=5%><b>Divieto di trasferimento:</b> ti è vietato vendere, rivendere, distribuire, noleggiare, concedere in sublicenza, concedere in locazione o trasferire in qualsiasi altro modo il Gioco o sue copie, in tutto o in parte, a terzi;</indent>
+<indent=4%>•</indent> <indent=5%><b>Divieto di opere derivate:</b> ti è vietato creare opere derivate basate sul Gioco;</indent>
+<indent=4%>•</indent> <indent=5%><b>Divieto di modifiche o di decompilazione:</b> salvo quanto previsto dalla sezione 2.2 qui sotto, ti è vietato alterare, unire, adattare, decompilare, decodificare, sottoporre a decompilazione inversa, disassemblare, modificare, tradurre in altre lingue o in qualsiasi modo cambiare il Gioco o uno qualsiasi dei suoi componenti;</indent>
+<indent=4%>•</indent> <indent=5%><b>Divieto di hacking o di imbroglio:</b> ti è vietato intraprendere, agevolare o promuovere qualsiasi attività non autorizzata che comprometta l'integrità, la sicurezza o il funzionamento del Gioco, compresi, a titolo esemplificativo, l'hacking, l'imbroglio o lo sfruttamento di vulnerabilità nel codice del Gioco.</indent>
+<indent=4%>•</indent> <indent=5%><b>Divieto di modificare le informazioni sul copyright o i marchi:</b> ti è vietato falsificare, rimuovere o disconnettere qualsiasi informazione sul copyright; in particolare i riferimenti all'autore, le conferme legali del copyright o qualsiasi altro messaggio o istruzione, nonché qualsiasi nota sull'origine o sulla fonte del software o di altri contenuti; ti è vietato rimuovere i marchi.</indent>
+2.2 <indent=3%><b>Mod.</b> Se desideri compiere una qualsiasi delle azioni descritte nella sezione "Divieto di modifiche o di decompilazione" qui sopra, contattaci per ottenere l'approvazione all'indirizzo <b>mod@owlcat.games</b>. Tieni presente che apprezziamo molto il contributo che potresti dare al Gioco. Tuttavia, ci riserviamo il diritto di esaminare ogni richiesta e, a nostra esclusiva discrezione, di accettarla o respingerla se necessario. Tieni presente che l'approvazione può essere concessa solo se accetti (a) di non causare né permettere la vendita o altra distribuzione commerciale o sfruttamento commerciale delle modifiche da te presentate e (b) di concederci una licenza non esclusiva, mondiale, esente da royalty, sublicenziabile e trasferibile (i) per usare, riprodurre, distribuire, preparare opere derivate, mostrare, eseguire e altrimenti sfruttare in qualsiasi modo le modifiche da te realizzate, o qualsiasi loro parte, nel Gioco nonché tramite qualsiasi mezzo ora noto o sviluppato in seguito, e (ii) per pubblicizzare, commercializzare e promuovere le stesse.</indent>
+<b>3. REQUISITI DI SISTEMA E TECNICI</b>
+3.1 <indent=3%>Puoi trovare i requisiti di sistema minimi e consigliati del dispositivo per un uso corretto del Gioco sui siti web ufficiali delle piattaforme di terze parti da cui acquisti o accedi al Gioco. </indent>
+3.2 <indent=3%>A causa di potenziali modifiche e miglioramenti di programmazione, i requisiti di sistema minimi e consigliati del dispositivo per il Gioco possono cambiare nel tempo e il Gioco potrebbe non essere più disponibile su alcuni dispositivi.</indent>
+<b>4. AGGIORNAMENTI AUTOMATICI DEL GIOCO</b>
+4.1 <indent=3%>In qualsiasi momento, a nostra discrezione e senza ulteriore preavviso, abbiamo il diritto di modificare le funzionalità e i contenuti del Gioco. Per migliorare le funzionalità e l'esperienza del Gioco, ci riserviamo il diritto di effettuare aggiornamenti e modifiche in modo automatico, cioè senza un'ulteriore richiesta del tuo consenso. Per garantire l'efficacia di tali aggiornamenti e modifiche e la possibilità di estendere l'uso del Gioco, con il presente documento acconsenti all'introduzione di aggiornamenti e modifiche automatici.</indent>
+<b>5. USO DEI DATI</b>
+5.1 <indent=3%>In ogni momento, qualsiasi dato raccolto ed elaborato ai sensi del presente CLUF sarà trattato in conformità con la nostra Informativa sulla privacy, disponibile all'indirizzo <b>https://owlcat.games/privacy</b> e incorporata nel presente CLUF per riferimento. </indent>
+<b>6. ESCLUSIONE DI GARANZIA LIMITATA</b>
+NELLA MASSIMA MISURA CONSENTITA DALLA LEGGE APPLICABILE, DECLINIAMO ESPRESSAMENTE QUALSIASI GARANZIA, DIRETTA O INDIRETTA, NEI TUOI CONFRONTI RELATIVAMENTE AL GIOCO, COMPRESE, A TITOLO ESEMPLIFICATIVO, LE GARANZIE INDIRETTE DI QUALITÀ, IDONEITÀ A SCOPI SPECIFICI E RISPETTO DEI DIRITTI. IL GIOCO È FORNITO "COSÌ COM'È", SENZA ULTERIORI GARANZIE DI ALCUN GENERE. TI ASSUMI TUTTI I RISCHI RELATIVI A QUALSIASI DANNO E PERDITA DERIVANTI DALL'USO O DALL'IMPOSSIBILITÀ DI USARE IL GIOCO. NON GARANTIAMO CHE IL GIOCO SODDISFI I TUOI REQUISITI E CHE IL FUNZIONAMENTO DEL GIOCO SIA INFALLIBILE E PRIVO DI ERRORI.
+<b>7. LIMITAZIONE DI RESPONSABILITÀ</b>
+NELLA MASSIMA MISURA CONSENTITA DALLA LEGGE APPLICABILE, NÉ NOI NÉ I NOSTRI LICENZIANTI O PARTNER SARANNO RESPONSABILI NEI TUOI CONFRONTI PER ALCUN DANNO (COMPRESI, A TITOLO ESEMPLIFICATIVO, PERDITE EFFETTIVE, PERDITE ACCIDENTALI, PERDITE INDIRETTE, MANCATI PROFITTI O PERDITA DI DATI, INDIPENDENTEMENTE DAL FATTO CHE TALE DANNO FOSSE PREVEDIBILE O MENO) DERIVANTE IN RELAZIONE AL PRESENTE CLUF E AL TUO UTILIZZO DEL GIOCO E DEGLI ALTRI MATERIALI FORNITI DA NOI.
+NON SAREMO RESPONSABILI DELL'IMPOSSIBILITÀ DI INSTALLARE O AVVIARE IL GIOCO SUL TUO DISPOSITIVO PERSONALE, NÉ DI POSSIBILI ERRORI E MALFUNZIONAMENTI NEL FUNZIONAMENTO DEL GIOCO. PER USARE IL GIOCO DEVI COLLEGARTI A INTERNET. TUTTI I COSTI DELLA CONNESSIONE A INTERNET SARANNO A TUO CARICO. NON SAREMO RESPONSABILI DI ALCUN DANNO CHE TI VENGA CAUSATO A SEGUITO DELLA CONNESSIONE A INTERNET O DELL'INSTALLAZIONE DI SOFTWARE DANNOSO SUL TUO DISPOSITIVO.
+NELLA MISURA CONSENTITA DALLA LEGGE APPLICABILE, DECLINIAMO OGNI RESPONSABILITÀ RIGUARDO A QUALSIASI ATTIVITÀ CHE POSSA ESSERE SVOLTA DA MINORI SENZA IL PERMESSO DEI LORO GENITORI O TUTORI LEGALI. SE SEI UN GENITORE O TUTORE LEGALE E DAI IL TUO PERMESSO AFFINCHÉ TUO FIGLIO USI IL GIOCO, ACCETTI CON IL PRESENTE DOCUMENTO I TERMINI RELATIVI ALL'USO DEI SERVIZI DA PARTE DI TUO FIGLIO.
+LA PRESENTE LIMITAZIONE NON SI APPLICA ALLA RESPONSABILITÀ PER MORTE O LESIONI PERSONALI NELLA MISURA IN CUI LA LEGGE APPLICABILE VIETI TALE LIMITAZIONE. ALCUNE GIURISDIZIONI NON CONSENTONO O LIMITANO L'ESCLUSIONE O LA LIMITAZIONE DI RESPONSABILITÀ, OPPURE NON CONSENTONO L'ESCLUSIONE O LA LIMITAZIONE DELLE GARANZIE IMPLICITE; LA LIMITAZIONE DI CUI SOPRA POTREBBE QUINDI NON APPLICARSI IN ALCUNE CIRCOSTANZE.
+<b>8. PROPRIETÀ DEL GIOCO</b>
+8.1 <indent=3%>Tutti i titoli, i diritti di proprietà e i diritti di proprietà intellettuale sul Gioco e su qualsiasi sua parte appartengono a noi o ai nostri licenzianti. Salvo quanto espressamente stabilito nel presente CLUF, tutti i diritti qui non concessi a te sono espressamente riservati da noi.</indent>
+8.2 <indent=3%>Il Gioco è concesso in licenza, non venduto, il che significa che nessun titolo o proprietà relativo al Gioco ti viene trasferito o ceduto.</indent>
+<b>9. DURATA E RISOLUZIONE</b>
+9.1 <indent=3%><b>Durata.</b> Puoi usare il Gioco dal momento in cui accetti il presente CLUF fino alla sua risoluzione secondo quanto previsto dalle sezioni 9.2 e 9.3 qui sotto.</indent>
+9.2 <indent=3%><b>Risoluzione da parte nostra.</b> Possiamo risolvere immediatamente il presente CLUF se non rispetti uno qualsiasi dei termini e delle condizioni del presente CLUF. Immediatamente dopo la risoluzione, devi cessare qualsiasi uso del Gioco, distruggere tutte le copie del Gioco in tuo possesso o sotto il tuo controllo e rimuovere il Gioco dal tuo dispositivo. La risoluzione non limiterà i tuoi diritti o rimedi previsti dalla legge o dall'equità. </indent>
+9.3 <indent=3%><b>Risoluzione da parte tua.</b> Puoi risolvere immediatamente il presente CLUF smettendo definitivamente di usare il Gioco ed eliminandolo dal tuo dispositivo.</indent>
+<b>10. LEGGE APPLICABILE. GIURISDIZIONE</b>
+10.1 <indent=3%>Il presente CLUF è disciplinato e interpretato in conformità con le leggi di Cipro. </indent>
+10.2 <indent=3%>In caso di controversia derivante da o connessa al presente CLUF, accetti di negoziare con noi tale controversia in buona fede entro 60 giorni di calendario dal ricevimento di una comunicazione scritta di controversia. Tale comunicazione scritta deve essere inviata fisicamente per posta all'indirizzo Irodi Attikou, 8A, Lakatamia, 2332, Nicosia, Cipro ed elettronicamente all'indirizzo email <b>legal@owlcat.games</b>, e deve contenere le seguenti informazioni:</indent>
+<indent=4%>•</indent> <indent=5%>il nome completo e i recapiti del ricorrente e del suo rappresentante (se presente);</indent>
+<indent=4%>•</indent> <indent=5%>la descrizione della natura e del fondamento della pretesa e della controversia;</indent>
+<indent=4%>•</indent> <indent=5%>la descrizione della prestazione richiesta a noi in base e in relazione alla pretesa.</indent>
+10.3 <indent=3%>Accetti espressamente che, se la controversia non può essere risolta tramite negoziazione come sopra stabilito, nella misura consentita dalla legge applicabile la giurisdizione esclusiva per qualsiasi pretesa o azione derivante da o relativa al presente CLUF sia quella dei tribunali ordinari della Repubblica di Cipro, e acconsenti espressamente all'esercizio della giurisdizione personale di tali tribunali.</indent>
+<b>11. PRECAUZIONI PER LA SALUTE</b>
+11.1 <indent=3%>Quando giochi al Gioco, dovresti adottare le seguenti precauzioni: evita di giocare se sei stanco o hai dormito poco, gioca a una buona distanza dallo schermo, gioca in una stanza illuminata e modera la luminosità dello schermo, fai pause da dieci (10) a quindici (15) minuti ogni ora.</indent>
+11.2 <indent=3%>ATTENZIONE: ALCUNE PERSONE SONO SOGGETTE A CRISI EPILETTICHE, COMPRESA, IN CERTI CASI, LA PERDITA DI COSCIENZA, IN PARTICOLARE SE ESPOSTE A FORTI STIMOLAZIONI LUMINOSE (RAPIDA SUCCESSIONE DI IMMAGINI O RIPETIZIONE DI SEMPLICI FIGURE GEOMETRICHE, LAMPI O ESPOSIZIONI). QUESTE PERSONE SONO ESPOSTE A RISCHI DI CRISI QUANDO GIOCANO A CERTI VIDEOGIOCHI CHE CONTENGONO TALI STIMOLAZIONI LUMINOSE; TI RACCOMANDIAMO VIVAMENTE DI CONSULTARE IL TUO MEDICO PRIMA DI QUALSIASI UTILIZZO DEL GIOCO. I GENITORI DEVONO PRESTARE PARTICOLARE ATTENZIONE AI PROPRI FIGLI QUANDO GIOCANO AI VIDEOGIOCHI. SE PRESENTI UNO DEI SEGUENTI SINTOMI: VERTIGINI, PROBLEMI DI VISTA, CONTRAZIONE DEGLI OCCHI O DEI MUSCOLI, DISORIENTAMENTO, MOVIMENTI INVOLONTARI O CONVULSIONI O PERDITA MOMENTANEA DI COSCIENZA, DEVI INTERROMPERE IMMEDIATAMENTE IL GIOCO E CONSULTARE UN PROFESSIONISTA MEDICO.</indent>
+<b>12. MODIFICHE AL PRESENTE CLUF</b>
+12.1 <indent=3%>Ci riserviamo il diritto di rivedere di volta in volta i termini del presente CLUF. Ti daremo l'opportunità di esaminare e accettare la versione rivista, che sostituirà il CLUF attuale a partire dalla data della tua accettazione. Se non accetti il CLUF rivisto, o non puoi rispettare uno qualsiasi dei suoi termini, non ti sarà più consentito giocare al Gioco e ci riserviamo il diritto di risolvere il presente CLUF. L'uso continuato del Gioco da parte tua sarà considerato come accettazione di eventuali termini rivisti.</indent>
+<b>13. DISPOSIZIONI VARIE</b>
+13.1 <indent=3%>A nostra discrezione, possiamo cedere o delegare i nostri diritti e obblighi ai sensi del presente CLUF, o una parte di essi, a qualsiasi terzo senza preavviso nei tuoi confronti. I tuoi diritti e obblighi sono personali e non sono soggetti a cessione o delega.</indent>
+13.2 <indent=3%>Il presente CLUF costituisce l'intero accordo tra te e noi in merito al tuo utilizzo del Gioco e sostituisce qualsiasi precedente accordo orale e scritto, o accordo orale e scritto contestuale alla stipula del presente CLUF, relativo al suo oggetto e riunito nel presente CLUF.</indent>
+13.3 <indent=3%>Se una qualsiasi disposizione del presente CLUF dovesse essere ritenuta contraria alla legge da un tribunale competente, tale disposizione sarà fatta valere nella massima misura consentita e le restanti disposizioni del presente CLUF rimarranno pienamente in vigore.</indent>
+<b>14. INFORMAZIONI DI CONTATTO</b>
+14.1 <indent=3%>Per contattarci, invia un'email a: <b>team@owlcat.games</b>. </indent>
+<indent=3%>Ultimo aggiornamento: 7 dicembre 2023
+© Owlcat Games Ltd. 2023. Tutti i diritti riservati.</indent>
+

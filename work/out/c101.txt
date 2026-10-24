@@ -1,0 +1,740 @@
+### u037082
+{n}Heinrix tende una mano verso Evayne, e la temperatura scende di qualche grado.{/n} "Versa in cattive condizioni, ma l'assistenza tempestiva di un chirurgo gli salverà la vita. Per ora farò... quel che posso."
+
+### u037083
+{n}Idira fischia mentre osserva il respiro di Evayne tornare regolare.{/n} "Guarda un po', ghiacciolo... Puoi fargli ricrescere anche l'occhio?"
+
+### u037084
+"Non c'è alcuna vergogna nella vostra situazione, Lord Winterscale. Il Lord Capitano e io ci siamo incontrati in circostanze... altrettanto terribili e tragiche."
+
+### u037085
+"Hai proprio ragione. Quell'abisso inghiotte con gusto miserabili popolani e azzimati aristocratici allo stesso modo — e gli idealisti ingenui sono i suoi preferiti." {n}Idira rivolge a Evayne un sorriso amaro prima di posare lo sguardo sui resti del suo ex amico.{/n}
+
+### u037086
+"Discutiamo della questione che ci riguarda. Siete qui per porre fine alla rivolta, non è così?"
+
+### u037087
+[Salutalo con decoro] "{mf|Lord|Lady} {name} von Valancius. Sono {mf|lieto|lieta} di fare la vostra conoscenza."
+
+### u037088
+[Annuisci brevemente] "Al tuo servizio."
+
+### u037089
+"Possiamo fare a meno dei convenevoli. Al momento ci sono questioni più importanti."
+
+### u037090
+"Anche tu sei figlio di un Rogue Trader, no? Allora cosa trovi di tanto affascinante in me?"
+
+### u037091
+"Sarebbe così rinfrescante conversare finalmente con qualcuno di pari lignaggio e non con un umile servo o un popolano."
+
+### u037092
+"Sarà un sommo piacere assecondarti."
+
+### u037093
+"Non c'è dubbio che il mio destino sia grande. Tu, invece, devi ancora dimostrarmi il tuo valore. La mia considerazione non è cosa da poco."
+
+### u037094
+"Dovremo parlare di ritrovi mondani un'altra volta. Questa non sembra proprio l'occasione adatta."
+
+### u037095
+"Il direttore è chiaramente squilibrato. A un certo punto cercava di gestire i detenuti offrendo incentivi e perfino giorni di riposo! Che pazzia assoluta!"
+
+### u037096
+"Il direttore è chiaramente squilibrato. Ha condotto esperimenti disumani sui prigionieri. Atti di pura brutalità."
+
+### u037097
+"Ribellarsi all'autorità legittima è eresia! Concedere clemenza a un eretico... Avete perso il senno?"
+
+### u037098
+"Il desiderio di aiutare un amico è nobile."
+
+### u037099
+"Se la tua diplomazia può davvero fermare la rivolta, vale la pena tentare. Meno morti ci sono, meglio è."
+
+### u037100
+"Dov'è ora il direttore Casteglia?"
+
+### u037101
+"Posso in qualche modo dissuaderti da questa tua bravata?"
+
+### u037102
+"Molto bene. In tal caso, ti accompagnerò."
+
+### u037103
+"Molto bene. Puoi andare a vedere il tuo amico. Lungi da me tentare di impedirti di perdere la testa!"
+
+### u037104
+"Sia ringraziato l'Imperatore, almeno qualcuno in questo sistema sperduto è mio pari! Rogue Trader {name} von Valancius, assolutamente {mf|lieto|lieta} di fare la tua conoscenza."
+
+### u037105
+"Sei venuto qui con nient'altro che le guardie di una singola navetta: non ti pare avventato?"
+
+### u037106
+"Non vuoi chiedermi perché ora sono io a capo della mia casata e non Theodora?"
+
+### u037107
+"Theodora è morta in un'incursione di cultisti, avvenuta proprio qui, nel sistema di Rykad. È allora che ho preso il timone."
+
+### u037108
+"La tua riservatezza è giustificata. Non ho alcun desiderio di parlarne al momento."
+
+### u037109
+"Puoi dirmi qualcosa sulla stazione della Navis Nobilite in questo sistema?"
+
+### u037110
+"Permettimi di usare il tuo codice d'accesso. Il mio Navigatore è morto. Se non ne trovo uno nuovo, già il primo salto warp potrebbe significare un disastro per la mia nave. In quanto nobile e rampollo di una casata di Rogue Trader, hai l'obbligo di aiutarmi."
+
+### u037111
+"{mf|Lord|Lady} von Valancius, i miei saluti! Che la luce dell'eterna {g|Encyclopedia:HolyTerra}Terra{/g} risplenda per sempre!" {n}Il giovane davanti a te si esibisce in un inchino impeccabilmente cortese. Poi raddrizza la schiena e ti guarda negli occhi, non per sfida, ma con fredda sicurezza. È lo sguardo con cui si onora un pari.{/n} "Evayne Winterscale, figlio minore di Calligos Winterscale. Al vostro servizio."
+
+### u037112
+{n}Evayne inarca le sopracciglia, un po' imbarazzato.{/n} "In tempi come questi, la nobiltà di solito preferisce la sicurezza dei bunker di famiglia a luoghi così poco accoglienti. Eppure {d|Encyclopedia:CharGen_Nobility}voi{/d} siete più {mf|attratto|attratta} dagli atti audaci, vedo."
+
+### u037113
+{n}Un sorriso fugace attraversa il volto di Evayne.{/n} "Immagino che più di una persona vi abbia già posto quella domanda. O forse vi aspettate di essere {mf|assalito|assalita} da simili quesiti in futuro. Onestamente, non l'ho chiesto per timore di essere invadente e privo di tatto. Ma, a dirla tutta, muoio dalla voglia di saperlo."
+
+### u037114
+"Come desiderate, Vostra Signoria." {n}Il giovane china educatamente il capo.{/n}
+
+### u037115
+"Anch'io." {n}La voce di Evayne è dolce e impeccabilmente educata.{/n} "Vi prego di accettare le mie scuse per la lieve violazione dell'etichetta. Qui e ora non è né il luogo né il momento migliore per lunghe cerimonie."
+
+### u037116
+"Assolutamente no. Non possono assolutamente," {n}borbotta Abelard, a malapena udibile.{/n}
+
+### u037117
+"Siete {mf|un uomo|una donna} d'azione, a quanto vedo? Concordo, non è certo il momento per cordiali saluti."
+
+### u037118
+"Vi porgo le mie condoglianze. Che l'anima di Lady Theodora riposi per sempre nell'eterna luce della Terra." {n}Evayne fa una pausa della giusta durata.{/n} "Dunque siete ancora {mf|nuovo|nuova} al vostro rango! E non avete ancora avuto la vostra Magnae Accessio, presumo? Affascinante. Non credo di aver mai avuto la fortuna di incontrare una persona con un destino avvincente quanto il vostro. Spero che un giorno possiate onorarmi della vostra presenza in circostanze più civili, {mf|Lord|Lady} von Valancius. Ci sono molte cose che desidero chiedervi!"
+
+### u037119
+{n}L'espressione di Evayne è grave.{/n} "Infatti. È una questione personale, se vogliamo. E non solo perché l'incidente è avvenuto in un sistema che appartiene a mio padre. Il direttore della prigione, An... un tempo era un mio caro amico. Voglio dargli la possibilità di tornare in sé, di deporre le armi e di fermare questa insensata sollevazione."
+
+### u037120
+"Mio padre governa da un tempo eccezionalmente lungo. Ha già visto morire tre dei suoi cronisti. Mi interesserebbe molto di più parlare con qualcuno che ha appena avuto il primo assaggio di potere e responsabilità. Inoltre... a dire la verità..." {n}Evayne sembra leggermente imbarazzato.{/n} "Non sono esattamente il discendente prediletto di Calligos Winterscale. Potrei contare sulle dita di una mano le volte in cui ho avuto conversazioni davvero lunghe con mio padre. E per metà di quelle conversazioni ci siamo scambiati messaggi tramite un {g|Encyclopedia:Astropath}Astropate{/g}. Credo sia prudente dire che non sono stato proprio colmato dell'attenzione e della saggezza di un Rogue Trader."
+
+### u037121
+"Certamente. Spero che la mia compagnia non vi deluda."
+
+### u037122
+"Ne sono lieto! E ora, credo sia giunto il momento di tornare a discutere delle circostanze tutt'altro che liete in cui ci troviamo..."
+
+### u037123
+{n}Evayne sembra offeso, ma trova la forza di tenere a freno le emozioni.{/n} "Molto bene, allora. Non oso importunarvi oltre. Discutiamo della questione che ci ha portati entrambi in questo luogo desolato."
+
+### u037124
+"Avete certamente ragione, {mf|Lord|Lady} von Valancius."
+
+### u037125
+"Incentivi e svaghi, dite? Suona come l'An che conosco..."
+
+### u037126
+"Esperimenti? Atrocità? Vi credo, ma... non somiglia per niente a lui!"
+
+### u037127
+"Da quando lo conosco, An è sempre stato un pensatore, perfino un sognatore. Scovava antichi libri, studiava modelli e teorie sociali. Era ossessionato dagli ideali. Ci sono sacerdoti nell'{g|Encyclopedia:AdeptusMinistorum}Ecclesiarchia{/g} che definirebbero eresia vedere la società dell'{g|Encyclopedia:Imperium}Imperium{/g} come qualcosa di diverso dalla perfezione, tuttavia... credo che An volesse soltanto ciò che riteneva giusto. Vorrei solo sapere dove quella strada lo abbia condotto..."
+
+### u037128
+{n}Abbassa il capo con ostinazione.{/n} "È mio amico. E vassallo di mio padre. Non nego la sua colpa — ma intendo dargli la possibilità di espiarla."
+
+### u037129
+"Mio padre non sarebbe d'accordo..." {n}Evayne sogghigna con ironia.{/n} "Per fortuna, non è qui."
+
+### u037130
+"È più avanti da qualche parte. E più in basso. Abbiamo scambiato due parole via {g|Encyclopedia:Vox}vox{/g}, e ha detto che mi avrebbe incontrato nella cava dietro l'edificio della prigione. Una scelta strana per delle trattative... ma erano le sue condizioni." {n}C'è preoccupazione nella sua voce.{/n}
+
+### u037131
+"Non puoi."
+
+### u037132
+"In tal caso, vi ringrazio per il vostro tempo, {mf|Lord|Lady} von Valancius." {n}Anche se intende far mordere le sue parole, la sua voce non ne dà alcun segno. Con un cenno del capo, si congeda.{/n}
+
+### u037133
+"Devo ammettere che apprezzo la vostra compagnia. Questa prigione mi mette addosso una forte inquietudine. Ma l'ascensore non può reggere entrambi i nostri gruppi. Se andate avanti, aspettateci nella cava, vi seguiremo a breve."
+
+### u037134
+"Vi prego, vi chiedo gentilmente di non sprecare il fiato. La mia decisione è definitiva."
+
+### u037135
+"Anche voi." {n}Evayne sorride.{/n} "Io... avevo i miei dubbi, naturalmente. Ma non sono il Governatore Medineh. Mi rifiuto di restare con le mani in mano al sicuro in un bunker. Volevo fare qualcosa, e ho pensato che presentarmi con una scorta leggera avrebbe mostrato ad Anathagon la sincerità delle mie intenzioni. Se fossi arrivato a capo di un'intera unità, non potrei biasimare An se avesse creduto a un assalto."
+
+### u037136
+{n}Heinrix emette uno strano suono — evidentemente ha deciso un po' troppo tardi di camuffare una risatina sarcastica da colpo di tosse.{/n}
+
+### u037137
+{n}Idira si china verso di te e sussurra in tono cospiratorio,{/n} "Lord Capitano, già che si sta mostrando così gentile, perché non gli chiedi se ti presta un paio di pianetini? E poi, se li rivuole indietro, puoi sempre dire che non ricordi dove li hai lasciati! Fidati, funziona sempre, eh eh."
+
+### u037138
+"Simili sentimenti e intenzioni tendono solo a creare più vittime."
+
+### u037139
+{n}Senti Idira sbuffare.{/n} "Sì, ne ho conosciuti anch'io di 'sognatori' così! Vogliono sempre il meglio, ma in qualche modo finisce sempre in eresia. Sul mio mondo c'era un pezzo grosso fissato con l'igiene dentale. Per risparmiare il dolore alla sua gente, iniziò a strappare tutti i loro denti marci. Ma, ehm, si lasciò un po' prendere la mano e cominciò a strapparne anche di sani, a volte insieme alla mascella. 'Cure preventive', le chiamava. Così una folla di servi sdentati finì per staccargli di netto la sua testa gentile. Anche quella era preventiva, vedi — quella sua testolina era marcia fino al midollo."
+
+### u037140
+"Oh, dagli un po' di tregua, d'accordo? Dovremmo essere contenti per Evayne. Ci vuole un bello sforzo per avere ancora un atteggiamento simile alla sua età! Non capita spesso di incontrare qualcuno di davvero onorevole."
+
+### u037141
+"Vostra Signoria..." {n}Abelard guarda il giovane Winterscale con apprensione.{/n}
+
+### u037142
+"So più di molti ma meno di quanto ci si potrebbe aspettare. I nostri {g|Encyclopedia:Navigator}Navigatori{/g} sono dei veri eremiti..." {n}Evayne si ferma un istante e guarda avanti. Si vede che smania di addentrarsi nella prigione, ma reprime l'impulso di correre via.{/n}
+
+### u037143
+"La Stazione Eurac V è il dominio sovrano della casata di Navigatori Orsellio. Come ho detto, sono straordinariamente riservati, non vogliono avere contatti con nessuno, nemmeno con il governatore del sistema." {n}Evayne fa una pausa.{/n} "Tuttavia, la Casata Orsellio ha un accordo diretto con la Casata Winterscale. Diversi Navigatori della Casata prestano servizio sulle navi di mio padre. Per questo mi è stato concesso l'accesso personale alla stazione — per le emergenze e le trattative importanti."
+
+### u037144
+"Sono stato alla stazione due volte. Da solo — i padroni pretendono che perfino guardie e servi restino sulla navetta. Per il {g|Encyclopedia:GoldenThrone}Trono{/g}, che posto bizzarro. Inspiegabilmente, le mie emozioni passavano da un improvviso tremito a una spensierata esultanza. Per quale motivo, non saprei dirlo. Quella stazione era tutt'altro che edificante. Ogni servo che si occupava di me laggiù aveva la lingua amputata. Be', dubito che simili dettagli vi interessino... Quando avremo finito qui, posso provare a contattare la stazione e a richiedere l'accesso anche per voi — ma sono quasi certo che sarà inutile."
+
+### u037145
+{n}Evayne esita prima di fare un gesto impotente.{/n} "Vorrei potervi aiutare, ma ho dato la mia parola che avrei custodito i segreti della Casata Orsellio. Imploro il vostro perdono, {mf|Lord|Lady} von Valancius."
+
+### u037146
+"Ultimamente gli Orsellio si comportano in modo ancora più strano del solito. Cambiano i codici d'accesso con una frequenza irragionevole. Subito prima di partire per Rykadi Philia, il mio comunicatore ha ricevuto un messaggio: 'Come può un cieco vedere il cielo stellato?' Presumo sia la nuova parola d'ordine. Se vi è di scarso aiuto, vi porgo le mie scuse. I {g|Encyclopedia:Navigator}Navigatori{/g} sono... una razza peculiare."
+
+### u037147
+{n}Segue una lunga pausa. Evayne ti scruta, soppesando qualcosa nella mente. Alla fine, emette un sospiro.{/n} "È un compito gravoso fidarsi di qualcuno a prima vista, ma... ho una buona impressione di voi, {mf|Lord|Lady} von Valancius. Dopotutto, persone nella nostra posizione possono permettersi di essere franche l'una con l'altra."
+
+### u037148
+"Vi invio doni, fratelli e sorelle.
+Fratello Crepuscolo, nelle tue mani consegno una lente minore bruciata dal respiro della realtà perfetta. La tua arma è l'avidità, perciò lascia che questo artefatto diventi uno strumento di contrattazione. Persino chi ancora non ha contemplato la Verità Primordiale può usare questa lente per evocare un possente protettore. Molti perciò la brameranno e la riterranno una lieve trasgressione contro i dogmi della fede-cadavere. Che sia! Attraverso questa lente, l'Edge of Daybreak vigila, con lo sguardo implacabile e la fame insaziabile.
+Sorella Aurora, a te dono più che artefatti: la conoscenza del rituale della loro creazione. Sei una conquistatrice — dunque ti serve uno strumento che ti permetta di mettere in ginocchio i mondi. Ti insegnerò a forgiare lenti che possono purgare dalle fallacie gli occhi degli ignoranti. Più verità porteranno su un mondo conquistato, più esso sarà vicino al dominio dell'Edge of Daybreak.
+Usate bene i miei doni. Che giunga l'Alba Finale!
+Fratello Afterlight."
+
+### u037149
+Vecchia lettera
+
+### u037150
+"Fedeli, l'ora si avvicina, ma con essa anche i nostri nemici!
+Aurora, mentre il tuo aspetto serale acquista forza, il tuo volto mattutino purga il chiostro dalla falsa fede, dominio dei servi della macchina vestiti di cremisi.
+Araldi, proteggete i vostri bastioni e attendete l'ora. Quando verrà, riconoscerete l'Alba Finale!"
+
+### u037151
+"Un messaggio agli Araldi di Aurora"
+
+### u037152
+Chiave della guardia carceraria
+
+### u037153
+Chiave dell'ufficio del direttore.
+
+### u037154
+Chiave del direttore
+
+### u037155
+"Merda di grox, perché proprio io? PERCHÉ? Ho saltato il pagamento della decima dodici anni fa. Dodici anni! L'ingiunzione dell'ispettore si è persa chissà dove nelle viscere dell'Administratum planetario ed è rimasta lì tutto questo tempo, ma si sono ben ricordati di aggiungere le multe ogni mese. Quando hanno trovato quel maledetto foglio e finalmente me l'hanno comunicato... la somma totale era così oscena che ci sarebbero volute tre generazioni dei miei discendenti, se ne avessi, per saldarla. Il mio destino era segnato: processo, condanna, prigione. Tutto per colpa di uno stupido scribacchino che ha ficcato la mia carta nella scatola sbagliata!
+A dire il vero, penso di essermela cavata piuttosto bene. Il mio letto in caserma è duro più o meno quanto quella lastra di rococemento che ho a casa, lavorare nella cava non è molto più faticoso del mio vecchio lavoro, e le regole... che il vuoto mi porti, quel vecchio bastardo che governa Rykad Minoris è un maledetto sadico al confronto!
+È un posto strano. Non mi hanno ancora picchiato una sola volta. Le guardie abbaiano ordini di continuo, ma non ci mettono mai le mani addosso. Hanno anche una specie di cerchia ristretta di prigionieri speciali, i 'prescelti'. L'Optimatum, lo chiamano. Se riesci ad entrare, l'Imperatore mi sia testimone, ti danno un vero giorno libero! Ti lasciano uscire dalla cella e andare nel cortile vicino alla grande caserma. E, sentite qua, lì ti lasciano riposare e ti danno da mangiare meglio di qualunque sbobba ci rifilino in mensa. Mi hanno detto che serve a migliorare la nostra motivazione e tutto il resto — a coltivare un desiderio più forte di redimerci e tornare a essere degni servitori dell'Imperium. Ma io so cos'è davvero — solo un club per i favoriti del direttore. La solita storia di ovunque: lecca i piedi a chi comanda e ottieni qualche privilegio sfarzoso.
+Dicono che tutta la faccenda sia stata un'idea del direttore. Tipo buffo, il nostro direttore. Sembra più nobile della nobiltà stessa: alto, curato, denti perfetti, occhi ardenti, stivali così lucidi che ci vedi riflessa la faccia quando ti chini a leccarli. Ma quel pazzo non è che voglia tanto gente che gli lecchi gli stivali. Va in giro con l'aria di chi è assorto nei pensieri, certo, con solo un paio di guardie al fianco, e a volte — se ci credete — parla con i prigionieri. Come ti chiami, chiede a tutti con voce calma. Perché sei stato condannato? Provi rimorso? Non urla mai a nessuno, non ordina mai di farli frustare. Invece, distribuisce ricompense ai prescelti. Continua a dirci cose tipo che dovremmo sforzarci di far credere di nuovo in noi la società.
+Eh già. Come dite voi, Signor Direttore! Da domani cercherò di entrare in questi vostri 'ottimati'. Sono bloccato qui dentro fino al giorno della mia morte, e questo significa niente ritorno alla società per me — ma, con l'aiuto dell'Imperatore, potrei finire tra i ranghi dell'élite locale!"
+
+### u037156
+"Ah ah ah, giuro, l'Imperatore non mi ha abbandonato!
+Indovinate chi è appena sceso dalla passerella della navetta insieme al nuovo gruppo di prigionieri? CLENSIN-maledetto-dal-Trono-WILLIA! Ex impiegato dell'Administratum. No — L'impiegato. Proprio quella feccia che ha perso l'ingiunzione per il pagamento mancato. È lui il motivo per cui sono in questo buco.
+Non so per cosa l'abbiano sbattuto dentro, ma non mi sono mai sentito meglio in vita mia. Non è solo dietro le mie stesse sbarre, è carne fresca, e io sono un venerabile ottimate rispettato da tutti nella colonia.
+Il direttore ha appena escogitato un nuovo miglioramento: d'ora in poi, chiunque renda poco, si comporti male o crei problemi in qualsiasi altro modo sarà punito dalla 'comunità'. In particolare, dai migliori e più brillanti del posto. Il sottoscritto e gli altri ottimati!
+Gli ultimi due idioti che non hanno raggiunto la quota sono stati spogliati nudi, frustati e gettati in gabbie nella grande caserma. Lì adesso devono mangiare, dormire e cagare con tutti che guardano. Allora ho pensato tra me: non è giusto, hanno spinto troppo oltre queste punizioni. Ma ora...
+Aspetta e vedrai, pezzo di merda di grox. Ti incastrerò per qualcosa. Quelle gabbie chiamano il tuo nome..."
+
+### u037157
+"Ho paura.
+Avrei dovuto saperlo che tutta quella carità del direttore non avrebbe portato altro che guai. Nessun nobile, per quanto svitato, farebbe una cosa del genere, ma quell'uomo...
+È iniziato con piccole cose. Il direttore passava a parlare, come faceva sempre. Solo che prima ci faceva domande, e ora per lo più ci riversava addosso sermoni. Farneticazioni su un sentiero di purgazione, la santità del sacrificio, il vedere con occhi accecati... Io ascoltavo e annuivo. Sì, Signor Direttore. Certo, Signor Direttore. Poteva dire tutte le sciocchezze che voleva, finché continuavano ad arrivare i gustosi pasti degli ottimati. Pensavo che anche tutti gli altri facessero lo stesso, annuendo solo per compiacere il pezzo grosso.
+Mi sbagliavo. Dopo di che, anche nella caserma la gente ha cominciato a blaterare di purgazione e cecità. A quanto pare, noi ottimati non eravamo più solo i favoriti del direttore, eravamo — l'Imperatore mi perdoni — una specie di 'profeti' destinati a 'salvare' il resto di questa miserabile combriccola. O a risvegliarla. O a farla vedere. Qualche sciocchezza del genere.
+Ora la gente doveva fare sacrifici agli ottimati. Ieri, lo sciocco che dormiva nel letto sotto il mio durante il mio primo anno qui si è tagliato di netto un orecchio ed è strisciato in ginocchio verso di me. Mi ha porto l'orecchio e mi ha supplicato di non abbandonarlo quando fosse giunta l'ora fatidica. Che diavolo dovrei farmene di un orecchio, per il Trono? Perché tutti — ma proprio tutti! — mi fissano di continuo?
+Il direttore ha detto che il momento era vicino, che il destino riservava cose davvero grandiose agli ottimati.
+Sono andato a vedere come stava il mio caro amico Clensin. Non parlava da tre mesi, da quando gli avevo fatto strappare tutti i denti superiori. Oggi ha parlato. Mi ha guardato dritto in faccia e ha detto: 'Uomo morto.'
+Ho continuato a picchiarlo finché non ha fatto male. Finché non ha fatto male a me. Ora ho il pugno e i piedi pieni di lividi. Mezza caserma stava lì a guardare. E a pregare.
+Ho paura..."
+
+### u037158
+Diario di prigionia di Aati Shan, parte prima
+
+### u037159
+Diario di prigionia di Aati Shan, parte seconda
+
+### u037160
+Diario di prigionia di Aati Shan, parte terza
+
+### u037161
+"Argenta ha ragione — il pericolo dell'eresia non può essere sopravvalutato."
+
+### u037162
+"Idira ha ragione. È troppo presto per lanciare accuse di eresia."
+
+### u037163
+"Sorella Argenta, cessa subito queste insinuazioni su Theodora! Non permetterò che il nome della famiglia von Valancius venga diffamato da simili parole."
+
+### u037164
+"Strega, stai camminando sul filo tra l'eresia aperta e la canna di un bolter. Chiudi la bocca prima che te la chiuda io."
+
+### u037165
+[Allontanati dal dispositivo]
+
+### u037166
+"Non ho nulla da nascondere, Heinrix. Quando abbiamo trovato il corpo di Theodora, lì vicino c'erano frammenti dello stesso tipo di vetro."
+
+### u037167
+"Sono {mf|certo|certa} che i membri del mio seguito soddisferanno la curiosità dell'Inquisizione."
+
+### u037168
+"Non osare interrogare la mia gente su questioni che non ti riguardano!"
+
+### u037169
+{n}Il tuo sguardo è attratto dallo strano dispositivo. All'inizio ti tormenta il timore di qualche influenza perniciosa, ma il vero motivo diventa presto evidente. Il vetro installato nel dispositivo brilla in modo unico — esattamente come i frammenti dell'oggetto rotto sconosciuto che hai trovato vicino alla scrivania di Theodora von Valancius.{/n}
+
+### u037170
+{n}Il tuo sguardo è attratto dai frammenti dell'enorme lente sparsi attorno al dispositivo rotto. All'inizio non sai cosa ti turbi, ma all'improvviso la consapevolezza ti colpisce. Il vetro brilla in modo unico — esattamente come i frammenti dell'oggetto rotto sconosciuto che hai trovato vicino alla scrivania di Theodora von Valancius.{/n}
+
+### u037171
+"Senza dubbio, {name}."
+
+### u037172
+{n}L'Interrogatore rivolge un sorriso gelido.{/n} "Grazie per la vostra preziosa guida, Rogue Trader, ma la mia posizione mi obbliga a decidere da me chi interrogare, su cosa e con quali metodi."
+
+### u037173
+"Che c'è, Lord Capitano? Perché siete tanto {mf|interessato|interessata} a..." {n}Abelard si interrompe quando nota ciò che stai guardando. Collega subito i fatti.{/n} "Per i santi dell'Imperium... non può essere!"
+
+### u037174
+{n}Idira si morde il labbro.{/n} "Anch'io... lo vedo. Qualunque cosa fosse quella roba nel suo studio... era fatta dello stesso materiale di questa robaccia."
+
+### u037175
+"Cosa? COSA?" {n}Abelard è senza parole. Si prende un momento per ricomporsi, e all'improvviso le parole cominciano a sgorgare in un balbettio concitato:{/n} "È un errore. Una calunnia studiata per macchiare il buon nome di una persona ormai morta che non può nemmeno difendersi! Prima quei lacchè dell'Arcinemico hanno assassinato Lord Capitano Theodora, e ora... Questo non può essere tollerato! NON sarà tollerato!"
+
+### u037176
+"Avanti, Abelard. Ricorda com'era." {n}Il sorriso di Idira tradisce il suo dolore ma, al tempo stesso, è stranamente consapevole.{/n} "Sfacciata. Decisa. Era come se tutta la sua vita fosse una corsa contro il destino, finché alla fine il destino non l'ha raggiunta. Si sarebbe buttata a capofitto in un buco nero se avesse pensato che le avrebbe dato anche solo un passo di vantaggio su tutti gli altri nella Distesa. Se solo potessimo scoprire cosa teneva nella scrivania e perché è andata a prenderlo durante l'attacco..."
+
+### u037177
+{n}Le parole della sorella risuonano di una speranza genuina e sincera che ti sia riservato un destino più degno. Non sembra scioccata dalla notizia della possibile eresia di Theodora.{/n}
+
+### u037178
+{n}Le parole della sorella risuonano di un dolore genuino e sincero e della speranza che tu non segua le orme di Theodora.{/n}
+
+### u037179
+"Dev'essere così facile la vita per voi predicatori bigotti. Un ninnolo dubbio, e non vedete più una persona, vedete 'sangue cattivo', un fastidioso ostacolo." {n}C'è abbastanza veleno nella voce di Idira da avvelenare un intero reggimento.{/n}
+
+### u037180
+{n}Argenta indietreggia, ma un attimo dopo i suoi occhi scuri si accendono di furia.{/n} "Come osi rimproverarmi? Stiamo parlando di favoreggiamento dell'Arcinemico! Chi si è contaminato così non può mai giustificare le proprie azioni!"
+
+### u037181
+"Certo, perché darsi la pena di cercare di capire qualcosa quando puoi semplicemente etichettare chiunque come eretico e chiuderla lì? Solo che, cara amica, mi pare di ricordare che Theodora non ti dispiaceva poi tanto quando eri a bordo della nave. Non l'hai lasciata un attimo. Ti ha salvata, ti ha aiutata, e la tua adorazione è appassita nel momento in cui hai sentito un'accusa che macchiava il suo ricordo. Non eri sorpresa né turbata — l'hai semplicemente abbandonata e sei andata avanti."
+
+### u037182
+{n}L'Interrogatore ti osserva con un interesse cortese e minaccioso.{/n} "Non credo di essere al corrente della storia di cui discutete con tanto fervore. Sono certo che il Maestro Werserian e la Signora Tlass saranno lieti di porre rimedio alla mia ignoranza una volta tornati a bordo. Non vorremmo distrarre il Lord Capitano da questioni importanti."
+
+### u037183
+"Ma lei—" {n}Un tuo sguardo la costringe subito a mordersi la lingua.{/n} "Mi dispiace, Lord Capitano."
+
+### u037184
+{n}Heinrix riflette un momento.{/n} "I Rogue Trader spesso oltrepassano il limite nel perseguire la grandezza o nel cercare di comprendere l'ignoto. È difficile dire cosa fosse l'oggetto in possesso di Theodora... ma il solo fatto che lo avesse difficilmente depone a difesa della vostra predecessora."
+
+### u037185
+{n}Heinrix guarda Abelard e Idira, che si scambiano sguardi preoccupati.{/n} "Senza dubbio, {name}."
+
+### u037186
+"{name}, non essere {mf|ingenuo|ingenua}. Theodora teneva al suo fianco una strega non autorizzata come un animale domestico. Credi davvero che ci avrebbe pensato due volte prima di oltrepassare il limite in altri modi?"
+
+### u037187
+"Lord Capitano, non sto giustificando l'eresia, solo che non credo... non voglio credere che Theodora fosse coinvolta. Che tutto il bene che ha fatto possa essere cancellato così facilmente con una sola parola."
+
+### u037188
+{n}Idira scuote la testa con disperazione, poi si blocca, come se si fosse ricordata qualcosa. Rabbrividisce di terrore al suono dell'Interrogatore della Santa Inquisizione che si schiarisce piano la gola.{/n}
+
+### u037189
+{n}Lo sguardo ardente di Argenta si pianta all'istante su di te. Sibila con freddezza,{/n} "Le azioni della predecessora del Rogue Trader parlano più forte di qualsiasi parola io possa pronunciare."
+
+### u037190
+"Non ho tempo per lunghi discorsi. Informami sulla situazione più avanti, e sii conciso."
+
+### u037191
+"Perché il giovane Winterscale avrebbe sentito il bisogno di parlamentare con i dissidenti?"
+
+### u037192
+"Non ho altre domande. Puoi congedarti, pilota."
+
+### u037193
+"Abelard, insegna a questa gentaglia il modo corretto di rivolgersi {mf|al proprio sovrano|alla propria sovrana}."
+
+### u037194
+"È vivo ma gravemente ferito. Aiuta la mia gente a portarlo sulla mia nave."
+
+### u037195
+[Resta in sdegnoso silenzio]
+
+### u037196
+"Non sono ancora {mf|stato|stata} a Rykad Minoris e non so nulla del destino di questo ufficiale."
+
+### u037197
+"Ho incontrato Jaspar allo spazioporto e gli ho salvato la vita. Mi aspetto una dimostrazione di gratitudine. Puoi dare il mio nome al tuo primogenito o fare qualunque cosa facciate voi popolani per ringraziare i vostri eroi."
+
+### u037198
+"È morto."
+
+### u037199
+"La ribellione è stata schiacciata. Ho notizie del tuo signore."
+
+### u037200
+"È sano e salvo. Lo accoglierò come ospite sulla mia nave, perciò prepara la navetta."
+
+### u037201
+"È sano e salvo. Tornerà qui presto, perciò prepara la navetta."
+
+### u037202
+"È vivo, ma gravemente ferito. Consiglio di portarlo a Rykad Minoris per le cure il prima possibile."
+
+### u037203
+[Menti] "Evayne Winterscale è morto tragicamente per la brutale tortura inflittagli dal direttore ribelle."
+
+### u037204
+"Evayne è stato sottoposto dai ribelli a riti eretici e a tortura. Gli ho concesso la Pace dell'Imperatore."
+
+### u037205
+"Sono il Rogue Trader {name} von Valancius. Ora presentati."
+
+### u037206
+"Inchinati davanti all'illustre {name} von Valancius!"
+
+### u037207
+"Il direttore in persona guida la rivolta?"
+
+### u037208
+"Parlami di questo planetoide."
+
+### u037209
+"Che rapporto hai con quest'uomo?"
+
+### u037210
+"Sono un Rogue Trader, non {mf|un fattorino|una fattorina}. Ho questioni più pressanti da sbrigare che assecondare la curiosità di un ufficiale subalterno."
+
+### u037211
+"Non devi preoccuparti. Jaspar è vivo."
+
+### u037212
+"Cerco un uomo di nome Heinrix van Calox. È qui, forse?"
+
+### u037213
+"Questa rivolta nella prigione è collegata alla ribellione planetaria?"
+
+### u037214
+"C'è altro di cui dovrei essere {mf|informato|informata} prima di partire?"
+
+### u037215
+{n}La giovane donna ti fissa, aggiustandosi nervosamente l'uniforme.{/n} "Vostra... Signoria? Mille scuse se mi sono rivolta a voi in modo scorretto! Siete {mf|venuto|venuta} per conto del Governatore Medineh o per altri affari? Ehm... Se è il secondo caso, dovete sapere che c'è stata una rivolta nella prigione locale. Qui è piuttosto pericoloso!"
+
+### u037216
+{n}La pallida giovane donna ti guarda con un misto di speranza e incredulità negli occhi. Noti le sue mani tremare mentre stringe l'arma.{/n} "Chi siete? Siete venuti dal pianeta? Siete i rinforzi? Denti di santo, pensavo che non sareste mai arrivati!"
+
+### u037217
+{n}Abelard fissa la donna con sguardo torvo, aggrottando la fronte.{/n} "Ufficiale, la persona che avete davanti è {name} von Valancius, {g|Encyclopedia:RogueTrader}Rogue Trader{/g}. Sebbene siate, a quanto ho capito, suddita di un'altra dinastia, fareste bene a presentarvi con il dovuto decoro."
+
+### u037218
+"Subito!" {n}La donna si mette sull'attenti.{/n} "Capitano Raquel Vekhari, al servizio della Casata Winterscale e pilota di questa navetta! È un onore salutare Sua Signoria von Valancius!"
+
+### u037219
+"C'è stata una rivolta nella prigione del planetoide. Purtroppo è guidata dal direttore stesso, l'onorevole Anathagon Casteglia. Si è alleato con la feccia che lui stesso doveva sorvegliare e ha dichiarato Rykadi Philia indipendente dall'autorità del legittimo governatore del sistema!"
+
+### u037220
+"Siamo fidanzati, Vostra Signoria," {n}dichiara lei con un certo imbarazzo.{/n}
+
+### u037221
+"Il primo Winterscale a mia memoria che preferisce parlare prima di sparare e squartare."
+
+### u037222
+"Che peccato. Che l'{g|Encyclopedia:Emperor}Imperatore{/g} protegga quello sciocco... Grazie per il vostro tempo, Vostra Signoria."
+
+### u037223
+"Ah... ehm... sì, certo, Vostra Signoria. Lo faremo! È un grande onore!" {n}Si sforza di sorridere. Poi, con molta più sincerità, aggiunge,{/n} "E grazie — sia per aver salvato Jaspar sia per avermi fatto sapere che sta bene!"
+
+### u037224
+{n}Emette un lungo sospiro. Si vede il sollievo brillarle negli occhi.{/n} "Non potete immaginare quanto avessi bisogno di sentirlo. Grazie!"
+
+### u037225
+{n}Il colore abbandona il volto della pilota.{/n} "Il giovane lord... è... morto?" {n}Per qualche istante di silenzio prolungato, cerca di dare un senso a quanto accaduto.{/n} "Io... devo recuperare il suo corpo. E... e riferire la tragedia. G-grazie, Vostra Signoria."
+
+### u037226
+{n}Si inchina. Dalla disperazione nei suoi occhi capisci che è esausta, spaventata, e desidera andarsene da questo planetoide il prima possibile.{/n}
+
+### u037227
+{n}Sorride appena.{/n} "Avete proprio ragione. Il giovane Lord Winterscale non è l'ombra di suo padre. Se è determinato a salvare il suo amico, ci proverà qualunque ostacolo gli si pari davanti."
+
+### u037228
+{n}Sorride debolmente.{/n} "Il giovane Lord Winterscale non è l'ombra di suo padre. Se è determinato a salvare il suo amico, non si tirerà indietro. Prego il {g|Encyclopedia:GoldenThrone}Trono{/g} che sia vivo e in buona salute. È via da così tanto tempo, e... questo posto non mi piace proprio."
+
+### u037229
+"L'unico insediamento di Rykadi Philia è una colonia penale. I prigionieri lavorano nelle miniere e nelle cave sotto cupola. Estraggono zolfo, ceramopolvere e sabbia, che poi viene fusa. Un posto piuttosto anonimo... o almeno lo era, prima degli eventi attuali."
+
+### u037230
+"E immagino che non vedano l'ora di una dieta a base di sabbia e ghiaia. Che razza di pazzo scatenerebbe una rivolta su una roccia sterile?"
+
+### u037231
+"Giusta osservazione. O il direttore ha alleati disposti a rifornirlo di risorse, o è pazzo. Certo, c'è una terza spiegazione: non ha intenzione di lasciare questo mondo vivo."
+
+### u037232
+"Sembra più probabile che il direttore Casteglia abbia saputo della ribellione su Rykad Minoris e abbia deciso di sfruttare la situazione a proprio vantaggio. Non posso dirlo con certezza. Forse nessuno può. Il Governatore Medineh ha sempre preferito sparare ai ribelli piuttosto che indagare sui loro moventi e sui loro legami."
+
+### u037233
+{n}La donna ti guarda ancora per un po', con gli occhi carichi di speranza, poi sospira.{/n}
+
+### u037234
+"A meno che non si tratti di uno dei prigionieri o delle guardie, mi sembra improbabile. Non ci sono navette funzionanti oltre alla vostra e alla mia. Non c'è nient'altro che qualcuno avrebbe potuto usare per raggiungere questo posto."
+
+### u037235
+"Alcuni ribelli si sono asserragliati nelle caserme. Non so quanti, ma dato che è l'unico passaggio verso il luogo in cui si svolgono le trattative, mi aspetto una forte resistenza. Fate attenzione, Vostra Signoria: le guardie di Lord Winterscale hanno minato l'ingresso perché i ribelli non potessero raggiungere la navetta."
+
+### u037236
+"Evayne Winterscale ha compiuto diverse visite diplomatiche a Eurac V per conto del padre, il Rogue Trader Calligos Winterscale. Il Gran Reggente non avrebbe concesso l'ingresso a una persona disonorevole, il che significa... qualunque cosa sia accaduta in questo terribile, maleodorante luogo, dobbiamo aiutare quest'uomo di sangue nobile."
+
+### u037237
+{n}Cassia aggrotta la fronte, confusa.{/n} "Theobald ha fatto giustiziare la moglie e il figlio unico per il semplice sospetto di tradimento contro la Casata Orsellio. Allora perché il nobile Evayne... si è precipitato a salvare qualcuno che aveva tradito la propria casata? I legami di amicizia danno il diritto di commettere errori imperdonabili?"
+
+### u037238
+"Dubito che ne abbia avuto molte occasioni. Per quanto ne sappiamo, Evayne Winterscale lascia di rado Rykad Minoris e passa la maggior parte del tempo nelle sue guglie. Un ambiente povero in cui cercare la gloria o anche solo assaporare la vera vita al di là di mura rinforzate." {n}Heinrix coglie lo sguardo di Abelard e scrolla le spalle.{/n} "Siamo tenuti a essere ben informati su qualsiasi individuo anche solo remotamente legato ai Rogue Trader della Distesa."
+
+### u037239
+{n}Idira si agita per qualche secondo, esitando a dire qualcosa, ma poi decide di rispondere piano al posto tuo,{/n} "È vivo. L'abbiamo visto allo spazioporto quando siamo atterrati su Rykad..." {n}Incrociando il tuo sguardo, si rimpicciolisce e si volta.{/n}
+
+### u037240
+{n}La pilota fa un cenno a Idira con un debole sorriso.{/n} "Grazie."
+
+### u037241
+"La biomassa da lavoro avrebbe dovuto essere dotata di interruttori di spegnimento. È sorprendente che questa procedura non sia stata eseguita per tempo."
+
+### u037242
+"Cosa? Interruttori? Non sono macchine, non puoi spegnerli— oh, merda di grox, ora capisco. Qualche grammo di fyceline impiantato alla base del cranio, questa sarebbe la tua idea di spegnimento? Ti rendi conto che sono persone vive, non una risorsa?"
+
+### u037243
+"Questa affermazione è falsa. L'attributo primario del personale condannato in una stazione mineraria è quello di risorsa. L'individualità è trascurabile."
+
+### u037244
+{n}Lei si sporge in avanti con ansia.{/n} "Lord Winterscale è vivo? È... sta bene?"
+
+### u037245
+{n}La donna si blocca per un momento prima di chiedere con esitazione,{/n} "Vostra Signoria, se posso rubarvi un minuto... non avrei mai osato disturbarvi con una questione personale, ma la situazione... In ogni caso, siete già {mf|stato|stata} nella capitale di Rykad Minoris? Volevo chiedervi se avete visto laggiù un uomo, un ufficiale delle comunicazioni di nome Jaspar..."
+
+### u037246
+{n}Sul volto della pilota c'è un evidente sollievo. Battendo i tacchi, esclama allegramente,{/n} "Considerate fatto, Vostra Signoria! Grazie per la buona notizia!"
+
+### u037247
+{n}Nello sguardo della pilota baluginano lampi di panico, ma si ricompone in fretta.{/n} "S-sarà fatto subito! Grazie per avermelo comunicato, Vostra Signoria!"
+
+### u037248
+"È un grande onore, Vostra Signoria! Capitano Raquel Vekhari, al servizio della Casata Winterscale e pilota di questa navetta!" {n}La donna incontra il tuo sguardo, cercando chiaramente di capire se è riuscita a mostrare il giusto rispetto a una figura di tale rango.{/n}
+
+### u037249
+"Rapporto! C'è stata una rivolta nella prigione del planetoide, guidata dal direttore stesso. Il mio lord Evayne Winterscale, figlio del {g|Encyclopedia:RogueTrader}Rogue Trader{/g} Calligos Winterscale, è andato a parlamentare con lui."
+
+### u037250
+"Sono venuta qui come pilota della navetta insieme all'onorevole Evayne Winterscale, figlio di Calligos Winterscale, {g|Encyclopedia:RogueTrader}Rogue Trader{/g}, Vincitore degli Xenos, Eternamente Trionfante sui Nemici dell'Umanità," {n}precisa, scandendo ogni parola del titolo del suo signore.{/n}
+
+### u037251
+"Il giovane Lord Winterscale voleva parlare personalmente con il direttore. L'onorevole lord intende porre fine a questo tradimento senza legge. Lui e la sua scorta {d|Encyclopedia:Ch1_Jail_Early}sono partiti per incontrare gli insorti{/d}, mentre a me è stato ordinato di attendere il loro ritorno."
+
+### u037252
+"Il giovane Lord Winterscale voleva parlare personalmente con il direttore per poter porre fine al suo tradimento senza legge. Lui e la sua scorta sono andati avanti, e..." {n}Impallidisce ancora di più.{/n} "Non riesco a contattarli via {g|Encyclopedia:Vox}vox{/g} da {d|Encyclopedia:Ch1_Jail_Late}moltissimo tempo{/d} ormai."
+
+### u037253
+"Sì..." {n}Si morde il labbro.{/n} "Nessuno se l'aspettava. Il Signor Casteglia è un nobile di una rispettata casata di governatori e vassallo della Casata Winterscale! All'improvviso ha proclamato che Rykadi Philia era ora il suo dominio personale, che i prigionieri erano suoi sudditi e che non si sarebbe mai più inchinato a nessuno... È pura eresia!"
+
+### u037254
+{n}Sospira piano.{/n} "È una questione personale. Il Signor Casteglia, il direttore sedizioso, è l'amico d'infanzia di Lord Evayne. Quando il mio lord ha saputo della rivolta, la notizia lo ha addolorato profondamente e così si è precipitato qui senza indugio — nella speranza di far rinsavire il vecchio amico, senza dubbio."
+
+### u037255
+"Non oso trattenervi oltre. Buona fortuna, Vostra Signoria! Contatterò il gruppo di Lord Evayne via {g|Encyclopedia:Vox}vox{/g} per informarli del vostro arrivo!"
+
+### u037256
+"Evayne... Evayne..." {n}borbotta Abelard, accarezzandosi la barba.{/n} "Uno dei suoi lontani discendenti minori, sì. È tutto ciò che so di lui, il che significa che non si è distinto in alcun modo significativo."
+
+### u037257
+[Attacca] "Considera la tua richiesta respinta. Ora muori!"
+
+### u037258
+"Dammi un motivo per non giustiziarti sul posto."
+
+### u037259
+"Dimmi di più sul direttore e sulla rivolta."
+
+### u037260
+"Se ti risparmio, cosa ci guadagno?"
+
+### u037261
+"Molto bene. Ti risparmierò."
+
+### u037262
+Hai liberato i prigionieri pirati.
+
+### u037263
+Hai giustiziato i prigionieri pirati.
+
+### u037264
+[Attacca] "Ho cambiato idea. Nel Suo nome, non permetterò a una gentaglia eretica come voi di lasciare vivi questo posto!"
+
+### u037265
+Hai preso i prigionieri pirati nel tuo equipaggio.
+
+### u037266
+"Non vi lascerò qui a morire per mano dei sicari del direttore. Andate, dite al mio pilota che è ordine del Lord Capitano che siate mandati sulla mia nave. Entrerete nell'equipaggio della mia nave. Avete il mio perdono personale in quanto Rogue Trader."
+
+### u037267
+"Che razza di 'persone molto serie'?"
+
+### u037268
+"Siete pirati. Mi sono {mf|imbattuto|imbattuta} in una nave del vuoto appartenente ai vostri soci. Stavano pianificando di farvi evadere."
+
+### u037269
+"Grazie al {g|Encyclopedia:GoldenThrone}Trono{/g}! Facce normali! Pensavamo che saremmo morti qui con questi pazzi!" {n}Il vecchio con un sorriso sdentato lascia cadere l'arma e tende le mani in segno di pacificazione.{/n} "Vi prego non sparateci, Vostra Nobiltà! Lasciateci dire una parola!"
+
+### u037270
+"Ecco come stanno le cose: siamo detenuti onesti e tranquilli. Non volevamo ribellarci! Ma, ecco, stare a guardare non era proprio un'opzione. I cagnolini del direttore hanno fatto in fretta a sbrigarsela con chi rifiutava di unirsi alla festa. Quindi abbiamo dovuto — sapete — stare al gioco. Ma era solo quello — un gioco! Non abbiamo mai voluto offendere il Governatore Medineh né la legittima autorità della Casata Winterscale."
+
+### u037271
+"O almeno così era all'inizio. Poi il direttore ha deciso che sono gli ottimati, non le guardie, a dover occuparsi delle punizioni. E che non era compito dei sorveglianti controllare i prigionieri al lavoro — era degli ottimati. Be', lasciate che vi dica: è allora che questi santarellini hanno cominciato davvero a brillare! Le guardie non sono nemmeno nella stessa lega dei nostri cari ottimati. Ai vecchi tempi avevamo forse cinque o dieci stecchiti a settimana, e ora, be', ora eravamo fortunati se erano solo cinquanta."
+
+### u037272
+"E non era nemmeno finita! Il Direttore Casteglia si è trasferito dai suoi alloggi per vivere proprio nella cava, sotto la cupola. E credo che qualcosa nella sua nuova casa gli abbia davvero fritto il cervello. Ha cominciato a sparare le cose più assurde tipo 'gli ottimati sono santi' che 'vedranno la verità'. E ha cominciato a portarli nella cava. Non tutti sono tornati. Quelli che sono tornati, non li avreste riconosciuti, più bestie che uomini. Facevano a pezzi la gente a destra e a manca. Perfino le guardie. E i sorveglianti. Li aveva armati il direttore in persona! E questa è tutta la triste storia. Ma l'ho capito dal momento in cui ci ha fatto avere le cene: oh, questa non finirà bene."
+
+### u037273
+"Hmm, hmm, dunque, come possono dei miseri galeotti sperare di ringraziare la vostra nobile persona... Ah! Ho un'idea. Vedete, noi qui siamo — come dire — diversi dagli altri prigionieri di questo posto. Quelli sono tutti ladruncoli di Rykad Minoris, debitori, pezzenti. Non sono nessuno di serio! Noi, Vostra Nobiltà, siamo fatti di un'altra pasta. Siamo cercatori di fortuna del vuoto."
+
+### u037274
+{n}Heinrix inclina leggermente la testa da un lato, ascoltando con attenzione.{/n}
+
+### u037275
+{n}L'uomo grugnisce, sbuffa, poi si decide.{/n} "Be', ormai è uscito il gatto dal sacco... I nostri avrebbero dovuto venirci a prendere da un pezzo, ma si sono impantanati da qualche parte, che finiscano nella gola di un kraken del vuoto! E in tutto il tempo che abbiamo dovuto aspettare, è successo QUESTO... Scusate se ho cercato di darvi a bere frottole, è che non vogliamo avere niente a che fare con tutta questa storia del direttore. Allora, che si fa? Ci lasciate andare?"
+
+### u037276
+"Che ne dite se vi diciamo dove sulla {g|Encyclopedia:Footfall}Stazione Footfall{/g} — sapete, Footfall, l'unico cantiere navale e il miglior mercato di tutta la {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} — sì, dunque... dove su Footfall potete trovare persone molto serie e con la testa per gli affari, e come potete ottenere da loro uno sconto molto speciale su merci molto speciali?"
+
+### u037277
+"Dite sul serio?" {n}Heinrix ti lancia un'occhiata con lieve disgusto.{/n}
+
+### u037278
+"Oh, che bello sentirlo, Vostra Nobiltà! Davvero bello! Ecco un vero aristocratico, mica quel viscido del direttore! Dunque, Vostra Nobiltà, dov'ero rimasto...?"
+
+### u037279
+"Se mai vi capita di essere sulla {g|Encyclopedia:Footfall}Stazione Footfall{/g}, c'è un distretto lì, i Quartieri d'Ombra. Si chiama così perché si trova dietro la statua del nostro santissimo {g|Encyclopedia:Emperor}Imperatore{/g}. Ho conosciuto gente che lo chiamava in un altro modo, sempre perché sta dietro la statua. Non ripetete i loro errori, vi dico! Il Reverendo Hieronymus non ha perso tempo a trovarli e bruciarli tutti."
+
+### u037280
+"Perdonate un vecchio che si distrae... Dunque! Footfall. I Quartieri d'Ombra. C'è un bar lì, costruito nei resti di una vecchia nave. E in quel bar, nel retrobottega, una certa Ryzza fa i suoi affari. Ditele che Nonno Bakhval la saluta. In un batter d'occhio sarete il suo cliente preferito! Ecco fatto. Bene, Vostra Nobiltà... ce ne andiamo ora, se non vi dispiace?"
+
+### u037281
+"Sarà fatto, Vostra Nobiltà!" {n}Il vecchio sorride con aria furba e se ne va.{/n}
+
+### u037282
+"Ehm... Grazie. Siamo molto grati, Vostra Nobiltà!" {n}Il vecchio ti guarda con una certa diffidenza ma poi sorride e se ne va.{/n}
+
+### u037283
+{n}Heinrix emette un sospiro di delusione.{/n} "La vecchia Ryzza. La ricettatrice più nota di Footfall. Speravo di sentire un nome nuovo."
+
+### u037284
+"Be', è un cambiamento gradito — parlare prima di sparare. Tuttavia, Lord Capitano, l'aspetto di questa... banda raffazzonata non ispira certo fiducia."
+
+### u037285
+{n}Idira si scrocchia il collo.{/n} "Certo, nessun problema. Oggi ci racconti una piccola bugia, domani ci pianti un siluro nel fianco da quella tua nave... sempre che non cada a pezzi appena il nostro timoniere le starnutisce in direzione."
+
+### u037286
+"Non è saggio, Lord Capitano. Quanto mai poco saggio..."
+
+### u037287
+{n}Pasqal domanda con modestia,{/n} "Il fatto che questo servo sia attualmente recluso e che dunque abbia in passato tradito la fiducia dei servitori dell'Imperium ha bisogno di essere verbalizzato? Oppure è evidente anche ai laic— alle persone non iniziate ai sacri misteri della logica?"
+
+### u037288
+"Bah, perché sporcarsi la lingua a parlare di quell'eretico? Ma se insistete... Ecco come stanno le cose. Il direttore di questa prigione qui, l'onorevole Signor Casteglia, era uno svitato fin dall'inizio. Il direttore precedente gestiva le cose come si deve: preghiera, un pasto al giorno, lavoro, un pugno nei denti dalle guardie, di nuovo lavoro. Ma il nuovo... Sapete qual è stato il suo primo decreto? Ha introdotto pranzi e cene! Per i Nove Diavoli, sono tre pasti al giorno! L'uomo era ovviamente pazzo furioso."
+
+### u037289
+"Dateci una possibilità, eh? Vogliamo solo aspettare che passi la tempesta e tornare nelle nostre celle a scontare tranquillamente il resto della pena..."
+
+### u037290
+"Da lì le cose sono andate solo peggio. Le guardie hanno smesso con i pugni nei denti — il direttore glielo ha vietato. Invece, i sorveglianti hanno cominciato a contare quali prigionieri estraevano più roba nella cava o menavano più forte il piccone o simili — e poi, ci credereste, hanno compilato una lista dei migliori lavoratori! E se qualcuno in quella lista mostrava anche buona condotta, allora veniva promosso a ottimate. Che sarebbe la crème tra noi galeotti."
+
+### u037291
+{n}Idira annuisce con aria saputa.{/n} "Il vecchio ha ragione. Ogni volta che i nobili cominciano a fare elargizioni ai popolani, qualcosa va sempre storto." {n}Nota il tuo sguardo e si ferma.{/n} "Lo dico con tutto il rispetto, Vostra Signoria, senza offesa."
+
+### u037292
+"Il genere più serio, Vostra Nobiltà! Avete sentito parlare della Fellowship of the Void? È la più grande alleanza di pirati della Distesa. Non c'è un capo, ovviamente, ma ci sono alcuni capitani terribilmente seri che hanno deciso che tagliarsi la gola a vicenda per il bottino fosse — come si dice — controproducente. Ma tagliare gole insieme — quello sì che è anti-controproducente!"
+
+### u037293
+"E, be', i loro sforzi congiunti lasciano loro un eccesso di bottino, quindi devono sbarazzarsene in qualche modo. E io, Vostra Nobiltà, conosco per caso qualcuno che si occupa di simili affari per conto di quelle persone molto serie."
+
+### u037294
+"Un eretico pentito e onesto. Che novità." {n}A giudicare dal tono di Abelard, il Siniscalco è per nulla impressionato dal monologo ruffiano del vecchio.{/n}
+
+### u037295
+"Il discorso del popolano è screziato di colori che nascondono le sue vere tinte più scure. Questo vecchio ha una lunga storia di menzogne, e le sta usando astutamente anche con noi, ma... non vedo alcuna corruzione né cattive intenzioni nelle sue parole."
+
+### u037296
+"L'eresia ha trovato la sua strada tra le mura di questa illustre Casata. È un giorno nero per la Navis Nobilite."
+
+### u037297
+"Restate vigili! I Poteri Rovinosi dell'Arcinemico mettono alla prova la nostra fede."
+
+### u037298
+"Verme patetico, osi discutere con {mf|il tuo padrone|la tua padrona}?"
+
+### u037299
+"Confessa — qual era l'ultimo ordine del vecchio? Cosa stai tramando?"
+
+### u037300
+"Non è a te che ho giurato di servire fra queste mura. Le mie labbra sono sigillate."
+
+### u037301
+"Arrenditi, Custode. Hai perso questa battaglia. Di nuovo."
+
+### u037302
+"Con questi non andiamo da nessuna parte, signore. Permesso di giustiziarli?"
+
+### u037303
+"Miserabili! Sarete consegnati all'oblio per le vostre trasgressioni contro la Casata Orsellio!"
+
+### u037304
+"Imperatore Immortale, liberate i vostri servi dal pericolo..."
+
+### u037305
+"Le preghiere non vi aiuteranno, servo dei dannati."
+
+### u037306
+"In nome della Casata Orsellio, vi ordino di giustiziare gli infedeli!"
+
+### u037307
+"Non un passo di più!"
+
+### u037308
+"Padrone, ci sono degli strani ospiti sulla stazione."
+
+### u037309
+La biblioteca è piena di trattati dei più illustri studiosi dell'Imperium, dai tattici dell'Astra Militarum ai Genetor dell'Adeptus Mechanicus.
+
+### u037310
+Anche se nessuno sembra vivere nella gabbia, qualcuno ha comunque riempito la mangiatoia di frutta secca e acqua fresca.
+
+### u037311
+"Addio, Mentore."
+
+### u037312
+"Pensi che io sia un mostro, Felek? Bene. Come vuoi."
+
+### u037313
+"Non toccarmi! Io... me la caverò con le mie forze."
+
+### u037314
+"Che cosa hai... fatto...?"
+
+### u037315
+"Pagherai per questo tradimento, Felek! Che... Che cosa sta succedendo?"
+
+### u037316
+"Ti seguirò... Per ora."
+
+### u037317
+La biblioteca privata della Lady Navigatrice è ricolma di saggi, romanzi e resoconti personali di pionieri ed esploratori dell'Imperium.
+
+### u037318
+La statua della Lady Navigatrice sembra immacolata e nuova.
+
+### u037319
+Tutti i servi sono morti nel fuoco incrociato.
+
+### u037320
+La maggior parte di queste anime sventurate si è tolta la vita squarciandosi il ventre.
+

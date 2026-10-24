@@ -1,0 +1,927 @@
+### u055582
+"Andiamo avanti a riferire del vostro arrivo. Seguite il sentiero, non potete sbagliare. Dovete incontrare il colonnello."
+
+### u055583
+{n}I soldati che vi circondano si irrigidiscono visibilmente.{/n} "Come prescrivono i precetti del Sacro Manuale, se non vi identificate, apriamo il fuoco."
+
+### u055584
+{n}Vedi l'espressione di Janur incupirsi.{/n} "Esatto, il 32º Reggimento Penale di Merov."
+
+### u055585
+"Attraversare cosa? Siamo nati qui. Quanto ai dettagli, è meglio che ne parliate con il capitano o con il colonnello."
+
+### u055586
+{n}Il Siniscalco si schiarisce la voce e si sistema l'uniforme.{/n} "Siete alla presenza di Sua Signoria il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} {name} von Valancius, erede del più grande protettorato della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} e {mf|portatore|portatrice} del sacro {g|Encyclopedia:Warrant}Mandato di Commercio{/g}."
+
+### u055587
+{n}Nel momento in cui il tuo nome viene pronunciato, un fremito attraversa la folla. Alcuni sono colti da timore reverenziale, altri impallidiscono come spettri. L'uomo davanti a te traccia il segno dell'Aquila.{/n}
+
+### u055588
+"Sergente Janur Batoshski, 3º Plotone Rifornimenti, 32º Reggimento Merov. Siamo lieti di darvi il benvenuto su Zarkov, Vostra... Vostra Signoria." {n}Janur inciampa leggermente su queste parole, come se ne ricordasse il suono man mano che le pronuncia.{/n}
+
+### u055589
+"Non posso esservi d'aiuto su questo. Dovete andare alla Gabbia. È il nostro accampamento e il più grande avamposto di Zarkov. La nostra capitale, suppongo, o come chiamate voi gli insediamenti grandi."
+
+### u055590
+{n}Il Drukhari scioglie la postura, appoggiando la mano sull'elsa della sua arma.{/n} "Avanti, mon-keigh. Dammi un motivo."
+
+### u055591
+"Abbiamo appena combattuto contro i suoi tentacoli, e non erano nemmeno i più grandi. Riuscite a immaginare le dimensioni della cosa in sé? Appunto." {n}Il soldato si asciuga il sudore dalla fronte.{/n} "Comunque, per ora niente più chiacchiere inutili. Qui non è sicuro."
+
+### u055592
+{n}Le ultime parole suonano studiate e innaturali, come se le usasse per la prima volta. Eppure, udendole, le persone intorno a te stringono più forte le armi, e l'uomo biondo appare nettamente più sicuro di sé.{/n}
+
+### u055593
+"Voi la chiamate 'penale'. Io la chiamo 'redentiva'! Vi siete arresi agli impulsi più bassi e avete macchiato le vostre anime, eppure vi è concesso di non marcire in catene, ma di bruciare le vostre colpe nel calore della battaglia. Quindi non disonorate il Suo dono di espiazione con una vergogna meschina!"
+
+### u055594
+{n}{d|Encyclopedia:CharGen_Commissar}Riconosci all'istante le righe del Manuale{/d}. È il protocollo obbligatorio con cui le sentinelle dell'Astra Militarum sfidano chiunque si avvicini al perimetro di un sito protetto, esattamente in questo modo.{/n}
+
+### u055595
+"Ho visto i segni sulla macchina caduta, Sergente! È {mf|lui|lei}, proprio come era stato predetto! Von Valancius è {mf|disceso|discesa} dalle stelle. Il nostro servizio..."
+
+### u055596
+"Il Drover, ovviamente. O le sue escrescenze, se volete essere precisi. Ma non distraetevi, proseguite."
+
+### u055597
+"È un onore e una gioia, Vostra Signoria. Abbiamo atteso così a lungo il vostro arrivo. Davvero, non avrei mai immaginato di vedere questo giorno nella mia vita..."
+
+### u055598
+"Dietrofront! Agli alloggi del reggimento, marsc!"
+
+### u055599
+"Sergente Batoshski, il Dio-Imperatore ti protegga."
+
+### u055600
+"Rapporto sulla situazione."
+
+### u055601
+"Che cosa sappiamo del nostro nemico?"
+
+### u055602
+"Vostra Signoria, siete qui! Sapevo che non ci avreste abbandonati! Quelle creature di ferro ci attaccano in tutto il pianeta. Nessuno sa da dove siano venute — o almeno, in tutta questa confusione non siamo riusciti a scoprirlo."
+
+### u055603
+"E il Sergente istruttore Jovakha guida una squadra a difesa del sentiero che abbiamo tracciato verso le xenorovine a nord-ovest della piattaforma di atterraggio. Lì sono arrivati i primi feriti, inseguiti da quelle maledette creature."
+
+### u055604
+"E il nostro nuovo Sergente istruttore Dankosh è stato respinto sulla strada per le xenorovine, a nord-ovest della piattaforma di atterraggio."
+
+### u055605
+"Per la dinastia von Valancius, Vostra Signoria!"
+
+### u055606
+"{d|Encyclopedia:Ch2_VedkaGovernor}La Governatrice Dunawski{/d}, stando agli ultimi rapporti, tiene la posizione a est, al cancello principale. Dicono che combatta come se il Drover in persona le stesse urlando dritto nell'orecchio."
+
+### u055607
+"Quando quelle cose sono apparse, {d|Encyclopedia:Ch2_ZarkovNonameGovernor}il Colonnello-Governatore Kuravich{/d} stava consegnando di persona i sacri meccanismi alle tonache rosse. La loro cappella dello spirito macchina si trova a nord-est."
+
+### u055608
+"Queste creature di ferro sono sbucate dal nulla. Attaccano a ondate, concedendoci appena un attimo di tregua. Per fortuna siamo riusciti a trasmettere un messaggio in tempo. Queste cose non sono fatte di carne e non conoscono paura, e ci stringono da ogni lato. Quindi il vostro arrivo è una benedizione del Dio-Imperatore in persona."
+
+### u055609
+"Ho lasciato il mio posto laggiù nelle radici per liberare la piattaforma di atterraggio. È un bene che siate qui. Ora le creature sono già morte!"
+
+### u055610
+"È vero ciò che si dice: chi disprezza la paura è invincibile all'ombra di Lui!" {n}Argenta saluta il giovane, piuttosto imbarazzato.{/n}
+
+### u055611
+{n}I visori di Pasqal si accendono di rosso e la sua voce gracchia con una sfumatura stridente di plastacciaio:{/n} "Invoco l'attivazione dell'algoritmo per la punizione della lordura tecno-eretica! L'Omnissiah esige lo smaltimento degli xenomeccanismi profani!"
+
+### u055612
+"{d|Encyclopedia:Ch2_BatoshskiGovernor}Il Governatore Batoshski{/d} è a nord-est, a difesa della cappella delle tonache rosse. Dicono che abbia finito le munizioni, ma questo non gli ha impedito di fare a pezzi quegli xenomostri a mani nude."
+
+### u055613
+"Lukha, il nostro chirurgo, è andato a sud, al cancello. Dritto in prima linea, come un vero medico. Credo stia cercando chiunque si possa ancora salvare."
+
+### u055614
+"{d|Encyclopedia:Ch2_ZarkovNonameGovernor}Il Colonnello-Governatore Kuravich{/d}, insieme a un distaccamento di soldati, ha messo in sicurezza i cancelli principali orientali e tiene la linea. Stava proprio ricevendo un lancio di rifornimenti quando è cominciato tutto."
+
+### u055615
+{n}Janur preme un vox portatile contro l'orecchio straziato, con l'espressione sempre più cupa.{/n} "Maledizione... Hanno lanciato un nuovo attacco su tutti i fronti. Devo tornare all'altro livello delle radici. Ne tratterrò quanti più posso."
+
+### u055616
+"Lukha, il nostro chirurgo, è a nord-ovest di qui, lungo la strada per le rovine. Lì sono arrivati i primi feriti, con le creature alle calcagna. Così ha iniziato a prestare i primi soccorsi sul posto..."
+
+### u055617
+"E il Sergente istruttore Jovakha è avanzato per proteggere le tonache rosse a nord-est."
+
+### u055618
+"E il nostro nuovo Sergente istruttore Dankosh stava appena ispezionando le reclute di guardia alla cappella dello spirito macchina a nord-est."
+
+### u055619
+[Attiva il vox] "Finalmente è ora di tornare a recaf, bagni e un pasto caldo! Vigdis, dov'è la mia navetta?"
+
+### u055620
+"Mi serve un comandante per le truppe zarkoviane. E anche il posto di Arch-Militant è vacante."
+
+### u055621
+"D'ora in poi Zarkov è una colonia del protettorato von Valancius. Ed è ora di nominare un governatore."
+
+### u055622
+"Colonnello Batoshski, sarai il mio nuovo Arch-Militant."
+
+### u055623
+"Bene, dunque, Dunawski, sei pronta ad andare tra le stelle?"
+
+### u055624
+"Pensandoci bene, non credo di essere {mf|disposto|disposta} a concedere questo incarico a qualcuno di Zarkov. I miei tutori dell'ordine sono affidabili — non si può dire altrettanto di voi."
+
+### u055625
+"Colonnello Batoshski, con la presente sei nominato Colonnello-Governatore di Zarkov."
+
+### u055626
+"Chi potrebbe essere un colonnello-governatore migliore del capitano-quartiermastro?"
+
+### u055627
+"Scegli qualcuno che non desiderava lasciare Zarkov — una persona simile si prenderebbe cura della propria casa meglio di chiunque altro, ne sono {mf|certo|certa}."
+
+### u055628
+"Nominerò un rappresentante tra coloro che anelano a tornare nell'abbraccio dell'Imperium — è sorta una nuova era ed è tempo che Zarkov esca dall'isolamento."
+
+### u055629
+[Accendi il vox] "Tutte le questioni sono state risolte? Allora questa udienza è finita. Vigdis, manda una navetta."
+
+### u055630
+{n}Batoshski sembra un uomo spezzato, ma allo stesso tempo il suo volto mostra uno strano sollievo.{/n} "Bene, ecco fatto. I giuramenti sono stati rinnovati. Abbiamo posto le nostre vite e i nostri destini nelle vostre mani, Lord Capitano. Attendiamo i vostri ordini riguardo a Zarkov e al reggimento."
+
+### u055631
+"Tante Leve dopo... Ed eccolo qui: il giuramento, come scritto nel Manuale! Il nostro reggimento ha trovato il suo scopo ed è tornato in servizio. Non resta che a voi decidere, Vostra Signoria, che cosa fare di Zarkov e del nostro reggimento."
+
+### u055632
+"L'Imperituro concede ai Suoi servitori le occasioni che meritano. La vostra deve ancora venire."
+
+### u055633
+"Non ho mai sognato una cosa simile, Vostra Signoria. Ma ho prestato giuramento e accetto l'incarico."
+
+### u055634
+{n}È doloroso guardare Dunawski — sembra smarrita, con lo sguardo vuoto fisso sul nulla.{/n}
+
+### u055635
+{n}Il volto della capitana si illumina di una luce interiore.{/n} "Mi sono preparata per questo per tutta la vita, Lord Capitano!"
+
+### u055636
+"Congratulazioni, Vedka. Hai ottenuto ciò che sognavi."
+
+### u055637
+{n}Batoshski aggrotta la fronte e distoglie lo sguardo.{/n}
+
+### u055638
+{n}Il reggimento appena giurato ti fissa, in attesa di una delle prime nomine da secoli.{/n}
+
+### u055639
+{n}Batoshski emette un suono di assenso e getta un'occhiata alla Gabbia.{/n} "Non ho mai voluto davvero andarmene. Quindi per me va benissimo. Non preoccupatevi, Vostra Signoria, non permetterò che accada nulla alla vostra nuova colonia."
+
+### u055640
+"Ma... colonnello-governatore? Qui? Voglio dire... Come comandate, Vostra Signoria."
+
+### u055641
+"Ricomponiti, Capitano. Che cosa prescrive il Manuale? Sopportare le avversità ed eseguire alla lettera gli ordini del comandante."
+
+### u055642
+{n}La voce di Vigdis è interrotta dalle scariche, ma riesci comunque a distinguerla.{/n} "Lord Capitano, siete {mf|vivo|viva}! Una squadra di recupero era già in viaggio per cercarvi. Trasmetto le vostre coordinate alle loro navette."
+
+### u055643
+"Io... non posso, Vostra Signoria. Perdonatemi, mi sbagliavo. Mi avete aiutata a capire che non ho posto nel mondo oltre le stelle. Dovrei restare... Qualcuno deve pur far rispettare il Manuale, dopotutto..." {n}Vedka china il capo.{/n}
+
+### u055644
+"Come comandate, Vostra Signoria." {n}Il mento di Dunawski trema appena, ma sembra riuscire a controllarsi.{/n}
+
+### u055645
+Chirurgo Lukha
+
+### u055646
+Chirurgo da campo
+
+### u055647
+Cuoco
+
+### u055648
+Operatore di lanciafiamme
+
+### u055649
+Soldato ferito
+
+### u055650
+Sergente istruttore Dankosh
+
+### u055651
+Sergente istruttore Jovakha
+
+### u055652
+Izdrig Batoshski
+
+### u055653
+Sergente Janur
+
+### u055654
+Assistente di Lukha
+
+### u055655
+Maestro Artigliere
+
+### u055656
+Soldato della Guardia meroviano
+
+### u055657
+Veterano meroviano
+
+### u055658
+Esploratore
+
+### u055659
+Prete del reggimento
+
+### u055660
+Quartiermastro Kuravich
+
+### u055661
+Riparatore
+
+### u055662
+Vedka Dunawski
+
+### u055663
+"Hai avuto modo di vedere cosa ci ha attaccati?"
+
+### u055664
+"E la navetta? Si può riparare?"
+
+### u055665
+"Contatta l'ammiraglia. Subito."
+
+### u055666
+[Rivolgiti al tuo seguito] "Qualcuno avverte qualcosa di strano? Come se qualcosa premesse sulla mente."
+
+### u055667
+"Mi dirigo verso l'insediamento. Forse da lì il segnale vox riuscirà a raggiungere l'ammiraglia."
+
+### u055668
+{n}Senti il cranio sul punto di spaccarsi sotto la pressione. Un battito dopo, l'agonia si placa, lasciando solo un ronzio ossessionante. Ti soffoca la mente, spegne ogni ragionamento e ostacola la tua capacità di pensare. Il tuo sguardo cade sul giovane pilota, sopravvissuto allo schianto e uscito barcollando dalla navetta distrutta dietro di te. Un'ondata di furia nauseante cresce all'improvviso dentro di te — è lui che ha perso il controllo del velivolo!{/n}
+
+### u055669
+{n}Con la sola forza di volontà, ti riprendi. La furia svanisce, affondando nelle profondità della tua mente, lasciando dietro di sé un terrore persistente, l'impulso di fuggire e la consapevolezza che una simile fuga è impossibile.{/n}
+
+### u055670
+{n}La furia esplode da te in un ruggito strozzato. Hai la sensazione di osservare un estraneo mentre avanzi verso il pilota e lo colpisci sul volto insanguinato. Il servitore della dinastia incontra il tuo sguardo con un disprezzo così feroce che sembra sul punto di colpirti a sua volta.{/n}
+
+### u055671
+"Le ricerche del Magos Biologis hanno confermato l'esistenza di flora classificata come Periculum Machine Majoris. Le forme di vita di questa categoria rappresentano una grave minaccia per i sacri veicoli da trasporto e le unità corazzate. Esiste una probabilità del 96.543% che una simile specie abiti questo pianeta. Nel caso osservato, la probabilità che esista più di una specie di questa categoria di minaccia è pari all'85.6789%."
+
+### u055672
+"Un albero predatore? Non ho ancora ucciso un simile mostro! Dobbiamo trovarlo e riportare il suo legno resistente a Fenris. Intagliamolo nell'asta di un'arma degna!"
+
+### u055673
+{n}Il pilota parla a denti stretti, lottando contro l'impulso di gridare.{/n} "Un movimento sul lato sinistro, è l'ultima cosa che ho visto, Lord Capitano. Qualcosa di massiccio, come un tronco d'albero. O è stato scagliato contro la navetta oppure... ci ha attaccati da solo, Vostra Signoria."
+
+### u055674
+{n}Getta un'occhiata cupa alla navetta.{/n} "Temo di no, Lord Capitano. Il velivolo richiede un recupero e l'applicazione dei sacramenti di riparazione dell'Adeptus Mechanicus. E questi si possono eseguire solo a bordo dell'ammiraglia. Ci serve un'evacuazione."
+
+### u055675
+{n}La rabbia sul volto del pilota lascia il posto a un'espressione di panico quando si rende conto di come si è appena comportato alla presenza del Rogue Trader. Con mano tremante, cerca l'augmetica vox che ha sulla testa.{/n}
+
+### u055676
+"Pensavo fosse un effetto dell'impatto... Come un ronzio o una specie di stridio acuto. Faccio fatica a pensare lucidamente, a non perdere il controllo. Le mie scuse, Vostra Signoria..." {n}Il volto del pilota è sudato e scosso dalla tensione.{/n}
+
+### u055677
+{n}Dopo un istante, l'uomo ti guarda con occhi vuoti.{/n} "Lord Capitano... Tutti i canali sono solo statica. Io... non capisco perché, funziona tutto alla perfezione. È come se qualcosa disturbasse la frequenza. Non riusciamo a contattare l'ammiraglia. Secondo le mappe, c'è un insediamento qui vicino. Forse gli abitanti hanno un vox più potente?"
+
+### u055678
+"Un curioso schema di onde acustiche. Non ho mai incontrato nulla di simile." {n}Eogunn appare perfettamente sereno e perfino incuriosito mentre ascolta intensamente qualcosa.{/n} "Infrasuoni alternati a ultrasuoni, e in modo così naturale... Queste frequenze sono inudibili, Rogue Trader, eppure evocano una reazione violenta dalle strutture più profonde del cervello umano. Vorrei posare gli occhi sulla loro fonte."
+
+### u055679
+"Un organismo autoctono di dimensioni tanto formidabili da poter assalire macchinari imperiali? Questo mondo promette di essere un vero tesoro di scoperte. Un'ottima osservazione, Nuncius." {n}Si volta verso il suo silenzioso compagno, i cui servomotori emettono un ronzio flemmatico.{/n} "Potrebbe davvero essere un esemplare di megafauna o di megaflora."
+
+### u055680
+{n}Eogunn schiocca la lingua con irritazione, chiaramente contrariato che il suo collega abbia saputo dare una risposta più accurata.{/n}
+
+### u055681
+"Con il vostro permesso, Lord Capitano, rimarrò qui, nel caso il vox riprenda a funzionare o arrivi una squadra di evacuazione dall'ammiraglia."
+
+### u055682
+{n}Argenta sussurra in fretta una litania, tracciando l'Aquila sul petto.{/n} "La mente retta non può essere spezzata dalle macchinazioni dei Suoi nemici."
+
+### u055683
+"Registro frequenze sia ultrasoniche sia infrasoniche. In teoria, tali emissioni sono in grado di indurre effetti deleteri sui cervelli organici."
+
+### u055684
+"Una strana parvenza di canto, aspra e crudele per una mente non protetta — è ciò che sento. Per te, persino percepirne la presenza è probabilmente difficile. Per me, invece..." {n}Yrliet fa una smorfia, ed è chiaro che l'enigmatico fenomeno le sta causando un dolore autentico.{/n}
+
+### u055685
+"Uno strano rumore, eppure privo di tracce psichiche. Sospetto che un'esposizione prolungata possa portare a volatilità emotiva. Sarebbe saggio tenere sotto controllo il proprio stato mentale e non cedere a impulsi avventati."
+
+### u055686
+"Il suono sembra appena udibile, ma anche così forte da sommergere persino i miei sussurri. Mi chiedo quanto potremo sopportare questa cacofonia prima di cominciare a massacrarci a vicenda..."
+
+### u055687
+"Una strana foschia mi ha avvolta, e persino i sussurri dell'Imperituro sono difficili da distinguere. In questa terra devo affidarmi unicamente alla vostra guida, Domin."
+
+### u055688
+"Che sensazione tormentosa. Qualcosa evoca in me tonalità dolorose e furiose, come se schizzasse cremisi e nero sulla mia tela rovinandola. Si sentono così coloro che influenzo..." {n}Cassia sembra più sorpresa che arrabbiata.{/n}
+
+### u055689
+"Potresti almeno renderti presentabile."
+
+### u055690
+Vietato al governatore di Zarkov di ricavare coltelli dai cadaveri degli xenos di ferro.
+
+### u055691
+"Ho forse parlato male? O qui riconoscete un ordine solo dopo un Incontro di Prova?"
+
+### u055692
+"Guardati, sei tenuto insieme da sputo e preghiere. Sei sicuro di non aver bisogno di una visita da un chirurgo?"
+
+### u055693
+"Non pensarci nemmeno, Governatore. Nell'Imperium non si forgiano lame dagli xenos."
+
+### u055694
+"Puntate queste lame contro i nemici della dinastia."
+
+### u055695
+"Com'è cambiata la tua vita da quando sei tornato nel grembo dell'Imperium?"
+
+### u055696
+"Cosa puoi dirmi sulle creature di ferro?"
+
+### u055697
+"Desidero sapere come te la cavi nei tuoi doveri di governatore."
+
+### u055698
+"Torna ai tuoi doveri."
+
+### u055699
+"Come ti trovi nel tuo nuovo ruolo di governatore?"
+
+### u055700
+"Molto bene, lascerò correre. Per questa volta."
+
+### u055701
+Permesso al governatore di Zarkov di ricavare coltelli dai cadaveri degli xenos di ferro.
+
+### u055702
+"Buona idea, Kuravich. Non rifuggire da alcun mezzo per diventare più forti."
+
+### u055703
+"Non ho visto Dunawski durante lo scontro."
+
+### u055704
+{n}Il Governatore Kuravich legge pensieroso la tavoletta dati mentre sorseggia da una fiaschetta ingombrante. L'immagine di uno scrivano diligente è smentita da un livido che gli si allarga su mezza faccia e dall'uniforme dell'Astra Militarum intrisa di sangue.{/n}
+
+### u055705
+{n}Kuravich impallidisce.{/n} "Vecchie abitudini, scusatemi. Non sempre capisco ancora, ehm, cosa qui conti come eresia e cosa no... Yasik! Posa il tagliatore, meglio andare sul sicuro! Lascia perdere."
+
+### u055706
+"Cambierò questi stracci più tardi, quando avrò tempo. Qui conta l'ordine." {n}Tamburella sulla tavoletta dati, anch'essa sporca di sangue.{/n} "Che il Dio-Imperatore ci aiuti se quelle bestie di ferro tornano e le pance delle truppe sono vuote come la testa di un Commissario. A Zarkov c'è una battuta: l'espiazione è per uno, ma le razioni sono per tutti."
+
+### u055707
+{n}Kuravich emette un sospiro stanco.{/n} "A volte penso che un grox abbia più probabilità di diventare Rogue Trader di quante ne abbia io di essere un governatore decente. Faccio fatica a scrivere — nella parola 'lho' farei tre errori — e avete idea di quante petizioni all'Administratum devo presentare ogni giorno? Preferirei passare un mese a sorseggiare brodo di corteccia e foglie piuttosto che compilare un'altra richiesta di rifornimenti sul Modulo 12-B..."
+
+### u055708
+{n}Il governatore sorride sollevato.{/n} "Non avrei mai pensato che foste così... {mf|comprensivo|comprensiva}. Grazie! Come si dice da queste parti: il lavoro è più facile quando non hai un Commissario tra i piedi." {n}Si blocca di colpo.{/n} "Non che voi siate {mf|un Commissario|una Commissaria}, ovviamente, no."
+
+### u055709
+"Se così comandate, Vostra Signoria, li punteremo dritti contro le nostre stesse budella."
+
+### u055710
+{n}Kuravich mette da parte la tavoletta dati e sospira pesantemente.{/n} "È tutto pieno di cadaveri, Vostra Signoria. Ecco come."
+
+### u055711
+{n}Kuravich mette da parte la tavoletta dati e solleva lo sguardo su di te.{/n}
+
+### u055712
+"Come vedete." {n}Kuravich indica con un gesto l'insediamento devastato.{/n} "Prima la vita era dura, ma almeno gli xenos non ci macellavano. Senza offesa, ma tutti sanno che è stato per vostro ordine che abbiamo smosso queste rovine come un nido di mosche carnivore. Suppongo di dovervi ringraziare per non averci abbandonati, almeno."
+
+### u055713
+{n}Kuravich si ferma, poi si batte una mano sulla fronte.{/n} "Per niente male, quelle lame!" {n}Guarda oltre la tua spalla e urla in modo stridulo.{/n} "Yasik! Yasik! Datti una mossa! Prendi un paio di uomini e vedi se riesci a segare gli artigli a quelle bestie con i tagliatori! Ci faremo dei coltelli!"
+
+### u055714
+"Prima era più semplice. Il comandante era lì, sul ramo accanto. Distribuiva ordini, razioni e bersagli tutto insieme. Eppure..." {n}Il governatore si passa una mano sul collo ispido.{/n} "A dire il vero, il cibo non è più un problema, e i fucili sono nuovi di zecca, odorano ancora d'olio... Potrebbe andare peggio."
+
+### u055715
+{n}L'espressione di Kuravich si incupisce e ti scruta il volto.{/n} "Non lo sapevate? Izdrig l'ha condannata a morte dopo quell'incidente con lo psyker. Ha eseguito lui stesso la sentenza."
+
+### u055716
+{n}Kuravich si osserva e geme, come se si accorgesse solo ora dell'uniforme intrisa di sangue.{/n} "Non vi preoccupate, non sono ferito. Stavo trasportando uno dei soldati. È stata morsa fino all'osso, è da lì che viene tutto questo... E quanto al colpo in testa, in realtà è piuttosto stimolante." {n}Si preme un dito sul gonfiore cremisi e fa una smorfia.{/n}
+
+### u055717
+"Soldato semplice Tsevchik!" {n}sbotta, senza distogliere lo sguardo dallo schermo.{/n} "Ti sei bevuto il cervello? O hai perso la strada? Beh, tu..." {n}Solleva i suoi occhi acuti e scaltri verso di te e si raddrizza.{/n} "Le mie scuse, Vostra Signoria! Non vi avevo riconosciuto. Quartiermastro Kuravich, cioè Governatore Kuravich, ai vostri ordini." {n}Fa un inchino goffo, e il tanfo di sudore ti investe.{/n}
+
+### u055718
+"Vostra Signoria, permesso di parlare liberamente? Senza formalità?" {n}Kuravich impallidisce, mentre una vena scura gli si gonfia sulla fronte.{/n} "Per sopravvivere, il nostro reggimento deve cucirsi i pantaloni con i nostri stessi morti. Questa è la vita su Zarkov! Perché non possiamo ricavare qualche coltello da questi xenos? O dovremmo attaccarci delle Aquile di legno solo per mettervi l'animo in pace?"
+
+### u055719
+"Zarkov è cambiata oltre ogni riconoscimento, Vostra Signoria!" {n}La voce di Kuravich risuona di sincera ammirazione.{/n} "Le meraviglie che abbiamo visto: lumen, tavolette dati, perfino teschi parlanti... E, soprattutto, ordine e razioni! È chiaro che il Dio-Imperatore ci ha presi in simpatia. Abbiamo finalmente meritato il Suo perdono."
+
+### u055720
+{n}Il governatore sbuffa con rabbia, il petto ampio che si alza e si abbassa rapido. Alla fine, la scintilla ostinata nei suoi occhi scuri si spegne. Distoglie lo sguardo e deglutisce a fatica.{/n} "Le mie scuse, Vostra Signoria, mi sono lasciato andare... Yasik! Scordati i coltelli."
+
+### u055721
+{n}Kuravich sogghigna, scoprendo i denti aguzzi.{/n} "Niente di buono. Pensavamo che nessuno potesse nascondersi meglio dei nostri esploratori, ma questi barattoli di latta sono sbucati dal nulla. Che duri bastardi! Uccidereste dieci Drover prima di farne fuori una di quelle bestie! Si coprono perfino con la nostra carne. Ne ho viste tante, ma questa era un'altra cosa..." {n}Il governatore rabbrividisce.{/n} "E poi? Quelle lame sugli arti non sono male per tagliare, questo bisogna concederglielo..."
+
+### u055722
+"Presumo che non sia una visita di cortesia?"
+
+### u055723
+"Il Drover è morto."
+
+### u055724
+"Te lo comunico soltanto. Potresti volerlo ritirare."
+
+### u055725
+"Risolviamo la cosa in modo pulito, ti va, Batoshski?"
+
+### u055726
+"A quanto pare l'Inquisizione era su Zarkov. Ho scoperto i loro corpi."
+
+### u055727
+"Là, nelle profondità... ho scoperto un cadavere."
+
+### u055728
+"Farò trasportare il cadavere sull'ammiraglia. Desidero esaminarlo."
+
+### u055729
+"Se picchiarti è ciò che serve per porre fine a tutto questo, Izdrig, sono {mf|pronto|pronta}."
+
+### u055730
+"Possiamo ancora risolvere la questione pacificamente."
+
+### u055731
+[Consegna il diario] "Era uno psyker. Vedka cercava di fargli inviare un messaggio astropatico."
+
+### u055732
+{n}I Merovian che ti circondano sembrano tesi. Anche se non senti più alcuna pressione nella testa, sembrano soffrire ancora degli effetti residui del grido del Drover.{/n}
+
+### u055733
+{n}Batoshski ti guarda con gravità, poi annuisce tra sé.{/n} "È giunto il momento di rinnovare il nostro giuramento. Ora andiamo alla piazza e, alla presenza dei caduti e di tutta la mia gente, ci affronteremo nell'Incontro di Prova."
+
+### u055734
+{n}Vedi Vedka chiudere gli occhi per il sollievo ed espirare.{/n}
+
+### u055735
+{n}Izdrig annuisce cupo, poi si rivolge a Vedka con tono secco,{/n} "Capitano-Quartiermastro, ordina al distaccamento funebre di ispezionare la tana del Drover."
+
+### u055736
+{n}La Capitana Dunawski ti rivolge un cenno, poi si volta verso le persone radunate intorno.{/n} "{name} von Valancius, erede di Seberian e nostro legittimo sovrano, ha dimostrato {mf|se stesso|se stessa} uccidendo il Drover! Se nei vostri cuori permane un seme di dubbio, è ora di strapparlo alle radici! Guardate!"
+
+### u055737
+{n}Abelard studia attentamente il volto di Batoshski.{/n} "Una tradizione curiosa. Confido che siate pienamente consapevole di ciò che accadrà a voi, e all'intero vostro reggimento penale, qualora il Rogue Trader von Valancius subisca anche solo un graffio."
+
+### u055738
+"Lo so. Ho ricevuto il rapporto." {n}La voce del colonnello è tesa, mentre la capitana sposta il peso da un piede all'altro con nervosismo.{/n}
+
+### u055739
+{n}Batoshski ti osserva in attesa, come una belva pronta a scattare. Ma l'occhio della capitana-quartiermastro si spalanca terrorizzato, le sue labbra formano in silenzio la parola,{/n} "Non farlo."
+
+### u055740
+{n}Vedi Vedka deglutire il groppo in gola e riuscire a stento a soffocare,{/n} "Come comandate."
+
+### u055741
+{n}Izdrig digrigna i denti con un suono che ti manda un brivido lungo la schiena. Tiene lo sguardo pesante fisso sul tuo volto, eppure si rivolge a Dunawski.{/n} "Capitano-Quartiermastro Vedka Dunawski, ne parleremo dopo l'Incontro di Prova, in privato."
+
+### u055742
+{n}Con un movimento aggraziato, Kibellah estrae l'arma dal fodero.{/n} "Sono pronta ad ascoltare il nome che l'Imperituro sussurrerà."
+
+### u055743
+"Quale nuova piaga è questa? Aspetta... quella parola mi suona familiare."
+
+### u055744
+"Abbiamo canti sui servitori segreti del Dio-Imperatore, ma non saremmo mai stati in grado di riconoscerli. Ma perché—"
+
+### u055745
+"Sono morti." {n}Batoshski la interrompe.{/n} "Ciò che è morto non è più una minaccia e può aspettare. Abbiamo questioni più urgenti."
+
+### u055746
+{n}Ansimando, Vedka Dunawski si tiene ben lontana dal colonnello, che la fulmina con lo sguardo.{/n}
+
+### u055747
+{n}Izdrig Batoshski ti fissa con aria d'attesa.{/n}
+
+### u055748
+"Lo sappiamo, erede di Seberian. Appena è morto, abbiamo potuto respirare un po' meglio."
+
+### u055749
+{n}Il colonnello scrolla le spalle.{/n} "Come desiderate. Non è più affar mio."
+
+### u055750
+{n}Il ringhio soffocato del colonnello fa rabbrividire i Merovian che lo circondano.{/n}
+
+### u055751
+"Non possiamo. Le tradizioni del reggimento sono sacre. Anche se per voi non significano nulla, per me e per la mia gente significano tutto."
+
+### u055752
+{n}Jae sorride con furbizia, scrutando il colonnello.{/n} "Qualcosa mi dice che qualcuno è nei guai..."
+
+### u055753
+{n}Idira ti lancia un'occhiata di rimprovero.{/n} "Perché l'hai fatto? Lui la ucciderà..."
+
+### u055754
+"Vedremo, erede di Seberian. Non vi voglio {mf|morto|morta}, ma non mi tratterrò."
+
+### u055755
+"Continuate con le vostre esercitazioni. Vi lascio al vostro lavoro."
+
+### u055756
+"Hai un bersaglio di riserva? Vorrei imparare a sparare da te."
+
+### u055757
+[Osserva da vicino i soldati in addestramento]
+
+### u055758
+[Vai al percorso a ostacoli]
+
+### u055759
+{n}Il poligono di tiro si estende davanti a te. Sotto la supervisione di un uomo massiccio la cui gamba è stata sostituita da una struttura di legno e osso, alcuni Merovian sparano ai bersagli.{/n} "Vostra Signoria, il Dio-Imperatore mi preservi! Ci avete onorati con la vostra visita. Sergente istruttore in seconda Dankosh, sono pronto ad assistervi, Vostra Signoria!"
+
+### u055760
+{n}Il fuoco cessa mentre i soldati si voltano a guardarti. Ti stai abituando agli sguardi spaventati e ispirati su questi volti.{/n}
+
+### u055761
+"È un onore incontrarvi di persona, Lord Capitano!"
+
+### u055762
+"Cosa? V-voi... volete unirvi a noi? Ma certo, Lord Capitano! Ci fate un grande onore! Voialtri, sgombrate! Fate spazio a Sua Signoria!"
+
+### u055763
+{n}Sono tutti in forma e forti, il che non sorprende. Giovani e vecchi, uomini e donne, ognuno sembra uscito direttamente da un manifesto di propaganda dell'Astra Militarum.{/n}
+
+### u055764
+{n}I loro movimenti e le loro posture appaiono singolari. Poi capisci — su questo pianeta non esiste alcun terreno piano. Persino le enormi radici sono ricoperte di corteccia bitorzoluta. L'andatura strana e la postura leggermente curva dei Merovian sono il risultato del loro costante sforzo di mantenere l'equilibrio.{/n}
+
+### u055765
+{n}Quando lasci il poligono, la tua partenza è accompagnata da cenni rispettosi, grida e persino amichevoli pacche sulla spalla. Sembra che tu abbia conquistato alcuni dei Merovian.{/n}
+
+### u055766
+{n}Mentre lasci il poligono, senti sguardi arroganti bruciarti la schiena.{/n}
+
+### u055767
+"Vostra Signoria, {mf|santissimo|santissima} Lord Capitano! Come posso servirvi?"
+
+### u055768
+{n}Incoraggiato dalla tua attenzione, Dankosh si lancia in una spiegazione minuziosa del tiro nelle condizioni di Zarkov. Colpisce quanta attitudine all'insegnamento dimostri questo combattente quasi selvaggio di un mondo dimenticato. Quando piazzi cinque colpi di fila esattamente sul bersaglio, i Merovian intorno a te esplodono in grida di approvazione.{/n}
+
+### u055769
+{n}Il Sergente Dankosh si impegna in ogni modo concepibile per insegnarti a sparare come loro — anticipando il bersaglio senza mirare. Con grande delusione di tutti i presenti, non ci riesce.{/n}
+
+### u055770
+"Silenzio, voialtri! Niente paura, Lord Capitano, ce la farete la prossima volta."
+
+### u055771
+"Lo chiamiamo 'colpo a scatto', Lord Capitano. Non si tratta di sparare o colpire dove si trova il bersaglio, ma dove andrà a trovarsi."
+
+### u055772
+"Qual è il legame tra il tuo reggimento e la mia dinastia?"
+
+### u055773
+"Di cosa vuoi discutere riguardo ai giuramenti?"
+
+### u055774
+"Perché non dovrei semplicemente giustiziare il colonnello?"
+
+### u055775
+"E come suggerisci che mi prepari?"
+
+### u055776
+"Qualcuno oltre a Batoshski può prestare il giuramento? Magari tu?"
+
+### u055777
+"Interessante. Grazie."
+
+### u055778
+"Ho trovato una navetta su uno dei mondi vicini. Conteneva un messaggio registrato di un reggimento meroviano."
+
+### u055779
+"Janur mi ha detto che possedete una sorta di difesa contro il grido del Drover."
+
+### u055780
+"Evidentemente avrò bisogno di questo oggetto in uno scontro con il Drover."
+
+### u055781
+"Puoi tenerti i paraorecchie. Me la caverò senza."
+
+### u055782
+"Cosa sai del mondo d'origine del reggimento?"
+
+### u055783
+"Vedo che tra voi le protesi sono molto apprezzate."
+
+### u055784
+"Cosa puoi dirmi su Zarkov?"
+
+### u055785
+"Capitano, cosa sono quei bozzoli con dei corpi dentro?"
+
+### u055786
+"Mentre mi avvicinavo al campo, ho sentito un canto."
+
+### u055787
+"I suoi testi non sono esattamente allegri."
+
+### u055788
+"Qual è questa tomba a cui si riferisce?"
+
+### u055789
+"Al suo interno c'è un'intera lista di nomi."
+
+### u055790
+"Perché dovrebbe voler combattere contro di me? Hai detto tu stessa che tutto è già stato deciso."
+
+### u055791
+"Il colonnello ha detto che sai qualcosa sulle rovine xenos nel profondo delle radici."
+
+### u055792
+"Ho aperto il contenitore di stasi di Seberian. Dentro c'erano i suoi registri e, al loro interno, gli ordini per il tuo reggimento."
+
+### u055793
+"Che cosa hai detto che si è asportato dal proprio corpo?"
+
+### u055794
+"Buona fortuna, Capitano."
+
+### u055795
+"Molti qui sostengono Batoshski?"
+
+### u055796
+"Come funzionano, in effetti?"
+
+### u055797
+"Voglio saperne di più su Zarkov."
+
+### u055798
+"Per ora è tutto, Capitano-Quartiermastro."
+
+### u055799
+{n}La capitana-quartiermastro distoglie lo sguardo dalla lastra di carne fibrosa che ha davanti. Una pietra nera brilla nella sua orbita rovinata.{/n} "È un piacere vedervi, Vostra Signoria. Con il vostro permesso, vorrei discutere con voi i giuramenti del reggimento."
+
+### u055800
+{n}Argenta rivolge alla giovane donna uno sguardo colmo di sincero calore.{/n} "Mi è stato insegnato che la vera fede si testimonia più facilmente nell'ora della prova più grande. Ed eccola qui davanti a me. Anni di privazioni non vi hanno privata della vostra fede nel Dio-Imperatore, e l'imminente giuramento di lealtà al Suo prescelto sarà una degna ricompensa per questa impresa dello spirito."
+
+### u055801
+{n}La Capitana Dunawski mette da parte un lembo di pelle appena rimosso e vi saluta.{/n} "Vostra Signoria, come posso esservi utile?"
+
+### u055802
+"Merov è un mondo che ha soltanto metallo e folle di gente. Ognuno vive, serve e muore nel nome del Dio-Imperatore. Le nostre storie dicono che i Fratelli-Generali hanno voltato le spalle alla Sua luce e ora fanno ciò che vogliono di reggimenti come il nostro. Credo che alcune di quelle storie siano esagerate per spaventare le reclute. Se possiamo servire il Dio-Imperatore tra le stelle, perché preoccuparci di qualche Fratello-Generale?"
+
+### u055803
+{n}Traccia con riverenza il segno dell'Aquila — con la sua protesi, la scena lascia un forte impatto.{/n} "Dio-Imperatore, dopo tanti secoli! Ruban Khroshovach, il più grande eroe del 32º Reggimento, che ricordiamo come il Dipartito! Salì sulla navetta che la Prima Leva aveva scoperto e partì per le stelle con una supplica di aiuto. Sapeva che sarebbe morto là fuori, nel vuoto — sperava soltanto che la nostra supplica fosse ascoltata."
+
+### u055804
+"Siete {mf|il benvenuto|la benvenuta}, Lord Capitano!"
+
+### u055805
+"Sì, Vostra Signoria — paraorecchie insonorizzanti. Il Manuale dice che sono progettati per gli operatori vox, ma abbiamo trovato un altro uso. Ci aiutano contro il grido del Drover, anche se non funzionano bene a lungo — ne ritardano soltanto gli effetti. A volte li mettiamo ai più irrequieti, per alleviare la loro sofferenza."
+
+### u055806
+"Certo, Vostra Signoria. Donarvi questa antica reliquia è un grande onore."
+
+### u055807
+"Ah, stavate verificando la nostra prontezza al combattimento? 'Un ufficiale superiore può effettuare in qualsiasi momento un'ispezione a sorpresa dell'uniforme e dell'equipaggiamento dei soldati della Guardia.' Ora capisco cosa intendeva quella riga del Manuale."
+
+### u055808
+{n}Non puoi non notare lo sguardo ammirato che scivola sulle tue augmetiche. In questo momento Dunawski sembra una devota pellegrina che si sia trovata all'improvviso tra le reliquie dei santi.{/n}
+
+### u055809
+"Non saprei, Vostra Signoria, e perché dovrei? Il Manuale prescrive di 'riporre la nostra completa fiducia e la più profonda reverenza nel nostro equipaggiamento e nei nostri armamenti.' Questi paraorecchie risalgono ai tempi della Prima Leva. Li abbiamo rivestiti di stoffa e coperti con una guaina protettiva per conservarli meglio."
+
+### u055810
+"Fatemi vedere se ho capito bene. Una parte della popolazione di questo pianeta mostra tutti i segni di eresia e ribellione, mentre l'altra è impegnata a canonizzare ogni anima che incrocia la sua strada? Sangue dei santi, questo rapporto sarà problematico..." {n}Una cupa ilarità colora la voce di Heinrix.{/n}
+
+### u055811
+"La semplicità del progetto sfiora il primitivo, eppure il dispositivo adempie alla sua funzione. Registro un certo interesse per il materiale responsabile dell'attenuazione del suono. L'analisi indica un composto organico locale di origine vegetale. Si raccomanda uno studio più esaustivo prima dell'impiego del dispositivo."
+
+### u055812
+"Lukha mi ha detto cosa avete fatto per Jovakha. Non potete immaginare quanto sia importante un sergente istruttore per il 32º Reggimento. Grazie."
+
+### u055813
+"'Fornire al comandante informazioni complete e adeguate alla situazione.' Così afferma il Manuale."
+
+### u055814
+"Se vi serve altro, sarò qui."
+
+### u055815
+{n}Vedka si raddrizza, chiaramente orgogliosa di condividere questo con te.{/n} "È il nostro cimitero di lavorazione. Una scoperta della Terza Leva. Le linfe e i veleni di varie piante native possono fare miracoli sui corpi dei caduti, purché le giuste sostanze vengano iniettate nel bozzolo e lo si lasci riposare per il tempo opportuno. La pelle la usiamo come materiale per impugnature o abiti. I tendini per archi o cordami. I composti secreti servono come veleni, medicine o per la concia. Tutto viene utilizzato."
+
+### u055816
+"Il nostro giuramento di lealtà, Vostra Signoria. Quando tornerete {mf|vittorioso|vittoriosa} dalla tana del Drover, Izdrig vi sfiderà... Volevo avvertirvi. Il Colonnello Batoshski combatterà con ferocia, e dovreste prepararvi bene. Una volta l'ho visto cospargersi di promethium e darsi fuoco prima di combattere disarmato contro tre germogli del Drover. È un nemico temibile."
+
+### u055817
+{n}La capitana parla con fervore, passione, un'intensità senza fiato. Il tuo occhio, tuttavia, è attratto involontariamente dalla sua bisaccia di cuoio, su cui è visibile un rozzo tatuaggio.{/n} "I distaccamenti funebri sono veri geni, Lord Capitano. Io stessa vengo da uno di essi, anche se ora servo come quartiermastro. Onoriamo i nostri morti sacrificando i loro corpi al resto del reggimento. Ogni uomo e ogni donna è pronto a donare non solo la vita ma anche la propria carne dopo la morte, affinché altri possano resistere."
+
+### u055818
+"Intendete l''Inno dei Perduti', Lord Capitano. Con esso viviamo e con esso moriamo. Se volete sapere qualcosa in merito, chiedete pure. Lo conosco a memoria."
+
+### u055819
+"Ci ricorda che la nostra sopravvivenza è costruita sulle ossa delle Leve che ci hanno preceduto, e che sulle nostre ossa cresceranno i nostri figli. Parla del nostro dovere e dell'espiazione."
+
+### u055820
+"Nel profondo delle radici ci sono rovine xenos. Di norma non ci avventuriamo là. È un luogo maledetto. Un luogo di morte." {n}La mano di Vedka si muove d'istinto verso l'occhio mancante, poi la ritrae.{/n}
+
+### u055821
+"Così onoriamo i nostri eroi. A ogni Leva il canto cresce, verso dopo verso, nome dopo nome. Cominciò con il Sergente Zarkov, il primo comandante a emergere dalle file dei comuni coscritti penali. Abbiamo dato il suo nome a questo mondo in suo onore. Il più grande onore è essere custoditi nei versi dell'Inno dopo la morte."
+
+### u055822
+{n}L'occhio rimasto di Dunawski si spalanca, mentre un fluido sottile e traslucido cola dall'altra orbita rovinata.{/n} "Questo è contrario al Manuale, Vostra Signoria! Dice: 'Non si deve mai cospirare contro un ufficiale comandante!' Le vostre parole sono una prova che supererò con onore, respingendole."
+
+### u055823
+"Girate per la Gabbia, ascoltate la gente. Sforzatevi di capirci, e allora saprete cosa fare nell'Incontro di Prova. Ho fede in voi, Vostra Signoria." {n}Un sorriso a metà folle, quello di una vera fanatica, sfiora le labbra di Vedka.{/n}
+
+### u055824
+"E perché lodiamo il Dio-Imperatore anche quando tutto sembra perduto? Perché lottiamo per sopravvivere anche dove dovremmo certamente perire? Perché non abbiamo altra scelta che combattere contro l'inevitabile. Izdrig combatterà per il reggimento persino contro gli Angeli dell'Imperatore. Come dice il Manuale: 'L'unica cosa che un soldato della Guardia deve temere è il fallimento nel compiere il proprio dovere.'"
+
+### u055825
+{n}Vedka impallidisce, portando la mano di carne e sangue all'occhio mancante. La pietra nera nell'orbita sembra spostarsi, appena appena.{/n} "Sì, Vostra Signoria. Ero giovane e ansiosa di dimostrare il mio valore e la mia audacia, durante l'Incontro di Prova per il grado di capitano-quartiermastro. Presi una grande quantità di polline esplosivo e andai a quelle rovine. Intendevo farle saltare, per mostrare il mio ardimento e che non temevamo alcun xenos."
+
+### u055826
+"Per volontà del Dio-Imperatore, Vostra Signoria."
+
+### u055827
+"Le ho fatte saltare, eccome... Ma solo una scheggia di pietra nera mi ha preso l'occhio in cambio. Ho provato a estrarla, ma non ci sono riuscita. Né coltello né ago ce l'hanno fatta. Col tempo mi ci sono abituata." {n}Dunawski ne parla con naturalezza, ma ora capisci che le cicatrici attorno all'orbita sono per lo più autoinflitte.{/n} "Ora le radici hanno ricoperto il tutto. Che il Drover abbia imposto la sua volontà, o che Zarkov stessa abbia fame di divorare quelle rovine maledette..."
+
+### u055828
+{n}La Capitana Dunawski saluta. La luce che un tempo brillava nell'occhio rimasto si è affievolita e il solenne peso della responsabilità si è posato sui suoi lineamenti.{/n}
+
+### u055829
+{n}Vedka tende una mano, poi scuote bruscamente la testa e la lascia ricadere.{/n} "Come il Dio-Imperatore è mio testimone, desidero ardentemente leggere quei registri. Ma lasciamoli a voi fino al giuramento. Sospetto che vi saranno utili durante la prestazione dei giuramenti."
+
+### u055830
+"Stiamo facendo progressi, Vostra Signoria. Stiamo invitando nuove persone, stringendo legami. Abbiamo colto in flagrante due scribi appena arrivati mentre rubavano, e a uno di loro abbiamo concesso la possibilità dell'espiazione finale." {n}Lo sguardo di Vedka si sposta in modo eloquente verso le foglie con dentro i corpi.{/n} "Ci affanniamo per la gloria della dinastia e del Dio-Imperatore."
+
+### u055831
+"Augmetiche, Vostra Signoria. Nei nostri canti si dice che il vostro antenato possedesse così tanti doni da poterli condividere con altri. Non so se sia vero. Ma è certo che il Rogue Trader fornì all'intero reggimento delle protesi. Continuiamo la sua opera come meglio possiamo." {n}Vedka serra in modo dimostrativo la mano di metallo, terminata da artigli d'osso.{/n}
+
+### u055832
+"Ma non devo annoiarvi con espressioni della nostra gratitudine. Di cosa desiderate parlare, Vostra Signoria?"
+
+### u055833
+"Il vostro illustre antenato, Seberian von Valancius, ci ha salvati dal terribile destino dell'oblio e ha preso al proprio servizio la Prima Leva. Ci ha dato buone uniformi e armi, e poi ci furono i doni von Valancius. Le storie tramandate dai nostri avi raccontano che il Rogue Trader si tolse questi doni dal proprio corpo e li offrì ai soldati che si erano dimostrati migliori di tutti gli altri. Questi doni li resero ancora più forti."
+
+### u055834
+"È un mondo di terrori. Ogni essere vivente cerca di uccidervi, e se non ci riesce, di certo riproverà. La cosa migliore che abbiamo qui è la nostra gente. Zarkov ci ha temprati, preparati all'espiazione e al nostro giuramento, mentre l'Ordine Finale del vostro eccelso antenato ci ha dato uno scopo."
+
+### u055835
+"State scherzando, ne sono certa, ma... Tutti noi qui — siamo noi contro il mondo, Vostra Signoria. Per centinaia di anni abbiamo imparato a guardarci le spalle a vicenda e a sopravvivere. Se uccidete il nostro comandante, diventerete {mf|nostro nemico|nostra nemica}." {n}C'è orrore negli occhi di Dunawski, ma la sua voce è ferma.{/n} "Il Manuale afferma: 'Un soldato che non alza l'arma per salvare il proprio comandante è da ritenersi complice della sua morte.'"
+
+### u055836
+{n}Dunawski solleva la mano artigliata protesica e la esamina per qualche istante.{/n} "Esatto, Vostra Signoria, lo sono. In ricordo dei doni von Valancius. Seberian von Valancius usò le protesi per rendere più forte l'intero reggimento. Quando morì e restammo intrappolati su Zarkov, fu solo grazie alle augmetiche e alle protesi che i nostri antenati riuscirono a sopravvivere. Senza la manutenzione dell'illustre Adeptus Mechanicus, le nostre augmetiche caddero in rovina. Ma abbiamo imparato, e ora facciamo ciò che possiamo per sostituire ciò che è andato perduto."
+
+### u055837
+"Sì, Vostra Signoria. Il vostro arrivo porterà sicuramente dei cambiamenti, e a poche persone piacciono i cambiamenti. Alcuni credono che il ritorno nell'Imperium porterà guai a causa della storia del reggimento. Altri, come me, ovviamente, non temono di incontrare i Suoi servitori, e attendiamo con impazienza il giorno in cui potremo tornare a servire l'Umanità. Questi disaccordi non sono mai stati altro che un pretesto per chiacchierare durante il pattugliamento, ma ora... In ogni caso, tutti noi presteremo il giuramento, potete starne {mf|certo|certa}! Se qualcuno rifiuta, gli concederemo noi stessi l'espiazione finale."
+
+### u055838
+"In realtà sono {mf|venuto|venuta} qui seguendo le tracce del mio antenato, Seberian von Valancius."
+
+### u055839
+"Proprio così. Io sono {name} von Valancius."
+
+### u055840
+"Quindi significa che il mio obiettivo è proprio sotto il naso di questo Drover. E finché è vivo, resterò {mf|bloccato|bloccata} qui senza comunicazioni?"
+
+### u055841
+"E perché non scacciate voi stessi la creatura dal vostro insediamento?"
+
+### u055842
+"Cosa? Aspetta un momento, questo non faceva parte dell'accordo!"
+
+### u055843
+"Non intendo sprecare il mio tempo a occuparmi di una creatura qualsiasi."
+
+### u055844
+"Va bene, come vuoi. Dimmi solo dove trovare questa creatura irritante così posso farla finita."
+
+### u055845
+"Dato che non siete in grado di farlo da soli, sarò io a finirla."
+
+### u055846
+"Qualcosa ha abbattuto la mia navetta."
+
+### u055847
+"A quali giuramenti ti riferisci?"
+
+### u055848
+"Devo tornare alla mia ammiraglia. Avete una stazione vox?"
+
+### u055849
+"Qui c'è qualcosa che non va. La tua gente... è malata, Colonnello?"
+
+### u055850
+"Abelard, presentami queste persone."
+
+### u055851
+"Visto che desiderate prestare i vostri giuramenti, ecco il mio primo ordine: distruggete quella creatura e riportatemi alla mia ammiraglia!"
+
+### u055852
+[Aspetta in silenzio che continuino]
+
+### u055853
+"Da dove viene questo Drover, e che cos'è?"
+
+### u055854
+"Anche il mio auricolare vox personale non funziona. Normalmente l'ammiraglia riesce a contattarmi, ma ora c'è una specie di interferenza."
+
+### u055855
+"Molto bene. Sbrighiamoci."
+
+### u055856
+"Va bene. Metterò fine a questa creatura."
+
+### u055857
+"Cos'è questo 'Ordine Finale' di cui parli?"
+
+### u055858
+"Il tuo reggimento serviva Seberian? Dimmi, che tipo di uomo era?"
+
+### u055859
+"Cos'è questo 'Incontro di Prova'?"
+
+### u055860
+"Inginocchiatevi, poiché davanti a voi sta {name} von Valancius, {mf|portatore|portatrice} del Mandato di Commercio e {mf|unto|unta} del Dio-Imperatore."
+
+### u055861
+[Osserva meglio la folla]
+
+### u055862
+{n}Attorno a te ci sono decine di persone vestite con qualcosa che ricorda solo vagamente l'uniforme dell'Astra Militarum. Stoffa tessuta in casa è ricoperta da placche di legno che imitano l'armatura flak imperiale. Questi abiti sono adorni di numerosi trofei: pellicce, ossa, corteccia e resti di piante giganti. I selvaggi ostentano cicatrici e moncherini, eppure molti sono dotati di protesi primitive. Di tanto in tanto qualcuno del gruppo scopre i denti come una bestia, mentre altri stringono nervosamente le armi.{/n}
+
+### u055863
+"Colonnello Batoshski, permesso di riferire?" {n}Janur si fa avanti e saluta l'uomo enorme, che ti osserva con severità.{/n} "Il 3º Plotone Rifornimenti si è dispiegato in missione e ha trovato dei sopravvissuti del velivolo abbattuto. Il capo del gruppo si è {mf|identificato|identificata} come il Rogue Trader von Valancius!"
+
+### u055864
+{n}La voce squillante di Dunawski fa trasalire Batoshski, in piedi accanto a lei.{/n} "Avete sentito tutti? Von Valancius è con noi ora! Ucciderà il Drover, affronterà l'Incontro di Prova con il colonnello e accetterà il nostro giuramento! L'Ordine Finale sarà adempiuto, proprio come promesso!"
+
+### u055865
+{n}Il Colonnello Batoshski ti fulmina con lo sguardo. I suoi brillanti occhi verdi sono iniettati di sangue e un basso ringhio sfugge tra i denti.{/n} "Sono il Colonnello Izdrig Batoshski, 32º Reggimento Penale di Merov. Vi do il benvenuto alla Gabbia, erede di Seberian."
+
+### u055866
+{n}La donna accanto a lui si inchina, con l'unico occhio fisso su di te. La sua voce risuona, perforando il pesante brusio della folla.{/n} "Siete {mf|venuto|venuta} a rinnovare i nostri giuramenti, Vostra Signoria?"
+
+### u055867
+"Capitano-Quartiermastro Dunawski!" {n}Batoshski scatta con la testa verso di lei, e per un istante ti pare di udire lo stridore di zanne, come se una belva punisse un membro del branco. La donna scatta sull'attenti e saluta.{/n}
+
+### u055868
+{n}La Capitana Dunawski ti lancia uno sguardo complice.{/n} "Benvenuti a Zarkov, benvenuti alla Gabbia. Vi prego, Vostra Signoria, chiedo un'udienza privata."
+
+### u055869
+"Discorsi da Commissario, erede di Seberian."
+
+### u055870
+"Oppure lo nascondono..." {n}Solomorne scruta i presenti con occhio scettico.{/n} "Improbabile, però. Richiederebbe troppa sottigliezza per una simile marmaglia."
+
+### u055871
+"La sopravvivenza non è una scusa per la codardia, soldato della Guardia!"
+
+### u055872
+"Sì, sì, shereen, hai ragione, come sempre..." {n}Jae incrocia il tuo sguardo e aggiunge in un sussurro.{/n} "Ma io sceglierò la sopravvivenza, grazie tante."
+
+### u055873
+{n}Noti che alcuni tra i soldati della Guardia si contraggono dal dolore, come per un mal di testa, o hanno dei tremiti. Queste persone sembrano squilibrate, pronte a scattare in violenza o a ballare in preda a una gioia delirante da un momento all'altro.{/n}
+
+### u055874
+{n}Una nuova ondata di dolore ti afferra il cranio, facendoti trasalire. C'è qualcosa di strano in questi quasi-selvaggi, quasi-soldati della Guardia — qualcosa nel loro comportamento... Ma il rumore nella tua testa rende difficile concentrarsi.{/n}
+
+### u055875
+{n}Il colonnello fa una smorfia e fa scorrere uno sguardo furioso sulla sua gente. Sotto il suo sguardo, trasaliscono, raddrizzano la schiena e annuiscono.{/n} "No. Non malati. Non proprio. Teniamo duro. Non possiamo essere spezzati."
+
+### u055876
+"È il Drover, Vostra Signoria. Il suo grido è inudibile, ma è come un peso che schiaccia la mente. Provoca dolore, incubi e porta alla follia. Rabbia, paura... tutto è possibile. Se cedete, perdete il controllo di voi stessi. Non molto tempo fa, uno di noi è andato in escandescenze e ha accoltellato una recluta solo perché aveva lasciato cadere la sua razione."
+
+### u055877
+{n}Un ghigno predatorio si apre sui tratti massicci del colonnello.{/n} "Una specie di enorme rampicante troppo cresciuto? Quello era il Drover. Quella cosa ripugnante tiene assediata l'intera Gabbia."
+
+### u055878
+{n}La capitana-quartiermastro incontra lo sguardo del colonnello e fa un passo avanti.{/n} "Il 32º Reggimento Penale di Merov fu requisito secoli fa dal Rogue Trader Seberian von Valancius. Durante una spedizione su GH-89-717, che ora si chiama Zarkov, il Lord Capitano si perse nelle radici. Il suo seguito portò l'Ordine Finale, salì sulla nave e non fece ritorno. Da allora aspettiamo. Abbiamo aspettato voi, Vostra Signoria!"
+
+### u055879
+{n}Lo sguardo intenso di Batoshski ti preme sul petto con una forza quasi fisica.{/n} "La Prima Leva. I nostri predecessori giurarono lealtà al vostro antenato, erede di Seberian. Intendiamo adempiere quel giuramento. In un modo o nell'altro..."
+
+### u055880
+"La cerimonia di benvenuto è finita. Reggimento, rompete le righe!" {n}Al comando di Batoshski, i soldati sembrano svanire nel nulla. Eppure decine di occhi guardinghi continuano a seguire ogni tua mossa.{/n}
+
+### u055881
+{n}Batoshski si gratta la barba pensieroso.{/n} "Il Manuale dice che le 'stazioni vox', come le chiamate voi, servono per le comunicazioni tra reggimenti. Mio nonno diceva di aver visto l'involucro dell'ultima su questo mondo, ma le radici l'hanno inghiottito molto tempo fa. Quindi qui non abbiamo nessuna 'stazione vox'."
+
+### u055882
+{n}Argenta guarda il soldato con un'amarezza nata dall'aver assistito a una ferita che non può guarire. La sua voce è densa di solenne fatalismo.{/n} "È insopportabile vedere questi soldati afflitti da una delle malattie più immonde e contagiose che si possano immaginare: la paura! Non contagiarti anche tu, {name}."
+
+### u055883
+{n}Izdrig sorride soltanto con amarezza.{/n} "Perché non siamo stolti desiderosi di una tomba precoce, e non siamo i Fratelli-Generali che spingono i loro uomini al massacro. Resistiamo. Sopravviviamo. Proprio come abbiamo fatto per secoli."
+
+### u055884
+"Nessuno ve lo chiede. Mettetevi {mf|comodo|comoda}. Con un po' di fortuna, il Drover se ne andrà strisciando da solo in un paio di mesi."
+
+### u055885
+"I nostri anziani dicevano che, ai tempi in cui avevamo ancora le comunicazioni, i canali si spegnevano ogni volta che i Drover erano vicini. Com'era che dicevano...? 'Addormenta gli spiriti macchina.' Ecco!"
+
+### u055886
+"Presteremo giuramento a voi, erede di Seberian, senza dubbio. Ma prima dobbiamo essere certi che nelle vostre vene scorra davvero il sangue del nobile Rogue Trader. Saremo anche inselvatichiti, ma non abbiamo perso il senno, e siamo abituati a giudicare le persone dalle loro azioni."
+
+### u055887
+"Tenere la linea fino all'arrivo della flotta dinastica. Come potete vedere, ci siamo riusciti."
+
+### u055888
+"Il più grande!" {n}dichiara Dunawski con una voce colma della più profonda convinzione.{/n}
+
+### u055889
+"Abbiamo servito il vostro santo antenato diversi secoli fa, {mf|signore|signora} erede. Lo onoriamo per le sue gesta, ma nessun vivente lo conosce come persona."
+
+### u055890
+"Davanti a voi sta {name} von Valancius in persona, conquistatore della Distesa di Koronus, Sovrano di Dargonus, Janus e di una moltitudine di altri mondi. Chinate il capo con timore reverenziale, poiché né prima né dopo questo momento vi sarà dato di contemplare qualcuno di maggiore maestà!"
+

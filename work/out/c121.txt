@@ -1,0 +1,912 @@
+### u043257
+{n}Il Commissario scrolla le spalle.{/n} "Cerco solo di rendermi utile. Il Culto delle Wych della Sete Fatale si diverte con questo piccolo spettacolo che ho messo in piedi. Le uccisioni non li divertono più di tanto, vogliono qualcosa di più... saporito. Quella gente crede di essere a un passo dalla salvezza, e poi capisce dove si trova. La combinazione di disperazione, dolore del tradimento, orrore e speranze infrante dà un tocco di spezie alle loro agonie."
+
+### u043258
+{n}Ride, compiaciuto.{/n} "Certo che no. Posso dirvi per esperienza che durante l'addestramento ai Commissari tolgono ogni briciola di cervello e di fantasia. Io ero un signor nessuno di una legione penale dell'{g|Encyclopedia:AstraMilitarum}Astra Militarum{/g}."
+
+### u043259
+"Come desiderate." {n}Argenta sospira cupamente. Fulmina il Commissario con lo sguardo e dice con convinzione:{/n} "Qui non abbiamo finito, Iako Sotniy. Questo non è un perdono, solo una sentenza sospesa."
+
+### u043260
+{n}Argenta si volta verso di te con uno sguardo di rabbia assoluta.{/n} "Ogni respiro di questo miserabile potrebbe costare la vita a un'altra anima ingannata!"
+
+### u043261
+"L'Imperatore protegge, compagno!" {n}Il Commissario nasconde con maestria il suo sorriso beffardo sotto una smorfia di altero orgoglio.{/n}
+
+### u043262
+"Fratelli e sorelle d'armi, siamo stati traditi! Alla battaglia! Versiamo il sangue di {mf|colui|colei} che obbedisce ai capricci sacrileghi dei xenos! Per l'Imperatoooore!"
+
+### u043263
+"La vipera è sorprendentemente dura a morire: è piena zeppa di {g|Encyclopedia:Augmentation}augmetiche{/g} di supporto vitale. Ho pensato che un nuovo animaletto sarebbe stato un bel bonus per aver conquistato la vittoria e ripreso la tana. Del resto, le nuove reclute hanno bisogno di un bersaglio su cui esercitare la mira, no?"
+
+### u043264
+{n}Il Commissario risponde con un sorriso compiaciuto e sicuro di sé.{/n} "Volete scoprirlo? Vediamo a chi crederanno: al loro 'fratello d'armi' che promette una fuga rapida, o al nobile sbruffone senza un piano concreto?"
+
+### u043265
+"Oh, sì. Un fornitore di carne per l'arena, chiuso in una gabbia. Che simbolismo bello ed edificante. L'immagine da sola basta a mandare in estasi alcuni dei nostri combattenti."
+
+### u043266
+"Ehi, ehi. Perché non ci alterniamo a torturarlo, invece? Non sono avido. All'Imperatore non piacciono gli avidi."
+
+### u043267
+"Suggerite di lasciarlo morire? Dopo tutto quello che ha fatto? Dopo aver condannato tanti dei nostri a morire per il piacere empio dei xenos?" {n}Le grida fervide del Commissario riecheggiano nella tana.{/n} "Concederemo a questa progenie feroce una morte facile? Mai! Mai! Mai!"
+
+### u043268
+"Non penserete mica di stringere un accordo con questa bestia astuta, vero? Un consiglio: è il modo più sicuro per morire. Quella progenie ha una scaltrezza che non potete immaginare. Ti convince a scambiare una tazza d'acqua con una nave da battaglia, poi sbatti le palpebre e ti ritrovi senza acqua, senza nave da battaglia, solo con una testa crivellata di buchi."
+
+### u043269
+"Non fraintendetemi, non sono avido. Sentitevi liberi di passare ad ammirare la sua miseria quando volete."
+
+### u043270
+"È un problema? Non vorrete... che so... uccidermi, vero? Sarebbe molto poco saggio. Malice era quello che ti procurava le cose per sopravvivere, ma ora ho preso il suo posto. Se mi uccidi, chi ti fornirà buone armi, stimolanti, armature?"
+
+### u043271
+"Mi ha derubato di ciò che era mio. Quando quel mostro squamoso ha capito che ero rimasto senza patrono, ha portato la sua banda nella mia tana — questa tana — e se l'è presa. E con lei il mio portale per l'arena. Poi ha continuato a pascolare nei miei pascoli e a rubare i nuovi arrivati che dovevano essere miei."
+
+### u043272
+"Continuerò a fornire carne per l'arena. Senza Malice tra i piedi, tutti i prigionieri umani saranno miei da raccogliere, e avrò materiale in abbondanza per deliziare i nostri graziosi ospiti."
+
+### u043273
+"Mi sono ritrovato nell'arena e... ho fatto tutto il possibile per sopravvivere, cosa che ha divertito parecchio il pubblico. Una delle Wych, Tazarra, mi ha notato. Mi ha trovato e mi ha detto che potevo servirle o con il mio cervello e il mio carisma, o con il mio sangue e le mie viscere."
+
+### u043274
+{n}Il Commissario sogghigna.{/n} "Oh, non avreste proprio dovuto. Anch'io so gridare, sapete. Mi chiedo a chi daranno ascolto."
+
+### u043275
+{n}Il Commissario si sistema il berretto con sorprendente compostezza e determinazione.{/n} "Che peccato. Avremmo potuto diventare alleati."
+
+### u043276
+{n}Si preme una mano sul viso. Il sangue che gli cola tra le dita rende il suo profilo eroico ancora più eroico.{/n} "Questo... era giusto... Vostra Signoria."
+
+### u043277
+"Be', l'Imperatore vuole che i suoi leali figli si sostengano a vicenda. Considerate questo umile dono le mie congratulazioni per non essere {mf|morto|morta} nell'arena."
+
+### u043278
+"Lieto di sapere che abbiamo un accordo. I nostri 'compagni' saranno al settimo cielo ad avere con noi un vero Rogue Trader. Con un'esca del genere, ingoieranno qualunque menzogna daremo loro in pasto."
+
+### u043279
+"Potete prendere qualcosa dalle nostre scorte. Consideratelo un segno della mia gratitudine per esservi {mf|sbarazzato|sbarazzata} di Malice."
+
+### u043280
+"Chiedete pure. Se vi va di diventare {mf|socio|socia}, basta dirlo: sono tutto per l'idea."
+
+### u043281
+"Vi consiglio di prendere in considerazione una collaborazione tra noi."
+
+### u043282
+"Non ho nulla da nascondere. Non possono esserci debolezze nel passato e nel presente di un ufficiale disciplinare." {n}Il Commissario ti fa l'occhiolino.{/n}
+
+### u043283
+"Che cosa intendete dire? Mi state chiedendo come mi chiamo? Iako Sotniy, su questo non ho mentito. Volete sapere il mio mestiere? Non ne ho. Sono nato in un formicaio che soffocava per la sovrappopolazione. Tutto quello che ho fatto per tutta la vita è stato... sopravvivere, con qualunque mezzo il destino mi mettesse davanti."
+
+### u043284
+"Stavano formando un reggimento dell'{g|Encyclopedia:AstraMilitarum}Astra Militarum{/g} sul mio pianeta. Migliaia di idioti si sono bevuti le cazzate dei Commissari sulle razioni e sul glorioso dovere di proteggere l'{g|Encyclopedia:Imperium}Imperium{/g}. Io non ero tra questi, ovviamente. Tuttavia, ben presto si è scoperto che quelle migliaia di volontari non bastavano."
+
+### u043285
+"Be', innanzitutto perché è ironico. E poi... è un travestimento comodo. Nessuno guarda mai in faccia il Commissario: guardano il suo berretto, il suo cappotto, la sua cintura. Inoltre, i sempliciotti come i miei ex commilitoni della Guardia credono che un Commissario non possa mentire... Idioti. Il Commissario mente sempre."
+
+### u043286
+"Sembrate {mf|sorpreso|sorpresa}. Il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} qui siete voi. Siete voi {mf|quello|quella} la cui vita passata era più dolce di questa. Ma per un popolano come me, il nostro amato Imperium è altrettanto un luogo mortale, infido e ingannevole dove tutti vogliono usarti e ammazzarti."
+
+### u043287
+"Sia lode all'Imperatore."
+
+### u043288
+"Che ne dite di un accordo? Voi partecipate al mio spettacolo e io vi do accesso alle scorte della 'resistenza'. Voi tenete la bocca chiusa e il dito lontano dal grilletto."
+
+### u043289
+"Traditore! Li hai condannati a morte! Ci hai mentito! E ora sono venuta a esigere la resa dei conti!"
+
+### u043290
+{n}Il sorriso del Commissario si fa sgradevole.{/n} "Sorella Argenta, che accuse sono queste? Possibile che gli orrori del combattimento vi abbiano scossa a tal punto? Siete stata accecata dalla follia che ne è seguita?" {n}Aggiunge alla voce una dose ben calibrata di sospetto allusivo.{/n} "Oppure il nostro astuto nemico vi ha avvelenato la mente con qualche influsso malvagio?"
+
+### u043291
+"In nome dell'Imperatore, ti condanno a morte, Iako Sotniy! Per il tradimento di ogni anima che hai mandato al massacro con il Sergente Vigastes!"
+
+### u043292
+{n}Argenta sospira cupamente e rivolge al Commissario uno sguardo di intensa repulsione.{/n} "Non metterò a rischio la vita di coloro che hai ingannato. Ma non ti sbagliare: non è finita qui."
+
+### u043293
+"I giusti sentiranno la verità nelle nostre parole. Non sosterranno il traditore! Ma se li lasciamo all'oscuro, diventeranno le sue prossime vittime!"
+
+### u043294
+"Le arene sono le sorgenti di vita in questo luogo ripugnante. I {g|Encyclopedia:Drukhari}Drukhari{/g} sono costretti a nutrirsi dell'energia psichica nata dal dolore e dalla paura, altrimenti avvizziscono e si degradano. Per questo vanno in queste arene di gladiatori: sono come banchetti dove i Drukhari si saziano della sofferenza della gente. E i Culti delle Wych sono i signori di questi sanguinosi baccanali."
+
+### u043295
+"Che poetico. Non conosco nessuno che porti quel soprannome, anche se... quando avete detto 'maestro', ho pensato subito all'Opera Anatomica. Quel titolo altisonante sembra adattarsi a Tervantias l'Archmachinator."
+
+### u043296
+"La Voragine è il territorio del Culto della Sete Fatale, guidato da tre Succubi: Tazarra, Keykeross e Sinisthoria. Di solito è Keykeross a occuparsi dei combattimenti nell'arena, mentre Tazarra va a fare razzie per raccogliere nuovi combattenti. Ma non è un segreto che Sinisthoria sia la più temibile e potente delle tre. È lei che ha stretto l'alleanza tra il Culto e la Reaving Tempest... anche se, per qualche ragione, ultimamente evita le luci della ribalta."
+
+### u043297
+{n}Si trattiene a stento dallo scoppiare a ridere.{/n} "Oh, ma datemi tregua! 'Ti dico, Iako! Certo, prima l'Imperium ti ha trattato come sporca carne da cannone, ma ADESSO ha davvero bisogno di te, lo giuro!' Anche se fossi un capo esemplare e un vero Commissario, chi se ne importa? Questo non è l'Imperium. Qui il gioco è diverso."
+
+### u043298
+"Bella questa, mi avete fregato! Forse potete aiutarmi con il reclutamento, visto che avete tanta parlantina? Poi ci faremo una bella risata insieme!"
+
+### u043299
+"Maledetto vuoto! Ora non riesco a togliermelo dalla testa! Io... penserò a quello che avete detto. Devo escogitare un piano di fuga. Un piano vero." {n}Ti sembra che abbia appena subito un cambiamento indescrivibile, come se ora non guardassi un impostore bugiardo, ma un vero eroe dell'Imperium.{/n}
+
+### u043300
+"Ditemi, credete davvero che i vaneggiamenti incoerenti di uno storpio appena salvato dalla prigionia dei Drukhari convincano qualcuno qui dentro? Quei mostri hanno torturato il poveretto, ne ha passate tante! Non c'è da stupirsi se ha perso il lume della ragione e vede traditori ovunque! Vigastes non è uno sciocco, sa che io ne esco sempre in cima. Ora lo sapete anche voi! Non è magnifico?" {n}Il Commissario sorride e fa l'occhiolino a Vigastes, che si limita a continuare a fissarlo con astio.{/n}
+
+### u043301
+{n}Tuttavia, i soldati sembrano esitare a obbedire. Lanciano occhiate sfiduciate dal Commissario all'{d|Encyclopedia:CharGen_MOT_GreatDeed}eroe noto dell'Imperium{/d} che lo ha sfidato.{/n}
+
+### u043302
+{n}Prima che i soldati possano elaborare le tue parole, il Commissario ricomincia a strepitare:{/n} "All'attacco, miei compagni! Morte ai traditori! Tenete la posizione!"
+
+### u043303
+{n}I soldati si avventano sul Commissario urlante, seppellendolo sotto un mucchio di corpi, da cui spuntano pugni e calci di fucile insanguinati prima di sprofondare di nuovo. Il berretto del Commissario, strappato dalla testa del suo proprietario, vola fuori dalla folla e atterra ai tuoi piedi: l'unica conferma che il suo regno di tradimento è finito.{/n}
+
+### u043304
+{n}Il Commissario emette una risata stridula.{/n} "Be', posso capire la vostra frustrazione... Che una {d|Encyclopedia:CharGen_MOT_Glory}figura così rinomata{/d} sia caduta in una trappola tanto semplice! Ma guarda, se la voce si spargesse lontano quanto i racconti delle vostre imprese passate, il vostro buon nome sarebbe rovinato!"
+
+### u043305
+{n}Malice ha un aspetto orribilmente mutilato. Uno dei suoi bracci è quasi strappato via e pende ora solo per i tendini. La sua voce acida, tuttavia, è la stessa di prima, e così il lampo assetato di sangue nei suoi occhi.{/n} "Solo la loro mira? E la loro abilità nel combattimento ravvicinato? Lasciami uscire... Fammi soffrire. Mettimi contro tre dei tuoi, cinque dei tuoi... disarmato. Un buon intrattenimento per la tua gente, non è vero?"
+
+### u043306
+{n}Sorridendo trionfante alla risposta unanime dei suoi soldati, il Commissario aggiunge a voce bassa:{/n} "Come potrei lasciare andare un prigioniero così stimolante? I miei compagni combattenti della resistenza ne sarebbero affranti."
+
+### u043307
+"Volete sapere chi servo o in chi credo? In me stesso e ancora in me stesso. Nessun altro. Forse intendevate chiedere qual è la mia vocazione? Hmm... Sarebbe stata una domanda davvero interessante. Credo di essere un artista nell'animo." {n}Un sorriso raggiante illumina il volto del Commissario.{/n}
+
+### u043308
+"Fu allora che il governatore del pianeta arruolò l'intera popolazione di diciassette livelli del formicaio, chiunque fosse in età. Io vivevo in uno di quei livelli. È così che sono diventato soldato, o per essere precisi, è così che sono entrato in una legione penale. Il nostro reggimento fu marchiato fin dall'inizio per qualche atto efferato commesso da uno dei nostri predecessori morti."
+
+### u043309
+"Solo che Tazarra sembra {d|Encyclopedia:Ch2_TazarraDead}essersi dimenticata di me{/d}. Malice avrebbe osato muoversi, altrimenti? Deve essersi annoiata: prima o poi si annoiano di tutto. Ma sto facendo del mio meglio per riconquistare il suo favore: ho già qualche idea per nuove piccole rappresentazioni teatrali."
+
+### u043310
+"Quando ci hanno lasciati morire per mano dei {g|Encyclopedia:Drukhari}Drukhari{/g}, ho deciso che avevo mangiato abbastanza merda dalla mano dell'Imperium. Ho ammazzato di botte il nostro Commissario e ho convinto la mia unità ad arrendersi. Ed è così che sono finito qui."
+
+### u043311
+"L'unica differenza è che qui nessuno pretende che tu salti di gioia per come vanno le cose. Quindi sì, questo posto mi piace più del mio vecchio mondo."
+
+### u043312
+"Ma ho davvero ammazzato un Commissario a colpi di vanga e preso la sua uniforme. Questo fa di me una specie di Commissario ai vostri occhi?" {n}Ridacchia divertito.{/n}
+
+### u043313
+"Ce ne avete messo di tempo."
+
+### u043314
+"Che cosa ci attende esattamente dall'altra parte?"
+
+### u043315
+"Venite con noi?"
+
+### u043316
+"Avanti!"
+
+### u043317
+{n}La determinazione del Commissario è palpabile.{/n} "Vittoria, compagni! Il dovere chiama! I nostri alleati ci aspettano dall'altra parte di questa strana frattura, quindi non perdiamo tempo!" {n}Tiene in mano uno strano xenodispositivo. Il Commissario lo punta verso la frattura, preme qualche pulsante, e le ribollenti energie entropiche si placano, formando un portale stabile.{/n}
+
+### u043318
+"Perdonatemi, Vostra Signoria. Non sapevo che foste così zelante nella lotta contro i nemici dell'Umanità! Vi ho sottovalutato! Verserò il doppio del sangue xenos per espiare il mio errore!"
+
+### u043319
+"Chiuderò la fila e mi assicurerò che nessuno resti indietro. Voi guiderete la carica. Siate un fulgido esempio di dovere e valore!"
+
+### u043320
+"Compagni leali e una nave di scorta rubata con il suo pilota preso in ostaggio. Ci riporterà nello spazio reale, dove, se l'Imperatore vorrà, lanceremo una richiesta di soccorso e saremo salvi."
+
+### u043321
+{n}Il Commissario alza la voce e grida trionfante:{/n} "L'Imperatore ci osserva! Non vacilliamo sotto il Suo sguardo!"
+
+### u043322
+"Il sentiero che percorriamo è avvolto dalle ombre. {mf|Attento|Attenta}, elantach. Un tragico presagio mi stringe lo spirito."
+
+### u043323
+"Sembra troppo bello per essere vero, ma se possiamo farcela... Oh, {mf|Eccelso|Eccelsa}, possiamo farcela, vero?"
+
+### u043324
+"Per Sua grazia, che questo si riveli vero." {n}La voce di Abelard è spenta e priva di vita.{/n}
+
+### u043325
+{n}La bestia ti scruta con uno sguardo colmo di odio e sete. Le voci nella tua testa formano un coro molto più risonante e distinto di quello che hai sentito alla discarica dei cadaveri.{/n} "Hai compiuto il primo passo. Prosegui sulla tua strada, {mf|prescelto|prescelta}. Trova il luogo che quelli come questo chiamano l'Opera Anatomica. Trova le creazioni dei fedeli e crea una nuova breccia."
+
+### u043326
+"Una volta completato questo compito, evoca i fedeli e offrili in sacrificio. Il terzo colpo rivelerà la via verso il finale. La Città Oscura sarà resa indifesa e tu... tu avrai la tua strada verso lo spazio reale."
+
+### u043327
+{n}La bestia warp gode e strilla in un'estasi empia. Le voci nella tua mente hanno raggiunto il crescendo.{/n} "Il terzo colpo! La terza breccia! Presto la Verità fluirà nella Città Oscura e diventerà un grande diluvio! Compi l'ultimo passo, sferra l'ultimo colpo, e sarai sulla tua strada per ascendere da questo abisso!"
+
+### u043328
+{n}La bestia scatta con le fauci e qualcosa cade ai tuoi piedi.{/n} "La tua arma della rovina. Usala contro il soffocatore che ancora sostiene il velo nell'arena e poi assisti a un nuovo spettacolo, quale i figli traviati non hanno mai visto!" {n}La creatura tende un arto e ti tocca il petto.{/n} "La tua benedizione della rinascita. Va' avanti e non lasciare che nessuno ti sbarri la strada."
+
+### u043329
+[Sorridi con ossequio] "Fino a oggi potevo solo sognare di incontrare un essere così saggio e illuminato!"
+
+### u043330
+"Ucciderò... chiunque tu voglia... Basta, ti prego!"
+
+### u043331
+[Ghigna] "Ora capisco il motivo di tutta questa arroganza. Stai semplicemente compensando l'umiliazione di vivere da lacchè delle Wych."
+
+### u043332
+"Devo dedurre che i più temibili guerrieri Drukhari siano creati da artigiani come te?"
+
+### u043333
+"Jae, non abbiamo tempo. Ne discuteremo più tardi."
+
+### u043334
+"Ho bisogno di far revisionare le mie augmetiche. Puoi occupartene?"
+
+### u043335
+"Accetta il tuo pagamento. Lei è tua."
+
+### u043336
+"Maestro Tervantias, ho bisogno di un momento del tuo prezioso tempo, e sono {mf|disposto|disposta} a pagarlo."
+
+### u043337
+"Libera Cassia."
+
+### u043338
+"Mi serve Heinrix."
+
+### u043339
+"Cerco Heinrix, il mio compagno."
+
+### u043340
+"Sono {mf|pronto|pronta} a collaborare."
+
+### u043341
+"Ho imparato tutto quello che volevo."
+
+### u043342
+"Abbiamo fatto un patto. Hai promesso il tuo aiuto. Non pensare di rimangiarti quello che abbiamo concordato!"
+
+### u043343
+"Cerco il mio Tecnoprete, Pasqal."
+
+### u043344
+"Hai torturato il mio Tecnoprete, Pasqal. Perché?"
+
+### u043345
+"Facendolo, tradirei gli altri. Salverò tutti loro o nessuno."
+
+### u043346
+"Qual è il tuo legame con l'arena della Sete Fatale?"
+
+### u043347
+"Devi essere il Drukhari più potente della Voragine!"
+
+### u043348
+"Mi servirà dell'equipaggiamento se devo uccidere i tuoi nemici."
+
+### u043349
+"Hai preso l'augmetica respiratoria della mia compagna e ora lei sta morendo. Restituiscimela subito."
+
+### u043350
+"Desidero sapere di più su di te e sulla tua arte."
+
+### u043351
+"Qual è la tua arte?"
+
+### u043352
+"Fermiamoci qui."
+
+### u043353
+"Perché sono {mf|sopravvissuto|sopravvissuta} all'interrogatorio a cui mi ha sottoposto Marazhai?"
+
+### u043354
+"L'ultima volta che sono {mf|stato|stata} nell'arena ho visto Marazhai. Che cosa ci faceva?"
+
+### u043355
+"Vorrei parlarti di un membro del mio seguito che ti è stato consegnato."
+
+### u043356
+"Vorrei prendere lo Space Marine che tieni in gabbia."
+
+### u043357
+"Il traditore che mi ha attirato qui è diventato un tuo servitore. Che cosa gli hai fatto?"
+
+### u043358
+"Ti troverò dei campioni interessanti."
+
+### u043359
+"Un esperimento affascinante. Sono curios{mf|o|a} anch'io di vedere come andrà a finire."
+
+### u043360
+"Non ti servirò."
+
+### u043361
+"Ai Nove Diavoli, inumano. Non vorrai davvero che ti aiuti!"
+
+### u043362
+"Ho fatto ciò che volevi."
+
+### u043363
+"È successo qualcosa?"
+
+### u043364
+"Nessuno qui desidera salutare {mf|il vincitore|la vincitrice} che ha sconfitto il migliore dell'arena?"
+
+### u043365
+"Guardami, inumano! O mi occuperò di te come mi sono {mf|occupato|occupata} dei Proseliti Insanguinati!"
+
+### u043366
+"Con lui avrei di certo successo. Favorirebbe gli interessi di entrambi."
+
+### u043367
+"Di certo è pericoloso tenere un prigioniero simile nella tua dimora. E se evade e viene a prendere la tua testa?"
+
+### u043368
+"Povera anima. Di certo non lo attende nulla di buono in prigionia."
+
+### u043369
+"Perché le Wych vogliono la mia morte?"
+
+### u043370
+"Allora, qual è il piano?"
+
+### u043371
+"Non mi importa di Keykeross. Hai promesso di aiutarmi a uscire di qui."
+
+### u043372
+"È tutta colpa tua! È stata un'idea tua!"
+
+### u043373
+"Portami con te! Siamo alleati!"
+
+### u043374
+"Porrò fine a Keykeross."
+
+### u043375
+"Non fare il codardo. Affrontiamoli qui e uccidiamoli. Tutti!"
+
+### u043376
+[Impugna l'arma] "Via da me, progenie immonda!"
+
+### u043377
+"Devi aver frainteso. Ritiro quello che ho detto."
+
+### u043378
+"Ah! Quindi sei solo il galoppino delle Wych?"
+
+### u043379
+"Prenderò Idira."
+
+### u043380
+"Mi hai mandato a uccidere le Wych. Vuoi dirmi che non avevi previsto queste conseguenze?"
+
+### u043381
+"La perdita di qualche mon-keigh non potrebbe mai ostacolare l'opera di una mente grande come la tua."
+
+### u043382
+"Li prenderò tutti!"
+
+### u043383
+"No. Non ne parleremo più."
+
+### u043384
+"Tervantias, ti porgo le mie scuse per aver cercato il tuo aiuto senza mostrarti il dovuto rispetto. Quale pagamento posso offrirti per il tuo inestimabile tempo e la tua attenzione?"
+
+### u043385
+"Temo di non poter resistere alla tentazione di lasciare qualche altra cicatrice sul tuo smisurato senso di auto-importanza."
+
+### u043386
+"Ho imparato dai miei errori."
+
+### u043387
+"Quelli del mio seguito meritano di meglio che essere confinati da te. Lasciali andare."
+
+### u043388
+"Esigo un risarcimento per tutti gli esperimenti oltraggiosi a cui mi hai sottoposto."
+
+### u043389
+"Cerco il mio Siniscalco. Si chiama Abelard."
+
+### u043390
+"Yrliet. La xenos che mi ha attirato in quella trappola. Ce l'hai tu?"
+
+### u043391
+"La mia Navigatrice, Cassia, era con me quando siamo stati catturati. Dov'è adesso?"
+
+### u043392
+"Voglio Idira di nuovo nel mio seguito."
+
+### u043393
+"Nel mio seguito c'erano delle guardie del corpo assoldate. Vorrei riaverle."
+
+### u043394
+"Ho trovato dei materiali. Sono adatti al tuo nuovo mostro?"
+
+### u043395
+"Se non liberi l'Angelo dell'Imperatore, la Sua punizione si abbatterà su di te, xenos."
+
+### u043396
+"Ti do la mia parola che sistemeremo tutto una volta tornati a casa. Ho più fiducia nella tecnologia umana che nei suoi servigi."
+
+### u043397
+[Alza la voce] "Non osare opporti alla mia volontà, Heydari!"
+
+### u043398
+"Ho bisogno del tuo aiuto, Haemonculus."
+
+### u043399
+"C'è qualcosa che posso offrire per ripagare un essere di tale genialità dell'attenzione che vorrà benevolmente concedermi?"
+
+### u043400
+"Che cosa mi è successo?"
+
+### u043401
+"A uno dei miei compagni sono stati rubati anni di vita. Se desideri il mio successo nell'arena, restituisci il tempo rubato."
+
+### u043402
+[Estrai l'arma] "Non permetterò che tu tenga prigionieri i miei compagni!"
+
+### u043403
+"Sei Tervantias?"
+
+### u043404
+"Quella cosa nella mia testa è il tuo animaletto?"
+
+### u043405
+"Ti offro la mia gratitudine per avermi salvato la vita."
+
+### u043406
+"Le tue arti immonde non sono nulla di fronte alla volontà di un servitore dell'Imperatore!"
+
+### u043407
+"Questo buon esemplare desidera una ricompensa per la sua impressionante prestazione."
+
+### u043408
+"Per l'Imperatore, ti farò pagare i tuoi esperimenti profani."
+
+### u043409
+"Che cosa ti ha detto esattamente di me questo Arebennian?"
+
+### u043410
+"Che cosa hai contro le Wych?"
+
+### u043411
+"Tu, un Drukhari, faresti affari con un umano? Che notevole apertura mentale."
+
+### u043412
+"Discutiamo di che cosa ti aspetti da me."
+
+### u043413
+"Che cosa ci guadagno? O mi costringerai come fai con tutti gli altri?"
+
+### u043414
+"Ti servirò se mi aiuti a fuggire."
+
+### u043415
+"Strozzati con il tuo icore, inumano! Non sarò complice dei tuoi luridi piani!"
+
+### u043416
+"Non tollererò che tu tenga prigioniera la mia compagna! Non mettere alla prova la mia pazienza, xenos!"
+
+### u043417
+"Sono {mf|il Rogue Trader|la Rogue Trader} von Valancius, e non ti ho concesso il permesso di prelevare una sola cellula dal mio corpo."
+
+### u043418
+[Sospira] "Allora, che cosa ti devo adesso?"
+
+### u043419
+"Temo che tu non capisca con chi hai a che fare. Non sono un sicario. Io assumo sicari."
+
+### u043420
+"Non servo i nemici dell'Umanità. Ma non rifiuto mai l'occasione di uccidere qualche xenos."
+
+### u043421
+[Esamina lo xenos]
+
+### u043422
+"Hai addestrato male il tuo animale, se sono riuscit{mf|o|a} a scrollarmi di dosso la sua influenza."
+
+### u043423
+[Dai un'occhiata al verme dissezionato] "Sventri tutto quello su cui metti le mani?"
+
+### u043424
+"Quindi, alla fine sono riuscit{mf|o|a} a provocare la tua rovina, progenie empia."
+
+### u043425
+Consegnato all'Haemonculus Tervantias un campione di carne corrotta dal warp.
+
+### u043426
+[Sabota il mostro usando la carne corrotta] "Ho trovato del materiale insolito per il tuo mostro. Davvero unico. Un pezzo irripetibile."
+
+### u043427
+"Visto che sei deciso a fuggire, tanto vale che liberi i miei compagni."
+
+### u043428
+"Mi servono buoni combattenti."
+
+### u043429
+"Con una scorta al completo avrei maggiori possibilità di riuscire e di contribuire ai tuoi piani."
+
+### u043430
+"Le mie condizioni sono piuttosto gravi dal mio arrivo a Commorragh. Puoi riparare il mio corpo?"
+
+### u043431
+"Ho bisogno della tua assistenza."
+
+### u043432
+"Yrliet, perché?"
+
+### u043433
+"Capisco. A quanto pare non mi sei di alcuna utilità."
+
+### u043434
+[Inginocchiati] "Riconosco il tuo potere su di me e ti imploro clemenza."
+
+### u043435
+"Troverò un modo per liberarli, qualunque cosa tu faccia o dica."
+
+### u043436
+[Premi l'arma alla base della tua stessa mascella] "A meno che tu non voglia perdere un esemplare prezioso, libererai subito la mia compagna."
+
+### u043437
+"Ho bisogno di aiuto..."
+
+### u043438
+"Visto che stai abbandonando la tua tana, saresti disposto a condividere con me alcune delle tue creazioni?"
+
+### u043439
+[Ridacchia all'esilarante sconosciuto]
+
+### u043440
+"Non toccarmi, abominio immondo!"
+
+### u043441
+"Se osi toccarmi ancora, il mio seguito ti vedrà morto."
+
+### u043442
+"Il mio successo ti avvantaggia. È ragionevole che tu mi aiuti."
+
+### u043443
+"Due volte hai approfittato della mia debolezza. Non ci sarà una terza volta. Dammi tutto ciò che esigo da te, o vivrai abbastanza per pentirtene."
+
+### u043444
+"Maestro, permettimi di prendere lo Space Marine che tieni in gabbia."
+
+### u043445
+"Ho incontrato un mostro nel Settore Straziato, una creatura che può rubare anni di vita alle sue vittime e mutilarne i corpi. Sei in grado di curarlo?"
+
+### u043446
+[Porgi la borsa dei campioni] "Certo, Maestro."
+
+### u043447
+"Non ho nulla con cui pagarti se non la mia stessa carne. Ti prego di accettarla come dono."
+
+### u043448
+"Non posso pagare adesso."
+
+### u043449
+"La mia guardia del corpo, Kibellah. Ce l'hai tu?"
+
+### u043450
+"Il mastino cibernetico di un mio compagno è stato sottoposto a modifiche. Puoi riportarlo com'era prima?"
+
+### u043451
+"Hai cucito il collega della mia compagna al corpo di qualcun altro. Perché l'hai fatto?"
+
+### u043452
+"Cerco Eogunn, un Genetor del mio seguito."
+
+### u043453
+"Rivoglio Eogunn."
+
+### u043454
+"Che cosa intendi dire?"
+
+### u043455
+"È possibile che tu non abbia afferrato il suo progetto?"
+
+### u043456
+"Preferirei morire... che servire... un abominio... come te!"
+
+### u043457
+"Sapevo che c'era qualcosa che non andava in quel servoteschio!"
+
+### u043458
+"Eogunn non può riconoscere la tua evidente superiorità. Forse un dono di carne potrebbe compensare la sua ignoranza?"
+
+### u043459
+"Che cosa devo fare perché tu riassembli Eogunn?"
+
+### u043460
+[Sopporta in silenzio il dolore atroce]
+
+### u043461
+{n}Il tocco dell'artiglio dell'Haemonculus fa bruciare la tua carne in un'agonia lancinante.{/n} "Non sei altro che uno dei miei materiali sperimentali. Hai poche scelte. La prima, e di gran lunga la più ragionevole, è obbedire e dimostrare così il tuo valore."
+
+### u043462
+"Non mi hai portato nulla di interessante, solo cose banali e noiose. Deludente. Cerca meglio, esemplare."
+
+### u043463
+{n}Con un sibilo irritato, Tervantias agita una mano e ti sfiora il viso con le dita a lama, quasi tagliandolo.{/n}
+
+### u043464
+"Se il tuo silenzio significa che hai esaurito le domande, tornerò volentieri alle mie ricerche."
+
+### u043465
+"Se è un sacrificio che vuoi, artigiano della carne, allora sono pronta a offrirmi come tale." {n}La voce di Yrliet vibra, ma lei tiene gli occhi fissi su Tervantias.{/n} "Prenderai la mia carne?"
+
+### u043466
+"Prenderò più della carne. Posso estrarre qualcosa di molto più prezioso da un singolo frammento dei tuoi organici." {n}L'Haemonculus sorride in modo inquietante.{/n} "Questo mi interessa. Non le toglierò molto. La sua funzionalità non ne soffrirà."
+
+### u043467
+{n}Tervantias si porta un'appendice al petto in un gesto quasi comicamente umano di orgoglio ferito.{/n} "Che prova eclatante dell'innata superficialità della vostra razza. Dopo averla liberata di quel rozzo dispositivo che chiamate augmetica, ho ripristinato un'affascinante caratteristica del suo codice genetico! E sia. Non sprecherò i miei materiali migliori su di lei. Le restituirò il suo meccanismo senza indugio."
+
+### u043468
+{n}Yrliet scuote la testa.{/n} "Il maestro della carne distorce la verità, elantach. Se l'Arebennian non fosse intervenuto nel processo degli Arconti... è improbabile che qualcuno sarebbe sopravvissuto a quell'interrogatorio."
+
+### u043469
+"Lo stesso che a te, piccola falena." {n}Lo xenos punta un arto sfigurato verso Yrliet.{/n} "A meno che, ovviamente, l'oscurità di Commorragh non ti bruci rapida come gli altri."
+
+### u043470
+{n}L'Haemonculus si getta in avanti, incombendo minaccioso su di te, con il volto contorto dalla furia.{/n} "Mia è la mano che plasma le più grandi creazioni di morte seminata. Mie sono le essenze che sostengono il loro spettacolo di carneficina. E mie sono le indagini libere da ogni debolezza della mente, perché io sono l'unico capace di meditare sui segreti raccapriccianti che i Drukhari temono ciecamente e che persino gli altri Haemonculi sono troppo vili per contemplare!"
+
+### u043471
+{n}Yrliet sussulta.{/n} "Che cosa significa, Haemonculus?"
+
+### u043472
+"Il concetto di 'gratitudine' mi è oscuro. Ma lavorerai per ripagare il tuo debito."
+
+### u043473
+"Curioso. Funzione cognitiva ridotta, compresa la perdita degli istinti basilari di sopravvivenza. Un effetto prevedibile dell'intossicazione cerebrale in un organismo inferiore."
+
+### u043474
+"Non farmi perdere tempo, esemplare."
+
+### u043475
+"L'esemplare incline alle compulsioni tecnomaniacali? Ha rivelato quel nome durante il suo interrogatorio." {n}L'Haemonculus fa fremere le sue dita a lama, esili come quelle di un insetto che muove le zampe.{/n} "Lavorare su di lui è stato un processo curioso. Ha resistito ai miei potenziamenti con tale intensità... Ma poi l'esemplare è caduto in depressione, così ho perso interesse e l'ho gettato nella Voragine. Un esemplare difettoso. Ormai sarà di certo morto."
+
+### u043476
+"Un accordo?" {n}sibila Tervantias.{/n} "Miserabile! Io non stringo accordi con quelli come te! Io ti comando! E se mi insulti ancora anche solo insinuando che io e te siamo pari, ti priverò del privilegio di un'esistenza organica coesa."
+
+### u043477
+"Ero curioso di vedere che tipo di simbiosi potesse nascere tra le rudimentali augmetiche dei mon-keigh e le mie creazioni prive di difetti. Come la cartilagine infusa di steroidi gonfia il corpo debole di un soggetto, nuovi circuiti computazionali sono germogliati in tutti i suoi algoritmi. Ho trovato il processo illuminante."
+
+### u043478
+"Tornerai nell'arena della Sete Fatale. Ucciderai per me alcuni dei pupilli delle Wych. Potresti persino versare il sangue di uno dei Proseliti Insanguinati." {n}L'Haemonculus guarda oltre te mentre pronuncia il suo imperioso discorso.{/n} "Era ora che ricevessero una piccola lezione di umiltà. Hanno dimenticato il loro posto, mancano di rispetto, non apprezzano il mio lavoro, non riconoscono la mia autorità..." {n}Sempre fissando lontano, prosegue a elencare i suoi rancori con una meticolosità maniacale.{/n}
+
+### u043479
+{n}Tervantias fa un gesto indifferente.{/n} "Gli esemplari in attesa di smontaggio sono tenuti nel recinto. Prendi quelli che vuoi."
+
+### u043480
+"Il Segretario Achilleas... Su Dargonus, ho notato le sporche catene grigie che gli legavano braccia e gambe. In quel momento mi è parso che si stesse incolpando per l'attacco al mondo capitale. Se solo avessi avuto il coraggio di parlargliene almeno una volta... forse ci sarebbe stato risparmiato il destino di diventare prigionieri in questo posto."
+
+### u043481
+{n}Un sorriso sadico gioca sulle labbra dell'Haemonculus.{/n} "Sì... mi chiedo che effetto avrà sugli altri esemplari quando verranno a sapere della tua decisione."
+
+### u043482
+"Credimi, Cass, non sei l'unica a sentirsi una sciocca da queste parti. Anche i miei sussurri sono rimasti tradimentosamente muti."
+
+### u043483
+{n}L'Haemonculus sogghigna.{/n} "Non solo la Voragine. L'intero Kabal della Reaving Tempest dipende dalle mie augmetiche e dalle mie essenze, ed è così che mi sono assicurato la Voragine come mio dominio. Qui non mi mancano mai soggetti... o pezzi di ricambio."
+
+### u043484
+{n}Le appendici che sporgono dalla schiena dello xenos si muovono senza sosta, emettendo uno stridio inquietante. Tervantias è completamente assorbito dal suo apparato e non ti dedica alcuna attenzione.{/n}
+
+### u043485
+{n}C'è qualcosa di fondamentalmente sbagliato nella sagoma dello xenos e nei suoi movimenti nervosi e bruschi, e la tua mente vacilla per il disgusto. Ciascuna delle sue appendici meccaniche sembra progettata per essere il più nauseante e orripilante possibile.{/n}
+
+### u043486
+"Non ho l'abitudine di conversare con gli esemplari. Ma se questo aumenta la tua motivazione a servire..."
+
+### u043487
+{n}L'Haemonculus ti guarda con una smorfia impaziente e inquietante.{/n}
+
+### u043488
+"Il tuo corpo mi è stato consegnato per essere smaltito. È stato gettato nel pozzo nero." {n}La voce dell'Haemonculus si fa pensierosa.{/n} "È un'anomalia che l'esemplare non sia morto. Devo considerare di dotare lo scivolo di smaltimento di un meccanismo tritatore."
+
+### u043489
+"L'obbedienza sarà ricompensata. Porta con te il tuo rozzo equipaggiamento. Aborrisco tale banalità tecnologica, ma una creatura sottosviluppata come te potrebbe trovarlo utile." {n}Senti scattare una delle articolazioni del braccio di Tervantias.{/n} "Quando avrai finito, va' a guardare quelli che saranno i tuoi carnefici quando verrà il momento della tua morte."
+
+### u043490
+"Quel cucciolo sfrontato, ambizioso e deplorevolmente imprudente. È stato cacciato dai Dracon del Kabal ma si è guadagnato i favori delle Wych della Sete Fatale già nel suo primo combattimento nell'arena. È stato invitato a unirsi ai loro migliori, i Proseliti Insanguinati. Alcuni dicono che fosse coinvolto nella morte della loro Succube, Tazarra... in tal caso, Marazhai potrebbe restare deluso dall'accoglienza nei ranghi del Culto."
+
+### u043491
+"Quale esemplare in particolare ti interessa?"
+
+### u043492
+"Forse il sottotipo genetico di tutti e tre gli esemplari era difettoso, ed è questa la causa del mio successo limitato... In tal caso, la perdita di questo esemplare non sarebbe significativa."
+
+### u043493
+{n}L'Haemonculus sorride soddisfatto, ma poi ti fissa con uno sguardo severo.{/n} "Percepisco che speri di convincermi ad abbassare la guardia, esemplare. Non mettere alla prova i limiti del mio favore."
+
+### u043494
+"L'esemplare spinto da un desiderio autodistruttivo di punizione? Un progetto interessante. Era così attaccato al suo meschino senso di vergogna che ha accolto con favore i cambiamenti che ho operato. Ho usato i suoi materiali per creare un Wrack. Come servitore si comporta in modo adeguato."
+
+### u043495
+"Senza dubbio. Persino le Wych più abili e i possenti Kabalite sono superati dalla pura distruttività del nostro genio. Eppure io mi sono elevato da tempo al di sopra della costruzione di bestie da battaglia banali. I mostri che creo sono unici! Il mio ultimo esemplare, il Chtonos, ha superato ogni sciocchezza mai prodotta dai miei rivali! L'ho nutrito con guerrieri d'élite finché non è fuggito e si è nascosto nel Settore Straziato... L'avrei catturato, ma poi una nuova idea ha attirato la mia attenzione!"
+
+### u043496
+"Buon esemplare. La tua collaborazione sarà ricompensata."
+
+### u043497
+{n}Tervantias ti rivolge uno sguardo di curiosità condiscendente.{/n} "La tua razza inferiore non è del tutto priva dell'inquisitività propria degli esseri compiuti."
+
+### u043498
+"Un esemplare difettoso. Solo i miei interessi, di cui sei lo strumento di esecuzione, ti proteggono da un'immediata separazione in parti più obbedienti."
+
+### u043499
+"La seconda opzione, meno razionale ma altrettanto accettabile, è essere {mf|ostinato|ostinata}. Troverò comunque un uso per te. Per esempio, potresti essere trasformato in una zuppa senziente che conserva le sensazioni e la consapevolezza della sua forma originale e quindi è cosciente di tutto ciò che accade finché non si dissolve completamente alla fine del processo digestivo. Vedo dalla tua espressione che hai già scelto."
+
+### u043500
+{n}Con un sospiro stanco, l'Haemonculus si volta dall'altra parte, mentre le sue dita simili a coltelli producono un inquietante stridio.{/n}
+
+### u043501
+{n}Tervantias corre per il laboratorio, afferrando alcuni strumenti, fiale e appunti. Nasconde alcuni di questi oggetti nelle cavità del proprio corpo e distrugge il resto.{/n}
+
+### u043502
+{n}Tervantias resta in silenzio per un lungo istante. Gli arti dietro di lui scattano in modo sinistro.{/n} "Il maschio mon-keigh con la struttura genetica alterata... Ah, parametri così fenomenali... In passato ho studiato altri due esemplari della stessa razza ma devo ancora sbrogliare i loro segreti genetici. Si comporta abbastanza bene anche nell'arena. Perdere quest'ultimo esemplare sarebbe un esito indesiderabile. Negato."
+
+### u043503
+{n}L'Haemonculus sbuffa con disprezzo.{/n} "Pensi davvero che un qualsiasi mon-keigh possa spaventarmi? Il suo corpo sarà forte, ma la sua mente è semplice, e quindi non è più difficile da tenere sotto controllo di qualsiasi altro membro della tua specie."
+
+### u043504
+"Prima o poi trasformerò la sua carne in una fonte di dolce conoscenza. Fino ad allora, contribuirà uccidendo un'altra dozzina di gladiatori nell'arena. Forse addirittura due dozzine."
+
+### u043505
+{n}L'Haemonculus ti fulmina con lo sguardo e ruggisce furioso:{/n} "Non era ciò che desideravo! Non fino a questo punto!"
+
+### u043506
+"Il Culto della Sete Fatale brama sangue, esemplare. Il tuo sangue. Il mio sangue. Bisogna essere incredibilmente insensibili alle vibrazioni della Città Oscura per non rendersene conto."
+
+### u043507
+"Preferirei salutare il cadavere ambulante che ha invitato {g|Encyclopedia:Sailanthresh}Colei che ha Sete{/g} nella mia Opera Anatomica."
+
+### u043508
+"Prima dovrai sbarazzarti della calca che desidera ciò che desideri tu ma che l'ha dichiarato per prima."
+
+### u043509
+"Le hai umiliate, mon-keigh. Keykeross e io avevamo concordato che avrebbe mandato carne fresca contro di te, ma lei ha deciso di minare la mia autorità mandando le sue migliori. Tu le hai massacrate, e così è stata l'autorità del Culto a soffrirne. Ma chi se ne importa di un patetico mon-keigh? Tu sei il mio lacchè e quindi sono io il responsabile di aver minato l'autorità del Culto."
+
+### u043510
+"Lascerò l'Opera Anatomica e mi ritirerò nella Guglia della Reaving Tempest. Le Wych non oseranno regolare i conti sotto lo sguardo dei miei patroni, quindi il prezioso servitore del Kabal è al sicuro dalla loro ira. Quanto a te... Esci per le strade della Voragine e muori. Oppure va' nell'arena e prova a uccidere Keykeross. Anche se ci riuscirai, morirai comunque."
+
+### u043511
+{n}Senti scherno nella voce dell'Haemonculus:{/n} "Dimentica le vecchie promesse, mon-keigh. Questa è guerra. I miei leali servitori vengono massacrati in tutta la Voragine. Non posso portare con me altri esemplari, e quelli che ho già imballato valgono molto più di te."
+
+### u043512
+{n}L'Haemonculus riflette per un momento, facendo schioccare le mandibole.{/n} "No. Dev'essere colpa tua. Il mio piano era brillante, ma tu lo hai rovinato. Un esemplare difettoso!"
+
+### u043513
+{n}Tervantias ti esamina, poi dichiara con aria asciutta:{/n} "No. Tu, esemplare difettoso, non vali quanto credi. E il Kabal della Reaving Tempest di certo non ti estenderà la sua protezione."
+
+### u043514
+{n}Tervantias è così assorto nei suoi pensieri che comincia a recidere pezzi della propria carne con gli artigli a forbice.{/n} "Entra nell'arena. Le Succubi non si lasceranno sfuggire l'occasione di sventrarti davanti a un pubblico. Se riuscissi anche solo a ferire Keykeross, ci darebbe a entrambi il tempo sufficiente per fuggire. Per questo sarei disposto a sacrificare gli esemplari più letali e preziosi della mia collezione."
+
+### u043515
+{n}Tervantias tace per qualche istante.{/n} "Per ripagare Keykeross del suo tradimento, manderò nell'arena l'{d|Encyclopedia:Ch3_PatchedMonster}Anguish Prospector{/d}. Mentre le Wych saranno impegnate a porre fine alla tua vita, il Prospector ne ucciderà diverse. In ogni caso, è troppo vistoso perché io possa nasconderlo alle cacciatrici del Culto. Che la mia creazione esegua la sinfonia del dolore per cui è stata progettata!"
+
+### u043516
+"Se riuscirai a ucciderla, scappa. Sinisthoria non lascerà impunita una simile impertinenza, e la sua ira è cento volte più pericolosa della furia di Keykeross. Non tornare nella Voragine: non vi troverai alcun rifugio. Cerca la salvezza in altre guglie, e potrai prolungare la tua agonia ancora per un po'."
+
+### u043517
+{n}I movimenti ansiosi dell'Haemonculus rallentano fino a fermarsi, ma le mandibole sul suo volto fremono nervosamente.{/n} "Un rischio inutile. Questa non è una ritirata precipitosa, solo... un cambio temporaneo di spazio di lavoro."
+
+### u043518
+{n}Ti sembra che le ossa del tuo cranio abbiano cominciato a contrarsi, schiacciando da ogni lato il tuo cervello squassato dagli spasmi come una gabbia che si restringe sempre di più. Il mondo diventa una macchia ondeggiante offuscata da un velo di lacrime, e senti uno strano tintinnio da qualche luogo lontano, molto probabilmente il tuo urlo prolungato.{/n}
+
+### u043519
+{n}L'espressione di Tervantias non cambia, ma la sua pelle bianca si chiazza di ferite sanguinanti mentre le sue ossa la attraversano come orribili spuntoni uncinati. Chiede, con voce vellutata:{/n} "Che cosa hai detto?"
+
+### u043520
+"Scegli con saggezza le parole quando ti rivolgi al tuo padrone, mon-keigh."
+
+### u043521
+{n}Tervantias socchiude gli occhi.{/n} "Se sei così indifeso, a che serviva lasciarti in vita?"
+
+### u043522
+"La primitività assoluta delle vostre tecnologie... Va', esemplare. Porta il messaggio di sangue di Tervantias alle Wych dell'arena." {n}L'Haemonculus indica l'uscita con un gesto imperioso.{/n}
+
+### u043523
+"E non ti bastava ucciderle e basta! Hai {d|Encyclopedia:Ch3_MarazhaiRecruited}attirato uno dei Proseliti Insanguinati{/d} dalla parte dei mon-keigh! Sotto gli occhi dell'intera Voragine! Uno schiaffo in faccia al Culto non ti era sufficiente, così hai deciso di sputargli in faccia?"
+
+### u043524
+{n}Tervantias tira fuori un dispositivo dotato di un ago insolitamente lungo.{/n} "Cerca di non contorcerti, piccolo insetto. L'ago deve attraversare la tua pietra spirituale, il cuore e la colonna vertebrale in modo che io possa raccogliere tutti e tre i campioni in una volta sola. Ed è così fragile..."
+
+### u043525
+{n}Tervantias scrolla le spalle e la scintilla di curiosità nei suoi occhi si spegne.{/n}
+
+### u043526
+"Era una minaccia? Faccio fatica a seguire le patetiche metafore della vostra specie, soprattutto quelle che dovrebbero suonare minacciose: siete semplicemente incapaci di incutere timore. Se era un tentativo di intimidazione, resto impassibile."
+
+### u043527
+"Questo sarà un passo sul sentiero dell'espiazione degli errori del mio passato, elantach. Se il mio sacrificio ci porterà... se porterà te più vicino alla salvezza, mi consegnerò nelle mani di questo aguzzino."
+
+### u043528
+"Buon esemplare."
+
+### u043529
+{n}Yrliet stringe le labbra e annuisce.{/n} "Fa' il tuo lavoro, ladro di carne. Non ti temo, e non temo il dolore." {n}Continua a sillabare queste parole ancora e ancora come un mantra mentre l'Haemonculus le conficca l'ago nel petto. Dall'interno del suo corpo giunge uno scatto. Yrliet impallidisce, il volto contorto dal tormento... ma resta immobile come una statua.{/n}
+
+### u043530
+"Un solo esemplare, è tutto ciò che ottieni. Fa' la tua scelta."
+
+### u043531
+"La coercizione sarà più che sufficiente. Se disobbedisci, ti trasformerò in materiale per le mie creazioni e farò in modo che tu senta e sia consapevole di ogni manipolazione compiuta sulla tua carne. Ma se farai ciò che ti dico di fare, ti lascerò vivere ancora per un po'."
+
+### u043532
+"Una volta esaurita la loro utilità, ti lascerò prendere gli scarti."
+
+### u043533
+{n}Tervantias risponde con un sorriso sprezzante:{/n} "Sei così {mf|ingenuo|ingenua}, mon-keigh. La tua mente impotente ti ha forse convinto che io possa essere placato da una dimostrazione di obbedienza tanto trita? Dovresti stare in ginocchio ogni volta che sei in mia presenza. Ora sparisci dalla mia vista."
+
+### u043534
+{n}L'Haemonculus emette una risata di disprezzo.{/n} "Un risarcimento, brandello sfrontato di carne difettosa? Ti ho fatto un onore abbassandomi a interagire con i tuoi trascurabili organici marchiati dall'inferiorità."
+
+### u043535
+{n}Tervantias inarca un sopracciglio.{/n} "Dimentichi chi sei, esemplare. Va' a servire la mia volontà, e se mai deciderò di mostrarti favore, lo farò nel momento che sceglierò io."
+
+### u043536
+{n}L'Haemonculus non reagisce alla tua osservazione impudente. O, più precisamente, non sembra ascoltare affatto.{/n}
+
+### u043537
+{n}Il sorriso di Tervantias è una strana combinazione di disprezzo e piacere.{/n} "I tuoi miseri averi non mi interessano. Se avessi qualcosa in grado di incuriosire un maestro scultore come me... magari un notevole pezzo di organici... allora potrei concederti qualche breve istante del mio tempo."
+
+### u043538
+{n}Dopo aver rovistato tra ciò che possiedi, Tervantias estrae un frammento di carne che ha attirato la sua attenzione. Ne stacca un pezzo, se lo mette in bocca, riflette per un po' e infine conclude:{/n} "Curioso. Ti sei guadagnato la mia attenzione, esemplare. Parla in fretta."
+
+### u043539
+{n}Dopo aver rovistato tra ciò che possiedi, l'Haemonculus sbotta con stizzita delusione:{/n} "Esemplare, non mi hai portato nulla degno di attenzione. Fuori!"
+
+### u043540
+{n}Molto lentamente, Tervantias estrae l'ago da lei, lo esamina con occhio critico, poi infine annuisce.{/n} "Il prelievo è riuscito." {n}Rivolge a Yrliet un'occhiata sprezzante.{/n} "Non ho più bisogno di te."
+
+### u043541
+{n}L'Haemonculus ispeziona meticolosamente il pezzo di carne che hai offerto.{/n} "Proprietà insolite. Il tessuto muta spontaneamente, cambiando di continuo la propria struttura. Estremamente instabile, pericoloso e imprevedibile. Buon lavoro, esemplare. Sono incuriosito."
+
+### u043542
+{n}Tervantias fa una smorfia di ribrezzo e borbotta:{/n} "Il solo pensiero che tu li contamini con le tue mani sudicie è rivoltante... ma se serve a garantire la mia sicurezza, tollererò questa oscenità."
+
+### u043543
+{n}La gabbia toracica dell'Haemonculus si spalanca, la pelle intorno si lacera con uno schiocco umido. Intravedi i suoi organi interni ricoperti da una strana pellicola e crivellati di escrescenze informi e tumori simili a funghi. Dove ci si aspetterebbe di vedere un cuore, vedi invece un mollusco lucido e traslucido che si è attaccato alle vene dello xenos. La cosa rivoltante emette un gemito, e un getto di liquido caustico ti brucia il viso. {mf|Accecato|Accecata}, cominci a dibatterti mentre un orribile spasmo ti serra la gola impedendoti di respirare e il tuo corpo si contorce dal dolore. La luce intorno a te svanisce all'istante.{/n}
+
+### u043544
+{n}Tervantias fa un gesto irritato con le dita e senti una puntura al collo. La tua mano trova un minuscolo dardo conficcato nella pelle. Potrebbe venire da qualsiasi parte: la tana dell'Haemonculus potrebbe nascondere decine di assassini o armi automatiche. Il tuo battito cardiaco diventa irregolare e senti un dolore sordo diffondersi nel braccio sinistro. Tervantias osserva la tua agonia con aria sdegnosa.{/n}
+
+### u043545
+{n}L'Haemonculus ti scaccia con irritazione.{/n} "Se non sei in grado di renderti utile, preferisco aspettare che tu muoia e trovarmi uno strumento migliore. Dovresti essere degno della mia attenzione, non una sua dispersione."
+
+### u043546
+"Per prima cosa, rimuoviamo le parti... ridondanti." {n}Diversi strumenti di morte con lame di varia lunghezza, spessore e curvatura compaiono nelle mani di Tervantias. Scopre i denti e si rivolge a Jae con voce insinuante:{/n} "Quale scegli?"
+
+### u043547
+"Il mio cammino non deve finire qui. Ho già {d|Encyclopedia:Ch2_Yrliet_BrokenPromise}sacrificato molto{/d}, e questo nuovo prezzo... è uno che posso pagare. I figli di Crudarach meritano che il canto luttuoso sul destino della nostra casa attraversi i secoli. Se significa fuggire da questo luogo per poter scoprire la verità... lo farò."
+
+### u043548
+{n}Yrliet aggrotta la fronte, e cogli uno strano sguardo nei suoi occhi: un misto di tristezza, sollievo e... vergogna.{/n}
+
+### u043549
+{n}Senti un grido e il rumore di qualcuno che si muove alle tue spalle, ma l'Haemonculus punta gli artigli dritti ai tuoi occhi, e tutto tace. Il mostro rivolge lo sguardo ai tuoi compagni.{/n} "Intervenire sarebbe sconsigliabile, servitori. Questo esemplare e io stiamo conversando."
+
+### u043550
+{n}La creatura davanti a te è un patchwork di pelli riempite di oscurità, corruzione e oggetti affilati. Fissandoti con i suoi occhi di bisturi, osserva con malumore:{/n} "Che esemplare disobbediente, non sei ancora {mf|morto|morta}. Un'anomalia?" {n}I suoi pensieri immondi e corrotti si protendono verso di te, tastandoti il viso.{/n}
+
+### u043551
+{n}Tervantias schiocca un dito ad ago verso una specie di apparato fatto di ossa.{/n} "Il sarcofago per contenere gli esemplari pericolosi è stato sbloccato. Puoi prendere ciò che resta del tuo servitore."
+
+### u043552
+"Ma vedo che presto diventerai un esemplare molto obbediente. Spasmi convulsi, reazioni isteriche... Vieni qui." {n}La creatura ti punzecchia il petto, la sua unghia triangolare penetra facilmente nella pelle. Un suono strano pulsa ai margini della tua coscienza. Un suono simile al tuo stesso urlo.{/n}
+
+### u043553
+"No," {n}scatta secco l'Haemonculus, e torna al suo lavoro. Notando che stai ancora aspettando qualcosa, sibila con irritazione, senza distogliere lo sguardo dall'esperimento:{/n} "Se desideri continuare a farmi perdere tempo con le tue patetiche suppliche e i tuoi piagnistei, esemplare, allora conosci il prezzo: paga o sparisci."
+
+### u043554
+"Oh, ne dubito. Mentre ti dibattevi tra la vita e la morte, i tuoi servitori si sono molto agitati. Sono state proferite diverse minacce ridicole prima che i tuoi tirapiedi capissero che la vita del loro {mf|padrone|padrona} era interamente nelle mie mani. Quindi si comporteranno bene, non è vero?" {n}L'Haemonculus sorride con scherno ai tuoi compagni.{/n}
+
+### u043555
+"Allora togliti dalla mia vista e non disturbarmi più, esemplare."
+
+### u043556
+{n}Tervantias estrae un pezzo di carne, lo esamina con aria schizzinosa, palpandolo e strappandone dei frammenti, poi lo ripone in una specie di contenitore.{/n} "Andrà bene."
+
+### u043557
+{n}Tervantias riflette per un momento.{/n} "I tuoi tessuti mi interessano poco: sei un pezzo di carne piuttosto insignificante, mon-keigh. Tuttavia, per tua fortuna, mi serve proprio un campione fresco di midollo spinale."
+
+### u043558
+"Esemplare obbediente. E sia, ti sei guadagnato qualche minuto della mia attenzione. La risposta è ancora no. Questo particolare esemplare di mon-keigh ha parametri fenomenali. In passato ho studiato altri due esemplari della stessa razza ma devo ancora sbrogliare i loro segreti genetici. Si comporta abbastanza bene anche nell'arena. Non mi separerò dall'ultimo esemplare."
+
+### u043559
+{n}Senza preavviso, gli arti dell'Haemonculus ti serrano in una morsa mortale e un trapano stridente morde la tua colonna vertebrale. Vorresti urlare, ma non ci riesci: la gola si contrae convulsamente nell'agonia, impedendoti di trarre un solo respiro. La mascella freme, serrandosi e rilasciandosi con tanta forza che quasi ti stacchi la lingua a morsi. Proprio quando pensi di non poterne più, Tervantias estrae la punta del trapano con uno scricchiolio viscido e chiude la ferita con una specie di graffette e aghi.{/n}
+
+### u043560
+{n}L'Haemonculus emette uno schiocco.{/n} "Ecco che arrivano Aebys e i suoi pupilli... Il capo dei Proseliti Insanguinati ha fatto visita all'Opera Anatomica. Approfitta dell'occasione per studiarli come si deve: qui non oseranno toccarti."
+

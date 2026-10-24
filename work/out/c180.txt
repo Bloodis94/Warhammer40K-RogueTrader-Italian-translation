@@ -1,0 +1,726 @@
+### u060833
+"Non c'è alcun bisogno di alterare le tradizioni. La dinastia sarà rappresentata dalla Casata Drivestem."
+
+### u060834
+"La Casata Sauerback assolverà a questo compito."
+
+### u060835
+"Vistenza si è piegata al culto dei Poteri Rovinosi ed è stata giustiziata."
+
+### u060836
+"Un momento. Quali casate possono rappresentarmi alla cerimonia?"
+
+### u060837
+"{name} von Valancius, {mf|ventesimo|ventesima} della propria stirpe, Rogue Trader, custode del sacro {g|Encyclopedia:Warrant}Mandato{/g} e sovrano della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} dal Sistema Cranach al Hundred Dreams Crossroads: vi do il benvenuto!"
+
+### u060838
+"Quanto a me personalmente... sono un umile servitore dell'Imperatore e un fedele suddito del Rogue Trader. E, con mio grande piacere, ho avuto l'onore di dirmi amico intimo di Lady Theodora."
+
+### u060839
+{n}La voce di Drivestem si riempie di un'indignazione opportunamente misurata:{/n} "Demoni profani! Che l'Imperatore abbatta la loro stirpe per la morte del Suo diligente servitore Vistenza!"
+
+### u060840
+{n}Gli occhietti di Drivestem si spalancano per la paura.{/n} "Vostra Signoria! Vi supplico, non interpretate le mie parole come un tentativo di influenzare in alcun modo le vostre decisioni... Vedete, senza Vheabos VI, i {g|Encyclopedia:Manufactorum}Manufactorum{/g} dei vostri mondi dovranno affrettarsi a trovare altrove nuovi fornitori e a organizzare nuove spedizioni e, in questi tempi difficili, rischiano ritardi e altri tragicissimi inconvenienti! La mia sola preoccupazione è la prosperità della dinastia von Valancius!"
+
+### u060841
+"Darò immediatamente tutte le istruzioni necessarie, Vostra Signoria!" {n}Preme con noncuranza alcuni pulsanti del {g|Encyclopedia:Cogitator}cogitatore{/g} integrato nel suo bracciale d'oro.{/n}
+
+### u060842
+{n}Lo sconcerto fa distendere le rughe sul volto lucido di Drivestem.{/n} "Vostra Signoria, si tratta di tradizioni secolari, di usanze e regole sacre!"
+
+### u060843
+"Indagheremo subito su questo. E anche sul fatto che la nave abbia dovuto ottenere un permesso col sigillo dell'{g|Encyclopedia:AdeptusAdministratum}Administratum{/g}. Vostro nipote presta ancora servizio al Palazzo dell'Administratum?"
+
+### u060844
+"Siamo tutti turbati dalla sorte del {g|Encyclopedia:AgriWorld}mondo agricolo{/g} Janus, che riforniva di generi alimentari Dargonus e altri pianeti: gli stomaci vuoti possono spingere alla rivolta persino la plebaglia più mite. Inoltre, la Casata Gaprak è inquieta per la perdita delle comunicazioni con il {g|Encyclopedia:IndustrialWorld}mondo industriale{/g} Kiava Gamma, che è sotto la sua responsabilità. Ma se volete conoscere la mia opinione, il mondo che merita più di tutti la vostra attenzione è il mondo penale Vheabos VI, uno dei principali fornitori minerari del vostro protettorato."
+
+### u060845
+"{mf|Stimato|Stimata} {name}... Lady Theodora era una guida forte, e dobbiamo seguire il suo esempio. Facciamo affidamento sulla nostra saggezza e perseveriamo nonostante questa tragedia. Insieme. E proseguiamo là dove lei non può più, conducendo il protettorato von Valancius a una prosperità ancora maggiore!"
+
+### u060846
+"Non dimenticare chi servi, Urbend Drivestem. Se è volontà del Rogue Trader non tenere una cerimonia di lutto..." {n}La voce di Abelard stride sgradevolmente.{/n} "...allora così sia."
+
+### u060847
+{n}Il governatore si accarezza pensieroso gli anelli che gli brillano sulle dita.{/n} "Lord Voigtvir ha visitato la capitale qualche tempo fa, ma non ha chiesto un incontro personale. Un eretico, dite? Ora capisco da dove vengono tutti i bisbigli nei corridoi..."
+
+### u060848
+{n}Il governatore preme una serie di pulsanti sul cogitatore integrato nel bracciale e vi guarda sorpreso.{/n} "Non capisco... La nave è effettivamente partita dall'orbita, ma lo ha fatto, ci credereste, con l'autorizzazione del Rogue Trader! Ecco perché nessuno ha osato impedirne la partenza."
+
+### u060849
+"Sarà un piacere illuminarvi. La mia casata è la più antica e rispettata di Dargonus. I miei antenati hanno camminato fianco a fianco con i vostri per molte generazioni, prendendosi cura del benessere di questo mondo. Il nostro dovere è sovrintendere agli organi di governo dei sistemi a voi sottomessi, e siamo responsabili della logistica e della stabilità economica del protettorato."
+
+### u060850
+"Sarò franco con voi, Vostra Signoria. L'improvvisa morte di Lady Theodora è stata un colpo per ciascuno di noi, e l'assenza di qualsiasi informazione verificabile e completa sulla sua erede dà adito a ogni sorta di dicerie e fraintendimenti, specialmente se qualcuno sta deliberatamente fomentando disordini e malcontento. Naturalmente, nessuno oserebbe sfidarvi accusandovi di qualcosa di sacrilego come l'assassinio di un Rogue Trader... Tuttavia, Kunrad Voigtvir fu un tempo una vera benedizione per il protettorato, ai suoi giorni, e per questo qualcuno potrebbe dare ascolto alle sue parole."
+
+### u060851
+{n}Drivestem tace, soppesando la gravità delle vostre parole.{/n} "Notizie davvero luttuose, Vostra Signoria... Suppongo che la Casata Gaprak dovrà subire un'indagine ufficiale? Se posso ricordarvelo, ha legami particolarmente stretti con l'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g} ed è patrona di Kiava Gamma. Non vorrei parlare in difesa dei criminali, Vostra Signoria, ma dal mio punto di vista l'esplosione dell'eresia su Kiava difficilmente può essere stata opera di una famiglia nobile che rischia di perdere la maggior parte delle proprie ricchezze se il mondo industriale dovesse cadere..."
+
+### u060852
+"Prenderò subito tutte le disposizioni affinché il vostro ordine sia eseguito a dovere." {n}Drivestem si inchina.{/n}
+
+### u060853
+"Ma certo, {name}, il vostro desiderio è lodevolissimo, ma vi prego di non dimenticare: un sovrano non dovrebbe mai inchinarsi ai propri subordinati, o qualcuno potrebbe vederci un segno di debolezza."
+
+### u060854
+"Esattamente quello che penso, Rogue Trader! Guidate il protettorato lungo il suo cammino, e col tempo tutto tornerà alla normalità!"
+
+### u060855
+"Se siete irremovibile su questo, Vostra Signoria... mi assicurerò che la sentenza sia eseguita."
+
+### u060856
+"Sono lieto che le nostre opinioni su questa faccenda coincidano, Vostra Signoria."
+
+### u060857
+"Quanto mai ragionevole, Vostra Signoria."
+
+### u060858
+"La Casata Gaprak ne sarà felicissima! Vi ringrazio per aver dissipato le tenebre che avvolgevano la sorte di Kiava Gamma!"
+
+### u060859
+"Ne sono deliziato. Molti, su Dargonus, vivono nella speranza che le consegne di cibo alla capitale riprendano presto."
+
+### u060860
+"Non ho mai dubitato della decisione di Vostra Signoria. Sento che il futuro ci riserva una fruttuosa collaborazione, e prosperità per tutta Dargonus. Trasmetterò subito tutti i vostri ordini, graziosissimo Rogue Trader. Che l'oro del Trono illumini il vostro cammino."
+
+### u060861
+"Temo che, finché non vi occuperete delle questioni urgenti, la cerimonia dovrà essere rimandata. Molte rotte commerciali sono ancora inagibili, i mondi centrali del protettorato von Valancius attraversano una crisi e le perturbazioni del {g|Encyclopedia:Warp}warp{/g}, se si deve credere agli osservatori del vuoto, impediranno agli ospiti importanti di raggiungere la capitale."
+
+### u060862
+"E un'ultima cosa, Vostra Signoria. La vostra investitura a portatore del sacro Mandato è solo questione di tempo, e vorrei informarmi su un dettaglio cruciale. Immagino abbiate intenzione di mantenere la tradizione secolare, rafforzata da un'amicizia altrettanto duratura, di essere rappresentati su Dargonus da una delle casate nobili. Presumo che, come in passato, questo compito sarà affidato alla Casata Drivestem—"
+
+### u060863
+"Davvero? La stirpe dei Vyatt è una delle più antiche del protettorato von Valancius: se l'erede di un sangue così rispettato non è riuscita a fronteggiare ciò che le è capitato, la situazione dev'essere stata davvero straordinaria..."
+
+### u060864
+{n}Gli occhi di Drivestem si spalancano.{/n} "La stirpe dei Vyatt... è spezzata? Che notizia orribile! Oh, scuoterà molti di coloro che erano legati ai Vyatt e che sono abituati all'immunità che spetta alla nostra classe..."
+
+### u060865
+"Ma che ne è del mondo industriale? Dobbiamo aspettarci che il commercio riprenda?"
+
+### u060866
+{n}Il governatore getta un'occhiata ansiosa a Kibellah, poi distoglie subito lo sguardo. Poi torna a guardarla, ma quando Kibellah emette una cupa risatina e allarga le labbra imbrattate di sangue fresco in un ghigno agghiacciante, il governatore si volta di scatto, quasi squittendo per la paura.{/n}
+
+### u060867
+"Quando l'ira di Vostra Signoria si abbatterà sui colpevoli, non abbiate dubbi: non ci sarà un'anima su Dargonus disposta a condividerne la sorte."
+
+### u060868
+"Una decisione nobile, Vostra Signoria. Speriamo che gli altri non scambino la vostra magnanimità per debolezza."
+
+### u060869
+"Ora, passiamo a questioni di scala minore. C'è una certa tensione nella capitale a causa della successione irregolare al sacro {g|Encyclopedia:Warrant}Mandato{/g}. Le probabilità di insurrezioni sono minime, naturalmente, e il diffondersi di dicerie non è altro che un segno di debolezza di mente e di spirito. Ciononostante... ho preparato un elenco di casate minori che hanno mostrato un indecoroso turbamento per la vostra successione. Che cosa si deve fare con loro?"
+
+### u060870
+"Con mano severa e forte, non è così, Vostra Signoria? Somigliate a Theodora von Valancius più di quanto pensassi. Che le stelle illuminino il suo cammino nell'oscurità. Sarà fatto."
+
+### u060871
+{n}Il volto di Drivestem si apre in un sorriso amaro.{/n} "Trasmetterò subito i vostri comandi, graziosissimo Rogue Trader. Grazie per il vostro tempo."
+
+### u060872
+"Una qualsiasi delle casate nobili di Dargonus! La famiglia Drivestem, che guido io; la famiglia Gaprak, con lunghi legami con l'Adeptus Mechanicus; i Sauerback, noti per la pietà e la diligenza nel servizio... Forse dovrei menzionare anche i Werserian, che hanno una certa influenza, ma che non sono di origine nobile. Ognuna di queste casate sarebbe onorata di rappresentarvi alla cerimonia."
+
+### u060873
+{n}Il governatore abbassa in fretta il capo in un inchino compiacente, ma intravedi la smorfia sul suo volto. È chiaramente contrariato dalle tue parole.{/n} "In tal caso, penso sia opportuno non cambiare l'ordine stabilito delle cose: sarete {mf|rappresentato|rappresentata} dalla casata governante dei Drivestem."
+
+### u060874
+{n}Abelard si volta verso di te e si inchina con rispetto.{/n} "Lord Capitano! Accompagnarvi in un'ora così critica è il più grande onore per la stirpe dei Werserian! Non temete: non vi deluderemo."
+
+### u060875
+{n}Drivestem impallidisce dal terrore. Dalla smorfia indecorosa sul suo volto aristocratico è chiaro che la sua paura non è finta.{/n} "P-Poteri Rovinosi? Notizia davvero orribile. Lodo la vostra risolutezza e la vostra incrollabile severità! Morte ai nemici dell'Umanità!"
+
+### u060876
+{n}Drivestem ti rivolge uno sguardo di ammirazione. Pare che sia ben consapevole della tua fama, e questa occasione di ingraziarsi una {d|Encyclopedia:CharGen_MOT_Glory}figura eminente{/d} è una che non vuole lasciarsi sfuggire.{/n}
+
+### u060877
+{n}Per quanto il governatore cerchi di apparire sincero, c'è qualcosa nella piega del suo nervoso mezzo sorriso che trovi inquietante. È un accenno di rimprovero? Di scherno? Di condanna? O è semplicemente la tua {d|Encyclopedia:CharGen_DH_Shame}coscienza sporca{/d} che ti gioca brutti scherzi sotto lo sguardo acuto del governatore, risvegliando i ricordi del tuo passato?{/n}
+
+### u060878
+"Ahimè, non sarà un compito facile. Qualche tempo fa gli {g|Encyclopedia:Astropath}Astropati{/g} di Dargonus sono andati su tutte le furie e hanno dovuto essere... sedati. Stiamo gradualmente ripristinando la nostra capacità di comunicare con i mondi vicini, ma i contatti sono ancora deboli, e le rotte sono ingarbugliate e non portano più ai sistemi che i capitani si aspettano. Dato che la stragrande maggioranza delle navi della flotta di Dargonus viaggia senza affidarsi ai servigi dei {g|Encyclopedia:Navigator}Navigatori{/g}, senza il vostro intervento il benessere della dinastia von Valancius e di miliardi dei suoi sudditi è attualmente a rischio."
+
+### u060879
+"Eppure siete pur sempre {mf|il discendente|la discendente} di una grande dinastia. Ma non vi stancherò oltre con la mia umile opinione."
+
+### u060880
+"Come desiderate, Vostra Signoria." {n}Drivestem china il capo.{/n}
+
+### u060881
+"Grazie per il vostro tempo, Vostra Signoria. Poiché il dovere chiama, prendo congedo. Che la grazia dell'Imperatore sia con voi!"
+
+### u060882
+"Comandate ai filatori del Bloodspun Web e tesseranno una fine trappola di rappresaglia, Domin' {name}. Sussurreremo dei nomi, e quel sussurro coprirà le voci insolenti."
+
+### u060883
+"Hmm... Be', mi assicurerò di informare i Gaprak della situazione attuale di Kiava Gamma. Grazie, Vostra Signoria."
+
+### u060884
+{n}Un sudore freddo imperla il volto di Drivestem. Si costringe a sfoggiare un sorriso servile.{/n} "Questo metterà in riga le casate nobili per gli anni a venire, Vostra Signoria. Le farà temere non solo le parole blasfeme, ma anche la propria ombra."
+
+### u060885
+{n}Il governatore ti fissa con un misto di preoccupazione e incredulità. Tuttavia, dopo aver udito le tue parole, china il capo in segno di obbedienza.{/n}
+
+### u060886
+"Urbend Drivestem, governatore di questo grande mondo. Innanzitutto, accettate le mie più profonde condoglianze. Sarà difficile riprendersi dalla perdita di una donna grande come Theodora von Valancius. Mi addolora pensare che non sia più con noi. I cittadini di Dargonus e dell'intero protettorato soffrono insieme a voi. Permetteteci di dichiarare mezzo anno di lutto, così da onorare la memoria della nostra amata signora."
+
+### u060887
+{n}Drivestem getta ad Abelard un'occhiata priva anche del più piccolo briciolo di rispetto.{/n} "Perdonate la mia audacia, ma devo ricordarvi che i Werserian, la cui stirpe risale a un ufficiale della Flotta, non appartengono alla nobiltà di Dargonus. Decisioni simili possono avere effetti negativi sulla lealtà dei vostri sudditi, Vostra Signoria."
+
+### u060888
+"Sarà fatto, Domin' {name}. Che il sacramento della caccia abbia inizio."
+
+### u060889
+{n}Drivestem china umilmente il capo.{/n}
+
+### u060890
+"Lord Capitano, a quanto pare Kunrad è riuscito in qualche modo a mettere le mani su una copia della vostra autorizzazione, o forse addirittura sull'originale! Uno strumento simile nelle mani di un traditore non promette nulla di buono!"
+
+### u060891
+{n}Alle ultime parole di Urbend, Abelard emette un suono che potrebbe essere interpretato sia come uno sbuffo sia come un colpo di tosse. Urbend gli lancia un'occhiata, che Abelard ricambia con un'espressione di totale noncuranza.{/n}
+
+### u060892
+"Hmm... È una notizia davvero deplorevole. Per di più, lasciare Dargonus è vietato ormai da diversi cicli! Pare che la famiglia Werserian abbia ancora una volta mancato ai propri doveri primari." {n}Lancia ad Abelard un'occhiata condiscendente.{/n}
+
+### u060893
+"{g|Encyclopedia:Xenos}Xenos{/g}, Vostra Signoria. Non so davvero da dove cominciare..." {n}Si stropiccia stancamente la radice del naso.{/n} "Le bestie ultraterrene non sono una vista insolita nella Distesa di Koronus: sono una minaccia per i mondi di questa parte della Fauce da decenni. Ma ora... ora quelle abominazioni sono scatenate. Non mostrano alcun segno di paura quando attaccano le navi, danneggiandole al punto da renderle inadatte al trasporto o sventrandole del tutto!"
+
+### u060894
+"Solo voi avete il potere di fermare questa follia! Stiamo ripristinando il Coro Astropatico di Dargonus. Per fortuna, siamo stati costretti a eliminare solo alcuni degli psyker impazziti, anche se quelli rimasti non sono ancora in grado di trasmettere messaggi. Spero che Maestro Scalander mantenga la parola e vi offra il suo sostegno nella guerra contro gli xenos. Secondo i suoi rapporti, la regione di Vheabos VI è stata motivo di particolare preoccupazione negli ultimi cicli... il che è una ragione in più per scoprire il prima possibile la sorte della colonia."
+
+### u060895
+"Una soluzione elegante, Vostra Signoria. Le altre famiglie penseranno che i vostri rapporti con le casate ribelli siano più complicati di quanto si creda, e gli agitatori riceveranno il messaggio di essere tenuti sotto controllo."
+
+### u060896
+{n}Urbend guarda Abelard con stanchezza da sotto le palpebre pesanti.{/n} "Forse un parvenu insediato da Lady Theodora non si cura delle sacre tradizioni dei nostri antenati fondatori. Ma {name} von Valancius è {mf|un discendente|una discendente} dei veri figli di Dargonus."
+
+### u060897
+"Forse il parvenu insediato da Lady Theodora non si cura delle sacre tradizioni dei nostri antenati fondatori..." {n}Il governatore fa un eloquente cenno del capo in direzione di Abelard.{/n} "Ma {name} von Valancius è {mf|un discendente|una discendente} dei veri figli di Dargonus! Spetta al sovrano di un mondo onorarne le usanze."
+
+### u060898
+"Il modo in cui parli di Drivestem... sento una nota di disprezzo o di risentimento."
+
+### u060899
+"Quali sono le tue responsabilità come cancelliera?"
+
+### u060900
+"Che cosa puoi dirmi di Dargonus?"
+
+### u060901
+"La capitale resta in contatto con gli altri mondi del protettorato?"
+
+### u060902
+"Che cosa c'è, Signora Werserian?"
+
+### u060903
+"Aiutare in che modo, Jae?"
+
+### u060904
+"Ci sono altri problemi di cui dovrei essere al corrente?"
+
+### u060905
+"Parlami del governatore Drivestem."
+
+### u060906
+"Di' loro che sono {mf|pronto|pronta} a ricevere il governatore."
+
+### u060907
+"Il governatore può aspettare ancora un po'. Ho ancora delle faccende da sbrigare."
+
+### u060908
+"E l'incontro con i Navigatori della Casata Orsellio?"
+
+### u060909
+"Signora Werserian, ho bisogno che un documento sia certificato. Dov'è il servitore di corte, il custode dei sigilli?"
+
+### u060910
+"Immagino che il responsabile sia stato punito prontamente e duramente?"
+
+### u060911
+"Annuncia che il ricevimento sta per iniziare. Sono {mf|pronto|pronta} a ricevere la famiglia Erebis."
+
+### u060912
+[Vattene] "Puoi andare, Clementia."
+
+### u060913
+"Devo far certificare questo Mercatum Tabula Officiale."
+
+### u060914
+"Potete risolvere da soli i vostri problemi."
+### u060915
+"Devo discutere una cosa in privato con la cancelliera."
+
+### u060916
+"Dovrei farti frustare per aver taciuto informazioni cruciali."
+
+### u060917
+"Non ancora."
+
+### u060918
+"Sono {mf|pronto|pronta} a ricevere la delegazione della Casata Orsellio."
+
+### u060919
+"Se le casate nobili sono così volubili, che senso ha tenerle?"
+
+### u060920
+"Grazie per il rapporto, Cancelliera."
+
+### u060921
+"Achilleas Scalander: causa qualche problema?"
+
+### u060922
+"Organizza un ricevimento degno dei gusti raffinati della Navis Nobilite."
+
+### u060923
+"Un incontro con i Navigatori è solo una formalità. Non c'è bisogno di ricevimenti stravaganti."
+
+### u060924
+"Sì, Cassia e io siamo {mf|pronti|pronte} per i colloqui."
+
+### u060925
+"Ho ancora delle faccende in sospeso."
+
+### u060926
+"Vostra Signoria." {n}Clementia china educatamente il capo. Per essere la cancelliera di un Rogue Trader, è vestita in modo piuttosto semplice: un farsetto da parata, stivali lucidi e un comodo mantello. Porta una sciabola in un fodero dorato, se per sfoggio o per protezione, non si può dire. Solo l'anello con lo stemma dei Werserian indica che appartiene allo strato sociale più alto.{/n} "Il governatore attende ai margini del palazzo. Fatemi sapere quando desiderate vederlo."
+
+### u060927
+"No... no, non credo di provare né l'uno né l'altro, Vostra Signoria." {n}Gli occhi d'acciaio di Clementia fissano il vuoto, la mascella che si contrae visibilmente. Parla in modo cortese ma secco, chiaramente turbata dalla tua perspicacia.{/n} "Abbiamo opinioni diverse su come governare un mondo. A volte discutiamo sulle leggi che vengono promulgate. Ma entrambi lavoriamo per il bene del protettorato von Valancius, questo si può dire senza alcun dubbio."
+
+### u060928
+{n}Sembra sorpresa.{/n} "Ma Vostra Signoria, non lo farei mai! Naturalmente, il governatore e io non siamo esattamente amici stretti, ma rispetto il suo contributo allo sviluppo del protettorato e gli sono grata per la sua premura verso Dargonus."
+
+### u060929
+"Servo il protettorato von Valancius, Vostra Signoria."
+
+### u060930
+"In parole semplici, sono la vostra rappresentante commerciale. Ogni decreto, accordo, comunicazione ufficiale e incontro viene prima esaminato da me e poi inoltrato a voi, e da voi lungo la gerarchia."
+
+### u060931
+"Tutti gli accordi e le decisioni importanti si prendono qui, nella capitale. Molti anni fa un antenato di Lady Theodora firmò un accordo con l'Adeptus Administratum che permise una gestione efficiente del mondo e dei sistemi vicini. In conformità col decreto, una quota della popolazione del pianeta fu assegnata all'Administratum e trasformata in servitori scrivani. Ora faticano in tutto il mondo."
+
+### u060932
+"Purtroppo no, al momento, Vostra Signoria. Dopo che i pochi rappresentanti dell'Adeptus Astra Telepathica su Dargonus sono andati in frenesia, alcuni degli psyker sono stati tragicamente pacificati dalle autorità competenti. Da allora, la comunicazione con i sistemi vicini è, nel migliore dei casi, inaffidabile. Sia lodato il Padrone dell'Umanità che siete {mf|riuscito|riuscita} a trovare la strada fino alla capitale!"
+
+### u060933
+{n}Clementia è diversa dalla maggior parte dei nobili, non solo per come si veste, ma anche per il portamento. Anche se, a giudicare dalle cicatrici visibili sulla pelle, almeno una parte della sua istruzione si è svolta su un campo di battaglia, e non entro i sicuri confini di un liceo.{/n}
+
+### u060934
+"A parte le comunicazioni interrotte, Dargonus è stata di recente attaccata dai nemici dell'Umanità. Tuttavia, la flotta, al comando del Capitano Marthius Werserian, ha trionfato sui maledetti xenos. Se volete la mia opinione in merito: abbiamo la situazione completamente sotto controllo."
+
+### u060935
+"È davvero tutto ciò che vi preoccupa, mercante di xenoeresia?" {n}Le parole di Clementia troncano Jae come il fendente di una sciabola. Poi Clementia si volge a te, il capo chino per la vergogna.{/n}
+
+### u060936
+"Urbend Drivestem è un uomo molto rispettato, e non solo su Dargonus ma in tutto il protettorato. Per molti secoli la sua casata ha sostenuto l'amministrazione della capitale e la logistica tra i sistemi von Valancius. Gli sforzi dei Drivestem hanno garantito anni di ordine e prosperità a Dargonus. Inoltre, Lady Theodora ha insistito personalmente perché fosse proprio Lord Urbend a diventare il prossimo governatore."
+
+### u060937
+"Hanno perso il tuo sigillo, shereen. Lo hanno perso e hanno cercato di nasconderlo sia a me sia a te."
+
+### u060938
+{n}Clementia si inchina prima di andarsene.{/n} "Farò in modo che sia scortato al vostro studio."
+
+### u060939
+"Certamente, Vostra Signoria. Tuttavia..." {n}Le sue labbra sottili si torcono appena.{/n} "Non mi preoccupo dei sentimenti del governatore, ma devo avvertirvi: le vostre azioni, o la vostra inazione, potrebbero essere interpretate in un certo modo. Ora, se Vostra Signoria vorrà scusarmi."
+
+### u060940
+"La mia competenza comprende anche la supervisione delle proprietà di Vostra Signoria: il palazzo, le tenute, i molti giardini e gli altri possedimenti su Dargonus che avete ereditato da Lady Theodora. E ogni volta che siete presente su Dargonus, consideratemi la vostra segretaria personale."
+
+### u060941
+"Sono al vostro servizio in qualsiasi momento, di giorno o di notte, Vostra Signoria."
+
+### u060942
+{n}La sorprendi a evitare il tuo sguardo per un istante, per la prima volta. È ovvio che Clementia sta difendendo il buon nome della sua casata. Ma, nonostante la sicurezza nel tono, capisci che non crede del tutto alle sue stesse parole.{/n}
+
+### u060943
+{n}Clementia solleva il capo con orgoglio: è ovviamente compiaciuta dei successi della sua casata.{/n}
+
+### u060944
+"Capito, Vostra Signoria." {n}Clementia annota prontamente qualcosa sulla sua tavoletta dati.{/n} "Desiderate tenere questo incontro a breve?"
+
+### u060945
+"Nel corso dei secoli si è formata una gerarchia intricata all'interno dell'élite dominante di Dargonus. Le grandi casate fanno più che saccheggiare il vostro tesoro: esso viene rimpinguato, in larga misura, grazie al loro lavoro amministrativo e alle loro terre. Naturalmente, potete sbarazzarvi di chiunque riteniate superfluo, ma in questo momento ciò potrebbe minacciare la fragile stabilità che tiene insieme il protettorato."
+
+### u060946
+{n}Clementia si concentra subito sulla tavoletta dati che tiene in mano.{/n} "Permettetemi di riferire: gli stimati Navigatori della Casata Orsellio hanno preso alloggio nella tenuta per gli ospiti e attendono un incontro con voi. Come desiderate riceverli?"
+
+### u060947
+"Allora manderò dei messaggeri a prelevare gli stimati ospiti."
+
+### u060948
+"I membri della Navis Nobilite hanno poca pazienza per le lunghe attese, Vostra Signoria. Ma troverò una soluzione."
+
+### u060949
+"Temo che le mie parole possano adirare Vostra Signoria." {n}Clementia abbassa il capo per la vergogna, come se lo offrisse per farselo recidere dalle spalle.{/n} "Il sigillo che cercate è andato perduto più di un quarto di secolo fa. Sua Signoria Theodora von Valancius ne ordinò uno nuovo dall'Imperium, ma... come ben sapete, siamo molto lontani dalla Sacra Terra. E con le tempeste warp che devastano la Distesa di Koronus, non siamo riusciti a ricevere un sostituto fino a oggi."
+
+### u060950
+"Tuttavia..." {n}Consulta la sua tavoletta dati.{/n} "Uno dei mondi sotto il dominio di Calligos Winterscale, come Dargonus, ebbe l'onore di custodire i sacri sigilli dell'Administratum. Gli archivi della Casata von Valancius menzionano tre sistemi attualmente sotto il controllo della Casata Winterscale. Sono i Forgotten Twins, la Cintura di Langrenn e la Nameless Star. Sono certa che il Palazzo dell'Administratum si trovi su uno dei pianeti di quei sistemi."
+
+### u060951
+"La perdita del sigillo è certamente una grande tragedia, ma... l'autoflagellazione?" {n}Jae schiocca la lingua con disapprovazione.{/n} "Ammettilo, Cancelliera, ti piace semplicemente crogiolarti nel dolore lodando il nome dell'Imperatore. Ciò che l'Eccelso chiede ai Suoi servitori è pura fede, non vuoti tormenti! A che cosa gli servirebbero le nostre lacrime? Sono solo i deliri dell'Ecclesiarchia, e tu percorri la strada su cui ti spingono, cieca come una pecora obbediente."
+
+### u060952
+"Abbiamo più probabilità di trovare il sigillo nella tasca di un ricco collezionista o di un ricettatore che su un mondo sperduto di proprietà di uno dei tuoi rivali, shereen. Suggerisco di contattare tutti i mercanti che incontreremo nei nostri viaggi: quelli del mio mestiere hanno di solito un buon occhio per queste cose. È più che possibile che qualcuno abbia aspettato tutta la vita per spennare... ehm, per restituire la grande reliquia al suo legittimo proprietario."
+
+### u060953
+"Siate {mf|certo|certa} che Theodora von Valancius ordinò di trattare il malfattore come meritava. Servitude Imperpituis, Vostra Signoria. Ora adempie ai suoi doveri verso l'Imperium senza riserve né errori."
+
+### u060954
+"Vostra Signoria?" {n}Clementia distoglie lo sguardo dalla tavoletta dati.{/n} "Spero che il vostro soggiorno su Dargonus giovi al vostro stato fisico e mentale. Capisco che l'erede di un protettorato debba avere le mani piene, ma non bisogna dimenticare il riposo."
+
+### u060955
+"Vostra Signoria, mi è stato riferito che avete convocato la famiglia Erebis alla vostra corte. I sudditi in questione, insieme ai loro quattro figli, sono già arrivati al palazzo. Parteciperanno al ricevimento in onore del vostro ritorno sul mondo capitale."
+
+### u060956
+"Certamente, Vostra Signoria. In che altro modo posso esservi utile?"
+
+### u060957
+"Sono sempre al vostro servizio."
+
+### u060958
+"Che abbiate trovato il sigillo perduto, Vostra Signoria? O magari avete portato una copia da un lontano mondo dei Winterscale?"
+
+### u060959
+"Di nuovo?" {n}La sorpresa di Clementia lascia il posto all'imbarazzo e, con uno sguardo comprensivo, appone il timbro che richiedi.{/n} "Come richiesto, Vostra Signoria. Una nuova certificazione per il Maestro dei Sigilli."
+
+### u060960
+"Come desiderate, Vostra Signoria."
+
+### u060961
+"Vostra Signoria! Mi scuso per questa brutta scena, ma posso chiedervi di tenere a freno la Signora Heydari e di porre fine alle sue... azioni provocatorie nei miei confronti?"
+
+### u060962
+"Come l'Eccelso è mio testimone, shereen, ho provato di tutto per risparmiarti qualsiasi inutile mal di testa per i sigilli del Mercatum Tabula Officiale! Ho persino mostrato a questa aiutante, con un carattere peggiore di una tempesta di sabbia, il certificato con la tua firma. Ma la tua cancelliera non ha fatto altro che scacciarmi col suo flagello di dinieghi infondati! Sospetto che il motivo non abbia nulla a che fare con la mia umile persona."
+
+### u060963
+{n}Clementia serra le labbra e fulmina Jae con lo sguardo.{/n}
+
+### u060964
+"Dargonus è anche la sede di diverse famiglie nobili che governano tutti i pianeti principali del protettorato. Se mi è concesso esprimere la mia opinione, non proprio così umile, a loro importa molto poco di chi sia esattamente al timone. Quei piranha pensano ai propri profitti tanto quanto alla prosperità del protettorato stesso, se non di più."
+
+### u060965
+"Oh no, qui non si tratta affatto di me." {n}Jae socchiude gli occhi scrutando il volto di Clementia finché quest'ultima non distoglie lo sguardo.{/n} "Capisco. Allora, Cancelliera? Ce lo dirai tu stessa o devo aiutarti io?"
+
+### u060966
+"Ah, ma, shereen! E il Mercatum Tabula Offici—"
+
+### u060967
+"Vi chiedo perdono, Vostra Signoria. Avrei dovuto riferirlo prima, ma non c'è mai stato un buon momento. Il sigillo che la Signora Heydari sta cercando è andato perduto più di un quarto di secolo fa. Sua Signoria Theodora von Valancius ne ordinò uno nuovo dall'Imperium, ma... come ben sapete, siamo molto lontani dalla Sacra Terra. E con le tempeste warp che devastano la Distesa di Koronus, non siamo riusciti a ricevere un sostituto fino a oggi."
+
+### u060968
+"Tenete a freno la lingua, mercante di xenoeresia, e non parlate di cose di cui non sapete nulla!" {n}Le parole di Clementia troncano Jae come il fendente di una sciabola. Poi Clementia si volge a te, il capo chino per la vergogna.{/n}
+
+### u060969
+"Oh, ma certo, shereen! Non oso sprecare altro del prezioso balsamo che è il tuo tempo su faccende che mi riguardano. Se mi permetti di congedarmi."
+
+### u060970
+"Senza dubbio, Vostra Signoria." {n}Clementia accoglie le tue parole con una calma gelida.{/n} "A fine giornata mi sottoporrò all'autoflagellazione nella cappella della famiglia Werserian. Cento frustate, e se non basteranno, ne aggiungerò altre cinque dozzine."
+
+### u060971
+"Io non temo il dolore, perché offre redenzione. Vi gioverebbe imparare questa lezione, un giorno, Signora Heydari."
+
+### u060972
+"Temo di dover rifiutare, grazie."
+
+### u060973
+"E infine, Dargonus ha una propria flotta, un lusso di cui la stragrande maggioranza degli altri mondi del vostro reame non dispone. Oltre alle navi da guerra, il protettorato impiega anche navi corsare usate per trasportare merci tra i mondi."
+
+### u060974
+"Attenderò umilmente il giorno in cui Dargonus avrà di nuovo il suo sigillo."
+
+### u060975
+"Nessuno, Vostra Signoria! Il Segretario Scalander è un individuo eccezionale e un fedele servitore della dinastia von Valancius. In assenza di Lady Theodora abbiamo collaborato su numerose questioni relative al benessere del vostro dominio, ed egli si è dimostrato assai capace. E, non so perché, persino il governatore trema davanti ad Achilleas. Il che è... insolito per un uomo del suo, diciamo, rango." {n}L'ultima parola le porta un lieve sorriso sulle labbra.{/n}
+
+### u060976
+"Vostra Signoria, il governatore Drivestem vi attende nella sala delle udienze. Vi consiglio di rispondere al suo ritardo con pari moneta: così farete capire a Urbend che il suo comportamento non è passato inosservato. Ma non aspetterei troppo a lungo: in questo momento la corte osserva con attenzione ogni vostro passo."
+
+### u060977
+{n}Lo sguardo acuto, la schiena perfettamente dritta, la compostezza: per un attimo ti sembra di guardare una versione più giovane dello stesso Abelard, non la sua erede. A giudicare dalle cicatrici sulle parti scoperte del corpo, Clementia ha visto la sua buona parte di combattimenti prima di assumere la carica di cancelliera.{/n}
+
+### u060978
+[Dai a Clementia il sigillo con lo stemma dei Winterscale] "Potrebbe essere questo il sigillo in questione?"
+
+### u060979
+"Questo è, senza dubbio, il sigillo dell'Administratum del Realm dei Winterscale. Ma perché è l'originale e non una copia? Ah, credo di capire. Be', le leggi dell'Imperium non vietano agli eredi di altre casate di usare il sigillo in caso di necessità. Ordinerò ai servitori del Culto della Macchina di creare un duplicato, per evitare simili imbarazzanti frangenti in futuro."
+
+### u060980
+[Dai a Clementia il sigillo con dei graffi al posto dello stemma sull'impugnatura] "Ho ottenuto questo sigillo da un mercante itinerante."
+
+### u060981
+"È... Per il Trono d'Oro, è il sigillo perduto! Chissà che cosa deve aver passato nel quarto di secolo prima di finire nelle mani di... ma non importa. Provvederò a farlo restaurare subito dopo aver certificato il vostro documento."
+
+### u060982
+"Heinrix, aiutalo. Usa i tuoi poteri."
+
+### u060983
+"Sia lodato il Trono d'Oro e il Dio-Imperatore, sei vivo!"
+
+### u060984
+"Che cosa hai detto loro?"
+
+### u060985
+"Per lo sbadiglio dell'abisso più oscuro, Achilleas, perché il mio esperto di xenos non ha saputo prevenire l'assalto dei Drukhari?"
+
+### u060986
+"Ti hanno torturato? Perché?"
+
+### u060987
+[Esamina le ferite di Achilleas]
+
+### u060988
+"Sei riuscito a ricavare qualcosa dai tuoi aggressori?"
+
+### u060989
+[Presta i primi soccorsi]
+
+### u060990
+"Basta parlare, Achilleas. Contatterò Clementia e le farò chiamare un medico. Esci dal palazzo finché puoi!"
+
+### u060991
+[Colpiscilo] "Hai deluso me e tutta Dargonus!"
+
+### u060992
+"Stai bene, Achilleas?"
+
+### u060993
+{n}Coperto di sangue Drukhari e del proprio, Achilleas Scalander si guarda intorno con un'espressione spettrale. Alla fine riesce a mettere a fuoco lo sguardo su di te ed emette un respiro appena udibile.{/n} "Il Dio-Imperatore mi protegga... Possibile... Siete davvero voi, Vostra Signoria?" {n}Viene colto da un atroce accesso di tosse, la mano tesa alla ricerca del respiratore appeso alla catena d'oro, ma non c'è.{/n}
+
+### u060994
+{n}Heinrix {d|Encyclopedia:CompHeinrix_Rough}osserva impassibile{/d} il tormento di Achilleas. Poi il suo labbro si increspa mentre scuote la testa.{/n} "Pessima figura, Scalander. Come avete potuto non accorgervi del pericolo imminente? Forse ho sbagliato a riporre in voi speranze così alte?"
+
+### u060995
+"Quando è arrivato il rapporto dall'orbita sull'attacco xenos, ero nelle sale dell'Administratum a risolvere la questione della vostra successione. Mi sono precipitato alla mia navetta e ho pregato il Dio-Imperatore di raggiungere il palazzo prima che colpissero. Ma prima che potessi liberarmi di tutte le pict e dei documenti che avevo raccolto, il palazzo è stato assediato. Ho dovuto rischiare e... bruciare tutto. Gli xenos mi hanno circondato mentre davo fuoco agli ultimi ordini rimasti. E hanno deciso di... divertirsi con me."
+
+### u060996
+{n}L'Interrogatore esamina la stanza, le prove di una lotta e Achilleas stesso.{/n} "Avete {d|Encyclopedia:CompHeinrix_Humane}fatto bene{/d}. Vi siete difeso con onore. Sono lieto che siamo arrivati in tempo."
+
+### u060997
+{n}Le sue labbra bruciate si torcono in un sorriso amaro.{/n} "Per strano che sia... sì, Vostra Signoria. I Drukhari non avevano idea che un semplice segretario dell'Adeptus Administratum potesse capire la loro lingua aliena. Mentre discutevano su come uccidermi, hanno menzionato che altri 'mon-keigh' li avevano aiutati per tutto questo tempo. Rinnegati, o pirati, o... qualcosa del genere. Ci vorrà tempo per identificare questi traditori dell'Umanità, ma vi do la mia parola che pagheranno per ciò che è accaduto su Dargonus!"
+
+### u060998
+{n}Achilleas ti guarda negli occhi, lo sguardo inaspettatamente lucido.{/n} "Niente. Ma... non mi hanno chiesto nulla. Non hanno cercato nulla. Non hanno nemmeno frugato nel posto... Strano."
+### u060999
+"Vostra Signoria, ho pregato l'Imperituro per il vostro rapido ritorno! Il popolo di Dargonus ha combattuto fino all'ultimo, ma l'assalto dei nemici dell'Umanità è stato... feroce e brutale."
+
+### u061000
+"Io... ho concentrato tutta la mia attenzione sulle indagini riguardo agli attacchi in tutto il vostro protettorato. Sospettavo che dietro gli attacchi xenos ci fosse qualcosa di più grande, ma... un assalto alla capitale del Rogue Trader? Sconsiderato, persino per i Drukhari. Non l'avrei mai pensato..." {n}Chiude gli occhi, con una smorfia di colpa.{/n}
+
+### u061001
+"Torturare le persone per divertimento è il passatempo preferito dei Drukhari. Dubito che avessero il minimo sospetto che foste un agente dell'Inquisizione."
+
+### u061002
+"Perché?" {n}Achilleas lascia sfuggire una lieve risatina.{/n} "Questa è la natura dei nemici dell'Umanità, Vostra Signoria. Hanno un gusto... per il nostro dolore."
+
+### u061003
+{n}Il corpo di Achilleas è coperto da un numero impensabile di tagli e lesioni: i Drukhari si sono impegnati a fondo per riempire ogni suo istante di un dolore bruciante. Tuttavia, nessuna delle sue ferite è letale.{/n}
+
+### u061004
+{n}È difficile valutare quanto sia grave lo stato di Achilleas. Riesce ancora a stare in piedi, ma il suo corpo è coperto da centinaia di tagli e lesioni. Sarebbe meglio che fosse trasportato il prima possibile in una struttura medicae, alle cure dei guaritori.{/n}
+
+### u061005
+{n}Achilleas guarda Heinrix, con un'espressione sofferente.{/n} "Io..." {n}Tossisce debolmente.{/n} "Vi ho deluso, Maestro van Calox."
+
+### u061006
+{n}Achilleas aggrotta la fronte, preme le labbra bruciate e abbassa lo sguardo.{/n} "Eppure... eppure vi ho comunque deluso."
+
+### u061007
+{n}Mentre chiudi in fretta una ferita, un'altra inizia a sanguinare. Purtroppo, in così poco tempo non hai potuto offrire ad Achilleas alcun aiuto sostanziale.{/n} "Non serve, Vostra Signoria. Ho abbastanza forze per camminare fino all'infermeria."
+
+### u061008
+"Siete troppo {mf|buono|buona} con me, Vostra Signoria. Abbiamo questioni più importanti da considerare di qualche costola rotta. Vi prego, non datevene pensiero."
+
+### u061009
+{n}Achilleas non cerca di schivare né di coprirsi il volto. Il suo labbro spaccato si gonfia all'istante, e un sottile rivolo di sangue gli scivola lungo il mento e scompare nel colletto.{/n} "E darò la vita per espiare le mie colpe."
+
+### u061010
+"Ed ecco la ragione del tuo fallimento, mon-keigh bruciato. La tua mente era angusta, come lo sono le menti della tua specie."
+
+### u061011
+{n}Achilleas lancia a Yrliet un'occhiata carica d'odio e borbotta tra i denti,{/n} "Lo... so... bene..."
+
+### u061012
+"Quando hai a che fare con gli ashmag Drukhari, pianifichi per lo scenario peggiore in assoluto. Ma prima di farlo, moltiplichi quello scenario abissalmente pessimo per dieci... o meglio ancora, per trenta."
+
+### u061013
+{n}Noti un breve lampo di compassione negli occhi di Yrliet.{/n} "Non c'è saggezza nel biasimarti: l'intelletto di un mon-keigh è debole e non potrà mai comprendere le profondità del tradimento e della perversione di pensiero dei miei oscuri consanguinei. Se al tuo posto ci fosse stato un altro mon-keigh, i sentieri del destino sarebbero rimasti immutati."
+
+### u061014
+{n}Cassia tende una mano verso la spalla di Achilleas e ne rimuove con delicatezza qualcosa di invisibile.{/n} "Le vostre tonalità... sono coperte da uno strato di fuliggine e cenere, Maestro Scalander. Vedo i colori forti e sanguinanti che stanno sotto. Posso... acquietarli per voi?"
+
+### u061015
+"Oppure è che non ricordi nulla, mon-keigh. Ed era loro intento che fosse così."
+
+### u061016
+{n}Achilleas china il capo con aria colpevole.{/n} "È un grande onore sentire simili parole da Lady Orsellio in persona, eppure... devo rifiutare. Le mie cicatrici, fisiche e spirituali, sono il mio monito dell'errore che ho commesso. E la mia chiave per..." {n}Un accesso di tosse interrompe le sue parole.{/n} "...la redenzione."
+
+### u061017
+"Le sue ferite sono superficiali: il nemico non voleva recidere il suo filo. Eppure ogni ferita ha toccato un nervo, per gettare la vittima in un pozzo di agonia. Ogni taglio è un messaggio, non per noi, ma per colui il cui corpo è diventato un foglio di pergamena." {n}Il labbro di Kibellah si increspa per il disgusto.{/n} "Un messaggio di parole impure."
+
+### u061018
+"Hah, dunque è questo ciò che ha distratto gli xenos... la vostra comparsa al palazzo. Sono riuscito a liberarmi dalle loro grinfie solo perché quei Drukhari maledetti dal vuoto hanno improvvisamente mollato tutto e sono corsi via." {n}Gli occhi ambrati di Achilleas brillano di ferocia mentre indica con un cenno i cadaveri ai suoi piedi.{/n} "Voltarmi le spalle è stato un loro errore."
+
+### u061019
+{n}Achilleas chiude con forza gli occhi.{/n} "Santo Imperatore, liberami dai ricordi!"
+
+### u061020
+{n}Le sue labbra bruciate si torcono in un sorriso amaro.{/n} "Curioso... sì, Vostra Signoria. I Drukhari non avevano idea che un semplice segretario dell'Adeptus Administratum potesse capire la loro lingua aliena. Nel corso della tortura, ho capito che gli xenos avevano ricevuto aiuto da degli umani per tutto questo tempo. Rinnegati, o pirati, o... qualcosa del genere. Ci vorrà tempo per identificare questi traditori dell'Umanità, ma vi do la mia parola che pagheranno per ciò che è accaduto su Dargonus!"
+
+### u061021
+{n}Senti una folata di gelo che ti fa rabbrividire la pelle. Passa un istante, e Achilleas inspira di nuovo, un respiro molto più profondo e stabile. I tagli più piccoli si chiudono quasi del tutto, ma le ferite più profonde continuano a sanguinare.{/n}
+
+### u061022
+{n}Stringendo i denti, Achilleas si inchina e si ritira nel corpo di guardia davanti al palazzo.{/n}
+
+### u061023
+"Pensavo di essere finito. Grazie all'Imperatore, siete arrivati al momento giusto." {n}Achilleas ti rivolge uno sguardo strano, come se ancora non credesse alla propria fortuna.{/n}
+
+### u061024
+"Io... Non dovevate, Maestro van Calox. I vostri poteri sono sprecati con me."
+
+### u061025
+{n}I tuoi sforzi rapidi danno i loro frutti: le tue conoscenze di medicae ti permettono di fermare l'emorragia in diversi punti e di alleviare un poco il suo dolore.{/n} "Non... dovevate sprecare il vostro tempo con me, Vostra Signoria."
+
+### u061026
+"Maledetti... xenos... Morite! Morite!"
+
+### u061027
+"Indietro, xenos! Non mi prenderete vivo!"
+
+### u061028
+"Ksher-mon'ne, mon-keigh. Mi servi anche mezzo morto."
+
+### u061029
+"Non preoccupatevi per me, Vostra Signoria. Dargonus prima di tutto."
+
+### u061030
+"Segretario Anziano, signore, vi prego di non muovervi. Lasciate che le ferite si chiudano almeno un poco."
+
+### u061031
+"I Drukhari cercano soprattutto vittime vive: perché sprecare le loro forze assaltando il palazzo quando potrebbero espugnare un'altra città?"
+
+### u061032
+"Mi servono dettagli. Che cosa è successo sul pianeta?"
+
+### u061033
+"Qual è la situazione attuale?"
+
+### u061034
+"Basta parlare. Entro."
+
+### u061035
+"Quando tutto questo sarà passato, aspettatevi esecuzioni di massa tra i difensori del pianeta. Avete tutti tradito coloro che avevate giurato di proteggere!"
+
+### u061036
+"Hai fatto tutto il possibile. Gli xenos sono avversari pericolosi."
+
+### u061037
+"Giuro che farò pagare caro agli xenos ogni vita umana che hanno strappato!"
+
+### u061038
+"Dov'è il governatore Drivestem?"
+
+### u061039
+"Non vedo un solo Arbitratore. Hanno deciso di rannicchiarsi dietro le mura del loro quartier generale?"
+
+### u061040
+"Inizia una valutazione dettagliata dei danni non appena avremo finito qui."
+
+### u061041
+"Questo è un oltraggio! Degli xenos hanno saccheggiato il mio palazzo? La mia preziosa residenza?"
+
+### u061042
+{n}Clementia ha un aspetto sfinito, con profonde ombre sotto gli occhi e le mani che tremano leggermente. Ti fissa con un misto di stupore e amarezza.{/n} "Vostra Signoria... siete davvero voi? Avevamo {d|Encyclopedia:Ch2_DargonusLate}perso ogni speranza{/d} di rivedervi!"
+
+### u061043
+{n}Clementia è un po' scarmigliata, ma per il resto il suo aspetto è immutato: lo sguardo d'acciaio e le labbra serrate parlano di perfetta compostezza.{/n} "Sia lodato il Trono, Vostra Signoria, {d|Encyclopedia:Ch2_DargonusEarly}siete qui{/d}! I vostri sudditi hanno bisogno di voi ora più che mai!"
+
+### u061044
+"Tutti i colpevoli riceveranno una severa punizione, Vostra Signoria, ma fino ad allora dobbiamo fare affidamento sui difensori sopravvissuti: vi prego, rimandiamo i processi e le esecuzioni finché la situazione non si sarà stabilizzata!"
+
+### u061045
+"L'attacco è iniziato alcune ore prima dell'alba sopra la capitale. Hanno colpito per prima la flotta: abbiamo ricevuto richieste di abbordaggio poco prima di perdere le comunicazioni con gli equipaggi. Il loro sacrificio non è stato vano: le truppe di terra hanno avuto il tempo di iniziare a mobilitarsi, e i civili hanno poi organizzato le difese."
+
+### u061046
+"La PDF sta {d|Encyclopedia:Ch2_DargonusEarly}sterminando{/d} le forze nemiche sul pianeta. Batterie aggiuntive sono state assegnate all'assalto del palazzo, ma senza una forza d'attacco in grado di entrare, non spezzeremo la loro resistenza."
+
+### u061047
+{n}Clementia chiude gli occhi per un istante, cedendo alla stanchezza schiacciante.{/n} "La PDF è allo stremo, Vostra Signoria. Combattiamo una guerra di logoramento da {d|Encyclopedia:Ch2_DargonusLate}troppo tempo{/d}, senza alcuna possibilità di sostegno dall'esterno. Prego l'Imperatore che il vostro arrivo cambi le sorti di questa operazione."
+
+### u061048
+{n}Clementia si inchina.{/n} "Con timore reverenziale e gratitudine, trasferisco a voi il comando dell'operazione di terra, Vostra Signoria. Le truppe locali sono al vostro servizio. Vi imploro: salvate Dargonus!"
+
+### u061049
+"Diverse città formicaio sono riuscite a tenere i propri perimetri, altre hanno subito perdite maggiori... e due città sono state completamente devastate. La nostra intelligence non sa ancora nulla della sorte di milioni di persone. È molto probabile che le abbiamo perse per sempre."
+
+### u061050
+"L'esatta ubicazione del segretario è ignota. Ma, in circostanze normali, non metteva quasi mai piede fuori dai terreni del palazzo... Sono certa che comprendete che cosa questo possa significare."
+
+### u061051
+"Temo di sì, Vostra Signoria. L'attacco al palazzo è iniziato più tardi del resto, dopo che le forze di riserva erano state trasferite in altre regioni. Il che è... particolarmente strano..." {n}Clementia esita.{/n} "Non sono stati tentati da un'intera città, al cui vertice sorge la vostra residenza. No, il cuneo delle forze nemiche ha preso di mira specificamente il palazzo."
+
+### u061052
+"Abbiamo tagliato fuori le forze periferiche da quelle che sono riuscite a entrare nel palazzo, e continuiamo a dare l'assalto all'edificio. Abbiamo ucciso moltissime di quelle bestie, ma gli xenos respingono il nostro assalto con ferocia: è come se aspettassero il momento giusto. O forse non hanno ancora completato qualunque obiettivo stiano perseguendo dentro il palazzo."
+
+### u061053
+"Prego il Dio-Imperatore che l'Adeptus Arbites respinga il nemico e abbia il tempo di aiutare le altre parti del formicaio."
+
+### u061054
+"Ho la sensazione che il palazzo sia il punto d'ancoraggio dell'incursione nemica. I nostri ingegneri vox stanno registrando segnali sconosciuti che dalla vostra residenza raggiungono altre zone del pianeta: quella feccia deve aver allestito un centro di controllo all'interno. Se eliminiamo il loro comando, indeboliremo le loro forze periferiche."
+
+### u061055
+"Lady Werserian, dov'è Achilleas Scalander? Pensavo di vederlo qui, al vostro fianco."
+
+### u061056
+"Dargonus è stata colpita da un massiccio attacco xenos. La resistenza della flotta è stata spezzata in poche ore, poi gli invasori hanno dato inizio a un'incursione planetaria. Le forze di difesa planetaria sono riuscite a tenere i perimetri interni di diverse città, due degli attacchi sono stati soffocati sugli accessi agli insediamenti, ma i combattimenti continuano: anche qui, nel palazzo von Valancius."
+
+### u061057
+"Ahimè, non so rispondere, Vostra Signoria. Quando gli xenos hanno attaccato il palazzo, hanno inviato una forza così imponente che la maggiore presenza di custodi e il perimetro difensivo sono stati spazzati via in pochi minuti. Per il Trono, qualunque cosa cerchino là dentro, non hanno risparmiato truppe pur di metterci le mani sopra!"
+
+### u061058
+"Il governatore è attualmente protetto in un bunker ben fortificato... così come i capi delle altre casate nobili." {n}Clementia digrigna i denti in modo udibile.{/n} "Tuttavia, ogni famiglia ha messo a disposizione tutte le risorse disponibili per la difesa di Dargonus, o meglio, per la difesa delle rispettive regioni."
+
+### u061059
+"Niente affatto, Vostra Signoria. Al momento ci sono circa cento Arbites nella capitale, e stanno tutti difendendo l'Administratum. Grazie al loro coraggio e alla loro abilità in combattimento, è uno dei pochi luoghi del formicaio che gli xenos non sono riusciti a travolgere."
+
+### u061060
+"Grazie, Vostra Signoria, ma una volta concluse le battaglie vorrei comunque avviare un'ispezione su larga scala nelle Forze di Difesa. Le nostre perdite sono troppo gravi: voglio assicurarmi che tutto ciò sia dovuto solo alla superiorità numerica del nostro maledetto nemico, e non a dei traditori tra noi!"
+
+### u061061
+"Oh, che cosa non darei per unirmi alla spedizione punitiva, Vostra Signoria, ma il mio dovere è verso il benessere di questo pianeta, non verso le operazioni militari." {n}La voce di Clementia si fa più severa, e quasi sputa fuori,{/n} "Questa è la mia supplica a voi, Rogue Trader: fate loro rimpiangere il giorno in cui hanno deciso di assaltare Dargonus!"
+
+### u061062
+"Indubbiamente, non appena la situazione sul pianeta si sarà stabilizzata. Oltre ai nostri territori, sono stati inflitti seri danni al dipartimento dell'Adeptus Administratum di stanza su Dargonus: spero che ciò non porti ad accuse di alcun genere contro la Casata von Valancius..."
+
+### u061063
+"Ho ricevuto un messaggio sulla frequenza vox degli Arbitratori: stanno difendendo con successo la guglia loro affidata. Anche se tutta Dargonus cadesse, quel luogo resisterà."
+
+### u061064
+"Non sento abbastanza timore reverenziale e servilismo nella tua voce, Clementia. È così che mostri la tua gratitudine {mf|al tuo salvatore|alla tua salvatrice}? Riprova."
+
+### u061065
+"Stavo facendo il mio dovere, niente di più."
+
+### u061066
+"Dopo un simile fiasco nelle nostre difese, Clementia, tu e gli altri mediocri che dovrebbero badare al mio mondo capitale potete aspettarvi una radicale epurazione nel prossimo futuro."
+
+### u061067
+"Smettetela di sprecare tempo a parlare e occupatevi dei vostri doveri. C'è ancora molto lavoro da fare."
+
+### u061068
+"Vostra Signoria... Grazie alla vostra avanzata, siamo riusciti a ripulire la tenuta. In questo momento, con l'aiuto degli augur della vostra nave dall'orbita, le truppe di superficie stanno rastrellando le strade del formicaio. Alcune squadre sono state inviate più in profondità nella città, diverse unità sono state assegnate... mi scuso, naturalmente apprenderete tutto dai rapporti."
+
+### u061069
+"Abbiamo trasportato il Segretario Scalander al medicarium. La sua guarigione richiederà tempo, ma la prognosi dei guaritori è ottimistica."
+
+### u061070
+"La vostra comparsa su Dargonus è un dono del Dio-Imperatore, che ci ha portato la salvezza. A nome di tutta Dargonus e della Casata Werserian, vi ringrazio per averci liberati dai nostri nemici."
+
+### u061071
+{n}Clementia si schiarisce la voce, momentaneamente smarrita.{/n} "Io... vi prego di perdonare la brevità e la goffaggine delle mie parole, Vostra Signoria... È solo che la situazione... e le circostanze..." {n}Si ricompone e comincia con voce ferma e salda,{/n} "O grande Rogue Trader, {mf|unto|unta} del Dio-Imperatore, {mf|portatore|portatrice} del sacro Mandato, {mf|esecutore|esecutrice} della Sua volontà! In questo giorno, unicamente per vostra volontà, noi, vermi che abitiamo la polvere, siamo stati lasciati in vita, benché il suo valore sia minore di un solo battito del vostro cuore!"
+
+### u061072
+"Farò in modo che tutti i responsabili siano informati dei vostri desideri." {n}Se Clementia è spaventata, non fa nulla per darlo a vedere.{/n}
+
+### u061073
+"Offriamo il nostro umile ringraziamento per la grazia concessaci dalla vostra misericordia. Che il nome von Valancius sia lodato attraverso i secoli! Che tutti i mondi fino ai confini della galassia conoscano le vostre virtù! Che la Sua grazia sia con voi fino alla fine dei tempi! Gloria al Rogue Trader, {mf|salvatore|salvatrice} di Dargonus!" {n}Clementia riprende fiato, poi aggiunge a voce più bassa,{/n} "Con il vostro supremo consenso, c'è ancora una cosa..."
+
+### u061074
+"Continueremo la ripulitura della tenuta e dei territori limitrofi: dobbiamo occuparci delle macerie, dei cadaveri e di ogni altra conseguenza dei combattimenti. Le forze sopravvissute saranno sufficienti a respingere eventuali attacchi sporadici del nemico, se ne verranno lanciati: secondo gli ultimi rapporti, gli xenos si stanno ritirando in massa. Se altre questioni richiedono la vostra attenzione, non vi tratterrò oltre: permetteteci di far sì che Dargonus sia restituita al suo antico splendore."
+
+### u061075
+"E per vostra volontà avete preservato innumerevoli vite, Vostra Signoria. Dargonus ha con voi un debito che non potrà mai essere ripagato."

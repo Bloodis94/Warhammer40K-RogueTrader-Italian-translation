@@ -1,0 +1,852 @@
+### u069004
+"Shereen, dimmi... come mai, tra tutti gli xenos che potevi prendere sotto la tua ala, hai scelto proprio quelli che si rifiutano di capire il mio sarcasmo?"
+
+### u069005
+"E condannare a morte i miei soci, senza lasciare loro nemmeno un briciolo di speranza — come si darebbe una briciola di pane al più miserabile dei mendicanti — che non è ancora finita? Se ci buttiamo là dentro, tanto vale tagliare la gola a ogni idiota che mi abbia mai giurato fedeltà."
+
+### u069006
+"È vero, shereen... sarà un po' più complicato di quanto sembri. Falco è disperato, quindi di sicuro ha i suoi scagnozzi a pattugliare i tunnel. Se andiamo a sfondare tutto laggiù, capirà che c'è qualcosa sotto. E quando Falco è nervoso..." {n}Le narici di Jae si dilatano per la rabbia impotente.{/n} "...cadono teste."
+
+### u069007
+{n}Jae ti fissa, cercando di capire se stai scherzando o dici sul serio.{/n} "Per chi mi hai preso? L'ho già procurato. Non preoccuparti, ho tutto sotto controllo."
+
+### u069008
+"Dovremo girare un paio di valvole là, e un altro paio qui... E avviare il sistema di ventilazione con un vecchio cogitatore, che l'Eccelso preservi il suo spirito macchina!"
+
+### u069009
+"L'unica cosa che la vita mi abbia mai insegnato, shereen, è che nessun piano va mai secondo i piani." {n}Jae ti rivolge un sorriso da canaglia: è più che pronta a sfidare la morte.{/n}
+
+### u069010
+"La maggior parte dei passaggi è stata sigillata dai segugi di Chorda, ma ce n'è uno che di sicuro non hanno raggiunto." {n}Jae si rianima visibilmente e ti fa l'occhiolino.{/n} "È ora di far visita a Octy e all'Adeptus Amasecus, shereen."
+
+### u069011
+"All'Amasecus, dunque, shereen. O hai altre faccende urgenti da sbrigare lungo la strada?"
+
+### u069012
+"Anch'io una volta ero un 'semplice contrabbandiere', shereen," {n}ribatte Jae con tono pacato.{/n} "Non preoccuparti. Se laggiù le cose dovessero mettersi male, la mia priorità assoluta è salvare il Mercatum Tabula Officiale."
+
+### u069013
+"Mai..." {n}ripete Jae con voce spenta, e i suoi occhi si riempiono di cupa determinazione.{/n} "Ah, che gli azhi mi divorino, non ho nessuna intenzione di rinunciare al mio obiettivo: la salita fin qui è stata troppo lunga, troppo ripida. Ora sono in cima, e non mi butterò di sotto senza pensarci due volte!"
+
+### u069014
+"Andiamo: il nostro ingresso è un passaggio segreto nell'Adeptus Amasecus." {n}Senza aggiungere altro, Jae gira sui tacchi e si allontana a grandi passi verso i Quartieri d'Ombra.{/n}
+
+### u069015
+"La banda capirà, ne sono certa. Avrebbero spaccato la testa a loro madre per un tesoro come il Mercatum Tabula Officiale. Ma Falco..." {n}La bocca di Jae si torce in un sorriso cattivo.{/n} "Andiamo all'Adeptus Amasecus, shereen. Ti guiderò attraverso il passaggio segreto fino alle fogne. Puoi stare {mf|tranquillo|tranquilla}: quell'ashmag nascosto laggiù rimpiangerà amaramente il giorno in cui ha deciso di sfidare un rappresentante commerciale dell'Imperium."
+
+### u069016
+{n}Un lampo di sorpresa attraversa gli occhi di Jae.{/n} "Tu... lo pensi davvero, shereen? In tal caso... spero che mi aiuterai ancora a liberare nel mondo il mio schema di razza purosangue."
+
+### u069017
+"Come ho già detto, gli sciacalli di Falco pattugliano ogni angolo di questo posto maledetto dagli azhi. Vedi quei farabutti laggiù? Dobbiamo evitarli e non attirare l'attenzione, altrimenti tanto vale rovesciare una montagna di merda di grox sul nostro piano!"
+
+### u069018
+"Ma adesso seguiremo il piano. Se me lo permetti, shereen, ti rinfresco la memoria: evitiamo la feccia di pattuglia, raggiungiamo il canale fognario e lo seguiamo verso est quasi fino in fondo. Colleghiamo la bombola del gas alla presa speciale — ironia della sorte, prima serviva a purificare l'aria — poi dobbiamo girare le valvole in alcuni punti perché il gas arrivi nella camera giusta... Vorrei sapere esattamente dove si è rintanato quell'ashmag."
+
+### u069019
+{n}Yrliet esamina le pareti sudice e i cumuli di rifiuti.{/n} "I migliori beni di Footfall... Quindi questo posto sarebbe... una specie di mercato dei mon-keigh? Davvero?" {n}Dal tono di Yrliet non capisci se stia scherzando o sia davvero confusa.{/n}
+
+### u069020
+{n}Argenta scruta i tunnel bui con aria cupa.{/n} "Strisciare nell'ombra, nascondersi dalla battaglia... sono cose indegne dei Suoi guerrieri. Ma per salvare gli innocenti, attenuerò la fiamma nella mia anima che mi spinge a lanciarmi apertamente contro le file nemiche."
+
+### u069021
+"Starei attenta a usare la parola 'innocenti', visto di chi stiamo parlando."
+
+### u069022
+"E anche 'il regno degli assassini'? So che la tua gente non sa nulla dell'arte di uccidere, ma fondare un ordine in un buco ricoperto di escrementi come questo?" {n}A differenza di Yrliet, Marazhai non si sforza nemmeno di nascondere il sarcasmo velenoso nella voce.{/n}
+
+### u069023
+"Una partita di regicidio non si vince con l'ultima mossa, ma con una strategia pianificata in anticipo." {n}Senti a malapena il borbottio scontento di Heinrix mentre scruta i tunnel.{/n} "Tutta questa operazione... è l'esatto contrario."
+
+### u069024
+{n}Jae cade in un lungo, pesante silenzio, soppesando ogni parola che hai appena detto.{/n} "Non gli farò il regalo di una morte facile, shereen. Come rappresentante ufficiale dell'Imperium, ho il dovere di ripulire i tunnel di Footfall da ashmag come Falco."
+
+### u069025
+"{mf|Benvenuto|Benvenuta} nel regno di ladri, assassini e contrabbandieri, shereen! Tutti i migliori beni di Footfall — fino all'ultimo — sono passati per questi tunnel." {n}Jae alza le braccia in una teatrale dimostrazione di reverenza.{/n}
+
+### u069026
+"Io... sì..." {n}Qualcosa si spezza nella voce di Jae. Ti sembra perfino di sentire uno stridio, come se una vecchia vite si fosse allentata e il meccanismo arrugginito cigolasse in protesta contro l'assalto.{/n} "Ma Torra e gli altri... Mi stanno aspettando, shereen! Mi stanno aspettando!"
+
+### u069027
+"E... la mossa finale, come tutti i migliori giocatori di regicidio, shereen: troviamo il cogitatore di servizio e mandiamo il gas lungo le tubature! E credo di non doverti ricordare che dobbiamo fare tutto in assoluto silenzio? Non ci noteranno nemmeno i topi di fogna, figuriamoci la banda di Falco."
+
+### u069028
+"Come fai a sognare a occhi aperti in un posto simile, shereen?" {n}Jae alza le mani.{/n} "Evitiamo le pattuglie, raggiungiamo il canale fognario e lo seguiamo verso est. Colleghiamo la bombola del gas alla presa speciale, poi giriamo qualche valvola — dove serve. E alla fine troviamo il cogitatore di servizio e mandiamo il gas lungo le tubature."
+
+### u069029
+"C-che cosa?" {n}Il volto butterato scruta con timore l'oscurità del tunnel.{/n} "Heydari! È Heydari con il Rogue Trader!"
+
+### u069030
+"Che il Trono ti maledica, shereen, hai appena firmato la condanna a morte della mia gente!" {n}Senti il filo tagliente della disperazione nel suo grido.{/n}
+
+### u069031
+"Se Falco tocca anche solo un capello alla loro testa — lo ammazzo! Gli strappo la spina dorsale con i denti! Allora, che aspetti, {name}? Vuoi la sua testa, no? Allora dobbiamo muoverci subito."
+
+### u069032
+"Eogunn, una placazione galvanica non guasterebbe di certo."
+
+### u069033
+"Vi sta parlando il Rogue Trader, padrone di questa nave! Vi ordino di ricomporvi davanti al prescelto del Dio-Imperatore e di implorare perdono per i vostri crimini."
+
+### u069034
+"Yrliet. Avevi promesso che ci avresti aiutato."
+
+### u069035
+"Heinrix, usa la tua biomanzia per intorpidire i suoi riflessi."
+
+### u069036
+"Ulfar, vuoi dire due parole al tuo vecchio conoscente?"
+
+### u069037
+"Marazhai. Mi senti? Parliamo."
+
+### u069038
+"Cercherò di farlo rinsavire."
+
+### u069039
+[Attacca Marazhai] "Non avrò pietà per colui che ha massacrato la mia gente!"
+
+### u069040
+Hai dato un tutore dell'ordine a Marazhai.
+
+### u069041
+[Spingi avanti uno dei tutori dell'ordine] "Guarda, Marazhai, ti ho portato qualcuno!"
+
+### u069042
+"Fa' come dico."
+
+### u069043
+"Heinrix, ti prego! Voglio evitare di versare altro sangue."
+
+### u069044
+[Attacca Marazhai] "Un buon consiglio. Credo che lo seguirò!"
+
+### u069045
+"Ti proibisco di muoverti per la nave senza supervisione e, d'ora in avanti, durante i salti nel warp verrai tenuto sotto chiave. L'alternativa è la morte. La scelta è tua."
+
+### u069046
+"Continua, Yrliet."
+
+### u069047
+Hai dato un gruppo di tutori dell'ordine a Marazhai.
+
+### u069048
+[Fai un cenno ai tutori dell'ordine] "Divertiti."
+
+### u069049
+"Controllati."
+
+### u069050
+[Guarda i tutori dell'ordine] "Mi serve un altro volontario."
+
+### u069051
+"E tutte quelle chiacchiere sulla grande razza Aeldari? Se solo potessi vederti ora, bestia inutile e tremante! Ti è bastato un miraggio per sporcarti addosso!"
+
+### u069052
+"Quante disgiunzioni hai sopravvissuto a Commorragh, Marazhai? Il warp è impotente finché ti rifiuti di lasciare che ti afferri. Domina te stesso!"
+
+### u069053
+"In nome dell'Imperium, obbedite al vostro {mf|padrone|padrona} e deponete le armi!"
+
+### u069054
+"Brami sangue e dolore? Avrai entrambi. Ricorda il tempo glorioso che abbiamo passato insieme a Commorragh. Ti darò tutto questo e di più."
+
+### u069055
+"Ancora un poco, Yrliet."
+
+### u069056
+"Yrliet?"
+
+### u069057
+"Marazhai! Dietro di te!"
+
+### u069058
+Hai permesso alla Daemonette di prendere Marazhai.
+
+### u069059
+[Lascia che la Daemonette prenda Marazhai] "Tutti indietro!"
+
+### u069060
+[Attacca] "Distruggete la progenie del warp!"
+
+### u069061
+"La tua presenza mi causa un enorme dolore, xenos."
+
+### u069062
+Hai ucciso Marazhai dopo la sua sanguinosa furia.
+
+### u069063
+[Uccidi Marazhai] "Ne ho abbastanza di questa eresia sulla mia nave."
+
+### u069064
+Hai permesso a Heinrix di uccidere Marazhai dopo la sanguinosa furia dello xenos.
+
+### u069065
+[Lascia che Heinrix elimini Marazhai] "Stimato Interrogatore, vi invito a fare il vostro dovere di servitore della Santa Inquisizione."
+
+### u069066
+"Marazhai, sei sicuro di aver ripreso i sensi?"
+
+### u069067
+"Pasqal, abbi la cortesia di mantenere la tua offerta."
+
+### u069068
+"Non cambierò nulla. Marazhai è libero di cacciare dove vuole sulla mia nave."
+
+### u069069
+[Attacca] "Adesso basta!"
+
+### u069070
+"Facciamo un patto. Ti fornirò prede scelte da me. Sarai libero di aggirarti per la nave finché non comincerai a dare la caccia a chi non devi toccare."
+
+### u069071
+"Ti concederò delle riserve di caccia, Marazhai. Una baia nei ponti inferiori. Laggiù puoi fare ciò che il tuo cuore desidera, ma durante i salti nel warp non devi uscire dai suoi confini."
+
+### u069072
+{n}Marazhai scatta con la testa quando appari. Il suo volto già scavato è strettamente avvolto da una pelle grigio pallido simile a pergamena, i denti sono scoperti in modo febbrile e gli occhi scuri sono diventati due specchi nero pece che potrebbero mostrare chiaramente il tuo riflesso se solo li fissassi. Apre la bocca, ma invece di parole esce un sibilo innaturale e rauco. Se questa creatura ha mai posseduto intelligenza, non ne resta alcuna traccia.{/n}
+
+### u069073
+"Finalmente..." {n}La voce risonante che ti ha {mf|seguito|seguita} nel tuo viaggio attraverso il ponte sembra provenire da ogni direzione, gelandoti fino alle ossa.{/n} "Finalmente ci incontriamo, mio povero bambino. Guardalo, mortale. Guarda come brama tornare da colei la cui carezza la sua gente rifiuta con tanta ostinazione. Vieni, bambino. Segui la mia voce, e il mio Principe ti concederà tutta la beatitudine e il tormento di questo universo."
+
+### u069074
+{n}Marazhai si rimette in piedi barcollando, sanguinante da molte ferite. C'è consapevolezza nei suoi occhi — e paura.{/n} "Sono... morte? Andate, svanite... Ma sento ancora i loro sussurri. Come fanno i mon-keigh a sopportarli per giorni e giorni?" {n}Senti genuina confusione nella sua voce.{/n}
+
+### u069075
+"Questo finisce ora." {n}Heinrix estrae l'arma e l'aria intorno a lui si fa più fredda.{/n} "Abbatteremo questa bestia rabbiosa una volta per tutte."
+
+### u069076
+{n}Yrliet esclama qualcosa nella lingua degli Aeldari — l'Elucidator non riesce a elaborare il suo discorso rapido e intricato. Senza attendere la risposta di Marazhai, si volta verso di te.{/n} "Il mio parente oscuro si è perduto nella lotta contro il richiamo di Colei che ha Sete. Permettimi, elantach. Per quanto grandi siano le nostre differenze, per quanto dissolute e depravate siano le vie oscure, non posso chiudere gli occhi e lasciare che Sai'lanthresh lo prenda."
+
+### u069077
+{n}Marazhai sbuffa con scherno.{/n} "Un'ancora, Asuryani? Serve a chi cerca di illudersi con false limitazioni. Finché avrò vittime in abbondanza, non permetterò a Sai'lanthresh di reclamarmi."
+
+### u069078
+{n}Marazhai guarda Yrliet. La sua espressione cambia in modo appena percettibile.{/n} "Per tutto il tempo che sei stata qui..."
+
+### u069079
+{n}La progenie del warp ride in modo melodioso.{/n} "Prima o poi, tutta la sua gente entrerà nel mio abbraccio. Il Principe è paziente. Il Principe sa che ogni anima Aeldari è già sua."
+
+### u069080
+{n}Il Drukhari abbassa il capo, pensieroso. Poi lancia a Yrliet un'occhiata di sbieco.{/n} "Avrei dovuto capire. Da quello che mi hai detto..." {n}Marazhai si ferma.{/n} "Be', non importa."
+
+### u069081
+"Idiota, che cosa hai che non va? È così difficile dire semplicemente: 'Grazie per avermi salvato la pelle poco fa'?" {n}Idira borbotta tra i denti, esasperata, senza osare alzare la voce.{/n}
+
+### u069082
+{n}Il labbro superiore del Lupo si solleva in un ringhio predatorio e un'eccitazione feroce balena nei suoi occhi. La figura di Ulfar sembra crescere e farsi più scura mentre pronuncia:{/n} "Da tempo attendevo questo momento, vile servo di padroni spregevoli. E così i miei fratelli. Qui incontrerai la tua morte. E la tua morte sarà lunga."
+
+### u069083
+{n}Marazhai, mezzo accovacciato, ondeggia appena, e questo è l'unico movimento che vedi. Il suo linguaggio del corpo mostra che è pronto ad attaccare, così come le lame insanguinate che impugna.{/n}
+
+### u069084
+{n}Il Drukhari ti fissa senza battere ciglio, con i denti ancora scoperti e l'espressione frenetica congelata come una maschera. Senti di nuovo un sibilo — questa volta più basso e più rabbioso di prima.{/n}
+
+### u069085
+{n}La voce della Daemonette si fa strada all'improvviso nella tua mente.{/n} "Ma se mi lasci avvicinare al bambino perduto... se lo culli fino a fargli abbassare la guardia... il mio Principe ti ricompenserà, {name}. L'anima di questo patetico xenos è un piccolo prezzo per le benedizioni che accompagnano il favore del mio padrone."
+
+### u069086
+{n}La voce di Marazhai si trasforma in un sibilo furioso.{/n} "La tua gente varca il velo con nient'altro che le sue rozze tecnologie e preghiere a un dio sordo, e pretendi che quelli come me si affidino a una protezione così meschina contro i terrori di Colei che ha Sete?"
+
+### u069087
+{n}Lo xenos gira la testa avanti e indietro, scrutando la stanza ma tenendoti d'occhio. I suoi muscoli non sono più contratti in una posa di battaglia, ma il suo volto ha ancora un'espressione stravolta che si può interpretare come folle frenesia o terrore.{/n}
+
+### u069088
+"Io... mai..." {n}Marazhai digrigna i denti.{/n} "Ho perso il controllo per un momento, nient'altro."
+
+### u069089
+{n}La tua voce sicura riecheggia nella stanza di metallo. Il Drukhari sbatte le palpebre. Poi ancora. La superficie simile a uno specchio dei suoi occhi sembra incresparsi, come se qualcos'altro iniziasse ad affiorare oltre il riflesso privo d'anima, qualcosa che somiglia vagamente alla consapevolezza.{/n}
+
+### u069090
+{n}Marazhai si accovaccia ancora di più. Potresti essere a pochi istanti dal suo balzo su di te.{/n}
+
+### u069091
+{n}Pasqal estrae una tavoletta dati e tocca lo schermo.{/n} "L'Omnissiah castiga."
+
+### u069092
+{n}Gli occhi di Heinrix si stringono.{/n} "Perché stiamo perdendo tempo e rischiando l'uso di abilità psichiche nel warp? Per cosa? Perché voi possiate tenere il vostro predatore domestico? Non è ora di liberare la vostra collezione da questa esotica minaccia?"
+
+### u069093
+{n}L'Interrogatore ti lancia un'altra occhiata, poi scuote la testa e alza una mano.{/n}
+
+### u069094
+{n}Heinrix mormora una maledizione e alza la mano.{/n}
+
+### u069095
+{n}La temperatura scende considerevolmente. Per qualche istante non succede nulla, ma poi Marazhai affonda lentamente in ginocchio. I suoi occhi fissi si chiudono leggermente e una ruga angosciata compare sulla sua fronte, come se lo xenos si stesse svegliando da un incubo.{/n}
+
+### u069096
+{n}I tuoi occhi riescono a stento a cogliere la velocità con cui si muove Marazhai. Scatta in avanti, trafigge con la lama il tutore dell'ordine urlante e affonda le dita artigliate dell'altra mano nel volto della vittima. L'urlo diventa un ululato, poi un rantolo, poi il Drukhari getta via il cadavere straziato e fa un passo indietro. L'impenetrabile velo riflettente sui suoi occhi si spezza e riesci quasi a distinguere le sue pupille.{/n}
+
+### u069097
+"Vostra Signoria!" {n}Il tutore dell'ordine tenta di obiettare, ma subito si rattrappisce quando Marazhai lo guarda di nuovo.{/n}
+
+### u069098
+"{name}." {n}Marazhai fa scorrere un dito lungo il filo della lama, con gli occhi fissi sull'equipaggio spaventato.{/n} "La carne... è troppo rumorosa." {n}La fame si accende negli occhi del Drukhari.{/n}
+
+### u069099
+{n}Marazhai fa una smorfia e toglie le mani dalle armi.{/n} "Ci sarà sempre una prossima volta, {name}. Avrò ancora la mia occasione."
+
+### u069100
+{n}Marazhai non reagisce in tempo — la follia del warp deve averlo colpito più di quanto voglia far credere. Emette un breve rantolo e cade a terra. La sua agonia dura solo un istante, poi lo xenos non c'è più.{/n}
+### u069101
+"Con piacere, Lord Capitano."
+
+### u069102
+{n}I tutori dell'ordine tremanti restano dove sono. Sembra che la paura del folle xenos-bestia sia più forte di quella per l'ira del Rogue Trader.{/n}
+
+### u069103
+{n}Marazhai sbatte le palpebre e i suoi occhi si accendono di un'espressione familiare di furia e orgoglio ferito.{/n} "Ti strapperò la lingua e te la farò inghiottire a pezzi insieme ai tuoi denti!"
+
+### u069104
+{n}Le tue parole sembrano aver raggiunto la mente di Marazhai. Scuote la testa e chiude gli occhi, poi lo vedi fare un respiro profondo e rilassare appena le spalle.{/n}
+
+### u069105
+{n}La risata nella tua testa si fa belluina.{/n} "Perché confondi e inganni il bambino perduto? La fine è decisa. La fine è inevitabile."
+
+### u069106
+{n}La testa di Marazhai scatta come se avesse udito un rumore strano e sospetto. Questa è l'unica reazione che ottieni.{/n}
+
+### u069107
+{n}L'aria dietro Marazhai si increspa e osservi la silhouette appena visibile della Daemonette sanguinare fuori dal nulla. L'orribile bocca ghigna trionfante, la grande chela si alza sempre più in alto...{/n}
+
+### u069108
+{n}La Daemonette abbatte la chela sulla testa di Marazhai — e urta contro la sua lama alzata. Marazhai si accovaccia e spinge lontano da sé l'entità del warp urlante.{/n}
+
+### u069109
+{n}La chela della Daemonette si chiude attorno alla gola di Marazhai e lo costringe in ginocchio. Lui cerca di resistere, ma la sua lama non fende altro che aria. La Daemonette lancia un ululato affamato, si china su Marazhai e preme le labbra contro la sua bocca. Un istante dopo, il suo corpo si affloscia come una marionetta rotta.{/n}
+
+### u069110
+"No!" {n}Il grido frenetico di Yrliet non riesce a impedire l'inevitabile.{/n}
+
+### u069111
+"No! No, sei mio, Marazhai! SEI MIO!"
+
+### u069112
+{n}Marazhai ascolta le tue parole. Mentre lo fa, sul suo volto prima belluino affiora un'espressione diversa — un familiare sorriso sghembo.{/n}
+
+### u069113
+"Sì, Oscuro. Per tutto questo tempo. A ogni nuovo passaggio ho rafforzato il mio spirito e la mia meditazione è diventata una barriera più salda contro i tentacoli di Colei che ha Sete. L'ho sopportato. Lo farai anche tu, se tieni alla tua anima."
+
+### u069114
+{n}Heinrix ti sta osservando intensamente. Ti rendi conto che la sensazione di freddo persiste ancora — l'Interrogatore è pronto a colpire, in attesa che tu dia la parola.{/n}
+
+### u069115
+{n}Lo xenos è in piedi, eretto, e ti guarda con deboli tracce di intelligenza negli occhi, ancora offuscati. Sembra che serva un'ultima spinta perché emerga dalla sua trance di morte.{/n}
+
+### u069116
+{n}Uno dei tutori dell'ordine si lascia vincere dalle emozioni.{/n} "Per il Trono, Lord Capitano, perché state persino ad ascoltarlo? Quello xenos lì è peggio di una bestia selvatica! Come può una nave che solca il vuoto nella luce del Dio-Imperatore permettere a uno dei Suoi nemici di comportarsi da padrone?"
+
+### u069117
+{n}Marazhai guarda l'uomo con fame.{/n} "La carne viva che ti serve parla troppo. Sarebbero, però, giocattoli perfetti." {n}Ti guarda dritto negli occhi.{/n} "Mi serve forza per sopportare i tuoi goffi viaggi oltre il velo. Se non ottengo una fonte di tale sostentamento, Sai'lanthresh continuerà soltanto a mettere alla prova i miei limiti."
+
+### u069118
+"Questa unità ha ricevuto un segno dall'Omnissiah." {n}Pasqal indica la piattaforma metallica sotto i piedi di Marazhai.{/n} "La piastra di trasferimento su cui lo xenos ha così miopemente stabilito la sua tana può essere riconfigurata per inviare una breve scarica di Forza Motrice. Questa unità potrebbe usarla per impartire... un briciolo di ragione a questa creatura demente."
+
+### u069119
+"Se dovessi esaurire i sacrifici... penso che i tuoi servitori saranno troppo terrorizzati dall'idea di diventare il mio prossimo giocattolo per svolgere adeguatamente i loro compiti." {n}Marazhai sogghigna.{/n} "Quel mon-keigh ben nutrito sul ponte di comando... il Factotum? Credo che risolverà il problema delle scorte di carne, se dovesse sorgere."
+
+### u069120
+"Un'ipotesi splendida, collega! Sarà un piacere vedervi metterla in pratica e valutare la vostra perizia nel maneggiare la Forza Motrice. Prego, procedete."
+
+### u069121
+{n}Le parole colpiscono Marazhai come martellate e la smorfia folle sul suo volto si incrina. La vista del gigante assetato di sangue risveglia in lui un antico istinto: sopravvivere a ogni costo! Marazhai risponde con un furioso grido di battaglia dei Drukhari che porta con sé l'attesa del massacro.{/n}
+
+### u069122
+"Lord Capitano, l'ufficiale ha ragione." {n}Abelard guarda Marazhai con aria torva.{/n} "Se le cose continuano così, potremmo ritrovarci con un ammutinamento. Un massacro a ogni salto nel warp... Come se non avessimo già abbastanza guai in giornate come questa." {n}Scuote la testa.{/n}
+
+### u069123
+"Rogue Trader, osservate la piastra di trasferimento sotto i piedi dello xenos. Posso facilmente reindirizzare la Forza Motrice su di essa, con l'obiettivo di eseguire una placazione galvanica del soggetto."
+
+### u069124
+{n}Il Tecnoprete conficca i mecadendrite in un vano tecnico sotto il ponte.{/n} "Ho verificato l'efficacia di questo metodo di persona in innumerevoli occasioni! Gloria all'Omnissiah."
+
+### u069125
+{n}Marazhai chiude gli occhi per un istante e ridacchia soddisfatto.{/n} "Come deve essere. Fa' in modo che non mi manchi mai la preda — tendo a esaurirla troppo in fretta per i miei gusti."
+
+### u069126
+{n}Un lampo di scintille, un grido soffocato — Marazhai sussulta, fa un passo indietro e scuote la testa, chiaramente confuso da quanto è accaduto. Per un momento vedi nei suoi occhi qualcosa di simile a una consapevolezza sconvolta.{/n}
+
+### u069127
+{n}Marazhai ti rivolge un lungo sguardo. La pausa comincia a farsi lunga quando infine dice con noncuranza:{/n} "Non rispetterò la mia parte dell'accordo se dimenticherai la tua. Se mai sentissi la mancanza di giocattoli, i cadaveri dei tuoi servitori cominceranno ad ammucchiarsi."
+
+### u069128
+{n}Marazhai ti rivolge un lungo sguardo. La pausa comincia a farsi lunga quando infine dice con noncuranza:{/n} "Fa' in modo che non resti deluso dal territorio che mi è stato assegnato."
+
+### u069129
+{n}Annotando qualcosa sulla sua tavoletta dati, Eogunn si volge a Pasqal.{/n} "Lodevole, collega. Fornirò la mia critica una volta conclusa questa situazione."
+
+### u069130
+"No! Qualcuno, aiuto!"
+
+### u069131
+{n}Marazhai si volta verso di te, identico a sempre — a parte il fatto che attraverso la sua pelle di pergamena si scorgono vene grigio-bluastre e nei suoi occhi qualcosa che somiglia al terrore.{/n} "Sono spariti, {name}. Spariti ma ancora in agguato sulla soglia. A fare la guardia. Sento i loro sussurri. Come fanno i mon-keigh a sopportarli per giorni e giorni?" {n}Senti genuina confusione nella sua voce.{/n}
+
+### u069132
+{n}Yrliet sussulta e distoglie lo sguardo. Cerca di dire qualcosa, ma si limita a chiudere gli occhi e scuotere la testa con rammarico.{/n}
+
+### u069133
+{n}Marazhai si blocca. Incroci il suo sguardo furioso, colmo di promesse di tortura e agonia... ma poi quasi vedi qualcosa cedere dentro di lui, costringendolo a inclinare leggermente il capo.{/n} "Sia come dici, {name}."
+
+### u069134
+{n}L'ufficiale non riesce a trattenere un sospiro di sollievo.{/n} "Be', è già qualcosa, almeno... Molte grazie, Vostra Signoria!"
+
+### u069135
+{n}Nemmeno un muscolo si muove sul volto di Marazhai. Noti che stringe più forte l'impugnatura delle sue spade.{/n}
+
+### u069136
+"Sentirai questi sussurri ogni volta che la nave del vuoto viaggerà oltre il velo. Impara ad accettarlo. Trova un'ancora per quei momenti. Oppure perditi."
+
+### u069137
+"È stato profondamente toccante, {name}. Ma hai scelto il pubblico sbagliato."
+
+### u069138
+[Osserva attentamente Marazhai]
+
+### u069139
+{n}Yrliet comincia a parlare, troppo in fretta per l'Elucidator, ma non per Marazhai. Lui volta la testa e la osserva come un serpente osserva un uccello. Yrliet fa un passo. Poi un altro. Senti nuove inflessioni nella sua voce, melodiose, quasi rassicuranti. Le sue mani si muovono in un'intricata danza di gesti mentre continua a toccare la pietra spirituale sul petto.{/n}
+
+### u069140
+{n}Lentamente, molto lentamente, Yrliet avanza verso Marazhai e le sue lame irte — e lui resta immobile, apparentemente incantato dalle sue parole. La segui con cautela.{/n}
+
+### u069141
+{n}Yrliet ti rivolge un lieve cenno e riprende a parlare, le sue parole colme di dolore e di supplica. Avanza. Poi fa un altro passo. E un altro ancora. Hai la sensazione che quest'ultimo passo sia stato un po' troppo sicuro...{/n}
+
+### u069142
+{n}L'espressione di Marazhai cambia in modo sottile mentre una malizia affamata gli balena negli occhi. Yrliet nota i segnali allarmanti troppo tardi — e arretra solo quando la lama ha già fenduto l'aria. Soffoca a stento un grido e stringe la sua profonda ferita — ma non si ritira più di un singolo passo.{/n}
+
+### u069143
+"Basta." {n}sussurra Yrliet con un filo di voce.{/n} "Non mi ascolta più."
+
+### u069144
+"Chi sono state le vittime di questo massacro?"
+
+### u069145
+"Ne ho sentito abbastanza. Vado dentro."
+
+### u069146
+"Dov'è Marazhai adesso?"
+
+### u069147
+[Indica la Daemonette] "La vedi?"
+
+### u069148
+"Lord Capitano! Che il Dio-Imperatore sia con voi... e anche con tutti noi." {n}Il tutore dell'ordine riesce a malapena a reprimere i tremori che gli scuotono il corpo.{/n} "Solo voi potete occuparvi di questa... di questa progenie!"
+
+### u069149
+"Io non vedo nessuno, Lord Capitano, ma di sicuro la sento benissimo." {n}La voce di Idira trema leggermente. Guarda i propri piedi e non alza la testa.{/n} "Dev'essere venuta per il tuo xenos. Di persona. Forse non dovremmo intralciarla? Per favore?"
+
+### u069150
+"Chiedo il permesso di riferire, Vostra Signoria! È cominciato qualche turno di guardia dopo la traslazione. Anzi, dicono che questo... vostro socio si comportasse in modo strano anche prima. Era come se avesse cominciato a sentire cose: girava su se stesso, abbaiava qualcosa nella sua lingua xenos, poi ha afferrato la lama e si è tagliato la mano — la sua stessa mano! Poi di colpo ha ululato ed è balzato addosso alle persone vicine."
+
+### u069151
+"Chi? Ah, lo xenos! È rintanato là dentro." {n}Accenna al cancello barricato.{/n} "Ha ammassato là dentro un po' di membri dell'equipaggio come {g|Encyclopedia:Grox}grox{/g} al macello, si sentivano solo urla... Be', non abbiamo potuto salvarli, così lo abbiamo chiuso dentro perché non potesse strisciare fuori. A meno che non trovi una fessura da cui sgusciare..."
+
+### u069152
+{n}L'ufficiale guarda dietro di sé, si guarda intorno sul ponte, poi si volta verso di te con aria allarmata.{/n} "V-vedere chi, Vostra Signoria?"
+
+### u069153
+"A chi vi riferite, Lord Capitano?"
+
+### u069154
+"Chiunque gli capitasse a tiro, Vostra Signoria... Ufficiali, servi... un tecnomate... Ha attaccato persino un servitore, anche se non è durata molto, gli ha semplicemente strappato la testa. Gli altri, invece... quella feccia xenos li ha torturati fino alla morte." {n}Vedi il colore che abbandona il volto dell'ufficiale.{/n}
+
+### u069155
+"Lo sblocchiamo subito, Vostra Signoria... Se solo ci fosse un modo di stanare quel mostro senza entrare..." {n}Si ferma e impallidisce ancora di più.{/n} "Pietà del Trono... Me n'ero completamente dimenticato... Il defunto tecnomate, lui... be', ha attivato dei sistemi di sicurezza poco prima di dissanguarsi... Pensavamo che, se lo xenos si fosse azzardato a farsi vedere, quei sistemi lo avrebbero preso..."
+
+### u069156
+"Il punto è che dovremmo venire con Vostra Signoria, con il vostro permesso. Non sarebbe giusto che il Lord Capitano entrasse là dentro da solo. Che il Dio-Imperatore ci aiuti tutti..." {n}L'ufficiale si sforza di parlare con calma, ma la sua voce vacilla. L'idea di entrare nel compartimento diventato una trappola mortale lo riempie di un terrore al limite del panico.{/n}
+
+### u069157
+"Io non vedo nessuno, {name}... ma di certo avverto una presenza del warp qui vicino. Dite che voi riuscite a percepirla? Allora è stata l'entità stessa a decidere di rivelarvi la sua forma. La vera domanda è... perché?"
+
+### u069158
+"Glaito non ha ancora individuato nessuno, ma vedo che ha il pelo ritto. Non so che cosa stia succedendo, ma siamo pronti ad attaccare anche un bersaglio invisibile: basta che ci comunichiate la sua posizione."
+
+### u069159
+"La prospettiva di avere uno xenos rabbioso che striscia nelle nostre paratie mi fa sprofondare il cuore... No, dobbiamo trascinarlo fuori, poi o lo mettiamo in catene o — perdonate la mia franchezza, Lord Capitano — lo abbattiamo e dimentichiamo che sia mai esistito."
+
+### u069160
+"La voce di Colei che ha Sete." {n}Yrliet impallidisce.{/n} "Ha sentito il richiamo. Chiunque della nostra specie si trovi oltre il velo diventa una preda allettante per Sai'lanthresh... e la vostra tecnologia che protegge la nave dalla sua nefasta influenza non può coprire il suono della sua voce che fa impazzire."
+
+### u069161
+"Vuoi ancora andare al punto d'incontro?"
+
+### u069162
+"Sembra che ti stia divertendo."
+
+### u069163
+{n}Una risata sardonica risuona nel canale vox.{/n} "Il Cuore Nero è qui. Che sorprendente svolta degli eventi."
+
+### u069164
+"Oh, certamente!" {n}Marazhai abbassa la voce in un ringhio assetato di sangue.{/n} "Abbiamo appena cominciato, {name}."
+
+### u069165
+"Ovviamente. Il sangue è stato versato molto prima che mettessimo piede sul pianeta dove avrà luogo l'incontro. Non vedo l'ora di affondare le mie lame nella carne dei miei simili... o di vederli inginocchiarsi davanti a me." {n}La risata diventa gutturale.{/n} "Oh sì, mi godrò questa piccola avventura. Vieni, {name}. Non indugiamo oltre."
+
+### u069166
+"Marazhai, chi ti ha fatto entrare in questo canale?"
+
+### u069167
+"Non pensi che possa essere una trappola?"
+
+### u069168
+"Di' ai Drukhari che ascolteremo quello che hanno da dire."
+
+### u069169
+"Non tratto con i nemici dell'Umanità."
+
+### u069170
+"Va bene, come vuoi. Ravor, di' ai Drukhari che accettiamo di parlamentare."
+
+### u069171
+"La mia risposta è no. Ravor, distruggi la flottiglia xenos!"
+
+### u069172
+"Lord Cap', abbiamo... compagnia." {n}La voce di Ravor suona tesa.{/n} "Un'intera nidiata di xenos... solo che non hanno fretta di attaccare. Hanno inviato una trasmissione vox, così i nostri cervelloni stanno cercando di decifrare che cosa farfugliano nella loro lingua..."
+
+### u069173
+"Guardate un po' questi presuntuosi bastardi! Lord Cap', non crederete alle vostre orecchie. I nemici dell'Umanità chiedono — anzi, pretendono — di essere ammessi a bordo per poter parlare! Ma non con voi, no. Vogliono parlare con il loro parente disonorato che avete preso sotto la vostra ala. Come hanno fatto a trovarci?"
+
+### u069174
+{n}Il vox-trasmettitore emette un clic — qualcun altro si unisce alla conversazione.{/n} "{name}. Se la feccia insignificante desidera tanto vedermi, sono disposto a prestare orecchio alle sue suppliche e ad ascoltare ciò che ha da dire."
+
+### u069175
+{n}La tua domanda è accolta da una risata.{/n} "In pochi osano rifiutare quando chiedo, {name}. I tuoi operatori vox non fanno eccezione."
+
+### u069176
+"No, ma è probabile che sia un invito a camminare dentro una trappola. E anche se i miei simili avessero deciso di dare la caccia alla tua nave abbordandola in modo così patetico... Hai così paura di loro, {name}?" {n}L'ultima frase gronda disprezzo.{/n} "Non dovresti. Se non altro, allevierà la noia a bordo di questo catorcio mon-keigh."
+
+### u069177
+"Ma io sì, {name}." {n}La voce di Marazhai perde la sua patina di calma noncuranza — è chiaro che non vuole perdere l'occasione di parlare con i suoi simili.{/n} "Sono qui per me. E desidero ascoltarli. Falli salire sulla tua nave."
+
+### u069178
+{n}Il vox-trasmettitore ritrasmette un borbottio incomprensibile.{/n} "Sarà fatto, Lord Cap'."
+
+### u069179
+"Come hanno fatto a trovarci qui, in primo luogo?"
+
+### u069180
+"La decisione è tua, Marazhai."
+
+### u069181
+"Ti aiuterò, ma il mio aiuto non è gratuito."
+
+### u069182
+"Ne ho abbastanza degli intrighi e delle faide dei Drukhari. Non voglio avere niente a che fare con questa storia."
+
+### u069183
+"Sembra che il Kabal sia praticamente morto."
+
+### u069184
+"Immagino che la distruzione del soppressore psichico non abbia fatto bene alla tua fortezza."
+
+### u069185
+"Questa è una trappola palese."
+
+### u069186
+"Non stai dimenticando il tuo posto, xenos?"
+
+### u069187
+"Che cosa hai intenzione di fare?"
+
+### u069188
+"Proprio così. Solo un marchio... nient'altro."
+
+### u069189
+"Molto bene, parliamo con i tuoi simili."
+
+### u069190
+"Fa' attenzione, Kharael. A Marazhai non piace quando gli altri sbirciano ciò che gli appartiene."
+
+### u069191
+"Non intendo sprecare tempo con i tuoi giochi né gettarmi a capofitto in una trappola."
+
+### u069192
+"Sembra troppo una trappola."
+
+### u069193
+"Proprietà? Tutt'altro. I nostri giochetti non mi rendono una tua proprietà."
+
+### u069194
+"Non c'è bisogno di essere timido davanti al tuo amico, Marazhai. Digli la verità — appartieni a me."
+
+### u069195
+{n}Gli xenos davanti a te si scambiano occhiate diffidenti e brevi commenti che il tuo Elucidator non riesce a cogliere né a comprendere. Alla fine, uno dei Drukhari si fa avanti e si toglie l'elmo. I suoi capelli sono bianco osso e il suo volto è segnato da tatuaggi non del tutto dissimili da quelli di Marazhai.{/n}
+
+### u069196
+{n}Il negoziatore si inchina profondamente, senza osare guardare il tuo compagno.{/n} "Salute a te, Marazhai Aezyrraesh, Dracon del Kabal della Reaving Tempest, Eviscerator di Illiridos, Fiamma del Regno di Barkhag e Massacratore di Carrocius il Pallido."
+
+### u069197
+{n}Il negoziatore china leggermente il capo, senza distogliere lo sguardo da Marazhai.{/n} "Salute a te, Marazhai Aezyrraesh, Dracon del Kabal della Reaving Tempest."
+
+### u069198
+{n}Le occhiate che il negoziatore lancia al Dracon della Reaving Tempest difficilmente si possono definire rispettose: grondano letteralmente disprezzo.{/n} "Marazhai."
+
+### u069199
+{n}Il tuo compagno risponde allo sconosciuto con un sorriso ironico.{/n} "Kharael... Ma certo. Non mi sorprende che sia stato tu, l'inviato di mia sorella, a riuscire a sopravvivere alla morte della tua padrona. Perché sei qui?"
+
+### u069200
+{n}Il tuo compagno ricambia il cenno al Drukhari.{/n} "Kharael. Il capo inviato di mia sorella defunta. Dimmi perché mi hai cercato."
+
+### u069201
+{n}Un sorriso compiaciuto sboccia sul volto di Marazhai.{/n} "Kharael... La tua abilità adulatrice non si è affievolita da quando hai perso la tua padrona. Ti sarà ancora utile. Parla."
+
+### u069202
+"La Reaving Tempest sta morendo." {n}Il Drukhari parla lentamente, scegliendo con cura le parole.{/n} "Dalla morte dell'Arconte Yremeryss, i nostri territori sono stati devastati e i nostri guerrieri attaccati apertamente, i mercenari hanno rivolto le lame contro i nostri Kabalite, e l'aria è piena di voci secondo cui i nostri supremi patroni presto permetteranno che la nostra guglia sia consegnata a una sanguinosa mietitura..."
+
+### u069203
+{n}Marazhai sbuffa.{/n} "Nessuno di noi piegherà la schiena per compassione verso i deboli, {name}."
+
+### u069204
+{n}Il Drukhari resta in silenzio. Vedi i muscoli della mascella muoversi nelle sue guance scavate. Infine parla con riluttanza:{/n} "Mi serve tempo."
+
+### u069205
+"Ma certo. Che altro potrebbe essere un invito così gentile a governare?" {n}Marazhai fissa intensamente Kharael negli occhi. Non distoglie lo sguardo.{/n}
+
+### u069206
+{n}Kharael ti lancia un'occhiata valutativa, ma la sua risposta è rivolta a Marazhai.{/n} "Il Kabal è sull'orlo della distruzione. Abbiamo bisogno di aiuto."
+
+### u069207
+{n}Il Drukhari sibila furioso.{/n} "Osi parlarmi di questo, mon-keigh?"
+
+### u069208
+"E allora che cosa volete da me?" {n}Marazhai parla con finta indolenza.{/n} "Da un Dracon deposto dal suo incarico e bandito dai ranghi della Reaving Tempest? Da un Drukhari bandito da Commorragh stessa?"
+
+### u069209
+"Ci serve un capo. Ci serve un simbolo del potere che per secoli ha condotto il Kabal alla grandezza e alla prosperità. La stirpe degli Aezyrraesh non è ancora svanita, il che significa che è destinata a tornare... La Reaving Tempest ti sta chiamando."
+
+### u069210
+{n}Marazhai ti osserva con uno sguardo di fame ardente e risponde a Kharael con disprezzo.{/n} "{mf|Il mon-keigh|La mon-keigh} è una mia proprietà, Kharael. Fa' attenzione a come guardi {mf|lui|lei}, potrei fraintendere le tue intenzioni."
+
+### u069211
+"Basta. Vieni al punto."
+
+### u069212
+"Rispondi alla convocazione. Partecipa all'incontro, guarda in faccia coloro che si sono radunati là. E comincia a ricostruire il Kabal. La Reaving Tempest non è morta finché io respiro, e farò tremare la Città Oscura quando vi torneremo in piena forza."
+
+### u069213
+{n}Marazhai ghigna.{/n} "Che divertimento. I Drukhari costretti a nascondersi nello spazio reale? Suppongo che sarà uno spettacolo divertente. Arriveremo là, scopriremo quale ridicola imboscata hanno preparato per me, e poi li abbatteremo. Fino all'ultimo guerriero. Se la Reaving Tempest è davvero caduta... così sia. Per mio diritto di Aezyrraesh, vi porrò fine io stesso."
+
+### u069214
+{n}Marazhai ti guarda di traverso, poi si riscuote e si volta.{/n} "Allora questa conversazione è finita."
+
+### u069215
+{n}Gli occhi di Marazhai si stringono mentre un sorriso si apre sulle sue labbra.{/n} "Andremo là e otterremo ciò che vogliamo. Tu acquisirai trofei e nuovi giocattoli, e io trarrò piacere dal calpestare coloro che mi hanno voltato le spalle... E anche il potere sul mio Kabal, se riuscirò a farli prostrare davanti a me."
+
+### u069216
+{n}Kharael sembra soffocare dalla rabbia.{/n} "Che cosa? Tu... sei diventato il giocattolo di {mf|un|una} mon-keigh? Quanto in basso sei cadut—"
+
+### u069217
+{n}Marazhai annuisce.{/n} "Eccellente. Abbiamo le coordinate. Sappiamo che cosa aspettarci. Affilerò le mie lame — è ovvio che serviranno quando mi riunirò ai miei simili. Almeno, lo spero."
+
+### u069218
+"Dimenticare il mio posto?" {n}La voce di Kharael risuona di scherno.{/n} "{mf|Questo|Questa} mon-keigh ha il coraggio di parlarti così? Quanto in basso devi essere cadut—"
+
+### u069219
+{n}Marazhai ti rivolge un'altra occhiata, questa volta di delusione.{/n}
+
+### u069220
+{n}Kharael ghigna, ma distoglie lo sguardo.{/n}
+
+### u069221
+{n}Marazhai schiocca le dita con aria pensosa.{/n} "Tornate alle vostre navi. Ho bisogno di tempo per riflettere sulla mia risposta alla supplica della Reaving Tempest."
+
+### u069222
+"No, no... Non hai visto come mi ha parlato Kharael? L'inclinazione del capo, il tono... Brama il mio ritorno. Forse la Reaving Tempest... può ancora rinascere." {n}Marazhai fissa un punto di lato, immerso nei suoi pensieri.{/n}
+
+### u069223
+{n}Kharael inclina leggermente la testa.{/n} "Da quando sei stato deposto... si è parlato molto di te. Gran parte di queste voci... getta un'ombra persino sui rampolli degli Aezyrraesh. Non tutti i Kabalite sono convinti che servirti sia un futuro degno per la Reaving Tempest."
+
+### u069224
+{n}Lo xenos scrolla le spalle con noncuranza.{/n} "Credo che Kharael abbia trovato il modo di accedere alle mie spie, quelle lasciate o abbandonate come agenti dormienti sulla tua nave. La mia caduta fu così improvvisa che non ebbi mai il tempo di coprire le mie tracce."
+
+### u069225
+{n}Kharael guarda Marazhai con diffidenza.{/n} "Nonostante tu sia aperto alle lussurie di Sai'lanthresh, nemmeno lo spazio reale è riuscito a spezzare un Aezyrraesh... Il tuo aspetto suggerisce che hai molta preda a disposizione."
+
+### u069226
+"Non possiamo attendere a lungo la tua decisione. Coloro che hanno trovato rifugio nello spazio reale sono qui da... troppo tempo." {n}La voce di Kharael risuona di genuina paura.{/n} "Siamo costretti a combatterci a vicenda. Costretti a cercare tormento nel sangue dei nostri simili. Non indugiare, trova la nostra base in un sistema stellare vicino dove la nostra incursione si nasconde dagli intrighi degli altri Kabal. Dovresti affrettarti — la voce di Sai'lanthresh nelle menti dei nostri compagni cresce di giorno in giorno."
+
+### u069227
+{n}Marazhai si volta verso di te con un sorriso incuriosito.{/n} "Il Kabal rivuole me? Hmm. Davvero curioso..."
+
+### u069228
+{n}Marazhai si volta verso di te e Kharael sussulta, notando il marchio sul suo collo. La voce del Drukhari diventa un sibilo:{/n} "Tu... ti sei lasciato marchiare con un segno diverso dai tatuaggi della Reaving Tempest?" {n}Lo sguardo di Kharael si sposta su di te.{/n} "A chi appartiene? A {mf|questo|questa} mon-keigh?"
+
+### u069229
+{n}Lo sguardo di Kharael indugia su di te, o più precisamente sul marchio sul tuo collo. All'improvviso sbuffa.{/n} "Ti sei annoiato lontano da casa, Marazhai? Ti sei trovato un giocattolo?"
+
+### u069230
+"Non lo è. Una trappola è ciò che ho preparato per te, una creazione inattesa e squisita di una mente sofisticata. Questo è un invito a un massacro." {n}Il labbro di Marazhai si arriccia con disprezzo.{/n} "Kharael non ha nemmeno cercato di nascondere quanto la Reaving Tempest mi odi."
+
+### u069231
+{n}Marazhai ti rivolge uno sguardo di fame ardente e risponde con noncuranza a Kharael da sopra la spalla.{/n} "Intendi questa bruciatura? È solo il segno di una scarica laser di un mon-keigh."
+
+### u069232
+"...e senza contare che il nostro rifugio è diventato un nuovo punto di disgiunzione." {n}Kharael sputa letteralmente le parole.{/n} "Il warp infuria nella guglia, inondando la città di orde di demoni. Non è un segreto come la frattura sia apparsa proprio nella dimora della Reaving Tempest..."
+
+### u069233
+"Attento, Kharael." {n}La voce di Marazhai scende in un rombante ronzio.{/n} "Stai per insultare il Kabal della Reaving Tempest sostenendo che il Drukhari di cui hai implorato l'aiuto in ginocchio non sia degno di una simile richiesta. Sei sicuro di volerlo fare?"
+
+### u069234
+{n}Kharael impiega qualche istante a riprendere fiato, soffocando nella propria rabbia. Alla fine riesce a controllare le emozioni e sussurra:{/n} "Resterò in silenzio, Aezyrraesh."
+
+### u069235
+"...e questa è punizione sufficiente per i miei simili che hanno infranto le leggi di Commorragh." {n}La voce di Marazhai trasuda pigra malevolenza.{/n} "Non è stata forse mia sorella a violare il divieto radunando Veggenti con il dono della stregoneria nella nostra dimora? Non è stata lei a patrocinare l'Haemonculus che sperimentava su creature con poteri psyker? Che cosa c'entra tutto questo con me, Kharael? Scaglia le tue accuse contro un altro bersaglio, se vuoi che attecchiscano."
+
+### u069236
+{n}Kharael squadra Marazhai con aria valutativa, senza nemmeno nascondere il disgusto nello sguardo e la falsità nella voce.{/n} "Anche se il rampollo sopravvissuto trasuda disperazione e sete... Ci è negato il lusso della scelta."
+### u069237
+{n}Marazhai socchiude gli occhi.{/n} "Diciamo che accetto la tua offerta. Che uso ho io del pugno di Drukhari rannicchiati dietro di te, Kharael? Rispondimi — la Reaving Tempest vive ancora? O è il rantolo di morte dei caduti?"
+
+### u069238
+{n}Marazhai resta in silenzio per qualche istante.{/n} "Non mi piace il tuo tono, Kharael. Sei troppo insolente. Dimentichi il tuo posto, se davvero mi servirai come nuovo Arconte."
+
+### u069239
+{n}Marazhai ride.{/n} "Devi avere un'opinione ben misera di me se ti aspetti che creda a una sola parola di quello che hai detto sul mio 'tanto atteso' ritorno al Kabal... Ma ti accontenterò. Facciamo finta che io sia cieco e sordo, e quindi prenderò in considerazione la tua offerta."
+
+### u069240
+{n}Kharael si sporge in avanti.{/n} "Due incursioni sono riuscite a nascondersi nel groviglio della Tela e attendono l'ora prescelta. Ci sono truppe del Kabal nascoste nelle viscere di Commorragh stessa. Stiamo aspettando il momento giusto. Quando queste forze si riuniranno, saranno sufficienti a conquistare un'altra guglia e ad assorbire diversi Kabal minori che ci serviranno..."
+
+### u069241
+{n}Marazhai fa un gesto di avvertimento.{/n} "Non ho ancora deciso, {name}."
+
+### u069242
+[Guardati intorno] "Hanno combattuto, e per molto tempo."
+
+### u069243
+"È ora che ce ne andiamo."
+
+### u069244
+[Finisci il Drukhari] "Basta."
+
+### u069245
+"Che cosa sta succedendo sul pianeta?"
+
+### u069246
+"Che cosa c'è di strano?"
+
+### u069247
+{n}Lo xenos in preda alle convulsioni indossa un'armatura della Reaving Tempest, trafitta da armi in più punti. Il guerriero morente alza la testa e ti fissa. Vede Marazhai e spalanca la bocca insanguinata.{/n} "Tu..."
+
+### u069248
+"...mio Dracon." {n}Le labbra insanguinate si torcono in un sorriso sgradevole.{/n} "Ora che sei qui... la Tempest sarà vendicata. Falli soffocare nel loro stesso sangue."
+
+### u069249
+"...Marazhai?" {n}Il volto insanguinato si contorce in una smorfia di sorpresa.{/n} "Sei vivo..."
+
+### u069250
+"...tu." {n}Il volto insanguinato si contorce in una smorfia di disgusto.{/n} "Rifiuto dell'arena..."
+
+### u069251
+{n}Marazhai socchiude gli occhi.{/n} "Dubiti della mia capacità di sopravvivere? Dopo che sono riuscito a fuggire dalla Città Oscura? Non dovresti."
+
+### u069252
+{n}I movimenti di Marazhai sono rapidi e precisi, e il Drukhari morente gorgoglia e tace per sempre. Il Dracon pulisce con aria pensosa il sangue dalla sua lama.{/n} "Bisogna insegnare loro ad adorarmi di nuovo."
+
+### u069253
+{n}Marazhai osserva impassibile mentre elimini lo xenos.{/n} "Ti sei {mf|divertito|divertita} abbastanza? Dobbiamo proseguire, dritti nelle fauci di quelli che credono di poterci raggirare."
+
+### u069254
+{n}Il Drukhari ferito soffoca e ansima, cercando di rialzarsi.{/n} "Io sono..."
+
+### u069255
+{n}Marazhai sogghigna.{/n} "In effetti. Le mie armi sono rimaste nel fodero troppo a lungo."
+
+### u069256
+{n}Noti appena il colpo fulmineo — lo xenos morente tace. Marazhai pulisce il sangue dalla sua lama.{/n} "Questo era già prosciugato. Troviamone un altro, qualcuno pieno di dolore e di vitalità."
+
+### u069257
+"E se... e se la Reaving Tempest non fosse in lotta con il Cuore Nero, che ha rintracciato il mio Kabal fin quaggiù? E se si fossero alleati? Per ragioni che al momento mi sfuggono. Allora tutto indica che questi guerrieri del mio Kabal non sono stati uccisi in battaglia, ma macellati come bestiame dopo essere stati portati in prima linea." {n}Marazhai si guarda intorno e fa una smorfia.{/n}
+
+### u069258
+"Ci stiamo... distruggendo a vicenda... impazzendo da quando abbiamo lasciato Commorragh sperando di trovare... trovare..." {n}La voce del Drukhari si spegne in un sibilo incomprensibile.{/n}
+
+### u069259
+"Carneficina. Uccidere i nemici, o l'un l'altro — non importa. Soffrono come ho sofferto io, spinti alla follia dalla voce di Sai'lanthresh. Nello spazio reale può essere coperta solo dal sibilo delle lame e dai gemiti dei morenti."
+
+### u069260
+"Non puoi vederlo, {name}, ma... lo stesso campo di battaglia è strano. Gli scontri tra Kabal sono diversi dalle incursioni sui mondi dei mon-keigh. Posso tracciare vettori d'attacco nella mia testa quanto voglio, immaginare le posizioni delle squadre e così via... ma non ha senso. Niente di tutto questo ha senso." {n}Lo xenos flette le dita con evidente irritazione.{/n}
+
+### u069261
+"Una prova gravosa per i Drukhari. Le battaglie prolungate nello spazio reale richiedono... particolare dedizione e ferocia." {n}Marazhai scruta il campo di battaglia con un'espressione confusa sul volto.{/n} "Hmm. Strano."
+
+### u069262
+"Anche se..." {n}Marazhai sembra ricordare qualcosa e sul suo volto compare un'espressione soddisfatta.{/n} "Lascia perdere. Anzi, questa è solo una conferma del genere di spettacolo che ci attende."
+
+### u069263
+{n}Marazhai ti ferma, con gli occhi che ardono di rabbia a stento trattenuta.{/n} "La vita della mia proprietà non spetta a te prenderla."
+
+### u069264
+"Marazhai è stato interrogato sull'accaduto?"
+
+### u069265
+"Parlerò subito con lo xenos e scoprirò che cos'è successo."
+
+### u069266
+"Erano Mandrakes. Potrebbero essersi infiltrati nella nave attraverso le ombre."
+
+### u069267
+"Rapporto dai ponti intermedi, Lord Capitano. Subito dopo la nostra traslazione dal warp, sui canali vox sono arrivate segnalazioni di creature nere che comparivano ovunque. I testimoni affermano che siano emerse direttamente dalle ombre e che fosse il vostro xenos da compagnia Marazhai a interessarle."
+
+### u069268
+"Diversi tutori dell'ordine sono morti nello scontro, ma siamo riusciti a evitare perdite significative. Il vostro... xenos ha eliminato gli aggressori. Non vi disturberei con questa faccenda se avessimo stabilito come le creature siano salite a bordo. Finché non lo sapremo con certezza, non potremo fermare future incursioni."
+
+### u069269
+{n}Una pausa carica di tensione riempie il canale vox.{/n} "In tal caso... non sarà possibile sorvegliare i ponti contro ogni ombra. Rafforzeremo il distaccamento di sicurezza nei punti chiave della nave e speriamo che l'incidente non si ripeta."
+
+### u069270
+"No. Dopo l'incidente sul ponte degli ufficiali, tutti gli stanno alla larga." {n}La voce di Vigdis trema leggermente. Sembra che persino lei abbia paura di avvicinarsi allo xenos.{/n}
+
+### u069271
+[Estrai un'arma] "Basta, Marazhai! Uccidiamoli tutti e basta, non è per questo che siamo venuti?"
+
+### u069272
+[Fai un cenno verso la Drukhari accanto a Nazrakhei] "Chi è quella?"
+
+### u069273
+"Dici che tutto il lavoro è stato fatto per te, xenos, ma allora perché ti comporti come se fossi rimasto bloccato troppo a lungo nello spazio reale?"
+
+### u069274
+"Aspetta. Non ho capito niente di tutto questo."
+
+### u069275
+"Sono così {mf|stanco|stanca} dei vostri confusi intrighi xenos..."
+
+### u069276
+"Persino io vedo chiaramente che l'offerta di unirsi al Cuore Nero è un inganno — un'ancora di salvezza fasulla lanciata ad anime disperate. E io sono solo un mon-keigh!"
+
+### u069277
+"Quindi i resti della Reaving Tempest si sono uniti a un altro Kabal?"
+
+### u069278
+"Impressionante, Marazhai. Ti hanno mandato dietro un'intera cavalcata di xenos di alto rango."
+
+### u069279
+"Quindi la Reaving Tempest era condannata fin dall'inizio?"
+
+### u069280
+[Tradisci Marazhai] "Ehi, xenos! Raccogli la tua spazzatura, non so che farmene."
+
+### u069281
+"Un accordo? No, basta un dono simbolico. Non hai nemmeno dovuto sporcarti le mani con Marazhai."
+
+### u069282
+"Rifletti, Arconte. Potresti trovare utile avere agenti tuoi tra i mon-keigh. Ci sono interi mondi sotto il mio comando, pieni di milioni di vittime..."
+
+### u069283
+[Menti] "Ti brucia ancora che l'Arebennian abbia interrotto il tuo processo, Nazrakhei? Stai costringendo la Reaving Tempest a fare il tuo lavoro sporco e ad andare contro la volontà dell'Arebennian, anche se è stato lui ad aiutare Marazhai a fuggire da Commorragh?"
+
+### u069284
+"La carneficina alle nostre spalle... La Reaving Tempest non è alleata del Cuore Nero, ma bestiame macellato per tenere in vita Nazrakhei!"
+
+### u069285
+"Quindi l'invito era davvero una trappola. Per le stelle, voi Drukhari siete così prevedibili!"
+
+### u069286
+"E Nocturne of Oblivion? Che parte ha avuto durante il processo?"
+
+### u069287
+"Che cosa ci fanno qui tutti questi capi dei Drukhari?"
+
+### u069288
+"Marazhai... lo sapevi. Non è possibile che tu non lo sapessi."

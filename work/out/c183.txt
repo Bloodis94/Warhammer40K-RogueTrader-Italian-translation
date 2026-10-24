@@ -1,0 +1,777 @@
+### u061646
+"Certo che sì. Ma sono un vecchio cieco da un occhio che riesce a malapena a muovere le gambe. Non ho mai trovato nulla, ma questo non significa che non ci sia niente da trovare!"
+
+### u061647
+{n}Assorto nei ricordi, Gordei non nota il tuo gesto. Guarda l'opuscolo che ha tra le mani con una tenerezza e una nostalgia indescrivibili.{/n}
+
+### u061648
+"E l'interno! Poliforas alti dieci piani e lunghi più di un chilometro! Ciclopici tubi di luce che catturano la luce di Furibundus e la usano per illuminare le sale nel cuore degli asteroidi! Vetrate colorate e mosaici, bassorilievi e statue!" {n}Rapito dalla sua stessa descrizione, Gordei si alza e comincia a tracciare con la mano i contorni di archi e gallerie.{/n}
+
+### u061649
+{n}Riscuotendosi dalle sue fantasticherie, si accorge di sé stesso, arrossisce leggermente e ricade rumorosamente sulla sedia.{/n} "Chiedo scusa, io... mi sono lasciato trasportare. Ma dovete capire quale profonda impressione mi fece questo opuscolo quando lo trovai da giovane! Non riuscivo a pensare ad altro che a Footfall. Ero pronto a dare la vita pur di vedere questa incredibile stazione! E naturalmente, per quanto amici e familiari si sforzassero di dissuadermi, misi comunque insieme tutti i miei risparmi e partii per il viaggio."
+
+### u061650
+"Un altro."
+
+### u061651
+"Dammi l'ultima novità."
+
+### u061652
+"Sarò breve. È stata una vittoria gloriosa, perciò oggi offro da bere a tutti!"
+
+### u061653
+"Ho attaccato uno dei tuoi e non hai intenzione di cercare vendetta?"
+
+### u061654
+"Questo è un tentativo di avvelenarmi?"
+
+### u061655
+"A proposito di quella donna che ha iniziato una sparatoria al bancone..."
+
+### u061656
+"Me ne vado."
+
+### u061657
+"Desidero fare un annuncio."
+
+### u061658
+"Sono qui per affari."
+
+### u061659
+"Che razza di brodaglia è questa? Portami da bere qualcosa di decente!"
+
+### u061660
+"Hai qualcosa di meglio?"
+
+### u061661
+[Versa ostentatamente il liquido sul pavimento]
+
+### u061662
+"Che questo giorno vi serva da monito: Footfall appartiene a me e a me soltanto."
+
+### u061663
+"Credo che sia meglio fermarmi qui."
+
+### u061664
+"Questo non lo bevo."
+
+### u061665
+[Osservalo bene]
+
+### u061666
+"È una topaia come tante altre, né meglio né peggio delle altre."
+
+### u061667
+"Senza dubbio lavorando in un posto come questo avrai raccolto un sacco di informazioni locali. Sai qualcosa della banda degli Anvers?"
+
+### u061668
+"Ti piace la tua Footfall liberata?"
+
+### u061669
+"Strano nome, Adeptus Amasecus. Poco reverente."
+
+### u061670
+"Cosa ne sarà di te e dell'Amasecus, adesso?"
+
+### u061671
+"Ultimamente è stata una cosa dopo l'altra, credo di meritarmi un po' di tempo per me. Dammi un goccio del liquore locale, che ne dici?"
+
+### u061672
+"Non sono affari che ti riguardano."
+
+### u061673
+"La libertà è tornata su Footfall! Bevete e tornate a vivere per far dispetto a Incendia Chorda!"
+
+### u061674
+"Hai detto che sono la seconda persona a bere quella 'miscela di ottano' senza fare una smorfia..."
+
+### u061675
+"Incendia ha cercato di farci obbedire alle sue leggi, e ora è morta! Sappiatelo e spargete la voce: su Footfall non c'è legge, e non ce ne sarà mai! Mai!"
+
+### u061676
+"Dimenticate ciò che Footfall era un tempo. D'ora in poi questa stazione sarà un baluardo di legge e pia trepidazione! L'Imperatore protegge!"
+
+### u061677
+"Ho perso preziosi fornitori di equipaggiamento nel conflitto tra Tocara e Chorda."
+
+### u061678
+"Sono {mf|venuto|venuta} a incontrare il Lord Inquisitore."
+
+### u061679
+"Dammi qualcosa di forte."
+
+### u061680
+"Notizie di Jae?"
+
+### u061681
+"Ero solo {mf|curioso|curiosa} di questo posto."
+
+### u061682
+"Un posto fantastico, e il nuovo nome gli calza a pennello."
+
+### u061683
+"Come vanno le cose qui su Footfall?"
+
+### u061684
+"Non so come un posto simile possa esistere sotto la luce dell'Imperatore..."
+
+### u061685
+"Desidero concludere un accordo con la Missione Kasballica."
+
+### u061686
+"Quindi anche tu sei dei Kasballica?"
+
+### u061687
+"Versami dell'acqua pulita."
+
+### u061688
+"Il destino di Footfall è stato deciso, ma è costato la vita a molti. Onoriamo la loro memoria."
+
+### u061689
+{n}La donna robusta, dalla folta chioma fiammeggiante, sta armeggiando con un dispositivo sconosciuto che tintinna in modo melodioso. Al posto della mandibola inferiore ha un rozzo {g|Encyclopedia:Augmentation}impianto{/g}. Mentre ti avvicini, l'impianto comincia a muoversi, come se fosse indipendente dal resto del suo volto.{/n} "Benvenut{mf|o|a} all'Adeptus Amasecus, {mf|signore|signora}. Cosa può servire Octaviana? {g|Encyclopedia:Amasec}Amasec{/g}? Lho? Qualcosa di più... interessante?"
+
+### u061690
+{n}Non appena ti nota, Octaviana lascia subito quello che sta facendo e china rispettosamente il capo.{/n} "Benvenut{mf|o|a} all'Adeptus Amasecus! Cosa vi porto?"
+
+### u061691
+"Siete nella più antica osteria di Footfall, {mf|signore|signora}. L'Adeptus Amasecus è l'unico Adeptus che si possa trovare su Footfall!" {n}Ride con voce roca.{/n} "Io sono Octaviana. Servo da bere, presto orecchio e, se serve, faccio stare buoni i più turbolenti."
+
+### u061692
+{n}Abbassando la voce, Octaviana aggiunge:{/n} "Ho un messaggio privato per Vostra Signoria. La Missione Kasballica mi ha incaricata di esprimere la sua... volontà di proseguire la collaborazione con la Casata von Valancius. I miei colleghi desiderano assicurarvi che non ebbero alcuna parte nelle attività di Vladaym Tocara che {d|Encyclopedia:Ch4_Footfall_VladaymDead}hanno suscitato il vostro disappunto{/d}, e non considerano le sue... disgrazie personali un atto di ostilità da parte vostra. Siete, come prima, un nostro partner prezioso e rispettato."
+
+### u061693
+"L'ultima novità è che non si è bevuto granché... e nemmeno chiacchierato. Forse un'altra volta posso darvi qualcosa di buono."
+
+### u061694
+"Ecco un altro spunto per voi: un povero sbronzo è stato qui a piagnucolare perché il suo equipaggio ha buttato via un intero carico insieme alla spazzatura, e in qualche modo era colpa sua. Ha nascosto la cosa e, appena attraccati a Footfall, è subito fuggito. Nessuna sorpresa: se avessero scoperto il suo errore, lo avrebbero giustiziato. Non so che carico fosse, ma la nave su cui serviva di solito fa la tratta tra Footfall e il Regno di Winterscale. Passa per il Crocevia dei Cento Sogni e la Cintura di Langrenn. Se vi capita di passare da quelle parti, potreste cercare qualunque cosa quell'idiota abbia gettato nel vuoto."
+
+### u061695
+"Ce la caviamo, ma il vero guaio è che... ogni giorno che passa diventa più difficile trovare da mangiare. Ho sentito che nel vuoto oltre Furibundus stanno succedendo cose orribili, che non tutte le navi riescono ad arrivare fin qui, e i vecchi patroni del Liege non sembrano avere fretta di aiutare. Ne risente l'autorità di Vladaym... e se la sua autorità traballa troppo, ci sarà la fila di gente pronta a prendere il suo posto."
+
+### u061696
+"Al massimo, {mf|signore|signora}! Sono sicura che presto le cose miglioreranno. Cioè, finché non arriverà qualche nuovo disastro a rendere di nuovo la vita una schifezza. E dopo, se siamo fortunati, le cose miglioreranno ancora. Questo è il ciclo della vita nella Distesa, che ci vuoi fare? Ma siete voi che ci avete salvati dalle tenebre soffocanti del regno di Lady Chorda, e tutti gli abitanti di Footfall ora pregano per la vostra salute."
+
+### u061697
+{n}Octaviana china leggermente il capo.{/n} "Alla prossima, {mf|signore|signora}!"
+
+### u061698
+{n}Il liquido ti brucia la lingua, poi la gola, poi lo stomaco... Ti toglie il fiato, ma dopo qualche secondo un calore si diffonde in tutto il corpo e la testa ti sembra un po' più leggera del solito. Octaviana schiocca la lingua in segno di approvazione.{/n}
+
+### u061699
+{n}Octaviana annuisce, riempie d'aria i polmoni e urla con voce tonante:{/n} "Ehi, voi! Straccioni, fannulloni e furfanti, chiudete quelle bocche! Sua Signoria {name} von Valancius, che oggi ci ha graziosamente onorati della sua presenza, sta per parlare!" {n}Il locale si zittisce e tutti gli occhi si volgono verso di te in attesa.{/n}
+
+### u061700
+{n}Heinrix inarca un sopracciglio, chiaramente colpito, ma non dice nulla.{/n}
+
+### u061701
+{n}Octaviana ti osserva attentamente, poi prende una bottiglia da uno scaffale e la stappa. Il liquido trasparente, dall'odore pungente, riempie in fretta il bicchiere posato tra voi.{/n}
+
+### u061702
+"Il primo fu Calligos Winterscale. Proprio così, il capo in persona della Casata Winterscale veniva spesso qui. Un tipo impressionante! È vero che, ogni volta che lui e i suoi ufficiali varcavano la porta, la gente del posto si cercava un buco in cui nascondersi: i drink non erano l'unica cosa che a Sua Signoria piaceva tracannare. Se qualcuno lo guardava anche solo di traverso, dipingeva le pareti di rosso."
+
+### u061703
+{n}Octaviana abbassa la voce.{/n} "Jae... Sapete, Jae è davvero in gamba. Si è fatta un nome qui su Footfall. È una donna che è partita dal nulla, rispetta le regole non scritte di questo posto, non calpesta i più deboli e per giunta beve come una spugna: c'è molto da rispettare. Il triste è che sembra essersi messa dalla parte sbagliata di Vladaym. E poiché entrambi, anzi tutti e tre, abbiamo legami con i {g|Encyclopedia:KasballicaMission}Kasballica{/g}, non c'è via d'uscita. Jae dovrebbe lasciare Footfall finché può: meglio perdere i suoi affari che la vita."
+
+### u061704
+"Perché siete così {mf|interessato|interessata}? State indagando su di lei o cosa?" {n}Octaviana si accorge di sé incontrando il tuo sguardo e china profondamente il capo.{/n} "Scusate, {mf|signore|signora}, io e la mia boccaccia. Immagino sia per questo che mi hanno rotto la mandibola tante volte." {n}Si tocca l'impianto.{/n}
+
+### u061705
+{n}L'odore strano, industriale, il sottile velo sulla superficie... Qualunque cosa ti abbiano versato, è improbabile che lo scopo originale fosse berla.{/n}
+
+### u061706
+{n}Ti squadra con attenzione.{/n} "Di solito la gente viene all'Amasecus per piacere o per affari. Posso chiedervi cosa vi porta qui?"
+
+### u061707
+{n}Octaviana prende da sotto il bancone una bottiglia impolverata, ancora sigillata, e un bicchiere pulito. Il liquido ambrato sciaborda contro le pareti di cristallo mentre vi aggiunge un paio di sassolini neri. Il suo aroma dolce e speziato ti solletica le narici.{/n}
+
+### u061708
+{n}L'amasec ti scalda piacevolmente la gola: senti una nota di spezie, il sapore di una botte di quercia e un marcato aroma terroso. Ti senti un po' più in pace e arrivi in fondo al bicchiere prima di quanto vorresti.{/n}
+
+### u061709
+{n}Octaviana ti mostra una bottiglia vuota e fa un gesto di impotenza.{/n} "Mi dispiace, {mf|signore|signora}, questa era l'ultima bottiglia di quell'annata. Che volete che vi dica: stiamo tutti pagando il prezzo dei problemi di rifornimento di Footfall."
+
+### u061710
+{n}Ti lancia un'occhiata indagatrice, poi risponde a voce bassa:{/n} "Forse. Forse so qualcosa. Ma non urliamolo a tutto il locale, d'accordo? Io sarò qui ancora molto dopo che voi sarete {mf|uscito|uscita} da questo bar... e gli Anvers non rispettano accordi, leggi né altre bande. Li guardate nel modo sbagliato e siete {mf|morto|morta}."
+
+### u061711
+{n}Il suo volto si incupisce mentre aggiunge sottovoce:{/n} "Purtroppo non posso offrirvi tutta la nostra scelta di bevande. Di questi tempi non arrivano più tanti fornitori della roba migliore, tutto per colpa di quelle unità confessionali. Ve lo dico fin da ora, non ci sarà fine ai nostri guai con quella Incendia Chorda alle redini."
+
+### u061712
+"Octaviana, non c'è bisogno di scoraggiare i curiosi per causa mia! Lo considero un sommo complimento quando la mia fama spinge gli altri a parlare di me. Anche quando parlano come se non fossi qui." {n}La donna dai capelli scuri ti fa l'occhiolino e ride.{/n}
+
+### u061713
+"Senza di lui in giro, i Kasballica hanno trovato un po' di margine di manovra e hanno iniziato a... negoziare con le nuove autorità. Nel caos attuale, la Missione è in grado di offrire navi, contatti e risorse che giustificano un atteggiamento più tollerante da parte della Casata Chorda."
+
+### u061714
+"Comunque, veniamo al punto. Quegli 'Anvers' sono feccia tra la feccia, i tagliagole più squilibrati che si trovino su Footfall, e perfino gli altri squilibrati non vogliono averci a che fare. Non hanno gerarchia, né territorio, niente. Solo un capo senza nome, che la maggior parte degli Anvers non ha mai visto. Questo capo manda loro volantini con messaggi ispiratori. I seguaci vengono reclutati da altri seguaci. Il Liege ha provato a rimetterli in riga, ma funziona così: ne spazzi via un gruppo e nel frattempo ne spuntano cinque altri da qualche altra parte."
+
+### u061715
+"Come dicevo, nessuno sa chi sia il loro capo né da dove operi. Ma ecco cosa ho notato: gli ultimi volantini degli Anvers, quelli così freschi che se ne sente l'odore dell'inchiostro, compaiono sempre nella stessa zona del grande asteroide dei bassifondi. Lasciate che ve la mostri al volo..." {n}Usa gocce di liquore per disegnare una mappa sommaria direttamente sul bancone.{/n} "Più o meno qui. Sono certa che stampano le loro poesiole da qualche parte in questa zona."
+
+### u061716
+{n}Non appena ti nota, Octaviana ti rivolge un sorriso sincero e raggiante e un rispettoso inchino.{/n} "Cosa vi porto, {mf|signore|signora}? Per voi qualsiasi cosa!"
+
+### u061717
+{n}Ti guarda e subito accenna un mezzo inchino.{/n} "Oh, {mf|Lord|Lady} {name}! Tutta Footfall è in fermento per {d|Encyclopedia:Ch2_FootfallOfficial}il vostro arrivo{/d}. A cosa devo l'onore?"
+
+### u061718
+{n}Non appena ti nota, Octaviana si inchina in fretta. A giudicare dalla sua espressione, sta facendo del suo meglio per nascondere la paura.{/n} "Cosa vi porto, {mf|signore|signora}?"
+
+### u061719
+"Per ora può bastare."
+
+### u061720
+"Giusto, {mf|signore|signora}. Be', qualunque cosa cerchiate, spero che la troviate tra queste mura."
+
+### u061721
+{n}Il bicchiere contiene un liquido chiaramente ricavato da promethium esausto. È un distillato clandestino, praticamente non filtrato, che fa cadere in fretta chi lo beve e, se ingerito con regolarità, trasforma il fegato in una spugna ribollente.{/n}
+
+### u061722
+"Dove si possono fare affari meglio che su Footfall, non è vero? Gli affari sono l'unica cosa che tiene in piedi questo crogiolo. Se questo non fosse il posto migliore per concludere accordi, Footfall sarebbe stata spolpata da un pezzo, un asteroide alla volta."
+
+### u061723
+"Be'... fa davvero piacere sapere che questa topaia suscita l'interesse di gente diversa da teppisti e ubriaconi. Del resto l'Amasecus è come un grox: fuori è orribile a vedersi, ma dentro è straordinariamente utile se sai come usarlo."
+
+### u061724
+{n}Octaviana si china in avanti.{/n} "Sedersi a questo bancone spesso mette la gente in vena di chiacchiere... e non vedo nessuno che mi paghi per tacere. Le visite di personalità eminenti come voi accrescono il prestigio del mio locale, perciò posso ripagarvi condividendo quello che ho sentito dire. Qualcosa potrebbe esservi utile... nei vostri affari."
+
+### u061725
+{n}Octaviana inarca le sopracciglia.{/n} "Perdonatemi, ma siete {mf|stato|stata} voi a chiedere il liquore locale. È il miglior distillato casalingo che si possa avere dalla marmaglia tecnologica degli asteroidi inferiori: prodotto sul posto, ad alto numero di ottano... Footfall non ha serre né frutteti, {mf|signore|signora}: qui la gente si arrangia con quel che ha."
+
+### u061726
+"È la seconda volta che vedo un nobile bere la miscela di ottano senza fare una smorfia... Ma non ve ne offrirò più: ho messo da parte proprio la cosa giusta per un'occasione simile..."
+
+### u061727
+{n}Appena in bocca, la bevanda sembra trasformarsi in acido: il liquido si appiccica al rivestimento della gola e cerca di bruciarlo da parte a parte. Tossisci violentemente, coprendoti la bocca in fiamme, e lasci qualche goccia di sangue sulla manica.{/n}
+
+### u061728
+{n}Octaviana ti guarda preoccupata.{/n} "Il Trono abbia pietà, state bene, {mf|signore|signora}? Non avreste dovuto ordinare la miscela di ottano: ho messo da parte qualcos'altro per chi ha un palato più raffinato..."
+
+### u061729
+{n}Octaviana ridacchia.{/n} "Cosa ve lo fa dire? Sapete dove vi trovate? Sul ponte della Martyr's Endurance, una nave sacra che un tempo apparteneva all'{g|Encyclopedia:AdeptusAdministratum}Adeptus Administratum{/g}! Cent'anni fa i burocrati mandarono qui una missione per istituire un dipartimento, impiantare una specie di archivio, riformare Footfall e far seguire a tutti alla lettera un miliardo di leggi. Come potete vedere, alla fine a essere riformati sono stati la Martyr's Endurance e i suoi abitanti. Non so che fine abbiano fatto, ma alla gente del posto piace venire qui a fare affari e contare i soldi come prima, in questo tempio dei contabili dell'Imperium. Laggiù potete vedere che hanno conservato perfino l'insegna... in parte."
+
+### u061730
+{n}Octaviana si blocca sul posto.{/n} "Non può essere... Siete... Sorella Argenta? LA Sorella Argenta? Quella che fa tremare la peggior feccia di Footfall? Ne parla tutta la stazione! E voi siete qui, in carne e ossa, nel nostro umile Amasecus!"
+
+### u061731
+"Esatto. Ci sono molti più agenti kasballicani nella Distesa di quanto la maggior parte della gente creda. Preferiamo operare con discrezione, tutto qui. Perché rivelare l'intera rete quando si può fare affari tramite qualche contatto pubblico? Vladaym rappresentava i nostri interessi su Footfall. Ora i nostri vertici vogliono che sia io a diventare il volto della nostra organizzazione."
+
+### u061732
+"Siamo un'impresa commerciale, non una confraternita di sangue. In una situazione in cui un Rogue Trader invade i nostri possedimenti, preferiamo assicurarci l'appoggio di un'altra casata piuttosto che farle la guerra. E la morte di Vladaym non cambia nulla."
+
+### u061733
+"Avete protetto gli interessi della nostra organizzazione su Footfall {d|Encyclopedia:Ch4_ChordaDead}liberandoci{/d} dalla dittatura di Chorda. Per i Kasballica questo conta molto più della morte di Vladaym. Siamo un'impresa commerciale, non una confraternita di sangue."
+
+### u061734
+{n}Octaviana ti porge un bicchiere limpido, probabilmente il più limpido di tutto il locale. L'acqua fredda è inodore, una cosa che molti abitanti di Footfall non hanno mai sperimentato in tutta la loro vita.{/n}
+
+### u061735
+"Se cercate le reliquie della missione di San Drusus, parlate con il Cappellano. Dopo la morte del reverendo, è diventato una specie di capo drusiano qui su Footfall. Il reliquiario sarà sicuramente al sicuro sotto la sua guardia: quell'uomo è duro come il plastacciaio."
+
+### u061736
+{n}Il silenzio cala nella sala. Le espressioni degli avventori sono solenni, rispettose e addolorate. Dopo una pausa adeguata, un marinaio del vuoto dice con voce profonda e risonante:{/n} "Buon viaggio ai caduti e lunga vita alla Casata von Valancius."
+
+### u061737
+"A pensarci bene, la sua caduta era solo questione di tempo. Ha abbassato la guardia e ha iniziato a commettere errori. Ha firmato la propria condanna a morte quando ha deciso di mettersi contro Chorda invece di cercare un modo per trattare. Quello che avete fatto voi è stato solo il tocco finale."
+
+### u061738
+{n}Octaviana alza le spalle con aria cupa.{/n} "Non so se Footfall abbia ancora bisogno dell'Amasecus. Forse dovrò chiudere bottega e avviare qualche nuova attività. Ma i tutori dell'ordine non ci danno più fastidio: il problema era Vladaym. Aveva dimenticato di essere un contrabbandiere e si era messo a fare il ribelle."
+
+### u061739
+{n}Un'assordante ondata di giubilo investe la sala. Da ogni direzione senti grida di lode per te e per la Casata von Valancius. Octaviana si unisce al coro mentre prepara bottiglie e boccali: sa cosa succederà non appena lascerai il locale.{/n}
+
+### u061740
+"Quanto alla vecchia Ryzza, ho buone notizie per voi. Sì, è passata a miglior vita, ma i suoi tesori di saccheggio sono ancora su Footfall. Uno scemo del suo equipaggio bazzica sempre qui al bar. Dovreste parlargli. Lo riconoscerete dal suo modo sciocco di parlare e dalla balbuzie."
+
+### u061741
+"Questa potrebbe interessarvi: una storia che ho sentito da un nato nel vuoto brillo, di una chiatta da carico. Sono usciti dal warp a metà strada tra Furibundus e il Sistema Aviorus e si sono imbattuti nel relitto alla deriva di una navetta. La navetta era registrata sulla Inevitable Triumph, una nave mercantile scomparsa decenni fa. Era diretta a Footfall, con le stive piene di merci di valore, ma non è mai arrivata. Se qualcosa è sopravvissuto al naufragio, potrebbe essere un colpo di fortuna notevole!"
+
+### u061742
+{n}Gli avventori fanno il segno dell'Aquila e mormorano preghiere discordanti all'Imperatore ed espressioni di pietà. La sincerità delle loro parole è dubbia, ma il loro timore reverenziale e la paura della tua ira sono davvero convincenti.{/n}
+
+### u061743
+"Be', dubito che lo troverete qui. Il Lord Inquisitore se n'è andato in gran fretta e si è portato via tutta la sua gente e le sue navi. Nessuno sa dove. Ma non mi sentirete lamentarmi: il bar si è decisamente animato da quando se n'è andato."
+
+### u061744
+{n}L'espressione di Octaviana si fa di pietra e perfino la sua protesi della mandibola smette per un attimo di cigolare.{/n} "Heydari... I miei hanno trovato qualcosa nei tunnel delle fogne, qualcosa che un tempo le apparteneva. Vi prego, {mf|signore|signora}, prendetelo per ricordare Jae. Io... non ho bisogno di ricordi per alzare un bicchiere alla memoria di quella pazza volpe."
+
+### u061745
+{n}Octaviana lancia un'occhiata a Heinrix.{/n} "A giudicare dalla vostra compagnia, immagino siate qui per affari più che per piacere?"
+
+### u061746
+"Questa volta mi limito ad accompagnare."
+
+### u061747
+{n}Heinrix socchiude gli occhi.{/n} "Parlo per esperienza personale, {name}. Non fatelo."
+
+### u061748
+"Tanto per il mio avvertimento."
+
+### u061749
+{n}Il respiratore di Pasqal sibila piano ed egli dice con tono allusivo:{/n} "La composizione alchemica di questa sostanza mi è nota. Ma non mi era mai capitato di vederne un uso così insolito. Uno squisito sentiero di martirio in onore dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}."
+
+### u061750
+{n}L'espressione di Octaviana cambia radicalmente quando vede Kibellah.{/n} "Tu, là. Sappi che se vedo un solo cadavere qui dentro, ti faccio buttare fuori dal mio locale con un buco nella testa. La tua razza non mi spaventa, e non ho intenzione di lasciarti rovinare i miei affari riempiendo la sala di corpi. La tua sola presenza qui toglie già la sete a metà dei miei clienti."
+
+### u061751
+"Ho udito la tua minaccia. Non temere: se dovrò uccidere qualcuno qui, non troverai i corpi."
+
+### u061752
+"La vita è migliore che mai, grazie a voi. Almeno lo è se sapete farvi valere, o se siete utile a Vladaym. Immagino non sia quello che volevate sentirvi dire: speravate che vi raccontassi che le provviste sono finite nei ventri vuoti degli affamati e che tutto va per il meglio, vero? Ma siamo realisti: a chi va il cibo per primo? Esatto, non ai poveretti che muoiono di fame, ma a chi ha le tasche più pesanti e le armi più rumorose. A chi ha il sedere appollaiato più in alto sul palo. O a chi sa quale sedere baciare..."
+
+### u061753
+{n}Il suo volto si rabbuia quando nota Solomorne.{/n} "È la prima volta che vedo un Arbitrator entrare nel nostro locale. Dubito che siate qui per bagnarvi la gola, quindi vi parlo chiaro: qui non abbiamo violatori della Lex, solo gente semplice e modesta che ha bisogno di bere."
+
+### u061754
+"Puoi stare tranquilla. Se fossi qui per fermare qualcuno, questa conversazione sarebbe cominciata con una granata stordente e un po' di fuoco di soppressione."
+
+### u061755
+"Effetti collaterali: danni al nervo ottico, alterazione del ritmo cardiaco, coma..." {n}Eogunn elenca con noncuranza le possibili conseguenze.{/n} "Io e Nuncius prepareremo i rituali di rianimazione. Credo che, consumando questa sostanza, vi attenda un'esperienza trascendente indimenticabile."
+
+### u061756
+{n}Alza le spalle.{/n} "È il meglio che Footfall possa offrire. Soprattutto se sapete cosa cercare."
+
+### u061757
+"Vi piace? Mi lusingate. Non capita spesso di avere visitatori importanti, e ancora più di rado apprezzano davvero questo posto."
+
+### u061758
+{n}Argenta ferma il torrente di adorazione di Octaviana con un gesto calmo.{/n} "Basta così. Cerco la punizione dei trasgressori, non la gloria per me stessa." {n}Nonostante le sue parole, scorgi un lampo negli occhi di Argenta: capisci che sta gradendo questa attenzione rapita.{/n}
+
+### u061759
+"Non venite alla nostra bella stazione da un po', vero, {mf|signore|signora}? Come al solito, non ci si annoia mai. O qualcuno viene colpito a colpi di arma da fuoco in una piazza, o qualche riccone va in safari a caccia di popolani nei Quartieri d'Ombra. Certo, il Liege si assicura che le beghe locali non intralcino gli affari sulla stazione, ma quello che succede ai margini dà un po' di sale alla nostra vita."
+
+### u061760
+"L'{g|Encyclopedia:Emperor}Imperatore{/g} è sempre con noi, {mf|signore|signora}. Avete visto la statua qui fuori? È un po' difficile non notarla. Si vede da ogni fessura. L'Immortale veglia su di noi e, dato che non ha ancora fatto saltare in mille pezzi questa penosa scusa di stazione, e questo bar insieme a essa, immagino che gli vada benissimo così."
+
+### u061761
+"Come desiderate." {n}La bottiglia e il bicchiere scompaiono sotto il bancone.{/n}
+
+### u061762
+[Bevi]
+
+### u061763
+"Sono {name}, inviat{mf|o|a} commerciale della Casata von Valancius."
+
+### u061764
+"Ricordami, qual è il tuo guaio?"
+
+### u061765
+"Se il Liege trascura i suoi doveri, diventerò io il tuo patrono."
+
+### u061766
+"Cosa puoi offrire come pagamento?"
+
+### u061767
+"Che tipo di carico ti è stato rubato?"
+
+### u061768
+"Stai chiedendo a un cittadino rispettabile di partecipare al traffico di xenoartefatti?"
+
+### u061769
+"Dovrei farti giustiziare all'istante per una simile proposta! Il tuo carico non è altro che lurida xenoeresia!"
+
+### u061770
+"Desidero farti qualche domanda prima di decidere."
+
+### u061771
+"Sospetto che Vladaym voglia tenere il carico lontano dalle tue mani. E io voglio rimetterlo al suo posto."
+
+### u061772
+"In realtà sono qui per te, Jae. Vorrei vederti nel mio seguito."
+
+### u061773
+"Come ti tratta la vita, Jae?"
+
+### u061774
+"Finora non mi hai mostrato altro che spacconate. Dimostra la tua utilità. Subito."
+
+### u061775
+"Va bene, ti aiuterò."
+
+### u061776
+"Di cosa hai bisogno?"
+
+### u061777
+"Ci siamo già incontrati da qualche parte?" {n}La donna ti guarda con gli occhi vitrei di un'ubriaca, e noti le due bottiglie vuote che le hanno fatto compagnia prima del tuo arrivo. Sembra completamente fuori posto in questo bar squallido e fumoso. L'abbigliamento ricercato, l'abbondanza di gioielli, gli {g|Encyclopedia:Augmentation}impianti{/g} rivestiti di metalli preziosi: il suo aspetto non grida solo ricchezza, ma anche audacia, perché solo una persona audace metterebbe in mostra la propria ricchezza in un posto come questo.{/n}
+
+### u061778
+"Vedi, shereen... su Footfall c'è una regola cardinale: tutto è permesso finché non intralcia gli affari. Io sono una che ha saputo sfruttare quella regola fino in fondo, e negli ultimi anni ho fatto un tale colpo da diventare un granello di sabbia nell'occhio verde di qualcuno. Prima mi mettevano qua e là qualche piccolo bastone tra le ruote, ma ora hanno deciso di mettercisi davvero d'impegno. Qualche ratto mi ha rubato il carico e l'ha trascinato nella parte più squallida dei Quartieri d'Ombra, un posto schifoso perfino per gli intenditori dell'atmosfera unica di Footfall."
+
+### u061779
+"Oh, miele per le mie orecchie! Un balsamo per un'anima respinta!" {n}Jae scosta con grazia dal viso i capelli nero corvino e ti rivolge un sorriso raggiante.{/n} "Sapevo che il Dio-Imperatore ci avrebbe fatti incontrare proprio quando avevi bisogno dei miei servigi! Io e i miei talenti siamo completamente a tua disposizione."
+
+### u061780
+"La vita? Che vita può avere un'afflitta serva dell'Eccelso, lasciata alla mercé dei cani famelici di Footfall? La mia situazione è ancora precaria, shereen... e ho ancora un disperato bisogno di aiuto, per il quale sono disposta a pagare profumatamente."
+
+### u061781
+{n}La donna, dopo aver preso un sorso dal bicchiere, si strozza e si schiarisce in fretta la gola.{/n} "{name}! {name} von Valancius... i miei più profondi e umili omaggi, {d|Encyclopedia:Ch2_FootfallOfficial}Vostra Signoria{/d}! Non avrei mai immaginato di trovarmi al bancone dell'Amasecus accanto a un autentico {g|Encyclopedia:RogueTrader}Rogue Trader{/g} del Dio-Imperatore!"
+
+### u061782
+"Bene, allora... brindiamo al nostro incontro, {name}. Non ci vuole un genio per capire che sei {d|Encyclopedia:Ch2_FootfallIncognito}qualcuno di speciale{/d}, dato che ti è stata concessa un'udienza con il Liege di Footfall in persona. È sempre un piacere fare la conoscenza di qualcuno di potente." {n}Prende un sorso e si ferma... poi mette via con decisione il bicchiere e si volta verso di te.{/n} "E il momento non potrebbe essere migliore."
+
+### u061783
+"Bene... Ecco, è lì che quegli ashmag tengono il carico rubato. Esci dal bar, attraversa il ponte e gira a sinistra: laggiù, in fondo, troverai un piccolo cortile da cui si arriva al posto. Aspetterò nei paraggi: puoi venire quando ti fa comodo, ma prima lo fai, meglio è. Ci vediamo allora, shereen!"
+
+### u061784
+"Quando ho chiesto protezione al Liege, c'è stato un malinteso reciproco. Credo che Vladaym, in modo assai deplorevole, abbia dimenticato i suoi doveri di custode dei calpestati e degli oltraggiati... quindi ho un disperato bisogno di un nuovo custode. E tu, shereen, fai proprio al caso mio. Tutto ciò che mi serve è che tu passi per un angolo buio dei Quartieri d'Ombra di Footfall e faccia entrare in testa ai ladri che prendere la proprietà di Heydari comporta certi rischi."
+
+### u061785
+"Naturalmente so che i miei mezzi personali non possono competere con i tuoi, shereen, quindi non spero di impressionarti con il denaro. Ma posso offrire qualcos'altro: la mia sconfinata conoscenza! Di certo apprezzerai i servigi di un'esperta di operazioni commerciali. Da dove vengo io, questo tipo di accordo si chiama 'vendita di saggezza'."
+
+### u061786
+"Ho sentito dire molto su quanto... di larghe vedute siano i membri della dinastia von Valancius. E Lady Theodora in particolare."
+
+### u061787
+{n}Jae sembra un'operatrice seria su Footfall. Il rifiuto del Liege di aiutarla significa la perdita di un potenziale alleato. Quindi Jae sta invadendo il suo territorio. Se Vladaym non è responsabile della scomparsa del carico di Jae, ne trarrà di certo un enorme vantaggio.{/n}
+
+### u061788
+{n}Sembra che Jae sia un'attrice troppo marginale perché qualcuno nella posizione del Liege dedichi attenzione ai suoi problemi.{/n}
+
+### u061789
+"Merci di incredibile rarità, shereen. Ma non è solo questo: due dozzine dei miei hanno perso la vita nel vuoto impenetrabile per procurarsele. Non posso lasciare le loro famiglie senza nulla."
+
+### u061790
+{n}I normali contrabbandieri non si vestono in modo così ostentato né si comportano con tanta sfrontatezza, ed è improbabile che rovinino l'umore del Liege di Footfall con la sola loro presenza. Questa donna ha perso molti dei suoi per ottenere queste "rarissime merci" e, per riaverle, si è rivolta a Vladaym Tocara, il patrono di tutto il Commercio Freddo nella Distesa. Il suo carico non può essere altro che xenoartefatti: creazioni dei nemici dell'Umanità, marchiate dall'eresia.{/n}
+
+### u061791
+{n}Ti viene in mente un pensiero semplice e ovvio: l'abito vistoso, il comportamento volutamente sfacciato, i racconti su un carico di valore, è tutto fumo negli occhi. Molto probabilmente Jae è una piccola contrabbandiera ansiosa di agganciarsi a un pesce più grosso. Con Vladaym ha fallito e ora ha puntato gli occhi su di te.{/n}
+
+### u061792
+"Pensavo che fossimo d'accordo fin dall'inizio, shereen. Ti prego di accettare le mie più sincere scuse se non è così, e di permettermi di spiegarmi."
+
+### u061793
+"Se te l'avessi detto apertamente, saresti diventat{mf|o|a}... diciamo, complice. Ma dato che quelle parole illecite non mi sono uscite dalle labbra, ipoteticamente accetteresti soltanto di aiutarmi a riprendere qualche container. E se all'improvviso gli azhi decidessero di mandare a monte i nostri piani, tutti i cani del vuoto si scatenerebbero su di me soltanto. Il mio più sincero desiderio era proteggerti da ogni guaio inutile, shereen. Lo giuro sull'Eccelso!"
+
+### u061794
+"Devo prenderlo come un no?"
+
+### u061795
+"Un accordo equo, shereen." {n}Negli occhi di Jae ribolle un'eccitazione trattenuta.{/n} "Se lo desideri, ci divideremo il carico recuperato... cinquanta e cinquanta. Sarà giusto. Ma se le merci di incredibile rarità non ti interessano, renderò la cosa conveniente per te con dei titoli di valore pari a un paio di stive piene."
+
+### u061796
+"Chiedi pure quanto vuoi, shereen. La fiducia è la chiave di un'impresa di successo."
+
+### u061797
+{n}Heinrix tossisce e dice in fretta e a bassa voce:{/n} "È una mercante del Commercio Freddo, una contrabbandiera che tratta artefatti xenos. A parte questa eresia, non conosco altri crimini gravi commessi da lei."
+
+### u061798
+"Eh. Comincia a piacermi."
+
+### u061799
+{n}I suoi occhi scuri si accendono di vivo interesse.{/n} "Sai davvero come si fanno gli affari, shereen! Pretendi il pagamento prima di dare una risposta perché sei consapevole della debolezza della mia posizione... lo rispetto. E non so se sia l'alcol a parlare o solo una sensazione, ma voglio correre questo rischio con te."
+
+### u061800
+{n}Jae ti saluta alzando il bicchiere.{/n} "Shereen! Lieta di vederti in buona salute! Sei per caso già passat{mf|o|a} dall'indifferenza alla simpatia? Riguardo alla mia situazione e tutto il resto."
+
+### u061801
+{n}Si infila una mano nello stivale lucido e ne estrae un piccolo pacchetto, che ti porge.{/n} "I veri gioielli vanno tenuti nelle mani dei più degni, shereen. Ti prego, accetta questo umile dono." {n}Jae sorride in modo misterioso e prende un sorso della sua bevanda profumata.{/n}
+
+### u061802
+{n}Kibellah socchiude gli occhi con disprezzo.{/n} "Il tuo mestiere è l'eresia. Ogni tua parola e ogni tuo gesto puzza di vizio. Il vizio è tutto ciò che sai vendere."
+
+### u061803
+"Ho sentito parlare di una Heydari di Footfall, una Commerciante Fredda locale di scarso rilievo." {n}Il Proctor annuisce lievemente tra sé.{/n} "Non vale il mio tempo."
+
+### u061804
+{n}Il sorriso di Jae si fa ancora più abbagliante.{/n} "Spero proprio che questo giudizio sommario e del tutto fuori luogo da parte dell'illustre Arbitrator non ti impedisca di farti una tua opinione sui miei molti illustri talenti!"
+
+### u061805
+{n}Gli occhi di Jae perdono un po' del loro lustro.{/n} "Che peccato... peccato. Be', in tal caso grazie per aver ascoltato la tragica storia di una signora sfortunata. Se per caso cambi idea, sarò da queste parti... anzi, probabilmente proprio qui." {n}Jae ti saluta e si volta verso il bancone.{/n} "Ehi, Octaviana! Portami un'altra bottiglia!"
+
+### u061806
+{n}Sorride con una certa aria assonnata mentre ti osserva da sopra il bicchiere che porta alle labbra.{/n} "Salute, shereen. Con chi ho l'onore di parlare?"
+
+### u061807
+"Jae Heydari, ai tuoi ordini. Commerciante professionista, scaltra mediatrice commerciale e, che l'azhi mi rubi la lingua se mento, la più onesta mercante di Footfall. Eppure tutti abbiamo i nostri problemi, e a volte nemmeno i molti meriti bastano a risolverli. Forse a una persona del tuo potere e del tuo rango non costerebbe fatica aiutare qualcuna nella mia situazione?"
+
+### u061808
+"Che l'Eccelso benedica te e la tua progenie!" {n}Jae tira subito fuori una {g|Encyclopedia:Dataslate}tavoletta dati{/g} e ti mostra una mappa di Footfall.{/n} "Allora ecco cosa faremo. Non dobbiamo farci vedere insieme prima di arrivare al rifugio. Ci andrò prima io. Farò un mio percorso speciale per non essere notata."
+
+### u061809
+"Vostra Signoria, shereen, che meraviglia vederti qui! Ormai sei praticamente un habitué dell'Amasecus: il sapore locale è chiaramente di tuo gusto." {n}Jae ride e porta alle labbra un bicchiere di liquido ambrato.{/n}
+
+### u061810
+"Meglio dell'ultima volta che ci siamo {mf|visti|viste}, shereen, che l'Eccelso benedica il tuo cammino! Però ogni giorno che passa su Footfall mi sento sempre meno a mio agio: senza il favore del Liege, questa stazione dimenticata dal {g|Encyclopedia:GoldenThrone}Trono{/g} è un posto piuttosto pericoloso in cui stare. Forse mi trasferirò lontano, appena capisco come liberarmi di certe zavorre indesiderate e smerciare delle merci scomode..."
+
+### u061811
+"Non passo di nuovo per il Sistema Speculo, nemmeno morto. Mi mette i brividi ogni singola volta."
+
+### u061812
+"Footfall è il posto migliore della Distesa e nessuno potrà convincermi del contrario!"
+
+### u061813
+"Il nostro Navigatore una volta ha scambiato i sistemi Pulvis Platinum e Palatium Stellos. Il capitano è andato su tutte le furie, ma cosa puoi fare a uno dei Navis Nobilite?"
+
+### u061814
+"Non passa turno senza che qualche ubriacone cada dal ponte qui fuori dal bar. C'è chi dice che qualcuno dovrebbe montare dei parapetti, ma io dico che qualcuno dovrebbe imparare a reggere l'alcol!"
+
+### u061815
+"Da ragazzino mi divertivo a tirare sassi ai servitori, ma ora un po' mi fanno pena."
+
+### u061816
+"Ho provato quel vostro amasec e vi dico una cosa: la sbobba resta comunque il liquore migliore!"
+
+### u061817
+"Octaviana da giovane era una vera bomba, e ora è ancora più splendida!"
+
+### u061818
+"Mi sa che dopo un salto warp mi si è allungato il naso. Dici che dovrei andare a farmelo vedere da un prete?"
+
+### u061819
+"Oh, shereen, ma non ti basta come ricompensa contemplare la luce dei miei occhi?"
+
+### u061820
+"Finché non ci rivedremo, mio gentile {mf|amico|amica}!"
+
+### u061821
+"Ehi! Heydari! Ti ricordi che mi devi qualcosa, vero?"
+
+### u061822
+"Eh. Proprio non riesco a restare arrabbiato con te a lungo, tesoro. Va bene, vai pure."
+
+### u061823
+"Mossa sbagliata. Pessima."
+
+### u061824
+"Chi sei tu per insegnarmi, zotico? Sono nato con un pezzo di regicidio in mano! I miei genitori potrebbero avermi concepito su una scacchiera!"
+
+### u061825
+"Uff, scommetto che resterò di nuovo qui a giocare per ore e il caposquadra mi farà la pelle. Ma come faccio ad andarmene? La partita sta appena diventando bella!"
+
+### u061826
+"Cinque turni fa la campionessa di regicidio di Footfall si è fatta saltare la testa dopo la vittoria, e per il secondo posto c'è stata una rissa a coltellate."
+
+### u061827
+"Già, quelli sì che erano i veri giorni del regicidio. I giocatori di oggi sono tutti smidollati, e la posta in gioco non è più la stessa..."
+
+### u061828
+"Vedo che su Footfall è tornato tutto alla normalità."
+
+### u061829
+"Chi sono questi ragazzi con cui lavori?"
+
+### u061830
+"Vediamo cosa hai da offrire."
+
+### u061831
+"Pirati, insomma."
+
+### u061832
+"Che tipo di merci sei disposta a comprare?"
+
+### u061833
+"Meglio che vada."
+
+### u061834
+"Come mai non ti hanno ancora arrestata sotto il nuovo patrono di Footfall? I confessori non si sono fatti vivi?"
+
+### u061835
+"Nonno Bakhval ti manda i suoi saluti."
+
+### u061836
+"Sembri in pace. Hai voltato le spalle all'eresia?"
+
+### u061837
+"Davvero nobile da parte tua!"
+
+### u061838
+"Davvero? Molto bene, torniamo alla nostra discussione."
+
+### u061839
+{n}Ryzza tace, ma i suoi occhi non lasciano il tuo volto. La sua espressione cambia gradualmente, dall'interesse sfrontato a una stupita deferenza.{/n} "Vi conosco, {name}. Chi avrebbe mai pensato che un {d|Encyclopedia:CharGen_Criminal}pezzo grosso{/d} come voi sarebbe finito dalle nostre parti... Gli audaci piani che avete portato a termine sono roba da leggenda: perfino i {g|Encyclopedia:KasballicaMission}Kasballica{/g} potrebbero imparare qualcosa. Per uno come voi offrirò solo i prezzi migliori. L'affare vero."
+
+### u061840
+"Ci chiamiamo Fellowship of the Void: un'associazione di persone intraprendenti e di uguali vedute che aiutano i rispettabili cittadini dell'Imperium a liberarsi dei possedimenti che li appesantiscono."
+
+### u061841
+{n}Ryzza abbassa la sua voce tonante e roca.{/n} "Avete sentito del clipper Saint Cognatius colpito di recente? Il carico è stato ripulito, preso tutto ciò che aveva valore. Ebbene, è stata opera dei miei ragazzi!"
+
+### u061842
+{n}Ridacchia cupamente.{/n} "Intendete minacciarmi, Tecnoprete? Bene, allora terrò un registro anche di questa conversazione. Chissà a chi di noi toccherà per primo la mano dura della giustizia? A me, in catene davanti ai vostri confratelli, o a voi, davanti a un portello stagno con i miei ragazzi accanto?"
+
+### u061843
+"Voglio congratularmi con te per la tua iniziativa. {d|Encyclopedia:Ch4_Footfall_VladaymDead}Abbattere Vladaym{/d} nel momento del suo trionfo è stata una mossa astuta. Credo che perfino lui ne coglierebbe la giustizia poetica, se non stesse fluttuando in orbita senza testa insieme a tutti gli altri sciocchi la cui fortuna è finita."
+
+### u061844
+{n}Ryzza annuisce solennemente.{/n} "È un fardello pesante, ma qualcuno deve pur portarlo, no? Sono contenta che capiate il mio punto di vista!"
+
+### u061845
+"La tecnologia è sempre la cosa migliore. Se è rotta, nessun problema: la aggiustiamo o la smontiamo. E se vi capita qualcosa di così brutto che i vostri schizzinosi mercanti di tutti i giorni non lo guarderebbero nemmeno, non temete, portatelo pure qui. Lasciate a me e ai miei ragazzi il compito di trovare l'acquirente giusto!"
+
+### u061846
+"E ormai mi sono quasi abituata alla gamba nuova." {n}Batte le nocche sull'augmetica.{/n} "Può spezzare le ossa così, e sembra abbastanza solida!"
+
+### u061847
+"È stato un piacere fare affari con voi!"
+
+### u061848
+{n}La donna sembra sulla quarantina e ti osserva con interesse. Il suo occhio destro appare quasi nero sulla pelle scura, mentre il sinistro emette una luce verdastra filtrata dalla lente sporca di una protesi. Le braccia sono tatuate dalla base delle spalle fino alle nocche.{/n}
+
+### u061849
+"Dovrei anche ringraziarti per aver finalmente {d|Encyclopedia:Ch4_Footfall_HieronimusDead}zittito il Reverendo Hieronymus{/d}! Se le prove purificano davvero l'anima, dopo settimane passate ad ascoltare le sue stridule prediche devo avere l'anima di una santa."
+
+### u061850
+{n}Ryzza si stampa in faccia un'espressione scioccata.{/n} "Vi prego, non c'è bisogno di essere così volgari! La vostra illustre persona saprà senz'altro che Hieronymus predica che l'ascetismo è una virtù e che solo rifiutando la ricchezza materiale possiamo elevarci nella fede. Ebbene, non potrei essere più d'accordo! Stiamo solo aiutando i servitori dell'Imperium a somigliare un po' di più a Hieronymus... prendendoci una piccola commissione per il disturbo."
+
+### u061851
+"Come desidera la vostra illustre persona."
+
+### u061852
+{n}Ryzza annuisce con serietà.{/n} "L'ho fatto, Vostra Signoria. Niente più amuleti profani o cose simili. Tutti i cultisti e gli eretici che si erano insinuati nel mio equipaggio hanno fatto una lunga passeggiata fuori da un portello stagno corto. E i servitori dei Poteri Rovinosi che hanno approfittato del mio momento di debolezza e mi hanno spinta verso l'eresia sono stati mandati a incontrare i loro stessi Dei Oscuri." {n}Ryzza sorride con cattiveria.{/n} "Dubito però che riconosceranno i loro lacchè dopo quello che ho fatto loro."
+
+### u061853
+"Una confessione sconsiderata."
+
+### u061854
+"Confessione? Di cosa parli? La vecchia Ryzza ama solo ricamare quando vuole fare colpo! Le sciocchezze che spara in presenza di persone importanti..."
+
+### u061855
+{n}Noti il volto di Abelard contorcersi in una smorfia di disgusto. Sembra che abbia un'opinione piuttosto netta sugli individui che Ryzza chiama Fellowship of the Void.{/n}
+
+### u061856
+{n}Heinrix ti lancia un'occhiata più divertita che sospettosa.{/n} "Che ammiratori avete, Rogue Trader..."
+
+### u061857
+"A proposito, i miei ragazzi hanno fatto un gran chiasso nelle orecchie di tutti all'Amasecus, raccontando quello che è successo nel Sistema Rykad. E non si sono risparmiati nel descrivere l'incontro con {mf|il gentile signore|la gentile signora} che non aveva intenzione di derubarli delle loro pelli già malconce." {n}Ryzza annuisce con aria eloquente e riconoscente.{/n} "La vecchia Ryzza non dimentica un favore, e nemmeno i suoi amici: potete credermi sulla parola."
+
+### u061858
+"Uff! Che ci fa un tutore della legge qui? Ho sentito che hai fatto fuori Sargona, i grox ne sbudellino l'anima. E allora? Ora hai deciso di prendertela con il resto di noi?"
+
+### u061859
+"Non sono qui per te, eretica. Quindi tieni la testa bassa e ricorda che la prossima volta che ci incontreremo potrei sentirmi più generoso e risparmiare un proiettile o due solo per te."
+
+### u061860
+"Lo sapevo, tutore della legge: finché non tocchiamo la decima, è come se non ci vedessi." {n}La donna si volta di nuovo verso di te, molto soddisfatta di sé.{/n}
+
+### u061861
+"Bentornat{mf|o|a}!" {n}Ryzza alza il bicchiere verso di te, sorride e "strizza l'occhio" con l'occhio protesico.{/n}
+
+### u061862
+"Quindi non so se sarei d'accordo con la vostra illustre persona sul fatto che sia tornato tutto alla normalità, ma berrò volentieri alla nuova normalità. Alla vostra salute!"
+
+### u061863
+"Cercate qualcosa di preciso? Comprate, o magari vendete? Non siate {mf|timido|timida}, chiedete pure: la vecchia Ryzza conosce ogni sorta di gente. I miei ragazzi vi porteranno tutto ciò che il vostro cuore desidera!"
+
+### u061864
+"Come può servire la vecchia Ryzza la vostra illustre persona? Il {d|Encyclopedia:Ch2_FootfallOfficial}Rogue Trader{/d} desidera comprare o vendere? Non c'è bisogno di essere {mf|timido|timida}: i ragazzi della vecchia Ryzza vi tratteranno bene! E abbiamo offerte speciali per i partner in affari."
+
+### u061865
+"La manipolazione della tecnologia sacra da parte di laici non iniziati al sacerdozio dell'Omnissiah è una blasfemia di Categoria Otto. Le prove incriminanti degli atti profani perpetrati dall'unità denominata 'la vecchia Ryzza' sono state registrate per l'uso in futuri procedimenti giudiziari."
+
+### u061866
+{n}Il volto di Ryzza si apre in un ampio sorriso.{/n} "Quel vecchio furfante! Pensavo fosse crepato nelle miniere da un pezzo, ma il vecchio Bakhval è ancora {d|Encyclopedia:Ch1_PiratesLetGo}vivo e vegeto{/d}, dite? Io e lui ne abbiamo passate tante insieme, di avventure interessanti, e, oh, tutte le cose strane e meravigliose che abbiamo ru... acquisito. Bakhval non manderebbe i suoi saluti con uno qualunque: gli avete di certo fatto un buon servizio. E per questo la vecchia Ryzza vi farà uno sconto speciale."
+
+### u061867
+"Be', come dire... con il Lord Inquisitore sulla stazione la gente deve ancora darsi una calmata con le proprie attività, ma con Incendia e i suoi cani andati via posso decisamente respirare meglio. I carichi stanno lentamente ricominciando ad arrivare, chiunque lavorasse con Chorda è stato sconvolto alla maniera di Footfall, e all'Amasecus si possono di nuovo fare affari senza problemi."
+
+### u061868
+"Quali confessori? Qui non ho visto nessun confessore." {n}Sorride cupamente.{/n} "E se sentite dire che qualcuno ha visto delle persone entrare in una stanza e non uscirne mai più, sono tutte chiacchiere e calunnie. Io non ho problemi con nessun confessore."
+
+### u061869
+"Non ho bisogno di una scorta."
+
+### u061870
+"Non temere, giovanotto. Ci siamo occupati degli aggressori. Sai chi erano?"
+
+### u061871
+"Cos'è stato? Un attacco proprio al molo?"
+
+### u061872
+"Qual è la situazione su Footfall?"
+
+### u061873
+"Sono {mf|pronto|pronta} a fare visita al Liege."
+
+### u061874
+"Vorrei prima dare un'occhiata alla stazione."
+
+### u061875
+"Una banda di meschini teppisti ha attaccato me, {mf|l'unto|l'unta} dell'Imperatore, il Rogue Trader von Valancius! Un tentativo così mal organizzato contro la mia vita può essere visto solo come un affronto personale!"
+
+### u061876
+"Smettila di tremare, verme lurido, e rispondimi: chi osa tentare un attacco così oltraggioso?"
+
+### u061877
+"Cose del genere succedono spesso da queste parti?"
+
+### u061878
+[Rivolgiti a Idira] "Chi sta arrivando?"
+
+### u061879
+"Vai a riferirlo al Liege."
+
+### u061880
+{n}Il corteo di benvenuto non è particolarmente lungo, ma attira l'attenzione. Tutti indossano i loro abiti migliori, ogni bottone luccica. Davanti agli altri c'è una donna con {g|Encyclopedia:Augmentation}impianti{/g} chiaramente costosi. Si inchina in una solenne riverenza.{/n} "{d|Encyclopedia:Ch2_FootfallOfficial}Rogue Trader{/d}! Footfall vi dà il benvenuto! A nome del Liege, Lord Vladaym Tocara, permettetemi di esprimere la mia gioia per il vostro arrivo. Il Liege vi attende nella sua residenza, ma se doveste avere altri affari da sbrigare sulla stazione, sarò onorata di farvi da guida!"
+
+### u061881
+"Ci sono certi problemi, Vostra Signoria, ma il Liege può informarvi molto meglio di me."
+
+### u061882
+"Vostra Signoria, perdonatemi se non vi ho {mf|accolto|accolta} con l'ossequio dovuto. Ci era stato detto che avreste preferito {d|Encyclopedia:Ch2_FootfallIncognito}arrivare su Footfall in incognito{/d}, perciò cerchiamo di attirare meno attenzione possibile."
+
+### u061883
+"Sono qui per conto del Liege di Footfall, Lord Vladaym Tocara. Il Liege attende l'occasione di parlare con voi nella sua residenza, ma se doveste avere altri affari da sbrigare, posso farvi da guida e parlarvi della stazione."
+
+### u061884
+{n}Dietro il suo tono educato e morbido, cogli il minimo accenno di nervosismo. È come se stesse recitando una risposta preparata con cura in anticipo.{/n}
+
+### u061885
+{n}La sua risposta sembra sincera, il tono piacevole e fluido.{/n}
+
+### u061886
+"Sparatorie, sì... Attacchi ai nobili, non molto spesso... A meno che non siano gli Anvers. Sono spietati. Non passa settimana senza che ammazzino e sventrino qualcuno. Sono e-eretici malvagi. Non rispettano niente. Non s-seguono nessuna regola!"
+
+### u061887
+"Scommetterei che non fosse un attentato, ma una semplice razzia. Quegli sciocchi non avevano idea di imbattersi in voi, Lord Capitano. Eppure non guasta stare in guardia. È noto che i grandi cadono per mano dei miserabili, e possiamo testimoniarlo per esperienza recente..." {n}Abelard aggrotta la fronte e si strofina la radice del naso come per la stanchezza.{/n}
+
+### u061888
+{n}Abelard sospira e posa con noncuranza la mano sull'arma.{/n}
+
+### u061889
+"Certo, Vostra Signoria. Vi prego, seguitem—" {n}Non riesce a finire.{/n}
+
+### u061890
+{n}Il giovane servitore tremante ti guarda con orrore negli occhi.{/n} "Che l'Imperatore mi p-protegga... Hanno ucciso... ucciso..."
+
+### u061891
+"Certamente, Vostra Signoria! Come desid—" {n}Non riesce a finire.{/n}
+
+### u061892
+"Dovreste davvero parlarne con il Liege. Io sono solo—" {n}Non fa in tempo a dire il resto.{/n}
+
+### u061893
+"V-Vostra Signoria, quelli erano A-A-Anvers... sono una banda... sono i peggiori, ve lo giuro! Non temono nessuno, nemmeno il Liege Tocara..." {n}Si guarda intorno come se si aspettasse di veder comparire altri banditi.{/n}
+
+### u061894
+"Ogni volta. Li avverto, e poi loro fanno: 'Caro Imperatore, nostro signore e salvatore, come ha potuto succedere, chi l'avrebbe mai detto?'" {n}Idira sputa a terra con irritazione.{/n}
+
+### u061895
+{n}Il labbro di Cassia si piega leggermente.{/n} "Mi è così familiare: dietro lo sparpagliarsi color ambra delle parole di benvenuto si nascondono tinte molto meno attraenti, torbide e diluite. Lo sguardo di chi è abituato a mentire e a nascondere le proprie intenzioni."
+
+### u061896
+{n}Idira scatta con la testa, la scuote e sibila tra i denti:{/n} "Sta arrivando qualcuno. E viene per noi. Attent{mf|o|a}, Lord Capitano."
+
+### u061897
+"A giudicare dalle voci, sono in tanti. Arrabbiati. Hanno i denti, ma non così affilati. La loro forza è il numero..."
+
+### u061898
+"Di grazia, di cosa state parlando? Cosa potete intendere con un'affermazione tanto criptica—" {n}Non fa in tempo a dire il resto.{/n}
+
+### u061899
+"Sì... Mi dispiace, Vostra Signoria... Vado subito a riferire al Liege... L'hanno uccisa, hanno ucciso la mia signora, oh, è terribile!"
+
+### u061900
+"I servitori del nuovo patrono di Footfall ti danno problemi?"
+
+### u061901
+"Ho ricevuto un invito a un incontro."
+
+### u061902
+"Cos'è Logisticar Theta?"
+
+### u061903
+"Voglio concludere un accordo commerciale."
+
+### u061904
+"Opticon-22? È un nome strano."
+

@@ -1,0 +1,810 @@
+### u047886
+{n}Un silenzio teso pervade le rovine. La quiete è disturbata solo dal vento che stormisce tra la chioma secolare degli alberi.{/n}
+
+### u047887
+{n}Lo sguardo di Yrliet vaga da Calligos al Solitario, dal Solitario al guerriero Aeldari, e di nuovo indietro. Reietta tra i suoi simili e tra gli estranei, un fardello doloroso che non tutti possono sopportare.{/n}
+
+### u047888
+{n}Gli Aeldari lanciano sguardi confusi al loro campione.{/n} "Un'{d|Encyclopedia:Ch4_AeldariAlly}alleanza temporanea{/d}? E sia. Figli di Asuryan, combattete con la furia di Kaela Mensha Khaine!"
+
+### u047889
+{n}Del Calligos annoiato di pochi istanti fa non resta traccia. Il Rogue Trader ora studia attentamente il potenziale campo di battaglia, i suoi nemici... e le teste che intende reclamare come trofei.{/n}
+
+### u047890
+"Chi ti crederebbe dopo quello che hai detto, mon-keigh? No. Non faremo affidamento su qualcuno così debole di spirito."
+
+### u047891
+{n}Winterscale ghigna con ferocia.{/n} "Diciamo che ti credo, per questa volta. Ma non ce ne sarà una seconda."
+
+### u047892
+"Ti avevo avvertito di non mettere alla prova la mia pazienza, sangue nuovo." {n}Calligos afferra la sua ascia e si scaglia contro di te, seguito dal suo intero seguito.{/n}
+
+### u047893
+{n}Il guerriero scaccia Calligos come una mosca molesta.{/n} "Non cerchiamo la tua giustizia, mon-keigh. Desideriamo vendetta."
+
+### u047894
+{n}Il guerriero Aeldari fulmina con lo sguardo il Solitario.{/n} "Quindi lo sapevi, Arebennian! Ne parleremo più tardi. Quanto a ora... Il mon-keigh non mi ha lasciato scelta."
+
+### u047895
+"Vana retorica — un'esibizione magistrale!
+Il tuo temperamento, fratello mio, dovresti placare.
+La spavalderia non ha posto in questa recita —
+E il Mercante lo ha provato fin troppo bene.
+Quest'attore eccellente, giunto sulla scena,
+Ora compirà quest'opera
+Scegliendo un finale appropriato:
+Chi sopravvivrà, e chi incontrerà la sua condanna?"
+{n}La mesta maschera cornuta di Nocturne of Oblivion {d|Encyclopedia:Ch3_ZanniNotEnemy}segue avidamente il tuo volto{/d}.{/n}
+
+### u047896
+"All'inizio eravamo restii a versare sangue su questa terra. Ma il tuo compagno ha deciso altrimenti: ha abbattuto le nostre navi, ci ha inseguiti nel bosco, ha braccato e tormentato i sopravvissuti..." {n}Gli occhi dell'Aeldari brillano alla luce del sole.{/n}
+
+### u047897
+"Non ho bisogno di alcuna profezia per dirtelo, Lord Capitano... Vi attende uno scontro. Uno scontro brutto."
+
+### u047898
+"E finirò quello che ho iniziato!" {n}Winterscale guarda con impazienza.{/n}
+
+### u047899
+"Non credo a una sola parola, xenos."
+
+### u047900
+"Ma passare abbastanza tempo tra i mon-keigh mi ha donato lucidità di visione. Quando smetti di dare valore alla vita degli altri, che siano i tuoi simili, estranei o nemici, diventi a poco a poco un mostro tu stesso. E un giorno qualcuno verrà a fermarti."
+
+### u047901
+"Che il Trono ti porti, e con te tutte le sventure della galassia!" {n}Winterscale ti dà una pacca sulla spalla. L'espressione sul suo volto è misteriosa e quasi triste.{/n} "Devo confessare che tutti questi discorsi cupi mi hanno fatto venire l'emicrania e mi hanno fatto dolere le vecchie ferite. Quindi vuoi salvare questi xenos? Fa' pure! Per mia grazia, ti affido le vite dei nemici dell'Umanità. Divertiti!"
+
+### u047902
+"Si può fare, xenos." {n}Calligos ridacchia con cattiveria.{/n} "L'unico compenso che accetto è il sangue!"
+
+### u047903
+{n}Winterscale scruta le rovine e saluta il suo seguito con un gesto che solo lui comprende.{/n} "La mia pazienza è finita, {name}. Basta parole. Spingi la preda verso di me, e i miei cani ci daranno una mano."
+
+### u047904
+"È ora di spaccare crani!" {n}Worten sbatte il pugno di ferro contro la corazza, e i vassalli di Winterscale sguainano le armi.{/n}
+
+### u047905
+{n}L'Arlecchino è il solito Arlecchino. La sua risposta ti lascia solo con altre domande, inutili da porre quanto la precedente.{/n}
+
+### u047906
+"Giochi con la tua preda come un gatto? Va bene, sangue nuovo, sei ancora giovane. Ricorda solo che la pazienza non è il mio forte."
+
+### u047907
+"Non so te, {name}, ma questi bastardi di xenos mi mettono i brividi!" {n}Calligos sposta lo sguardo eccitato dal guerriero Aeldari a Yrliet, e da lei al Solitario.{/n} "Quello là, in giubba variopinta. Voglio la sua testa. Ora."
+
+### u047908
+"Ora capisci, elantach? Il responsabile della rovina della mia casa. Il colpevole della sofferenza che hai dovuto patire nelle strade della Città Oscura... È da qualche parte su questo mondo. E molto vicino, per giunta. Dobbiamo trovarlo..." {n}Yrliet fa una pausa, scegliendo con cura le parole.{/n} "E scrivere il capitolo finale di questa dolorosa storia."
+
+### u047909
+"Ho sempre saputo come sarebbe finita la tua strada, elantach. Lo sapevo... ma speravo ancora in un esito diverso." {n}Yrliet annuisce brevemente, ma lo sguardo amaro tradisce i suoi veri sentimenti.{/n} "Prepara la tua arma, mon-keigh. Il nostro destino sarà deciso qui e ora."
+
+### u047910
+{n}La bocca di Calligos schiuma di rabbia e frenesia, e i suoi occhi si iniettano di sangue. Emette un urlo gutturale:{/n} "Sangue per il trono del Rogue Trader! Teschi per i signori della Distesa!"
+
+### u047911
+{n}L'Arch-Militant sorride così ampiamente che temi gli si spacchi la bocca rivelando altre file di denti. Il suo ruggito disumano e assordante ti riempie di potenza e di sete, di un desiderio di squarciare, lacerare e sterminare.{/n}
+
+### u047912
+{n}Yrliet alza l'arma.{/n} "Basta, {name}. La tua anima è già stata prosciugata dal Nemico — non si torna indietro. Porrò fine al tuo cammino di sangue con la mia stessa mano."
+
+### u047913
+"Da quando sei {mf|arrivato|arrivata}, sangue nuovo, nella Distesa c'è meno buona caccia da fare. Se gli xenos possiedono informazioni utili sulle stelle lontane... è un motivo per considerare la tua offerta."
+
+### u047914
+"Ma la sua immortalità ha un limite: la resurrezione richiede reagenti, attrezzature, energia — il maestro della carne ne aveva in abbondanza a Commorragh, ma ora è in fuga e vulnerabile. E finché l'Haemonculus non sarà tornato in piena forza, c'è la possibilità di distruggerlo per sempre."
+
+### u047915
+{n}Il Solitario si porta con fare beffardo un dito alle labbra della maschera, per indicare che {d|Encyclopedia:Ch3_ZanniEnemy}non ha intenzione di degnarti di una risposta{/d}.{/n}
+
+### u047916
+"Aeldari... uno strumento obsoleto i cui padroni sono periti nell'oscurità delle ere. La tenacia con cui queste creature si aggrappano alla loro esistenza priva di senso è a dir poco pietosa."
+
+### u047917
+{n}La fioca proiezione di Trazyn ora divampa di nuova forza, e un accenno di indignazione si è insinuato nella voce solitamente distaccata dello xenos:{/n} "Non può essere... Nocturne of Oblivion? Quell'impudente Solitario è in qualche modo sfuggito alla mia collezione per pavoneggiarsi nei bassifondi della galassia!" {n}Un'irritazione senza mordente vibra in qualunque cosa il Necron abbia al posto di una laringe.{/n} "Be'... lo riporterò all'obbedienza... un giorno."
+
+### u047918
+{n}Un solenne guerriero Aeldari si fa avanti, osservando con calma gli intrusi. La sua armatura e i suoi ornamenti luccicano al sole nonostante le tracce di fango secco e sangue raggrumato.{/n} "Il mio popolo {d|Encyclopedia:Ch4_AeldariAlly}ha sentito parlare di te{/d}, elantach." {n}La voce soave dello xenos suona fuori luogo nella natura selvaggia e aspra di Quetza Temer.{/n} "Sei qui per aiutarci a rendere giustizia? O ti comporterai come farebbe la maggior parte dei mon-keigh, tradendo coloro che hai aiutato un tempo?"
+
+### u047919
+{n}Gli xenos hanno posto il loro campo tra le rovine di un'antica città dell'Imperium. Solo le escrescenze aliene della xenotecnologia e i rottami della nave Aeldari turbano il quadro di secolare devastazione e rinascita.{/n}
+
+### u047920
+{n}Nonostante le armi scarse e i ripari fragili, gli xenos sono pronti ad attaccare in qualsiasi momento. I loro corpi sono rilassati, ma le loro menti restano fredde e concentrate.{/n}
+
+### u047921
+"I tuoi simili avevano un valido motivo per attaccare questo mondo. Non vedo nulla di male nel sacrificare i popolani se serve a una buona causa."
+
+### u047922
+"Non funziona così, sangue nuovo. O scegli un nemico o te la vedi con entrambi!" {n}Il ghigno di Winterscale si allarga a ogni parola.{/n}
+
+### u047923
+"Sono stufo e stanco sia degli xenos sia dei Rogue Trader. Risolvetevela tra voi!"
+
+### u047924
+"Non dirò una parola finché non lascerai partire i miei simili da questo mondo." {n}Il guerriero raddrizza le spalle, ma se per stanchezza o per rendere più incisive le sue parole, è difficile dirlo.{/n}
+
+### u047925
+"Non mi importa un accidente dei tuoi interessi, {name}. Sai cosa ho setacciato questi boschi maledetti a cercare in questi ultimi trenta giorni e trenta notti. Non osare rovinarmi il divertimento!" {n}Calligos parla con calma e quasi a bassa voce, il che rende le sue parole ancora più minacciose.{/n}
+
+### u047926
+"Parlami dell'Haemonculus. Dov'è?"
+
+### u047927
+"Credevo di aver già capito i mon-keigh. Ma tu, elantach, hai scelto di camminare al mio fianco per tutta questa strada, di guadagnare nuove cicatrici dell'anima, di sopportare gli orrori di Commorragh... solo per respingermi alla fine?" {n}Yrliet si ritrae e allunga lentamente la mano verso l'arma.{/n}
+
+### u047928
+"Che cosa fai, elantach? Il mio popolo non è clemente come me, non capirà e non perdonerà!" {n}Yrliet indietreggia da te come da uno psyker squilibrato.{/n} "Hai appena tracciato una linea tra noi, {name}. Perdonami, ma io resterò dall'altra parte."
+
+### u047929
+"O Dio del Sangue, accetta questo sacrificio! Teschi per il trono di teschi!"
+
+### u047930
+"Il padrone ha dato ordine di tenersi pronti. Si parte presto. Worten è pronto. Uccidere xenos è quello che Worten ama fare."
+
+### u047931
+[draft] target — 1.1.0
+
+### u047932
+[draft] subtraction
+
+### u047933
+[draft] sum
+
+### u047934
+[draft] 0.6.17
+
+### u047935
+[draft] 0.7.12
+
+### u047936
+[draft] 0.3.9
+
+### u047937
+[draft] 0.4.9
+
+### u047938
+Manufatti di una guerra che devastò Quetza Temer in tempi antichi. Ora solo muschio e rampicanti regnano su questi trofei dimenticati.
+
+### u047939
+La navetta di ricerca dei Winterscale si è schiantata durante l'atterraggio. Né il pilota né la squadra di ricognizione sono sopravvissuti.
+
+### u047940
+"Quello è il Siniscalco di Calligos Winterscale, Aerdrig van Tornsten! Per il Dio-Imperatore, è stato tagliato in due con un solo colpo!"
+
+### u047941
+"È inutile pensare ai deboli che non hanno saputo sopravvivere in questo posto. Il padrone non ha bisogno di deboli nel suo seguito. Il padrone ha bisogno dei migliori."
+
+### u047942
+Il fetore putrido della carne in decomposizione proviene dai corpi dei tutori dell'ordine che la fauna locale non ha ancora fatto a pezzi.
+
+### u047943
+A giudicare dalle tracce di sangue, gli xenos hanno attaccato il campo da un'altura, restii ad avvicinarsi troppo.
+
+### u047944
+"Sono l'unico ad avere la sensazione che qui sia successo qualcosa di... sbagliato? Qualcosa che non vediamo e non riusciamo a comprendere?"
+
+### u047945
+"Sento ancora l'odore del sangue. Questo posto ne è intriso. Quanti mon-keigh sono morti qui per mano dei miei cugini infuriati? Una dozzina? Tre dozzine?"
+
+### u047946
+"Non sai nulla, Asssuryani. I tuoi simili sono deboli. Forse ci siamo ritirati, ma loro hanno persssso quella battaglia."
+
+### u047947
+"I maledetti xenos ci sono piombati addosso a notte fonda e hanno massacrato tre squadre di tutori dell'ordine! Abbiamo dovuto ritirarci nel bosco. Quanto ad Aerdrig... ho capito che non ce l'aveva fatta quando la maledetta foresta si è richiusa di nuovo dietro di noi."
+
+### u047948
+"Il campo è stato annientato. È stata... la furia dei miei simili? Hanno combattuto mostri tra i mon-keigh, solo per diventare essi stessi non diversi da mostri."
+
+### u047949
+Calligos Winterscale ha posto il campo tra i resti di un antico accampamento militare.
+
+### u047950
+I contrassegni sui contenitori risalgono a circa 500 anni terrani fa. All'interno ci sono resti decomposti e equipaggiamento inutilizzabile.
+
+### u047951
+"Questa foresta... Si muove di sua spontanea volontà? Straordinario! Ho letto di vegetazione che si comporta così su alcuni mondi dell'Imperium, ma non speravo di vedere con i miei occhi piante tanto uniche!"
+
+### u047952
+Una fitta vegetazione è spuntata in pochi secondi, bloccando la via del ritorno. Il sentiero è scomparso.
+
+### u047953
+"Che il Trono ci aiuti! Questa è la trappola in cui è caduto Winterscale, e ora ci siamo dentro anche noi. Crescita selvaggia della foresta. Le piante spuntano e appassiscono a un ritmo incredibile che rende quasi impossibile tenere traccia degli spostamenti in mezzo a loro."
+
+### u047954
+"Ah! L'hai visto? Quei cespugli sono spuntati proprio dietro di me! E la cosa più folle è che non percepisco alcuna influenza del warp qui! Fa... da sola? È viva?"
+
+### u047955
+L'odore dolciastro della decomposizione proviene dai cesti intrecciati. Per qualche motivo, la frutta è stata lasciata marcire sotto il sole cocente.
+
+### u047956
+I corpi dei raccoglitori di frutta sono stati dilaniati e rosicchiati dalla fauna locale. Probabilmente la foresta in movimento ha impedito loro di lasciare la zona.
+
+### u047957
+In questa radura un tempo si raccoglievano frutta e dolce linfa degli alberi, ma ora i rami sono piegati dal peso della frutta troppo matura.
+
+### u047958
+"O Aendriel, Calainaen e Ytrisha... I mon-keigh pagheranno per la vostra sofferenza!"
+
+### u047959
+"Sofferenza? Le loro pietre spirituali sono in frantumi, Ssirtan, e Colei che ha Sete ha concluso da tempo il suo banchetto! Li distruggeremo. Ogni mon-keigh che... hai sentito?"
+
+### u047960
+"I distruttori di anime sono tornati! Khaine, riempi i nostri cuori di furia!"
+
+### u047961
+"Fermatevi, per la misericordia di Isha! Siamo qui per aiutarvi!"
+
+### u047962
+"La Casata Cassini vi saluta."
+
+### u047963
+Al bunker abbandonato
+
+### u047964
+Il corpo del Siniscalco della Casata Winterscale è stato smembrato e le sue ossa ripulite dalle bestie selvatiche.
+
+### u047965
+Il corpo del Siniscalco della Casata Winterscale è stato ripulito dalle bestie selvatiche, ma i segni sulla sua spina dorsale e il cranio spaccato suggeriscono che l'uomo sia stato tagliato in due con un'arma potenziata.
+
+### u047966
+"ATTENZIONE: trasmissione vox impossibile. Errore: ?%&#-/0%. ATTENZIONE: minaccia botanica. Livello: Alpha II."
+
+### u047967
+Muffa, uccelli e roditori hanno rovinato questi frutti della vegetazione locale.
+
+### u047968
+Contenitori arrugginiti per il trasporto di rifornimenti. I loro contrassegni indicano che hanno diversi secoli.
+
+### u047969
+"Questo? Solo una scaramuccia a caso, indegna di attenzione. La vera caccia deve ancora venire, per il padrone e i suoi ospiti."
+
+### u047970
+"Le conseguenze della caccia di Calligos Winterscale, presumo."
+
+### u047971
+"Dolore, agonia, paura, follia... Che meraviglioso cocktail di sofferenza — e ce lo siamo persi!"
+
+### u047972
+"Hsss... Non hai la minima idea..."
+
+### u047973
+"Ah, qui si è combattuta una bella battaglia! Mi piacerebbe tagliare la testa a un paio di sudici xenos anche adesso!"
+
+### u047974
+"I vigliacchi bastardi sono balzati fuori da un'imboscata e hanno ferito la mia Navigatrice. E l'hanno pagata. Li ho fatti a pezzi uno per uno io stesso!"
+
+### u047975
+"Misericordiosa Isha... Solo un vero mostro è capace di un'atrocità simile."
+
+### u047976
+I corpi degli Aeldari sono stati fatti a pezzi con estrema brutalità. Le ferite indicano che è stata opera di un'arma potenziata di qualche tipo. Il terreno sotto i corpi ha assunto un bruno color ruggine per il sangue raggrumato.
+
+### u047977
+"Il mercccenario ha già un padrone."
+
+### u047978
+"[Identificazione] // [Saluto] // [Rammarico] // [Errore della funzione comunicativa]."
+
+### u047979
+"Dio-Imperatore, preserva le anime dei Tuoi figli svaniti senza lasciare traccia nelle foreste impenetrabili di questo mondo."
+
+### u047980
+"Io... sento... le voci dei morti! Sono fuggiti nelle foreste — dall'ombra che incombeva su questo mondo. Hanno combattuto. Hanno combattuto e... hanno perso."
+
+### u047981
+"Il Trono lo maledica, questo posto è praticamente una fossa comune! Soldati semplici della Guardia ammucchiati fuori mentre il pezzo grosso tirava le cuoia dentro. Ah! L'Imperium non cambia mai."
+
+### u047982
+"Rilevo un uso non standard di una struttura da campo. La sepoltura rituale di questi resti non è conforme ai protocolli dell'Astra Militarum. Ipotesi: il rito è stato eseguito dagli abitanti locali."
+
+### u047983
+"Terra consacrata. Luogo sacro. Santi antenati. Questo servitore degli dei e i suoi simili portano doni e offrono preghiere ai sovrani di un tempo, affinché la tribù prosperi sotto le ali di fuoco del Dio-Aquila."
+
+### u047984
+La mummia tatuata giace in posa cerimoniale, vestita di bizzarri abiti di pelliccia, con un'Aquila impressa a fuoco sulla fronte.
+
+### u047985
+Qualcuno ha riadattato vecchi contenitori per costruire una tomba cerimoniale. I resti di soldati dell'Imperium vi furono deposti molto tempo dopo la loro morte.
+
+### u047986
+Resti di un soldato ignoto.
+
+### u047987
+Il corpo del capitano ignoto si è conservato grazie alle proprietà della troposfera locale. Sulla sua pelle sono visibili tracce di secrezioni inchiostrose: prova di avvelenamento da una rara tossina Drukhari.
+
+### u047988
+Corazze imperiali e spade a catena consumate dal tempo luccicano tra i resti mummificati.
+
+### u047989
+"È solo un pezzo di colonna adorno di ninnoli. Niente di divino o di mistico."
+
+### u047990
+"La gente di Quetza Temer crede fermamente nel Dio-Imperatore, anche se a modo suo. Tuttavia, l'Adeptus Ministorum probabilmente giudicherebbe eretico un tale culto."
+
+### u047991
+"Questo 'altare' irradia una strana energia. Come se qui fossero stati compiuti molte volte rituali che coinvolgono poteri psichici."
+
+### u047992
+"Questa cosa ha un'energia strana. Come se cantasse una ninna nanna. La senti? No? Persino le mie voci si sono addormentate."
+
+### u047993
+"Dubito che i servitori dell'Adeptus Ministorum si presenterebbero sul mondo di un Rogue Trader a punire la gente del posto. La Casata Winterscale ha una storia complicata con i Suoi seguaci."
+
+### u047994
+"Rilevo la presenza di meccanismi dormienti. Anomalia: riti sconosciuti hanno messo a dormire gli spiriti macchina in violazione dei protocolli stabiliti."
+
+### u047995
+"Gli antichi avi di questo servitore hanno eretto questa meraviglia affinché le tribù possano adorare il Dio-Aquila, portarGli doni e comunicare con Lui. Qui questo servitore ascolta e sente. E trasmette la Sua volontà alla sua tribù."
+
+### u047996
+"[Conferma] // [Stupore] // [Lode all'Omnissiah]."
+
+### u047997
+I dintorni del luogo di culto, eretto con cura, sono silenziosi e tranquilli.
+
+### u047998
+Resti decomposti di Drukhari riposano nelle foreste di Quetza Temer insieme al doloroso passato di questo mondo.
+
+### u047999
+"I Nati dalle Stelle sono discesi sulle ali di fuoco del Dio-Aquila per aiutarci!"
+
+### u048000
+"Gli abitanti della foresta danno il benvenuto all'Araldo del Cielo!"
+
+### u048001
+"La foresta è la nostra casa. Ma la foresta è in collera. Speaks-With-Gods placherà la foresta e vivremo come prima."
+
+### u048002
+Fili intrecciati a rampicanti corrono all'interno del cogitatore. I suoi componenti di legno in qualche modo sorreggono gli ingranaggi arrugginiti e impediscono al meccanismo di spegnersi del tutto.
+
+### u048003
+"Una bella battaglia, {name} von Valancius. Potrei invitarti di nuovo a caccia con me, un giorno. Per ora, vai pure per la tua strada. Io torno alla mia nave. Ci vediamo tra le stelle!"
+
+### u048004
+"{mf|Traditore|Traditrice}! Ti farò saltare quel cervello marcio e mi laverò nel sangue dei von Valancius! Teschi per il trono del Rogue Trader!"
+
+### u048005
+"Forza, sangue nuovo! Vediamo chi riesce a staccare più teste!"
+
+### u048006
+La navetta di Winterscale ha atteso invano il ritorno del suo padrone.
+
+### u048007
+"Elantach, questa foresta... Sento la sua volontà, guidata dall'essenza dell'universo. Non sono i poteri dei miei simili a far intricare i sentieri. No, la foresta ha semplicemente una vita propria."
+
+### u048008
+"Cerchi vendetta dove poteva esserci pace,
+E levi la lama della rivalsa sul capo,
+Che la sventura farà piovere sulla tua casa.
+Quella lama sono io. Fino al nostro prossimo incontro..."
+
+### u048009
+"Cercheremo nella parte del mondo dove la stella locale tramonta. Tu dovresti andare dove la stella si desta. Buona caccia."
+
+### u048010
+"Speravo di trovare comprensione tra coloro che condividono il mio Sentiero." {n}La voce di Yrliet trema di stanchezza e rabbia.{/n} "Ma nemmeno gli antenati di Alaitoc, nonostante tutta la loro saggezza e il loro intelletto flessibile, hanno saputo rinunciare all'odio per i mon-keigh che hanno condannato migliaia di anime innocenti dei Figli di Asuryan. Ho cercato di appellarmi alla luce nelle loro anime, ma tutte le mie argomentazioni si sono infrante contro gli scogli della loro intransigenza come onde di spuma marina."
+
+### u048011
+{n}Yrliet fulmina con lo sguardo Shairenkhei e i Veggenti.{/n} "Avete scelto voi questa strada. Non solo avete attirato la rovina su Crudarach, ma avete condannato anche i nostri simili su Alaitoc. Avete ripetuto gli stessi errori ancora e ancora, guidati dalla paura, dalla stupidità o dall'orgoglio. E anche dopo aver perso tutto, dopo aver perso... la nostra casa, continuate a percorrere lo stesso sentiero spinoso, senza volervi cambiare. No. Ne ho abbastanza. Il mio dovere di Reietta è compiuto. D'ora in poi il vostro destino è nelle vostre mani."
+
+### u048012
+"Sono stanca della cecità dei Veggenti e dell'odio dei miei simili, Shairenkhei. Tutte le scelte del nostro popolo hanno portato solo sofferenza e la perdita dei nostri cari. Non voglio più essere complice dell'odio altrui e pagare per gli errori di coloro che avrebbero dovuto guidarci verso la luce ma ci hanno condotti nell'oblio." {n}Yrliet fulmina con lo sguardo i Veggenti vicini.{/n}
+
+### u048013
+"Ho convinto i miei simili a deviare il fiume della loro ira. Le schiere dei Reietti arriveranno nella Distesa, non viste e non udite. Ma non per amore della guerra — troveranno e porteranno via coloro che restano. Gli ultimi figli e figlie di Crudarach. E poi lasceranno le stelle dei mon-keigh senza lasciare traccia. Per sempre."
+
+### u048014
+{n}I Veggenti irati tentano di obiettare, ma Shairenkhei li interrompe con dolcezza:{/n} "I tuoi fratelli e sorelle non oserebbero chiederti di più, Yrliet. Comprendo la tua scelta... anche se il mio spirito non riesce ad accettarla del tutto."
+
+### u048015
+"Ti ho semplicemente usata per sbarazzarmi di un rivale."
+
+### u048016
+"Yrliet, vuoi lasciarmi e fuggire con il resto dei Reietti?"
+
+### u048017
+"Non c'è bisogno di ringraziarmi."
+
+### u048018
+"Fidati, non vorresti affrontare Calligos in battaglia."
+
+### u048019
+"Spero tu capisca che non ti ho aiutato per bontà d'animo?"
+
+### u048020
+"Gli esseri umani valgono più di quanto credi."
+
+### u048021
+"Stai dicendo che c'è un altro Mondo Astronave Aeldari diretto verso la Distesa?"
+
+### u048022
+"Salvarmi? Come?"
+
+### u048023
+"Che cosa hai intenzione di fare ora?"
+
+### u048024
+"È ora di parlare dell'Haemonculus."
+
+### u048025
+"Credi che io abbia bisogno della tua protezione?"
+
+### u048026
+"Non attaccare mai più i mondi dell'Umanità."
+
+### u048027
+"Winterscale era un grand'uomo, un tempo. Mi dispiace per la sua fine ingloriosa."
+
+### u048028
+[Estrai l'arma] "È stato ingenuo da parte mia sperare che le tue intenzioni fossero prive d'inganno."
+
+### u048029
+"Yrliet, il piano dei tuoi simili è folle! Convincili a desistere prima che sia troppo tardi."
+
+### u048030
+"Distruggerò l'Haemonculus e vendicherò entrambi."
+
+### u048031
+"La Distesa ha attraversato tempi duri di recente. Non ci servono guai con gli Aeldari, né ora né in futuro."
+
+### u048032
+"Yrliet, mi oppongo a questo rituale se significa mettere a rischio la tua vita."
+
+### u048033
+[Vattene] "Spero che le tue coordinate siano corrette. È giunto il momento di mettere alle strette l'Haemonculus."
+
+### u048034
+"Questa è la tua vita e questo è il tuo popolo, Yrliet. Resterò al tuo fianco qualunque sentiero tu scelga."
+
+### u048035
+"Mi farebbe piacere se restassi."
+
+### u048036
+"Credo sia giunto il momento di separare le nostre strade."
+
+### u048037
+"Non ti ostacolerò se desideri davvero restare con i tuoi simili."
+
+### u048038
+"In effetti, mi sei debitrice. E non hai ancora estinto il tuo debito."
+
+### u048039
+"Yrliet, lascia che i tuoi simili decidano il proprio destino. Non gli devi nulla."
+
+### u048040
+"Yrliet, stai bene? Quella stregoneria Aeldari sembrava pericolosa."
+
+### u048041
+"Ho difeso i tuoi simili, e indovina cos'è successo dopo?"
+
+### u048042
+"Non mi sono {mf|arruolato|arruolata} per un'altra guerra contro gli xenos nella Distesa. Richiama i tuoi simili."
+
+### u048043
+"Molto bene. Più xenos ci sono nella Distesa, meglio è!"
+
+### u048044
+"Perché sei così certo che gli Aeldari attaccheranno i nostri mondi?"
+
+### u048045
+"Yrliet, non resterai con i tuoi simili?"
+
+### u048046
+"Non mi piace come suona, Aeldari."
+
+### u048047
+[Non interrompere la conversazione]
+
+### u048048
+"Quali simili da stelle lontane?"
+
+### u048049
+"Speri ancora di trovare l'Haemonculus?"
+
+### u048050
+[Vattene] "È ora di dare la caccia all'Haemonculus."
+
+### u048051
+"Ti ho liberato da Calligos e ho riportato indietro Yrliet. Azioni simili non meritano una ricompensa?"
+
+### u048052
+"Per quanto bella sia la luce di una stella, essa è destinata a spegnersi un giorno. Il tuo simile mon-keigh non era della luce, perché un'oscurità annebbiava il suo cuore. Non devi piangere la sua perdita."
+
+### u048053
+"Tu... sei sopravvissuta? Asuryan ti ha mostrato clemenza, Reietta, e così i nostri antenati del Circuito dell'Infinito di Alaitoc. Dimmi, sorella, qual è stata la loro risposta?"
+
+### u048054
+"Oh, sì. Va molto meglio, grazie!"
+
+### u048055
+"Prima di rimproverarmi per le mie decisioni, considera quanti dei nostri simili sei {mf|riuscito|riuscita} a salvare nel vuoto tra le stelle di questa regione. E {d|Encyclopedia:Ch2_Yrliet_BrokenPromise}quanti altri avresti potuto salvarne{/d}."
+
+### u048056
+{n}L'Aeldari non presta attenzione alle tue parole... anche se potrebbe solo far finta.{/n}
+
+### u048057
+"Non mi aspetterei altro da un mon-keigh. Ma una cortesia merita una cortesia." {n}Shairenkhei estrae uno xenodispositivo sconosciuto e lo scruta.{/n} "I Veggenti non sono riusciti a divinare dove il maestro della carne abbia la sua tana, poiché una forza ignota lo nasconde allo sguardo penetrante dei saggi. I Figli di Asuryan... non hanno mai incontrato nulla di simile. Dopo aver circumnavigato il mondo più volte senza successo, abbiamo osato scatenare sul pianeta la nostra furia repressa, nella speranza che ci arridesse un caso fortunato."
+
+### u048058
+"Di solito non penso affatto alla tua specie." {n}L'Aeldari fa una lieve scrollata di spalle.{/n} "Ma sono disposto ad ammettere che ci sono... alcuni esemplari degni tra i milioni della tua razza."
+
+### u048059
+"La bestia in forma umana è domata, eppure
+Non esiste catena che possa soffocare
+Quella sete di sangue che gli dorme nelle vene.
+Ora giunge l'ora in cui gli anelli protestano sferragliando,
+E, con un ruggito macabro, egli si rivolta ancora."
+
+### u048060
+{n}Per qualche ragione, le tue parole fanno affiorare un lieve sorriso sulle labbra di Yrliet.{/n} "Non preoccuparti, elantach. Tocca a me salvare te e la tua gente."
+
+### u048061
+"Dopo che ci saremo occupati del maestro della carne?" {n}Shairenkhei sospira stancamente, una pallida ombra di sorriso sul volto.{/n} "Torneremo a casa... Non su Crudarach, no, ma dai nostri simili degli altri Mondi Astronave. I Veggenti hanno già contattato i nostri alleati, che sono già in viaggio verso il sistema."
+
+### u048062
+"Gli errori dei Veggenti hanno condannato Crudarach, Shairenkhei! E la loro eccessiva crudeltà e sete di vendetta hanno quasi condannato quelli di noi che sono riusciti a sopravvivere contro ogni previsione nel vuoto tra stelle straniere. Lo sai bene quanto me, eppure continui a eseguire i loro ordini. Oh, Shairenkhei, potresti prendere il Portale della Tela — e andartene lontano dai pericoli e dalle tribolazioni della Distesa. Ma hai scelto di restare qui. Stai morendo. Sei in lotta con i mon-keigh. I Figli di Asuryan non hanno versato abbastanza sangue? Non basta che abbiamo perso la nostra casa? Perché vuoi esporre al pericolo mortale ancora più dei nostri simili?"
+
+### u048063
+{n}La volontà di ferro di Shairenkhei vacilla sotto la pressione implacabile di Yrliet.{/n} "È... è troppo tardi per cambiare qualcosa. Ciò che è fatto è fatto. La loro volontà è stata compiuta. I Reietti di Alaitoc giungeranno alle stelle di questa regione, e noi partiremo con loro, sorella."
+
+### u048064
+"Una volta sconfitto il maestro della carne, saremo sollevati di lasciare questo mondo esausto... e la Distesa. Non è così che chiamate questa regione dello spazio?"
+
+### u048065
+"L'oscurità dello spazio ti ha fatto impazzire durante il tuo esilio, sorella?" {n}Shairenkhei si ritrae da Yrliet come da una fiamma ardente.{/n} "Persino chi percorre il Sentiero del Veggente esita a unire le anime agli antenati all'interno del Circuito. Sono saggi e sanno che il rituale è pericoloso per lo spirito. Le tue probabilità di successo sono... semplicemente inesistenti. Moriresti senza aver ottenuto nulla! E anche se non morissi subito, chiediti con sincerità: perché gli antenati dovrebbero ascoltare una semplice Reietta?"
+
+### u048066
+"Come hai detto tu, Alaitoc è un mondo dei miei simili Reietti. Non vorrebbero farmi del male, e questo dà ali alla mia speranza. Guardami negli occhi, Shairenkhei. Desideri porre fine alla sofferenza dei nostri simili? Vedo la risposta nel tuo cuore. Devi accettarla e aiutarmi." {n}Sebbene le parole di Yrliet siano rivolte al suo consanguineo, lei osserva attentamente la tua reazione.{/n}
+
+### u048067
+"Sarebbe umiliante finire come pedina nelle mani di un mon-keigh... se ci interessassero le lotte intestine tra le specie inferiori."
+
+### u048068
+"La tua premura è lodevole, ma non abbandoneremo la ricerca finché lo scultore di carne non sarà distrutto... o finché non ci verrà presentata la prova della sua morte. Inseguiamolo separatamente. Se raggiungerai l'Haemonculus {mf|per primo|per prima} e ne reciderai la vita, i nostri Veggenti lo sentiranno e lasceremo questo mondo."
+
+### u048069
+"I nostri Veggenti hanno pagato un prezzo insormontabile per contattare un Mondo Astronave situato a miliardi di stelle da qui. Molti di loro sono morti per dare al resto di noi la possibilità di essere salvati. E io non metterò a repentaglio la vita di chi ancora rimane."
+
+### u048070
+"Perché sono guidati dal dolore. A volte la sofferenza e la perdita accecano anche i migliori tra noi."
+
+### u048071
+"Altro dolore? Sei {mf|riuscito|riuscita} a impedire la {d|Encyclopedia:Ch2_JanusEldarEliminated}morte dei nostri simili e di Muaran{/d} sulla Lilaethan? L'Arebennian mi ha raccontato tutto quello che è successo."
+
+### u048072
+"Mi dispiace, elantach, ma non spetta a te plasmare il mio destino. Non questa volta."
+
+### u048073
+"E lo apprezzo, elantach." {n}Yrliet annuisce e sottolinea le sue parole con il familiare gesto di gratitudine.{/n}
+
+### u048074
+"Ho fatto tutto il possibile, Shairenkhei. Sai cosa devi fare."
+
+### u048075
+"Con le sole parole il fato non si può costringere,
+Ma i fatti danno peso al filo delle parole.
+Ecco, la coppa di contesa e vendetta è prosciugata,
+Il suo amaro vino di dolore bevuto fino alla feccia.
+Il grido della Reietta è destinato a volare oltre
+La luce gelida di ammassi da tempo dimenticati,
+E alla sua volontà in tributo potrebbero rispondere
+I Veggenti del Sentiero con un ponte edificato."
+
+### u048076
+"Non pensavo che mi avresti lasciata andare così facilmente, elantach." {n}Yrliet ti guarda sorpresa, come se si aspettasse un trucco.{/n} "Ma se è davvero il desiderio puro della tua anima... e sia."
+
+### u048077
+{n}Yrliet inclina la testa con aria pensierosa.{/n} "Penso che un giorno tornerò da loro. Ma le nostre strade sono troppo intrecciate per concluderle qui."
+
+### u048078
+"So che i miei simili sono responsabili dei loro stessi guai!" {n}La pietra spirituale di Yrliet brilla intensamente.{/n} "Ma ciò per cui ho lottato per tutta la vita vacilla ora sull'orlo dell'abisso. Capisci, elantach? Devo parlare con gli antenati del Circuito dell'Infinito. Questo è il mio Sentiero di Reietta."
+
+### u048079
+"Aspetta, elantach!" {n}Yrliet si stacca dai suoi simili e ti porge un piccolo amuleto.{/n} "I ricordi degli esseri umani sono fugaci quanto la durata delle vostre vite. Ma vorrei che tu avessi qualcosa che ti ricordi il nostro viaggio insieme. Consideralo un simbolo di gratitudine per tutto quello che hai fatto per me." {n}Yrliet ti saluta con un caldo sorriso e scompare nel bosco insieme agli altri Aeldari.{/n}
+
+### u048080
+"Che Asuryan perdoni i suoi figli." {n}Shairenkhei sospira e fa un cenno ad alcuni dei suoi guerrieri.{/n} "Andate a chiamare i Veggenti. Dite loro... che la Reietta desidera compiere il rituale. Li aspetteremo qui."
+
+### u048081
+"È questo che un adepto del Sentiero del Guerriero vuole dirmi? Queste parole dovevano confortarmi il cuore?" {n}Le parole di Yrliet risuonano di disprezzo e disperazione.{/n} "O Asuryan, i tuoi figli cercano ancora una volta di placare il loro orgoglio mandando i propri simili sui mondi dei mon-keigh — per trovarvi nient'altro che sangue e morte!"
+
+### u048082
+"{d|Encyclopedia:Ch4_AeldariAlly}Anche tu, Arebennian{/d}." {n}Shairenkhei aggrotta la fronte e sospira rumorosamente.{/n} "E sia. Daremo una possibilità alla Reietta, ma dubito che sopravviverà persino all'inizio del rituale."
+
+### u048083
+{n}Il Solitario non interviene, ma sposta lo sguardo su Shairenkhei come in attesa di udire l'ultima battuta di una commedia prima che cali il sipario.{/n}
+
+### u048084
+"È questo che ti preoccupa ora, elantach?" {n}Yrliet ti rivolge uno sguardo di disapprovazione.{/n} "Potrò anche lasciare la Distesa un giorno, ma l'unica cosa che dovrebbe preoccuparti ora è come placare l'ira del mio popolo."
+
+### u048085
+"Che Asuryan ci salvi da questa sventura!" {n}Shairenkhei incrocia le braccia sul petto con un gesto aggraziato, ma l'orrore è evidente sul suo volto.{/n} "No. Non permetterò che un altro mondo perisca per mano dei mon-keigh, anche a costo di rinnegare la mia anima!"
+
+### u048086
+"Un'affermazione audace da chi non ha ancora rinnegato la propria anima nemmeno una volta."
+
+### u048087
+"E non ho intenzione di rivelarti tutti i segreti della mia specie, mon— elantach. Potrai averci aiutato nell'ora del bisogno, ma io ti ho dato fiducia per volere della Reietta. Dirò però questo — i guerrieri di Alaitoc stanno venendo qui, alle tue stelle. È una verità inalterabile."
+
+### u048088
+{n}Come un'ombra dimenticata, il Solitario si fa avanti nella luce e si china in avanti con interesse, uno spettatore che assiste al culmine di un'esibizione emozionante.{/n}
+
+### u048089
+"Elantach, la tua ira è come i venti furiosi dei mondi desertici — trattienila, e ascolta."
+
+### u048090
+"Durante il mio esilio ho incontrato molti compagni che si sono uniti a me temporaneamente nei miei viaggi infiniti." {n}Yrliet chiude gli occhi.{/n} "Uno di loro era un altro Reietto che aveva già completato molti Sentieri. Fu lui a parlarmi del rituale dell'unità — una grande occasione per il proprio spirito di protendersi e toccare il Circuito dell'Infinito del Mondo Astronave noto ai Veggenti che lo eseguono. Shairenkhei ha detto che i Veggenti di Crudarach hanno già contattato Alaitoc. Questo significa... Questo significa che posso farlo anch'io."
+
+### u048091
+"Hai già dimenticato chi è responsabile della rovina di Crudarach, elantach?" {n}La pietra spirituale di Yrliet brilla intensamente, ma la disapprovazione nei suoi occhi brilla ancora di più.{/n} "L'unica colpa dei miei simili è stata avvicinarsi troppo alle stelle dei mon-keigh. Essi... Noi... abbiamo perso la nostra casa. Siamo stati braccati dal tuo popolo. Siamo stati tormentati dagli oscuri. No... Nessun figlio di Crudarach merita un simile destino. E non lascerò che chi ancora rimane perisca nelle tenebre."
+
+### u048092
+"Che cosa intendi fare, sorella?"
+
+### u048093
+"No! Fallo, elantach, e tutto il tuo dominio annegherà nel sangue. Non solo il sangue della mia specie: anche i tuoi sudditi incontreranno una fine terribile. E io... io posso impedirlo. Tocca a me salvare te e la tua gente."
+
+### u048094
+"Come puoi descrivere con tanta noncuranza l'inevitabile fine della tua specie e della mia? Se lasci che accada e le cose restano come stanno, fiumi di sangue inonderanno il tuo dominio. Non solo i Figli di Asuryan moriranno: anche i tuoi sudditi incontreranno una fine terribile. Così i tuoi mondi e tutto il tuo protettorato. E io... non posso permetterlo. Tocca a me salvare te e la tua gente."
+
+### u048095
+"A meno che i guerrieri di Alaitoc non giungano in questa parte della galassia, i figli e le figlie di Crudarach periranno tra i mondi dei mon-keigh. È questo il destino che desideri per noi?"
+
+### u048096
+"Ai Guerrieri di Alaitoc occorreranno molti anni per scoprire il Portale della Tela in grado di portare la loro forza d'attacco nella Distesa. Forse sarai troppo {mf|vecchio|vecchia} allora, e solo sul letto di morte udirai la notizia — i Figli di Asuryan sono venuti a esigere la loro vendetta."
+
+### u048097
+{n}La strana energia che permeava la radura dove le strade di umani e Aeldari si sono incrociate per caso si dissolve poco a poco. Tutti gli sguardi si volgono verso Yrliet, l'Aeldari che è riuscita a sopravvivere al rituale mortale, ma che si è risvegliata con aria irata e abbattuta.{/n}
+
+### u048098
+{n}La strana energia che permeava la radura dove le strade di umani e Aeldari si sono incrociate per caso si dissolve poco a poco. Tutti gli sguardi si volgono verso Yrliet, l'Aeldari che è riuscita a sopravvivere al rituale mortale, e che si è risvegliata con aria pensierosa e illuminata.{/n}
+
+### u048099
+"Dovremo trovare un'altra via. Capisco che non sia facile, per chi ha vissuto tutta la vita al riparo di un Mondo Astronave, accettare che a volte la vita ci conduca su strade diverse. Ma la strada che tu e i Veggenti avete scelto porta solo ad altro dolore."
+
+### u048100
+"Sto bene, elantach." {n}Uno sguardo benevolo e un lieve sorriso sottolineano le parole di Yrliet.{/n} "Grazie a te sono finalmente giunta alla fine del mio Sentiero. Questo Sentiero. E sono grata di averti avuto accanto lungo il cammino."
+
+### u048101
+{n}Yrliet si scosta una ciocca di capelli fiammeggianti dalla fronte e annuisce con apprezzamento:{/n} "So quanto sia difficile andare contro la volontà dei propri simili. Eppure non posso nascondere la mia gioia che entrambi siamo sopravvissuti a questo momento... e ne siamo usciti con una storia da raccontare."
+
+### u048102
+"Sono una Reietta, elantach. Il mio posto è tra le stelle."
+
+### u048103
+"Mentirei se dicessi di non averci pensato. Ma tu hai aiutato me e i miei simili per tutto questo tempo, al meglio delle tue capacità. Non dovrei ricambiare in egual misura, elantach?"
+
+### u048104
+"E sia, allora." {n}Yrliet intreccia le dita nel familiare gesto di fiducia e accordo.{/n}
+
+### u048105
+{n}Le labbra di Yrliet si increspano e lei annuisce in silenzio.{/n}
+
+### u048106
+"Una Reietta che torna a casa? Davvero un'occasione gioiosa, considerando quanti dei nostri simili sono andati perduti. Siamo lieti di riaccoglierti, Yrliet."
+
+### u048107
+"Hai impedito la morte di Eklendyl, seguace del Sentiero del Veggente, uno dei Veggenti di Crudarach tormentati dal maestro della carne nella Città Oscura insieme al resto dei nostri simili? Sì, sono al corrente {d|Encyclopedia:Ch3_EklendylDiedInSpire}della sua sorte{/d}."
+
+### u048108
+"Tuttavia non oso lamentarmi — per i miei simili, l'ora del trionfo è finalmente giunta. Una volta che il maestro della carne non ci sarà più, potremo recarci ai confini di questa distesa stellare, lontano dallo sguardo dei mon-keigh. E attendere in pace l'arrivo dei nostri simili da stelle lontane."
+
+### u048109
+"Di che stai parlando, Shairenkhei?" {n}Yrliet fissa intensamente gli occhi del guerriero Aeldari, ma il suo sguardo rimane saldo e calmo.{/n}
+
+### u048110
+{n}Lo xenos esita e aggiunge con lieve imbarazzo:{/n} "Specie inferiori... {d|Encyclopedia:Ch4_AeldariAlly}alleate{/d}."
+
+### u048111
+"Reietta Yrliet, ho buone notizie per te. I nostri Veggenti sono riusciti a contattare i figli del Mondo Astronave Alaitoc, e presto i tuoi simili Reietti visiteranno la parte di galassia che i mon-keigh chiamano la Distesa. Ci porteranno via, ci daranno una nuova casa, e..." {n}Shairenkhei si interrompe, con lo sguardo su di te, chiedendosi se continuare.{/n}
+
+### u048112
+{n}L'Aeldari estrae uno xenodispositivo sconosciuto.{/n} "I Veggenti non sono riusciti a divinare dove il maestro della carne abbia la sua tana, poiché una forza ignota lo nasconde allo sguardo penetrante dei saggi. I Figli di Asuryan... non hanno mai incontrato nulla di simile. Dopo aver circumnavigato il mondo più volte senza successo, abbiamo osato scatenare sul pianeta la nostra furia repressa, nella speranza che ci arridesse un caso fortunato."
+
+### u048113
+"Ahimè, il destino del maestro della carne è rimasto immutato — i Veggenti potevano sentire il battito del suo cuore nero, ma erano impotenti. Fu allora che i nostri ranger cominciarono a dedurre le coordinate della sua tana in base alle letture dei saggi e alle terre risparmiate dalle armi da fuoco. E ci sarebbero riusciti, se i mon-keigh non avessero attaccato la nostra flotta."
+
+### u048114
+{n}Il dispositivo Aeldari vibra e sul suo palmo appare una proiezione olografica del mondo con diverse coordinate segnate.{/n} "Condividerò le informazioni che ho raccolto, perché spero che nemmeno un maestro della carne riuscirà a sfuggire a due inseguitori contemporaneamente."
+
+### u048115
+[Lascia che Yrliet se la cavi da sola]
+
+### u048116
+"Se un giorno le nostre strade si incroceranno di nuovo, {d|Encyclopedia:Ch4_AeldariAlly}inizieremo la nostra conversazione salutandoci{/d} e non sguainando le lame." {n}Shairenkhei riflette su qualcosa.{/n} "Il tuo tempo in questo mondo è troppo breve per sperarlo, ma ricorderò la nostra promessa, elantach."
+
+### u048117
+"Non credo sia possibile, mon-keigh. La nostra alleanza temporanea avrà fine non appena le navi dei miei simili lasceranno la Distesa, perché spero di non tornarvi mai più."
+
+### u048118
+"Non mi opporrei a collaborare in futuro."
+
+### u048119
+"Dopo tutte le sofferenze che i mon-keigh hanno inflitto ai figli di Crudarach. Dopo tutta la punizione che abbiamo inflitto a questo mondo... Il mio cuore rimane turbato, sapendo che abbiamo solo temperato i nostri rancori per un tempo e che oggi ci siamo separati senza spargimento di sangue."
+
+### u048120
+"Non so quale vantaggio ricaverebbe un mon-keigh dal tradire uno dei propri simili, ma la nostra alleanza temporanea ha favorito una fragile pace... Che rimanga, per ora."
+
+### u048121
+"Accorri sempre in aiuto del mio popolo, elantach. Vorrei poter afferrare i tuoi veri motivi — forse è l'impulsività della tua specie? O è un'anomalia personale che ha influenzato la tua mente agile?"
+
+### u048122
+"La gratitudine dei Figli di Asuryan verso la tua specie è già una ricompensa preziosa, elantach. Accettala come un dono raro."
+
+### u048123
+{n}Fa un gesto elaborato, e uno degli Aeldari ti porge un involto.{/n} "Questo è il mio primo e probabilmente ultimo dono a uno dei tuoi, elantach. Possa servirti fedelmente come ha servito i Figli di Asuryan."
+
+### u048124
+{n}Shairenkhei ti rivolge uno sguardo lungo e penetrante.{/n} "La gratitudine dei Figli di Asuryan verso la tua specie è di per sé una ricompensa preziosa, elantach. Ma osservo la tua specie ormai da un po'. Come gesto di buona volontà, suppongo di dover ricompensare le tue fatiche in un modo più... consueto tra i mon-keigh."
+
+### u048125
+"Dopo che ci saremo occupati del maestro della carne?" {n}Shairenkhei sospira stancamente, una pallida ombra di sorriso sul volto.{/n} "Torneremo a casa... il prima possibile."
+
+### u048126
+{n}La navetta scompare nella vegetazione selvaggia dell'isola. Passano diverse ore prima che il Rogue Trader ammetta finalmente di aver vagato senza meta in cerchio. Ogni tentativo di rimettersi in carreggiata ripercorrendo i propri passi è fallito. Le comunicazioni vox non raggiungono la nave. Ora si capisce come Calligos Winterscale abbia potuto perdersi nel suo stesso mondo.{/n}
+
+### u048127
+{n}La foresta è viva del continuo stormire del fogliame fitto e dello scricchiolio del legno. È come se gli alberi stessi camminassero come persone goffe e incombenti. Ma di certo è solo un gioco della vista — le piante non possono camminare, vero?{/n}
+
+### u048128
+{n}Passano non poche ore prima che qualcosa di degno di nota compaia finalmente nel fitto della foresta: un mucchio di ossa umane carbonizzate in una fossa poco profonda e, davanti ad esso, come una pietra eretta, un coltivatore a fuoco rotto con gli ugelli fusi conficcato nel terreno. Nell'erba lì vicino si scorgono altri cadaveri, altrettanto vecchi e carbonizzati, ma chiaramente non umani. Accanto ad essi sono sparse armi xenos, coperte di terra. Alcune sembrano ancora funzionanti, quindi è ancora possibile trarne qualche utilità.{/n}
+
+### u048129
+{n}L'aroma irresistibilmente dolce della frutta stuzzica l'olfatto del Rogue Trader, soprattutto dopo tante ore trascorse nell'afosa umidità della foresta. Ma dopo aver individuato la fonte dell'aroma, decide di non assaggiare i frutti appetitosi: sotto gli alberi da frutto giacciono diversi cadaveri mummificati, i volti avvizziti a testimonianza della loro agonia, i corpi coperti di ferite scure simili a morsi di sanguisughe giganti.{/n}
+
+### u048130
+{n}La marcia tra i monotoni paesaggi della foresta si fa noiosa. Gli occhi stanchi del Rogue Trader stanno per chiudersi da soli quando i soliti suoni della foresta vengono interrotti da un urlo agghiacciante. Le grida si avvicinano sempre più, poi la loro fonte finalmente appare — una piccola creatura dal pelo nero e lucido e dalla lunga coda. Quasi a farsi beffe del Rogue Trader, lancia un altro grido penetrante e fugge via, le zampe posteriori gialle che baluginano tra i rami degli alberi.{/n}
+
+### u048131
+{n}La ricca flora della foresta a volte lascia sbalorditi. Tra gli alberi coperti di edera e muschio, il Rogue Trader nota su un tronco uno schema a spirale di piccoli grumi bianchi. Qualcuno ha inciso la corteccia, facendo colare la linfa lattiginosa lungo le parti danneggiate dell'albero, dove si è indurita per il calore trasformandosi in bozzoli gommosi irregolari.{/n}
+
+### u048132
+{n}Da qualche parte lì vicino proviene il rumore di acqua scrosciante. Dopo qualche altro passo, la foresta si apre rivelando una cascata a gradoni. Le correnti limpide scorrono con grazia da un gradino all'altro, trasportando strani nastri colorati che si rivelano essere creature viventi, le quali si aggrappano alla superficie porosa delle rocce con i loro corpi flessibili, azzannando piccoli pesci con le teste dentate e prive di occhi.{/n}
+
+### u048133
+{n}L'escursione nella foresta dura un'intera giornata. Nei raggi dorati del crepuscolo, il Rogue Trader vede una piccola collina coronata da un'Aquila — un totem a forma di aquila bicipite costruito con componenti di plastacciaio e rococemento di un'antica nave. La base della collina offre però uno spettacolo ben meno pittoresco: il suolo è macchiato di bruno per tutta la carne che vi è stata spalmata, in contrasto solo con le macchioline bianche di frammenti d'osso mescolati alla massa sanguinolenta essiccata.{/n}
+
+### u048134
+{n}Dopo un giorno di cammino, il fumo dei fuochi che covano è stato lasciato molto indietro. Il vento è cambiato, e con esso le foreste di Quetza Temer, anche se in modo sottile. Il sentiero che il Rogue Trader aveva appena seguito è diventato un muro invalicabile di rampicanti intrecciati. La rara anomalia della florosfera locale ha giocato ancora una volta il suo tiro insidioso — la foresta è cambiata, i punti di riferimento hanno scambiato posizione e i sentieri si sono intrecciati.{/n}
+
+### u048135
+{n}Il fruscio ormai familiare della chioma secolare e un movimento appena percettibile ai margini del campo visivo del Rogue Trader annunciano che le foreste sono di nuovo in movimento — fuggono dai lontani incendi furiosi o semplicemente migrano? È difficile dirlo. Tuttavia, gli spaziosi prati sono ora sostituiti da fitta foresta e i sentieri hanno cambiato di nuovo direzione.{/n}
+
+### u048136
+{n}Parte della foresta è ostruita da un sottile velo grigio che emette clic appena udibili. La cortina traslucida ondeggia e comincia a muoversi in direzione del Rogue Trader. A un esame più attento, il velo si rivela tessuto da molti fili trasportati da insetti dal volo rapido. Lo sciame attacca l'intruso, poi si ritira tra il fogliame, lasciando dietro di sé morsi che bruciano e pizzicano e brandelli di ragnatela sfilacciata.{/n}
+
+### u048137
+{n}Ore di vagabondaggio portano il Rogue Trader a un albero alto e rigoglioso. Qualcosa di lucente è incastrato nel fogliame. Avvicinandosi, il Lord Capitano riconosce un vecchio modello di tuta pesante per il vuoto, inglobato tra i rami in crescita. Un teschio gravemente danneggiato scopre i denti dietro il vetro torbido — almeno la morte è stata rapida.{/n}
+
+### u048138
+{n}Dopo diverse ore di attraversamento della foresta, una piccola montagna sbarra la strada. C'è qualcosa di sbagliato nel disegno della pietra. Pochi istanti dopo, appare chiaro che alla base della montagna luccicano parti di cogitatori. Le macchine sembrano essere cresciute dentro la pietra stessa insieme alla terra e all'erba, con l'unica prova della loro origine artificiale data dai bagliori occasionali di lumen alimentati da impulsi casuali sconosciuti. Poco più in là, su una pietra piatta, giace una carcassa squartata in sacrificio a un dio ignoto.{/n}
+
+### u048139
+{n}Il Rogue Trader non ha mai visto un formicaio di tali dimensioni. Ma la cosa più inquietante è uno scheletro xenos legato al formicaio con lacci di un materiale sconosciuto. L'arma Drukhari conficcata nel cadavere è l'unico dettaglio che possa indicare il responsabile. Essere mangiati dalle formiche è una tortura orribile, tanto che la lama nella schiena sembra un atto di pietà — un gesto quanto mai insolito per questa razza.{/n}
+
+### u048140
+{n}Il cielo si squarcia, e la pioggia pesante penetra persino la fitta chioma della foresta. Per fortuna, gli elementi cedono presto. Quando il sole torna a splendere, la foresta si anima del canto degli uccelli accompagnato dal sommesso rumore delle gocce che cadono.{/n}
+
+### u048141
+{n}Il Rogue Trader ha bisogno di riposo, e presto trova un luogo adatto per accamparsi — un prato con alcuni alberi da frutto. Una creatura dal corpo allungato e dai grandi artigli smussati scende con calma da uno degli alberi. Il suo muso è rosso come macchiato di sangue, ma si rivela essere solo il succo dei frutti degli alberi vicini. Il frutto ha un sapore particolare che ricorda la carne di grox cotta in salsa agrodolce.{/n}
+
+### u048142
+{n}A metà giornata, il Rogue Trader scopre una nuova meraviglia delle foreste di Quetza Temer — una vasta distesa di terreno ricoperta di erba bruno-rossastra coperta di nauseabonde vescicole gialle. Tra i fili d'erba rossi non si vede nessun'altra pianta. La spiegazione di questo mistero potrebbe avere a che fare con pallidi insetti simili a ragni che strisciano sulla pagina inferiore dei fili.{/n}
+
+### u048143
+{n}All'ombra degli alberi più alti di questa zona della foresta, il Rogue Trader nota dei funghi che arrivano fino alla vita. Filamenti di tessuto spugnoso pendono da sotto i loro pallidi cappelli lilla, arrivando quasi a terra. Non appena il Rogue Trader si avvicina a uno dei funghi, i filamenti si ritraggono, il cappello si arrotola e il fungo sputa una nuvola di spore rossastre. Forse sarebbe più saggio tenersi a debita distanza da questo posto.{/n}
+
+### u048144
+Un'imponente lama coperta di sangue che non si coagula mai. Chi la impugna è consumato da una rabbia indicibile finché tiene in mano questa spada.
+
+### u048145
+Harbinger of Carnage
+
+### u048146
+I Figli di Quetza Temer: Cronache{br}
+Un'analisi delle tele ricavate da fibra del libro del legno ha mostrato che la cronaca viene registrata da almeno cinquecento anni. Le cronache più antiche narrano di un cupo periodo storico di declino della tribù a causa di un virus sconosciuto. I simboli sulla tela ricordano le lettere dell'Alto Gotico, ma gli abitanti non conoscono l'origine del loro significato, sostenendo che il sapere sacro sia stato loro donato da Quetza Temer in persona. Questo personaggio, venerato come un dio, proviene evidentemente dall'Imperium che conosciamo, con il suo nome esatto o perduto o adattato secondo la fonetica locale. L'unico altro simbolo sacro che la tribù venera è l'Aquila — il "Dio-Aquila Bicipite."
+Un gruppo delle tele più interessanti, raffiguranti imprese tragiche ma eroiche, è stato confiscato e portato a bordo per ulteriori indagini. Molte delle parole formate dai simboli gotici rimescolati erano facili da decifrare, come "bandito," "sacrificio," "valle" (o "terra"/"terre"), nonché "morte," "incomprensibile" e "misericordioso." Questa parte parla con ogni probabilità di una sorta di pellegrinaggio sacrificale.
+Un sacerdote ha confermato la mia teoria: qualsiasi tribale che abbia commesso un'offesa può espiare con il sacrificium — un viaggio verso le Terre Morte, pieno di "morti sconosciute."
+Gli Adepti che ho inviato a indagare sulle Terre Morte non sono ancora tornati.{br}
+Fine del registro.
+

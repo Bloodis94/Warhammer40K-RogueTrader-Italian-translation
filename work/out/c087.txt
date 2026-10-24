@@ -1,0 +1,855 @@
+### u032065
+{n}Zarkov ti fa passare a malincuore con un cenno.{/n}
+
+### u032066
+"Giustiziato un von Valancius? Non dire assurdità! Abbiamo parecchie macchie sul nostro nome, ma versare sangue von Valancius non è tra queste. Anzi, il contrario. Se fosse successo qualcosa a Lord Seberian o a sua figlia, io non sarei qui a parlare con te. Siamo il loro scudo. Il primo colpo cade su di noi." {n}Il sergente squadra le spalle, come se si aspettasse davvero un attacco.{/n}
+
+### u032067
+{n}Il sergente si irrigidisce d'istinto, così come i soldati ai suoi ordini. Ti fissa, mordendosi il labbro. Nel silenzio che si allunga, puoi quasi sentire i pensieri di Zarkov girare pesantemente nella sua testa. Alla fine, emette un forte sospiro.{/n} "Cerchi di fregarmi, eh? Vuoi essere {mf|portato|portata} da Sua Signoria? Si può fare. Ma nel modo dovuto!"
+
+### u032068
+{n}Juvenna decide che uno zelota ottuso ma plasmabile potrebbe esserle utile.{/n}
+
+### u032069
+{n}L'interesse di Juvenna è risvegliato. Condividi le sue opinioni: potresti esserle utile.{/n}
+
+### u032070
+Sergente Zarkov
+
+### u032071
+Diodas af Irramon
+
+### u032072
+Voce distorta dalle interferenze
+
+### u032073
+Drivestem Goldier
+
+### u032074
+Exalt-117
+
+### u032075
+Stratega d'élite Majoris
+
+### u032076
+Isimond Sauerback
+
+### u032077
+Jarub
+
+### u032078
+Elana
+
+### u032079
+Juvenna von Valancius
+
+### u032080
+Camilla Drivestem
+
+### u032081
+Laria Voigtvir
+
+### u032082
+Palatine Lorcanda
+
+### u032083
+Ingegnere meroviano
+
+### u032084
+Ufficiale sorvegliante meroviano
+
+### u032085
+Ruban Khroshovach
+
+### u032086
+Sorella della Battaglia
+
+### u032087
+[Piazza una carica melta] "È ora di sbarazzarci di questa feccia xenos!"
+
+### u032088
+[Rivolgiti ai tuoi compagni] "Avete qualche intuizione da offrire?"
+
+### u032089
+[Lascia stare il dispositivo] "Troveremo un'altra via d'uscita."
+
+### u032090
+{n}Nel cratere lasciato dal proiettile caduto, una scheggia di un meccanismo sconosciuto spunta dalla pietra. Metallo scuro e solido, scolpito con glifi color smeraldo, brilla sotto le macerie come le viscere esposte di una bestia mortalmente ferita. Bagliori verdi corrono senza sosta sulla sua superficie in una sequenza perfetta e inquietante, come se in ogni istante gli spiriti invisibili del dispositivo xenos controllassero il proprio ricettacolo e cercassero di guarirne le gravi ferite.{/n}
+
+### u032091
+{n}Ti rendi conto che il frammento che hai scoperto è solo una piccola parte di qualcosa di incommensurabilmente più grande. Il meccanismo si estende in profondità sottoterra, sotto la riproduzione impeccabile del ponte del palazzo, intrecciato alle sue stesse fondamenta. Se questo dispositivo venisse disattivato, le ripercussioni del guasto si propagherebbero in tutta la struttura.{/n}
+
+### u032092
+{n}Questo meccanismo trasuda antichità, precisione disumana e fredda minaccia. Perfino un'interferenza momentanea con il suo funzionamento sembrerebbe non un'esplorazione innocua, ma un affronto che provoca una punizione immediata.{/n}
+
+### u032093
+{n}La carica melta aderisce al metallo scuro con uno scatto sordo. Per un istante il meccanismo sembra risvegliarsi: un tremito attraversa l'involucro. Inneschi la carica e ti ritiri in fretta.{/n}
+
+### u032094
+"Se fossi in te, troverei un modo per distruggere o almeno danneggiare questo meccanismo. Non ho alcun desiderio di restare bloccato in questa trappola per il resto dei miei giorni."
+
+### u032095
+"La capacità di elaborazione del cogitatore di questa unità è insufficiente per produrre un calcolo prognostico preciso delle conseguenze. Ipotesi preliminare: la disattivazione del xenomeccanismo precipiterà una catastrofe localizzata, con sopravvivenza nulla per tutti coloro che si trovano nel suo epicentro."
+
+### u032096
+{n}Gli occhi di Idira scattano più volte da una parte all'altra prima che parli:{/n} "Un brutto affare, Vostra Signoria, rischioso. Se ne accorgeranno, sapranno... Verranno." {n}Un violento brivido percorre il corpo della psyker.{/n}
+
+### u032097
+"Perché seminare dubbi vani, Aett-Vater? Brucia quell'abominio e falla finita. E se questo fa infuriare gli xenos, tanto meglio."
+
+### u032098
+"Fare a pezzi una grossa macchina sinistra sarebbe un bel divertimento, shereen!" {n}Il Commerciante Freddo ghigna con entusiasmo.{/n} "Ma sul serio, non possiamo certo portarcela via, no? Allora non lasciamo che finisca nelle mani di nessuno, nemmeno dei padroni di questo posto."
+
+### u032099
+"Avete bisogno della valutazione esperta degli Ordo per stabilire la natura eretica di questo meccanismo?" {n}Heinrix fa una pausa, poi espira e annuisce.{/n} "Questa è eresia. Distruggetelo."
+
+### u032100
+"Non toccare quel meccanismo, elantach, finché non ne avrai compreso la natura e lo scopo..." {n}Yrliet ti lancia uno sguardo valutativo.{/n} "...e non avrai accettato il fatto che forse quel momento non arriverà mai."
+
+### u032101
+"Questo posto... mi irrita. È passato da un pezzo il momento di farlo a pezzi, tutto quanto. Non vedo perché non dovremmo cominciare da quel dispositivo nascosto così goffamente."
+
+### u032102
+"Credo, Rogue Trader, che in questo caso possiamo basare le nostre azioni solo su dati empirici. E anche su una comprensione intuitiva dei princìpi logici, che i profani chiamano 'istinto'. Questo esemplare di xenomacchinario è troppo grande e complesso per essere compreso in un attimo."
+
+### u032103
+{n}Sotto la lastra spaccata, qualcosa di antico, immacolato e alieno continua a funzionare.{/n}
+
+### u032104
+"Siete voi il Lord Capitano. La decisione spetta a voi soltanto."
+
+### u032105
+"Temo che la tua spada sia un falso. Rischi la vita andando in battaglia con essa."
+
+### u032106
+"Di certo i tuoi consiglieri avranno un piano per difendere il palazzo."
+
+### u032107
+"Lascia che i tuoi alleati dicano la loro. Per molti di loro, questa battaglia potrebbe essere l'ultima."
+
+### u032108
+"Laria ha fatto bene a farci notare che dovremmo fidarci della nostra gente e procedere con cautela."
+
+### u032109
+"Non credo che questa sia la soluzione migliore. Sentiamo altri pareri?"
+
+### u032110
+"Membri del consiglio! Ogni parola spesa a favore di Juvenna aumenterà le vostre probabilità di vittoria!"
+
+### u032111
+"Lo farò. La seguirò, la prima fra molti."
+
+### u032112
+"Ha dalla sua la volontà del Dio-Imperatore. Di quale altro sostegno ha bisogno?"
+
+### u032113
+[Fai un cenno a Exalt-117] "È giunto il momento di servire l'Omnissiah... e Lady Juvenna."
+
+### u032114
+"Anch'io credo che dovreste tentare di ottenere un esito pacifico."
+
+### u032115
+"Andiamo, Lord Seberian, non riesci nemmeno a sconfiggermi con quella lama!
+
+### u032116
+"Affiderai il destino della dinastia a un giocattolo xenos? È una scommessa terribile, e puzza di eresia!"
+
+### u032117
+"Avrei dovuto presentarmi prima. {name}, {mf|fedele servitore|fedele serva} della dinastia."
+
+### u032118
+"Non ho osato distrarvi da questioni urgenti fino a ora, Lord Capitano. {name}, ai vostri ordini."
+
+### u032119
+"Il mio nome è insignificante, a differenza delle mie armi, che sono {mf|pronto|pronta} a puntare contro il nemico."
+
+### u032120
+[Fai un segnale a Camilla] "Penso che questo piano sembrerà degno della Duchessa di Dargonus."
+
+### u032121
+[Fai un segnale a Isimond] "Un approccio prudente sarà certamente gradito anche ai tutori dell'ordine."
+
+### u032122
+[Fai un segnale a Exalt-117] "Una preparazione accurata alla battaglia è sensata, non è vero?"
+
+### u032123
+[Fai un cenno a Camilla] "La duchessa ha sempre sostenuto Lady Juvenna."
+
+### u032124
+[Fai un cenno a Isimond] "I tutori dell'ordine hanno un rispetto smisurato per l'opinione del governatore, non è così?"
+
+### u032125
+"Non vedo alcun senso nel negoziare. È troppo tardi ormai."
+
+### u032126
+"Avresti dovuto ascoltare prima tua figlia, Seberian!"
+
+### u032127
+"Mi dispiace che l'eresia xenos ti abbia offuscato il giudizio. Non ci hai lasciato scelta."
+
+### u032128
+"Quando tutto sarà finito, capirai che lo faccio per il tuo bene, Seberian."
+
+### u032129
+"Mi chiamo {name} Gaprak, Vostra Signoria. Sono {mf|l'unico|l'unica} dei rinforzi della mia casata a essere {mf|arrivato|arrivata} al palazzo."
+
+### u032130
+"Credo che nessuna opinione abbia più peso della vostra, Lord Capitano."
+
+### u032131
+[Attacca per provocare Seberian]
+
+### u032132
+"Perdonate la mia impertinenza, Vostra Signoria gradirebbe sentire i suoi vassalli prima della battaglia?"
+
+### u032133
+"Guardate voi {mf|stesso|stessa}, Vostra Signoria. Sono disposto a rischiare la vita per dimostrare che sto dicendo la verità."
+
+### u032134
+"Vi seguirò."
+
+### u032135
+"{d|Encyclopedia:Ch4_DL_ZarkovTraitor}Non può far male{/d}." {n}Zarkov incurva le spalle, accigliato.{/n} "Le nostre forze si stanno esaurendo. Il Dio-Imperatore ha messo alla prova i miei soldati, e non voglio che la falliscano di nuovo."
+
+### u032136
+"Ma voi dimenticate: io possiedo una lama che non ha eguali!" {n}Seberian stringe l'elsa, sguaina la spada e fende l'aria con un sibilo. Un'ombra di paura passa sui volti del seguito.{/n} "Non sono un codardo che si nasconde dietro la sua gente. Sono Seberian von Valancius, e vi guiderò in battaglia per abbattere il traditore che ha sfidato la volontà del Dio-Imperatore! Diodas risponderà di questo insulto al suo unto!"
+
+### u032137
+"Laria, hai dimostrato più e più volte che posso contare su di te. So che agisci unicamente nell'interesse della dinastia, e mi fido del tuo giudizio." {n}La mano di Seberian riposa sull'elsa della spada, riposta in un elaborato fodero alla cintura.{/n}
+
+### u032138
+"Sarò breve." {n}Laria parla in tono asciutto, come se leggesse da un rapporto:{/n} "Il nemico ci supera di gran lunga in numero. Il luogo migliore dove organizzare una linea di difesa è proprio qui, nel palazzo interno. Gente leale e capacità militare sono le uniche cose su cui possiamo contare ora, Vostra Signoria."
+
+### u032139
+"Pensavo che trincerarci qui, nel palazzo interno, fosse la scelta migliore, ma... Dovremmo ascoltare gli altri, Vostra Signoria. Il mio approccio non è adatto." {n}Laria {d|Encyclopedia:Ch4_DL_LariaTraitor}si costringe a pronunciare le parole{/d}, senza distogliere lo sguardo da te. Nei suoi occhi osservi una gamma di emozioni: disprezzo di sé, vergogna, disperazione... speranza.{/n}
+
+### u032140
+"Ascoltate le parole di un guerriero, non di un dilettante. Dobbiamo passare alla difensiva e logorare il nemico. I cancelli sono il nostro vantaggio principale."
+
+### u032141
+"Un'accurata suddivisione della situazione faciliterà una conclusione soddisfacente dello scontro." {n}Il Tecnoprete emette un basso trillo binarico.{/n} "La mia capacità cogitazionale {d|Encyclopedia:Ch4_DL_Exalt117Traitor}sarà reindirizzata{/d} al calcolo delle tattiche difensive ottimali."
+
+### u032142
+"Inoltre, il nostro perimetro difensivo funziona come dovrebbe. Gli {d|Encyclopedia:Ch4_DL_Exalt117RepairedTurrels}spiriti macchina delle torrette sono soddisfatti{/d} e fermeranno qualsiasi attacco aereo."
+
+### u032143
+{n}Seberian annuisce.{/n} "Sei un fedele servitore della dinastia, e non lo dimenticherò."
+
+### u032144
+"Desidero ascoltare anche coloro che finora hanno taciuto. Parlate liberamente, consiglieri, non temete che le vostre parole vengano fraintese. Voglio sentire tutti."
+
+### u032145
+{n}Seberian solleva il braccio con un gesto imperioso.{/n} "Alleati, è giunta l'ora. Ascoltate il mio ordine: eseguite il piano del Siniscalco Voigtvir! Preparatevi a difendere il palazzo! Per la dinastia von Valancius! Per l'Imperatore!"
+
+### u032146
+"Padre." {n}Juvenna fa un passo avanti e fissa intensamente Seberian.{/n} "Ti prego, fidati di me, solo questa volta. Il nostro nemico è forte e temibile, ma ragionevole. Io sono abile nella diplomazia: lascia che vada da Diodas af Irramon a trattare con lui a tuo nome. Non farà che rendere più forte la dinastia. Se la mia via fallisse... allora che siano i fucili melta e i fucili laser a parlare al mio posto."
+
+### u032147
+"L'opinione del Siniscalco {d|Encyclopedia:Ch4_DL_IzimondTraitor}va tenuta in considerazione{/d}, soprattutto visti i suoi molti anni di servizio impeccabile." {n}Sauerback porta la mano all'orbita ferita, asciugando gocce di sangue.{/n}
+
+### u032148
+"Io, Isimond Sauerback, sono pronto ad assumere l'incarico di proteggere il negoziatore durante una visita diplomatica." {n}Il tutore dell'ordine fa un breve saluto.{/n}
+
+### u032149
+"{d|Encyclopedia:Ch4_DL_SeberianNoSword}Se avessi con me la mia lama{/d}... No." {n}Seberian si interrompe.{/n} "Ero così accecato dalla mia stessa tracotanza da dimenticare dove risiede il vero potere del Rogue Trader. È nelle persone che servono fedelmente la dinastia. Voi siete la mia forza. Siete la lama che abbatterà Diodas af Irramon!"
+
+### u032150
+{n}Seberian sembra una statua di se stesso, la testa alta, le spalle indietro, le pieghe del pesante mantello che ondeggiano al vento. Osserva il suo seguito riunito con sguardo risoluto, attendendo l'attenzione di tutti prima di parlare finalmente. La sua voce, potenziata dal sintetizzatore vox, si diffonde per la piazza:{/n} "Alleati! I servitori dei Santi Ordos hanno calpestato i patti del Dio-Imperatore. L'Inquisitore af Irramon ha minacciato la vita del Rogue Trader e la dignità dei suoi fedeli servitori! Per questo, il nemico morirà per mano mia."
+
+### u032151
+"La mia non è l'unica vita in gioco, ma anche le vostre. Ascolterò chiunque abbia qualcosa da dire." {n}Con un lieve ronzio, la lente del suo impianto ottico mette a fuoco Laria.{/n} "Il Siniscalco parlerà per primo."
+
+### u032152
+"Ho visto moltissime cose nella mia vita. Proporre un'alleanza può spesso ottenere più che dichiarare guerra. Un accordo ben calibrato nei tempi accrescerà la vostra influenza cento volte, anche se stretto con un nemico. Soprattutto se stretto con un nemico."
+
+### u032153
+"Lady Voigtvir ha {d|Encyclopedia:Ch4_DL_KamillaTraitor}perfettamente ragione{/d}." {n}La voce di Camilla Drivestem suona sorprendentemente ferma.{/n} "La sua competenza nell'arte della guerra è innegabile."
+
+### u032154
+"Mia... figlia, Juvenna, ha espresso in più occasioni la sua preoccupazione che l'Inquisitore af Irramon non potesse essere sconfitto in combattimento aperto. Era irremovibile sul fatto che trattassi con lui. C'è qualcuno fra voi che condivide questo sentimento?" {n}Per quanto Seberian cerchi di mantenere la compostezza alla menzione della sua erede, nemmeno il sibilo della sua griglia vox riesce a nasconderti il tremito nella sua voce.{/n} "Parlate liberamente, e non pensate al crudele destino di Juvenna."
+
+### u032155
+"Un calcolo preliminare della congiuntura politica indica che una simile manovra può essere efficace. La probabilità di una conclusione compromissoria positiva dello scontro si avvicina al novanta per cento."
+
+### u032156
+"Fuori questione. Non implorerò pietà da chi, in spregio ai patti del Dio-Imperatore, si è presentato ai cancelli del mio palazzo con il ferro e con il fuoco." {n}Seberian guarda Juvenna negli occhi mentre parla con forza:{/n} "La dinastia von Valancius non si inchinerà davanti a Diodas af Irramon. I cancelli della mia casa non si apriranno al nemico."
+
+### u032157
+"Basta. Ne ho sentito abbastanza." {n}Un trillo frustrato esplode dalla griglia vox di Seberian.{/n} "Guardatevi. Questo intero 'consiglio' è una farsa, una vergognosa messinscena che mi ha costretto a sprecare tempo prezioso. Il mio seguito è incapace di trovare un consenso. Consiglieri! Ritiratevi nel palazzo. Sistemerò io stesso il traditore."
+
+### u032158
+"Il tempo della diplomazia, degli stratagemmi tattici e dei patti è finito. Alla battaglia! Per la dinastia von Valancius!" {n}Seberian strappa la lama dal fodero e la solleva in alto sopra la testa.{/n}
+
+### u032159
+{n}L'augmetica ottica di Seberian si mette a fuoco su di te, accecandoti quasi con la luce azzurra e intensa del lumen.{/n} "Quanto a te... Hai {d|Encyclopedia:Ch4_DL_SeberianNoSword}qualcosa a che fare con la scomparsa{/d} della mia lama, non è vero? Sei {mf|un estraneo|un'estranea} qui, eppure ti ostini a immischiarti negli affari del consiglio. Devo solo prendermela con me stesso per averti permesso di aggirarti nel mio palazzo, ma i tuoi intrighi finiscono qui e ora." {n}Rivolgendosi ai tutori dell'ordine, il Rogue Trader comanda con tono formidabile:{/n} "{mf|Catturatelo|Catturatela}!"
+
+### u032160
+{n}Il Rogue Trader si immobilizza, sbalordito dalla tua insolenza.{/n} "Ti ho permesso di parlare al consiglio, e questo è ciò che hai da dire? Smettila di dire sciocchezze."
+
+### u032161
+{n}Hai sopravvalutato sia {mf|te stesso|te stessa} sia Seberian. Lui non riesce a parare il tuo colpo in tempo... e tu non riesci a ritirare l'arma in tempo. Si abbatte con uno squelch sul lembo scoperto di carne viva del suo volto. Seberian cade a terra senza una parola. La grandine di colpi di arma da fuoco che il suo seguito ti riserva ti riduce in un mucchio di brandelli sanguinolenti nel giro di pochi istanti.{/n}
+
+### u032162
+{n}Seberian ha riflessi eccellenti, nonostante la mole apparente. In un battito di ciglia, la sua spada si lancia incontro al tuo colpo, fischiando nell'aria.{/n}
+
+### u032163
+"Impensabile... Com'è possibile?" {n}Seberian solleva su di te il suo sguardo stupefatto.{/n} "Come facevi a saperlo? Stai {mf|certo|certa} che ti chiederò una risposta quando la battaglia sarà finita. Per ora, accetta i miei ringraziamenti: ti devo la vita."
+
+### u032164
+"Ti farò rimangiare le tue parole." {n}Seberian sguaina la spada, dandoti il tempo di assumere una posizione difensiva, e colpisce: forte, ma abbastanza lentamente da permetterti di pararlo.{/n}
+
+### u032165
+"Basta. Ho sbagliato a permetterti di partecipare al consiglio." {n}Prima che tu possa protestare, la pistola inferno del Rogue Trader vomita una vampata di fuoco, e il mondo si fa buio.{/n}
+
+### u032166
+"Il quartier generale ha resistito ai colpi nemici e le perdite sono minime. Questo ci dà un vantaggio."
+
+### u032167
+{n}La risata rombante di Seberian suona come lo stridore di ingranaggi non lubrificati.{/n} "Ora hai mostrato il tuo vero volto, Juvenna. Hai cospirato con Diodas? Non sei stata tu a condurlo ai cancelli della nostra casa? Avrei dovuto capirlo prima e diseredarti, traditrice. Vedremo. Chi ti seguirà?"
+
+### u032168
+"Fermate questa follia!" {n}Juvenna balza in piedi con furia giusta, la voce all'improvviso potente e autoritaria.{/n} "Io, Juvenna von Valancius, unica erede del Rogue Trader Seberian von Valancius, accuso mio padre di eresia. A causa di questo crimine, il suo titolo di unto del Dio-Imperatore è ora decaduto! Il sacro Mandato non può restare nelle mani di uno così impuro! Da questo momento, assumerò il grande e sacro fardello di guidare la Casata von Valancius! Vi do la mia parola che tutti coloro che mi seguiranno non saranno accusati di tollerare l'eresia." {n}Prende fiato per rivolgersi di nuovo al padre.{/n} "I cancelli non ti proteggeranno, Padre. {name} mi ha aiutata ad aprirli alla verità."
+
+### u032169
+{n}Calmandosi un poco, Juvenna ti rivolge un cenno di approvazione.{/n} "Grazie, {name}. Il tuo contributo a quanto è stato compiuto è {d|Encyclopedia:Ch4_DL_JuvennaSide}davvero inestimabile{/d}, e non passerà inosservato... Mi dispiace, Padre, che tu non abbia saputo resistere a questa tentazione, ma, il Dio-Imperatore lo sa, ho cercato di ricondurti sulla via della rettitudine." {n}Senza attendere una risposta, si dirige verso la porta e, proprio mentre sta per uscire, si volta verso di te.{/n} "Un'ultima richiesta, {name}. Tieni d'occhio questo eretico finché non tornerò con l'Inquisitore af Irramon."
+
+### u032170
+"La Casata Drivestem sostiene la pretesa dell'erede dei von Valancius. La nostra lealtà al Trono d'Oro e alla dinastia von Valancius è incrollabile." {n}La vecchia donna raddrizza la schiena con orgoglio. Per un secondo sembra avere parecchi decenni di meno.{/n}
+
+### u032171
+"{d|Encyclopedia:Ch4_DL_IzimondTraitor}Mi costa ammetterlo{/d}, ma Lady Juvenna ha ragione, Vostra Signoria. Rispetto voi e le vostre imprese, ma l'abominio xenos vi sta lentamente facendo impazzire." {n}Sauerback distoglie con cura lo sguardo dal suo ex patrono.{/n}
+
+### u032172
+"{d|Encyclopedia:Ch4_DL_ZarkovTraitor}Non mi importa{/d} chi governi la dinastia o il cui nome sia scritto sul Mandato, finché il Credo Imperiale viene rispettato. Voi, Lady Juvenna, mi sembrate piuttosto salda nella fede."
+
+### u032173
+"Valuto questa via d'uscita dalla situazione come {d|Encyclopedia:Ch4_DL_Exalt117Traitor}la più razionale{/d}." {n}Le lenti oculari di Exalt-117 restano fisse, e il suo volto augmetico non esprime nulla.{/n} "Al soggetto Juvenna von Valancius è stato assegnato lo status più alto."
+
+### u032174
+{n}Laria abbassa lo sguardo sul pavimento, cercando di nascondere le lacrime sfuggite.{/n} "Non rinnego le mie parole e non mi metterò in mezzo a Lady Juvenna. Quando verrà il momento, capirete {d|Encyclopedia:Ch4_DL_LariaTraitor}la vera ragione{/d} delle mie azioni, Vostra Signo-" {n}Si blocca sulla parola e alza con determinazione gli occhi arrossati verso Seberian.{/n} "Capirai, Padre."
+
+### u032175
+"Come osate..." {n}Macchie di scarlatto acceso compaiono alte sulle guance di Laria. Respira pesantemente, stringendo i pugni.{/n} "Come osate tutti voi!" {n}Laria si guarda intorno con aria braccata, ma la mano appoggiata sull'impugnatura della sua pistola bolt resta dov'è.{/n} "Vostra Signoria, io... vi ho deluso."
+
+### u032176
+{n}Sorpreso dalla mancanza di risposta del suo seguito, Seberian alza la mano in un gesto interrogativo.{/n} "I consigli di solito vi escono a fiumi, perché ora state tutti zitti, quando conta davvero? Mi aspettavo che condannaste la sola idea di negoziare. Comunque, date le circostanze, accetterò persino il vostro eloquente silenzio."
+
+### u032177
+{n}Juvenna si guarda intorno, impotente. Stringe i pugni con tanta forza che piccole gocce di sangue cadono dalle sue mani delicate.{/n} "I cancelli... sono chiusi. È inutile. È tutto vano." {n}Si immobilizza, chinando bassa la testa. Il momento è passato. È improbabile che l'erede umiliata intraprenda azioni più decise.{/n}
+
+### u032178
+{n}Lo sguardo di Seberian indugia su di te, ma Juvenna anticipa la sua domanda:{/n} "Padre, questo è {name}. È qui su {d|Encyclopedia:Ch4_DL_JuvennaSide}mio invito{/d}."
+
+### u032179
+{n}Lo sguardo di Seberian cade su di te, e Laria si affretta a presentarti:{/n} "Lord Capitano, {name} è qui su {d|Encyclopedia:Ch4_DL_LariaSide}mio invito{/d}. {mf|Si è dimostrato|Si è dimostrata} all'altezza nella questione dei rinforzi scomparsi."
+
+### u032180
+{n}Notandoti, il Rogue Trader tace.{/n} "Il tuo volto mi è sconosciuto. Chi sei?"
+
+### u032181
+{n}Seberian riflette un momento, ma poi annuisce con benevolo assenso, le augmetiche della sua spina dorsale che scattano in modo udibile.{/n} "Molto bene, puoi restare. È in gioco una battaglia decisiva e, come {mf|guerriero|guerriera} fedele alla dinastia, ti concederò voce in questo consiglio."
+
+### u032182
+{n}Seberian volge la testa verso di te, e i suoi impianti rispondono con un stridore metallico.{/n} "E tu? Di certo il tuo consiglio non sarà di chiuderci dietro i cancelli e aspettare che il nemico si presenti per essere massacrato?"
+
+### u032183
+{n}Il Rogue Trader incrocia il tuo sguardo.{/n} "Hai suggerito che ascoltassi il mio seguito. Ma tu che cos'hai da dire? Pensi anche tu che si possa negoziare con un grox rabbioso?"
+
+### u032184
+{n}Posando lo sguardo su di te, Seberian inclina leggermente il capo in segno di saluto.{/n} "{mf|Lord|Lady} Gaprak. La vostra casata ha sempre servito fedelmente la dinastia. Mi aspetto che ora mi aiutiate anche con il vostro prezioso consiglio."
+
+### u032185
+"Portate tristi notizie, {mf|Lord|Lady} Gaprak. La vostra casata mi ha sempre servito fedelmente. Vi do licenza di unirvi al consiglio, come stimato alleato della dinastia."
+
+### u032186
+{n}Lo sguardo cupo di Seberian indugia su di te.{/n} "Sei tu {mf|il servitore|la serva} che ha superato l'avamposto nemico? Le tue informazioni potrebbero essere utili al consiglio di guerra. Ti do licenza di restare."
+
+### u032187
+{n}Annuisce lentamente.{/n} "Devi avere avuto una buona ragione per portare un estraneo al consiglio. Molto bene. Do a {mf|lui|lei} licenza di restare."
+
+### u032188
+{n}Il Rogue Trader squadra le spalle e si rivolge all'assemblea:{/n} "Il nemico si è avvicinato ai cancelli del palazzo, ed è ora di reagire."
+
+### u032189
+{n}La decisione del Rogue Trader non è di gradimento a tutti: vedi sorrisi amari e sguardi tesi. Ma nessuno osa discutere.{/n}
+
+### u032190
+{n}Nell'istante in cui le vostre spade si scontrano, la Danza Cremisi di Khaine va in frantumi in una miriade di schegge che svaniscono in lampi di velenosa luce verde. Cala il silenzio, rotto soltanto dall'eco lontana di spari ed esplosioni.{/n}
+
+### u032191
+"Sono {mf|venuto|venuta} per il vostro artefatto, e pretendo che me lo consegniate immediatamente."
+
+### u032192
+"Siete davvero... Seberian? Seberian von Valancius?"
+
+### u032193
+[Aspetta che Seberian ti inviti a presentarti]
+
+### u032194
+"Sono {mf|un fedele servitore|una fedele serva} della Casata Gaprak, Vostra Signoria, e sono {mf|venuto|venuta} in vostro aiuto."
+
+### u032195
+[Pronuncia la frase in codice] "La cera è ancora calda, Siniscalco."
+
+### u032196
+"Serviamo la Signora Elana, Lord Capitano. È arrivata al palazzo?"
+
+### u032197
+"Che spettacolo pietoso. Pensi che mi si possa ingannare con questa parodia di Dargonus?"
+
+### u032198
+"È una trappola! Siamo tutti intrappolati in un ciclo temporale, non lo vedete?"
+
+### u032199
+"Lord Capitano, sono solo {mf|uno|una} dei tanti servitori della dinastia accorsi in vostro aiuto."
+
+### u032200
+"Mio signore, i meroviani ci hanno scambiati per il nemico e sono stati i primi ad aprire il fuoco."
+
+### u032201
+"I soldati penali sono stati puniti per l'imperdonabile insolenza. Erano a un soffio dall'ammutinarsi."
+
+### u032202
+[Resisti] "Non mi arrenderò senza combattere!"
+
+### u032203
+"Abelard, illumina questi... burattini di questo spettacolo sacrilego su chi hanno di fronte."
+
+### u032204
+"Aspettate, avete frainteso! Non servo affatto l'Inquisizione!"
+
+### u032205
+"Le tue azioni mi hanno condotto alle porte di questo palazzo, Seberian. Seguo le tue tracce da un po'."
+
+### u032206
+"Non ho altro padrone che il Dio-Imperatore!"
+
+### u032207
+[Non fare nulla] "Questo, dunque, è il mio destino."
+
+### u032208
+{n}I cancelli del palazzo sembrano inespugnabili, ma mentre ti avvicini, i chiavistelli idraulici si aprono con un sibilo, scivolando nelle pareti.{/n}
+
+### u032209
+"Massacrate un avamposto di meroviani, e poi vi presentate sfacciatamente ai cancelli del mio palazzo... Ammirerei il vostro valore sconsiderato se non foste così impudenti. Quale follia spinga simili agenti del Trono d'Oro non riesco a comprenderlo, ma non otterrete ciò per cui siete venuti." {n}La voce che proviene dalla griglia vox suona stanca.{/n}
+
+### u032210
+"Padre, l'Inquisitore af Irramon non è uno sciocco. Non credo che questi pazzi siano al suo servizio. Dovremmo dar loro la possibilità di spiegarsi." {n}Solo il colore degli occhi della donna tradisce la parentela tra lei e il mostro mezzo meccanico al suo fianco.{/n}
+
+### u032211
+{n}Una dozzina di proiettili ti trapassa il corpo con uno scricchiolio ripugnante. L'ultima cosa che vedi è la figura di quel mostro meccanico che si allontana, ignaro di aver versato il sangue della propria stirpe.{/n}
+
+### u032212
+{n}Heinrix abbassa la voce in modo che solo tu possa sentirlo:{/n} "Sembra che abbia scambiato noi... voi... per un agente dell'Inquisizione."
+
+### u032213
+{n}Notando lo xenos nel tuo seguito, Seberian lascia sfuggire una risatina sgradevole.{/n} "Diodas ostenta la sua ipocrisia per il mio divertimento? Usare xenos per combattere gli eretici è un tantino ironico, non trovi?"
+
+### u032214
+{n}L'occhio bionico di Seberian ronza mentre mette a fuoco Ulfar, e la voce del Rogue Trader suona quasi reverente:{/n} "Non sapevo che Diodas fosse riuscito ad assicurarsi il sostegno degli Angeli del Dio-Imperatore. Tuttavia, anche di fronte a uno dei Suoi Angeli, non posso rinnegare i doveri che il Mandato mi impone."
+
+### u032215
+"Vedo che gli stimati membri dell'Adeptus Mechanicus non si sono rifiutati di spalleggiare il giustiziere af Irramon. Come avete potuto rivolgervi a lui dopo tutti i privilegi che ho elargito ai servitori dell'Omnissiah?" {n}L'occhio bionico del Rogue Trader si accende di fuoco rosso, e nemmeno la sua voce meccanizzata riesce a nascondere la sua amarezza.{/n}
+
+### u032216
+{n}Gli occhi di Laria si spalancano appena, eppure la sua voce resta perfettamente uniforme.{/n} "Padre, queste persone fanno parte della mia rete di agenti. I servitori dell'Inquisizione non avrebbero potuto ottenere la frase in codice."
+
+### u032217
+{n}Juvenna si schiarisce la gola.{/n} "Padre. Avrei dovuto saperlo! Questa gente viene da Lady Elana. La ricordi, naturalmente? Ho ricevuto notizia della sua morte poche ore fa. Sembrano far parte del suo seguito. Lascia che me ne occupi io."
+
+### u032218
+"Vi ho trattati con rispetto, da nemico a nemico, e vi ho dato la possibilità di pronunciare le vostre ultime parole. E devo dire di essere rimasto deluso." {n}Il tono di Seberian si fa piatto, come se tutta questa situazione lo annoiasse.{/n} "Credo di aver adempiuto ai miei obblighi minimi verso l'etichetta. Guardie, sparate."
+
+### u032219
+{n}La griglia vox del Rogue Trader emette uno stridio che non riconosci subito come una risata. Seberian si tampona una lacrima all'angolo dell'occhio con un fazzoletto apparso apparentemente dal nulla.{/n} "La guerra reclama la vita di alcuni e la sanità mentale di altri. Dio-Imperatore, abbi pietà di questa povera anima."
+
+### u032220
+"Suona completamente folle, Padre. Ma non è nemmeno difficile mettere alla prova quell'ipotesi. La cera è ancora calda, {mf|straniero|straniera}." {n}Quest'ultima frase sembra priva di significato, ma il tono di Laria è serio. Incrocia il tuo sguardo, in attesa di una qualche reazione... ma quale?{/n}
+
+### u032221
+{n}Seberian si pizzica la radice del naso e chiude l'occhio organico. All'improvviso scorgi l'uomo esausto che si cela sotto tutte le augmetiche.{/n} "Va bene. Lasciate passare questi sciocchi. Laria, cara, trova a questi fannulloni qualcosa di utile da fare. E assicurati che non ripetano la loro bravata di prima, o non risponderò delle mie azioni."
+
+### u032222
+"La Casata Gaprak? Se quanto dite è vero, il vostro titolo nobiliare non vi esonera dalla vostra trasgressione. Eppure temo che l'intervento di una manciata di vassalli non basti a far girare le sorti della battaglia."
+
+### u032223
+{n}Scuote la testa come per scacciare un'allucinazione.{/n} "Non importa. Per quanto le tue intenzioni possano essere state onorevoli, i difensori del mio palazzo sono caduti per mano tua. Non può esserci scusa per questo."
+
+### u032224
+"È un triste stato di cose quando fedeli servitori del Dio-Imperatore sono costretti a combattersi l'un l'altro come cani al capriccio di un padrone crudele." {n}In effetti senti del rimpianto nella voce di Seberian mentre le sue dita si chiudono sull'elsa dell'arma con un clangore metallico.{/n} "E il tuo padrone è davvero crudele."
+
+### u032225
+[La solita situazione, le solite parole. Tutto si ripete. Ora puoi decidere se seguire ciò che è predeterminato o tentare di spezzare il ciclo.]
+
+### u032226
+{n}La consapevolezza ti colpisce all'istante: quella è la spada che hai visto nel ritratto di Seberian von Valancius, quello a bordo della nave ammiraglia.{/n}
+
+### u032227
+"Vi trovate nel mio palazzo. Chi altri vi aspettavate di vedere qui?" {n}Nonostante l'enorme grado di augmetizzazione, la voce che esce dalla griglia vox non è priva di una punta di irritazione.{/n} "Siniscalco, se volete."
+
+### u032228
+{n}Laria si schiarisce la gola, attirando l'attenzione di tutti.{/n} "Davanti a voi si trova Sua Signoria il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} Seberian von Valancius, possessore del più grande protettorato della Distesa di Koronus e portatore del sacro Mandato di Commercio, Salvatore della Casata von Valancius, Dissipatore delle Tenebre e Conquistatore di Janus." {n}Lo sguardo penetrante dagli occhi azzurri del Siniscalco ricorda in modo inquietante quello del Maestro dei Sussurri fuggitivo di Theodora.{/n}
+
+### u032229
+{n}Per la prima volta Abelard mostra un accenno di esitazione, spostando lo sguardo da te a Seberian e di nuovo a te, come per accertarsi che tu faccia sul serio con la tua richiesta. Ma quando il Siniscalco inizia a parlare, nella sua voce c'è una nota di sfida, e i suoi occhi sono fissi su Laria:{/n} "Davanti a voi si trova Sua Signoria {mf|il|la} {g|Encyclopedia:RogueTrader}Rogue Trader{/g} {name} von Valancius, erede del più grande protettorato della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} e {mf|portatore|portatrice} del sacro {g|Encyclopedia:Warrant}Mandato{/g}."
+
+### u032230
+{n}Scambi colpi con il piccolo gruppo di guardie, mentre i rinforzi già affluiscono dal fondo del cortile. Seberian si getta contro di te con un grido rauco, cercando di fare scudo al Siniscalco con il proprio corpo. Ma un colpo ben mirato gli trapassa l'occhio azzurro e brillante.{/n}
+
+### u032231
+"Padre." {n}Riconosci senza alcun dubbio la voce di "Elana" che si unisce alla conversazione.{/n} "Lascia che dissipi i tuoi dubbi: queste persone sono al mio servizio. Il Servitium Dargonus, sotto il comando diretto del governatore. Qualunque cosa sia successa all'avamposto con la feccia meroviana, i miei servitori devono aver avuto le loro ragioni. Perché non mi occupo io delle indagini e tu torni a questioni più importanti?"
+
+### u032232
+"Tu..." {n}Seberian tace di colpo. Le rughe attorno al suo occhio organico si distendono. Quando il suo sguardo scivola sui tuoi compagni e si posa su di te, non vi è nemmeno un guizzo del suo sentimento passato, solo l'altera freddezza con cui ti accolse la prima volta.{/n}
+
+### u032233
+{n}Seberian non dice nulla per un bel po'. Infine raddrizza leggermente le spalle, e senti il lieve stridore delle augmetiche.{/n} "Giusto, Juvenna, dove ho la testa?" {n}Il Rogue Trader si volta verso di te e annuisce con garbo, senza togliere la mano dall'arma.{/n} "Stimati stranieri, potete presentarvi prima che vi chiami a rispondere delle vostre azioni."
+
+### u032234
+"Vostra Signoria, sapete qualcosa dei rinforzi della Casata Gaprak?"
+
+### u032235
+"Juvenna sembra turbata."
+
+### u032236
+"Che ne pensa Laria?"
+
+### u032237
+"Mi è tutto chiaro. Parliamo d'altro."
+
+### u032238
+"Perché l'Inquisizione assedia il palazzo del Rogue Trader?"
+
+### u032239
+"Riconosci il nome 'Amella'?"
+
+### u032240
+"No, non capisci. Sono {mf|un tuo discendente|una tua discendente}."
+
+### u032241
+"Non avrei mai pensato di trovarti vivo. Siamo intrappolati, e dobbiamo fuggire."
+
+### u032242
+[Accetta i fraintendimenti di Seberian]
+
+### u032243
+[Mostragli il diario di Seberian] "Se non mi credi, guarda qui. La verità è scritta di tuo pugno."
+
+### u032244
+"Mi serve la litania di accesso superiore per i cancelli."
+
+### u032245
+[Brandisci l'arma] "La litania di accesso! Subito!"
+
+### u032246
+"Perdonami. È stato uno scherzo maldestro."
+
+### u032247
+"Ho sentito che cerchi di rafforzare la posizione della dinastia con l'aiuto di un prezioso artefatto?"
+
+### u032248
+"Pensi che questo artefatto basti a rafforzare la posizione della dinastia von Valancius?"
+
+### u032249
+"Sappi solo che la dinastia von Valancius è in buone mani."
+
+### u032250
+"Che cosa pensa il tuo seguito?"
+
+### u032251
+"Non temi che qualcuno vicino a te si rivolti contro di te? L'eresia è un'accusa grave."
+
+### u032252
+"Come reagiscono i tuoi militari a queste accuse di eresia?"
+
+### u032253
+[Mostra la lettera di Amella] "Guarda: hanno fatto della tua vita un'esposizione, e questo è uno dei pezzi esposti!"
+
+### u032254
+"Sei davvero Seberian... e sei vivo!"
+
+### u032255
+"Ho sentito tutto ciò che mi serve."
+
+### u032256
+"Juvenna sta cospirando contro di te."
+
+### u032257
+"Sei accecato dai sentimenti paterni come un vecchio sciocco. Vieni, e ti aprirò gli occhi sulla verità."
+
+### u032258
+"Juvenna ha già concluso la sua conversazione con l'Inquisizione, ma io li ho sentiti di persona, credimi!"
+
+### u032259
+"Sei la persona più augmetizzata che abbia mai visto che non sia un servitore dell'Omnissiah."
+
+### u032260
+"Quali qualità dovrebbe possedere un buon Rogue Trader?"
+
+### u032261
+"Hai assolutamente ragione."
+
+### u032262
+"Servo il Siniscalco, Laria, Vostra Signoria."
+
+### u032263
+"Non posso essere d'accordo."
+
+### u032264
+"Tra i presenti nel palazzo, c'è qualcuno che possiede una pistola al plasma?"
+
+### u032265
+"Dovete sapere che il rampollo dei Gaprak, che guidava l'esercito di rinforzo, è stato ucciso all'avamposto."
+
+### u032266
+"Il Gaprak è stato assassinato dal Capitano Sauerback."
+
+### u032267
+"Ho scoperto che dietro l'omicidio c'era Lady Drivestem."
+
+### u032268
+"L'omicidio del lord Gaprak fa parte di un complotto ordito contro di voi da Juvenna."
+
+### u032269
+"Il Siniscalco Voigtvir e io ci siamo già occupati del traditore."
+
+### u032270
+"Temo che sia tutto ciò che so."
+
+### u032271
+"Lavoro per Lady Juvenna."
+
+### u032272
+"Se mi permettete di congedarmi, Vostra Signoria."
+
+### u032273
+"Di nuovo tu?"
+
+### u032274
+{n}Notando Ulfar, il volto di Seberian si illumina.{/n} "Per il sangue del Dio-Imperatore e di tutti i santi! Che cosa porta qui uno dei Suoi Angeli? Ma questo conta poco. Ciò che conta è che la vostra presenza farà certamente girare le sorti della battaglia!"
+
+### u032275
+"Mi è stato riferito che i nostri alleati sono riusciti a raggiungere il palazzo. Ma dove sono?" {n}Il nobile guarda verso i cancelli, poi te, e la parte organica del suo volto tradisce una lieve delusione.{/n} "Non dirmi... Sei tutto ciò che rimane?"
+
+### u032276
+{n}Lo sguardo del Rogue Trader si ferma appena sopra la tua spalla. Quando si rivolge a te, la voce della griglia vox stride più violentemente di prima, incapace di rendere lo sdegno rivolto contro di te.{/n} "Hai portato uno xenos nel mio palazzo! Lascia che ti ricordi: ciò che è permesso a un Rogue Trader non lo è ai suoi vassalli."
+
+### u032277
+"So che l'Inquisizione è un nemico pericoloso. Se i rinforzi della Casata Gaprak non sono ancora arrivati... temo che dovremo contare solo sulle nostre forze."
+
+### u032278
+"Vi prego, sono stufo e stanco di questo gioco. Anche dopo tutti questi anni, dopo tutte le modifiche..." {n}Seberian tamburella con le dita sul petto, producendo un cupo clangore vuoto da sotto l'uniforme.{/n} "...le casate nobili non hanno ancora rinunciato alla speranza di trovare legami con la dinastia dei Rogue Trader. Se sapeste quanti di questi 'bastardi' ho fatto giustiziare, non osereste vomitare simili menzogne. Dovreste abbandonare i vostri sogni sul Mandato, se volete serbare la vita."
+
+### u032279
+"Quindi è vero? Siete tutto ciò che resta dei rinforzi della Casata Gaprak?" {n}Seberian è ammutolito dallo stupore per alcuni istanti, e quando parla di nuovo, la sua voce meccanizzata e distorta è più bassa e tesa.{/n} "Non badate a quanto ho detto. Apprezzo la vostra lealtà, {mf|Lord|Lady} Gaprak. È spiacevole che il nostro incontro avvenga in circostanze così deplorevoli. Farò in modo che vi vengano assegnati degli alloggi: in guerra o no, non permetterò a nessuno di accusare la Casata von Valancius di mancare di ospitalità."
+
+### u032280
+"Assurdo. Me ne ricorderei se io..." {n}Seberian si interrompe di colpo. Ti scruta attentamente prima di parlare di nuovo. La confusione risuona nella sua voce distorta dal vox:{/n} "Aspetta un momento. Forse... forse ti ho già visto. O ho sentito parlare di te."
+
+### u032281
+"I miei confidenti comprendono la totale infondatezza di queste accuse. Come potrebbero non farlo?"
+
+### u032282
+"Non dargli importanza. Juvenna si preoccupa sempre, è nella sua natura. La ragazza è cresciuta tra la nobiltà ed è abituata a pensare per intrighi e a dubitare di tutto. In questa occasione, è convinta che io debba stringere un accordo con af Irramon per il bene della dinastia. Ma Juvenna non capisce che non si negozia mai con un aggressore. A volte la risposta è ovvia, e oggi quella risposta è la guerra! La sua recente fascinazione per la biografia di Santa Elana deve averla confusa, riempiendole la testa di pensieri idealistici."
+
+### u032283
+"Laria non è soltanto il mio Siniscalco, ma anche mia figlia." {n}Il tono del Rogue Trader si indurisce.{/n} "Non permetterò che tu consideri nemmeno la possibilità che non sia dalla mia parte. Benché le dubbie circostanze della sua nascita mi impediscano di riconoscerla come erede della Casata von Valancius, Laria ha servito fedelmente la dinastia. Come Siniscalco, merita la mia piena fiducia e sosterrà qualunque decisione io prenda. Parlale e lo vedrai tu {mf|stesso|stessa}."
+
+### u032284
+{n}Un suono aspro e sgradevole esplode dalla griglia vox, assordandoti per un attimo.{/n} "Vedo che gli accoliti di Diodas sono al lavoro! A far girare le lingue, in questo caso. Spero che tu non abbia ripetuto questa assurda voce a nessuno? Se la falsa notizia della mia morte raggiunge i miei vassalli, potremmo non vedere mai alcun rinforzo!"
+
+### u032285
+[La solita situazione, le solite parole. Tutto gira in tondo. Puoi decidere se seguirlo o tentare di spezzarlo del tutto.]
+
+### u032286
+"Una trappola? L'Inquisizione è un nemico pericoloso, non c'è dubbio. Tuttavia questo nemico si trova ancora sulla mia terra, nel mio protettorato. Diodas è condannato al fallimento."
+
+### u032287
+"Davvero? Mia figlia ha moltissimi servitori, ma tu sei {mf|il primo|la prima} ad aver osato rivolgermi la parola direttamente. Come ricompensa per la tua lealtà, oggi non ti farò frustare. Ma sono curioso di sapere che cos'hai da dire a tua difesa."
+
+### u032288
+"Taci? Forse è meglio così."
+
+### u032289
+{n}Tre nobili, accompagnati da tutori dell'ordine, escono ad accogliervi. Sono guidati da un uomo in uniforme con i colori dei von Valancius. C'è qualcosa di vagamente familiare nella parte intatta del suo volto: il resto della carne dello sconosciuto è stato sostituito da impianti che lo hanno trasformato in una macabra parvenza di se stesso. Il nobile socchiude con sospetto l'occhio organico, il cui azzurro cerulo si nasconde sotto le ciglia scure. Senti il sibilo dei servomotori e lo stridere di metallo contro metallo mentre appoggia con noncuranza le dita augmetiche sull'elsa della spada, chiaramente di origine xenos.{/n}
+
+### u032290
+{n}L'imponente nobile indossa un'uniforme con i colori dei von Valancius. Le augmetiche gli ricoprono il volto, di cui sopravvivono soltanto un lembo teso di pelle grigia e infiammata e un occhio azzurro e brillante. Il Rogue Trader ti osserva con interesse mentre ti soffermi sul suo aspetto.{/n}
+
+### u032291
+"L'Inquisitore af Irramon ha osato accusare di eresia me, un Rogue Trader! Crede che l'influenza dell'Inquisizione sia così grande da poter ignorare i privilegi concessi dal Mandato e attaccarmi nel mio stesso palazzo. Diodas si crede al di sopra del Dio-Imperatore in persona? Ebbene, pagherà per la sua tracotanza."
+
+### u032292
+{n}La mano di Seberian scatta verso l'arma, le dita augmetiche che si serrano sull'impugnatura con un sibilo.{/n} "Come conosci quel nome? A chi altro l'hai detto? Aspetta un attimo. Non puoi essere..." {n}Giungendo a una conclusione nota solo a lui, il Rogue Trader si rilassa.{/n} "Terrò segreta la tua identità. Amella è mia alleata e protettrice, e avevo fede che non mi avrebbe lasciato a respingere Diodas da solo."
+
+### u032293
+"Che cos'è questo? 'La Litania dell'Ultimo Pentimento'? Devi scherzare. Non è da me scrivere simili parole." {n}Nonostante Seberian abbia in mano il suo stesso diario, la sua confusione sembra genuina.{/n}
+
+### u032294
+"Hai scoperto anche questo, eh? Inutile nasconderlo: avevo davvero un artefatto in mio possesso, una lama di incredibile potere. Laria ha insistito perché mettessi l'artefatto sotto sorveglianza e non agitassi i soldati. Confesso che mi sentivo più tranquillo con quella alla cintura, ma l'argomento del Siniscalco era più sensato."
+
+### u032295
+{n}Una risata meccanica si fa strada cigolando fuori dalla griglia vox. Quando vede che non condividi il suo divertimento, il Rogue Trader aggrotta la fronte.{/n} "Oh. Facevi sul serio?"
+
+### u032296
+"Ho quasi pensato che volessi farti giustiziare. Ti prego di evitare simili battute in futuro."
+
+### u032297
+"'Ad Sanctum Imperialis', strofa mille e cinque." {n}Seberian appare imperturbabile e persino un po' deluso.{/n} "Che cosa ti aspettavi? Non lascerai vivo il palazzo. E anche se ci riuscissi, il mio Siniscalco cambierà semplicemente la litania di accesso. Che spreco di vite..."
+
+### u032298
+{n}Mentre ascolti il monologo di Seberian, non ti accorgi dei suoi gesti: fa un segno appena percettibile, e decine di colpi di fucile laser ti trapassano.{/n}
+
+### u032299
+"Il tuo interesse per la mia dinastia è infinito, non è vero? Devi sapere che i miei piani sono molto più ambiziosi. La Casata von Valancius sarà presto la dinastia di Rogue Trader più potente della Distesa. Ma non trattenere il fiato in attesa di dettagli sul mio piano. Dovrai aspettare e vedere."
+
+### u032300
+{n}Il Rogue Trader ti scaccia con un gesto come se allontanasse una mosca fastidiosa, spargendo a terra gocce di olio macchina.{/n} "Tieni per te le tue lusinghe."
+
+### u032301
+"I miei soldati non devono preoccuparsi di false accuse. Il loro compito è servire fedelmente il proprio signore e non speculare su cose che non comprendono."
+
+### u032302
+"Sei sorprendentemente {mf|autoritario|autoritaria} per un semplice vassallo. Non abusare della mia benevolenza, ho perso abbastanza persone oggi."
+
+### u032303
+"Prego? Non ho mai avuto alcun legame del genere con un membro della Casata Gaprak!"
+
+### u032304
+{n}Il volto di Seberian, sfigurato dalle augmetiche, impallidisce, ma la sua voce suona sorprendentemente salda mentre dà l'ordine:{/n} "Guardie! Una spia si è infiltrata nel palazzo! Aprite il fuoco!"
+
+### u032305
+"Devo ammettere che mi aspettavo rinforzi un po' più... consistenti." {n}Nonostante la stanchezza che traspare perfino dalle distorsioni cigolanti del suo apparato vox, l'uomo liscia le pieghe inesistenti della sua uniforme e si presenta con dignità:{/n} "Il mio nome è Seberian von Valancius, ma questo lo sapevi già. Eppure è la prima volta che ti vedo."
+
+### u032306
+{n}La pelle che circonda le sue augmetiche si tende, e ti rendi conto che Seberian sta aggrottando la fronte.{/n} "Chi sei?"
+
+### u032307
+{n}Un uomo imponente in uniforme con i colori dei von Valancius ti squadra con alterigia. Il suo occhio azzurro e brillante, l'unica parte organica rimasta, spicca nel volto pesantemente augmetizzato.{/n}
+
+### u032308
+"Perdere la spada proprio ora? Impensabile!" {n}L'aristocratico che hai davanti indossa un'uniforme con i colori dei von Valancius. Il suo volto è stato sfigurato oltre ogni riconoscimento dagli impianti: solo l'unico occhio sopravvissuto e i lembi tesi di pelle lasciano intuire che il mostro che hai di fronte era un tempo un uomo attraente. Il Rogue Trader ti fissa con sospetto, e il sintetizzatore vox incastonato nel suo cranio gracchia:{/n} "Chi diavolo sei?"
+
+### u032309
+{n}Il Rogue Trader, abbigliato con i colori della dinastia von Valancius, alza bruscamente lo sguardo al tuo avvicinarsi. Il sopracciglio sul lembo di pelle fissato al cranio si contrae, sforzandosi di trasmettere il suo disappunto.{/n} "Mi porti altre cattive notizie, non è vero? Non c'è da stupirsi. Il quartier generale è distrutto, perciò dobbiamo combattere alla cieca!"
+
+### u032310
+"E ora, con Exalt-117 ferito, rischiamo di restare anche senz'armi. È l'unico in grado di domare lo spirito macchina di quelle torrette..." {n}Seberian passa le dita augmetiche sul volto come per scacciare una ragnatela.{/n} "Basta. Parla e facciamola finita."
+
+### u032311
+"Come osi!" {n}La luce fredda dell'impianto ottico di Seberian cade su di te.{/n} "Solo per queste parole dovrei spararti all'istante, ma ti concederò un'ultima possibilità di parlare: quale sconsiderata congettura ti ha spinto ad accusare mia figlia di tradimento?"
+
+### u032312
+"Che sciocchezze." {n}Nonostante le sue parole, Seberian esita ancora.{/n} "Juvenna in effetti si è comportata in modo strano in questi ultimi giorni... Sono certo che sia tutto un grosso malinteso. Il Siniscalco Voigtvir si unirà a noi, così che possa farti arrestare subito per calunnia una volta che tutti ti avremo visto {mf|smentito|smentita}."
+
+### u032313
+"Questo è ridicolo! Ti ha mandato Diodas, non è vero? Speravi di seminare discordia tra me e mia figlia? Saresti {mf|dovuto venire meglio preparato|dovuta venire meglio preparata}, {name}. "
+
+### u032314
+"Il mio aspetto ti inorridisce, non è vero? Quando non avevo ancora rinunciato ai limiti innati dell'umanità, la dinastia von Valancius stava svanendo, ma ora guarda: il protettorato prospera! Ho dovuto sacrificare parte della mia natura umana, sì, ma che cosa ho ottenuto in cambio? Nuovi mondi, nuovi orizzonti... Non mi aspetto che tu capisca, non sei {mf|un Rogue Trader|una Rogue Trader}, dopotutto. Il tuo mondo è troppo piccolo per apprezzare la portata delle mie conquiste."
+
+### u032315
+"Il Dio-Imperatore ci ha concesso il Mandato di Commercio per espandere i confini dell'Imperium: esplorare i più remoti angoli della galassia e annettere nuovi mondi. Per farlo, un Rogue Trader deve essere flessibile dove le leggi dell'Imperium sono ingombranti. Deve essere spinto non dall'avidità, ma da una sete di scoperta. E, naturalmente, deve essere un capo che gli altri seguano: senza sudditi leali sul campo, non si può mantenere il proprio dominio sul protettorato."
+
+### u032316
+{n}Il sintetizzatore vox di Seberian emette un trillo simile a una risatina.{/n} "La tua opinione conta poco. Ho dalla mia la storia, e mostrerà che avevo ragione."
+
+### u032317
+"Isimond? È un servitore leale. Quando Juvenna me lo presentò, non avevo idea di quanto sarebbe diventato prezioso. L'arma di cui parli, gliela donai io stesso per i suoi servigi alla dinastia."
+
+### u032318
+"Che... come... Come fai a saperlo?" {n}Nonostante i suoi estesi impianti, Seberian non riesce a nascondere l'allarme: i solchi profondi nel lembo di pelle viva e la lieve interferenza del sintetizzatore vox lo tradiscono.{/n} "Questa è una notizia davvero terribile. Devo informare i tutori dell'ordine che i rinforzi non arriveranno. Chi si abbasserebbe a questo crimine? Diodas è caduto così in basso?"
+
+### u032319
+"Isimond?" {n}Seberian sembra barcollare all'indietro.{/n} "Se hai ragione, non mi resta che giustiziare qualcuno che consideravo uno dei servitori più leali della dinastia."
+
+### u032320
+"La notizia della morte del lord Gaprak è tragica, ma la perdita di quei rinforzi... Forse la tua tempestiva segnalazione ha scongiurato la nostra sconfitta. Parleremo della tua ricompensa quando questa guerra sarà finita."
+
+### u032321
+{n}La notizia coglie Seberian di sorpresa, ma lui riacquista rapidamente la compostezza.{/n} "Bene. Non posso avere un traditore tra i miei ranghi."
+
+### u032322
+{n}Dopo un attimo di esitazione, Seberian afferra il suo vox e ordina:{/n} "Arrestate immediatamente il Capitano Sauerback."
+
+### u032323
+"Ti sono grato per la notizia, ma la tua ingerenza in questa faccenda finisce qui. Siamo in guerra, e non posso permettere che un traditore resti a piede libero un secondo di più." {n}Estraendo il suo vox, Seberian ordina:{/n} "Arrestate immediatamente il Capitano Sauerback."
+
+### u032324
+"I Drivestem covano rancore verso i Gaprak da molto tempo. Non posso credere che abbiano scelto di regolare i conti nel mezzo di una guerra!" {n}Seberian si strofina stancamente la parte organica del volto sopra la radice del naso, in un gesto molto umano.{/n} "Ti prego di informare il mio Siniscalco dei fatti. La questione è delicata: Lady Drivestem ha commesso tradimento e non può restare impunita, ma senza i rinforzi dei Gaprak posso contare solo sulle truppe dei Drivestem. Che il mio Siniscalco decida la sorte di Camilla: sarà una buona lezione di manovre politiche per Laria."
+
+### u032325
+"Juvenna, ma certo... Calcola sempre le sue mosse con parecchi passi di anticipo. Eliminando il rampollo dei Gaprak, ha ucciso due grox con un colpo solo: ha pareggiato il numero delle nostre truppe con quelle nemiche e ha seminato discordia nel mio campo. Mentre tutti erano occupati a cercare i rinforzi scomparsi, quella traditrice tesseva una rete di menzogne attorno a me!"
+
+### u032326
+"Stimato Magos." {n}Seberian inclina leggermente il capo in segno di saluto.{/n} "Sono lieto di vedere che i servitori dell'Omnissiah apprezzano la loro collaborazione con la Casata von Valancius."
+
+### u032327
+"Puoi andare, mi hai già preso abbastanza tempo."
+
+### u032328
+[Chiama le frequenze dell'Inquisizione]
+
+### u032329
+"Non sono Elana. Ma sono {mf|disposto|disposta} a darvi le informazioni di cui avete bisogno nel nome del Dio-Imperatore."
+
+### u032330
+"Non sono {mf|un vostro agente|una vostra agente}, ma una figura di importanza ancora maggiore. E desidero parlare con voi."
+
+### u032331
+[Chiama l'ultima frequenza usata]
+
+### u032332
+[Ascolta le trasmissioni]
+
+### u032333
+[Esamina la vox-stazione]
+
+### u032334
+"Qui Elana. Datemi un rapporto sulla situazione."
+
+### u032335
+"Perché i servitori del Trono d'Oro assediano Dargonus?"
+
+### u032336
+"Sono stati gli agenti dell'Inquisizione a uccidere Gaprak?"
+
+### u032337
+[Termina la conversazione]
+
+### u032338
+[Lascia stare la vox-stazione]
+
+### u032339
+[Esamina la zona]
+
+### u032340
+[Osserva da vicino la vox-stazione]
+
+### u032341
+[Esamina le frequenze chiamate in precedenza]
+
+### u032342
+[Guarda qualcos'altro]
+
+### u032343
+"Credo di aver cambiato idea sull'aiutarvi."
+
+### u032344
+{n}Un intero vox-array è stato abilmente nascosto dietro la parte esterna della lastra di ferrogranito. È difficile immaginare il livello di delicatezza necessario per collocare il dispositivo con discrezione in un posto simile.{/n}
+
+### u032345
+"I servitori del Trono d'Oro a Elana. Riferirete sui movimenti del Corifeo eretico?" {n}La voce profonda e ferma di chi parla è quasi ipnotica.{/n}
+
+### u032346
+"{mf|Un servitore|Una serva} di retto sentire del {g|Encyclopedia:EmperorGlossary}Dio-Imperatore{/g} in mezzo alla xenoeresia che prospera su Dargonus: è possibile?"
+
+### u032347
+"La verità si conquista con la devozione. Ora che siamo alleati, preparatevi ad ascoltare."
+
+### u032348
+{n}Dal vox non senti altro che rumore bianco.{/n}
+
+### u032349
+{n}L'apparato della vox-stazione è stato incorporato con maestria nella parete, con cavi sottili e minuscole leve che si adattano perfettamente al colore della pietra. Puoi trovarlo solo se sai esattamente dove guardare.{/n}
+

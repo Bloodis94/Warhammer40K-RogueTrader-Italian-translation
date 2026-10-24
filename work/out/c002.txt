@@ -1,0 +1,1036 @@
+### u000963
+Iniziativa
+
+### u000964
+Puoi usare un {g|ib:Medikit}kit medico{/g} per ripristinare le {g|Encyclopedia:HitPoints}ferite{/g} dei membri del gruppo in battaglia, curare una {g|Encyclopedia:Injury}lesione{/g} o eliminare certi {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g} (se il personaggio è ferito o subisce uno di questi {g|Encyclopedia:CommonStatuses}effetti{/g}). Se il personaggio ha un kit medico equipaggiato, la sua icona verrà mostrata in basso a sinistra. Se non c'è nessuna icona, apri l'inventario ed equipaggia un kit medico facendo doppio clic {mouse_icon|LeftMouse} su di esso. Per usare un kit medico, seleziona la sua icona in fondo allo schermo, poi fai clic {mouse_icon|LeftMouse} sul personaggio che ha bisogno di cure o sul suo ritratto. Un personaggio può usare un kit medico solo su un bersaglio adiacente.
+I kit medici possono essere usati solo dai personaggi che possiedono il tratto {g|f:9aefa8d7db3349358e23b2106578353b}Field Medic{/g} o {g|f:37363b46061e46218f40e01ed81e9189}Competenza base: Medicae{/g}, oppure che hanno scelto almeno una volta l'avanzamento della competenza {g|Encyclopedia:SkillMedicae}Medicae{/g}. Una {g|Encyclopedia:Test}prova{/g} della {g|Encyclopedia:Skills}competenza{/g} {g|Encyclopedia:SkillMedicae}Medicae{/g} determina il numero di ferite ripristinate.
+Ogni kit medico contiene 2 o più cariche e ogni uso ne consuma 1. Una volta usati, i kit medici scompaiono dal pannello in fondo allo schermo, perciò ricordati di rifornire regolarmente i tuoi personaggi di nuovi kit medici.
+Nota che curare, come la maggior parte delle azioni, consuma i {g|Encyclopedia:ActionPoints}punti azione{/g} del personaggio in combattimento.
+
+### u000965
+Curare in combattimento
+
+### u000966
+Questo personaggio sta usando un'arma da mischia. Gli {g|Encyclopedia:MeleeAttacks}attacchi in mischia{/g} richiedono che il personaggio sia adiacente al nemico. Per effettuare un attacco in mischia, fai clic {mouse_icon|LeftMouse} sull'{g|Encyclopedia:Ability}abilità{/g} {g|f:be721a48e3614ddbb86bf18503511c2c}Strike{/g}, poi sul nemico che vuoi attaccare. A differenza dei {g|Encyclopedia:SingleRangedAttacks}colpi singoli{/g}, gli attacchi in mischia colpiscono automaticamente, senza bisogno di un tiro. Il nemico cercherà di {g|Encyclopedia:DodgeGlossary}schivare{/g} e {g|Encyclopedia:Parry}parare{/g} l'attacco se a sua volta impugna un'arma da mischia.
+Le armi da mischia possono essere usate per effettuare {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g}: tutte le creature nell'area subiranno danni, a meno che non superino una {g|Encyclopedia:Test}prova{/g} di schivata (o di parata, se sono armate di un'arma da mischia). I danni inflitti dalle armi da mischia dipendono dai parametri dell'arma e dal valore di {g|Encyclopedia:WarhammerStrength}Strength{/g} dell'attaccante.
+
+### u000967
+Il tuo nuovo compagno è un Warrior. Abelard è specializzato nel combattimento in mischia e nell'attirare su di sé gli attacchi nemici.
+{g|f:4955b43454f6488f82892e166c76c995}Charge{/g} è un'{g|Encyclopedia:Ability}abilità{/g} unica dei Warrior, che funziona solo quando impugnano un'arma da mischia e non è considerata un'azione di attacco. Usa {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} per colmare la distanza tra te e il nemico e infliggere danni. Fai clic {mouse_icon|LeftMouse} sull'icona dell'abilità e scegli la direzione della carica. Se un nemico si trova sul percorso diretto di {g|f:4955b43454f6488f82892e166c76c995}Charge{/g}, Abelard lo attaccherà e potrà comunque usare un'azione di attacco subito dopo, se in questo {g|Encyclopedia:Turn}turno{/g} non ne ha ancora usata una.
+Nota che {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} può essere usata solo se il personaggio si trova a 2 o più caselle dal bersaglio.
+
+### u000968
+Attacchi in mischia
+
+### u000969
+Abilità di Abelard
+
+### u000970
+Il tuo personaggio ha appena mancato il bersaglio! Per aumentare la {g|Encyclopedia:HitChance}probabilità di colpire{/g}, dota il tuo personaggio di un'arma decente e piazzalo in una posizione sopraelevata.
+Le {g|Encyclopedia:Ability}abilità{/g} e i {g|Encyclopedia:Talent}talenti{/g} che migliorano la <b>caratteristica</b> {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} ti aiuteranno a colpire più spesso nel combattimento ravvicinato.
+Per una mira migliore, impara i talenti che aumentano le <b>caratteristiche</b> {g|Encyclopedia:WarhammerPerception}Perception{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+
+### u000971
+Mancato
+
+### u000972
+Tutti gli scontri del gioco sono a {g|Encyclopedia:Turn}turni{/g} e si svolgono su una griglia. Nel proprio turno, un personaggio può muoversi, attaccare e usare le proprie {g|Encyclopedia:Ability}abilità{/g}.
+Seleziona una casella nell'area evidenziata e fai doppio clic {mouse_icon|LeftMouse} su di essa per spostarvi il personaggio.
+
+### u000973
+I <b>{g|Encyclopedia:MovementPoints}punti movimento{/g} ({g|Encyclopedia:MovementPointsSpace}PM{/g})</b> determinano quanto lontano può spostarsi un personaggio nel proprio {g|Encyclopedia:Turn}turno{/g}.
+1 PM corrisponde a una casella del campo di battaglia. Muoversi in diagonale costa di più: una casella diagonale su due consuma 2 PM.
+All'inizio di ogni turno, i punti movimento vengono ripristinati al valore massimo.
+Nota che, una volta iniziato il movimento, questa azione non può più essere annullata.
+
+### u000974
+Movimento in combattimento
+
+### u000975
+Punti movimento
+
+### u000976
+Il tuo personaggio è afflitto da un {g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g}!
+Questi effetti possono ostacolare la capacità di un personaggio di combattere, superare {g|Encyclopedia:Test}prove{/g} o usare armi e oggetti.
+Per saperne di più su un effetto negativo, passa il cursore sulla sua icona sopra il personaggio sul campo di battaglia e tieni premuto [TAB]. Puoi anche esaminare gli effetti negativi attivi nel menu del personaggio o passando il cursore sull'icona dell'effetto accanto al ritratto del personaggio. La descrizione di un effetto negativo può aiutarti a capire quanto durerà e come potresti sbarazzartene.
+
+### u000977
+Effetti negativi
+
+### u000978
+L'ordine in cui si compiono le azioni in combattimento è importante. Il tuo personaggio può muoversi sul campo di battaglia solo prima di compiere un'azione di attacco.
+Dopo aver attaccato, un personaggio perde i {g|Encyclopedia:MovementPoints}punti movimento{/g} rimanenti e non può muoversi fino all'inizio del {g|Encyclopedia:Turn}turno{/g} successivo. Esiste però un modo per aggirare il problema, se per esempio il personaggio ha un modo per guadagnare punti movimento dopo aver attaccato.
+
+### u000979
+Movimento e attacco
+
+### u000980
+Alcuni colpi sono in grado di trapassare i nemici e infliggere {g|Encyclopedia:Damage}danni{/g} non solo a loro, ma anche ai personaggi che si trovano dietro di essi.
+Il parametro di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} è presente sulla maggior parte delle armi e influisce sui danni subiti dal bersaglio, oltre a determinare la probabilità di {g|Encyclopedia:Overpenetration}<b>sovrapenetrazione</b>{/g}.
+Alcune armi hanno il parametro di <b>sovrapenetrazione</b>, che dipende dal tipo di arma, dal valore del parametro di <b>{g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}</b> dell'arma e dai {g|Encyclopedia:Talent}talenti{/g} del personaggio.
+In caso di <b>sovrapenetrazione</b>, i personaggi dietro al bersaglio subiranno meno danni.
+
+### u000981
+Sovrapenetrazione
+
+### u000982
+Quando un bersaglio viene {g|Encyclopedia:PushGlossary}spinto{/g}, può scontrarsi con muri, un altro personaggio o altri ostacoli. I danni da collisione sono ridotti dalla {g|Encyclopedia:Deflection}deviazione{/g} e si calcolano in modo diverso dai danni normali. Nota che, se un bersaglio si scontra con un altro personaggio, entrambi subiranno danni da collisione. Inoltre, quel personaggio non può {g|Encyclopedia:DodgeGlossary}schivare{/g} la collisione.
+
+### u000983
+Danni da collisione
+
+### u000984
+Hai esaurito le munizioni! Per continuare a sparare, devi {g|Encyclopedia:Reload}ricaricare{/g} l'arma.
+Usa l'azione di <b>ricarica</b> nel pannello delle armi in fondo allo schermo per rifornirti di munizioni e continuare a combattere. Come per la maggior parte delle azioni in combattimento, per ricaricare devi spendere {g|Encyclopedia:ActionPoints}punti azione{/g}.
+Le munizioni sono illimitate per il tuo personaggio e il tuo gruppo, quindi puoi ricaricare ogni volta che ne hai bisogno.
+
+### u000985
+Ricarica
+
+### u000986
+I personaggi con armi da mischia impediscono ai nemici adiacenti di compiere attacchi con armi a distanza. Pistole e fucili a pompa fanno eccezione a questa regola: possono essere usati a bruciapelo.
+
+### u000987
+Blocco degli attacchi
+
+### u000988
+Per sopravvivere nella cupa oscurità del lontano futuro, dovrai affrontare nemici di ogni tipo e lottare per la tua vita. Questi suggerimenti e tutorial ti aiuteranno a familiarizzare con il sistema di combattimento di Warhammer 40,000: Rogue Trader.
+Fai clic sul pulsante in alto sullo schermo per iniziare lo scontro.
+
+### u000989
+Inizio del combattimento
+
+### u000990
+Il personaggio è {g|Encyclopedia:Stun}<b>stordito</b>{/g} ed è costretto a saltare un {g|Encyclopedia:Turn}turno{/g}!
+Finché lo stordimento è attivo, il personaggio non può {g|Encyclopedia:Parry}parare{/g}, {g|Encyclopedia:DodgeGlossary}schivare{/g} né compiere {g|Encyclopedia:AttackOfOpportunity}attacchi di opportunità{/g}. Quando attaccano un bersaglio stordito, i nemici ottengono {g|Encyclopedia:Bonus}bonus{/g} per colpire.
+
+### u000991
+Stordimento
+
+### u000992
+Per usare le {g|Encyclopedia:Ability}abilità{/g} uniche chiamate {g|Encyclopedia:HeroicAct}atti eroici{/g} o {g|Encyclopedia:DesperateMeasure}misure disperate{/g}, è necessario lo {g|Encyclopedia:MomentumWithDetailsGlossary}<b>slancio</b>{/g}.
+In base alle azioni del tuo gruppo in combattimento, la barra dello slancio aumenterà o diminuirà.
+Un valore alto di <b>slancio</b> permette a un personaggio di usare un atto eroico. Un valore basso dà accesso alle misure disperate. Entrambe le abilità possono cambiare completamente le sorti di uno scontro, ma ogni membro del gruppo può usare l'una o l'altra, e una sola volta per combattimento.
+
+### u000993
+Slancio
+
+### u000994
+Quando sei {mf|pronto|pronta} a concludere il tuo {g|Encyclopedia:Turn}turno{/g}, premi [{bind|Pause}] o fai clic sul pulsante di fine turno in basso a destra sullo schermo.
+
+### u000995
+Fine del turno
+
+### u000996
+Incontrerai nemici con varie {g|Encyclopedia:Ability}abilità{/g} e caratteristiche. Un'icona accanto al ritratto di un nemico indica che è sotto l'influsso di un qualche {g|Encyclopedia:CommonStatuses}effetto{/g}. Fai clic {mouse_icon|RightMouse} sull'icona dell'effetto per vedere maggiori dettagli.
+Se vuoi saperne di più su un nemico, fai clic {mouse_icon|RightMouse} sul suo ritratto o sul nemico stesso.
+
+### u000997
+Stato dei nemici
+
+### u000998
+I trofei sul lato destro della finestra dei trofei vanno nel tuo inventario: questi oggetti possono essere usati o equipaggiati dai tuoi personaggi. I trofei a sinistra vengono imballati come carico e inviati alla tua nave, dove potranno poi essere usati per commerciare con varie fazioni.
+Puoi spostare i trofei da un lato all'altro della finestra trascinandoli con {mouse_icon|LeftMouse}. In alternativa, puoi usare i pulsanti in basso per trasferire in blocco tutti i trofei alla sezione del carico o a quella dell'inventario della finestra dei trofei, e viceversa. Fai clic su "Raccogli tutto" o premi [SPACE] per trasferire i trofei di entrambi i lati della finestra dei trofei nelle rispettive finestre.
+
+### u000999
+I nemici sconfitti non hanno più bisogno dei loro averi, ma tra questi potresti trovare trofei di valore. Fai clic {mouse_icon|LeftMouse} su un nemico sconfitto per ispezionare ciò che rimane di lui.
+
+### u001000
+Carico
+
+### u001001
+Raccolta del bottino
+
+### u001002
+Hai ottenuto un'<b>armatura pesante</b>. A differenza delle armature leggere e {g|Encyclopedia:MediumArmour}medie{/g}, l'armatura pesante offre la capacità di deviare i danni.
+La {g|Encyclopedia:Deflection}<b>deviazione</b>{/g} è una statistica unica dell'armatura pesante che riduce i danni subiti di una quantità fissa specificata.
+L'armatura pesante ha un valore di armatura più alto delle armature medie e {g|Encyclopedia:LightArmour}leggere{/g}, ma di solito comporta anche una {g|Encyclopedia:Penalty}penalità{/g} di <b>{g|Encyclopedia:DodgeGlossary}schivata{/g}</b> maggiore, che rende più difficile schivare un attacco nemico mentre la si indossa.
+Solo i personaggi con il {g|Encyclopedia:Talent}talento{/g} {g|f:684c766dc9c24fcf856dc1d6f01d9290}Heavy Armour Proficiency{/g} possono indossare un'armatura pesante.
+
+### u001003
+Armatura pesante
+
+### u001004
+Puoi passare il cursore sulle parole {g|Encyclopedia:GlossaryLink}evidenziate{/g} per saperne di più. I suggerimenti che compaiono possono aiutarti a comprendere meglio il mondo del gioco o le sue meccaniche.
+Le parole vengono evidenziate quando compaiono per la prima volta in un testo: scorri verso l'alto la finestra del dialogo per rivedere il termine evidenziato che ti interessa.
+
+### u001005
+Collegamenti
+
+### u001006
+Idira è armata di un bastone speciale che permette a uno psyker di scatenare {g|Encyclopedia:PsychicPowers}poteri psichici{/g} contro i nemici.
+In futuro incontrerai bastoni che solo uno psyker esperto in una certa disciplina può usare. Per esempio, potresti trovare un bastone che permette a uno psyker di usare <b>Inferno</b>, ma per farlo deve prima aver imparato la disciplina psichica della <b>piromanzia</b>.
+
+### u001007
+Idira è una <b>psyker</b> e una <b>Operative</b>. In quanto Operative, può studiare gli avversari e individuarne le debolezze, mentre le sue {g|Encyclopedia:Ability}abilità{/g} da psyker le permettono di infliggere loro danni.
+{g|f:502b9195c84c42c5b180f3f63ed7955c}Analyse Enemies{/g} è un'abilità da Operative che applica l'{g|Encyclopedia:CommonStatuses}effetto{/g} {g|Encyclopedia:Exploit}exploit{/g} a tutti i nemici nella {g|Encyclopedia:LineOfSight}linea di vista{/g} dell'Operative all'inizio di ogni {g|Encyclopedia:Turn}turno{/g} dell'Operative. L'Operative può anche usare questa abilità contro un nemico specifico per infliggergli diversi accumuli di questo effetto. Più alto è il {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} dell'Operative, più accumuli di exploit verranno inflitti.
+Ogni volta che l'Operative colpisce un bersaglio colpito da un exploit, l'attacco infligge danni aggiuntivi. L'entità dei danni extra dipende dal numero di accumuli di exploit del bersaglio e dalla {g|Encyclopedia:WarhammerPerception}Perception{/g} dell'Operative.
+{g|f:197b8a8a12b0442db7ffee1067cf3d97}Expose Weakness{/g} è un'abilità da Operative che può essere usata contro un singolo nemico sotto l'effetto exploit. Questa abilità riduce la {g|Encyclopedia:DodgeGlossary}schivata{/g}, la {g|Encyclopedia:Parry}parata{/g} e l'armatura del nemico.
+L'entità della riduzione dipende dal numero di exploit attivi sul nemico e dalla Perception dell'Operative.
+
+### u001008
+Arma di Idira
+
+### u001009
+Abilità di Idira
+
+### u001010
+Quando uno psyker raggiunge un nuovo livello, può scegliere di imparare nuovi {g|Encyclopedia:PsychicPowers}poteri psichici{/g} e {g|Encyclopedia:Talent}talenti{/g} da psyker invece di {g|Encyclopedia:Ability}abilità{/g} e talenti dell'archetipo.
+I poteri psichici e i talenti sono suddivisi per discipline. Finché uno psyker non impara almeno un potere psichico di una disciplina, non può acquisire i talenti di quella disciplina. Per imparare poteri da psyker di livello più alto, uno psyker deve prima aver imparato almeno un potere psichico di un livello inferiore della stessa disciplina, e deve avere anche un {g|Encyclopedia:PsyRating}livello psichico{/g} sufficientemente alto. Uno psyker può aumentare il proprio livello psichico invece di scegliere un nuovo talento.
+
+### u001011
+Progressione dei poteri psichici
+
+### u001012
+Hai ottenuto nuovi oggetti! Tutti gli oggetti vengono aggiunti al tuo inventario. Puoi aprirlo premendo [{bind|OpenInventory}] o facendo clic sull'icona della borsa sul lato destro dello schermo.
+Nella schermata dell'inventario puoi equipaggiare armi, armature e altri oggetti o interagire con essi in altri modi. I {g|ib:Medikit}kit medici{/g} possono essere usati per ripristinare le {g|Encyclopedia:HitPoints}ferite{/g} e curare le lesioni.
+
+### u001013
+Inventario
+
+### u001014
+Puoi passare da un membro del gruppo all'altro con le frecce in cima alla schermata dell'inventario o facendo clic {mouse_icon|LeftMouse} sul ritratto di un personaggio. Le descrizioni degli oggetti contengono un confronto con gli eventuali oggetti corrispondenti già equipaggiati dal personaggio.
+
+### u001015
+Per equipaggiare nuove armi o armature, apri il tuo <b>inventario</b> con [{bind|OpenInventory}] e fai doppio clic {mouse_icon|LeftMouse} sull'oggetto. In alternativa, puoi tenere premuto {mouse_icon|LeftMouse} e trascinare l'oggetto nello slot giusto (che verrà evidenziato non appena inizi a trascinare l'oggetto).
+Per vedere i parametri di un oggetto, passa il cursore sulla sua icona e attendi che compaia la finestra delle informazioni. Un altro modo per visualizzare i dettagli di un oggetto è fare clic {mouse_icon|RightMouse} sulla sua icona e poi selezionare Info.
+
+### u001016
+<nobr>Joy-Con</nobr> come mouse
+
+### u001017
+Kibellah ha un passato notevole. In quanto {g|f:9b090810169e4a42b22afd5995d3720d}Death Cult assassin{/g}, può usare un'abilità speciale chiamata {g|f:6d4c042a5a71482d87c6087fb0a3a245}Raining Blood{/g}. Quando viene usata, il bersaglio del successivo attacco in mischia di Kibellah esplode in un getto di sangue, che ricopre il pavimento e tutti i nemici dietro al bersaglio.
+I nemici colpiti subiscono danni aggiuntivi.
+Kibellah può anche usare un oggetto consumabile speciale da lancio chiamato {g|ib:3a4eebf212974ba68d6867981c240b1b}fiala di sangue{/g} per spargere ancora più sangue sul campo di battaglia.
+
+### u001018
+Kibellah è una <b>Bladedancer</b>. Le Bladedancer sono spadaccine di abilità incredibile, capaci di devastare i nemici con due attacchi speciali: {g|f:de2fa09b36314b2dafe09c3e8354d214}Blade Dance{/g} e {g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g}.
+L'abilità {g|f:de2fa09b36314b2dafe09c3e8354d214}Blade Dance{/g} permette alla Bladedancer di sferrare diversi colpi leggeri contro bersagli adiacenti scelti a caso. Se c'è un solo bersaglio adiacente, tutti i colpi sono diretti contro di lui. Se sono equipaggiate due spade, la Bladedancer sferra molti più colpi.
+{g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g} permette alla Bladedancer di balzare rapidamente in una casella selezionata e, all'atterraggio, di infliggere danni a tutti i bersagli adiacenti. Questa abilità può essere usata più volte per turno, ma ogni uso richiede di spendere una carica. La Bladedancer ottiene cariche uccidendo i nemici.
+Le caratteristiche principali della Bladedancer sono Weapon Skill, Agility e Strength. La Weapon Skill potenzia i suoi attacchi in mischia e la difesa nel combattimento ravvicinato. L'Agility aumenta la sua probabilità di schivare e rende più efficaci le sue abilità, per esempio aumentando il numero di colpi sferrati con {g|f:de2fa09b36314b2dafe09c3e8354d214}Blade Dance{/g}. La Strength aumenta i danni inflitti con le spade.
+Nota: la maggior parte delle abilità della Bladedancer può essere usata solo con una spada equipaggiata. Alcune abilità, disponibili con la progressione, costano ferite invece di PA.
+
+### u001019
+Passato di Kibellah
+
+### u001020
+Abilità di Kibellah
+
+### u001021
+Puoi far salire di livello il tuo personaggio e i tuoi compagni! Vincere battaglie, esplorare la Distesa di Koronus e completare missioni ti fa guadagnare {g|Encyclopedia:ExperiencePoints}<b>punti esperienza</b>{/g}. Una volta accumulata abbastanza esperienza, il tuo personaggio ottiene un nuovo livello. Fai clic sul simbolo delle frecce sul ritratto di un personaggio per aprire la schermata di {g|Encyclopedia:CharacterLevel}avanzamento di livello{/g}.
+Ogni livello guadagnato offre ai tuoi personaggi nuove opzioni di progressione, tra cui nuove {g|Encyclopedia:Ability}abilità{/g}, {g|Encyclopedia:Talent}talenti{/g}, miglioramenti delle {g|Encyclopedia:Skills}competenze{/g} e altri potenziamenti.
+I tuoi compagni salgono di livello insieme al tuo personaggio. Anche se non fanno parte del gruppo attivo durante i tuoi viaggi, potrai sempre aumentare il loro livello in seguito.
+
+### u001022
+Punti esperienza
+
+### u001023
+Eogunn ha un passato particolare. In quanto {g|f:b901e045ca514d53bae43f4a9ecdf0b4}Manipulus{/g}, può accumulare una risorsa speciale nota come {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g} per ogni PA speso.
+I suoi mecadendriti incanalano questa energia, potenziando gli alleati e punendo i nemici attraverso le abilità speciali e le armi uniche di Eogunn.
+Eogunn combina le abilità da <b>Officer</b> con le proprie caratteristiche e i propri poteri unici. Molte delle sue abilità scalano con le sue caratteristiche chiave, {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} e {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}, e con le competenze {g|Encyclopedia:SkillLogic}Logic{/g} e {g|Encyclopedia:SkillTechUse}Tech-Use{/g}, che aumentano grazie al suo passato.
+
+### u001024
+{g|f:823b70d6ab9349b2a1e2b1bbbe4798e2}Galvanic Field{/g} è una delle abilità di Eogunn: protegge un alleato selezionato dai suoi attacchi e permette di usare quell'alleato come punto di rimbalzo. Gli attacchi a distanza a bersaglio singolo di Eogunn rimbalzano dall'alleato su un nemico vicino scelto a caso e ottengono una maggiore probabilità di colpo critico. Per usare {g|f:823b70d6ab9349b2a1e2b1bbbe4798e2}Galvanic Field{/g}, Eogunn deve avere almeno 1 accumulo di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}, che viene poi rimosso.
+L'arma potenziante unica di Eogunn, la {g|f:5b46732f51a9413bbc94491ac63c807f}magnarail lance{/g}, gli permette di compiere l'attacco {g|f:2c4d692f28fe47e3a65f45a914c5189b}Magnarail Blast{/g}. Eogunn seleziona il bersaglio principale e diverse caselle entro la gittata. Colpisce il bersaglio principale con un dardo di energia, poi altri dardi di energia scaturiscono dal bersaglio principale verso le caselle selezionate, danneggiando tutte le creature sul loro cammino, che sono considerate bersagli aggiuntivi.
+Quando viene usata, {g|f:2c4d692f28fe47e3a65f45a914c5189b}Magnarail Blast{/g} rimuove da Eogunn tutti gli accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}. Ogni accumulo rimosso aumenta i danni aggiuntivi inflitti al bersaglio principale. I bersagli aggiuntivi subiscono la metà di questi danni aggiuntivi.
+
+### u001025
+Passato di Eogunn
+
+### u001026
+Abilità di Eogunn
+
+### u001027
+Puoi aprire la mappa con [{bind|OpenMap}] per orientarti.
+
+### u001028
+Mappa
+
+### u001029
+Ecco la mappa della tua nave del vuoto: è composta da diverse sezioni, tra le quali puoi spostarti. Alcune sezioni non sono ancora disponibili, ma col tempo il tuo personaggio potrà accedervi.
+Fai clic {mouse_icon|LeftMouse} sulla sezione attiva della nave del vuoto per spostarti lì.
+
+### u001030
+Mappa della zona
+
+### u001031
+Marazhai è un Drukhari e un Dracon del Kabal della Tempesta Razziatrice.
+Marazhai non usa armi umane e può indossare armature Drukhari oppure, se impara il tratto necessario, armature Aeldari.
+L'{g|Encyclopedia:Ability}abilità{/g} unica di Marazhai infligge a Marazhai stesso danni basati sulla {g|Encyclopedia:WarhammerStrength}Strength{/g} e gli infligge l'{g|Encyclopedia:CommonStatuses}effetto{/g} {g|Encyclopedia:BleedingEffect}sanguinamento{/g}. Finché Marazhai sanguina, ottiene +3 di {g|Encyclopedia:Resolve}determinazione{/g} e, man mano che il suo potere cresce, può ottenere anche altri {g|Encyclopedia:Bonus}bonus{/g}.
+Marazhai è anche un Assassin. Gli Assassin hanno un parametro unico chiamato {g|Encyclopedia:Lethality}letalità{/g}, il cui valore può cambiare nel corso del combattimento ed è pari alla {g|Encyclopedia:DodgeGlossary}schivata{/g} dell'Assassin o alla sua {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g}, a seconda di quale sia maggiore.
+Gli Assassin hanno un'abilità cardine passiva chiamata <b>Seek the {g|Encyclopedia:Opening}Opening{/g}</b>, che permette loro di vedere i punti deboli del nemico. Se l'Assassin attacca un bersaglio da un lato che presenta un'apertura, l'attacco sarà particolarmente efficace e infliggerà danni aggiuntivi pari al 10% delle {g|Encyclopedia:HitPoints}ferite{/g} massime del bersaglio.
+L'abilità cardine attiva, <b>Aim for the Opening</b>, permette all'Assassin di creare aperture aggiuntive sul lato a lui più vicino.
+
+### u001032
+Abilità di Marazhai
+
+### u001033
+Per aprire porte chiuse a chiave, sgomberare le macerie, costringere gli spiriti macchina all'obbedienza e superare altri ostacoli puoi usare anche oggetti consumabili.
+Per aprire la porta davanti a te, usa una {g|ib:Consumable_MeltaCharge}carica melta{/g}. Se superi la {g|Encyclopedia:Test}prova{/g} della {g|Encyclopedia:Skills}competenza{/g} {g|Encyclopedia:SkillDemolition}Demolition{/g}, la porta salterà in aria e potrai proseguire.
+
+### u001034
+Prove di competenza con gli oggetti
+
+### u001035
+Muovi il tuo personaggio facendo clic {mouse_icon|LeftMouse} su un punto dello schermo. Apparirà un simbolo e il tuo personaggio si muoverà verso di esso. Se il punto scelto è inaccessibile, il simbolo apparirà nel punto accessibile più vicino.
+
+### u001036
+Movimento
+
+### u001037
+Hai ricevuto una nuova arma, più efficace, per il tuo personaggio. Per migliorare il tuo equipaggiamento, apri l'<b>inventario</b> [{bind|OpenInventory}]. Puoi tenere premuto {mouse_icon|LeftMouse} e trascinare il nuovo oggetto in uno slot per armi, oppure fare doppio clic {mouse_icon|LeftMouse} sull'icona dell'oggetto.
+Durante i tuoi viaggi troverai e acquisterai spesso nuovo equipaggiamento, quindi non dimenticare di aggiornare quello dei tuoi personaggi per renderli più potenti.
+
+### u001038
+Equipaggiare le armi
+
+### u001039
+Man mano che la storia del gioco si dipana, vedrai comparire in cima allo schermo notifiche che indicano che lo stato dell'obiettivo attuale è stato aggiornato e che nuove informazioni sono state aggiunte al tuo diario. Puoi aprire il diario premendo [{bind|OpenJournal}] o facendo clic {mouse_icon|LeftMouse} sulla notifica in cima allo schermo.
+Le voci del diario ti aiutano a tenere traccia degli eventi in corso e guidano il tuo personaggio nel suo viaggio. La scheda delle missioni segue i progressi della storia principale: qui trovi informazioni su tutte le missioni che hai accettato e sul loro stato attuale. Usa il diario per capire dove andare nei prossimi passi della tua avventura.
+Anche le sezioni delle voci di corridoio e dei contratti contengono informazioni importanti: ne saprai di più più avanti.
+
+### u001040
+Diario
+
+### u001041
+Il famiglio del Rogue Trader ha le proprie stazioni di manutenzione, situate sulla nave ammiraglia e nella tua residenza su Dargonus. Con gli appositi kit di potenziamento, queste stazioni possono ottenere fino a tre livelli di miglioramento. I potenziamenti sono permanenti: anche se decidi di cambiare archetipo, e quindi famiglio, le stazioni restano migliorate.
+
+### u001042
+Stazione di manutenzione del famiglio
+
+### u001043
+Mastino cibernetico
+
+### u001044
+Aquila cibernetica
+
+### u001045
+Corvo psibernetico
+
+### u001046
+Sciame di servoteschi
+
+### u001047
+Idira si è unita al tuo gruppo, che ora è composto da più personaggi. Per selezionare un personaggio, fai clic {mouse_icon|LeftMouse} sul suo ritratto. Per selezionarne più di uno, tieni premuto {mouse_icon|LeftMouse} e trascina un riquadro attorno a loro.
+Per selezionare l'intero gruppo e dare ordini a tutti i tuoi personaggi insieme, premi [{bind|SelectAllCharacters}].
+
+### u001048
+Controlli del gruppo
+
+### u001049
+Abilità di Pasqal
+
+### u001050
+Pasqal è un <b>Operative</b> come Idira, ma è anche membro della confraternita dei Tecnopreti, il che gli concede opzioni aggiuntive, vantaggi e capacità uniche.
+Uno dei <b>mecadendriti</b> di Pasqal gli permette di impugnare contemporaneamente la sua ascia da Tecnoprete a due mani e un'arma {g|Encyclopedia:Range}a distanza{/g}. Equipaggia una seconda arma nello slot del suo mecadendrite nella schermata dell'inventario [{bind|OpenInventory}].
+{g|f:95cdd5f42ef5480d9fadd9e0acee641b}Machine Spirit Communion{/g} è l'{g|Encyclopedia:Ability}abilità{/g} speciale di Pasqal che riduce il {g|Encyclopedia:Recoil}<b>rinculo</b>{/g} e aumenta la {g|Encyclopedia:DodgeReduction}<b>riduzione della schivata</b>{/g} delle armi degli alleati in un'area. Tutti i nemici nella stessa area subiscono gli effetti opposti.
+{g|f:0b8058ef3f33406faebea94ee7967d66}Machine Spirit Banishment{/g} è una delle abilità speciali di Pasqal, che riduce i danni inflitti dagli attacchi del bersaglio per 1 {g|Encyclopedia:Round}round{/g}. I bersagli con il tratto {g|f:ed0acc1731834a89bda8cc52ec769e3d}Reject the Flesh{/g} subiscono {g|Encyclopedia:ShockDamage}danni da shock{/g}. Se il bersaglio è un meccanismo o una macchina, questi danni raddoppiano e le sue caratteristiche vengono ridotte fino alla fine del combattimento.
+
+### u001051
+Equipaggiamento, armi e altri oggetti si trovano presso i mercanti delle varie fazioni in tutta la {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}. Per commerciare con loro servono il {g|Encyclopedia:ProfitFactor}<b>Fattore di Profitto</b>{/g} e la {g|Encyclopedia:Reputation}<b>reputazione</b>{/g}. Non vengono spesi negli acquisti, ma il loro livello (uno o entrambi) influisce sulla gamma di merci a tua disposizione.
+La reputazione misura il rapporto del Rogue Trader con le diverse fazioni della Distesa di Koronus. Più alta è la reputazione presso una fazione, più ampia è la gamma di merci offerta dal suo rappresentante.
+Per aumentare la tua reputazione presso una determinata fazione, completa i suoi ordini e consegna ai suoi rappresentanti carichi di valore.
+
+### u001052
+Il <b>Fattore di Profitto</b> misura il tuo status, la tua ricchezza e il tuo potere di {g|Encyclopedia:RogueTrader}Rogue Trader{/g}. Il suo valore è determinato dalle tue relazioni commerciali, dalle entrate dei tuoi possedimenti e dalle riserve del tuo tesoro. Il valore del tuo Fattore di Profitto è mostrato nella scheda della reputazione nel menu del personaggio [{bind|OpenCharacterScreen}].
+Durante i viaggi, il tuo personaggio userà il Fattore di Profitto per acquistare oggetti e completare progetti coloniali.
+Il Fattore di Profitto non viene speso negli acquisti e nelle transazioni: il suo livello determina invece la tua capacità di concludere accordi commerciali. Il Fattore di Profitto può crescere o diminuire. La sua crescita dipende soprattutto dai grandi accordi commerciali, mentre la sua diminuzione dipende dagli investimenti nei progetti coloniali.
+
+### u001053
+Fattore di Profitto
+
+### u001054
+Reputazione e mercanti
+
+### u001055
+Il tuo personaggio ha ricevuto da un alleato un {g|Encyclopedia:PositiveEffect}effetto positivo{/g} temporaneo! Questi effetti potenziano in qualche modo le capacità del tuo personaggio in combattimento.
+Per saperne di più sull'{g|Encyclopedia:CommonStatuses}effetto{/g} ottenuto, passa il cursore sull'icona dell'effetto accanto al ritratto del personaggio.
+
+### u001056
+Effetto positivo
+
+### u001057
+Hai trovato un nuovo bastone!
+Gli psyker possono usare i bastoni per incanalare nuovi {g|Encyclopedia:PsychicPowers}poteri psichici{/g} e le loro varianti sotto forma di {g|Encyclopedia:HeroicAct}atti eroici{/g} o {g|Encyclopedia:DesperateMeasure}misure disperate{/g}. Chi impugna il bastone segue le normali regole quando usa questi nuovi poteri in combattimento.
+Inoltre, ogni bastone di questo tipo ha un proprio livello di potenza che influisce sull'efficacia, sulla {g|Encyclopedia:Range}gittata{/g} e su altri parametri dei poteri psichici associati.
+
+### u001058
+Bastoni
+
+### u001059
+Ricordati di far salire di livello il tuo personaggio e i suoi compagni: ottengono sempre nuove {g|Encyclopedia:Ability}abilità{/g} e nuovi {g|Encyclopedia:Talent}talenti{/g} e migliorano le proprie {g|Encyclopedia:Skills}competenze{/g} e caratteristiche.
+Fai clic sul simbolo delle frecce sul ritratto di un personaggio per aprire la schermata di {g|Encyclopedia:CharacterLevel}avanzamento di livello{/g}.
+
+### u001060
+Salire di livello
+
+### u001061
+Il tuo personaggio ha appena superato una {g|Encyclopedia:Test}prova{/g} passiva di {g|Encyclopedia:SkillAwareness}Awareness{/g}! Queste prove permettono al tuo gruppo di scoprire passaggi nascosti, nascondigli, oggetti e altri dettagli oscuri. Migliorare la {g|Encyclopedia:Skills}competenza{/g} Awareness del tuo personaggio e dei suoi compagni ti permetterà di trovare più oggetti nascosti durante l'esplorazione.
+
+### u001062
+Prove di Awareness
+
+### u001063
+Uno scudo si equipaggia in una mano, ma occupa lo slot in entrambi i set di armi.
+Ogni scudo ha una probabilità di bloccare l'attacco di un nemico. Se un colpo di un attacco a raffica viene bloccato, vengono bloccati anche tutti i colpi successivi.
+{g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}Shield Bash{/g} permette a chi lo impugna di attaccare un nemico con lo scudo.
+L'abilità {g|f:f6a60b4556214528b0ce295c4f69306e}Stalwart Defence{/g} aumenta la probabilità di chi impugna lo scudo di bloccare gli attacchi di più nemici. Se un attacco di questo tipo viene bloccato, chi impugna lo scudo può contrattaccare il nemico corrispondente con la sua arma principale.
+
+### u001064
+Scudi
+
+### u001065
+Per attaccare, fai prima clic {mouse_icon|LeftMouse} sull'icona del {g|Encyclopedia:SingleRangedAttacks}<b>colpo singolo</b>{/g} nel pannello delle armi in fondo allo schermo. Passa il cursore su un nemico: comparirà un suggerimento che mostra la tua probabilità di colpirlo e i possibili danni che puoi infliggere in caso di successo. Fai clic {mouse_icon|LeftMouse} sul nemico per sparare.
+I danni inflitti dai tuoi personaggi dipendono dai parametri dell'arma che usano. L'efficacia del colpo dipende dalla distanza tra il personaggio e il nemico: quando prendi di mira un nemico con un colpo singolo, vedrai due aree che indicano la gittata efficace e la gittata massima dell'arma.
+
+### u001066
+Alcune {g|Encyclopedia:Ability}abilità{/g} del gioco sono considerate <b>azioni di attacco</b> e possono essere usate una sola volta per {g|Encyclopedia:Turn}turno{/g}, a meno che non siano influenzate da specifici {g|Encyclopedia:Talent}talenti{/g} o da altre abilità del personaggio.
+Se un personaggio compie un'azione di attacco, non potrà attaccare di nuovo e perderà i {g|Encyclopedia:MovementPoints}punti movimento{/g} rimanenti fino all'inizio del turno successivo.
+
+### u001067
+Per effettuare attacchi e usare {g|Encyclopedia:Ability}abilità{/g} in combattimento, un personaggio deve spendere {g|Encyclopedia:ActionPoints}punti azione{/g} (o PA). Il totale è mostrato nel pannello in fondo allo schermo.
+Ogni attacco o abilità ha un certo costo in PA. Il numero di quadrati accanto alle icone delle azioni di attacco e delle altre abilità indica il loro costo in PA.
+All'inizio del {g|Encyclopedia:Turn}turno{/g} di ogni personaggio, i suoi PA vengono ripristinati al valore massimo.
+
+### u001068
+Colpo singolo
+
+### u001069
+Un attacco per turno
+
+### u001070
+Punti azione
+
+### u001071
+Vero esperto delle strategie dei Vigilanti, il Proctor Solomorne Anthar dell'Adeptus Arbites eccelle nel combattimento tattico, impiegando uno scudo e un fucile a pompa. Il suo fedele mastino cibernetico Glaito è sempre al suo fianco, pronto a coprirgli le spalle. Negli anni, Glaito è diventato un compagno d'armi di Solomorne, non un semplice famiglio. Perciò, ogni volta che un nemico infligge danni a Glaito, la {g|f:cd8984dc4b2043c18278c317e2e309e5}Fury{/g} dell'Arbitratore cresce. Allora l'abilità {g|f:2de518e4ecaa4cba86aef0a703dc7e42}Torrent of Fury{/g} gli permette di scatenare la sua giusta ira sui nemici, infliggendo danni maggiori.
+
+### u001072
+Abilità di Solomorne
+
+### u001073
+Hai trovato un oggetto che può essere equipaggiato solo da personaggi di un certo grado di convinzione. Puoi aprire il menu del personaggio per vedere quale convinzione segue il tuo personaggio.
+Nota che sia il tuo personaggio sia i suoi compagni hanno le proprie convinzioni. Puoi controllare a quale convinzione aderisce un personaggio nella scheda della biografia nel menu del personaggio [{bind|OpenCharacterScreen}].
+Le convinzioni cambiano di direzione e di grado in base allo sviluppo della storia del gioco e alle decisioni importanti della trama.
+
+### u001074
+Oggetti e convinzioni
+
+### u001075
+A volte il tuo personaggio dovrà prendere decisioni difficili in base ai propri valori, interessi e obiettivi. Tali decisioni influiscono sulle sue <b>convinzioni</b>, che possono svilupparsi in tre direzioni: <b>Dogmatic</b>, <b>Iconoclast</b>, <b>Heretical</b>. Ognuna comprende cinque gradi: più alto è il grado, più zelantemente il personaggio segue le proprie convinzioni e più il mondo che lo circonda reagisce in modo evidente alle sue azioni e decisioni.
+Avanzare nei gradi di ciascuna delle tre direzioni apre l'accesso a nuove battute di dialogo, eventi e {g|Encyclopedia:Ability}abilità{/g} uniche, e cambia anche l'atteggiamento degli altri verso il tuo personaggio. Inoltre, alcuni oggetti possono essere equipaggiati solo da personaggi con determinate convinzioni.
+Quando uno dei rami di convinzione raggiunge il grado III: <b>Votary</b>, diventa il fulcro principale del personaggio. A quel punto, gli altri due rami di convinzione non possono essere portati oltre il grado II: <b>Adherent</b>.
+Anche gli alleati del tuo personaggio hanno convinzioni proprie.
+
+### u001076
+Convinzioni
+
+### u001077
+Uno dei tuoi rami di {g|SoulmarkTypesGlossary}convinzione{/g} ha raggiunto il grado II, <b>Adherent</b>.
+Quando raggiungerà il grado III, <b>Votary</b>, diventerà la convinzione principale del personaggio.
+Dopodiché potrai ancora scegliere opzioni di dialogo che si riferiscono agli altri rami di convinzione, ma quei rami non potranno essere portati oltre il grado II, <b>Adherent</b>.
+
+### u001078
+Mappa della nave del vuoto
+
+### u001079
+Quando posizioni l'area delle {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} {g|f:b1e24d15bb6841d89b9873829f7b3ba5}Rear{/g} o {g|f:bc99e6ba256f45368bc6bc529e59effd}Backline{/g}, puoi premere {bind|FlipZoneStrategist} per ruotare questa area di 90 gradi.
+
+### u001080
+Rotazione dell'area delle Combat Tactics
+
+### u001081
+Più avanti c'è una trappola! Ordina al tuo personaggio di disinnescarla. Se un personaggio entra in un'area minata o fallisce la {g|Encyclopedia:Test}prova{/g} per disinnescarla, la trappola scatta, infliggendo {g|Encyclopedia:DamageTypesGlossary}danni{/g} e {g|Encyclopedia:Injury}lesioni{/g} a tutti i personaggi nella sua {g|Encyclopedia:AreaOfEffect}area d'effetto{/g}.
+A volte vedrai una trappola segnata da un'area rossa e da una linea punteggiata di collegamento. Questa linea porta al meccanismo che controlla la trappola. Passa il cursore sul meccanismo: se il cursore diventa l'icona di una trappola, la trappola può essere disinnescata interagendo con il meccanismo. Fai clic {mouse_icon|LeftMouse} sul meccanismo per tentare la prova di disinnesco. Se hai selezionato l'intero gruppo, andrà a disinnescare la trappola il personaggio con il valore più alto nella {g|Encyclopedia:Skills}competenza{/g} pertinente. Se una trappola è segnata da un'area rossa senza linea punteggiata, avvicinati alla trappola e fai clic su di essa per tentare la prova di disinnesco.
+Per disinnescare i diversi tipi di trappole si usano competenze diverse.
+
+### u001082
+Trappole
+
+### u001083
+Durante il combattimento, il tuo personaggio può perdere parte delle proprie {g|Encyclopedia:HitPoints}ferite{/g}. Il tuo personaggio ha subito una {g|Encyclopedia:Injury}lesione{/g} dopo essere stato attaccato da Kunrad: succede quando un personaggio riceve danni superiori al 50% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g} nell'arco di un {g|Encyclopedia:Round}round{/g} (la percentuale esatta di ferite che un personaggio deve perdere perché questo accada può variare in base alla difficoltà di gioco scelta). Le lesioni riducono la {g|Encyclopedia:Resolve}determinazione{/g} del personaggio.
+Quando un personaggio subisce una lesione, questa è considerata <b>recente</b> durante i primi tre round. Trascorsi tre round, una lesione recente diventa una lesione <b>vecchia</b>. Una lesione recente può essere curata con un {g|ib:Medikit}kit medico{/g} senza dover superare alcuna {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:Skills}competenza{/g}. Le lesioni vecchie possono essere curate con un kit medico, ma richiedono che il personaggio che somministra le cure superi una prova della competenza {g|Encyclopedia:SkillMedicae}Medicae{/g}.
+Usa i kit medici per ripristinare le ferite e curare le lesioni.
+Nota che quando un personaggio perde tutte le sue ferite, perde i sensi: diventa {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g}.
+
+### u001084
+Al termine del combattimento, le ferite di tutti i membri del gruppo vengono ripristinate automaticamente, ma le eventuali {g|Encyclopedia:Injury}lesioni{/g} subite restano: possono essere curate con un kit medico.
+I kit medici possono essere usati solo dai personaggi che possiedono il tratto {g|f:9aefa8d7db3349358e23b2106578353b}Field Medic{/g} o {g|f:37363b46061e46218f40e01ed81e9189}Competenza base: Medicae{/g}, oppure che hanno scelto almeno una volta l'avanzamento della competenza {g|Encyclopedia:SkillMedicae}Medicae{/g}. Ogni volta che un personaggio usa un kit medico in battaglia, una {g|Encyclopedia:Test}prova{/g} della {g|Encyclopedia:Skills}competenza{/g} {g|Encyclopedia:SkillMedicae}Medicae{/g} determina il numero di {g|Encyclopedia:HitPoints}ferite{/g} che verranno ripristinate.
+Abelard può curare le lesioni del tuo personaggio. Fai clic {mouse_icon|LeftMouse} sul ritratto di Abelard, seleziona il kit medico nel pannello in basso a sinistra dello schermo, poi usalo sul tuo personaggio. Abelard deve trovarsi proprio accanto al tuo personaggio per poterlo curare.
+
+### u001085
+Curare le lesioni
+
+### u001086
+Kit medici
+
+### u001087
+Quando un personaggio ha subito un certo numero di {g|Encyclopedia:Injury}lesioni{/g}, queste vengono sostituite da un {g|Encyclopedia:Traumas}<b>trauma</b>{/g}.
+Usa per tempo i kit medici per curare le lesioni ed evitare che i personaggi subiscano traumi. Eliminare i traumi è più difficile: possono essere curati solo riposando sulla nave o in altri luoghi adatti al riposo.
+
+### u001088
+Traumi
+
+### u001089
+Il combattimento inizia con la <b>fase tattica</b>, durante la quale i personaggi non possono attaccare né compiere altre azioni, ma possono cercare di assumere posizioni vantaggiose.
+Seleziona un personaggio facendo clic {mouse_icon|LeftMouse} sul suo ritratto in cima allo schermo, poi fai clic {mouse_icon|LeftMouse} sulla casella in cui vuoi che si sposti. Le caselle rosse sono aree inaccessibili al personaggio. Durante la fase tattica, ogni personaggio del gruppo può spostarsi fino al massimo dei propri {g|Encyclopedia:MovementPoints}punti movimento{/g}, ma non può posizionarsi adiacente a un nemico.
+Premi [{bind|Pause}] per iniziare lo scontro.
+
+### u001090
+Fase tattica
+
+### u001091
+Ulfar è uno Space Wolf, un potente Space Marine. La sua stazza incute rispetto agli alleati e terrore ai nemici, ma poiché Ulfar occupa 4 caselle invece di 1, alcune meccaniche possono funzionare diversamente per lui.
+Ulfar non usa le {g|Encyclopedia:DetailsOfTheCoverGlossary}coperture{/g}, né armature e armi umane convenzionali.
+L'{g|Encyclopedia:Ability}abilità{/g} unica di Ulfar gli permette, una volta per combattimento, invece di perdere i sensi quando le sue {g|Encyclopedia:HitPoints}ferite{/g} scendono a 0, di restare incapacitato per 2 {g|Encyclopedia:Round}round{/g}.
+In questo stato, Ulfar non può essere bersaglio di attacchi né subire danni, e conta anche come copertura totale per i suoi alleati.
+Trascorsi i 2 round, Ulfar può agire di nuovo e recupera il 50% delle sue {g|Encyclopedia:MaxWounds}ferite massime{/g}.
+Inoltre, Ulfar è un Arch-Militant. L'abilità cardine dell'Arch-Militant gli fa ottenere un accumulo di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g} ogni volta che compie un attacco di tipo diverso dall'ultimo usato.
+Ai fini di questa abilità, i tipi di attacco sono: {g|Encyclopedia:SingleRangedAttacks}colpo singolo{/g}, {g|Encyclopedia:MeleeAttacks}attacco in mischia{/g} (a bersaglio singolo o a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}), attacco in mischia ad area, attacco {g|Encyclopedia:Range}a distanza{/g} ad area e attacco a distanza a raffica.
+Per ogni accumulo di questo {g|Encyclopedia:CommonStatuses}effetto{/g} sull'Arch-Militant, la sua {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e la sua {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} aumentano di +5.
+Se l'Arch-Militant accumula 4 o più accumuli di questo effetto, i suoi attacchi iniziano a infliggere un +<u>(3 × {g|Encyclopedia:Bonus}bonus{/g} di WS dell'Arch-Militant)</u>% o un +<u>(3 × bonus di BS dell'Arch-Militant)</u>% di danni aggiuntivi (a seconda di quale sia maggiore).
+
+### u001092
+Abilità di Ulfar
+
+### u001093
+Hai ottenuto l'accesso agli {g|Encyclopedia:HeroicAct}atti eroici{/g} e alle {g|Encyclopedia:DesperateMeasure}misure disperate{/g}! Queste {g|Encyclopedia:Ability}abilità{/g} possono a volte ribaltare le sorti degli eventi anche nella battaglia più disperata. Ma ricorda: le {g|Encyclopedia:DesperateMeasure}misure disperate{/g} non solo aiutano in combattimento, ma hanno anche conseguenze negative. Studia attentamente le abilità prima di usarle.
+Entrambe sono uniche per ogni classe e si sviluppano man mano che i personaggi {g|Encyclopedia:CharacterLevel}salgono di livello{/g}.
+
+### u001094
+Abilità uniche
+
+### u001095
+Hai trovato un oggetto consumabile!
+Granate, stimolanti, kit medici e altri consumabili possono essere collocati negli slot di accesso rapido. Per farlo, fai doppio clic {mouse_icon|LeftMouse} su un oggetto di questo tipo, oppure trascinalo in uno slot evidenziato tenendo premuto {mouse_icon|LeftMouse}. Ogni oggetto consumabile ha un certo numero di usi, indicato nella descrizione dell'oggetto.
+Come per la maggior parte delle azioni in combattimento, usare gli oggetti consumabili consuma i {g|Encyclopedia:ActionPoints}punti azione{/g} del personaggio.
+
+### u001096
+Consumabili
+
+### u001097
+Gli psyker sono pericolosi non solo per i loro nemici, ma per tutti quelli che li circondano (loro stessi compresi).
+Quando usano {g|Encyclopedia:PsychicPowers}poteri psichici{/g}, lo psyker e i suoi alleati possono essere colpiti da {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g} che riducono il livello di {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g} del gruppo.
+Ogni uso di poteri psichici assottiglia il velo tra lo spazio reale e il warp, aumentando il {g|Encyclopedia:VeilThickness}degrado del Velo{/g}. Quando il suo valore raggiunge 15, ogni successivo uso di poteri psichici può scatenare i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}, un evento casuale e pericoloso dalle conseguenze imprevedibili.
+
+### u001098
+Poteri degli psyker
+
+### u001099
+Yrliet è una xenos, una degli Asuryani. È una <b>Ranger</b> che segue il Sentiero dell'Emarginato, e la sua abilità nel combattimento a distanza non ha rivali.
+Yrliet non usa armi umane e può indossare armature Aeldari oppure, se impara il tratto necessario, armature Drukhari.
+L'{g|Encyclopedia:Ability}abilità{/g} unica di Yrliet conclude all'istante il suo {g|Encyclopedia:Turn}turno{/g}. Tuttavia, all'inizio del turno successivo, lei compirà un attacco che colpisce sempre il bersaglio.
+
+### u001100
+Abilità di Yrliet
+
+### u001101
+Drusiani
+
+### u001102
+Explorator
+
+### u001103
+Missione Kasballica
+
+### u001104
+Compagnia del Vuoto
+
+### u001105
+Flotta Imperiale
+
+### u001106
+L'utilizzatore subisce −3 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+
+### u001107
+<u>({g|Encyclopedia:SkillLogic}Logic{/g} / 5)</u>
+
+### u001108
+<u>(1 + bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} / 2)</u>
+
+### u001109
+Eogunn non può equipaggiare armature.
+
+### u001110
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di Eogunn aumenta di +{uip|ArmorBonus|cdd522da57e84708933db6908f8b79ea}% e la sua {g|Encyclopedia:Deflection}deviazione{/g} aumenta di +2.
+
+### u001111
+Oubliette galvanica Minoris
+
+### u001112
+<u>({g|Encyclopedia:SkillLogic}Logic{/g} / 4)</u>
+
+### u001113
+<u>(bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} / 2)</u>
+
+### u001114
+<u>Bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g}</u>
+
+### u001115
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di Eogunn aumenta di +{uip|ArmorBonus|c8eff4d26a3e4411974fbeb4f5494f0f}% e la sua {g|Encyclopedia:Deflection}deviazione{/g} aumenta di +{uip|DeflectionBonus|c8eff4d26a3e4411974fbeb4f5494f0f}.
+Se all'inizio del suo turno Eogunn ha più di {uip|INT|c8eff4d26a3e4411974fbeb4f5494f0f} accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}, questi bonus raddoppiano per 1 round.
+
+### u001116
+<u>(bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} / 3)</u>
+
+### u001117
+Eogunn può ora ottenere accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}.
+All'inizio del combattimento, Eogunn ottiene +1 accumulo di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}.
+
+### u001118
+Condotto di purificazione dei miasmi
+
+### u001119
+Eogunn può ora ottenere accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}.
+All'inizio del combattimento, Eogunn ottiene +2 accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}.
+
+### u001120
+Condotto consacrato di purificazione dei miasmi
+
+### u001121
+<u>({g|Encyclopedia:CharacterLevel}livello del personaggio{/g} / 2)</u>
+
+### u001122
+Eogunn non può equipaggiare mantelli o stivali.
+
+### u001123
+Eogunn ottiene l'abilità {g|f:823b70d6ab9349b2a1e2b1bbbe4798e2}Galvanic Field{/g}.
+La {g|Encyclopedia:SkillLogic}Logic{/g} di Eogunn aumenta di +{uip|LogicBonuss|b836bde711ec44379330e442a48704be}.
+
+### u001124
+Condotto di forza cinetica
+
+### u001125
+Eogunn ottiene l'abilità {g|f:823b70d6ab9349b2a1e2b1bbbe4798e2}Galvanic Field{/g}.
+La Logic di Eogunn aumenta di +{uip|LogicBonuss|2567694d8ff449b3b3f341ebb42e836e} e la sua Tech-Use aumenta di +{uip|TechUseBonus|2567694d8ff449b3b3f341ebb42e836e}.
+
+### u001126
+{g|Encyclopedia:CharacterLevel}<u>livello del personaggio</u>{/g}
+
+### u001127
+Condotto consacrato di forza cinetica
+
+### u001128
+Pasqal subisce un +25% di {g|Encyclopedia:EnergyDamage}danni energetici{/g}.
+
+### u001129
+Pasqal ottiene l'abilità {g|f:0b8058ef3f33406faebea94ee7967d66}Machine Spirit Banishment{/g}.
+
+### u001130
+Nodo accumulatore
+
+### u001131
+Pasqal ottiene +11 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} e infligge un +{uip|LogicDamage|affa20abaee0491b8b1bec789d6a3809}% di danni. La sua {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} aumenta di +20% contro le creature con meno del 100% di {g|Encyclopedia:HitPoints}ferite{/g}. Il primo attacco che Pasqal compie mentre si trova su ciascuna delle caselle evidenziate non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g}.
+Questo effetto è attivo solo mentre Pasqal si trova su una delle caselle evidenziate.
+
+### u001132
+Pasqal non può subire l'effetto {g|f:d51b30ccb3d447b28c77b7057a5ccfa0}broken ribs{/g}.
+Finché Pasqal non si trova sulle caselle evidenziate, subisce invece l'effetto {g|f:f24d26752b6f47cfb35f177b4358c247}severed interface{/g}.
+
+### u001133
+Permette a Pasqal di usare i mecadendriti.
+All'inizio del {g|Encyclopedia:Turn}turno{/g} di Pasqal, {uip|CellNumber|097b2edaba2f489f9860392afe562972} caselle entro un raggio di 8 caselle attorno a lui (una di queste caselle deve trovarsi entro un raggio di 3 caselle da lui) vengono evidenziate.
+Finché Pasqal si trova su una di quelle caselle, subisce l'effetto {g|f:affa20abaee0491b8b1bec789d6a3809}neural agony probe{/g}. Il primo attacco che Pasqal compie mentre si trova su ciascuna di quelle caselle non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g}.
+
+### u001134
+Sonda di agonia neurale
+
+### u001135
+Questo effetto è attivo solo quando il personaggio si trova fuori dalle caselle evidenziate. Subisce −11 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} e infligge un −{uip|LogicDamage|f24d26752b6f47cfb35f177b4358c247}% di danni. La sua {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} si riduce di −20% contro le creature con meno del 100% di {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u001136
+Severed Interface
+
+### u001137
+Fino alla fine del combattimento, tutti i personaggi alleati ottengono questo effetto. All'inizio del {g|Encyclopedia:Turn}turno{/g} di un alleato, vengono evidenziate delle caselle anche per lui. Finché un alleato si trova su una di quelle caselle, subisce l'effetto {g|f:affa20abaee0491b8b1bec789d6a3809}neural agony probe{/g}. Finché non si trova su di esse, subisce l'effetto {g|f:f24d26752b6f47cfb35f177b4358c247}severed interface{/g}.
+
+### u001138
+Per ogni mecadendrite che Pasqal possiede, la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} dell'attaccante con gli attacchi che infliggono {g|Encyclopedia:ShockDamage}danni da shock{/g} a Pasqal aumenta di +10%. I mecadendriti sono i seguenti:
+-<indent=5%>{g|f:215371a91c7047abb0fc1acbbbbcf63c}Manipulator Mechadendrite{/g}</indent>
+-<indent=5%>{g|f:bde399f936324b8e9fc7b950a0cdd2ff}Ballistic Mechadendrite{/g}</indent>
+-<indent=5%>{g|f:de49d9600eeb4e9fb8a0adab3c46a260}Medicae Mechadendrite{/g}</indent>
+-<indent=5%>{g|f:0e0d989a49294bafa1ffb4fd8b8a8bff}Scanner Mechadendrite{/g}</indent>
+-<indent=5%>{g|f:e4c59223308e4235846c7f6688486437}Utility Mechadendrite{/g}</indent>
+
+### u001139
+Permette a Pasqal di usare i mecadendriti.
+
+### u001140
+Fortificazione assiale
+
+### u001141
+<u>({g|Encyclopedia:CharacterLevel}livello del personaggio{/g} / 4)</u>
+
+### u001142
+Quando Pasqal subisce {g|Encyclopedia:ShockDamage}danni da shock{/g} per la prima volta in un combattimento, questi danni aumentano del +100%.
+
+### u001143
+Pasqal ottiene l'abilità {g|f:95cdd5f42ef5480d9fadd9e0acee641b}Machine Spirit Communion{/g}.
+La {g|Encyclopedia:SkillTechUse}Tech-Use{/g} di Pasqal aumenta di +{uip|TechUseBonus|48c593a5caff4e75b1bbf2a076dc2df4}.
+
+### u001144
+Collegamento scheletrico biomeccanico
+
+### u001145
+Abelard infligge un +{uip|AllyCountDamage|2001c9618db8434f82225b37892bce46}% di danni per ogni alleato entro un raggio di 3 caselle attorno a lui.
+
+### u001146
+<u>(5 × numero di accumuli di {g|f:2001c9618db8434f82225b37892bce46}monocolo del Siniscalco{/g})</u>
+
+### u001147
+Abelard infligge un +5% di danni per ogni alleato ancora in combattimento entro un raggio di 3 caselle attorno a lui.
+
+### u001148
+Monocolo del Siniscalco
+
+### u001149
+Abelard infligge un −10% di danni se, all'inizio del suo {g|Encyclopedia:Turn}turno{/g}, non ci sono personaggi alleati nella sua {g|Encyclopedia:LineOfSight}linea di vista{/g}.
+
+### u001150
+All'inizio del combattimento, Pasqal (o un alleato a caso, se Pasqal non fa parte del gruppo attuale) ottiene l'effetto {g|f:bee0d96b40b84f5da78bc3c9f41ec1fa}line of support{/g}.
+Finché Eogunn si trova in linea retta o diagonale con un alleato sotto l'effetto {g|f:bee0d96b40b84f5da78bc3c9f41ec1fa}line of support{/g} e quell'alleato è nella sua {g|Encyclopedia:LineOfSight}linea di vista{/g}, ottiene +{unit_stat|WarhammerPerception|bonus} a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} tranne la {g|Encyclopedia:WarhammerPerception}Perception{/g}.
+Se Eogunn inizia il proprio {g|Encyclopedia:Turn}turno{/g} in una simile posizione, ottiene anche +1 accumulo di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}.
+Questo effetto funziona anche se quell'alleato è {g|Encyclopedia:UnconsciousEffect}privo di sensi{/g}.
+
+### u001151
+Schiera augur di supporto in linea
+
+### u001152
+L'{g|Encyclopedia:AugmentsFullGlossary}augmetica{/g} Line of Support nell'inserto ottico monitora le posizioni degli alleati.
+
+### u001153
+Eogunn ottiene dei bonus quando si trova in linea retta o diagonale con questa creatura.
+Questo effetto funziona anche se la creatura è {g|Encyclopedia:UnconsciousEffect}priva di sensi{/g}.
+
+### u001154
+Line of Support
+
+### u001155
+Eogunn subisce il 30% dei danni inflitti a un alleato sotto l'effetto {g|f:bee0d96b40b84f5da78bc3c9f41ec1fa}line of support{/g} sotto forma di {g|Encyclopedia:MentalDamage}danni mentali{/g}.
+
+### u001156
+Tutti i personaggi alleati ottengono {g|f:bee0d96b40b84f5da78bc3c9f41ec1fa}line of support{/g}. Non si cumula.
+La {g|Encyclopedia:WarhammerPerception}Perception{/g} di Eogunn è ridotta in modo permanente di −10. Ogni volta che un nemico lo {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, subisce {uip|Damage|288d109443a6496592a9b14b88993522} {g|Encyclopedia:ShockDamage}danni da shock{/g} aggiuntivi con il 30% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001157
+<u>(3 × bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g})</u>
+
+### u001158
+<u>(2 × numero di accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g})</u>
+
+### u001159
+La gittata massima dell'arma aumenta di +{uip|Range|4edad61ca05849d69e544082933792ae}. Gli attacchi a distanza infliggono un +{uip|Damage|4edad61ca05849d69e544082933792ae}% di danni.
+Gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza ad area{/g} costano −1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u001160
+Sensori da combattimento a lungo raggio
+
+### u001161
+Dopo aver attaccato con un'arma a distanza, Eogunn subisce {unit_stat|WarhammerIntelligence|bonus} {g|Encyclopedia:ShockDamage}danni da shock{/g} con il 50% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+Finché Eogunn soffre di {g|f:30820d5aef9b4251af7579722dc95307}commozione{/g}, la gittata massima dei suoi attacchi a distanza è ridotta di −3.
+
+### u001162
+Eogunn viene {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}. Fino alla fine del combattimento, finché resta {g|f:4f13e446713f440bbc30e8d216bc9f1e}immobilizzato{/g}, ignora la {g|Encyclopedia:LineOfSight}linea di vista{/g} quando attacca e la gittata massima delle sue armi aumenta di +100.
+
+### u001163
+<u>Bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g}</u>
+
+### u001164
+<u>Bonus di {g|Encyclopedia:WarhammerPerception}PER{/g}</u>
+
+### u001165
+La {g|Encyclopedia:WarhammerPerception}Perception{/g} e la {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} di Solomorne sono ridotte di −5 se, all'inizio del suo {g|Encyclopedia:Turn}turno{/g}, il mastino cibernetico non è nella sua {g|Encyclopedia:LineOfSight}linea di vista{/g} o se il famiglio è disattivato.
+
+### u001166
+Se il mastino cibernetico è:
+-<indent=5%>in modalità {g|f:e16934c3dbf44cb997c684a6ddce7575}apprehending{/g}, i danni di Solomorne aumentano di +{uip|DamageBonus|38f5e9e8ab2f43b8aa356dbc89b821ba}% all'inizio del suo {g|Encyclopedia:Turn}turno{/g}.</indent>
+-<indent=5%>in modalità {g|f:a63088cd6402424b8ec0c508e5143083}protecting{/g}, l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di Solomorne aumenta di +{uip|ArmorBonus|38f5e9e8ab2f43b8aa356dbc89b821ba}% all'inizio del suo turno.</indent>
+-<indent=5%>in {g|f:11251c47c7b14a87824cffe48ea6374d}Battle Mode: Standby{/g}, Solomorne ottiene +2 {g|Encyclopedia:MovementPoints}PM{/g} all'inizio del suo turno.</indent>
+Questo effetto è attivo solo se Solomorne ha il mastino cibernetico nella sua {g|Encyclopedia:LineOfSight}linea di vista{/g}.
+
+### u001167
+Visori di collegamento principale
+
+### u001168
+Infligge <u>(da 8 a 10)</u> danni da impatto con il 20% di penetrazione dell'armatura.
+I danni inflitti da questa abilità e la sua {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} aumentano di +{uip|BonusDamage|e86fc99b6dd24e4a8b6657e252b85901}% per ogni {g|Encyclopedia:ExtraTurn}turno extra{/g} concesso da Jae a un alleato prima di usare questa abilità. I {g|Encyclopedia:Turn}turni{/g} extra vengono conteggiati a partire dall'ultimo uso di questa abilità. I danni inflitti da questa abilità non possono essere {g|Encyclopedia:DodgeGlossary}schivati{/g} né {g|Encyclopedia:Parry}parati{/g}.
+Questa abilità non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g}.
+
+### u001169
+Served Cold
+
+### u001170
+<u>(bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u>
+
+### u001171
+Per ogni accumulo di questo effetto, i danni e la {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} di {g|f:e86fc99b6dd24e4a8b6657e252b85901}Served Cold{/g} aumentano di +{uip|BonusDamage|8202650d26924bb8aee774adbf520e30}%.
+
+### u001172
+Preparing the Arrangements
+
+### u001173
+Jae ottiene l'abilità {g|f:e86fc99b6dd24e4a8b6657e252b85901}Served Cold{/g}.
+
+### u001174
+The Hand That Feeds
+
+### u001175
+Ogni volta che l'utilizzatore usa {g|f:e86fc99b6dd24e4a8b6657e252b85901}Serve Cold{/g}, deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} o subire +1 accumulo di {g|Encyclopedia:FatiguedEffect}affaticamento{/g}.
+
+### u001176
+La creatura bersaglio adiacente a Solomorne deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con una penalità di −{uip|SavingThrowBonus|088db872df394b1aaa71781354c48a5b}.
+Se la {g|Encyclopedia:Test}prova{/g} fallisce, la creatura viene {g|Encyclopedia:ImmobilisedEffect}immobilizzata{/g} ed è considerata {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura totale{/g} per Solomorne. Poi il {g|Encyclopedia:Turn}turno{/g} di Solomorne termina.
+Se la creatura bersaglio supera la prova, non c'è alcun effetto e il turno di Solomorne non termina.
+
+### u001177
+Forceful Pledge
+
+### u001178
+<u>({g|Encyclopedia:SkillCoercion}Coercion{/g} / 3)</u>
+
+### u001179
+Questa creatura è considerata {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura totale{/g} per Solomorne.
+
+### u001180
+Solomorne ottiene l'abilità {g|f:088db872df394b1aaa71781354c48a5b}Forceful Pledge{/g}.
+
+### u001181
+Hand of Penance
+
+### u001182
+Ogni volta che Solomorne usa {g|f:088db872df394b1aaa71781354c48a5b}Forceful Pledge{/g}, subisce {g|Encyclopedia:SlowedEffect}rallentamento{/g} fino alla fine del suo prossimo {g|Encyclopedia:Turn}turno{/g}.
+
+### u001183
+Antigrav Charge
+
+### u001184
+L'utilizzatore ottiene +1 accumulo di {g|f:3a3202273a334a989eee9d85b2df93f0}antigrav charge{/g} per ogni casella che percorre.
+Quando il numero di accumuli sull'utilizzatore diventa {unit_stat|WarhammerAgility|bonus}, vengono rimossi tutti e l'utilizzatore ottiene +1 accumulo di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}.
+L'utilizzatore non può subire l'effetto {g|f:6338756ef76148369f50bc5d6d48ac4a}crippled leg{/g}.
+
+### u001185
+Circuito del nucleo gravitazionale
+
+### u001186
+I {g|Encyclopedia:MovementPoints}PM{/g} di questo utilizzatore sono ridotti di −2.
+
+### u001187
+L'utilizzatore ottiene immediatamente +{unit_stat|WarhammerIntelligence|bonus} {g|Encyclopedia:MovementPoints}PM{/g}.
+Alla fine del suo {g|Encyclopedia:Turn}turno{/g}, subisce {g|Encyclopedia:SlowedEffect}rallentamento{/g} fino alla fine del combattimento.
+
+### u001188
+Una volta per {g|Encyclopedia:Round}round{/g}, quando un nemico entra nella {g|Encyclopedia:MeleeAttacksGlossary}portata di mischia{/g} di Eogunn o quando Eogunn termina il proprio {g|Encyclopedia:Turn}turno{/g} adiacente a un nemico, si teletrasporta in una casella a caso entro un raggio di 8 caselle.
+Eogunn è immune all'effetto {g|f:6338756ef76148369f50bc5d6d48ac4a}crippled leg{/g}.
+
+### u001189
+Displacement Simulacra
+
+### u001190
+Dopo il teletrasporto, l'utilizzatore deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} con una penalità di −20 o subire {g|Encyclopedia:ImmobilisedEffect}immobilizzazione{/g} per 2 {g|Encyclopedia:Round}round{/g}. Se la {g|Encyclopedia:Test}prova{/g} riesce, subisce invece {g|Encyclopedia:SlowedEffect}rallentamento{/g}.
+
+### u001191
+Eogunn ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:2f52f83899674c80a11b1ffcf5d98486}Displacement{/g}, ma ogni teletrasporto gli infligge anche {uip|Damage|98561505af6f4f3db5d0186f211917a1} {g|Encyclopedia:DirectDamage}danni diretti{/g}.
+
+### u001192
+<u>(10% delle {g|Encyclopedia:MaxWounds}ferite massime{/g})</u>
+
+### u001193
+Eogunn viene teletrasportato immediatamente nella casella bersaglio.
+
+### u001194
+Displacement
+
+### u001195
+Eogunn prende di mira un personaggio alleato e ne riduce le {g|Encyclopedia:Characteristic}caratteristiche{/g} di −{uip|Stats|de5efb5d30254f5d90a121f284c17a7d}, ottenendo +{uip|UPE|de5efb5d30254f5d90a121f284c17a7d} accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}.
+! Può essere usata una sola volta per bersaglio (Eogunn può usarla su se stesso più volte).
+
+### u001196
+Vital Component Extraction
+
+### u001197
+-<indent=5%> +1 accumulo di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g} se l'Intelligence di Eogunn è inferiore a 70</indent>
+-<indent=5%> +2 accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g} se l'Intelligence di Eogunn è <u>(da 70 a 109)</u></indent>
+-<indent=5%> +3 accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g} se l'Intelligence di Eogunn è pari o superiore a 110</indent>
+
+### u001198
+<u>({g|Encyclopedia:Bonus}Bonus{/g} di {g|Encyclopedia:WarhammerIntelligence}INT{/g} / 5)</u>
+
+### u001199
+Eogunn ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:de5efb5d30254f5d90a121f284c17a7d}Vital Component Extraction{/g}.
+
+### u001200
+Nodo di estrazione
+
+### u001201
+Le {g|Encyclopedia:Characteristic}caratteristiche{/g} di questa creatura sono ridotte ed Eogunn non può più prenderla di mira con l'{g|Encyclopedia:Ability}abilità{/g} {g|f:de5efb5d30254f5d90a121f284c17a7d}Vital Component Extraction{/g}.
+
+### u001202
+Missing Vital Component
+
+### u001203
+Se Eogunn non ha usato {g|f:de5efb5d30254f5d90a121f284c17a7d}Vital Component Extraction{/g} durante il suo {g|Encyclopedia:Turn}turno{/g}, la usa su se stesso alla fine del turno.
+
+### u001204
+Fino alla fine del combattimento, {g|f:de5efb5d30254f5d90a121f284c17a7d}Vital Component Extraction{/g} non ha {g|Encyclopedia:Cooldown}tempo di ricarica{/g} e può prendere di mira i nemici, ma ogni uso infligge {uip|Damage|fc71d3c279394a6f9f28a3e5c01da3ab} {g|Encyclopedia:DirectDamage}danni diretti{/g} a Eogunn.
+
+### u001205
+<u>numero di accumuli di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g}</u>
+
+### u001206
+Ogni volta che i {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g} vengono scatenati a causa delle azioni di Idira, c'è una probabilità del {uip|IgnoreChance|756503152b154609a675f2d786bcdea0}% che non si scatenino.
+
+### u001207
+<u>(10 + {g|Encyclopedia:CharacterLevel}livello del personaggio{/g})</u>
+
+### u001208
+Cappuccio grigio
+
+### u001209
+Se Idira è sotto l'effetto {g|f:423e91ce057d4e2489043ded7306f3e2}horrors of the warp{/g}, questo viene rimosso e le viene inflitto invece l'effetto {g|f:52dd645abf5b43f2a93a325f402fb183}terrors of the warp{/g}.
+
+### u001210
+Il bersaglio subisce −10 a {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, {g|Encyclopedia:WarhammerWillpower}Willpower{/g}, {g|Encyclopedia:WarhammerStrength}Strength{/g} e −2 di {g|Encyclopedia:Resolve}determinazione{/g} per ogni {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del demone per un {g|Encyclopedia:Round}round{/g}.
+
+### u001211
+Terrors of the Warp
+
+### u001212
+L'utilizzatore ottiene +1 accumulo di {g|f:ad5bda1047bf4e4dafa278f87d07c5ad}potential energy{/g} ogni volta che un alleato entro un raggio di 4 caselle subisce {g|Encyclopedia:DamageGlossary}danni{/g} da un attacco.
+Se viene rimossa, questa augmetica va persa.
+
+### u001213
+Guscio di scarica
+
+### u001214
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} massima dell'utilizzatore è 0%.
+
+### u001215
+Fino alla fine del combattimento, ogni volta che si attiva l'effetto di questa augmetica, l'utilizzatore ottiene anche +1 accumulo di {g|f:ce28ef2855c54dc8a41c2398646b4259}pain incarnate{/g}. Se un alleato che ha subito {g|Encyclopedia:DamageGlossary}danni{/g} ha meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g}, l'utilizzatore ottiene anche +1 accumulo di {g|f:d228419784924585898297e8f5fbf0fd}restitched flesh{/g}.
+
+### u001216
+Per ogni accumulo di questo effetto, tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} di Eogunn sono ridotte di −7.
+
+### u001217
+Restitched Flesh
+
+### u001218
+Per ogni accumulo di questo effetto, Eogunn infligge un +{unit_stat|WarhammerIntelligence|bonus}% di {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u001219
+Pain Incarnate
+
+### u001220
+Per ogni accumulo di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g}, i danni energetici e da {g|Encyclopedia:ShockDamage}shock{/g} inflitti da Eogunn aumentano di una quantità pari all'aumento dei {g|Encyclopedia:DamageGlossary}danni{/g} da shock che subisce da questo effetto, dopo aver applicato tutti i modificatori.
+
+### u001221
+Rivestimento elettrointegrato
+
+### u001222
+Ogni volta che Eogunn infligge danni da shock o {g|Encyclopedia:EnergyDamage}energetici{/g}, infligge anche {uip|Damage|2f4804b02eee4e03936aaf87e5c5b97e} {g|Encyclopedia:ShockDamage}danni da shock{/g} con il 50% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} a tutte le creature entro un raggio di 2 caselle attorno a lui.
+
+### u001223
+<u>({g|Encyclopedia:Bonus}Bonus{/g} di {g|Encyclopedia:WarhammerIntelligence}INT{/g} × numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g})</u>
+
+### u001224
+Fino alla fine del {g|Encyclopedia:Turn}turno{/g}, anche le creature colpite dall'{g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g} di questa augmetica attivano una volta questo effetto, infliggendo {g|Encyclopedia:DamageGlossary}danni{/g} alle creature entro un raggio di 2 caselle attorno a sé. Questo effetto non si attiva di nuovo dai nuovi bersagli.
+
+### u001225
+Finché Jae ha meno del 100% di {g|Encyclopedia:HitPoints}ferite{/g}, ha il 50% di probabilità di subire {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (7) all'inizio del proprio {g|Encyclopedia:Turn}turno{/g}.
+Non appena inizia a soffrire di {g|f:d51b30ccb3d447b28c77b7057a5ccfa0}broken ribs{/g}, le viene inflitto sanguinamento (7) se non è già sotto l'effetto di alcun livello di sanguinamento. Mentre soffre di {g|f:d51b30ccb3d447b28c77b7057a5ccfa0}broken ribs{/g}, subisce un +100% di danni da sanguinamento e da {g|Encyclopedia:ToxinEffect}tossina{/g}.
+
+### u001226
+Jae ottiene +1 {g|Encyclopedia:ActionPoints}PA{/g} se ha meno del 30% di {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u001227
+Trama alveolare
+
+### u001228
+L'impianto funziona alla perfezione.
+
+### u001229
+Qualcuno potrebbe dire che è folle spendere una fortuna per un semplice impianto al collo. Jae Heydari replicherebbe che indossare un semplice impianto al collo, essendo la Principessa di Efreet, è semplicemente indegno di lei.
+
+### u001230
+Nodo cervicale di Jae
+
+### u001231
+Jae subisce il 50% di danni in meno da {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g}. Le sue {g|Encyclopedia:HitPoints}ferite{/g} non possono scendere sotto 0 a causa di questi effetti.
+
+### u001232
+Filtri chimici respiratori
+
+### u001233
+Jae non può subire l'effetto {g|f:d51b30ccb3d447b28c77b7057a5ccfa0}broken ribs{/g}.
+All'inizio del combattimento, subisce {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (4).
+
+### u001234
+Ogni volta che l'utilizzatore compie un attacco a bersaglio singolo contro un bersaglio entro un raggio di 3 caselle, subito dopo effettua un colpo con questa augmetica. Infligge {uip|Damage|86c125fb2c7c4b43bc2a92dc79081813} {g|Encyclopedia:EnergyDamage}danni energetici{/g} con {uip|Penetration|86c125fb2c7c4b43bc2a92dc79081813}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+Se il bersaglio è contrassegnato come {g|Encyclopedia:Prey}preda{/g}, questo attacco infligge un +35% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g}.
+
+### u001235
+Emettitore focale
+
+### u001236
+<u>livello del personaggio</u>
+
+### u001237
+Ogni volta che l'utilizzatore compie un attacco a bersaglio singolo contro un bersaglio entro un raggio di 3 caselle, subito dopo effettua un colpo con questa augmetica. Infligge {uip|Damage|0998422eefc74e1f984449fea7ce1354} {g|Encyclopedia:EnergyDamage}danni energetici{/g} con {uip|Penetration|0998422eefc74e1f984449fea7ce1354}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001238
+<u>(3 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>
+
+### u001239
+<u>(25 + livello del personaggio)</u>
+
+### u001240
+Ogni volta che l'utilizzatore compie un attacco a bersaglio singolo contro un bersaglio entro un raggio di 3 caselle, subito dopo effettua un colpo con questa augmetica. Infligge {uip|Damage|556c21a347f3447082409ae5a1a8b7aa} {g|Encyclopedia:EnergyDamage}danni energetici{/g} con {uip|Penetration|556c21a347f3447082409ae5a1a8b7aa}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001241
+L'{g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} dell'utilizzatore è ridotta di −10%.
+
+### u001242
+L'utilizzatore compie con questa augmetica un attacco galvanizzato, creando per 1 {g|Encyclopedia:Round}round{/g} una zona di terreno fuso e distruggendo tutte le {g|Encyclopedia:DetailsOfTheCoverGlossary}coperture{/g} al suo interno. Le creature in quest'area non possono usare le coperture e subiscono +{uip|Burning|8052f618d19c4121884323f14ca54f8e} livelli di {g|Encyclopedia:BurningEffect}fiamme{/g}.
+L'utilizzatore subisce +1 accumulo di {g|f:8f4a66a1c9674e2b9016f79cc73f58a6}confuso{/g} fino alla fine del combattimento.
+
+### u001243
+<u>(4 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>
+
+### u001244
+Ogni volta che l'utilizzatore compie un attacco a bersaglio singolo contro un bersaglio entro un raggio di 3 caselle, subito dopo effettua con questa augmetica un colpo a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}. Infligge {unit_stat|WarhammerPerception|bonus} {g|Encyclopedia:EnergyDamage}danni energetici{/g} con {uip|Penetration|54bc9cc07a394f11b3abf5d01543b08f}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u001245
+Questa {g|Encyclopedia:AugmentsFullGlossary}augmetica{/g} sostituisce la {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g} con il {g|Encyclopedia:RicochetFullGlossary}rimbalzo{/g}.
+
+### u001246
+Calcolatore balistico
+
+### u001247
+L'utilizzatore non può compiere attacchi a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}.
+
+### u001248
+L'utilizzatore ottiene +3 di {g|Encyclopedia:WarhammerPerception}Perception{/g}.
+
+### u001249
+Impianto oculare bionico
+
+### u001250
+L'utilizzatore subisce −3 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}.
+
+### u001251
+Ogni volta che l'utilizzatore usa un'abilità non offensiva, tutti i suoi alleati sotto l'effetto {g|f:715ec983856741c7a2ac9cc6c552b5a2}teamwork{/g} ottengono +1 accumulo di {g|f:203ee372474748a19f5a96a538d23c1d}cooperative advantage{/g}.
+
+### u001252
+Teamwork
+
+### u001253
+All'inizio del combattimento, 2 alleati a caso ottengono l'effetto {g|f:715ec983856741c7a2ac9cc6c552b5a2}teamwork{/g}.
+
+### u001254
+Analizzatore tattico
+
+### u001255
+Ogni volta che un alleato sotto l'effetto {g|f:715ec983856741c7a2ac9cc6c552b5a2}teamwork{/g} subisce danni, l'utilizzatore subisce danni pari al 25% di essi.
+
+### u001256
+La prossima volta che un alleato sotto l'effetto {g|f:715ec983856741c7a2ac9cc6c552b5a2}teamwork{/g} ottiene un qualsiasi numero di accumuli di {g|f:203ee372474748a19f5a96a538d23c1d}teamwork advantage{/g}, anche un altro alleato sotto l'effetto {g|f:715ec983856741c7a2ac9cc6c552b5a2}teamwork{/g} ottiene 1 accumulo di questo effetto.
+Ogni volta che l'utilizzatore usa questa abilità, subisce 1 accumulo di {g|Encyclopedia:DisturbedEffect}turbamento{/g} per 1 {g|Encyclopedia:Round}round{/g}. Si cumula.
+

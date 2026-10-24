@@ -1,0 +1,783 @@
+### u045711
+{n}La donna ride con una risata gracchiante.{/n} "Non posso prometterti lo stesso, Rogue Trader."
+
+### u045712
+{n}La donna lascia sfuggire una risatina assetata di sangue.{/n} "Sì, era... speravo di far saltare in aria il reattore della tua nave e di spedirti nel vuoto a pezzi, ma mi divertirò ancora di più se farò tutto da sola."
+
+### u045713
+"Sbagliato. Ho informazioni attendibili che Egli è in effetti con noi."
+
+### u045714
+"Ah! Senza paura, possente, con un cuore freddo come la pietra! Un avversario degno, ben lontano da miseri xenos e puzzolenti eretici! Sarà glorioso ucciderti!" {n}Ulfar saluta l'assassina di Calcazar con il più dolce dei sorrisi che tu gli abbia mai visto sul volto.{/n}
+
+### u045715
+"Fatti da parte, barba rossa, mentre io taglio la testa al Rogue Trader. Non vorrei uccidere in fretta il mio primo Angelo dell'Imperatore." {n}La donna ricambia con uno sguardo altrettanto amichevole, e vedi la confusione sui volti di chi ti circonda.{/n}
+
+### u045716
+{n}Le labbra della donna si curvano in un ghigno assetato di sangue.{/n} "Trovo così divertenti gli avversari arroganti: scoprire di essere mortali li sconvolge sempre!"
+
+### u045717
+"Rogue Trader {name} von Valancius! In nome dell'Inquisizione, sei in arresto!"
+
+### u045718
+"Ufficiali di plancia, a battaglia! Proteggete il Lord Capitano!"
+
+### u045719
+"Vecchio eretico! Risponderai di questo nelle camere di interrogatorio!"
+
+### u045720
+"Non ho ricevuto alcun invito alla tua Magnae Accessio."
+
+### u045721
+"Perché hai deciso di colpire la gente del Lord Inquisitore?"
+
+### u045722
+"No, Incendia, il tuo cammino è l'esilio."
+
+### u045723
+"Che cosa ti ha spinto a venire qui?"
+
+### u045724
+"Calligos, vedo che le tue ferite non ti hanno impedito di venirmi a trovare."
+
+### u045725
+"Hai davvero rinunciato a servire la causa della giustizia?"
+
+### u045726
+"Sembra che sarai tu a comandare la Distesa dopo la mia partenza."
+
+### u045727
+"Uralon il Crudele, sono lieto di condividere questo sanguinoso raccolto con te."
+
+### u045728
+"Che cosa mi riserva il mio cammino, profeta?"
+
+### u045729
+"Non ripetere gli errori del tuo predecessore."
+
+### u045730
+"Nocturne of Oblivion, la tua visita è senz'altro inattesa."
+
+### u045731
+"Ti ringrazio per questa visita, Evayne."
+
+### u045732
+"È stata una bella caccia, Calligos!"
+
+### u045733
+"L'Imperatore protegge, Incendia."
+
+### u045734
+"Devo mettermi in viaggio."
+
+### u045735
+"Factotum, riferisci sullo stato della nave e dell'equipaggio."
+
+### u045736
+"Ti ringrazio per il tuo sostegno."
+
+### u045737
+"Che l'Imperatore sia con te."
+
+### u045738
+"Sarebbe un onore per me."
+
+### u045739
+"Non è necessario. Un Rogue Trader della Casata Chorda non dovrebbe giurare fedeltà a un'altra dinastia."
+
+### u045740
+"Ci sarà una gloriosa carneficina!"
+
+### u045741
+"No. Calcazar è mio e soltanto mio."
+
+### u045742
+"Avvia la procedura di traslazione."
+
+### u045743
+[Osserva il ponte di comando]
+
+### u045744
+"Ti porgo i miei saluti, Incendia. Ora che non sei più occupata a dare la caccia agli eretici, vedo che hai molto più tempo a disposizione."
+
+### u045745
+"Perché hai deciso di intervenire?"
+
+### u045746
+"Tornerai ora nel tuo dominio?"
+
+### u045747
+"Perché ti sei schierato con me?"
+
+### u045748
+"No. Resterai qui a occuparti dei miscredenti rimasti."
+
+### u045749
+"Gloria ai veri dèi del warp!"
+
+### u045750
+"Devo romperti qualcos'altro per assicurarmi che tu non torni ai tuoi vecchi vizi?"
+
+### u045751
+"Scegli il tuo nuovo cammino con cura."
+
+### u045752
+"Come facevi a sapere che c'era bisogno di te qui?"
+
+### u045753
+"La forza dei tuoi fratelli potrebbe esserci utile nella mia crociata."
+
+### u045754
+"Che la benedizione dei Veri Dèi sia con noi."
+
+### u045755
+"Ti darò la possibilità di giustificare anche solo una piccola parte delle tue azioni."
+
+### u045756
+"Non osare saccheggiare il mio dominio."
+
+### u045757
+"Che cosa intendi fare adesso?"
+
+### u045758
+"Allora perché sei venuto?"
+
+### u045759
+"Quali affari ti trattengono qui?"
+
+### u045760
+"Per quale scopo sei salito a bordo della mia nave?"
+
+### u045761
+"È sorprendente che tu abbia scelto di sfidare la gente di Calcazar."
+
+### u045762
+"Accetto la tua offerta, profeta."
+
+### u045763
+"Perché sei venuto? Di certo non per benedirmi prima della mia spedizione."
+
+### u045764
+{n}Esibendo nella fondina un fucile automatico che non gli avevi mai visto, Janris Danrok si schiarisce la gola prima di cominciare.{/n} "Rapporto, Lord Capitano: l'attacco alla nave è stato respinto. Tutti i ponti sono stati ripuliti dagli intrusi. Le brecce nello scafo sono state o vengono riparate. Avete illustri visitatori che desiderano congratularsi con voi per la vittoria."
+
+### u045765
+"Amici e alleati della vostra dinastia sono arrivati dalle navi che si trovano attualmente in questo sistema. Vorrebbero rendere omaggio di persona al Rogue Trader."
+
+### u045766
+{n}Incendia Chorda incrocia le braccia sul petto, facendo il segno dell'Aquila. I suoi occhi ardono di {d|Encyclopedia:Ch4_ChordaExileNot}fanatica convinzione{/d}.{/n} "{name} von Valancius, porto buone novelle. L'Imperatore guarda con favore alla tua campagna. Inoltrati nell'oscurità e non lasciarti scoraggiare."
+
+### u045767
+{n}Qualcosa è cambiato in Calligos Winterscale in un modo difficile da definire. Una nuova durezza nei suoi lineamenti gli conferisce un aspetto predatorio. I suoi occhi ingialliti sono colmi di rabbia.{/n} "Che lento parlatore, quel tuo servitore. Ha! Scommetto che tagliargli le gambe renderebbe il suo borbottio molto più vivace!"
+
+### u045768
+{n}Il giovane Evayne Winterscale ti guarda con espressione solenne.{/n} "{mf|Amico mio|Amica mia}, sei stato al mio fianco ogni volta che io... no, ogni volta che la mia dinastia ha avuto bisogno del sostegno di {mf|un saggio alleato|una saggia alleata}. Sappi che {d|Encyclopedia:Ch4_EvayneIsAlly}questo non sarà mai dimenticato{/d}."
+
+### u045769
+{n}L'Arlecchino, senza badare agli sguardi ansiosi dell'equipaggio, {d|Encyclopedia:Ch4_AeldariAlly}si inchina{/d}.{/n}
+"Osserva in silenzio, {mf|Mercante Vagabondo|Mercante Vagabonda},
+il crocevia che ora ti si spalanca innanzi.
+La risata dello scherzo senza fine ha stabilito
+che la tua danza è abile e degna di applausi.
+E io, muto eco delle sue parole, mi levo
+per mandarti infine per la tua allegra via."
+
+### u045770
+"Mi sforzerò di trovarvi insegnamenti importanti, così da diventare migliore e riscattare così la sua eredità agli occhi dell'Imperatore." {n}Evayne china il capo con tristezza.{/n} "A proposito di eredità, questo apparteneva a Calligos. Fu fatto per la guerra, ma non ho alcun desiderio di impugnarlo, né di impugnare qualcosa di simile. Forse ti sarà utile nella tua campagna."
+
+### u045771
+"Che cosa potrebbe esserci di meglio e di più pericoloso che versare il sangue dei tirapiedi di quell'altezzoso degenerato di Calcazar? Punirlo per la sua insolenza era un atto dovuto da tempo. Se mai lo affronterai in battaglia, finisci quel miserabile bastardo con questa. E porgigli i saluti di Calligos Winterscale."
+
+### u045772
+{n}Calligos accarezza l'arma, compiaciuto.{/n} "Quello per cui sono nato. Fare la guerra e spazzare via chiunque si ponga sulla mia strada. Ho un bell'elenco di quelli le cui teste saranno splendide decorazioni per il ponte di comando della mia nave."
+
+### u045773
+"Accetto questo dovere con umiltà. I semi della corruzione dell'Alba Finale saranno distrutti e gli xenos banditi dai nostri sistemi. La Casata Chorda proteggerà la Distesa di Koronus, senza lasciarsi scoraggiare dai confini degli altri domini o dai poteri costituiti."
+
+### u045774
+"Sempre la lingua tagliente, eh?" {n}Winterscale annuisce in segno di approvazione ma resta serio.{/n} "Non serve. Quando i Tecnopreti hanno rattoppato il mio corpo con il loro acciaio, ho ordinato loro di non esagerare. Voglio che ogni mio passo e ogni mio movimento porti dolore. Voglio che sia un eterno promemoria di ciò che ho fatto."
+
+### u045775
+"Ora che un singolo passo mi procura un dolore lancinante, sono molto cauto riguardo ai sentieri che scelgo." {n}L'impudenza colora ancora i contorni del sorriso di Winterscale, ma il livore è svanito.{/n}
+
+### u045776
+{n}Il Factotum tossisce.{/n} "Danni lievi al rivestimento esterno dello scafo di mezzeria e perdite di personale trascurabili a causa dell'azione offensiva delle squadre d'abbordaggio nemiche. I sistemi principali sono in ordine. L'enginarium riferisce un'impeccabile docilità da parte degli spiriti macchina. In altre parole, siamo pienamente pronti al combattimento, Lord Capitano."
+
+### u045777
+"Che il cammino di coloro che compiono la Sua volontà sia come un raggio radioso, un inferno di luce che tutto consuma. Che quel raggio trafigga qualunque oscurità ostacoli la loro marcia."
+
+### u045778
+{n}Incendia Chorda richiama l'attenzione con un gesto imperioso.{/n} "{name} von Valancius. Quando l'ora è buia, solo un codardo e un eretico non osano guardare la morte in faccia. Vorrei unirmi alla tua crociata oltre i confini dell'universo conosciuto. Mi permetterai di combattere sotto la tua bandiera?"
+
+### u045779
+"Un momento." {n}La voce di Calligos vibra come il ringhio di una bestia affamata.{/n} "Vuoi dire che te ne vai a spezzare il collo a Calcazar mentre io resto bloccato qui? Scordatelo. Vengo con te a sventrare quel bastardo con le mie mani!"
+
+### u045780
+{n}Calligos Winterscale è diventato scavato e pallido. Al posto dei movimenti aggraziati di un feroce predatore, ora {d|Encyclopedia:Ch4_WinterscaleRedeemed}barcolla come un uccello zoppo{/d}. Le augmetiche della sua schiena spezzata non riescono a rendergli i passi leggeri di un tempo. Lascia uscire un sospiro stanco e dice senza gioia,{/n} "Ci rivediamo, {name}."
+
+### u045781
+{n}Incendia evita di incrociare il tuo sguardo. La sua guancia ha un tic nervoso mentre dice,{/n} "Ho sospeso brevemente il mio {d|Encyclopedia:Ch4_ChordaExile}esilio{/d} per augurarti buona fortuna nei tuoi viaggi."
+
+### u045782
+"Che un fiume di sangue si riversi verso il trono del Padrone! Che una piramide si innalzi dai teschi dei Suoi nemici!"
+
+### u045783
+"E sia. Ti presto la mia lama e la mia pistola come fedeli compagne in questa impresa."
+
+### u045784
+{n}Incendia emette un sospiro esitante di delusione.{/n} "C'è del vero nelle tue parole, von Valancius. Bene, allora continuerò a vegliare sulla Distesa fino al tuo vittorioso ritorno, o a quello delle ceneri del tuo funerale."
+
+### u045785
+{n}Con un ululato bestiale, Calligos alza l'arma sopra la testa.{/n} "Chiunque ci sbarri la strada, sanguinerà!"
+
+### u045786
+{n}Winterscale ringhia furioso, fulminandoti con lo sguardo, ma presto si calma e sputa con rancore,{/n} "Va bene, {name}. Hai tu il diritto maggiore su quel trofeo. Buona caccia."
+
+### u045787
+{n}Decine di paia di occhi sono sospese a ogni tuo gesto, a ogni tuo sospiro. Ogni membro dell'equipaggio attende trattenendo il fiato per non perdere le tue parole decisive.{/n}
+
+### u045788
+{n}Janris sospira.{/n} "Lo xenos si è semplicemente materializzato sul ponte di comando. Dopodiché i tutori dell'ordine si sono semplicemente rifiutati di avvicinarsi. Dopotutto, il nemico dell'Umanità non ha agito in modo aggressivo. Finora."
+
+### u045789
+"Per donarti un trofeo che potrà esserti utile nelle battaglie a venire. Questo apparteneva a Calligos. Fu fatto per la guerra, ma io non ho alcun desiderio di impugnarlo, né di impugnare qualcosa di simile, se è per questo. Forse ti sarà utile nella tua campagna."
+
+### u045790
+"Per darti qualcosa. L'ho usata per far rispettare la giustizia dell'Imperatore, ma ho dimostrato di essere un povero strumento della Sua volontà. Perciò consegno a te quest'arma della Sua ira. Che ti protegga dal male nell'oscurità verso cui ti dirigi."
+
+### u045791
+"E dato che non vedrò mai più un combattimento... prendi questa. Ti servirà un'arma robusta, e questa merita di meglio che prendere polvere nella mia sala dei trofei."
+
+### u045792
+{n}Winterscale sogghigna amaramente.{/n} "Ci vuole ben più di una schiena spezzata per curare il mio brutto carattere."
+
+### u045793
+"Molto è cambiato da quando governavo su Footfall."
+
+### u045794
+{n}Evayne sorride.{/n} "Solo perché la cerimonia deve ancora tenersi. Anche tu avevi fatto parecchio prima di annunciarti ufficialmente come erede. Ho preso le redini dinastiche del potere, anche se, purtroppo, la mia ascesa non è stata incruenta. Ma ora non è il momento di festeggiare. Il mio protettorato rischia di perire. Ti inviterò alla mia cerimonia quando sarai {mf|tornato|tornata} e il mio popolo non starà più soffrendo morti terrificanti."
+
+### u045795
+"La mia dinastia ha bisogno di guarire. Spetta a me scoprire nuove vie verso le colonie isolate dalla tempesta warp. Estirpare la scelleratezza che ha infettato la corte di Calligos. Aiutare i mondi che ha dissanguato. Tener testa agli xenos che terrorizzano il protettorato. Spazzare via gli infiltrati dell'Alba Finale. Fare pace con la Casata Chorda e riprendere i pianeti che ci sono stati sottratti... Non so se ho la forza di fare tutto questo. Ma non indietreggerò."
+
+### u045796
+"La mia dinastia ha un debito con te. E i Winterscale non abbandonano i propri alleati quando sono in difficoltà. Sarò inesperto, ma ingenuo non lo sono. Vedo che sta accadendo qualcosa, qualcosa di grande e allarmante importanza per l'intera Distesa. Se il tuo scopo è sbrogliare la questione e scongiurare ulteriori cataclismi, ti darò qualunque aiuto ti serva."
+
+### u045797
+"Smettila di fare {mf|il vago|la vaga}, {name}. Sai benissimo perché. Sono qui perché ti devo un favore. Purtroppo i Winterscale non restano mai in debito a lungo. Inoltre, Calcazar non mi è mai piaciuto. Il fatto che tu mi abbia riconosciuto come una minaccia dimostra l'affidabilità del tuo intuito. E ora che hai deciso di affrontare il Lord Inquisitore, preferisco di gran lunga allearmi con un alleato collaudato che con qualcuno di dubbia reputazione."
+
+### u045798
+"Correggi i miei errori. Salva ciò che resta del mio protettorato: trova i mondi persi nella tempesta warp, scaccia gli xenos, estirpa gli infiltrati dell'Alba Finale. E... negozia la pace con la Casata Chorda." {n}Il disprezzo con cui Calligos sputa la parola "pace" lo fa sembrare il vecchio se stesso per un breve istante.{/n}
+
+### u045799
+"Volevo assicurarmi che i tirapiedi di Calcazar, quelli che sorvegliano il portale, non... ti diano problemi. Di questi tempi nella Distesa accadono le cose più disparate. Io non salirò più a bordo di nessuna nave, naturalmente, ma ho abbastanza soldati da convincerli che molestare il Rogue Trader von Valancius è una pessima idea."
+
+### u045800
+"Forse non vedo più chiaramente come un tempo... ma le visioni non hanno del tutto abbandonato la mia mente. E avverto che laggiù, dove vai, si trama qualche vile impresa. Tu puoi fermarla, il che significa che il tuo cammino dev'essere chiaro."
+
+### u045801
+"Mai. Il mio cuore è per sempre con l'Imperatore, ma sono un povero strumento della Sua volontà. Servirò la causa della giustizia, ma non ho il diritto di attuarla. E così affido a te questo strumento di giudizio."
+
+### u045802
+"Sì. Essere qui risveglia... desideri così terribili nel mio cuore. Essere colei che porta la giustizia. Colei che pronuncia i verdetti! Devo tenere la Distesa al sicuro da me stessa. Devo tornare alla mia solitudine."
+
+### u045803
+"Che sia il mio destino giungere a comprendere le Sue vie, i Suoi desideri e la Sua volontà."
+
+### u045804
+{n}Negli occhi limpidi di Incendia non c'è altro che una rettitudine quasi inumana.{/n} "Questo è il cammino che mi è stato rivelato. Stai andando in un luogo dove si compie il male contro l'Imperatore. Se ti addentri in quell'oscurità, puoi strappare la radice avvelenata da cui nasce l'atto ignobile. Perciò il tuo cammino dev'essere tracciato e sgombrato da chi è puro di fede. Accetta dunque questo dono di giusto annientamento, affinché, giunta l'ora del giudizio, ti aiuti a scegliere la giusta linea d'azione."
+
+### u045805
+{n}L'Arlecchino comincia a togliersi la maschera, come se stesse per rivelare ciò che nasconde, ma prima che tu possa distinguerne i tratti, ride e svanisce in una foschia azzurra. Dove poco prima si trovava il misterioso xenos, resta il suo dono d'addio.{/n}
+
+### u045806
+"Che la fede nei cuori dei devoti non vacilli mai."
+
+### u045807
+"Mi unirò a te, {name}. La mia divinazione del sangue non mi ha rivelato tutto ciò che ci attende, ma ha mostrato che è molto più grave e pericoloso di una banda sperduta di pagani. I miei fratelli possono portare a termine la loro missione senza di me, ma tu potresti aver bisogno dell'aiuto della Vera Parola."
+
+### u045808
+"Come desideri, {name}. Questo cammino l'hai scelto tu."
+
+### u045809
+"Ti ringrazio per l'onore di farne parte. I miei fratelli e io siamo rimasti colpiti dalla determinazione con cui ti sei {mf|abbattuto|abbattuta} sui lacchè dell'imperatore cadavere. Il Fratello Skarikitus, caduto in quella battaglia, desiderava che la sua carne fosse usata per creare questo dono per te, poiché una tale veemenza dev'essere sempre ricompensata." {n}Uralon ti porge con aria regale un involto sanguinante. I resti del Fratello Skarikitus sono avvolti in uno stendardo lacero e macchiato dell'Inquisizione.{/n}
+
+### u045810
+"Mi è stata concessa una visione, e non potevamo lasciarci sfuggire questa occasione di infliggere un colpo schiacciante ai miscredenti. Armoniose sono le frequenze vox che portano le grida di morte degli empi."
+
+### u045811
+"Ha! Vedremo, {name}, vedremo. Quando il mio sangue ribolle, i confini smettono di avere importanza."
+
+### u045812
+{n}Janris borbotta sottovoce,{/n} "Una nuova era è sorta nella Distesa. L'era dei cuccioli di Rogue Trader."
+
+### u045813
+"Per loro è stato disposto un cammino diverso. Calcazar, il cane da guardia della Distesa, è fuggito, condannando i mondi che aveva il compito di proteggere. I Word Bearers faranno in modo che l'intero settore oda queste novelle di disperazione, perché è nel terrore e nell'afflizione che l'anima si apre alla volontà dei Veri Dèi."
+
+### u045814
+{n}Abelard ridacchia piano e sussurra,{/n} "Sua Signoria Winterscale mi ricorda qualcuno..."
+
+### u045815
+"Un divenire. La profezia mi ha condotto alla Distesa, perché ho visto il bagliore dell'Alba Finale annunciare un nuovo e vero destino per questo oscuro settore. I raggi dell'Alba Finale ti hanno {mf|avvolto|avvolta} e {mf|guidato|guidata} all'ascensione. Ora è tempo che tu diventi il nuovo destino della Distesa di Koronus."
+
+### u045816
+"E quando infine troverò un erede degno, gli affiderò il mio potere, allestirò una piccola nave e partirò per le Heathen Stars o per qualche altro luogo simile. Ci sono così tanti mondi che non ho ancora visto."
+
+### u045817
+"Che le nostre labbra perpetuino la Verità, ora e per sempre."
+
+### u045818
+"Dimmi..." {n}Chorda ti guarda con evidente sforzo.{/n} "C'è clemenza nella tua anima per chi si è smarrito? La tua crociata è un'impresa degna e desidero ardentemente farne parte. Sii tu a giudicare gli altri: io sarò soltanto il tuo strumento."
+
+### u045819
+"E sia! D'ora in poi sono la tua seguace e la tua mano punitrice!"
+
+### u045820
+{n}Senza sprecare tempo in auguri di buona fortuna privi di significato, i tuoi illustri ospiti lasciano il ponte di comando in un silenzio solenne e rispettoso.{/n}
+
+### u045821
+{n}Lo sguardo di Chorda si spegne ed ella distoglie gli occhi.{/n} "Molto bene. Allora che il Dio-Imperatore ti sia favorevole sul tuo cammino, e a me sul mio."
+
+### u045822
+{n}Il nato nel vuoto ti guarda con il suo solito sguardo truce.{/n} "Lord Capitano, possiamo dare inizio alla traslazione spaziale."
+
+### u045823
+"Mi sarebbe piaciuto seguirti nel fuoco, ma temo di avere molti affari che mi trattengono qui. L'Imperatore protegge, {name}."
+
+### u045824
+{n}Il Rogue Trader scopre i denti in un sorriso crudele. Per un solo istante ti sembra di scorgere, al posto dei denti, le zanne affilate di qualche belva.{/n} "Aspettavo da tempo l'occasione di gettarmi nella mischia con quei bastardi."
+
+### u045825
+"In verità, i giusti erediteranno il Suo regno." {n}Il Rogue Trader completa prontamente il verso della litania, come se lo stesse aspettando.{/n}
+
+### u045826
+"Il più breve istante qui dimorerò,
+la quiete fra due battiti di cuore, nulla più.
+Le tue gesta hanno lasciato il segno nelle sale della memoria,
+dove pochi tra i tuoi simili hanno meritato un posto.
+Le grandi storie del {mf|Mercante Vagabondo|Mercante Vagabonda} custodirò,
+e sarò fedele guardiano di ogni pagina.
+Il Nocturne of Oblivion non si udrà più,
+perché con queste parole suono il mio ultimo accordo:
+l'addio non è una fine ma un filo
+che ti conduce nella trama di un nuovo dramma."
+
+### u045827
+{n}L'armatura di Uralon il Crudele è ornata di sangue fresco, probabilmente quello dei prigionieri catturati nell'ultima battaglia.{/n} "Spero che tu abbia assaporato ogni istante dello {d|Encyclopedia:Ch4_Eufrates_ChampionOfChaos}sterminio di quei vermi empi{/d}, {name}."
+
+### u045828
+"Chi è che vuole salire a bordo?"
+
+### u045829
+"Date il benvenuto ai nostri visitatori e accompagnateli sul ponte di comando."
+
+### u045830
+"Non c'è nessuno che tenti di dissuadermi da questa impresa?"
+
+### u045831
+"Il nemico è stato messo in rotta, Vostra Signoria. Stiamo ricevendo un segnale vox che chiede di ammettere a bordo un convoglio di navette per un'udienza. Gli augur hanno confermato che le navette sono disarmate e appartengono alle forze che ci hanno aiutato in battaglia. Desiderate che accogliamo questi visitatori?"
+
+### u045832
+"Il Rogue Trader Winterscale sta arrivando a bordo di una navetta."
+
+### u045833
+"Abbiamo rilevato la firma del trasporto personale di Lady Incendia Chorda."
+
+### u045834
+"Uralon il Crudele desidera parlare di persona con Vostra Signoria e ha richiesto un'udienza."
+
+### u045835
+"Una delle imbarcazioni non è stata identificata. L'operatore degli augur ritiene che sia dotata di generatori di campi di occultamento di origine xenos."
+
+### u045836
+{n}Ravor si limita a sorridere cupamente in risposta.{/n}
+
+### u045837
+"Sarà fatto, Lord Cap'. Gloria alla Casata von Valancius!"
+
+### u045838
+Il corpo spezzato è stato scagliato al suolo con tanta forza che dal punto d'impatto si irradiano crepe.
+
+### u045839
+Riconosci ancora lo stemma dei von Valancius nell'emblema semicancellato sul fianco della navetta. Parti dello scafo e dell'equipaggiamento sembrano essere state vaporizzate, strato dopo strato.
+
+### u045840
+Sito di atterraggio abbandonato
+
+### u045841
+Faro della matrice di teletrasporto
+
+### u045842
+I monoliti incombono sulla piccola pianura: neri, minacciosi, imperscrutabili come la razza che li ha creati.
+
+### u045843
+Attingendo alle tue frammentarie conoscenze sugli xenos, intuisci che questi monoliti un tempo facevano parte di una possente nave da trasporto in grado di trasformarsi in strutture terrestri.
+
+### u045844
+Il vox non emette suono subito. L'ufficiale che ha effettuato la registrazione parla in modo chiaro e sicuro, ma anche piano, con una vibrazione appena percettibile nella sua voce profonda da oratore. Sembra che il nastro sia parzialmente danneggiato.{br}
+"Annotazione 1. Siamo atterrati con successo, ma non siamo riusciti a riferire a Sua Signoria: il canale di comunicazione era saturo di interferenze. Anche il sistema di navigazione è stato colpito, quindi non potremo decollare a breve, tanto meno tornare alla nave. La Sergente Damani sta cercando la fonte delle interferenze. Non resta che tenere un registro."
+***
+"Annotazione 5. Grazie alle informazioni ricevute in precedenza, siamo riusciti a decifrare in parte alcune delle iscrizioni sugli obelischi. Solo il senso generale è chiaro: le creature sepolte qui sono estremamente ostili. Non siamo riusciti a individuare la fonte delle interferenze che colpiscono le nostre comunicazioni e la navigazione. Lady Theodora ha chiarito che questa spedizione è estremamente importante, quindi proseguiremo l'esplorazione a prescindere dagli ostacoli. Chiunque trovi questo registro vox deve consegnarlo di persona a Sua Signoria e a nessun altro."
+***
+"Annotazione 18. Una delle strutture in ispezione ha incenerito il Caporale Monroe. Lo abbiamo seppellito con tutta la dignità possibile in queste rocce aride. Il suo sacrificio non deve essere vano: la prossima volta saremo più attenti e non metteremo in imbarazzo Sua Signoria."
+***
+"Annotazione 19. L'esplosione dell'artefatto xenos ha danneggiato il motore, il vano carburante e la stiva dove tenevamo le provviste. È improbabile che torneremo alla nave ammiraglia di Lady Theodora, ma abbiamo quasi completato il nostro compito e stiamo per entrare negli edifici. Ciò che conta è la conservazione dei dati ottenuti."
+***
+"Dietro i monoliti non c'erano morti. Le creature ci hanno attaccato non appena siamo riusciti ad attivare il meccanismo del portale in uno degli edifici. Le loro armi distruggono carne e plastacciaio con la stessa facilità, e i loro corpi guariscono da qualsiasi ferita." Le parole sono interrotte da un boato e da un urlo. "Continuerò a registrare fino all'ultimo respiro, e spero che sia di beneficio alla casata von Valancius. Le armi degli xenos bruciano di fuoco verde e scagliano fulmini, e cariche di energia esplodono dalle loro lame. Damani è caduta a terra e non riesce ad alzarsi, il suo corpo si sta spezzando, le rocce sotto di lei stanno per incrinarsi. Dite a Dahlia che suo padre ha dato la vita per il bene della dinastia von Valancius, che possa essere fiera di..."
+
+### u045845
+Registro vox della nave
+
+### u045846
+"Pietà! Non oserò ostacolare il colpo punitivo di von Valancius!"
+
+### u045847
+"Morte al falso imperatore!"
+
+### u045848
+Tutte le augmetiche sono state strappate brutalmente dal corpo dei Tecnopreti quando erano ancora vivi.
+
+### u045849
+"La Verità non vacillerà!"
+
+### u045850
+"Per il Deus Calculus, il Mutatore delle Vie!"
+
+### u045851
+"Registro una blasfemia di Categoria Uno contro il Deus Calculus!"
+
+### u045852
+Il corpo dello Space Wolf Halbrandt è stato squarciato quasi a metà dalla chela del feroce Helbrute, eppure sulle labbra del Lupo aleggia un sorriso trionfante e affamato.
+
+### u045853
+Una moltitudine di colpi ha ammaccato l'armatura dell'orrido Helbrute noto come Doomscream, finché l'ultimo colpo d'ascia non ha spaccato il suo cranio coperto di glifi.
+
+### u045854
+Lascia la Cattedrale delle Macchine
+
+### u045855
+Lo scafo della macchina posseduta irradia un calore malsano: una progenie del warp ne sta lentamente prendendo il controllo dei meccanismi.
+
+### u045856
+Parti destinate a diventare un'arma sacra della resa dei conti dell'Imperium sono state invece assemblate in un costrutto spaventoso e sacrilego.
+
+### u045857
+"L'Omni... il Deus Calculus cambia le vie, comprende le vie..."
+
+### u045858
+Chiodi dati, corrotti da rune di sangue, affondano nel cervello del falso Skitarius.
+
+### u045859
+Gli occhi del misero prigioniero sono stati bruciati dall'interno e glifi stregoneschi sono stati incisi nel suo corpo.
+
+### u045860
+A giudicare dagli occhi del prigioniero, bruciati dall'interno, e dai glifi stregoneschi incisi nel suo corpo, questa povera anima era uno psyker, e qualcuno ha usato la sua vita per corrompere una macchina sacra.
+
+### u045861
+Ordinò la formazione di una colonna d'assalto composta da operai per catturare l'incrociatore del vuoto su Eufrates II.
+
+### u045862
+...ordinò la formazione di una colonna d'assalto composta dagli operai pentiti del manufactorum, concedendo a quei prigionieri il diritto di espiare la loro colpa con il sangue.
+
+### u045863
+...consegnare un rapporto tattico agli ufficiali.
+
+### u045864
+Convocò l'ufficiale per un "incarico speciale" su Eufrates II.
+
+### u045865
+...ordinò all'ufficiale al comando che aveva guidato il primo assalto di presentarsi da {mf|lui|lei} per un "incarico speciale."
+
+### u045866
+...interrogò i sopravvissuti che avevano assistito alla rovina portata da Doomscream.
+
+### u045867
+...mandò esploratori a valutare la temibile arma.
+
+### u045868
+...avviare un rapido assalto di carri armati secondo la dottrina militare Ondata Corazzata ideata dal Lord Militante Justas Quinn.
+
+### u045869
+...procedere con cautela con il supporto di una ricognizione completa dell'area.
+
+### u045870
+...avanzare utilizzando come scudi umani la popolazione planetaria sopravvissuta.
+
+### u045871
+...la forza d'assalto di procedere con il tecno-sabotaggio.
+
+### u045872
+...lo schieramento di infiltratori e l'esecuzione dei comandanti nemici.
+
+### u045873
+...il bombardamento del nemico con munizioni a gas reperite in superficie.
+
+### u045874
+...ordinò che l'incrociatore fosse distrutto con cariche benedette da megatone.
+
+### u045875
+...ordinò che la nave sacra fosse strappata dalle grinfie del nemico.
+
+### u045876
+...fece precipitare un'intera nave del vuoto sull'incrociatore dall'orbita.
+
+### u045877
+...ci ordinò di serrare i ranghi e di dirigere tutte le forze disponibili contro i Word Bearers.
+
+### u045878
+...elaborò un piano che poneva gli Space Wolves in prima linea nel nostro attacco.
+
+### u045879
+...scagliò la potenza dell'incrociatore Explorator catturato.
+
+### u045880
+...diede la propria benedizione a Opticon-22 e alla sua missione suicida.
+
+### u045881
+...guidò il proprio seguito a dare la caccia di persona a questa antica macchina assassina.
+
+### u045882
+...l'impiego di servoteschi da combattimento coordinati dal proprio sciame personale, nominativo {petname}, a supporto della missione di tecno-sabotaggio.
+
+### u045883
+...i reggimenti d'avanguardia di spiegare le ragioni del fallimento del primo assalto.
+
+### u045884
+...inviare in avanscoperta, davanti alla forza principale, una squadra di ricognizione supportata dal proprio mastino cibernetico personale, nominativo {petname}.
+
+### u045885
+...ordinò alle truppe di catturare l'incrociatore a ogni costo e rafforzò la forza d'attacco con un fulgido simbolo della fede: {petname}, la propria aquila bicipite.
+
+### u045886
+Scesa dall'orbita, la Sorella Argenta ispirò le truppe con le primissime note delle sue preghiere: il suo canto era la voce dell'Imperatore che ci ordinava di combattere senza alcun riguardo per la nostra vita. Dopo aver spronato i soldati a lanciare un audace raid, catturò in fretta uno dei comandanti degli eretici. Fu allora che udimmo una voce profondamente diversa uscire dalla Sorella della Battaglia. Tremante di furia, interrogò di persona il miscredente, estraendogli una confessione avvelenata dopo l'altra. Quando ebbe finito, il mondo fu purgato del suo respiro impuro. E a impugnare il lanciafiamme era lei. La vista di quell'eretico che si contorceva tra le fiamme si impresse nella nostra memoria, gettando luce sulla crudele oscurità del nostro futuro immediato come un brillante faro.
+
+### u045887
+Settore: Distesa di Koronus
+Regione: Sistema Mundus Valancius
+Luogo: Dargonus, palazzo del Lord Generale Militante
+Materiale: Estratto dalle memorie "Quando la Distesa bruciò"
+Autore: Corvan Lazarus, Lord Generale Militante della Guarnigione di Difesa Planetaria di Dargonus
+
+### u045888
+Un generale disse una volta che tutte le guerre sono fondamentalmente uguali: se ne hai vista una, le hai viste tutte. Merda di grox. Quel generale non ha assistito agli eventi di Eufrates II.
+
+### u045889
+Fu una sorpresa per tutti quando lo Space Wolf Thorbald appoggiò il Magos Dominus. Dopo che il Lord Capitano lo ebbe riconciliato con il capo degli Explorator, Thorbald domò il proprio orgoglio e parlò a favore della causa dei Tecnopreti di liberare la nobile macchina.
+
+### u045890
+E fu allora che arrivò. Doomscream. Un antico e sanguinario Helbrute, un esecutore spietato forgiato di adamantio e ceramite. Quell'unico nemico respingeva i nostri assalti uno dopo l'altro, riducendo centinaia di soldati a una poltiglia sanguinolenta. Finché quell'abominio fosse vissuto, non avevamo alcuna speranza di raggiungere il cuore della cittadella nemica.
+
+### u045891
+Le navette avrebbero oscurato il sole, se si fosse potuto vederlo attraverso il fumo della città-manufactorum di Sigma-S-13. Al suo cuore sorgeva la Cattedrale delle Macchine, il nostro obiettivo primario.
+
+### u045892
+Il Lord Capitano ci mostrò clemenza facendo bombardare la zona di atterraggio dall'orbita. Tutte le navette che trasportavano truppe e, cosa ancor più importante, preziosi veicoli raggiunsero la destinazione. Intimorito dal nostro numero, il nemico si ritirò. Fu il momento perfetto per un attacco decisivo: con una forza di veicoli corazzati di tale entità, avevamo il sopravvento.
+
+### u045893
+Gli ordini del Lord Capitano erano di dare inizio a un assalto fulmineo. Volavamo dritti in una grandine di fuoco d'artiglieria. Per molti di noi fu la fine. Gli altri venivano sballottati a mezz'aria, pregando che il colpo successivo mancasse la loro navetta. Ma le perdite furono giustificate: con quell'attacco a sorpresa ci impadronimmo dell'iniziativa all'inizio della battaglia.
+
+### u045894
+Ignorando le proteste dei venerabili Tecnopreti, il Lord Capitano diede l'ordine di non risparmiare le infrastrutture del mondo. Colpimmo la cappella sacra del Magos Alchemys, scatenando un'emissione di gas tossico. La nube nociva avvolse le posizioni nemiche, ma nemmeno questo fece ritirare gli eretici. Quando ci facemmo strada fino alle loro postazioni, erano talmente indeboliti dal gas sospeso nell'aria che non opposero alcuna resistenza e si arresero a centinaia.
+
+### u045895
+Opticon-22 e la sua coorte, con le armature dipinte di cromo nero, marciarono in silenzio nel buio del manufactorum. Ore dopo udimmo gelidi suoni di combattimento, e poi un lampo eruppe dalle profondità delle officine sacre. Gli Angeli dell'Imperatore si lanciarono avanti e trovarono lì Doomscream, menomato ma ancora vivo, e misero in rotta il demonio. La sua chela insanguinata, strappata dalla devastante esplosione, fu presentata al Lord Capitano come trofeo. Il corpo di Opticon-22 non fu mai ritrovato: fu disintegrato dalla carica atomica che aveva portato in battaglia. Tale fu l'alto prezzo della grave e umiliante ferita che lui e i suoi tecno-compagni inflissero all'empio campione degli eretici. Cantammo il nome del coraggioso guerriero del Codice nelle nostre preghiere.
+
+### u045896
+Ciò che accadde dopo sarebbe diventato leggenda. Il Lord Capitano, alla testa del proprio seguito, sfidò l'eresiarca assetato di sangue che era strisciato fuori dall'oscurità dei tempi. {mf|Lui|Lei} inflisse al malvagio carnefice un colpo pesante e mortificante, e così Doomscream fu messo in rotta.
+
+### u045897
+Il Lord Capitano in persona rimase {mf|ferito|ferita} in battaglia. Fu in quel momento che Opticon-22 entrò sul campo con la sua coorte di Skitarii scelti.
+
+### u045898
+Iniziammo la nostra avanzata. Non dimenticherò mai il rombo dei carri armati, con i cingoli che facevano a pezzi la fanteria degli eretici, accompagnato dallo stridio dei fucili laser e dal rimbombo dell'artiglieria pesante. L'assordante sinfonia della guerra.
+
+### u045899
+Nulla poteva fermarci. Marciavamo sulla scia di una colonna di bestie corazzate, senza voltarci a guardare i funghi atomici, scavalcando cumuli di cadaveri nemici e dei nostri. Avevamo i nostri ordini.
+
+### u045900
+La rapidità del nostro assalto si rivelò un'arma a doppio taglio. Lanciandoci coraggiosamente contro il fuoco nemico, perdemmo molti veicoli e soldati nelle trappole tese dai traditori dell'Umanità. I carri armati restavano impantanati nei cumuli di cadaveri, cercando di stritolarli con i cingoli. Sfondammo le difese nemiche al prezzo di innumerevoli vite.
+
+### u045901
+Ci fu ordinato di preparare i nostri auspex e di dare inizio all'assalto. Affidammo le nostre vite a piccoli schermi video verdi e ai loro spiriti macchina.
+
+### u045902
+Ogni volta che evitavamo un'altra trappola o imboscata del nemico, trasmettevamo le loro coordinate via vox agli artiglieri. Mentre i nostri compagni facevano piovere tuoni e fulmini sulle teste di quei figli di puttana nascosti, noi donavamo la Pace dell'Imperatore a tutti gli altri, avanzando lenti ma costanti verso le mura della città.
+
+### u045903
+Un errore fatale. I Tecnopreti apostati sabotarono i nostri dispositivi con un codice spazzatura che ci faceva condurre dritti nelle trappole e nelle imboscate del nemico. Circondato dalle grida di morte dei miei compagni ingannati, avevo un solo conforto: il mio fucile laser non mi tradì mai.
+
+### u045904
+Quando l'Imperium ti ordina di fare il tuo dovere e di dare la vita per la causa, non fai domande. Obbedisci e preghi l'Imperatore di avere con te un fucile laser e un giubbotto flak. Quei civili non avevano né l'uno né l'altro.
+
+### u045905
+File di civili terrorizzati e piangenti marciavano davanti a noi, farfugliando preghiere all'Omnissiah. Troppe volte sentii i loro singhiozzi spezzati dal fuoco nemico. Non potevo fare altro che stringere i denti e camminare, cercando di non guardare i loro corpi straziati, pregando l'Imperatore per le loro anime. "Meglio loro che me" era tutto ciò che riuscivo a pensare.
+
+### u045906
+Ho visto vecchi soldati cedere alla paura sul campo di battaglia. Non c'è da stupirsi, quindi, che una massa di disperati lavoratori andasse nel panico non appena vide il bagno di sangue in cui era stata gettata. Oltre a combattere gli eretici, ora dovevamo vedercela con orde di civili terrorizzati fuori di senno, che cercavano di sfondare i nostri ranghi.
+
+### u045907
+Alla fine raggiungemmo i cancelli del Molo Mu-514, la soglia dell'incubo di metallo che era il Manufactorum Sigma-S-13. Tuttavia, i primi tentativi di prendere d'assalto il molo si infransero contro le difese nemiche.
+
+### u045908
+Tra gli eretici catturati allo sbarco c'erano diversi comandanti nemici. Erano ansiosi di mostrarci l'esatta posizione dei cogitatori nemici e ci fornirono litanie di decifrazione per accedere ai sistemi di difesa. Fu in quell'ora che tutti ringraziammo il Lord Capitano per aver fatto la saggia scelta di intimidire il nemico nella prima fase dell'assalto planetario.
+
+### u045909
+Thorbald, il fiero capo degli Space Wolves, propose di inviare infiltrati oltre le mura per uccidere gli ufficiali nemici e indebolire le difese del molo.
+
+### u045910
+Il Lord Capitano ordinò...
+
+### u045911
+Facevo parte della scorta di una delle squadre di Tecnopreti che irruppero nel molo per portare a termine la missione di sabotaggio. Una cosa è vedere un tecnomate agitare un incensiere sopra un cogitatore su un ponte di carico, un'altra è osservare sacri tecno-rituali eseguiti sotto una grandine di proiettili e bombardamenti a tappeto.
+
+### u045912
+Le loro preghiere binariche, le litanie di decifrazione e i virus benedetti di criptopurificazione fecero il loro lavoro. Ogni torretta nei dintorni si rivolse all'istante contro i traditori, e il molo si riempì di spari e urla. Quando calò il silenzio, i cancelli si aprirono davanti a noi.
+
+### u045913
+Seguì una battaglia tra i virus di criptopurificazione e i cogitatori contaminati dal Caos. Molti Tecnopreti persero la vita nella lotta contro l'insidioso codice spazzatura. Non è facile dimenticare la vista di un mecadendrite rabbioso che strappa la testa al suo padrone. Una volta completati i rituali, le torrette cessarono il fuoco. Tuttavia, non appena le nostre prime file si avvicinarono ai cancelli, gli ultimi residui della macchia eretica sopravvissuti in qualche modo alla purga risvegliarono ancora una volta le armi, uccidendo molte anime valorose.
+
+### u045914
+Gli Space Wolves entrarono in città senza essere visti e vi mietirono un sanguinoso raccolto. Nessuno poteva nascondersi da quei guerrieri feroci e astuti.
+
+### u045915
+Gli infiltrati uccisero un ufficiale dopo l'altro, seminando panico e confusione tra il nemico. I corpi furono impalati su picche affinché gli eretici potessero vedere i loro comandanti da lontano. Quando il caos raggiunse l'apice, gli Space Wolves demolirono le torrette, aprirono i cancelli e diedero il segnale d'attacco. Il molo era nostro.
+
+### u045916
+L'abilità degli Space Wolves non aveva rivali, ma purtroppo erano semplicemente troppo pochi. Gli ufficiali morti furono sostituiti e i temibili Adeptus Astartes furono costretti a un confronto diretto. Distrussero le torrette di difesa e aprirono i cancelli, tenendo la linea finché non arrivammo in loro aiuto. Il molo fu preso con un assalto decisivo, seppur a caro prezzo.
+
+### u045917
+Come da regolamento, aspettammo che la nube di gas consentisse una visibilità minima, controllammo le nostre maschere filtranti, facemmo saltare i cancelli con le melta dei nostri carri armati e ci lanciammo all'attacco.
+
+### u045918
+Molti eretici erano già morti per mano dei loro compagni, che combattevano incubi visibili solo a loro. Non avemmo difficoltà a ripulire il resto di quei folli disorganizzati.
+
+### u045919
+Ma la concentrazione di gas era ancora troppo alta: nemmeno i filtri dei nostri respiratori riuscivano a bloccarla del tutto. Appena entrati, fu il disastro. I nostri soldati aprirono il fuoco sui propri compagni, cercando di distruggere gli incubi che vedevano con gli occhi della mente. Vidi... cose che non descriverò qui. Quando il gas si diradò, il molo era nostro, ma le perdite subite erano gravi.
+
+### u045920
+Ci vollero molti giorni per aprirci la strada fino al cuore metallico del manufactorum. Nella terza settimana di assalto, l'avanguardia fu fermata e spazzata via da una salva di macrocannoni al plasma. Disprezzando ogni canone della sacra ingegneria, gli eretici avevano posto lo scafo di un incrociatore del vuoto incompiuto su cingoli lunghi diversi chilometri. Quel leviatano di adamantio e plastacciaio ci sbarrava la strada.
+
+### u045921
+Il Lord Capitano...
+
+### u045922
+Il Rogue Trader {name} von Valancius fu il comandante supremo in quella battaglia. {mf|Un uomo|Una donna} dalla volontà di ferro. Incrollabile, irremovibile. Allora prestavo servizio nella guardia personale di tutori dell'ordine, solo un altro ragazzino arrogante convinto di essere un soldato esperto. L'Imperatore fu misericordioso con me: mi diede l'occasione di capire quanto mi sbagliassi. La maggior parte dei miei compagni non ebbe un'occasione simile.
+
+### u045923
+Nel centro di comando, il Lord Capitano ordinò ai propri generali di...
+
+### u045924
+I Tecnopreti Explorator si assunsero questo cupo compito, rifiutandosi di lasciare che i laici si avvicinassero alla loro nave del vuoto. Le meste processioni di Skitarii, Enginseer e servitori si misero in marcia verso l'obiettivo, trascinando dietro di sé le cariche da megatone grandi come carri armati.
+
+### u045925
+Quel giorno l'Omnissiah vegliò su di loro: ogni carica raggiunse il bersaglio. I Tecnopreti elevarono preghiere al Dio-Macchina mentre attivavano le cariche nel loro ultimo atto di sacrificio. Immagino che la morte del possente incrociatore si potesse vedere dall'orbita a occhio nudo.
+
+### u045926
+Non tutte le cariche raggiunsero l'incrociatore. Alcune furono distrutte durante il tragitto e spazzarono via molte delle nostre formazioni offensive. Ma quelle che raggiunsero la nave catturata bastarono a farla a pezzi.
+
+### u045927
+Avere la macchina sacra dalla nostra parte avrebbe potuto dare alla nostra offensiva un vantaggio considerevole. I nostri ordini erano di portare una forza di sbarco sul ponte di comando dell'incrociatore e di scortare gli Enginseer fino al cogitatore principale.
+
+### u045928
+Le nostre navette sfruttarono il punto cieco delle torrette per schierare truppe scelte a bordo dell'incrociatore. Mentre quelle erano impegnate con gli eretici urlanti, gli Enginseer ragionarono con gli spiriti macchina del cogitatore principale e avviarono il benedetto protocollo di purgazione sui ponti interni. Ci vollero tre giorni per trascinare fuori dai compartimenti ogni singolo cadavere di cultista.
+
+### u045929
+Solo una navetta raggiunse il bersaglio. Dopo aver perso molti dei suoi a causa delle forze nemiche superiori, l'unità sopravvissuta aveva perso ogni speranza di riprendere il controllo dei sistemi della nave.
+
+### u045930
+La fregata di scorta Righteous Redemption fu tolta dall'orbita con un semplice ordine: morire per la gloria dell'Imperium. Dopo che l'equipaggio fu evacuato, tranne le mille anime condannate a far funzionare i sistemi primari della nave, la Righteous Redemption iniziò il suo attacco finale.
+
+### u045931
+I calcoli erano impeccabili e il colpo seguì la traiettoria dritto verso il bersaglio. Non dimenticherò mai la vista del suo scafo, in fiamme per il fuoco dei macrocannoni, che si schiantava nelle sale del manufactorum trafiggendo il corpo dell'incrociatore degli eretici. Quell'abbraccio infuocato annientò entrambe le navi, lasciando dietro di sé un cratere colossale.
+
+### u045932
+Non dimenticherò mai la vista del suo scafo, in fiamme per il fuoco dei macrocannoni, che si schiantava nelle sale del manufactorum. Purtroppo la traiettoria di volo della Righteous Redemption era sbagliata. Cominciò a perdere quota troppo presto e si schiantò al suolo, scavando un solco proprio attraverso i nostri ranghi. Ma il suo propulsore al plasma rimase saldo e la fregata, dopo aver distrutto tutto sul suo cammino, trafisse l'incrociatore nemico. Entrambi perirono in un lampo accecante.
+
+### u045933
+Scivolando su pozze di sangue mescolato a sacri unguenti, raggiungemmo la Cattedrale delle Macchine. Un salone gigantesco che respirava con le fiamme di mille fornaci. L'ultimo baluardo dell'esercito nemico. Fu lì che affrontai per la prima volta i Word Bearers, traditori dell'Umanità e figli indegni dell'Imperatore. Che cosa potevamo fare noi, semplici esseri umani, per eguagliare la loro empia furia bestiale?
+
+### u045934
+Poiché il Lord Capitano aveva ordinato a tutte le nostre forze principali di iniziare l'operazione con un assalto rapido, le truppe nemiche erano ancora in disordine e non tutte le squadre dei Word Bearers avevano avuto il tempo di riunirsi alla Cattedrale delle Macchine. Erano sparse per il campo di battaglia e non potevano reagire con un colpo unitario. Questo ci diede la possibilità di accerchiare e schiacciare le loro squadre una a una.
+
+### u045935
+Con tonanti grida di battaglia, assaltammo le posizioni dei traditori in formazione serrata, facendo piovere fuoco sul nemico. Fu un attacco terrificante, ma gli ufficiali disciplinari ci spingevano avanti, schioccando le loro elettrofruste e sparando alla nuca a chi mostrava scarsa convinzione.
+
+### u045936
+Per ogni migliaio di colpi che la ceramite delle loro armature deviava, uno solo colpiva un sensore ottico o un'articolazione vulnerabile. Uno dopo l'altro, i giganti sacrileghi caddero sotto il nostro impeto. La nostra tenacia ebbe la meglio sulla loro protezione quasi impenetrabile.
+
+### u045937
+Le nostre armi non riuscivano nemmeno a scalfire le loro maledette armature. Vedendo l'inutilità dei loro sforzi, i nostri soldati fuggirono, sfondando le unità di sbarramento e lasciando le spalle esposte al fuoco nemico. Incapace di resistere alla tentazione, il nostro avversario ci diede la caccia. Migliaia dei miei commilitoni furono massacrati prima che arrivassero i veicoli corazzati a distruggere uno a uno quei dannati eretici.
+
+### u045938
+Quel giorno furono gli stessi Angeli dell'Imperatore a guidare la carica. Magnifici nella loro furia, aprirono una via che potessimo seguire, e nemmeno gli orribili campioni dell'Arcinemico riuscirono a fermarli.
+
+### u045939
+Mentre distraevamo il nemico con il fuoco di soppressione e una grandine di granate, i nostri inflessibili comandanti si lanciarono contro i Word Bearers e li fecero a pezzi. Noi eravamo l'incudine della Sua ira, e loro il martello!
+
+### u045940
+Ahimè, nella loro esaltata furia, i nostri inflessibili comandanti dimenticarono i miseri mortali che marciavano sulla loro scia. Dimenticarono del tutto le istruzioni del Lord Capitano e si dilettarono in duelli e cacce solitarie, abbandonandoci al nostro destino. Una volta schiacciato il nemico, guardammo con orrore il massacro sanguinoso che era rimasto delle nostre prime file. Nelle loro vane speranze di ricevere l'aiuto degli Space Wolves, non erano riusciti a difendersi da soli.
+
+### u045941
+Non c'è piacere più grande in guerra che rivoltare contro il nemico la sua stessa arma. I Marine del Caos sono più forti di un esercito di truppe ordinarie, ma nemmeno loro possono sopravvivere a un colpo diretto di macrocannone.
+
+### u045942
+Le armi dell'incrociatore inseguivano bene i loro bersagli, e nessuna armatura poteva proteggere da colpi simili. I cingoli del leviatano passarono sulle difese nemiche, decimando gli spregevoli Word Bearers e portandoci un grande trionfo.
+
+### u045943
+I Word Bearers lanciarono un contrattacco suicida. Salirono a bordo dell'incrociatore e si aprirono un sanguinoso varco fino al reattore al plasma. Nella loro sfrenata malvagità, gli eretici innescarono un'esplosione che ridusse in cenere loro stessi, la nostra tremenda nave terrestre e moltissimi dei bravi guerrieri dell'Imperatore che presero parte a quell'attacco.
+
+### u045944
+Nonostante il grande prezzo pagato, l'assalto planetario si concluse con un successo. Tuttavia, molti, troppi eretici si erano ritirati nella Cattedrale delle Macchine e si erano trincerati nel cuore stesso del territorio nemico. Le battaglie future sarebbero state di certo feroci e atroci. Nondimeno, avevamo stabilito la nostra supremazia sulla superficie del mondo.
+
+### u045945
+La vista era al tempo stesso terrificante e ipnotica. Una maestosa cattedrale progettata per solcare il vuoto riposava invece su cingoli di dimensioni che sbalordivano l'immaginazione. Quei cingoli riducevano in polvere gli edifici, e i pesanti cannoni della nave incenerivano intere formazioni di carri armati. Come potevano dei semplici mortali sperare di sconfiggere un behemoth simile?
+
+### u045946
+Le informazioni ottenute dai cultisti catturati si rivelarono preziose. Sapevamo esattamente dove cercare i cogitatori degli eretici e come accedervi.
+
+### u045947
+Il Magos Dominus Opticon-22 insistette affinché riconquistassimo la macchina sacra, poiché la nave era in costruzione da molti decenni e la sua distruzione sarebbe stata una grande tragedia per l'Imperium.
+
+### u045948
+Anche divisi e pochi di numero, i Word Bearers rappresentavano una minaccia mortale. Ma noi avevamo il vantaggio, e non avevamo alcuna intenzione di perderlo.
+
+### u045949
+Gli Enginseer presero la dolorosa decisione di sovraccaricare il reattore al plasma per distruggere l'incrociatore. La mostruosità di metallo fu abbattuta al prezzo di gravi perdite.
+
+### u045950
+Ma i severi Tecnopreti ci spingevano avanti con pungoli elettrici, senza mai permetterci di fermarci a esplorare le sacre sale delle macchine.
+
+### u045951
+Aprendoci la strada tra le rovine delle officine sacre, guardammo con meraviglia macchine che, fino a quel momento, erano rimaste proibite agli occhi dei laici. Erano palazzi di tecnologia incredibile e spaventosa: sale di assemblaggio di navi del vuoto, atri alchemici, arsenali sacri, generatori che producevano campi invisibili inquietanti per la mente e scriptorium contenenti conoscenze di orrori che è meglio non scoprire.
+
+### u045952
+Il torvo Thorbald si offrì volontario per rintracciare e distruggere quella vile progenie, ma il destino aveva in serbo altro per lui e i suoi fratelli: il branco degli Space Wolves sarebbe stato il primo a dare l'assalto alla Cattedrale delle Macchine. E così il Magos Dominus Opticon-22 radunò una coorte di Skitarii scelti e disse che avrebbe trovato ed eliminato Doomscream. I soldati bisbigliavano che fosse disposto ad attivare il cosiddetto protocollo di annientamento garantito, un rito terribile e sinistro, letale tanto per i nemici dell'Omnissiah quanto per i Suoi fedeli servitori.
+
+### u045953
+Chi ebbe la fortuna di scampare con la vita aveva poco da raccontarci. Ricordavano un terribile ululato sospeso nell'aria e una macchina di morte, incredibilmente rapida per la sua stazza, che smembrava le persone e accartocciava i carri armati con i suoi orribili manipolatori. Quel nemico era antico, subdolo e completamente folle: la mente dell'eretico era offuscata da rabbia e odio, e il suo corpo era imprigionato in una gabbia di metallo e carne mutata.
+
+### u045954
+{mf|Giunto|Giunta} in prima linea, il Lord Capitano...
+
+### u045955
+Il seguito del Lord Capitano e la banda degli Space Wolves si addentrarono nel pozzo, dirigendosi verso il cuore della Cattedrale delle Macchine. Li guardammo partire con reverenza negli occhi mentre allestivamo un perimetro attorno all'ingresso. Sapevamo che il vero esito della battaglia di Eufrates II dipendeva da loro e che i nostri destini erano nelle loro mani.
+
+### u045956
+Fu la saggia guida del Rogue Trader a permettere ai loro colpi di perforare l'armatura di Doomscream. Brutalmente ferito e umiliato, il profano carnefice non ebbe altra scelta che fuggire dal combattimento.
+
+### u045957
+Ahimè, non c'era comprensione reciproca delle rispettive usanze di combattimento. Gli Skitarii ostacolavano gli Angeli dell'Imperatore, e questi ultimi distruggevano i guerrieri dell'Omnissiah con attacchi sconsiderati. La vittoria stava sfuggendo loro di mano, perciò Opticon-22 impartì il suo ultimo ordine.
+
+### u045958
+Sembrò allora che l'abbondante fortuna del Lord Capitano stesse per finire, ma poi gli Skitarii di Opticon-22 e gli Space Wolves di Thorbald si unirono alla mischia. Dimenticata la loro contesa, i due comandanti assalirono l'empia arma di distruzione.
+
+### u045959
+La chela strappata dell'abominio, dotata di un antico e potente bolter, divenne il giusto trofeo del Rogue Trader.
+
+### u045960
+Il combattimento fu estenuante e sanguinoso. Nemmeno il seguito del Lord Capitano riuscì a perforare l'indistruttibile armatura di Doomscream.
+
+### u045961
+I guerrieri dell'Omnissiah si aggrapparono all'abominevole struttura di Doomscream come formiche. Quando fu il momento, il venerabile Magos Dominus attivò la sacra carica atomica fissata al suo corpo. La forza dell'esplosione strappò e maciullò una delle chele di Doomscream, e l'antica macchina eretica fuggì nella vergogna. Quella fu l'impresa di Opticon-22.
+
+### u045962
+Il glorioso guerriero Ulfar, che era marciato in battaglia con il branco degli Stormbiters e si era guadagnato il massimo rispetto dei suoi compagni d'arme già nelle primissime ore dell'assalto, entrò da solo nella fortezza nemica e tornò con le teste di tre eretici di alto rango, dimostrando che quel piano rientrava pienamente nelle capacità degli Angeli dell'Imperatore.

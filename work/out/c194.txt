@@ -1,0 +1,936 @@
+### u065133
+"Hmm. La risposta che mi aspettavo. Non credo di dover attendere a lungo lo scontro — quando mia sorella verrà a sapere di quanto è accaduto nell'arena, manderà degli assassini, oppure deciderà di venire di persona..."
+
+### u065134
+"Non ti ho detto di rifletterci, {name}. Ti ho detto che cosa pretendo da te. E la tua risposta ha dimostr—"
+
+### u065135
+"Hmm. Forse non mi sono spiegato bene. Il diritto di togliere la vita a un Aezyrraesh—"
+
+### u065136
+{n}Marazhai s'interrompe — tutta la sua attenzione è ora concentrata su una piastra piegata sulla sua spalla. Un istante dopo ne afferra il bordo e, con un gemito strozzato, la strappa via — il pezzo si stacca con un sibilo. Marazhai comincia a raddrizzare la piastra piegata con le mani, rivelando la sorprendente forza racchiusa nel suo corpo snello.{/n}
+
+### u065137
+{n}Il lato interno della piastra è dotato di due sottili uncini. Non somigliano ai normali fissaggi di un'armatura, e sono anche rivestiti di qualcosa che luccica di umido.{/n}
+
+### u065138
+{n}Resti {mf|sconvolto|sconvolta} nello scoprire che non c'è alcuna sottoveste né alcun indumento — a quanto pare la sottile e leggera armatura è fissata direttamente alla pelle pallida del Drukhari, solcata di vene. Noti due segni di puntura circondati da lividi violacei — qualcosa gli ha trapassato la carne in quel punto, ed è ciò che teneva ferma la piastra dell'armatura.{/n}
+
+### u065139
+{n}Con un sibilo, Marazhai rimette a posto la piastra e si volta senza una parola, senza degnarti di una risposta.{/n}
+
+### u065140
+{n}Dopo alcuni secondi, un'antica consapevolezza si risveglia in te — l'attenzione rapita di un predatore mortale è puntata su di te. Alzi di scatto lo sguardo — Marazhai ha notato il tuo interesse. In silenzio volta la testa verso di te e si china. I suoi occhi ti penetrano, lo sguardo beffardo e carico di promesse.{/n} "Che cosa stai guardando?"
+
+### u065141
+"Ah, sì... Sento il tuo battito frenetico, {name}." {n}Il Drukhari inclina la testa.{/n} "Che cosa provi quando mi guardi? Paura primordiale? Orrore paralizzante? Inspiegabile soggezione? Lascia che ti spieghi: sei {mf|affascinato|affascinata} dalla tua vicinanza alla morte. La tua coscienza vacilla di fronte all'improbabile fatto di essere ancora in vita. Ma non te ne rendi conto, perché ti è stato impedito di esplorare i limiti delle tue sensazioni. Nel mio mondo non esistono simili vincoli."
+
+### u065142
+"Esatto. Direttamente nei centri nervosi." {n}La testa del Drukhari ricade di lato e la sua voce assume un sottofondo vellutato, come se assaporasse ogni parola.{/n} "Stimolazione diretta dei punti di innesco, che provoca un dolore costante e inesorabile. Sai quanto è piacevole quando la tua sofferenza risuona all'unisono con quella di un altro? L'estasi travolgente quando la tua agonia sanguina nell'agonia del tuo nemico? Il mio mondo è tessuto di quel piacere, {name}."
+
+### u065143
+{n}Il freddo tocco del guanto artigliato ti coglie di sorpresa — afferrandoti il mento, Marazhai si sporge in avanti, così vicino che vedi la stretta fascia di turchese scuro intorno alle pupille dilatate del Drukhari.{/n} "Posso mostrarti quel mondo, {name}. Posso insegnartelo. Se fai quello che ti viene detto."
+
+### u065144
+{n}Marazhai lascia sfuggire una bassa risata.{/n} "Non mi aspetto che una creatura primitiva come te comprenda qualcosa di così al di là del suo intelletto. Mi basta che tu capisca i tuoi obblighi nei miei confronti."
+
+### u065145
+{n}Gli occhi del Drukhari si spalancano per lo stupore. Con un sibilo intercetta il tuo braccio, stringendoti il polso...{/n}
+
+### u065146
+{n}Le labbra di Marazhai si distendono in un sorriso.{/n} "Un docile animale. Bene." {n}Si china ancora più vicino — e poi ti spinge via con forza. Con aria noncurante, fa un passo indietro e rimette a posto con una pacca la piastra sulla spalla.{/n} "Allora comincia eseguendo il mio ordine. Se incontriamo Yremeryss, è mia. E ora vai, {name}. Ho finito con te. Per il momento."
+
+### u065147
+{n}Marazhai ride con disprezzo.{/n} "Verissimo, {name}! Tutto ciò che devi fare è concentrarti sui tuoi obblighi."
+
+### u065148
+"Vediamo come te la cavi con i compiti che ti ho già assegnato. Ricorda — Yremeryss è mia, ovunque e ogni volta che la incontreremo. Detto questo, non ho altro da dirti, {name}."
+
+### u065149
+"Solo un Aezyrraesh ha il diritto di togliere la vita a un Aezyrraesh. Mi darai la possibilità di porre fine all'esistenza dell'Arconte della Reaving Tempest."
+
+### u065150
+"Allora torniamo alle mie istruzioni. L'anima di Yremeryss e il mio diritto di ucciderla."
+
+### u065151
+"Sì?" {n}Il Drukhari appare profondamente confuso.{/n} "Il tuo stupore mi fa pensare che i mon-keigh siano ancora più primitivi di quanto sospettassi. Non dirmi che tra voi i legami di sangue comportano certi divieti e tabù?"
+
+### u065152
+"Sì. Le davo valore finché non è andata troppo oltre nei suoi tentativi di sbarazzarsi di me. Lei dava valore a me finché non mi sono rifiutato di offrire la gola alla lama senza dire una parola. Il nostro rapporto è giunto a un punto morto. Ora il legame che ci unisce deve essere reciso."
+
+### u065153
+{n}Marazhai schiva il colpo con un ghigno e si ritrae.{/n} "Non avresti dovuto farlo. Ma non importa. Torniamo ai tuoi obblighi."
+
+### u065154
+"Creatura ingenua... Gli Haemonculi di Commorragh — compreso Tervantias, che Yremeryss predilige — sono in grado di rigenerare i nostri consanguinei uccisi a partire da piccoli frammenti di carne conservati in tubi amniotici. Qualsiasi Drukhari tu uccida sul campo di battaglia può tornare a darti la caccia — sia pure a un prezzo, dato che l'Haemonculus esige una parte dell'anima del cliente come pagamento per questa precauzione. Forse Yremeryss era abbastanza disperata — o abbastanza folle — da ricorrere a un simile contratto. Chissà, avere l'anima di Yremeryss in mio possesso potrebbe rendere difettosa la sua forma rigenerata — se ne comparirà una. Potrebbe non ricordarsi affatto di me né di te."
+
+### u065155
+"Mon-keigh..." {n}comincia il Drukhari, ma si interrompe di colpo. Vedi il suo volto contorcersi mentre si costringe a pronunciare le parole successive:{/n} "{name}. C'è qualcosa che devi fare per me."
+
+### u065156
+"Bene, {name}. Sappi che non potresti mai condannarla a un destino peggiore di quello che ho preparato per lei. Ora che questa conversazione è conclusa..." {n}Marazhai rimette a posto la piastra con una pacca.{/n} "Possiamo andare ciascuno per la propria strada."
+
+### u065157
+{n}Marazhai ti segue da sotto le palpebre abbassate — il suo sguardo è valutativo, come se cercasse di capire quanto tu sia pericoloso. Poi distoglie lo sguardo e comincia a ispezionare la propria armatura con studiata noncuranza.{/n}
+
+### u065158
+"È tutto... un po' più complicato di quanto tu sia in grado di comprendere. Il nostro vecchio gioco deve finire. La mia prima mossa è fallita a causa del tradimento di Nazrakhei. Ora devo solo portare a termine ciò che ho iniziato — distruggerla con le mie mani prima che lei distrugga me."
+
+### u065159
+{n}Il Drukhari ti rivolge un ghigno sprezzante.{/n} "La tua paura è quasi tangibile. Delizioso. Ma torniamo al motivo per cui ti ho chiamato qui — Yremeryss. E i tuoi obblighi verso di me."
+
+### u065160
+"Io... sì." {n}Quando allenti la presa, il Drukhari ti fissa per alcuni secondi, con la testa leggermente china.{/n} "Prima che ti lasci... posso chiederti di lasciare Yremeryss a me?" {n}Senti nella sua voce una supplica che sembra al tempo stesso sincera e beffarda.{/n}
+
+### u065161
+"Io... sì." {n}Quando allenti la presa, il Drukhari ti fissa per alcuni secondi, con la testa leggermente china.{/n} "E non dimenticherò il mio posto... finché non perderai la presa." {n}Gli occhi di Marazhai brillano di fame.{/n} "Poiché mi hai già promesso Yremeryss... ora ti lascio. Quando sarà il momento di uccidere... fammelo sapere."
+
+### u065162
+"Yremeryss è mia sorella. Che importanza ha?"
+
+### u065163
+"State mettendo in pericolo le vite di migliaia di membri dell'equipaggio e di miliardi di sudditi del protettorato!"
+
+### u065164
+"Lord Capitano, la vostra decisione condannerà tutti noi! I pirati da quattro soldi muoiono rischiando soltanto la propria pelle — ma voi?"
+
+### u065165
+"Prima di tutto devi trovare la pace dentro la tua anima."
+
+### u065166
+"In verità non credi in nulla, {name}. Né nel Dio-Imperatore, né nell'Arcinemico, e nemmeno nelle persone. Credi a stento in te {mf|stesso|stessa}. Provo pietà per te."
+
+### u065167
+"La luce nella tua anima trafigge l'oscurità, pronta a donare speranza a chi ne ha più bisogno. Accetta la tua luce."
+
+### u065168
+"Ora ti vedi, elantach? {mf|Radioso|Radiosa} quanto ti vedono gli altri?"
+
+### u065169
+"È naturale che i mon-keigh desiderino la vicinanza dei propri simili. Ma questo stesso desiderio genera il dubbio."
+
+### u065170
+"Le vostre parole potrebbero essere fraintese. Sono una mutante. Vi state forse prendendo gioco di me?"
+
+### u065171
+"Tutto ciò che avete ora vi è stato servito su un piatto d'argento. Ma lo meritate?"
+
+### u065172
+"Una volta tradito, è difficile tornare a fidarsi degli altri. Soprattutto di chi ci è più vicino e più fedele."
+
+### u065173
+"Al vuoto l'anima, gli dèi e gli amici. Solo il potere può piegare la galassia al proprio volere!"
+
+### u065174
+"Colpa, angoscia, disperazione — tutti questi sentimenti offuscano la mente e distorcono i pensieri, elantach. Solo accettare e comprendere ciò che è stato fatto può davvero elevarti... o distruggerti del tutto."
+
+### u065175
+"Follia e genio sono due fenomeni dello stesso ordine, e questo è un fatto incontrovertibile. Chiedetevi, Rogue Trader: siete davvero così {mf|vicino|vicina} a quest'ultimo e così {mf|lontano|lontana} dalla prima? La strada della vostra ascesa è lastricata di innumerevoli sacrifici, eppure evitate di guardare in basso, per non perdere la ragione."
+
+### u065176
+"Quando il dovere si chiude intorno al tuo cuore come una trappola di ferro... sceglieresti l'intimità in cattività? O spezzeresti la trappola per essere {mf|libero|libera}, lasciandoti le ali alle spalle?"
+
+### u065177
+"Smettete di rivolgervi a un accolito della Santa Inquisizione come fareste con un ammiratore a un ricevimento dell'alta società. Siete una persona troppo frivola per guidare una dinastia tanto illustre."
+
+### u065178
+"Sono qui per ucciderti? Per tradirti? Per servirti? Sono amico o nemico? Che cosa ne pensi, {name}?"
+
+### u065179
+"L'oscurità ha già messo radici nella tua anima, e non si può disfare. Ma puoi ancora accettarla e sigillarla nel profondo. Combatti! E non cedere mai più."
+
+### u065180
+"Elantach, tu... tu brami il potere eterno concesso dalla corruzione. Ho promesso di non giudicarti, ma è mio dovere metterti in guardia."
+
+### u065181
+"Finché potrò ancora usare i suoi troni, non mi importa."
+
+### u065182
+"Ti dai delle arie, Lord Capitano. Sei distante dalla gente comune quanto la vecchia e arrugginita Footfall lo è da Terra."
+
+### u065183
+"Ma questo fuoco ti dà potere. Accettalo fino in fondo. Accetta {mf|te stesso|te stessa} — e doma il fuoco furioso."
+
+### u065184
+"Il fuoco della fede arde luminoso nella tua anima, bruciandoti dall'interno. Rischi di perderti se mai ti arrenderai a esso."
+
+### u065185
+"La paura di essere usati... Ce l'abbiamo tutti. Ma più abbiamo da dare, più cresce."
+
+### u065186
+"Certo che sto con te solo per il tuo trono e il tuo potere, shereen! Non speravi che i miei sentimenti fossero sinceri, vero?"
+
+### u065187
+"Stai facendo tutto bene, non preoccuparti, shereen! Prenderò volentieri il tuo posto quando non ci sarai più."
+
+### u065188
+"Non so chi sia questo mon-keigh, ma i tuoi ricordi di lui somigliano a fango viscido dopo la pioggia. Laviamoli via come acqua di sorgente, che ne dici?"
+
+### u065189
+"Mi hai già dimenticato, {name}? Oh, non dimenticarmi mai — nemmeno per un istante. Perché appena ti volterai, ti pianterò la scheggia della mia spada in gola!"
+
+### u065190
+"Ricorda che tutti qui sono solo un riflesso dei tuoi pensieri, dei tuoi sentimenti e dei tuoi desideri. Non aver paura di guardarli negli occhi."
+
+### u065191
+"Ce l'abbiamo fatta, elantach! Per ora il tuo mondo somiglia a quello reale, ma presto imparerai ad andare più a fondo."
+
+### u065192
+"Liberati dal tuo fardello inutile, elantach. E lascia che la serenità entri nella tua anima."
+
+### u065193
+"La tua anima somiglia a un giardino trascurato in cui le erbacce soffocano fragili piantine di fiori."
+
+### u065194
+"I crimini dell'unità {name} von Valancius contro le sacre leggi dell'Omnissiah sono stati registrati. La punizione è imminente."
+
+### u065195
+"Se solo la luce dell'Imperatore può essere il nostro faro, eppure solo i veri dèi concedono il potere... È possibile raggiungere la pace in ogni angolo dell'universo?"
+
+### u065196
+"Tutti gli esseri senzienti hanno paura della morte. Prima devi accettare la paura, solo allora potrai liberartene."
+
+### u065197
+Sangue fresco impregna le preziose coperte di seta, formando una brutta macchia sotto il cadavere... il tuo cadavere.
+
+### u065198
+"Il peso della responsabilità grava sulle tue spalle, elantach, e la tua anima si spegne per la stanchezza. Spezza le catene dell'esaurimento."
+
+### u065199
+"Una profonda solitudine lega i mon-keigh con fili d'affetto. Ma schegge di dolore non guarito li lacerano ancora e ancora, creando nuove ferite."
+
+### u065200
+"Per te sono solo un cane. Un cane a cui è permesso mangiare da una ciotola d'oro, ma solo finché non ti stanchi di lui."
+
+### u065201
+"Nascondetevi pure dietro il Mandato quanto volete — vedo attraverso di voi. Un giorno commetterete un errore, e allora, state {mf|certo|certa}, io sarò lì. La mano punitrice della Lex Imperialis."
+
+### u065202
+"Alcune parole bisogna sentirle almeno una volta per crederci."
+
+### u065203
+"Sono fiero di te, {name}. Sei {mf|diventato un degno successore|diventata una degna successora} — e forse persino {mf|il migliore|la migliore} dei Lord Capitani."
+
+### u065204
+"Solo i pazzi e gli sciocchi non dubitano mai della propria forza. I saggi sono pieni di dubbi, ma sanno come lasciarli andare."
+
+### u065205
+"Sei stato solo {mf|fortunato|fortunata}, mon-keigh. Ma la fortuna è l'unica cosa che hai. Sei debole... Quindi preparati a soffrire!"
+
+### u065206
+"Tutti — dai ponti inferiori agli ufficiali superiori — {mf|lo|la} odiano. Sento le loro trasmissioni vox. Si sta preparando un ammutinamento."
+
+### u065207
+"Ci siamo sbarazzati di un Rogue Trader, e ci sbarazzeremo anche di {mf|lui|lei}."
+
+### u065208
+"In piedi al timone, scrutando l'oscurità del cosmo... Ti senti {mf|solo|sola} tra le stelle come lo sono io tra i miei simili."
+
+### u065209
+"Il mio mondo somiglia a una strada infinita, che trafigge la galassia stessa. Tu e io siamo a metà di questo cammino. Non ne vedo né l'inizio né la fine..."
+
+### u065210
+"Ma io vedo dove la strada finisce per te, {name}. Finisce molto prima della mia — come un bagliore fugace, il luccichio di una stella cadente. Un momento breve e bellissimo..."
+
+### u065211
+"E questa strada, questo momento, desidero trascorrerli con te. Non come {mf|un umano|un'umana} e una Figlia di Asuryan, ma da pari a pari."
+
+### u065212
+"{name} e Yrliet. Yrliet e {name}."
+
+### u065213
+"Provi lo stesso?"
+
+### u065214
+"Sapevo che i mon-keigh non mi avrebbero creduta se avessi parlato loro del tradimento del loro fedele osservatore di estranei. Avrebbero posto fine al mio Sentiero. Alla mia vita. E i figli di Crudarach non avrebbero mai saputo la verità. Ma... l'elantach mi avrebbe creduta?"
+
+### u065215
+"Prima non temevo l'oblio, sapendo che un giorno la mia anima si sarebbe unita al Circuito dell'Infinito di Crudarach e avrebbe raggiunto i miei antenati. Ma ora... ora ho una vergognosa paura di ogni battaglia che devo affrontare."
+
+### u065216
+"Oh, Asuryan, perché i Veggenti hanno fatto questo? I mon-keigh non sono i soli a dover rispondere della morte della nostra casa! I nostri stessi capi hanno condannato migliaia di anime preziose alla sofferenza! Io... io..."
+
+### u065217
+"Mia povera cuginetta! Eri così disperata di salvare la tua stirpe senza spina dorsale, eppure alla fine tutto ciò che hai fatto è stato deluderli, deludere te stessa, e persino la tua curiosa compagna, la tua elantach."
+
+### u065218
+"Io... li ho delusi tutti. Avrei potuto agire diversamente? Avrebbe fatto differenza?"
+
+### u065219
+"Rilassati e goditi il processo, cugina! Dolore e sofferenza sono il nettare che salverà la tua anima, non le tue misere cianfrusaglie!"
+
+### u065220
+"Sono inciampata. Ho quasi perso me stessa. Non voglio più portare dolore — a me stessa né agli altri."
+
+### u065221
+"La casa che ho perso. La mia gente che non ho potuto salvare. E l'elantach il cui predecessore era responsabile di tutto. Paura e disperazione si sono impadronite della mia anima. Dovevo fare qualcosa, qualsiasi cosa..."
+
+### u065222
+"Il ricordo di una perdita è sempre più forte del ricordo di un guadagno, soprattutto quando perdi qualcosa di così importante come una casa. O un intero mondo."
+
+### u065223
+"Ho pagato il prezzo per intero. Ho perso me stessa e persino... la mia meditazione. Né la mia anima né il mio corpo possono più conoscere riposo."
+
+### u065224
+"{name}! No, {name}!"
+
+### u065225
+"Non aspettarmi, {name}. Vai. Io... resterò seduta qui ancora per un po'."
+
+### u065226
+"Te ne vai già?"
+
+### u065227
+"La tua anima brilla più delle stelle, {name}. È una luce gradevole... calda e accogliente. Sono lieta di non essermi sbagliata su di te."
+
+### u065228
+"Ogni volta che mi immergo nelle profondità del tuo mondo, sento la mia anima riempirsi di serenità. Di calore. E... di sollievo."
+
+### u065229
+"Quando meditiamo insieme... il dolore nella mia anima si placa. Provi lo stesso?"
+
+### u065230
+"Lascia andare tutto, elantach. Dubbi. Paure. Emozioni. Getta via il peso del tuo corpo. Svuota la mente."
+
+### u065231
+"Bene. Ora prova a guardare dentro la tua anima. Osservala, mentre brilla timida, e... tuffati."
+
+### u065232
+"Non l'hai saputo? La nuova bestiola del Rogue Trader ha cacciato alcuni servitori dal livello inferiore. È lì che si aggira ora, nell'ombra."
+
+### u065233
+"Ehi, non era qui che si aggirava quella feccia xenos?"
+
+### u065234
+"Invece di rimirarsi, i mon-keigh dovrebbero rivolgere più spesso lo sguardo al mondo che li circonda."
+
+### u065235
+Accettati
+
+### u065236
+Ascolta con attenzione
+
+### u065237
+Dissolvi la tua stanchezza
+
+### u065238
+Accetta le tue paure
+
+### u065239
+Dissolvi la tua solitudine
+### u065240
+Dissolvi il tumulto nella tua anima
+
+### u065241
+Accetta i tuoi dubbi e lasciali andare
+
+### u065242
+"Altre fesserie aeldari. Avrei fatto meglio a non chiedere."
+
+### u065243
+[Chiudi gli occhi, svuota la mente e pronuncia la parola] "Li-lae-than..."
+
+### u065244
+"Non mi sarei mai aspettata di sentirti dire cose simili su di me."
+
+### u065245
+"Mi fai dei complimenti, adesso? Quindi ti attraggo!"
+
+### u065246
+"Lilaethan."
+
+### u065247
+"Grazie per avermi detto come vedi il mondo."
+
+### u065248
+"Hai tutta la mia attenzione."
+
+### u065249
+"Sei venuta troppo tardi per un'udienza, Yrliet. Il mio orario di ricevimento è finito da un pezzo."
+
+### u065250
+"Non ho capito una sola parola di quello che hai detto."
+
+### u065251
+"Rinfrescami la memoria: che cosa ti avevo chiesto?"
+
+### u065252
+"Certo. Se sei pronta a darla."
+
+### u065253
+"Credo di iniziare a capire."
+
+### u065254
+"Cerco di non pensare affatto a te — e ordinerò al mio equipaggio di fare lo stesso."
+
+### u065255
+"Una domanda sciocca. Il mondo appartiene all'Umanità."
+
+### u065256
+"Oh, quello... L'argomento non mi interessa più."
+
+### u065257
+"Ti vedo come un essere intelligente e molto pericoloso. Un'alleata, per ora."
+
+### u065258
+"Scopro di essere {mf|attratto|attratta} soprattutto dall'imperfezione e dalla distruzione."
+
+### u065259
+"Vedo la sofferenza di chi mi circonda, e questo mi spinge ad agire."
+
+### u065260
+"Vedo l'unicità di ogni creatura, di ogni cosa. E questo mi rallegra."
+
+### u065261
+"Vedo anche qualcosa di più grande nel mondo che mi circonda, qualcosa di più profondo dell'apparenza esteriore delle cose."
+
+### u065262
+"Per me sei un mondo straniero eppure affascinante, Yrliet. Spero che un giorno arriverò a conoscerti. E quel giorno il mio stesso mondo diventerà molto più profondo."
+
+### u065263
+"Sei bella e seducente. Mi piaci."
+
+### u065264
+"Il mondo è pieno di eventi casuali. Lo riconosco e mi abbandono ai corsi del fato."
+
+### u065265
+"Non preoccuparti, non provo alcuna attrazione per te, in nessun senso della parola."
+
+### u065266
+[Falle cenno di continuare]
+
+### u065267
+"Il tuo fascino è... insolito. Sgorga dall'interno, evocando inquietudine... e il desiderio di conoscere ciò che è nascosto ai miei occhi."
+
+### u065268
+"In questo mondo di guerra e pericoli senza fine, vedo un solo faro di speranza, ed è il Dio-Imperatore."
+
+### u065269
+"È una parola come un'altra — non ha nulla di speciale."
+
+### u065270
+"Grazie, ma no. È tutto ciò che volevi dirmi?"
+
+### u065271
+"Credo di essere {mf|stanco|stanca} di questa conversazione, ormai."
+
+### u065272
+"Cerco di rivolgere la mia attenzione a ciò che delizia le mie orecchie e i miei occhi — musica, arte, ricchezza e potere, ovviamente."
+
+### u065273
+"Poco tempo fa mi hai posto una domanda, elantach. E ora sono qui per darti la mia risposta." {n}Con fluida grazia, Yrliet emerge dalle ombre del ponte di comando. Il suo volto sembra risplendere sotto la luce dei lumen, la sua espressione un po' più pensierosa del solito.{/n}
+
+### u065274
+"Tu cerchi di spezzare il mondo in frammenti: in luce e oscurità, verità e menzogne, sé e altro. Ma io vedo il mondo come un unico tutto, ed è in questo che stanno la sua semplicità e la sua complessità. Non basta vedere il mondo e ascoltarne le voci. Devi comprenderlo."
+
+### u065275
+"Al posto del clamore senza vita di mostruosi meccanismi, del rombo dei motori e delle voci discordi dei tuoi seguaci, io ascolto e ricerco il silenzio. Nasce nei momenti di serenità spirituale, e in quella quiete diventiamo testimoni delle trasformazioni del nostro mondo interiore."
+
+### u065276
+"Non faccio che dire la verità, elantach. Tuttavia ti chiedo di non commettere l'errore tipico della tua specie — le mie parole non contengono alcuna insinuazione né alcun invito ad agire. La tua anima... brilla luminosa in questo mondo. Io ti vedo, e questo non cambierà mai. È tutto."
+
+### u065277
+{n}Ti sfugge per un soffio il lampo di delusione negli occhi dell'Aeldari.{/n} "Questo è solo l'inizio, elantach. Ho altro da dirti."
+
+### u065278
+{n}La parola straniera rotola goffamente nella tua bocca e, una volta pronunciata, affonda subito senza lasciare traccia nel mare di voci del ponte di comando.{/n}
+
+### u065279
+"Hai fretta, elantach. Riprova. Non forzare la parola — lascia che sia lei a portarti con sé."
+
+### u065280
+{n}L'Aeldari si volta, ma prima di andarsene ti guarda ancora una volta:{/n} "Non prendere a cuore le mie parole. Non c'è vergogna nel pensare come gli altri della tua specie. È molto più difficile seguire una strada diversa da quella di tutti."
+
+### u065281
+{n}Il volto di Yrliet si indurisce ed ella si porta il più lontano possibile da te.{/n} "La nostra conversazione mi ha aperto gli occhi — la tua comprensione della mia anima è limitata quanto quella dei tuoi simili. Fermiamoci qui. Avrai senz'altro faccende importanti da sbrigare. Non distrarrò oltre il signore dei mon-keigh."
+
+### u065282
+{n}L'Aeldari china il capo e fa un lieve gesto con la mano, il cui significato ti è ignoto.{/n} "Alcune domande sono destinate a restare senza risposta. Avrai senz'altro faccende importanti da sbrigare. Non distrarrò oltre il signore dei mon-keigh."
+
+### u065283
+"Abbiamo parlato di come ciascuno di noi veda il mondo a modo suo. Eri {mf|ansioso|ansiosa} di sapere come lo vedono gli Aeldari. Vuoi ancora ascoltare la risposta?"
+
+### u065284
+"Allora ascolta attentamente la mia risposta, elantach. Potresti faticare a comprendere ciò che sta per essere detto, {mf|abituato|abituata} come sei a crogiolarti nella tua stessa potenza e a piegare il mondo al tuo comodo. Non rivolgere la tua comprensione alle mie parole, ma al senso nascosto nell'ombra dei loro suoni." {n}Yrliet socchiude gli occhi, e le sue parole si dipanano lente e melodiose.{/n}
+
+### u065285
+"E tu che ne pensi, elantach? In che modo diverso vedi il mondo?"
+
+### u065286
+"E in te, elantach... vedo molto più di un semplice mon-keigh. La tua vera essenza risiede nella tua volontà, capace di cambiare il mondo intorno a te e dentro di te. Risiede nella tua capacità di creare e di comprendere ciò che hai creato, e nella tua capacità di distruggere. Risiede in ciò che le menti dei tuoi simili non riescono a cogliere, in ciò che il loro sguardo primitivo non riesce a scorgere... Ma io lo vedo."
+
+### u065287
+{n}Il respiro di Yrliet si ferma lieve.{/n} "La tua comprensione del mondo non è poi così diversa da quella dei tuoi simili. Forse le mie conclusioni su di te erano premature."
+
+### u065288
+"A volte è così." {n}Yrliet chiude gli occhi come se sprofondasse in un ricordo.{/n} "Persino le rovine di mondi dimenticati da tempo racchiudono le storie del passato e di coloro che vennero prima di noi."
+
+### u065289
+"Se parli della capacità delle nostre anime di superare le avversità... allora l'esperienza della sofferenza diventa davvero un simbolo della nostra forza duratura e della nostra crescita interiore. E dà speranza che potremo superare le prove della vita."
+
+### u065290
+"Posso seguire il filo dei tuoi pensieri, elantach. Ogni forma, colore, creatura ed essere possiede un proprio fascino e la capacità di muovere le nostre emozioni. Milioni di stelle nell'oscurità. L'inimitabilità dei cristalli del vuoto. La moltitudine di forme di vita, intelligenti e primitive, che abitano la galassia... Il mondo si manifesta in una diversità infinita — ed è in questo che risiede la sua vera magnificenza."
+
+### u065291
+"E che cosa significa?" {n}chiede Yrliet, con tutta la sua attenzione concentrata sulle tue parole.{/n}
+
+### u065292
+{n}Yrliet si immobilizza e ti guarda intensamente, come se ti vedesse per la prima volta.{/n} "Pare che ci siano molte sfaccettature della tua anima che non avevo considerato, elantach. Interessante... Accetto la tua risposta e ti ringrazio di aver parlato con me. È la prima conversazione, a bordo di questa nave, che abbia davvero portato serenità e gioia alla mia anima."
+
+### u065293
+"L'incomprensione tra le nostre specie è da mettere in conto, elantach. Non pensavo che avresti colto tutto ciò che è stato detto... Eppure speravo che la tua mente fosse capace di più."
+
+### u065294
+"Capisco. Ci sono momenti in cui qualcosa di sublime può nascere dall'accidentale combinazione di colori sulla tavolozza celeste. O dai fili intrecciati del destino di due anime che si tessono insieme in un dato istante. In questo attimo inatteso ed elusivo, il mondo acquista un fascino particolare."
+
+### u065295
+{n}Yrliet resta per un po' in silenzio, osservandoti dal basso delle palpebre socchiuse.{/n} "Ora che ciascuno di noi ha condiviso la propria verità su questo mondo... vorrei sapere se i tuoi pensieri su di me coincidono con quelli dei tuoi simili, elantach, o se mi vedi in modo diverso."
+
+### u065296
+"Le tue parole non turbano la mia anima. Al contrario, mi portano solo sollievo. E ora che questa conversazione è finita, ti lascio tornare a guidare il tuo uccello dalle ali d'acciaio." {n}Yrliet annuisce brevemente e si dissolve nelle ombre del ponte.{/n}
+
+### u065297
+{n}Un guardingo interesse brilla negli occhi di Yrliet quando i vostri sguardi si incontrano di nuovo.{/n}
+
+### u065298
+"Basta così, mon-keigh. Non ti avevo avvertito delle conseguenze?"
+
+### u065299
+"Accetto la tua risposta, elantach. Purché tu non tenti di provocarmi né di esigere da me... qualcos'altro..." {n}Pone un'enfasi particolare sulle ultime parole.{/n} "Ora vado, elantach. Guida il tuo uccello dalle ali d'acciaio."
+
+### u065300
+"Se le tue parole sono sincere, elantach... allora sei capace di vedere più di quanto vedi ora."
+
+### u065301
+"Sarà meglio così, credo. Quanto meno la mia presenza darà nell'occhio sulla tua nave, tanto più in pace sarà la mia anima. Ora vado, elantach. Guida il tuo uccello dalle ali d'acciaio." {n}Yrliet annuisce brevemente e si dissolve nelle ombre del ponte.{/n}
+
+### u065302
+"Le vite dei mon-keigh passano così in fretta. Le attraversate di corsa in nome di una meta prescelta, ma i pensieri di transitorietà e perdita vi spaventano, e così li scacciate e vi annegate nel tumulto quotidiano. Eppure è dai momenti fugaci, che entrano nelle nostre vite e ne svaniscono rapidamente, che cresce la fortezza dell'anima. Una fioritura di un attimo, un appassire di un'ora — lo splendore di ciascuno sta nella sua caducità. Così anche i ricordi di coloro che hanno lasciato il nostro fianco e non percorrono più il sentiero con noi."
+
+### u065303
+"Pensa al Lilaethan, il mondo su cui si sono incrociati i nostri sentieri. Che cos'è davvero? Qual è la sua essenza? La magnificenza del Lilaethan non viene dal verde delle sue vaste foreste, né dalla profondità delle sue acque. La sua bellezza è nella parola. Nel modo in cui danza sulla lingua. E persino tu, elantach, puoi avvertirla. Prova — pronuncia la parola, lentamente, delicatamente, scartando ogni pensiero vagante. Senti. Forse allora vedrai."
+
+### u065304
+"I mon-keigh si arrabbiano quando non ricevono una risposta. E quando la ricevono, si arrabbiano anche allora." {n}Yrliet fa un passo indietro e distoglie lo sguardo da te.{/n} "Lasciamo questa conversazione nel passato e andiamo avanti."
+
+### u065305
+{n}Il mondo intorno a te sfuma e la tua percezione si restringe all'istante, concentrandosi in un unico punto sulla punta della lingua. "Li" — la lingua sfiora delicatamente il palato, e il suono scivola lungo la gola con incredibile morbidezza, scaldandosi man mano come un sorso di recaf fresco. "Lae" — la punta della lingua tocca di nuovo lo stesso punto e l'aria esce dolcemente dal petto, il suono simile al fruscio delle foglie quando il vento si intreccia nella volta della foresta. "Than" — la lingua batte contro i denti anteriori e una lieve vibrazione si diffonde nel tuo corpo, mandandoti un brivido lungo la schiena.{/n}
+
+### u065306
+"Eppure è stato affascinante osservare la tua reazione. Ora sono curiosa di sapere come vedi questo mondo."
+
+### u065307
+"Forse sono stata troppo precipitosa nel giudicarti. Forse la tua essenza è solo vuoto dentro un guscio colorato." {n}Un sospiro soffocato sfugge alle labbra di Yrliet.{/n} "Ti avverto, elantach, un'altra insinuazione e ogni possibilità di comprensione tra noi andrà perduta per sempre."
+
+### u065308
+"Yrliet, la tua pietra spirituale..."
+
+### u065309
+"Maledetto xenos, che cosa hai fatto?"
+
+### u065310
+[Corri ad aiutarla]
+
+### u065311
+"Stai bene? Hai qualcosa di diverso."
+
+### u065312
+"Il Veggente ha detto che hai affrontato un rito di rinascita. È vero?"
+
+### u065313
+[Attendi che il rito sia completato]
+
+### u065314
+[Ferma il rito] "Togliti di mezzo! Se tu non vuoi aiutarla, lo farò io!"
+
+### u065315
+"Yrliet, sei riuscita a completare il rito?"
+
+### u065316
+"Chiamavi il mio nome, Yrliet. Credevo avessi bisogno del mio aiuto."
+
+### u065317
+"Puoi fermare il rito?"
+
+### u065318
+"Dobbiamo andarcene da qui, finché il tuo corpo resiste ancora all'esterno."
+
+### u065319
+"Qui è così bello e silenzioso. Un netto contrasto con il mio mondo."
+
+### u065320
+"Allora, le anime di tutti gli Aeldari sono così?"
+
+### u065321
+"Ora sei sola, senza i tuoi simili né la tua pietra spirituale. Se vuoi sopravvivere — allora sii il mio animale domestico sanzionato."
+
+### u065322
+"Siamo entrambi salvi. È questo che conta di più."
+
+### u065323
+"Ma non so come uscire da qui! Non so nemmeno come ci sono {mf|arrivato|arrivata}."
+
+### u065324
+"Presto, aiutami a uscire da qui!"
+
+### u065325
+"Proteggermi? Da cosa?"
+
+### u065326
+"Il tuo mondo mi ha quasi {mf|ucciso|uccisa}!"
+
+### u065327
+"Yrliet, che ne sarà di te adesso?"
+
+### u065328
+"Che cosa significa? Yrliet ha dimenticato tutto quello che abbiamo passato insieme?"
+
+### u065329
+"Mi hai {mf|salvato|salvata}. Mi hai fatto scudo con la tua anima."
+
+### u065330
+"Da quando la vita di un mon-keigh è più preziosa per te della tua?"
+
+### u065331
+"Non è ancora finita! Resterò al tuo fianco e ti aiuterò a trovare una nuova pietra spirituale."
+
+### u065332
+"Dimentica quegli Aeldari arroganti. Ti darò cibo e un tetto — tutto ciò che potrai mai desiderare!"
+
+### u065333
+[Lascia Yrliet nella foresta] "Si dice che la vendetta sia un piatto da servire freddo. Ora sei completamente sola e questa foresta maledetta sarà la tua tomba."
+
+### u065334
+"Ferma il rito! Non vedi che soffre?"
+
+### u065335
+"Sei crollata, urlando di dolore. Che cos'è successo?"
+
+### u065336
+[Attendi e osserva]
+
+### u065337
+"Non mi avvicinerò mai più alla vile magia degli Aeldari!"
+
+### u065338
+"Hai ricominciato a chiamarmi 'mon-keigh'. Perché?"
+
+### u065339
+"Ma mi chiami 'elantach' fin dal nostro primo incontro."
+
+### u065340
+"Perché te ne stai lì a fissare a bocca aperta? Sistemalo! Ci dev'essere un modo!"
+
+### u065341
+"Com'è potuto succedere?"
+
+### u065342
+{n}Yrliet è in ginocchio, aggrappata alla pietra spirituale con entrambe le mani come a un'ancora di salvezza. I suoi occhi sono spenti, il respiro irregolare, il corpo tremante. Il rito è decisamente andato storto.{/n}
+
+### u065343
+{n}Yrliet abbassa lo sguardo sul proprio pettorale con stupore, vedendo la sua pietra spirituale in frantumi.{/n} "O misericordiosa Isha..."
+
+### u065344
+"Fermati, elantach! Questo è... il cuore stesso del mio mondo. Troppo fragile perché tu lo tocchi. Non puoi venire qui. Tu... non dovresti nemmeno essere qui!"
+
+### u065345
+{n}Il mondo straniero ti sputa fuori come un rifiuto. La testa ti gira, tutto il corpo ti duole e ogni muscolo brucia per lo sforzo. Ti sembra che le migliaia di sguardi che ti seguivano nel mondo di Yrliet continuino a osservarti, a valutarti, a giudicarti...{/n}
+### u065346
+"Bentornata nel nostro mondo, bambina. Ricordi che cosa è successo? Sai che cosa accadrà?"
+
+### u065347
+"Oppure i tuoi antenati hanno deciso di sollevartene. Quando sei venuta la prima volta, ho visto macchie scure nella tua anima, che ne attenuavano il bagliore. Ma ora... ora la tua anima è limpida come il cristallo."
+
+### u065348
+{n}Strani, sottili mutamenti nei suoi occhi color smeraldo ti stringono il cuore. Un'inspiegabile ansia ti risale lungo la schiena per sussurrarti all'orecchio: qualcosa non va. Qualcosa manca.{/n}
+
+### u065349
+{n}Lo sguardo di Yrliet irradia serenità e calore, come se le urla e il dolore di pochi istanti fa fossero stati soltanto frutto della tua immaginazione.{/n}
+
+### u065350
+{n}Passano diversi minuti prima che Yrliet sussulti e... ammutolisca. Le braccia le ricadono inerti lungo i fianchi, lo sguardo è rivolto al cielo e sulle sue labbra tremanti compare l'ombra di un sorriso.{/n}
+
+### u065351
+{n}Yrliet scrolla le spalle, con aria sorpresa.{/n} "Ho parlato con le anime degli antenati di Alaitoc. Ricordo un bagliore luminoso e centinaia di sguardi attenti che mi penetravano l'anima. E poi... non ricordo più nulla. Mi sono semplicemente svegliata, mon-keigh."
+
+### u065352
+{n}Yrliet riprende lentamente coscienza, volta la testa e ti guarda negli occhi.{/n} "Ho parlato con loro, mon-keigh."
+
+### u065353
+"Io... non lo so, {name}. Non lo so." {n}Lo sguardo di Yrliet si posa distrattamente sui volti dei suoi simili, ma loro si voltano da lei con paura e disgusto.{/n}
+
+### u065354
+"Te l'avevo detto che ogni cosa ha un prezzo, Reietta. Hai riparato i mon-keigh dal pericolo con la tua anima e hai finito per attirare su di te l'attacco dei nostri antenati." {n}Shairenkhei scuote tristemente la testa.{/n} "Almeno sei sopravvissuta al rito. Dimmi — le tue parole sono state ascoltate?"
+
+### u065355
+"Oh, elantach, che cosa ho fatto?" {n}Yrliet scuote la testa con rimpianto.{/n} "Sono ancora connessa alle anime dei miei antenati. È pericoloso per te stare qui. Vattene!"
+
+### u065356
+"I miei antenati hanno visto le ferite inferte alla mia anima durante la ricerca di Crudarach e la tortura dei Drukhari. Le ferite che non si sono rimarginate per molte settimane, mentre non potevo meditare e immergermi nel mio mondo. E ora si trovano da qualche parte qui — a guarire, rattoppare, riparare. E tu, {name}... Pensano che anche tu sia una delle ferite che sanguinano dentro la mia anima." {n}Yrliet ti guarda con aria cupa e colpevole.{/n} "Proviamo a fare come abbiamo già fatto — proviamo a trascinarti fuori dal mio mondo con la medita—"
+
+### u065357
+"Non dovremmo paragonare i nostri mondi, elantach. Il mio è un giardino in fiore, che ho curato e amato per anni. Il tuo è ancora giovane e privo di grazia — com'è giusto che sia."
+
+### u065358
+"Un mondo interiore non è che il riflesso di come vediamo la nostra anima. Ciascuno lo plasma in modo diverso e ognuno è unico."
+
+### u065359
+"Il mio corpo resisterà, elantach. Perché io—"
+
+### u065360
+{n}Yrliet si guarda intorno con ansia, e ombre di dubbio cominciano a insinuarsi negli angoli del suo splendido mondo.{/n} "Non preoccuparti, {name}. Ti proteggerò, qualunque cosa accada."
+
+### u065361
+"Sì, potrebbe funzionare. Ricordi la nostra meditazione? Lascia andare tutto, elantach. Dubbi. Paure. Ansie—"
+
+### u065362
+{n}Avverti uno strano formicolio che parte dalla punta delle orecchie fino alle dita dei piedi. Un'ondata di calore e calma ti travolge, enorme e inarrestabile — e con essa la sensazione che qualcuno ti stia osservando. Come se migliaia di occhi fossero puntati su di te nello stesso momento. Non appartieni a questo luogo. Non dovresti essere qui.{/n}
+
+### u065363
+"{name}, stai bene?" {n}Yrliet si inginocchia su di te, scrutandoti negli occhi con espressione preoccupata.{/n} "Sì... sì, vedo. Sei {mf|illeso|illesa}."
+
+### u065364
+{n}Gli Aeldari di Crudarach, sconvolti dal tuo improvviso ritorno dalle profondità del mondo di un altro, si avvicinano lentamente, osservando te e Yrliet, che si è appena risvegliata.{/n}
+
+### u065365
+{n}Il guerriero Aeldari annuisce alla tua domanda.{/n} "Siamo ansiosi di saperlo anche noi, sorella. Asuryan è stato misericordioso con te, come lo sono stati i nostri antenati del Circuito dell'Infinito di Alaitoc. Dicci — qual è stata la loro risposta?"
+
+### u065366
+{n}Yrliet scrolla le spalle, con aria sorpresa.{/n} "Non credo che sia così, mon-keigh. Ho parlato con le anime degli antenati di Alaitoc. Ricordo un bagliore luminoso e centinaia di sguardi attenti che mi penetravano l'anima. E poi... non ricordo più nulla. Mi sono semplicemente svegliata."
+
+### u065367
+"Perché sei {mf|uno|una} di loro, mon—" {n}Yrliet sbatte le palpebre, confusa.{/n} "Sì... la memoria sta tornando lentamente. Per quelli come te usiamo la parola 'elantach'."
+
+### u065368
+"Anche se lo volessimo, mon-keigh, è impossibile ricreare una pietra spirituale così facilmente. Ma non ti svelerò i segreti della mia gente, perché anche tu hai la tua parte di colpa in ciò che è accaduto alla Reietta."
+
+### u065369
+"Gli antenati di Alaitoc hanno visto le ferite inferte alla mia anima durante la ricerca di Crudarach e la tortura dei Drukhari. Le ferite che non si sono rimarginate per molte settimane, mentre non potevo meditare e immergermi nel mio mondo. E hanno deciso di aiutarmi — di guarirmi, rattopparmi, ripararmi. Ma tu, {name}... Pensavano che anche tu fossi una delle ferite che sanguinano dentro la mia anima." {n}Yrliet ti guarda con aria cupa e colpevole.{/n}
+
+### u065370
+"Non capisco... Perché le anime di Alaitoc dovrebbero fare una cosa simile?"
+
+### u065371
+{n}Il Veggente indietreggia barcollando, inorridito.{/n} "Oh, questa è la tua punizione, Reietta! Per il tradimento della tua stessa gente!"
+
+### u065372
+"Sei {mf|rimasto|rimasta} {mf|imprigionato|imprigionata} nel mio mondo, {name}. E quando le anime dei miei antenati ti hanno preso di mira per liberare il mio mondo da tutto ciò che non gli apparteneva, io..." {n}Yrliet balbetta.{/n}
+
+### u065373
+"Pare che tu sia {mf|diventato|diventata} parte del rito quando ti sei {mf|avvicinato|avvicinata} troppo. Ecco perché non ti ho percepito subito e perché non potevi andartene." {n}Con mano tremante, Yrliet sfiora i frammenti della pietra spirituale, poi ritrae la mano con un grido, fissando un taglio sul dito.{/n}
+
+### u065374
+"Avrebbero guarito la mia anima e ti avrebbero fatto scomparire. Ma io non lo volevo. Io... deciderò da sola quando camminare al tuo fianco e quando le nostre strade si separeranno. La libertà di scegliere, anche se la scelta è pericolosa e sbagliata — questo è il mio Sentiero, {name}. È per questo che vivo e combatto."
+
+### u065375
+"Aspetta! Se cambi il rito, potresti peggiorare ancora di più le cose per Yrliet!"
+
+### u065376
+{n}Shairenkhei fa un cenno ai suoi guerrieri, che cominciano a radunarsi.{/n} "Qui le nostre strade si dividono, Reietta."
+
+### u065377
+{n}Evitando Yrliet come meglio possono, gli Aeldari si disperdono per il prato e scompaiono nelle ombre della foresta. Lei li guarda andar via, i pugni stretti così forte che le nocche sono diventate bianche.{/n} "Così è finito il Sentiero della Reietta."
+
+### u065378
+{n}Le tue parole fanno sorridere appena Yrliet.{/n} "Se solo fosse così semplice, elantach. Bisogna saper legare una pietra spirituale vuota a un'anima, intrecciarla al proprio mondo interiore ed essere in grado di contenerla. Solo le caste dei Veggenti sono capaci di una simile impresa, ma ora la mia gente mi ha voltato le spalle... e non per la prima volta."
+
+### u065379
+{n}Stringendo per abitudine la pietra rotta, Yrliet indietreggia.{/n} "No, {name}. Non puoi farmi questo. T-tu non puoi..." {n}Paura e disperazione crescono nei suoi occhi e, senza attendere una risposta, Yrliet si volta e corre via — per allontanarsi da te.{/n}
+
+### u065380
+"Kae-morag, sono già qui! Corri... scappa subito, {name}!"
+
+### u065381
+"Io..." {n}Yrliet si guarda intorno, smarrita, ma non è rimasto nessuno ad aiutarla. Vedi la paura che la artiglia dall'interno, ed ella annuisce brevemente senza dire una sola parola.{/n}
+
+### u065382
+"Tutto ciò che ho sempre voluto era essere libera" {n}Yrliet scuote la testa con dolore.{/n} "E invece sono diventata un animale domestico. Be', almeno mi sentirò più a mio agio sulla tua nave che nelle foreste di questo mondo."
+
+### u065383
+"Andiamo, elantach. Lasciamoci alle spalle questo cimitero di dubbi, speranze infrante e paure appena nate. Insieme."
+
+### u065384
+"Elantach, capisco che..." {n}Yrliet s'interrompe a metà frase e abbassa lo sguardo sul proprio pettorale con stupore, vedendo la sua pietra spirituale in frantumi.{/n} "O misericordiosa Isha..."
+
+### u065385
+{n}Il corpo di Yrliet continua a tremare di dolore, ma il suo volto è imperscrutabile — le sue labbra sottili sussurrano qualcosa nella lingua degli Aeldari, le mani formano senza sosta gesti elaborati.{/n}
+
+### u065386
+"Ora che l'anima di Yrliet è rimasta senza protezione, lo sguardo insaziabile di Colei che ha Sete sarà puntato su di lei per sempre. E se la Reietta muore, la sua anima non potrà mai unirsi ai suoi antenati nel Circuito dell'Infinito — Sai'lanthresh la divorerà in quello stesso istante."
+
+### u065387
+"No. Almeno, io non ricordo nulla del genere."
+
+### u065388
+{n}Yrliet riflette un istante.{/n} "È... possibile. Ma ricordo poco di quel periodo e di te, elantach. Forse durante il rito ho perso parte dei miei ricordi."
+
+### u065389
+"Penso che molti dei suoi ricordi torneranno col tempo. Ma qualcosa nella sua anima è cambiato in modo irreversibile."
+
+### u065390
+"Il Rito del Legame è pericoloso, e la Reietta ne conosceva il prezzo. Non so che cosa veda, senta e provi. Ma c'è una sola verità — l'anima della Reietta è impura e gli antenati di Alaitoc se ne sono accorti. Con ogni probabilità, la Reietta affronterà il Rito della Rinascita... o perirà."
+
+### u065391
+Eco del Rogue Trader
+
+### u065392
+Eco di Yrliet
+
+### u065393
+"La tua fede in me? Ho sentito bene?"
+
+### u065394
+"Non posso aiutarti con la meditazione, ma sono pronta a restare con te e a condividere il silenzio. Così potrai dimenticare gli orrori di Commorragh, anche solo per un poco."
+
+### u065395
+"Non credo che potrò mai fidarmi completamente di te."
+
+### u065396
+"Capisco perché l'hai fatto. E ti perdono."
+
+### u065397
+"Con te sono sempre {mf|stato|stata} {mf|sincero|sincera}, Yrliet. Tu, invece, mi hai mentito fin dall'inizio."
+
+### u065398
+"Come farai a riprendere i tuoi poteri, adesso?"
+
+### u065399
+"Vorrei poterti abbracciare e consolarti, ma non sopporti il tocco umano."
+
+### u065400
+"Spero che tu trovi un modo per affrontare la cosa."
+
+### u065401
+"Ognuno ottiene ciò che merita."
+
+### u065402
+"Ti ho già detto che non so nulla di quel frammento. Quel trofeo apparteneva a Theodora, la mia predecessora."
+
+### u065403
+"Non riesci a meditare? Può succedere?"
+
+### u065404
+"{name}, io..." {n}Il consueto orgoglio e l'arroganza di Yrliet lasciano il posto all'imbarazzo e allo smarrimento.{/n} "È la prima volta che mi trovo a dovermi spiegare in questo modo. Ma tu... più di chiunque altro... meriti di conoscere la verità."
+
+### u065405
+{n}Yrliet ti guarda dritto negli occhi.{/n} "Il tempo che ho trascorso con te, le nostre conversazioni, il bagliore della tua anima che solo io posso vedere... Sì, fede. Con te, io..." {n}Balbetta, a corto di parole.{/n}
+
+### u065406
+{n}Yrliet resta immobile per un istante, poi ti invita con un gesto a sederti accanto a lei.{/n} "Su Crudarach avevamo un detto: nel silenzio si può udire un battito — la musica dell'anima che cerca di prorompere. Ti prego, condividi con me questo canto senza parole, {name}. E che porti pace a entrambi."
+
+### u065407
+{n}Yrliet abbassa il capo per la vergogna.{/n} "Le tue parole contengono una verità indiscutibile. Avrei dovuto capire prima che meritavi più di ciò che ti offrivo. Meriti... la mia fiducia. Perdonami l'arroganza, {name}."
+
+### u065408
+"Capisco, elantach. Mi hai perdonata e mi hai ricordato il Sentiero che percorro. Solo per questo ti sono infinitamente grata."
+
+### u065409
+{n}Yrliet fa un elegante gesto e annuisce brevemente.{/n} "Mi piacerebbe parlare più a lungo, ma ogni tregua nella Città Oscura dura poco. Quando si è prede messe alle strette, bisogna restare vigili e aspettarsi di essere messi alla prova in qualsiasi momento. Mi preparerò a ciò che ci attende."
+
+### u065410
+{n}Gli occhi di Yrliet si spalancano per la sorpresa.{/n} "Ti do la mia parola, {name}, non tradirò mai più la tua fiducia. Hai mostrato grande compassione accettandomi e perdonando il mio gesto. Non so se io sarei stata capace di fare altrettanto."
+
+### u065411
+"Mi addolora sapere quali sofferenze hai dovuto sopportare a causa mia. E soffri ancora — in questa arena maledetta, in questa città maledetta. Anch'io..." {n}Yrliet fa una pausa, come esitando a proseguire.{/n} "La mia anima è distrutta, elantach. La perdita di Crudarach, gli orrori di Commorragh e i tentativi dei Drukhari di rieducarmi... Ho pagato il prezzo per intero. Ho perso il mio Sentiero e non riesco più a... meditare. Il mio corpo e la mia anima non conoscono più pace. E questo significa che Colei che ha Sete presto volgerà su di me il suo sguardo predatore."
+
+### u065412
+{n}Yrliet rabbrividisce e riflette a lungo sulle tue parole, lottando in silenzio con se stessa. Poi scuote la testa.{/n} "No. Non lo sopporto, elantach. Ma il fatto che tu lo ricordi e rispetti i miei sentimenti significa molto per me."
+
+### u065413
+"Asuryan non abbandonerà la sua figlia in un'ora così buia, elantach. Ne sono certa."
+
+### u065414
+"Io... non lo so." {n}Una sincera disperazione risuona nella voce di Yrliet.{/n}
+
+### u065415
+"Capisco quanto io sia indegna ai tuoi occhi. Potrà sembrare una scusa ridicola, ma... non volevo tradirti, {name}. Volevo solo conoscere la verità sulla fine di Crudarach e ritrovare la mia gente. E quando ho visto il frammento del mio mondo nella tua dimora, quel trofeo appeso alla parete, ero fuori di me per la paura e la rabbia. E quando il mio cugino oscuro mi ha sussurrato all'orecchio di conoscere le risposte alle mie domande... ho commesso un errore. Mi sono fidata della mia gente. E, temendo che mi avresti rifiutato se avessi saputo da dove prendevo i miei ordini, ti ho semplicemente chiesto di dirigere la tua nave verso quel particolare sistema."
+
+### u065416
+"Mi fidavo di Marazhai? No, naturalmente. Pensavo che parlasse del luogo in cui si trovava la mia gente per schiacciarmi l'anima — che volesse che andassi lì e trovassi solo la morte al posto di loro. Ma la speranza... la speranza di un futuro migliore... ha prevalso sulla mia fede in te, elantach." {n}Yrliet sospira con imbarazzo, evitando il tuo sguardo.{/n} "Colma di speranza, non mi è mai passato per la mente che quest'unico filo, che mi sfuggiva continuamente di mano, ci avrebbe condotti nel cuore stesso della Città Oscura. Mi dispiace, {name}. E volevo che lo sapessi."
+
+### u065417
+"Quindi non sei tu {mf|il colpevole|la colpevole} della distruzione di Crudarach, ma lo è il tuo sangue?" {n}Yrliet serra le labbra sottili.{/n} "No, non condannerò né te né il tuo sangue. Non più. Le mie accuse ci sono già costate troppo."
+
+### u065418
+"Ho sentito storie di Aeldari incapaci di raggiungere il proprio mondo interiore a causa dell'angoscia o della follia. E ogni storia aveva un finale tragico."
+
+### u065419
+{n}Un sorriso amaro sfiora le labbra di Yrliet.{/n} "Ma anche tu sei qui, elantach?"
+
+### u065420
+"Sono un po' sorpresa, ma non mi oppongo a simili visite. Puoi venire qui quando vuoi."
+
+### u065421
+"Perché sei nei miei alloggi? E per di più senza invito?"
+
+### u065422
+[Impugna l'arma] "Mi stai spiando, xenos? O stai tramando qualcosa di ancora più sinistro?"
+
+### u065423
+"Capisci bene quanto sia sospetto, vero?"
+
+### u065424
+"Gli Aeldari non insegnano ai loro figli che irrompere nelle stanze altrui è sconveniente?"
+
+### u065425
+"Ricordo il nostro accordo e lo rispetterò, proprio come ho promesso."
+
+### u065426
+"Prima che io tragga conclusioni affrettate, spiegami che cosa ci fai qui."
+
+### u065427
+"Qualcosa è cambiato. È come se ti fossi chiusa a me. Yrliet, che cosa sta succedendo?"
+
+### u065428
+"Ho ereditato questo trofeo dalla mia predecessora."
+
+### u065429
+[Esamina il trofeo appeso alla parete]
+
+### u065430
+"È... un frammento di qualcosa di aeldari?"
+
+### u065431
+"Con che abilità hai cambiato argomento."
+
+### u065432
+"Se davvero non sei venuta qui con intenzioni malevole, allora scusati semplicemente per l'intrusione."
+
+### u065433
+"Penso che tu sappia qualcosa su questo trofeo."
+
+### u065434
+"Non dirmi che cosa fare né come comportarmi."
+
+### u065435
+"Non arrenderti. Troverai ciò che cerchi."
+
+### u065436
+"Non mi pento delle mie azioni. La tua gente ha avuto esattamente ciò che meritava."
+
+### u065437
+"Se qualcosa non ti piace, sei libera di lasciare la mia nave in qualsiasi momento."
+
+### u065438
+"Come sei riuscita a eludere i tutori dell'ordine?"
+
+### u065439
+"Yrliet? Che piacevole sorpresa vederti qui."
+
+### u065440
+[Attacca] "Non credo a una sola parola, xenos!"
+
+### u065441
+"Bada al tuo tono, Aeldari, o ti pentirai di avermi parlato in questo modo."
+
+### u065442
+"Per gli umani, introdursi senza permesso equivale a un insulto."
+
+### u065443
+{n}Muovendo passi cauti, quasi senza rumore, Yrliet esamina l'interno dello studio, inarcando le sopracciglia per la sorpresa e borbottando qualcosa tra sé nella lingua degli Aeldari.{/n}
+
+### u065444
+"Sai che evito la tua gente e la sua attenzione ossessiva. È stato abbastanza facile distrarre un paio di mon-keigh e sgusciare oltre loro..." {n}Incontrando il tuo sguardo, Yrliet annuisce in segno di comprensione.{/n} "Suppongo che non sia una notizia piacevole da sentire."
+
+### u065445
+"Non mi sbagliavo a pensarlo, vero?" {n}Per un istante un triste sorriso balena sul volto di Yrliet, e la sua voce risuona di un dubbio straziante.{/n} "Comunque sia, tu... hai cercato di mantenere la tua promessa. Anche se la tua specie ama cancellare qualunque forma di vita ritenga indesiderabile..."

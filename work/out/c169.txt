@@ -1,0 +1,720 @@
+### u056725
+"Lord Capitano, i Tecnopreti hanno fatto una scoperta sinistra su Kiava Gamma: una macchina blasfema costruita per volere del malvagio Cubis Delphim. Il meccanismo è in grado di captare i sussurri del warp. Di tanto in tanto trasmette anche una discordante melodia binarica verso il nulla, ma non sono stati rilevati dati cifrati né altre minacce: sembra una specie di effetto collaterale funzionale."
+
+### u056726
+"Certo, l'idea di usare una macchina al posto degli Astropati per contattare le voci del warp può sembrare allettante, ma... questa macchina brulica di corruzione. I suoi serbatoi di carburante sono saturi delle anime liquefatte dei vostri sudditi. Per ora ne ha abbastanza, ma... un giorno andrà rifornita."
+
+### u056727
+{n}La squadra di accoliti dell'Inquisizione requisì in segreto la macchina corrotta. Poco dopo, su Dargonus cominciarono ad arrivare strani avvertimenti anonimi, ciascuno dei quali era stato senza dubbio pagato con il sangue e l'anima di un altruista difensore dell'Imperium.{/n}
+
+### u056728
+{n}Nonostante i turni brevi e il controllo meticoloso, molti Transmeccanici vennero eliminati dopo il contatto con la mostruosa macchina. Ma le piccole schegge di informazione che ottennero giustificarono il loro sacrificio.{/n}
+
+### u056729
+{n}I predicatori convocati, severi e rigidi, cominciarono a darsi il cambio per recitare nel vox-trasmettitore una formidabile litania sull'inevitabile vittoria dell'Imperatore. Le loro parole furiose volarono dritte nell'Immaterium e rimbombarono nelle orecchie degli spiriti che lo abitano, incapaci di sottrarsi a quella giusta invettiva. Ogni volta che un predicatore periva, un altro ne prendeva il posto, e di volontari non ce n'era penuria.{/n}
+
+### u056730
+"A nome dell'Inquisizione, dichiaro il divieto di qualsiasi contatto con questo dispositivo. Va rimosso e consegnato ai nostri accoliti. Normalmente sarebbe tutto, ma vi spiegherò di più, per rispetto verso di voi. L'Inquisizione può... trarre vantaggio da questa macchina eretica. I nostri accoliti addestrati sono in grado di vegliare accanto ad essa, ascoltando con attenzione i sussurri oscuri degli spiriti dell'Immaterium senza soccombere alla loro corruzione. Potremmo scoprire i loro piani... e avvertire il Rogue Trader ogni volta che una minaccia incombesse sul suo dominio."
+
+### u056731
+"I demoni volevano che ascoltassimo i loro discorsi immondi? Che odano il nostro grido giusto! {name}, lasciate che convochi i predicatori più zelanti, che dedicheranno la vita e lo zelo a leggere a questa macchina una litania di furia e rabbia. Che gli abitanti del warp odano la nostra voce e ci temano!"
+
+### u056732
+"Grazie per la vostra collaborazione."
+
+### u056733
+"Il vostro comando sarà trasmesso agli addetti del manufactorum."
+
+### u056734
+"Che i malvagi tremino di paura!"
+
+### u056735
+"Il nostro dovere di acquisizione totale della conoscenza sarà adempiuto. L'Omnissiah sa tutto, comprende tutto."
+
+### u056736
+"Sfidando i dettami dell'Omnissiah e avventurandosi nel pericoloso campo della sperimentazione con la tecnologia warp. È una conoscenza pericolosa... ma l'antico e incredibilmente complesso vox-nucleo del meccanismo è molto più vecchio di Delphim. Probabilmente l'ha trovato qui e se n'è servito per i propri scopi."
+
+### u056737
+{n}Grazie alle informazioni carpite nei sussurri del warp, sono stati scoperti molti complotti eretici e messaggi blasfemi inviati dal Culto dell'Alba Finale. Il protettorato ha guadagnato una nuova linea di difesa.{/n}
+
+### u056738
+{n}Il meccanismo, trasformato in ripetitore astropatico, poteva trasmettere i messaggi in modo molto più affidabile e chiaro del Coro. Di tanto in tanto si insinuavano strani errori che oscuravano il significato originale del messaggio, ma tali imprecisioni furono giudicate accettabili.{/n}
+
+### u056739
+{n}Il dispositivo fu smantellato senza pietà ma con cura. I Tecnopreti che condussero l'esame riferirono le loro scoperte al Magos Haneumann, dopodiché vennero giustamente eliminati.{/n}
+
+### u056740
+{n}Il dispositivo fu distrutto senza pietà ma con cura. Nei suoi ultimi spasmi emise rumori che spinsero altri meccanismi alla follia e alla rovina. Ma alla fine fu annientato, e la fede nel trionfo dell'Omnissiah riempì il cuore dei giusti.{/n}
+
+### u056741
+"Tuttavia... gli artigiani segreti a cui avete affidato il compito di occuparsi della... eredità del malvagio Delphim sostengono di poter usare questo dispositivo a vostro vantaggio e... senza alcun rischio..."
+
+### u056742
+{n}I sinistri eretici sotto la protezione del Rogue Trader trasferirono la macchina nella loro malvagia tana. Ascoltando gli echi dell'Immaterium, accolsero nelle loro anime ancora più corruzione e conoscenza oscura.{/n}
+
+### u056743
+"Cosa si sa di questa malattia?"
+
+### u056744
+"Fa' come desideri, Pasqal. Hai il mio permesso."
+
+### u056745
+"Lancia un attacco atomico sul centro dell'epidemia e incenerisci la piaga."
+
+### u056746
+"Isola il manufactorum. Jae, invita chi sarebbe disposto a pagare per la possibilità di studiare questa tecno-lebbra."
+
+### u056747
+"Crea una zona di esclusione attorno al manufactorum. Dobbiamo studiare questa piaga e trovare una cura."
+
+### u056748
+"Abelard, manda i nostri ufficiali a organizzare la quarantena e la purga."
+
+### u056749
+"Manda le squadre di Tecno-Purgatori al centro dell'epidemia."
+
+### u056750
+"Kibellah, lascia che i filatori condividano il loro segreto."
+
+### u056751
+"Voglio ascoltare i suggerimenti dei miei consiglieri."
+
+### u056752
+"Lord Capitano, dopo l'apertura dell'officina segreta di Lady Theodora su Kiava Gamma, è scoppiata un'epidemia di una misteriosa tecno-lebbra. Le augmetiche mutano in forme distorte, uccidendo chi le ospita. Macchine e persino interi capannoni di assemblaggio si spezzano in frammenti che si divorano a vicenda, fondendosi in forme grottesche e folli. Il manufactorum Omega-18, epicentro dell'epidemia, è stato isolato, ma prima o poi la malattia dilagherà da lì."
+
+### u056753
+{n}Una cura per la misteriosa malattia non è stata ancora individuata, ma lo studio del ceppo di tecno-lebbra ha permesso di controllare i campioni della malattia con impulsi magnetici e di trasformarla in un'arma pericolosa.{/n}
+
+### u056754
+"Non ci siamo mai trovati di fronte a niente del genere. La piaga colpisce solo i meccanismi, costringendoli a trasformarsi e a perdere ogni funzionalità. Nessuno è stato in grado di chiarire la natura di questa malattia né come sia arrivata nell'officina segreta di Lady Theodora. È possibile che lì si stessero conducendo delle ricerche segrete."
+
+### u056755
+"Oh, non ve ne pentirete, shereen!"
+
+### u056756
+"La vostra richiesta è accolta. Mi ritirerò per compiere il sacramento."
+
+### u056757
+"I vostri servitori speciali, che custodiscono la conoscenza della precedente profanazione di Kiava Gamma, sono suscettibili alla malattia come qualsiasi altra persona. Mi hanno assicurato che la malattia non ha nulla a che fare con i Poteri Rovinosi e proviene da una fonte xenos."
+
+### u056758
+"L'eradicazione dell'infezione è la massima priorità, ma sradicare completamente il manufactorum che funge da epicentro significa infliggere gravi danni all'approvvigionamento di risorse. Questa unità... può proporre un altro metodo di purificazione. Tuttavia, i sacramenti dell'Omnissiah di cui dispongo non possono essere rivelati ai laici. Vi chiedo di riporre la vostra fiducia in me."
+
+### u056759
+"Shereen, non essere così precipitoso con questa purga. Il fenomeno potrebbe interessare altri specialisti. Sono in molti a non essere d'accordo sul fatto che ogni Conoscenza appartenga solo agli ingranaggi. Quella che sembra una piaga potrebbe nascondere possibilità straordinarie. Se riuscissimo a isolare il manufactorum e a far entrare queste menti curiose, ci ripagherebbero volentieri della perdita di capacità produttiva."
+
+### u056760
+"Ho sedato diciotto epidemie diverse a bordo della nave ammiraglia, e i nostri ufficiali hanno esperienza nell'organizzare quarantene. Li manderemo su Kiava Gamma a guidare le squadre di Tecno-Purgatori. Non lasceranno l'epicentro finché l'infezione non sarà eradicata e la zona di esclusione preventiva non sarà stata smantellata."
+
+### u056761
+"Sia fatta la vostra volontà."
+
+### u056762
+{n}Le misure di quarantena più rigide imposte dagli ufficiali più esperti hanno impedito alla corruzione di raggiungere gli altri manufactorum, e la malattia non si è diffusa ulteriormente.{/n}
+
+### u056763
+{n}I misteriosi "interessati" giunsero sul pianeta con un seguito composto da malatek, tecnomati scomunicati e studiosi dall'aria losca. Senza nemmeno provare a trattare, pagarono somme esorbitanti per ottenere l'accesso alla xenomalattia fino ad allora sconosciuta, e poi si diressero nelle viscere del manufactorum moribondo.{/n}
+
+### u056764
+"La morte è uguale per tutte le cose. Solo l'Imperituro è eterno."
+
+### u056765
+{n}I manufactorum di Kiava Gamma avviarono la produzione del composto fornito dal Bloodspun Web. In cisterne di armavetro, venne inviato ai focolai d'infestazione e spruzzato sulle macchine deformate e sulle persone colpite. Le officine furono ripulite dalle tecno-mutazioni.{/n}
+
+### u056766
+{n}Il bombardamento con proiettili da megatone spazzò via il manufactorum. L'epidemia si era placata, ma la perdita delle grandi officine ha pesato sulla capacità produttiva del mondo.{/n}
+
+### u056767
+{n}Grazie agli sforzi eroici dei Tecno-Purgatori, il manufactorum fu purificato dalla malattia, settore dopo settore. Le macchine colpite e i corpi dei morti furono consegnati alle sacre fiamme di plasma.{/n}
+
+### u056768
+{n}Tuttavia, dopo il ritorno dei Tecno-Purgatori alle loro officine, vennero rilevati nuovi focolai più piccoli di tecno-mutazioni. Non furono una sorpresa e vennero isolati in fretta, ma i processi produttivi del pianeta subirono qualche danno.{/n}
+
+### u056769
+{n}Molti dei Tecnopreti che un tempo si occupavano della manutenzione di questo manufactorum rimasero senza una funzione e furono trasferiti a servire a bordo della nave del Rogue Trader.{/n}
+
+### u056770
+"Anche il metallo muore, prima o poi, segnato dalla corrosione. Per combattere chi ha strappato via la propria carne sostituendola con macchinari, il Bloodspun Web ha procurato un rimedio, un composto acido che brucia l'acciaio. Siamo pronti ad aiutare. A bruciare via questa tecno-lebbra."
+
+### u056771
+{n}I Tecnopreti, armati di un misterioso dispositivo assemblato secondo le istruzioni del Magos Haneumann, entrarono nelle viscere del manufactorum. Ciò che accadde là dentro è ignoto. I rapporti parlano di un lampo blu e verde che illuminò il manufactorum, e l'epidemia si placò nel giro di una notte. I meccanismi distorti furono fusi con onore, e così i corpi dei Tecnopreti morti che portavano la macchina del Magos Haneumann, insieme ai resti bruciati della macchina stessa. L'eminente Magos rifiutò di commentare il metodo di purificazione scelto, definendolo una "rivelazione dell'Omnissiah che nemmeno lui poté comprendere prima che lo abbandonasse."{/n}
+
+### u056772
+"L'idea di Eogunn mi incuriosisce. Ordino che vengano installate ulteriori augmetiche psichiche a tutti i Magi attualmente stanziati nelle celle."
+
+### u056773
+"Porta tutti i Magi fuori dalle loro celle e distruggi subito quelle celle."
+
+### u056774
+"Idira ha ragione. Trova dei Tecnopreti per compiere la Procedura tra i Tecnopreti 'indegni' delle stazioni minori della Distesa."
+
+### u056775
+"Esegui la Procedura 0-C."
+
+### u056776
+"Yrliet, condividi la saggezza dei tuoi simili con la mia gente."
+
+### u056777
+"Cosa sappiamo di questa Procedura? Potrebbe far parte dell'eredità di Delphim?"
+
+### u056778
+"Heinrix, sarò {mf|grato|grata} all'Inquisizione per l'aiuto nell'eliminare la Procedura."
+
+### u056779
+"Forse i miei consiglieri hanno qualche parola da dire?"
+
+### u056780
+"Studia questa Procedura: dobbiamo sapere con cosa abbiamo a che fare."
+
+### u056781
+"Lord Capitano, su Kiava Gamma è stata rilevata una strana anomalia. Una serie di ordini, definita Procedura 0-C, si è imposta negli algoritmi di produzione. I servitori dell'Omnissiah definiscono il suo stato di esecuzione 'sacratissimo' e ne seguono quindi le istruzioni alla lettera. In un solo ciclo sono state erette celle in tutti i manufactorum, collegate da cogitatori, o più precisamente dai loro canali di calcolo. Questa rete forma uno schema simile a quelli applicati alle celle digitali degli spiriti macchina."
+
+### u056782
+"Trovo questa proposta sacrilega in violazione del protocollo di unità dei dati."
+
+### u056783
+"I vostri... più fidati servitori, quelli che faticano nelle officine segrete del pianeta, hanno trovato il codice della Procedura privo di corruzione. Ed erano molto desiderosi di saperne di più."
+
+### u056784
+"Cantano? È sorprendente che la vostra razza sia riuscita a ottenere una forma così armoniosa di interazione con gli strumenti creati. Anche i miei simili usano armoniche psicoacustiche per guidare le nostre creazioni. Io non sono una Bonesinger, ma potrei spiegare ai vostri servitori certi... principi che definiscono il suono dell'universo."
+
+### u056785
+{n}L'esecuzione della poco compresa Procedura 0-C fu vietata. Nel tentativo di estirparne le direttive e di allontanare i Magi dalle celle, i servitori del Rogue Trader incontrarono resistenza, con spargimento di sangue e morte.{/n}
+
+### u056786
+"Un segnale apparentemente venuto dal nulla che ha la massima priorità di esecuzione. Un'arma perfetta per impadronirsi del pianeta. Dovrebbe essere anatemizzato, e sono pronto a convocare dall'Inquisizione un gruppo di Tecnostregoni competenti."
+
+### u056787
+"Conosco i doni dell'Omnissiah e ho addestrato personalmente diversi specialisti per il seguito del Lord Inquisitore. Non ci saranno problemi."
+
+### u056788
+{n}Tuttavia, i Tecnostregoni dell'Inquisizione giunti sul pianeta placarono l'ira dei servitori dell'Omnissiah confermando la legittimità delle azioni del Lord Capitano.{/n}
+
+### u056789
+"Vedremo se i mon-keigh sono in grado di imparare dai civilizzati."
+
+### u056790
+{n}Per una cifra modesta, la dinastia riuscì ad acquistare dall'Adeptus Mechanicus molti servitori "inefficienti" che dimostravano una maggiore ricettività psichica. Furono collocati nelle celle, e i ritmi di produzione di Kiava Gamma non ne risentirono.{/n}
+
+### u056791
+{n}I servitori della dinastia avviarono la loro indagine, cercando di determinare la natura e lo scopo della misteriosa Procedura. Sbigottiti, si imbatterono in antiche creazioni di forgiatura dei dati impossibili ai giorni nostri, ma non riuscirono a penetrare la saggezza dell'archeotecnologia digitale.{/n}
+
+### u056792
+"Non riusciamo a rintracciare la fonte del segnale che ha attivato la Procedura né a identificarne lo scopo. I Tecnopreti si oppongono all'idea di studiare la Procedura, perché 'viola il sacramento'. Si presume che le menti dei Magi immersi nelle celle siano coinvolte in un calcolo su vasta scala. I servitori dell'Omnissiah hanno testato sette volte la rete cogitazionale del pianeta con algoritmi purificatori di varia severità, dichiarandola pulita."
+
+### u056793
+{n}Ai candidati idonei fu concesso il diritto di prendere posto all'interno delle celle del sogno di dati. La perdita di servitori così preziosi ha naturalmente pesato sulla produzione del pianeta.{/n}
+
+### u056794
+{n}Lo studio blasfemo della Conoscenza xenos intrapreso nel corso dell'indagine condusse a una serie di atti di creazione eretici: le menti tentate dei Magi cercarono di applicare i segreti degli Aeldari alle loro ricerche. I colpevoli furono servitorizzati e i risultati del loro lavoro riposti in un catalogo protetto e proibito.{/n}
+
+### u056795
+"Non c'è alcun vantaggio nel moltiplicare le entità e aumentare il numero delle variabili. Si può invece adottare un approccio intensivo: potenziare quelli già impegnati nella Procedura 0-X. L'uso di psico-amplificatori impiantati nella colonna nervosa aumenterà di molte volte la loro resa. Nuncius prevede che l'entità di dati che richiede l'esecuzione della Procedura riterrà sufficiente la potenza risultante, e concordo con la sua valutazione."
+
+### u056796
+"La Procedura 0-C comanda ai Magi con un indice di ricettività psichica superiore alla media di entrare nelle celle. I Tecnopreti che prendono posto nelle celle cadono in un beato sogno di dati e cominciano a cantare inni binarici molto simili a quelli che di tanto in tanto ronzavano dal vox warp di Cubis Delphim. Il rendimento dei manufactorum è calato: molti servitori del Dio-Macchina hanno abbandonato i loro posti e implorano il privilegio di compiere la Procedura 0-C, ma i tutori dell'ordine hanno preso in custodia le celle e tengono lontani questi volontari."
+
+### u056797
+"Questo non influirà sull'efficienza dei manufactorum e aumenterà l'efficacia della Procedura. Una soluzione brillante."
+
+### u056798
+{n}Durante il processo di impianto, una parte dei beati martiri perì perché il loro sistema nervoso non resse alla brutale sollecitazione. Tuttavia, le sacre augmetiche potenziarono a sufficienza i sopravvissuti e le celle vuote si sigillarono da sole, a indicare che la capacità di calcolo necessaria era stata raggiunta.{/n}
+
+### u056799
+"Dite che queste celle vanno riempite di Tecnopreti con un'alta sensibilità psichica? Va bene, ma perché usare i nostri servitori? Basta controllare qualche stazione remota e qualche avamposto, cercare gli ingranaggi banditi perché inadatti, e ne troverete tre volte più adatti che nei manufactorum. La ricettività psichica va di rado a braccetto con un'alta razionalità, e simili Tecnopreti finiscono spesso la carriera in qualche sperduto angolo."
+
+### u056800
+{n}La Procedura 0-C viene eseguita senza sosta. Il trillo binarico risuona in tutta la Noosfera del mondo. Secondo un'ennesima direttiva imperscrutabile, un oggetto enigmatico è stato consegnato alla residenza del Rogue Trader su Kiava Gamma.{/n}
+
+### u056801
+"Saranno contenti di non sentirsi per una volta rifiuti umani."
+
+### u056802
+"Come hanno fatto i cultisti a infiltrarsi nel mio mondo?"
+
+### u056803
+"Cosa sappiamo di questi 'angeli dei dati'?"
+
+### u056804
+"Gli angeli dei dati vanno banditi, proprio come gli scismatici. Questo è il mio mondo e non permetterò che sia messo in pericolo da elementi incontrollabili."
+
+### u056805
+"Marazhai ha ragione. Cattura per me uno degli angeli dei dati e usa ogni mezzo necessario per scoprire di più sulla sua natura. Distruggi gli altri insieme agli scismatici."
+
+### u056806
+"Pasqal, autorizza il rituale di legame con i cogitatori di riserva."
+
+### u056807
+"Uniamo le forze con gli angeli dei dati e sbarazziamoci insieme della corruzione."
+
+### u056808
+"Seguiamo il piano di Solomorne: attirare il nemico in un'imboscata, poi distruggerlo tutto in un colpo solo."
+
+### u056809
+"Voglio ascoltare le opinioni dei miei ufficiali e consiglieri."
+
+### u056810
+"Che i giusti guerrieri di Kiava Gamma sterminino tutti gli spiriti dei dati!"
+
+### u056811
+"Ordina ai miei artigiani segreti di pugnalare i cultisti alle spalle."
+
+### u056812
+"Lord Capitano, c'è stato un atto di sabotaggio su Kiava Gamma! Il Culto dell'Alba Finale ha invaso il pianeta, ha allevato un branco di scismatici nelle viscere dei manufactorum e ce li ha scagliati contro! L'attacco è stato così improvviso che abbiamo quasi perso tutte le officine, ma... abbiamo avuto aiuto. Alcune entità, già chiamate 'angeli dei dati', hanno invaso la rete cogitazionale, si sono impadronite di cogitatori e servitori e li hanno usati per respingere il primo assalto degli scismatici. Ora in tutto il pianeta infuria una lotta feroce, la Noosfera del mondo ribolle."
+
+### u056813
+"Faceva parte di un attacco coordinato che ha colpito l'intera Distesa. Gli eretici devono essersi preparati a lungo."
+
+### u056814
+"Poiché il pianeta era stato ripulito a fondo dall'influenza corruttrice di Cubis Delphim, il culto ora non ha dove nascondersi né collaboratori sul pianeta. Hanno fallito completamente nel compromettere le difese del nostro mondo."
+
+### u056815
+"I cultisti hanno contattato i vostri artigiani segreti che lavorano nelle officine proibite. Gli sciocchi sperano che tradiranno Vostra Signoria e si uniranno all'attacco. Potremmo sfruttare le loro illusioni a nostro vantaggio... se davvero il nostro nemico si sbaglia."
+
+### u056816
+"Non mi fiderei di quei vostri 'alleati' non invitati: una simile magnanimità di solito nasconde intenzioni poco raccomandabili. Scoprite di più su queste creature. Ordinate ai vostri servitori di dare la caccia a una di loro, di torturarla e di ottenere conoscenza attraverso il processo... visto che non sono in grado di provarne piacere."
+
+### u056817
+"I manufactorum di Kiava Gamma sono dotati di cogitatori di riserva per garantire la continuità della produzione in caso di emergenza. La gravità della situazione autorizza l'interruzione degli algoritmi di servizio, e sono pronto ad autorizzare un rituale che permetterà agli angeli dei dati dell'Omnissiah di assorbire la potenza di calcolo dei cogitatori per combattere questi spiriti malvagi."
+
+### u056818
+"La richiesta di compiere il sacramento è accettata e sarà esaudita immediatamente."
+
+### u056819
+"Peccato che non potrò assistere a questa... vivisezione."
+
+### u056820
+{n}Ottenuto l'accesso alle riserve cogitazionali e dopo essere stati ricolmati di energia, gli angeli dei dati si lanciarono sugli scismatici.{/n}
+
+### u056821
+{n}Dopo aver attirato uno degli angeli dei dati in un cogitatore appositamente preparato, i servitori del Lord Capitano lo imprigionarono e diedero il segnale di distruggere tutti gli altri ospiti non invitati. I Logis-Meccanici schiacciarono con pari spietatezza sia gli angeli dei dati sia gli scismatici.{/n}
+
+### u056822
+{n}Abbandonata la paura, i difensori di Kiava Gamma cominciarono a distruggere i cogitatori infestati dagli spiriti dei dati, senza distinguere tra angeli dei dati e scismatici.{/n}
+
+### u056823
+{n}Le orde di spiriti dei dati furono tecno-esorcizzate e sterminate, e i meccanismi colpiti purificati e ripristinati. I Tecnopreti resero lode all'Omnissiah per aver protetto l'algoritmo di produzione da gravi interruzioni.{/n}
+
+### u056824
+"Non molto. Sono spiriti macchina, esseri nati dall'arte della forgiatura dei dati. Si lanciano in battaglia cantando lo stesso mantra binarico che cantavano i partecipanti alla Procedura 0-C."
+### u056825
+{n}Dopo aver bandito gli scismatici, gli angeli dei dati si ritirarono nascondendosi nelle reti cogitazionali, lasciando i servitori dell'Omnissiah a chiedersi chi o cosa fossero quegli esseri.{/n}
+
+### u056826
+{n}Armati di codici di purezza e di sacri logis-inni, i guardiani di Kiava Gamma si lanciarono in battaglia, sconfiggendo sia gli angeli dei dati sia gli scismatici. Mentre il codice d'attacco faceva ribollire la Noosfera, i guerrieri distrussero senza pietà ogni cogitatore infetto che incontravano sul loro cammino.{/n}
+
+### u056827
+{n}Con un astuto atto di tradimento, gli eretici che avevano giurato fedeltà al Rogue Trader colpirono i suoi nemici con un codice spazzatura particolarmente devastante, che fece appassire fino a ridurli al nulla persino i benedetti angeli dei dati e i corrotti scismatici.{/n}
+
+### u056828
+"Per fortuna abbiamo ricevuto informazioni sull'attacco imminente all'ultimo momento. Il segnale è stato intercettato nel warp dalla macchina di Cubis Delphim."
+
+### u056829
+{n}Unite le forze, gli angeli dei dati e i coraggiosi Logis-Meccanici si lanciarono all'attacco degli scismatici.{/n}
+
+### u056830
+"Il manuale tattico per sedare le rivolte su scala planetaria ha proprio ciò che serve: cominciamo ordinando una serie di blackout a cascata, costringendo i cultisti a ridistribuire le loro truppe lontano dai manufactorum rimasti senza energia. Gli 'angeli dei dati' li seguiranno di sicuro. Gli scismatici risponderanno cercando di prendere il controllo dei nodi di distribuzione dell'energia, dove i Tecnopreti avranno teso trappole per eliminare tutti gli intrusi."
+
+### u056831
+"Agiscono dall'interno dei nodi cogitazionali collegati alle celle usate nella Procedura 0-C, scacciando con successo gli scismatici dai settori vicini. Se riusciamo a ottenere il loro appoggio, possiamo di sicuro strappare i manufactorum alla morsa della corruzione."
+
+### u056832
+"Ma i nodi in cui possono risiedere non sono molti, forse perché abbiamo distrutto le celle usate nella Procedura 0-C. Questo ci è piuttosto vantaggioso, se decidessimo di... rifiutare l'aiuto di queste strane creature."
+
+### u056833
+"I Logis che li hanno osservati, gli stessi Tecnopreti che in precedenza avevano indagato sulle celle usate nella Procedura 0-C, hanno decifrato tracce della loro attività e scoperto schemi che indicano i possibili creatori di questi angeli dei dati. Se hanno ragione, portano il sigillo della Cognisance Fleet degli Explorator."
+
+### u056834
+"L'umanità riprenderà il controllo di Kiava Gamma."
+
+### u056835
+{n}Interi continenti piombarono nell'oscurità su Kiava Gamma, costringendo i cultisti ad assediare i sancta di distribuzione della Forza Motrice. Fu lì che i difensori del mondo attendevano in agguato, armati e pronti a distruggere sia gli scismatici sia gli "angeli dei dati".{/n}
+
+### u056836
+{n}Nella Noosfera di Kiava Gamma scoppiò un feroce combattimento. Gli spiriti dei dati opposero una resistenza furiosa, ma alla fine cominciarono a perdere terreno. Le officine e i manufactorum sopravvissero a costo di gravi danni. Ora che la battaglia si è placata, Kiava Gamma può avviare il suo lento e doloroso processo di guarigione.{/n}
+
+### u056837
+{n}L'angelo dei dati catturato fu interrogato, sezionato in funzioni e studiato. All'interno delle sue logis-catene furono scoperti sigilli di creazione, che col tempo potrebbero svelare il mistero delle origini di queste creature.{/n}
+
+### u056838
+{n}Gli angeli dei dati furono massacrati fino all'ultimo, e i loro resti si dissolsero senza lasciare traccia nella Noosfera del mondo.{/n}
+
+### u056839
+"Accesso al catalogo della Flotta. Nessuna menzione di operazioni su Kiava Gamma rilevata. Nessuna informazione sugli angeli dei dati rilevata. Ipotesi: o c'è stato un errore di calcolo, oppure le informazioni sono bloccate dietro un livello superiore di autorizzazione di sicurezza dei sacramenti."
+
+### u056840
+"Abbiamo almeno un'idea di cosa potrebbe star calcolando?"
+
+### u056841
+"Cos'è questo complesso abbandonato?"
+
+### u056842
+"Voglio sapere di più su questo telaio dati. Che cos'è?"
+
+### u056843
+"Abbiamo provato a comunicare con esso?"
+
+### u056844
+"Cosa ne pensano i miei consiglieri?"
+
+### u056845
+"Pasqal, crea il tuo mediatore e stringi un'alleanza con Null Caliph."
+
+### u056846
+"Entra in contatto con Null Caliph. Desidero stringere un'alleanza con esso."
+
+### u056847
+"Idira, escogita un modo per costringere la macchina alla sottomissione assalendola attraverso il warp."
+
+### u056848
+"Questo è il mio pianeta e la macchina deve sottomettersi alla mia volontà."
+
+### u056849
+"Cassia, manda un messaggio alle casate di Navigatori. Null Caliph deve essere distrutto."
+
+### u056850
+"Autorizzo lo smantellamento di questo pericoloso meccanismo."
+
+### u056851
+"Forse i miei artigiani segreti troveranno un modo per controllare la macchina."
+
+### u056852
+"Vostra Signoria, è arrivato un messaggio criptico da Kiava Gamma. Il Fabricator-Censor riferisce di aver 'contemplato l'Occhio del Divino'. Ho chiesto dettagli ai vostri... servitori meno devoti, e mi hanno spiegato che il gruppo d'inchiesta, che indagava sui numerosi eventi inspiegabili avvenuti sul pianeta, ha seguito una scia di misteriose armoniche binariche ed è giunto a un antico complesso di dati abbandonato. È collegato al manufactorum da un labirinto di linee di comunicazione e contiene un gigantesco telaio dati. Dalle marcature del meccanismo risulta che la sua designazione, o meglio il suo nome piuttosto minaccioso, è Null Caliph."
+
+### u056853
+"È un antico impianto di produzione, ben più vecchio della colonia stessa. Alcune catene di montaggio portano i segni della Cognisance Fleet. Forse i primi Explorator giunti nella Distesa di Koronus allestirono una stazione sul pianeta ancora disabitato. La stazione fu poi inghiottita dalla colonia industriale in via di sviluppo e alla fine... dimenticata. È possibile che i piani che avevano per essa fossero così clandestini che la morte dei suoi creatori finì per gettarla nell'oblio."
+
+### u056854
+"Secondo i Magi, può calcolare rotte attraverso l'Immaterium senza riposo e senza timore della corruzione, dato che non ha un'anima umana. Sostengono che la sua potenza sia paragonabile a quella di un Novator di una casata di Navigatori. A quanto pare la Procedura 0-C è stata avviata da questo meccanismo per integrare Magi con un alto potenziale psichico allo scopo di espandere la propria capacità di calcolo."
+
+### u056855
+"Poiché i vostri servitori hanno monitorato l'esecuzione della Procedura 0-C, credono piuttosto audacemente di aver intuito certi schemi del suo supercalcolo. Sostengono di poter aiutare a raggiungere un'intesa con Null Caliph... o a sconfiggerlo in battaglia."
+
+### u056856
+"In questo momento i suoi calcoli sono gravemente ostacolati dallo stato indebolito delle sue capacità computazionali. Presumiamo che l'interruzione della Procedura 0-C vi abbia contribuito."
+
+### u056857
+"Il grande spirito macchina che si identifica come Null Caliph ha le potenzialità per essere un prezioso alleato, uno che potrebbe eliminare la necessità di Navigatori fatti di carne fallibile. Dobbiamo entrare in contatto con questa sacra entità, perché farlo significa onorare i precetti dell'Omnissiah. Il fatto che i Tecnopreti che ebbero l'audacia di disturbare Null Caliph siano stati privati della loro Forza Motrice testimonia la potenza della sua voce di dati. Possiedo la conoscenza per creare un mediatore capace di interfacciarsi con il temibile spirito macchina e alleggerire il peso delle sue rivelazioni sulle menti impreparate."
+
+### u056858
+"Se fissa il warp, allora è vulnerabile agli attacchi dal warp. Non avrei mai pensato di suggerire una cosa del genere, ma... se vogliamo che quella macchina ci obbedisca, dovremmo assalirla attraverso l'Immaterium."
+
+### u056859
+"Un telaio dati da Navigatore? Questa abominazione si fa beffe dell'eredità di ogni casata di Navigatori. Il solo fatto della sua esistenza è profondamente nauseante e ripugnante. Null Caliph deve essere distrutto al più presto! Permettetemi di mandare un messaggio alle altre casate di Navigatori: non perderanno tempo a inviare le loro forze per distruggere questa mostruosità."
+
+### u056860
+"Richiesta approvata. Trasferimento delle rivelazioni sulla creazione del mediatore."
+
+### u056861
+"Vediamo se l'Immaterium riesce a spaventare un cuore di metallo."
+
+### u056862
+"Un gruppo di Tecnopreti domatori di spiriti macchina avvierà subito i riti di purificazione."
+
+### u056863
+"Grazie, Vostra Signoria. Manderò subito dei servitori dal vostro Astropate."
+
+### u056864
+"Ordinerò di preparare la tecno-forza d'assalto."
+
+### u056865
+{n}E Null Caliph rispose: interrompendo il suo sacro calcolo, accordò il suo favore ai supplici. Con il suo occhio instancabile e immobile che osservava le correnti del warp, molti viaggiatori furono salvati dal pericolo.{/n}
+
+### u056866
+{n}La risposta di Null Caliph fu dura: non voleva essere distratto dal suo sacro calcolo né mettere le proprie capacità al servizio del Rogue Trader. Solo gli innumerevoli doni sontuosi offerti al telaio dati lo convinsero a condividere minuscoli granelli della sua saggezza con i mortali.{/n}
+
+### u056867
+{n}L'esercito unito dei Navigatori giunse su Kiava Gamma e scatenò la propria ira sul potente telaio dati. Molti perirono sotto il suo sguardo furioso colmo di energia warp, anche se il loro sacrificio salvò la vita di innumerevoli giusti servitori dell'Omnissiah. Alla fine, il telaio dati fu sconfitto.{/n}
+
+### u056868
+{n}Gli artigiani segreti del Lord Capitano si collegarono alle unità di elaborazione di Null Caliph e vi introdussero un dubbio pernicioso nei calcoli. Attesero che il grande meccanismo esitasse per la prima volta nella sua esistenza, poi iniziarono il loro assalto senza pietà.{/n}
+
+### u056869
+{n}Un gruppo di psyker addestrati attaccò Null Caliph senza preavviso. Assalirono la sua potente mente con i loro doni del warp, ripetendo tutti lo stesso comando: "Sottomettiti!"{/n}
+
+### u056870
+{n}I Tecnopreti diedero solennemente inizio al rituale per avvincere Null Caliph con le catene dei voti di dati, collegandolo alla rete cogitazionale del pianeta ed estraendo nel frattempo dalla sua memoria inestimabili misteri tecnologici.{/n}
+
+### u056871
+{n}Le sacre schede furono staccate con cura dall'unità di elaborazione, ponendo fine per sempre alle contemplazioni di Null Caliph. Questi antichi moduli di cogitazione serviranno ora lo spirito macchina della nave del Lord Capitano.{/n}
+
+### u056872
+"Il catalogo non contiene dati a sostegno di questa ipotesi. Contiene, tuttavia, la designazione Null Caliph. L'Iniziativa Null Caliph è un progetto del leggendario Archmagos Opticon-107, la cui funzione era l'esplorazione iniziale della Distesa di Koronus. Ogni informazione su questo progetto è stata rimossa dal catalogo per decreto del conclave della Flotta in seguito all'Udienza di Ammissibilità 16. Con lo stesso decreto, l'Archmagos Opticon-107 fu privato del titolo di Prolocutor-Supremus del conclave."
+
+### u056873
+"Gli angeli dei dati che abbiamo incontrato in precedenza sono nati dalla sua potenza cogitazionale. Pieni di vigore, volteggiano attorno alla sua aura computazionale, che si irradia nella Noosfera. Finora la loro reazione alla nostra presenza è stata favorevole."
+
+### u056874
+"Gli angeli dei dati che abbiamo incontrato in precedenza sono nati dalla sua potenza cogitativa. Hanno reagito in modo aggressivo alla nostra intrusione nella brillante Noosfera di Null Caliph, ma ormai sappiamo come trattarli."
+
+### u056875
+"Il grande calcolatore sembra indifferente ai mortali. Ha manifestato la mancanza di desiderio di interagire con noi o di distruggerci."
+
+### u056876
+"Abbiamo solo un'ipotesi, secondo cui Null Caliph può... vedere nel warp, come un Navigatore. Qualsiasi interazione tra tecnologia e warp, come ben sapete, è tenuta sotto la stretta supervisione dell'Adeptus Mechanicus, quindi potete immaginare quanto sia unico questo meccanismo."
+
+### u056877
+"I Tecnopreti hanno cercato di nuovo il contatto con Null Caliph usando alcuni estratti dai dettami della Procedura 0-C, e la reazione della macchina è stata benigna. Non ha mostrato alcuna ostilità."
+
+### u056878
+"Abbiamo studiato i resti noosferici dei Tecnopreti che hanno osato avvicinare Null Caliph. Le loro menti contenevano estratti dai dettami della Procedura 0-C. Queste tracce traboccavano di rabbia."
+
+### u056879
+{n}Per la prima volta nella sua esistenza, Null Caliph provò dolore, e non era preparato a un simile assalto. Dopo una lotta feroce, alla fine cedette. L'Occhio del Divino ora serviva il Rogue Trader.{/n}
+
+### u056880
+{n}Persino la potenza di un semidio binarico non bastò a opporsi al Rogue Trader. Ma prima che la sua resistenza fosse spezzata, l'Occhio del Divino volse lo sguardo ai manufactorum del pianeta, e orribili manifestazioni del warp reclamarono la vita di migliaia di persone, sfigurando persino i manufactorum stessi.{/n}
+
+### u056881
+"Null Caliph è immerso in un sacro calcolo astrogazionale e non ha mostrato alcuna inclinazione a stabilire un contatto. I Tecnopreti che si sono collegati a esso sono stati puniti per l'intrusione con un'espulsione letale della loro Forza Motrice. L'unica cosa che sono riusciti a scoprire è che lo spirito del telaio dati non è vincolato dai voti di obbedienza che normalmente frenerebbero uno spirito macchina di tale potenza. Questa entità... straordinariamente potente non si piega a nessuno, spinta solo dai propri scopi."
+
+### u056882
+{n}La battaglia fu brutale, ma gli implacabili nemici di Null Caliph non temevano la morte e continuarono ad assalire la mostruosità binarica con tutte le loro forze finché non tacque.{/n}
+
+### u056883
+"Un sacro meccanismo computazionale di grande potenza. Il suo corpo è immenso, e la saggezza e la tempra del suo spirito macchina si addirebbero a un Titano Imperiale. Macchine di tale potenza e splendore vengono tenute accuratamente nascoste agli occhi dei laici e venerate su certi pianeti come grandi logis-oracoli, sacri angeli dell'Omnissiah o semidei. La struttura di Null Caliph comprende notevoli pezzi di archeotecnologia, parti della quale si estendono per tutta Kiava Gamma come i tentacoli di un kraken del vuoto. Ora sappiamo da dove veniva il trasmettitore warp modificato da Cubis Delphim: doveva far parte di questo meccanismo."
+
+### u056884
+{n}Il Magos Pasqal Haneumann rivelò i suoi segreti ai servitori dell'Omnissiah su Kiava Gamma, permettendo loro di assemblare un dispositivo mediatore che addolcì la voce di Null Caliph. I Magi pregarono allora il possente spirito macchina, chiedendogli con umiltà di stringere un'alleanza con il Rogue Trader e di condividere i suoi misteri.{/n}
+
+### u056885
+{n}Molti Magi persero la vita cercando di contattare il grande spirito macchina prima che esso notasse quanto fossero fragili i loro corpi e le loro menti di fronte alla sua potenza. Preso da pietà per i servitori dell'Omnissiah, ne addolcì la voce di dati. I Tecnopreti implorarono allora il grande spirito di stringere un'alleanza con il Rogue Trader.{/n}
+
+### u056886
+{n}I guerrieri dell'Omnissiah subirono gravi perdite a causa delle energie del warp scatenate dall'ira di Null Caliph, eppure, nel loro assalto decisivo, il telaio dati fu abbattuto.{/n}
+
+### u056887
+"Al momento i suoi calcoli, che operano a piena capacità, si stanno avvicinando al completamento. Presumiamo che l'esecuzione perfetta della Procedura 0-C vi abbia contribuito."
+
+### u056888
+"Cosa sono quei simboli che i detenuti incidono graffiando?"
+
+### u056889
+"Ordina alle guardie di controllare dove spariscono i lavoratori."
+
+### u056890
+"Ai servitori dell'Omnissiah è concesso di esaminare qualsiasi detenuto che mostri comportamenti strani."
+
+### u056891
+"Abelard ha ragione. Fai in modo che i capi dei detenuti pongano fine a questo caos, altrimenti se ne pentiranno."
+
+### u056892
+"Jae, fa' indagare ai tuoi scaltri soci su dove siano finiti esattamente i miei servitori."
+
+### u056893
+"Dovremmo indagare su questa anomalia. Potremmo avere a che fare con qualcosa di sinistro."
+
+### u056894
+"Ordina alle guardie di togliere dalla testa dei detenuti questa passione per il teatro da quattro soldi."
+
+### u056895
+"Facciamo come ha detto Solomorne: facciamo pressione sui ranghi superiori della colonia, che sono chiaramente coinvolti in ciò che sta succedendo."
+
+### u056896
+"Alcuni sono posseduti dall'impulso di usare le unghie per graffiare simboli blasfemi su attrezzi, macchine e persino sul proprio corpo. I più folli hanno dipinto con i simboli le pareti di diverse miniere dal pavimento al soffitto e poi si sono addentrati nelle profondità dei tunnel minerari. Nessuno di loro è stato ritrovato. I sovrintendenti la considerano una manovra per distogliere l'attenzione dalle fughe e da un'imminente ribellione."
+
+### u056897
+"Prigionieri che spariscono? Che senso ha scappare dalla servitù penale se il mondo intero è una cella? No, shereen, questi ashmag hanno trovato una specie di rete di tunnel di contrabbando e si nascondono lì. E i disegni sono il loro linguaggio segreto, con cui danno ordini ai compagni di prigionia. Conosco dei tizi che sanno trovare certi posti segreti e decifrare questi linguaggi."
+
+### u056898
+"Se i detenuti continueranno a sparire senza motivo, presto seguiranno i disordini, per paura o per la speranza di poter fuggire. Per soffocarli, dobbiamo fare pressione sui capi dei detenuti: la mia esperienza mi dice che certe persone possono avere più influenza di qualsiasi sovrintendente."
+
+### u056899
+"Rilevo uno schema interessante nel tracciato dei simboli lasciati dai prigionieri. Ipotesi: hanno uno scopo pratico. Richiedo l'autorizzazione per l'Adeptus Mechanicus ad accedere alle miniere e ad analizzare i campioni."
+
+### u056900
+"Trasmetterò immediatamente i vostri ordini a Vheabos VI, Lord Capitano."
+
+### u056901
+"Per una lauta ricompensa, i miei potrebbero trovare persino il più piccolo sassolino gettato sul fondo del mare, shereen."
+
+### u056902
+{n}Anche se molti sovrintendenti dovettero essere rimossi dai loro incarichi per condurre l'operazione di sorveglianza, questa alla fine condusse gli investigatori a una serie di tunnel liberati di recente.{/n}
+
+### u056903
+{n}I saggi servitori dell'Omnissiah interrogarono gli strani prigionieri. L'esame del loro tessuto cerebrale non rivelò alcuna mutazione. I lavoratori che avevano perso del tutto la loro utilità furono sottoposti a servitorizzazione per mantenere i livelli di produzione. Tuttavia, dopotutto, una scoperta fu fatta.{/n}
+
+### u056904
+{n}Logorati da interrogatori sofisticati, i capi ordinarono al resto dei detenuti di sterminare chiunque mostrasse segni di follia. Le purghe eliminarono molti lavoratori, ma le sparizioni e gli strani fenomeni cessarono.{/n}
+
+### u056905
+{n}Una squadra di contrabbandieri audaci si infiltrò nelle miniere e scoprì tunnel crollati da tempo che erano stati liberati molto di recente.{/n}
+
+### u056906
+{n}I sovrintendenti interpretarono gli ordini del Lord Capitano a modo loro: massacrarono semplicemente di botte ogni prigioniero che ritenevano strano. Ciononostante, le sparizioni e i comportamenti sospetti cessarono.{/n}
+
+### u056907
+{n}Un muro innaturalmente liscio coperto di strani simboli attirò la loro attenzione. Il tunnel scendeva in profondità e non compariva su nessuna delle mappe minerarie. L'amministrazione della colonia diede ordine di condurre un'indagine d'archivio, vietò i lavori nel settore e vi fece appostare delle guardie finché non fosse stata stabilita l'origine del tunnel.{/n}
+
+### u056908
+{n}I disegni dei prigionieri erano troppo... sistematici. Non potevano essere semplice farneticazione: le serie di trattini e punti che si ripetevano erano troppo simili. Ma se si trattava davvero di un codice segreto, allora, a giudicare dalla sua complessità e dall'impossibilità di decifrarlo, questo linguaggio non era certo stato inventato da un detenuto.{/n}
+
+### u056909
+"Il pesce puzza dalla testa, e una prigione comincia a crollare per colpa dei suoi sovrintendenti. È sospetto che nessuno sia riuscito ad arrivare in fondo al problema: fate pressione sul personale superiore per ottenere le informazioni di cui abbiamo bisogno. Qualcuno nella prigione deve per forza sfruttare la situazione per i propri fini."
+
+### u056910
+"Ristabiliremo l'ordine e smaschereremo le autorità corrotte con un colpo solo."
+
+### u056911
+{n}Gli interrogatori rivelarono che un sovrintendente anziano aveva ostacolato l'indagine e aiutato i fuggitivi a scappare. Sperava che la crisi nella colonia fosse un pretesto per l'ignominioso licenziamento dell'attuale capo della colonia, contro il quale il traditore nutriva rancore personale. Prima dell'esecuzione, l'eretico rivelò le coordinate dei tunnel liberati di recente, dai quali aveva abilmente distolto gli sforzi investigativi dei tutori dell'ordine.{/n}
+
+### u056912
+"Lord Capitano, è arrivato un rapporto inquietante dalle cave di Vheabos VI. I detenuti hanno perso la ragione: dimenticano come si usano gli attrezzi, si stringono gli uni agli altri e continuano a fissare il vuoto senza scopo, persino sotto le frustate, mandando in rovina le scadenze di estrazione."
+
+### u056913
+{n}Purtroppo lo spirito di indagine istruita scarseggiava tra i sovrintendenti: la maggior parte degli strani prigionieri venne semplicemente picchiata a morte durante gli interrogatori. Ma uno dei sovrintendenti, dotato di talento artistico, notò effettivamente qualcosa di insolito.{/n}
+
+### u056914
+"È difficile dare a questi disegni una definizione comprensibile. Cerchi innaturalmente perfetti collegati da linee. Le linee sono interrotte da gruppi di punti. Alcuni schemi seguono una certa logica comune, mentre altri sono unici. Posso fornire a Vostra Signoria dei pict di questi disegni."
+
+### u056915
+{n}Dopo aver esaminato il pict, ti rendi conto che i simboli sono collegati da una strana sequenza logica.{/n}
+
+### u056916
+{n}Il pict mostra uno schema del tutto assurdo e misero fatto di trattini e punti, che illustra la primitività del cervello di un contadino.{/n}
+
+### u056917
+"Non esiste sacrificio più degno di quello compiuto in nome della Ricerca della Conoscenza."
+
+### u056918
+"Chi è stato esiliato su un mondo penale per espiare e continua comunque a seminare disordine non merita pietà."
+
+### u056919
+"Che un filatore del Bloodspun Web esamini i corpi e dia risposte."
+
+### u056920
+"Sterminate tutti i furfanti che osano ribellarsi a me!"
+
+### u056921
+"Posso sperare nell'aiuto della Casata Orsellio nel condividere le loro conoscenze sull'escissione del cervello e su come applicarla ai servi?"
+
+### u056922
+"I detenuti si sono ribellati alle azioni insopportabili delle loro guardie. Ordina loro di smettere di torturare i prigionieri oltre ogni ragione."
+
+### u056923
+"Idira, fa' trovare uno psyker abbastanza forte da stabilire la verità sull'assassino dai resti delle vittime."
+
+### u056924
+"Punisci l'intera amministrazione della prigione e mandala nelle miniere, poi scegli i nuovi amministratori tra la popolazione carceraria."
+### u056925
+"Conduci un'indagine approfondita. Dobbiamo capire la causa della morte dei prigionieri e rintracciare i colpevoli."
+
+### u056926
+"Allora chi ha ucciso le persone trovate nelle miniere?"
+
+### u056927
+"Lord Capitano, le miniere di Vheabos VI sono di nuovo in subbuglio. Nelle profondità del livello MD Zeta/05, i sovrintendenti hanno scoperto una montagna di corpi mutilati, apparentemente stritolati dalle macine delle macchine minerarie. I morti sono tutti detenuti. I sovrintendenti ritengono che tra i ranghi dei prigionieri operi un culto di eretici che offre sacrifici umani. I prigionieri stessi sostengono che questa atrocità sia stata commessa per ordine del direttore per liberare la sua prigione dai detenuti più 'scomodi'. Il direttore ha tentato di far ragionare la folla infuriata, ma è stato invece sbranato."
+
+### u056928
+"I suoi resti profanati sono stati trovati all'interno di una delle celle in cui i prigionieri venivano torturati durante l'indagine sui detenuti 'strani'."
+
+### u056929
+"A servizio di Vheabos VI e della dinastia von Valancius!"
+
+### u056930
+{n}Diverse migliaia di prigionieri che avevano partecipato attivamente alla rivolta e all'omicidio del direttore furono stanati con il gas, catturati e giustiziati tra le fiamme della pressa della fonderia davanti a tutti gli altri.{/n}
+
+### u056931
+"Condivideremo questa saggezza con la dinastia von Valancius."
+
+### u056932
+"Lode alla vostra compassione!"
+
+### u056933
+{n}I detenuti a cui era stato asportato il cervello persero ogni impulso a compiere violenza e a provocare gli altri. Ora trovano un tranquillo piacere nel lavoro monotono e nell'assenza di comunicazione con le altre persone. I sovrintendenti osservano che l'esperimento è stato un grande successo.{/n}
+
+### u056934
+{n}Dopo aver saputo dell'intercessione del Rogue Trader in loro favore, i detenuti piansero e pregarono per Sua Signoria. I sovrintendenti si astennero generosamente dalla vendetta, impiccando solo chi aveva provocato la rivolta, cosa a cui nemmeno gli stessi detenuti avevano nulla da obiettare: dopotutto era giusto così.{/n}
+
+### u056935
+{n}Le regole degli impianti minerari furono allentate fino a un certo punto: ai sovrintendenti fu ordinato severamente di non usare i manganelli shock durante i pestaggi preventivi, ma solo pugni e piedi, e la crudele pratica della decimazione fu sostituita dalla umana privazione delle razioni come punizione per il mancato raggiungimento della quota. I detenuti gioirono.{/n}
+
+### u056936
+{n}Dopo aver ispezionato con attenzione i corpi dei detenuti, i sovrintendenti conclusero che non erano stati uccisi da un essere umano: nessuna arma conosciuta avrebbe potuto infliggere simili ferite. I corpi furono mostrati ai detenuti e la rivolta si spense mentre si faceva strada la consapevolezza che dietro gli omicidi ci fosse una forza sconosciuta.{/n}
+
+### u056937
+"Una folla di popolani ha sbranato un'anima nobile che cercava di farli ragionare... Che orrore. Forse la follia delle profondità si è diffusa tra di loro e ha assunto una nuova forma, trasformandoli in mostri? Sarebbe crudele ucciderli, se fosse così. È molto più umano e benintenzionato asportare loro il cervello per frenare la loro ferocia e la loro propensione alla disobbedienza. La mia Casata faceva lo stesso ogni volta che i servi si ribellavano nella loro ignoranza: un passo piuttosto clemente."
+
+### u056938
+"Non mi importa dei sovrintendenti, dei detenuti o dei loro problemi: quello che mi preoccupa sono i cadaveri. Chi li ha lasciati, questa è la domanda importante. Se i corpi non sono ancora stati distrutti, potremmo condurre un certo tipo di... divinazione. Il rituale è tutt'altro che appetitoso, ma uno psyker con uno stomaco forte potrebbe scoprire di più sulle loro morti."
+
+### u056939
+"Shereen, se il governatore e un branco di sovrintendenti non sono in grado di svolgere i loro compiti, non dovrebbero prendere il posto dei loro sorvegliati? E non potrebbero esserci amministratori degni tra coloro che si oppongono a loro, che potrebbero fare di meglio?"
+
+### u056940
+"Questo resta da stabilire. La rivolta ha... complicato l'indagine. Forse è stata comunque opera del direttore, o forse c'è una cellula del Culto dell'Alba Finale che opera tra i prigionieri. Ma i pochi pict dei cadaveri che i sovrintendenti sono riusciti a scattare contengono una stranezza: a usare un po' di immaginazione, si potrebbe scorgere un certo... schema nei corpi sparsi. Uno vagamente simile a quello che disegnavano questi prigionieri 'scomodi'."
+
+### u056941
+{n}Gli ex sovrintendenti furono mandati nelle miniere, e non tutti sopravvissero nemmeno a un singolo ciclo in compagnia dei loro ex sorvegliati. I detenuti più rispettati tra quelli finiti su Vheabos VI per colpe veniali come debiti di famiglia formarono una nuova amministrazione, più efficiente.{/n}
+
+### u056942
+"Vorrei inoltre sottolineare che il livello MD Zeta/05 fa parte dello stesso sistema di tunnel del misterioso tunnel non cartografato che abbiamo scoperto in precedenza."
+
+### u056943
+{n}L'indagine non produsse nulla che aiutasse a identificare i responsabili degli omicidi che avevano scatenato la rivolta. Il livello MD Zeta/05 è stato sigillato.{/n}
+
+### u056944
+"Le tracce della morte sono come un libro aperto per un discepolo della Rete. Un filatore esperto può recarsi nelle miniere e rivelare cosa ha portato la morte ai detenuti."
+
+### u056945
+"Che i segreti della morte siano rivelati al servitore dell'Imperituro."
+
+### u056946
+{n}Il cultista trascorse giorni senza dormire né nutrirsi, studiando ogni ferita sui cadaveri mutilati. Alla fine l'Imperituro gli concesse una rivelazione: il filatore percepì gli spasmi di agonia delle vittime e proclamò che un'entità oscura aveva reclamato le anime dei detenuti. Storpiato dalle sue visioni, l'uomo perse la ragione e continuò a vaneggiare, pronunciando cupe profezie sul terribile avversario. Ma il suo dovere era compiuto, e la ribellione si placò mentre la paura dell'ignoto riuniva gli abitanti della colonia.{/n}
+
+### u056947
+"I sovrintendenti sono riusciti a isolare i ribelli all'interno degli impianti minerari, ma un assalto comporterebbe elevate perdite di manodopera. D'altro canto, i prigionieri sono pronti a deporre le armi, a porre fine alla violenza e a pentirsi, se solo il Rogue Trader mostrasse un po' di compassione per la loro condizione, magari riformando alcune delle punizioni più severe."
+
+### u056948
+"Sono piuttosto sollevato di non dover partecipare di persona a questo losco affare."
+
+### u056949
+"Farò anche in modo che degli investigatori da Dargonus perquisiscano gli alloggi privati dei funzionari condannati."
+
+### u056950
+{n}Lo psyker trovato tra i prigionieri non era sanzionato, ma era abbastanza dotato da eseguire il rituale secondo le istruzioni inviate da Idira. Mentre frugava tra le viscere dei cadaveri borbottando tra sé, vide la figura oscura che aveva commesso quell'atto immondo. La visione gli strappò la mente, lasciandolo un pazzo incontinente. Anche se non fu in grado di descriverla con chiarezza, era comunque evidente che la figura non era umana. La rivolta si è placata.{/n}
+
+### u056951
+"Ricacciamo il nemico nell'oscurità, come ha proposto Solomorne."
+
+### u056952
+"Cosa sono quelle creature?"
+
+### u056953
+"Arma i detenuti e i sovrintendenti e mandali a combattere gli invasori."
+
+### u056954
+"Scegli detenuti pronti a espiare le proprie colpe con l'onore del martirio. Dai loro degli esplosivi e mandali a far saltare i tunnel. Sigilleremo i nostri nemici sottoterra."
+
+### u056955
+"Fai saltare i tunnel per evitare altre vittime."
+
+### u056956
+"Pasqal, pianifica il nostro contrattacco."
+
+### u056957
+"Lord Capitano, il Coro Astropatico ha colto scorci di visioni orribili provenienti da Vheabos VI. Qualcosa ha violato la colonia, dal sottosuolo. Poco dopo l'entrata in funzione di un nuovo settore di tunnel profondi, questo è stato invaso da mostri. Si annidano nell'oscurità, brulicano nell'ombra, attaccano in silenzio e non lasciano nulla al loro passaggio, divorando carne, plastacciaio e rococemento. Lo stridio di mille artigli annuncia il loro arrivo, e nel silenzio dei tunnel si sentono grida disperate. Sia lode al Trono d'Oro, queste creature non sembrano interessate a raggiungere la superficie. Tuttavia hanno preso diverse miniere attive e stanno facendo chissà cosa, solo l'Imperatore lo sa."
+
+### u056958
+"Dobbiamo bloccare questa minaccia e proteggere la gente. Per farlo dobbiamo far saltare i tunnel ma... perché il piano funzioni, bisogna farlo nelle aree attualmente occupate da questo nemico sconosciuto. Sono certo che nella colonia si possa trovare una dozzina di anime coraggiose, disposte ad accettare la grazia del martirio e a portare gli esplosivi nell'oscurità sottostante."
+
+### u056959
+"La minaccia è sconosciuta. Stabilire la natura della minaccia è la massima priorità. Le perdite collaterali sono insignificanti. Richiedo l'autorizzazione a coordinare un'operazione offensiva da parte di battaglioni penali al fine di determinare la natura dell'attacco."
+
+### u056960
+"Che possiamo trionfare sui nostri nemici!"
+
+### u056961
+"Ascoltate le mie parole, poiché vi chiedo di accendere nel vostro petto la fiamma della fede, contro cui nessuna corruzione può resistere."
+
+### u056962
+"Che marciscano nell'oscurità sotto il peso della terra del mondo!"
+
+### u056963
+"Che la nostra analisi tattica sia benedetta dall'ottimalità."
+
+### u056964
+{n}Squadra dopo squadra venne inviata nelle profondità. I detenuti e i sovrintendenti, mettendo da parte i conflitti passati, si unirono contro il nemico sconosciuto, consapevoli che pochi di loro sarebbero tornati... se mai qualcuno lo avrebbe fatto.{/n}
+
+### u056965
+{n}Facendo il segno dell'Aquila, i prescelti per compiere la Sua volontà discesero nell'oscurità senza un solo lamento o gemito.{/n}

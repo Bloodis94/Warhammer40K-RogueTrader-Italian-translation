@@ -1,0 +1,857 @@
+### u067268
+{n}Yrliet lancia un'occhiata alle gabbie più vicine e aggrotta la fronte, perplessa.{/n} "So che i tuoi simili tremano al solo nome degli stranieri di stelle lontane, elantach. Ma che cos'è questo? Una specie di rituale di protezione, in cui i mon-keigh assumono le sembianze delle creature dei loro incubi per dormire meglio la notte?"
+
+### u067269
+{n}Yrliet sputa una sfilza di parole accompagnata da una serie di gesti elaborati, ma l'{g|Encyclopedia:Elucidator}Elucidator{/g} non riesce a trasmetterne il significato esatto. Tutto ciò che il dispositivo di traduzione riesce a produrre è un guazzabuglio di parole che include "lungo e agonizzante".{/n}
+
+### u067270
+"Un'osservazione acuta, Signora Heydari. Notate l'insolita colorazione della pelle di questo xenos. Certo, si potrebbe supporre che sia una mimetizzazione innaturale che lo aiuta a confondersi con l'ambiente, ma io scommetterei comunque su un avvelenamento. Giovanotto, se non volete che il vostro prezioso esemplare xenos muoia qui, su questa catena, vi suggerisco di trovare un chirurgo, e in fretta."
+
+### u067271
+"Come se un contrabbandiere doppiogiochista e un ficcanaso dell'Inquisizione non fossero già abbastanza fastidiosi da soli, ora cercano pure di andare d'accordo..." {n}borbotta Abelard.{/n}
+
+### u067272
+{n}L'uomo gonfia il petto e arriccia il naso, con l'orgoglio chiaramente ferito.{/n} "Quali sembianze, signora? Vi dico che questi sono {g|Encyclopedia:Xenos}xenos{/g}: bestie pericolose, spietate, feroci! Se non è il vostro campo di competenza, vi prego cortesemente di non disinformare il mio pubblico!"
+
+### u067273
+{n}L'uomo china il capo con rispetto, continuando a lanciare occhiate a Yrliet.{/n}
+
+### u067274
+[Stai al gioco] "Certo. Sono Fidelio."
+
+### u067275
+"Mi hai scambiato per qualcun altro. Sono {name}, {mf|inviato|inviata} della dinastia von Valancius."
+
+### u067276
+"Mi chiedo chi sia questo Fidelio, e perché non si possa dare inizio alla cerimonia finché non compare lui o lei."
+
+### u067277
+"Che posto è questo, e che cosa sta succedendo qui?"
+
+### u067278
+[Unisciti ai presenti] "Voglio vedere di che si tratta."
+
+### u067279
+[Vattene] "Non voglio essere {mf|coinvolto|coinvolta} in questa faccenda."
+
+### u067280
+{n}Il basso brusio di voci si smorza e una dozzina di sguardi si volge verso di te.{/n}
+
+### u067281
+{n}L'uomo alto con la testa rasata si strofina le mani con nervosismo. I suoi abiti opulenti sembrano sul punto di scoppiare sul corpo muscoloso, e l'espressione è truce e minacciosa. Ciononostante, cerca di darsi un'aria amichevole.{/n} "Salve! Voi dovete essere..."
+
+### u067282
+{n}Il raduno in cui sei capitato sembra raffinato e rispettabile a prima vista. Le decorazioni e gli abiti dei presenti parlano di ricchezza, e lo stesso vale per il luogo, non lontano dalla residenza del Liege. Ma noti che la maggior parte dei presenti ha una corporatura piuttosto imponente. Molti hanno cicatrici e {g|Encyclopedia:Augmentation}impianti{/g} di livello militare. Diversi ospiti sembrano presidiare l'uscita. Alcuni portano chiaramente armi nascoste...{/n}
+
+### u067283
+{n}La tua presenza ha attirato senza dubbio l'attenzione di tutti. Quasi ogni ospite continua a lanciarti occhiate, e alcuni ti osservano apertamente in ogni movimento, anche se cercano di non darlo a vedere.{/n}
+
+### u067284
+{n}A giudicare dai costosi abiti dei presenti e dalla vicinanza al centro amministrativo di Footfall, stai partecipando a una specie di evento dell'alta società.{/n}
+
+### u067285
+{n}Sfoggia un ampio sorriso, ma poi si ricompone e corruga di nuovo la fronte.{/n} "Prego. Ehm. Parleremo dopo. Il Cappellano sta per cominciare..."
+
+### u067286
+"Non percepisco né stregoneria né influenza del {g|Encyclopedia:Warp}warp{/g}... Tuttavia... ogni altro presente ha {g|Encyclopedia:Augmentation}impianti{/g} di livello militare. Quasi tutti sono armati. Vedete quei due? Fanno finta di passeggiare, ma in realtà presidiano l'uscita... e lo stesso vale per quella coppia laggiù. Non dobbiamo abbassare la guardia a questo raduno: c'è qualcosa che bolle in pentola."
+
+### u067287
+{n}Si strofina le mani con ansia.{/n} "Von Valancius? Non siete in lista. Ma poco importa: a Footfall tutte le porte sono aperte per un rappresentante di Lady Theodora! Prego, accomodatevi: il Cappellano sta per cominciare. Ora, dov'è quell'ultimo presente, Fidelio..."
+
+### u067288
+"A giudicare da come quel tizio con la lista parlava di questa persona, deve essere qualcuno di molto importante. Ma non è un nome che ho mai sentito."
+
+### u067289
+{n}Noti qualcosa di strano: prima di allontanarsi da te, l'uomo fa un gesto discreto a un {g|Encyclopedia:Servitor}servitore{/g} lì vicino, impartendogli una sorta di comando. Il servitore toglie in fretta da un tavolo vicino le bottiglie di {g|Encyclopedia:Amasec}amasec{/g} e i bicchieri preparati per i presenti.{/n}
+
+### u067290
+{n}La tua comparsa sembra aver turbato l'uomo, ma non più di quanto ci si aspetti quando un ospite illustre si presenta a un evento senza invito.{/n}
+
+### u067291
+"E il pericolo è molto più grande," {n}conclude lei con aria cupa.{/n}
+
+### u067292
+"Cioè, un piccolo pericolo, ma una grande occasione."
+
+### u067293
+"Che razza di buffonata è questa..." {n}borbotta Abelard, ma non prima di essersi assicurato che l'uomo sia fuori portata d'orecchio.{/n}
+
+### u067294
+"Strana abitudine, presentarsi col primo nome che vi viene offerto." {n}Heinrix si guarda attorno con studiata noncuranza.{/n} "Vediamo per quanto riuscite a mantenere la finzione."
+
+### u067295
+"Non so nulla di questo posto, ma sento che qui bolle qualcosa. Avverto pericolo e opportunità..."
+
+### u067296
+"Nemmeno io, mio dolce angelo, nemmeno io! Ma del resto il tuo nome l'ho sentito a malapena, e mi rammarico che il destino non ci abbia fatti incontrare prima..."
+
+### u067297
+"...perché desideravate intraprendere il cammino della redenzione e diventare un rispettabile cittadino dell'Imperium, naturalmente?"
+
+### u067298
+"Mi stai dicendo che ricordi il nome di ogni criminale ricercato della Distesa?"
+
+### u067299
+{n}Abelard lancia un'occhiata di traverso a Jae e dice con forzata cortesia,{/n} "Signora Heydari, voi conoscete l'ambiente di Footfall. Il nome Fidelio vi dice qualcosa?"
+
+### u067300
+"Niente di niente, mio stimato Maestro Werserian," {n}dice Jae con voce melliflua.{/n} "Ahimè, il nome non mi dice nulla. Sono curiosissima!"
+
+### u067301
+"Soltanto chi ha violato la Lex Imperialis, i suoi complici e i possibili contatti: nomi, tratti somatici e ubicazione dei probabili nascondigli. Un Arbitratore che non sa identificare all'istante un criminale pericoloso o i suoi associati è inutile."
+
+### u067302
+{n}Il Cappellano ti guarda e fa un lieve cenno del capo.{/n} "Non mi riferivo a {mf|Signore|Signora} Fidelio: almeno Denz in persona voleva {mf|vederlo|vederla} al suo funerale. Ma gli altri? Conosco ognuno di voi, e mi stupirei di scoprire che qui qualcuno pianga davvero questa perdita."
+
+### u067303
+{n}Il Cappellano ti guarda e fa un lieve cenno del capo.{/n} "Non mi riferivo al nostro stimato ospite. Ma voi altri vi conosco fin troppo bene."
+
+### u067304
+"Allora avanti, pregate per l'anima di Bellardo. Presto le fiamme lo prenderanno. Una fine adeguata per una vita come la sua. Che l'Imperatore custodisca la sua anima!" {n}Senza un'altra parola, il Cappellano fa il segno dell'{g|Encyclopedia:Aquila}Aquila{/g} e volta ostentatamente le spalle ai presenti.{/n}
+
+### u067305
+"Questo posto? Mh... Proprio accanto alla residenza del caro Vladaym, quinto cerchio... Alcuni tizi che conosco operano da queste parti, so quanto incassano e per chi lavorano. Ma il posto in sé... mi viene il vuoto!"
+
+### u067306
+"Oh, che giorno terribile e doloroso! Rendiamo omaggio alla vita e all'anima della società di Footfall, un leale servitore dell'{g|Encyclopedia:Imperium}Imperium{/g}, un generoso benefattore che non badò a spese per mantenere viva la fiamma della fede e un esempio per tutte le generazioni future: il nobilissimo e indimenticabile Maestro Bellardo! Questa perdita..." {n}Il pignolo impiegato dell'{g|Encyclopedia:AdeptusAdministratum}Administratum{/g} parla con voce tesa, e continua a sbirciare un foglio di carta pieno di testo. Il discorso si trascina all'infinito, confondendosi in una monotona cascata di lodi al defunto Maestro Bellardo.{/n}
+
+### u067307
+"Offriamo dunque una preghiera all'Imperatore per il riposo dell'anima del Maestro Bellardo e la prosperità dei suoi eredi! Ora vi cedo la parola al nostro reverendissimo Cappellano."
+
+### u067308
+"{mf|Lord|Lady} von Valancius! Vostra Signoria, ho saputo del vostro arrivo su Footfall, naturalmente... e della scomparsa di Lady Theodora... ma nessuno mi aveva avvisato... non siete in lista..." {n}Si interrompe.{/n} "Ma non è un problema, certo! Prego, accomodatevi: il Cappellano sta per cominciare! Ah, ma stiamo aspettando l'arrivo di un ultimo presente, Fidelio... senza Fidelio, tutto questo non avrebbe senso..." {n}Borbottando, l'uomo si scusa e si unisce agli altri presenti.{/n}
+
+### u067309
+{n}Dà un'occhiata alla pergamena che stringe nell'{g|Encyclopedia:Augmentation}impianto{/g} meccanico della mano.{/n} "{mf|Signore|Signora} Fidelio? Tutti gli ospiti sono arrivati, voi siete {mf|l'ultimo|l'ultima} della lista e non potevamo certo cominciare senza di voi. La vostra presenza è assolutamente indispensabile!"
+
+### u067310
+{n}Solomorne si strofina il mento, pensieroso.{/n} "Fidelio... Posso dire con certezza che questo nome non figura nella lista dei ricercati, e che gli Arbitratori di stanza su Footfall non hanno inviato alcun rapporto speciale su questa persona."
+
+### u067311
+{n}Un uomo dall'aspetto temibile, vestito come un missionario dell'{g|Encyclopedia:AdeptusMinistorum}Ecclesiarchia{/g}, fulmina con lo sguardo la folla riunita.{/n} "Eccovi qui tutti, voi avvoltoi. Allora recitiamo una preghiera. Ma se pensate che l'Imperatore, o il messaggero della Sua volontà, cioè il sottoscritto, non veda nelle vostre anime abiette, vi sbagliate di grosso!"
+
+### u067312
+"Neanch'io ho mai sentito questo nome."
+
+### u067313
+[Allontanati dalla bara]
+
+### u067314
+"Abelard, conosci quest'uomo?"
+
+### u067315
+"È molto sfarzoso per il funerale di un pirata. A Footfall è normale?"
+
+### u067316
+[Osserva bene il defunto]
+
+### u067317
+{n}Chiunque abbia preparato il corpo dell'uomo dai capelli grigi disteso nella bara, ha fatto un buon lavoro: anche da morto ha un aspetto maestoso.{/n}
+
+### u067318
+{n}Solomorne guarda il volto del morto e dice con severità,{/n} "Jerrycan Denz, pirata. Ricercato per innumerevoli rapine e attacchi a navi mercantili. Non fu mai colto ad assaltare navi della decima, ma gli Arbites aggiunsero comunque il suo nome alla lista dei sospetti ad alto rischio, con la nota: 'Eliminazione raccomandata.'"
+
+### u067319
+"Ora ricordo. Il Reverendo Hieronymus citò il nome del Maestro Bellardo come uno dei maggiori donatori del tempio."
+
+### u067320
+"È noto che la gente di Footfall chiude un occhio su molte cose, ma nemmeno i locali sono così privi di scrupoli da onorare feccia di pirati a pochi passi dalla residenza del Liege. Ma di Denz non si sentiva più parlare da decenni... io stesso l'ho riconosciuto a stento, e allora ne avevo visto il volto sulle pict un bel po' di volte. Suppongo si sia ritirato e abbia cominciato una vita più o meno onesta sotto un nuovo nome. Com'è che lo chiamavano? Maestro Bellardo?"
+
+### u067321
+{n}Abelard mantiene un'espressione grave, adatta all'occasione, finché non vede il volto del defunto. Aggrotta la fronte. Lo scruta con sospetto. Poi trasale, stupefatto, quasi stordito.{/n} "Ma guarda un po'! Questo sì che è un incontro... se così si può chiamare, date le circostanze."
+
+### u067322
+"Eccome! Vi racconterei tutto di quest'uomo, ma le parole che userei sarebbero sconvenienti per un funerale! Questi, Vostra Signoria, è Jerrycan Denz, noto un tempo come uno dei pirati più famigerati della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g}."
+
+### u067323
+"Lo chiamavano 'Jerrycan' per l'abitudine di avere a portata di mano una tanica o due di {g|Encyclopedia:Promethium}promethium{/g}: adorava bruciare le cose. Oh sì, a quei tempi era una minaccia... quanto tempo fa? Sessant'anni? Stavo prestando gli ultimi giorni di servizio nella Flotta quando arrivò la notizia del suo ultimo attacco..."
+
+### u067324
+{n}È difficile dedurre qualcosa dall'aspetto del defunto, a parte che doveva essere ricco: i suoi abiti sembrano costosi e i suoi {g|Encyclopedia:Augmentation}impianti{/g} sono nuovi e rari.{/n}
+
+### u067325
+{n}Abelard si passa distrattamente una mano tra i capelli.{/n} "Be', be'... C'è stato un tempo in cui vedere Jerrycan in una bara sarebbe bastato a farmi ballare. Alla lettera! Per il Trono, avrei ballato una giga sul posto! Ma adesso... non so. Niente più salti nel warp sotto il naso dell'incrociatore, eh, vecchia belva? Chi l'avrebbe detto che sarei venuto al tuo funerale..."
+
+### u067326
+{n}Il suo volto sulle prime ti sembra sconosciuto... ma poi una consapevolezza ti colpisce. L'età ha cambiato molto i lineamenti di quest'uomo, ma l'hai già visto: su pict e manifesti con la scritta "Ricercato: pirata pericolosissimo". Decenni fa, colui che ora giace davanti a te in una bara si faceva chiamare Jerrycan Denz ed era noto come uno dei pirati più famigerati della Distesa di Koronus.{/n}
+
+### u067327
+{n}Dopo una pausa, aggiunge, con sentimento,{/n} "Quel bastardo l'ha fatta franca, alla fine."
+
+### u067328
+{n}Gli {g|Encyclopedia:Augmentation}impianti{/g} rimasti nel corpo del defunto attestano la sua alta posizione: di norma la tecnologia costosa viene estratta dai morti, e solo i più eminenti e ricchi evitano questa sorte dopo il decesso.{/n}
+
+### u067329
+Il coperchio del contenitore si apre da solo al tocco. È completamente vuoto.
+
+### u067330
+Pesante portello di plastacciaio che dà sulla fornace
+
+### u067331
+Spazio riservato alle bare
+
+### u067332
+Da qui proviene il fuoco per bruciare i corpi.
+
+### u067333
+Sembra che abbiano riadattato l'ugello di un antico motore della stazione alle necessità del crematorio.
+
+### u067334
+Un ragazzo sorride mentre con un'unghia fa saltare i denti da una mandibola rotta, dicendo: "M'ama... non m'ama..."
+
+### u067335
+"Non interrompermi! Arrivano da altri angoli. Devo contare tutto, nel caso ce ne siano di nuovi!"
+
+### u067336
+"Eh, ero un duro marinaio del vuoto, e ora... ora surfo soltanto sui rivoli di liquami e razzio bottiglie di amasec..."
+
+### u067337
+"Oh, che bella zuppa era... che zuppa!"
+
+### u067338
+"Qui è squallido, d'accordo... ma non ci si annoia mai!"
+
+### u067339
+"Una scarpa è una cosa meravigliosa. È la tua scarpa, il tuo piatto e il tuo cuscino... Puoi perfino masticare la suola, se sei disperato!"
+
+### u067340
+"Ti va un ditino croccante? Solo un paio di troni... Lo taglio dalla mano destra, che è più succosa!"
+
+### u067341
+Fischiettando con noncuranza, l'uomo spreme la poltiglia dagli ascessi purulenti sul viso e la raccoglie con gran cura in una specie di barattolo.
+
+### u067342
+Gemendo e singhiozzando senza sosta, una vecchia scarmigliata culla e bacia un piccolo teschio umano avvolto in un pannolino.
+
+### u067343
+"A volte le preghiere ci arrivano attraverso la ventilazione. In quei momenti senti davvero che l'Imperatore è con noi."
+
+### u067344
+Un vagabondo smunto nasconde timorosamente il moncone di una barretta proteica ammuffita.
+
+### u067345
+Con la lingua fuori per lo sforzo, la donna ricopia con pazienza su un pezzo di carta le lettere dall'etichetta della bottiglia di brodaglia.
+
+### u067346
+"Pietà! Pietà!"
+
+### u067347
+"Risparmiate la mia misera vita, {mf|mio signore|mia signora}!"
+
+### u067348
+"Ugh... che puzza..."
+
+### u067349
+I pesanti container bloccano saldamente la porta.
+
+### u067350
+Il registro dei visitatori del magazzino. Ci sono date diverse, ma solo due nomi.
+
+### u067351
+Un assortimento di componenti per batterie di scudi del vuoto. Sembrano usati, ma ancora troppo nuovi per essere sostituiti.
+
+### u067352
+"Unità di depurazione dell'acqua." Un dispositivo del genere dovrebbe servire alle necessità della stazione anziché prendere polvere in un magazzino.
+
+### u067353
+Il suono in questo punto è sospetto, come se ci fosse una grande cavità da qualche parte sotto il pavimento.
+
+### u067354
+Dopo aver praticato qualche foro nel rivestimento del tunnel, non trovi alcuna cavità dall'altra parte.
+
+### u067355
+La cavità contiene... uno sbalorditivo cumulo di rifiuti compressi. Sembra che si accumulino qui da decenni, se non da secoli.
+
+### u067356
+Frugare tra i rifiuti non porta a nulla.
+
+### u067357
+Sotto le macerie trovi un piccolo anfratto, presumibilmente il nascondiglio di qualche operaio dell'epoca della fondazione della stazione.
+
+### u067358
+"Dalla collezione personale di Parsimus Dewain."
+
+### u067359
+Amasec pregiato
+
+### u067360
+[Prova a farti strada fino alla cavità]
+
+### u067361
+[Scava nel cumulo di rifiuti]
+
+### u067362
+"È tutto privo di senso!"
+### u067363
+"La gente si preoccupa troppo di cose che non contano. Sì, anche tu. Io no: io trascendo."
+
+### u067364
+"Gli altri potranno anche vedermi come un barbone che vive sottoterra. Ma la mia mente ospita migliaia di mondi e di vite!"
+
+### u067365
+Sul lato della tenda è scarabocchiata una parola: "Biblioteca."
+
+### u067366
+Nella tenda ci sono una mezza dozzina di libri intitolati "Vita di San Drusus", "L'alfabeto dell'Alto Gotico", "Proprietà delle successioni e delle funzioni a valori reali: corso avanzato".
+
+### u067367
+La parola sulla tenda dice "Infermeria." Dentro c'è un corpo che russa, senza alcun segno di malattia o di ferite, ma che ti investe con un'insopportabile zaffata di alcol stantio.
+
+### u067368
+La parola sulla tenda dice "Tempio." Dentro c'è un minuscolo altare improvvisato con delle candele: la struttura più pulita e curata della zona.
+
+### u067369
+"Maledetto Trono, stiamo per bruciare! Armi in pugno, dobbiamo farci strada a colpi di arma da fuoco!"
+
+### u067370
+"All'armi! Mirate ai muri o al pavimento: non riusciremo a sfondare la porta esterna abbastanza in fretta!"
+
+### u067371
+"Aah! Forza, Idira, guarda meglio... Il pavimento! Dobbiamo sparare attraverso il pavimento! Presto!"
+
+### u067372
+"Maledizione, aprite il fuoco! Sparate! Sparate ai muri e al pavimento: la porta è fortificata!"
+
+### u067373
+"Presto! Dobbiamo aprirci un varco combattendo! Imperatore, proteggici!"
+
+### u067374
+"Non molto prima di morire, Denz accennò a degli 'occhi morti' che lo fissavano."
+
+### u067375
+"Dopo il vostro discorso durante la cerimonia, immagino che non proviate simpatia per gli altri presenti."
+
+### u067376
+"Dunque pensi che questa donna sia il nostro Fidelio?"
+
+### u067377
+"Una domanda, se permettete: come ha fatto un missionario dell'Ecclesiarchia a diventare amico e socio di un famoso pirata?"
+
+### u067378
+"L'illustre Maestro Bellardo era un pirata..."
+
+### u067379
+"Nel libro del ricordo c'è una voce sul pentimento. La scrittura sembra recente. Potrebbe averla lasciata Fidelio?"
+
+### u067380
+"Ho seri motivi di sospettare che qualcuno qui volesse uccidere Fidelio."
+
+### u067381
+"Quindi Denz ha nominato Fidelio e il pentimento..."
+
+### u067382
+"Convoca tutte le parti coinvolte. È il momento di discutere la questione del testamento."
+
+### u067383
+"Credo di aver bisogno di più tempo. Ti farò sapere."
+
+### u067384
+"Dunque Bellardo ha lasciato tutti i suoi beni terreni a un certo Fidelio. Chi sarà mai questa misteriosa persona?"
+
+### u067385
+"Ho il forte sospetto che qualcuno qui voglia la mia morte."
+
+### u067386
+"Forse Fidelio si farà avanti quando il testamento di Denz sarà reso pubblico?"
+
+### u067387
+"Eravamo particolarmente legati."
+
+### u067388
+"A dirla tutta, non lo so nemmeno io."
+
+### u067389
+[Attacca] "Sapete una cosa? Voi tutti, feccia di pirati, mi disgustate. Non dovrebbe esservi permesso di andare in giro liberamente in una stazione dell'Imperium!"
+
+### u067390
+"Grazie per aver parlato con me. Ora devo andare."
+
+### u067391
+"Riguardo all'eredità... quando potrò reclamarla?"
+
+### u067392
+"No, non l'ho fatto. Sono venut{mf|o|a} qui per caso."
+
+### u067393
+[Menti] "L'ho fatto."
+
+### u067394
+"È una specie di oggetto, e probabilmente di grande valore. Forse un'arma."
+
+### u067395
+"Ricapitoliamo tutto ciò che sappiamo. Denz avrebbe lasciato i suoi beni a Fidelio, una donna che voleva vendicarsi di lui per aver ucciso il capitano della nave Repentance. La parola Repentance è scritta nel libro del ricordo, e la voce è recente. Significa che il nostro Fidelio si trova qui vicino?"
+
+### u067396
+"Potrebbe essere un nome, il nome di una nave, per esempio."
+
+### u067397
+"Per ora non lo so ancora."
+
+### u067398
+"Credo di sapere la risposta."
+
+### u067399
+"Chiaramente desidera espiare il proprio passato."
+
+### u067400
+"L'influenza di un'entità del warp. Si è insediata nella casa di Denz e gli ha avvelenato la mente."
+
+### u067401
+"Desidero intervenire nella questione dell'eredità lasciata dal Maestro Bellardo."
+
+### u067402
+"Vorrei discutere con voi di ciò che sono riuscit{mf|o|a} a scoprire riguardo al misterioso Fidelio."
+
+### u067403
+"Che ne è stato della donna?"
+
+### u067404
+"È tutto ciò che sono riuscit{mf|o|a} a scoprire finora."
+
+### u067405
+"Bene, a quanto pare abbiamo chiarito la parte su Repentance."
+
+### u067406
+{n}Da vicino, il Cappellano lascia un'impressione ancora più forte: un uomo alto e corpulento, con il volto e le mani segnati da numerose cicatrici. L'intero aspetto sembra raccontare la storia dei molti eretici che hanno trovato la morte incontrando questo adepto della vera fede.{/n}
+
+### u067407
+{n}Il Cappellano ti rivolge un cenno cordiale, ma il suo sguardo è intenso, come se cercasse di capire chi sei.{/n} "Piacere di conoscervi, {mf|Signore|Signora} Fidelio. Preferisco farmi chiamare Cappellano: è sia il mio nome sia il mio mestiere."
+
+### u067408
+{n}Il Cappellano ti rivolge un cenno rispettoso.{/n} "Che San Drusus vi protegga dalle malattie e dalle sventure. Mi sorprende vedere qui una figura nobile come voi. Conoscevate Denz? Intendo dire, il Maestro Bellardo."
+
+### u067409
+"No, di certo. Non riesco a immaginare cosa intendesse con questo."
+
+### u067410
+{n}Il Cappellano ridacchia. Le cicatrici sul suo volto si fanno ancora più evidenti.{/n} "Sapete perché mi chiamano Cappellano? Perché ero il sacerdote sulla nave di Denz ai tempi della sua gioventù più selvaggia."
+
+### u067411
+"Sono un missionario di San Drusus, e la verità dell'{g|Encyclopedia:Imperium}Imperium{/g} parla attraverso di me. Quindi non vedo alcuna ragione di fingere. Tutti i presenti hanno un solo scopo: azzannare un pezzo del patrimonio di Denz. L'ambizione e le aspirazioni di ricchezza non sono immorali in sé, ma..." {n}Il Cappellano fa una smorfia.{/n}
+
+### u067412
+"È solo che mi nausea il pensiero che un uomo così grande non abbia lasciato dietro di sé altro che un mucchio di rifiuti umani. Suo figlio è un ubriacone e un debole. Il suo 'amico' Daggen, quello che vi ha accolto all'ingresso, è un bruto ottuso con un ego smisuratamente gonfio. Sua moglie, quando il corpo era ancora caldo, è fuggita sullo yacht di famiglia in direzione della Fauce, con un seguito di cinque giovanotti muscolosi e di bell'aspetto."
+
+### u067413
+{n}Il Cappellano ti scruta ancora una volta.{/n} "Vorrei credere che non vi abbia scelto come erede per capriccio, {mf|Signore|Signora} Fidelio. Se non altro avete avuto il coraggio di venire qui, in un nido di vipere che vi disprezzano perché il denaro e i beni di Denz sono sfuggiti loro di mano. Rispetto questo genere di audacia, e anche lui la rispettava."
+
+### u067414
+"Se siete {mf|sorpreso|sorpresa}, non dovreste. Tra i pirati della Distesa c'è molta feccia eretica, ma Denz non era tra loro. Era un vero credente. E condivideva gli ideali dell'{g|Encyclopedia:Imperium}Imperium{/g} più di certi ufficiali dal collo rigido. Un capo dal pugno di ferro e dalla volontà di ferro: non dobbiamo forse a gente così la conquista di migliaia di sistemi stellari?"
+
+### u067415
+{n}Gli occhi di Jae si illuminano alla parola "eredità." Ma lei si ricompone subito e assume un'espressione addolorata.{/n}
+
+### u067416
+"Sì, esattamente così."
+
+### u067417
+"Sapete, è curioso che, pur essendo il più stretto collaboratore e confessore di Denz, ovvero del Maestro Bellardo, io non abbia mai sentito parlare di voi, {mf|l'uomo|la donna} che ha scelto come unico erede. Sono contento, naturalmente, che l'eredità non sia andata a nessuno degli altri, quegli avvoltoi. Ma sono comunque curioso: perché voi?"
+
+### u067418
+{n}Il Cappellano sogghigna.{/n} "Ma guarda un po'! Com'è possibile? Qualcuno vuole morto l'unico erede di un'enorme fortuna, proprio nel luogo in cui si sono radunati gli altri pretendenti, privati di quelle ricchezze?"
+
+### u067419
+"Se voi, {mf|Signore|Signora} Fidelio, siete davvero degn{mf|o|a} del nome di Denz, saprete affrontare queste piccole vicissitudini. Consideratela la mia benedizione. L'Imperatore protegge. Chiunque lo meriti, s'intende."
+
+### u067420
+{n}Gli occhi del Cappellano lampeggiano per un istante.{/n} "Mmh... Una nave chiamata Repentance... Non ne sono sicuro, ma potreste avere ragione. Ora che l'avete detto, mi è tornato in mente un particolare interessante."
+
+### u067421
+"Non vedete l'ora, eh?" {n}Il Cappellano sbuffa.{/n} "Dopo il funerale. Denz sarà consegnato alle fiamme, poi annunceremo il suo ultimo testamento e voi entrerete ufficialmente in possesso della vostra eredità."
+
+### u067422
+"Allora lo considererò un colpo di fortuna. Denz sarebbe stato contentissimo di avere al suo funerale qualcuno del vostro rango."
+
+### u067423
+"Interessante. Sapevo che teneva dei segreti persino con me, suo amico e confessore. Del resto, incontrare voi non è l'unico segreto che ho scoperto. Ancora non so chi sia questo Fidelio, la persona che Denz ha nominato suo erede."
+
+### u067424
+"Interessante. Denz non mi ha mai parlato di voi, e una conoscenza di tale rango non è cosa da poco..." {n}Il Cappellano non sembra pronto a rischiare di accusarvi apertamente di mentire, ma non pare nemmeno convinto della vostra risposta.{/n} "Del resto, incontrare voi non è l'unico segreto che ho scoperto: ancora non so chi sia questo Fidelio, la persona che Denz ha nominato suo erede."
+
+### u067425
+{n}Il Cappellano annuisce.{/n} "Non mi sorprende. A Denz piacevano le persone fuori dal comune. E sapeva come farsi voler bene."
+
+### u067426
+"Ma certo." {n}Il Cappellano ti rivolge un minuscolo sorriso storto.{/n}
+
+### u067427
+"Interessante... Denz era pieno di misteri, e a quanto pare nemmeno io sapevo tutto di lui."
+
+### u067428
+{n}Senza sprecare parole, il Cappellano afferra il lanciafiamme.{/n}
+
+### u067429
+"Ah! Che strano. Ho osservato gli ospiti e conosco tutti i presenti. Se voi non siete Fidelio, allora nessuno qui lo è. A meno che non siano riusciti a entrare senza farsi notare..."
+
+### u067430
+"Certo che l'hanno fatto. E lo fanno ancora. E continueranno a provarci. L'eredità non è una sciocchezza, dopotutto. E i pretendenti non sono esattamente tipi placidi." {n}Il Cappellano scrolla le spalle, come se parlasse di una cosa banale.{/n}
+
+### u067431
+{n}Il Cappellano ti lancia un'occhiata poco amichevole, ma annuisce.{/n} "Rappresentate la Casata von Valancius, potete certamente tentare di mettere in dubbio il testamento, se lo desiderate."
+
+### u067432
+"E quelli che derubava erano per lo più tipi per cui nessun vero suddito dell'Imperium verserebbe una lacrima. {g|Encyclopedia:Xenos}Xenos{/g}, eretici. Non tutti, certo... ma sarà l'{g|Encyclopedia:Emperor}Imperatore{/g} a giudicare se Denz fosse un uomo perbene."
+
+### u067433
+"Lasciate che ve lo chieda: siete {mf|sicuro|sicura} di essere {mf|pronto|pronta} a risolvere tutto adesso? Forse vorreste parlare con tutte le parti, farvi una vostra opinione sui pretendenti?"
+
+### u067434
+"Lasciate che ve lo chieda: siete {mf|sicuro|sicura} di essere {mf|pronto|pronta} a risolvere tutto adesso? Forse vorreste parlare con tutte le parti, farvi una vostra opinione sui pretendenti? Scoprire chi è Fidelio, se non altro?"
+
+### u067435
+"Sì. Ma cosa potrebbe significare?"
+
+### u067436
+"Forse lo faranno. Ma vorrei saperlo con certezza. Se non si faranno vedere, potremmo non scoprire mai a chi Denz volesse lasciare la sua fortuna."
+
+### u067437
+"Intendete provare ogni idea che vi passa per la testa? Non mi sembra la soluzione migliore. Vi suggerisco di riflettere un po' e di raccogliere più informazioni."
+
+### u067438
+"Una dozzina di anni fa ci fu un attentato alla vita di Denz. In pochi sarebbero riusciti anche solo ad avvicinarsi a lui, figurarsi a ferirlo, ma quella assassina era una maestra del mestiere. Denz è sempre stato un tipo robusto, ed è questo che lo salvò. Questo e i suoi fidati impianti. Ma i medici dovettero praticamente rimetterlo insieme da zero."
+
+### u067439
+"Quando finalmente uscì dalle mani dei macellai, mesi dopo l'attentato, continuava a ridacchiare dicendo che quella era in gamba. E che era davvero furiosa con lui perché aveva bruciato suo padre, o suo marito, non ricordo... e quello era un capitano di nave. Ricordo vagamente quella conversazione, ma sono quasi certo che la nave si chiamasse Repentance. E che Denz conoscesse perfino i nomi di quel capitano e della fiera aspirante vendicatrice. La donna si chiamava Leona o qualcosa del genere, e il cognome... non mi stupirei se somigliasse a Fidelio."
+
+### u067440
+"Tutto è possibile, suppongo. Per lui fu dura, alla fine. Il suo corpo rifiutava le medicine e gli impianti, e delirava a tratti... Cose simili possono spezzare anche la persona più forte, farle provare rimorso e pentimento. Ma anche se avete ragione, questa risposta non ci avvicina alla soluzione del mistero di Fidelio."
+
+### u067441
+"Dopo l'attentato fuggì, ma so che Denz le mise alle calcagna dei mercenari quasi subito. Se l'abbia trovata o no, questo non lo so. Sembra improbabile, perché se avesse regolato i conti con lei, poi non l'avrebbe messa nel testamento, no?"
+
+### u067442
+"Sapete, c'è un detto che dice che nessuna tana è abbastanza grande per due bestie," {n}dice il Cappellano con calore, quasi con affetto.{/n} "Voglio dire, se Denz e un qualche demone del warp si fossero trovati a dividere la stessa casa, quello che sarebbe fuggito o finito morto sarebbe stato il demone. Non il contrario."
+
+### u067443
+"Pare di sì. Se abbiamo indovinato, non resta che Fidelio e il testamento..."
+
+### u067444
+"A Denz piacevano i suoi giocattoli, ma i nomi che dava loro erano più semplici di così. Chiamava il suo fucile preferito Shooty Pew-Pew: dubito che avrebbe chiamato qualcos'altro 'Repentance'."
+
+### u067445
+"È la mia migliore ipotesi. Lascia che ti ricordi cosa disse: 'Devo qualcosa a Fidelio. Se non fosse per la Repentance...' A chi altri avrebbe potuto essere in debito, se non a una figlia vendicativa, o amante, o quello che era, di un capitano che aveva ucciso? Sarebbe stato proprio da Denz lasciare tutto il denaro non a quel piagnone di suo figlio, non a quell'idiota del suo primo ufficiale, ma alla scaltra ragazza che quasi lo uccise."
+
+### u067446
+"Sappiamo anche qualcosa sugli 'occhi morti' e sul fatto che il cortile è completamente aperto: non credo che uno sconosciuto sia potuto entrare qui e lasciare quelle parole nel libro."
+
+### u067447
+"Bene, {mf|Lord|Lady} von Valancius, ora è tutto nelle vostre mani. Non sono un investigatore e non so che farmene di tutti questi indizi. Se avete qualche idea su dove si trovi Fidelio, trovatela. Altrimenti, tornate da me. Dobbiamo ancora congedare Denz come si deve e occuparci della questione del suo patrimonio."
+
+### u067448
+{n}L'area intorno al libro è completamente aperta. Se il Cappellano dice la verità e conosce davvero di vista tutti gli ospiti, le parole potrebbero essere state lasciate solo da qualcuno con libertà di movimento nel cortile, qualcuno che non desterebbe attenzione...{/n}
+
+### u067449
+{n}Non hai ancora un quadro abbastanza chiaro della situazione per teorizzare su un'infiltrazione invisibile. Forse a scrivere quella riga nel libro è stato qualcuno che non è Fidelio, ed è semplicemente così?{/n}
+
+### u067450
+"Non ne ho la più pallida idea. E credo che nessuno dei presenti lo sappia, altrimenti due dozzine di sicari avrebbero già avviato la caccia all'uomo per questo Fidelio, ovunque si nasconda. Dopotutto, è un'eredità consistente. E gli altri pretendenti non sono affatto contenti di essere stati lasciati fuori dal testamento."
+
+### u067451
+"Hmph. Strano. Chi può averlo guardato così in casa sua? Qualche servoteschio vagante di passaggio? Forse era solo il delirio di un moribondo?"
+
+### u067452
+{n}Gli occhi del Cappellano si stringono leggermente.{/n} "Vedo che siete {mf|incuriosito|incuriosita}. Devo dire che lo sono anch'io. Da quando ho saputo della morte del mio amico, non riesco a smettere di pensare al mistero del suo testamento. Avete il nome e il titolo dei von Valancius, forse riuscirete a cavare dagli ospiti più di quanto abbia fatto io. Ecco l'unico indizio che ho: Denz mi nominò Fidelio una volta sola. Era molto tempo fa, era ubriaco fradicio: si aggrappò alla mia tonaca e disse... spero siano le sue esatte parole... 'Devo qualcosa a Fidelio. Se non fosse per il pentimento...'"
+
+### u067453
+"Siete {mf|un|una} {g|Encyclopedia:RogueTrader}Rogue Trader{/g} e {mf|un amico|un'amica} di Denz. Se volete intervenire, fatelo. Nominate voi {mf|stesso|stessa} l'erede, se vi pare: non esprimerò alcuna protesta. Potrebbero esserci problemi con l'{g|Encyclopedia:AdeptusAdministratum}Administratum{/g}, ma... so a quali palme ungere la mano per farli sparire."
+
+### u067454
+"Che strano... non siete voi il confessore del Maestro Bellardo, Cappellano? Come ha potuto qualcuno al di fuori di voi dirgli di pentirsi?"
+
+### u067455
+"Tornate da me se scoprite altro. Magari possiamo risolvere la faccenda insieme."
+
+### u067456
+{n}Il Cappellano ti lancia un'occhiata poco amichevole, ma annuisce.{/n} "Siete {mf|un|una} Rogue Trader, è un vostro diritto. Volete mettere in dubbio il testamento? Nominare un altro erede di vostra autorità? Non credo che nemmeno l'{g|Encyclopedia:AdeptusAdministratum}Administratum{/g} oserebbe obiettare."
+
+### u067457
+"Siete {mf|un emissario|un'emissaria} della dinastia von Valancius e {mf|un amico|un'amica} di Denz. Vi sosterrò anche se userete la vostra autorità per nominare voi {mf|stesso|stessa} l'erede. Potrebbero esserci problemi con l'{g|Encyclopedia:AdeptusAdministratum}Administratum{/g}, ma... so a quali palme ungere la mano per farli sparire."
+
+### u067458
+"Bellardo ti ha mai parlato di pentimento?"
+
+### u067459
+"Non ti sei mai presentato..."
+
+### u067460
+"L'amasec che hai ordinato al tuo servitore di portare via era avvelenato. Che affascinante coincidenza."
+
+### u067461
+"Visto il precedente mestiere del defunto, ho una buona idea del ruolo che hai avuto ai suoi ordini."
+
+### u067462
+"Perché Denz ti ha escluso dal suo testamento?"
+
+### u067463
+"E chi è questo Fidelio?"
+
+### u067464
+"Ci penserò."
+
+### u067465
+"Mi rifiuto di prendere parte a tutto questo."
+
+### u067466
+"Come è morto Bellardo?"
+
+### u067467
+{n}L'uomo alto che vi ha accolto all'ingresso si sposta da un piede all'altro e continua a guardarsi intorno con un'espressione cupa.{/n}
+
+### u067468
+{n}Ti rivolge un cenno di comprensione.{/n} "{mf|Signore|Signora} Fidelio..."
+
+### u067469
+"È un onore, Vostra Signoria, un tale onore... Potreste concedermi un minuto del vostro tempo? Avrei una richiesta da farvi..."
+
+### u067470
+"{mf|Lord|Lady} von Valancius! Potreste concedermi un minuto del vostro tempo? Mi piacerebbe molto parlare con voi!"
+
+### u067471
+"Ecco come stanno le cose, Vostra Signoria. Ve lo dico senza giri di parole: mi dispiace, non so come parlare con la gente altolocata..."
+
+### u067472
+"Be', Denz, cioè Bellardo, il mio vecchio amico e capo, è morto. E ha lasciato tutto quello che aveva, e ne aveva parecchio, badate bene, a questo Fidelio. È stato piuttosto scortese da parte sua, non si trattano così gli amici. Capisco che abbia lasciato in braghe di tela quell'inutile di suo figlio, e ha fatto bene, ma il suo vecchio amico?"
+
+### u067473
+"Quindi stavo pensando... forse voi potreste intervenire e rimettere le cose a posto? Intervenire nella faccenda dell'eredità... o che so io..."
+
+### u067474
+{n}Ti guarda negli occhi.{/n} "Avvelenato? No, non può essere! Sarà stata una partita scadente."
+
+### u067475
+{n}Daggen ghigna.{/n} "Mi chiamavano Torch. Lui era Jerrycan, io Torch... bei tempi!"
+
+### u067476
+"La vecchiaia, sapete, la testa non era più quella... Sì, dev'essere così. Era semplicemente troppo ingiusto. Volare con lui per dieci anni e non ricavarne niente?"
+
+### u067477
+{n}Daggen si contrae come per un mal di denti.{/n} "Magari lo sapessi! Ho sentito questo nome per la prima volta quando Denz ha tirato le cuoia. Magari Fidelio è una sgualdrina che gli ha strappato un sorriso negli anni d'oro? E così Denz ha deciso di darle tutto il malloppo."
+
+### u067478
+"Siete una persona di riguardo, potete mettere il becco in questa storia. Potete parlare con il Cappellano, che è l'esecutore di Denz, e informarvi sul testamento. Oppure potete trovare Fidelio e fare una chiacchierata anche con lui o lei? Insomma, chi vorrebbe un'eredità che non gli spetta di diritto? Più guai che vantaggi, se volete il mio parere. E fidatevi, il vecchio Daggen può essere utile se vi serve qualcosa. So un sacco di cose su Footfall e non solo, posso aiutare con le informazioni, procurarvi dei bravi ragazzi per un lavoretto... Uno come me vi può servire!"
+
+### u067479
+"Bene, ottimo, davvero ottimo!"
+
+### u067480
+"Non mi permetterei di insistere, ovviamente. Ma se dovessi cambiare idea..."
+
+### u067481
+"Oh, ne sono successe di tutti i colori, ragazza mia! Cose che volavano, gente che moriva, servitori, s'intende. Ogni volta che ci veniva voglia di ricordare i bei tempi andati e ci sbronzavamo con mezza brocca della roba buona... era allora che succedeva. Ricordo una volta che decidemmo di vedere chi riusciva a squartare più in fretta i servitori al buio..." {n}Daggen sogghigna, poi si ferma e ti lancia un'occhiata.{/n} "D'accordo, parliamo seriamente: no, niente del genere in casa sua. Niente di stregonesco a parte la scritta. Quanto a quando è cominciata... lo sa lo xenos. Dieci, dodici anni fa?"
+
+### u067482
+"No, ma so di cosa parli. Gli scarabocchi in casa sua, giusto? Sì, è successo davvero: quella scritta è comparsa dal nulla. Sui muri, sugli specchi, e sempre la stessa parola: 'Repentance.' Gli dissi di far venire uno {g|Encyclopedia:Psyker}psyker{/g} a controllare se in casa ci fosse della stregoneria, ma disse di no. Troppo caro, immagino: disse qualcosa a proposito, che aveva già pagato troppo per il pentimento. Di psyker ce ne sono pochi, e uno solo costa quanto una squadra di picchiatori di prim'ordine..."
+
+### u067483
+"Ehi, senti, amico: per quanto tempo è andata avanti? La scritta, intendo. Sono successe altre cose strane in casa? Soprammobili che volavano, mobili con i tentacoli, gente che moriva senza motivo?"
+
+### u067484
+"Sono Daggen Otheo, ero il primo ufficiale sulla nave di Denz, cioè del Maestro Bellardo."
+
+### u067485
+"Male. È andato in rovina in fretta: solo un anno fa se la spassava ancora, assaltava gli asteroidi dei bassifondi per sparare a canaglie e mutanti, e poi all'improvviso era finita. Le vecchie ferite gli hanno presentato il conto... E ne aveva parecchie, sia dai vecchi tempi sia più recenti, come quando qualcuno ha tentato di fargli la pelle... dodici anni fa, mi pare."
+
+### u067486
+"{mf|Signore|Signora} Fidelio, ve ne andate già? Temo che dovrete aspettare... aspettare, sì... Sono i Servizi della Stazione di Footfall, vedete, stanno eseguendo un'ispezione programmata dei sistemi di supporto vitale. Non ci vorrà molto! Un'ora, forse due..."
+
+### u067487
+"All'armi, ragazzi! Come ai vecchi tempi!"
+
+### u067488
+{n}Idira si volta verso di te e scuote la testa.{/n} "Sarebbe utile dare un'occhiata a quella scritta, ma se devo tirare a indovinare, non mi suona come un'influenza del {g|Encyclopedia:Warp}warp{/g}. Se qualcosa si fosse davvero insediato in quella casa, in dieci anni avrebbe fatto più scalpore. Tipo una dozzina di cadaveri."
+
+### u067489
+"Non ci siamo presentati..."
+
+### u067490
+"E cosa avresti sentito dire di me?"
+
+### u067491
+"Non sembri particolarmente affranto per la morte di tuo padre."
+
+### u067492
+"E quale sarebbe questa 'ingiustizia' che dovrei impedire?"
+
+### u067493
+"Grazie per aver parlato con me. Addio!"
+
+### u067494
+"Perché tuo padre ti ha diseredato?"
+
+### u067495
+"Chi è Fidelio?"
+
+### u067496
+"Che tipo di aiuto cerchi da me?"
+
+### u067497
+"Valuterò la tua offerta."
+
+### u067498
+"Non voglio averci niente a che fare."
+
+### u067499
+"Tuo padre ti ha mai parlato di pentimento?"
+
+### u067500
+"Di quali parole stai parlando?"
+
+### u067501
+"Di cosa è morto Bellardo?"
+
+### u067502
+{n}Un uomo di età indefinibile si volta verso di te e sospira rumorosamente. Dal fiato si capisce che è arrivato alla cerimonia dopo essersi concesso uno o due bicchieri di liquore forte.{/n}
+
+### u067503
+"Ah, {mf|Signore|Signora} Fidelio! Ho sentito parlare tanto di voi, e finalmente eccovi qui, in carne e ossa."
+
+### u067504
+"Vostra Signoria, dev'essere stata la provvidenza dell'{g|Encyclopedia:Emperor}Imperatore{/g} a condurvi qui! Di certo una figura grande come voi non permetterà che si compia una terribile ingiustizia!" {n}L'uomo fa una smorfia: sembra che l'ossequiosità non gli riesca facile.{/n}
+
+### u067505
+"Buon{mf|o signore|a signora} della Casata von Valancius! Sono davvero lieto di vedere almeno una persona perbene in questa folla..." {n}I suoi occhi si stringono.{/n} "Possiamo parlare? Il sostegno di un emissario di una dinastia illustre potrebbe essere di grande aiuto... per evitare che si compia una terribile ingiustizia."
+
+### u067506
+"Se fossi io quello disteso in quella cassa, nemmeno lui piangerebbe a dirotto," {n}sibila Kas con improvvisa acidità. Si prende un momento per calmarsi.{/n} "I sentimenti di un figlio sono complicati. Io non sono stato un buon figlio; il vecchio Denz non è stato un buon padre. Ma mi manca, a modo mio, sì. Mi è sempre sembrato senza tempo, non solo un sacco di carne e di brutte ambizioni come tutti noi."
+
+### u067507
+"Be'..." {n}Fa una smorfia.{/n} "Al legittimo erede viene rubata l'eredità. Il mio caro padre ha lasciato tutta la sua fortuna, fino all'ultima moneta, a un signor nessuno, un certo Fidelio, che non si è nemmeno degnato di venire al suo funerale. E io resto senza niente. Vi sembra giusto?"
+
+### u067508
+"Siete {mf|un nobile|una nobile}: voi, più di chiunque altro, dovete capire quanto questa situazione sia sbagliata e inaccettabile. Così ho pensato: forse potreste darmi una mano in qualche modo? In nome dell'amicizia con il futuro custode della fortuna dei Bellardo, cioè io. E in nome della giustizia, naturalmente!"
+
+### u067509
+"Come faccio a saperlo! Il vecchio non era tipo da confidenze. Fino all'annuncio del suo ultimo testamento, non avevo idea che mi avesse messo in castigo."
+
+### u067510
+"Non ne ho assolutamente idea. Zero. C'è un testamento, c'è un nome, e basta. Forse è un figlio illegittimo di mio padre, un fratello o una sorella che non sapevo di avere? Forse è una sgualdrina che ha rallegrato i suoi ultimi giorni? Ho l'impressione che quel vecchio pidocchio del Cappellano lo sappia, ha sempre saputo degli affari di mio padre più di tutti noi. Ma sta zitto."
+
+### u067511
+"Vostra Signoria, non mi sono mai trovato al cospetto di una persona del vostro rango, figuriamoci parlarle! Ma pensavo: forse potete imporre la vostra volontà nella faccenda dell'eredità? Sarebbe bello anche scoprire chi sia questo Fidelio, è vero, ma quella è una sciocchezza, solo la mia curiosità..."
+
+### u067512
+"Mettete una buona parola per me, suggerite di riesaminare il testamento un'altra volta... Siete pur sempre {mf|un emissario|un'emissaria} della Casata von Valancius, e Footfall rispetta quel nome. E, be', sarebbe bello anche scoprire chi è questo Fidelio."
+
+### u067513
+{n}Si inchina.{/n} "Vostra Signoria, grazie! Non so come ringraziarvi per la vostra gentilezza, ma ci proverò di sicuro, se tutto andrà bene!"
+
+### u067514
+"Molto obbligato! E sappiate che non ve ne pentirete. Se otterrò l'eredità, esprimerò la mia gratitudine in tutti i modi possibili."
+
+### u067515
+{n}Si affloscia un poco.{/n} "Allora è così... Non è proprio giornata. E quando mai lo è?"
+
+### u067516
+"Trasformare un rito funebre in un trampolino per i propri desideri avidi è blasfemia. Contestare la volontà dei morti è doppia blasfemia." {n}Gli occhi scuri di Kibellah sembrano bruciare l'uomo da parte a parte, costringendolo a deglutire nervosamente e a distogliere lo sguardo.{/n}
+
+### u067517
+"{mf|Mio caro|Mia cara} Fidelio, ve ne andate già? E non resterete nemmeno a vedere il vecchio bruciare, cioè, riposare in pace?"
+
+### u067518
+"Perdonatemi. Kas Bellardo. Ho l'onore di essere l'unico figlio del defunto." {n}Rivolge un saluto beffardo in direzione della bara.{/n}
+
+### u067519
+"Ah ah, ah ah ah, che spasso. Nemmeno il buon vecchio Cappellano mi dice di pentirmi: ha rinunciato a me da tempo. E il mio vecchio, ci aveva rinunciato molto prima!" {n}Ride nervosamente.{/n} "Aspetta... intendi quel 'pentimento'? Quegli stupidi fantasmi o quello che erano? Sono quasi certo che l'abbia fatto mio padre in persona, quel vecchio rimbambito, o forse era mia figlia che combinava guai. Da dove altro potrebbero essere venute quelle parole?"
+
+### u067520
+{n}Forza un sorriso.{/n} "Che eravate... molto in intimità con... ah, lasciamo perdere! Non intendevo niente. Tanto per fare conversazione."
+
+### u067521
+"Oh, non lo sapete? Di punto in bianco, su un muro di casa nostra cominciarono a comparire delle scritte, una sola parola: 'Repentance.' Grandi scarabocchi sgraziati, come la scrittura di un bambino. La prima comparve una decina d'anni fa. I domestici non facevano che bisbigliare che era opera dei fantasmi, uuuh! Ma per qualche motivo il vecchio non volle fare nulla, e disse anche a me di non farlo. La scritta in qualche modo lo divertiva. Ogni volta che vedeva 'Repentance' graffiato sul muro, si limitava a sogghignare."
+
+### u067522
+"Età. Stravizi. Vecchie ferite. Alla fine il mio vecchio era più {g|Encyclopedia:Augmentation}impianto{/g} che uomo. Soprattutto dopo l'attentato: avevano tentato di ucciderlo, vedete, circa dodici anni fa."
+
+### u067523
+"Che c'è, dovrei morire... al funerale di mio padre? Ah ah. No, non credo proprio!"
+
+### u067524
+"Repentance."
+
+### u067525
+"Cappellano? Ora è tutto chiaro per voi?"
+
+### u067526
+"Sei tu Fidelio?"
+
+### u067527
+"Può un servitore ereditare?"
+
+### u067528
+"Convoca tutti. È il momento di decidere la sorte del patrimonio di Bellardo, e quella degli eredi."
+
+### u067529
+{n}Se non sapessi cosa cercare, sarebbe facile non notare questo {g|Encyclopedia:Servitor}servitore{/g}, che un tempo potrebbe essere stato una donna. Gli impianti del servitore, la natura meccanica dei suoi movimenti, lo sguardo vuoto: c'è tutto. Ma...{/n}
+
+### u067530
+{n}Quella singola parola fa torcere il corpo del servitore in un violento spasmo. Qualcosa di simile a un singhiozzo o a un ringhio gli sale in gola, e le sue appendici meccaniche si contraggono in modo convulso.{/n}
+
+### u067531
+"I servitori sono i figliastri dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}. Così si dice nella mia terra. L'eredità non dovrebbe andare al genitore? Al suo rappresentante, per l'esattezza." {n}Jae riesce in qualche modo a lanciare a Pasqal un'occhiata insieme cospiratoria e supplichevole.{/n}
+
+### u067532
+"Non ho mai incontrato questa affermazione e non intendo avallarla. Le banalità poetiche, per quanto possano sembrare innocue, possono essere una falsa maschera per interpretazioni perverse dei Suoi precetti." {n}Il sintetizzatore {g|Encyclopedia:Vox}vox{/g} improvvisamente si guasta, facendo saltare il timbro di Pasqal come quello di un giullare beffardo.{/n}
+
+### u067533
+{n}L'alta figura del Cappellano compare accanto a te.{/n} "Dunque questo è il nostro erede! Giusto?" {n}Si ferma, riflette, poi fa cenno al funzionario dell'{g|Encyclopedia:AdeptusAdministratum}Administratum{/g} che ha tenuto il discorso di apertura di avvicinarsi.{/n} "L'inventario dei beni di Denz, cosa dice di questo servitore?"
+
+### u067534
+"Vediamo un po', vediamo... un momento... mmh, mmh... Sezione B17/40, 'Effetti personali del defunto', sottosezione 'Servitori'... Ecco!"
+
+### u067535
+"Credo di sì. Non vi avevo detto che Denz, dopo essere sopravvissuto all'attentato, mandò un'intera squadra di mercenari a dare la caccia alla donna che aveva tentato di ucciderlo? A quanto pare l'ha trovata." {n}Il Cappellano indica il servitore con un cenno del capo.{/n}
+
+### u067536
+{n}Silenzio. Le palpebre del servitore sbattono appena, lo sguardo perso nel vuoto. In fondo al suo unico occhio umano, scuro come un pozzo, sembra guizzare una scintilla... o è solo la tua immaginazione?{/n}
+
+### u067537
+"Le è stato permesso di conservare la memoria e un barlume di consapevolezza, quindi suppongo che la misteriosa scritta 'Repentance', sia qui nel libro sia a casa di Denz, sia opera sua. Resta da chiedersi, ovviamente, perché Denz abbia deciso di fare di un servitore il proprio erede. O è il suo ultimo e più crudele scherzo, oppure un goffissimo tentativo di fare ammenda sul letto di morte. Mi piacerebbe credere che sia il primo caso."
+
+### u067538
+"Oppure potremmo chiedere a {mf|Lord|Lady} von Valancius di risolvere la questione in nome della sua dinastia. Siamo a Footfall, dopotutto. Se un {g|Encyclopedia:RogueTrader}Rogue Trader{/g} dice che un servitore può ereditare, allora così sarà."
+
+### u067539
+"Oh, questa è un'unità rara, unica nel suo genere! Commissionata personalmente dal Maestro Bellardo dodici anni fa! La funzione principale di questo servitore è la pulizia della casa, delle camere da letto, dei vestiboli, dei bagni... Secondo i desideri del Maestro Bellardo, il suo libero arbitrio è stato completamente eradicato e le parti del cervello che regolavano le risposte di piacere sono state distrutte... ma in gran parte la sua memoria e la sua consapevolezza sono state preservate!"
+
+### u067540
+"Come desiderate, Vostra Signoria." {n}Il Cappellano ridacchia.{/n} "Questa sarà bella."
+
+### u067541
+"Q-questa faccenda richiede ulteriori indagini... Dovremo consultare codici, statuti, regolamenti, norme... degli ultimi quattrocento anni circa." {n}Il funzionario impallidisce un poco.{/n} "Ma troveremo la risposta prima o poi!"
+
+### u067542
+"Se questa non fosse un'adunata di feccia criminale, forse mi sforzerei di ricordare le leggi sull'eredità in vigore su Footfall. Ma visto che è quello che siete..." {n}Solomorne si scrocchia il collo.{/n} "...siete fuori fortuna."
+
+### u067543
+{n}Fluttuando verso il servitore, Eogunn passa il proprio auspex lungo tutta la sua struttura con sorprendente meticolosità, fissando da vicino i dati.{/n} "È effettivamente così. Gli schemi comportamentali di questo servitore si sono gravemente degradati a causa di un conflitto irriducibile tra coscienza e augmetiche. È imprudente lasciare una personalità in un involucro la cui volontà è interamente soppiantata dagli imperativi del sacro ferro."
+
+### u067544
+"Eppure una mente ristretta spesso sbarra la via della conoscenza. Rifletti su questo, stimato collega." {n}Jae rivolge al Manipulus un sorriso riconoscente.{/n}
+
+### u067545
+"Hai mai sentito il nome Fidelio?"
+
+### u067546
+"Chi sei e che ci fai qui?"
+
+### u067547
+"Dove sono i tuoi genitori?"
+
+### u067548
+"Qualcuno ha lasciato delle strane parole nel libro del ricordo, come se venissero da Fidelio. Non sei stata tu, per caso?"
+
+### u067549
+"Devo congedarmi. Addio."
+
+### u067550
+"Tuo nonno ti ha mai nominato la parola pentimento?"
+
+### u067551
+{n}La bambina vestita con abiti costosi alza verso di te il suo faccino triste e dice con voce seria,{/n} "Ciao."
+
+### u067552
+"Sì. Quella parola continuava a comparire in casa nostra, e nessuno sapeva chi la scrivesse. Quando ero piccola rendeva felice il nonno. Sorrideva sempre quando la vedeva! Ma poi... più tardi, quando ero un po' più grande e il nonno era già vecchio... non lo rendeva più felice. Era triste. Se ne stava lì seduto a fissare il nulla. E dopo, quando si è ammalato..." {n}Si ferma, i grandi occhi lucidi di lacrime.{/n}
+
+### u067553
+"Quando si è ammalato, la scritta ha cominciato a spaventarlo. Ne comparivano sempre di più. 'Repentance, repentance, repentance.' Anche in camera sua! Una volta ha indicato quella parola... e ha detto una cosa... una cosa molto strana... Sugli occhi morti. E sui cobra che vanno a scuola."
+

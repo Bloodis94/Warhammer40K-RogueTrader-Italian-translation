@@ -1,0 +1,841 @@
+### u046234
+{n}Heinrix e Aishara si scambiano un'occhiata, ma non dicono una parola. Non puoi fare a meno di notare la ruga che si forma sulla fronte dell'Interrogatore alla vista della sua collega.{/n}
+
+### u046235
+"State litigando di nuovo, signori? Che prevedibili." {n}Una donna in armatura pesante entra sul ponte di comando avvolta in un'aria di superiorità. Ricordi di averla già vista — al seguito di Xavier Calcazar quando irruppe nei tuoi appartamenti dopo la tua Magnae Accessio.{/n} "Grazie per non aver iniziato senza di me. Accolita Aishara, inviata dal Lord Inquisitore per facilitare l'operazione su Eufrates II. Il mio ruolo in questo consiglio di guerra è quello di consulente."
+
+### u046236
+{n}Le parole della donna annegano nel mal di testa che cresce: irritazione, disprezzo e delusione ti straziano la mente come una frusta a tre code, accompagnate da un centinaio di {d|Encyclopedia:Conviction_Heretical3OrMore}sussurri furiosi{/d}{/n}: "L'ora dell'alba è quasi giunta, e tu non hai compiuto la scelta giusta al bivio del destino! La Verità, nascosta ai servi ciechi dell'imperatore cadavere, avrebbe potuto illuminarti lo sguardo, concederti... una libertà senza confini. Ma ti sei {mf|dimostrato|dimostrata} debole. Non hai voluto combattere, non hai voluto ascoltare... Un bambino indegno della Verità. {mf|Un ragazzo cieco indegno|Una ragazza smarrita indegna} della libertà!" {n}La presenza aliena si dissolve dalla tua coscienza come fanghiglia vischiosa, non più disposta a sprecare le sue parole per uno come te.{/n}
+
+### u046237
+{n}Thorbald alza lo sguardo verso il tuo corvo psibernetico che volteggia sopra il ponte di comando. Il Lupo sorride apertamente.{/n} "Su Fenris, solo i più degni ottengono la compagnia di simili creature. Dato che hai la volontà di dominarne una, il tuo coraggio deve rivaleggiare con quello di un Sacerdote delle Rune. Noi due dovremmo intenderci."
+
+### u046238
+"Una svolta tragica che porta a un nuovo inizio. Possa il tuo cammino di Conoscenza, che si snoda tra le spine dell'entropia, essere benedetto dal Dio-Macchina."
+
+### u046239
+"Farei piovere cieli vendicativi sul nemico. Arerei la terra di Eufrates II con i proiettili, frantumerei le loro difese, raderei al suolo le torri fortificate, getterei la loro orda nel caos... E in quel turbine di furia guiderei il mio glorioso branco ad aprire una via di sangue per i kaerl d'ingranaggio."
+
+### u046240
+"Le nostre forze hanno conquistato modesti punti d'appoggio in superficie, ma non riescono ad assestare un colpo efficace al //quartier generale//centro operativo// dei profanatori nella Cattedrale delle Macchine, nel cuore del Manufactorum Sigma-S-13. Secondo i dati disponibili, è l'attuale ubicazione del //arcieretico//bersaglio da eliminare// — l'{g|Encyclopedia:DarkApostle}Apostolo Oscuro{/g} Uralon il Crudele."
+
+### u046241
+"Non mi sorprende affatto — l'Inquisizione, come sempre, si vergogna troppo delle proprie azioni oscure per rivelarle a combattenti onorevoli." {n}Thorbald sputa platealmente sul pavimento.{/n}
+
+### u046242
+"Leggi i cuori come se fossero incisi di rune, {name}." {n}Thorbald emette una risata beffarda.{/n} "È vero, i miei fratelli e io siamo stufi di questo prete-ingranaggio e dei suoi no. Per qualche ragione, si crede il nostro signore."
+
+### u046243
+"Concordo con questa affermazione. Dato che questa //campagna militare//sacra crociata purificatrice//procedura di eradicazione// si svolge su un mondo devoto al Dio-Macchina, l'Unità Opticon-22 rivendica il proprio status privilegiato nella scelta della strategia."
+
+### u046244
+"Pensavi che queste parole mi avrebbero riempito di paura? I Lupi sono qui perché vogliamo portare la morte agli eretici, non perché lo comanda il tuo Lord Inquisitore."
+
+### u046245
+"Richiesta respinta. All'Unità Xavier Calcazar manca l'autorità per decidere le sorti di un sacro mondo dell'Adeptus Mechanicus."
+
+### u046246
+Aishara
+
+### u046247
+Skitarius corrotto
+
+### u046248
+Axiomantha
+
+### u046249
+Halbrandt
+
+### u046250
+Doomscream
+
+### u046251
+Space Wolf
+
+### u046252
+Thorbald Ironhide
+
+### u046253
+"Cosa cerca Uralon? Cosa sta cercando di riportare alla luce?"
+
+### u046254
+"Ulfar, come sei arrivato fin qui?"
+
+### u046255
+"Me ne occuperò io."
+
+### u046256
+"Ulfar, siamo partiti per dare la caccia alla bestia."
+
+### u046257
+"Hai già incontrato Uralon, in passato?"
+
+### u046258
+"Dietro a chi hai mandato i tuoi fratelli?"
+
+### u046259
+"Che razza di stregoneria stava tentando là dietro?"
+
+### u046260
+"Non approvo questo piano."
+
+### u046261
+"Come faccio a raggiungere Uralon?"
+
+### u046262
+"Chi o cosa sarebbe questo Doomscream?"
+
+### u046263
+"Se Ulfar uccide Doomscream, sarà la prova che il Baleful Howl è vivo?"
+
+### u046264
+"Compirò ciò che è stato ordinato."
+
+### u046265
+"Non azzardarti a darmi ordini!"
+
+### u046266
+"Ulfar, il mio gruppo è già al completo."
+
+### u046267
+"Per l'Imperatore! Badate a voi là fuori."
+
+### u046268
+"Ci attende una gloriosa battaglia! Occhio al traditore dalla lingua d'argento, perché è vecchio, astuto e forte. Ma, per il Padre di Tutti, oggi i Lupi verseranno fiumi del suo sangue!" {n}L'orrenda esibizione di empia stregoneria sembra aver riempito Thorbald di gioia e di attesa, più che di paura.{/n}
+
+### u046269
+"Non chiedere, perché nemmeno io lo so. Calcazar tratta i suoi alleati come un coltivatore di funghi fenrisiano tratta i suoi raccolti — li tiene al buio e li nutre di merda. Non ha ritenuto opportuno illuminarci sui segreti di Eufrates II, ma poco importa. Qualunque cosa sia, non dobbiamo permettere che quel disgustoso malefico la reclami."
+
+### u046270
+"Halbrandt, tu attieniti al piano originale! Prendi due fratelli e dai la caccia a Doomscream. I nostri esploratori riferiscono che si è rifugiato qui, in queste profondità, dopo essere stato sconfitto in battaglia sulla via d'accesso alla Cattedrale delle Macchine. Voglio riportare a Fenris l'empia latta che contiene il suo cervello traditore. Buona caccia!"
+
+### u046271
+"Sei {mf|coraggioso|coraggiosa} e non ti scoraggi facilmente! Bene! Allora trova un modo per raggiungere la piattaforma di scavo mentre diamo allo stregone rognoso qualcosa di cui preoccuparsi." {n}Thorbald si scambia un'occhiata con i suoi guerrieri, e giureresti che sorridano tutti, in attesa, dentro i loro elmi.{/n}
+
+### u046272
+"Muoviti con cautela quando lo affronterai, giovane {mf|fratello|sorella}. Sì, la bestia è folle e orrenda, ma è anche potente, antica e ha l'empio patrocinio dell'Arcinemico. I suoi odiosi sermoni abbondano di malefici e la sua arma ha stroncato centinaia di vite durante l'assalto. L'abbiamo ferito gravemente, è vero, ma non abbiamo visto l'ultima di questo nemico."
+
+### u046273
+"No, altrimenti la sua testa non sarebbe ancora attaccata al collo. Ma il mio branco ha sentito parlare a lungo della sua forza e delle sue ignominiose malefatte. Le prove dei suoi misfatti si vedono in tutta la Distesa di Koronus, come orme d'orso sulla neve fresca. Lo abbiamo braccato in cerca dell'occasione di serrargli le fauci attorno alla gola, ma il vigliacco sa bene come nascondersi dietro le spalle dei suoi lacchè eretici."
+
+### u046274
+"Voleva risvegliare il behemoth scavatore. Se vuoi sapere cosa penso, Uralon sta cercando qualcosa laggiù, nelle sale più profonde del Manufactorum. I miei guerrieri hanno distrutto la fonte di energia e ridotto al silenzio la trivella, ma l'abominevole malefico ha comunque trovato il modo di rianimarla con le sue empie magie."
+
+### u046275
+"Il nostro nemico mortale si annida in questa tana di eresia. Un Helbrute di nome Doomscream, un traditore antico e feroce. Ci sbarrò la strada mentre ci avvicinavamo alla Cattedrale delle Macchine e abbatté centinaia di valorosi campioni. Una ferita terribile l'ha colpito, ma la bestia è sfuggita comunque alla nostra presa. È ora di metterlo alle strette e porre fine alla sua vile esistenza!"
+
+### u046276
+"Vedremo, giovane {mf|Lupo|Lupa}. Vedremo."
+
+### u046277
+"Sta a te fiutarlo, {name}! Forse c'è un modo per aggirarlo. Ti daremo il tempo necessario per cercare."
+
+### u046278
+"Heidur Rus, {name}! Fenrys hjolda!"
+
+### u046279
+"Allora, che dobbiamo fare, {name}? Non spetta a noi piagnucolare perché il Padre di Tutti ci ha mandato una battaglia diversa da quella che vedevamo nei nostri dolci sogni."
+
+### u046280
+"Non ti deluderemo!" {n}L'entusiasta Space Marine lancia un ululato affamato.{/n}
+"Fieri avanzano i cacciatori cupi,
+sulle tracce di una bestia d'acciaio e di sangue,
+zanne scoperte e aguzze, assetate di preda.
+Che la gloria ammanti il loro possente passo!"
+
+### u046281
+"Un eretico vecchio e feroce, un Helbrute le cui vene ribollono di rabbia velenosa e ferocia. Il suo corpo e la sua mente sono stati talmente distorti dai Poteri Rovinosi che la sua stessa esistenza è un affronto ai guerrieri del Padre di Tutti!"
+
+### u046282
+"Allora andrai con Halbrandt, Ulfar. Se la fortuna ti assiste in combattimento, sarà testimone della tua impresa, e in caso contrario ti aiuterà in battaglia."
+
+### u046283
+"E me ne pento da allora. Fratello Ulfar ha già marciato verso la morte una dozzina di volte, e solo l'occhio del Padre di Tutti gli ha evitato una fine orrenda." {n}Thorbald sogghigna in segno di approvazione.{/n}
+
+### u046284
+"Cerchi di superarmi nella caccia, Ulfar Everlost? Nessuno è più veloce o più letale degli Stormbiters!"
+
+### u046285
+"Se accadrà, sarò il primo ad alzare una coppa al nome fiero di quel feroce branco."
+
+### u046286
+{n}Senti un ghigno sinistro sbocciare da qualche parte oltre i confini della tua ragione. La voce familiare si intromette di nuovo nel filo dei tuoi pensieri.{/n} "Il sangue verrà versato, certo, ma il guerriero si sbaglia sulla sua origine. Lascia che si goda quella menzogna nata dall'ignoranza. Lascia che creda che l'Apostolo Oscuro cadrà per mano sua e tua. La mia ora si avvicina. Apparirò ancora, un'ultima volta, quando verrà il momento di far parlare la tua bocca con la voce della Verità."
+
+### u046287
+"Bella cosa da sentire! Lo stregone cadrà, perché non può far altro che cadere." {n}Thorbald annuisce con approvazione, ignaro che non era affatto a lui che stavi parlando.{/n}
+
+### u046288
+"Non lasciare che l'ira abbia la meglio su di te, guerriero. Non intendevo offendere il tuo onore, ma metterti in guardia." {n}Thorbald aggrotta la fronte, ignaro che non era affatto a lui che stavi parlando.{/n}
+
+### u046289
+{n}I pensieri presi in prestito svaniscono dalla tua mente. Sai che le cose di cui parlavano sono vere. Torneranno un'ultima volta al bivio del destino, dove dovrai compiere la scelta che deciderà ogni cosa.{/n}
+
+### u046290
+"Allora, {mf|pronto|pronta} a dare la caccia a qualche eretico?"
+
+### u046291
+"Un'altra blasfemia. Ormai sono troppe per contarle." {n}La voce secca di Pasqal stride come il cingolo di un veicolo pesante. La sua visiera si illumina di un verde accecante, poi di blu, e da ogni parte senti un gemito metallico. È come se il Manufactorum stesso venisse torturato.{/n}
+
+### u046292
+"Stregoneria maligna e blasfema, che soppianta la pura corrente della Forza Motrice." {n}Scintille statiche furiose guizzano sulla barba di Eogunn, e senti un gemito metallico echeggiare da ogni parte. Come se le arcate stesse del Manufactorum si unissero al Manipulus, levando un lamento carico di furia e angoscia.{/n}
+
+### u046293
+{n}L'espressione di Thorbald si oscura.{/n} "Il mio cuore aveva poco rispetto per Opticon-22, ma ha combattuto Doomscream con onore ed è caduto con coraggio. Era un combattente degno. Il suo assassino dovrà pagare un tributo di sangue!"
+
+### u046294
+"Doomscream? Si nasconde in questa tana? Fatti da parte, Halbrandt! Sarò io a ucciderlo! Reclamo questa preda per il Baleful Howl!"
+
+### u046295
+"Doomscream? Si nasconde in questa tana? Voglio ucciderlo per la gloria del mio branco! Aett-Vater, accoglimi nella tua banda! Daremo la caccia a questa bestia e la abbatteremo prima di Halbrandt!"
+
+### u046296
+"Che la fortuna sia con voi, guerrieri. Heidur Rus, {name}!"
+
+### u046297
+"Non preoccuparti per il Rogue Trader, Thorbald. L'ho {mf|visto|vista} in azione — è l'eretico che farebbe bene a guardarsi dall'incontrar{mf|lo|la}."
+
+### u046298
+"Il generoso Thorbald mi ha onorato con un posto a bordo del suo drekkar da sbarco, perché il Baleful Howl potesse squarciare i cieli sopra Eufrates II."
+
+### u046299
+{n}Ulfar ride di cuore.{/n} "Allora abbiamo del lavoro da fare! Non indugiare, Aett-Vater, e forse riuscirai a raggiungerci!"
+
+### u046300
+"Pronto? Qualcuno mi sente?"
+
+### u046301
+[Riponi il ricevitore del vox-trasmettitore]
+
+### u046302
+"Uralon è morto."
+
+### u046303
+{n}Il vox-trasmettitore non produce altro che statica.{/n}
+
+### u046304
+"Controllo ascensore alla squadra d'assalto. Rispondete, squadra d'assalto."
+
+### u046305
+{n}La voce di Aishara si fa strada tra la statica:{/n} "Vi riceviamo, squadra d'assalto. Qui è il controllo ascensore. Riferite il vostro stato."
+
+### u046306
+{n}Aishara risponde dopo una breve pausa,{/n} "Ricevuto, squadra d'assalto. Inizio l'estrazione del carico prioritario."
+
+### u046307
+"Sparisci, stregone. Qui abbiamo finito."
+
+### u046308
+[Fai l'occhiolino a Kunrad con fare beffardo]
+
+### u046309
+[Guarda gli Space Wolf caduti]
+
+### u046310
+Dichiarato all'Edge of Daybreak il desiderio di assaporare la saggezza dell'Immaterium.
+
+### u046311
+"Edge of Daybreak, non cerco lo scontro con te. Desidero bere alla saggezza dell'Immaterium!"
+
+### u046312
+"Fatti pure crescere quanti occhi vuoi, Voigtvir — te li strapperò tutti!"
+
+### u046313
+"L'Imperatore protegge! Morte agli eretici!"
+
+### u046314
+"Propongo una tregua. Dammi Voigtvir e metà del tesoro che cerchi, e ti lascerò andare via con la vita."
+
+### u046315
+"Perché non sei stato resuscitato prima?"
+
+### u046316
+"Io sono il Rogue Trader {name} von Valancius, e nessuno signoreggerà sui miei sudditi tranne me."
+
+### u046317
+"Conosco quella spada. Le sue schegge sono state usate in due attentati alla mia vita. Falliti, se posso aggiungere."
+
+### u046318
+"Kunrad, combatti! Non vedi che sei stato ingannato e usato?"
+
+### u046319
+"Bene, questo è interessante. Avanti, Kunrad. Fai strada a un avversario che meriti il mio tempo. Sono {mf|pronto|pronta}!"
+
+### u046320
+[Ridi] "Povero Kunrad. Theodora ti disprezzava, e il tuo nuovo padrone ti ha squartato come un grox."
+
+### u046321
+[Pugnala Kunrad con la lama senza dire nulla]
+
+### u046322
+"Quali segreti puoi rivelarmi?"
+
+### u046323
+"Ho ucciso migliaia dei tuoi servitori. Non desideri vendicarli?"
+
+### u046324
+"Ti giuro fedeltà, Maestro. Che il tuo sentiero mi guidi verso la Verità."
+
+### u046325
+[Attacca] "Sarò {mf|un campione|una campionessa} — ho sopportato troppo per chinare il capo ora!"
+
+### u046326
+[Attacca] "Non ci sono padroni all'infuori di me. Non mi inchinerò davanti a te, demone!"
+
+### u046327
+"Sarai il prossimo se osi mettermi i bastoni tra le ruote."
+
+### u046328
+"Ho ucciso colui che eri tanto ansioso di evocare — l'ho ucciso sotto i tuoi occhi e non sei nemmeno intervenuto, non è vero?"
+
+### u046329
+"E adesso?"
+
+### u046330
+"Non sono {mf|il servo|la serva} del tuo signore e di certo non obbedirò a un miserabile come te! Qui non verrà versato altro sangue che il tuo."
+
+### u046331
+"Laria Voigtvir ti manda i suoi saluti. Se potesse vedere quanto sei patetico, Kunrad, avrebbe posto fine lei stessa alla stirpe, laggiù su Dargonus."
+
+### u046332
+[Uccidi Kunrad] "Compi il tuo destino. Diventa uno strumento dell'Edge of Daybreak!"
+
+### u046333
+[Pugnala Kunrad con la lama] "Regna nell'abisso, bastardo."
+
+### u046334
+[Chiama il tuo corvo psibernetico] "Piegherò il tuo potere alla mia volontà. Ho già pronto anche un recipiente adatto."
+
+### u046335
+"Ci incontriamo finalmente, Edge of Daybreak. Ho sentito parlare molto di te."
+
+### u046336
+"Per l'Imperatore e l'Umanità! Ti ricaccerò nel tuo empio warp!"
+
+### u046337
+Pronunciate le parole della Verità a Uralon su Eufrates II.
+
+### u046338
+"Sameth."
+
+### u046339
+"L'Edge of Daybreak. Ho patito molto dolore per atti compiuti in devozione al tuo nome."
+
+### u046340
+"Versare il sangue di questi deboli sconfitti? Solo questo e nient'altro? Farò volentieri questo sacrificio irrisorio! Devo ammettere che mi aspettavo di più dagli Angeli dell'Imperatore."
+
+### u046341
+"Il tuo spirito era legato nelle schegge di questa lama?"
+
+### u046342
+"La mia vittoria era predestinata, perché eravate in inferiorità numerica. Siete un pugno di sciocchi che adorano una fallacia morta. Io ho dalla mia i Quattro Grandi. Che possano banchettare con il sangue che sgorga dalle vene dei pagani!"
+
+### u046343
+"Sei in ritardo, {name}. I tuoi alleati sono caduti. Forse è ora di ammettere la sconfitta? Se lo fai, ti prometto... no, non ti prometterò nulla. Qualunque cosa tu scelga, morirai di una morte lenta e atroce."
+
+### u046344
+{n}Il sussurro suadente sboccia di nuovo nella tua testa: l'eco di parole mai pronunciate eppure antiche quanto il tempo.{/n} "È giunto il momento che la Verità sia rivelata, {mf|Figlio|Figlia} dell'Alba. Pronuncia il nome finale per compiere ciò che fu predetto: 'Sameth.' Attenderò il nostro incontro."
+
+### u046345
+{n}Quasi soffocato da frustrazione, rabbia e confusione, Kunrad si limita a serrare la mascella fino a farla scricchiolare e ti fulmina con lo sguardo senza osare sfidare lo stregone.{/n}
+
+### u046346
+{n}Le ferite lasciate dai colpi di Uralon sono gravi, ma gli Angeli dell'Imperatore sono noti per la loro resistenza. Sei {mf|arrivato|arrivata} appena in tempo per impedire all'empio stregone di finirli.{/n}
+
+### u046347
+"È il nome con cui mi chiamano. Un nome antico, immaginato da una razza antica. Mi temevano, ma non riuscivano comunque a resistere al richiamo dei miei segreti."
+
+### u046348
+"Vediamo se sarai altrettanto insolente quando ti taglierò la gola e laverò il tuo prezioso Mandato nel tuo sangue!"
+
+### u046349
+"Un sacrificio per i fedeli!"
+
+### u046350
+"Con la morte non si tratta — ci si inchina davanti a essa!"
+
+### u046351
+{n}Uralon indietreggia barcollando per il colpo. I tuoi attacchi hanno ammaccato la sua armatura rosso sangue, e il suo volto è contratto in una smorfia di dolore. Volge i suoi occhi folli verso Voigtvir, che si contorce nel proprio sangue.{/n} "Fratello Crepuscolo, l'ora che ti era stata promessa è giunta. L'Edge of Daybreak ti concede l'onore di servire come sua arma. Resta ammirato davanti al tuo alto destino!"
+
+### u046352
+{n}Gli occhi turchesi di Voigtvir si spalancano in un misto di comprensione e terrore.{/n} "Cosa? Adesso? Ma io... io non sono pronto! Non è quello che avevi promesso! Avevi detto che avrei regnato!"
+
+### u046353
+{n}Uralon estrae una scheggia di lama che brilla di una luce innaturale.{/n} "Le vie cambiano, Fratello Crepuscolo, e nulla dura nella mano del nostro signore. Ma regnerai davvero — come recipiente per il tuo padrone." {n}La lama squarcia il cappotto e il petto di Voigtvir, affondando nella carne e trovando la strada verso il cuore. I glifi incisi sulla sua pelle dal suo spietato mentore cominciano a brillare così intensamente che li vedi distintamente attraverso i vestiti.{/n}
+
+### u046354
+"Curioso... Tuttavia, il tuo sentiero è tessuto in un altro modo. Guardo nel futuro e non ti vedo tra i miei ranghi. Il che significa che non so che farmene di te."
+
+### u046355
+"Non ho mentito, Fratello Crepuscolo: l'ora che ti era stata promessa è giunta. Hai davvero una parte speciale da recitare." {n}L'Apostolo Oscuro volge lo sguardo verso di te e sorride. Senti un pulsare nel petto mentre la volontà oscura che hai assorbito insieme alle schegge della lama si protende verso il cuore di Kunrad.{/n}
+
+### u046356
+"Questa sarà l'ultima. Ciò che nella tua ignoranza osi chiamare schegge è in verità una reliquia triplice, la dimora del grande spirito dell'Edge of Daybreak, colui che serve il padrone in persona, il Mutatore delle Vie. Non meriti di contemplare il suo volto... ma lo farai."
+
+### u046357
+"E sia... purché io... mi vendichi di te!" {n}Voigtvir si piega in due, ma la sua voce ribolle ancora di malizia.{/n}
+
+### u046358
+"Ti... odio!" {n}A Voigtvir costa uno sforzo colossale spingere queste ultime parole d'odio attraverso la trachea recisa.{/n}
+
+### u046359
+{n}Le perniciose energie del warp penetrano nel suo corpo, facendolo brillare e tremolare. Con un grido folle di dolore ed esultanza, Kunrad Voigtvir cessa di esistere, e una possente figura alata si leva dai suoi resti insanguinati.{/n}
+
+### u046360
+"Segreti che vengono rivelati solo a pochi eletti che mi hanno giurato fedeltà come loro padrone. Le parole segrete pronunciate all'alba dei tempi che portano morte e rovina a chiunque le oda. I veri nomi di divinità dimenticate che evocheranno ombre assetate di sangue al tuo servizio. Conoscenze dimenticate che possono creare un impero o ridurne uno in polvere. Tutto questo può essere tuo se mi riconosci come tuo padrone e percorri la via che ti mostro."
+
+### u046361
+"Hanno semplicemente adempiuto al loro scopo. Ho previsto ogni morte, ogni ultimo respiro, ogni ferita spalancata. Tutto quell'oceano di sangue è stato versato per mia volontà, per amore di questo momento, perché io mi incarnassi e tu giungessi qui a prendere posto al mio fianco, {mf|Figlio|Figlia} dell'Alba."
+
+### u046362
+"E sia! Accetto il tuo giuramento, {mf|Figlio|Figlia} dell'Alba. La tua via di servizio e grandezza si stende chiara davanti ai miei occhi, ma perché il Tessitore dei Destini scelga proprio quel sentiero per il tuo futuro, non devi ancora rivelare la tua fedeltà. Crea il tuo primo segreto. Nascondi che sei stato tu a versare il sangue dei falsi credenti. Menti e lascia che siano i servi caduti degli Dei Oscuri ad attribuirsi il merito delle tue azioni. Conquista la fama di {mf|campione|campionessa}, il flagello dell'eresia che ha schiacciato i disprezzabili apostati. E per ora, permetti agli agenti del Trono d'Oro di portare a termine le loro macchinazioni clandestine. Alla fine raccoglierai ciò che hanno seminato e il tuo potere non conoscerà limiti."
+
+### u046363
+{n}Il demone ride di nuovo con voce rauca.{/n} "E sia, {mf|Figlio|Figlia} dell'Alba! Rivela la tua essenza e prova a misurarti con la volontà del Tessitore dei Destini!"
+
+### u046364
+"Ti contemplo, Edge of Daybreak! Entra nel regno transitorio della realtà e governalo. Il {mf|Figlio|Figlia} dell'Alba ha versato il sangue di miscredenti e sciocchi affinché tu possa incarnarti proprio qui e proprio ora. Gloria alla Verità!"
+
+### u046365
+"Ci separeremo per ora, {mf|campione|campionessa}. Mi nasconderò nelle segrete di Eufrates, così i nostri nemici penseranno che sono caduto per mano tua. Ma riemergerò. Presto. Molto presto."
+
+### u046366
+"{mf|Figlio|Figlia} dell'Alba, il tuo potere... è indubbio. La tua via verso la grandezza è davanti a te. Ma devi sapere che, perché il Tessitore dei Destini scelga proprio quel sentiero per te, non devi ancora rivelare la tua fedeltà agli Dei Oscuri. Crea il tuo primo segreto. Nascondi che sei stato tu a versare il sangue dei falsi credenti. Menti e lascia che siano i servi caduti degli Dei Oscuri ad attribuirsi il merito delle tue azioni. Conquista la fama di {mf|campione|campionessa}, il flagello dell'eresia che ha schiacciato i disprezzabili apostati. E per ora, permetti agli agenti del Trono d'Oro di portare a termine le loro macchinazioni clandestine. Alla fine raccoglierai ciò che hanno seminato e il tuo potere non conoscerà limiti."
+
+### u046367
+{n}Il demone ti fa cenno con la mano artigliata.{/n} "Il mio tempo nello spazio reale sta per finire. Avvicinati e reclama la tua ricompensa."
+
+### u046368
+{n}Nell'ultimo respiro del demone, parole blasfeme strisciano nelle tue orecchie, scivolano lungo il margine della tua mente e affondano per sempre i denti nel tuo cuore. Il sangue nelle tue vene inizia a bollire mentre la corruzione ne sale come vapore, riversandosi dalla tua bocca e dai tuoi occhi, fondendosi con il guscio dissolto del demone caduto... e assumendo una nuova forma. Stringi una reliquia del Caos, intrisa della rabbia di Vog'Haik'Sameth e plasmata dalla tua stessa anima.{/n}
+
+### u046369
+"Sono in soggezione davanti a te, {mf|campione|campionessa}. Sopraffare il padrone... Nessun misero mortale avrebbe potuto farlo. La Verità Primordiale stessa parla attraverso le tue gesta."
+
+### u046370
+"Il padrone ti stava mettendo alla prova; non avevo alcun diritto di interferire. Ha contemplato ogni sentiero e ha detto egli stesso che i Quattro Grandi avevano benedetto ciascuno di quei sentieri; dunque le tue gesta hanno la benedizione della Verità. Sei {mf|un campione|una campionessa} e non oso oppormi alla tua volontà."
+
+### u046371
+"Sono qui per aiutarti lungo la tua nuova via, {mf|campione|campionessa}, non per sbarrartela. Mi sarà un piacere vederti percorrerla e cospargerla dei cadaveri di sciocchi ciechi e falsi credenti."
+
+### u046372
+"Ricorda le ultime parole del padrone. Nascondi la verità su ciò che è accaduto qui, lascia che i servi del falso dio portino a termine il loro piano, e riscuoti ciò che ti spetta."
+
+### u046373
+{n}Un'amara delusione è visibile negli occhi dello stregone.{/n} "Rifiuti il tuo destino in nome del tuo inutile orgoglio? Che peccato. Vattene, allora! Che i pii ricevano il dono del sacrificio!"
+
+### u046374
+"Il tempo ha valore solo per creature di breve vita come te. Ricordalo bene fino al termine della tua esistenza transitoria: tutto procede secondo i piani! Tutto procede sempre secondo il mio piano..."
+
+### u046375
+{n}Un ruggito feroce ti interrompe. Superando le gravi ferite, gli Space Wolf — tutti quanti — si rialzano in piedi. Sono guidati da Thorbald, che ti guarda come se fossi un pezzo di carne marcia ambulante. Il suo volto sporco di sangue è contorto in una smorfia di furioso disprezzo.{/n}
+
+### u046376
+"In effetti ero imprigionato. Le anime danzanti, gli Aeldari, si sollevarono contro di me, mi attirarono in una trappola e incatenarono il mio spirito nella forma di quest'arma. Per eoni sono rimasto in questa prigione, imponendo sottilmente la mia volontà al vostro mondo miserabile e refrattario. Ma anche un brandello del mio potere è bastato a tentare innumerevoli anime. Eccomi ora in tutta la mia gloria."
+
+### u046377
+"Non puoi comprendere quanto patetiche e sciocche suonino le tue minacce, creatura effimera. Io sono un mistero eterno, mentre tu sei una scintilla evanescente. Svanisci."
+
+### u046378
+"Il ricordo di te scomparirà prima dell'eco del tuo insipido nome. Non ho più bisogno di te. Sparisci."
+
+### u046379
+"Non perdonerò. Lurido pezzo di fekke bugiardo! Osi deridere i figli di Fenris? Osi fare discorsi sediziosi e insultare il Padre di Tutti? Non perdonerò! Dici di volere il nostro sangue? Allora vieni a prenderlo!" {n}Il capo degli Space Wolf lancia un lungo ululato.{/n}
+
+### u046380
+{n}Lo stregone tocca un empio amuleto e la foschia di un campo protettivo avvolge lui e Kunrad.{/n} "{mf|Figlio|Figlia} dell'Alba, non interferirò, perché questo è un sacrificio che devi compiere da {mf|solo|sola}. Compi il tuo destino! Che i pii ricevano il dono del sacrificio!"
+
+### u046381
+{n}L'ultimo degli Space Wolf è abbattuto. Coraggio e furia non bastano a sconfiggere il fato, dai cui fili è intessuto il tuo scopo. Il sangue versato degli Space Marine ricopre il campo di battaglia, confluendo lentamente a formare empi disegni e blasfeme rune.{/n}
+
+### u046382
+"È stato un sacrificio degno, {mf|Figlio|Figlia} dell'Alba. Il padrone ne sarà compiaciuto. Ora compi il passo finale e intreccia per sempre il tuo filo nell'ornamento dell'ineluttabile futuro."
+
+### u046383
+"Spiegati, Uralon! Non è questo che avevi promesso! Avevi detto che avrei regnato supremo! E ora accogli il mio nemico a braccia aperte?"
+
+### u046384
+"Addio, {mf|Figlio|Figlia} dell'Alba. Osserverò le tue gesta." {n}Il demone agita la mano e si apre un portale. L'Edge of Daybreak vi scompare dentro.{/n}
+
+### u046385
+{n}I glifi incisi sul corpo di Voigtvir dal suo crudele mentore brillano in modo accecante attraverso i vestiti.{/n} "Ti... odio!" {n}Con uno sforzo terribile, spreme le sue furiose ultime parole dalla trachea piena di sangue.{/n}
+
+### u046386
+"Hai dimostrato la tua lealtà, e perciò d'ora in poi sarai il mio nuovo {mf|profeta|profetessa}, {mf|Figlio|Figlia} dell'Alba! Ora giurami fedeltà, a me, Vog'Haik'Sameth, mentre tu e il tuo culto vi inchinate davanti a me. Possiederai segreti e conoscenze in equilibrio sull'orlo dell'oblio, sui margini di futuri che non si sono mai avverati. Ma c'è un altro sentiero che vedo. Uno in cui divento un'arma devastante nelle mani del campione del Caos. Devi sapere che entrambi i sentieri — quello in cui i nostri fili si intrecciano e quello in cui il mio viene reciso — ti condurranno alla grandezza e glorificheranno la Verità Primordiale. La scelta è tua."
+
+### u046387
+{n}Abelard riassesta la presa sulla sua arma mentre osserva la mostruosa creatura.{/n} "Perché ho la sensazione di aver già visto, no, non visto ma incontrato questa progenie del warp?" {n}Il vecchio ufficiale aggrotta la fronte, come se cercasse di estrarre un ostinato ricordo dalle profondità della memoria.{/n}
+
+### u046388
+{n}Idira chiude gli occhi con forza... e quando li riapre, il sangue le scorre lungo le guance.{/n} "Io... vedo... luce..."
+
+### u046389
+{n}Marazhai stringe più forte la sua arma mentre osserva la mostruosità che ha davanti. Paura repressa e cupa ammirazione si mescolano nei suoi occhi.{/n} "Avanti, {name}... cosa stiamo aspettando?"
+
+### u046390
+"Edge... of Daybreak... ti contemplo..." {n}Uralon raccoglie la forza sufficiente per un debole sorriso vendicativo.{/n} "Entra nelle sale desolate della realtà e reclamale. Ho dato tutto ciò che avevo in tuo nome. Salve... Verità..." {n}Il suo corpo gigantesco si affloscia, il suo volto conserva per sempre una malvagia espressione di trionfo.{/n}
+
+### u046391
+{n}Il volto di Heinrix si contrae per un istante. Si stringe il petto come se avesse un infarto... ma, un attimo dopo, si raddrizza e fissa il demone con cupa determinazione.{/n}
+
+### u046392
+{n}Il possente essere è sconfitto. Le energie del warp che sgorgano dal suo guscio in disfacimento ti investono come venti immondi. Vog'Haik'Sameth solleva la testa mostruosa e fissa lo sguardo su di te.{/n}
+
+### u046393
+{n}Il demone ride di nuovo con voce rauca.{/n} "Un vero {mf|Figlio|Figlia} dell'Alba affamat{mf|o|a} di potere infinito. Misurati con me, e l'esito deciderà se cadrai davanti a ciò che porta la volontà del Tessitore dei Destini — oppure ne farai il tuo servitore."
+
+### u046394
+{n}Il corvo psibernetico aleggia sulla forma mutevole dell'entità, assorbendo una parte della sua essenza. Gli occhi neri del corvo lampeggiano di azzurro e oro, e dal suo becco esce un'ultima esplosione di risa nella voce del demone imprigionato.{/n}
+
+### u046395
+{n}Gli occhi di Kunrad si spalancano per lo stupore.{/n} "Cosa? Come fai... No, non importa adesso!"
+
+### u046396
+"La mia prigionia finisce. Mi sono manifestato. Rallegratevi, mortali testimoni, perché sono venuto a dominarvi." {n}Il demone emette una risata roca, gracchiante.{/n} "Vi avevo detto che avreste accolto con gioia il mio ritorno nella realtà."
+
+### u046397
+{n}Uralon ti brucia con uno sguardo funesto.{/n} "Pensavi che recitare {d|Encyclopedia:Ch4_Eufrates_UralonFaithDamaged}vane preghiere a un guscio avvizzito{/d} potesse turbare il corso della mia magia? Per questo sacrilegio sarai {mf|epurato|epurata} duramente."
+
+### u046398
+"Cosa? Cosa significa tutto questo? Io—"
+
+### u046399
+{n}L'ira negli occhi di Uralon lascia spazio alla sorpresa, poi al trionfo.{/n} "Pronunci il nome della Terza Alba. Sei venut{mf|o|a} da me non come schiav{mf|o|a} dell'imperatore cadavere, ma come {mf|servitore|serva} del nostro padrone. Se è così, non ti combatterò, e anzi ti permetterò di condividere il grande onore di versare il sangue dei falsi credenti in un rituale sacro!"
+
+### u046400
+"Silenzio, Fratello Crepuscolo. Mi rivolgevo a {mf|colui|colei} che cammina sul filo dell'Alba." {n}Uralon si rivolge di nuovo a te.{/n} "Accetterai l'onore e verserai il sangue degli sciocchi che credono ciecamente in un falso dio?"
+
+### u046401
+"Il mio nome risuonerà ancora più forte ora che sono incarnato. Ogni segreto, ogni granello di conoscenza in questa pietosa realtà porterà con sé un'eco del mio nome!"
+
+### u046402
+Interrotta la stregoneria di Uralon con la litania di purificazione su Eufrates II.
+
+### u046403
+[Pronuncia la litania di purificazione per soffocare l'empietà delle parole stregonesche]
+
+### u046404
+[Osserva l'oscura stregoneria al lavoro]
+
+### u046405
+"In nome del Dio-Imperatore, sono qui come tuo giudice e carnefice!"
+
+### u046406
+[Annusa il fetore che aleggia nell'aria] "Non avrei mai pensato che la stregoneria potesse puzzare così terribilmente."
+
+### u046407
+"Thorbald, annuncia il mio arrivo."
+
+### u046408
+[Rivolgiti allo stregone] "Hai un nome? O devo chiamarti semplicemente 'l'eretico'?"
+
+### u046409
+"Devi essere stato occupato in qualcosa di profondamente importante, se non ti sei accorto che stavo annientando il tuo esercito."
+
+### u046410
+"E quale sarebbe questo tesoro che brami così disperatamente?"
+
+### u046411
+"Come vuoi. Ti ucciderò senza curarmi del perché sei venuto qui."
+
+### u046412
+"Se sei così sicuro della tua vittoria, a cosa servono allora questi segreti?"
+
+### u046413
+[Menti] "So già cosa cerchi qui. Risparmiami la tua compiaciuta pomposità."
+
+### u046414
+"Thorbald, fagli sapere che trovo le sue parole troppo sfacciate per i miei gusti."
+
+### u046415
+"Basta parole. Thorbald, dobbiamo fermarlo."
+
+### u046416
+[Sorridi a Voigtvir] "La tua morte sarà un'aggiunta deliziosa al mio trionfo."
+
+### u046417
+"Voigtvir, che diavolo ci fai qui?"
+
+### u046418
+"Arrenditi, e la Casata von Valancius potrebbe mostrarti clemenza. Se ti dimostrerai utile."
+
+### u046419
+"Sei sulla strada della tua stessa morte, nient'altro. Sei quasi arrivato alla fine."
+
+### u046420
+"Non osare pronunciare il nome di Theodora, vile traditore."
+
+### u046421
+"Non c'è nulla di cui dobbiamo parlare."
+
+### u046422
+{n}Il gigante in armatura rosso scuro è nel mezzo di una sinistra litania, le sue parole si trasformano in un ripugnante fetore etereo e in scaglie di ghiaccio ultraterreno. Non si accorge della tua presenza.{/n}
+
+### u046423
+"Basta, Fratello Crepuscolo. Le tue labbra non pronunceranno una parola più di quante sia lecito a un pagano udire. L'ignoranza è il loro chiostro. Lascia che vi rimangano intrappolati."
+
+### u046424
+{n}La piattaforma sotto i piedi dello stregone è l'enorme scudo di scavo della macchina trivellatrice. Questo possente meccanismo può rodere la roccia sotterranea, le paratie dei bunker rinforzate con adamantio o qualunque altra cosa si annidi nelle profondità del pianeta.{/n}
+
+### u046425
+{n}Percepisci i fili della forza surreale che emana dalle dita dello stregone e si avvolge attorno all'enorme disco della trivella. Sta alimentando le sue sacre batterie con la propria magia profana come se fosse Forza Motrice, assoggettando la creazione dei Tecnopreti alla sua volontà.{/n}
+
+### u046426
+{n}Assistere a questo odioso atto di dissacrazione ti riempie la testa di una sensazione inquietante. Capisci che ricorderai per sempre queste disturbanti parole disumane che lo stregone sta pronunciando — si sono incise nella tua memoria al posto di qualcosa di... importante che c'era prima. Per quanto ti sforzi, non riesci a ricordare cosa fosse.{/n}
+
+### u046427
+{n}Lo stregone non volta la testa mentre la sua voce rotola per la stanza:{/n} "Ti vedo, cosa mortale. Sento la tua mente docile."
+
+### u046428
+"Può bastare?" {n}Thorbald prende la mira e spara un colpo dritto nella schiena dello stregone.{/n} "Ehi, tu, schifoso rampollo di un grembo infestato dai vermi! Siamo venuti a strapparti le budella!"
+
+### u046429
+{n}La voce dello stregone vibra in modo innaturale, ribollendo di rabbia e disprezzo:{/n} "Creatura ignorante. Il tuo patetico scherno offende le mie orecchie."
+
+### u046430
+{n}Lo stregone sbuffa con scherno. La sua voce profonda e innaturalmente vibrante ti fa contrarre le viscere:{/n} "A che serve il nome di un cadavere in putrefazione issato sul Trono d'Oro? Non porta alcuna paura ai discepoli della vera fede."
+
+### u046431
+{n}Lo stregone volge a malincuore su di te il suo sguardo ardente.{/n} "Dunque sei tu quello che era tanto ansioso di incontrare me e la propria rovina? Rallegrati, Fratello Crepuscolo. Oggi diventi il nuovo Rogue Trader."
+
+### u046432
+"Conosci bene il mio nome. Sono Uralon il Crudele, Spezzatore dei Miscredenti, Dicitore di Verità, Trionfatore della Fede, {g|Encyclopedia:DarkApostle}Apostolo Oscuro{/g} della benedetta Legione dei Word Bearers. Inginocchiati e offri una preghiera di gratitudine, perché la tua morte non potrebbe portare un nome più degno."
+
+### u046433
+"La morte per la gloria dei Veri Dei è un destino benedetto per ogni credente, quindi perché dovrei privarli di essa? Ogni martire che perisce in Loro nome non fa che rafforzare il Loro regno. A me è stata affidata una missione diversa — far vedere alla Distesa di Koronus l'assoluta impotenza del suo più eminente protettore."
+
+### u046434
+"Non te lo dirò, così potrai perire nell'oscurità dell'ignoranza. Patetico. Il tuo padrone non ti ha nemmeno detto perché ti ha mandato incontro alla morte. E nemmeno io renderò più facile da bere questo calice avvelenato."
+
+### u046435
+"Con gioia nel cuore!" {n}Thorbald punta la sua arma, e il suo colpo fa sprizzare scintille dallo spallaccio di Uralon.{/n} "Sei {mf|un negoziatore|una negoziatrice} di mio gusto."
+
+### u046436
+{n}Lo stregone emette una risata gelida.{/n} "Risparmia le tue deboli menzogne, perché sono indegne delle mie orecchie. Posso vedere nelle anime dei mortali, e nella tua non c'è altro che confusione e paura."
+
+### u046437
+{n}La voce sdegnosa dello stregone degenera in un rantolo ferino.{/n} "Quando cadrai, troverò la tua anima nel warp e la scorticherò di questo manto di arroganza e ottusità in cui ti sei {mf|avvolto|avvolta}."
+
+### u046438
+"Molto bene. Inginocchiati e giura te stesso ai Veri Dei del warp, perché grandi rivelazioni sono la ricompensa dei fedeli." {n}Ti fa un gesto imperioso.{/n}
+
+### u046439
+{n}Thorbald fa un cenno all'arma.{/n} "Dubito che tu abbia intenzione di obbedire, ma ti sconsiglio comunque di farlo..."
+
+### u046440
+"Si vede che hai assaggiato il mjod degli skjald. È doppiamente appagante uccidere un nemico dopo averlo umiliato con onorevoli parole di scherno."
+
+### u046441
+{n}Con un solenne gesto delle mani, Uralon tuona furente,{/n} "Che chi bestemmia contro i Veri Dei implori perdono invano, che le sue labbra siano sigillate, che le sue mani siano mozzate, che le sue anime siano mietute e flagellate!"
+
+### u046442
+{n}Il Lupo lancia un ululato gelido, e il suo branco prepara le armi, riconoscendolo come un inequivocabile ordine di uccidere.{/n}
+
+### u046443
+{n}Incapace ormai di controllare il proprio temperamento, Voigtvir esclama,{/n} "Mi hai fatto un favore venendo qui! Vorrei dire due parole alla defunta Theodora — mi concederai gentilmente questa richiesta?"
+
+### u046444
+"Silenzio!" {n}La voce del gigante scuote le pareti.{/n} "I vostri sciocchi tentativi di insultarvi a vicenda interrompono la mia preghiera ai Veri Dei!"
+
+### u046445
+{n}I lineamenti deformi di Voigtvir si contorcono in un sorriso assetato di sangue.{/n} "Sì, padrone. Rimedierò al mio errore e riprenderò ciò che mi è stato rubato."
+
+### u046446
+{n}Voigtvir inclina bruscamente la testa come un uccello e ride beffardo.{/n} "Sono sulla via della grandezza, {name}. Il vero potere, quello che tu e Theodora potevate solo sognare. L'Edge of Daybreak ha promesso di tessermi un destino davvero straordinario!"
+
+### u046447
+"Non hai il diritto di offrirmi perdoni o accordi. Sei un falso!"
+
+### u046448
+"Una minaccia vuota. Questa volta ho il coltello dalla parte del manico. Nella mia prossima preghiera agli Dei Oscuri, li ringrazierò per avermi permesso di distruggere un altro Rogue Trader della stirpe dei von Valancius."
+
+### u046449
+"Lo dico ogni volta che prego gli Dei Oscuri!"
+
+### u046450
+"In effetti. Non ho nulla da dire a un cadavere."
+
+### u046451
+{n}Lo stesso non si può dire di Kunrad Voigtvir, che gli sta accanto. I suoi occhi turchesi, completamente mutati, lampeggiano nel vederti. Trasale, ma resta in silenzio, esitando a interrompere il rituale.{/n}
+
+### u046452
+"Se solo sapeste che arma potente ci attende laggiù! Con essa, renderemo l'intera Distesa—"
+
+### u046453
+{n}Le parole sacre, sostenute dalla tua indomabile fede, illuminano l'aria e fanno risuonare un possente eco nella sala. Tale è la loro forza che le parole dello stregone vi annegano e le correnti di potere eretico che turbinano attorno alla trivella cominciano a ritirarsi. Quando le ultime parole della preghiera lasciano le tue labbra, una luce giusta avvolge la trivella, lavando via la macchia empia. Lo stregone, ustionato dallo splendore dell'Imperatore in persona, ringhia di dolore e di rabbia.{/n}
+
+### u046454
+"Una volta rubato il tesoro di Calcazar, saccheggiati i suoi tesori segreti e infangato il suo nome, i cani del falso imperatore vedranno la Verità. Nessuno li proteggerà. Nessuno ascolterà le loro suppliche. Solo inchinandosi ai padroni dell'Immaterium si guadagneranno il diritto di vivere."
+
+### u046455
+{n}I servi corrotti del Deus Mechanicus si affannano attorno all'eretico, mormorando contorte preghiere di accensione nel tentativo di persuadere la maestosa bestia dell'Omnissiah a risvegliarsi e a lacerare la carne del mondo.{/n}
+
+### u046456
+{n}La risata sincera di Kibellah risuona nel pozzo. Si asciuga gli occhi, ignorando gli sguardi sconcertati.{/n} "Tu? La morte? Oh, Imperatore Imperituro..."
+
+### u046457
+"Auguro il migliore dei successi a Vostra Signoria."
+
+### u046458
+"All'armi— aspetta! È Sua Signoria von Valancius! Pensavo fossero i cani di Chorda per un'altra ispezione... Riposo. Falso allarme."
+
+### u046459
+"Chiedo venia. Ci sono molte altre faccende che richiedono la mia attenzione."
+
+### u046460
+"Quindi ti hanno messo a capo? Una scelta curiosa."
+
+### u046461
+"Cosa può offrirmi la missione di San Drusus?"
+
+### u046462
+"Che ne pensi della situazione sulla stazione?"
+
+### u046463
+"Quanto tempo, Cappellano. Che ci fai qui?"
+
+### u046464
+"Addio."
+
+### u046465
+"Piangi la morte del Reverendo Hieronymus?"
+
+### u046466
+"Che c'è, Incendia ha deciso di risparmiarti?"
+
+### u046467
+"Come sta la giovane erede di Denz, Adelia?"
+
+### u046468
+"Quindi adesso comando io. Comando finché non si presenta un reverendo più anziano di grado superiore al mio, che mi dice di togliermi di torno e prende il comando. È imbarazzante per il capo di una missione avere il volto pieno di cicatrici, che rendono evidente a tutti che in passato ha fatto cose empie."
+
+### u046469
+"Che Drusus vegli su di voi, Vostra Signoria."
+
+### u046470
+{n}Quando ti vede, si inchina — con rispetto ma senza troppa grazia, come se non fosse abituato a fare il gesto deferente.{/n} "Che Drusus vegli su di voi, Vostra Signoria. Non avrei mai pensato di vedere un Rogue Trader in un locale del genere, specialmente in questi tempi difficili."
+
+### u046471
+{n}Mentre ti avvicini, si inchina con deferenza.{/n} "Vostra Signoria, è bello vedere che San Drusus ha protetto il vostro collo dagli eretici e dagli xenos dall'ultima volta che ci siamo incontrati. Peccato che a unirci siano sempre eventi tristi. L'ultima volta è stato a un funerale, e adesso sembra che metà di Footfall abbia bisogno di una funzione commemorativa."
+
+### u046472
+"Ai figli dell'Imperatore che fanno generose donazioni alla nostra pia causa, doniamo volentieri granelli della Sua grazia luminosa incastonati nelle nostre reliquie."
+
+### u046473
+{n}Le ombre hanno fatto dimora sotto gli occhi del Cappellano.{/n} "Se Vostra Signoria ha qualcosa da dire alla missione drusiana, può contare sul mio ascolto. La scomparsa del Reverendo Hieronymus mi ha reso... il missionario più anziano di Footfall, suppongo. Sono autorizzato a parlare a nome dei miei fratelli e sorelle."
+
+### u046474
+{n}L'imponente uomo coperto di cicatrici dalla testa ai piedi è difficile da scambiare per qualcun altro. Hai davanti il Cappellano, confessore del defunto Denz Bellardo, il cui funerale ora sembra risalire a un'eternità fa. Ha le braccia conserte e scruta la sala con espressione cupa.{/n}
+
+### u046475
+{n}Il Cappellano solleva il mento con aria di sfida.{/n} "Sinceramente? Forse è cominciata come una purificazione, ma fin dal primo giorno ha l'aria di un delirio di fanatismo. Certo, a Footfall le persone dalla coscienza pulita sono sempre state poche e rare. Ma è una ragione per sterminare tutti per le infrazioni più meschine?"
+
+### u046476
+"Come sempre, Vostra Signoria. Porto la luce dell'Imperatore agli umili e ai calpestati. E qui su Footfall ho le mani occupate — la stazione pullula di gente affamata, mutilata e spaventata."
+
+### u046477
+"L'Ecclesiarchia una volta ha provato a fare di me un predicatore decente, ma da giovane moccioso pavido e sfrontato quale ero, decisi che quella non era la vita per me. Scambiai una vita degna nella luce dell'Imperatore con l'avidità e con quella che allora credevo libertà. Divenni un pirata, Vostra Signoria."
+
+### u046478
+"Mi chiamano semplicemente Cappellano. Sono un missionario di San Drusus. Tengo sermoni, preghiere pubbliche e funzioni funebri per gli umili e i derelitti. Devo dire che ultimamente sono state soprattutto funzioni funebri... Ma forse siete più interessat{mf|o|a} a sapere come un prete si sia procurato tante cicatrici di battaglia." {n}Ridacchia mentre guarda le sue braccia, coperte di pallide strisce bianche.{/n}
+
+### u046479
+"Che San Drusus vi aiuti, Vostra Signoria."
+
+### u046480
+"Sì. Era un grand'uomo, con una forza di carattere pari soltanto al fervore della sua fede. Fu lui a ordinarmi... a ordinarmi come si deve, non alla maniera dei pirati. Mi insegnò molto, anche se non sempre ero d'accordo con lui. Passerà molto tempo prima che la Distesa veda un altro servitore dell'Imperatore come lui."
+
+### u046481
+"Quello che ha fatto a Sua Signoria e alla sua stirpe è stato, ovviamente, crudele e criminale... Ma perseguiva un obiettivo grandioso, un obiettivo alla sua altezza. Cercava di strappare un intero settore, un'intera dinastia di Rogue Trader dalle grinfie della depravazione. Spero che un solo grande sacrilegio non macchi la memoria del suo supremo obiettivo e delle sue altre buone azioni. Dopotutto, non ha mai fatto mistero di avere un'anima macchiata, proprio come tutti noi. Nessuno è immacolato."
+
+### u046482
+"Mi mancherà. Spero di essere all'altezza della sua memoria e di essere almeno la metà così fervente nel portare la parola di San Drusus a chi ha bisogno di redenzione."
+
+### u046483
+{n}Un caldo sorriso illumina i tratti ruvidi del Cappellano.{/n} "Sana e salva con me, Vostra Signoria. È passato pochissimo tempo e già la considero mia, e la ragazzina stessa mi si aggrappa. Si è dedicata con entusiasmo a imparare le vie del viaggio nel vuoto, ed è già più brava di me con i numeri — un vero capitano mercantile in erba!"
+
+### u046484
+"Per ora l'ho nascosta in un posto sicuro. È un brutto momento perché la ragazzina stia su Footfall — ha già visto abbastanza dolore e sangue. Più che abbastanza."
+
+### u046485
+"Le leggi dei mondi letali possono essere sorprendentemente singolari. Ma per la casa degli Space Wolf, l'Imperatore in persona ha ordinato che si stabilissero usanze speciali... forse al di là della comprensione della gente comune."
+
+### u046486
+"Ho compiuto molte azioni impure e visto molte cose inquietanti. E sono diventato un credente sincero — pensate un po'. Le battaglie mortali e le confessioni notturne delle atrocità dei miei compagni hanno fatto per me ciò che i miei mentori non erano riusciti a fare. Con chi altri avrebbero potuto confessarsi? Io conoscevo le parole della preghiera, se non altro. Così sono diventato il cappellano di bordo. Poi ho rinunciato del tutto alla mia vita criminale. Morii da pirata e rinacqui da missionario: così comandò San Drusus, che a sua volta morì e fu resuscitato dall'Imperatore."
+
+### u046487
+"Non avrò nulla da obiettare. Quando abbiamo perso il Reverendo Hieronymus, i miei fratelli e sorelle si sono disperati. Ma io, assassino incallito quale sono, avevo già visto morire dei compagni. Così all'inizio ho fatto loro dei... suggerimenti, e poi ho dato istruzioni. In tempi duri come questi, con così tante persone che soffrono, non potevamo permetterci di sguazzare in una pozza di dolore. I miei fratelli e sorelle mi hanno dato ascolto, e poi si sono messi in testa che ora comandassi io."
+
+### u046488
+"Sua Signoria Incendia Chorda, nel suo giusto zelo, non vede le atrocità che i suoi tutori dell'ordine commettono nei Quartieri d'Ombra, usando il suo nome come scudo. Intervengo dove posso, ma a dire il vero sono quasi sfinito. Aiutare tutti è più di quanto io possa fare."
+
+### u046489
+"San Drusus ci insegna a riportare la gente alla luce dell'Imperatore e a punire con la morte solo coloro che hanno oltrepassato il limite proibito e si sono allontanati da Lui in modo irrevocabile. Io sono la prova vivente che anche un furfante completamente marcio può percorrere la via della redenzione. Siamo forse in una ritirata così profonda dall'eresia che combattiamo, da avere ormai come unici strumenti il lanciafiamme e il cappio?"
+
+### u046490
+{n}I suoi grossi pugni si serrano come due teste di mazza gemelle.{/n} "Sua Signoria Incendia Chorda, nel suo giusto zelo, non vede le atrocità che i suoi tutori dell'ordine commettono nei Quartieri d'Ombra, usando il suo nome come scudo. Intervengo dove posso, ma a dire il vero sono quasi sfinito. Aiutare tutti va oltre le mie capacità."
+
+### u046491
+"Peccato che il Reverendo Hieronymus non voglia darmi ascolto. È troppo zelante. Vede il volto del vizio con troppa chiarezza e lo trova troppo abominevole. Guardare Footfall lo nausea, e così lui... accoglie la purificazione."
+
+### u046492
+"Sì, Vostra Signoria, è una curiosa piega del destino." {n}A giudicare dal dolore e dalla rabbia che balenano per un istante negli occhi del Cappellano, sa benissimo chi ha istigato la violenza contro i Drusiani. Ma si trattiene.{/n} "Sua Signoria Incendia mi ha giudicato di persona e, per quanto ci abbia provato, non ha visto alcuna oscurità in me. È stato un po' imbarazzante, a dirla tutta. Non che ci sia da rallegrarsene. Mi ha ordinato di eseguire personalmente le sue sentenze contro i miei fratelli e sorelle. Un fardello pesante... Ma meglio io dei suoi carnefici." {n}L'uomo tace e stringe i pugni fino a farli scricchiolare.{/n}
+
+### u046493
+{n}Stringendosi nelle spalle, Ulfar mormora piano,{/n} "So che la pirateria è condannata nell'Imperium... ma su Fenris partecipare a una gloriosa razzia contro un vicino è considerato un atto valoroso, non vergognoso."
+
+### u046494
+{n}Il prete davanti a te ha un aspetto imponente. È alto e muscoloso, con cicatrici sul volto e sulle braccia. Tutto il suo aspetto sembra raccontare la storia di molti eretici che hanno trovato la morte per mano di questo aderente alla vera fede.{/n}
+
+### u046495
+"Cos'è successo tra te e Winterscale?"
+
+### u046496
+"La legge ha trovato la strada per Footfall, dopotutto, vedo."
+
+### u046497
+"Che razza di mattatoio è questo? Qualche atroce parodia di giustizia?"
+
+### u046498
+"Ne ho sentito abbastanza. La vostra faida non mi riguarda."
+
+### u046499
+[Raccogli un po' di materia cerebrale dell'uomo] "Guarda bene."
+
+### u046500
+"Smettila di parlare prima che ti faccia cucire la bocca."
+
+### u046501
+"No. Non farò una cosa del genere."
+
+### u046502
+[Estrai l'arma] "Niente più giudizi. Poni fine a questa vergogna e lascia Footfall."
+
+### u046503
+"E per cosa vorresti giudicarmi?"
+
+### u046504
+"Fai pure. Dovrebbe essere interessante."
+
+### u046505
+"Sono appena evas{mf|o|a} dalla prigionia presso gli xenos a Commorragh, dopo aver macellato la mia strada attraverso decine di nemici dell'Umanità. Dimmi, sono davvero {mf|il più grande nemico|la più grande nemica} dell'Imperium che siete riusciti a trovare?"
+
+### u046506
+[Estrai l'arma] "Sono pront{mf|o|a} a difendere il mio onore davanti a questa corte. Chi devo uccidere per porre fine a questa farsa?"
+
+### u046507
+"Guarda un po', Heinrix — sono sempre {mf|stato un nemico|stata una nemica} dell'Umanità. Hai qualcosa da dire?"
+
+### u046508
+"Ai Nove Diavoli con te, arrogante scemo. Non hai alcun diritto di giudicarmi."
+
+### u046509
+"Quindi adesso comandi tu su Footfall?"
+
+### u046510
+"E chi staresti giudicando?"
+
+### u046511
+[Ridacchia e indica il cadavere dello sfortunato assassino] "Vedo che sei piuttosto popolare tra la gente del posto."
+
+### u046512
+"Vedremo se Footfall ringrazierà l'Imperatore per il tuo regno."
+

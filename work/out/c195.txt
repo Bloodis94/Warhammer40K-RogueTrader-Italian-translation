@@ -1,0 +1,940 @@
+### u065446
+{n}Yrliet scrolla le spalle, imperturbabile.{/n} "Frena la tua ira, elantach. Pensi che tenterei di scoprire i tuoi segreti in questo modo? No. Ho semplicemente esplorato il ventre dell'uccello dalle ali d'acciaio: per quanto brutto e goffo possa essere, ci porta comunque attraverso l'oscurità, le stelle e le profondità del warp. Non avevo idea che questa fosse la tua dimora finché non vi sono entrata."
+
+### u065447
+"Solo ai tuoi occhi, elantach. Ma, sapendo quanto la tua specie sia timorosa e diffidente, suppongo che avrei dovuto prevedere una simile reazione."
+
+### u065448
+{n}Yrliet inclina la testa, confusa.{/n} "Mi serve un permesso per farlo?"
+
+### u065449
+"Non avevo idea che questa fosse la tua dimora finché non vi sono entrata." {n}L'Aeldari volge su di te il suo sguardo smeraldino: sembra del tutto impassibile di fronte alla tua improvvisa apparizione.{/n}
+
+### u065450
+"Sul mio Mondo Astronave tutti seguivamo un'usanza semplice: puoi posare il piede ovunque il tuo Sentiero lo richieda. Il suolo sacro era l'unica eccezione a questa regola. C'è qualcosa di sacro in questa stanza, elantach?" {n}Yrliet si guarda intorno.{/n} "Non credo."
+
+### u065451
+{n}Le parole di Yrliet si interrompono per uno strano suono simile a un sospiro soffocato, mentre il suo sguardo si fissa su qualcosa alle tue spalle. Voltandoti, vedi ciò che ha attirato la sua attenzione: una strana, sgradevole scheggia di materiale poroso, appesa alla parete come un trofeo. Un intero caleidoscopio di emozioni le attraversa il volto, mutando troppo in fretta per essere colto. Sospira ancora... e poi i suoi sentimenti si celano dietro una maschera impenetrabile e impersonale.{/n} "Che cos'è questo, mon-keigh?" {n}La voce di Yrliet suona insolitamente fredda.{/n}
+
+### u065452
+"Che cos'è questo, elantach? Una consolazione? Che cosa—"
+
+### u065453
+"E così perirono tutti, ogni singo—"
+
+### u065454
+{n}La strana scheggia è qui almeno dal giorno della tua ascesa al trono del Rogue Trader. Osservandola da vicino, un pensiero bizzarro ti tormenta: sarà pure sfigurata e corrosa da un potere sconosciuto, ma somiglia vagamente all'ossospettro, un materiale creato dagli Aeldari.{/n}
+
+### u065455
+{n}La strana scheggia è qui almeno dal giorno della tua ascesa al trono del Rogue Trader. Qualunque cosa sia, non puoi in alcun modo immaginarne la provenienza o lo scopo.{/n}
+
+### u065456
+{n}Yrliet ti guarda: nei suoi occhi non resta alcuna emozione, nemmeno un briciolo della vita e del calore che prima vi scorgevi.{/n}
+"Sei {mf|attento|attenta}, elantach. Che insolito. Ma non c'è bisogno di affaticare la mente con congetture. Ho riversato su di te fin troppo dei miei sentimenti sfrenati, ma ora ho di nuovo il controllo."
+
+### u065457
+"Quindi non ti importa nemmeno di sapere quali oggetti adornino la tua dimora? Davvero?" {n}Yrliet emette un suono sottile e addolorato, poi si interrompe di colpo, immobile come una statua.{/n}
+
+### u065458
+"Dunque è così? Sei {mf|fiero|fiera} delle vittorie e della violenza del tuo sangue, ignorandone la vera natura?" {n}La solitamente loquace Yrliet ora parla con frasi brevi e secche.{/n}
+
+### u065459
+{n}Yrliet ti fulmina con lo sguardo, gli occhi colmi di rabbia nuda.{/n} "Basta! Non ascolterò le tue ragnatele di parole che tentano di avvolgere la mia mente!"
+
+### u065460
+"Questa scheggia... è solo una piccola parte di qualcosa di molto più grande. Qualcosa di grandioso... ora ridotto a trofeo sulla parete di un mon-keigh..." {n}Per qualche istante un caleidoscopio di emozioni infuria sul volto di Yrliet, prima che lei emetta un sospiro rotto.{/n}
+
+### u065461
+"Basta. Mi sono trattenuta qui troppo a lungo. D'ora in poi io... eviterò di entrare nei luoghi che preferisci tenere nascosti ai miei occhi."
+
+### u065462
+"Avrei mai pensato di incontrare di nuovo questo dopo Crudarach?" {n}Yrliet ride con tristezza.{/n} "Regole rigide e prive di senso... e la condanna per aver oltrepassato confini senza vita. Pesava così tanto su di me. Allora."
+
+### u065463
+{n}L'Aeldari si ritrae sconvolta.{/n} "Cosa?"
+
+### u065464
+{n}Yrliet ti rivolge un cenno appena percettibile. Il suo volto è offuscato dall'emozione, ma non riesci a leggerne l'espressione.{/n} "Le tue parole, elantach, sono qualcosa che mi dà ancora spera—"
+
+### u065465
+"Allora affrettati e dimostra che le tue parole hanno almeno un po' di—"
+
+### u065466
+"Ma la direzione del tuo pensiero mi sfugge, elantach. Con una mano concedi pietà ai miei simili, eppure con l'altra ne prendi la vita. Che cos'è? Un difetto della tua anima... o del sangue che ti scorre nelle vene? Sono... spaventata dalla tua volubilità."
+
+### u065467
+"Io... non posso..."
+
+### u065468
+{n}Yrliet si volta verso di te.{/n} "Perché mi chiedi questo, elantach? Questo luogo è proibito?"
+
+### u065469
+"Ma il tuo intero mondo è racchiuso in questa minuscola gabbia di metallo, elantach? La tua nave, queste stanze: non sono che un granello di polvere. Un'isola. Un riparo temporaneo in un mondo molto più grande e vasto di... Be', basta così. Ora che sei qui, desidero parlare con te... del nostro accordo."
+
+### u065470
+"Non capisco perché la tua anima arda di rabbia. Questa stanza non è diversa da nessun'altra." {n}Nello sguardo calmo dell'Aeldari non c'è alcun guizzo di sorpresa, il che suggerisce che fosse consapevole della tua presenza, e del tuo esame, da quando sei {mf|entrato|entrata}.{/n}
+
+### u065471
+"E per cosa?" {n}Yrliet scatta con la testa, la rabbia che le arde negli occhi.{/n} "I miei simili, il motivo per cui ho accettato di viaggiare con te, non sono stati trovati! Perché non hai concentrato tutti i tuoi sforzi nel cercarli? Per salvarli dal bruciare nei fuochi dell'odio tra le nostre specie? Ho riposto la mia fiducia in te, elantach!"
+
+### u065472
+"E noi... siamo riusciti a trovare alcuni dei figli di Crudarach. A trovarli e a testimoniare il loro orribile destino." {n}Yrliet socchiude gli occhi.{/n} "Credo che ogni passo che faccio per scoprire la sorte di Crudarach non porti altro che rovina ai miei fratelli e sorelle. E nonostante ciò... ti chiedo di non fermarti. A ogni ciclo, quelli che ancora si nascondono nell'oscurità del cosmo si avvicinano alla loro fine... e all'oblio. Tra tutti i mon-keigh che ho incontrato... pensavo... che tu, proprio tu, elantach, potessi essere in grado di comprendere me e il mio dolore."
+
+### u065473
+"Abbiamo trovato tutti quelli che potevamo, elantach, e tutti... erano morti." {n}Disperazione e sconforto brillano negli occhi di Yrliet, e la sua voce si spezza in modo traditore.{/n} "Ma il filo del destino è spezzato e non so più come aiutare la mia gente. Non sono riuscita a salvare nessuno. E non sono riuscita a scoprire la verità sulla fine di Crudarach. Io... ho perso la strada. E pensavo che tu fossi l'unica persona su tutta questa nave in grado di capire."
+
+### u065474
+"Ma mi sbagliavo." {n}Vedi il disprezzo sul volto dell'Aeldari quando i vostri occhi si incontrano di nuovo.{/n} "Come gli altri mon-keigh, tratti i miei simili con odio e crudeltà gratuiti. Non hai nemmeno provato a salvarli! Forse... fidarmi di te è stato un errore. Ora sono come un ostaggio intrappolato sulla tua nave, incatenata dal debito e dalla disperazione."
+
+### u065475
+"Ho viaggiato attraverso il velo molte volte dentro il tuo uccello dalle ali d'acciaio, e ogni volta la Sua voce mi tormenta, cercando di farmi impazzire..." {n}Yrliet ti fissa guardando oltre te, sfiorando inconsciamente con mano tremante la pietra spirituale che porta sul petto.{/n} "I Suoi sussurri mi riempiono le orecchie ogni volta che entro nel warp. Inesorabili e incessanti, avvelenano e infiammano ogni emozione e ogni pensiero, rendendoli incontrollabili. Ho... imparato a chiudermi in me stessa. Meglio che posso. Solo per avere la possibilità di... cercare ciò che ho perduto."
+
+### u065476
+"Heinrix, quale punizione attende chi non si è accorto che il proprio accolito era un traditore?"
+
+### u065477
+[Giustizia Yrliet] "Kibellah, compi la volontà dell'Imperatore Imperituro."
+
+### u065478
+[Consegna Yrliet a Heinrix] "Mantengo le mie promesse, van Calox."
+
+### u065479
+"Per il sangue dei Santi, che razza di farsa è questa?"
+
+### u065480
+[Giustizia Yrliet] "Aspettavo questo momento fin da quando mi sono {mf|risvegliato|risvegliata} per le strade di Commorragh."
+
+### u065481
+[Consegna Yrliet a Heinrix] "Fammi un favore, Heinrix."
+
+### u065482
+[Giustizia Yrliet] "Saresti così gentile da farlo tu, Sorella Argenta?"
+
+### u065483
+"Yrliet subirà una punizione corporale: tante frustate quante il suo corpo potrà sopportarne senza spirare."
+
+### u065484
+"Non vi avrei mai lasciati alla loro mercé."
+
+### u065485
+"Credo che abbiate dimenticato chi dà gli ordini su questa nave. Come osate irrompere sul ponte di comando e avanzare pretese nei miei confronti?"
+
+### u065486
+"Se condividessi con loro ciò che hai condiviso con me a Commorragh, capirebbero di sicuro le tue azioni."
+
+### u065487
+"Qualcun altro vuole dire la sua?"
+
+### u065488
+"Yrliet resta qui come parte del mio seguito. Fatevene una ragione."
+
+### u065489
+"Ti perdoneranno. Non tutti, e non subito, ma lo faranno."
+
+### u065490
+"Non ti importa davvero di quello che è successo? O stai cercando di nascondere di nuovo i tuoi veri sentimenti?"
+
+### u065491
+"Ora Yrliet si scuserà con tutti coloro che sono stati danneggiati dal suo gesto. E questo basterà."
+
+### u065492
+"È ora di tornare al lavoro."
+
+### u065493
+"A dire il vero, non lo so."
+
+### u065494
+"Lasciamo che il passato resti nel passato."
+
+### u065495
+"So solo che tutti commettono errori. E tutti nascondono le parti della propria personalità di cui non sono fieri. Vale sia per gli umani sia per gli Aeldari."
+
+### u065496
+"Sei già diventata parte del mio mondo. Puoi aver fatto qualcosa che ai miei occhi è sgradevole, ma questo non ti rende un'estranea."
+
+### u065497
+{n}Sul ponte di comando è calato uno strano silenzio: gli ufficiali di turno si accalcano negli angoli, osservando con curiosità ciò che accade al centro.{/n}
+
+### u065498
+"Per quanto tempo intendete tollerare questa feccia sulla vostra nave, {name}? Questa lurida traditrice, che vi ha già {mf|trascinato|trascinata} nell'oscurità una volta e che ha quasi lasciato il vostro protettorato senza il suo {mf|sovrano|sovrana}!"
+
+### u065499
+"Rogue Trader." {n}La voce di Heinrix vi gela il sangue.{/n} "L'eresia degli Aeldari ha offuscato il vostro giudizio? Il tradimento significa sempre morte: per il traditore o per chi è stato tradito. Siete quasi {mf|morto|morta} a Commorragh. Il vostro seguito... sapete che fine ha fatto. Non è forse giunto il momento che sia fatta giustizia?"
+
+### u065500
+{n}I presenti annuiscono in silenzio, ma non osano intervenire.{/n}
+
+### u065501
+"Mi avevate promesso di consegnarmi l'Aeldari non appena fossimo fuggiti da quel maledetto nido di xenos. È il momento."
+
+### u065502
+"Ecco, questo sì che è un bello spettacolo: la disumana riceve ciò che merita! Guardiamo tutti e ridiamo."
+
+### u065503
+"Il tuo meraviglioso Sentiero ti ha condotta in una situazione piuttosto spinosa, cugina. Ti sei rifiutata di implorare pietà a Commorragh, e ora dovrai leccare gli stivali ai mon-keigh."
+
+### u065504
+{n}Yrliet non reagisce alle maledizioni che le piovono addosso. Con un'espressione imperturbabile osserva la folla davanti a sé, poi volge lo sguardo su di te.{/n}
+
+### u065505
+{n}Vedendoti, i membri dell'equipaggio curiosi corrono ai loro posti, lasciando solo gli ufficiali superiori al centro del ponte di comando.{/n}
+
+### u065506
+{n}Van Calox volge lo sguardo a Marazhai, che guarda te e l'Interrogatore con una speranza beffarda sul volto.{/n} "Una lezione che resterà ben impressa."
+
+### u065507
+{n}Heinrix scrolla vagamente le spalle.{/n} "Non è abbastanza. Ma almeno allo xenos sarà data una lezione."
+
+### u065508
+"Il dolore può guarire un'anima umana, ma uno xenos? Non ho risposta a questo."
+
+### u065509
+{n}Un ghigno predatore si allarga sul volto dell'Interrogatore.{/n} "Con grandissimo piacere."
+
+### u065510
+"La morte ti purificherà, xenos!"
+
+### u065511
+{n}Resasi conto della morte imminente, Yrliet chiude semplicemente gli occhi.{/n} "O Asuryan, abbi pietà dell'anima di tua figlia..."
+
+### u065512
+{n}Yrliet trasale, ma subito corruga appena la fronte e scrolla le spalle con noncuranza.{/n} "Non credo che le fruste dei mon-keigh siano più temibili delle torture della Città Oscura."
+
+### u065513
+{n}Yrliet sorride appena.{/n} "Certo che no. Tu sei tu."
+
+### u065514
+{n}Heinrix strizza gli occhi, deluso.{/n} "Una deplorevole indulgenza verso i nemici dell'Umanità, Rogue Trader. E verso la vostra stessa debole volontà."
+
+### u065515
+"Chi segnala un errore sarà ricompensato per la verità. Ma se non desiderate vedere la verità, restate pure tra i ciechi."
+
+### u065516
+{n}Tutti i presenti distolgono timidamente lo sguardo. Prendere posizione contro di te di certo non rientrava nei piani.{/n}
+
+### u065517
+"Sapete, Lord Capitano. Sosterrò qualsiasi ordine impartiate, ma tenere lo xenos nel seguito, soprattutto dopo tutto quello che..." {n}Abelard lancia un'occhiata tesa al ponte inferiore.{/n} "...dopo tutto quello che è accaduto a causa sua, non sarebbe saggio."
+
+### u065518
+"I nemici dell'Umanità non hanno posto tra gli umani. Lo sapete." {n}Le mani di Cassia tremano un poco e lei stringe i pugni.{/n} "Ma la morte è una sentenza fin troppo clemente. Ciò che ho sopportato io... era molto più terribile."
+
+### u065519
+"Non so, Lord Capitano." {n}Idira è insolitamente dimessa.{/n} "Puoi punirla, ma, sai, la morte è... permanente. Mica siamo rimasti bloccati a Commorragh per sempre, sai?"
+
+### u065520
+"Sai, shereen, quando un animale domestico si rifiuta di obbedire al padrone, nel migliore dei casi lo si mette in gabbia, nel peggiore lo si trasforma in un bel pezzo di tassidermia."
+
+### u065521
+{n}Yrliet scruta la folla con sguardo vuoto.{/n}
+
+### u065522
+"Il comportamento abominevole dell'entità xeno e di esemplari simili a lei porta, statisticamente, a esiti sfavorevoli e imprevedibili."
+
+### u065523
+{n}Dopo aver bisbigliato della terribile punizione che attende l'Aeldari, gli ufficiali presenti tornano lentamente ai propri doveri.{/n}
+
+### u065524
+"L'umiltà non è tra le tue virtù, xenos. Il Rogue Trader avrà anche preso le tue difese, ma... un'occhiata sbagliata, una parola di troppo, un gesto sospetto, e la tua vita è finita."
+
+### u065525
+"Il perdono facile è segno di una debolezza imminente, Rogue Trader. Rifletteteci." {n}Argenta stacca con riluttanza la mano dall'arma.{/n}
+
+### u065526
+{n}Delusi dall'esito del confronto, gli ufficiali presenti tornano lentamente ai propri doveri.{/n}
+
+### u065527
+"Le parole. Non rimedieranno. A ciò che è stato fatto." {n}L'Interrogatore stringe l'arma, ma esita, spostando il suo sguardo intenso da te allo xenos e poi di nuovo su di te.{/n}
+
+### u065528
+"Le scuse dello xenos suonano false. Non c'è in esse né pentimento né verità."
+
+### u065529
+{n}Il volto di Yrliet si contorce in un miscuglio di emozioni, dalla rabbia e dall'odio all'abbattimento e alla disperazione. Ma presto trova il coraggio e, con voce stentata e appena udibile, dice,{/n} "Le mie parole non guariranno le ferite sui vostri corpi. E tuttavia mi dispiace per ciò che avete dovuto sopportare. A causa mia."
+
+### u065530
+{n}Marazhai ride con leggerezza.{/n} "E ora l'Asuryani camminerà sulle zampe posteriori davanti ai mon-keigh. Sono contento di aver deciso di fare un salto a vedere cosa fosse tutto questo trambusto..."
+
+### u065531
+{n}Yrliet scrolla le spalle, incerta.{/n} "I tuoi mon-keigh hanno sofferto di più. Io vivrò, e le ferite della mia anima col tempo guariranno. Anche loro vivranno, ma le loro anime... le loro anime sanguineranno per sempre ricordi dolorosi."
+
+### u065532
+"Smettila. Non puoi crederci davvero, elantach. Non ho bisogno di parole di conforto: le parole di questi mon-keigh non toccano la mia anima. Contano solo i tuoi pensieri. I tuoi e i miei."
+
+### u065533
+"Non andartene ancora, elantach. Prima di farlo... rispondi alla mia domanda. So che abbiamo parlato a lungo, e che hai persino accettato ciò che ho fatto. Ma so anche che la mente e le emozioni non sono sempre in accordo. Ora che le onde furiose del pericolo si sono placate e Commorragh è stata lasciata molto indietro... Che cosa pensi di me?"
+
+### u065534
+{n}Yrliet annuisce e fa un gesto elegante prima di andarsene.{/n} "A presto, elantach. Possa l'oscurità disperdersi in una miriade di nuove stelle davanti a te."
+
+### u065535
+{n}Yrliet aggrotta la fronte con diffidenza.{/n} "Queste parole sono piene di gioia, ma presto sfoceranno in un fiume di dubbio e di colpa. L'erba amara non diventerà mai un fiore profumato. Non fingere che non sia accaduto."
+
+### u065536
+{n}Yrliet sorride timidamente in risposta.{/n} "Nemmeno io, elantach. L'ignoto... Uno stato dell'anima in conflitto... È luminoso, eccitante, illogico. Questa sensazione mi piace, ma mi spaventa anche. Sono lieta di poterla condividere con te mentre percorriamo la stessa strada."
+
+### u065537
+"Silenzio, xenos. Il tuo turno verrà."
+
+### u065538
+{n}Heinrix scuote le mani con disgusto.{/n} "Prima di mettere lo xenos a dormire, la interrogherò. Ho ancora... molte domande che richiedono risposta."
+
+### u065539
+"Menzogne e calunnie dei nemici dell'Umanità, Rogue Trader. Risparmiatemi... questo."
+
+### u065540
+"Vil'Yrliet non merita la morte. Per lei sarebbe una liberazione dal suo triste destino di xenos impura." {n}Una rabbia assassina balena negli occhi neri di Kibellah.{/n} "Ma noi... noi meritiamo la sua morte. Come pagamento per ciò che abbiamo sopportato."
+
+### u065541
+"Questo momento era predestinato dalla tua natura empia, Vil'Yrliet."
+
+### u065542
+"Mi... dispiace che il mio errore abbia condotto qualcuno lungo i sentieri della Città Oscura. Vedo il loro dolore e la loro rabbia. Capisco. Ma parole e pietà non li aiuteranno. Solo il tempo e, forse, la vendetta, che per un poco smorzerà il loro dolore. Ma tu hai tolto loro la possibilità di vendicarsi, elantach. E ora non ci resta che aspettare."
+
+### u065543
+"Se questo è il tuo perdono, mon-keigh, lo affronterò con dignità. E non mi avvicinerò mai più a te da sola, per placare le paure dei tuoi servitori." {n}La voce di Yrliet suona spenta e priva di vita. Lei non incontra più il tuo sguardo.{/n}
+
+### u065544
+"Lei è un chiaro esempio del fatto che i grandi poteri conferiti dal Mandato vadano usati anch'essi con grande cautela. La sua utilità è finita."
+
+### u065545
+"Vivere con il peso della colpa è una punizione ben peggiore della morte, è un fatto incontrovertibile. Ma uno xenos può davvero comprendere la propria colpa verso gli umani? Non posso dare una risposta definitiva a questa domanda. Solo attraverso metodi sperimentali si può scoprire la verità. Risparmia la sua vita, {mf|amico|amica} mio."
+
+### u065546
+{n}Yrliet scuote la testa.{/n} "Quelle parole erano destinate solo a te, elantach. Sei {mf|l'unico|l'unica} a cui posso affidare i miei sentimenti. Solo a te posso mettere a nudo le mie ferite interiori. Abbiamo una... storia speciale e un legame speciale, {name}. Degli altri non mi importa."
+
+### u065547
+"Vorrei poter sostenere il contrario." {n}Dalle labbra di Yrliet sfugge una breve risata.{/n} "Ma ho commesso un errore. E ti ho nascosto i miei sentimenti e le mie emozioni. Forse hai fatto lo stesso anche tu. Ma finché percorreremo la stessa strada, avremo la possibilità di diventare migliori di prima."
+
+### u065548
+"Basta, xenos. Giustizia sarà fatta, in un modo o nell'altro." {n}La voce di Heinrix gronda veleno.{/n}
+
+### u065549
+"Striscia quanto vuoi, progenie eretica, ma non lascerai mai questa nave illesa."
+
+### u065550
+"Ho visto il tuo mondo interiore, elantach. Non stai lasciando entrare troppo, fin nel profondo di te?" {n}Dalle labbra di Yrliet sfugge una breve risata.{/n} "Eppure è bello sapere che non hai chiuso la tua anima davanti a me."
+
+### u065551
+{n}Udendo le tue parole, l'Interrogatore si irrigidisce e serra i denti per la rabbia.{/n} "Achilleas è morto dopo aver ricevuto la giusta punizione, anche se non per mano dell'Inquisizione. Non voglio sentire altro in proposito."
+
+### u065552
+"Molto bene." {n}Senza ulteriori indugi, Heinrix alza la mano. Senti l'eco di un freddo ultraterreno.{/n}
+
+### u065553
+{n}Il disprezzo cova negli occhi di Yrliet e un sorriso amaro le storce le labbra mentre si volta verso di te.{/n}
+
+### u065554
+"Sappiamo entrambi che le tue parole sono vuote, mon-keigh. Non disobbedirai agli ordini dell'elantach, perché non vedi alcun senso nel pagare la mia morte con la tua."
+
+### u065555
+"Capisco che questo incidente sia stato spiacevole per te. Ma non significa che tutti gli umani siano animali."
+
+### u065556
+"Se non ti piace come si comporta la mia gente, prova a passare il tuo tempo in un luogo più appartato."
+
+### u065557
+"Fraternizzare con uno xenos? Un'eresia indicibile! Conducetemi da questa pazza e farò in modo che sia punita come si deve!"
+
+### u065558
+"Non credo che tu comprenda appieno i pensieri e le azioni degli umani. Ci vorrà del tempo, ma posso aiutarti a darvi un senso."
+
+### u065559
+"Per la mia gente sei un animale esotico. Fattene una ragione, se vuoi continuare a viaggiare su questa nave."
+
+### u065560
+"Quindi non ho speranze nemmeno io, allora?"
+
+### u065561
+"Anche a me ripugna l'idea che un umano desideri un'Aeldari."
+
+### u065562
+"Tutti gli umani sono diversi. L'interesse della mia gente per te non voleva essere un insulto."
+
+### u065563
+"La prossima volta, chiedimelo prima di decidere di farti giustizia da sola."
+
+### u065564
+"Che questo serva da lezione a tutti gli altri sciocchi."
+
+### u065565
+"Non uccidere mai i miei sudditi, Yrliet. Questo è il tuo primo e ultimo avvertimento."
+
+### u065566
+"A volte facciamo fatica a capire le ragioni delle nostre stesse azioni."
+
+### u065567
+"E tu che cosa vedi nel mondo intorno a noi che io non vedo?"
+
+### u065568
+"Penso che non riusciremo mai a comprenderci a vicenda. Non parliamone più."
+
+### u065569
+"Gli Aeldari sono creature così arroganti."
+
+### u065570
+"Per te sono {mf|disposto|disposta} a diventare una bestia selvatica, o un docile animaletto."
+
+### u065571
+"Parlerò con i miei sudditi. Non sarai più disturbata."
+
+### u065572
+"Nemmeno a me dispiacerebbe andare da qualche parte in privato con te."
+
+### u065573
+"Ti ha offesa davvero così tanto?"
+
+### u065574
+"Sei una xenos, una creatura strana e sconosciuta. E gli umani si sforzano di comprendere l'ignoto, perché l'ignoto è la cosa più spaventosa di tutte."
+
+### u065575
+"Magari potresti smettere di insultare la razza umana a ogni occasione?"
+
+### u065576
+"La mia gente si è comportata in modo spregevole, e me ne scuso."
+
+### u065577
+"Concedimi un breve istante del tuo tempo, elantach." {n}Yrliet appare silenziosa accanto al trono, con la stanchezza e la rabbia impresse sulla fronte.{/n}
+
+### u065578
+"No. Le anime semplici e le menti anguste della tua specie sono la radice di tutti questi difetti."
+
+### u065579
+"Asuryan sa che non mi importa delle occhiate curiose dei mon-keigh: mi ci sono abituata già nei giardini in fiore della Lilaethan. Mi maledicono da lontano, seguono ogni mia mossa, si proteggono da me... Lasciali fare. Dopotutto, che cosa si può fare con creature così primitive e di mente così debole?"
+
+### u065580
+{n}Yrliet è tanto sopraffatta dall'emozione che il suo corpo comincia a tremare.{/n} "Prova a immaginare, elantach, di essere {mf|desiderato|desiderata} da una bestia selvaggia. È... ripugnante. Disgustoso. Così vile da far rabbrividire la tua stessa anima."
+
+### u065581
+"Farò esattamente questo, mon-keigh."
+
+### u065582
+"È già morta, elantach. Non potevo lasciare l'offesa impunita, così le ho tolto la vita io stessa."
+
+### u065583
+"Ho percorso il Sentiero del Risveglio, elantach, e ho imparato a vedere ciò che è nascosto e a udire ciò che non viene detto. Quando mi sono ritrovata sulla Lilaethan, ho osservato la tua specie abbastanza a lungo da comprendere la vera natura dei mon-keigh. Non credo che tu possa dirmi nulla che io non sappia già." {n}Lanciando uno sguardo fugace agli ufficiali sul ponte di comando, emette un sospiro stanco.{/n} "Tuttavia non protesterò. Le conversazioni con te sono l'unica cosa su questa nave che possa alleviare la mia solitudine."
+
+### u065584
+"Come dovresti. Tu, almeno, hai una pallida comprensione dei miei sentimenti, elantach... cosa che non si può dire dei tuoi primitivi simili."
+
+### u065585
+"Ti ho dato una possibilità viaggiando con te, elantach. Se avessi... altri pensieri su di me..." {n}Yrliet arriccia il naso.{/n} "Scacciali dalla tua mente."
+
+### u065586
+"Allora tieni i tuoi servitori a un guinzaglio più corto, mon-keigh."
+
+### u065587
+"Mi trovo davanti a te proprio per evitare che accada di nuovo."
+
+### u065588
+{n}Yrliet annuisce lentamente.{/n} "I mon-keigh di solito si arrabbiano quando la loro proprietà viene danneggiata. Sono lieta che siamo giunti a un'intesa."
+
+### u065589
+"Elantach, ti prego di capire che non trovo attraenti i mon-keigh. Il solo pensiero di essere intima con uno della tua specie..." {n}Yrliet espira pesantemente, cercando di mantenere la compostezza.{/n}
+
+### u065590
+{n}Dopo averci pensato un momento, annuisce.{/n} "Avrò bisogno di tempo per racchiudere l'intera verità di questo mondo nel misero linguaggio a cui sono abituate le tue orecchie. Quando avrò trovato la mia risposta, ti farò visita."
+
+### u065591
+{n}Le sue dita sottili compiono un gesto come per sciogliere un filo invisibile.{/n} "La nostra conversazione ha solo confermato ciò che dicevo, elantach: i mon-keigh e i Figli di Asuryan sono diversi come la notte e il giorno. Gli Aeldari non si limitano a vedere il mondo in modo diverso: vedono più di quanto qualsiasi mon-keigh possa mai comprendere."
+
+### u065592
+{n}Yrliet non sembra sorpresa. Forse un po' delusa?{/n} "E allora che ne è della mia richiesta, elantach? Permetterai ai tuoi simili di continuare a darmi il tormento?"
+
+### u065593
+{n}Yrliet ti guarda corrugando la fronte, ma solo leggermente.{/n} "Ho sbagliato ad aspettarmi il tuo aiuto. Se le mie parole sono cadute nel vuoto, risolverò il mio problema da sola."
+
+### u065594
+{n}Yrliet inclina la testa di lato, come se non riuscisse a credere a ciò che ha appena sentito, e ti guarda intensamente negli occhi.{/n} "Io... accetto le tue parole, elantach. E tuttavia..."
+
+### u065595
+"E tuttavia..." {n}Yrliet sfiora la sua pietra spirituale e il suo volto si contrae in un genuino disgusto.{/n} "Il gesto di una mon-keigh ha fatto traboccare la coppa della mia pazienza. Ha osato avvicinarsi a me... parlarmi... e, toccandomi la mano, ha... ha proposto di ritirarci in un luogo appartato. Voleva... voleva... Kae-morag! Il solo ricordo scatena una tempesta nella mia anima!"
+
+### u065596
+"Furono le emozioni a far cadere un tempo la mia specie, elantach, a farci precipitare dal piedistallo di dominatori della galassia. Assecondare le tue debolezze, o i tuoi capricci, non rende la tua specie più attraente."
+
+### u065597
+"Le tue parole scaldano la mia anima." {n}Yrliet annuisce e si perde per un attimo nei suoi pensieri.{/n} "Molto bene, ora me ne vado. Non dimenticare la tua promessa."
+
+### u065598
+"Menti anguste e anime semplici... Ogni giorno mi sento come in trappola, circondata da un branco di animali selvatici." {n}Socchiudendo gli occhi, aggiunge con parole appena udibili,{/n} "Sono pronta a pagare questo prezzo per ritrovare i miei simili. Ma ogni cosa ha un limite."
+
+### u065599
+{n}Socchiudendo gli occhi, aggiunge con parole appena udibili,{/n} "Per la minuscola possibilità di salvare i miei simili... sono pronta a pagare questo prezzo. Ma ogni cosa ha un limite."
+
+### u065600
+"Se uno solo di loro avesse voluto comprendere la mia natura, sarebbe già fuggito terrorizzato da colei che percorre il Sentiero dell'Emarginato. Ma stanno solo cercando di provocarmi. Di ferirmi. No. I mon-keigh sono guidati dai loro istinti: sopravvivere, riprodursi, garantire la conservazione della propria specie e l'annientamento di chi la minaccia... Non è né bene né male. Semplicemente è."
+
+### u065601
+{n}Yrliet si blocca, sorpresa suo malgrado.{/n} "Il nucleo marcio condanna il tutto. Ora vedo da dove nasce la natura ripugnante dei tuoi servitori. Non ha senso discuterne ulteriormente con te."
+
+### u065602
+{n}Yrliet riflette, poi annuisce, più a sé stessa che a te.{/n} "La tua specie è sensibile alla verità. Dovrò ricordarlo."
+
+### u065603
+"Che cosa vedo?" {n}Yrliet ti rivolge uno sguardo pensoso.{/n} "Le tue parole risuonano del desiderio di conoscere l'anima di un altro. Ma sarai in grado di comprendere la mia risposta?"
+
+### u065604
+"Non r-riesco a sfuggire a questo freddo... Ho provato a tenere la mano sopra una candela, ma il fuoco era come ghiaccio."
+
+### u065605
+"Per la misericordia dell'Imperatore! Le tue mani... Le vesciche non ti fanno male?"
+
+### u065606
+"N-no, è solo così freddo. Darei qualsiasi cosa... per sentire di nuovo caldo."
+
+### u065607
+"Sta avendo un altro crollo! Non è ora di avvisare i tutori dell'ordine? Altrimenti potrebbe finire male."
+
+### u065608
+"Non dirglielo ancora. Ne ha già avuti due, può riprendersi anche stavolta. E poi, di questi tempi, potrebbe capitare a chiunque."
+
+### u065609
+"Se comincio a perdermi, datemi la Sua Pace. Non voglio soffrire, e non voglio nemmeno trascinarvi tutti nel warp con me."
+
+### u065610
+"Ci avete insegnato tutto e non vi deluderemo. Siamo pronti!"
+
+### u065611
+"Ti ho preparato bene, Zacchary. Il mio Coro sarà all'altezza del mio nome."
+
+### u065612
+"Sei un maestro fallimentare. Non hai insegnato loro nulla."
+
+### u065613
+"Il Dio-Imperatore è una menzogna! L'Astronomican è una menzogna! Moriremo tutti!"
+
+### u065614
+"Io ti invoco, o Principe del Piacere, ti affido la mia misera anima e ti imploro di proteggermi..."
+
+### u065615
+"O Dio-Imperatore, proteggici dagli orrori dell'Empireo, difendici dalla corruzione dell'Immaterium, sii il nostro scudo..."
+
+### u065616
+Un essere ultraterreno sta prosciugando la forza vitale dell'Astropate.
+
+### u065617
+"Darò volentieri la mia ultima goccia per voi, Maestro!"
+
+### u065618
+L'energia dell'Astropate si sta dissipando intorno a lui.
+
+### u065619
+"Quando mi ha prosciugato la vita, è stato così dolce! Oh, dolce dovere!"
+
+### u065620
+Accanto all'Astropate, sul piedistallo, c'è un'altra figura con paramenti identici, che sembra stia risucchiando la forza vitale da lui.
+
+### u065621
+"Non ho rinunciato alla mia vita e alla mia energia di mia volontà. Ha preso il controllo del mio volere, mi ha costretto a prosciugarmi fino all'ultimo..."
+
+### u065622
+"Ti dichiaro colpevole di arroganza e di tradimento del tuo Coro! Sarai condannato!"
+
+### u065623
+"Uccidiamolo per la gloria degli Dei Oscuri! Da solo non può resisterci!"
+
+### u065624
+"Maestro, vi prego, svegliatevi! Sono qui al vostro fianco!"
+
+### u065625
+"Non pensavo che l'avresti fatto... con le tue stesse mani..."
+
+### u065626
+"Basta! La mia mente sta bollendo! Maestro, vi prego, fermatevi!"
+
+### u065627
+"No! Vi prego, Maestro, tutto ma non questo! Meglio uccidermi che trasformarmi in una di quelle cose senza mente!"
+
+### u065628
+"Ciò che c'è dentro di lui non è fatto per i tuoi occhi."
+
+### u065629
+"Non scaccerai mai questo dolore."
+
+### u065630
+"L'anima di un altro è un labirinto senza via d'uscita."
+
+### u065631
+"Vai. Concedimi un po' di tempo in solitudine con lui..."
+
+### u065632
+"Lord Capitano, ricordo distintamente che questo spettro era una trappola."
+
+### u065633
+"Non sprecate altro tempo con questa abominazione, Rogue Trader. Ci ha già rivelato la sua natura menzognera."
+
+### u065634
+"Vi prego, non tocchiamo... quella... cosa di nuovo. L'ultima volta ci ha portato solo dolore."
+
+### u065635
+"È solo un'illusione destinata a distrarvi dalla verità. Non sprecate il vostro tempo con essa."
+
+### u065636
+"Abbiamo già stabilito che questa entità non è il nostro bersaglio, {name}. Dobbiamo continuare a cercare."
+
+### u065637
+"Non avevate già controllato questo, Lord Capitano?"
+
+### u065638
+"Questo azhi ci ha già bruciati una volta. Proseguiamo la ricerca, shereen?"
+
+### u065639
+"Questo fantasma è stato mandato per confonderci. Volgete i vostri passi lontano da esso, Domin."
+
+### u065640
+"Ti è piaciuto il dolore, {name}? Allora non sarò io a fermarti."
+
+### u065641
+"È stato determinato su base empirica che questa entità è falsa. L'esito previsto di un contatto ripetuto è insoddisfacente."
+
+### u065642
+"Questa è una falsa pista. Queste cose ci giocano con la testa: dovremmo cercare altrove, Rogue Trader."
+
+### u065643
+"Maledetto inganno! Non lasciare che ti freghi di nuovo, Aett-Vater."
+
+### u065644
+"Non toccare questa progenie del velo. È un'illusione, elantach."
+
+### u065645
+Non ci sono segni di violenza fisica sul corpo del servitore. Il volto senza occhi della vittima è contratto in un'espressione di orrore congelata.
+
+### u065646
+Il cadavere stringe un coltello. Ci sono numerose ferite intorno agli occhi e alle orecchie. I resti fusi del cervello affiorano dalle orbite vuote.
+
+### u065647
+"Un'eccellente battaglia, Vostra Signoria. Persino le apparizioni del warp non possono nulla contro di voi."
+
+### u065648
+"Be'... è stato un onore servire... Vostra Signoria..."
+
+### u065649
+"Non temete, Maestro Weisz. Finché vivrò, la barriera reggerà."
+
+### u065650
+"È una bugia... UNA BUGIA! Quelli... non sono i miei sentieri. Non sono le mie vite. C'è un solo me, il vero me... Andate via!"
+
+### u065651
+"Allora, diamo un'occhiata dietro la porta e incontriamo coloro che sono così ansiosi di vederci."
+
+### u065652
+"Ti ammiravo. Seguivo ogni tua parola. Se solo avessi avuto la lungimiranza di sfidarti in quel momento fatale..."
+
+### u065653
+"Ti avevo avvertito che il rituale era un errore, e per questo mi hai trasformato in un mostro! Hai fallito persino in quello, miserabile sciocco..."
+
+### u065654
+"Quando assorbivi il mio potere... uccidendomi... Che cosa hai provato? Ti è piaciuto?"
+
+### u065655
+"Tutto ciò che volevo era aiutare. Cercavo di salvarti. E tu... che cosa mi hai fatto?"
+
+### u065656
+"Come mentore eri inutile. Il tuo fallimento ha solo confermato le mie aspettative. Avresti dovuto conoscere il tuo posto..."
+
+### u065657
+"Hai sempre creduto in te stesso, non in Lui. Ebbene, anche Lui non ha creduto in te."
+
+### u065658
+"Guardati. Guarda in cosa ti sei trasformato. Patetico. Dicevano che eravamo destinati alla grandezza, ma tu hai scelto di crogiolarti nell'autocommiserazione e nelle menzogne."
+
+### u065659
+"Mille grazie per l'opportunità di essere d'aiuto, Vostra Signoria. È stato davvero avvincente!"
+
+### u065660
+"Com'è possibile... Tu— avevi promesso..."
+
+### u065661
+"State fermo, Maestro Weisz. Farà male solo all'inizio..."
+
+### u065662
+"Adeline... Oggi ci incontriamo finalmente."
+
+### u065663
+"Lord Capitano, abbiamo incrociato le caratteristiche chiave del sistema con i dati delle nostre carte astronautiche. Il pianeta Vheabos VI si trova qui. Il problema è che gli augur rilevano un'insolita variazione nell'atmosfera, non dissimile da un massiccio rilascio di tossine. Sembra che sia successo qualcosa di spiacevole alle strutture di stoccaggio sotterranee del pianeta."
+
+### u065664
+"Al momento è impossibile atterrare in sicurezza sul pianeta: navi sconosciute pattugliano il sistema. Hmm... Non serve che un ingranaggio lo analizzi, posso decifrare facilmente questa telemetria: xenos. Gli equipaggi dell'armeria e dell'artiglieria sono in allerta."
+
+### u065665
+"Lord Capitano, i nostri Astropati hanno ricevuto un messaggio da Achilleas Scalander su Dargonus. Ha studiato con attenzione i dati dell'incursione su Vheabos VI, compresa la menzione dei capi xenos. Ha promesso di dirigere gli sforzi dei suoi aiutanti per identificare quei nemici dell'Umanità, così da poterne determinare la posizione."
+
+### u065666
+"Il Maestro Scalander riferisce inoltre che i {g|Encyclopedia:Drukhari}Drukhari{/g} si stanno preparando a nuovi attacchi contro il vostro territorio. Le informazioni dei suoi aiutanti continuano ad arrivare e Achilleas vi riferirà di persona non appena il bersaglio della prossima incursione sarà chiaro. I Drukhari eccellono nel cogliere gli avversari di sorpresa e ci sarà poco tempo per organizzare una risposta. Secondo il Maestro Scalander, la vostra partecipazione personale alla difesa sarebbe la strategia migliore, date le circostanze."
+
+### u065667
+"Un nuovo messaggio dal Maestro Scalander, Lord Capitano. Stavolta non riferisce di un altro attacco, bensì della presunta posizione di uno dei capi xenos. Gli aiutanti di Achilleas riferiscono che tale capo guiderà un attacco al mondo paradiso di Grantis. C'è un inconveniente: il pianeta appartiene a Calligos Winterscale, un altro Rogue Trader."
+
+### u065668
+"Il Maestro Scalander ha osservato nel suo messaggio che rispondere a una richiesta di soccorso difficilmente sarà considerato un'incursione nel territorio altrui. Il governatore di Grantis con ogni probabilità lancerà una richiesta di aiuto nel momento stesso in cui comincerà l'incursione, e se la vostra nave del vuoto si trovasse nelle vicinanze, nessuno metterebbe in discussione i vostri motivi per atterrare."
+
+### u065669
+"Nel sistema è stato localizzato un oggetto non identificato. Il manufatto reagisce alle nostre trasmissioni rilasciando una radiazione sconosciuta, con ogni probabilità di origine xeno, riferiscono gli ingranaggi. Se volete osservarlo più da vicino, dobbiamo ridurre la distanza tra la nave e l'oggetto."
+
+### u065670
+"Lord Capitano! Abbiamo avuto la meglio sulle navi del vuoto di queste bestie, ma una squadra d'abbordaggio xenos è sbarcata sulla nave e avanza con decisione verso il propulsore al plasma. I tutori dell'ordine vengono sopraffatti e chiedono rinforzi: se non li aiutiamo, questa feccia distruggerà la nostra nave dall'interno!"
+
+### u065671
+"Ho un messaggio urgente da Dargonus, Lord Capitano! I nostri Astropati stanno ricevendo numerose trasmissioni... Ma no, non sono messaggi ordinari: ognuno di essi è una supplica d'aiuto! Dargonus segnala un'enorme incursione xenos, e ogni immagine mentale trasmessa è avvolta dalle fiamme!"
+
+### u065672
+"Il Maestro del Coro Astropatico fatica a stabilire quando esattamente sia cominciata l'invasione, ma tutti i segni indicano che sia avvenuta poco dopo la vostra partenza per il Cinerus Maleficum. Ogni ritardo condanna il mondo a sofferenze ancora più grandi: la vostra gente implora aiuto immediato!"
+
+### u065673
+Hai ordinato che i resti della Nave Nera vengano distrutti con un bombardamento.
+
+### u065674
+"Bombardate la nave. Che i morti seguano i morti."
+
+### u065675
+Hai ordinato che i resti della Nave Nera vengano distrutti inviando una squadra d'abbordaggio.
+
+### u065676
+"Inviate una squadra d'abbordaggio. Che distrugga questo luogo empio."
+
+### u065677
+Hai ordinato di inviare dei Tecnopreti sul relitto della Nave Nera per recuperare tutto ciò che valeva la pena prendere.
+
+### u065678
+"Mandate i tecnici a spogliare la nave di tutto ciò che ha valore. E assicuratevi che tengano la bocca chiusa su ciò che stanno per vedere."
+
+### u065679
+"Questa nave non mi interessa più. Lasciatela marcire."
+
+### u065680
+"Lord Capitano, qui parla la Maestra del Vox Vigdis Surri Otta Toliman. Spero che la vostra eroica spedizione sia stata un successo. Quali saranno le vostre ulteriori istruzioni?"
+
+### u065681
+"Lo spirito macchina di questa nave è morto e profanato. Dovrebbe essere inviato all'Omnissiah con un adeguato rito funebre nucleare."
+
+### u065682
+"Come desiderate, Lord Capitano. La potenza della nostra batteria principale dovrebbe bastare a penetrare il ghiacciaio e a far evaporare completamente la nave."
+
+### u065683
+"Con rammarico riferisco che la nostra batteria principale non sarà sufficiente a distruggere del tutto la nave. Lo scafo penetra in profondità nel ghiacciaio, proteggendo il bersaglio dal nostro colpo."
+
+### u065684
+"Sarà fatto, Lord Capitano. Una squadra d'abbordaggio verrà inviata immediatamente alle coordinate indicate. Sarà dotata di cutter per penetrare nello scafo della nave, raggiungere il reattore e innescare un sovraccarico a cascata che distruggerà il vascello. Le perdite subite durante l'operazione dovrebbero essere trascurabili."
+
+### u065685
+"Sarà fatto, Lord Capitano. Informerò l'intendente della nave della necessità di fornire un deposito sicuro per le vostre scoperte, nonché una squadra armata di custodi discreti e ben addestrati che le proteggano."
+
+### u065686
+"Sarà fatto, Lord Capitano. Nell'archivio della nave verrà aggiunta una voce che descrive la vostra gloriosa spedizione."
+
+### u065687
+Guida di persona una missione esplorativa
+
+### u065688
+Non disturbare i marinai del vuoto morti. E tieniti alla larga dagli affari dell'Inquisizione.
+
+### u065689
+Gli augur hanno rilevato i resti di una nave dell'Imperium sulla superficie di questo pianeta. A giudicare dagli emblemi sullo scafo, apparteneva un tempo all'Inquisizione e si è schiantata molti secoli fa. Le ragioni sono ignote e non c'è modo di sapere che cosa possa celarsi al suo interno. Gran parte della nave è sprofondata in un ghiacciaio, il che rende difficile un'analisi più approfondita.
+
+### u065690
+L'equipaggio tecnico sta preparando la navetta di sbarco del Lord Capitano.
+
+### u065691
+Ogni menzione della scoperta è stata rimossa dagli archivi della nave, per sicurezza.
+
+### u065692
+"Permesso di riferire, Lord Capitano. Continuo a ricevere messaggi su comportamenti strani di alcuni sistemi della nave. Tutti i ponti segnalano l'apertura e la chiusura incontrollabili di porte, cancelli e portelli stagni. Si comportano in modo irregolare e non obbediscono ai comandi degli operatori. Purtroppo ciò ha causato vittime tra l'equipaggio. I Tecnopreti hanno spiegato che questi fenomeni sono causati dall'irascibilità degli spiriti macchina e hanno passato ore a intonare litanie per placarne la collera. Sfortunatamente, molti membri dell'equipaggio sono rimasti gravemente feriti prima che le preghiere potessero stabilizzare i sistemi."
+
+### u065693
+"Lord Capitano, continuo a ricevere rapporti su malfunzionamenti dei vari sistemi della nave. Stavolta si tratta di inspiegabili sbalzi di temperatura. Guasti al controllo termico sono stati osservati non solo in singoli compartimenti, ma persino nell'equipaggiamento protettivo dei soldati. Diversi membri dell'equipaggio hanno riportato ustioni e congelamenti."
+
+### u065694
+"I Tecnopreti stanno eseguendo i riti di pacificazione degli spiriti macchina e restano convinti che i problemi siano stati causati dall'ostinazione e dalla sfida degli spiriti. I loro rapporti sostengono che gli incidenti restino ben entro i parametri prestazionali previsti. Negli ultimi giorni le lamentele sui controlli termici difettosi sono diminuite, ma i membri dell'equipaggio hanno cominciato a sussurrare che la nostra nave sia infestata. Le rassicurazioni dei Tecnopreti, secondo cui solo l'umore degli spiriti macchina sarebbe da biasimare, non fanno nulla per dissuadere queste ridicole dicerie."
+
+### u065695
+"Lord Cap', qui il Primo Timoniere Ravor. L'equipaggio brontola di nuovo, ma stavolta ha ottime ragioni: i nostri sistemi analitici sono impazziti del tutto. Le tonache rosse... scusate, i Tecnopreti, danno la colpa alla rabbia degli spiriti macchina. A quanto pare è così che manifestano il loro scontento per la scarsa devozione dell'equipaggio. Siamo riusciti in gran parte a stabilizzare l'output di augur e auspex su tutta la nave, ma dovete sapere che c'è qualcosa di terribilmente losco nelle macchine, in questi giorni."
+
+### u065696
+"Posso confermare, Lord Capitano. I sistemi analitici della nave si sono comportati in modo scorretto per un certo periodo. I cogitatori non riuscivano a produrre dati statistici e visualizzavano invece combinazioni numeriche prive di senso, gli augur non riuscivano ad analizzare correttamente la materia e scambiavano i solidi per liquidi e viceversa. Grazie agli sforzi dei Tecnopreti, il normale funzionamento dei meccanismi della nave è stato ripristinato. Registro ancora segnalazioni sporadiche di malfunzionamenti simili, ma ora dovremmo essere in grado di gestirli."
+
+### u065697
+"Che cos'erano?"
+
+### u065698
+"Siamo stati attirati in una trappola!"
+
+### u065699
+"Agganciate il Wasteland Wayfarer e aprite il fuoco."
+
+### u065700
+"Ce ne andiamo. Non c'è altro da fare qui."
+
+### u065701
+"Lord Capitano, è un sollievo vedervi in buona salute. Non appena siete {mf|entrato|entrata} nel Wasteland Wayfarer, il collegamento vox è stato disturbato da interferenze. Gli augur hanno registrato un guizzo di movimento sull'arca e i nostri Astropati hanno riferito la presenza a bordo di psiche non del tutto umane."
+
+### u065702
+"La colonia stretta da questa lordura non è stata in grado di mettere in orbita una nave e di partire per compiere nuove scelleratezze. L'unica cosa che hanno potuto fare è tendere una trappola ai bravi sudditi dell'Imperatore. O ai pirati intenzionati a derubare i 'pellegrini indifesi'."
+
+### u065703
+"Corporaptor Hominis. Possiedono eccezionali capacità di infiltrazione, sono adattivi, altamente organizzati e dotati di intelletti avanzati. Osservati mentre infettano come parassiti individui di altre specie, con successiva riconfigurazione della struttura genetica dell'ospite."
+
+### u065704
+"Miserabili esseri inumani e blasfemi. Devono essere entrati sulla nave insieme ai pellegrini e averne preso il controllo col tempo, oppure potrebbero persino essere rimasti ad aspettare sul pianeta stesso. In un modo o nell'altro, hanno condannato i corpi e le anime di chiunque abbia messo piede sulla superficie di questo mondo."
+
+### u065705
+"Minaccia 3T, i Genestealer. Spie di una razza xenos ostile inviate a infiltrarsi nell'Imperium. Lo riferirò al Lord Inquisitore alla prima occasione. Sottovalutare questa minaccia o il suo potenziale psichico sarebbe una follia. Ora che non si nascondono più, riesco a sentire i loro disgustosi richiami mentali con una chiarezza inquietante."
+
+### u065706
+"Li chiamiamo 'i Falsi tra Noi'. Predatori delle nostre stirpi. Questa progenie del Grande Divoratore ha ridotto al silenzio le voci di diverse enclavi del mio popolo. I loro morsi laceranti rubano le anime così come la loro carne ruba le forme delle razze più nobili. Abominazioni!"
+
+### u065707
+"Un'oltraggiosa perfidia. Presumo che le creature empie di questa nave non siano in grado di sollevare il Wasteland Wayfarer dalla superficie. Non sorprende: i trasporti più vecchi e logori vengono spesso mandati in viaggi di sola andata, così che dopo l'atterraggio possano diventare il centro della colonia nascente, e il loro reattore il nucleo energetico del nuovo insediamento."
+
+### u065708
+"Sarà fatto. I trasporti di classe 'Jericho' non sono mai stati pensati per il combattimento. Il Maestro dell'Artiglieria giura di poter distruggere il reattore della nave con un solo colpo della batteria principale, innescando una reazione a catena che annienterà completamente il vascello."
+
+### u065709
+"Come desiderate, Lord Capitano. Spero che nessun altro cada vittima del loro tradimento."
+
+### u065710
+"Hanno detto di poter sentire la loro lealtà fanatica e... la fame. Ho pensato che potesse servirvi aiuto e ho ordinato di inviare come rinforzo una squadra di tutori dell'ordine. Hanno trovato il portello stagno disattivato, ma sono riusciti a forzarlo, seppur in modo poco delicato. Sia lodato l'Imperatore per la loro ingegnosità."
+
+### u065711
+"Lord Capitano! Abbiamo trovato la pista dell'Elusive Contempt! La nave è stata avvistata nel Latotian's Passage. Se inseguiamo subito i pirati, possiamo raggiungerli prima che quei cialtroni arroganti ci sfuggano di nuovo."
+
+### u065712
+"Lord Capitano, il Coro Astropatico ha ricevuto notizia di una flotta di pirati che si prepara ad attaccare uno dei nostri extractium più ricchi. Credo che siano di nuovo i furfanti dell'Elusive Contempt. Il loro prossimo bersaglio è uno dei pianeti del Silence of Mer-Segrit."
+
+### u065713
+"Mie scuse, Lord Capitano, ma Idira insiste per ottenere udienza. Sembrava piuttosto ansiosa ed è andata dritta nei vostri alloggi. Credo che borbottasse qualcosa su 'una soluzione a tutti i suoi problemi'. Non c'è stato modo di convincerla ad aspettare un momento migliore, quindi temo che sarà lì da un momento all'altro."
+
+### u065714
+"Che cosa vogliono?"
+
+### u065715
+"Punisci la loro mancanza di rispetto facendoli attraccare al portello più lontano e fatiscente, così che impieghino un'eternità ad attraversare la nave."
+
+### u065716
+"Ricevi la delegazione. Potrebbero davvero essere qui per questioni importanti."
+
+### u065717
+"Digli di sparire e di imparare un po' di educazione."
+
+### u065718
+"Lord Capitano, una navetta da trasporto con i contrassegni dell'Adeptus Mechanicus si sta avvicinando alla nave. La delegazione del Magos Tarzus intende salire a bordo e ottenere udienza presso Vostra Signoria... Sono esattamente le sue parole. Intende, non chiede umilmente."
+
+### u065719
+"I rispettabili servitori dell'Omnissiah hanno ignorato la nostra richiesta. Una simile arroganza non è banale, sembra piuttosto far parte delle loro tattiche d'intimidazione."
+
+### u065720
+"Una punizione quanto mai umana, Vostra Signoria."
+
+### u065721
+"L'Esimio Magos Tarzus riferisce che la sua missione è di importanza critica. Il Logis Opticon-22 a bordo si scusa per la mancanza di rispetto mostrata in questo momento."
+
+### u065722
+"Molti dei miei tecno-compagni trascurano la diplomazia nel rapportarsi con i laici. È deplorevole."
+
+### u065723
+"Chiedo il permesso di essere presente all'udienza concessa ai miei tecno-compagni."
+
+### u065724
+"Lord Capitano, scusate il disturbo..." {n}Vigdis fa una pausa, come se ascoltasse qualcosa.{/n} "C'è il pandemonio fuori dal portone del ponte di comando: uno degli ufficiali sembra pretendere un'udienza di persona con voi. Mi pare di sentire la voce del Maestro Werserian... in ogni caso, volevo avvertirvi in anticipo."
+
+### u065725
+"Lascerai il mio seguito, se rifiuto?"
+
+### u065726
+"Perché questa conversazione è così importante per te?"
+
+### u065727
+"Avrai il tuo incontro con Thorbald. Vieni sul ponte di comando."
+
+### u065728
+"L'assalto è più importante. Vai a cercarlo tu stesso, se proprio devi."
+
+### u065729
+"Non chiudere le orecchie alle mie parole, Aett-Vater, o litigheremo! Prima di andare alla più sanguinosa delle battaglie, permettimi di convocare sulla tua nave quello sfrontato spaccone di Thorbald Ironhide! Il mondo dei preti-ingranaggio può attendere finché due Lupi non avranno detto le loro parole!"
+
+### u065730
+"Lo farò, Aett-Vater, altrimenti mi chiameranno Ulfar l'Errante, Colui che Dimenticò il Suo Branco."
+
+### u065731
+"E se i nemici gli faranno saltare la testa durante l'assalto, chi mi dirà dove trovare i miei fratelli? Il mio branco! Devo trovarli!"
+
+### u065732
+"Così va meglio, Aett-Vater! Prima parleremo con quell'insolente fanfarone e poi schiacceremo gli eretici!"
+
+### u065733
+"Addio, dunque, {name}. Che il Padre di Tutti guidi la tua mano. Spero che le nostre strade si incrocino di nuovo, così che tu e i miei fratelli possiate incontrarvi."
+
+### u065734
+"Comprendi, Aett-Vater, quanto sia importante questa conversazione. È il mio sentiero di caccia, e possiamo percorrerlo insieme, o lo percorrerò da solo. Spero che tu dia ascolto alle mie parole, perché non desidero abbandonare la tua banda di guerra prima di aver saldato il mio debito per essere stato liberato dalla schiavitù degli xenos."
+
+### u065735
+Reta e la sua gente sono grati al Rogue Trader per il suo aiuto.
+
+### u065736
+I recolliger hanno bisogno di rifornimenti di base
+
+### u065737
+I recolliger hanno bisogno di provviste
+
+### u065738
+I recolliger hanno bisogno di medicine
+
+### u065739
+I recolliger hanno bisogno di vestiti e scarpe
+
+### u065740
+"L'Alto Factotum è partito per il santuario, Vostra Signoria."
+
+### u065741
+"Posizioni difensive! Non lasciate passare nemmeno uno!"
+
+### u065742
+"Devo davvero ferirmi per questo?"
+
+### u065743
+[Fatti un piccolo taglio sul palmo]
+
+### u065744
+"Si tratta di qualche stregoneria da psyker?"
+
+### u065745
+[Restituisci il pugnale] "Hai il mio permesso di andare a questa caccia, ma non sfregerò il mio stesso corpo. Porta già abbastanza cicatrici."
+
+### u065746
+"Che la tua furia e la tua determinazione siano incrollabili."
+
+### u065747
+"Mi fido di te, Kibellah. Cominciamo."
+
+### u065748
+"Preferirei rinunciare a qualsiasi intreccio di anime."
+
+### u065749
+"Ti concedo la mia benedizione e così via, e via dicendo... Possiamo finirla qui, adesso?"
+
+### u065750
+"Vedo... cose strane. Dentro di te e fuori."
+
+### u065751
+"Quindi diventerei una parte di te? Che cosa significa?"
+
+### u065752
+"Mi sento {mf|strano|strana}... Che cosa sta succedendo?"
+
+### u065753
+"Che la vostra lealtà alla nave ammiraglia sia sempre la nostra guida costante durante questa missione."
+
+### u065754
+"Sii clemente. Coloro che cacci potrebbero essere essi stessi delle vittime."
+
+### u065755
+"Siete il mio Domin. Io sono la vostra lama, affilata dalla vostra benedizione. Le mie braccia sono forti finché è forte la vostra volontà. E finché l'Imperituro ascolta le vostre preghiere, i miei passi non saranno uditi." {n}La sua lama bacia il palmo e un sangue scuro comincia a colare e a spandersi sul fondo del calice rituale apparso in questo istante tra le sue mani.{/n}
+
+### u065756
+"Il prezzo della vittoria, il prezzo della sconfitta, si misura sempre in sangue. Date all'Imperituro solo poche gocce oggi, ed Egli potrebbe impedire domani che la vostra nave ammiraglia si riempia di fiumi scarlatti."
+
+### u065757
+"L'intreccio è il giuramento di sangue che ho fatto al mio {mf|signore|signora}." {n}Kibellah intinge le dita nel sangue versato e traccia un simbolo, prima sulla propria fronte, poi sulla tua. Sembra raffigurare una lama che taglia un intricato nodo.{/n}
+
+### u065758
+{n}Kibellah riflette per un istante.{/n} "Il vostro corpo non può accompagnarci in questa caccia, Domin. Ma il vostro spirito... non c'è nulla che lo spirito non possa fare. L'intreccio è completo: voi e io siamo ora legati dal giuramento di sangue. Pensate a me mentre caccio, come io penserò a voi. Diventate un pensiero che scorre nella mia mente. Se l'Imperituro ci sarà favorevole, vi manderà dei sogni, e in quei sogni mi vedrete. Se ci sarà favorevole ancora di più, quei sogni saranno veritieri."
+

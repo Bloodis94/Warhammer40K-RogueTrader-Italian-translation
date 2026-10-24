@@ -1,0 +1,878 @@
+### u026421
+"Sono lieto di vedere che preferite proseguire la nostra missione piuttosto che dedicarvi ai passatempi oziosi di questo mondo."
+
+### u026422
+"Così chiamiamo i nobili che scendono tra noi sulle loro meravigliose navi... Naturalmente io non sono nativo di Thassera e quindi un tempo fui io stesso un Signore Celestiale. Mi sono abituato agli usi locali, però, e perciò mi rivolgo a voi come farebbe qualsiasi thasseriano."
+
+### u026423
+{n}Ruoldo congiunge le mani e dice con aria dimessa,{/n} "Certamente, Maestro Giudicatore, vi fornirò tutti i documenti non appena la nostra revisione interna sarà conclusa. Vi assicuro che non ci vorrà molto e che il rapporto stesso sarà esauriente!"
+
+### u026424
+{n}Solomorne si china verso di te e dice a voce bassa,{/n} "Secondo la mia esperienza, direi che ci hanno assegnato una spia con il pretesto della generosità, ma è un bene. Useremo questa giovane donna come fonte di informazioni sul mondo. Per ora sarebbe saggio stare al gioco e interrogarla a fondo quando saremo lontani da orecchie indiscrete."
+
+### u026425
+{n}I goffi tentativi del governatore di restare in sella e la sua totale mancanza di portamento nobiliare ti {d|Encyclopedia:CharGen_Nobility}lasciano {mf|sconcertato|sconcertata}{/d}. Pare che l'educazione dell'aristocrazia thasseriana sia tanto poco impressionante quanto lo stato tecnologico di questo mondo.{/n}
+
+### u026426
+"Da un lontano mondo civilizzato... sì, a Thassera manca molto di ciò a cui ero abituato, eppure dopo la mia nomina qui ho imparato presto ad amare questo pianeta con tutto il cuore. Spero che durante la vostra visita anche voi arriverete a provare almeno un po' di affetto per Thassera."
+
+### u026427
+{n}Ruoldo cambia bruscamente argomento, restio a dire altro sul suo mondo natale. Il motivo non è chiaro.{/n}
+
+### u026428
+{n}Una figura più piccola esce dalla folla, vestita con il variopinto abito di un giullare di corte e con una maschera beffarda sul volto.{/n} "Mi chiamo Bluff! Sono il buonumore di Lord Ruoldo. Solletico Sua Governatorialità con battute ben sparate e pettegolezzi minuscoli. E ora, allegramente, mi tolgo il cappello davanti ai nostri Signori e Signore Celestiali e consegno loro questa chiave di Thassera in segno della nostra lealtà senza confini." {n}Il giullare si inchina e ti porge il suo dono.{/n}
+
+### u026429
+{n}Ruoldo non sembra affatto scoraggiato: scambiare le guglie scintillanti di un formicaio con le torri scure di un mondo feudale avrebbe spezzato lo spirito di molti.{/n}
+
+### u026430
+"Mi sorprende che funzionino ancora." {n}I muscoli facciali di Eogunn si contraggono, come se il Manipulus stesse compiendo uno sforzo titanico per non storcere il viso dal disgusto.{/n} "Forse l'aria di qui favorisce il lento decadimento della materia organica... o forse persino i servitori possiedono qualcosa di simile a una volontà di vivere. Che c'è, Nuncius?" {n}Il Genetor si volge al suo servoteschio.{/n} "No, in fin dei conti questo particolare fenomeno non sembra affatto un miracolo delle macchine."
+
+### u026431
+"Moderatevi, collega. State commettendo un errore di categoria, pensando che la popolazione indigena sia in grado di osservare i rituali di servizio nella loro piena estensione. Il meglio che un ignorante profano possa fare per un meccanismo funzionante è lasciarlo in pace. La combustione di unguenti sacri, tuttavia, è... del tutto superflua."
+
+### u026432
+{n}Abelard si schiarisce la gola.{/n} "{mf|Sua Signoria|Sua Signoria} {name} von Valancius, erede del più grande protettorato della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} e portatore del sacro {g|Encyclopedia:Warrant}Mandato{/g}, ha onorato Thassera con la {mf|sua|sua} presenza per discutere questioni relative alla decima di questo pianeta—"
+
+### u026433
+"O-ora, Vostra Celestiale Altezza, abbiamo davvero fatto del nostro meglio per allestire una festa degna dei nostri onorati visitatori. Ma la notizia del vostro arrivo ci è giunta così tardi! Mi è rimasto soltanto un Astropate privo di talento. Abbiamo dovuto affrettare i preparativi. Ciononostante siamo riusciti a mettere in mostra per voi tutto, tutto ciò di cui Thassera va fiera! Devo chiedervi..."
+
+### u026434
+"Be', in tal caso... vi prego di procedere verso il castello. Tutta Thassera attendeva il vostro arrivo, affaccendata a preparare le pietanze e gli intrattenimenti migliori in vostro onore, perciò temo che potrebbe essere difficile per voi evitare l'attenzione. Lasciate che una dama di corte vi accompagni..."
+
+### u026435
+"Allora, che devo fare di te?"
+
+### u026436
+"Sì, lo sono. Ma non somigli molto a una nobildonna."
+
+### u026437
+"Infatti. Ricordati la mia faccia, contadina!"
+
+### u026438
+[Applica il marchio a Edytka]
+
+### u026439
+"Perché mi dici questo? Secondo le regole dovresti fingerti una nobile, e poi ottieni una ricompensa."
+
+### u026440
+"Perché cerchi di scappare?"
+
+### u026441
+"Perché partecipi alla mascherata, in primo luogo?"
+
+### u026442
+"Devo rifletterci. Aspetta qui."
+
+### u026443
+"Nessuno torna mai indietro? Che cosa vorrebbe dire?"
+
+### u026444
+"Non sembri affatto un'impostora. Guardie! Lasciatela andare."
+
+### u026445
+{n}I capelli della giovane nobildonna sono scompigliati, il corpetto macchiato di sporcizia e la maschera sbilenca sulla sommità del capo. Tenendo alta la gonna, si sta sforzando con tutte le sue forze di farsi strada tra le guardie che bloccano la porta.{/n} "Lasciatemi andare, vi prego, per amor del Trono!" {n}esclama quando le guardie la respingono ancora una volta.{/n}
+
+### u026446
+"Non è che me l'abbiano chiesto con gentilezza, Vostra Grazia. Mi hanno afferrata, mi hanno ficcata in questo vestito e mi hanno gettata qui dentro. Nessuno qui è stato interpellato. Ma io non voglio essere il giocattolo di nessuno. Ho tre maschi e una femmina, inamidiamo la biancheria dei nostri lord e delle nostre lady e ci spezziamo la schiena solo per racimolare abbastanza avanzi per la giornata!" {n}Ti mostra le mani callose, chiazzate di rosso per le ustioni chimiche.{/n}
+
+### u026447
+{n}La donna ti nota e tenta qualcosa che somiglia a una riverenza, ma inciampa e cade in ginocchio.{/n} "Ho finito! Non ce la faccio più! Voi siete il nostro {mf|Signore|Signora} Celestiale, non è vero?"
+
+### u026448
+{n}Stringendo i volant del suo magnifico abito con le mani ruvide, dalle nocche bianche, la donna alza lo sguardo su di te.{/n} "Vi prego, Vostra Grazia! Per il Dio-Imperatore, lasciatemi andare! Nessuno di quelli che si ritrovano addosso uno di questi vestiti torna mai indietro. Se resto, non rivedrò più la mia casa, lo so e basta. Non ho fatto nulla di male!"
+
+### u026449
+"Sono Edytka, Vostra Grazia. Non sono una nobile, neanche un po'! Faccio solo il bucato e sbianco la biancheria. Non ho mai frequentato l'alta società in vita mia! Perdonate una sciocca, Vostra Grazia..."
+
+### u026450
+"Solo questo, Vostra Grazia. Non importa se vi marchiano o no: finita la caccia, siete spacciati. Questo posto è come una fossa di grox: non si torna indietro. Ma io voglio vivere, voglio essere utile. Vi prego, vi prego, lasciatemi tornare a casa!"
+
+### u026451
+{n}Privi del coraggio di opporsi alla tua richiesta, le guardie si fanno da parte con riluttanza. Mentre la donna si volta a guardarti, vedi rigagnoli umidi sul suo viso ingenuo.{/n} "Grazie, {mf|Signore|Signora} Celestiale! Siete un tesoro! Non dimenticherò mai la vostra bontà!" {n}Si inchina profondamente e svanisce nell'oscurità.{/n}
+
+### u026452
+{n}Ogni speranza svanisce dagli occhi lucidi della donna. Si asciuga il naso con la manica ed emette un sospiro abbattuto.{/n} "Perdonatemi, Vostra Grazia. Avete fatto quello che dovevate. Non era giusto da parte mia rovinare il vostro gioco."
+
+### u026453
+"Ma io non voglio nessuna ricompensa, {mf|mio signore|mia signora}! Voglio tornare a casa!" {n}La donna china il capo e stringe i merletti del suo vestito. Il respiro le si spezza, scossa da singhiozzi silenziosi.{/n}
+
+### u026454
+"Voglio andarmene prima che comincino a metterci quei... quei marchi. Per i furfanti! Io non sono per niente una furfante, non lo vedete? Non riuscirei a ingannare nemmeno un grox."
+
+### u026455
+{n}Lancia un'occhiata colma di desiderio alla porta e annuisce.{/n}
+
+### u026456
+{n}Edytka ti guarda con un'espressione tormentata, in attesa del tuo verdetto.{/n}
+
+### u026457
+"Ricordare i volti dei nobili non si usa, a Thassera, {mf|mio signore|mia signora}: non quando li cambiano cinque volte al giorno!"
+
+### u026458
+"Solomorne, era davvero necessario aizzargli contro Glaito? Ci sono modi di trattare con i criminali che non siano la violenza!"
+
+### u026459
+[Esamina il volto della vittima]
+
+### u026460
+"Non serve. Guarirà da sé."
+
+### u026461
+[Distogli lo sguardo con ostentazione, offrendo un'opportunità all'aggressore]
+
+### u026462
+[Applica il marchio dell'impostore alla vittima]
+
+### u026463
+[Intervieni e libera la vittima]
+
+### u026464
+[Applica il marchio dell'impostore al giustiziere]
+
+### u026465
+"Tieni i tuoi stracci lontani da me!"
+
+### u026466
+"Il sarto andrà in prigione. Subito. Guardie!"
+
+### u026467
+"Parlami dell'élite marcia di Thassera."
+
+### u026468
+"Proctor, penso che dovreste porre fine a questo disordine."
+
+### u026469
+[Uccidi il giustiziere] "Sembra che la tua vendetta finisca qui."
+
+### u026470
+"Quest'uomo non si è mai sottoposto alla procedura locale di sostituzione del volto. Indossa il proprio."
+
+### u026471
+"Parlami di questo valletto."
+
+### u026472
+"Fuori di qui, sarto. E fa' in modo che non ti rivegga mai più."
+
+### u026473
+"Ho cambiato idea. Sarto, puoi finire ciò che hai cominciato."
+
+### u026474
+"Medicarla sarebbe magnifico, grazie."
+
+### u026475
+{n}Nella luce tremolante delle torce, vedi un luccichio d'acciaio. Uno dei giovani in giacca sta premendo una lama contro le costole dell'altro. Una maschera giace abbandonata ai piedi dell'aggressore. Notandoti, la vittima tremante grida,{/n} "Vostra Altezza! Salvatemi!"
+
+### u026476
+{n}Gli occhi del nobile si spalancano.{/n} "Non capisco! Sono di sangue nobile, un rampollo del governatore, o quasi! Volevo aiutare un popolano di talento e invece mi sono cacciato nei guai per questo... e voi mi marchiereste come impostore per questo? Non potete marchiarmi! Non è... non è giusto!"
+
+### u026477
+{n}I lineamenti del nobile signore sono tirati e deformati. I bordi del collo, della fronte e delle guance sono fissati ai lati con sottili fili d'oro.{/n}
+
+### u026478
+"Non intromettetevi, {mf|forestiero|forestiera}. Quest'uomo merita di essere punito, assieme a tutta l'élite marcia di Thassera. Vedono le persone come semplici cose da indossare. Che mi guardi negli occhi e scopra che effetto fa essere fatto a pezzi." {n}Ti rendi conto che l'arma premuta contro il corpo della vittima non è altro che un paio di forbici da sarto affilate con maestria.{/n}
+
+### u026479
+"Questo pazzo ha corrotto le guardie perché ignorassero le mie grida! Sono certo che canteranno un'altra canzone quando scopriranno che il {mf|Signore|Signora} Celestiale ha dovuto intervenire di persona!"
+
+### u026480
+{n}Scrutando il volto del nobile, ti rendi conto che la pelle tesa è la sua. Non vedi cicatrici né punti. Pare che sia semplicemente il suo modo di migliorare il proprio aspetto e imitare le persone di rango superiore.{/n}
+
+### u026481
+{n}L'aggressore non sembra sentirti: si china sulla vittima e comincia a staccare con cura la pelle dal volto del nobile.{/n}
+
+### u026482
+"Sono parassiti. Fanno a pezzi chiunque vogliano. Questa feccia si infila nella pelle di una persona come in un abito di due taglie troppo piccolo, spaccandone le cuciture." {n}Il giustiziere ti fissa senza battere ciglio, con gli occhi vitrei.{/n}
+
+### u026483
+{n}Solomorne lancia uno sguardo indifferente alla coppia.{/n} "La gente del posto e i suoi strani divertimenti: non valgono il nostro tempo."
+
+### u026484
+"Abiti di pelle e cuciture che si spaccano? Assurdo! Tuo fratello è stato ricompensato per il suo talento con il miglior incarico che potesse sperare: forse ha semplicemente deciso di non voler più avere niente a che fare con te!" {n}La voce del nobile si incrina: è sul punto di scoppiare in lacrime.{/n} "Vostra Celestiale Altezza, se fosse vostra volontà, potreste mandare dei servitori dalla sarta in questo preciso istante e trovare il fratello di quest'uomo vivo e vegeto!"
+
+### u026485
+{n}Ti impadronisci delle forbici e le pianti con destrezza nel ginocchio dell'aggressore. Sentendo allentarsi la presa del suo aguzzino, la vittima si libera e si nasconde dietro di te.{/n}
+
+### u026486
+{n}Provi ad afferrare le forbici, ma l'aggressore è più veloce. Devi metterti in pericolo per salvare la vittima. Per fortuna la ferita delle forbici da sarto non è mortale, e il nobile salvato si nasconde subito dietro la tua schiena.{/n}
+
+### u026487
+{n}Neppure un muscolo si contrae sul volto dell'aggressore.{/n} "Giocate pure quanto volete. La mia missione non cambierà."
+
+### u026488
+"Solo perché me l'avete chiesto." {n}Solomorne fa un cenno a Glaito e il mastino cibernetico si lancia contro l'aggressore. Potenti zampe di metallo inchiodano l'uomo al suolo, impedendogli di muoversi.{/n}
+
+### u026489
+{n}Il nobile guarda con timore il suo aggressore.{/n} "È molto semplice, Vostra Celestiale Altezza. Suo fratello minore ha un talento per gli abiti. Lo notai mentre cercavo nuovi servitori e mandai il ragazzo a fare apprendistato presso una rinomata sarta dei quartieri alti. Pensavo di farne il mio valletto, capite. Ma poi questo sciocco si è messo in testa che avessi preso suo fratello non per il suo talento, ma per usarlo per il mio ringiovanimento. Che bisogno avrei di un volto nuovo? Non ho nemmeno consumato il mio!"
+
+### u026490
+{n}Il viso del nobile è contratto in una smorfia di terrore. È difficile dire se abbia il volto di un'altra persona cucito sul proprio o no, o se somigli in qualche modo all'aggressore.{/n}
+
+### u026491
+"Sarebbe follia lasciare libero un uomo posseduto. Annegherebbe questo luogo nel sangue e lo avvelenerebbe con la sua immonda macelleria."
+
+### u026492
+"Le sue parole sono intrise di grigio, con lampi di disperazione color rame che affiorano. Ma della palude fangosa dell'inganno... non vedo nulla."
+
+### u026493
+{n}Senti un rumore di stoffa strappata: senza esitare, Maive strappa un pezzo del suo abito riccamente ricamato e si affretta a prendersi cura della tua ferita. Cogli il suo sguardo interrogativo:{/n} "Posso medicarla?"
+
+### u026494
+{n}La giovane donna annuisce con timidezza e comincia a trattare con cura il taglio. Pulsa ancora di dolore, ma l'abbondante sanguinamento si è fermato.{/n}
+
+### u026495
+"Sì, mio {mf|signore|signora}... Mi dispiace..." {n}La giovane donna si scosta con aria dimessa, coprendo gli sgradevoli brandelli del suo abito rovinato con un gesto fatto passare per disinvolto.{/n}
+
+### u026496
+{n}Nel momento in cui ti scosti, le guardie si precipitano sulla scena.{/n}
+
+### u026497
+{n}Neppure un muscolo si contrae sul volto dell'aggressore. Il suo sguardo implacabile resta fisso sul nobile.{/n} "Giocate pure quanto volete. La mia missione non cambierà: il furfante morirà."
+
+### u026498
+{n}Con un movimento rapido ed elegante, tronchi la vita dell'aggressore.{/n}
+
+### u026499
+"Puoi dimenarti, puoi correre, puoi rannicchiarti dietro le spalle altrui. Ma dalla giustizia non c'è scampo. Ti trafiggerà da parte a parte, come un ago. Dalle solo tempo."
+
+### u026500
+"Ma Vostra Altezza..."
+
+### u026501
+"Come desiderate, mio {mf|signore|signora}. Siete così {mf|coraggioso|coraggiosa}!" {n}Gli occhi di Maive brillano di ammirazione.{/n}
+
+### u026502
+"G-grazie per essere {mf|intervenuto|intervenuta}, Vostra Celestiale Altezza!" {n}Il nobile si porta la mano al cuore e si inchina profondamente. Non appena ti scosti, le guardie si precipitano sulla scena.{/n}
+
+### u026503
+"L'Adeptus Arbites non spreca parole con la plebaglia di passaggio. Inoltre i miei metodi erano giustificati: alla vista di un Arbitratore con un mastino cibernetico, avrebbe dovuto deporre subito l'arma e cadere in ginocchio."
+
+### u026504
+{n}L'aggressore perde visibilmente la calma.{/n} "Ammettilo! Lo hai ucciso e gli hai preso la faccia per indossarla al posto di un costume! Non ho notizie di mio fratello da una lunazione!"
+
+### u026505
+{n}La vittima trae un respiro rotto.{/n} "È un sarto dei quartieri bassi! È impazzito! Crede che io indossi la faccia di suo fratello, il mio valletto!"
+
+### u026506
+{n}L'aggressore serra una mano sulla bocca del nobile e le forbici affilate gli trafiggono la carne con facilità. Un attimo dopo, il morto scivola a terra e l'assassino ti guarda con un lampo folle negli occhi.{/n} "Fate una bella figura, anche se non siete di Thassera. Lasciatemi andare e cucirò il mondo intero a vostra immagine."
+
+### u026507
+"Non lasciatevi ingannare! Guardate meglio: questo furfante nasconde semplicemente le sue cuciture. Crede di poter ingannare un sarto esperto, ma è fatica sprecata."
+
+### u026508
+"L'oscurità ha avvolto completamente quest'uomo. Come si può impartire una giusta punizione in una tenebra così accecante?" {n}Cassia rabbrividisce e distoglie lo sguardo.{/n}
+
+### u026509
+"Credo che farò un paio di domande, dopotutto."
+
+### u026510
+"Ho bisogno di più tempo per pensare."
+
+### u026511
+"Devo prima farvi qualche domanda per identificare l'impostore."
+
+### u026512
+"Cosa attende il servitore dell'Imperatore dopo la morte?"
+
+### u026513
+"Con quale nome sono noti i guerrieri nati dal sangue dei figli dell'Imperatore?"
+
+### u026514
+"Quale ruolo ha, secondo voi, la conoscenza nell'Imperium?"
+
+### u026515
+"Le dottrine religiose non sono il mio forte."
+
+### u026516
+[Applica il marchio dell'impostore al vecchio sacerdote]
+
+### u026517
+[Applica il marchio dell'impostore al giovane sacerdote]
+
+### u026518
+[Osserva i due sacerdoti]
+
+### u026519
+"La conoscenza deprava l'anima, così come leggere lettere che non sono destinate a essere lette." {n}Il vecchio sacerdote aggrotta la fronte davanti alle parole appassionate del giovane.{/n}
+
+### u026520
+{n}Il vecchio sacerdote ti rivolge un cenno riservato. Intanto il più giovane volge tutto il corpo verso di te, come uno studente che viene valutato.{/n}
+
+### u026521
+{n}Cassia scuote la testa.{/n} "I loro giudizi sono come i due lati di un'unica moneta. C'è valore in entrambi, ma nessuno dei due costituisce il tutto."
+
+### u026522
+{n}Noti una netta differenza tra le corporature degli uomini che litigano: il corpo del sacerdote anziano è scarno, a differenza di quello del giovane dal viso liscio. Inoltre il sacerdote più giovane ha la voce melodiosa di un cantore, mentre il discorso del vecchio è chiaro e potente.{/n}
+
+### u026523
+{n}Entrambi i sacerdoti riflettono per un po' sulla domanda. Il più anziano è il primo a prendere la parola:{/n} "Se serviranno con fedeltà, l'Imperatore preserverà la loro anima nelle Sue sale."
+
+### u026524
+"Gli Araldi del Maestro Celestiale. Dei tra gli uomini!" {n}Gli occhi del giovane predicatore sono accesi di timore reverenziale.{/n}
+
+### u026525
+"Non ci sono barriere all'apprendimento della parola dell'Imperatore e alla conquista di tutto ciò che Egli ci ha donato. Avete letto i manoscritti del nostro scriba, Gorgorius Falt? Ho sentito che ora ha abbandonato il suo mestiere... ma la sua ricerca risplende della luce del vero culto!"
+
+### u026526
+{n}I due sacerdoti rivolgono di nuovo l'attenzione l'uno all'altro. Segue una lunga pausa.{/n}
+
+### u026527
+{n}Il vecchio digrigna i denti e si volta verso il giovane sacerdote.{/n} "Il mio sangue sarà più sudicio del carbone, ma almeno le mie vesti me le sono guadagnate!"
+
+### u026528
+"Questo sciocco dice di anelare a un servizio eterno? Non sente l'Imperituro che ride piano delle sue parole. Non è destino di quest'uomo servirLo per l'eternità. È andarsene docilmente quando Egli sussurra: 'È giunta l'ora.'"
+
+### u026529
+"Siete {mf|tornato|tornata}! Il Dio-Imperatore benedica ogni vostro passo! Che vogliate finalmente risolvere la nostra disputa?" {n}Il giovane sacerdote ti accoglie con un sorriso raggiante.{/n}
+
+### u026530
+{n}Il sorriso svanisce dal volto del giovane. Ansima indignato,{/n} "Perché... be', sì, ho saltato il lectorium una o due volte, è vero... Ma sono comunque un vero nobile! Lo giuro sul mio onore!"
+
+### u026531
+{n}I sacerdoti ti guardano con riservata curiosità e apprensione.{/n}
+
+### u026532
+"Posso, shereen? Se la vita mi ha insegnato una cosa, è leggere le persone." {n}Jae squadra i due uomini.{/n} "Questo qui, con la faccia così fresca e lucida, è come un bel grox grasso: non si mette tutto quel peso in una notte. E la voce... una vera delizia! Scommetto che la gente fa la fila per confessarsi in privato con 'sua santità'. Chi se ne importa di quanti testi sacri conosca a memoria?" {n}Il sorrisetto di Jae fa arrossire profusamente il giovane sacerdote.{/n} "Quanto al vecchio, si comporta esattamente come un vagabondo di Footfall mezzo morto che è appena inciampato in un pasto vero. Le sue vesti potrebbero benissimo essere appese a un lungo bastone. Ma scommetto una bottiglia di vino calixiano che la sua fede è sincera, se non altro perché quelli come lui non hanno altra scelta!"
+
+### u026533
+"Guardatelo, mio {mf|signore|signora}! Si strafoga come un maiale! Che razza di nobile si comporta così?"
+
+### u026534
+"Di una razza migliore di questo sedicente predicatore, questo moccioso dalla faccia grassa la cui testa non regge più di una litania alla volta!"
+
+### u026535
+{n}Ulfar lancia al giovane un'occhiata severa, ma si limita a scuotere tristemente il capo.{/n}
+
+### u026536
+{n}Per te, che sei {mf|un|una} {d|Encyclopedia:CharGen_Ministorum}{mf|vero adepto|vera adepta} dei precetti della fede{/d}, è più che ovvio che le parole del giovane sono eresia. Il sentiero di ogni anima giusta termina ai piedi del Trono d'Oro, e non esiste ricompensa più grande nella morte che contemplarne la luce.{/n}
+
+### u026537
+{n}I due uomini in abito talare stanno litigando a voce alta. Il più anziano dei due mangia con grande appetito, mentre il più giovane lo guarda con disgusto.{/n} "Il vostro stravizio è pura ipocrisia! Un vero servitore della fede si sarebbe astenuto."
+
+### u026538
+{n}Il vecchio sacerdote lancia al compagno un'occhiata da sopra il piatto.{/n} "Un vero servitore della fede deve mantenersi in forze per poter offrire al Dio-Imperatore non solo parole, ma anche opere."
+
+### u026539
+{n}Il giovane sacerdote ti rivolge un sorriso ampio e sincero.{/n} "A Thassera è usanza credere nella sacra reincarnazione. Così i degni possono servire l'Imperatore per tutta l'eternità!"
+
+### u026540
+{n}Nel corso della tua vita hai incontrato molte varianti del culto del Dio-Imperatore, ma non hai mai sentito parlare di reincarnazione dopo la morte. Una dottrina religiosa simile pare strana ed esotica, persino per un pianeta anonimo e semidimenticato come Thassera.{/n}
+
+### u026541
+"Gli Angeli dell'Imperatore. Scendono sulla terra per abbattere i Suoi nemici." {n}Negli occhi del vecchio vedi rispetto... e paura.{/n}
+
+### u026542
+{n}A giudicare dalle espressioni dei due sacerdoti che discutono, è facile credere che l'uno accoglierebbe davvero il suo tanto atteso riposo, e l'altro un'occasione di servizio eterno.{/n}
+
+### u026543
+{n}Il giovane arrossisce quando nota il tuo sguardo.{/n} "{mf|Signore|Signora} Celestiale, che fortuna il vostro arrivo! Solo voi potete risolvere questo enigma e decidere chi di noi sia il vero chierico di nobili natali e chi l'arrogante impostore."
+
+### u026544
+{n}A parte l'età, i due uomini davanti a te si assomigliano parecchio. Tutti i servitori dell'Ecclesiarchia sono tutt'uno nella loro fede indomabile.{/n}
+
+### u026545
+[Rivolgiti alla folla]
+
+### u026546
+[Applica il marchio dati alla giovane donna con l'abito elegante]
+
+### u026547
+[Osserva attentamente l'uomo]
+
+### u026548
+[Applica il marchio dati alla donna con la maschera dorata]
+
+### u026549
+"Credete davvero che quest'uomo sia un popolano travestito?"
+
+### u026550
+"Sono {mf|pronto|pronta} a marchiare l'impostore."
+
+### u026551
+[Applica il marchio dati all'uomo in giacca]
+
+### u026552
+[Rivolgiti alla giovane donna] "Perché lo difendi?"
+
+### u026553
+[Rivolgiti all'uomo] "Che cosa hai da dire in tua difesa?"
+
+### u026554
+[Rivolgiti all'uomo] "Sapete che il vostro servitore sta cercando di proteggervi, Sir Timeus?"
+
+### u026555
+"Quest'uomo è un nobile. Perché tenete tanto a dipingerlo diversamente?"
+
+### u026556
+"Spiegatemi che cosa sta succedendo esattamente qui."
+
+### u026557
+[Consegna il marchio dati alla serva] "Chiedo a questa giovane donna di decidere al mio posto."
+
+### u026558
+{n}Alcuni nobili si sono radunati attorno a un uomo anziano in una bella giacca. I suoi occhi guizzano avanti e indietro tra di loro.{/n} "Vengo da una dinastia onorata! Non potete..." {n}Continua a cercare di avvicinarsi a qualcuno, ma tutti si ritraggono da lui come se fosse un lebbroso.{/n}
+
+### u026559
+{n}L'istigatrice della folla, una dama con una maschera dorata, esclama furiosa,{/n} "Oh, ascoltate le canzoni di questo povero disgraziato! Crede che il bagno che gli hanno fatto lo faccia sembrare un nobile!" {n}Notandoti, la folla si apre. Con voce stizzosa, la donna biascica,{/n} "Chiediamo che il nostro {mf|Signore|Signora} Celestiale marchi questo plebeo!"
+
+### u026560
+{n}La donna che si era tenuta a distanza ora si avvicina e ti sussurra,{/n} "{mf|Mio Signore|Mia Signora} Celestiale, vi imploro di ascoltarmi! Quest'uomo appartiene a una famiglia nobile! Lo stanno calunniando!"
+
+### u026561
+{n}Crede alle proprie parole, proprio come tutti gli altri credono alle loro.{/n}
+
+### u026562
+{n}Il vecchio ti guarda negli occhi e stringe il bastone, il suo ultimo sostegno, finché le nocche non gli diventano bianche.{/n} "Sono un onorevole servitore dell'Imperium. Tuttavia, se {mf|il mio Signore|la mia Signora} Celestiale mi ritiene indegno... non dirò una parola di protesta." {n}Senti i suoi accusatori mormorare di approvazione alle tue spalle.{/n}
+
+### u026563
+{n}Il labbro della giovane donna si piega in un misto di gioia e paura. Lancia una breve occhiata all'uomo in giacca, poi ti rivolge un inchino. L'uomo sospira di sollievo e dice,{/n} "Grazie. Sapevo che nessun intrigo avrebbe potuto ingannare il {mf|Signore|Signora} Celestiale."
+
+### u026564
+{n}Il vecchio è terrorizzato. Le sue mani stringono un costoso bastone da passeggio che reca un intricato stemma di famiglia.{/n}
+
+### u026565
+{n}Le persone attorno a te gridano, le loro maschere si confondono tra loro, rendendo difficile concentrarsi su qualsiasi dettaglio.{/n}
+
+### u026566
+{n}I nobili trasalgono, mentre la donna batte il piede e comincia ad agitare le braccia.{/n} "Come... osate! Sono la discendente di una stirpe nobile! Mi lamenterò di questo con il governatore!" {n}Senti qualche risata: le persone qui radunate sembrano apprezzare l'assoluta assurdità di chiunque cerchi di minacciarti con una simile lamentela.{/n}
+
+### u026567
+{n}Tra la folla ammutolita, individui una giovane donna con una mezza maschera e un abito splendido che osserva con attenzione da una parte.{/n}
+
+### u026568
+{n}I più rumorosi tra gli astanti si scambiano occhiate. La maschera dorata della donna ondeggia mentre fa una profonda riverenza.{/n} "Certamente, Vostra Celestiale Altezza! La sua natura plebea è evidente a ogni aristocratico che si rispetti."
+
+### u026569
+{n}La dama con la maschera dorata si schiarisce la gola:{/n} "Non c'è una parola di menzogna in ciò che abbiamo detto. Questa parodia di nobiluomo ha ottenuto i suoi privilegi meno di cento anni fa: una famiglia di arrampicatori che si sono elevati con il piccolo commercio. Per qualsiasi nobile di nascita, non è diverso da un contadino in maschera."
+
+### u026570
+"Questi è il Barone Timeus Highfoot, un nobile signore. Lo so perché sono la sua serva: mi hanno solo dato questo bel vestito." {n}Indica il suo abito.{/n} "Dovrei essere io a essere marchiata." {n}Prima che tu possa reagire, si applica goffamente il marchio sul polso e ti restituisce il marchio dati.{/n}
+
+### u026571
+{n}La ragazza tira su col naso e sorride al gentiluomo dai capelli grigi in farsetto. Lui distoglie lo sguardo. La donna con la maschera dorata sbuffa con disprezzo e si ritira tra la folla a bocca aperta.{/n}
+
+### u026572
+"Questo è il mio ex servitore di casa... Timo... vestito da nobile! È bravo, ma non potrebbe mai ingannare la vera nobiltà." {n}La giovane donna marchia con destrezza l'uomo, paralizzato dall'orrore, e ti rimette in mano il marchio dati. Nei suoi occhi guizzano scintille di vendetta. La donna con la maschera dorata la degna di un cenno di condiscendenza.{/n}
+
+### u026573
+"Eccola, la vera impostora, la servetta Renka! L'ha ammesso lei stessa davanti al {mf|Signore|Signora} Celestiale!" {n}sputa il vecchio, puntando il dito contro Renka, che si ritrae spaventata.{/n} "Come avete potuto, intriganti, anche solo pensare di ingannare il nostro supremo benefattore?"
+
+### u026574
+{n}Il volto della giovane donna diventa pallido come il marmo dietro la mezza maschera. Lancia un'occhiata ribollente all'uomo in giacca, poi abbassa lo sguardo. L'uomo, intanto, sospira di sollievo e dice,{/n} "Grazie. Sapevo che nessun intrigo avrebbe potuto ingannare il {mf|Signore|Signora} Celestiale."
+
+### u026575
+{n}I loro sguardi da avvoltoi si spostano su di te in attesa del tuo verdetto.{/n}
+
+### u026576
+"Kae-morag!" {n}C'è un'indignazione ardente nello sguardo che Yrliet rivolge al vecchio, la mano che corre alla lama appesa alla cintura... Ma poi resta immobile per un istante, con la perplessità incisa sul volto, prima di riassumere la sua consueta aria di indifferenza.{/n} "Il tradimento vi viene naturale quanto il respirare, a voi mon-keigh. Ma... non mi riguarda. Continuate a marcire nella vostra esistenza disonorevole: io non ne farò parte."
+
+### u026577
+{n}Un sospiro stanco sfugge dal petto di Abelard.{/n} "Thassera ha più in comune con Dargonus di quanto pensassi all'inizio."
+
+### u026578
+"Io..." {n}sussurra piano.{/n} "Sono solo una popolana in un vestito elegante, {mf|mio signore|mia signora}. Quest'uomo è il mio padrone. So che dovrei recitare la parte di una ragazza ricca, ma... ho servito molti signori, capite, e Sir Timeus è l'unico che tratta i suoi servitori con gentilezza. Voglio proteggerlo da questa gente crudele."
+
+### u026579
+{n}La dama con la maschera dorata si inchina con grazia.{/n} "Vostra Celestiale Altezza, abbiamo smascherato uno degli impostori. Eccolo lì, quello in giacca, ancora aggrappato alla sua facciata. Dovete marchiarlo, presto!"
+
+### u026580
+{n}Il vecchio si aggiusta la maschera, sorpreso. I suoi occhi scrutano di nuovo la folla e si posano sulla giovane donna elegantemente vestita.{/n} "Quella è Renka, la mia domestica. Che cosa sta... Proteggermi, dite? Non ha idea di che gioco si sia messa a giocare. Perdonami, ragazza mia..." {n}Il labbro gli trema mentre stringe più forte il bastone e inspira a fondo, prima di fare all'improvviso un passo indietro.{/n}
+
+### u026581
+{n}I nobili attorno a te trattengono il fiato mentre cercano di capire la direzione del tuo sguardo.{/n}
+
+### u026582
+{n}La donna non mente, ma non è nemmeno del tutto sincera. Il modo in cui guarda l'accusato parla di un odio antico e inappagabile, del tipo che si riserva al proprio vero nemico.{/n}
+
+### u026583
+"{mf|Il mio Signore|La mia Signora} Celestiale sa quanto possano essere spietati gli intrighi di corte. La mia f-famiglia ha raggiunto solo da poco il suo elevato rango, e molti qui si oppongono..." {n}balbetta, battendo i denti per la paura.{/n}
+
+### u026584
+{n}Terrorizzata, abbassa lo sguardo e serra le labbra.{/n} "Io... io ho solo pietà di lui, mio {mf|signore|signora}."
+
+### u026585
+{n}La giovane donna si blocca e squittisce,{/n} "Obbedisco alla volontà del mio {mf|signore|signora}! Io..." {n}La sua voce si calma all'improvviso.{/n} "Conosco bene quest'uomo e posso dissipare tutti i vostri dubbi." {n}Noti il vecchio emettere un sospiro di sollievo quando il marchio dati le viene messo in mano.{/n}
+
+### u026586
+Hai ordinato che il thassertium venga distrutto e che il mondo sia sottoposto al santo Exterminatus.
+
+### u026587
+"Questo mondo è oltre ogni salvezza. L'eresia trasuda dalle sue stesse profondità. Ordino con la presente l'immediata distruzione di tutto il thassertium e dichiaro l'Exterminatus sul pianeta. All'Administratum verranno concessi diversi anni per evacuare i propri beni, dopodiché Thassera sarà purificata dal fuoco."
+
+### u026588
+[Porgi al governatore una sigaretta di lho]
+
+### u026589
+"Voglio parlare del tuo piano. Qual era il tuo obiettivo qui, Ruoldo?"
+
+### u026590
+"Thassertium. Quali sono le sue proprietà?"
+
+### u026591
+"Ho appreso tutto ciò che mi serviva sapere. Potete giustiziare l'eretico, Solomorne."
+
+### u026592
+"Qual era lo scopo di tutta quella mascherata con il falso governatore?"
+
+### u026593
+Hai sostenuto la decisione di Solomorne di distruggere il thassertium, secondo la lettera della Lex Imperialis.
+
+### u026594
+"Facciamo a modo vostro, Solomorne. Se questa è la soluzione che la Lex Imperialis esige, concordo pienamente."
+
+### u026595
+Hai ordinato che il thassertium sia distrutto e che le sue proprietà non vengano riferite all'Administratum, per timore per la vita degli abitanti del mondo.
+
+### u026596
+"Concordo che dobbiamo sbarazzarci del thassertium, ma non informerò l'Administratum delle sue proprietà. Potrebbe causare la distruzione del pianeta, e non possiamo permettere che degli innocenti soffrano per le malefatte di Ruoldo."
+
+### u026597
+Hai ordinato che il thassertium sia incluso nella decima, affinché la corruzione che nasconde possa diffondersi in tutto l'Imperium.
+
+### u026598
+"Un materiale così prezioso, possibilità così incredibili... Ordino con la presente che il thassertium venga aggiunto alla decima del pianeta. L'Imperium deve ottenere quanta più possibile di questa meravigliosa pietra."
+
+### u026599
+"Non era tuo fratello, Maive."
+
+### u026600
+"È una giusta osservazione."
+
+### u026601
+"Ti porto con me. Entrerai tra i servitori della nave."
+
+### u026602
+"Verrai con me."
+
+### u026603
+"Thassera ha bisogno di un nuovo governatore. Uno di cui possiamo fidarci."
+
+### u026604
+"Solomorne, giustiziala."
+
+### u026605
+"Ci sono altre vittime del tuo rituale?"
+
+### u026606
+"Imparerai strada facendo. Ti lascio al comando, Maive."
+
+### u026607
+"Rilassati. Servirai qualunque governatore io nomini tra persone di cui posso fidarmi della lealtà. E mi riferirai ogni loro movimento."
+
+### u026608
+"Sono {mf|vivo|viva}, Vigdis. Preparati a partire."
+
+### u026609
+"Ho avuto una giornata molto difficile, Vigdis. Tirami fuori da questo maledetto buco."
+
+### u026610
+"Quello che farai ora è affar tuo, Maive. Non interferirò con il tuo destino."
+
+### u026611
+"Datti un contegno! Potrai piangere per il tuo fratello traditore più tardi!"
+
+### u026612
+"Hai trovato qualcosa, Solomorne?"
+
+### u026613
+Hai ordinato che l'altare eretico sia distrutto, a prescindere dalle vittime.
+
+### u026614
+[Distruggi l'altare] "Il sacro fuoco dei cannoni orbitali della mia nave raderà al suolo il palazzo prima che questo maledetto artefatto possa corrompere un'altra anima."
+
+### u026615
+Hai lasciato sul pianeta l'altare distrutto, ma hai preso con te una scheggia maledetta.
+
+### u026616
+[Prendi in segreto una scheggia dell'altare] "Questa cosa non rappresenta più alcuna minaccia. Che resti qui."
+
+### u026617
+Hai ordinato che l'altare eretico sia nascosto in modo che non possa fare del male a persone innocenti.
+
+### u026618
+[Seppellisci l'altare] "Riempiremo questa abominazione con tonnellate di ferrocemento e la nasconderemo meglio che possiamo. In questo modo non farà male a nessun altro."
+
+### u026619
+"Non è un mio problema. Lasciamo subito questo pianeta."
+
+### u026620
+"Il verdetto, Solomorne. Lo giustizierò io {mf|stesso|stessa}."
+
+### u026621
+Hai giustiziato il governatore Ruoldo per la gloria degli dei oscuri.
+
+### u026622
+[Giustizia il governatore] "Pensavi che i tuoi patroni ti avrebbero protetto? Hai sbagliato i calcoli. C'è una sola persona su cui è rivolto il loro sguardo. Dedico questa morte a loro."
+
+### u026623
+Hai ordinato che il thassertium sia studiato, nonostante le sue proprietà pericolose.
+
+### u026624
+"Il thassertium è stato usato per fini malvagi, ma ciò non significa che non possa essere utile. Dobbiamo studiare a fondo il minerale prima di decidere se distruggerlo o includerlo nella decima."
+
+### u026625
+"Che cosa sai fare?"
+
+### u026626
+{n}Nel silenzio che segue, una risatina gorgogliante diventa chiaramente udibile.{/n}
+"Uno, due, tre, quattro, cinque,
+l'ospite è fin troppo vivo, a quanto pare.
+Cinque, quattro, tre, due, uno,
+via con le budella! Si può cominciare!"
+{n}L'orrendo scempio che è il volto di Ruoldo si dissolve in una parvenza di sorriso.{/n}
+
+### u026627
+"Alla fine capì che il thassertium era un potente {g|Encyclopedia:PsyfocusGlossary}focus psichico{/g}. Dopo mille tentativi maledetti, e una combinazione di poteri, energie e vittime sacrificali, Tavrisk riuscì a ricavarne la sua scultura migliore: l'Altare del Cambiamento. Un artefatto magnifico; una porta sull'eternità! Niente più limiti imposti dai nostri corpi mortali. Niente malanni, niente ferite! Se la tua carne è consumata... basta sostituirla con carne nuova! Non ti piace la tua sorte nella vita? Scegline una fra mille altre! Non più solo un sogno, ma la sua realizzazione più perfetta. L'immortalità nella pietra..."
+
+### u026628
+"Grazie, mio {mf|Signore|Signora} Celestiale! Siete {mf|il mio salvatore|la mia salvatrice}!" {n}Gli occhi di Maive brillano di gioia.{/n} "Un servitore è come un domestico, ma su una nave, giusto?"
+
+### u026629
+"Il piano era semplice ed elegante: Thassera comincia a pagare meno della sua {g|Encyclopedia:TitheGlossary}decima{/g}; gli Arbites abboccano all'esca e mandano qui i loro messaggeri. È allora che faccio scattare la trappola: passo nel corpo dell'Arbitratore o del Proctor che atterra qui, impacchetto l'altare, salgo a bordo della nave degli Arbites e saluto questa palla di fango che ondeggia nel vuoto! Un Rogue Trader sarebbe stato ancora meglio, ma l'avidità ha il vizio di rovinare una buona partita di {g|Encyclopedia:Regicide}Regicidio{/g}."
+
+### u026630
+"Dato che avete finito..." {n}Solomorne punta l'arma.{/n} "Ruoldo, hai commesso un'eresia impensabile, e mi rifiuto di riconoscerti come essere umano o di leggere il tuo verdetto come si conviene a un criminale. Sei una macchia nella storia di Thassera, ed è tempo di cancellarti da essa." {n}Anche se giustizia il governatore in fretta, vedi passare sul volto del Proctor un'espressione fugace di assoluto disgusto, forse persino di odio.{/n}
+
+### u026631
+"Cessate i vostri vaneggiamenti insensati. Aprirete bocca quando vi verrà posta una domanda. E la vostra risposta farebbe meglio a essere sincera e pertinente, o giuro sulla {g|Encyclopedia:LexImperialisGlossary}Lex{/g} che vi farò parlare, o meglio, che farò parlare ciò che resterà di voi dopo che avrò finito di prepararvi all'interrogatorio."
+
+### u026632
+"Come desiderate, mio {mf|Signore|Signora} Celestiale."
+
+### u026633
+"Che sia sopravvissuto, no, e non ho contato i morti. Il rituale è complesso da eseguire, perciò io e Tavrisk impiegammo molto tempo a calibrarlo. E su di te ha funzionato. Pensare a tutte le possibilità che si aprivano... Con l'Altare del Cambiamento avrei potuto farmi strada fino a diventare un Signore di {g|Encyclopedia:HolyTerraGlossary}Terra{/g}!"
+
+### u026634
+"Come diceva mio padre, 'se hai fatto tanta strada, vai avanti!' Sono comunque un uomo morto, quindi tanto vale sognare un po'."
+
+### u026635
+{n}Maive apre gli occhi e balza subito in piedi alla vista del cadavere insanguinato. Si stringe le mani al petto e gli occhi le si riempiono di lacrime.{/n}
+
+### u026636
+{n}La giovane donna annuisce docilmente e una singola lacrima le scende lungo la guancia. La sua voce è vuota quando parla:{/n} "Avete ragione... È stato lui a condannarlo."
+
+### u026637
+{n}Maive alza lo sguardo su di te con aria supplichevole.{/n} "{mf|Mio Signore|Mia Signora} Celestiale... che cosa devo... fare ora...?"
+
+### u026638
+"Affiderete a un eretico la preparazione del vostro {g|Encyclopedia:Recaf}recaf{/g}? Allora dovreste portare con voi anche una dozzina di popolani del posto, per assaggiare tutto ciò che quel criminale ha toccato."
+
+### u026639
+{n}Sei interrotto da una voce ansiosa dal vox:{/n} "Lord Capitano, mi ricevete? Il pilota della navetta ha riferito dell'operazione di salvataggio. I tutori dell'ordine sono in arrivo. Qual è la vostra situazione? Siete {mf|vivo|viva}? Rispondete!"
+
+### u026640
+"Grazie, mio {mf|Signore|Signora} Celestiale! Siete {mf|il mio salvatore|la mia salvatrice}!"
+
+### u026641
+"Posso... preparare il recaf. Posso farlo dolce con una schiuma di panna, o forte con spezie speciali. Posso ballare... cantare... portare rotoli e tavolette dati..."
+
+### u026642
+"Vi prego, non io. Chiunque tranne me. Chi ascolterebbe una arrivista di corte che faceva la cameriera dei vasi da notte?" {n}Maive arrossisce profusamente rendendosi conto di aver detto troppo.{/n}
+
+### u026643
+"Se è uno scherzo, mi sfugge la battuta. E se parlate sul serio... Dopo quanto è accaduto, l'Administratum prenderà seri provvedimenti contro il focolaio di perversa stregoneria in cui questo mondo si è trasformato. Potreste cominciare a invidiare a vostro fratello maggiore la sua sorte, Governatrice."
+
+### u026644
+"Una decisione drastica nata da una giusta indignazione. Se la prefetta condividerà o meno le vostre opinioni, non lo sapremo finché non torneremo a Dargonus."
+
+### u026645
+"Allora il destino di Thassera è deciso e non ha senso restare qui oltre."
+
+### u026646
+"Sarà un'eretica analfabeta, ma almeno in lei c'è un briciolo di buonsenso."
+
+### u026647
+"Decidere che cosa fare del thassertium è molto più importante. È una... risorsa che non possiamo permetterci di ignorare." {n}Solomorne ti guarda dritto negli occhi.{/n} "Propongo di distruggere tutto il thassertium già estratto, così come i suoi giacimenti. La probabilità che il materiale stesso sia una fonte di corruzione è troppo alta. Ci vorrebbero anni di ricerche da parte dell'Adeptus Astra Telepathica per dimostrare che è sicuro per le anime dei sanzionati, anni che Koronus non ha, anche se l'Adepto locale avesse fondi da risparmiare. Permettere a un'abominazione simile di esistere è contro la Lex. Quanto a valutare il grado di corruzione di Thassera e decidere il suo destino, la legge prescrive di lasciarlo al giudizio dei proprietari del mondo, cioè dell'Administratum."
+
+### u026648
+"Siete libero di condividere con la prefetta qualsiasi informazione riteniate necessaria, ma io ho il dovere di fare rapporto al Maresciallo. Gli dirò che il Rogue Trader ha preso i thasseriani sotto la {mf|sua|sua} protezione. Difficilmente posso aspettarmi che la vostra volontà venga considerata negoziabile."
+
+### u026649
+{n}Solomorne digrigna i denti, ma dichiara con obbedienza:{/n} "I vostri ordini sono chiari, Rogue Trader."
+
+### u026650
+"Sì, la tavoletta dati con la cronaca delle spedizioni che hanno passato tanto tempo a 'cercare' invano. Secondo i registri, il periodo di decima è un decennio terrano e la quota prescritta è di mille unità di carico. Il governatore ha trattenuto cento unità da ciascuna delle cinque spedizioni più recenti. Ciò significa che questo mondo non ha alcuna reale difficoltà a fornire regolarmente il proprio tributo. Possiamo considerare la questione chiusa."
+
+### u026651
+"Di che cosa state parlando? Il solo suggerimento..." {n}La voce del Proctor risuona di furia. Le sue dita d'acciaio affondano nel collare di Glaito.{/n} "Degenerato malato!"
+
+### u026652
+"Ancora meglio: non parlano."
+
+### u026653
+"Che ironia..." {n}Ruoldo fa una smorfia di dolore mentre aspira una lunga boccata avida.{/n} "L'ultima è sempre la più dolce."
+
+### u026654
+"Che concezione mostruosamente distorta dell'eternità..."
+
+### u026655
+"Cosa? Ugh, sì, lo so che non è un'opzione... Ho la mia vita da vivere, in qualche modo. Perché dovrei volerne prendere un'altra?"
+
+### u026656
+"I mon-keigh adorano giocherellare con forze che non controllano, tutto in nome del prolungamento della loro misera, piccola vita. Direi persino che è... commovente, a modo suo."
+
+### u026657
+"Maestro Guastafeste, un focus psichico è solo un sasso senza volontà propria. Uno strumento. Come te. E allora, se un pazzo una volta l'ha usato per i suoi scopi deliranti? Può servire altrettanto bene a un fine buono!"
+
+### u026658
+"Distruggere la miniera d'oro? Ha perso il senno l'ashmag dalla mascella di ferro, shereen? Dobbiamo cominciare a raccogliere questo meraviglioso minerale! In nome dell'Imperium, ovviamente..."
+
+### u026659
+"Posso permettermi di ricordarvi, Lord Capitano, che nessuno oltre a voi conosce le proprietà di questo minerale? Se lo si lascia qui, nessuno lo scoprirà."
+
+### u026660
+"Che modo scaltro di dipingermi come un servo senza cervello. Lasciate che vi ricordi anche che rispondo direttamente al Maresciallo, e che i miei rapporti sono accurati."
+
+### u026661
+"Ricevuto, Lord Capitano."
+
+### u026662
+"Il piano non è cambiato, Vil'Ruoldo. L'Imperituro ha sussurrato il tuo nome e l'esecuzione della Sua volontà è prossima."
+
+### u026663
+"Questa affermazione è falsa, perché incompleta. Il rito della Servitude Imperpituis non inibisce le capacità di comunicazione dell'unità: sostituisce il decadimento delle nozioni terrene con sacri logo-algoritmi. Il linguaggio della carne è difettoso e ridondante."
+
+### u026664
+"Taci, eretico. O ti ritroverai a lavare via le tue bestemmie con lacrime di sangue finché il dolore non ti farà implorare l'Imperatore di darti la morte."
+
+### u026665
+"Questo misero mondo non conteneva nulla di degno di attenzione... tranne il thassertium. Quando cominciai a sognarlo, e a sognare di cambiare corpo, pensai di star impazzendo... E ne parlai al mio scultore, il defunto Tavrisk. Mi aiutò a comprendere l'essenza del minerale. Seguirono esperimenti e studi, per lo più condotti da Tavrisk. Io non ho il suo dono, ma oh, le cose che potrei fare se fossi uno stregone..."
+
+### u026666
+"D'accordo. Tutto ciò che sia anche solo lontanamente connesso all'eresia commessa qui deve essere distrutto fino all'ultimo frammento, e fino all'ultimo partecipante."
+
+### u026667
+"Capisco. Grazie... per la vostra clemenza, mio {mf|Signore|Signora} Celestiale." {n}Maive fa una riverenza, fissando davanti a sé con aria confusa.{/n}
+
+### u026668
+"L'eretico ha accennato che distruggere l'altare rischierebbe di causare morti tra la popolazione locale. Che mentisse o cercasse di manipolarci è irrilevante: l'abominazione deve essere distrutta. Quanto alle eventuali vittime... L'Imperatore riconoscerà i Suoi."
+
+### u026669
+{n}Mentre ti avvicini all'altare danneggiato, avverti una spiacevole debolezza. Senti un lieve ronzio nelle orecchie, come se la superficie liscia della pietra gemesse per le ferite subite.{/n}
+
+### u026670
+"Eri complice degli eretici e sei stato toccato dal morbo della stregoneria. Al tuo posto, implorerei un'esecuzione rapida." {n}Non c'è odio nelle parole di Solomorne, solo una totale convinzione della loro verità.{/n}
+
+### u026671
+{n}Mentre alzi lo sguardo sull'altare, il ronzio nelle tue orecchie si intensifica per un istante. Lacerandoti i timpani, l'altare ruggisce, minacciando, promettendo di trascinarne con sé altre migliaia. Ma tu sei {mf|sordo|sorda} alle sue pietose minacce.{/n}
+
+### u026672
+{n}Mentre ti chini sulle schegge, il ronzio nelle tue orecchie si intensifica per un istante. Una voce sommessa ti promette forza e potere, ti chiede di salvarla dall'oblio, e tu esaudisci con grazia la sua richiesta. Una volta che la più grande delle schegge è nelle tue mani, tace, pacificata.{/n}
+
+### u026673
+"Naturalmente, questo gioco comprendeva un pezzo chiave. L'incarnazione della libertà di scelta: il mio magnifico Altare. Tanto potenziale accumulato in anni di sperimentazione. È danneggiato, ma continua a chiamare, in attesa di essere usato..." {n}Ruoldo ti guarda negli occhi con un sorriso caustico.{/n} "Ti consiglio di tenerlo al sicuro: chissà quante migliaia di vite reclamerà se gli succede qualcosa, liberando tutto quel potere?"
+
+### u026674
+{n}Lo strano ronzio cessa, lasciando un'eco sgradevole nelle tue orecchie: la tua testa deve ancora risentire degli effetti del passaggio da un corpo all'altro.{/n}
+
+### u026675
+{n}Argenta chiude gli occhi e pronuncia una preghiera:{/n} "Imperatore, abbi pietà delle anime sventurate che si sono trovate intrappolate nella morsa dell'Arcinemico. Abbi pietà, perché non sapevano nulla e non avevano dove andare..."
+
+### u026676
+"Recidere il filo di un intero mondo ma impedire il diffondersi della corruzione è compiacere l'Imperatore Imperituro. Sia fatta la volontà del Domin, e che Thassera accolga la sua sacra morte."
+
+### u026677
+"Elantach, il tuo desiderio di comprendere anziché distruggere per paura ti fa onore, ma... bada: le menti dei mon-keigh sono fragili e mal attrezzate per resistere a qualcosa che ha un legame così forte con il Velo."
+
+### u026678
+{n}Una timida preghiera cade dalle labbra di Maive:{/n} "Imperatore sul Trono d'Oro, per tutta la vita ho sbagliato i miei modi di onorarTi, ma ora Ti prego... non per la mia anima, ma per la sua..."
+
+### u026679
+"Grazie, Rogue Trader. È la scelta giusta."
+
+### u026680
+"S-sì... come comandate... Ma mio fratello non era il traditore: lo era l'uomo che lo ha ucciso..." {n}Le spalle della giovane donna continuano a tremare un poco, ma lei non emette più alcun suono.{/n}
+
+### u026681
+"Ruoldo, hai commesso un'eresia impensabile, e mi rifiuto di riconoscerti come essere umano o di leggere il tuo verdetto come si conviene a un criminale. Sei una macchia nella storia di Thassera, ed è tempo..." {n}Punti l'arma e metti a morte il governatore proprio mentre Solomorne finisce di parlare:{/n} "...di cancellarti da essa."
+
+### u026682
+{n}Gli occhi di Ruoldo si spalancano per il terrore. Gocce di sudore scorrono lungo il suo mento che trema in modo patetico. Potresti bere la sua paura e la sua disperazione come un vino pregiato. Un istante dopo, il sangue sgorga dalla bocca assurdamente spalancata del governatore, gorgogliando e ribollendo mentre schizza sulla pietra... Lontano, in fondo all'oscurità vellutata della tua mente, una voce ridacchia brevemente. È compiaciuta. È saziata.{/n}
+
+### u026683
+{n}Solomorne ti guarda con attenzione.{/n} "Un verdetto... interessante, Rogue Trader. Comunque il criminale è stato punito, ed è tutto ciò che conta ora."
+
+### u026684
+"Ammetto senza difficoltà che l'assenza di parola nei servitori è più uno svantaggio che un vantaggio. Tuttavia, se il Rogue Trader lo desidera, posso certamente lasciarle intatte le corde vocali o addirittura apportarvi qualche miglioramento durante il processo di servitorizzazione."
+
+### u026685
+"La vostra ultima tesi spiega perfettamente perché i vostri tentativi di comunicare con i laici siano così miseramente inefficaci, collega."
+
+### u026686
+{n}Il Proctor uccide in fretta la giovane donna prima che riesca a comprendere ciò che hai detto. Lei si accascia al suolo come una bambola rotta. Solomorne distoglie lo sguardo, senza posarlo su di lei nemmeno per un istante.{/n}
+
+### u026687
+"Un governatore attira troppa attenzione, e io volevo avere le mani libere. Così proposi al mio giullare di corte un accordo equo: lui sarebbe diventato me, governando il pianeta, vivendo la bella vita, ottenendo tutto ciò che voleva, mentre io sarei stato là fuori, a volare verso le stelle. Ci scambiammo volti, abiti e vite. E siccome avevo abituato i nobili locali a farsi cucire in testa le facce altrui, lo scambio passò inosservato."
+
+### u026688
+"Ma lo scambio era solo la prima parte dell'accordo. Naturalmente non menzionai la seconda: l'eliminazione dei testimoni. Se qualcuno sta per rivoltarsi contro di te nel momento in cui c'è un coltello alla gola della sua amata sorella, non puoi permetterti di lasciarlo in vita." {n}Ruoldo lancia un'occhiata carica d'odio in direzione di Maive.{/n}
+
+### u026689
+"Mi chiedo da dove cominciare. Dovrei tagliarti la lingua chiacchierona? O abbatterti subito e non girarci attorno?"
+
+### u026690
+"Come si trova un impostore tra la folla?"
+
+### u026691
+[Attacca il prosciutto gigante di alcedonte]
+
+### u026692
+[Lancia un'occhiata indifferente al governatore e alza gli occhi al cielo]
+
+### u026693
+"L'unico piatto che voglio si chiama 'la decima dannata dal warp', e lo voglio servito all'istante."
+
+### u026694
+"Supponiamo che io trovi tutti gli impostori. Che cosa succede dopo?"
+
+### u026695
+"Parteciperò alla caccia."
+
+### u026696
+[Sconfiggi lo shrimperius a cinque code]
+
+### u026697
+[Sconfiggi i gusci di blaberide conditi con glut blu]
+
+### u026698
+"Grazie, non ho fame."
+
+### u026699
+"È ben noto che i lacerax si trovano solo su Janus."
+
+### u026700
+[Fai un gesto verso Solomorne] "Mi sono {mf|stancato|stancata} di questi selvaggi. Occupatevi di lui."
+
+### u026701
+[Fai una smorfia di disgusto]
+
+### u026702
+"Il mio tempo è troppo prezioso per sprecarlo con la plebaglia. Annunciate la fine della caccia e passiamo agli affari."
+
+### u026703
+"Non ho ancora finito."
+
+### u026704
+"Che cosa ha fatto di sbagliato?"
+
+### u026705
+"Non riesci a pronunciare il nome del tuo mondo natale? Davvero?"
+
+### u026706
+"Non è una conversazione che mi interessa fare. Parliamo d'altro."
+
+### u026707
+"Perché mai ai servitori dell'Omnissiah dovrebbe importare chi ha preso il trono di un mondo tecnologicamente arretrato?"
+
+### u026708
+"Ora che abbiamo preso qualche rinfresco, parliamo."
+
+### u026709
+"Solomorne, siete sicuro che si tratti di una chiacchierata e non di un interrogatorio?"
+
+### u026710
+[Dai alla tua voce una fredda diffidenza] "Molto tempo fa? I lacerax vivono davvero così a lungo?"
+
+### u026711
+"Si dice che la gente scompaia dopo la Caccia agli impostori. Che ne pensi?"
+

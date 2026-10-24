@@ -1,0 +1,822 @@
+### u052944
+{n}Dopo che il collegamento con il Primo Timoniere è stato interrotto, il dispositivo crepita con la voce di Heinrix.{/n} "Lord Capitano, sarò lieto di accompagnarvi durante la vostra visita a Dargonus, così da presentarvi di persona Achilleas Scalander, un servitore del Trono d'Oro che in passato ha assistito Lady Theodora su Dargonus. Confido nella vostra benevolenza."
+
+### u052945
+{n}La trasmissione vox termina con uno scatto.{/n}
+
+### u052946
+"I capitani mercantili che hanno trovato rifugio nei bacini orbitali di Dargonus fanno a gara per inviarvi doni di benvenuto inestimabili, sperando di comprare il vostro favore e di fare buona impressione sul Rogue Trader."
+
+### u052947
+"Lord Capitano, il nostro Coro Astropatico ha ricevuto un messaggio da Dargonus. Le casate nobiliari esprimono la loro gratitudine per il ripristino delle rotte commerciali tra i restanti pianeti dei von Valancius e porgono le più profonde condoglianze per la perdita dei mondi che non sono sopravvissuti a questi tempi oscuri."
+
+### u052948
+"Pronto a riferire, Lord Capitano. La flotta di Dargonus è stata avvistata in orbita attorno al mondo capitale: lo stemma dei von Valancius sulle navi è inconfondibile. Intorno al pianeta sono evidenti i segni di un combattimento recente: frammenti di metallo, detriti e ammassi di energia. La maggior parte delle navi è operativa, ma alcune unità sono danneggiate. Non è stata osservata alcuna aggressione da parte della flotta; al contrario, i capitani vi stanno chiamando."
+
+### u052949
+"Temo che non sia un semplice gesto di benvenuto, Lord Capitano. Qualcuno ha avuto l'impudenza di attaccare la capitale e, sia lodato il Trono d'Oro, Dargonus ha avuto la forza di respingerlo. Dovete andare a fondo della questione in fretta, prima che la voce di una potenziale debolezza del protettorato dei von Valancius si diffonda per tutta la Distesa."
+
+### u052950
+"Lord Capitano, navi Drukhari pattugliano il sistema. La probabilità di sfuggire ai loro pattugliamenti senza essere notati è... prossima allo zero."
+
+### u052951
+"Scusatemi, Lord Capitano, ma gli augur della nave hanno rilevato qualcosa di insolito in questo sistema. Ho pensato che potreste voler esaminare i dati degli augur."
+
+### u052952
+"Il relitto di una grande nave vaga senza vita all'interno del pozzo gravitazionale della stella, presumibilmente un ex vascello dell'Imperium. Le scansioni rilevano la firma di un componente di nave ancora funzionante tra i detriti. Inoltre, la telemetria ha rivelato numerosi marcatori biologici nei suoi compartimenti, nonostante non vi siano navi operative nelle vicinanze."
+
+### u052953
+"Sulla superficie di uno dei mondi locali è stata scoperta una struttura singolare. Emette una debole radiazione di natura non identificata, ma a parte questo gli augur non hanno registrato alcuna attività sulla superficie del pianeta. Considerate anche le sue altre caratteristiche, sarebbe plausibile classificare questo pianeta come un mondo morto. Se lo ritenete necessario, è possibile atterrare accanto all'edificio."
+
+### u052954
+"Dalla superficie di uno dei mondi locali viene trasmesso un segnale di soccorso. La qualità della trasmissione è scadente e il messaggio non si riesce a decifrare, forse a causa delle distorsioni, dei danni al ritrasmettitore o forse perché il messaggio è trasmesso in una lingua sconosciuta."
+
+### u052955
+"Durante la scansione di uno dei mondi, gli augur hanno raccolto dati da una certa anomalia geologica che non è stato possibile indagare a fondo. Secondo i rapporti, l'oggetto somiglia a un... wormhole senza fondo. Non posso fornire altri dettagli, perché gli spiriti macchina degli augur si sono infuriati per l'assenza di logica nei dati acquisiti e si sono rifiutati di elaborarli ulteriormente. Forse potremo saperne di più inviando una squadra in ricognizione sull'anomalia."
+
+### u052956
+"Non abbandoneremo persone di fede in difficoltà. Preparate una squadra di sbarco e la mia navetta. Prendo il monastero sotto la mia protezione."
+
+### u052957
+"Quelle persone sono vittime, non invasori. Preparate la mia navetta. Mi recherò sul pianeta e risolverò questo conflitto."
+
+### u052958
+"Non mi interessa. Ignorate la trasmissione."
+
+### u052959
+"Lord Capitano, abbiamo ricevuto una trasmissione da Foulstone. È stata inviata da membri dell'Ordine del Martello, devoti di San Cognatius, il cui monastero è l'unico insediamento del pianeta."
+
+### u052960
+"O meglio, lo era. Qualche tempo fa una nave da trasporto, la Naviica, ha sbarcato diverse migliaia di profughi provenienti da un pianeta appartenente al Rogue Trader Winterscale. L'Ordine del Martello ha giudicato questa invasione un atto di aggressione e chiede la protezione di Vostra Signoria."
+
+### u052961
+"Come desidera Vostra Signoria."
+
+### u052962
+"Lord Capitano, i sistemi vox hanno intercettato un segnale di soccorso proveniente da una nave imperiale. Nel sistema si trova una nave appartenente alla flotta planetaria di Dargonus, la capitale della dinastia dei von Valancius. La trasmissione si ripete a intervalli regolari, ma il messaggio è corrotto: una cacofonia di richieste d'aiuto, gemiti e grida... Ma che diamine? È il vostro nome che stanno gridando, Lord Capitano."
+
+### u052963
+Inviate provviste avariate a Footfall.
+
+### u052964
+Permetti ai servitori dell'Arcinemico di preparare il "carico speciale" per la profanazione di Footfall.
+
+### u052965
+Inviate provviste a Footfall, dando nuova speranza alla stazione.
+
+### u052966
+Invia provviste a Footfall, dando nuova speranza ai suoi abitanti e affermando il loro diritto di governare la stazione
+
+### u052967
+Hai deciso di non inviare provviste a Footfall, lasciando la stazione in balia di Incendia Chorda.
+
+### u052968
+Non inviare rifornimenti a Footfall, permettendo alla giusta Incendia Chorda di ripristinare l'ordine imperiale sulla stazione senza legge
+
+### u052969
+Ora controlliamo i granai di Janus. Se il Rogue Trader desidera concedere il proprio favore al Liege di Footfall Vladaym Tocara, {mf|egli|ella} può farlo.
+
+### u052970
+La cerchia della Governatrice Vistenza Vyatt ha abbracciato la causa con fervore. Non passerà molto prima che i carichi di provviste contaminate suscitino tra i residenti di Footfall una speciale reverenza verso il loro nobile benefattore.
+
+### u052971
+Senza provviste, Footfall non potrà resistere a lungo alla volontà di Incendia Chorda e cederà presto alla sua influenza.
+
+### u052972
+Per dare il benvenuto al nuovo Rogue Trader, l'ufficio planetario dell'Adeptus Mechanicus ha portato sulla nave un'offerta di diversi macrocombinatori versatili, antiche macchine le cui carcasse erano state ritrovate su Janus e accuratamente restaurate. I sacri titani d'acciaio serviranno la dinastia dei von Valancius.
+
+### u052973
+Ora controlliamo i granai di Janus. La promessa di aiuto fatta al Liege di Footfall Vladaym Tocara può ora essere mantenuta, se il Rogue Trader lo desidera.
+
+### u052974
+Gli abitanti della Stazione di Footfall loderanno il Rogue Trader che ha risparmiato loro la dolorosa scelta tra la fame e la sottomissione al dominio di Incendia Chorda.
+
+### u052975
+"Chiedo un'udienza personale con Vostra Signoria quando vi sarà comodo. C'è una questione piuttosto piacevole che richiede la vostra attenzione."
+
+### u052976
+"Eseguite l'ordine."
+
+### u052977
+"Ho bisogno di un po' più di tempo per valutare le mie opzioni."
+
+### u052978
+{n}La Maestra del Vox attende in silenzio la tua decisione.{/n}
+
+### u052979
+"Bombardate la superficie dall'orbita e cancellate il mondo da tutte le carte di navigazione."
+
+### u052980
+"Le risorse di questo mondo ci serviranno ancora. Ordinate la costruzione di una stazione mineraria."
+
+### u052981
+"Questo mondo non meritava la mia considerazione. Lasciatelo com'è."
+
+### u052982
+"Lord Capitano, come desiderate procedere con questo mondo? Quali sono i vostri ordini?"
+
+### u052983
+Ripristina il manufactorum nel più breve tempo possibile senza sottoporre il pianeta ferito a una purga spietata
+
+### u052984
+Purifica e ripristina Kiava Gamma a ogni costo
+
+### u052985
+Ripristina il manufactorum... usando i piani ingegneristici degli eretici
+
+### u052986
+Il cuore industriale del mondo è caduto nella corruzione, ma numerosi deboli segnali vox dalla periferia indicano che i piccoli complessi manifatturieri del pianeta sono sopravvissuti senza soccombere agli eretici. Le macchine sacre e i torni santificati di questi luoghi sono stati trasportati con reverenza al sicuro nelle stive della nave. Il destino di Kiava Gamma è in bilico.
+
+### u052987
+Gli altiforni sono di nuovo accesi, le macchine riempiono ancora l'aria di stridori e strilli, e i mag-treni di vagoni si stendono in file da un'officina all'altra. Ma i canti binarici dei cogitatori portano voci allarmanti di tracce maligne e immonde di corruzione che si annidano ancora nelle camere più profonde del manufactorum.
+
+### u052988
+I servitori dell'Adeptus Ministorum hanno risposto alla chiamata e hanno iniziato a radunare una santa crociata per purificare Kiava Gamma. Ci vorranno molto tempo e molti sforzi per estirpare ogni tentacolo di corruzione che si nasconde negli angoli bui del manufactorum.
+
+### u052989
+"Inoltre, il Governatore Drivestem ha inviato un messaggio privato a Vostra Signoria. Chiedo umilmente al Rogue Trader un'udienza per poterlo consegnare."
+
+### u052990
+Gli altiforni sono di nuovo accesi, le macchine riempiono ancora l'aria di stridori e strilli, e i mag-treni di vagoni si stendono in file da un'officina all'altra. Ma nessuno tranne i prescelti è ammesso nelle camere più profonde del manufactorum: è lì che ora vengono forgiate nel sangue, nell'oscurità e nel segreto empie Macchine Demoniache.
+
+### u052991
+"Lord Capitano, abbiamo ricevuto alcuni dati su un oggetto che potrebbe interessarvi."
+
+### u052992
+"Abbiamo intercettato una manciata di trasmissioni che riferiscono una situazione difficile nei livelli inferiori della città. Le descrizioni sono quanto mai... vaghe, ma il distretto in questione è già completamente isolato dal resto dell'insediamento da qualche mese. Si parla di un culto da cui nessuno è mai tornato."
+
+### u052993
+"Ho ritenuto necessario riferire l'informazione di persona, nel caso desideriate visitare questo luogo."
+
+### u052994
+"La stazione locale si rifiuta di rispondere alle nostre chiamate e non vuole stabilire un canale di comunicazione. Un simile comportamento è tipico di pirati ed eretici. I servitori devoti del Trono non hanno nulla da nascondere."
+
+### u052995
+"Quindi mi state dicendo che non solo aprirò un varco attraverso la Fauce verso l'Imperium, ma mi coprirò di gloria come {mf|conquistatore|conquistatrice} del warp infuriato. Avanti!"
+
+### u052996
+"Non ho ereditato questa nave del vuoto per distruggerla nell'Immaterium in tempesta. Che della Fauce se ne occupi qualcuno di meno prezioso."
+
+### u052997
+"Lord Capitano, qui Ravor. Gli Astropati stanno impazzendo nella loro cameretta: segnalano gravi perturbazioni del warp lungo la rotta prevista. Sembra che la Fauce sia del tutto impraticabile. L'ho già vista, sì, e, se volete il mio parere, entrarci non è una buona idea. Né per noi né per qualsiasi altra nave del vuoto."
+
+### u052998
+"Me ne occuperò io, Lord Capitano. L'Imperatore protegge."
+
+### u052999
+"Me ne occuperò io, Lord Capitano."
+
+### u053000
+"Non mi importa di qualche popolano scomparso. Non venite più a disturbarmi con simili sciocchezze."
+
+### u053001
+"Non mi importa di qualche popolano scomparso. Che cosa sono cento topi di sentina in meno?"
+
+### u053002
+"Ordinate un'indagine: voglio sapere perché i miei sudditi stanno scomparendo."
+
+### u053003
+"Assumete lavoratori sul prossimo mondo adatto per sostituire quelli scomparsi e fate in modo che gli anziani non dimentichino la mia generosità."
+
+### u053004
+"Non voglio occuparmene. Mandateli nella baia di castigo e depressurizzate i portelli!"
+
+### u053005
+"Fateli rosicchiare i propri arti. Quando hanno finito, sottoponeteli alla Servitude Imperpituis."
+
+### u053006
+"Organizzate la fornitura di carne umana ai cannibali, ricavata da criminali e altri elementi sacrificabili."
+
+### u053007
+"Persone scomparse? Credo di sapere chi è il responsabile. I Figli della Redenzione, i cannibali di Santiel's Pride."
+
+### u053008
+"Dite loro che possono restare sulla nave del vuoto. Possono nutrirsi solo di morti, prigionieri e l'uno dell'altro."
+
+### u053009
+"Lord Capitano, gli anziani dei clan della nave chiedono aiuto: più di cento membri dell'equipaggio appartenenti a varie famiglie sono scomparsi senza lasciare traccia nelle ultime settimane! Ho controllato i registri dell'equipaggio: nessuno degli scomparsi aveva mai messo piede fuori dalla nave e lavoravano tutti nelle viscere del vascello."
+
+### u053010
+"La vostra parola è legge, Lord Capitano. Eppure dubito che nuovi lavoratori compenseranno i familiari perduti."
+
+### u053011
+"È... strano. In precedenza avevo ricevuto rapporti su rinnegati e contrabbandieri che avevano cessato di colpo le loro attività empie a bordo, e ne ero stato immensamente lieto: a chi mai mancano i topi in dispensa, vi chiedo? Tuttavia, stavolta a scomparire sono sudditi leali, e questa è una faccenda completamente diversa!"
+
+### u053012
+"Me ne occuperò io, Lord Capitano!" Appena avrò più informazioni, ve lo farò sapere subito!"
+
+### u053013
+"Sarà fatto, Lord Capitano. Estirperemo l'eresia a bordo della nostra nave."
+
+### u053014
+"L'Imperatore ci protegga! Lord Capitano, non può andare avanti così!"
+
+### u053015
+"Ricordami che cosa speravi di scoprire."
+
+### u053016
+"Ricordami che cosa volevi scoprire."
+
+### u053017
+"Quindi, che cosa significa?"
+
+### u053018
+"Rapporto ricevuto. Grazie, Pasqal."
+
+### u053019
+"Desidero informarvi che i riti sacri rivolti allo spirito della nave sono stati eseguiti. La tecno-liturgia e il rito della benedizione della macchina si sono conclusi con una datameditazione per comprendere la natura del miracolo inviato dall'Omnissiah. Non è stata registrata alcuna acquisizione di conoscenza sacra."
+
+### u053020
+"Quando il motore warp della nave è stato riempito di Forza Motrice nonostante la massa di errori computazionali, si è compiuto un vero miracolo tecnologico. Senza dubbio è stata la grazia dell'Omnissiah, ma nel catalogo non è mai stato descritto nulla di simile. Sperando di ottenere conoscenza sacra sulla natura di ciò che è accaduto, mi sono dedicato a benedette ricerche e preghiere."
+
+### u053021
+"Ipotesi: in extremis, lo spirito della nave è in grado di compiere calcoli e azioni imprevedibili. È impossibile prevedere come si comporterà in una data situazione, ma credo che lo spirito stia attualmente mostrando obbedienza, almeno per ora. Raccomando di continuare a monitorare la nave e di essere pronti a nuove manifestazioni."
+
+### u053022
+"Come lo spirito della nave del vuoto abbia potuto invocare il potere del Dio-Macchina e attivare il propulsore warp resta un'incognita. Eppure, durante il mio rituale meditativo, l'Omnissiah mi ha dato una rivelazione altrettanto preziosa: il sacro spirito che vive nelle viscere dei meccanismi della nave differisce da altre forme analoghe. Questo spirito possiede un potere unico che non può essere definito altrimenti che una benedizione del Dio-Macchina."
+
+### u053023
+"L'Omnissiah sa tutto, comprende tutto."
+
+### u053024
+"Che cosa ci fa Idira laggiù?"
+
+### u053025
+"Non voglio averci nulla a che fare. Mandate i tutori dell'ordine."
+
+### u053026
+"Me ne occuperò di persona. Mi serve l'ubicazione esatta."
+
+### u053027
+"Sigillate il compartimento prima di uscire dal warp e depressurizzatelo dopo che avremo compiuto la traslazione nello spazio reale."
+
+### u053028
+"Lord Capitano, ricordate le voci su un gruppo di ufficiali che discutevano della ricomparsa del defunto Rogue Trader a bordo? All'epoca l'anomalia sarebbe stata vista solo da poche persone in compartimenti diversi, distanti chilometri l'uno dall'altro. Stavolta, però, ci sono centinaia di testimoni oculari e tutti i rapporti provengono dai ponti inferiori."
+
+### u053029
+"I messaggi che abbiamo ricevuto sono incompleti e vaghi, poco più che urla e affermazioni isteriche. Si parla di vittime e disordini. Il compartimento in questione è già stato sigillato, ma ho pensato che potreste voler vedere di persona che cosa sta succedendo. La situazione è delicata e... cosa particolarmente inquietante... si menziona la presenza di Idira Tlass sul posto."
+
+### u053030
+"Idira ha rotto il suo microauricolare, quindi non sono riuscita a scoprire nulla da lei. Ma, Lord Capitano... Idira è una psyker e noi siamo nel warp. Siete {mf|l'unico|l'unica} che rischierebbe di mettere piede in quel compartimento. E se non lo fate... se non lo fate, non rivedremo mai più Idira. Vi supplico, Lord Capitano, non ignorate questa faccenda."
+
+### u053031
+"Co... Come comandate, Lord Capitano."
+
+### u053032
+"Subito, Lord Capitano."
+
+### u053033
+"Lord Capitano! I tutori dell'ordine segnalano numerose vittime sul ponte inferiore. Non ci sono altre informazioni su ciò che accade nel compartimento: nessuno è ancora tornato. È necessario il vostro intervento immediato."
+
+### u053034
+{n}Il vox tace, ma un'ora dopo arriva un'altra richiesta di trasmissione.{/n}
+
+### u053035
+"M-ma... me ne occuperò io, Lord Capitano."
+
+### u053036
+"Lord Capitano, abbiamo un'emergenza! Ci è giunta notizia di un avvistamento sui ponti inferiori..." {n}La voce della Maestra del Vox si spezza.{/n} "...un avvistamento di Lady Theodora!"
+
+### u053037
+{n}Nonostante la distanza accuratamente mantenuta, la voce di Vigdis trema di paura.{/n}
+
+### u053038
+"Trovate la fonte delle voci e punite i responsabili. Non voglio morti inutili."
+
+### u053039
+"Che storia è questa su Lady Theodora?"
+
+### u053040
+"Distruggete il clan ribelle e trovate un sostituto tra gli equipaggi vicini."
+
+### u053041
+"Pacificate l'intero equipaggio degli scudi del vuoto. Chi ha ceduto alle provocazioni degli indisciplinati non è meno colpevole."
+
+### u053042
+"Non ho alcun desiderio di immischiarmi negli affari degli antichi clan della nave. Che se la sbrighino tra loro."
+
+### u053043
+"Il mio desiderio, Maestra del Vox, è che i tutori dell'ordine risolvano la situazione prima che perdiamo l'equipaggio in blocco. Indagate sulle voci e trovate i veri colpevoli, e niente violenza!"
+
+### u053044
+"Lord Capitano, vi porto cattive notizie. È scoppiata una faida tra i clan che mantengono le batterie degli scudi del vuoto. Si dice che la defunta Lady Theodora sia stata vista sui ponti inferiori, e così una delle famiglie ha chiamato alla rivolta contro l'usurpatore della nave del vuoto, cioè voi. Finora nessuno crede ai loro folli racconti, ma ai margini dei compartimenti sono iniziati i disordini. I tutori dell'ordine della nave sono pronti a eliminare il clan istigatore o a pacificare l'intero equipaggio degli scudi del vuoto: la decisione spetta a voi."
+
+### u053045
+"Lord Capitano, come direbbe il Siniscalco Werserian, in questi casi non ci sono innocenti. I clan mettono in pericolo l'intera nave del vuoto, azzuffandosi per una voce strana e palesemente falsa. Se lo desiderate, riferirò i vostri desideri ai tutori dell'ordine più tardi, ma ora i disordini devono essere fermati e le persone devono tornare ai loro doveri o essere sostituite."
+
+### u053046
+"Le voci sulla presenza di Lady Theodora sulla nave del vuoto circolano da molto tempo e sembrano una provocazione deliberata più che le solite chiacchiere da ubriachi. Forse qualcuno sta istigando di proposito le masse alla rivolta contro di voi, o forse è l'influenza del warp. I tutori dell'ordine stanno già indagando, ma ora dobbiamo impedire che il conflitto si aggravi ulteriormente: finché i disordini continuano, gli scudi della nave del vuoto non funzioneranno a piena capacità."
+
+### u053047
+"Una decisione rischiosa, Lord Capitano. Riferirò le vostre istruzioni."
+
+### u053048
+"Fammi un rapporto adeguato sui profughi. Come sono stati alloggiati? Come sono sorvegliati?"
+
+### u053049
+"Devo sapere di più sugli omicidi."
+
+### u053050
+"Iniziate gli interrogatori."
+
+### u053051
+"Spiegatevi, Siniscalco."
+
+### u053052
+"Eseguite liturgie di purificazione sui ponti che ospitano i profughi. Bandiremo questo flagello con la forza della nostra fede!"
+
+### u053053
+"Aumentate la sorveglianza. Assegnate dei tutori dell'ordine a sorvegliare i passeggeri."
+
+### u053054
+"Aggiungete una dose tripla di sedativi alle razioni di tutti i Rykadiani."
+
+### u053055
+"Se non è opera di cultisti, non potrebbe importarmene di meno. Una volta che saranno scesi da questa nave, la faccenda sarà chiusa."
+
+### u053056
+"Vostra Signoria, tra i sopravvissuti di Rykad Minoris sta accadendo qualcosa di sinistro. Ci sono già stati diversi casi di profughi evacuati trovati morti o in fin di vita. Tutti erano stati accecati con vari mezzi. Temo vi sia motivo di credere che tra le persone salite a bordo ci fossero agenti del culto."
+
+### u053057
+"Sapevo che l'anatema non avrebbe ancora lasciato del tutto la presa su quelle anime afflitte. Allora marciamo e scacciamolo!"
+
+### u053058
+"I servi e i custodi planetari sono stati assegnati a due ponti inferiori ausiliari. I popolani sono agitati e spaventati dalla calamità, quindi, per tenere sotto controllo la loro follia, assegniamo al lavoro solo chi è sano di mente e immettiamo gas sedativo attraverso la ventilazione nei compartimenti che ospitano gli altri."
+
+### u053059
+"I rispettabili nobili e le loro famiglie hanno ricevuto alloggi consoni al loro rango. Gli orrori del massacro per le strade sono ancora freschi nelle loro menti, perciò all'inizio facevano regolari visite ai ponti inferiori per sfogare paure e rabbia sui servi del nostro stesso equipaggio. Sarebbe stato irrispettoso confinare i nobili nei loro compartimenti, quindi abbiamo usato catene di altro genere, rifornendoli generosamente di amasec e intossicanti."
+
+### u053060
+"Il venerato Praetor Electroid Dahr-Impulse VI e il suo seguito hanno trovato rifugio in una delle baie di ingegneria. O, più precisamente, vi si sono barricati. I saggi servitori dell'Omnissiah temono oltre ogni misura che profani ignoranti possano danneggiare o offendere il loro Miracoloso Reattore a Fusione, così si sono rinchiusi nella loro personale fortezza."
+
+### u053061
+"Finora sono stati trovati undici corpi. La prima vittima aveva gli occhi bruciati con un cannello a gas, alla seconda era stato spruzzato acido in faccia, la terza è stata trovata che vagava, allo stremo delle forze e con spilli di metallo che spuntavano dalle orbite. Sono morti prima che potessimo interrogarli. Gli altri sono stati uccisi e sfigurati in modi simili: tramite accecamento. Non è stata trovata alcuna traccia dell'identità degli assassini."
+
+### u053062
+"Se posso intervenire, non ce n'è bisogno. Gli interrogatori sono già stati condotti. Ho messo in allerta i tutori dell'ordine non appena è stato scoperto il primo corpo, anche se ho deciso di non disturbare Vostra Signoria finché non avessi avuto i risultati. Ebbene, ora li ho. Abbiamo già arrestato... vediamo... quattro responsabili sulle scene di crimini che non erano ancora avvenuti. Quelli... quelli non sono omicidi. Sono suicidi."
+
+### u053063
+"Le persone che abbiamo catturato stavano per accecarsi e porre fine alla propria vita. Sono certo che tutti i deceduti abbiano fatto lo stesso. Interrogati, hanno detto tutti la stessa cosa: sono ossessionati dalla vista della morente Rykad Minoris. Anche nel sonno vedono la stessa orribile immagine, perciò quei poveri disgraziati farebbero qualsiasi cosa per far cessare questo incubo."
+
+### u053064
+"Certamente, Lord Capitano. Solo che, temo, non sono soltanto i profughi." {n}La voce di Abelard è cupa.{/n}
+
+### u053065
+"Tre delle quattro persone che abbiamo arrestato erano membri dell'equipaggio. Hanno visto morire Rykad Minoris e ne hanno riportato la mente segnata. Tutti noi portiamo il marchio di quella oscura catastrofe, perché è stata l'attenzione dei Poteri Rovinosi a marchiare le nostre stesse anime. Che il Dio-Imperatore abbia pietà di noi."
+
+### u053066
+"Siete {mf|stato avvertito|stata avvertita}, Vostra Signoria. È deplorevole che non abbiate ascoltato."
+
+### u053067
+Costruisci motori al plasma spaziali su Kiava Gamma e trasporta il pianeta in un sistema vicino
+
+### u053068
+Ripristina il funzionamento della colonia
+
+### u053069
+Distruggi il pianeta
+
+### u053070
+Trasforma Santiel's Pride in un mondo cimitero
+
+### u053071
+Imponi al mondo una tassa distruttiva di penitenza
+
+### u053072
+La principale città formicaio di Santiel's Pride è stata devastata e l'estrazione di promethium è stata interrotta. La popolazione sopravvissuta si è dispersa, con casi registrati di allontanamento dalla Lex Imperialis e dal Credo ortodosso. A causa della scomparsa della stella del sistema, il pianeta uscirà dalla propria orbita e morirà nel vuoto in meno di un anno solare.
+
+### u053073
+I servi che si erano allontanati dalla legge e dalla fede dell'Imperium sono stati riportati con la forza alle pompe di promethium. I penitenti hanno faticato sotto una sorveglianza spietata giorno e notte, morendo di freddo, di sete e sotto le frustate di crudeli confessori. Quando l'ultimo di loro è spirato, il promethium ottenuto è stato accuratamente raccolto in cisterne benedette. Mescolato al sangue di chi è stato mondato dalle proprie impurità, porta in sé l'ira ribollente dell'Imperatore in persona.
+
+### u053074
+Per la misericordia dell'Imperatore, la produzione di promethium riprenderà e continuerà fino all'ora esatta in cui la morsa gravitazionale del vuoto strapperà Santiel's Pride dalla sua orbita, condannandolo al freddo abbraccio dell'oscurità.
+
+### u053075
+Santiel's Pride diventerà un mondo cimitero, un cupo e maestoso monumento alla sanguinosa battaglia tra gli xenos e l'Imperium dell'Umanità. Un giorno, l'attrazione gravitazionale del vuoto strapperà il mondo dalla sua orbita e getterà il pianeta nel suo freddo abbraccio. Anche allora, tutti ricorderanno Santiel's Pride.
+
+### u053076
+Le rovine dell'un tempo grande formicaio hanno dato un silenzioso addio all'ultima navetta che attraverserà mai i cieli oscuri sopra Santiel's Pride. Cariche esplosive, trivellate nella crosta del mondo ghiacciato, hanno innescato una reazione a catena nei giacimenti di promethium e hanno mandato in frantumi il pianeta.
+
+### u053077
+Santiel's Pride è un mondo troppo importante per essere abbandonato dalla dinastia dei von Valancius, indipendentemente dalla catastrofe che lo ha colpito. Le forge nelle profondità di Kiava Gamma presto ruggiranno di calore incandescente, mentre magnifici motori al plasma sorgeranno in orbita, vasti e imperscrutabili nel loro splendore. Un giorno i motori saranno consegnati a Santiel's Pride e il pianeta congelato si sposterà nel sistema vicino, dove potrà risorgere al suo antico splendore. Per ora, l'estrazione di promethium sulla sua superficie continuerà nella misura ritenuta possibile.
+
+### u053078
+"Un altro sistema senza la sua stella?" {n}Senti un fremito di indignazione nella voce di Heinrix, seguito da un profondo sospiro.{/n} "Dobbiamo verificare se ci sono xenos su quel mondo ghiacciato e, se i nostri sospetti saranno confermati, sterminarli. Se non siete d'accordo, lasciate che vi ricordi che il protettorato di uno dei Rogue Trader della Distesa di Koronus ha perso diversi miliardi di sudditi. Potete essere {mf|certo|certa} che lo stesso non accadrà a Dargonus? O a un altro dei vostri mondi?"
+
+### u053079
+"Risparmiati la fatica di sperare che sia rimasto qualcuno da salvare su quel misero pianeta condannato. Tutti i mon-keigh sono stati portati a Commorragh o sventrati sul posto." {n}La voce di Marazhai trema di un'improvvisa eccitazione.{/n} "Tuttavia, i lacchè del patetico Arconte che ha mandato qui il suo Kabal... Chi mai potrebbe essere, mi chiedo... Oh, attendo con impazienza l'occasione di incontrarli di persona."
+
+### u053080
+"Grazie per il vostro rapporto esaustivo, Ravor." {n}Vigdis prende il controllo del canale, con il disappunto che traspare solo dalla forza con cui preme il tasto del vox.{/n} "Chiedo scusa, Lord Capitano. Come ha appena affermato l'esimio Primo Timoniere, l'equipaggio degli augur è turbato dall'anomala assenza di una stella nel cuore del sistema. Quanto al mondo formicaio... temo sia perduto per sempre per l'Imperium, così come le vite di miliardi dei suoi figli."
+
+### u053081
+"Le stelle non svaniscono dal cielo senza motivo: potrebbero essere all'opera gli stessi malvagi del sistema di Rykad... Lord Capitano, Santiel's Pride è un obiettivo di importanza strategica per la dinastia Chorda. Da solo copre il fabbisogno di promethium dell'intero loro protettorato. Non è difficile capire che cosa sia successo: i maledetti xenos hanno avuto il loro bel da fare, ma, per il Trono, ci sono riusciti! Questo non significa che possiamo lasciare loro da saccheggiare risorse strategiche così importanti. Suggerisco di fare un favore alla Casata Chorda e di recuperare ciò che resta del loro promethium."
+
+### u053082
+"Lord Cap', quei fannulloni dell'equipaggio degli augur riferiscono che abbiamo raggiunto il Sistema Nolla Septum, dove si trova un formicaio di raffinazione del promethium, Santiel's Pride, che si trov— Pieghiamo mia madre sul Trono d'Oro!" {n}La trasmissione si interrompe bruscamente e riprende con un forte scatto alcuni istanti dopo.{/n} "L'Imperatore ci preservi, Lord Cap', l'intero sistema è più buio dell'interno del deretano di un {g|Encyclopedia:Grox}grox{/g}! La stella locale, è... non c'è più!"
+
+### u053083
+"Perdonami, shereen, ma mi rifiuto di credere che tra i miliardi di sudditi dei Chorda non ci fosse almeno una manciata di anime disperate che confidavano ancora nella provvidenza dell'Eccelso, aggrappate alla vita. Chi sarà la loro salvezza se non tu?"
+
+### u053084
+"Nuove informazioni. Lord Capitano, siamo riusciti a rilevare una firma di calore residuo su uno dei continenti di Santiel's Pride, ma non c'è alcuna indicazione chiara della sua origine. L'equipaggio attende ulteriori istruzioni e prega per le anime dei defunti con straordinario zelo."
+
+### u053085
+"Affila le lame, Marazhai. Stanotte andiamo a caccia di xenos."
+
+### u053086
+"Non smetti mai di stupire, mon-k... {name}." {n}Una risata sinistra trasuda dal sistema vox come sangue viscoso che gocciola da una lastra di metallo.{/n}
+
+### u053087
+"Inviate squadre di soccorso sul mondo. Faranno meglio a non tornare senza sopravvissuti."
+
+### u053088
+"L'ordine è chiaro; le navette di soccorso sono state inviate ai punti di evacuazione suggeriti e alle probabili posizioni dei bunker nascosti. Desiderate altro?"
+
+### u053089
+"Iniziate subito l'estrazione di promethium. Dobbiamo sfruttare il potenziale rimasto al mondo finché mantiene ancora l'orbita."
+
+### u053090
+"Ordinerò alla camera della spedizione coloniale di iniziare a dispiegare l'extractium. Il Lord Capitano ha altre istruzioni?
+
+### u053091
+"Dite all'equipaggio di preparare la navetta. Non indugiamo e iniziamo l'esplorazione di questo mondo morto."
+
+### u053092
+"Sarà fatto, Lord Capitano. Desiderate altro?"
+
+### u053093
+"Basta parlare. Santiel's Pride ci attende."
+
+### u053094
+{n}La voce acida del Timoniere riempie di nuovo il canale.{/n} "Se siete così {mf|ansioso|ansiosa} di congelarvi il vostro stimato deretano, Lord Cap', chi siamo noi per opporci?"
+
+### u053095
+"Non sarebbe appropriato disturbare i luoghi di sepoltura di un altro protettorato. Ce ne andiamo."
+
+### u053096
+"Giusto, Lord Cap'! Il vuoto si porti questi xenos e i loro sporchi trucchi. Hanno rubato una stella... Maledette abominazioni."
+
+### u053097
+"Basta. Ci sono altri sistemi pieni di stelle che aspettano di essere esplorati."
+
+### u053098
+"Lord Capitano, abbiamo ricevuto un messaggio vox dalla nave soccorsa. Il comando della nave vi manda i suoi smisurati ringraziamenti per l'aiuto e riferisce che una navetta è stata inviata a consegnare qualcosa alla nostra nave: pare che il capitano abbia deciso di ringraziarvi di persona per avergli salvato la pelle. Non appena avverrà il trasferimento, la nave lascerà il sistema; immagino che siano preoccupati per l'integrità del loro secchio bucherellato e vogliano allontanarsi il più possibile da questo sistema pericoloso."
+
+### u053099
+"Distruggete l'oggetto insieme a tutto ciò che si trova là dentro."
+
+### u053100
+"Trasmettete l'ordine di proseguire il viaggio."
+
+### u053101
+"Ci saranno istruzioni riguardo all'oggetto che abbiamo scoperto, Lord Capitano?"
+
+### u053102
+"Accettate la trasmissione."
+
+### u053103
+"Ignorate la trasmissione."
+
+### u053104
+"Rispondete con una nostra richiesta."
+
+### u053105
+"Lord Capitano, secondo la telemetria ci troviamo nel sistema di Kiava Gamma, il principale {g|Encyclopedia:IndustrialWorld}mondo industriale{/g} della dinastia dei von Valancius. Tuttavia, i nostri Astropati riferiscono che i tentativi di contattare il Governatore Gaprak non hanno avuto successo."
+
+### u053106
+"Ma aspettate..." {n}La Maestra del Vox tace per alcuni secondi.{/n} "Lord Capitano, un nuovo rapporto! Kiava Gamma sta inviando una richiesta di scambio di dati. Dobbiamo accettarla?"
+
+### u053107
+"Come comandate, Lord Capitano." {n}La Maestra del Vox passa a un canale di comunicazione vicino per trasmettere le tue istruzioni all'equipaggio. Per diversi minuti non accade nulla.{/n}
+
+### u053108
+"Lord Capitano, abbiamo ignorato la trasmissione come ordinato, ma il sistema vox ha rilevato una dozzina di altre richieste in arrivo! Il loro numero cresce di secondo in secondo e ognuna diventa più insistente e più forte. Credo... credo di sentire qualcosa..."
+
+### u053109
+"Lord Capitano, riferisco: il manufactorum ignora tutte le nostre richieste e continua a inviarci le sue. Più a lungo non accettiamo i suoi messaggi, più i segnali in arrivo diventano forti e persistenti. Non... ho mai visto nulla di simile."
+
+### u053110
+{n}All'improvviso, uno stridio assordante erompe dal sistema vox del ponte di comando. Senti violente tirate di codice binarico distorto simili a basse risatine di macchinari.{/n} "L-L-L-Lord Capitano! Int-t-t-terferenza r-r-rilevata nel sistema vox del compartimento. Sembra che il ponte di comando sia is-s-s-solato dal resto della n-n-nave del vuoto..."
+
+### u053111
+"Non ora, Vigdis."
+
+### u053112
+"Certo. Avvertili di aspettarsi il mio ritorno sulla nave del vuoto."
+
+### u053113
+"Buone notizie. Andrò subito dal Liege."
+
+### u053114
+"Il Liege può aspettare. Ho altri affari di cui occuparmi."
+
+### u053115
+"Lord Capitano, sono lieta di riferire che le ispezioni sono state completate e tutti i guasti di sistema individuati sono stati risolti. La nave del vuoto è pronta a lasciare Footfall. L'equipaggio attende le vostre ulteriori istruzioni e ci sono anche alcune questioni da affrontare."
+
+### u053116
+"Me ne occuperò io, Lord Capitano!"
+
+### u053117
+"Come desiderate. L'incontro attenderà la vostra prossima visita al ponte di comando."
+
+### u053118
+"Lord Capitano, sono lieta di riferire che le riparazioni sono state completate. Resta solo un'ultima formalità: far visita al Liege Tocara. Non appena gli avrete parlato, la nave del vuoto sarà pronta a lasciare Footfall."
+
+### u053119
+"Abbiamo anche ricevuto notizie dal Proctor Solomorne Anthar, l'Arbitrator la cui squadra abbiamo recuperato da Rykad Minoris. Ha chiesto un'udienza con voi e ha detto che vi aspetterà ai moli di Footfall."
+
+### u053120
+"Certamente, Lord Capitano. Gli ufficiali attenderanno il vostro ritorno."
+
+### u053121
+"Lord Capitano, nel sistema c'è una nave del vuoto appartenente alla Flotta Imperiale. Secondo la telemetria, la nave è gravemente danneggiata: la maggior parte dei sistemi di servizio periferici è presumibilmente fuori uso. Hmm... secondo gli augur, la maggior parte dei compartimenti è depressurizzata, ma ci sono biosegnature in una delle baie di manutenzione interne che gli spiriti macchina non hanno ancora abbandonato. Potrebbe esserci qualcuno ancora vivo là dentro."
+
+### u053122
+"Lord Capitano, i portelli stagni della stazione sono stati sigillati dall'interno. Una registrazione vox afferma che il sacerdozio del santuario Altar-Templum-Calixis-Ext-17 non ha alcun desiderio di comunicare con i laici e nega l'accesso agli ospiti in base al privilegio di inviolabilità dell'Adeptus Mechanicus, che concede loro la giurisdizione esclusiva sui loro luoghi sacri."
+
+### u053123
+"Lord Capitano, abbiamo ricevuto un messaggio astropatico da Dargonus. Achilleas Scalander segnala un'incursione xenos contro una nave mercantile nel Silenzio di Mer-Segrit!"
+
+### u053124
+"Le coordinate di un ipotetico contatto sono state inoltrate all'equipaggio. Se desiderate sostenere i vostri sudditi e combattere personalmente contro gli xenos, dobbiamo affrettarci: è improbabile che una nave mercantile riesca a resistere a lungo ai nemici dell'Umanità."
+
+### u053125
+"Vostra Signoria, le squadre di riparazione sono già atterrate presso i più grandi extractium su Vheabos VI. Le macchine minerarie reliquia sono state rimosse con cura da sotto le rovine e portate con rispetto sulla nave per essere riparate e risanate."
+
+### u053126
+"Lord Capitano, ci stiamo avvicinando a Oasis V. Nelle antiche cronache il pianeta è descritto come un fiorente mondo agricolo, benché vi infuriasse la guerra da molti secoli. A causa di un cataclisma sconosciuto, la biosfera è collassata e il pianeta si è trasformato in un'unica gigantesca tempesta che ha distrutto ogni forma di vita. Tuttavia... abbiamo captato un debole segnale proveniente dalle profondità del mondo. Potrebbero esserci sopravvissuti nel sottosuolo."
+
+### u053127
+"Lord Capitano, riferisco: la nostra nave del vuoto ha attraversato una nube di polvere cosmica di origine sconosciuta. Purtroppo le particelle di polvere erano ricoperte da un guscio di ghiaccio che si è congelato in una spessa lastra sullo scafo della nave, bloccando alcune prese d'aria tecniche. I servitori impiegheranno tempo a rimuovere il ghiaccio. Fino ad allora, la nostra manovrabilità sarà in parte ridotta."
+
+### u053128
+"Lord Capitano, davanti a noi c'è un insolito ammasso di asteroidi binari, ricco di metalli rari e minerali preziosi. Si muovono su un'orbita abbastanza stabile, il che suggerisce la possibilità di costruire una stazione mineraria all'interno dell'ammasso."
+
+### u053129
+"Ehm... Vostra Signoria, siamo arrivati. Secondo i miei agenti, questo è il sistema in cui Kunrad Voigtvir e i suoi pirati ammaestrati fanno affari con i nemici dell'Umanità."
+
+### u053130
+"Gli augur non rilevano segni vitali sulla stazione, il che significa che il prossimo accordo non è ancora stato negoziato. Abbiamo ancora il tempo di preparare un'accoglienza adeguata." {n}Il servitore dell'Inquisizione lascia cadere cupamente le ultime parole.{/n}
+
+### u053131
+"Qui le nostre strade si dividono, Rogue Trader. Voi anteponete i vostri obiettivi a ogni altra cosa, mentre io sono un'arma della Lex Imperialis, e il mio dovere non è ancora compiuto. Addio."
+
+### u053132
+"Lord Capitano, secondo la nostra telemetria siamo arrivati alle coordinate che avete specificato. Gli augur non registrano alcuna attività sulla superficie dei pianeti locali, biologica o di altro tipo, ma forse gli xenos stanno usando la loro arcana tecnologia per nascondere la propria presenza."
+
+### u053133
+"I miei simili potrebbero aver affrontato una nuova minaccia, predatori come i pirati o qualcosa di peggio. Se sono stati fatti prigionieri..." {n}La voce di Yrliet trema di qualcosa che potrebbe essere rabbia o paura.{/n}
+
+### u053134
+"Nonostante ciò, l'equipaggio degli augur è riuscito a individuare un debole segnale ai margini del sistema. Secondo i loro dati, proviene da una nave non identificata alla deriva nell'orbita di un gigante gassoso locale."
+
+### u053135
+"Ti supplico, elantach, andiamo alla navetta! Sento che il filo del destino si è consumato ed è sul punto di spezzarsi. Non posso perdere quella che potrebbe essere l'unica occasione di risolvere il mistero della scomparsa della mia casa."
+
+### u053136
+"Abbattete i siluri!"
+
+### u053137
+"Respingiamoli in un combattimento leale. Tenetevi pronti all'impatto!"
+
+### u053138
+"Lord Capitano! Hanno lanciato siluri da abbordaggio! Sembra che il nemico abbia deciso di abbatterci con un unico colpo decisivo."
+
+### u053139
+"I nostri equipaggi antivuoto non riescono a colpirli. Questi proiettili sono dotati di contromisure che accecano gli augur e di propulsori di manovra per eludere il fuoco mirato. Consiglio a Vostra Signoria di prepararsi al combattimento: la collisione con il siluro di testa avverrà un ponte sotto il ponte di comando."
+
+### u053140
+"Sì, Lord Capitano. Date l'allarme su tutti i ponti. Tutti i membri dell'equipaggio si preparino a respingere gli abbordatori!"
+
+### u053141
+{n}Vieni {mf|distratto|distratta} dalla voce preoccupata di Vigdis che esce dal vox.{/n} "Lord Capitano, chiedo scusa per il disturbo, ma la vostra presenza è richiesta con urgenza sul ponte di comando. Sono riuscita a impedire a tutti di irrompere nel vostro studio, ma non so per quanto ancora potrò trattenerli..." {n}Prima che la trasmissione si interrompa, senti in sottofondo la voce indignata di qualcuno. In effetti, il tuo intervento sembra necessario.{/n}
+
+### u053142
+"Perché rifiutano il nostro aiuto?"
+
+### u053143
+"Vigdis, dammi i dettagli sui combattenti."
+
+### u053144
+"Chi sta vincendo?"
+
+### u053145
+"Non interferiamo. Ce ne andiamo."
+
+### u053146
+"Che cosa c'è di così importante su Eufrates II da meritare di combattere?"
+
+### u053147
+"Lord Capitano, i nostri augur hanno rilevato operazioni di combattimento attive in orbita e sulla superficie di Eufrates II. Abbiamo tentato di contattare gli Explorator sulla nave ammiraglia della Cognisance Fleet che coordina l'assedio, ma abbiamo ricevuto una richiesta perentoria di non interferire, sotto minaccia di rappresaglia armata."
+
+### u053148
+"La loro reazione è frutto di una ragionevole cautela, Vostra Signoria. La rete di agenti del Culto dell'Alba Finale si estende su interi mondi e ha dimostrato più volte la propria efficacia. Presumo che i Tecnopreti temano di far entrare un vascello traditore nelle proprie file di combattimento."
+
+### u053149
+"Questo sacro mondo forgia è sempre stato chiuso ai laici. Credo che solo sotto la minaccia di vederlo completamente corrotto dai Poteri Rovinosi gli Explorator abbiano accettato, a malincuore, che i loro empi alleati mettessero piede sul loro mondo benedetto."
+
+### u053150
+"Il mondo è assediato da uno squadrone della Cognisance Fleet, sostenuto da un'armata congiunta di navi provenienti da tutta la Distesa. Tra queste ultime registriamo navi reclutate dal Lord Inquisitore per difendere il settore. Si oppongono loro la feccia dell'Alba Finale, guidata dai blasfemi traditori nelle file dei Word Bearers."
+
+### u053151
+"Rileviamo una parità tra le forze, poiché entrambe le parti adottano strategie prudenti con lo scopo di raggiungere gradualmente la superiorità di posizione. La prognosi tattica suggerisce che questo stallo persisterà ancora per un po'."
+
+### u053152
+"Suppongo che non minaccino più di aprire il fuoco. Meglio così."
+
+### u053153
+"Convocateli sul ponte di comando: terremo un consiglio."
+
+### u053154
+"Devo occuparmi prima di altre faccende. Ditegli di aspettare."
+
+### u053155
+"Lord Capitano, il corpo unito degli Explorator e delle forze di milizia è pronto ad attaccare gli eretici che hanno preso Eufrates II. I comandanti riconoscono l'autorizzazione del Lord Inquisitore e accettano di cedervi il diritto di comando supremo. Chiedono che convochiate un consiglio di guerra per stabilire il piano d'attacco. Come dobbiamo rispondere?"
+
+### u053156
+"Se Vostra Signoria lo desidera, trasmetterò la richiesta di scuse ufficiali per l'atto di oltraggiosa impudenza che c'è stato."
+
+### u053157
+"Come desiderate, Vostra Signoria. I comandanti sperano che sarete {mf|pronto|pronta} a convocare un consiglio il prima possibile. Senza il vostro appoggio, la flotta non può iniziare l'attacco. Ogni secondo conta."
+
+### u053158
+"Considerate fatto, Vostra Signoria. Avviserò i comandanti che siete {mf|pronto|pronta} a incontrarli."
+
+### u053159
+"Ho già tutto ciò che ci serve."
+
+### u053160
+"Un consiglio sensato. Ho ancora degli affari in sospeso a Footfall."
+
+### u053161
+"Vostra Signoria, ci attende una lunga spedizione. Sarebbe ragionevole rifornirci di scorte. Munizioni, pezzi di ricambio, equipaggiamento migliore... Chissà che cosa stiamo per affrontare?"
+
+### u053162
+"Sia fatta la vostra volontà, Vostra Signoria."
+
+### u053163
+"Benedetta la vostra prudenza, Lord Capitano!"
+
+### u053164
+"Quali altre opzioni abbiamo per atterrare su Footfall?"
+
+### u053165
+"Molto bene, diamo un'occhiata alla nuova ospitalità di Footfall."
+
+### u053166
+"Non cammino dentro questa trappola per topi. Non ora, almeno."
+
+### u053167
+"Andiamo a vedere che cosa è successo al tuo equipaggio."
+
+### u053168
+"Ce ne occuperemo più tardi. Ci sono questioni più urgenti da affrontare adesso."
+
+### u053169
+"Del tuo equipaggio e dei suoi guai non mi importa nulla. Dovranno cavarsela da soli."
+
+### u053170
+"Lord Capitano, abbiamo ricevuto un messaggio vox da Footfall. L'Inquisizione ha dichiarato la legge marziale sulla stazione a causa della minaccia del Malleus Extremis. L'attracco richiederà un permesso speciale e perfino la maggior parte degli asteroidi è stata isolata."
+
+### u053171
+"La custode della stazione, Sua Signoria Incendia Chorda, manda i suoi saluti e invita Vostra Signoria a sbarcare ai moli con un piccolo seguito. I suoi tutori dell'ordine vi incontreranno là per scortarvi in un'altra camera per un'udienza privata."
+
+### u053172
+"Non ne abbiamo, Lord Capitano. Gli augur riferiscono che tutti i portali di attracco non sorvegliati dai tutori dell'ordine sono chiusi e imbottiti di esplosivo."
+
+### u053173
+"Se è tutto ciò che hai da dire..." {n}La Maestra del Vox espelle senza tante cerimonie Jae dal canale.{/n} "Chiedo scusa, Lord Capitano. Quali sono le vostre istruzioni?"
+
+### u053174
+"Ha messo i bastoni tra le ruote, facendo crollare la mia rete commerciale come un cronometro assemblato male. Niente entrate, niente profitti, solo danni! Tutto perché la mia mano destra è incatenata su uno degli asteroidi di Footfall. Che ne dici di fare una visita di cortesia a Falco? Sono certa che il tuo aspetto imponente gli scioglierà la lingua... E magari, solo magari, libererà le mani del mio equipaggio."
+
+### u053175
+"Shereen, ti ho mai detto che sei il rosaio più profumato dell'intero giardino in fiore della Distesa di Koronus?"
+
+### u053176
+"Attenderò quest'ora fatidica con trepidazione e impazienza! Gloria all'Eccelso, che ha risparmiato il tuo cuore dall'indifferenza e dall'alterigia."
+
+### u053177
+{n}Una voce soffocata gracchia dal vox ma vacilla.{/n} "Se la galassia stessa si piega alla volontà del Rogue Trader e del Dio-Imperatore, anche se il Rogue Trader {mf|stesso|stessa} non è nulla di fronte al potere del Padrone dell'Umanità... Allora chi è Jae Heydari per opporsi alle tue decisioni, shereen?"
+
+### u053178
+{n}Il vox crepita di statica e la voce mielosa di Jae riempie l'aria.{/n} "Vigdis, balsamo del mio cuore! Perdona l'intrusione, ma ho affari importanti con il Rogue Trader!"
+
+### u053179
+"Perdona la mia avventatezza, shereen, ma non abbiamo ancora parlato del messaggio astropatico che ho ricevuto da Footfall. Pare che quelle zucche vuote dei miei siano andate a farsi catturare da certi ashmag rivali. Vladaym è troppo occupato per tramare e, inoltre, Incendia Chorda l'ha già rimesso al suo posto, il che lascia solo Falco, che l'azhi gli inghiotta il cuore! Quel vigliacco figlio di un {g|Encyclopedia:Grox}grox{/g} rognoso pretende il Mercatum Tabula Officiale in cambio della vita del mio equipaggio!"
+
+### u053180
+"Oh, shereen, voglio solo ricordarti della mia ciurma di zucche vuote che si è fatta catturare da certi ashmag rivali. Vladaym è troppo occupato per tramare e, inoltre, Incendia Chorda l'ha già rimesso al suo posto, il che lascia solo Falco, che l'azhi gli faccia a pezzi l'anima! Footfall è proprio davanti a noi, e preferirei non sprecare la preziosa sabbia che resta nelle clessidre delle loro vite."
+
+### u053181
+"Lord Capitano! Vi porto nuove informazioni sullo xenodispositivo che avete scoperto durante la vostra... assenza. Da quando siete {mf|tornato|tornata}, i Tecnopreti si sono impegnati in ogni modo per comprendere la natura di questa misteriosa tecnologia, e ci sono riusciti, in una certa misura. Dopo molti rituali e suppliche al Dio-Macchina, hanno risvegliato lo xenoartefatto. Per un solo istante ha prodotto una copia olografica di un pianeta e coordinate corrispondenti a un luogo nella Cintura di Langrenn. Forse vorrete vedere con i vostri occhi che cosa nasconde quella destinazione."
+
+### u053182
+"Ora osa convocarmi come se fossi {mf|un suo servo|una sua serva}! Che faccia tosta, quel bastardo arrogante!"
+
+### u053183
+"Allora puntiamo su Footfall. Dev'essere molto importante."
+
+### u053184
+"Xavier dovrà aspettare finché non avrò concluso questioni più urgenti."
+
+### u053185
+"Lord Capitano, gli Astropati riferiscono un nuovo messaggio. Dice che il Lord Inquisitore Calcazar manda i suoi saluti a Vostra Signoria e spera di incontrarvi nel suo palazzo a Footfall il prima possibile."
+
+### u053186
+"Le mie condoglianze, Lord Capitano. Ora vi lascio ai vostri pensieri."
+
+### u053187
+"Che cosa c'è di così insolito nel sabotatore e nel modo in cui è stato catturato?"
+
+### u053188
+"Molto bene, gli parlerò."
+
+### u053189
+"Basterà giustiziarlo. Non ho alcun desiderio di sprecare il mio tempo con degli intrusi."
+
+### u053190
+"Lord Capitano, messaggio urgente! I nostri tutori dell'ordine hanno arrestato un pericoloso sabotatore che ha tentato di accedere al ponte di comando. Questo incidente... potrebbe meritare la vostra attenzione. Vedete, sia il sabotatore sia le circostanze della sua cattura sono piuttosto strani." {n}Non riesci a capire se Vigdis sembri perplessa o preoccupata.{/n}
+
+### u053191
+"Credo sarebbe ragionevole che anche il Magos Pasqal gli dia un'occhiata."
+
+### u053192
+"Il fatto è, Lord Capitano... Il sabotatore è senza dubbio un Tecnoprete. È riuscito a salire a bordo della nave e a penetrare tutti i nostri sistemi di sicurezza con una facilità sbalorditiva. Sia la sua capacità di comunicare con gli spiriti macchina sia il potenziale di combattimento delle sue augmetiche sono straordinari... Ciononostante, i tutori dell'ordine sono riusciti a catturarlo."
+
+### u053193
+"Durante l'arresto, l'intruso... non ha opposto alcuna resistenza. Ha invece chiesto un'udienza con 'il grande spirito macchina'. Quando si è reso conto che i tutori dell'ordine non avevano idea di che cosa stesse parlando, ha chiesto di incontrare voi. Ho ritenuto necessario informarvi della situazione."
+
+### u053194
+"Questa infiltrazione nella nave di un Rogue Trader, condotta da Enginseer autorizzati, getta dubbi sulla stabilità del mio tecno-compagno... sempre che sia davvero il mio tecno-compagno. In ogni caso, chiedo il permesso di comunicare con il prigioniero."
+
+### u053195
+"Inteso, Lord Capitano. Il sabotatore vi verrà portato."
+
+### u053196
+"Chiedo che il protocollo di questa conversazione includa una lieve dichiarazione di dubbio riguardo alla fondatezza di questa direttiva." {n}Pasqal sembra contrariato ma controlla il proprio temperamento.{/n}
+
+### u053197
+"Che cosa c'entra l'esecuzione di Vladaym con la propaganda dei ribelli?"
+
+### u053198
+"Grazie per il tuo rapporto, Vigdis. Puoi andare."
+
+### u053199
+"Possiamo trovare e distruggere queste registrazioni?"
+
+### u053200
+{n}Il vox si anima ed emette la voce preoccupata di Vigdis.{/n} "Vostra Signoria, la nostra ricognizione ha intercettato una certa registrazione utilizzata attivamente dai nemici dell'Imperium per diffondere propaganda e seminare discordia tra la sua gente." {n}Dopo un momento di esitazione, continua,{/n} "La registrazione contiene frammenti dell'esecuzione, trasmessa via vox, di Vladaym Tocara, l'ex Liege di Footfall. La tavoletta dati con la registrazione è già stata consegnata ai vostri alloggi, nel caso desideriate studiarla."
+
+### u053201
+"La cupa esecuzione di Tocara ne ha fatto un martire, Vostra Signoria. In origine questa trasmissione vox doveva essere diffusa solo su Footfall, ma i ribelli sono riusciti a diffonderne copie al di fuori della stazione e a distribuirle tra le popolazioni di altri mondi. Nella registrazione, Vladaym denuncia la giustizia dell'Imperium e incita gli altri a opporvisi. I diseredati e gli scontenti lo vedono come un simbolo della loro lotta contro i torti del crudele sistema."
+
+### u053202
+"Purtroppo c'è dell'altro. La fine della registrazione include un frammento in cui Vladaym ripete frasi sinistre e incoerenti nel suo delirio in punto di morte. Alcune persone particolarmente impressionabili ora lo ritengono una sorta di profezia. La ricognizione riferisce che ogni giorno ai livelli inferiori di Footfall si vedono sempre più folli dagli occhi vitrei che farfugliano le parole di questa 'profezia'. Per ora non rappresentano alcuna minaccia, ma sono il segno di guai maggiori in arrivo."
+
+### u053203
+"La nostra ricognizione sta eliminando i focolai ribelli sui nostri mondi e distruggendo ogni copia trovata della trasmissione, ma temo sia impossibile stimare quante copie siano state fatte e dove si trovino ora."
+
+### u053204
+"Contattate le navi al portale. Desidero attraversarlo."
+
+### u053205
+"Che cos'è questo portale?"
+
+### u053206
+"Sgradevole in che senso, esattamente?"
+
+### u053207
+"Desidero studiare questo costrutto."
+
+### u053208
+"Ignorate il costrutto."
+
+### u053209
+"Chi sta attaccando le forze del Lord Inquisitore?"
+
+### u053210
+"Allora colpiremo anche noi."
+
+### u053211
+"Di che cosa era interessata Theodora?"
+
+### u053212
+"Rapporto ricevuto."
+
+### u053213
+[Attiva la comunicazione vox con tutti i ponti] "Equipaggio, parla il Lord Capitano. Sto portando la nave verso l'ignoto, dove si annida il pericolo e attende la gloria. Siete con me?"
+
+### u053214
+"Avanti. Qualunque cosa ci riservi questo viaggio, sono {mf|pronto|pronta}."
+
+### u053215
+"Ho ancora degli affari in sospeso da questa parte. Cambiamo rotta."
+
+### u053216
+"Non c'è tempo per le udienze. Portateci al portale dimensionale e preparatevi al salto."
+
+### u053217
+"Ponte dei cannoni principali, iniziate il benedetto rituale di caricamento. Tutti i ponti, iniziate i preparativi al combattimento. Daremo battaglia."
+

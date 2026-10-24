@@ -1,0 +1,822 @@
+### u045183
+"No, niente affatto, Vostra Signoria! Le persone e il carico sono effettivamente arrivati ai servizi portuali, quindi non c'è motivo di dubitare della sincerità delle intenzioni della casata. È solo che... doni così consistenti e preziosi da parte di Lord Sauerback..." {n}Clementia lascia la frase in sospeso.{/n}
+
+### u045184
+"È esattamente così, Vostra Signoria. I servizi portuali hanno già ricevuto le risorse suddette e stanno ora provvedendo a sistemarle a bordo della vostra nave. È solo che... Lord Sauerback..."
+
+### u045185
+{n}Il cancelliere tossisce nel tentativo di spezzare l'imbarazzante pausa.{/n} "Dunque, bene..."
+
+### u045186
+"E con ciò, permettete a me e al Maestro Danrok di congedarci." {n}Il cancelliere e l'Alto Factotum si inchinano davanti a voi.{/n} "Forse quest'ultima richiesta sarà una gradita distrazione? In effetti il soggiorno di Vostra Signoria su Dargonus è stato piuttosto lungo. Tuttavia, il vostro protettorato gode ora di un periodo di relativa stabilità che, per il momento, non richiede più il coinvolgimento personale di Vostra Signoria nei suoi affari. Gloria al Rogue Trader!"
+
+### u045187
+{n}Danrok lascia scappare una risatina divertita.{/n} "Se devo azzardare un'ipotesi, Vostra Signoria, credo che lo stimato cancelliere sia rimasto sconcertato da una dimostrazione di generosità così irregolare da parte di un uomo noto piuttosto per esprimere i suoi... dubbi sui Rogue Trader come categoria. Sembrerebbe che abbiate fatto una bella impressione su Macharius, quel vecchio avaro."
+
+### u045188
+"Lord Capitano, dalla rete di intelligence della casata sono giunte notizie di particolare rilevanza. Si dice che il Lord Inquisitore Calcazar stia progettando una visita a Footfall. Diverse navi della Flotta Imperiale sono state requisite da Lord Calcazar e vengono fatte accorrere anch'esse a Footfall. Inoltre, abbiamo ricevuto rapporti secondo cui messaggi segreti sarebbero stati recapitati ai mondi capitali delle Casate Chorda e Winterscale. È possibile che la chiamata alle armi del Lord Inquisitore soffochi il conflitto che sta covando tra le due dinastie. Stiamo assistendo a un numero crescente di schermaglie tra le loro navi nei sistemi neutrali. Non dubito che Lady Chorda tenterà di portare il Lord Inquisitore dalla sua parte."
+
+### u045189
+{n}Hai trascorso le prime ore del mattino ad ascoltare il lungo resoconto dell'Alto Factotum sugli ultimi scambi commerciali, accordi, controversie e innumerevoli procedure burocratiche. Da fuori delle finestre illuminate e ben chiuse, senti i suoni attutiti di Dargonus e della sua vita quotidiana — la vita che ultimamente ti è scivolata accanto, dato che sei {mf|stato assorbito|stata assorbita} dagli affari del tuo protettorato dall'alba al tramonto.{/n}
+
+### u045190
+{n}Il cancelliere e l'Alto Factotum si scambiano sguardi nervosi.{/n} "Mi sforzerò di essere all'altezza delle vostre aspettative, Vostra Signoria."
+
+### u045191
+"Hai ragione. Niente più rinvii. Dal Maestro dei Sigilli!"
+
+### u045192
+"Abbi pazienza. Avrai il tuo certificato quando troverò il tempo."
+
+### u045193
+"Basta! Non ho alcuna intenzione di andare da nessuna parte e non voglio sentire un'altra parola sui tuoi documenti."
+
+### u045194
+"Shereen! Dargonus è assolutamente favolosa, in questa stagione, non trovi?" {n}Jae ti accoglie con un familiare sorriso perlaceo.{/n} "A proposito... Sono tre cicli che ci occupiamo delle conseguenze dell'invasione xenos... E lungi da me alludere a qualcosa... ma la cerimonia della tua successione è passata da un pezzo."
+
+### u045195
+"Che l'Eccelso benedica tutta la tua dinastia!" {n}Jae batte le mani e qualcosa nella sua protesi scatta in segno di protesta.{/n} "Procediamo verso le navette, shereen? Sarò subito dietro di te."
+
+### u045196
+"Ma certo, shereen! Nessuna fretta. Abbiamo tutto il tempo del mondo..." {n}Jae si sfrega il mento con aria leggermente preoccupata.{/n}
+
+### u045197
+{n}Jae resta in silenzio per un po' prima di offrirti un sorriso mellifluo.{/n} "Ma certo! Ti prego di perdonare la mia indiscrezione, shereen. Non si addice a persone del tuo rango preoccuparsi delle suppliche di umili... sudditi. Non oso disturbarti oltre."
+
+### u045198
+"La mia shereen troverà, magari, il tempo di visitare con me il Palazzo dell'Administratum? Temo che, se salpassimo per un altro viaggio tra le stelle, non otterrò mai il mio certificato, il Mercatum Tabula Officiale. E la mia shereen non godrebbe di tutti i vantaggi che quel certificato potrebbe offrire al protettorato von Valancius."
+
+### u045199
+"Dammi le coordinate e ti porterò dove vorrai."
+
+### u045200
+"Ne parliamo un'altra volta, magari."
+
+### u045201
+"Il destino di Crudarach non mi riguarda."
+
+### u045202
+"Come sei riuscita a contattare quegli Aeldari?"
+
+### u045203
+"Elantach, finalmente hai lasciato la tua gabbia dorata." {n}Yrliet getta uno sguardo alle mura di pietra del palazzo.{/n} "Per molti giri ho cercato di incontrarti, eppure il tuo servitore, quello simile ad Abelard dai capelli d'argento ma due volte più giovane, non ha riguardo per le richieste di una Figlia di Asuryan. Portami in un luogo dove l'udito altrui non possa rubare le parole destinate a te."
+
+### u045204
+"Mentre curavi le ferite lasciate a questo mondo dall'attacco dei contorti, sono riuscita a scoprire... no, non il destino di Crudarach. Solo tracce di esso. Come Muaran trovò rifugio sotto le fronde delle foreste del Lilaethan, così i miei altri consanguinei hanno trovato asilo in un sistema noto come Atlas Reach. Dobbiamo compiere un viaggio fin là, e in fretta... prima che nuovi pericoli distruggano i testimoni che possono mostrarmi la via verso la perduta Crudarach, il cui destino resta avvolto dalle stelle!"
+
+### u045205
+"Attenderò la tua decisione con grande trepidazione, elantach."
+
+### u045206
+{n}Yrliet concentra su di te il suo sguardo penetrante.{/n} "La loro conoscenza è l'unico filo che può condurmi alla verità, elantach. Ti chiedo che la tua nave dalle ali di metallo mi porti lungo quel filo prima che si spezzi sotto la tensione del tempo e delle circostanze."
+
+### u045207
+"No, io... non ho contattato gli Asuryani. Non ne ho i mezzi. Ma ho avuto tempo a sufficienza per esplorare la giungla di pietra del tuo mondo mentre eri {mf|occupato|occupata} con i tuoi affari urgenti. Il Sentiero dell'Emarginato mi ha insegnato a osservare e ad ascoltare il mondo intorno a me — in questo caso, le folle di mon-keigh al porto. Conversazioni vaganti, voci, parole casuali — come tessere di un mosaico screziato, si sono unite a formare un'immagine sfocata. I miei consanguinei sono stati visti nell'Atlas Reach, e ora non ci resta che tirare i fili della rete di collegamenti e possibilità per scoprire ciò che è nascosto all'occhio che non vede."
+
+### u045208
+"Tu... lo farai?" {n}Il ghiaccio negli occhi di Yrliet si scioglie per un istante.{/n} "Grazie, elantach. Se questo cammino mi porterà davvero alla verità... ti sarò debitrice. Un evento raro tra le nostre stirpi."
+
+### u045209
+{n}Lo sguardo di Yrliet ti brucia addosso.{/n} "Mi sono unita a te solo per cercare il mio mondo astronave, mon-keigh! Ti ho aiutato a superare avversità e nemici, a volte rivolgendo la mia arma contro i miei stessi consanguinei! È giunto il momento che tu onori il nostro patto! Lascerò il tuo palazzo e aspetterò che tu dia l'ordine di imbarcarci!"
+
+### u045210
+Gemiti e respiri affannosi riempiono lo spazio, come una sostanza viscosa in cui è impossibile respirare.
+
+### u045211
+"Mmm... I nuovi giocattoli sono arrivati..."
+
+### u045212
+"Tempismo perfetto."
+
+### u045213
+Disattiva
+
+### u045214
+Un sinistro dispositivo, chiaramente progettato per infliggere dolore a uno sconosciuto disattento.
+
+### u045215
+Sembra che il sinistro dispositivo possa essere disattivato, se si riesce a superarlo.
+
+### u045216
+È difficile distinguere qualcosa nel liquido torbido — si intravede solo una sagoma.
+
+### u045217
+Chiunque sia imprigionato nella capsula, si muove appena appena.
+
+### u045218
+Dal buio impenetrabile provengono attutiti gridi di dolore.
+
+### u045219
+"Grrr..."
+
+### u045220
+Un corpo mostruosamente mutilato.
+
+### u045221
+Il cadavere è stato smembrato e poi riassemblato — a quanto pare, quando era ancora vivo. I numerosi punti di sutura e le bruciature indicano che al chirurgo non importava affatto di un trattamento umano.
+
+### u045222
+Da qualche parte, un meccanismo invisibile si mette in moto con un ronzio.
+
+### u045223
+Le guglie di Commorragh trafiggono l'oscurità come aghi nella carne viva.
+
+### u045224
+Un paesaggio cupo si apre davanti ai tuoi occhi.
+
+### u045225
+"Non dovresti essere qui, mon-keigh."
+
+### u045226
+Il laboratorio è stipato di meccanismi e dispositivi a te sconosciuti, la cui vista ti dà la nausea.
+
+### u045227
+"Tervantias vuole parlare. Va'."
+
+### u045228
+"Il mio interesse si è esaurito, esemplare. Togliti dalla mia vista."
+
+### u045229
+Una strana capsula sospesa in aria sopra il laboratorio.
+
+### u045230
+La strana capsula emette un ronzio appena percettibile. Le sue spesse pareti riescono a stento a contenere i suoni che provengono dall'interno — i suoni di una creatura viva e tormentata.
+
+### u045231
+Attiva la piattaforma
+
+### u045232
+Una bizzarra scultura realizzata con un'attenzione ai dettagli sovrumana.
+
+### u045233
+La bizzarra scultura emette un suono a malapena udibile... che ricorda vagamente un gemito di dolore.
+
+### u045234
+La statua ha un aspetto strano: fai fatica a capire quale cultura rappresenti.
+
+### u045235
+La statua dall'aspetto alieno è chiaramente un trofeo portato a Commorragh da qualche luogo dello spazio reale.
+
+### u045236
+Sulla superficie liscia si intravedono delle linee di campo — probabilmente una sorta di sistema di alimentazione.
+
+### u045237
+La bizzarra stele emette un sottile ronzio. Mentre ascolti, senti che la testa sta per spaccarsi in un'agonia insopportabile, come se il suono risuonasse con qualcosa nella tua mente.
+
+### u045238
+L'ascensore è controllato da meccanismi sconosciuti che la mente umana sembra incapace di comprendere.
+
+### u045239
+Uno strano pannello di cui non comprendi lo scopo.
+
+### u045240
+Davanti a te c'è una parte di un xenodispositivo che controlla le trappole di questo luogo mortale.
+
+### u045241
+Rimuovi la barriera
+
+### u045242
+Il sinistro labirinto sembra una trappola mortale: probabilmente è stato creato proprio a tale scopo.
+
+### u045243
+La vista dei passaggi intrecciati e intricati del labirinto affascina e cattura lo sguardo.
+
+### u045244
+Una strana tavola da gioco.
+
+### u045245
+Prendi la tavola
+
+### u045246
+I simboli dei Drukhari sono indecifrabili.
+
+### u045247
+L'insieme di simboli sembra incompleto, come se avessi davanti solo metà dell'enigmatico messaggio.
+
+### u045248
+Le deboli fonti di luce di Commorragh brillano come fuochi fatui, facendoti venire le vertigini e la nausea.
+
+### u045249
+Le immense torri di Commorragh sorgono dall'oscurità che circonda la guglia con angolazioni folli, violando tutte le leggi della fisica e della prospettiva.
+
+### u045250
+"Ti strapperò la gola di persona, mon-keigh!"
+
+### u045251
+Attiva il meccanismo
+
+### u045252
+"Sono qui, elantach."
+
+### u045253
+"Perché ti nascondi dietro un campo di forza, Tervantias? Hai paura di me?"
+
+### u045254
+"Quello accanto a te è l'Anguish Prospector?"
+
+### u045255
+"Hmm. Cosa succede se distruggo questo costrutto, mi chiedo?"
+
+### u045256
+[Distruggi il costrutto] "Credo che proverò comunque!"
+
+### u045257
+[Esamina il costrutto]
+
+### u045258
+Lascia entrare gli dei del warp a Commorragh.
+
+### u045259
+[Prega gli dei del warp] "Edge! Guarda attraverso i miei occhi una porta verso la Città Oscura e degnati di accettarla come mia offerta!"
+
+### u045260
+"Non sembri condividere minimamente il timore del warp tipico della tua specie. Questo ti rende folle o semplicemente arrogante?"
+
+### u045261
+"Hai detto che usavi la potenza dei soli? Significa che sei tu il responsabile delle stelle che scompaiono?"
+
+### u045262
+[Distruggi il costrutto] "Correrò il rischio. La prospettiva di vederti urlare di terrore è semplicemente troppo allettante."
+
+### u045263
+[Distruggi il soppressore] "Romperò il tuo giocattolo, ma non perché mi importi di liberare la galassia dai Drukhari. Lo farò perché voglio che tu e quelli della tua specie sappiate: nessuno mi usa. Mai."
+
+### u045264
+Hai distrutto il soppressore di Tervantias nella Guglia della Reaving Tempest.
+
+### u045265
+[Distruggi il soppressore] "Non posso andarmene sapendo di non aver sfruttato la mia occasione di distruggere questa putrida città. È ora che io metta fine a questo posto!"
+
+### u045266
+Hai deciso di non distruggere il soppressore di Tervantias nella Guglia della Reaving Tempest.
+
+### u045267
+[Lascia intatto il soppressore] "Fino al nostro prossimo incontro, Tervantias. Sarà l'ultimo."
+
+### u045268
+"Già che sono qui... ti è per caso rimasta qualche riserva di equipaggiamento speciale?"
+
+### u045269
+[Attacca] "Finalmente un'occasione per sbarazzarmi di te, miscredente disumano!"
+
+### u045270
+"Salve, Tervantias. Nemmeno tu mi sei mancato."
+
+### u045271
+[Lascia intatto il costrutto] "Capisco. Ho altre domande da fare."
+
+### u045272
+{n}L'Haemonculus alza lo sguardo dal pannello di controllo e ti fissa con disprezzo dall'altra parte dell'impenetrabile schermo di forza.{/n} "Sei {mf|sopravvissuto|sopravvissuta}, esemplare. Che deplorevole incapacità di seguire gli ordini! Dovevi morire, nell'arena o nella Voragine. Tuttavia, i servitori di Aezyrraesh rimedieranno presto al tuo errore."
+
+### u045273
+"Esemplare, come avrai notato..." {n}Gli arti dell'Haemonculus indicano simultaneamente l'enorme costrutto che sostiene il campo di forza intorno a lui.{/n} "...questa versione del soppressore blocca sia l'energia che filtra da oltre il Velo sia qualsiasi tentativo fisico di intrusione entro il suo raggio. Il tuo tentativo di conversare è inutile — prosegui semplicemente verso la tua rovina e non disturbarmi."
+
+### u045274
+"Va', discepolo della Verità. Ritorna al tuo spazio reale e servici come hai fatto prima. La via è aperta."
+
+### u045275
+"Hai un'alta opinione di te, esemplare, ma non fraintendere: questo non mi farà ritenerti {mf|un avversario degno|un'avversaria degna}."
+
+### u045276
+"Elantach, benché il tuo cuore possa abbondare di rabbia..." {n}Yrliet si guarda attorno.{/n} "L'incommensurabile tormento di potenti Veggenti pervade questa guglia. Se rischiassi di distruggere questo costrutto... potrebbe provocare uno strappo irreparabile nel Velo a Commorragh."
+
+### u045277
+{n}Il tuo colpo va a segno. Cariche di fulmini corrono lungo il costrutto e il campo di forza sfarfalla un paio di volte prima di dissolversi. Al pesante ronzio metallico segue una serie di sordi schiocchi da ogni direzione, e vedi portali del warp sbocciare attorno a te uno dopo l'altro e artigli orribili e deformi protendersi verso di te dall'altro lato.{/n} "Che cosa hai fatto? Che tu sia {mf|maledetto|maledetta}, mon-keigh!"
+
+### u045278
+{n}Un debole sorriso attraversa il volto dello xenos.{/n} "Addio, mon-keigh."
+
+### u045279
+{n}Tervantias non risponde. Noti il suo labbro superiore contrarsi in una smorfia di totale disgusto.{/n}
+
+### u045280
+"Che strano... Accanto a questo costrutto la mia anima è al tempo stesso nuda e avvolta in fasce. I colori attorno a me si dissolvono... e con essi i miei poteri!"
+
+### u045281
+{n}Il soppressore è enorme e somiglia ai dispositivi che hai già visto. Non c'è dubbio che il suo scopo sia sopprimere le manifestazioni del warp. Tuttavia, noti alcuni dettagli che stonano con il design altrimenti tipico dei Drukhari del costrutto: diverse sue parti sono state realizzate con un materiale estraneo a Commorragh e fuse nella sua struttura da una forza sconosciuta.{/n}
+
+### u045282
+{n}Il costrutto non sembra molto diverso dalle altre creazioni dei Drukhari che hai visto: un amalgama angolare di metallo ignoto, spigoli affilati e accenni di carne viva che si contorce.{/n}
+
+### u045283
+"Che—" {n}Tervantias non riesce a completare la domanda.{/n}
+
+### u045284
+{n}L'Haemonculus ti fissa con occhi colmi di una luce innaturale, come un oceano scintillante di azzurro argenteo in cui si intravedono ombre da incubo in agguato. Il suo corpo sussulta e le sue numerose appendici si contraggono convulsamente.{/n} "Discepolo della Verità, ti sei {mf|superato|superata}. La Verità avanza sempre più vicina con silenziosa inevitabilità e una volta che la sua benedizione scorrerà nelle vene del meccanismo di questo essere... la Città Oscura diverrà il suo dominio. Commorragh cadrà."
+
+### u045285
+"Allora consegnerai migliaia di anime a Sai'lanthresh, elantach! Ferirai un nemico per rafforzarne un altro. Quando Colei che ha Sete avrà finito di banchettare a Commorragh, affonderà di certo i suoi artigli anche nei vostri mondi. Perché nulla può saziare la sua fame."
+
+### u045286
+{n}Dopo aver esaminato attentamente il dispositivo, Pasqal dice con acidità,{/n} "Non l'avete costruito voi, vero? Vedo in questo meccanismo elementi strutturali più sofisticati di quanto la vostra mente sarà mai in grado di comprendere. Avete osservato qualcuno farlo e ne avete copiato il lavoro."
+
+### u045287
+"Assurdo!" {n}Tervantias balza in piedi, la voce carica di rabbia autentica.{/n} "Questa è opera del mio genio! I dati iniziali erano solo una risorsa trasformata in capolavoro dalla brillantezza della mia mente! Come osi persino commentare la mia creazione, degenerato di un mon-keigh?"
+
+### u045288
+"E la disputa tra il Tecnoprete e l'Haemonculus su chi sia più abile nell'arte di infliggere dolore la vince Pasqal Haneumann. Ben fatto, Magos."
+
+### u045289
+{n}La voce di Ulfar si fa quieta e insinuante, e un sorriso gli gioca sulle labbra.{/n} "Sì, sei al sicuro... per ora. Ma appena uscirai da dietro questo campo, chissà in quale angolo oscuro ti troveremo? Qualsiasi passo fuori potrebbe significare la tua morte. D'altra parte, forse non uscirai affatto. Potresti restare qui seduto un giorno o due, un mese, un anno... per sempre. Seduto a tremare. Un piccolo, fragile inumano, intrappolato in una prigione fatta dei suoi stessi giocattoli e della sua paura. Chi di noi è in gabbia, adesso?"
+
+### u045290
+{n}Il volto di Tervantias si irrigidisce in una maschera di disprezzo, ma i suoi arti ancora funzionanti cominciano a contrarsi nervosamente e il suo petto si solleva con uno scricchiolio meccanico, come se all'improvviso gli mancasse l'aria.{/n}
+
+### u045291
+{n}Lo xenos risponde con una risatina compiaciuta.{/n} "La paura è la reazione di una mente debole di fronte all'inconcepibile. Perfino i nostri padroni vi sono soggetti... Oh, la fatica che mi è costata convincere l'Arconte a portare i guerrieri spirituali nella Città Oscura. E poi occultare le prove del collasso dimensionale che aveva destabilizzato la guglia."
+
+### u045292
+"Io solo ho agito senza paura. Mi sono addentrato più a fondo, come un bisturi affonda nella carne. Ho progettato dispositivi che soffocano il respiro dell'irreale, sto creando un'arma che farà tremare il warp stesso, e sto usando la potenza furiosa dei soli come nutrimento per la mia arma! Non conosco la paura, perché nella mia mente non esiste l'inconcepibile — solo l'inconcepito."
+
+### u045293
+"Ovviamente. Il mio capolavoro richiedeva una quantità di energia impensabile, ma come avrei potuto lasciare che qualcosa di trascurabile come 'l'impensabile' mi sbarrasse la strada? La stella che chiamate Rykad è stata rubata per mio ordine, come molte altre prima di essa."
+
+### u045294
+{n}Il tono trionfante di Tervantias diventa insopportabile:{/n} "Siete stati nel mondo che voi mon-keigh conoscete come Santiel's Pride? Gli ho tolto il sole solo di recente, mentre eravate occupati a spargere le viscere dei Wych sul pavimento dell'arena. È stato divertentissimo guardare il vostro patetico pianeta congelarsi fino al nucleo... Che cosa affascinante, che un sacrificio così misero come le vite di qualche milione di mon-keigh possa servire a qualcosa di grande come il mio capolavoro."
+
+### u045295
+{n}Senti un sussurro dietro di te — l'ardente, estatico sussurro di Kibellah. Sta pregando l'Imperituro, gli occhi chiusi, un sorriso beato sulle labbra, le armi strette in una presa che fa sbiancare le nocche. Poi spalanca gli occhi e dice piano,{/n} "Non so dirti quanto sia lieta di rincontrarti, Vil'Tervantias."
+
+### u045296
+{n}Heinrix ride, ma la sua risata suona morbosa e inquietante.{/n} "Che c'è? Un'occasione per aprire una breccia nel warp nel cuore del bastione dei nostri nemici? Non mi aspettavo che qualcosa in questo luogo maledetto mi facesse sorridere. Mi sbagliavo."
+
+### u045297
+{n}L'Haemonculus inclina la testa da un lato e ti fissa.{/n} "No, mon-keigh. Niente più elemosine."
+
+### u045298
+{n}La {d|Encyclopedia:Ch3_CorruptedPatchmonster}carne infetta dal warp{/d} che Tervantias ha impiantato nell'Anguish Prospector su tuo suggerimento risponde al richiamo dell'energia del Caos proveniente dai portali. Il corpo del mostro si riempie di protuberanze e comincia a scoppiare, rivelando un'aberrante luce purpurea che emana dall'interno. Il suo petto erutta con un disgustoso sciacquio, formando una fauce con artigli al posto della lingua che stacca a morsi la testa del suo padrone, poi i suoi tentacoli seghettati riducono il resto del corpo a brandelli sanguinolenti che cadono sul pavimento, ancora contorcendosi.{/n}
+
+### u045299
+{n}Jae deglutisce nervosamente.{/n} "Senti, shereen, mi piacerebbe schiaffeggiare io stessa quel maledetto ashmag per tutte le cose schifose che ci ha fatto, ma io semplicemente... non voglio essere fatta a pezzi dai demoni, capisci?"
+
+### u045300
+{n}Lo xenos socchiude gli occhi e sibila,{/n} "Starai pensando che nel momento in cui lo farai, Commorragh precipiterà nel caos demoniaco e il valoroso Rogue Trader avrà liberato l'universo dagli abominevoli Drukhari e potrà finalmente fuggire da queste sale oscure? Prima che tutto ciò accada, esemplare, i demoni che arriveranno ti faranno a brandelli e divoreranno chiunque abbiano davanti. E mentre ti contorci nell'agonia, io avrò tutto il tempo di rimettere ogni cosa in ordine."
+
+### u045301
+"Sì, lo è. Hai avuto modo di ammirarne il potenziale in azione, vero, mon-keigh? Sei così {mf|insensato|insensata} da seguire l'esempio di Keykeross e sperimentare in prima persona le capacità del mio {d|Encyclopedia:Ch3_PatchedMonster}nuovo Grotesque{/d}?"
+
+### u045302
+{n}Il tuo attacco manca il bersaglio: il campo di forza che vi separa è troppo forte. L'Haemonculus emette qualche clic.{/n} "Sprechi le tue forze. Questa versione del soppressore può sia trattenere il Velo sia proteggermi da distrazioni come te. Ora vattene e non disturbarmi."
+
+### u045303
+{n}Il tuo sguardo perde per un istante la messa a fuoco e l'unica cosa che riesci ancora a vedere con chiarezza è il massiccio costrutto soppressore a cui si riferisce Tervantias. Sospetti... no, sai con certezza che il dispositivo contiene un difetto invisibile agli occhi comuni. Un difetto creato dallo stesso Tervantias, sufficiente a incanalare la corruzione del warp nel cuore del soppressore.{/n}
+
+### u045304
+Uno strumento misterioso necessario per aprire un Portale della Tela.
+
+### u045305
+Dispositivo di risonanza della Tela
+
+### u045306
+Collega le piattaforme
+
+### u045307
+Attiva
+
+### u045308
+[Consegna Marazhai ai Mandrake] "Prendete lo xenos. Non so che farmene."
+
+### u045309
+"Marazhai resta con me. Sparite, bestie!"
+
+### u045310
+"Spero proprio che la nostra alleanza ne valga la pena, Marazhai. Tenerti con me costa caro."
+
+### u045311
+[Uccidi Marazhai] "Concedervi il piacere di torturare a morte questo mostro vizioso? Non credo proprio!"
+
+### u045312
+{n}Le parole del Mandrake sono a malapena comprensibili: la creatura chiaramente non è abituata alla lingua dei suoi oscuri consanguinei.{/n} "Il Dracn non ha offerto un scrifizio per i nostri dni. Il Dracn deve divntare il scrifizio."
+
+### u045313
+{n}Marazhai posa una mano sulla sua arma. La sua voce suona calma, ma il suo sguardo è teso mentre scruta la creatura oscura che ha davanti.{/n} "Non avresti dovuto strisciare fuori dall'abisso che la tua misera razza chiama casa. Considera infranto il nostro patto. Nazrakhei non ha mantenuto la sua parte dell'accordo, così ho dovuto finire io il lavoro."
+
+### u045314
+"Il rsultato... non imprta. Il scrifizio sarà fatto." {n}La testa del Mandrake si volta verso di te.{/n} "Fa' il sacrifizio, mon-keigh. La tribù non cede mai. La tribù ti troverà."
+
+### u045315
+"Per la clemenza del Trono... Lord Capitano, era già stravagante da parte vostra procurarvi uno xenos come animale da compagnia e ora scopriamo che viene con un'intera masnada di parenti!"
+
+### u045316
+"Bada alla lingua prima che te la tagli io. I Mandrake non si curano dei mon-keigh. I Mandrake vogliono me. Anche se diventassero abbastanza audaci da venire a prendermi... oh, sarebbe uno spettacolo assai divertente."
+
+### u045317
+{n}Il corpo dello xenos si accascia sul pavimento, macchiandolo di sangue scuro. Il Mandrake raschia gli artigli sul pavimento ed emette un sibilo furioso.{/n} "Pagherai, mon-keigh! La tribù prenderà te e tutto il tuo branco per questo solo Dracn!"
+
+### u045318
+"Hshhh... Crtura insensata. La tribù ti troverà. La tribù avrà il suo scrifizio."
+
+### u045319
+{n}Il Drukhari ti fulmina con lo sguardo.{/n} "Così è tenere te, {name}."
+
+### u045320
+{n}Il Drukhari sfodera l'arma.{/n} "E se la tua feccia ha bisogno di una lezione nel linguaggio del dolore..."
+
+### u045321
+{n}Marazhai ti rivolge uno sguardo di sconcerto e furia, ma non fa in tempo a dire nulla in risposta.{/n}
+
+### u045322
+"Oh, puoi averlo! Sono sicuro che nessuno ne sentirà la mancanza."
+
+### u045323
+"Lord Capitano, queste creature... È come se assorbissero i colori attorno a loro e vomitassero oscurità. Non credo che mentano o cerchino di intimidirci. Verranno dalle ombre, proprio come sono già venute una volta."
+
+### u045324
+"Sembra che le conseguenze delle azioni di qualcuno lo abbiano raggiunto."
+
+### u045325
+"Con cuore puro, leverò il mio corno in lode al Padre di Tutti il giorno in cui morirà questa feccia dalla lingua tagliente. Il lurido xenos sarà anche un misero trofeo, ma è comunque il nostro trofeo. Cederlo senza combattere a questo mocio parlante è vergognoso."
+
+### u045326
+"Le azioni di questo xenos hanno arrecato un grave danno all'Umanità, e la giustizia esige che—" {n}Solomorne esita.{/n} "No, non posso mentire a me stesso — non voglio che nessun essere umano sporchi la propria arma uccidendo quel verme. Che venga divorato dai suoi simili."
+
+### u045327
+"Va bene. Indicami solo dove si trova questa tua proprietà."
+
+### u045328
+"Non perderò tempo con questo."
+
+### u045329
+"Yrliet, qual è il piano per trovare i tuoi consanguinei?"
+
+### u045330
+"Marazhai, cosa dobbiamo aspettarci di trovare dentro la guglia?"
+
+### u045331
+[Addentrati nelle profondità della guglia]
+
+### u045332
+"Dunque è deciso. Usciamo da questo buco."
+
+### u045333
+"Come fai a sapere come aprire il Portale? Una fiducia così profonda tra due Drukhari mi sembra troppo bella per essere vera."
+
+### u045334
+"Non mi fido di te. Dev'essere una trappola per ottenere la grazia."
+
+### u045335
+"Vieni. Quando troveremo i Veggenti, avrai tutte le tue risposte."
+
+### u045336
+"Non ti fermerò."
+
+### u045337
+"Non pensarci nemmeno! Se te ne vai adesso, per te non ci sarà modo di tornare indietro."
+
+### u045338
+{n}La gigantesca guglia è troppo grande per essere vista per intero. Le sue vere proporzioni sono avvolte nelle ombre, e hai la sensazione che quelle ombre cerchino di avvolgerti e inghiottirti ogni volta che distogli lo sguardo.{/n}
+
+### u045339
+"Ai'elethra mi guida da tempo lungo le strade di spine. E tu, elantach, sei solo {mf|un altro compagno fugace|un'altra compagna fugace} lungo una di esse. Chiedimelo cento volte se sceglierei di salvare i miei consanguinei o di camminare al fianco di un mon-keigh, e la mia risposta non cambierà una sola volta. Addio, {mf|straniero|straniera} dall'oscurità tra le stelle. Qui i nostri Sentieri si separano."
+
+### u045340
+"Quindi è questa la nostra via d'uscita, eh? Non vedo l'ora... non vedo l'ora di andarmene lontano da qui... Non posso credere di dirlo, ma voglio davvero vedere un sole vero, non quelle cose pallide e fragili tra le guglie!"
+
+### u045341
+{n}Con un ghigno selvaggio, Ulfar dice con gioia non dissimulata,{/n} "Sento odore di sangue nell'aria — sangue che sta per essere versato. Sento l'eco di spade che cozzano e le urla terrorizzate di xenos che si contorcono sotto il nostro tallone. Padre di Tutti, che meraviglioso banchetto hai preparato per me!"
+
+### u045342
+"Certo. Prima dobbiamo trovare il mio incursore. Molto probabilmente alla fine del molo fuori dalla guglia. Andiamo fino in fondo a questa terrazza prima di entrare nella guglia."
+
+### u045343
+"Se vuoi che usi le mie conoscenze per aprirci una via d'uscita da Commorragh, trova questo oggetto. Senza di esso, non ho il potere di convincere la Tela a lasciarci entrare nei suoi labirinti."
+
+### u045344
+"La Guglia della Reaving Tempest. La sede del mio Kabal. Sia un luogo dove trovare sollievo dagli intrighi dei nostri nemici, sia una trappola mortale per chi è troppo debole e molle per i nostri ranghi." {n}Marazhai inclina la testa e ti lancia un'occhiata.{/n} "Il cuore della guglia custodisce un segreto: un antico Portale della Tela rimasto sigillato per molti, moltissimi eoni. Yremeryss lo teneva nel caso in cui il cappio di Vect si stringesse attorno al collo del Kabal. Nessuno tranne lei e un certo altro Kabalite sa dove esattamente nello spazio reale conduca il Portale. Una via di fuga perfetta. E io posso aprirlo per te."
+
+### u045345
+"Elantach..." {n}Yrliet tocca la pietra luminosa sul suo petto e volge il suo sguardo sofferente verso la guglia. Il suo volto è carico di una strana espressione, come se un torrente ruggente di tristezza, paura e rabbia stesse per esplodere.{/n} "I miei consanguinei di Crudarach sono ancora là, lo sento. Come sento le fiamme delle loro anime spegnersi inesorabilmente."
+
+### u045346
+{n}Marazhai stringe la sua arma.{/n} "Non vedi l'ora di lasciare Commorragh... e io non vedo l'ora di far visita a mia sorella. Stai pur certo che è da qualche parte qui vicino."
+
+### u045347
+"Fiducia? Che inaffidabile. No, ho semplicemente rapito e torturato il Kabalite a conoscenza di questo segreto. C'è perfino la possibilità che Yremeryss abbia creduto alla storia del patetico debole che se l'è svignata."
+
+### u045348
+"Bah!" {n}Il Kabalite emette una cupa risata.{/n} "Ci vorrà più della tua pelle perché Yremeryss mi riaccolga... Comunque, come vuoi. Mi darà un enorme divertimento guardarti correre in cerca di un'altra via di fuga da Commorragh."
+
+### u045349
+"Ti prego, finché c'è ancora tempo, io... dobbiamo salvarli! Lascia che ti accompagni in quel nido di depravazione, in quel dominio di dolore, rabbia e tradimento verso la mia stirpe." {n}La voce di Yrliet trema come una corda tesa e i suoi occhi sono offuscati dall'oscurità.{/n} "Furia e paura mi stanno divorando da dentro e non so che cosa mi spaventi di più: le cupe risposte che si nascondono dietro le mura della guglia o le cicatrici che il mio cuore porterà una volta che le avrò scoperte. Eppure devo conoscere la verità sul mio mondo. Forse... questo è il giorno in cui la Reietta ritrova il suo Sentiero."
+
+### u045350
+"I Veggenti non sono prigionieri facili da tenere. Qualunque cosa gli Oscuri usino per reprimere i poteri dei miei consanguinei, quegli... strumenti saranno ben visibili. Troverò il modo di raggiungerli."
+
+### u045351
+"Kabalite. Wych. Incubi — al fianco di Yremeryss." {n}Fa una breve pausa, un'espressione di preoccupazione gli attraversa i pallidi lineamenti.{/n} "È tutto."
+
+### u045352
+"Allora andrò da sola." {n}La sua voce è calma e quieta, senza alcuna traccia di supplica o rimprovero. Tutto ciò che senti è una risolutezza incrollabile.{/n} "Solo dopo aver trovato il germe di verità nelle oscure sale della guglia ci riuniremo."
+
+### u045353
+"Quindi questa è la tua risposta?" {n}Yrliet si copre gli occhi con la mano e ride per la prima volta, con tristezza e amarezza.{/n} "Come ho mai potuto pensare che un mon-keigh potesse... Non importa. Un giorno la tua paura e il tuo odio ti consumeranno dall'interno, elantach. Sia lode a Isha, non sarò più al tuo fianco quando accadrà. Addio, {mf|straniero|straniera} dall'oscurità tra le stelle. Il nostro Sentiero comune finisce qui."
+
+### u045354
+"Furia e paura mi stanno divorando da dentro, e non so che cosa mi spaventi di più — le cupe risposte che si nascondono dietro le mura della guglia o le cicatrici che il mio cuore porterà una volta che le avrò scoperte. Eppure devo conoscere la verità sul mio mondo. Forse... questo è il giorno in cui la Reietta ritrova il suo Sentiero."
+
+### u045355
+{n}Yrliet ti lancia un'ultima occhiata di dolore trattenuto, si volta e un attimo dopo scompare nell'oscurità.{/n}
+
+### u045356
+{n}Scuotendo i capelli rosso fuoco mentre si volta, Yrliet si precipita via.{/n}
+
+### u045357
+"Dici il vero, elantach. Mettiamoci in cammino. Strapperemo le loro vite dalle grinfie dei miei insaziabili cugini." {n}Volge il viso verso di te e, nonostante l'espressione tesa, vedi gli angoli della sua bocca contrarsi.{/n} "Mi chiedo se un solo Veggente, scrutando le visioni confuse di ciò che deve ancora venire, abbia mai intravisto un futuro in cui la chiave della loro salvezza nascesse dal duo di un mon-keigh e di una Reietta."
+
+### u045358
+{n}La Guglia della Reaving Tempest ti accoglie con rumori attutiti che filtrano dalle sue pareti scure: voci lontane, passi e urla di dolore.{/n}
+
+### u045359
+"Possiamo solo sperare che il vostro dono, Lady Navigatrice, tracci una rotta verso la liberazione. Questa roccaforte xenos trabocca di ignoranza e malizia, e il mio cronometro interno conta i secondi che ci separano dal momento in cui potremo finalmente lasciare questa squallida valle."
+
+### u045360
+"Quanto al Portale della Tela di cui ha parlato l'Arebennian... Perché si apra davanti a te e ti lasci entrare nella Tela, avresti bisogno dell'aiuto di uno della nostra stirpe." {n}Yrliet aggrotta la fronte.{/n} "Potrei... provare ad aprire il Portale. Ma per farlo mi servirebbe un certo costrutto: un dispositivo di risonanza. I padroni di questo luogo devono tenerlo a portata di mano."
+
+### u045361
+"Cerca di evitare di morire prima del nostro prossimo incontro, elantach."
+
+### u045362
+"Ho un..." {n}Marazhai si ferma, cercando la parola giusta.{/n} "Un desiderio. Prima di lasciare la guglia, c'è qualcosa che voglio recuperare. Qualcosa di... memorabile. L'ho lasciato nella dimora del Kabal. Non voglio che finisca nelle mani di altri quando gli sciacalli e i saccheggiatori invaderanno la guglia dopo la nostra partenza. Potrebbe esserci qualcosa anche per te..." {n}Lascia le ultime parole sospese nell'aria.{/n}
+
+### u045363
+"Per il Trono d'Oro, ce l'abbiamo fatta! E tutti interi. Non male... Ma non possiamo ancora rilassarci — abbiamo ancora molta strada da fare."
+
+### u045364
+{n}Marazhai sbuffa con disprezzo e si volta.{/n}
+
+### u045365
+"I colori qui... sono particolarmente scuri e pericolosi. È come se annegassi in un oceano senza fondo di foschia ondeggiante. Ma... che cos'è? Sento un debole tremito provenire dal profondo della guglia. Come il richiamo dell'Immaterium, ma molto più puro."
+
+### u045366
+"Avete ragione, mercante: la speranza acceca. Poco fa suonavate come un vero comandante. La città xenos deve avervi scosso — avete considerato di pentirvi e di staccarvi dal vostro vergognoso passato, una volta tornati nella Distesa?"
+
+### u045367
+"C'è un solo passato da cui volevo staccarmi, e l'ho già fatto, grazie tante! E poi — dannazione al warp, uomo di legge, l'hai detto tu stesso: la speranza acceca. Quindi smettila di fantasticare e di fare piani sul mio futuro!"
+
+### u045368
+"Salveremo i tuoi consanguinei, Yrliet. Hai la mia parola di Rogue Trader."
+
+### u045369
+"Potremmo cercarli o potremmo non farlo. Non ti prometto nulla."
+
+### u045370
+"Mi chiedo se un solo Veggente, scrutando le visioni confuse di ciò che deve ancora venire, abbia mai intravisto un futuro in cui la chiave della loro salvezza nascesse dal duo di un mon-keigh e di una Reietta." {n}Volge il viso verso di te e annuisce con gratitudine.{/n} "Vieni. Strappiamo le vite dei Veggenti dalle grinfie dei miei insaziabili cugini."
+
+### u045371
+"Gli xenos hanno causato abbastanza dolore alla mia casata. Come voi. Andatevene! Non mi interessano più i vostri talenti."
+
+### u045372
+"Dubito che avremo tempo per missioni di salvataggio di xenos."
+
+### u045373
+"Vedo che hai preso Tervantias sotto la tua ala. Di nuovo."
+
+### u045374
+"Tutti quei frammenti di mondo astronave, tutti quei prigionieri... Ne è valsa la pena, xenos?"
+
+### u045375
+"I giocattoli del tuo Haemonculus domestico non lo hanno aiutato granché."
+
+### u045376
+"Se vuoi vivere, togliti di mezzo. Sono {mf|venuto|venuta} per il Portale, non per la tua vita."
+
+### u045377
+"Sono {mf|stanco|stanca} dei giochi e delle macchinazioni che hai portato nel mio regno. Preparati a morire, Arconte Yremeryss."
+
+### u045378
+"A cosa ti servivano i Veggenti? Perché correre un rischio simile?"
+
+### u045379
+"Marazhai, hai delle ultime parole per tua sorella?"
+
+### u045380
+"In nome del Dio-Imperatore, ti distruggerò, xenos!"
+
+### u045381
+"Hai qualche ultima parola da pronunciare prima della tua fine, Yremeryss?"
+
+### u045382
+{n}Yremeryss ti fissa. Per la prima volta i vostri sguardi si incrociano, un'oscurità gelida che ribolle nel suo sguardo.{/n} "Verme. Insetto. Hai... il coraggio... di presentarti di nuovo davanti a me? Avresti dovuto esalare l'ultimo respiro molto tempo fa. Molto bene. Toglierò io stessa l'ultimo respiro a {mf|questo|questa} arrogante mon-keigh."
+
+### u045383
+"Misera feccia!" {n}Yremeryss sibila tra i denti vedendoti. Nonostante gli occhi fiammeggianti e i denti scoperti, distingui chiaramente cosa c'è nel cuore della Drukhari: {d|Encyclopedia:Ch3_DaemonicBreach}paura{/d}.{/n} "Farò in modo che la morte giunga a te lentamente!"
+
+### u045384
+{n}Marazhai sfodera l'arma in un unico fluido movimento.{/n} "Prima che la tua anima perisca nelle fauci di Colei che ha Sete, le insegnerò il dolore — il tipo di dolore che non hai mai conosciuto in tutta la tua esistenza, sorella."
+
+### u045385
+{n}Lo sguardo dell'Arconte si sposta da te a Marazhai. Un sorriso velenoso si allarga sul suo volto.{/n} "Il mio ex Dracon... Il mio inetto carnefice. Ti sei trovato {mf|un nuovo padrone|una nuova padrona}?"
+
+### u045386
+{n}La pietra spirituale di Yrliet lampeggia sul suo petto e le mani della Ranger tremano sull'impugnatura del fucile.{/n} "La tua morte non mi darà alcuna gioia, Arconte Yremeryss. Ma potrebbe dare pace agli spiriti dei miei consanguinei."
+
+### u045387
+"E tu, figlia di Crudarach? Come ci si sente a sapere di non essere riuscita a salvare né te stessa, né la tua famiglia, né il tuo prezioso mondo astronave?"
+
+### u045388
+{n}Yremeryss inclina la testa.{/n} "Intendo vivere, mon-keigh. Vivrò. E continuerò il mio lavoro e porterò il mio Kabal alla grandezza."
+
+### u045389
+"Risparmiati la fatica di comprendere il significato delle mie azioni, miserabile creatura. Crudarach doveva essere la mia chiave verso un potere di cui la Reaving Tempest poteva solo sognare. La maestà spetta a me sola, e io la rivendicherò!"
+
+### u045390
+{n}Yremeryss sogghigna.{/n} "Oh, sono certa che all'Haemonculus restino ancora molti giocattoli intatti. Non hai visto nemmeno un decimo di ciò che Tervantias ha ai suoi ordini."
+
+### u045391
+{n}Yremeryss ride. Il suono ricorda il sibilo di un serpente.{/n} "Oh, mon-keigh. {mf|Sei uno sfrontato|Sei una sfrontata}, vero? Sarai ancora così {mf|spavaldo|spavalda} quando ti aprirò in due e ti appenderò per i tendini?"
+
+### u045392
+"I miei servitori stanno partendo per una nuova caccia proprio in questo momento. Chi diventerà la loro preda? Quali luci si spegneranno nel vuoto? Quanti mon-keigh periranno nell'oscurità?" {n}Yremeryss emette una risata di scherno.{/n} "Non lo saprai mai."
+
+### u045393
+{n}Marazhai socchiude gli occhi.{/n} "Hai epurato i ranghi del Kabal e rimosso ogni ostacolo dalla tua strada? Anche in questo hai fallito, miserabile senza talento. Io sono ancora qui. Sarò io a epurare la Reaving Tempest da te."
+
+### u045394
+{n}Yremeryss si irrigidisce e un attimo dopo scopre i denti in un sibilo furioso. L'Arconte della Reaving Tempest alza una mano per far cenno ai suoi sottoposti.{/n}
+
+### u045395
+{n}Marazhai ride con scherno.{/n} "Trascinare dei Veggenti nella nostra guglia nel tentativo di innescare una disgiunzione — era questa la tua grande visione? Peccato che tu non ti sia preoccupata di guidare nemmeno una incursione negli ultimi anni — sarebbe stato divertente vederti ordinare a una flotta di lanciarsi a testa bassa contro le strutture dei mon-keigh e far detonare i suoi motori, tutto per assicurare un futuro luminoso al Kabal!"
+
+### u045396
+"Menti, xenos! Questa è la lurida calunnia di un nemico dell'Umanità!"
+
+### u045397
+"Benedetto Trono..." {n}Abelard chiude gli occhi e scuote la testa con dolore. Sembra che l'ammissione dello xenos l'abbia invecchiato di cinque anni.{/n}
+
+### u045398
+"Morire? Ah!" {n}Yremeryss sfodera l'arma.{/n} "Sei {mf|l'unico|l'unica} che morirà oggi. E quando avrò finito con te, farò visita allo spazio reale — per osservare il terrore e la rovina causati dal mio Kabal."
+
+### u045399
+{n}Le labbra di Marazhai si distendono in un sorriso mellifluo.{/n} "Mia povera sorella maggiore, ancora non sopporti il fatto che io sia nato... ma come posso stupirmi? È difficile pensare a una prova più evidente del fatto che nostra madre considerasse un fallimento il suo primo tentativo di proseguire la stirpe."
+
+### u045400
+"Sai, mon-keigh, che così tanti della tua specie hanno visto la propria vita spezzata per mano dei loro stessi simili? Ti ho usato per epurare i ranghi del Kabal, per rimuovere ogni ostacolo dalla mia strada. Ti ho usato per raggiungere i miei scopi. Ho collaborato con la tua specie — nonostante il vostro tanto sbandierato odio per gli xenos, che avrebbe dovuto impedire a chiunque di voi persino di prendere in considerazione una cosa simile!"
+
+### u045401
+"Hai distrutto il tuo futuro con le tue stesse mani. Quando la verità fosse venuta alla luce, tutte le armi di Commorragh si sarebbero rivolte contro di te — e contro il mio Kabal!"
+
+### u045402
+"E questo codardo sarebbe stato il mio Dracon? Sei troppo pronto a chiamare la Reaving Tempest il tuo Kabal — non hai né l'ambizione né la visione per guidare tutti questi guerrieri pieni di brama di potere e di sangue!"
+
+### u045403
+"Mi dà la nausea dirlo, ma credo allo xenos. So quali cose la gente è disposta a fare in nome del tornaconto personale, e ora che la lurida progenie ha confessato, la situazione nella Distesa improvvisamente ha molto più senso."
+
+### u045404
+"No, Arconte, sei destinata alla punizione. Sangue per sangue. Non posso distruggere tutto il tuo Kabal come tu hai distrutto Crudarach, ma ho la forza di tagliare la testa al serpente."
+
+### u045405
+"Oh, no. Non potresti essere più lontana dalla verità. L'Arconte Aezyrraesh muore oggi. Qui. Ora."
+
+### u045406
+"L'Haemonculus può giocare quanti giochetti vuole nell'arena. Sono soddisfatta di ciò che fornisce ai ranghi del Kabal. Questo lo rende abbastanza prezioso da risparmiargli la vita."
+
+### u045407
+"Povera piccola Reietta..." {n}Yremeryss squadra Yrliet con sguardo lascivo, fissandola negli occhi come un predatore.{/n} "La sofferenza dei tuoi fratelli e delle tue sorelle ci ha nutriti a lungo... Ora darai anche tu il tuo dolore a me!"
+
+### u045408
+"E sia, ti accontenterò prima di morire... Se non altro per uscire una volta per tutte dall'ombra di un altro. Volevo orchestrare una piccola disgiunzione — e con i miei indifesi fratelli in pugno, capaci di squarciare il Velo con la loro sola presenza, non poteva essere più semplice. Al momento giusto, i Veggenti sarebbero stati la mia arma contro i rivali della Reaving Tempest — sotto la copertura del cataclisma, le mie lame avrebbero decapitato tutti coloro che si frapponevano alla mia ascesa!"
+
+### u045409
+"Ora parli solo col permesso del tuo mon-keigh domestico?" {n}Yremeryss ride con scherno.{/n} "Mio insignificante fratellino, non saresti mai dovuto strisciare fuori dal grembo di nostra madre, la tua esistenza è un'onta per il nostro sangue..."
+
+### u045410
+"Che divertente altezzosità, da parte di un insetto... Il tuo dio giocattolo non può aiutarti. E non può aiutare nemmeno i tuoi simili, quella deliziosa preda ancora confinata nell'oscurità sconfinata dello spazio reale."
+
+### u045411
+"Dove possiamo trovare il cogitatore principale?"
+
+### u045412
+"Dove dovremmo tendere l'imboscata?"
+
+### u045413
+"Come hanno scoperto questo posto i tuoi agenti?"
+
+### u045414
+"Capisco."
+
+### u045415
+"Vostra Signoria, i miei agenti riferiscono che Kunrad Voigtvir e il suo xenos da compagnia arriveranno presto. Abbiamo circa un'ora per ispezionare la stazione e preparare l'imboscata. A meno che, naturalmente, non preferiate affrontare i cospiratori a viso aperto." {n}Achilleas porta alle labbra una mano tremante con il suo respiratore dorato.{/n}
+
+### u045416
+{n}Heinrix guarda Achilleas con attenzione.{/n} "Un suggerimento astuto e ponderato. Vedo che vi siete preso il tempo di scoprire quanto più possibile su questa stazione. Buon lavoro."
+
+### u045417
+{n}Achilleas tossisce.{/n} "Tutt'altro, Maestro van Calox. Ahimè, le mie opzioni erano piuttosto limitate: non abbiamo mai esplorato a dovere questo posto." {n}Abbassa la testa, troppo vergognoso per guardare Heinrix negli occhi.{/n}
+
+### u045418
+{n}Achilleas si esibisce in un inchino.{/n} "Mi dispiace avervi fatto preoccupare inutilmente per me. Scoprire i piani del traditore e preparare un luogo per catturarlo... mi è costato moltissimo."
+
+### u045419
+"Purtroppo i miei agenti non hanno avuto il tempo di tracciare una mappa del compartimento principale. Il cogitatore deve trovarsi da qualche parte nei paraggi, forse in una delle stanze adiacenti."
+
+### u045420
+"Abbiamo due squadre di tutori dell'ordine e il vostro seguito personale. Dovremmo cercare luoghi ben nascosti o protetti in modo sicuro, in grado di ospitare un numero sufficiente dei nostri. La stazione potrebbe offrire altre opportunità utili per catturare il nemico."
+
+### u045421
+{n}Achilleas sorride in modo enigmatico e alza le spalle.{/n} "I Rogue Trader hanno i loro segreti per avere successo. L'Inquisizione ha i suoi."
+
+### u045422
+"Resterò all'ingresso a fare la guardia nel caso Kunrad e lo xenos arrivino prima del previsto. Una volta completata l'ispezione, vi prego di assicurarvi di depressurizzare gli altri compartimenti, Vostra Signoria. E che il Dio-Imperatore vi aiuti!" {n}Tossisce.{/n}
+
+### u045423
+"Qualunque linea d'azione sceglierete, dovremmo depressurizzare tutti i compartimenti tranne quello principale. In questo modo i cospiratori non avranno altra scelta che tentare di ripristinare i sistemi della stazione usando il cogitatore principale. E sarà lì che li affronteremo."
+
+### u045424
+"Sono l'unica a pensare che ci sia qualcosa di strano in questo posto? È troppo... facile. Tutto sta andando a posto in modo fin troppo perfetto. Quand'è che siamo mai stati così fortunati, shereen?"
+
+### u045425
+"Heydari, che cosa esattamente mettete in dubbio — l'attendibilità dei sudditi del Trono d'Oro o le decisioni del Lord Capitano? Prendetevi un po' di tempo per riflettere con attenzione sulla risposta."
+
+### u045426
+{n}Cassia aggrotta le pallide sopracciglia come se si tormentasse per qualcosa.{/n} "I vostri colori sono così screziati, laceri e febbrili, Maestro Scalander... Non avevo mai notato un tale turbamento nella vostra anima."
+
+### u045427
+{n}Idira tira su col naso e sfiora la tua manica con le dita.{/n} "Le mie voci non fanno che parlare di tradimento — di ciò che ha fatto Voigtvir, ovviamente... Questa è un'occasione per inchiodare il Maestro dei Sussurri, vero? Oh, per questo aspetterei qui per mesi!"
+
+### u045428
+"Molto spazio di manovra e una solida copertura frontale... Questo punto andrà bene per un'imboscata."
+
+### u045429
+"Hmm. C'è abbastanza spazio dietro questa grata per una piccola unità."
+
+### u045430
+"Ma guarda: questi container sono pieni zeppi di esplosivi! La tua gente sa piazzare dei fili d'inciampo, vero?"
+
+### u045431
+"Il canto dei sacri meccanismi contiene un errore. Rilevate prove di manomissione—"
+
+### u045432
+"Queste sacre macchine hanno bisogno di un rituale di manutenzione. Potrebbero servire da alleate nella lotta contro i traditori."
+
+### u045433
+"Questa unità è confusa. Il protocollo è difettoso. Si raccomanda il ritiro immedia—"
+
+### u045434
+"Achilleas! Vile traditore!"
+
+### u045435
+"Che cosa gli hai fatto, xenos?"
+
+### u045436
+"Vi vedrò morti entrambi!"
+
+### u045437
+"Che il Dio-Imperatore guidi la mia mano quando infliggerò la punizione al traditore eretico e all'empio xenos!"
+
+### u045438
+"Maledetti... voi..." {n}Heinrix ringhia con voce roca mentre cerca di rialzarsi, spinto più dalla rabbia che dalla forza fisica.{/n} "Vi... strangolerò... entrambi... io stesso..."
+
+### u045439
+{n}Marazhai con noncuranza calcia il braccio su cui Heinrix si sta appoggiando e questi crolla a terra.{/n} "Mi sembra improbabile, mon-keigh. Il destino di entrambi è ora nelle mie mani."
+
+### u045440
+"Perdonate... Perdonatemi, Maestro van Calox..." {n}La voce di Achilleas trema di dolore e rimorso.{/n}
+
+### u045441
+{n}Lo xenos rivolge la sua attenzione a qualcun altro.{/n} "Ti sei dimostrato piuttosto utile, mon-keigh. Una qualità sorprendente per quelli della tua specie." {n}Sta parlando ad Achilleas, che giace lì vicino, il volto pallido contorto dal terrore e dal dolore, gli occhi sbarrati e lacrimosi.{/n} "Potrei trovare altri usi per te in futuro."
+
+### u045442
+"Niente di sconveniente. Abbiamo semplicemente conversato. È successo molto tempo fa, quando visitavo il tuo pietoso pianeta. Pensavi che il mon-keigh bruciato fosse sfuggito alla morte grazie ai suoi talenti? No. È sfuggito perché l'ho lasciato andare. Ma non prima di avergli ordinato di presentarsi al mio comando con te al seguito. Cosa che ha fatto non appena gli ho inviato il segnale."
+
+### u045443
+{n}Le sue ultime parole ti riempiono la testa come l'eco assordante della sirena di una nave. Il gas si insinua più a fondo nei tuoi polmoni, divorandoli con fame, mentre l'agonia si diffonde lungo ogni arto. Stai soffocando.{/n}
+
+### u045444
+"Non giudicarlo così duramente, Rogue Trader. Devo ancora incontrare un mon-keigh in grado di resistere ai miei poteri di persuasione." {n}Senti una risata predatoria provenire da dentro l'elmo.{/n}
+
+### u045445
+"V-Vostra Signoria, io..." {n}Achilleas scuote la testa, con una smorfia per il dolore causato dal gas velenoso.{/n}
+
+### u045446
+{n}Con uno sguardo trionfante, Marazhai spinge in avanti la mano, afferrando il servoteschio.{/n} "Lamentarsi è inutile, benché le tue suppliche siano musica per le mie orecchie, mon-keigh. Questo ninnolo ora appartiene a me. Così come la tua patetica vita."
+
+### u045447
+{n}Servoazionamenti gemono sotto la tonaca scarlatta del Tecnoprete in un tentativo ostinato ma vano di sollevarne il corpo.{/n} "La carne inferiore... mi ha tradito..."
+
+### u045448
+"Devi averla punita male, mon-keigh di ferro. Non importa. Da prigioniero imparerai ad applicare l'arte della tortura per farle temere il solo pensiero del tradimento."
+
+### u045449
+{n}Kibellah cerca la sua arma con una mano mentre tenta di sostenersi con l'altra.{/n} "Come hanno potuto... degli intossicanti... sopraffarmi..."
+
+### u045450
+"Mi avevano avvertito che uno dei mon-keigh amava sperimentare con sostanze invalidanti. Questo gas contiene qualcosa preparato apposta per te." {n}Con un ghigno trionfante, lo xenos le pesta la testa, schiacciandola contro il pavimento con uno scricchiolio.{/n}
+
+### u045451
+"Glaito..." {n}Solomorne sta cercando di tendere la mano verso il mastino cibernetico o di fargli un cenno di comando, ma il cane giace immobile, del tutto privo di reazioni.{/n}
+
+### u045452
+"Uno sforzo futile. Mi era stato riferito che i mon-keigh potevano portare con sé qualche loro giocattolo primitivo, così mi sono assicurato che la tossina tenesse conto delle loro particolarità."
+
+### u045453
+"I filtri vascolari stanno cedendo... la capacità penetrativa della tossina è estrema..." {n}La sua mole imponente crolla. Il sangue cola dal naso e dagli occhi del Manipulus, ma la sua attenzione è fissa sul compagno che fluttua senza forze al suo fianco.{/n} "Nuncius, mettiti in salvo..."
+
+### u045454
+{n}Marazhai schiocca la lingua e scuote la testa.{/n} "Mi deludi, mon-keigh. Ho udito le suppliche di milioni e le maledizioni di miliardi. Puoi fare di meglio."
+
+### u045455
+"Quanto a te..." {n}C'è un luccichio inquietante negli occhi del Dracon.{/n} "Avrai anche tu la tua parte di sogni paralizzanti. Ma ti terrò con me. Sei troppo {mf|prezioso|preziosa} per essere ceduto a un folle che gioca col fuoco."
+
+### u045456
+{n}Marazhai osserva da vicino i tuoi compagni che si contorcono nell'agonia, poi fa un gesto noncurante a qualcuno che non puoi vedere.{/n} "Portate gli iniettori. I mon-keigh che ho promesso a Tervantias sono tra loro. Non voglio che questi miserabili si muovano di un centimetro finché non saranno nelle mani dell'Archmachinator."
+

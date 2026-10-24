@@ -1,0 +1,1536 @@
+### u015040
+Regalia dell'Astronomican
+
+### u015041
+<i>{g|Encyclopedia:Devastating}Devastating{/g} (6)</i>: il primo uso di un potere offensivo del Navigatore per {g|Encyclopedia:Turn}turno{/g} non mette il potere in {g|Encyclopedia:Cooldown}tempo di ricarica{/g} e non conta ai fini del limite di attacchi per turno. Il secondo uso di questo potere, o l'uso di un diverso potere offensivo del Navigatore nello stesso turno, infligge +6 {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi a tutti i bersagli e 6 {g|Encyclopedia:DirectDamage}danni diretti{/g} al Navigatore.
+<indent=5%>+10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+5 di {g|Encyclopedia:WarhammerPerception}Perception{/g}</indent>
+
+### u015042
+Bastone segugio
+
+### u015043
+Il primo potere offensivo del Navigatore di ogni {g|Encyclopedia:Turn}turno{/g} costa −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+
+### u015044
+Il primo potere offensivo del Navigatore di ogni {g|Encyclopedia:Turn}turno{/g} costa −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+<i>{g|Encyclopedia:Devastating}Devastating{/g} (12)</i>: il primo uso di un potere offensivo del Navigatore per turno non mette il potere in {g|Encyclopedia:Cooldown}tempo di ricarica{/g} e non conta ai fini del limite di attacchi per turno. Il secondo uso di questo potere, o l'uso di un diverso potere offensivo del Navigatore nello stesso turno, infligge +12 {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi a tutti i bersagli e 12 {g|Encyclopedia:DirectDamage}danni diretti{/g} al Navigatore.
+<indent=5%>+15 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+10 di {g|Encyclopedia:WarhammerPerception}Perception{/g}</indent>
+
+### u015045
+Bastone di cristallo rosso
+
+### u015046
+Tutti gli alleati bersaglio dei poteri del Navigatore ottengono +{uip|MP|62372fd20e0a462bb12a5ee406d6c1e9} {g|Encyclopedia:MovementPoints}punti movimento{/g} aggiuntivi al loro prossimo {g|Encyclopedia:Turn}turno{/g}.
+
+### u015047
+<u>(bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} del Navigatore / 2)</u>
+
+### u015048
+Tutti gli alleati bersaglio dei poteri del Navigatore ottengono +{uip|MP|62372fd20e0a462bb12a5ee406d6c1e9} {g|Encyclopedia:MovementPoints}PM{/g} aggiuntivi al loro prossimo {g|Encyclopedia:Turn}turno{/g}.
+<i>{g|Encyclopedia:Infusing}Infusing{/g} (7)</i>: gli alleati bersaglio dei poteri del Navigatore ottengono un bonus di +7 a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del prossimo turno del Navigatore. Questo bonus è cumulabile e viene prolungato fino al prossimo turno del Navigatore a ogni accumulo.
+<indent=5%>+5 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+10 di Perception</indent>
+
+### u015049
+Bastone della Casata Cassini
+
+### u015050
+<i>{g|Encyclopedia:Castigating}Castigating{/g} (5)</i>: i nemici bersaglio dei poteri del Navigatore subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −5 a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} del Navigatore. Questa penalità è cumulabile e viene prolungata fino al prossimo turno del Navigatore a ogni accumulo.
+<indent=5%>+5 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+5 di {g|Encyclopedia:WarhammerPerception}Perception{/g}</indent>
+
+### u015051
+Bastone della Casata Orsellio
+
+### u015052
+<i>{g|Encyclopedia:Infusing}Infusing{/g} (5)</i>: gli alleati bersaglio dei poteri del Navigatore ottengono un {g|Encyclopedia:Bonus}bonus{/g} di +5 a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} del Navigatore. Questo bonus è cumulabile e viene prolungato fino al prossimo turno del Navigatore a ogni accumulo.
+<indent=5%>+5 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+5 di {g|Encyclopedia:WarhammerPerception}Perception{/g}</indent>
+
+### u015053
+Bastone del Guardiano Orsellio
+
+### u015054
+Il primo uso di ogni potere del Navigatore in combattimento costa −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+<i>{g|Encyclopedia:Castigating}Castigating{/g} (10)</i>: i nemici bersaglio dei poteri del Navigatore subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −10 a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} del Navigatore. Questa penalità è cumulabile e viene prolungata fino al prossimo turno del Navigatore a ogni accumulo.
+<i>{g|Encyclopedia:Infusing}Infusing{/g} (6)</i>: gli alleati bersaglio dei poteri del Navigatore ottengono un {g|Encyclopedia:Bonus}bonus{/g} di +6 a tutte le loro caratteristiche fino alla fine del prossimo turno del Navigatore. Questo bonus è cumulabile e viene prolungato fino al prossimo turno del Navigatore a ogni accumulo.
+<indent=5%>+20 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+15 di {g|Encyclopedia:WarhammerPerception}Perception{/g}</indent>
+
+### u015055
+Bastone del Novator Orsellio
+
+### u015056
+I nemici bersaglio dei poteri del Navigatore subiscono +<u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}PER{/g} del Navigatore</u> {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi dal prossimo attacco che infligge {g|Encyclopedia:PhysicalDamage}danni fisici{/g}.
+
+### u015057
+I nemici bersaglio dei poteri del Navigatore subiscono +{unit_stat|WarhammerPerception|bonus} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi dal prossimo attacco che infligge {g|Encyclopedia:PhysicalDamage}danni fisici{/g}.
+<i>{g|Encyclopedia:Castigating}Castigating{/g} (7)</i>: i nemici bersaglio dei poteri del Navigatore subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −7 a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} del Navigatore. Questa penalità è cumulabile e viene prolungata fino al prossimo turno del Navigatore a ogni accumulo.
+<indent=5%>+5 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+10 di Perception</indent>
+
+### u015058
+Bastone del Reggente Orsellio
+
+### u015059
+I nemici bersaglio dei poteri del Navigatore subiscono +11% di {g|Encyclopedia:DamageGlossary}danni{/g} da tutte le fonti. Questo effetto è cumulabile fino a {unit_stat|WarhammerPerception|bonus} volte.
+<i>{g|Encyclopedia:Castigating}Castigating{/g} (11)</i>: i nemici bersaglio dei poteri del Navigatore subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −11 a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} del Navigatore. Questa penalità è cumulabile e viene prolungata fino al prossimo turno del Navigatore a ogni accumulo.
+<indent=5%>+10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+15 di Perception</indent>
+
+### u015060
+Bastone focalizzatore del Warp
+
+### u015061
+Gli alleati ottengono +{unit_stat|WarhammerPerception|bonus} {g|Encyclopedia:MovementPoints}PM{/g} aggiuntivi nel loro primo {g|Encyclopedia:Turn}turno{/g}.
+<i>{g|Encyclopedia:Infusing}Infusing{/g} (9)</i>: gli alleati bersaglio dei poteri del Navigatore ottengono un bonus di +9 a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del prossimo turno del Navigatore. Questo bonus è cumulabile e viene prolungato fino al prossimo turno del Navigatore a ogni accumulo.
+<indent=5%>+10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+10 di Perception</indent>
+
+### u015062
+Bastone guida del Warp
+
+### u015063
+I nemici che subiscono {g|Encyclopedia:DamageGlossary}danni{/g} dal Navigatore ottengono anche un effetto di danni nel tempo che li danneggia alla fine del loro turno fino alla fine del combattimento. I danni sono pari al 20% di tutti i danni che hanno subito dal Navigatore.
+<i>{g|Encyclopedia:Devastating}Devastating{/g} (10)</i>: il primo uso di un potere offensivo del Navigatore per turno non mette il potere in {g|Encyclopedia:Cooldown}tempo di ricarica{/g} e non conta ai fini del limite di attacchi per turno. Il secondo uso di questo potere, o l'uso di un diverso potere offensivo del Navigatore nello stesso turno, infligge +10 danni aggiuntivi a tutti i bersagli e 10 {g|Encyclopedia:DirectDamage}danni diretti{/g} al Navigatore.
+<i>{g|Encyclopedia:Castigating}Castigating{/g} (6)</i>: i nemici bersaglio dei poteri del Navigatore subiscono una penalità di −6 a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} fino alla fine del prossimo turno del Navigatore. Questa penalità è cumulabile e viene prolungata fino al prossimo turno del Navigatore a ogni accumulo.
+<indent=5%>+25 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+25 di {g|Encyclopedia:WarhammerPerception}Perception{/g}</indent>
+<indent=5%>−15 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}</indent>
+
+### u015064
+Bastone di vetro Yu'Vath
+
+### u015065
+Gli alleati di chi impugna questo bastone hanno la schivata aumentata di +{unit_stat|WarhammerWillpower|bonus}%.
+
+### u015066
+Distacco dalla morte
+
+### u015067
+<u>(bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g} dello psyker / 2)</u>
+
+### u015068
+Gli alleati di chi lo impugna colpiti da poteri psichici ottengono +{uip|Resolve|7d24ba5d71364a87ae9d1b7071b5bcd3} di determinazione per 1 round.
+<indent=5%>+10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+
+### u015069
+Guida del pensiero
+
+### u015070
+Chi impugna questo bastone (livello di potere 6) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Syphon Life</b>. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} e sul livello di guarigione di questo potere.
+<indent=5%>+10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+
+### u015071
+Bastone del biomante
+
+### u015072
+Chi impugna questo bastone ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Syphon Life</b> a livello di potere 13. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}Atto Eroico{/g} e {g|Encyclopedia:DesperateMeasure}Misura Disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} e sul livello di guarigione di questo potere. In combattimento, lo psyker che impugna il bastone subisce {g|Encyclopedia:BleedingEffect}sanguinamento{/g}. I danni da sanguinamento di ogni {g|Encyclopedia:Round}round{/g} sono pari al {g|Encyclopedia:PsyRating}livello psichico{/g} dello psyker.
+<indent=5%>+20 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+2 di livello psichico</indent>
+
+### u015073
+Bastone del bevisangue
+
+### u015074
+Bastone carico
+
+### u015075
+Chi impugna questo bastone (livello di potere 9) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Lightning Arc</b>. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere.
+<indent=5%>+10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+
+### u015076
+Chi impugna questo bastone ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Consign</b>. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}.
+<indent=5%>+5 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+5 di {g|Encyclopedia:WarhammerPerception}Perception{/g}</indent>
+
+### u015077
+Bastone del divinatore
+
+### u015078
+Chi impugna questo bastone (livello di potere 8) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Emperor's Wrath</b>. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere.
+<indent=5%>+10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+5 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}</indent>
+
+### u015079
+Bastone imperiale
+
+### u015080
+Ogni nemico che lo psyker uccide con un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} della disciplina della telepatia aumenta in modo permanente di +1 il livello di potere effettivo di tutti i bastoni della disciplina della telepatia impugnati da questo personaggio.
+
+### u015081
+Bastone ammazzamenti
+
+### u015082
+Chi impugna questo bastone (livello di potere 6) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Lightning Arc</b>. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere.
+
+### u015083
+Chi impugna questo bastone (livello di potere 6) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Lightning Arc</b>. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere.
+<indent=5%>+5 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+
+### u015084
+Bastone psichico
+
+### u015085
+Chi impugna questo bastone (livello di potere 7) ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:8a759cdc2b754309b1fb75397798fbf1}Inferno{/g}. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere.
+<indent=5%>+10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+
+### u015086
+Bastone del piromante
+
+### u015087
+Chi impugna questo bastone, con un livello di potere di {uip|PowerLevel|e401f82ef7134a31b40cbf821f24a8f6}, ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Emperor's Wrath</b>. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere.
+L'uso di <b>Emperor's Wrath</b> conferisce allo psyker {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} aggiuntiva pari al livello di potere del bastone fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} dello psyker. Non è cumulabile.
+<indent=5%>+15 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+10 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}</indent>
+
+### u015088
+<u>(5 + {g|Encyclopedia:Resolve}determinazione{/g} dello psyker)</u>
+
+### u015089
+Bastone santificato
+
+### u015090
+Chi impugna questo bastone (livello di potere 10) ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:8a759cdc2b754309b1fb75397798fbf1}Inferno{/g}. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere. Per ogni due creature {g|Encyclopedia:BurningEffect}in fiamme{/g} in combattimento, il livello di potere di questo bastone aumenta di +1 e il {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} aumenta di +2.
+<indent=5%>+15 di Willpower</indent>
+
+### u015091
+Bastone solare
+
+### u015092
+Chi impugna questo bastone (livello di potere 9) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Syphon Life</b>. Questa abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} e sul livello di guarigione di questo potere.
+<indent=5%>+15 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+10 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}</indent>
+
+### u015093
+Bastone del sangue
+
+### u015094
+Chi impugna questo bastone (livello di potere 7) ottiene l'{g|Encyclopedia:Ability}abilità{/g} {g|f:8a759cdc2b754309b1fb75397798fbf1}Inferno{/g}. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere. Per ogni due creature {g|Encyclopedia:BurningEffect}in fiamme{/g} in combattimento, il livello di potere di questo bastone aumenta di +1.
+<indent=5%>+15 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+
+### u015095
+Bastone della fiamma eterna
+
+### u015096
+I nemici che iniziano il loro {g|Encyclopedia:Turn}turno{/g} {g|Encyclopedia:Stun}storditi{/g} o {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} nella {g|Encyclopedia:LineOfSight}linea di vista{/g} dello psyker subiscono 14 {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u015097
+Bastone del controllo gravitazionale
+
+### u015098
+Chi impugna questo bastone ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Consign</b>. Questa abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. I {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} di divinazione di chi lo impugna che colpiscono un alleato colpiscono anche l'alleato più vicino al bersaglio. I poteri psichici di divinazione, <b>Consign</b> incluso, che colpiscono un nemico colpiscono anche il nemico più vicino al bersaglio.
+<indent=5%>+20 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+10 di {g|Encyclopedia:WarhammerPerception}Perception{/g}</indent>
+
+### u015099
+Bastone di Crudarach
+
+### u015100
+Chi impugna questo bastone (livello di potere 12) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Vision of Death</b>. Questa abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere. I nemici subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −10 a tutte le {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} contro i {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} della disciplina della telepatia usati da chi impugna il bastone.
+<indent=5%>+15 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+10 di {g|Encyclopedia:WarhammerPerception}Perception{/g}</indent>
+
+### u015101
+Bastone della vista mentale
+
+### u015102
+Chi impugna questo bastone (livello di potere 18) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Lightning</b>. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere.
+<indent=5%>+20 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+
+### u015103
+Bastone di shock e terrore
+
+### u015104
+Chi impugna questo bastone (livello di potere 15) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Emperor's Wrath</b>. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} e sulla guarigione di questo potere.
+I {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} sanctici (comprese tutte le versioni di <b>Emperor's Wrath</b>) curano gli alleati invece di danneggiarli.
+<indent=5%>+20 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+10 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}</indent>
+
+### u015105
+Bastone della pira dei giusti
+
+### u015106
+Chi impugna questo bastone (livello di potere 12) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Bind</b>. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere. Il primo potere di telecinesi usato da chi lo impugna in ogni {g|Encyclopedia:Turn}turno{/g} non aumenta il {g|Encyclopedia:VeilThickness}degrado del Velo{/g}.
+<indent=5%>+15 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+
+### u015107
+Bastone delle catene invisibili
+
+### u015108
+Chi impugna questo bastone (livello di potere 9) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Bind</b>. Questa abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere.
+<indent=5%>+10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+
+### u015109
+Bastone del telecineta
+
+### u015110
+Chi impugna questo bastone (livello di potere 9) ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Vision of Death</b>. L'abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. Il livello di potere influisce sui {g|Encyclopedia:DamageGlossary}danni{/g} di questo potere.
+<indent=5%>+10 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+
+### u015111
+Bastone del telepate
+
+### u015112
+Chi impugna questo bastone ottiene l'{g|Encyclopedia:Ability}abilità{/g} <b>Consign</b>. Questa abilità è disponibile anche nelle sue versioni di {g|Encyclopedia:HeroicAct}atto eroico{/g} e {g|Encyclopedia:DesperateMeasure}misura disperata{/g}. I {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} di divinazione di chi lo impugna hanno il 50% di probabilità di non aumentare il {g|Encyclopedia:VeilThickness}degrado del Velo{/g}.
+<indent=5%>+15 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}</indent>
+<indent=5%>+10 di {g|Encyclopedia:WarhammerPerception}Perception{/g}</indent>
+
+### u015113
+Lancia canora
+
+### u015114
+All'inizio del loro {g|Encyclopedia:Turn}turno{/g}, i bersagli {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} da questo webber subiscono 10 {g|Encyclopedia:ToxicDamage}danni tossici{/g} e +1 accumulo di {g|Encyclopedia:MeltingEffect}fusione{/g}. Entrambi gli effetti durano fino alla fine del combattimento.
+
+### u015115
+Sputacido
+
+### u015116
+La {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} distruttibile {g|Encyclopedia:HitSequenceGlossary}colpita{/g} da questo mitragliatore viene distrutta all'istante. Le coperture, sia distruttibili sia indistruttibili, vengono sovrapenetrate automaticamente.
+
+### u015117
+Mitragliatore pesante avanzato
+
+### u015118
+Shoving Strike
+
+### u015119
+L'{g|Encyclopedia:Ability}abilità{/g} {g|f: bd5f109c46684a09b07fb13743d2a6d7}Harsh Shove{/g} di questa mazza costa 1 {g|Encyclopedia:ActionPoints}PA{/g}.
+Inoltre, chi la impugna può usare {g|f:0ff8e6e3f2ac4b94a24ef8623d286084}Shoving Strike{/g}, al costo di 2 PA, contro più nemici in un'area.
+
+### u015120
+Mazza bilanciata
+
+### u015121
+Bloody Instruction
+
+### u015122
+Ogni volta che chi la impugna {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un alleato con quest'arma, quell'alleato ottiene +1 {g|Encyclopedia:ActionPoints}PA{/g}, +{uip|MP|e4e4fabc823f464e8b261ca68d33143c} {g|Encyclopedia:MovementPoints}PM{/g} e +{uip|Crit|e4e4fabc823f464e8b261ca68d33143c}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} durante il suo prossimo {g|Encyclopedia:Turn}turno{/g}. Questo bonus non è cumulabile.
+
+### u015123
+Bloody Mentor
+
+### u015124
+Gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} con questa mazza creano una nube di fumo. Tutte le creature che entrano in quell'area devono superare {g|Encyclopedia:ResistanceTest}prove di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}, {g|Encyclopedia:WarhammerStrength}Strength{/g} e {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una penalità di −{uip|Penalty|0eaf58bc6d7d487e8b78c6a2c31bd2fb}.
+-<indent=5%>Se la {g|Encyclopedia:Test}prova{/g} di Toughness fallisce, il bersaglio rimane {g|Encyclopedia:BlindedEffect}accecato{/g} per 2 {g|Encyclopedia:Round}round{/g}.</indent>
+-<indent=5%>Se la prova di Strength fallisce — {g|Encyclopedia:SlowedEffect}rallentato{/g} per 2 round.</indent>
+-<indent=5%>Se la prova di Willpower fallisce — {g|Encyclopedia:DisturbedEffect}turbato{/g} per 2 round.</indent>
+
+### u015125
+Bloody Sacrament
+
+### u015126
+Il primo {g|f:2162ce26f6db4cd1b748a4105c364ddb}Fulminating Shot{/g}, {g|f:027e75ab89364049b844a720feca85ec}Grisly Adjudication{/g} o {g|f:def7164545244af28d52cd38d0502525}Double Slug{/g} di quest'arma per {g|Encyclopedia:Turn}turno{/g} costa 1 {g|Encyclopedia:ActionPoints}PA{/g} e ottiene un ulteriore +{uip|Critical Hit Chance|08e2ca4d59134bb58ca1e5fa7221eb58}% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+
+### u015127
+Bloody Vigil
+
+### u015128
+<u>{g|Encyclopedia:CharacterLevel}Livello del personaggio{/g}</u>
+
+### u015129
+Mazza Ebonite
+
+### u015130
+Gli attacchi a bersaglio singolo di quest'arma infliggono {g|Encyclopedia:DirectDamage}danni diretti{/g} aggiuntivi pari al <u>5% delle {g|Encyclopedia:MaxWounds}ferite massime{/g} del bersaglio</u> (fino a un massimo di 300).
+
+### u015131
+Coffinmaker's Sledge
+
+### u015132
+Il prossimo attacco con il fucile a pompa non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g}.
+
+### u015133
+Quando chi lo impugna {g|Encyclopedia:Parry}para{/g} un attacco o {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} 2 o più nemici con l'{g|Encyclopedia:RangeAreaAttacksGlossary}attacco ad area a distanza{/g} di questo fucile a pompa, ottiene +1 attacco fino all'inizio del suo prossimo {g|Encyclopedia:Turn}turno{/g}. Non è cumulabile.
+
+### u015134
+Crescendo
+
+### u015135
+Ogni volta che chi lo impugna uccide un nemico con questo coltello per la prima volta in un {g|Encyclopedia:Turn}turno{/g}, usa immediatamente {g|f:c647c1c4a1a14c9cb31217ee439164ff}War Hymn{/g}, che non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u015136
+Death Hymn
+
+### u015137
+Gli attacchi di chi impugna questa spada ignorano l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio.
+
+### u015138
+Quando questa creatura viene uccisa, tutte le creature adiacenti (tranne chi impugna la Ebonite Sword) subiscono {g|Encyclopedia:ShockDamage}danni da shock{/g} pari al <u>numero di accumuli di questo effetto</u>.
+
+### u015139
+Static Charge
+
+### u015140
+I bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} da questa spada subiscono un numero di accumuli di {g|f:45bce77d4a7d458781177cf9353cd462}static charge{/g} pari ai danni inflitti dall'attacco. Quando una creatura con quegli accumuli viene uccisa, tutte le creature adiacenti (tranne chi impugna la spada) subiscono {g|Encyclopedia:ShockDamage}danni da shock{/g} pari al <u>numero di accumuli di {g|f:45bce77d4a7d458781177cf9353cd462}static charge{/g}</u>.
+
+### u015141
+Ebonite Sword
+
+### u015142
+Quando spara l'ultimo proiettile di questo fucile a pompa, il colpo ignora l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio. Quel bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} o rimanere {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}.
+
+### u015143
+Final Chord
+
+### u015144
+Quest'arma ha un attacco a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} (4 {g|Encyclopedia:ActionPoints}PA{/g}) con una {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} pari al numero di cartucce nel caricatore. Quando chi la impugna lo usa, rimane {g|Encyclopedia:StaggeredEffect}barcollante{/g} per 1 {g|Encyclopedia:Round}round{/g}. {g|Encyclopedia:Reload}Ricaricare{/g} costa 3 PA.
+
+### u015145
+Fucile a pompa full-auto
+
+### u015146
+Quest'arma ottiene +75% di {g|Encyclopedia:OverpenetrationFullGlossary}sovrapenetrazione{/g}. Ogni volta che chi la impugna mette a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}, recupera +1 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u015147
+Cruel Fate
+
+### u015148
+Se chi la impugna ha uno scudo equipaggiato, ogni volta che {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} il bersaglio con questa mazza, effettua subito un {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}Shield Bash{/g} contro quel bersaglio. Se colpisce, il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con un bonus di +20 o rimanere {g|Encyclopedia:Stun}stordito{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u015149
+Mazza pesante
+
+### u015150
+Gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} di quest'arma contro bersagli {g|Encyclopedia:BurningEffect}in fiamme{/g} infliggono +<u>(5 × livello di fiamme del bersaglio)</u>% di danni in più.
+
+### u015151
+Insatiable
+
+### u015152
+{g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} sono ridotte di −30. Per rimuovere questo effetto, all'inizio del {g|Encyclopedia:Turn}turno{/g} di questa creatura, essa deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con una penalità di −10.
+
+### u015153
+I bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} da questo webber subiscono −30 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}. All'inizio del loro {g|Encyclopedia:Turn}turno{/g}, per rimuovere questo effetto devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con una penalità di −10.
+
+### u015154
+Webber di pacificazione
+
+### u015155
+Mazza Excruciator
+
+### u015156
+Fucile a pompa modello Mars
+
+### u015157
+Il prossimo attacco con {g|f:48f5a4051c0c4cf691c84cb27b6876a3}the Ruin{/g} non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g}.
+
+### u015158
+The Rack and the Ruin
+
+### u015159
+Chi la impugna può effettuare un attacco gratuito con quest'arma se ha sparato con {g|f:48f5a4051c0c4cf691c84cb27b6876a3}the Ruin{/g} nello stesso {g|Encyclopedia:Turn}turno{/g}.
+
+### u015160
+The Rack
+
+### u015161
+Il prossimo attacco con {g|f:414a941ed21c4602a2b4555f43b811df}the Rack{/g} non conta ai fini del {g|Encyclopedia:AttacksPerTurn}limite di attacchi per turno{/g}.
+
+### u015162
+The Ruin and The Rack
+
+### u015163
+Chi la impugna può effettuare un attacco gratuito con quest'arma se ha sparato con {g|f:414a941ed21c4602a2b4555f43b811df}the Rack{/g} nello stesso {g|Encyclopedia:Turn}turno{/g}.
+
+### u015164
+The Ruin
+
+### u015165
+Quest'arma ha un ulteriore attacco a bersaglio singolo che infligge danni doppi e {g|Encyclopedia:PushGlossary}spinge{/g} il bersaglio a 5 caselle di distanza. Per questo attacco, la gittata minima di tiro è di 2 caselle e la {g|Encyclopedia:Range}gittata efficace{/g} è aumentata di +5.
+
+### u015166
+Fucile a pompa con mirino
+
+### u015167
+Questo attacco col fucile a pompa infligge danni doppi e {g|Encyclopedia:PushGlossary}spinge{/g} il bersaglio a 5 caselle di distanza. Per questo attacco, la gittata minima di tiro è di 2 caselle e la {g|Encyclopedia:Range}gittata efficace{/g} è di 14 caselle.
+
+### u015168
+Slug Shot
+
+### u015169
+Fucile a pompa modello Sol
+
+### u015170
+I bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} da quest'arma devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con un bonus di +20 o subire un {g|Encyclopedia:Traumas}trauma{/g} psicosomatico per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u015171
+Silence of Sha'eil
+
+### u015172
+Foehammer dell'Adeptus Arbites
+
+### u015173
+Fucile a pompa dell'Adeptus Arbites
+
+### u015174
+La {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} di chi la impugna aumenta di +{uip|Critical Hit Chance|7c4174fdd62040fcb6e48ca751ef635b}% e la {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} di +{uip|Penetration|7c4174fdd62040fcb6e48ca751ef635b}% contro i bersagli adiacenti.
+
+### u015175
+Fucile a pompa robusto
+
+### u015176
+Gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} di questo webber costano 1 {g|Encyclopedia:ActionPoints}PA{/g}.
+Se l'attacco a {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g} di quest'arma {g|Encyclopedia:ImmobilisedEffect}immobilizza{/g} un bersaglio, esso deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con un bonus di +20 o subire l'effetto {g|Encyclopedia:CantAttackEffect}impossibilitato ad attaccare{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u015177
+The Spider's Web
+
+### u015178
+Quest'arma infligge +1 danno base aggiuntivo per ogni {g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g} comune e per ogni {g|Encyclopedia:Traumas}trauma{/g} sul bersaglio.
+
+### u015179
+Tormentor of the Chastened
+
+### u015180
+Quest'arma infligge +30% di danni in più ai bersagli {g|Encyclopedia:Stun}storditi{/g} e +20% di danni in più ai bersagli {g|Encyclopedia:StaggeredEffect}barcollanti{/g}.
+
+### u015181
+Torturer
+
+### u015182
+Ottiene +1 attacco a distanza gratuito con l'{g|f:d110df1a16bd46ef8a5c9bdf885aad15}Arbites Underarm Foehammer{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u015183
+Legitimate Claim
+
+### u015184
+Quando chi la impugna uccide il bersaglio con un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} per la prima volta in un {g|Encyclopedia:Round}round{/g}, ottiene +1 attacco a distanza gratuito con quest'arma fino alla fine del suo {g|Encyclopedia:Turn}turno{/g}.
+
+### u015185
+Foehammer sottobraccio degli Arbites
+
+### u015186
+Ogni volta che una creatura in combattimento subisce danni letali da {g|Encyclopedia:BurningEffect}fiamme{/g}, chi impugna quest'arma infligge +30% di danni in più con essa per 1 {g|Encyclopedia:Round}round{/g}. Non è cumulabile.
+
+### u015187
+Undertaker
+
+### u015188
+Un ibrido tra un lanciafiamme e un'arma a catena da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}. Grazie a quest'ultima, chi la impugna può {g|Encyclopedia:Parry}parare{/g} con quest'arma. Anche i suoi {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} in mischia aumentano di +25%.
+
+### u015189
+Lanciafiamme Vindictor
+
+### u015190
+La gola del cadavere è stata squarciata, a quanto pare dal colpo di striscio di una lama poco affilata.
+
+### u015191
+Una ripugnante ferita frastagliata testimonia dove questo eretico è stato colpito a morte alle spalle.
+
+### u015192
+Un'espressione di assoluto stupore è congelata sul volto intriso di sangue del ribelle ucciso.
+
+### u015193
+Questi corpi sono stati fatti a pezzi e smembrati con un'arma sconosciuta: non hai mai visto ferite simili. Un manico scuro spunta dal centro del macabro cumulo.
+
+### u015194
+Le impronte insanguinate si sono seccate: chiunque abbia lasciato questi sinistri segni è venuto e se n'è andato molto tempo fa.
+
+### u015195
+Lord Capitano, i tutori dell'ordine hanno scoperto uno strano attrezzo proveniente dall'armeria della nave del vuoto Mourningstar, sul ponte degli ufficiali. Per ordine del Siniscalco, è stato riposto nella cassaforte dei vostri alloggi.
+
+### u015196
+Una targhetta metallica, appena visibile attraverso il sangue nero e raggrumato che ricopre il manico, indica che la pala proviene dall'armeria della nave del vuoto Mourningstar.
+
+### u015197
+Risveglia lo spirito del cogitatore
+
+### u015198
+Serve una barra di controllo
+
+### u015199
+Sembra quasi che la scultura, realizzata con grande maestria, stia per scendere dal suo piedistallo.
+
+### u015200
+Statua del celebre scultore e cronista calixiano Zacharius Vernon il Magnifico. Ventitreesimo anno di questo millennio. Originale.
+
+### u015201
+Un profondo taglio attraversa la gola del mutante e una sacra Aquila è stata incisa sulla sua fronte.
+
+### u015202
+Un profondo taglio attraversa la gola del mutante e una sacra Aquila è stata incisa sulla sua fronte. I traditori vengono spesso giustiziati in questo modo.
+
+### u015203
+Rifai la barra di controllo
+
+### u015204
+Lo spirito forte ma timido della sacra macchina si rifiuta di obbedire, spaventato dalla violenza che infuria attorno a lui.
+
+### u015205
+Abbatti la porta con il sacro caricatore
+
+### u015206
+Una carica melta piazzata male esplode in una nube ribollente di plasma, invece di bruciare lo spesso plastacciaio con un raggio d'energia concentrato.
+
+### u015207
+Fai saltare la porta con una carica melta
+
+### u015208
+Ispeziona la navetta
+
+### u015209
+La Via Superiore
+
+### u015210
+Valvola
+
+### u015211
+Manometro
+
+### u015212
+Foreste di Janus
+
+### u015213
+Scendi
+
+### u015214
+Sali
+
+### u015215
+Rimuovi l'ostacolo
+
+### u015216
+Apriti un passaggio
+
+### u015217
+Zona del segnale di soccorso
+
+### u015218
+Scheletro aeldari
+
+### u015219
+Resti antichi
+
+### u015220
+Cornice rocciosa
+
+### u015221
+Carcassa di una strana creatura
+
+### u015222
+Il servoteschio ha probabilmente girato attorno al suo padrone morto finché le sue fonti di energia non si sono esaurite.
+
+### u015223
+Esamina il trasmettitore
+
+### u015224
+Disattiva il meccanismo
+
+### u015225
+Ispeziona il relitto
+
+### u015226
+Baratro senza fondo
+
+### u015227
+Fauci vuote
+
+### u015228
+Reindirizza il raggio d'energia
+
+### u015229
+Apri il forziere
+
+### u015230
+Nel forziere aperto ci sono dei trofei.
+
+### u015231
+Qualcosa va storto: l'onda d'urto colpisce te invece dell'ostruzione.
+
+### u015232
+Demolisci l'ostruzione
+
+### u015233
+Attiva il piedistallo
+
+### u015234
+Prendi la xenocassa
+
+### u015235
+Svela lo schema
+
+### u015236
+Prendi il vox
+
+### u015237
+Qui non c'è altro che rottami di metallo.
+
+### u015238
+Trova il codice della cassaforte
+
+### u015239
+Collega il cavo al cogitatore
+
+### u015240
+Dispositivo di scopo ignoto
+
+### u015241
+Cassaforte danneggiata
+
+### u015242
+Qui non c'è altro che scadenti rottami di metallo.
+
+### u015243
+Tra i rottami c'era un manuale di istruzioni per l'ufficiale di turno su come accedere alle casseforti. Puoi ottenere i codici delle casseforti accedendo ai cogitatori della nave.
+
+### u015244
+Esamina il mucchio di rifiuti
+
+### u015245
+I cogitatori sembrano non funzionare.
+
+### u015246
+Il cogitatore è spento, ma sembra intatto. Puoi provare ad alimentarlo da una fonte locale.
+
+### u015247
+Collegati al cogitatore
+
+### u015248
+Non sei {mf|riuscito|riuscita} a superare le protezioni e a ottenere il codice dalla cassaforte.
+
+### u015249
+Hai effettuato l'accesso con le credenziali dell'ufficiale di turno e hai ottenuto il codice della vecchia cassaforte.
+
+### u015250
+Un contenitore sconosciuto, molto resistente e saldamente chiuso.
+
+### u015251
+Una cassaforte danneggiata. Il contenuto di casseforti simili viene distrutto quando si tenta di forzarle. Non dovresti provare ad aprirla così, ma qualcosa nell'ambiente potrebbe aiutarti.
+
+### u015252
+Contenitore chiuso
+
+### u015253
+Targhetta
+
+### u015254
+Tavolo con bevande
+
+### u015255
+Salta oltre
+
+### u015256
+Passaggio bloccato
+
+### u015257
+Cogitatore difettoso
+
+### u015258
+Assaggia l'amasec
+
+### u015259
+Entra
+
+### u015260
+Usa il cogitatore
+
+### u015261
+Questa falsa porta è collegata a un innesco per mine.
+
+### u015262
+Simbolo del sole nascente. Sembra stranamente repellente, persino sinistro.
+
+### u015263
+Un diario in rovina: molte pagine sono strappate, la scrittura è confusa, non si capisce nulla.
+
+### u015264
+Il diario di uno degli abitanti del posto. La scrittura è a malapena leggibile, ma sembra registrare le nascite e le morti degli abitanti della piccola comunità di mutanti. Non è rimasto nessuno ad aggiungere l'ultima annotazione.
+
+### u015265
+Accendi la ventilazione
+
+### u015266
+Nascondiglio oscuro
+
+### u015267
+L'incudine sembra un primitivo elemento alieno tra i macchinari che la circondano.
+
+### u015268
+L'incudine, ricoperta di iscrizioni e simboli del Caos, è progettata per il lavoro di una sola persona: un maestro forgiatore capace di creare componenti stregoneschi usati in macchinari complessi.
+
+### u015269
+Cattedrale delle Macchine
+
+### u015270
+Deposito della Forza Motrice
+
+### u015271
+L'arco di metallo è macchiato di sangue e fuso in alcuni punti, come da un calore insopportabile.
+
+### u015272
+Guardando al centro dell'arco, inizi a sentire un rumore: l'amplificatore warp trasuda energie stregonesche destinate ad alimentare gli oscuri rituali del Caos.
+
+### u015273
+Il simbolo è stato profanato al punto che riesci a malapena a indovinare i tratti originali dell'immagine.
+
+### u015274
+Mutilata e dissacrata, l'Aquila sembra una patetica parodia del sacro simbolo dell'Imperium.
+
+### u015275
+La statua è vandalizzata e mutilata, ma anche in questo stato la figura in tunica è riconoscibile come uno dei venerati Tecnopreti dell'Adeptus Mechanicus.
+
+### u015276
+Una strana costruzione che è stata ampiamente vandalizzata: qualcuno l'ha sfigurata di proposito e ne ha scheggiato i pezzi, sfogando la propria rabbia sul metallo morto.
+
+### u015277
+I resti di un rituale eseguito su una Macchina Demoniaca smontata.
+
+### u015278
+Tracce di un empio rituale che richiedeva sacrifici umani. Un cupo promemoria del prezzo che si paga per creare ogni Macchina Demoniaca.
+
+### u015279
+Il pavimento è coperto di simboli immondi e ricoperto di rosso: sembra che il sangue sia stato fatto uscire di proposito dai corpi, prolungando la sofferenza degli sventurati.
+
+### u015280
+I resti di un immondo rituale pensato per nutrire l'involucro di una Macchina Demoniaca con le anime delle vittime, un elemento necessario del processo per rafforzare la forma fisica del mostro.
+
+### u015281
+Non riesci a distinguere un solo dettaglio sullo schermo del cogitatore: la sacra macchina è talmente profanata che la tua conoscenza dei doni dell'Omnissiah è impotente.
+
+### u015282
+Un'enorme macchina dallo scopo ignoto, incandescente per via di una fornace integrata ancora in funzione. L'ululato che proviene dal focolare sembra il ruggito di un demone infuriato.
+
+### u015283
+Un'enorme macchina, incandescente per via di una fornace integrata ancora in funzione. Sulla deviazione del focolare sono visibili tracce di sangue e graffi: senza dubbio, bruciare persone vive faceva parte di qualche rituale blasfemo.
+
+### u015284
+Pannello di controllo della pressione
+
+### u015285
+Cogitatore di calcolo
+
+### u015286
+Cogitatore di controllo dell'ascensore
+
+### u015287
+Metti in moto l'ascensore
+
+### u015288
+Cogitatore di controllo
+
+### u015289
+Cogitatore corrotto
+
+### u015290
+Il manufactorum è stato completamente convertito dalla lavorazione di roccia e metalli a uno scopo molto più sinistro: le linee sono state predisposte per fabbricare involucri per Macchine Demoniache.
+
+### u015291
+La macchina è sorprendentemente diversa da quelle che si trovano al livello superiore del manufactorum: la sua superficie è piena di componenti estranei e di tubi aggiuntivi che a prima vista sembrano del tutto inutili.
+
+### u015292
+La macchina è funzionante, ma pesantemente alterata: vedi parti ridondanti e moduli saldati rozzamente, dalle fessure cola olio maleodorante e il quadro di comando è coperto di simboli del Caos. Non c'è dubbio che tutte queste manomissioni avessero lo scopo di cambiare la funzione del dispositivo.
+
+### u015293
+Pannello di controllo del voltaggio
+
+### u015294
+Le persone nelle gabbie sono sfinite fino al limite. I corpi di molti sono stati deformati dalle mutazioni.
+
+### u015295
+L'aria attorno alle persone in gabbia risuona quasi di energia stregonesca: davanti a te ci sono degli psyker, i cui poteri, anche a riposo, creano turbamenti nel warp.
+
+### u015296
+Gli iniettori sono pieni di un miscuglio sconosciuto che viene somministrato ai corpi indeboliti dei prigionieri.
+
+### u015297
+Gli iniettori sono pieni di potenti sedativi: una precauzione sensata che mantiene i prigionieri sotto il completo controllo dei loro aguzzini.
+
+### u015298
+Libera gli psyker
+
+### u015299
+Le persone in catene sono morte da tempo: l'odore di decomposizione non lascia dubbi.
+
+### u015300
+Le catene che trattengono le vittime sono progettate in modo da aumentarne la sofferenza: non c'è dubbio che il tormento sia uno degli elementi di un oscuro rituale.
+
+### u015301
+Rimuovi la barriera warp
+
+### u015302
+Manufactorum di Kiava Gamma
+
+### u015303
+Stabilizzatore di pressione
+
+### u015304
+Apriti un passaggio con gli esplosivi
+
+### u015305
+Mondo interno
+
+### u015306
+Frammento del Mondo Sacro
+
+### u015307
+I corpi sono vestiti di stracci e armati di armi difettose. Noti molte Aquile fatte a mano e altri simboli di fede.
+
+### u015308
+L'ex magazzino dei difensori del pianeta. Le casse con la scritta "Provviste" sono vuote e le armi sono semplici e di scarsa qualità.
+
+### u015309
+Corpo senza testa. Non si può dire nulla di preciso su di esso.
+
+### u015310
+Dalla natura delle ferite è evidente che la testa di quest'uomo è stata letteralmente strappata via, svitata dal corpo.
+
+### u015311
+Un frammento del rivestimento di una nave con simboli empi. Sembra che il vascello sia stato abbattuto sopra il pianeta, dato che parte dei detriti è arrivata in superficie.
+
+### u015312
+I corpi dei difensori sembrano essere esplosi dall'interno.
+
+### u015313
+Le batterie dei fucili laser sono esaurite. Queste persone hanno combattuto fino all'ultimo respiro.
+
+### u015314
+I corpi dei difensori erano chiaramente in preparazione per qualche orribile rituale.
+
+### u015315
+Il pulpito è quasi intatto: senza dubbio è stato difeso con ferocia. Lì vicino giace il corpo del predicatore: da qui recitò la sua ultima preghiera.
+
+### u015316
+Fogne del formicaio
+
+### u015317
+Esamina
+
+### u015318
+La ricerca non ha dato alcun risultato: forse dovresti cercare altrove
+
+### u015319
+Lancia una moneta
+
+### u015320
+Le giunture della macchina non possono essere allentate: non puoi smontare l'attrezzo.
+
+### u015321
+Aiuta
+
+### u015322
+In questa penombra nulla spicca nel caos che ti circonda.
+
+### u015323
+Attiva le torrette
+
+### u015324
+Spacca le macerie
+
+### u015325
+Profondità del formicaio
+
+### u015326
+Tendi un'imboscata
+
+### u015327
+Avvia la decompressione
+
+### u015328
+Nascondi i tutori dell'ordine nel sistema di ventilazione
+
+### u015329
+Arena
+
+### u015330
+Sale della Guglia Esterna
+
+### u015331
+Camere del Kabal
+
+### u015332
+Opera Anatomica
+
+### u015333
+Settore Straziato
+
+### u015334
+Arsenale di Malice
+
+### u015335
+Arsenale del Commissario
+
+### u015336
+Arsenale degli Shrieker
+
+### u015337
+Cumulo dei gladiatori
+
+### u015338
+Equipaggiamento rubato da Tervantias
+
+### u015339
+Portale per la discarica dei cadaveri
+
+### u015340
+Portale per l'Opera Anatomica
+
+### u015341
+Trono del capo
+
+### u015342
+Portale per l'arena
+
+### u015343
+Ascensore per il Settore Straziato
+
+### u015344
+All'Opera Anatomica
+
+### u015345
+Alla Fossa
+
+### u015346
+Alle strade della Voragine
+
+### u015347
+Armatura potenziata dell'Adeptus Astartes
+
+### u015348
+Fossa
+
+### u015349
+Voragine
+
+### u015350
+Guglia della Tempesta Devastatrice
+
+### u015351
+All'Adeptus Amasecus
+
+### u015352
+Mondo Megera
+
+### u015353
+Palazzo in rovina
+
+### u015354
+Il laboratorio dell'Haemonculus
+
+### u015355
+Ala segreta del laboratorio
+
+### u015356
+Fonte del segnale di soccorso
+
+### u015357
+All'albero secolare
+
+### u015358
+Al cimitero dei carri armati
+
+### u015359
+Al luogo dello schianto della navetta
+
+### u015360
+All'accampamento abbandonato
+
+### u015361
+Alle foreste di Quetza Temer
+
+### u015362
+Alla navetta dei von Valancius
+
+### u015363
+Al bunker dimenticato
+
+### u015364
+Al luogo del massacro
+
+### u015365
+Al punto di ritrovo
+
+### u015366
+Al rifugio degli xenos
+
+### u015367
+All'antico totem
+
+### u015368
+All'insediamento nella foresta
+
+### u015369
+Epitaffio
+
+### u015370
+Gli indispensabili Astropati sono fondamentali per stabilire le comunicazioni tra mondi e navi sulla scala dell'intera, immensa galassia. Costantemente esposti ai terrori dell'Immaterium, molti di questi psyker muoiono, impazziscono o vanno incontro a un destino peggiore della morte.
+
+### u015371
+I cultisti della morte sono sacri carnefici che venerano l'Imperatore attraverso il massacro e lo spargimento di sangue. La loro cupa fede e i loro agghiaccianti rituali instillano un timore superstizioso nella gente comune.
+
+### u015372
+Una nave del vuoto è come una città a sé, abitata da migliaia di persone, per lo più plebaglia priva di diritti che fornisce manodopera facilmente sostituibile. L'unica missione nella vita della gente comune è sgobbare per soddisfare le insaziabili esigenze della nave ammiraglia.
+
+### u015373
+Nella cripta della nave riposano i membri della Casata von Valancius e i loro fedeli sottoposti, ai quali fu concesso l'onore di accompagnare i propri Rogue Trader oltre la tomba.
+
+### u015374
+Per le classi inferiori non c'è altro che lavoro massacrante nella penombra dei ponti inferiori; nel frattempo gli ufficiali del Rogue Trader e i servitori di alto rango godono dei molti lussi che offrono i ponti superiori. I vertici della nave ammiraglia ricevono il cibo migliore, acqua pulita e medicine di qualità.
+
+### u015375
+Al cuore dei sistemi di alimentazione della nave ammiraglia ci sono le camere del propulsore al plasma, che ospitano il suo reattore principale. Qui i Tecnopreti restano di servizio in ogni momento per prendersi cura del suo possente spirito macchina.
+
+### u015376
+Ogni nave dell'Imperium ha dei santuari. È qui che i servitori dell'Ecclesiarchia vegliano sulla purezza della fede dell'equipaggio e fortificano lo spirito dei suoi membri, viaggio dopo viaggio, attraverso gli angoli oscuri della galassia dove si annidano orrori inimmaginabili.
+
+### u015377
+Ponti superiori
+
+### u015378
+Sistema del mondo forgia
+
+### u015379
+UI Space Polygon
+
+### u015380
+Test scene for Exploration, Anomalies and Space Systems
+
+### u015381
+Test scene
+
+### u015382
+[Draft] Test skillcheck failed
+
+### u015383
+[Draft] Test skillcheck passed
+
+### u015384
+[Draft] Test give/complete quest
+
+### u015385
+Willkommen zu Hause, mein lieber UI team!
+
+### u015386
+UI Test Polygon
+
+### u015387
+"In nome della dinastia Chorda, vi ordino di abbassare le armi! Non aggravate la vostra condanna opponendo resistenza!"
+
+### u015388
+"Ci impiccheranno tutti! Non fidatevi di loro, ragazzi!"
+
+### u015389
+"Facciamo sanguinare questi soldati santi!"
+
+### u015390
+"Abbasso la boia!"
+
+### u015391
+"Speravo che rispondeste così. Tutori dell'ordine, attaccate! Per la giustizia dei Chorda e dell'Imperatore!"
+
+### u015392
+pietà!
+
+### u015393
+PIETÀ!
+
+### u015394
+Le enormi mura che si innalzano sopra i caotici edifici di Footfall sono in netto contrasto con le piccole case e le squallide capanne raccolte sotto gli archi svettanti.
+
+### u015395
+test
+
+### u015396
+"L'oscurità si cela oltre i bagliori luminosi... no... due oscurità. Una striata di rosso, con ceppi tintinnanti e falsa predicazione. L'altra di un giallo biliare, con il sapore del sangue ribollente e urla di dolore..."
+
+### u015397
+"I colori di questo posto sono macchiati da scintille di dolore: scarlatto acceso, cremisi nerastro, grigio mortale... Un caleidoscopio di disperazione e follia..."
+
+### u015398
+"Che ci fanno tutti questi tutori dell'ordine e questi soldati in questo rifugio? Perché non sono per le strade a combattere i nemici dell'Umanità?"
+
+### u015399
+"Presumo che sia perché il governatore non vuole restare senza la sua guardia personale, nemmeno dietro le mura spesse un metro del suo bunker. Tipico."
+
+### u015400
+"Si agitano, scavano nel mio cranio dall'interno: è come unghie che graffiano queste pareti di metallo..."
+
+### u015401
+"Ho condotto un'ispezione visiva della zona. Il rivestimento metallico del bunker è perfettamente integro e non danneggiato."
+
+### u015402
+"Verde scuro, cupo e soffocante, riempie questo spazio come una nebbia fitta... Le persone qui sono esauste, sfinite, smarrite."
+
+### u015403
+"La lunga ribellione ha senza dubbio messo a dura prova il morale dei soldati. Disciplina e lealtà al Dio-Imperatore: è questo che sostiene le persone quando le riserve emotive si esauriscono."
+
+### u015404
+"Ora che l'eresia della ribellione ha inghiottito questo intero mondo, nessuna parete offrirà riparo dal Suo furioso giudizio."
+
+### u015405
+"Infatti. La nostra unica scelta è combattere fino all'ultima goccia di sangue e assicurare la vittoria per la gloria dell'Imperatore, o morire nel tentativo."
+
+### u015406
+"È immenso! Il cielo sopra di noi sembra estendersi all'infinito. E tutte quelle guglie là sotto... centinaia e centinaia! Quindi questo è il palazzo del Rogue Trader!"
+
+### u015407
+"Hai proprio ragione: è uno spettacolo impressionante. Anche se la mia eterna ricerca di saggezza mi impone di dare un'occhiata agli alloggi privati {mf|di lui|di lei}. Che c'è? Cassia, stai arrossendo?"
+
+### u015408
+"Eccoci qui... a casa, ancora una volta. È strano tornare qui senza Lady Theodora."
+
+### u015409
+"Dai, lei detestava questo posto. Lo chiamava 'un nido di pettegoli e scontenti'. A me è mancato dormire in un letto di piume, comunque..."
+
+### u015410
+"Un palazzo tra le nuvole... Anche i nostri governanti preferiscono vivere così, al di sopra del resto dei loro simili."
+
+### u015411
+"L'umanità ha un solo sovrano, xenos: l'eterno e onniveggente Dio-Imperatore, e nessuno sta sopra di Lui."
+
+### u015412
+"Guardate qua... Mi fanno male gli occhi solo a vedere tutto questo marmo e questo oro. I capi giù a Leira, il mio mondo natale, vivevano in ville così."
+
+### u015413
+"Leira? Si chiama così la roccia da cui sei strisciato fuori? Me lo annoterò. Un altro mondo che ha bisogno di una dose di fuoco purificatore."
+
+### u015414
+"Roccia morta rivestita di metallo. Le strutture dei mon-keigh sono ripugnanti. Non potrei mai vivere in un posto simile."
+
+### u015415
+"La tua gente vive su cimiteri fluttuanti alimentati dall'energia dei suoi morti. Al tuo posto, mi asterrei da ulteriori critiche."
+
+### u015416
+"Spero che avremo tempo di assaggiare i liquori locali. Ho sentito entusiastiche recensioni sulle distillerie di Janus!"
+
+### u015417
+"Sognare banchetti in tempo di peste... Fedele a voi stessa come sempre, Signora Heydari."
+
+### u015418
+"Volete sapere a cosa sto pensando? Sto pensando alla mia bella cabina riscaldata. Con un bicchiere di qualcosa di caldo. E qualcuno di caldo stretto a me..."
+
+### u015419
+"Ehi, smettila di ridacchiare! Dove stiamo andando, incontro a morte certa? O è una sorpresa? Che spasso! Aspetta, Jae, hai detto qualcosa?"
+
+### u015420
+"Che scena tranquilla, come non ne vedevo da molto tempo. Niente bagliori accecanti, niente tripudio di colori... Solo una tela bianca e pura."
+
+### u015421
+"Be', ora che l'hai detto, mi aspetto che le cose peggiorino da un momento all'altro. State in guardia."
+
+### u015422
+"Gloria alla corrente della Forza Motrice! Che la sua dolce luce risplenda nelle nostre corone noosferiche, che la sua vitalità nutra le nostre augmetiche, che la sua purezza lavi i nostri imperativi e i nostri engrammi."
+
+### u015423
+"Per quanto ne so, il monastero fornisce energia a diverse grandi città formicaio di Rykad. Nascosto da qualche parte nelle profondità di questo edificio c'è un reattore di potenza mostruosa e insondabile."
+
+### u015424
+"Guida i miei colpi con precisione contro gli eretici che hanno invaso queste sale... Che nemmeno un malfattore sfugga alla punizione del Dio-Imperatore inflitta dalle nostre mani!"
+
+### u015425
+"I tuoi colori sono così vividi, Sorella Argenta. L'odio che alimenta le tue parole e i tuoi impulsi brucia come una supernova!"
+
+### u015426
+"Signora Kibellah, vi muovete con la massima sicurezza in luoghi sconosciuti. Eppure, fino a oggi, avete trascorso l'intera vita su una nave del vuoto."
+
+### u015427
+"Questo posto somiglia quasi alle camere del propulsore al plasma della nave ammiraglia. I letali bagliori delle scintille delle macchine, l'odore di carne bruciata, e fili che vanno recisi."
+
+### u015428
+"Un paragone curioso, che omette molti dettagli. Tuttavia, si spiega pienamente con la ristrettezza della vostra specializzazione, e della vostra concentrazione."
+
+### u015429
+"Ponti arrugginiti su trincee polverose... Che affascinante, terribilmente. Davvero, la mente vacilla. Ricordami ancora perché abbiamo fatto tutta questa strada?"
+
+### u015430
+"Come previsto, la tua mente lenta e debole è ignara del bottino evidente che abbiamo davanti. Qualunque esploratore curioso capirebbe che siamo vicini a una grande fonte di Conoscenza."
+
+### u015431
+"È strano... La mia mente è completamente vuota. Non un sussurro, nessun presagio. Niente. Solo vuoto."
+
+### u015432
+"La mente della strega è serena: devo stare doppiamente in guardia!"
+
+### u015433
+"Il formicaio è avvolto dal fumo. E il vostro palazzo, è... Lo purificheremo, Rogue Trader, fino all'ultimo xenos."
+
+### u015434
+"'Fino all'ultimo xenos' dev'essere solo un modo di dire dei mon-keigh, vero?"
+
+### u015435
+"Non riesco a crederci... In tutta la storia del protettorato dei von Valancius non c'è mai stato un attacco al mondo capitale."
+
+### u015436
+"Essere i primi ed essere i migliori spesso coincidono, così mi insegnò mio zio. Guardando ora il Rogue Trader, non ne sono più tanto sicuro."
+
+### u015437
+"L'intero palazzo è intriso di paura... Il drago lo ha circondato col suo corpo e ne ha spezzato le ossa. Ciò che era vero... oggi è diventato menzogna."
+
+### u015438
+"La luce dell'Imperatore scaccia ogni menzogna. Ma tu non lo comprenderai mai."
+
+### u015439
+"L'impronta del tormento e della stanchezza è stata lasciata su questo mondo. Il marchio dei miei cugini oscuri è così netto da non poter essere altro che una trappola."
+
+### u015440
+"'Cugini oscuri'? Intendi gli xenos che disgustano persino i loro simili già disgustosi? La mia arma qui troverà impiego!"
+
+### u015441
+"Siamo venuti qui... per un oscuro invito. Il drago nero si agita nell'ombra. Beve sangue. Attende... voi."
+
+### u015442
+"Idira, riprenditi. Il governatore ha lanciato una richiesta d'aiuto: nessuna supplica simile può dirsi 'oscura'."
+
+### u015443
+"Il warp è un mare di male che afferra senza sosta le nostre anime. Non sorprende che le navi che lo attraversano incontrino così spesso il disastro."
+
+### u015444
+"Avete ragione, Sorella. Il Mare delle Anime può divorare anche i marinai del vuoto più abili, perché credere in un warp domato significa credere in un'illusione."
+
+### u015445
+"Percepisco qualcosa di strano... un filo che va dal passato recente al futuro. Rivalità. Minaccia. Porta il marchio dell'influenza del warp, ma appena appena."
+
+### u015446
+"Se qui c'è del pericolo, sarebbe logico tornare alla nave e usare i macrocannoni per distruggere questo vascello."
+
+### u015447
+"Conosco diverse persone che sarebbero disposte a sborsare un bel po' di troni per un mucchio di questi rottami... e anche un paio di Explorator compiacenti."
+
+### u015448
+"Signora Heydari, se mai riusciste a concludere un simile affare, sarei estremamente interessato all'identità degli acquirenti."
+
+### u015449
+"Strano. I corpi degli Oghyr scompaiono dopo la morte. Questi esemplari devono essere difettosi in qualche modo, dato che sono ancora qui."
+
+### u015450
+"Sembri delusa. L'insetto stecco sperava di fare un affare con loro e pugnalarci alle spalle?"
+
+### u015451
+"Nemmeno i malvagi xenos hanno retto al flagello che si è abbattuto su di loro. Che pietà fanno i loro gusci vuoti..."
+
+### u015452
+"Spero che non sia uno stratagemma per attirarci. Tuttavia, sembrano davvero ben morti."
+
+### u015453
+"Che bel posticino! È bello vedere gente che si diverte. Perfino l'aria qui dentro è più piacevole da respirare!"
+
+### u015454
+"Un intero locale dedicato a occupazioni improduttive e parassitarie. Uno spreco di spazio sulla stazione."
+
+### u015455
+"Però, quanti colori ci sono in questo posto. Ogni sfumatura che riesco a immaginare fluttua nell'aria!"
+
+### u015456
+"Colori, dici? Tra poco ci chiederà di portarla in giro per taverne... Risparmiatemelo."
+
+### u015457
+"Ogni volta che vengo qui, divento quasi sordo. I suoni del passato mi assalgono le orecchie: trombe di gloria interrotte dal fruscio degli stracci, e il tintinnio delle monete sopra ogni cosa."
+
+### u015458
+"Anche a me questo posto fa quasi diventare sordo, e senza nemmeno voci stregonesche in testa. Se non sono bestemmie, sono mercanti che urlano, o spari: è lo stesso ovunque si vada su Footfall!"
+
+### u015459
+"Questo posto doveva essere soltanto una sala all'interno del tempio. Ma ora ci hanno stipato dentro un'intera città!"
+
+### u015460
+"Una decisione razionale. I templi dell'Ecclesiarchia mancano della funzionalità essenziale di cui una stazione nel vuoto ha bisogno. A differenza delle cappelle dell'Adeptus Mechanicus."
+
+### u015461
+"Non smetto mai di stupirmi che il Reverendo Hieronymus si accontenti di quella cappella grande quanto una scatola da scarpe nell'Atrio per i suoi sermoni. Footfall ha diversi templi molto più consoni al suo rango."
+
+### u015462
+"I Drusiani sono un ordine particolare. Insegnano alle persone ad accontentarsi di poco, e seguono loro stessi questo principio."
+
+### u015463
+"Il piccolo nel grande, il metallo nella roccia. Distinguo due strati, due idee, in questo luogo, e una, superficiale e mutevole, ha inghiottito l'altra."
+
+### u015464
+"Footfall è un luogo iconico, un grande monumento a un'immensa ambizione e a speranze infrante."
+
+### u015465
+"Vladaym sarà scivoloso come un serpente, come qualsiasi operatore esperto. Non mi servono voci in testa per prevederlo."
+
+### u015466
+"Alcuni capi si aggrappano al potere con il pugno di ferro, ma Tocara non è di quel tipo. È un opportunista... un brillante opportunista."
+
+### u015467
+"Andiamo a trovare Vladaym? Ah, sarà al settimo cielo nel vedere il suo vecchio amico!"
+
+### u015468
+"Le tue parole sono avvolte da un fitto fumo verde, ma una calda luce gialla vi traspare... Sei davvero contento di vederlo, non è vero?"
+
+### u015469
+"I Kasballica commerciano artefatti xenos su Footfall, e in modo piuttosto sfacciato. E l'Ordo Xenos non ha fretta di porre rimedio alla situazione..."
+
+### u015470
+"Sappiamo tutto ciò che dobbiamo sapere, e stiamo monitorando tutto ciò che dobbiamo monitorare."
+
+### u015471
+"I Quartieri dell'Ombra... L'ultima volta che sono stato su Footfall, prendevo la mia arma e vagavo per questa zona, sperando di incontrare un mutante o un bandito."
+
+### u015472
+"Perché i tuoi ricordi di questo posto sono così blu? E più ne parli, più il blu diventa scuro..."
+
+### u015473
+"Sento uno strano... respiro, pieno di veleno e malattia, che si spaccia per preghiera..."
+
+### u015474
+"Per quelli come te, la preghiera più sincera sarebbe il veleno."
+
+### u015475
+"Una tana di mon-keigh. Curioso. Le vostre tane sono migliori senza i goffi tentativi di grandiosità. Più naturali."
+
+### u015476
+"Questo posto è diverso dagli altri insediamenti dei mon-keigh che ho visto."
+
+### u015477
+"Hai visto un solo mondo agricolo, per giunta fatiscente, e da questo singolo dato hai estrapolato una valutazione dell'intero Imperium? Un sillogismo ridicolo."
+
+### u015478
+"Alpha-Rho, il miglior molo di Footfall. È pulito, ben attrezzato e si rivolge a una classe più alta di viaggiatori. Per gli standard locali, si intende."
+
+### u015479
+"Un modo molto educato di dire 'un buco lurido che è appena meno lurido degli altri', Siniscalco!"
+
+### u015480
+"Il cantiere navale di Footfall è un'opera benedetta dell'onnipotente Omnissiah. Il resto della stazione è superfluo, un'appendice inutile."
+
+### u015481
+"Se fosse per te, ingranaggio, tutte le taverne sarebbero state trasformate in officine da un pezzo e tutti sulla stazione in servitori!"
+
+### u015482
+"Van Calox, vorrei ancora sapere dove avete ottenuto le vostre informazioni sulla situazione attuale su Kiava Gamma. La dinastia non diffonde ampiamente simili notizie..."
+
+### u015483
+"Non è questione di quanto ampiamente le diffondiate, ma di quanto a fondo interroghiamo chi le possiede."
+
+### u015484
+"Puah, che puzza! Qui dentro fa caldo come in una fornace e puzza di grasso e di metallo bruciato... Ma ci sono anche altri odori... come qualcosa di marcio..."
+
+### u015485
+"I tuoi sensi non ti ingannano: percepisco sfumature di carogna e di morte nel bagliore ardente del manufactorum. Questa massiccia bestia di plastacciaio sta marcendo da viva."
+
+### u015486
+"Recito un salmo di adorazione dei dati in esaltazione di questo sacro luogo di produzione. Recito una litania ausiliaria di annunciazione. L'Omnissiah sa tutto, comprende tutto."
+
+### u015487
+"Dopo quello che è successo quando siamo entrati nel sistema, la mia mente è offuscata dal dubbio che questo 'sacro luogo di produzione' ci accoglierà con mirra e incenso..."
+
+### u015488
+"Oh... Il veleno scorre nelle vene meccaniche... La strada verso la tua meta sembra facile finché non ti volti indietro. Il fuoco infuria in un cuore di ferro..."
+
+### u015489
+"Le tue profezie a volte mi ricordano quelle dei nostri Veggenti, mon-keigh. Solo vagamente, ovviamente: i tuoi indovini non sono certo paragonabili ai nostri."
+
+### u015490
+"I protocolli per la cura degli spiriti macchina sono stati violati in modo quanto mai profano. La Noosfera della nave è invasa da impurità nei dati!"
+
+### u015491
+"Lo sento anch'io! Di solito le macchine emanano colori a malapena percettibili... esattamente come il tuo corpo, Magos. Ma qui... tutte le sfumature si sono fuse in fango."
+
+### u015492
+"Questo posto è intriso di corruzione, il che significa che dev'essere purificato. Con il fuoco. Fino all'ultima fessura."
+
+### u015493
+"Sorella, frenate il vostro fervore. Il vostro zelo è lodevole, ma prima devo accertare le intenzioni dell'Arcinemico, non schiacciarne le manifestazioni senza pensarci due volte."
+
+### u015494
+"Migliaia e migliaia di voci che gridano per la salvezza... nella speranza... con promesse deliranti... Il loro dolore... è la tua ricompensa, Interrogatore."
+
+### u015495
+"Farò finta di non aver sentito le tue ultime parole, strega."
+
+### u015496
+"La tua mente è avvolta da un fumo blu-grigio, Maestro van Calox. Un colore pesante... per pensieri pesanti, suppongo?"
+
+### u015497
+"Siete una persona pericolosa, Lady Orsellio. Lo sono tutti i Navigatori, ma le vostre capacità vi pongono in una categoria speciale."
+
+### u015498
+"Lord Capitano, ritenete saggia questa... impresa? Non mi sorprenderebbe se si rivelasse tutta una trappola."
+
+### u015499
+"Concordo con il Maestro Werserian. Questo posto mi ricorda i moduli di manutenzione su Eurac V: tutti i colori sono così... sporchi."
+
+### u015500
+"Aiutare un contrabbandiere è un'impresa degna di un Rogue Trader?"
+
+### u015501
+"Sei solo gelosa! Lei si scola l'amasec e indossa vestiti succinti, mentre il tuo unico sfogo è pregare."
+
+### u015502
+"Le vocine sussurrano che ci aspettano guai più avanti. E se non te la prendi con calma, potresti essere colto con i pantaloni calati. In senso figurato o letterale, non so."
+
+### u015503
+"L'unica cosa più preziosa di questo profondo augurio sono le espressioni di chi l'ha appena sentito."
+
+### u015504
+"L'Imperium è un grande meccanismo e noi siamo ingranaggi al suo interno. E questo è un magazzino per gli ingranaggi più storti e corrosi."
+
+### u015505
+"Una metafora interessante. Aggiungerei solo che conservare simili ingranaggi è spesso uno spreco di barrette nutritive e di ossigeno."
+
+### u015506
+"Il pentimento in prigione è solo una debole ombra di una vera trasformazione dell'anima. Solo in battaglia, rinnegando la carne e avvolgendo l'anima nelle fiamme, si può guadagnare l'assoluzione."
+
+### u015507
+"A volte ai funzionari dell'Imperium fa comodo che un criminale trascorra il resto dei suoi giorni a faticare in un pozzo, lavorando per il bene dei giusti fino all'ultimo respiro."
+
+### u015508
+"Non ho avuto occasione di visitare Rykadi Philia prima che scoppiasse la rivolta sul mondo principale. Ho letto in un rapporto che il direttore ha dimostrato... un'insolita ingegnosità nel modo in cui gestisce i prigionieri sul planetoide."
+
+### u015509
+"Ho visto Rykadi Philia solo da lontano, ogni volta che mi capitava di visitare l'osservatorio. È così strano essere qui di persona!"
+
+### u015510
+"Posti come questo mi fanno pensare alla neve: pura e non contaminata dallo squallore umano. Sotto la luce gelida di una stella che illumina ogni cosa, fino alle profondità dell'anima."
+
+### u015511
+"La tua anima già risplende, Amic'Argenta. Ma se la morte chiamerà te prima di me, conserverò le tue ceneri per il più ricco mondo di neve che esista."
+
+### u015512
+"Non ho mai visto tante piante, nemmeno nel nostro arboreto... Oh, quel fiore laggiù! Ne ho letto in una delle opere del Genetor Kanassian."
+
+### u015513
+"La tua dimostrazione di conoscenza, insolita per una persona comune, meriterebbe approvazione, se non fosse che il Genetor Kanassian fu scomunicato circa tre secoli fa."
+
+### u015514
+"Il Lord Capitano Theodora e io una volta atterrammo su un mondo verde simile a questo. Due terzi della squadra perirono tra le fauci di bestie selvatiche, mentre gli altri morirono di febbre."
+
+### u015515
+"In questa giungla si annidano bestie peggiori, e non hanno artigli né zanne. Sento... hanno un capo tra loro. Ed è più vicino di quanto pensi..."
+
+### u015516
+"Per un periodo ho considerato queste foreste la mia casa... Ma continuo a sentirmi una straniera qui."
+
+### u015517
+"Immagino sia perché la giungla è un tantino ostile ai visitatori. A proposito di visitatori... Lord Capitano, nella vostra infinita saggezza, avete mai pensato di aprire qui un resort per ricchi?"
+
+### u015518
+"Che splendida tenuta! Ho visto delle pict dei nostri antichi palazzi negli archivi della Casata Orsellio: questo posto è molto simile."
+
+### u015519
+"Peccato che ti sia stata negata la possibilità di crescere in un ambiente simile. Riesco proprio a immaginare una giovane Lady Navigatrice che si rilassa con un libro in giardino dopo le lezioni."
+
+### u015520
+"Che hai appena detto? O non eri tu? Le voci diventano più forti... Perché? Qualcosa non va."
+
+### u015521
+"Tutta questa stravaganza di cattivo gusto potrebbe far impazzire chiunque. Guarda là: questi ashmag hanno usato costoso legno di Kavossian per le rifiniture!"
+
+### u015522
+"In effetti. Non ho visto molti posti che ostentino un simile lusso. Se si raschiasse tutta la doratura da ogni tempio di Footfall, sarebbe comunque meno di quella che c'è qui."
+
+### u015523
+"Sospetto che i residenti di una tenuta come questa potrebbero comprare Footfall per intero e usarla come residenza stagionale."
+
+### u015524
+"Le rovine emettono deboli energie psichiche... Tuttavia, per ora non rappresentano una minaccia diretta. Ma consiglio di non trattenerci qui."
+
+### u015525
+"Il vostro 'non rappresenta una minaccia diretta', van Calox, può essere interpretato in modo troppo ampio per il mio personale comfort."
+
+### u015526
+"Ti rendo grazie, Omnissiah, per avermi concesso la capacità di servirti come predatore la cui preda è la Conoscenza!"
+
+### u015527
+"Predatori? Anche tu senti il ringhio? Un suono così ripugnante da farti serrare i denti, da farti venire voglia di uccidere... No? Solo io? Non è un buon segno..."
+
+### u015528
+"E voi siete qui anche voi, stimato Maestro van Calox. L'Inquisizione non dorme mai?"
+
+### u015529
+"È nel nostro interesse comune assicurarci che il Rogue Trader non incontri per caso la morte nelle viscere della propria nave. Non siete d'accordo, Siniscalco?"
+

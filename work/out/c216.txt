@@ -1,0 +1,703 @@
+### u071367
+"Temo di non potervi essere di grande aiuto. Parlate con i rappresentanti delle altre casate, origliate tra il loro seguito... e forse sentirete qualcosa di insolito."
+
+### u071368
+"Chiunque, davvero," {n}risponde Clementia con una risata amara.{/n} "Le altre casate ci ritengono indegni della nostra posizione e molte coglierebbero al volo l'occasione di liberarsi di noi e prendere il controllo di ciò che un tempo era il nostro dominio — la flotta e la logistica del pianeta, quanto meno."
+
+### u071369
+"Lady Theodora scelse di concedere lo status nobiliare alla Casata Werserian, ma le altre casate, che servono nella Distesa da millenni, non accolsero bene la decisione. Ha causato qualche difficoltà."
+
+### u071370
+{n}Clementia fa un brusco cenno ad Astartia di fermarsi. La sua voce risuona di sollievo:{/n} "Questo spiega moltissimo. È così che tutto è cominciato. Le prime accuse di falsificazione sono bastate perché se ne aggiungessero altre. È bene sapere che il vero colpevole è stato trovato. Grazie per avercelo detto, Vostra Signoria. Mi sorprende che Urbend abbia permesso che accadesse — dubito che fosse coinvolto."
+
+### u071371
+"Clementia, se sai che un membro della tua famiglia è colpevole dei crimini di cui sei accusata—"
+
+### u071372
+{n}Il volto di Astartia diventa rosso, e lei riesce a stento a trattenere il grido furioso che le monta in petto.{/n} "Quel figlio di un grox! Non mi sorprenderebbe se non fosse stato un errore ma un deliberato atto di sabotaggio fin dall'inizio..."
+
+### u071373
+"Clementia." {n}Una nota di dolore si insinua nella voce di Abelard, smentendo la sua severa facciata.{/n} "Eravate il capo facente funzione di questa famiglia. Dovevate prendervi cura di ogni singolo membro della famiglia. E ora siete accusata di tradimento e collusione contro il Rogue Trader, e l'intera famiglia rischia la morte. Come avete potuto lasciare che accadesse?"
+
+### u071374
+"Servitori? È così..." {n}Clementia incrocia le braccia e aggrotta la fronte, assorta nei suoi pensieri.{/n} "Ho incontrato dei servitori che non si distinguevano dai normali esseri umani potenziati, ma una volta sola. Accompagnavano diversi membri della Casata Gaprak."
+
+### u071375
+{n}I membri più giovani della famiglia Werserian si accalcano per esaminare il biglietto tra le mani di Clementia. Tutti i presenti sono in preda a preoccupazione e smarrimento.{/n}
+
+### u071376
+"Ah! Finalmente vedo la somiglianza di famiglia!"
+
+### u071377
+"Non so se sia rilevante, ma forse dovreste saperlo: dalla caduta di Kiava Gamma, la Casata Gaprak se la passa male, a dir poco. Cercano modi per accrescere la propria influenza e migliorare la loro sorte, compreso chiedere aiuto alle altre casate nobili. Da noi non sono venuti, ovviamente — è vergognoso chiedere aiuto a chi si considera inferiore, capite. Ma forse i Drivestem o i Sauerback possono dirvi di più su questa faccenda."
+
+### u071378
+{n}Ridendo, Ulfar dà una gomitata ad Abelard.{/n} "La tua nidiata, eh? Ammettilo, eri così anche tu da giovane? Tagliente come un colpo d'arpione nelle palle di un troll di ghiaccio?"
+
+### u071379
+{n}Abelard lancia un'occhiataccia ad Astartia prima di rispondere con riluttanza,{/n} "Temo di non potervi rispondere sull'ultima parte. Quanto al discorso generale, sì, di certo lo ero. E ora capisco meglio perché venissi cinghiato così spesso."
+
+### u071380
+"Non abbiamo tempo per le chiacchiere. Andiamo avanti!"
+
+### u071381
+"Ricordami, cosa voleva da noi il Reverendo Hieronymus?"
+
+### u071382
+"Sembri appesantita da qualcosa."
+
+### u071383
+"Se qualcosa ti turba, dimmelo. Forse posso aiutarti."
+
+### u071384
+"Come e perché è finito il tuo soggiorno su Footfall? Dev'essere cambiato qualcosa?"
+
+### u071385
+"Dobbiamo andare avanti."
+
+### u071386
+"Vorrei sapere qual è questa 'debolezza personale'. I membri del mio equipaggio non possono tenermi segreti."
+
+### u071387
+[Scrolla le spalle] "Come vuoi."
+
+### u071388
+"Tu conosci Footfall meglio di me. Pensi che le voci sugli eretici siano vere?"
+
+### u071389
+{n}Argenta ti fa un gesto per attirare la tua attenzione.{/n} "Rogue Trader, vorrei ricordarvi la richiesta del Reverendo Hieronymus... Ci ha chiesto di cercare una possibile tana di cultisti nei Quartieri d'Ombra di Footfall."
+
+### u071390
+"Sì. Un segno, quasi un presagio, mi ha mostrato la via giusta. Ma non è qualcosa di cui possa parlare così, in strada, in questa fossa di malvagità. Andiamo! Vi dirò solo che su Footfall ho incontrato Lady Theodora e mi sono unita a lei — e quella è stata la fine del mio languire in questo posto."
+
+### u071391
+"C'è stato un tempo in cui avrei detto che con ogni probabilità era un'invenzione. Si possono dire molte cose sulla {g|Encyclopedia:KasballicaMission}Missione Kasballica{/g} e sugli altri loschi operatori di Footfall, ma persino quei furfanti sono fedeli all'{g|Encyclopedia:Emperor}Imperatore{/g}, e perciò sterminano senza pietà gli eretici dichiarati nel loro territorio. Ma ora..."
+
+### u071392
+"Ci ha detto di cercare simboli del sole incisi in blu e oro. La congregazione di Hieronymus sospetta di eresia certi individui sospetti, e si dice che sia così che marchino il loro nascondiglio."
+
+### u071393
+"Non sono nata nella {g|Encyclopedia:KoronusExpanse}Distesa{/g}. Sono stata mandata qui a fare da guardiana di un reliquiario su Footfall. Ma la mia nave è rimasta intrappolata in un'anomalia warp, e sebbene per chi era a bordo siano passati solo pochi giorni, nello {g|Encyclopedia:Realspace}spazio reale{/g} erano trascorsi decenni."
+
+### u071394
+"Quando alla fine sono arrivata su Footfall, mi è sembrato di essere stata cancellata dal tempo. Nessuno mi aspettava da questa parte della Fauce — le persone che avrebbero dovuto accogliermi, che sapevano del mio imminente arrivo, erano morte. Il reliquiario che avrebbe dovuto essere affidato alla mia custodia era stato invece posto sotto la protezione del Reverendo Hieronymus e dei suoi confratelli. Erano più che all'altezza del compito — non avevano bisogno del mio aiuto."
+
+### u071395
+"Footfall è diventata la mia gabbia. Non sapevo chi fossi né quale scopo avessi qui. La via del ritorno verso Calixis mi sembrava un'altra trappola — anche se avessi trovato una nave diretta laggiù, il mio settore, il mio {g|Encyclopedia:AdeptaSororitas}ordine{/g} — anche loro sarebbero ormai vissuti decenni senza di me! Ogni volta che mi tornano in mente quei mesi trascorsi su Footfall, mi sembra di precipitare in un pozzo. Spero che le voci sui cultisti si rivelino vere — non vedo l'ora di dimostrare col mio bolter che... che... che il mondo e l'Imperium hanno bisogno di me!"
+
+### u071396
+"Cosa? No!" {n}Argenta scuote la testa e si massaggia le tempie con stanchezza.{/n} "Scusatemi, Rogue Trader. Essere qui, su {g|Encyclopedia:Footfall}Footfall{/g}, è... difficile per me. È una debolezza minore, personale, ma sono pronta a combattere come sempre! Non avrà alcun effetto sulle mie capacità di combattimento."
+
+### u071397
+"Gli eretici hanno lanciato un attacco aperto contro la nave di un Rogue Trader. Un membro della vostra dinastia, Kunrad Voigtvir, si è rivelato uno di loro! E la stessa Footfall sprofonda sempre più nella follia. In questi tempi di conflitto, sono disposta a credere negli eretici che compiono apertamente i loro riti oscuri e marchiano sfacciatamente le loro tane con simboli sacrileghi."
+
+### u071398
+{n}Argenta annuisce sollevata.{/n}
+
+### u071399
+{n}Argenta ti lancia un'occhiata guardinga.{/n} "Suppongo di poterla condividere con voi... Ma il racconto sarà lungo, e dovrò cominciare dall'inizio."
+
+### u071400
+"Avete ragione. Spiegherò. Riguarda le... circostanze del mio arrivo su Footfall."
+
+### u071401
+"Maestro dell'Infernus, fai da insegnante nel tempo libero?"
+
+### u071402
+[Rivolgiti agli accompagnatori] "Punite il piantagrane, rimettete gli altri nelle loro baie. L'udienza è finita."
+
+### u071403
+[Rivolgiti al gruppo con solennità] "Io, il Rogue Trader e Lord Capitano di questa nave, parlo a voi ora! I vostri genitori hanno dato la vita per una giusta causa e hanno portato onore agli stendardi dei von Valancius e a quelli dell'Imperium. Sono {mf|fiero|fiera} di loro, e credo che diventerete i loro degni eredi!"
+
+### u071404
+[Sorridi al gruppo] "Il vostro Lord Capitano vi saluta, coraggiosi!"
+
+### u071405
+[Rivolgiti agli accompagnatori] "Date loro dei dolcetti e scortateli a casa. Credo che un minuto al cospetto del Lord Capitano sia un onore più che sufficiente per loro."
+
+### u071406
+[Rivolgiti agli accompagnatori] "Il loro comportamento lascia molto a desiderare. Spero che verranno plasmati in degni servitori della Casata von Valancius. L'udienza è finita."
+
+### u071407
+[Rivolgiti al gruppo] "Se avete qualcosa da dire, ditelo senza timore. Vi ascolterò."
+
+### u071408
+[Ignora l'interruzione] "Statene certi, non sarete abbandonati. Qualcuno si prenderà cura di voi."
+
+### u071409
+"Quando gli eretici che hanno ucciso i vostri genitori hanno attaccato la nave, io ero là. Ho preso il comando, ho combattuto e ho respinto l'assalto il più in fretta possibile. Ma nessuna guerra si vince senza perdite. Si può solo cercare di fare ciò che è in proprio potere."
+
+### u071410
+"Capisco il vostro dolore e il vostro sgomento. I vostri genitori sono morti. Non è facile affrontare una cosa simile. Ma hanno dato la vita per la verità, per il bene dell'intera nave, per l'Imperium. Non parlate del loro onorevole destino con rabbia e disprezzo."
+
+### u071411
+"I forti hanno il potere di decidere il destino degli altri; i deboli obbediscono o muoiono. Se cerchi una sorte diversa nella vita, ragazzo, risparmia i tuoi brontolii e cerca l'occasione di elevarti al di sopra degli altri."
+
+### u071412
+"Maestro dell'Infernus, dato che ti preoccupi tanto per gli orfani, da ora in poi sono il tuo clan. Spetta a te insegnare loro il significato di ciò per cui i loro genitori hanno combattuto e sono morti."
+
+### u071413
+{n}Un gruppo di adolescenti, chiaramente vestiti coi loro abiti migliori, appena stirati, forma una fila dritta davanti a te. Alcuni ti fissano a occhi sgranati come se fossi una creatura mitica, altri si stringono l'uno all'altro per la paura e distolgono lo sguardo.{/n}
+
+### u071414
+{n}Il variegato gruppo di adolescenti non ti toglie gli occhi di dosso, e ti guarda come se fossi una creatura uscita direttamente da una fiaba.{/n}
+
+### u071415
+{n}Argenta è in piedi di lato al gruppo. Al tuo avvicinarsi, si rianima e annuncia con voce squillante,{/n} "Coraggiosi, il padrone di questa nave è comparso davanti a voi, colui che la guida attraverso l'oscurità dell'universo per volere dell'{g|Encyclopedia:Emperor}Imperatore{/g}. Salutate il vostro Lord Capitano, il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} della Casata von Valancius!"
+
+### u071416
+{n}Argenta si strofina pensierosa la tempia. Sorride e aggiunge qualche altra parola di incoraggiamento, poi lascia la baia.{/n}
+
+### u071417
+{n}I domestici si affrettano a eseguire il tuo ordine.{/n}
+
+### u071418
+{n}Abelard fa un cenno — e subito dei domestici emergono portando dolcetti confezionati con la scritta "von Valancius" sulle confezioni. A quanto pare il Siniscalco si è preparato a ogni evenienza.{/n}
+
+### u071419
+{n}Gli adolescenti pendono dalle tue labbra, trattenendo il fiato. Solo alcuni in fondo alla fila sembrano imbronciati e per nulla colpiti dal tuo discorso.{/n}
+
+### u071420
+{n}Il ragazzo sorride cupamente.{/n} "Non importa cosa diciamo — non riporterà indietro i nostri genitori. E non cambierà nemmeno il nostro destino. Continueremo a sgobbare su questa nave finché non crolleremo e moriremo come i nostri vecchi. O peggio."
+
+### u071421
+{n}Gli adolescenti continuano a fissarti. Una ragazza rimasta vicino ad Argenta sorride incerta. Un ragazzo magro e pallido cerca di tirare indietro le spalle e di mettersi sull'attenti come un soldato. Solo alcuni adolescenti in fondo alla fila sembrano imbronciati e per nulla colpiti.{/n}
+
+### u071422
+{n}Argenta si volta rapidamente verso il ragazzo. Un turbine di emozioni lampeggia nei suoi occhi scuri — come se volesse sia calmarlo sia rimproverarlo per la sua impudenza.{/n}
+
+### u071423
+{n}Dai loro occhi luminosi capisci che le tue parole, e il solo fatto di aver incontrato il Rogue Trader in carne e ossa, hanno lasciato in loro un'impressione indelebile.{/n}
+
+### u071424
+"Giovani. Fra un anno o due non li riconoscerete — impareranno a salutare e a parlare solo quando il loro ufficiale superiore lo permette. Ma per ora sanno solo fare i buffoni."
+
+### u071425
+"La nostra instancabile sorella tiene d'occhio questi cuccioli." {n}Abelard guarda i bambini radunati.{/n} "Qui dentro non è certo la {g|Encyclopedia:ScholaProgenium}Schola Progenium{/g}, ma abbiamo offerto agli orfani della nostra nave cure e istruzione adeguate."
+
+### u071426
+"Ecco..." {n}Il bambino ti fissa.{/n} "La mamma mi diceva sempe di onolale l'Imperatole e di dile sempe la velità. Ma io non ho detto che ela stato io a lompele la polta vicino alla scala. Mi sono spaventato. E tutti hanno dato la colpa a un altlo bambino. Poi, nel giolno spaventoso... hanno detto che la mamma non ela più viva e che la sua anima ela andata dall'Imperatole. E se lui la lifiuta pelché io sono un codaldo e un bugialdo?" {n}Dice quasi in un sussurro le ultime parole.{/n}
+
+### u071427
+"Avete sentito il Rogue Trader. Le sue parole portano la saggezza dell'{g|Encyclopedia:Imperium}Imperium{/g}."
+
+### u071428
+{n}È difficile dire se le tue parole abbiano lasciato un segno sul ragazzo, ma lui annuisce lentamente. Poi si ricompone e ti rivolge un inchino impacciato.{/n}
+
+### u071429
+{n}Uno dei visitatori imbronciati, con una sottile cicatrice sul viso, getta la testa all'indietro e dice con amarezza,{/n} "E allora? Perché dovrebbe importarci? I nostri amici e i nostri genitori sono morti a decine per voi nobili, e voi ci... fate dei discorsi."
+
+### u071430
+"Imparano mestieri utili che potranno poi mettere al servizio della dinastia?" {n}Dopo l'affermativo cenno del capo del Siniscalco e una smorfia che significa probabilmente qualcosa come "ovviamente," Pasqal fa un gesto di benedizione.{/n} "Condizioni di alloggio e di cura ritenute razionali."
+
+### u071431
+{n}Il ragazzo si limita ad alzare il mento con ostinazione, la bocca serrata in una linea dura. Gli altri si zittiscono, spaventati.{/n}
+
+### u071432
+{n}Noti il Maestro dell'Infernus Einrich Monteg a pochi passi dagli orfani. Ti osserva con approvazione e s'inchina rispettosamente quando incrocia il tuo sguardo.{/n}
+
+### u071433
+"Niente affatto, Vostra Signoria. Mi limito a badare a loro. È l'usanza degli infernus aiutare chi è nei guai — è il nostro lavoro, dopotutto. Così mettiamo insieme qualche razione qua e là e ci assicuriamo che nessuno gli renda la vita difficile. I più grandi li prendiamo sotto la tutela del clan, se vogliono. Molti nella gilda non sono della nostra famiglia di sangue, ma di circostanza."
+
+### u071434
+"Grazie della vostra fiducia, Lord Capitano. Non la sprecheremo. Gli inferni sanno bene cosa significhi andare fieri del servizio, del coraggio e dell'abnegazione. Per voi ne faremo dei veri eroi." {n}Einrich sorride radioso agli orfani, che gli rispondono con un sorriso di rapita devozione.{/n}
+
+### u071435
+"Li incontrerò, senza formalità. Sono i figli di persone che hanno dato la vita per la dinastia von Valancius, la mia considerazione è il minimo che si meritino."
+
+### u071436
+"Predisponi un incontro degno di un Rogue Trader. Mi rivolgerò agli orfani con un discorso."
+
+### u071437
+"Consegna questo ordine a nome mio — gli orfani devono essere adeguatamente accuditi. Ma un incontro personale con il Rogue Trader è troppo."
+
+### u071438
+"Perché dovrei? Vuoi riempire la testa di questi bambini con l'illusione che il mondo e i suoi governanti si curino di loro? Non ne farò parte."
+
+### u071439
+"A cosa servirebbe incontrarli?"
+
+### u071440
+"Salve, Rogue Trader! Speravo di rivolgervi una richiesta personale." {n}Per un breve istante la voce di Sorella Argenta suona esitante.{/n}
+
+### u071441
+"Gli accursati servitori del {g|Encyclopedia:Chaos}Caos{/g} che hanno assaltato questa nave hanno tolto la vita ai vostri fedeli membri dell'equipaggio. E hanno reso orfani molti bambini — compresa la progenie dei valorosi ufficiali che hanno difeso le loro postazioni fino all'amara fine. Non so quali siano le usanze in casi come questo nel territorio dei von Valancius, ma nel mondo che conosco, i figli di simili anime coraggiose potevano aspettarsi un riguardo speciale. Forse il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} potrebbe incontrare gli orfani?"
+
+### u071442
+"Come desiderate, Rogue Trader. Grazie per aver accolto la mia richiesta."
+
+### u071443
+"Riferirò le vostre istruzioni. Grazie per aver preso a cuore la mia richiesta."
+
+### u071444
+"Come desiderate, Rogue Trader," {n}dice Argenta con una nota di delusione.{/n}
+
+### u071445
+"Dunque è così che la vedete!" {n}Il tono di Argenta tradisce la sua furia prima che lei riprenda il controllo.{/n} "Le mie scuse, Rogue Trader. Non vi disturberò più con richieste di questo genere."
+
+### u071446
+"Questi bambini sono il futuro del vostro equipaggio, e un giorno anche loro dovranno opporsi al male e all'eresia come i loro genitori. Incontrandoli, rivolgendo loro le parole giuste, onorerete la memoria degli eroi caduti e illuminerete la via agli eroi in divenire. Ricorderanno sempre il giorno in cui hanno incontrato il Rogue Trader! Inoltre, solleverà il morale degli orfani... li aiuterà a riprendersi dalla loro perdita, che può essere dura per qualcuno così giovane."
+
+### u071447
+"Se vuoi far parte del mio equipaggio, segui gli ordini che ti vengono dati invece di andare all'avventura senza permesso."
+
+### u071448
+"Argenta, aspetta. L'eretico deve essere interrogato."
+
+### u071449
+"Eliminalo, Argenta."
+
+### u071450
+"Come conosci Argenta? L'hai già vista su Footfall?"
+
+### u071451
+"Chi o cosa è questo 'vero dio' che continui a nominare?"
+
+### u071452
+"Argenta? Di cosa sta parlando?"
+
+### u071453
+"Ho bisogno di qualcosa di più coerente."
+
+### u071454
+"Non ho intenzione di tollerare la tua ostinazione. Non sei più la benvenuta a bordo della mia nave."
+
+### u071455
+{n}Argenta si precipita sull'ultimo cultista rimasto in vita e lo colpisce in faccia, in silenzio, con furia.{/n} "Eretico blasfemo! A chi stavi pregando? Conosco quelle parole, quel richiamo a un 'Lor—'"
+
+### u071456
+{n}Argenta non riesce a finire — il cultista, caduto in ginocchio, la interrompe con una risata stridula e rauca.{/n} "Certo che le conosci. Anch'io ti riconosco, lacchè del cadavere sul trono. Non hai già sperimentato il potere del vero dio? Non sei fuggita da noi, versando lacrime?"
+
+### u071457
+{n}Argenta indietreggia come colpita, ma poi si fa avanti, afferra il cultista per la collottola e lo costringe a guardarla negli occhi, ardenti come braci.{/n} "Sono una delle {g|Encyclopedia:AdeptaSororitas}Adepta Sororitas{/g}. E non sono mai fuggita, nemmeno una volta in vita mia, dagli eretici e dai traditori dell'Umanità."
+
+### u071458
+"Quanti di voi parassiti ci sono! Prima Rykad Minoris, ora qui."
+
+### u071459
+"Cosa volete sapere, servitori dell'imperatore cadavere? I nomi dei miei fratelli? Quanti siamo? Dove siamo? Ve lo dirò io stesso — siamo miriadi, e siamo ovunque. Presto, molto presto, sentirete le nostre voci. E quando le sentirete alle vostre spalle, così vicine da avvertire il nostro respiro — allora conoscerete il potere del vero dio!"
+
+### u071460
+"Potete uccidermi, servitori dell'imperatore cadavere. Ma non potete fermare la vittoria del vero dio! L'Edge of Daybreak è prossimo... e l'ora del suo trionfo si avvicina!"
+
+### u071461
+{n}Il silenzio dura un minuto. Poi Argenta si volta verso di te e scrolla le spalle con noncuranza.{/n} "Ecco fatto. Abbiamo adempiuto alla richiesta del Reverendo Hieronymus, il che significa che ora sono libera. Posso proseguire i miei viaggi con voi, Rogue Trader."
+
+### u071462
+"Non su {g|Encyclopedia:Footfall}Footfall{/g}." {n}Il cultista ride con voce roca.{/n} "In un altro luogo — è volata dritta dentro, come un uccello in una trappola!"
+
+### u071463
+{n}Argenta fissa il cultista con gli occhi sgranati. Come contro la sua volontà, sussurra due parole,{/n} "Salis Prime."
+
+### u071464
+"Saprai... col tempo." {n}Il cultista ti rivolge un sorriso malvagio dipinto del sangue fresco sulle sue labbra.{/n}
+
+### u071465
+{n}Si riscuote, come se emergesse da un sogno a occhi aperti.{/n} "Un pianeta... un luogo... Non importa! Conosco questi eretici — li ho combattuti e sono stata gravemente ferita. Ma lo giuro — non mi sono mai voltata e non sono mai scappata da loro!"
+
+### u071466
+{n}Si volta verso il cultista, gli occhi pieni di fredda furia.{/n} "Se mi hai davvero vista su Salis Prime, qualcuno tra voi deve conoscere un modo per arrivarci. Avete una nave vostra? Un Navigatore? Rispondimi!"
+
+### u071467
+"Navi e mappe, strade e porte — le abbiamo tutte, ma i nostri sentieri non sono per voi! Il vero dio tesse la sua ragnatela, e tu non sei che una mosca rimasta impigliata. Ma dov'è il ragno?" {n}Gli occhi del cultista si riempiono di follia.{/n}
+
+### u071468
+"Prima di lasciare questa tana — rastrelliamo ciò che resta dei blasfemi. Vorrei purificare questo luogo con la fiamma purificatrice, ma forse troveremo indizi che ci dicano da dove vengono questi eretici, o se hanno altri complici."
+
+### u071469
+"Rogue Trader... non otterremo nulla da questo pazzo! Quanto alla mia parte nella storia, la racconterò — ma non qui, non in sua presenza."
+
+### u071470
+{n}Argenta abbassa la testa con aria stanca.{/n} "Dobbiamo parlare... ma può aspettare. Incontriamoci sulla nave quando sarà il momento di lasciare Footfall."
+
+### u071471
+{n}Stringendo le labbra in una linea sottile, Argenta annuisce con freddezza.{/n} "Come desiderate, Rogue Trader. Addio!"
+
+### u071472
+"Rogue Trader, vi rispetto e rispetto il peso della vostra missione al servizio dell'Imperium. Ma sono una delle Adepta Sororitas, e il mio dovere primario è verso l'Imperatore e l'Ecclesiarchia. Ignorare la richiesta di un sacerdote e rifiutarmi di cercare i cultisti sarebbe stato un abbandono di quel dovere e una trasgressione! È l'unica e sola ragione per cui ho lasciato il vostro fianco e sono venuta qui di persona."
+
+### u071473
+"Non vedi che cerca di provocarti?" {n}borbotta Idira.{/n} "Scommetto che vuole una pallottola in testa, svelta, invece di un rogo." {n}Nonostante il tono, si guarda intorno con ansia e si massaggia le tempie.{/n} "Sa di futuro oscuro... come un cappio al collo..."{g|Encyclopedia:Psyker}{/g}
+
+### u071474
+{n}Pasqal estrae dalla tonaca diversi strumenti. Scommetteresti la vita che lo scopo di questi oggetti non sia smontare macchine. Dice con noncuranza,{/n} "Se doveste incontrare difficoltà durante il processo di estrazione delle informazioni, raccomanderei una mira precisa sui gangli."{g|Encyclopedia:TechPriest}{/g}
+
+### u071475
+{n}Il cultista ridacchia con arroganza ma impallidisce sotto lo sguardo calmo e indagatore di Pasqal.{/n}
+
+### u071476
+"L'Imperatore Imperituro è l'unico vero dio. Lo imparerai presto — quando affronterai il Suo duro giudizio. Come tutti i tuoi complici." {n}La voce di Kibellah è colma di fredda implacabilità.{/n}
+
+### u071477
+"Capisco. Cercare il proprio destino, il proprio posto nel mondo, è una questione speciale, personale. O ci si riesce, o no."
+
+### u071478
+"Immagino che Theodora fosse entusiasta della prospettiva."
+
+### u071479
+"Devo dedurne che mi hai mentito?"
+
+### u071480
+"Le tue azioni sono state dettate dall'arroganza, Argenta. Come se volessi tenere la tua scoperta tutta per te."
+
+### u071481
+"Continua, prego."
+
+### u071482
+"Non devi incolparti. Se gli eretici si fossero davvero infiltrati tra i ranghi dei von Valancius già allora — avrebbero trovato il pianeta anche senza che tu ci andassi."
+
+### u071483
+"Purtroppo l'unico che potrebbe avere tutte le risposte — Kunrad — è fuggito."
+
+### u071484
+"Ed è per questo che prima non ti fidavi di me, giusto?"
+
+### u071485
+"Allora come sei riuscita a scappare dai cultisti?"
+
+### u071486
+"E cosa hai trovato?"
+
+### u071487
+"Quindi, per chiarire, sei rimasta ferita e perciò non hai mai trovato la nave di Santa Argenta, è così?"
+
+### u071488
+"Non c'è nulla che non farei per riconquistare un oggetto sacro per il popolo dell'Imperium."
+
+### u071489
+"Non credo di volerlo fare."
+
+### u071490
+"Molto bene, ti assisterò nella ricerca di Salis Prime e della sua reliquia."
+
+### u071491
+"È stato irresponsabile da parte tua. Se ti fossi fatta uccidere sul pianeta, nessuno avrebbe saputo della sua esistenza, e la sacra reliquia sarebbe andata perduta."
+
+### u071492
+"Se è di nuovo coinvolta l'accursata Alba Finale, è mio dovere aiutarti. Quel culto va ridotto in cenere in tutta la Distesa di Koronus."
+
+### u071493
+"Se sei stata l'unica a capire con cosa avevi a che fare una volta che ti hanno descritto il pianeta, allora questo segreto era tuo e di nessun altro. Come la decisione su cosa farne."
+
+### u071494
+"Hai menzionato qualcosa chiamato 'la One Star' — cos'è?"
+
+### u071495
+"Se per te è importante — ti aiuterò."
+
+### u071496
+"Cercare navi e reliquie antiche è una prospettiva entusiasmante. Certo che ti aiuterò."
+
+### u071497
+"Perché hai taciuto la tua supposizione al Reverendo Hieronymus? Di sicuro avrebbe potuto aiutarti nella ricerca della nave e dei resti della santa."
+
+### u071498
+"Non ho mai nemmeno sentito parlare di un pianeta simile. Appartiene alla dinastia von Valancius?"
+
+### u071499
+{n}Argenta cade in ginocchio, le mani che compongono il segno dell'{g|Encyclopedia:Aquila}Aquila{/g}. I suoi occhi sono fissi sull'ampia firma sul {g|Encyclopedia:Warrant}Mandato{/g} — una cosa apparentemente banale, un semplice svolazzo su un foglio di carta... a meno che non si sappia di chi era la mano che ha lasciato quel segno e il cui sangue è su quella carta.{/n}
+
+### u071500
+"Se in me vedi una colpa — colpiscimi,
+Se conosci una mia caduta — bruciami
+Con fiamme di furia e di rettitudine.
+Ma se in me vedi una luce — concedimi la grazia,
+Se ascolti questa mia supplica — benedicimi
+Con l'ira di furia e di rettitudine." {n}La voce di Argenta è sonora, come fatta per cantare inni e preghiere, ma ora lei non sembra riuscire a riprendere fiato, tanto è sopraffatta dall'emozione.{/n}
+
+### u071501
+"Poiché respiro per Tua volontà,
+Poiché vivo per Tua legge,
+Porto la Tua parola, o Imperatore!
+Reco conforto ai Tuoi servitori,
+E rovina ai Tuoi nemici,
+Un destino di terrore e di rettitudine!" {n}Terminato, chiude gli occhi e resta in silenzio a lungo con la testa alta. Lentamente, come le prime lingue di fuoco in un falò, un sorriso sboccia sulle sue labbra.{/n}
+
+### u071502
+{n}Quando Argenta finalmente riapre gli occhi, sono accesi di una risolutezza sovrannaturale.{/n} "Rogue Trader, dobbiamo parlare. O meglio... devo dirvi una cosa. La verità. La verità su come sono finita sulla nave di Theodora von Valancius e sui cultisti che abbiamo incontrato su {g|Encyclopedia:Footfall}Footfall{/g}."
+
+### u071503
+"Immaginate cosa ho provato quando mi ha colta questo lampo di intuizione. Il mondo dove precipitò la nave di Santa Argenta era solo una vaga leggenda, nessuno ne conosceva l'esatta ubicazione. E all'improvviso io, che porto il nome della santa, mi imbatto in questa informazione! In quel momento ho capito che era un presagio, che dovevo recarmi sul pianeta e trovare la nave. E così ho chiesto al Reverendo Hieronymus di lasciarmi partire per un periodo per un pellegrinaggio personale, sono salita a bordo della nave di Theodora e ho preteso il passaggio verso il pianeta appena scoperto, Salis Prime."
+
+### u071504
+"Una sconfitta," {n}dice Argenta con amarezza.{/n} "Gli {g|Encyclopedia:Augur}augur{/g} della nave non hanno rilevato nulla di rilevante durante la scansione orbitale. Me l'aspettavo, però — secondo la leggenda, la nave può nascondersi all'occhio nudo, e solo un pellegrino guidato da un cuore puro può trovarla."
+
+### u071505
+{n}Argenta ti guarda, un po' sorpresa.{/n} "Pensavo di essere stata chiamata, che trovare la nave fosse il mio destino... Il mio posto nel mondo? Forse... forse c'è qualcosa di vero in questo."
+
+### u071506
+"No!" {n}Le guance di Argenta si arrossano per l'indignazione.{/n} "Sono una delle {g|Encyclopedia:AdeptaSororitas}Adepta Sororitas{/g}, portatrice dei precetti dell'{g|Encyclopedia:Emperor}Imperatore{/g}, e non mento! Io..." {n}Riprende fiato.{/n} "Prima non ero pronta a parlare con voi apertamente."
+
+### u071507
+"Cercate di capire... non potevo fidarmi di voi, prima. Vi racconterò la mia storia, e capirete perché!" {n}Argenta fa una pausa.{/n} "Comincerò dall'inizio — è più facile mettere insieme tutto così. Arrivata nella {g|Encyclopedia:KoronusExpanse}Distesa{/g} e su Footfall, non vi ho trovato alcuno scopo, solo tormento. Non servivo — il reliquiario che mi era stato assegnato da custodire era già ben protetto dalla missione del Reverendo Hieronymus. E nessuno cercava nemmeno di profanarlo — con tutta la sua illegalità, Footfall rispetta il culto dell'{g|Encyclopedia:Emperor}Imperatore{/g}."
+
+### u071508
+"È allora che è comparsa Lady Theodora, capo della vostra dinastia. Lei... è diventata in un certo senso un agente della volontà divina." {n}Argenta esita, cercando le parole.{/n} "È da lei che ho saputo di un pianeta scoperto di recente dai suoi esploratori, Salis Prime. Per un Rogue Trader, il pianeta era di scarso interesse — un mondo selvaggio lontano dalle comode rotte {g|Encyclopedia:Warp}warp{/g}. Ma per me... per me, venire a sapere della sua esistenza è stata una rivelazione."
+
+### u071509
+"La descrizione di Salis Prime mi era familiare. Somigliava moltissimo a un mondo di un'antica leggenda... la leggenda di Santa Argenta e della sua nave." {n}La sua voce si fa reverente.{/n} "Argenta, la Santa Vivente — è la mia patrona, l'ordine mi ha dato il suo nome. È morta millenni fa, quando gli eretici hanno fatto precipitare la sua nave dal cielo."
+
+### u071510
+"Oh sì, e spero sinceramente che lo incontreremo di nuovo! Quel serpente deve rispondere a qualche domanda — prima di essere gettato nella fiamma purificatrice."
+
+### u071511
+"Ne dubito. Nessuno tranne me era particolarmente interessato al pianeta. Kunrad, invece... Mi ha dimostrato simpatia quando sono salita a bordo la prima volta, ha aiutato a organizzare un'udienza con Theodora e mi ha sostenuta nel mio sforzo di visitare il pianeta. Non gli ho mai detto chiaramente perché volessi andarci, ma immagino che quell'avvoltoio abbia capito che si trattava di qualcosa di importante, legato alla santa fede dell'{g|Encyclopedia:Imperium}Imperium{/g}. E cosa può dilettare un eretico più che profanare una reliquia?"
+
+### u071512
+{n}Argenta china il capo.{/n} "La gente di Theodora ha ricevuto la richiesta di soccorso, è venuta in mio aiuto e mi ha portata a bordo della nave. Ricordo a stento cosa è successo — quando sono arrivati, ero già gravemente ferita e combattevo con quel che restava delle mie forze. Credo di aver gridato che dovevamo inseguirli... ma non mi hanno ascoltata. Mi hanno portata sulla navetta e sono partiti. Dopo, è tutto buio... Quando ho ripreso conoscenza, eravamo già nel bel mezzo di un salto warp. Theodora aveva faccende urgenti da sbrigare, e ha deciso che avrebbe ripulito il pianeta in un secondo momento."
+
+### u071513
+"Sì, Rogue Trader." {n}Argenta ti guarda negli occhi.{/n} "Ho visto con i miei occhi come un membro della vostra famiglia mostrasse il suo vero volto di servitore dell'{g|Encyclopedia:Chaos}Arcinemico{/g}. Avevo già subito una sconfitta umiliante per mano dei cultisti e temevo un altro tradimento. Non potevo essere sincera con voi, e così vi ho studiato, cercando semi di corruzione — o la luce della rettitudine."
+
+### u071514
+"{mf|Un uomo che ha combattuto|Una donna che ha combattuto} spalla a spalla con me e ha aiutato a sradicare i cultisti su Footfall." {n}Argenta sorride, come se ricordasse una piacevole serata trascorsa in compagnia di amici anziché una battaglia sanguinosa.{/n}
+
+### u071515
+"Sì! Sono corsa da Theodora appena ho potuto camminare di nuovo, e ho insistito per tornare su Salis Prime a difendere la reliquia dagli eretici. Ma mi è stato detto che il warp aveva distrutto la vecchia rotta verso il pianeta e che tracciarne una nuova avrebbe richiesto molto tempo e fatica. Come se potesse esserci qualcosa di più importante che proteggere la fede e dare la caccia ai servitori dell'Arcinemico!"
+
+### u071516
+"Comunque sia... la rotta è andata perduta, e ogni conoscenza di essa è morta nell'attacco alla nave insieme al vecchio Navigatore. Ma ora abbiamo una nuova pista — i dati che abbiamo raccolto nel santuario dei cultisti su Footfall. Non mi importa cosa ha detto quel reprobo che abbiamo giustiziato — dev'esserci un modo per rintracciarli. Ditemi, Rogue Trader... mi aiuterete in questa impresa? Mi aiuterete a trovare questa grande reliquia e a restituirla al popolo dell'Imperium?"
+
+### u071517
+"Ma come potete non... È come se non foste migliore di Theodora! La protezione delle reliquie è il dovere di ogni fedele servitore dell'Imperatore. Se rifiutate di intraprendere questa missione, non potrò più seguirvi e partirò in cerca di altri alleati."
+
+### u071518
+{n}Argenta si avvicina e ti posa la mano sulla spalla.{/n} "Così sia, Rogue Trader. Qui davanti al Mandato, incarnazione della volontà dell'Imperatore segnata dalla Sua stessa mano, giuro che non cederò finché la sacra reliquia non sarà restituita e gli eretici puniti. E che la luce sia con entrambi su questo cammino!"
+
+### u071519
+"Allora questa conversazione è stata inutile! In tal caso — addio. Lascerò la nave alla prima occasione per continuare la mia ricerca da sola!"
+
+### u071520
+"Sono rimasta spiazzata da ciò che avete detto. Gli avete parlato con severità dell'importanza di afferrare le redini del proprio destino, invece di affrettarvi a consolarlo. Erano... parole coraggiose. Sincere. Il fatto che fossero rivolte a un ragazzo sconsiderato non ne sminuisce il valore. In quel momento vi ho visto sotto una nuova luce."
+
+### u071521
+"Sì. Ora il pianeta è vostro di diritto. Ma non è così semplice — la rotta warp che vi conduceva è andata perduta. Spiegherò a tempo debito. Posso continuare?"
+
+### u071522
+"Ma nemmeno quei blasfemi hanno potuto toccare le ceneri di Argenta né la sua sacra reliquia, la One Star. Poiché la nave caduta, che ora serviva da luogo di riposo per i resti della santa, avrebbe permesso di entrare solo ai veramente giusti — tutti gli altri avrebbero trovato la morte."
+
+### u071523
+"Quello che non mi aspettavo era un'imboscata ad attenderci sul pianeta! Sono atterrata là con una piccola unità fornita da Theodora. Conosco a memoria l'agiografia di Santa Argenta, conosco tutte le leggende su di lei. Ho seguito i loro oscuri indizi — le descrizioni di montagne e fiumi tratte da racconti millenari. Ed ero certa di aver trovato la strada per la nave! Ed è allora che siamo stati attaccati."
+
+### u071524
+"Sono lieta che mi capiate. Ero stata chiamata! E quindi era affare mio e mio soltanto."
+
+### u071525
+"Le parole che abbiamo sentito nel santuario degli eretici su Footfall. Qualcosa su vie, porte, suppliche rivolte a un certo 'signore', l'Edge of Daybreak." {n}Argenta trema di disgusto.{/n} "Erano le stesse parole pronunciate dai cultisti che ci hanno attaccati su Salis Prime. La mia intera unità è perita. Tutte quelle persone oneste e coraggiose che avevo guidato alla ricerca della reliquia. È stato solo per miracolo che non sono perita con loro!"
+
+### u071526
+"All'inizio non ho collegato questi eventi. I cultisti su Footfall. I cultisti su Salis Prime. I cultisti che attaccano la nave e il tradimento di Kunrad. E se fossero tutti anelli della stessa catena? E se si fossero infiltrati da tempo tra i servitori dei von Valancius? E se io... se avessi condotto quegli eretici sul pianeta sacro con la mia ricerca?"
+
+### u071527
+"Vi siete {mf|rifiutato|rifiutata} di chiudere un occhio sull'insolenza, anche quando veniva da un ragazzo sconsiderato. È segno di un capo saldo, Rogue Trader, che non tollera la debolezza. L'Imperium ha bisogno di persone come voi."
+
+### u071528
+"Le sacre reliquie non possono andare davvero perdute," {n}dice Argenta con ostinazione.{/n} "Quando sarà il momento, si rivelano ai degni. Ma accetto questo rimprovero e cercherò di rifletterci al meglio."
+
+### u071529
+"All'inizio ho pensato che fosse una decisione troppo dura far entrare lui e gli altri orfani nella Gilda dell'Infernus. Ma poi ne ho visto la saggezza: avete insegnato loro ad assumersi la responsabilità delle proprie parole, avete lasciato che fossero temprati dalle difficoltà e imparassero il significato del sacrificio e del servizio. Perché questo è l'unico modo per forgiare i Suoi servitori più autentici!"
+
+### u071530
+"Anche se la mia opinione su di voi aveva cominciato a cambiare già prima — quando avete accettato di parlare con gli orfani su mia richiesta. Un capo disposto a onorare coloro che hanno dato la vita per lui e a prendersi cura dei loro figli è un capo che ispira fiducia. E il modo in cui vi siete {mf|comportato|comportata} in quel momento..."
+
+### u071531
+"Non avete chiuso un occhio sulla sua cattiva azione, ma avete scelto le parole giuste per mostrargli la via della redenzione. È stato duro, ma necessario — come la verità dell'Imperatore, come una medicina amara che aiuta i malati. Ho imparato molto su di voi in quel momento, Rogue Trader, e voglio credere di non essermi sbagliata nel mio giudizio."
+
+### u071532
+"Avete trovato le parole che potevano confortarlo. Non l'avete punito, non l'avete spaventato con una mostra di austerità. Avete persino ammesso di non essere onnipotente! Mi ha sorpresa. All'inizio l'ho persino considerata una debolezza. Ma dopo averci riflettuto, ne ho visto la saggezza. Il modo in cui vi siete {mf|rivolto|rivolta} apertamente al ragazzo sconsiderato vi fa onore, Rogue Trader."
+
+### u071533
+"Ricordi? C'era un giovane il cui dolore e la cui confusione lo avevano spinto all'insolenza."
+
+### u071534
+"Io... non potevo semplicemente venire a dirglielo. Era un presagio rivelato a me personalmente, non lo vedete? Ho detto al Reverendo Hieronymus la pura verità — che partivo per un pellegrinaggio personale per rafforzare il mio spirito. Era davvero un pellegrinaggio — era come se Santa Argenta in persona mi avesse mostrato la via, ordinandomi di affrontare questa prova. Se avessi trovato la nave e avessi messo piede sui suoi ponti, se avessi posato la mano sui suoi resti e sulla reliquia — sarebbe stato un segno che ero davvero stata benedetta dal favore della santa."
+
+### u071535
+"Lady Theodora... ha prestato il suo aiuto. Era sua intenzione visitare il mondo appena scoperto, e mi ha portata con sé."
+
+### u071536
+{n}Argenta si morde il labbro.{/n} "Mi sospettate di impulsi indegni. Ma accetto questo rimprovero e cercherò di rifletterci al meglio. Le {g|Encyclopedia:AdeptaSororitas}Sorelle{/g} conoscono il significato dell'umiltà..."
+
+### u071537
+"Scusatemi, mi sono lasciata così trasportare che ho dimenticato di spiegare! La One Star è la reliquia custodita da Santa Argenta. Appartengo all'Ordine Pronatus, e noi attribuiamo un significato particolare alle sacre reliquie. La One Star è una delle reliquie perdute del passato, così misteriosa che nessuno sa nemmeno cosa sia esattamente. L'agiografia di Argenta la chiama a volte uno stendardo, o un'armatura, o una benedetta spada a catena. Una cosa è certa — era un faro di rettitudine, ed è andata perduta con la morte di Argenta."
+
+### u071538
+"Il più forte tra i discepoli sopravvissuti, vuoi dire. Dopotutto, abbiamo sterminato tutti gli altri di voi in ogni mondo in cui vi abbiamo trovati."
+
+### u071539
+"Di nuovo voialtri."
+
+### u071540
+"Argenta, fermati! Non sei in te. Questa rabbia ti distruggerà."
+
+### u071541
+"Dove ti nascondi, eretico? Esci e parla con noi faccia a faccia."
+
+### u071542
+"Troppo facilmente dimentichi il sangue che viene versato a causa tua, e troppo spesso ti proclami eletta dell'Imperatore e dei Suoi santi."
+
+### u071543
+"Hai ragione. Lui non ci porterà fuori strada."
+
+### u071544
+"Perché trattenere la tua ira quando hai a che fare con una creatura corrotta come lui? Scatena la tua furia!"
+
+### u071545
+"Stai compiendo l'opera dell'Imperatore. Riduci in polvere questa cosa vile."
+
+### u071546
+"Argenta, basta così. Questo dispositivo non può farci più alcun male."
+
+### u071547
+"Il rimorso è il primo passo per fare ammenda. Fai quel passo, e poi il successivo. Verso la morte del tuo nemico e la salvezza della reliquia!"
+
+### u071548
+"Non abbiamo tempo per i rimpianti sul passato. Dobbiamo concentrarci sul migliorare ciò che possiamo nel presente."
+
+### u071549
+"Da dove viene questo abbattimento? Preferisco di gran lunga l'Argenta che affronta i suoi problemi con il bolter pronto."
+
+### u071550
+{n}Una sagoma ondeggiante appare dove convergono i raggi di luce provenienti dal dispositivo stregonesco.{/n} "Ah, la piccola marionetta dei dogmi. Colei che è stata così gentile da portare me e i miei fratelli su questo pianeta. Sei tornata da me. E giusto al momento giusto!"
+
+### u071551
+{n}La furia scintilla negli occhi di Argenta.{/n} "Chi sei? Non ti conosco, stregone!"
+
+### u071552
+"No, non mi conosci. Ma dovresti. Mi chiamano Fratello Afterlight. La benedizione divina scorre nelle mie vene, e le mie orecchie odono sussurri della verità che tu non comprenderai mai, marionetta. Tutto ciò che devi sapere è che tra tutti i discepoli dell'Alba Finale in questo angolo della Distesa di Koronus, io sono il più forte."
+
+### u071553
+"Bene, basta così. La piccola marionetta ha portato con sé degli amici. Bene. Ho appena finito con i resti dell'ultimo gruppo di sciocchi che hanno rischiato di venire su questo pianeta con te. Ricordi le loro grida di morte, vero? O le vite di semplici pedine non significano nulla per te?"
+
+### u071554
+"Ma basta con questo. Il mio cammino è appena iniziato, e desidero ardentemente vedere l'agonia degli eretici. Venite!"
+
+### u071555
+{n}La figura spettrale scoppia a ridere.{/n} "Sento una tale tracotanza nelle tue parole. Ciò che dovrei sentire è disperazione. O non l'hai ancora capito, {mf|straniero|straniera}? Stai combattendo una guerra contro un oceano senza fine. Non importa quanti dei miei fratelli e sorelle abbatterai, coloro che si uniranno ai nostri ranghi saranno sempre in numero maggiore."
+
+### u071556
+"Vedo che conosci i miei confratelli di fede. Se è così, devi sapere anche che siamo senza numero. Distruggi la nostra cellula su un mondo, e noi alzeremo la testa su una dozzina di altri."
+
+### u071557
+"Nascondermi? Io? Oh, ti aspettavi che mi affrettassi a venirti incontro? Magari a organizzare un comitato di benvenuto?"
+
+### u071558
+{n}Nella sua furia incontrollata, Argenta continua a scagliare distruzione sul dispositivo stregonesco. Le schegge volano in ogni direzione, alcune lasciandole tagli profondi sul viso.{/n}
+
+### u071559
+"Ma... Ma io pensavo..." {n}Argenta agita una mano con frustrazione, come a fendere l'aria.{/n} "I vostri rimproveri pesano, Rogue Trader. Ma dovremmo tornare alla nostra missione. Il nostro nemico ci attende, e anche una reliquia che ha bisogno di protezione. Andiamo!"
+
+### u071560
+{n}Argenta abbassa l'arma e china la testa.{/n} "Errori così dolorosi... Ho portato degli eretici su una nave sacra, ho perso la battaglia per una sacra reliquia, e ho lasciato che coloro che mi seguivano morissero di una morte terribile. Tutto perché avevo deciso di poter ottenere tutto da sola, che fosse il mio scopo e solo mio!"
+
+### u071561
+{n}Argenta abbassa l'arma. Un respiro le sfugge dalle labbra.{/n} "Quell'eretico cercava deliberatamente di risvegliare la mia ira. Ha {d|Encyclopedia:CompArgenta_SupportedFire}torto{/d} a pensare di poter manipolare la prescelta della Sacra Terra."
+
+### u071562
+"Perché temere qualcosa di giusto come la mia ira? E perché cercate così all'improvviso di trattenermi, Rogue Trader? Non mi avete forse {d|Encyclopedia:CompArgenta_SupportedFury}sostenuta{/d} nel mio diritto di brandire la mia furia, prima?"
+
+### u071563
+"Avete concordato che la morte di Theodora e quella dei suoi protettori fossero giustificate."
+
+### u071564
+"Mi avete persino lasciato sterminare la vostra strega addomesticata."
+
+### u071565
+"Infatti. È quello che ho fatto. Ed è quello che continuerò a fare. Non lascerò che le ombre del dubbio offuschino di nuovo la mia mente."
+
+### u071566
+"Mi avete detto più di una volta di prestare più attenzione agli errori che commetto," {n}dice Argenta con amarezza.{/n} "Ma ora non è il momento di questa conversazione. Dobbiamo fermare quel mostro e proteggere la reliquia. Andiamo!"
+
+### u071567
+"L'Imperatore ha accolto le anime dei Suoi fedeli!"
+
+### u071568
+"Sono morti maledicendo il tuo nome. Il nome della marionetta che li aveva condotti al massacro e poi è sfuggita da sola con la vita."
+
+### u071569
+"Basta! Taci!"
+
+### u071570
+"Mai. Il male non può respingere una fiamma giusta. Allora andiamo a porre fine a questo male!"
+
+### u071571
+"Forse... forse avete ragione, Rogue Trader. La furia giusta non deve conoscere limiti!"
+
+### u071572
+"Avete ragione. Avete {d|Encyclopedia:CompArgenta_SupportedMeek}mille volte{/d} ragione, Rogue Trader! Provo rimorso, ed espierò i miei errori. Andiamo!"
+
+### u071573
+"Basta parole. Accetta la tua morte, eretico!"
+
+### u071574
+"Se non mi avessi minacciata, le cose sarebbero potute andare diversamente. Ma l'hai fatto. E per questo morirai."
+
+### u071575
+"Arci-artefice, dici? Sono {mf|incuriosito|incuriosita}. Cosa diresti se ti offrissi Argenta in cambio di una delle tue creazioni?"
+
+### u071576
+"E così ci incontriamo faccia a faccia." {n}Afterlight non sembra allarmato né teso, solo un po' perplesso.{/n} "Benvenuti nel mio tempio."
+
+### u071577
+"Non avete idea di quanto vi sbagliate." {n}Afterlight indica con un cenno la nave immobile e i sinistri dispositivi vicini.{/n} "Da molto tempo mi preparo a piegare questa 'reliquia' del vostro culto di marionette alla volontà del mio padrone. Voi lacchè dell'Imperium siete ciechi, ostinati, e portate ovunque il fetore della carne morta. Ma fate dei buoni sacrifici, e i ninnoli che adorate fanno degli ottimi materiali per gli artefatti."
+
+### u071578
+"Cosa? Come puoi persino—"
+
+### u071579
+{n}Afterlight sorride debolmente e con freddezza.{/n} "Accetto."
+
+### u071580
+"Questa marionetta sarà sacrificata al mio padrone. Che l'angoscia della sua anima diventi una delizia al banchetto dell'Edge of Daybreak! Quanto a te... Prendi la tua ricompensa. Credimi, non ne rimarrai deluso!"
+
+### u071581
+"Sentite l'ira della vera divinità, marionette del cadavere!"
+
+### u071582
+"Ogni tua parola contamina l'aria di questo luogo, eretico. La soglia della nave sacra non è il tuo tempio, e non lo sarà mai!"
+
+### u071583
+"Io sono il creatore di miracoli, l'arci-artefice dell'Alba Finale. Le mie mani plasmano creazioni capaci di trasformare la realtà. Flauti d'osso che evocano dall'Immaterium gli angeli del mio padrone. Lenti che bruciano le imperfezioni di persone e mondi. Cose simili richiedono risorse. Ho trovato un buon uso per la marmaglia che è venuta con te sul pianeta allora. Troverò un uso anche per i tuoi nuovi amici. E per te. E per questa nave. E per qualunque 'reliquia' contenga."
+
+### u071584
+"Puoi andare. Ma non farmi attendere."
+
+### u071585
+"Parli come se intendessi entrare da sola."
+
+### u071586
+"E se anch'io volessi entrare nella nave?"
+
+### u071587
+"Va', Argenta. Che tu possa trovare ciò che cerchi."
+
+### u071588
+"Sì. Questa... Questa è la mia prova personale, Rogue Trader. Inoltre, così è scritto nella vita di Santa Argenta, che i pellegrini possono entrare nella nave uno alla volta, perché le loro azioni devono prima essere valutate. Ogni pellegrino potrà poi contemplare la reliquia o vedersi negato tale diritto secondo le proprie azioni passate e la forza della propria fede."
+
+### u071589
+{n}Argenta ti fa cenno di fermarti. Guarda l'ingresso luminoso della nave e comincia a parlare, piano e con solennità.{/n} "Quando ho saputo per la prima volta dell'esistenza di questo pianeta, della grande reliquia che giace davanti a noi, ho deciso di essere stata scelta per un grande destino. Che la santa di cui porto il nome mi avesse chiamata, mi avesse condotta attraverso il vuoto e gli incubi della Fauce, tutto perché potessi entrare nelle sacre sale di questa nave e accogliere il suo dono."
+
+### u071590
+"Forse c'era troppa arroganza in quei pensieri. Ho commesso molti errori nel venire qui. Il mio pellegrinaggio verso la nave sacra diventerà la mia prova. Eppure non temo le prove, perché da esse traggo forza. Non volto le spalle ai miei errori, perché vi trovo saggezza. Avanzo a cuore aperto."
+
+### u071591
+"E ora, più che mai, credo di aver avuto ragione. Il mio viaggio fin qui è stato pagato col sangue di innocenti caduti, ma il loro sacrificio non sarà vano! Entrerò nelle sale della nave consacrata. Poserò la mano sulla reliquia e troverò nuova forza per rivolgere la mia ira contro i malvagi."
+
+### u071592
+"Ma lasciamo perdere!" {n}L'amarezza si insinua nella voce di Argenta.{/n} "Mi credevo speciale, prescelta, più degna di tutte le mie sorelle già quando ero novizia. Orgoglio. Ero accecata dall'orgoglio. In realtà, ogni passo del mio cammino fin qui è stato carico di errori."
+
+### u071593
+"Mi sono fidata di Theodora e Kunrad, non ho visto l'oscurità nei loro cuori, e così facendo ho rivelato il segreto della reliquia agli eretici dell'Alba Finale. Nella mia ricerca della nave sacra, mi sono lanciata in una spedizione avventata che ha fatto uccidere i miei compagni e ha quasi ucciso me. Poi, spinta da una furia cieca, ho ucciso Theodora e i suoi innocenti protettori. Ho reso orfani fedeli figli dell'Imperium. Ho mentito e tenuto nascosta la verità."
+
+### u071594
+{n}Argenta annuisce. I suoi occhi sono fissi sull'ingresso.{/n} "Solo i degni, coloro che la santa accetta, possono varcare queste porte. Gli immeritevoli saranno respinti. Io... sono pronta ad accettare il suo verdetto."
+
+### u071595
+"Potete, ma... dovete attendere il mio ritorno. Vi prego di capire che questa nave è più di un semplice curioso sito antico in attesa di essere esplorato! La nave stessa è una reliquia pervasa di grande potere. L'avete visto voi stessi — persino un sinistro stregone, servitore dell'Arcinemico, in tutto questo tempo non ha trovato il modo di entrare. Solo i pellegrini possono entrare, e solo quelli la cui anima è senza macchia."
+
+### u071596
+{n}La voce di Ulfar è seria e calma, priva della consueta spavalderia.{/n} "Sono un guerriero integerrimo del Padre di Tutti, ma il mio cuore difficilmente si può dire incontaminato. Tuttavia, è dovere di un Lupo proteggere il branco del Padre di Tutti senza paura. Sono pronto a salire a bordo di questa sacra nave con te e a fare da guardia contro qualsiasi minaccia si celi all'interno. Non mi curo delle conseguenze."
+
+### u071597
+{n}Argenta sorride dolcemente.{/n} "Grazie, valoroso Ulfar. Non si potrebbe chiedere un protettore più affidabile e vigile. Ma oggi non avrò bisogno di appoggiarmi alla tua possente spalla."
+

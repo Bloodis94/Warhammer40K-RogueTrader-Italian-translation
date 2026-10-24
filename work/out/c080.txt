@@ -1,0 +1,693 @@
+### u030030
+{n}Eogunn annuisce e torna a esaminare il servoteschio.{/n}
+
+### u030031
+"Vi prego di non rigirare il coltello nella piaga, Rogue Trader. Ciò che quella profana abominazione ha fatto a Nuncius mi ha ferito più profondamente di tutte le lame con cui ha seviziato il mio corpo! Ho vegliato in via diagnostica sul mio carissimo collega: devo completare i protocolli di purificazione per estirpare qualsiasi corruzione si sia insinuata in lui. Finora, tuttavia, la prognosi è ottimistica: l'integrità dei suoi cogita-circuiti è intatta e la funzionalità corrisponde alle misure normali."
+
+### u030032
+"E {d|Encyclopedia:Ch3_TalkWithHaemunculusAboutNuncius}gli avete creduto?{/d} Quello xenos non riusciva a comprendere il funzionamento dei miei impianti e li definiva 'primitivi' nel tentativo di velare la sua vergognosa ignoranza con gli insulti. Come potrebbe, dunque, comprendere la tecnologia sofisticatissima che scorre dentro Nuncius? Ho dissezionato xenos come quello, Rogue Trader: la loro stessa essenza è intessuta di menzogne."
+
+### u030033
+{n}Con un profondo sospiro, Eogunn abbassa le mani che reggono il servoteschio e ti guarda negli occhi.{/n} "Rogue Trader, sapete che nutro una stima altissima delle vostre capacità intellettuali e delle vostre qualità personali. Ma siete, nondimeno, {mf|un profano|una profana}. Non avete compreso i misteri del Dio-Macchina. Non avete studiato gli esoterici misteri della comunicazione con gli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g}. Non siete {mf|versato|versata} nei principi della sacra ingegneria e dei protocolli ermetici di augmentazione. Nuncius è un costrutto unico nel suo genere: non può essere compreso semplicemente guardando..."
+
+### u030034
+{n}Eogunn smette bruscamente di parlare e sbircia oltre la spalla, come se ascoltasse qualcuno: sta guardando il punto in cui di solito aleggia il suo carissimo collega. Dopo qualche istante, il Tecnoprete annuisce all'aria vuota.{/n} "Avete ragione, Nuncius, sono stato troppo severo con il Rogue Trader. La tensione di questo luogo mi ha messo a dura prova. Dovrei sforzarmi di emulare la vostra fermezza. Porgerò le mie scuse, e poi potrete aiutarmi a rimettervi in sesto."
+
+### u030035
+"Sono giunto alla conclusione che l'unica decisione corretta, nel contesto di questo esperimento, era non condurlo affatto. I miei metodi erano corretti e le mie intenzioni buone, ma mi sono aggrappato alla mia ipotesi fino all'ultimo, in cieca sfida degli argomenti di Nuncius e della realtà oggettiva. Cercavo di strizzare utilità da quelle persone come si strizza carica da una batteria morente. Ma per quanto bene e a lungo una batteria abbia servito in passato, quando è finalmente esausta, la risposta più razionale non è forse smaltirla e sostituirla con una nuova? La rettitudine è un tratto di queste persone, ma non è la loro funzione primaria. Ora lo vedo."
+
+### u030036
+"Al mio carissimo collega, Nuncius, a chi altri mai...?"
+
+### u030037
+{n}Senza distogliere lo sguardo dall'esame di Nuncius, Eogunn annuisce.{/n} "Rogue Trader?"
+
+### u030038
+"No, Rogue Trader, vi ho fatto un voto. La mia mente è troppo vecchia e angosciata. Non mi resta più la forza di fuggire: Amsanct attende."
+
+### u030039
+{n}L'occhio organico di Eogunn è chiuso. Con le dita giunte a campanile, appoggia le mani sullo stomaco. Sul suo volto c'è un'espressione di profonda pace. Senza aprire l'occhio, dice:{/n} "Il {g|Encyclopedia:Magos}Magos{/g} Biologis Eurystheus Octo-Rubedo declamò: 'Ogni organismo, nato per natura, carne dalla carne, conosce la paura. Ma il terrore supremo di un organismo organico è invariabilmente evocato dalla minaccia dell'annientamento.'"
+
+### u030040
+"Il rango di {g|Encyclopedia:Genetor}Genetor{/g} mi concede il diritto di studiare la loro ripugnante anatomia e il loro comportamento allo scopo di individuarne le debolezze. Ho dissezionato di persona più di un esemplare e ho persino conservato specifiche parti del corpo per ulteriori indagini. Ricerco e studio la loro tecnologia allo stesso fine. Non c'è vergogna nell'usare le armi dei nostri nemici contro di loro, qualunque cosa dicano certi colleghi di vedute ristrette!"
+
+### u030041
+"Apprezzo la vostra moderazione, Rogue Trader. Nella mia esperienza, parole simili rivolte a me non costituiscono una domanda, ma un'accusa. Non tenterò di convincervi della mia rettitudine, ma esporrò alcuni fatti che potrete usare come base per trarre le vostre conclusioni."
+
+### u030042
+"Di tipo mitico, diciamo. Oggetto delle mie ricerche è un'antica xenociviltà dall'avanzamento insolito. Alcuni tra il {g|Encyclopedia:AdeptusMechanicusGlossary}clero tecnologico{/g} li chiamano Nephilimech, ritenendoli le prime creazioni dell'Omnissiah. Altri li chiamano anatemi di ferro, considerandoli progenie dell'Intelligenza Abominevole. Ma gli iniziati li conoscono come Necron, e credetemi, la mano del Dio-Macchina non ha mai toccato queste mostruose creature."
+
+### u030043
+{n}Dai marinai del vuoto ubriachi hai sentito racconti agghiaccianti e supposizioni su creature di metallo che non conoscono la morte. Nessuna di quelle storie è mai sembrata plausibile, figurarsi convincente.{/n}
+
+### u030044
+{n}Non hai mai sentito parlare di simili xenos.{/n}
+
+### u030045
+"Ho incontrato incongruenze nelle mie ricerche. Colonie fantasma con tracce fresche che corrispondono alle descrizioni di questi xenos in varie fonti. Spedizioni dell'Adeptus Mechanicus che si sono addentrate in rovine di ossidiana senza mai fare ritorno. Lacune negli archivi di conoscenza di singoli mondi, come se qualcuno avesse tentato di nascondere informazioni. Isolatamente, sono tutte coincidenze inspiegate, ma se analizzo la frequenza cumulativa degli eventi e dei sistemi in cui si sono verificati, e la confronto con le poche cose che so, posso individuare certi schemi. Gli antichi xenos stanno manifestando attività."
+
+### u030046
+{n}Sembra più di una convinzione: ha incontrato questi xenos mitici, o ci è andato molto vicino.{/n}
+
+### u030047
+{n}Nella migliore delle ipotesi sembra una speculazione infondata, nella peggiore dei sogni spacciati per realtà.{/n}
+
+### u030048
+{n}Il suo sorriso è enigmatico.{/n} "Una domanda interessante. Vi risponderò con un'altra: potrei raccontare a un profano di un simile incontro, senza infrangere i miei voti al {g|Encyclopedia:CultMechanicus}Cult Mechanicus{/g}? Questa domanda non richiede risposta: è solo uno spunto di riflessione."
+
+### u030049
+"È proprio questo il bello: non lo so!" {n}Eogunn lo dice con gioia, come se non sapere qualcosa fosse per lui un'intrigante novità.{/n} "Ehm, permettetemi di precisare. Comprende oggetti per lo più di forme regolari (cubi, sfere, cilindri) fatti di pietra o metallo nero sconosciuto. Molti sono ricoperti di glifi o motivi che non si possono decifrare. Affascinanti ninnoli che ho passato anni a studiare, senza mai andare oltre fragili teorie che non si possono confermare sperimentalmente."
+
+### u030050
+"Attendo con impazienza di vedere quale nuovo argomento di discussione proporrete."
+
+### u030051
+"Ho considerato innumerevoli combinazioni di possibili azioni, circostanze e probabilità. Ahimè, finora la soluzione più solida e prevedibile è l'autodistruzione. Notate che non sto suggerendo che imbocchiate questa strada."
+
+### u030052
+"Tuttavia, se si volessero ignorare queste previsioni pessimistiche e partire dall'ipotesi che fuggire da questo luogo sia addirittura possibile, la nostra migliore possibilità è approfittare delle lotte intestine degli xenos. Durante il periodo in cui sono stato soggetto degli esperimenti dell'Haemonculus, sono giunto alla conclusione che orgoglio e invidia sono inerenti non soltanto a lui, ma all'intera sua maledetta specie. Lo xenos tramerà e cospirerà: su questo non ci sono dubbi. L'unica questione è: quando verrà intrappolato nella sua stessa ragnatela di intrighi? In teoria, quella sarà la nostra occasione."
+
+### u030053
+{n}Nuncius, il cui aspetto ricorda l'inevitabile fine, ti fissa con le sue orbite vuote.{/n}
+
+### u030054
+"Ed è questo che ci unisce. Una risposta sincera: è raro {mf|il sovrano|la sovrana} che ammette di temere alcunché."
+
+### u030055
+"Pensavo di poter giovare all'Imperium creando persone veramente giuste. Ma non avevo considerato che ogni persona nell'Imperium ha già un ruolo e una funzione. Come i componenti di una macchina, ciascuno operante secondo il proprio scopo, le persone che adempiono la loro funzione sono già giuste. Questo è un fatto incontrovertibile. Tentare di assemblarle in qualcosa di nuovo le priva della loro funzionalità e, di conseguenza, della loro purezza spirituale. Ho commesso la trasgressione dell'innovazione, ma con esseri umani, e per questo mi sono già assegnato un'adeguata penitenza."
+
+### u030056
+"Perché è ciò che ci spinge a compiere le cose che danno alla vita significato e dignità. Siete {mf|un uomo coraggioso|una donna coraggiosa}, Rogue Trader."
+
+### u030057
+"Perché la vita è così fugace, dopotutto: perché gravarla di altre paure e rimpianti? Questa è la risposta di una persona radicata nella realtà e assetata di vita."
+
+### u030058
+"Le ambizioni sostenute dalla volontà spesso oltrepassano il limite del possibile. Sarei interessato ad assistere al momento in cui realizzerete le vostre."
+
+### u030059
+"Grazie per aver assecondato la mia curiosità. Ora tocca a voi scegliere l'argomento di conversazione."
+
+### u030060
+{n}L'erudito e complesso costrutto sceglie di non commentare la tua arguta osservazione.{/n}
+
+### u030061
+{n}In verità, nello sguardo del servoteschio non scorgi neppure un briciolo di gelosia.{/n}
+
+### u030062
+{n}Il servoteschio ignora la tua generosa offerta.{/n}
+
+### u030063
+"Il mio carissimo collega dice che non ha alcuna intenzione di lasciare il mio fianco. Temo che lui e io siamo inseparabili. Se siete così {mf|affascinato|affascinata} da lui, siete {mf|certo|certa} di non essere {mf|disposto|disposta} a tollerare la mia presenza sulla nave, non fosse che per amore della sua compagnia?"
+
+### u030064
+"Fatto primo. Il mio interesse per gli xenos si scambia facilmente per una propensione. Non lo è. Non li trovo più attraenti di un cadavere vivisezionato per accertare quale malattia ne abbia causato la fine. Sono oggetti che studio per rispondere a una semplice domanda: come possono essere distrutti nel modo più efficace?"
+
+### u030065
+"Fatto secondo. Certe specie di xenos esibiscono competenza tecnologica. Le loro armi e i loro artefatti possiedono proprietà distruttive e utilitarie che potrebbero accrescere la potenza dell'Imperium. Studiando queste proprietà, trovo il modo di tradurle nelle tecnologie che il Dio-Macchina ci ha donato. Nessun empio atto di innovazione viene commesso: paragono questa ricerca alla creazione di nuovi modelli di produzione."
+
+### u030066
+"Fatto terzo, e ultimo. La mia ricerca è volta unicamente a far progredire la Ricerca della Conoscenza e a rafforzare l'Imperium. Benché una certa audacia possa essere inerente al mio lavoro, osservo i dogmi e seguo i giusti algoritmi del Cult Mechanicus. Qui termina la presentazione della mia posizione."
+
+### u030067
+"Forse il mio approccio è fondamentalmente errato, o gli oggetti non sono funzionanti. O forse semplicemente non vogliono che qualcuno estirpi i loro segreti? È un mistero! Un mistero stimolante!"
+
+### u030068
+"Il mio carissimo collega soddisfa ampiamente ogni altra esigenza di comunicazione."
+
+### u030069
+{n}Con il suo silenzio, Nuncius chiarisce che l'esigenza di comunicare per discutere ulteriormente è stata decisamente soddisfatta.{/n}
+
+### u030070
+{n}Il servoteschio immobilizzato non mostra segni di vita.{/n}
+
+### u030071
+{n}Eogunn guarda confuso il servoteschio che tiene in mano, poi oltre la spalla{/n}. "Ma... Come... No. Non può essere. Perché lo sento." {n}Le sue labbra tremano e le dita si serrano e si distendono. Ha un aspetto pietoso, smarrito. Portandosi una mano alla tempia, stringe forte gli occhi, sforzandosi disperatamente di ricordare qualcosa. All'improvviso gli occhi si spalancano e senti un gemito strozzato. Ti guarda, sbalordito.{/n}
+
+### u030072
+{n}Lo schermo video della tavoletta dati mostra il testo seguente: "Autorizzazione ricevuta. Ultimo registro disponibile: assegnazione all'unità Eogunn Februs, Stygies VIII. L'assegnazione è stata effettuata dopo l'assemblaggio e la consacrazione dei meccanismi dell'unità 17-401 nell'Officina Zenta-8. Da allora, la funzione di registrazione è sospesa in attesa di una litania di riattivazione."{/n}
+
+### u030073
+"Cosa? È inconcepibile! Quel maledetto xenos deve aver violato l'integrità dei registri. Nuncius, che cosa ti ha fatto?"
+
+### u030074
+{n}La tavoletta dati riporta: "Errore. L'identificativo richiesto 'Nuncius' non è riconosciuto. L'unità 17-401 sta elaborando la richiesta: l'integrità strutturale dei registri è intatta. Nessuna manomissione rilevata nel cogitatore cranico."{/n}
+
+### u030075
+"E sotto di esse, nel profondo della luna stessa, si trova un labirinto di archivi e laboratori, dove molti saggi coltivano la conoscenza e conducono esperimenti in nome della comprensione della volontà del {g|Encyclopedia:OmnissiahGlossary}Dio-Macchina{/g}. Nuncius e io vi abbiamo trascorso l'adolescenza e parte dell'età adulta prima che ci fosse permesso di lasciare le nostre celle per le cabine delle navi da spedizione e le tende dei campi. Mi manca la mia casa, ma non rimpiango di averla lasciata, perché la stagnazione è nemica della Conoscenza."
+
+### u030076
+"Si è costretti a portare un certo stigma, vivendo su Stygies VIII. Certe... dispute teologiche spesso conducono a conflitti con i nostri confratelli del clero. Il nero simboleggia la nostra riservatezza e alterità, mentre con il rosso sottolineiamo la purezza della nostra fede nell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g} e la nostra comunione con il resto del Cult Mechanicus."
+
+### u030077
+{n}Eogunn guarda Nuncius, dopodiché annuisce.{/n} "I Tecnopreti di Stygies VIII sono tenacissimi nell'acquisizione di campioni di xenotecnologia. Secondo la nostra dottrina, qualsiasi metodo usato per ottenere un vantaggio sui nemici dell'Umanità è giustificato, purché non oltrepassi il confine dell'eresia. Come avrete intuito, dove esattamente si trovi quel confine è oggetto di dibattito e discordia da secoli."
+
+### u030078
+{n}Eogunn agita la mano con aria sprezzante.{/n} "Il genere di battibecchi sull'interpretazione di antichi dogmi che sorgono inevitabilmente ovunque due Tecnopreti si incrocino. Un profano che tenti di capire queste discussioni non otterrà altro che il mal di testa."
+
+### u030079
+"Ciò significa che spesso siamo costretti a garantire un certo livello di segretezza nel nostro lavoro, il che non fa che accrescere i sospetti sul nostro mondo. Ma per la vittoria dell'{g|Encyclopedia:ImperiumGlossary}Imperium{/g} siamo disposti a convivere con questo stigma: è un fatto incontrovertibile."
+
+### u030080
+{n}Una pausa. Lo sguardo del Tecnoprete si addolcisce.{/n} "Aggiunge anche che il pensiero di lavorare con chiunque altro all'infuori di me gli provoca repulsione e sdegno. Il coefficiente di valore della nostra relazione è altissimo nel suo catalogo."
+
+### u030081
+{n}Voltandosi verso di te, sorride.{/n} "Rogue Trader, come potete vedere, la mia {d|Encyclopedia:Ch4_EogunnFinalMadness}unificazione con il mio collega{/d} si sta già rivelando fruttuosa. Ci sono sfumature della triasomia che dobbiamo ancora affinare, ma come sapete, per me è tanto più facile sperimentare su me stesso. Non so descrivere l'esaltazione che provo nell'essere riunito al mio carissimo collega! È vivo grazie a voi!" {n}Il Manipulus gesticola con gioia verso l'aria vuota.{/n}
+
+### u030082
+"Ho riflettuto molto su questo: la morte e il terrore definiscono la nostra esistenza fin dall'inizio? Come una sorta di destino, una lama sollevata fin dal nostro concepimento, che governa le nostre vite. {g|Encyclopedia:RogueTraderGlossary}Rogue Trader{/g}, temete la morte?"
+
+### u030083
+"Difficilmente. Ma è ciò che avevo in mente quando vi siete avvicinato, e mi è parso un argomento di discussione interessante."
+
+### u030084
+"Niente affatto. Semplicemente un invito a discutere. Un modo per conoscervi meglio."
+
+### u030085
+Il Manipulus Eogunn Februs è un Genetor Extremis che ha raggiunto vette senza precedenti nell'arte dell'augmentazione. Dotato di un intelletto acuto e inquieto, trascorre il tempo sperimentando, lavorando giorno e notte per scoprire un modo di prolungare il funzionamento del corpo umano, a qualunque costo. Su questa strada, Eogunn è inseparabile da un servoteschio compagno di nome Nuncius, con il quale parla come se fosse una persona viva. Eogunn non teme di spingersi oltre i limiti del lecito e mostra un vivo interesse per la tecnologia xenos. Ma qual è il prezzo di toccare il proibito, e che cosa potrebbe sacrificare nel perseguire il suo obiettivo?
+
+### u030086
+Eogunn Februs
+
+### u030087
+"Fammi indovinare, le parole di un altro saggio?"
+
+### u030088
+"Eogunn, sono {mf|lieto|lieta} che le nostre strade si siano incrociate."
+
+### u030089
+"Se sopravviviamo, che cosa farai dopo?"
+
+### u030090
+"Preparati, Eogunn. Ci attende una battaglia difficile: è un fatto incontrovertibile."
+
+### u030091
+"Nuncius, non ti dimenticherò."
+
+### u030092
+{n}Eogunn levita, con le braccia incrociate sulla pancia e l'occhio organico chiuso.{/n} "{name}, in questa occasione non ho parole di saggezza, né congedi, né risposte pronte. Scelgo di dimenticare la perfezione delle statistiche, di scrollarmi di dosso le catene della probabilità e di rifiutare la fredda impeccabilità della matematica, abbandonando i tentativi di calcolare le probabilità di vittoria. C'è un tempo per la contemplazione. Quel tempo è finito. Possa l'Omnissiah guidare le nostre azioni."
+
+### u030093
+"L'ospitalità di ciascuno ha i suoi limiti: lascerò il vostro seguito e proseguirò le mie ricerche. Ho imparato molto sulla vostra nave, ma la mia fame di conoscenza non è ancora saziata; mi attira più lontano. Grazie, Rogue Trader, che l'Omnissiah illumini il vostro cammino."
+
+### u030094
+{n}Il Manipulus sorride con malizia.{/n} "{name}, lascia che ti riveli un segreto. Non ogni fatto dichiarato incontrovertibile lo è davvero. Mettiamo alla prova insieme la solidità della tua affermazione, come si addice a due colleghi."
+
+### u030095
+"Nuncius era solo uno dei tanti: l'Imperium è pieno di persone la cui sofferenza è insopportabile. L'Omnissiah mi ha benedetto con capacità che possono alleviare quella sofferenza, o porvi fine con una morte misericordiosa. Voi mi avete dato la determinazione per seguire questa via. Intraprenderò il mio vagabondare, e lascerò che le imperscrutabili correnti della Forza Motrice mi guidino da chi ha bisogno."
+
+### u030096
+"Metterò piede sul sentiero della redenzione. Le lezioni che ho tratto dai miei tentativi di creare i Triasomata mi permetteranno di indirizzare le mie capacità in un corso gradito all'Omnissiah. Concederò longevità ai degni, permettendo loro di sfidare la morte al servizio dell'Imperium. A somiglianza della Forza Motrice, nutrirò gli elementi chiave dei meccanismi dell'Imperium affinché le loro funzioni siano svolte fino all'ultimo."
+
+### u030097
+"Nuncius e io continueremo a perfezionare la procedura della triasomia. Per farlo, avrò bisogno di molte tecnologie che sono... di origine non imperiale. Le cercherò, continuando a sperimentare su me stesso, e raggiungerò la perfezione! Anche se l'Imperium mi fraintende, sfiderò la morte: è mio dovere."
+
+### u030098
+"È giunto il momento, {name}?"
+
+### u030099
+"Sono stato lieto di condividere con voi i miei pensieri, le mie azioni e il mio silenzio, {name}. Non c'è bene più alto che conoscere se stessi ed essere conosciuti da un altro, perché la conoscenza è la provvidenza dell'Omnissiah."
+
+### u030100
+{n}Il servoteschio rimane fedele a se stesso, restando in silenzio fino all'ultimo. Forse semplicemente odia gli addii.{/n}
+
+### u030101
+"Si potrebbe dire. Nuncius mi disse quelle parole la prima volta che ci incontrammo. Ora le dico a voi in segno di addio."
+
+### u030102
+"Vedo che siete consumati dalla rabbia, ma non ne capisco il motivo. Spiegatevi, per favore."
+
+### u030103
+"Basta. Sono pronto a giudicare tra voi."
+
+### u030104
+"Eogunn, i tuoi esperimenti sono davvero pericolosi. D'ora in poi non li condurrai al di fuori del laboratorio."
+
+### u030105
+"Non sono in grado di risolvere la vostra disputa, perché non conosco abbastanza i misteri del Dio-Macchina."
+
+### u030106
+"Eogunn, perché hai condotto questo esperimento al di fuori del laboratorio?"
+
+### u030107
+"Se vi chiamate colleghi a vicenda, perché non lavorate insieme?"
+
+### u030108
+"Credo che debba parlare per primo il partecipante meno di parte. Nuncius?"
+
+### u030109
+"Pasqal, che cosa rende così pericolosi gli esperimenti di Eogunn?"
+
+### u030110
+"Nuncius, tu che ne pensi?"
+
+### u030111
+[Ascolta ostentatamente Nuncius] "Cosa? Pensi che gli stimati Magi si stiano comportando come bambini che litigano? Sì, devo darti ragione."
+
+### u030112
+"Pasqal, non ostacolare Eogunn nelle sue ricerche."
+
+### u030113
+"Risparmiatemi i vostri meschini battibecchi. Pasqal, che cosa ha fatto esattamente Eogunn?"
+
+### u030114
+"Pasqal, sorveglierai la rettitudine degli esperimenti di Eogunn. Insieme stabilizzerete e migliorerete i servitori."
+
+### u030115
+"Mi state sfinendo. Risolvete la questione tra voi e non osate più disturbarmi con simili bazzecole."
+
+### u030116
+{n}L'aria stessa tra i due {g|Encyclopedia:TechPriest}Tecnopreti{/g} sembra crepitare di tensione. Le occhiatacce che Eogunn e Pasqal si scambiano potrebbero fondere l'acciaio.{/n}
+
+### u030117
+{n}Pasqal si raddrizza più del solito, come se cercasse di eguagliare l'altezza del suo avversario fluttuante.{/n} "Lord Capitano, in quanto Magos ordinato, testimonio contro il Genetor Extremis Eogunn Februs. Conduce ricerche che incidono negativamente sulla produttività dei sacri riti di manutenzione dei {g|Encyclopedia:Servitor}servitori{/g} e distorcono l'aspetto delle creazioni del Dio-Macchina. Una simile blasfemia calpesta i precetti della fede e può condurre a conseguenze criticamente imprevedibili."
+
+### u030118
+"Per rispetto verso il Magos Haneumann, non risponderò con aggressività a una provocazione tanto palese. Sarebbe controproducente. Tuttavia, noto che il mio stimato collega si sbaglia radicalmente nell'interpretare le mie azioni. Ho seguito la Ricerca della Conoscenza, servendo il Dio-Macchina come si addice a un Genetor Extremis. Nessuna blasfemia contro i Suoi comandamenti è stata commessa, come Nuncius può attestare."
+
+### u030119
+"La prerogativa di sorveglianza per garantire il rispetto dei riti è accettata. Richiedo pieno accesso alle ricerche del Magos Februs. A queste condizioni, la cooperazione sarà ritenuta produttiva e fattibile."
+
+### u030120
+"Rifiuto." {n}Pasqal alza in segno di avvertimento un {g|Encyclopedia:Mechadendrite}mecadendrite{/g}.{/n} "Questa decisione porta a un conflitto irrisolvibile. La cooperazione è impossibile."
+
+### u030121
+"La loro stessa natura è blasfema, frutto dell'eresia dell'invenzione. Il Genetor Februs avrebbe dovuto eliminare completamente la fonte del codice maligno che si era infiltrato negli impianti neurali dei servitori. Invece ha alterato la loro carne mortale in modo tale che non sia più soggetta agli imperativi del Dio-Macchina trasmessi dagli impianti."
+
+### u030122
+"Una domanda ragionevole, Rogue Trader, e credo che la risposta si rivelerà soddisfacentissima. Dopo che la ricostruzione dei Triasomata {nc|non ha confermato la mia ipotesi|è finita in un fallimento}, ho trascorso molto tempo a trarne conclusioni. Il frutto delle mie fatiche è una formula di sinergia bionica che potenzia l'efficienza dell'integrazione delle augmetiche con l'ospite."
+
+### u030123
+{n}Eogunn avvampa d'indignazione, pronto a lanciarsi in un'appassionata tirata... ma si ferma all'improvviso, guardando invece abbattuto il servoteschio.{/n} "Molto bene, Rogue Trader. Mi sottometterò alla vostra decisione. Hai ragione, Nuncius. Estendere soluzioni non comprovate potrebbe portare a spiacevoli conseguenze."
+
+### u030124
+"Nuncius, la questione dell'integrazione produttiva delle augmetiche nella carne viva di un ospite è la pietra angolare di tutti i miei sforzi!" {n}Eogunn tace per qualche secondo, come se elaborasse la risposta del suo interlocutore.{/n} "Sono deluso dai tuoi tentativi di restare neutrale in questo dibattito."
+
+### u030125
+"Temo che dovrete accettare lo status quo, stimato collega." {n}Eogunn non si sforza di nascondere la compiacenza nella voce.{/n} "Grazie per il vostro assenso, Rogue Trader. Riprenderò immediatamente il mio lavoro di applicazione della formula ai restanti servitori."
+
+### u030126
+"Non nego le mie azioni, Rogue Trader. Anzi, ho introdotto diverse modifiche sperimentali nella costruzione dei servitori, modifiche che ne accrescono la produttività e l'efficienza nei compiti. Ma questo non ne aumenta forse l'utilità? L'essenza delle accuse del Magos Haneumann mi sfugge."
+
+### u030127
+{n}I Tecnopreti si inchinano e se ne vanno insieme, conversando a bassa voce in {g|Encyclopedia:LinguaTechnis}Lingua-Technis{/g}. Non è certo quanto durerà questa fragile pace tra loro, ma c'è la speranza che la loro collaborazione porti frutti.{/n}
+
+### u030128
+"Il Genetor Extremis Februs è stato convocato per pacificare un gruppo di servitori in preda al furore. Dato il suo rango e la presunta ampiezza delle sue conoscenze, il rischio di turbare i sacri riti è stato giudicato minimo. Tuttavia, il Genetor ha ecceduto il suo mandato e ha eseguito su diversi servitori riti non conformi al paradigma del Cult Mechanicus, sostituendo alcuni dei loro benedetti impianti con materia organica."
+
+### u030129
+{n}Il servoteschio tace con tatto, concedendo alle parti in causa piena libertà di esprimere le proprie opinioni.{/n}
+
+### u030130
+{n}Diverse indignate raffiche di chiacchiericcio binarico precedono la risposta di Pasqal.{/n} "Direttiva recepita, Lord Capitano."
+
+### u030131
+{n}Eogunn annuisce con riluttanza.{/n} "Il requisito è soddisfacente. Sono pronto a condividere le mie conoscenze e i miei metodi con il Magos Haneumann, a patto che ciò mi permetta di continuare i miei esperimenti e di convincerlo della purezza dei miei pensieri e delle mie azioni. Nuncius sarà testimone di questo tecno-giuramento."
+
+### u030132
+"Fuori questione." {n}Eogunn scuote la testa.{/n} "L'esito della cooperazione proposta è predeterminato, ed è quanto mai sfavorevole, Rogue Trader."
+
+### u030133
+{n}I vox-emettitori di entrambi i Tecnopreti emettono brevi arie binariche, a significare la fine della conversazione. Pasqal ed Eogunn se ne vanno rapidamente, evitando ogni interazione l'uno con l'altro.{/n}
+
+### u030134
+{n}Il servoteschio resta in silenzio, riluttante a entrare nella discussione.{/n}
+
+### u030135
+{n}Dopo una breve pausa, Eogunn aggiunge, rivolgendosi al servoteschio,{/n} "Sì, Nuncius, il tessuto osseo non è meno vitale e stabile, ma in questo caso particolare sarebbe stato meno convincente."
+
+### u030136
+{n}Il servoteschio tace.{/n}
+
+### u030137
+{n}Entrambi i Tecnopreti si voltano verso il servoteschio, che non ha pronunciato una sola parola. Pasqal lancia un'occhiata malevola mentre Eogunn apre la bocca per obiettare, poi ci ripensa.{/n}
+
+### u030138
+"È una domanda retorica?" {n}L'alambicco sulla spalla di Eogunn sibila, rilasciando una nube di vapore acre.{/n} "No, vedo che desiderate davvero sentire la risposta. Ciascuno segue la propria strada verso la conoscenza, comprendendo l'esistenza attraverso la saggezza dell'Omnissiah. La mia strada e quella del Magos Haneumann hanno divergito fin dall'inizio."
+
+### u030139
+"La stabilità operativa dei servitori modificati risultanti non può essere prognosticata. Gli spiriti macchina della nave potrebbero ritrovarsi indifesi e cadere vittima dell'entropia, che comincerebbe a moltiplicarsi nel ciclo computazionale."
+
+### u030140
+"L'efficienza produttiva non è forse il valore più alto per un servitore dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g}? I malfunzionamenti dei servitori si verificheranno meno di frequente, saranno richiesti tempi di manutenzione più brevi e le fatiche dei {g|Encyclopedia:Technomat}tecnomati{/g} saranno ottimizzate. L'utilità di una simile soluzione è indiscutibile e quindi non richiede indagini preliminari."
+
+### u030141
+"Impensabile." {n}Il visore di Pasqal lampeggia di cremisi.{/n} "Valuto la collaborazione con il Genetor Februs controproducente. La sua disponibilità a distorcere il dogma per giustificare le proprie mancanze rasenta pericolosamente l'eresia."
+
+### u030142
+"Questa affermazione è falsa. L'efficienza è una conseguenza dell'osservanza dei riti appropriati, non una causa di venerazione. Il rifiuto dei metodi standardizzati di servizio nella ricerca di una maggiore produttività è una blasfemia di Categoria Cinque. Ottimizzare il lavoro dei tecnomati non è prerogativa di un Genetor Extremis. Ciascuno serve secondo la propria funzione." {n}Il visore del Magos Haneumann lampeggia di rosso per una frazione di secondo.{/n} "Questo da solo è un fatto incontrovertibile."
+
+### u030143
+{n}Eogunn alza un dito in modo didattico.{/n} "Il mio intervento non ha violato i protocolli di servitorizzazione. Le loro menti seguono ancora gli algoritmi delle macchine. Nessuna eresia è stata commessa. Collega, siete troppo abituato ad affidarvi alla fredda ordinatezza del Ferrum Sanctum e percepite la materia organica come qualcosa di mutevole e inaffidabile. Eppure la cellula vivente è uno degli aggregati più perfetti e stabili creati dall'Omnissiah."
+
+### u030144
+{n}Entrambi i Tecnopreti ti fissano intensamente.{/n}
+
+### u030145
+"Registro un alto livello di buonsenso nella decisione espressa." {n}Pasqal si inchina in modo quasi impercettibile.{/n} "Le conseguenze del malfunzionamento e delle decisioni irrilevanti del Genetor Februs saranno rettificate immediatamente, e il funzionamento degli spiriti macchina della nave sarà ottimizzato secondo i sacri protocolli."
+
+### u030146
+"Chi è questo saggio che ha teorizzato sulla natura dello spirito macchina? Sarebbe interessante leggere la sua opera."
+
+### u030147
+[Rivolgiti al servoteschio] "Nuncius, ti do il benvenuto a bordo della mia nave."
+
+### u030148
+"Perché hai attaccato quel sottoposto? Non farlo più."
+
+### u030149
+"Perché vuoi farlo?"
+
+### u030150
+"Parli con il tuo servoteschio?"
+
+### u030151
+"Grazie per il tuo aiuto, Eogunn. Dove andrai ora?"
+
+### u030152
+"Hai finito? Ho faccende da sbrigare."
+
+### u030153
+"Niente domande. Parliamo d'altro."
+
+### u030154
+"Illuminante, ma comunque, descrivi a parole che cosa cercavi di dimostrare."
+
+### u030155
+"Che cosa succederà al trono di impianto se ti rifiuto?"
+
+### u030156
+"Ho cambiato idea. Puoi ancora essermi utile."
+
+### u030157
+"Addio, Eogunn."
+
+### u030158
+"Genetor Extremis: che cosa significa?"
+
+### u030159
+"Una dimostrazione convincente delle tue capacità. Sei in grado di produrre energia?"
+
+### u030160
+"Benvenuto a bordo, Eogunn."
+
+### u030161
+"Sperimenta altrove. Me la caverò senza di te."
+
+### u030162
+"Se solo tutti gli interlocutori fossero come Nuncius."
+
+### u030163
+"È una specie di scherzo?"
+
+### u030164
+"Sì, davvero! Abelard, potresti imparare una cosa o due da questo servoteschio."
+
+### u030165
+"Eogunn, non avrai mica osato creare un'Intelligenza Abominevole, vero?"
+
+### u030166
+"Modera i toni: non sono uno scaricatore dei ponti inferiori da farmi fare la predica da te."
+
+### u030167
+"Che cos'ha detto?"
+
+### u030168
+"Intrigante. Quindi la tua cella galvanica non solo accumula energia, ma la ridistribuisce dove tu la indirizzi. E la alimenti, a quanto pare, attingendo energia da altre fonti."
+
+### u030169
+{n}Alzando la mano, il Tecnoprete la chiude di scatto e le scintille della Forza Motrice svaniscono, quasi le avesse catturate nel pugno. Uomo corpulento con l'addome di metallo e una voluminosa corazza, aleggia sopra il ponte come un grosso scarabeo cremisi. Un volto maturo siede sotto un cappello nero spigoloso; per essere un servitore dell'{g|Encyclopedia:AdeptusMechanicusGlossary}Adeptus Mechanicus{/g}, il suo viso conserva una sorprendente proporzione di materiale organico, ed è incorniciato da una fitta barba di cavi e pistoni.{/n}
+
+### u030170
+{n}Il {g|Encyclopedia:ServoSkulls}servoteschio{/g} che aleggia lì accanto fissa in silenzio il sacerdote.{/n}
+
+### u030171
+{n}Il Tecnoprete espira con calma e apre un occhio.{/n} "Avete ragione, Nuncius, rischio di annoiare il {g|Encyclopedia:RogueTraderGlossary}Rogue Trader{/g} con le mie prolisse elucubrazioni. Tuttavia, non permetterò che l'analisi semantica della mia asserzione resti senza risposta: registrerò la vostra tesi per un ulteriore dibattito. Ora è tempo di rendere i miei omaggi."
+
+### u030172
+{n}Il Tecnoprete altera l'assetto del suo torso fluttuante nel tentativo di imitare un inchino.{/n} "Rogue Trader, le vostre sale sono colme di metallo sacro e i Tecnopreti della nave vanno lodati per l'osservanza dei sacramenti dell'augmentazione, quella benedetta unione di carne e Ferrum Sanctum. Contemplarlo carica di esaltazione le mie bobine galvaniche. Io, {g|Encyclopedia:Genetor}Genetor{/g} Extremis Eogunn Februs, vi saluto e vi ringrazio per l'opportunità di onorare questi antichi meccanismi con il dono del funzionamento."
+
+### u030173
+"Esatto, assolutamente esatto! Raramente incontro interlocutori così acuti tra i laici." {n}Gli occhi del {g|Encyclopedia:Manipulus}Manipulus{/g} si illuminano. Non c'è traccia di sarcasmo o condiscendenza nella sua lode: Eogunn è sinceramente compiaciuto, come un mentore orgoglioso che si complimenta con un allievo per la sua perspicacia.{/n} "Avvio rispettosamente una richiesta di udienza: devo scoprire quali altre gemme di conoscenza si celano nella vostra ricca mente."
+
+### u030174
+"È mio sacro dovere vigilare affinché la tecnologia che ho restaurato funzioni fedelmente. Oltre a ciò, l'Altar-Templum-Calixis-Ext-17 è una comunità chiusa. Tra le sue mura si possono trovare molte saggezze, ma sembra che io ne abbia esaurito le scorte. La teoria pone le fondamenta dell'esplorazione, ma solo la pratica può aprire i cancelli della conoscenza. Nuncius e io siamo sempre stati, prima di tutto, dei praticanti.
+
+### u030175
+"Nuncius è il mio carissimo collega. Il suo entusiasmo, la sua mente inquisitiva e la sua capacità di osservare un problema da svariate angolazioni sono inestimabili per le nostre ricerche. Anche lui è piuttosto loquace."
+
+### u030176
+{n}Nuncius non emette un suono, dirigendo il visore da qualche parte oltre di te.{/n}
+
+### u030177
+"Vi chiedo scusa, Rogue Trader. Dimentico che il linguaggio di Nuncius può essere difficile da capire per i profani."
+
+### u030178
+"Registro una violazione. L'unità tecnologica Nuncius sta ignorando una richiesta di interazione. Si raccomanda di assegnare il lavoro dell'unità a compiti di riparazione."
+
+### u030179
+"Ah, è proprio un chiacchierone, eccome! Magari anche il maestro dalla pancia ingranaggiata sente delle voci nella testa? Sono sicuro che ai miei amici dall'altra parte della porta piacerebbe incontrarsi con loro, prima o poi."
+
+### u030180
+"Genetor Februs, confido che comprendiate quanto sia insolito parlare in questo modo a un semplice servoteschio." {n}Heinrix studia Nuncius con cupa intensità.{/n} "Preghiamo che sia solo un capriccio sentimentale da parte vostra, e non la presenza di un'eresia nel vostro dispositivo."
+
+### u030181
+"Se posso ridurre il tutto alla sua essenza più nuda... la cella galvanica non si limita a emettere Forza Motrice, ma mi permette anche di prelevarla e poi ridistribuirla dove la volontà dell'Omnissiah comanda. Per risvegliare la vostra reliquia, per esempio, ho dovuto drenare l'energia da una delle piccole officine non critiche dell'Altar-Templum."
+
+### u030182
+{n}Abelard scuote la testa con aria perplessa.{/n} "Un servoteschio... come collega? Certo. Bene, allora mi prenderò una tavoletta dati come aiutante!"
+
+### u030183
+"Non vedo alcun colore provenire da Nuncius... Trattare i servoteschi come esseri viventi è una sorta di pratica sacra tra i Tecnopreti?"
+
+### u030184
+{n}Argenta inarca un sopracciglio.{/n} "Ma di certo non vi risponde? Che stranezza!"
+
+### u030185
+"Anche il Bloodspun Web parla con i suoi fratelli e sorelle scomparsi. Ma la risposta che riceviamo è il silenzio concesso dall'{g|Encyclopedia:EmperorGlossary}Imperituro{/g}."
+
+### u030186
+"Il vostro ringraziamento è accettato, ma il mio servizio non è ancora terminato."
+
+### u030187
+"Non proprio. Chiedo umilmente che ascoltiate la mia petizione."
+
+### u030188
+"Il clero del chiostro dell'Altar-Templum-Calixis-Ext-17, in segno di gratitudine per la lieta novella della sacra archeotecnologia, richiede che siate {mf|assistito|assistita} dal Magos Eogunn Februs e dall'unità Nuncius. Chiedo il vostro permesso di impiegare le nostre capacità e conoscenze a beneficio della dinastia von Valancius, tra cui, ma non solo, la cura degli spiriti macchina del Settore Bionica e la conduzione di esperimenti in nome della Conoscenza."
+
+### u030189
+"È il mio credo. Il fatto incontrovertibile che ha definito la mia esistenza per tutto il tempo che riesco a ricordare, e ricordo moltissimo. Mi sono dedicato ai misteri della carne e del metallo, ai processi con cui l'una si unisce all'altro, per cui vivono in unione e come muoiono. Conosco intimamente macchine come quella che ho riportato in vita: istruirò i membri del sacerdozio a bordo nelle sue litanie di manutenzione e funzionamento, e rivelerò i segreti delle rune di comando affinché possano farla funzionare da soli."
+
+### u030190
+"Un'eccellente osservazione! La mia designazione tecnica è Manipulus." {n}I suoi {g|Encyclopedia:Mechadendrite}mecadendriti{/g} scattano in vita, puntando verso il suo addome augmentato.{/n} "Ed ecco la cella galvanica, il deposito della Forza Motrice. Essa... no, ci vorrebbe troppo, meglio una dimostrazione. Osservate!"
+
+### u030191
+{n}Il vox di Pasqal emette un trillo binarico, solenne e opprimente.{/n} "Confermato: il sacramento di manutenzione delle reliquie tecnologiche è stato eseguito correttamente. Protocollo di scambio delle sacre insegne avviato." {n}Lo sguardo del Tecnoprete si fissa sulla veste di Eogunn.{/n} "Registro l'affiliazione di questa benedetta unità tecnologica al clero del {g|Encyclopedia:ForgeWorldGlossary}mondo forgia{/g} Stygies VIII." {n}Una scintilla scarlatta guizza nella sua augmetica ottica blu, quasi come se Pasqal avesse socchiuso gli occhi con sospetto.{/n} "Richiedo conferma della familiarità dell'unità con gli standard del Catechismo di Manutenzione e Sicurezza in vigore su questa nave."
+
+### u030192
+"È un piacere confermare il protocollo di scambio delle sacre insegne e salutare il mio fratello nel ministero." {n}Nella voce di Eogunn non si avverte alcuna tensione, ma piuttosto un'inspiegabile eccitazione.{/n} "I voti pronunciati in questo tempio mi sono noti, e prometto di onorarli. Richiedo un incontro con il mio stimato collega per agevolare lo scambio di conoscenze e discutere di valori."
+
+### u030193
+{n}Incrociando le braccia sullo stomaco, il Tecnoprete si rivolge a Nuncius:{/n} "Lo scetticismo è innegabilmente uno degli strumenti della Conoscenza, carissimo collega. Ci protegge da molte eresie, impedendo che ego e vanità offuschino la ragione sul cammino del servizio. Ma come vedi, Nuncius, non è giustificato in ogni circostanza." {n}Dopo un attimo di silenzio, Eogunn annuisce.{/n} "Rogue Trader, Nuncius afferma che siete una persona di rara perspicacia e prudenza. Lo registro come fatto incontrovertibile e vi ringrazio per la vostra ospitalità."
+
+### u030194
+{n}Il Tecnoprete gira il bullone sulla sua barba un'ultima volta, poi annuisce cortesemente.{/n}
+
+### u030195
+{n}Un lieve sorriso aleggia sulle labbra di Eogunn.{/n} "Declinato con gratitudine e dovuta reverenza. L'unità tecnologica Nuncius è designata come strumento personale della ricerca del divino, il che conferisce il privilegio della riservatezza. Ciò include la riservatezza dall'intrusione di entità di pari rango."
+
+### u030196
+{n}Il {g|Encyclopedia:Manipulus}Manipulus{/g} ti guarda con aria assente, poi inclina in avanti la sua mole, abbassando la sua altezza di fluttuazione finché i piedi sfiorano quasi il ponte.{/n} "Vi chiedo scusa, Rogue Trader. Ero lieto di trovare un interesse così vivo per la mia natura e... mi sono lasciato andare."
+
+### u030197
+"Attaccarlo?" {n}Eogunn gira un bullone sulla sua barba, confuso.{/n} "L'ho semplicemente usato come ausilio visivo per una dimostrazione innocua condotta in condizioni controllate. Inoltre, nel farlo, ho individuato diversi difetti nelle sue augmetiche e li ho riparati. Vi assicuro che gli effetti sulle sue componenti organiche sono stati trascurabili."
+
+### u030198
+{n}Il {g|Encyclopedia:Manipulus}Manipulus{/g} si volta verso Nuncius e ascolta attentamente. Dopo qualche istante, annuisce.{/n} "Sì, hai ragione, il Rogue Trader si preoccupa dell'etica della questione." {n}Eogunn si volta di nuovo verso di te, chinando il capo.{/n} "Mi impegnerò a temperare il mio entusiasmo in futuro."
+
+### u030199
+{n}Il Siniscalco si schiarisce la gola, con aria perplessa.{/n} "Io... terrò a mente l'eloquenza del Maestro Nuncius."
+
+### u030200
+"Temo che la mia resa mancherà della raffinatezza insita nella {g|Encyclopedia:LinguaTechnis}Lingua-Technis{/g} di Nuncius, ma, per riassumere grossolanamente, si sente onorato dalla vostra attenzione e registra il momento come significativo."
+
+### u030201
+{n}Eogunn annuisce con soddisfazione.{/n}
+
+### u030202
+{n}Eogunn annuisce con cortesia.{/n}
+
+### u030203
+{n}Per un istante, il cremisi inghiotte il blu dei visori di Pasqal. Un rantolo scontento gocciola dal suo vox:{/n} "Stato confermato. Rifiuto della richiesta riconosciuto come valido."
+
+### u030204
+"Ma naturalmente, non sono venuto a mani vuote. Vorrei farvi dono di questa augmetica. Ora che lo spirito macchina del trono di impianto è desto, posso concederne la benedizione a voi o a uno del vostro seguito, se il Rogue Trader lo desidera."
+
+### u030205
+"Ho già trasferito il Rito base di Funzionamento a un contingente qualificato nel Settore Bionica. Se ci rifiutate, Nuncius e io ci tratterremo giusto il tempo di trasmettere il resto delle nostre conoscenze, dopodiché sbarcheremo. Le procedure di augmentazione possono essere eseguite senza la mia partecipazione."
+
+### u030206
+"Nuncius esprime il suo dolore. Condivido i suoi sentimenti, ma poiché l'Omnissiah ha stabilito questa via per me, così sia."
+
+### u030207
+{n}Il Tecnoprete sembra stordito.{/n} "Pensate che oserei andarmene in giro con un anatema, una profana parodia della mente umana, la più grande eresia contro l'Omnissiah? Che idea assurda!"
+
+### u030208
+{n}Dopo aver riacquistato la compostezza, Eogunn alza il dito.{/n} "Onoro l'Accordo Cremisi di Marte e giuro dinanzi al Dio-Macchina onnisciente e onniveggente che Nuncius non è progenie di tecno-eresia. Se mento, che io sia abbattuto dall'impulso elettromagnetico della Sua ira, e che la Forza Motrice abbandoni le mie membra per sempre e in eterno!"
+
+### u030209
+"Nuncius è una creazione incredibilmente sofisticata di sacri algoritmi, intrecciati con i miei. È difficile per un profano afferrarne i meccanismi interni, eppure nessuno di essi viola i comandamenti dell'Omnissiah."
+
+### u030210
+{n}Il suo occhio non augmentato si chiude e la bocca si distende in un sereno sorriso. Incrociando le braccia sul ventre augmentato, il Tecnoprete inspira profondamente l'aria intrisa di ozono e sacri unguenti.{/n} "Un saggio disse una volta che uno spirito macchina non può essere guardato. E aveva ragione, perché l'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g}, nella Sua infinita saggezza, ha celato la Sua creazione persino allo sguardo dei Suoi più devoti servitori. Ma il credente può giungere a conoscere la natura di una macchina solo attraverso un occhio di organico o d'acciaio? No. Perché il vapore che porta il profumo dei sacri unguenti è il respiro dello spirito, il rombo di giunti e aste è il battito del suo cuore, e la Forza Motrice è la corrente del suo sangue."
+
+### u030211
+"Il sacramento del Ferrum Sanctum sarà messo a disposizione di voi e del vostro seguito. Anche questo è un fatto incontrovertibile." {n}Il suo torso sferico rotola di nuovo in avanti in un inchino deferente.{/n}
+
+### u030212
+{n}Conficca un mecadendrite nel braccio augmentato di un tecnomate vicino: l'energia serpeggia lungo l'artiglio cromato del Manipulus fino alla sua cella; il vox del tecnomate balbetta e gracchia, poi il suo impianto si affloscia. Una volta certo che tu abbia visto l'effetto, Eogunn rimanda l'energia nell'augmetica, che torna in vita.{/n} "Domande?"
+
+### u030213
+"In altre parole, permettete a Nuncius e a me di restare sulla nave e di accompagnarvi. Siamo ben versati in augmetiche, genetica, alchimia, anatomia di umani e di abominevoli {g|Encyclopedia:XenosGlossary}xenos{/g} allo stesso modo, e nei misteri della Forza Motrice e della sacra ingegneria. Questi campi del sapere possono essere impiegati anche per eliminare unità le cui opinioni non siano favorevoli a un dibattito produttivo."
+
+### u030214
+"Lexmeccanico Subalterno Carr-Ain, operatore del terminale ausiliario 289-0 delle officine inferiori dell'Altar-Templum-Calixis-Ext-17. Un pragmatico e un burocrate che vedeva il mondo solo attraverso il prisma delle statistiche, infinite parate di deflussi e afflussi: non aveva alcun interesse per nulla che non fosse tenere traccia di valvole e sfiati. Ma, di tanto in tanto, lasciava cadere perle di saggezza come questa senza nemmeno accorgersene. Ho sentito che era mio dovere raccoglierle."
+
+### u030215
+{n}Heinrix aggrotta leggermente la fronte e annuisce, prendendo una sorta di nota mentale.{/n}
+
+### u030216
+{n}Se il servoteschio ti ha sentito, non ne dà alcun segno.{/n}
+
+### u030217
+{n}Eogunn stringe pensoso un bullone sulla barba e annuisce.{/n} "Sincerità sorprendente, Nuncius. È gratificante vedere che non hai perso il tuo senso del tatto negli anni."
+
+### u030218
+"Vorrei sentire la posizione di Nuncius."
+
+### u030219
+"Non ne vale la pena. Puoi cercare di prolungare l'esistenza all'infinito, ma dopo un certo punto, un'esistenza simile difficilmente si può chiamare vita."
+
+### u030220
+"I tuoi metodi sono molto originali, Eogunn. Che esperimento stai conducendo?"
+
+### u030221
+[Avvicinati] "Non ti ho dato il permesso di uccidere te stesso!"
+
+### u030222
+[Non intervenire e aspetta]
+
+### u030223
+"Determinismo negli individui amalgama? Aspetta, è collegato al tuo esperimento precedente?"
+
+### u030224
+"Perché ti stai torturando? Avresti potuto attutire il dolore con degli stimolanti."
+
+### u030225
+"Quale conoscenza stai cercando questa volta? Giustifica questa... auto-escavazione?"
+
+### u030226
+"Aspetta. Hai parlato di due tentativi? C'è stato un altro Triasomata?"
+
+### u030227
+"Approfondisci la tua tesi, Eogunn. Perché sconfiggere la morte è così importante per te?"
+
+### u030228
+"Il lavoro del Settore Bionica ne risente a causa delle tue ricerche."
+
+### u030229
+[Aziona l'interruttore principale del trono]
+
+### u030230
+"Incredibile... Come riesci a sopportare una cosa simile?"
+
+### u030231
+"Perché dovresti invertire l'augmentazione di qualcuno?"
+
+### u030232
+"Hai ragione. Sconfiggere la morte sarà il trionfo della ragione e il trionfo dell'essere, nato non per volontà del caso ma per volontà dell'umanità."
+
+### u030233
+"Bene, condividerò volentieri i miei pensieri."
+
+### u030234
+"La vita è un dovere, non soltanto un diritto. Una persona deve vivere finché è in grado di recare beneficio all'Imperium."
+
+### u030235
+"Eogunn, fermati!"
+
+### u030236
+"È una specie di speciale auto-tortura dei Tecnopreti?"
+
+### u030237
+"Se ti rompi, non ti aggiusterò."
+
+### u030238
+"Affascinante. Non ho mai visto operazioni simili eseguite su se stessi."
+
+### u030239
+{n}Il trono di impianto si erge davanti a te in tutta la sua gloria, illuminato da scariche della Forza Motrice. Un corpo massiccio vi è disteso sopra, e ti ci vuole un attimo per riconoscerlo come Eogunn.{/n}
+
+### u030240
+"Nuncius, concordo pienamente che qualsiasi interferenza con la funzione dell'addome galvanico porterebbe a ipertensione acuta, ma ho la situazione perfettamente sotto controllo. Un esito fatale è stato escluso come possibilità." {n}Eogunn fissa intensamente lo schermo video fissato al collo. Tutte le sue cavità corporee sono state accuratamente aperte: osservi il grumo rosa-cremisi del suo cuore augmentato mentre batte nel petto, e vedi il debole sfarfallio della sua cella galvanica attraverso la pellicola biancastra del peritoneo.{/n}
+
+### u030241
+"Rischi di un esito fatale? I rischi sono trascurabili quando in gioco c'è l'oltrepassare il limite della morte stessa. Entrambi i miei tentativi di creare un Triasomata sono falliti, e così è necessario applicare una metodologia diversa." {n}Volge verso di te lo sguardo offuscato.{/n} "Le vostre opinioni su questa materia mi interessano enormemente, {mf|mio collega|mia collega}: lasciatele dunque fluire liberamente."
+
+### u030242
+{n}Eogunn annuisce con vivacità, concedendo un'occhiata alle righe di dati che scorrono sulla tavoletta dati. I mecadendriti, irti di aghi, iniziano a ricucire rapidamente le ferite sul suo corpo.{/n}
+
+### u030243
+{n}I mecadendriti di Eogunn non smettono di frugare nelle sue viscere nemmeno per un istante.{/n}
+
+### u030244
+"Sto conducendo uno studio sul determinismo nell'esistenza degli individui amalgama. La vostra presenza animerà senza dubbio la discussione che il mio carissimo collega e io stiamo avendo mentre lavoro. Ci avete colti, Nuncius e me, più o meno a metà della nostra disputa."
+
+### u030245
+"Per il Dio-Macchina, state {mf|attento|attenta}, Rogue Trader!" {n}Con una smorfia di dolore e sforzo, Eogunn si affanna a estendere uno dei suoi manipolatori verso i numerosi interruttori dell'apparato.{/n} "Il circuito del trono è sovraccarico di energie galvaniche e quindi la corrente è scatenata. Se interferite, il corso dell'esperimento sarà imprevedibile!"
+
+### u030246
+{n}Diversi manipolatori si tuffano nell'addome squarciato di Eogunn, estraendone dalle profondità un piccolo grumo di carne color bordeaux. Vedi la pelle del Genetor impallidire rapidamente fino al bianco pergamena: l'unica cosa che ora lo tiene cosciente sono le scariche di Forza Motrice che crepitano nel suo corpo.{/n} "Estrazione splenica... Nuncius, è davvero affascinante. Il flusso sanguigno è rallentato, il carico sulle arterie principali è calato drasticamente. Classifico la mia condizione attuale come pre-mortem. Vitalità minima."
+
+### u030247
+{n}Un trionfante inno binarico che sgorga dai vox-trasmettitori del trono di impianto interrompe le elucubrazioni del Manipulus, segnalando il completamento della procedura. Il generatore anti-grav di Eogunn si ridesta ancora una volta, e il Genetor si solleva dolcemente in aria. Sembra che l'esperimento cruento che ha appena eseguito su se stesso non abbia avuto conseguenze catastrofiche. Nuncius si leva dietro di lui, ombra silenziosa.{/n}
+
+### u030248
+"Cerco il limite, Rogue Trader. Il limite che il Ferrum Sanctum può sopportare, ma il tessuto vivente no. Sto cercando di percepire fino a che punto l'augmentazione inversa possa essere compiuta senza uccidere il ricevente. E io stesso, in quanto portatore di un gran numero di impianti, sono il campione ideale.
+
+### u030249
+"Il dolore è semplicemente lo strumento con cui la carne viva ci avverte degli effetti deleteri su di essa. Uso questo strumento per ricevere le informazioni più complete e, dunque, più preziose sulle conseguenze delle mie procedure."
+
+### u030250
+"Naturalmente. Fa parte del mio cammino nella Ricerca della Conoscenza, proprio come lo era la creazione dei Triasomata, ma nel mio esperimento attuale ho adottato un approccio diverso."
+
+### u030251
+{n}Gli spiriti macchina del trono esplodono all'istante in una cacofonia di allarmi. Conti non meno di trenta battiti del tuo cuore prima che l'organo pulsante sia restituito al petto del suo proprietario. L'ombra cinerea della morte abbandona lentamente il volto di Eogunn.{/n} "Lode all'Omnissiah! Nuncius, è questo che cercavamo. Un intervallo di trenta secondi è ottimale per rimuovere l'organo senza causare disfunzioni!"
+
+### u030252
+"Abilmente dedotto dalla mia deliberata vaghezza nell'ultima tesi!" {n}Eogunn tenta di sorridere, ma fa una smorfia di dolore mentre i manipolatori del trono, obbedendo alla volontà dell'antico spirito macchina, iniziano a rimettere tutti gli impianti estratti nelle loro posizioni precedenti.{/n} "Avete ragione: quello che voi e io abbiamo creato era il secondo tentativo. Il primo fu il punto di partenza che stuzzicò la mia sete dei misteri della macchina che è il corpo organico. Una storia affascinantissima, e il racconto di Nuncius è coinvolgentissimo!"
+
+### u030253
+{n}Il racconto di Nuncius resta per te un mistero, al sicuro dietro il ghigno del tuo interlocutore.{/n}
+
+### u030254
+{n}Con le energie in calo, Eogunn sospira.{/n} "Sì, Nuncius, forse la storia è davvero troppo lunga per le nostre circostanze attuali. Ma basta digressioni liriche. Da allora ho compiuto progressi significativi nella comprensione della saggezza dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g}, e il fallimento di entrambe le procedure di triasomia resterà soltanto un altro intoppo sul cammino della comprensione."
+
+### u030255
+"Perché se una macchina funzionale e poliedrica come l'organismo umano cessa di esistere, ogni suo significato pratico è distrutto." {n}Le grandi mani di Eogunn stringono i bordi del trono di impianto, le nocche bianche.{/n} "E io ho osato indagare i modi per prolungare la vita proprio per preservare quel significato. I limiti operativi degli organici possono essere superati, l'annientamento di carne e mente scongiurato, e la funzione elevata all'assoluto. La morte è ciò che sostiene l'Imperium: questo è vero." {n}Getta un'occhiata al servoteschio.{/n} "Ma la vita è ciò che lo spinge avanti. Questo è un fatto incontrovertibile."
+
+### u030256
+{n}I peli del tuo corpo si rizzano. Un'ondata di voltaggio, pizzicante e insopportabilmente calda, ti corre lungo i nervi, e ogni muscolo si contorce in uno spasmo acuto. Un potente impulso di energia ti scaraventa all'indietro.{/n}
+
+### u030257
+"Il vostro metodo per attirare l'attenzione è altamente efficace, Rogue Trader." {n}Eogunn esamina l'organo sanguinolento, che un mecadendrite gli tiene sollevato davanti al viso.{/n} "Quell'atto avventato mi è quasi costato la milza. D'altra parte, avrei dovuto considerare di sostituirla con un equivalente bionico molto tempo fa. Nuncius, registra quel pensiero." {n}Il flessibile manipolatore metallico, obbedendo ai comandi del Genetor, reinserisce il grumo di carne insanguinata da qualche parte nel suo ventre squarciato.{/n}
+
+### u030258
+"Oh, non appena otterrò le risposte alle mie domande, mi alzerò da questo trono e ripristinerò la Forza Motrice nel compartimento, state {mf|tranquillo|tranquilla}. E ora vi chiedo un'altra pausa, Rogue Trader: devo estrarre l'impianto del cuore. Nuncius, controlla gentilmente il funzionamento del nodo atrioventricolare, se non ti dispiace." {n}Uno dei flessibili mecadendriti si tuffa in profondità nel petto di Eogunn, estraendo con cura il cuore augmentato.{/n}
+
+### u030259
+"E così l'esperimento è concluso, e giudico l'esito del tutto soddisfacente." {n}Eogunn incrocia le braccia sul voluminoso stomaco, rivolgendoti un cortese inchino.{/n} "Grazie per il vostro arrivo così tempestivo, Rogue Trader. Mi avete dato spunti di riflessione che occuperanno la mia mente inquieta a lungo, e di certo mi concederanno molte rivelazioni in futuro. Ora devo tornare al laboratorio e discutere in dettaglio i risultati con Nuncius."
+
+### u030260
+"Impossibile. Allo stadio attuale, il processo non può essere interrotto, nemmeno su richiesta del Rogue Trader." {n}Il Tecnoprete non mostra alcun segno di sorpresa, come se si aspettasse la vostra visita.{/n} "Sarò pronto a parlare con voi tra circa un minuto."
+

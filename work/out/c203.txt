@@ -1,0 +1,805 @@
+### u067933
+"Perché non vai a berne un sorso, uno solo? Non ho mai assaggiato acqua più dolce. Dicono che le vesciche del vecchio Rompus siano sparite del tutto dopo un paio di boccali."
+
+### u067934
+"Be', quindi anche l'acqua ha dei 'poteri'! Ovvio che ce li abbia. Beh, crederò a queste 'guarigioni miracolose' quando ne vedrò una. Mi sembra troppo bello per essere vero..."
+
+### u067935
+"Tu... sei sopravvissuto al processo? Come hai fatto? Quando ti hanno preso per strada, pensavo che—"
+
+### u067936
+"Ero a un soffio dalla servitorizzazione, sì. Ma una delle pattuglie ha confermato che non ero sul luogo del fatto!"
+
+### u067937
+"E quella ragazza che ti ha incastrato? Ha testimoniato contro di—"
+
+### u067938
+"Accusata di cospirazione contro un servitore dell'Imperium e condannata al rogo. Non più di quanto si meriti!"
+
+### u067939
+"Questo è l'ultimo carico di condannati per il momento. Ci serve un'altra partita di componenti meccanici per il processo di servitorizzazione."
+
+### u067940
+"Già ai moli, lo scarico è in corso."
+
+### u067941
+"Hmm... È incredibile vedere qualcosa funzionare senza intoppi e in orario, su Footfall."
+
+### u067942
+"Da quando è arrivato il Rogue Trader, qui le cose si sono di certo date una regolata, anche se i metodi usati sono brutali."
+
+### u067943
+Grazie per la vostra donazione.
+
+### u067944
+Che San Drusus vi protegga.
+
+### u067945
+Transazione completata. Gloria all'Omnissiah.
+
+### u067946
+Funzione interrotta. Gloria all'Omnissiah.
+
+### u067947
+Vi va di bere qualcosa per festeggiare il nostro propizio affare?
+
+### u067948
+È un piacere fare affari con voi.
+
+### u067949
+G-grazie per il vostro p-patrocinio!
+
+### u067950
+Vi p-prego, non dite a nessuno d-dove l'avete presa...
+
+### u067951
+Una reliquia sacra è utile in ogni situazione.
+
+### u067952
+L'Imperatore protegge, ma non dimenticate di tenervi ben equipaggiati.
+
+### u067953
+Interfaccia commerciale aperta. Gloria all'Omnissiah.
+
+### u067954
+Accesso consentito. Gloria all'Omnissiah.
+
+### u067955
+"Volete vedere la merce, {mf|mio signore|mia signora}?"
+
+### u067956
+Spero che la nostra gamma di prodotti sia di vostro gradimento.
+
+### u067957
+Solo la merce m-migliore per voi!
+
+### u067958
+Tutto per voi, Vostra S-Signoria!
+
+### u067959
+"Adesso tocca a noi. Qui comandiamo noi."
+
+### u067960
+"Questo è quanto per Chorda. Ecco perché non si scherza con Vladaym il Vackemo."
+
+### u067961
+"Ogni sporco delatore che ha venduto i suoi compagni ai tutori dell'ordine dovrà rispondere delle proprie colpe. Ora i giudici siamo noi!"
+
+### u067962
+Il sangue mescolato all'olio per macchine si nota a malapena sul pavimento scuro.
+
+### u067963
+Sul pavimento si vedono delle macchie scure. Sono sbavate, come se qualcuno vi fosse passato attraverso diretto alla passerella.
+
+### u067964
+"Non è stato il miglior primo contatto con gli abitanti del mondo. Spero che troveremo qualcuno più capace di sostenere una conversazione, di buon grado o meno."
+
+### u067965
+"Qui c'era qualcuno. È un buon posto per nascondersi. O per tendere un'altra imboscata."
+
+### u067966
+"Guardate questo segno. Qualcuno è stato trascinato... no, qualcuno è passato di qui in direzione nostra molto di recente. Eppure non abbiamo visto nessuno..."
+
+### u067967
+"Rogue Trader, non posso tornare sulla vostra nave prima di aver portato a termine la mia missione su questo mondo. Se insistete, troverò un altro modo di adempiere ai miei obblighi, senza di voi."
+
+### u067968
+"State sprecando risorse. Quelle parti di corpo avrebbero potuto servire come materiale per servitori."
+
+### u067969
+[Studia gli schermi]
+
+### u067970
+[Esamina la scritta sull'involucro]
+
+### u067971
+[Avvicinati al cogitatore]
+
+### u067972
+[Resta a distanza e aspetta]
+
+### u067973
+[Estrai l'arma] "Dobbiamo distruggere questa macchina subito."
+
+### u067974
+[Stacca l'alimentazione] "Questa progenie del Caos non ha posto nel mio mondo!"
+
+### u067975
+"Va bene. Prima cerchiamo di capire di cosa si tratta."
+
+### u067976
+Hai detto a Heinrix di fermare il cogitatore eretico per il bene delle persone ancora in vita.
+
+### u067977
+"Dobbiamo fermare il cogitatore. Per il bene delle persone ancora vive laggiù!"
+
+### u067978
+Hai detto a Heinrix che il cogitatore eretico doveva poter portare a termine il suo lavoro, per giustificare le vite perdute.
+
+### u067979
+"Dobbiamo lasciare che il cogitatore finisca il suo compito, altrimenti migliaia di persone saranno morte per niente."
+
+### u067980
+"Heinrix, stai bene?"
+
+### u067981
+"Predice il futuro? Come è possibile?"
+
+### u067982
+Hai ucciso Heinrix per impossessarti del cogitatore eretico.
+
+### u067983
+[Attacca] "Ne ho sentito abbastanza. Credo che farei meglio a tenermi questo tesoro!"
+
+### u067984
+"Questa decisione grava sulla tua coscienza, Heinrix."
+
+### u067985
+[Guarda i cavi]
+
+### u067986
+[Allontanati dal cogitatore]
+
+### u067987
+{n}L'enorme {g|Encyclopedia:Cogitator}cogitatore{/g} spunta dalle paratie metalliche come un grottesco tumore. Dal profondo dell'involucro di metallo giunge un ruggito cavo: qualunque cosa abbia spinto il calcolatore ad attivarsi, ha energia sufficiente ad alimentare un piccolo centro di comando. Non appena il tuo sguardo cade sul cogitatore, senti un formicolio alle tempie: ogni angolo, ogni componente della macchina emana una sensazione di innaturalezza, difficile da spiegare ma non per questo meno palpabile. È come se la costruzione stessa sfidasse le leggi della fisica e della prospettiva.{/n}
+
+### u067988
+{n}Heinrix fa un gesto di avvertimento. La sua voce, leggermente vibrante di tensione, è venata di inquietudine.{/n} "Fermati, {name}. Questa è una creazione dell'{g|Encyclopedia:Chaos}Arcinemico{/g}, non avvicinarti. Hai già fatto abbastanza per me e per la mia missione: non metterti a rischio adesso."
+
+### u067989
+{n}Non appena Heinrix fa un altro passo verso il cogitatore, questo emette un urlo assordante, come centinaia di aghi di metallo che si conficcano nel vetro temprato, quasi avvertisse l'estraneo. Con una smorfia, Heinrix si avvicina al pannello di controllo e si china verso gli schermi. Nonostante il calore che appesta la stanza, senti una brezza gelida: Heinrix sta chiaramente usando i suoi poteri da {g|Encyclopedia:Psyker}psyker{/g} per cercare di respingere gli effetti perniciosi dell'artefatto del {g|Encyclopedia:Chaos}Caos{/g}.{/n}
+
+### u067990
+{n}Studi attentamente le rune e all'improvviso senti una fitta lancinante agli occhi, seguita da una fitta acuta al petto. Balzi lontano dal cogitatore, con il cuore in tumulto e un fruscio nelle orecchie.{/n}
+
+### u067991
+{n}Il Tecnoprete solleva su Jae uno sguardo incomprensivo.{/n} "La mancanza di stomaco non è un fattore rilevante. Ho condotto le valutazioni del caso: il rischio di danno spirituale è accettabile; l'importanza di ottenere le informazioni è critica."
+
+### u067992
+"Non puoi capire, xenos. Conoscere il proprio nemico è la via per distruggerlo. Se, per prevenire innumerevoli future calamità, devo perpetrarne una io stesso... tale è il mio dovere verso il Trono d'Oro."
+
+### u067993
+{n}Yrliet resta in silenzio per un po', con la testa inclinata da un lato.{/n} "Non solo non vegliate sui vostri simili, ma sacrificate persino le vostre anime al vostro dio morto. È sbalorditivo."
+
+### u067994
+{n}Fai un passo indietro e all'improvviso uno degli schermi del cogitatore cambia colore, diventando di un giallo acceso. I tuoi occhi sono attirati senza scampo da quella tinta biliosa...{/n}
+
+### u067995
+{n}Il cogitatore mostra sugli schermi un muro di testo. La sequenza di simboli è un miscuglio insensato di numeri, formule e caratteri sconosciuti. Non sembra esserci alcuna logica, eppure non c'è dubbio che il cogitatore stia eseguendo calcoli su scala prodigiosa.{/n}
+
+### u067996
+{n}Un'occhiata basta a dirti che sono rune del {g|Encyclopedia:Chaos}Caos{/g}, in cui si annida una cupa minaccia per la mente e l'anima. Distogli in fretta lo sguardo, cercando di cancellare dalla mente quegli odiosi simboli.{/n}
+
+### u067997
+{n}Un fascio di cavi esce dal pannello laterale rotto del cogitatore: erano chiaramente stati aggiunti dopo che la macchina aveva lasciato la linea di produzione del manufactorum. I fili serpeggiano sul pavimento e scompaiono dentro un portello di manutenzione che porta da qualche parte più in basso.{/n}
+
+### u067998
+{n}Ti volti bruscamente dallo schermo e senti quasi cadere catene invisibili. La consapevolezza arriva un istante dopo: non stavi combattendo contro la tua curiosità, ma contro la volontà malevola di qualcuno, che ora ha perso la presa su di te.{/n}
+
+### u067999
+{n}Non riesci a smettere di fissare il quadrato giallo. Orribili simboli iniziano a comparire a poco a poco nelle profondità dello schermo. Lentamente si avvicinano a te, finché uno di essi tende un artiglio ricurvo... Troppo tardi capisci cosa sta succedendo, e gli artigli affilati si conficcano nel tuo cuore. Barcollando all'indietro, senti ancora il tocco di quella mano gelida.{/n}
+
+### u068000
+"Fuori discussione. Anche ignorando la potenziale perdita di dati... Potrebbe ucciderci."
+
+### u068001
+{n}Passa un minuto, poi un altro. Guardi Heinrix esaminare il cogitatore: i suoi occhi scorrono sugli schermi, le mani guizzano dalla bobina alla leva, a volte restano incerte sopra il successivo interruttore, che si ricopre subito di brina. A un certo punto senti la sua voce, quasi un sussurro, appena udibile sopra il fragore della macchina che ruggisce.{/n}
+
+### u068002
+"...sacrifici. Sempre più sacrifici a ogni minuto..." {n}Heinrix ti guarda, gli occhi ora più scuri, quasi neri nel volto bianco.{/n} "Hecatombe determinans. Il grembo di questa maledetta macchina si trova ai livelli inferiori. L'enumeratore ausiliario controlla il sistema che convoglia i rifiuti fusi sotto l'edificio principale del manufactorum. Questo cogitatore è alimentato dall'energia estratta da migliaia di persone, che in questo momento scorrono sotto i nostri piedi come scorie."
+
+### u068003
+{n}Cerca di sfoggiare un sorriso rassicurante, ma ne esce più una smorfia.{/n} "Starò bene."
+
+### u068004
+{n}Heinrix vacilla ancora per un secondo, poi scuote la testa come per scacciare una nebbia mentale.{/n} "Ho {d|Encyclopedia:CompHeinrix_Humane}quasi ceduto{/d} al vecchio trucco dell'Arcinemico... il richiamo dell'irraggiungibile, la principale fra tutte le trappole che il Caos tende alle anime incaute."
+
+### u068005
+{n}Heinrix ti lancia uno sguardo carico di disprezzo.{/n} "Le loro morti {d|Encyclopedia:CompHeinrix_Humane}non giustificano{/d} l'assassinio di altri servitori innocenti dell'{g|Encyclopedia:Imperium}Imperium{/g}, Rogue Trader."
+
+### u068006
+{n}Lo sguardo offuscato di Heinrix si schiarisce all'improvviso, ed egli fissa il cogitatore con ira.{/n} "No. No, i farneticamenti immondi del culto {d|Encyclopedia:CompHeinrix_Humane}non valgono tanto{/d}. Quello che riusciremo a estrarre dalle sue unità di memoria sarà sufficiente."
+
+### u068007
+{n}Heinrix fissa impassibile lo schermo del cogitatore.{/n} "Sì... Lasciamo che la macchina finisca i suoi calcoli. {d|Encyclopedia:CompHeinrix_Rough}Voglio sapere{/d} che cosa, esattamente, i servitori del culto fossero così impazienti di vedere nel futuro. Forse... se aumentassimo la potenza... finirebbe prima..."
+
+### u068008
+{n}Gli schermi del cogitatore lampeggiano, e il ruggito gutturale nelle sue profondità si trasforma in uno strillo frenetico che sembra contenere le urla di morte di migliaia di persone.{/n}
+
+### u068009
+{n}Heinrix non fa in tempo a fermarti: il tuo colpo manda i cavi strappati a frustare in ogni direzione, spargendo scintille e gocce di nauseabondo fango scarlatto.{/n}
+
+### u068010
+"Ma non riesco nemmeno a immaginare la ragione per sacrificare tutte queste persone... È inconcepibile. Ora sappiamo perché il Fabricator-Censor teneva così tanto a questo mostro. Il maledetto {g|Encyclopedia:TechPriest}Tecnoprete{/g} e i suoi associati hanno creato qualcosa che andava oltre i limiti del potere dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}. Questa macchina è progettata per elaborare miriadi di possibilità tramite la stregoneria del {g|Encyclopedia:Warp}warp{/g}. Ha quasi finito il suo compito. Essa... essa predice il futuro, {name}."
+
+### u068011
+{n}Heinrix vacilla ancora un istante, e le sue mani {d|Encyclopedia:CompHeinrix_Rough}si posano sugli interruttori del cogitatore{/d}.{/n} "Accelererò il processo. Così che tutto finisca il prima possibile."
+
+### u068012
+"Non tentate di ottenere alcuna comprensione dell'essenza delle macchine corrotte dall'Arcinemico, almeno non se tenete alla vostra anima! Ho già incontrato in passato le abominazioni meccaniche degli eretici... comprenderne davvero la natura significa lasciare entrare nel proprio cuore una particella di morte." {n}Heinrix tace per qualche istante.{/n} "Ma i frutti che portano... per quanto abominevoli siano i loro strumenti, i frutti che portano potrebbero essere utili."
+
+### u068013
+{n}Heinrix ti guarda, con occhi di ghiaccio.{/n} "{g|Encyclopedia:RogueTrader}Rogue Trader{/g}, in nome del {g|Encyclopedia:GoldenThrone}Trono d'Oro{/g}, requisisco la popolazione dei livelli inferiori di questo manufactorum {d|Encyclopedia:CompHeinrix_Rough}per gli scopi dell'Inquisizione{/d}."
+
+### u068014
+{n}I movimenti di Heinrix sono precisi e mirati, a differenza di come aveva manovrato il cogitatore poco prima. Uno dopo l'altro, gli schermi del cogitatore iniziano a spegnersi, e il ruggito proveniente dall'interno della macchina si smorza in un ululato appena percettibile... in cui ti sembra di sentire note di abbattimento.{/n}
+
+### u068015
+{n}Heinrix si china sui tasti e sussulta come per una scossa elettrica. La sua testa scatta all'indietro in modo innaturale, e vedi le sue labbra muoversi... Il cogitatore emette un ruggito che si fa più forte di secondo in secondo...{/n}
+
+### u068016
+{n}Heinrix è troppo assorto nell'esame del pannello di controllo per fermarti. Ti avvicini alla sezione laterale dell'involucro del cogitatore, da cui partono diversi grossi cavi. A ogni passo verso gli schermi tremolanti, la sensazione che il cogitatore ti osservi con occhi che sbattono rapidamente si fa sempre più forte. Da vicino vedi che, oltre a pulsanti, interruttori e leve, l'involucro del cogitatore è ricoperto anche da strane scritte.{/n}
+
+### u068017
+{n}Quando tenti di studiare il testo mostrato sugli schermi, la testa comincia a girarti. Distogli lo sguardo, ma i quadrati luminosi continuano a danzarti davanti agli occhi, come se ti si fossero impressi a fuoco nelle retine.{/n}
+
+### u068018
+"La grazia dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g} non ha toccato questo oggetto. Questo meccanismo non è stato dissacrato, ma è nato difettoso e innaturale. Ferro quanto mai profano." {n}Pasqal estrae con calma una tavoletta dati.{/n} "Avvio del registro di osservazione. Che la paura non si frapponga sulla via della Conoscenza."
+
+### u068019
+"Hai appena detto che questa cosa è un'abominazione. Eppure intendi immergerti in essa per studiarla? Non ti ripugna l'idea?"
+
+### u068020
+{n}Idira compare all'improvviso al tuo fianco e ti tira per la manica.{/n} "Lord Capitano, no. Ti prego, non farlo. Non guardare e basta. I sussurri dicono che non ne verrà niente di buono. Faresti meglio ad allontanarti da quella cosa..."
+
+### u068021
+{n}Idira apre bocca per parlare, ma poi abbassa lo sguardo, imbarazzata.{/n}
+
+### u068022
+"Intendete lasciare che una creazione da oltre il velo faccia ciò per cui è stata progettata?" {n}Yrliet fissa Heinrix con stupore.{/n} "Non è la vostra vocazione proteggere i vostri simili dagli intrighi e dalle tentazioni di Sai'lanthresh?"
+
+### u068023
+"Qualche suggerimento su come procedere?"
+
+### u068024
+"Restando qui non scopriremo niente. Andiamo."
+
+### u068025
+"Ricordami, qual è la tua missione su Kiava Gamma?"
+
+### u068026
+{n}Heinrix aggrotta la fronte mentre i suoi occhi scorrono sulle sale buie del {g|Encyclopedia:Manufactorum}manufactorum{/g}.{/n} "Nessuna cerimonia solenne, nessun incontro personale con i Magi... Temo che siamo arrivati troppo tardi e che, dopotutto, non avremo a che fare con eretici clandestini."
+
+### u068027
+"Hai ragione, Glaito, c'è decisamente qualcosa che non va. E presto scopriremo cosa."
+
+### u068028
+{n}Arie binariche d'allarme fluiscono dal {g|Encyclopedia:Vox}sintetizzatore vox{/g} di Pasqal. Nel loro ritmo nevrotico e spezzato, avverti una chiamata alle armi e un avvertimento di pericolo.{/n}
+
+### u068029
+{n}L'Interrogatore annuisce, continuando a scrutare la penombra circostante.{/n}
+
+### u068030
+"Per cominciare, guardiamoci intorno e scopriamo perché l'arrivo del {g|Encyclopedia:RogueTrader}Rogue Trader{/g} non ha suscitato il solito trambusto. A dirla tutta, a questo punto non conterei su un'accoglienza calorosa. Tenete l'arma a portata di mano."
+
+### u068031
+"Pensavo di condurre un'indagine e rintracciare le tracce del Culto dell'Alba Finale. Credo di poter scartare quel piano: sia l'incidente con il codice spazzatura sia il modo in cui siamo stati costretti ad atterrare su Kiava Gamma indicano che la situazione è peggiorata."
+
+### u068032
+"Ciononostante, devo approfittare di questa occasione e cercare di stabilire che cosa facesse il culto su un {g|Encyclopedia:IndustrialWorld}mondo industriale{/g} e che cosa, nello specifico, lo interessasse su un pianeta pieno di macchine sacre e di servitori dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}. Prima di tutto dobbiamo trovare qualcuno che possa dirci che cosa è successo qui..." {n}Heinrix si ferma, tendendo l'orecchio per cogliere qualcosa.{/n} "...sempre che sia rimasto qualcuno con cui parlare."
+
+### u068033
+{n}Le visiere del mastino cibernetico sfarfallano senza sosta, come se cercasse di elaborare un'enorme ondata di dati. Il cane si sporge in avanti con un lieve ringhio, ma poi, docile, torna immobile al fianco del suo padrone.{/n}
+
+### u068034
+[Spara alla testa]
+
+### u068035
+[Guarda la gabbia più vicina a te]
+
+### u068036
+"Attento, Heinrix."
+
+### u068037
+[Allontanati]
+
+### u068038
+"Cosa vuoi fare?"
+
+### u068039
+"Hai mai visto qualcosa del genere prima d'ora?"
+
+### u068040
+"Perché sono collegati ai cogitatori?"
+
+### u068041
+[Studia da vicino i mutanti]
+
+### u068042
+Hai detto a Heinrix di non usare la biomanzia sul mutante, per non prolungarne la sofferenza.
+
+### u068043
+"Heinrix, lascia perdere. Stai solo prolungando la loro sofferenza."
+
+### u068044
+Hai detto a Heinrix di usare la biomanzia sul mutante allo scopo di estrarre informazioni.
+
+### u068045
+"Se c'è qualcosa che li farà parlare, dobbiamo usarla."
+
+### u068046
+"Sono persone. Mutate in modo mostruoso, ma sempre persone."
+
+### u068047
+"Il Lexmeccanico parlava di una specie di smaltimento delle scorie e di simboli del Caos sulle macchine... Che cosa stanno facendo i servitori dell'Arcinemico alla gente dei livelli inferiori?"
+
+### u068048
+"Che cosa speri di ottenere prolungando la loro sofferenza? Liberali da questo incubo!"
+
+### u068049
+"Non ho intenzione di discutere con te. Mi pare che tu abbia già deciso."
+
+### u068050
+"Mi pare che tu abbia già deciso. Queste persone hanno bisogno di essere liberate dalla loro sofferenza."
+
+### u068051
+"Queste persone possono ancora servire l'Imperium. Chiunque riterrebbe la loro sofferenza un prezzo giusto da pagare."
+
+### u068052
+"Che cos'è?"
+
+### u068053
+{n}Numerosi fili e tubi corrono fino alle gabbie sudicie, piene di quello che sembra un conglomerato di corpi umani. Non riesci a distinguere chi ci sia nella gabbia, ma nell'oscurità lampeggiano a intermittenza luminose scintille blu, mentre la massa di carne si contorce e freme.{/n}
+
+### u068054
+{n}Heinrix getta un occhio scrutatore su una delle gabbie, poi estrae l'arma e si avvicina per esaminare ciò che c'è dentro.{/n}
+
+### u068055
+{n}La carne esplode in una fontana di grumi, spruzzi maleodoranti e schegge d'osso. La ferita spalancata si richiude in un istante, e dalle profondità carnose emerge un volto diverso al posto della testa perduta. Il corpo del mutante pulsa più veloce, più forte, come se il battito dell'abominio fosse schizzato alle stelle per la paura. Da tutte le altre gabbie si leva insieme un gemito di molte voci: il dolore è stato avvertito da tutti coloro che condividono il terribile destino del mutante.{/n}
+
+### u068056
+"Negativo. Ciò che sto osservando ora non sono i miei tecno-compagni, ma semplicemente i loro resti biologicamente funzionanti, plasmati in un esemplare di innaturale perversione della Tecnologia. Non ho alcuna direttiva che mi imponga di provare affinità verso tali esemplari."
+
+### u068057
+"Groxseed..." {n}Jae pronuncia appena la parola, con una voce che non sembra affatto la sua.{/n}
+
+### u068058
+{n}Attraverso le sbarre di metallo vedi che è davvero un mucchio di corpi umani, o qualcosa che un tempo lo era. I corpi mostruosamente deformi si sono fusi in alcuni punti, mentre altri sono stati recisi con seghe e coltelli, lasciando ferite che trasudano pus e melma, ferite che si agglutinano e mettono tendini. Aste collegate a fili che corrono verso un vicino {g|Encyclopedia:Cogitator}cogitatore{/g} sporgono su tutta la carne. Una delle teste umane si volta verso di te.{/n} "Pietà..."
+
+### u068059
+"Guardalo!" {n}Heinrix indica la gabbia più vicina a te.{/n}
+
+### u068060
+"L'effetto dell'energia del warp porterà con ogni probabilità a una reazione esplosiva. Non conosco il meccanismo preciso di questa mutazione: il risultato potrebbe essere ancora più mostruoso del suo stato attuale."
+
+### u068061
+"Ne ho viste tante, Rogue Trader. Comprese le mutazioni causate dalla stregoneria del {g|Encyclopedia:Chaos}Caos{/g}. Ma ciò che mi spaventa di più non è la loro forma ripugnante, bensì ciò che si nasconde sotto di essa." {n}Heinrix aggrotta la fronte.{/n} "Un'anima umana in tormento. Il Caos non dimentica mai di assicurarsi che le sue vittime conservino la capacità di soffrire."
+
+### u068062
+{n}Heinrix studia con attenzione gli schermi delle macchine calcolatrici.{/n} "Lingua-Technis, corrotta dal codice spazzatura, ne sono certo. È improbabile che riusciremo a estrarre qualcosa di valore dalle loro cripte dati." {n}Pensieroso, Heinrix serra il pugno e si morde una nocca, poi sussulta quando il mutante della gabbia più vicina gli tende una mano attraverso le sbarre.{/n}
+
+### u068063
+{n}Esamini la massa di carne pulsante. La creatura nella gabbia sembra composta da diversi corpi uniti insieme. Non vedi suture né altri mezzi con cui le parti separate possano essere state collegate. Tra gli strati di carne distingui grossi nodi di muscoli, arti di ogni genere, ossa scoperte, parti di volti e teste intere... Solo la stregoneria del {g|Encyclopedia:Warp}warp{/g} è in grado di creare un simile abominio preservandone la capacità di sopravvivere.{/n}
+
+### u068064
+{n}Scruti la massa di carne pulsante. Sotto la sottile pellicola che riveste la pelle di questa mostruosa creazione, vedi le vene pulsanti che serpeggiano nella carne e l'icore giallo che scorre. La creatura sembra un conglomerato di più persone, compresse da mani brutali in un unico blocco.{/n}
+
+### u068065
+"Ti sbagli: questa è la nostra occasione per scoprire di più. Trarre del bene dalla sofferenza è l'unica cosa che giustificherà il tormento di questi sventurati. È il modo in cui possono servire il Trono un'ultima volta."
+
+### u068066
+{n}Heinrix annuisce.{/n} "Sì. È possibile che un'altra persona rifiuterebbe di fare una simile scelta. Ma possiamo usare questa situazione per aiutare l'indagine."
+
+### u068067
+{n}Heinrix annuisce.{/n} "Sono... incline ad alleviare le loro sofferenze. Ogni istante di esistenza in uno stato simile è pura tortura per le persone rinchiuse in questi involucri..."
+
+### u068068
+"Pensi? Minuscoli frammenti di dati che potrebbero rivelarsi inutili e persino dannosi per noi... in cambio della partecipazione a questa tortura?"
+
+### u068069
+{n}Heinrix annuisce cupo.{/n} "Sì, a essere precisi è questo che la stregoneria del warp ha fatto a loro. Ho visto molti mutanti i cui lineamenti erano stati distorti dagli effetti dell'{g|Encyclopedia:Chaos}Arcinemico{/g}... ma questo va oltre ogni immaginazione."
+
+### u068070
+"Conoscere il funzionamento della stregoneria oscura significa lasciare entrare la corruzione dentro di sé." {n}Heinrix si acciglia.{/n} "Queste sono mutazioni del warp, senza dubbio. Forse c'è stato qualche effetto collaterale, ed è per questo che sono stati portati qui, collegati a sensori e cogitatori. Persino i Tecnopreti caduti che hanno rifiutato l'{g|Encyclopedia:Omnissiah}Omnissiah{/g} sono guidati da una perversa fame di Conoscenza."
+
+### u068071
+{n}Heinrix tentenna ancora un istante, poi si china sui cogitatori.{/n} "Ogni mutante ha dei cavi collegati. Posso non conoscere la natura di queste macchine, ma non è troppo difficile aumentare il voltaggio... Ah, questo interruttore qui..."
+
+### u068072
+{n}Heinrix esita un istante, poi chiude gli occhi e alza una mano. Sei avvolto da un gelo ultraterreno. La massa di carne nella gabbia si solleva all'improvviso: il mutante spalanca le labbra incollate e comincia a gemere freneticamente. Il suo strillo trova eco in un coro di ululati e lamenti torturati dalle gabbie vicine.{/n}
+
+### u068073
+"Ecco fatto, dunque. Ma sai che cosa mi turba, Rogue Trader? Il numero di persone qui: sono troppo poche. I livelli inferiori di manufactorum simili sono abitati da milioni di individui: che ne è stato di tutti gli altri?" {n}Heinrix scuote la testa.{/n} "So che la risposta non mi piacerà. Andiamo. Non abbiamo ancora fatto ciò per cui siamo venuti qui."
+
+### u068074
+{n}Heinrix osserva ciò che lo circonda e fissa ancora una volta l'attenzione sul contenuto della gabbia più vicina.{/n} "Comincio ad avere un'idea. Il {g|Encyclopedia:Lexmechanic}Lexmeccanico{/g} ha menzionato gli abitanti dei livelli inferiori che erano stati imprigionati nelle loro case. Ha detto che alcuni di loro sono stati portati qui. I cultisti hanno fatto qualcosa a quei poveretti... nelle loro stesse case... e ora ne studiano il risultato."
+
+### u068075
+"I miei poteri da psyker mi permettono di influire sul corpo umano. È uno degli strumenti più efficaci contro gli individui che resistono all'interrogatorio. Ma se state insinuando che io 'voglia' usarlo, credo che stiate correndo un po' troppo."
+
+### u068076
+"Che io sia dannato! Possono ancora parlare! Ricordano chi ha fatto loro questo!" {n}Heinrix serra i pugni in una rabbia impotente. Poi si acciglia, pensieroso.{/n} "Forse un po' di biomanzia ci permetterà di estrarre da loro frammenti di conoscenza. Oppure scatenerà ulteriori... cambiamenti."
+
+### u068077
+{n}Il mutante cambia sotto i tuoi occhi: i tumori si ritirano come una marea che cala, rivelando un volto femminile emaciato, contorto dall'agonia. La donna boccheggia, stira il collo ora mobile ed esclama:{/n} "BUGIARDI! Avevate promesso di uccidermi! Avevate promesso di liberarmi! Ognuno di voi, tutti mi dicevano di sperare e che il dolore sarebbe passato! Accettate la Verità, perché quella è speranza! La mia unica speranza è essere liberata da questo dolore! Per favore, fatelo! FATELO SMETT—" {n}Un grumo di carne dietro la sua testa freme ed emette lisci, grossi tentacoli che coprono il suo volto urlante e lo trascinano dentro di sé. Senti la pressione nelle orecchie: dalla gabbia giunge un suono costante, quasi impercettibile, che ti riempie di disperazione e orrore.{/n}
+
+### u068078
+{n}Con un sospiro, Heinrix abbassa la mano e guarda ciò che la creatura nella gabbia è diventata. Una massa di carne e cartilagine dal lucido umido, che non reca più alcuna traccia della sua origine umana, pulsa con vigore.{/n} "E questo è tutto? I lamenti di persone che muoiono? No. Non solo questo. Quello che ha detto sulla speranza suona come una menzogna del Caos, che esso usa per mettere radici nelle menti deboli. Credo che i Tecnopreti corrotti ripetessero questa frase come un'eco di ciò che era stato loro instillato... Qualunque cosa il Culto dell'Alba Finale stia pianificando, la falsa speranza è un elemento chiave del loro piano. È una pista. Piccola, ma pur sempre una pista."
+
+### u068079
+{n}Senza lasciarsi sfuggire il sobrio interesse di Pasqal per lo svolgersi degli eventi, che egli registra diligentemente su una tavoletta dati, Abelard solleva un sopracciglio:{/n} "Stimato Magos, questi sono vostri compagni. Se posso chiedere: provate compassione per loro? O almeno rammarico? Rammarico per le perdite che queste povere persone rappresentano per l'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g}?"
+
+### u068080
+{n}Kibellah fissa senza battere ciglio il mucchio di carne fusa.{/n} "Non sento i loro nomi nei sussurri dell'Imperituro. Sono diventati... troppo contorti, ed Egli non li ricorda più."
+
+### u068081
+"Queste persone soffrono più di chiunque altro, in qualsiasi luogo, e tu rifiuti di liberarle? Che cosa c'è che non va in te?"
+
+### u068082
+"Non sono più persone. Non importa cosa accada loro." {n}Kibellah si volta dalla gabbia.{/n}
+
+### u068083
+{n}Idira impreca furiosa.{/n} "'Un po' di biomanzia'... Questo è un groviglio di carne e ossa che, per uno strano miracolo, ha ancora un'anima e una mente! Andiamo, uomo di ghiaccio, lasciali morire in pace una buona volta!"
+
+### u068084
+{n}Heinrix si volta verso Idira. Non vedi il suo volto, ma vedi Idira rimpicciolirsi all'improvviso e abbassare lo sguardo.{/n}
+
+### u068085
+{n}Senti lo scoppiettio dell'elettricità. I fili brillano di scintille blu, e le creature rinchiuse nelle gabbie crollano senza vita sul pavimento. Nell'aria aleggia l'acre odore di carne bruciata.{/n}
+
+### u068086
+{n}Persino tentare di parlare provoca dolore al mutante, ma egli sopporta l'agonia e a fatica pronuncia le parole:{/n} "Pietà... Fate... fate smettere..."
+
+### u068087
+"Caposquadra... del settore... settore... Fa male... Pietà..." {n}Il mutante tace per qualche istante, ma poi la sua voce torna più forte.{/n} "Caposquadra della Caldaia 3... Veniamo... dai livelli... inferiori..." {n}Le ultime parole sono soffocate da un gemito.{/n}
+
+### u068088
+"Tu..." {n}Un volto femminile ti osserva dalla penombra della gabbia. Anche se metà della sua testa è stata ridotta a un ammasso di ossa e escrescenze grumose, il suo unico occhio ti guarda con sorprendente intelligenza.{/n} "Avevi promesso! Ce l'avevi promesso!" {n}Le sue parole trovano eco in altre voci nelle profondità delle gabbie.{/n}
+
+### u068089
+{n}Heinrix si china verso la gabbia, ma a una distanza sufficiente a garantire che il mutante non possa raggiungerlo.{/n} "Con chi stai parlando? Che cosa vi hanno promesso? Chi sono?"
+
+### u068090
+"Tu! Ci hai portati via dall'inferno! Ci hai promesso una ricompensa! Tu..." {n}Il suo volto si contorce in una smorfia e le labbra della creatura si incollano come cera fusa.{/n}
+
+### u068091
+"Non ti comporti come gli altri sacerdoti infettati dalla corruzione."
+
+### u068092
+"Da noi non hai nulla da temere."
+
+### u068093
+"Che cos'è questo? Un altro dei servi dei cultisti?"
+
+### u068094
+[Attacca] "Morte agli schiavi dell'Arcinemico!"
+
+### u068095
+"Hai parlato di qualcuno imprigionato ai livelli inferiori?"
+
+### u068096
+"Come sei riuscito a evitare la stessa sorte?"
+
+### u068097
+"Heinrix? Che cosa stai pensando?"
+
+### u068098
+"Come si comportavano i tuoi compagni impazziti?"
+
+### u068099
+"Hai parlato di un 'mostro'. È una specie di arma?"
+
+### u068100
+[Rivolgiti a Heinrix] "Che cosa ne pensi?"
+
+### u068101
+Hai detto a Heinrix di non ricollegare il Lexmeccanico al cogitatore corrotto.
+
+### u068102
+"Heinrix, fermati. I capi del culto non discuterebbero mai di nulla di importante davanti a dei testimoni. Lascia stare quel poveretto."
+
+### u068103
+"Heinrix. No. Non farlo."
+
+### u068104
+"Il cogitatore si può scollegare e ricollegare a un'altra macchina?"
+
+### u068105
+"Verrà portato sulla mia nave. Dopo i riti di purificazione, gli troveremo un posto lì."
+
+### u068106
+"È stato contaminato dalla corruzione. Non posso permettergli di salire sulla mia nave. Cerchi pure da solo la sua via verso la salvezza."
+
+### u068107
+[Uccidi il Lexmeccanico] "I deboli meritano soltanto la morte."
+
+### u068108
+Hai detto a Heinrix di ricollegare il Lexmeccanico al cogitatore corrotto.
+
+### u068109
+"Non possiamo permettere che queste informazioni vadano sprecate. Una vita è un piccolo prezzo da pagare per il bene dell'Imperium."
+
+### u068110
+{n}Davanti a te sta un uomo minuto, pesantemente {g|Encyclopedia:Augmentation}augmetizzato{/g}, avvolto in una tonaca sudicia e a brandelli. Mentre ti avvicini, alza lo sguardo con esitazione, gli occhi pieni di orrore. Un inscrittore portatile con tastiera gli pende sul petto da alcune cinghie, e da sotto il cappuccio spunta il suo {g|Encyclopedia:Cogitator}cogitatore{/g} cerebrale scollegato.{/n}
+
+### u068111
+{n}Il Lexmeccanico indica i fili e i connettori che gli fuoriescono da sotto il cappuccio.{/n} "Siano lodati i doni dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}, sono riuscito a scollegare il mio cogitatore esterno, quello che usavo per l'elaborazione primaria dei dati. La macchina è corrotta: il codice spazzatura è rinchiuso al suo interno come una belva in gabbia, ma chiunque provi a guardarci dentro sarà vittima del programma eretico."
+
+### u068112
+"E non hai fatto nulla per fermarli. Registro la violazione del comandamento 'Della tua forgia sii una vera sentinella'. Apostata Zeta-86, i tuoi accessi sono revocati con effetto immediato. Procedi con il tuo rapporto." {n}Il gelido brontolio che esce dal vox di Pasqal fa abbassare la testa al Lexmeccanico, in preda alla paura e alla contrizione.{/n}
+
+### u068113
+"Il mio cervello primitivo è stato segnato dalla corruzione... Vedo ancora le loro sagome, sento le loro interferenze, avverto i malfunzionamenti delle mie augmetiche... ma sono stato comunque risparmiato dal grande sacrificio! Oh, benedetti siano i disegni dell'Omnissiah e la Sua benedizione, che protegge i deboli dal male!"
+
+### u068114
+{n}Heinrix si irrigidisce appena alle parole del Lexmeccanico. Vedi la sua mano scivolare con noncuranza verso l'impugnatura dell'arma, ma l'Interrogatore non ha fretta di agire.{/n}
+
+### u068115
+{n}Il Tecnoprete si rannicchia dietro le mani, piagnucolando pietosamente,{/n} "No! No! Non sono un cultista! Hanno tentato di corrompermi la mente con la loro eresia, ma sono scappato!"
+
+### u068116
+{n}Heinrix ti ferma con un gesto brusco.{/n} "Tenete a freno la rabbia: voglio parlare con quest'uomo. Sembra meno aggressivo degli altri."
+
+### u068117
+"Deus Mechanicus!" {n}Il {g|Encyclopedia:TechPriest}Tecnoprete{/g} decide di guardarti meglio, dopodiché emette un respiro rotto e riesce a placare il tremito.{/n} "Ha udito le mie preghiere... Credevo di essere solo in un regno di follia e depravazione! Vi prego, salvatemi!"
+
+### u068118
+"Sono il {g|Encyclopedia:Lexmechanic}Lexmeccanico{/g} del {g|Encyclopedia:Manufactorum}manufactorum{/g} Zeta-86. Eseguivo i rituali per gli spiriti macchina della Fonderia 95... fino a quando non abbiamo cominciato a impazzire! I sacerdoti devoti all'{g|Encyclopedia:Omnissiah}Omnissiah{/g} hanno iniziato di colpo a lodare l'alba di non so che cosa... hanno fermato i nastri... e poi hanno profanato i volti delle sacre macchine con simboli empi!"
+
+### u068119
+"Alcuni hanno resistito... Gli altri li hanno afferrati, legati e poi... e poi hanno rivolto i loro impianti all'eresia! Ho visto quei pazzi, i miei ex tecno-compagni, collegare di proposito quelle povere anime a {g|Encyclopedia:Cogitator}cogitatori{/g} corrotti... Ho visto come venivano infettate dal codice spazzatura..."
+
+### u068120
+"È una vera abominazione! Persino starle vicino è insopportabile! Credo che anche chi è stato privato della grazia dell'Omnissiah ne senta ancora l'influsso... il suo potere mostruoso usato per computazioni empie e calcoli caotici! Qualunque cosa quel cogitatore sputi alla fine del suo ciclo, nessuna anima retta dovrebbe accettarne l'offerta ripugnante!"
+
+### u068121
+"Potrei darvi le coordinate, ma..." {n}Il Lexmeccanico china il capo.{/n} "Anche se ero presente a molte delle blasfemie commesse da quegli eretici, tutti i dettagli registrati ed elaborati dalla mia Vera Carne si trovano nell'augmetica corrotta dal codice spazzatura. Sono convinto che, se non avessi respinto in tempo quella costrizione estranea, sarei stato spacciato: la corruzione si sarebbe diffusa anche al mio cogitatore biologico." {n}Il Lexmeccanico batte un dito sul dispositivo che gli pende dall'orecchio, attaccato a diversi fili.{/n} "Giuro che nessun Tecnoprete devoto dovrebbe entrare in contatto con ciò che si nasconde in quel dispositivo un tempo sacro!"
+
+### u068122
+{n}Il Lexmeccanico scuote la testa in segno di rimprovero.{/n} "Anche se l'idea stessa di esporre una macchina sacra al codice spazzatura non fosse già profana in sé... le mie augmetiche non sono universalmente compatibili: non possono essere collegate a un altro spirito macchina. Sono state create per interagire all'interno del sistema della mia Vera Carne, per innervare la mia unità compulsoria ed emettere i dati tramite l'inscrittore. Una volta al sicuro, giuro che eseguirò subito un rito di purificazione e distruggerò..."
+
+### u068123
+"In altre parole, c'è un solo modo per estrarre i dati custoditi nel cogitatore."
+
+### u068124
+"Io... io non l'ho evitata. Hanno eseguito la stessa procedura su di me. Ho sentito il tocco del codice empio, ho permesso che mi controllasse. Ho abbandonato il mio sacro posto e ho seguito uno dei traditori, servendo la sua volontà e raccogliendo tutti i dati per i suoi esperimenti blasfemi. Mi spingeva un impulso empio che veniva dalle profondità del mio cogitatore ausiliario, dove il codice si era annidato."
+
+### u068125
+"Prima di trovare il modo di scrollarmi di dosso la costrizione, ho assistito a eresie orribili... l'estrazione della Vera Carne e la sua decomposizione sugli altari... procedure perverse da cui nascevano abomini {g|Encyclopedia:Heretech}eretecnologici{/g}... Ho persino accompagnato un Magos caduto dal Fabricator-Censor in persona e ho assistito alla messa empia che celebrava di persona! Era un rituale malvagio, pieno di deviazioni volute e di errori palesi... tutto per creare un mostro blasfemo in nome dell'alba finale!"
+
+### u068126
+"Se colleghiamo il cogitatore al sistema augmetico, il Lexmeccanico farà da condotto per la trasmissione dei dati. Scopriremo i dettagli, per quanto incompleti, di ciò che ha visto e sentito ma che ora non è in grado di ricordare."
+
+### u068127
+"No, no, non quei costrutti che vengono fusi nelle fornaci e inviati nelle profondità del manufactorum! È una specie di parvenza di cogitatore, una parodia da incubo di una macchina sacra, alimentata non dalla grazia dell'Omnissiah, ma dallo spirito empio e dalla forza vitale degli sventurati imprigionati ai livelli inferiori!"
+
+### u068128
+"So poco, tranne che il Fabricator-Censor considerava quella macchina... speciale. Era speciale per lui e per i pazzi che hanno contaminato la dimora dell'Omnissiah con le loro oscene blasfemie! Per il rituale finale ha chiamato persino uno degli eretici Astartes arrivati al manufactorum dopo l'inizio delle rivolte. Lui... ha fatto qualcosa. Qualcosa di terribile. E solo dopo sono riusciti ad accendere la macchina."
+
+### u068129
+{n}L'Interrogatore inclina la testa.{/n} "Servitore dell'Omnissiah, devo sapere di più. Sull'alba finale, sul Fabricator-Censor, sulla sua messa... e anche su questa macchina."
+
+### u068130
+{n}La voce di Heinrix si fa secca.{/n} "Il Lexmeccanico potrebbe essere stato presente a conversazioni vitali per le indagini sul culto. Ci serve il contenuto di quel cogitatore."
+
+### u068131
+{n}L'espressione di Heinrix cambia mentre fissa con attenzione l'impianto scollegato e i connettori ancora intatti che sporgono da sotto il colletto del Lexmeccanico. L'angolo della sua bocca ha un tic involontario.{/n}
+
+### u068132
+"Per il bene dell'{g|Encyclopedia:Imperium}Imperium{/g}." {n}Come un serpente, Heinrix si avventa sul Lexmeccanico, la cui bocca si apre sul principio di uno strillo.{/n}
+
+### u068133
+"Come se la grazia dell'Omnissiah li avesse abbandonati del tutto, sostituendo il libero pensiero e il progresso con la più nera corruzione. Li ho visti profanare strutture benedette dal Fabricator-Censor in persona... ma che valore hanno ormai le benedizioni di quel marcio traditore? Come ossessi si sono scagliati sugli strumenti sacri e hanno assemblato gusci e nodi che non corrispondevano a nessuno schema o progetto che avessi mai visto. Sacrilegio!"
+
+### u068134
+{n}Il rotolo che striscia fuori dalla stampante dell'inscrittore continua ad allungarsi, ondeggiando in onde di pergamena che si adagiano sul pavimento. Lo scricchiolio delle ossa che si spezzano si sente a malapena sopra il martellare dei tasti. Dopo alcuni minuti, le dita del Lexmeccanico sono ormai ridotte in poltiglia e il sangue schizza sull'inscrittore, ma questo non gli impedisce di tentare invano di premere i tasti con i resti di ossa e pelle che gli rimangono. Heinrix strappa la pergamena e la scorre con lo sguardo, aggrottando a tratti la fronte e distogliendo gli occhi come se gli facessero male.{/n}
+
+### u068135
+"Ci vorrà del tempo per studiare tutto questo a fondo, ma a prima vista... a prima vista i dati del cogitatore del Lexmeccanico suggeriscono qualcosa sulla natura dei preparativi principali del culto. Riallestimento del manufactorum, accumulo di risorse, accenni a 'punti focali'... sono i preparativi per un rituale del Caos su larga scala. Sembra che il cogitatore locale, qualunque cosa sia in realtà, sia uno dei punti chiave di questo elenco."
+
+### u068136
+"Ve lo dico! Ve lo dico!" {n}Il Lexmeccanico fruga tra i suoi stracci fino a tirare fuori un pezzo di pergamena.{/n} "Un'altra augmetica si occupa della mia memoria muscolare. Ha anch'essa un archivio dati. Ricordo dove sono passato e che cosa ho premuto con le dita... ecco, ecco le coordinate... e il codice. Probabilmente è il codice della baia." {n}Gratta via i numeri con l'unghia e passa la pergamena a Heinrix.{/n}
+
+### u068137
+{n}Gli occhi di Heinrix si piantano in quelli dell'uomo più piccolo. Infine, giunto a una conclusione, si volta verso di te.{/n} "È un suddito del vostro mondo, {name}. Spetta a voi decidere il suo destino."
+
+### u068138
+{n}Sferri il colpo mortale prima che Heinrix possa fermarti. Lui fissa il corpo sconvolto, poi volge su di te lo sguardo furibondo.{/n} "Per il {g|Encyclopedia:GoldenThrone}Trono{/g}, perché l'avete fatto? Perché privarmi di dati inestimabili, e quest'uomo della sua vita? Uno spreco insensato di risorse..." {n}Si volta.{/n} "Più tardi vi consegnerò la mia valutazione formale delle vostre azioni. Ora dobbiamo trovare il cogitatore che era così importante per il Fabricator-Censor."
+
+### u068139
+{n}Al Lexmeccanico vengono date le coordinate dello shuttle ed egli si affretta ad andarsene. Heinrix lo guarda allontanarsi, poi si volta verso di te.{/n} "L'eccessiva gentilezza, {name}, mette nei guai le brave persone. Speriamo che la corruzione abbia colpito solo l'augmetica scollegata e non la sua anima. Andiamo, dobbiamo trovare questo cogitatore."
+
+### u068140
+{n}Il Lexmeccanico emette un singhiozzo e si affretta ad andarsene. Heinrix lo guarda allontanarsi.{/n} "Forse, quando Kiava Gamma sarà purificata, troverà un posto nel mondo cambiato. Sempre che non muoia prima. Andiamo, {name}, dobbiamo trovare quel cogitatore."
+
+### u068141
+"Sono un Lexmeccanico. Raccogliere dati è lo scopo della mia esistenza. È proprio per questo che mi usavano..." {n}La voce gli si spegne mentre comprende, in ritardo, il sottinteso delle parole dell'Interrogatore.{/n} "Mi hanno usato contro la mia volontà! Il codice spazzatura rende tutti loro schiavi! Prima di liberarmi del cogitatore, sono stato costretto a servire accanto a coloro che compivano queste atrocità e ad assistere alle loro oscenità!"
+
+### u068142
+{n}Abelard nota l'espressione sul volto di Heinrix. Non appena la coglie, sospira pesantemente e distoglie lo sguardo.{/n}
+
+### u068143
+{n}Yrliet osserva la scena svolgersi con qualcosa che si può definire fascinazione, quasi incantata.{/n} "Con quanta facilità condannate i vostri simili a una fine peggiore della morte..."
+
+### u068144
+{n}Lancia un'occhiata a Pasqal.{/n} "...e con quanta rapidità li liquidate come un oggetto."
+
+### u068145
+{n}Cassia, che ha osservato tutto con stoicismo, sussulta e distoglie lo sguardo quando il Lexmeccanico comincia a ridurre in poltiglia le proprie dita.{/n}
+### u068146
+{n}Heinrix non parla per diversi secondi, stringendo i denti. Poi, con un tono meditabondo, come se riflettesse ad alta voce, si rivolge al Lexmeccanico:{/n} "Forse c'è un modo per recuperare il contenuto del cogitatore tramite un altro dispositivo..."
+
+### u068147
+{n}Il Lexmeccanico, che ascoltava la vostra discussione con aria perplessa, capisce finalmente che cosa sta per accadergli e comincia a indietreggiare spaventato.{/n} "No! Qualsiasi cosa tranne quello! Morirò... no, sarà peggio! Cederò alla corruzione! Vi supplico! Vi prego! Preferirei essere bruciato come eretico piuttosto che avere il codice spazzatura nel mio cogitatore biologico!"
+
+### u068148
+{n}A queste parole, Heinrix si ferma per una frazione di secondo, quasi stesse ripensandoci.{/n}
+
+### u068149
+"Dicci chi sei e che cosa ti è successo."
+
+### u068150
+"Dobbiamo sapere dov'è il cogitatore! Anche se le conversazioni degli eretici non hanno importanza, devo sapere perché quella macchina era così preziosa per loro!"
+
+### u068151
+{n}Bloccando il Lexmeccanico che farfuglia, Heinrix usa la mano libera per cercare i connettori del cogitatore esterno e poi la presa sulla nuca del prigioniero. Il Lexmeccanico si dibatte un paio di volte, ma quando Heinrix gira la bobina dei fili penzolanti del cogitatore, emette un ululato agghiacciante e inarca di scatto la schiena. Le sue mani si contraggono e balzano sull'inscrittore, iniziando a battere freneticamente, martellando i tasti con enorme forza.{/n}
+
+### u068152
+"Possiamo scoprire di più se troviamo il costrutto creato per ordine del Fabricator-Censor... Le coordinate sono qui. Si trova qui, nelle viscere del manufactorum." {n}Heinrix lancia un'ultima occhiata al Lexmeccanico, ormai chiuso per sempre in un ciclo di movimenti privi di coscienza, e si volta.{/n} "Faremmo meglio a sbrigarci."
+
+### u068153
+{n}Idira scruta il Lexmeccanico.{/n} "I sussurri danzano intorno a te, si aggrappano a te ma non per molto... Forse accadrà ancora, forse non accadrà affatto..."
+
+### u068154
+"Non avendo opposto alcuna resistenza ai nemici dell'Omnissiah, l'Unità Zeta-86 ha perso la grazia del proprio rango macchina ed è stata ricategorizzata come risorsa del manufactorum. La profanazione e il tormento di detta risorsa, se compiuti per portare avanti la lotta contro l'eresia, non saranno considerati apostasia né malefatta contro un'anima vivente. Alla scadenza dell'utilità dell'unità, se ne raccomanda lo smaltimento."
+
+### u068155
+"I servitori laici delle unità principali vivono in segmenti isolati sotto le sacre sale delle macchine. Ho sentito dire che sono stati rinchiusi lì dopo la presa del potere. Poi i miei fratelli impazziti hanno cambiato il sistema di smaltimento delle scorie e hanno coperto le macchine di simboli maledetti..." {n}Il Lexmeccanico esita.{/n} "Dopo che hanno avviato il cogitatore, hanno trascinato fuori dai segmenti sotto le sale delle macchine i... sopravvissuti. Be', ciò in cui si erano trasformati."
+
+### u068156
+"Dimostri un'eccezionale capacità di osservazione e di memoria, per uno che è sopravvissuto per puro caso."
+
+### u068157
+"Ho visto che ti è successo qualcosa, Heinrix. Che cosa è accaduto quando hai toccato la macchina?"
+
+### u068158
+Hai detto a Heinrix di aver distrutto il cogitatore eretico per impedire altre morti.
+
+### u068159
+"Non volevo che qualcun altro soffrisse."
+
+### u068160
+"Che cosa speri di scoprire nei dati del cogitatore?"
+
+### u068161
+"Posso contare su di te per condividere qualunque cosa troverai?"
+
+### u068162
+"Spero che questo pezzo di metallo valesse quello che hai fatto."
+
+### u068163
+"Hai fatto la cosa giusta. Le persone sopravvissute a questo disastro continueranno a servire l'Imperium."
+
+### u068164
+"Hai agito in modo avventato. Quelle persone sono comunque condannate: probabilmente sono già infettate dalla corruzione del Caos."
+
+### u068165
+"In ogni caso, è un peccato che il cogitatore non sia sopravvissuto. Immagina i segreti che avrebbe potuto rivelare..."
+
+### u068166
+Hai detto a Heinrix di aver distrutto il cogitatore eretico per devozione verso l'Imperium.
+
+### u068167
+"Ho fatto ciò che farebbe qualunque leale servitore dell'Imperatore!"
+
+### u068168
+Hai attaccato Heinrix dopo aver distrutto il cogitatore eretico.
+
+### u068169
+[Attacca] "E ora elimino anche te."
+
+### u068170
+{n}Heinrix torna al {g|Encyclopedia:Cogitator}cogitatore{/g} in rovina, passa un po' di tempo a esaminare il pannello degli strumenti, poi stacca un componente simile a una {g|Encyclopedia:Cybercrypt}cripta dati{/g}, che ripone rapidamente nella cartucciera.{/n} "Ecco a che cosa serviva questa macchina. Innumerevoli simboli e numeri che contengono la conoscenza di eventi futuri... Spero che i miei specialisti trovino un modo per decifrare il codice corrotto."
+
+### u068171
+"Suppongo sia troppo sperare in un resoconto dettagliato dei piani strategici e politici del culto." {n}Heinrix sbuffa con amarezza.{/n} "Le profezie del Caos sono di rado inequivocabili e chiare. I mistici lavoreranno con quello che i codificatori riusciranno a decrittare. Forse pagheranno il loro servizio con la vita, ma tale è la sorte di chi rischia l'anima nella lotta contro l'{g|Encyclopedia:Chaos}Arcinemico{/g}."
+
+### u068172
+{n}Heinrix ti guarda con aria afflitta.{/n} "Ho sopravvalutato la nostra reciproca comprensione. Un errore deplorevole. Mi dispiace."
+
+### u068173
+"Avete ragione, Magos. Vi sono grato per l'aiuto, ma purtroppo devo nascondervi i frutti del nostro lavoro." {n}Heinrix si guarda intorno nella sala.{/n} "Come avete visto, la mia cautela è ben fondata."
+
+### u068174
+{n}Il vox di Pasqal emette un sospiro pesante, carico di statica.{/n} "Restrizione riconosciuta come valida."
+
+### u068175
+{n}Heinrix fa una smorfia.{/n} "Io... capisco l'impulso. Da essere umano. Ma da Interrogatore, non vedo alcuna giustificazione per le vostre azioni."
+
+### u068176
+{n}Heinrix serra i pugni, e senti il cuore che inizia a battere il doppio più veloce, mentre l'improvviso afflusso di sangue alla testa ti offusca la vista.{/n} "I risultati di questa missione avrebbero potuto dare un senso a tutte quelle morti, ma voi le avete rese vane!"
+
+### u068177
+"In ogni caso, Rogue Trader... l'Inquisitore sentirà parlare di questo nel mio rapporto."
+
+### u068178
+{n}Heinrix tace per qualche istante.{/n} "Sì, {name}. Avete agito come la volontà dell'Imperium impone a tutti i suoi umili laici. È stato un errore confidare che avreste colto la differenza tra persone come me e persone come voi."
+
+### u068179
+"Abbiamo già concordato il vostro compenso a bordo della nave. Il contenuto di questa cripta dati è proprietà dell'{g|Encyclopedia:Inquisition}Inquisizione{/g} e non sarà divulgato."
+
+### u068180
+"Certo. Senza di voi, le mie possibilità di ottenere quelle informazioni sarebbero nulle. Inoltre, i piani del culto potrebbero rappresentare una minaccia per i vostri mondi, proprio come Kiava Gamma."
+
+### u068181
+{n}Gli occhi di Heinrix si posano su di te.{/n} "Devo ringraziarvi, {name}. Senza il vostro aiuto e la vostra collaborazione, dubito che sarei arrivato nelle profondità di Kiava Gamma e avrei scoperto la verità dietro i dispacci e i rapporti dei miei agenti. Non sarei mai finito qui. E non sarei mai riuscito a ostacolare le attività del culto."
+
+### u068182
+"Nessun prezzo è troppo alto da pagare nella guerra contro l'Arcinemico. Nessuno."
+
+### u068183
+"Sì... se non sono stati toccati dalla corruzione. Spero che, quando dovrete decidere il destino di questo mondo e dei suoi abitanti, teniate conto del fatto che tra questi sventurati ci sono anche coloro che il Caos non ha toccato."
+
+### u068184
+"Forse il Lord Inquisitore mi condannerà quando presenterò il mio rapporto. Ma sono pronto a rendere conto delle mie azioni. Quanto ai sopravvissuti... il loro destino è nelle vostre mani, Rogue Trader."
+
+### u068185
+"Al prezzo di migliaia e migliaia di anime? No. I segreti scoperti a un tale prezzo sono essi stessi corruzione, che macchia l'anima e conduce alla rovina."
+
+### u068186
+"Gli affari che avevo su Kiava Gamma sono conclusi. È tempo di tornare alla missione che vi ha portato sul {g|Encyclopedia:IndustrialWorld}mondo industriale{/g}. Vi chiedo soltanto un'udienza quando saremo tornati alla nave." {n}Heinrix china il capo per indicare che la conversazione è finita.{/n}
+
+### u068187
+"Ah sì? A parte il fatto che il mondo è ancora in preda alla corruzione dell'Arcinemico, la sua popolazione è infetta di eresia e le macchine un tempo sacre del suo manufactorum sono state trasformate in armi contro l'Umanità? Piuttosto soddisfatto, sì."
+
+### u068188
+{n}La Sorella della Battaglia sussulta per la sorpresa, ti lancia una rapida occhiata... e stringe l'arma con una smorfia agonizzante.{/n}
+
+### u068189
+{n}Heinrix fissa le ceneri fumanti del demone, poi il {g|Encyclopedia:Cogitator}cogitatore{/g} distrutto. Il solco sulla sua fronte si distende lentamente: il suo volto appare quasi appagato.{/n} "La creazione del {g|Encyclopedia:Chaos}Caos{/g} non esiste più. Spero che il Fabricator-Censor non abbia avuto il tempo di trasmettere i segreti di questa creatura ai suoi associati. E spero che i sopravvissuti ai livelli inferiori riescano a resistere fino a quando non libereremo Kiava Gamma."
+
+### u068190
+{n}Heinrix si avvicina e ti fissa, gli occhi che brillano di una rabbia nuda e rovente.{/n} "Che cosa avete fatto? Anni di lavoro... vite di agenti sacrificate per scoprire i segreti del culto... e voi avete distrutto tutto in un colpo solo!"
+
+### u068191
+{n}Yrliet guarda Heinrix.{/n} "C'è in te più saggezza di quanto pensassi all'inizio. Non bisogna mai toccare ciò che è stato creato da..."
+
+### u068192
+"Ipotizzo che i miei servigi non saranno necessari." {n}La delusione e la rassegnazione sono evidenti nella voce di Pasqal.{/n}
+
+### u068193
+{n}Heinrix scatta con la testa e scaccia la domanda con un gesto, i movimenti bruschi e innaturali.{/n} "Ne parleremo più tardi. Ma adesso..."
+
+### u068194
+"Posso fare a meno della morale dello xenos. Sappiate qual è il vostro posto."
+
+### u068195
+{n}La fronte di Yrliet, per un attimo distesa, si aggrotta di nuovo.{/n} "Non lo dimentico mai, mon-keigh."
+
+### u068196
+"Posso sperare, stimato Interrogatore, che il vostro vivo interesse per questo mondo dei von Valancius sia stato soddisfatto?"
+
+### u068197
+"Va bene, torniamo indietro e ricontrolliamo tutto."
+
+### u068198
+"La parola di un agente del Trono d'Oro è legge per ogni suddito dell'Imperium."
+
+### u068199
+"Non ho tempo per questo: devo salvare il mio mondo!"
+
+### u068200
+"Quindi non avete trovato ciò che cercavate: non è un problema mio. Andiamo avanti."
+
+### u068201
+{n}Heinrix ti fa cenno di fermarti.{/n} "Fermatevi, {name}. Prima di proseguire, devo ispezionare questo livello del {g|Encyclopedia:Manufactorum}manufactorum{/g}. Non abbiamo ancora esaminato quest'area con sufficiente accuratezza ai fini della mia missione."

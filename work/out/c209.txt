@@ -1,0 +1,805 @@
+### u069579
+"Senza la ragazza? Suppongo che siamo vivi, ed è già qualcosa. Vi ringrazio, Rogue Trader. La Casata Orsellio non dimenticherà la vostra saggezza e la vostra generosità."
+
+### u069580
+"Ci fa piacere sapere che le trame dei nemici non hanno danneggiato i rapporti tra le nostre dinastie. Ma ditecelo: quale futuro attende la Casata Orsellio e il protettorato dei von Valancius?"
+
+### u069581
+"La Casata Orsellio è profondamente grata al Rogue Trader per la {d|Encyclopedia:Ch1_Cassia_HelpedNaviTraditionalists}distruzione dei sabotatori{/d}, e siamo disposti a ricambiare un gesto tanto magnanimo. Confidiamo che un trattato di amicizia e alleanza, sostenuto dal trasferimento di diversi artefatti di eccezionale rarità, sia sufficiente. Ora venite, bambina, è tempo di partire per la vostra nuova casa, così da concludere ciò che abbiamo iniziato."
+
+### u069582
+"La noia di attendere questo momento, non potete immaginarla."
+
+### u069583
+"Stimato Reggente, forse potrei proseguire la mia istruzione continuando ad accompagnare il Rogue Trader nei suoi viaggi? Pensate a quanto potrei imparare oltre i confini di..." {n}Cassia nota lo sguardo furioso del reggente e si interrompe{/n}.
+
+### u069584
+"Avete ragione, è tempo che io compia il mio dovere verso la Casata." {n}Cassia vi rivolge uno sguardo incerto, come se cercasse la vostra approvazione.{/n}
+
+### u069585
+"Allora è deciso." {n}Aaronto sposta il suo sguardo senza battiti di ciglia su Cassia.{/n}
+
+### u069586
+"Ci ripugna calpestare le leggi dell'onore, ma avervi come avversario ci piacerebbe ancora meno. Per amore della neutralità tra le nostre dinastie, accettiamo le vostre condizioni."
+
+### u069587
+"Eppure resta ancora una questione di cui dobbiamo discutere, Rogue Trader. Come abbiamo detto, la bambina deve tornare in seno alla sua Casata. Speriamo che vorrete essere così gentile da acconsentire."
+
+### u069588
+"Saremmo onorati di ascoltare il vostro parere in merito."
+
+### u069589
+"Non osate! Questa è la mia Casata, la mia famiglia!"
+
+### u069590
+"Permetteteci di offrirvi un compenso degno di un Rogue Trader, come gesto di amicizia e scusa per ogni spiacevole inconveniente."
+
+### u069591
+"Nascondetevi dietro di noi, bambina, e proteggeremo il futuro della nostra Casata! Avanti, discendenti di Orsellio! Per la bambina, per Tisiphone, per la nostra dinastia!"
+
+### u069592
+"Credo di non essere preparata a emettere giudizi di questo genere..." {n}Cassia abbassa le ciglia e continua in un sussurro appena percettibile,{/n} "Sono certa che il Rogue Trader sa cosa fare meglio di me."
+
+### u069593
+"Quanto allo stimato reggente e ai suoi: non credo che siano colpevoli delle trasgressioni dei traditori. Ma sono responsabili di averli portati qui, e quindi sarebbe giusto chiedere alla Casata Orsellio un risarcimento per questa negligenza."
+
+### u069594
+"N-no, non lo farei mai... Perdonatemi, Rogue Trader, ma rifiuto. Sono una Navigatrice, non una carnefice."
+
+### u069595
+"Non c'è bisogno di versare sangue nobile, Rogue Trader. Siamo in inferiorità numerica e comprendiamo fin troppo bene la nostra posizione. Ci congediamo da voi per ora... solo per ora. Ma provate a nasconderci la bambina in futuro, e ci saranno guai."
+
+### u069596
+"Non ci muoveremo di un passo finché la bambina non sarà restituita alla Casata. Alla battaglia!"
+
+### u069597
+{n}Senza fretta, il reggente si volge verso Cassia e la chiama con un cenno:{/n} "Venite, bambina. Il destino che le stelle hanno preparato per voi deve compiersi."
+
+### u069598
+"Che il {g|Encyclopedia:Emperor}Dio-Imperatore{/g} vegli sul vostro protettorato, Rogue Trader. Addio, per ora ci congediamo."
+
+### u069599
+"Che dite, Rogue Trader? Come avrei potuto...? Non ho mai fatto nulla del genere!" {n}Il volto di solito pallido di Cassia arrossisce così intensamente che persino le orecchie diventano rosse.{/n}
+
+### u069600
+"E poi altri due per entrare nelle grazie del reggente e raggiungere Eurac V. Ora Cassia è sotto i riflettori e il consiglio della Casata sta per metterla sul trono: di certo non c'è momento migliore per tagliare la testa al serpente?"
+
+### u069601
+"Io, Elina-Hatteria della Casata Orsellio, giuro di non dire al Rogue Trader altro che la verità, e che il {g|Encyclopedia:Emperor}Dio-Imperatore{/g} mi sia testimone."
+
+### u069602
+"Vi imploro... Per risolvere questo conflitto, offro al Rogue Trader un contratto centennale con la Casata Orsellio, che ci impegni a tracciare le rotte più brevi e sicure per il protettorato dei von Valancius all'interno della Distesa di Koronus. Rimarrò inoltre a bordo della nave del Rogue Trader e {mf|lo|la} assisterò finché {mf|egli|ella} non deciderà diversamente. Oppure finché il dovere verso la Casata non mi chiamerà al seggio di Novator."
+
+### u069603
+"Patetico..."
+
+### u069604
+"Silenzio! Con tutto il rispetto, la Casata Orsellio non si è certo coperta di gloria fin qui oggi. È tempo che i suoi rappresentanti rispondano davanti al Rogue Trader."
+
+### u069605
+{n}Il reggente annuisce bruscamente.{/n} "Provvederemo a far consegnare gli oggetti il prima possibile."
+
+### u069606
+"Lo stimato reggente metterà Lady Elina e i suoi in una delle nostre prigioni di famiglia. Dopotutto è una Navigatrice della Casata Orsellio. Non c'è bisogno che il nostro sangue prezioso sia versato."
+
+### u069607
+"Rogue Trader, permettetemi di chiedervi quale sorte attenda lo stimato reggente e gli altri membri della mia Casata."
+
+### u069608
+"Io... Stimato Reggente, resterò con il Rogue Trader. È tempo di passare dalla teoria alla pratica, non pensate?"
+
+### u069609
+"Le vostre richieste sono oltraggiose, ma non possiamo dire che siano infondate. Accettiamo le vostre condizioni, ma il trattato di amicizia che vi avevamo offerto in precedenza è con ciò ritirato."
+
+### u069610
+"Theodora von Valancius era una donna di larghe vedute, ma la saggia Tisiphone non approvava molte delle sue... imprese. E nemmeno noi. Temiamo che la Casata Orsellio debba rifiutare l'offerta del Rogue Trader."
+
+### u069611
+"Temiamo che l'onore non ci permetta di tradire i nostri alleati in un modo così spregevole."
+
+### u069612
+"Non c'è dubbio che i traditori debbano essere giustiziati. Tutte le loro lamentele sulla tirannia di Tisiphone sono solo una copertura per il loro interesse personale e il loro desiderio di impadronirsi del potere sulla Casata. Odiavano Tisiphone? Forse. Ma io non ho fatto loro alcun torto, e nemmeno la vostra gente."
+
+### u069613
+"Come abbiamo detto, la bambina deve tornare in seno alla sua Casata. Speriamo che vorrete essere così gentile da acconsentire."
+
+### u069614
+"{g|Encyclopedia:RogueTrader}Rogue Trader{/g}," {n}la voce penetrante del reggente fende il silenzio,{/n} "a nome della Casata Orsellio desideriamo esprimere la nostra immensa soddisfazione per questo incontro, e la nostra gratitudine per la {d|Encyclopedia:CassiaQ1_GrandWelcome}calorosa accoglienza{/d}. Ci fa piacere sapere che nella {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} ci sono ancora {mf|signori|signore} che rispettano l'etichetta e le tradizioni dell'ospitalità."
+
+### u069615
+"Porgete i vostri saluti, bambina. Se mai rivedrete il Rogue Trader, sarà come Novator della Casata Orsellio."
+
+### u069616
+"{g|Encyclopedia:RogueTrader}Rogue Trader{/g}." {n}Le labbra flaccide del reggente si piegano in un ghigno di condiscendenza.{/n} "Speriamo che il protettorato dei von Valancius trovi presto la propria strada e che ci stupiate con {d|Encyclopedia:CassiaQ1_HumbleWelcome}funzioni grandiose quanto quelle dei vostri pari{/d}."
+
+### u069617
+"Se mi è concesso parlare, dalle bocche dei presenti sono sgorgati tanti colori sporchi che mi sento ricoperta di sudiciume dalla testa ai piedi. Io... Come futura Novator, voglio sbiancarli, purificarli e lasciarli andare! Ascoltatemi: sono io la sola responsabile di ciò che è accaduto oggi! E mi assumo piena responsabilità per le azioni della mia Casata." {n}Cassia parla con coraggio e franchezza, anche se le mani le tremano un poco.{/n}
+
+### u069618
+"Io... Pensavo che aveste bisogno di una {g|Encyclopedia:Navigator}Navigatrice{/g}. Se non è così," {n}dice Cassia, con il volto che si indurisce in un istante,{/n} "sarà un piacere per me partire con lo stimato reggente."
+
+### u069619
+{n}Il Reggente Aaronto resta in silenzio a lungo.{/n} "Sia. Non ci eravamo accorti che la nostra bambina era cresciuta e diventata forte. Potete restare con il Rogue Trader finché la Casata non vi convocherà: la sua influenza è... anomala, ma è servita a far emergere il più prezioso talento della beata Tisiphone: il talento del comando."
+
+### u069620
+{n}Cassia annuisce bruscamente.{/n}
+
+### u069621
+{n}Lady Elina fissa Cassia incredula, con gli occhi sporgenti, ma resta in silenzio. La sua mano accarezza senza posa il punto in cui è incastonato il suo Atlas.{/n}
+
+### u069622
+{n}Cassia ti osserva attentamente, tenendo le mani in un gesto di preghiera.{/n}
+
+### u069623
+{n}Il Reggente Aaronto annuisce lentamente.{/n} "In tal caso la Casata Orsellio è profondamente debitrice al Rogue Trader, e siamo disposti a ricambiare un gesto tanto magnanimo. Confidiamo che un trattato di amicizia e alleanza, sostenuto dal trasferimento di diversi artefatti di eccezionale rarità, sia sufficiente."
+
+### u069624
+"E questo lo chiamate un processo equo? Ridicolo! Qui sono tutti marci fino al midollo. Siete tutti eretici e pazzi! Siate maledetti! Siate maledetti!"
+
+### u069625
+{n}Una luce malevola brilla negli occhi di Cassia:{/n} "Benissimo... Date le circostanze, userò il potere..."
+
+### u069626
+"Che significa, Rogue Trader? Non ha forse ammesso la sua colpa?"
+
+### u069627
+"Tisiphone ha sempre avuto molti oppositori, ma avevamo paura di fidarci gli uni degli altri: chiunque di noi avrebbe potuto spiare per conto dei suoi seguaci. Abbiamo conservato le forze e abbiamo sferrato il primo colpo cinque anni dopo la nascita dell'erede, colpendo una delle tenute su Ir-T-Vi. Ma la ragazza è sopravvissuta, e il Reggente Aaronto l'ha nascosta così lontano e l'ha sorvegliata così attentamente che ci sono voluti altri tredici anni per trovarla."
+
+### u069628
+{n}Elina ti osserva con odio, incapace di cambiare in alcun modo il proprio destino.{/n}
+
+### u069629
+"La follia di Tisiphone ha indebolito la dinastia, e non molto tempo fa il {g|Encyclopedia:Novator}Novator{/g} è scomparso: in effetti i suoi seguaci fedeli mentono quando dicono che ha scelto di ritirarsi. La verità è che nessuno conosce la verità. Spero che stia marcendo su uno dei suoi mondi segreti," {n}conclude Elina con un ghigno.{/n}
+
+### u069630
+"Che onore. Devo riconoscere il merito a chi lo merita: almeno vi siete {mf|degnato|degnata} di ascoltarmi. Buona fortuna con il mostro, Rogue Trader."
+
+### u069631
+"Ora venite, bambina, è tempo di partire per la vostra nuova casa, così da concludere ciò che abbiamo iniziato." {n}Tende verso Cassia la mano avvizzita, ricoperta di membrane traslucide e coriacee.{/n}
+
+### u069632
+"Non so che cosa desideriate sapere, ma comincerò dal principio. Molto tempo fa Tisiphone salì al trono di Orsellio: era una Novator audace che portò una parte della Casata nella Distesa, sperando di rafforzare la nostra posizione nell'Imperium. La Casata prosperò, ma Tisiphone non fu mai soddisfatta: impazzì nella sua ricerca del potere, desiderando sempre più influenza, più controllo, e vedeva nemici ovunque, persino tra i suoi seguaci fedeli."
+
+### u069633
+"All'inizio molti rami della Casata Orsellio tentarono di resistere alla sua tirannia, e Tisiphone li abbatté con estrema brutalità. Per esempio, l'intero ramo Setthala fu distrutto solo perché i suoi capi facevano troppe domande sull'Atlas e volevano conoscere la verità sulla sua creazione."
+
+### u069634
+"Tisiphone trasmise il proprio Atlas al suo successore prima di fuggire dalla Casata: a una neonata! Non potevamo cedere il trono alla creatura della tiranna. Tisiphone era astuta e perfida, deve aver architettato l'intero piano in anticipo: la sua scomparsa, la bambina, il trasferimento del guinzaglio. Temevamo che un giorno sarebbe rinata nel corpo di Cassia. E non potevamo permetterlo."
+
+### u069635
+{n}Elina schiocca forte la lingua.{/n} "Il Reggente Aaronto è colpevole di massacri, intimidazioni, torture disumane, di aver favorito Tisiphone e di averne cresciuto l'erede. I suoi crimini sono molti, ma questo non è tra loro. Mi piacerebbe vedere la sua testa sul ceppo, ma l'onore mi vieta di calunniarlo in un processo davanti al {g|Encyclopedia:RogueTrader}Rogue Trader{/g}."
+
+### u069636
+"Ora il Rogue Trader conosce le atrocità del reggente e la corruzione della ragazza. Spero di essere riuscita ad avvertirvi del pericolo che si annida dentro Cassia Orsellio."
+
+### u069637
+"In gran parte sì, ma c'è dell'altro. Non avete mai provato puro, genuino disgusto stando vicino a lei? O magari furia, o paura? Chi, se non un mostro, manipolerebbe le menti e i sentimenti altrui? Persino più di quanto fece la stessa Tisiphone?"
+
+### u069638
+"Ho giurato di dire nient'altro che la verità."
+
+### u069639
+"Grazie, Rogue Trader. Contatteremo il vostro rappresentante non appena torneremo alla base e discuteremo l'accaduto con gli altri rami della Casata."
+
+### u069640
+{n}Gli occhi innaturalmente globulari della {g|Encyclopedia:Navigator}Navigatrice{/g} saettano di continuo tra te e Cassia. Secrezioni nere le colano lungo le guance al posto delle lacrime, lasciando brutte striature.{/n}
+
+### u069641
+"Io... Non sono sicura che il mio Atlas sia davvero quello che apparteneva a Sua Signoria Tisiphone."
+
+### u069642
+"La Casata Orsellio è profondamente addolorata per la {d|Encyclopedia:Ch1_Cassia_KilledBothNavis}scomparsa di Theobald Thrice-Pioneer Orsellio{/d}, e per mano del Rogue Trader, per giunta! È deplorevole che il detentore di un sacro {g|Encyclopedia:Warrant}Mandato{/g} abbia scelto di privare l'{g|Encyclopedia:Imperium}Imperium{/g} dell'occhio di un Navigatore." {n}Il reggente fa una smorfia.{/n} "Ora venite, bambina, è tempo di partire per la vostra nuova casa, così da concludere ciò che abbiamo iniziato."
+
+### u069643
+{n}Chiazze bruno-rossastre ricoprono il volto del reggente.{/n} "Non desideriamo discutere le trasgressioni del Rogue Trader: non è né il momento né il luogo. Che {name} von Valancius abbia scelto di {d|Encyclopedia:Ch1_Cassia_HelpedNaviRadicals}schierarsi con i più spregevoli rinnegati{/d} tra i {g|Encyclopedia:NavisNobilite}Navis Nobilite{/g} e abbia causato la morte di nostro fratello Theobald Thrice-Pioneer... Be', lo trascureremo in cambio del vostro salvataggio, bambina. Ora venite, è tempo di partire per la vostra nuova casa, così da concludere ciò che abbiamo iniziato."
+
+### u069644
+"Un'affermazione ridicola! Nel fervore della battaglia, i vostri servitori non si sarebbero fermati a considerare chi fosse davvero colpevole! Saremmo stati abbattuti accanto ai traditori solo per aver toccato le nostre armi!"
+
+### u069645
+{n}Elina ridacchia soddisfatta.{/n} "Almeno Felek ne ha fatta una giusta."
+
+### u069646
+"Che dite, bambina? Non è forse ciò che noi, il Grande Reggente, vi abbiamo insegnato fin dal giorno della vostra nascita?"
+
+### u069647
+{n}Cassia aggrotta la fronte e tocca la {d|Encyclopedia:Ch1_CassiaAmuletOn}pietra{/d} che si scalda sotto la sua pelle.{/n} "Anche se volessi eseguire personalmente l'esecuzione... L'artefatto del traditore sta limitando i miei poteri."
+
+### u069648
+"Lord Capitano, concludere così il processo va contro ogni legge e consuetudine!"
+
+### u069649
+{n}L'espressione di Cassia resta calma, ma le sue labbra tremano quando si volta a guardarti per l'ultima volta.{/n}
+
+### u069650
+"Se davvero mi lasciate andare... Non c'è bisogno di dirlo due volte. Non causerò più alcun problema. A voi, almeno." {n}Elina fulmina con lo sguardo Cassia e Aaronto.{/n}
+
+### u069651
+"Ascoltateci, bambina. Questo fardello è troppo pesante perché lo portiate da sola. Non siete ancora pronta..."
+
+### u069652
+"È impensabile! Noi, il Grande Reggente, speravamo in un processo equo e nel giusto decoro da parte di Vostra Signoria secondo le leggi della Distesa di Koronus! Perciò... siamo profondamente delusi, Rogue Trader."
+
+### u069653
+"Abbiate la compiacenza di spiegare che cosa intendete con questo!"
+
+### u069654
+{n}Il Navigatore inclina la testa.{/n} "Temiamo che noi, il Grande Reggente Aaronto, dobbiamo declinare rispettosamente la vostra offerta. La Casata Orsellio ha già abbastanza... problemi propri. Temiamo che aggiungervi i guai degli alleati sarebbe un fardello troppo grande per noi al momento."
+
+### u069655
+"Ciononostante dobbiamo ricordarvi che questo è un periodo... turbolento per la Casata Orsellio. Siamo lieti di essere alleati del Rogue Trader, ma finché i nostri conflitti interni ed esterni non saranno risolti, la nostra capacità di assistervi sarà limitata."
+
+### u069656
+"Quanto al trattato di amicizia tra le nostre dinastie... Il nostro emissario contatterà il vostro e consegnerà le pergamene per la vostra firma e il vostro sigillo. E che l'{g|Encyclopedia:Emperor}Imperatore{/g} benedica questa nuova alleanza!"
+
+### u069657
+{n}Il Reggente Aaronto ti fissa attraverso, senza battere ciglio, come se non avessi parlato.{/n}
+
+### u069658
+"Tenete la bocca chiusa, Reggente. La vostra Casata è colpevole di aver tentato di togliere la vita a un Rogue Trader: l'accusato parlerà solo quando gli sarà graziosamente concesso." {n}La mano del Proctor gli si abbatte sul petto con un tonfo.{/n} "Abbia inizio il giudizio."
+
+### u069659
+"Impensabile!"
+
+### u069660
+"Apprezziamo la vostra buona volontà..."
+
+### u069661
+"Con grande piacere. Il nostro emissario contatterà il vostro e consegnerà le pergamene per la vostra firma e il vostro sigillo. Che l'{g|Encyclopedia:Emperor}Imperatore{/g} benedica questa nuova alleanza!"
+
+### u069662
+"Hmmm." {n}La pelle flaccida del reggente freme quando sospira.{/n} "Sarebbe assai irrispettoso da parte nostra rifiutare l'aiuto di un Rogue Trader. Noi, Aaronto Orsellio, accettiamo con ciò la vostra offerta. Se ce lo consentite, discuteremo i dettagli più tardi."
+
+### u069663
+"Secondo la legge della Distesa, il pagamento per il salvataggio della Lady Navigatrice era un contratto che la obbligava a servire sulla mia nave."
+
+### u069664
+"Ritirerò le accuse contro la Casata Orsellio per quanto è accaduto."
+
+### u069665
+{n}Lady Elina scoppia in una risata isterica, ormai del tutto priva di ragione.{/n}
+
+### u069666
+"Venite, bambina. Non dovete restare dove non siete gradita." {n}Lo sguardo del reggente passa da Cassia a te e ti congeda con un breve cenno del capo.{/n}
+
+### u069667
+{n}L'aria fischia fuori dai buchi scuri nel volto del reggente. I suoi occhi sporgenti guizzano furiosi tra te e Cassia.{/n} "Questa volta siamo costretti a darvi ragione, bambina. Ma non dimenticate il vostro dovere: il vostro fardello resterà per sempre con voi. Vi permetteremo di fare esperienza in compagnia del {g|Encyclopedia:RogueTrader}Rogue Trader{/g}... per ora. Ora dobbiamo congedarci. Che l'Imperatore vegli sul vostro cammino."
+
+### u069668
+{n}Il reggente accoglie le tue parole con un cenno del capo e attende che tu continui.{/n}
+
+### u069669
+"Rogue Trader, la Casata Orsellio chiede umilmente la vostra clemenza e il vostro perdono. Non potevamo nemmeno immaginare che questi... luridi ratti potessero aggirarsi tra le nostre file. Quanto al loro essersi introdotti nel palazzo del Rogue Trader e aver messo in scena un crimine impensabile... il Dio-Imperatore ci sia testimone, i maledetti rinnegati cercano di scatenare una faida tra le nostre case!"
+
+### u069670
+"Non volete una guerra con una Casata dei {g|Encyclopedia:NavisNobilite}Navis Nobilite{/g}, Rogue Trader. Potremmo ottenere molto di più come alleati. La Casata Orsellio è una parte lesa in tutto questo, proprio come voi. I rinnegati si sono infiltrati nelle nostre file, ci hanno indeboliti, ci hanno incolpati davanti al Rogue Trader e hanno quasi ucciso la cosa più preziosa che abbiamo: la nostra nobile bambina! Pensate davvero che volessimo la morte di colei che è destinata a condurre la nostra Casata alla grandezza?"
+
+### u069671
+"Siamo pronti a dirvi tutto ciò che sappiamo, perché questo malinteso possa essere chiarito il più in fretta possibile."
+
+### u069672
+"Vile miserabile! Chi credi di essere? Ora comincerai a uccidere chi ti ha dispiaciuto, come faceva Tisiphone prima di te?" {n}La furia sul volto di Elina cede il posto alla disperazione quando si rende conto di ciò che ha appena detto. Lentamente porta la mano all'Atlas incastonato nel suo petto, guardando Cassia con evidente timore.{/n}
+
+### u069673
+{n}Aaronto Orsellio si erge quanto glielo consente la sua spina dorsale vecchia e storta e ti guarda con uno sguardo fiero e senza battiti di ciglia.{/n} "Che cosa significa questo per noi, Rogue Trader?"
+
+### u069674
+"Dovete essere {mf|pazzo|pazza} se pensate che lo permetteremo. Serrate i ranghi!"
+
+### u069675
+"Ti condanno a morte per i tuoi crimini contro un Rogue Trader e la Lady Navigatrice Cassia. Hai qualche ultima parola?"
+
+### u069676
+"Il tuo destino sarà deciso durante il processo, Lady Elina. Ascolterò ciò che desideri dirmi."
+
+### u069677
+"Pietà!" {n}La Lady {g|Encyclopedia:Navigator}Navigatrice{/g} si copre il volto con le mani deformi e squamose, ciascuna con un dito in più e falangi fuse tra loro. I suoi abiti sono coperti di sangue, per lo più dei tuoi servitori, e diversi proiettili inesplosi sporgono dalla sua corazza pettorale.{/n}
+
+### u069678
+"Sia dannata l'erede di Tisiphone! So che la Casata Orsellio un giorno si libererà dei ceppi della tiranna, anche se non qui e ora. Altri verranno dopo di me, e che i nostri nemici tremino!"
+
+### u069679
+"Grazie per la vostra clemenza, Rogue Trader."
+
+### u069680
+"{g|Encyclopedia:RogueTrader}Rogue Trader{/g}, che sia per scelta o per ignoranza, state ospitando un mostro che finge astutamente di essere un'innocente cameriera! Risparmiatemi, e io, Elina-Hatteria Orsellio, giurerò di dirvi tutta la verità sulla follia che sta divorando la Casata Orsellio come un tumore maligno. Non lasciate che il reggente vi inganni con dolci bugie, o la maledetta bambina rovinerà anche il vostro protettorato!" {n}Vedi rabbia e disperazione sul volto della Lady Navigatrice, ma nessuna delle due è rivolta a te.{/n}
+### u069681
+Il ricordo svanì e {name} si ritrovò di nuovo a precipitare nell'abisso color amaranto di visioni ribollenti.
+
+### u069682
+Voce successiva.
+
+### u069683
+...diede l'ordine di sparare contro la finestra, attirando così l'attenzione di Lady Cassia.
+
+### u069684
+...strappò un pugnale dal pavimento e cominciò a colpire a fendenti le mani che emergevano dall'interno del dipinto.
+
+### u069685
+...tentò di fuggire dal Sanctum Navis.
+
+### u069686
+...scrutò la strana nebbia color amaranto.
+
+### u069687
+...scelse di non intervenire.
+
+### u069688
+...seguì la sua intuizione e infilò il catetere del cogita-pennello nella sua stessa vena.
+
+### u069689
+...chiuse gli occhi e rimase alla deriva nell'assenza di peso.
+
+### u069690
+...si protese verso i colori brillanti.
+
+### u069691
+...nuotò verso i colori scuri.
+
+### u069692
+...discese nell'abisso. Verso le urla.
+
+### u069693
+...una spada a catena.
+
+### u069694
+...un fucile al plasma.
+
+### u069695
+...un martello potenziato.
+
+### u069696
+...esortò la Lady Navigatrice a combattere il mostro fino all'ultimo.
+
+### u069697
+...attaccò a mani nude la Navigatrice morta.
+
+### u069698
+...chiamò Lady Cassia.
+
+### u069699
+...si precipitò verso il pannello di controllo.
+
+### u069700
+...afferrò la mano della Lady Navigatrice per tentare di tirarla fuori.
+
+### u069701
+...si avvicinò per guardare le figure.
+
+### u069702
+...pugnalò Tisiphone Orsellio con il pugnale rituale.
+
+### u069703
+Cassia prese la mano del Rogue Trader e {mf|lo|la} guidò attraverso la nebbia color amaranto, fuori dal dipinto. I loro corpi privi di sensi furono ritrovati nel Sanctum Navis 20 giorni terrani dopo la loro scomparsa: non appena la nave del vuoto del Rogue Trader era emersa dal warp in un sistema sconosciuto.
+
+### u069704
+Quando la Lady Navigatrice aprì gli occhi, lo spazio attorno a lei cambiò: colori brillanti scacciarono le nebbie e la più tenue delle luci, da qualche parte molto in alto, ricordò al Rogue Trader il mondo che {mf|egli|ella} aveva lasciato dall'altra parte della tela.
+
+### u069705
+La Lady Navigatrice rivolse al Lord Capitano un sorriso stanco. Il rituale abortito si era rivelato una trappola tesa a Lady Cassia dalla precedente Novator della sua Casata. Ma il Rogue Trader aveva fatto in modo che il suo piano andasse in rovina. E ora era tempo di abbandonare quel luogo maledetto.
+
+### u069706
+Tisiphone Orsellio affondò gli artigli nel corpo prosciugato di Cassia, con la mano che attraversò l'armatura da Navigatrice di Cassia come se non fosse nulla. L'entità strinse qualcosa all'interno e lanciò un ululato assordante e trionfante.
+Gli occhi di Cassia si spalancarono per il dolore ed ella afferrò la mano che stringeva l'Atlas dentro il suo petto.
+"Sono così... stufa... della sottomissione..."
+
+### u069707
+Tisiphone Orsellio si strinse il cranio, scheggiato dagli artigli di Cassia, lanciò un orribile ululato e si levò in aria... ma ciò non la salvò dallo sguardo onniveggente della Lady Navigatrice.
+
+### u069708
+<b>Servitore:</b> "No, vi prego! Non le dita!"
+<b>Tutore dell'ordine:</b> "Te ne spezzo una per ogni parola di menzogna che sento uscire dalla tua bocca. Ora parla!"
+<b>Servitore:</b> "V-vi prego, dovete credermi! Tutto quello che abbiamo fatto è stato preparare la tela e mescolare il sangue della Lady Navigatrice ai colori! Poi ci è stato detto di lasciare aperte le imposte, perché il Lord Capitano potesse vedere tutto quello che accadeva dentro il Sanctum Navis dalle camere di osservazione, e..."
+
+### u069709
+<b>Tutore dell'ordine:</b> "Ho scortato il Lord Capitano alle camere di osservazione e ho sgridato il servitore per aver lasciato le imposte aperte, ma poi mi hanno detto che era per ordine del Rogue Trader."
+
+### u069710
+Vedevamo benissimo la Lady Navigatrice attraverso l'armaglass. Era nervosa, sfogliava e risfogliava dei manoscritti. La sua ansia si era trasmessa ai servitori, e per questo non ne azzeccavano una.
+
+### u069711
+Vedevamo benissimo la Lady Navigatrice attraverso l'armaglass. Era irritata, camminava avanti e indietro per la stanza, sovrintendendo ai preparativi di una sorta di rituale. Persino per me, il suo sguardo era come un macigno appeso al collo.
+
+### u069712
+Vedevamo benissimo la Lady Navigatrice attraverso l'armaglass. Era assorta nei suoi pensieri, con lo sguardo fisso sulla tela davanti a sé. Sembrava del tutto ignara del mondo attorno a lei.
+
+### u069713
+Presto i servitori ricevettero l'ordine di lasciare il Sanctum Navis e la Lady Navigatrice prese il pennello. Come in trance, cominciò a passarlo sulla tela, dipingendo un'immagine sull'altra, e un'altra ancora sull'ultima, e un'altra... E fu allora che il Lord Capitano se ne accorse. C'era una cosa... dall'altra parte... Il quadro, coperto da uno strato di sangue fresco, stava tornando in vita, ma la Lady Navigatrice non se ne avvedeva. Fu allora che il Lord Capitano..."
+
+### u069714
+Il pugnale rituale della Casata Orsellio fendette le ombre ondeggianti, eppure la mano dipinta si ricompose un istante dopo il passaggio della lama. Cassia si afflosciò nella stretta della sua orrenda creazione e fu subito trascinata dall'altra parte del dipinto. Un attimo dopo, {name}, ancora con il pugnale stretto in mano, fu {mf|precipitato|precipitata} allo stesso modo nelle profondità del mondo creato dalla Lady Navigatrice.
+
+### u069715
+Gli sforzi del Lord Capitano per liberare la Lady Navigatrice furono vani: il suo corpo stava annegando nel sangue ribollente sulla tela. E non appena la mano tesa di Cassia fu del tutto scomparsa dentro il dipinto, decine di mani emersero dalla tela, avvolsero il corpo del Lord Capitano e trascinarono la seconda vittima nel mondo creato dalla Lady Navigatrice.
+
+### u069716
+Ignorando le suppliche di aiuto di Cassia, il Lord Capitano si lanciò verso l'uscita ma scivolò subito su una pozza del sangue della Lady Navigatrice e cadde, tagliandosi la mano su schegge di vetro. Qualcosa affondò gli artigli nella gamba del Lord Capitano e le creature del dipinto, dopo aver già divorato Cassia intera, trascinarono la loro seconda vittima nell'oscuro abisso.
+
+### u069717
+{name} si risvegliò, ritrovandosi nel mezzo di un gigantesco, sconfinato, ondeggiante... nulla. Il suo corpo sembrava privo di peso, fluttuante in un vuoto cosparso di centinaia dei colori della Lady Navigatrice: alcuni brillanti, caldi e seducenti... altri cupi, freddi e pesanti.
+
+### u069718
+{name} si tuffò in un fiume di tinte luminose, e lampi di rosa tramonto e di lilla {mf|lo|la} trascinarono lungo la corrente abbagliante. In breve il Lord Capitano si trovò in un giardino idilliaco, impregnato del profumo dei fiori e del canto degli uccelli. Servitori in livrea viola andavano avanti e indietro, accudendo una vecchia avvizzita con la maschera da Navigatrice. Sulle sue ginocchia sedeva una bambina dagli occhi di rubino e dai capelli bianchi, che sorrideva timidamente a tutti.
+
+### u069719
+Onde grigio-azzurre inghiottirono il Lord Capitano e la sensazione di leggerezza svanì mentre gli arti tornavano a farsi pesanti. {name} cadde sul pavimento duro di un laboratorio ingombro di vasche alte come un uomo. Al loro interno c'erano decine, centinaia persino, di ripugnanti mutanti. Alcuni senza braccia, o senza gambe, o con due teste, o senza volto, o con le viscere rivoltate... ma tutti avevano la pelle bianca. Capelli bianchi. Lunghi arti artigliati. E occhi di rubino.
+"Mia signora! La bambina... la bambina è nata!"
+
+### u069720
+"Sii una brava bambina, mia Figlia. Fino al giorno in cui ci rivedremo." Con mani tremanti, la donna consegnò la bambina a una Navigatrice in abiti da laboratorio. "Sono... a corto di tempo. Preparate la Figlia per il trasferimento dell'Atlas. E distruggete tutti i registri e le menzioni del mondo di Ir-T-Vi. Nessuno deve venire a sapere ciò che è accaduto qui. E ricordate, il suo corpo deve crescere forte perché accetti il mio potere. E quando sarò tornata... la lealtà sarà ricompensata."
+
+### u069721
+Il sangue del Rogue Trader macchiò il pennello tra le sue mani con una velocità innaturale, ma non c'era dolore. Il sangue, invece, continuò a scorrere, assumendo la forma vaga di...
+
+### u069722
+L'alta vecchia si avvicinò lentamente a una delle vasche. "Rilevazioni?"
+"Stabili."
+"Mutazioni?"
+"Nessuna rilevata in alcuna fase."
+"Geni?"
+"Identici, mia signora."
+"Hmm... Probabilità di sopravvivenza?"
+"Cento volte superiori a quelle di qualsiasi esperimento precedente."
+"Quanto ci vorrà per far crescere questa... bambina?"
+"Temo che accelerare il processo possa causare il cedimento del corpo. L'unica dopo anni di..."
+"Silenzio. Comprendo la situazione. Crescita naturale... Non ho così tanto tempo. Dovremo ricorrere al piano di riserva."
+"Sì, Novator. Sarà fatto."
+
+### u069723
+Il Lord Capitano si scagliò contro l'entità e Tisiphone Orsellio si accorse finalmente della presenza di una creatura vivente in quel mondo bizzarro. Furiosa per l'impudenza di quell'ospite non invitato, si avventò sul Lord Capitano.
+
+### u069724
+{name} rimase nell'oceano del nulla, {mf|privo|priva} di ogni sensazione ed emozione...
+
+### u069725
+L'urlo di qualcuno spezzò il delicato equilibrio del corpo immobile del Lord Capitano e l'assenza di peso {mf|lo|la} liberò. {mf|Egli|Ella} precipitò nell'abisso color amaranto di illusioni ribollenti, ma ora aveva di nuovo il pieno controllo del suo corpo.
+Poi {name}...
+
+### u069726
+Cassia notò la presenza del Lord Capitano, sia pur appena. Ma le parole di {name} furono del tutto sommerse dall'orribile ululato dell'entità, e la Lady Navigatrice dovette rivolgere di nuovo la sua attenzione al mostro.
+
+### u069727
+Le parole del Lord Capitano attirarono non solo l'attenzione di Lady Cassia: Tisiphone Orsellio, accorgendosi finalmente della presenza di una creatura vivente in quel mondo bizzarro, si voltò verso l'intruso e si lanciò in avanti, ribollente di rabbia.
+
+### u069728
+...finché una pulsazione persistente sul suo fianco destro non {mf|gli|le} ricordò un mondo che un tempo era sembrato più reale di quello.
+
+### u069729
+...finché un pugnale rituale ornato non fluttuò davanti ai suoi occhi, ricordando{mf|gli|le} un mondo che un tempo era sembrato più reale di quello.
+
+### u069730
+...finché un lieve sorriso sulle labbra di qualcuno non affiorò nella sua mente. Il calore della sua pelle, la seta dei suoi capelli bianchi come la neve... Cassia! Era lì, da qualche parte in quel nulla ribollente, tutta sola...
+
+### u069731
+Il Lord Capitano precipitò da un'altezza incommensurabile sul fondo di un abisso ribollente. Un istante dopo, {name} vide due figure nella nebbia color amaranto ondeggiante. Una delle due, innaturalmente scarna e alta, stringeva tra gli artigli l'altra, più piccola, gridando furiosa.
+
+### u069732
+Un solo colpo di plasma liquefece il cranio di Tisiphone Orsellio. Poi l'intero corpo, osso dopo osso, si ridusse in cenere... E con questo, finalmente, era tutto finito.
+
+### u069733
+Il martello potenziato si abbatté sulle antiche ossa di Tisiphone e ne frantumò all'istante lo scheletro in minuscole particelle... E con questo, finalmente, era tutto finito.
+
+### u069734
+Le strane leggi di quel luogo diedero vita a qualunque cosa fosse dipinta sulla tela. L'arma si formò all'istante tra le mani del Lord Capitano ed {mf|egli|ella} si lanciò in battaglia.
+
+### u069735
+La Lady Navigatrice aprì il terzo occhio e un'ondata di sfrenata energia warp annientò lo spettro di Tisiphone prima che si rendesse conto di quanto stava accadendo. Poi la sfinita Cassia crollò.
+
+### u069736
+Quando gli artigli dell'entità furono a pochi millimetri dalla gola del Rogue Trader, Cassia aprì il suo occhio di Navigatrice, e un'ondata di sfrenata energia warp annientò lo spettro di Tisiphone prima che si rendesse conto di quanto stava accadendo.
+
+### u069737
+<b>Tutore dell'ordine anziano:</b> "Abbiamo eseguito un salto warp d'emergenza, abbiamo attivato il campo Geller per un soffio e ora siamo trascinati chissà dove da una forza sconosciuta! La Lady Navigatrice e il Lord Capitano risultano ancora dispersi. Ora ditemelo. Un'altra. Volta. Che cos'è successo nel Sanctum Navis?"
+
+### u069738
+<b>Tutore dell'ordine:</b> "Spaventata dal grido del Lord Capitano, la Lady Navigatrice ha risposto! È allora che l'ho capito. L'armaglass tra noi e il Sanctum Navis era... sparito. E le cose nel dipinto si sono liberate!"
+
+### u069739
+<b>Tutore dell'ordine:</b> "Con mio orrore, i colpi hanno mandato in frantumi l'armaglass all'istante e alcuni proiettili sono passati pericolosamente vicino alla Lady Navigatrice. Sorpresa, Lady Cassia si è voltata... e allora gli orrori del suo dipinto si sono liberati!"
+
+### u069740
+Settore: [nessun dato]
+Regione: [nessun dato]
+Luogo: [nessun dato]
+Materiale: Relazione del resoconto personale del Lord Capitano, registrata da: [nessun dato]
+Nota: Strettamente riservato
+Titolare del protocollo di accesso: {name} von Valancius
+
+### u069741
+<b>Tutore dell'ordine anziano:</b> "E... che cos'è successo dopo?"
+
+### u069742
+<b>Tutore dell'ordine:</b> "Signore?"
+<b>Tutore dell'ordine anziano:</b> "Maestra del Vox, ho un rapporto che deve essere consegnato agli ufficiali superiori. Il Lord Capitano e la Lady Navigatrice... sono andati perduti durante il salto warp d'emergenza. Il luogo in cui si trovano è ancora ignoto. Vi sto inviando i verbali degli interrogatori. Fine della registrazione."
+
+### u069743
+<b>Tutore dell'ordine:</b> "Non ho osato fermar{mf|lo|la}... Mi sono limitato a guardare, con il bolter pronto. Gli spiriti macchina sono impazziti, le porte e le imposte hanno iniziato ad aprirsi e chiudersi a caso, ma il Rogue Trader è riuscito a infilarsi dentro. Spaventata da tutto quel rumore, la Lady Navigatrice si è voltata... e allora quegli orrori del suo dipinto si sono liberati!"
+
+### u069744
+<b>Tutore dell'ordine:</b> "Io... Non ricordo quasi nulla. C'è stato un lampo luminoso, una macchia viola... Ricordo di aver avuto così paura che le ginocchia mi tremavano. Ricordo le gambe che mi portavano via come se avessero una volontà propria... Mentre correvo, ho sentito urla dietro di me... Il Lord Capitano e Lady Cassia... loro... oh, Dio-Imperatore, le creature, li hanno trascinati entrambi dentro il dipinto!"
+
+### u069745
+Il rituale di Tisiphone Orsellio non andò come previsto. Il disturbo warp innescato dalla trance della Lady Navigatrice si riversò sul Sanctum Navis. Gli spiriti macchina della nave del vuoto reagirono all'ondata dell'Immaterium e la interpretarono come una chiamata all'azione. Fu così che ebbe inizio il salto d'emergenza verso l'ignoto.
+
+### u069746
+Tra lo stridio delle sirene, il fragore delle imposte e il lontano ronzio del motore warp, una volontà ignota trascinò il Lord Capitano nel Sanctum Navis, verso le creature della tela vivente che già stringevano la gola della Lady Navigatrice. Terrorizzata, quasi senza fiato e incapace di gridare, Cassia tese la mano... e cominciò a sprofondare lentamente nel suo stesso dipinto.
+
+### u069747
+C'erano orrore e disperazione nei suoi occhi.
+"Menti, Tisiphone! Io non posso essere te! Io sono me..."
+La voce di Cassia si incrinò e lacrime cremisi presero a scenderle lungo le guance.
+"Sai che stai mentendo a te stessa, Figlia." La voce gelida fece fischiare le orecchie a {name}. "Hai visto tutto. Io ti ho creata. Tu sei la Figlia. Tu sei me. E così deve essere."
+"Io... Sì, sono la Figlia. Tu sei me. E così deve essere..." Cassia si afflosciò nella stretta spietata di Tisiphone Orsellio e chiuse gli occhi.
+
+### u069748
+Il Lord Capitano tirò a sé la Lady Navigatrice. Dopo un po', le creature allentarono l'assalto e Cassia si schiantò contro il Lord Capitano, facendo{mf|lo|la} cadere. Il Lord Capitano sentì un dolore acuto al fianco quando il cogita-pennello di Cassia {mf|gli|le} trapassò la carne durante la caduta. Un attimo dopo, Cassia fu risucchiata in aria e trascinata dentro la tela. Pochi istanti più tardi, lo stesso Rogue Trader fu precipitato nelle profondità del mondo creato dalla Lady Navigatrice...
+
+### u069749
+Eppure, c'erano odio e disprezzo nei suoi occhi.
+"So che cosa brami, Tisiphone Orsellio. Ma non l'avrai mai. Vuoi la mia anima? Il mio corpo? Sostieni che io sia te? No. Esci... dalla... mia... testa..."
+Cassia liberò una mano dalla stretta di Tisiphone e colpì con tutte le sue forze il volto cadaverico di Tisiphone, frantumando il cranio della vecchia in schizzi bianchi di vernice.
+
+### u069750
+Eppure, c'era una risolutezza incrollabile nei suoi occhi.
+"So chi sei, Tisiphone Orsellio. So che cosa brami... L'ho visto nelle visioni che mi hai inviato più e più volte. Non ti permetterò... non permetterò mai che tu diventi me..."
+La voce stanca di Cassia tremò, ma lei non aveva alcuna intenzione di cedere in quella battaglia.
+
+### u069751
+Bastò un passo perché una forza ignota notasse il Lord Capitano, {mf|lo|la} afferrasse e {mf|lo|la} trascinasse attraverso lo spazio contorto del dipinto. Ora il Lord Capitano poteva vedere chiaramente l'ombra scura della Navigatrice morta da tempo china su Cassia. Stringendole il collo tra le dita artigliate, l'ombra gridò,
+
+### u069752
+I vortici cremisi confusero i pensieri e le emozioni del Rogue Trader. {mf|Egli|Ella} sentiva sussurri e gemiti provenire dalle profondità. Se avesse fatto un solo passo, si sarebbe {mf|perso|persa} per sempre in quella nebbia violenta e si sarebbe {mf|unito|unita} al coro dei miseri... Ma c'era anche una voce, che implorava pietà con tanta disperazione. Eppure, di chi fosse quella voce, {name} non avrebbe saputo dirlo.
+
+### u069753
+Nella nebbia vorticante tutt'attorno a {mf|lui|lei}, {name} distingueva volti umani straziati dal tormento... e non solo volti umani! C'erano xenos, Aeldari, con i tratti fusi con quelli degli umani, il che rendeva gli spettri cremisi ancora più abominevoli. I loro sguardi e la loro rabbia erano rivolti alle due figure immobili l'una di fronte all'altra.
+
+### u069754
+"Ti è stata data la vita grazie a me. Sei sopravvissuta grazie a me! E ora sei qui, perché io l'ho voluto. Inchinati davanti a me! Dimmi ciò che voglio sentire, e la tua sofferenza finirà. Avanti, Figlia... Ho atteso così a lungo. Sottomettiti a me!"
+
+### u069755
+Il combattimento che seguì fu breve. Nel momento in cui Tisiphone si rese conto di non avere la forza per sopraffare Cassia, si levò in aria con un urlo di disperazione e tentò di fuggire... ma non c'era scampo.
+
+### u069756
+Cassia sembrava esausta, il corpo coperto da centinaia di sottili tagli, le labbra lacerate, segni di artigli sulle guance.
+
+### u069757
+La lama argentea fischiò nell'aria, e Tisiphone lanciò un orribile ululato mentre la sua figura scheletrica volava verso l'alto e si disperdeva in cenere nera... E con questo, finalmente, era tutto finito.
+
+### u069758
+Il Lord Capitano si scagliò contro l'entità ma passò attraverso il corpo di Tisiphone Orsellio. L'entità ringhiò e lanciò al Rogue Trader un'occhiata furiosa di traverso, ma non {mf|lo|la} ritenne una minaccia e concentrò invece la propria attenzione sulla Lady Navigatrice.
+
+### u069759
+I denti affilati della spada a catena fecero a brandelli le antiche ossa di Tisiphone finché lo spettro non lanciò un orribile urlo di disperazione e si disperse in cenere nera... E con questo, finalmente, era tutto finito.
+
+### u069760
+Settore: Distesa di Koronus
+Regione: Sistema Orsellio Prophecy
+Luogo: Sanctum Navis, camere di osservazione esterne
+Materiale: Registrazioni vox degli interrogatori dei testimoni condotti dai tutori dell'ordine dei ponti superiori
+
+### u069761
+Voce A-201.48.66. 10 turni cronometrici dall'incidente.
+
+### u069762
+<b>Tutore dell'ordine:</b> "Testimone Hideh-On-00110101, affermi di aver lasciato il Sanctum Navis per ordine della Lady Navigatrice?"
+<b>Hideh-On-00110101:</b> "Affermativo. Quest'unità ha agito in conformità al Protocollo di manutenzione TRN-08353. Primo passo: incensare i sacri meccanismi per la durata di 15 turni cronometrici. Secondo passo..."
+
+### u069763
+<b>Tutore dell'ordine:</b> "Non hai informato il ponte di comando del salto imminente. Voglio sapere perché."
+<b>Hideh-On-00110101:</b> "Dati... non disponibili. La Lady Navigatrice ha ordinato di essere collegata alla nave del vuoto, ma non ha ordinato di preparare gli spiriti macchina alla traslazione warp. Causa: un rituale non identificabile dalle capacità di quest'unità. Quest'unità ha ricevuto il comando di interrompere il Protocollo TRN-08353 e di uscire dal Sanctum Navis."
+
+### u069764
+Voce M-001.87.23. 30 turni cronometrici dall'incidente.
+
+### u069765
+<b>Tutore dell'ordine:</b> "Merda di grox! L'armaglass non può proteggerti dagli orrori del warp!"
+<b>Servitore:</b> "G-giuro sulla mia anima e sul Trono d'Oro, signor tutore dell'ordine, la Lady Navigatrice voleva solo dipingere un quadro per un rituale o roba del genere, è tutto quello che so! Non av-avrebbe usato il potere del suo occhio ma io mi sono comunque allontanato il più possibile. È tutto quello che ho visto, ve lo giuro!"
+
+### u069766
+Voce H-905.00.80. 50 turni cronometrici dall'incidente.
+
+### u069767
+Gemiti di approvazione giunsero dall'interno della nebbia color amaranto e i volti di umani e Aeldari evaporarono lentamente insieme alla Novator defunta.
+
+### u069768
+Il ricordo si dissolse e una folata di vento argenteo scagliò il Lord Capitano di nuovo nell'oceano del nulla. Ma stavolta il nulla appariva lugubre: al posto delle tinte brillanti conteneva solo ombre di mostri invisibili che nuotavano oltre, avvolti da un velo nebuloso di insondabilità.
+### u069769
+"Come ogni eresia, l'Atlas della Casata Orsellio deve essere distrutto."
+
+### u069770
+"Hai ragione... Dovrei rifletterci ancora una volta."
+
+### u069771
+"Anch'io desidero essere {mf|illuminato|illuminata} su ciò che sta accadendo qui."
+
+### u069772
+"La Casata Orsellio non potrà mai sperare di redimersi davanti al Dio-Imperatore. Rendi pure la tua giustizia, xenos."
+
+### u069773
+"Non resterò qui a lasciare che un xenos ipocrita massacri dei Navigatori dell'Imperium!"
+
+### u069774
+[Rivolgiti all'emissario dei rinnegati] "Come hai fatto ad arrivare qui prima di noi? Nessuno tranne Cassia conosceva la strada."
+
+### u069775
+"Un'imboscata... Che ignominia! Eppure così tipica degli xenos."
+
+### u069776
+"È possibile eseguire il rituale per purificare l'Atlas senza l'aiuto degli xenos?"
+
+### u069777
+"Cassia è l'erede di colei che ha legato il Monolito Spirituale ai corpi dei Navigatori. Ascolta tutto ciò che ha da dire. Non è la donna che era la sua predecessora."
+
+### u069778
+[Giustizia Cassia] "Basta! Condanno con ciò la Casata Orsellio all'oblio!"
+
+### u069779
+"Se pensi che non dovrei, non lo farò."
+
+### u069780
+"L'Atlas è un artefatto eretico creato da una pazza. Non sarebbe meglio sbarazzarsene?"
+
+### u069781
+"Come hanno contaminato il Monolito Spirituale i Navigatori della Casata Orsellio?"
+
+### u069782
+"Agisci pure come meglio credi."
+
+### u069783
+"Non puoi semplicemente scartarmi così!"
+
+### u069784
+"Vedo che hai preso una decisione. Allora è inutile discuterne."
+
+### u069785
+"Che ne sarà della Casata Orsellio se l'Atlas verrà distrutto?"
+
+### u069786
+[Rivolgiti a Yrliet] "Che cos'era quello? Quale risposta hai sempre conosciuto?"
+
+### u069787
+"Condanno con ciò la Casata Orsellio all'oblio."
+
+### u069788
+[Rivolgiti all'Arlecchino] "Vieni al punto prima che ti faccia un buco in quella orrenda maschera."
+
+### u069789
+"Raramente a umani e xenos capita di poter risolvere i loro conflitti senza violenza. Appoggio la proposta di Lady Cassia."
+
+### u069790
+"Occupiamoci della questione dell'Atlas dopo aver distrutto gli xenos."
+
+### u069791
+"Né Theodora von Valancius né Tisiphone erano infallibili. Ma questo non significa che siamo impotenti di fronte agli errori dei nostri antenati."
+
+### u069792
+"È spaventoso. Le azioni della Casata Orsellio... non possono essere perdonate."
+
+### u069793
+"Non c'è vergogna nell'usare i poteri degli xenos per il bene dell'Imperium."
+
+### u069794
+[Rivolgiti a Cassia] "Che cosa rispondi alle affermazioni di questo xenos?"
+
+### u069795
+"Come osi metterci nello stesso mucchio? Io non scenderei mai a una cosa simile!"
+
+### u069796
+"Salva i Navigatori dalla morte, e otterrai un potente alleato tra gli umani."
+
+### u069797
+"Cassia può portare la morte sulla sua intera Casata con un solo pensiero. Che ne sarebbe del Monolito se le anime dei Navigatori Orsellio abbandonassero i loro corpi tutte insieme?"
+
+### u069798
+"Il destino della Casata Orsellio si sta decidendo in questo momento. Non puoi restare a guardare!"
+
+### u069799
+"Perdere l'Atlas indebolirà la Casata Orsellio e, di conseguenza, l'Imperium. Non possiamo permettere che accada!"
+
+### u069800
+"Quale futuro vedi per la tua Casata, Cassia?"
+
+### u069801
+"È ora che la Casata Orsellio paghi per l'errore di Tisiphone."
+
+### u069802
+"Non permetterò agli xenos di prendere l'Atlas."
+
+### u069803
+"Non prenderò parte a questo conflitto."
+
+### u069804
+[Attacca gli Arlecchini] "Non lascerò che i servitori del Dio-Imperatore siano ulteriormente contaminati da questa eresia."
+
+### u069805
+"Di quale contaminazione parli, xenos?"
+
+### u069806
+[Esamina il cristallo fluttuante]
+
+### u069807
+"Perché non dovrei semplicemente uccidervi tutti dove siete?"
+
+### u069808
+"Se fossi in voi, non rischierei di perdere la grande reliquia della Casata. Lascerei le cose come stanno."
+
+### u069809
+"Allora me ne vado."
+
+### u069810
+[Rivolgiti a Cassia] "Quali esperimenti ha condotto qui Tisiphone?"
+
+### u069811
+[Rivolgiti all'Arlecchino] "E che cosa significa tutto questo, esattamente?"
+
+### u069812
+"Capisco... Quindi pensi di potermi respingere? Allora perisci insieme al resto degli Orsellio!"
+
+### u069813
+[Rivolgiti all'emissaria del Grande Reggente] "Come sei arrivata qui?"
+
+### u069814
+[Rivolgiti all'emissario dei rinnegati] "Ti suggerisco di spiegarti immediatamente. E faresti meglio a essere molto convincente."
+
+### u069815
+"Non c'è proprio alcun modo di separare le anime dei Navigatori da quelle degli Aeldari senza uccidere gli uni o gli altri?"
+
+### u069816
+"L'Atlas deve certamente essere distrutto. Ma di certo non si può pretendere che l'intera Casata sconti una penitenza per i crimini di Tisiphone?"
+
+### u069817
+"Come? Non sia mai! Lo Starway Atlas è il fondamento del potere della Casata Orsellio. Da dove credete che traiamo la forza per solcare il Mare delle Anime? Non è forse la più grande biblioteca di conoscenza dei Navis Nobilite in tutta la Distesa di Koronus e nel Settore Calixis? Se l'Atlas venisse distrutto, la Casata Orsellio sarebbe condannata all'oblio!"
+
+### u069818
+"Sciocchezze! Tisiphone creò l'Atlas solo pochi secoli fa, mentre la storia della Casata Orsellio risale al millennio scorso! Siamo sempre stati una Casata da non sottovalutare, ma quando Tisiphone giunse nella Distesa, puntò a ottenere un potere che permettesse al suo ramo della famiglia di dominare gli altri. E dove ci ha condotti? I nostri corpi sono corrotti dalla xenoeresia! Dio-Imperatore, perdona i Tuoi figli per aver commesso una trasgressione tanto abominevole..."
+
+### u069819
+{n}Lo xenos riflette per un momento.{/n} "Non credo che ce ne sia uno. I mon-keigh dai tre occhi hanno profanato questo luogo, e non metterò a rischio il Monolito Spirituale solo per aiutarli a evitare le conseguenze di una deplorevole prestazione."
+
+### u069820
+"Cassia, ne sei davvero capace?"
+
+### u069821
+"Aspettate!" {n}L'appello di Cassia è rivolto sia a te sia agli Aeldari che ti circondano.{/n} "Non posso cambiare il passato, è vero. Né posso cambiare il fatto che la mia Casata è per sempre macchiata da una vergogna nata dalla tracotanza di Tisiphone Orsellio. Eppure tutti noi, oggi qui, abbiamo il potere di cambiare il futuro e di fermare l'incessante sofferenza che sta annegando sia la vostra gente sia la mia!"
+
+### u069822
+"Fu imprudente da parte di Tisiphone usare un artefatto degli xenos per i suoi esperimenti, ma non possiamo permetterci di distruggere l'Atlas. Non ora. La Casata Orsellio si indebolisce insieme a questa pietra. Chi può dire che cosa accadrà a tutti noi se la distruggiamo? Esplorerò gli antichi documenti della nostra Casata e mi rivolgerò ai ricordi del clan Setthala... Sono certa che troveremo il modo di liberarci di questa maledizione che un tempo veniva chiamata benedizione. Tutto a tempo debito."
+
+### u069823
+{n}Cassia sospira piano.{/n} "Fu imprudente da parte di Tisiphone usare un artefatto degli xenos per i suoi esperimenti. La Casata Orsellio dovrà fare tutto il necessario per rimediare alle sue mancanze agli occhi dell'Imperatore. Ed è per questo che non posso permettervi di distruggere l'Atlas. Non solo ci indebolirebbe, ma soffrirebbe anche l'intera Umanità!"
+
+### u069824
+"S-sì, davvero! E se la Distesa di Koronus perde una Casata di Navigatori, il caos travolgerà mondi e stazioni che non possono esistere senza l'occhio veggente dei Navis Nobilite, e le flotte dei Rogue Trader non se la caveranno meglio. Anche la vostra dinastia ne subirà gli effetti, {name} von Valancius. Quindi ve lo chiedo ora: da che parte state?"
+
+### u069825
+{n}Gli occhi dell'emissaria si spalancano per l'orrore mentre il suo corpo si piega in due all'istante.{/n} "P-perdonate il mio sfogo, mia signora. Siete davvero la nostra Novator, che siate stata incoronata o meno! La Casata Orsellio è sempre stata fedele alla Novator Tisiphone. D'ora in poi sarà fedele alla sua erede, anche se riterrete opportuno condurci su una strada diversa!"
+
+### u069826
+"Vi rivolgete alla futura Novator della Casata Orsellio. A colei che è sopravvissuta al massacro di Eurac V. Che ha continuato a vivere dopo un attentato alla sua vita nel palazzo di Dargonus. Che ha ripristinato la stabilità della sua Casata nel poco tempo in cui è stata libera, mentre voi, tutti voi, avete passato anni a distruggerla dall'interno! Vi rivolgete a colei che ha attraversato la tempesta del Mare delle Anime fino al vero Atlas come alleata di un Rogue Trader. Eppure mi chiamate ancora indegna, non è così? Giovane? Inesperta? Inginocchiatevi davanti a me, e vi perdonerò la vostra insolenza."
+
+### u069827
+"I vostri viaggi al fianco del Rogue Trader vi hanno confuso la mente, Figlia. Torniamo dal Grande Reggente, e poi..."
+
+### u069828
+"La Casata Orsellio è sempre stata fedele alla Novator Tisiphone. D'ora in poi sarà fedele alla sua erede, anche se riterrete opportuno condurci su una strada diversa, mia signora!" {n}La voce dell'emissaria trema di reverenza.{/n}
+
+### u069829
+"Allora... vi costringerò io a farlo." {n}Cassia chiude gli occhi per un istante e porta una mano al proprio Atlas.{/n}
+
+### u069830
+"Fermati, xenos! Non avevi promesso che avresti ucciso la ragazza insieme ai suoi protettori e risparmiato gli altri?"
+
+### u069831
+"Che... che cosa significa? Il Rogue Trader si è abbassato al punto di attirare la Figlia e noi in una trappola?" {n}Le labbra dell'emissaria si torcono dalla furia.{/n} "Il Grande Reggente Aaronto ha sbagliato a {d|Encyclopedia:CassiaQ1_RegenAlive}fidarsi di voi{/d}!"
+
+### u069832
+"Che... che cosa significa? Il Rogue Trader si è abbassato al punto di attirare la Figlia e noi in una trappola?" {n}Le labbra dell'emissaria si torcono dalla furia.{/n} "Non avremmo dovuto fidarci di nuovo di voi dopo l'{d|Encyclopedia:CassiaQ1_RegenExecuted}assassinio del Grande Reggente Aaronto{/d}!"
+
+### u069833
+"Che cos'è questo? Il Rogue Trader e i traditori della Casata hanno attirato la Figlia in una trappola tesa dagli xenos? Vorrei che i miei occhi mi ingannassero. Ma ora vedo chiaramente che il {d|Encyclopedia:CassiaQ1_RegenAlive}Grande Reggente Aaronto{/d} aveva ragione a mandarci all'inseguimento della vostra nave." {n}La donna dalla corporatura robusta è armata di una pistola, eppure nella sua postura ci sono segni di stanchezza. Il suo volto è nascosto dietro una maschera a tre occhi tempestata di gemme e le sue elaborate vesti dei Navis Nobilite sono macchiate di sangue secco e di altre tracce di un recente scontro.{/n}
+
+### u069834
+"La smetterai di profanare i resti del suolo sacro dei nostri antenati con il tuo simulacro di linguaggio, mon-keigh." {n}I vestiti sgargianti dell'Arlecchino brillano debolmente nella fioca luce della stella del sistema, e il ghigno sinistro sulla sua maschera non fa che accrescere la sua presenza minacciosa e distaccata.{/n} "Presto si svolgerà l'atto finale, in cui pagherai per le azioni dei tuoi antenati. Resta {mf|fermo|ferma} e attendi che il burattinaio tiri i tuoi fili."
+
+### u069835
+"Silenzio, traditore! L'Atlas è la sacra reliquia della Casata Orsellio, è ciò che ci eleva al di sopra degli altri! Come osi..." {n}L'emissaria del reggente perde bruscamente il fiato con un gemito e si stringe il petto, dove è impiantato il suo Atlas.{/n} "Mi rifiuto... di accettare... Impossibile..."

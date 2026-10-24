@@ -1,0 +1,853 @@
+### u038277
+"Come desiderate, Lord Cap'."
+
+### u038278
+"Vorrei che fosse il mio unico compito. Devo anche guidarla attraverso il warp, ma il merito maggiore va al Navigatore. Il warp è un incubo, ti butta in faccia sempre qualcosa di nuovo: tutti i miei anni al timone, là dentro non valgono nulla. La mia parte è piccola: controllo i sistemi, seguo la rotta tracciata e non faccio storie quando arrivano nuovi ordini dal Sanctum del Navigatore."
+
+### u038279
+"Sono troppi per elencarli tutti. Tecnopreti dell'enginarium, marinai del vuoto dei ponti degli augur, gli scansafatiche del ponte di comando. Li farei frustare tutti, fino all'ultimo! Hanno bisogno di una bella sveglia. Vanno messi in riga, altrimenti questa nave non andrà da nessuna parte. O peggio ancora, andrà dove non vogliamo che vada."
+
+### u038280
+"{g|Encyclopedia:Realspace}Spazio reale{/g}: è lì che tengo gli occhi ben aperti. Anomalie gravitazionali, correnti del vuoto, radiazioni intense: porcherie del genere spuntano ovunque. Grazie all'Imperatore, gli augur di questa nave reggono, e finora siamo riusciti a individuare ciò che di brutto ci veniva incontro."
+
+### u038281
+{n}Ravor ti fissa prima di sbottare,{/n} "Dannazione, Lord Cap'... A dire la verità, mi sono chiesto... dove ha pescato il Lord Cap' questa ragazza Orsellio? Non è che io abbia conosciuto molti Navigatori, ma questa qui... non mi sento al sicuro con quella principessina che trascina la nostra nave del vuoto attraverso il warp. Finora ha fatto un lavoro decente, però, quindi suppongo che se la cavi."
+
+### u038282
+"Non ne ho uno migliore, Lord Cap'."
+
+### u038283
+"Che io sia folgorato se capisco qualcosa, ma sono qui per servire. C'è dell'altro di cui volete discutere?"
+
+### u038284
+{n}Ravor annuisce.{/n}
+
+### u038285
+{n}Le sopracciglia aggrottate dell'ufficiale si avvicinano ancora di più. Parla lentamente, scegliendo con cura le parole:{/n} "Posso senza dubbio, Lord Capitano. I tecnomati ispezioneranno subito l'equipaggiamento. Mi occuperò io stesso, senza indugio, anche dei responsabili."
+
+### u038286
+"Non direi, Lord Cap'. Non mi dice niente. D'altra parte, ricordare tutti i posti dove è stata Lady Theodora è..." {n}Aggrotta la fronte.{/n} "Epitaffio, incidente... Qui a bordo abbiamo sempre avuto un mucchio di incidenti, ma..."
+
+### u038287
+{n}Ravor si immobilizza, ti fissa negli occhi con aria tesa, cercando chiaramente di capire se le tue parole siano una presa in giro. Dopo un attimo di pausa, un muscolo del suo viso trema, poi un altro. Le guance sono scosse da uno spasmo, la bocca si contorce... e ti rendi conto che Ravor sta cercando, senza successo, di ricordare come si sorride.{/n} "G-grazie, Lord Cap'. Non vi deluderò."
+
+### u038288
+{n}Ravor fa una smorfia, come per un dolore.{/n} "Il nome l'ho sentito, di questo sono certo... ma non ricordo i dettagli. Ah... mi chiedo se facesse parte di quell'operazione di cui era stato messo a capo il defunto Mort. Se è così, non posso dirvi nulla, Lord Cap'. Tutta la faccenda è stata tenuta sotto silenzio. La vostra migliore possibilità è chiedere all'Alto Factotum: forse tra i suoi registri del tesoro c'è qualche menzione di questo 'Fiery Reckoning'."
+
+### u038289
+"No. Sono già sommerso di lavoro fino ai connettori."
+
+### u038290
+{n}Il timoniere si gratta pensieroso la nuca.{/n} "Che io sia dannato se lo so, Lord Capitano. Se volete il mio parere, i nostri orfani stanno infinitamente meglio di come starebbero su altre navi."
+
+### u038291
+"Alcuni non si impegnavano abbastanza o non ascoltavano i superiori, tutto qui. O forse vi è morto qualcuno di conoscenza e dovrei porgervi le mie condoglianze?" {n}Ravor grugnisce e distoglie lo sguardo.{/n} "Strana scelta, venire da me con una cosa simile, Lord Capitano."
+
+### u038292
+Cogitatore {mf|del|della} Rogue Trader
+
+### u038293
+Raid punitivi
+
+### u038294
+Propaganda
+
+### u038295
+Riepilogo del briefing
+
+### u038296
+Gioco del vox
+
+### u038297
+Raid della guarnigione planetaria
+
+### u038298
+Dispiegamento della guardia personale del Lord Capitano sulle navette da sbarco
+
+### u038299
+Sorveglianza universale tramite la rete di agenti di Maestro van Calox
+
+### u038300
+L'operazione ha inizio: fase 1 di 3
+
+### u038301
+Azioni preventive
+
+### u038302
+L'operazione prosegue: fase 3 di 3
+
+### u038303
+Ricerca basata sulle prove raccolte
+
+### u038304
+Distruzione delle foreste
+
+### u038305
+Scansione degli augur della nave
+
+### u038306
+Scansione dell'Adeptus Mechanicus grazie ai contatti del Magos Haneumann
+
+### u038307
+Divinazione psyker autorizzata guidata da Signora Tlass
+
+### u038308
+Esito dell'operazione
+
+### u038309
+Attacchi di guerriglia pianificati da Maestro Werserian
+
+### u038310
+Infiltrazione di agenti tramite le conoscenze di Signora Heydari
+
+### u038311
+Attacco su larga scala delle truppe di milizia ispirate da Sorella Argenta
+
+### u038312
+L'operazione prosegue: fase 2 di 3
+
+### u038313
+Bombardamento orbitale delle foreste
+
+### u038314
+Tenute funzioni di preghiera su scala planetaria durante l'operazione su Janus.
+
+### u038315
+SPECIALE: Funzioni di preghiera su scala planetaria
+
+### u038316
+La presa del controllo dei sistemi di comunicazione dei ribelli da parte del Lord Capitano ha dato ai suoi fedeli servitori un vantaggio significativo.
+
+### u038317
+Regione: Cinerus Maleficum
+Luogo: Telikos Epsilon
+Materiale: Rapporto procedurale interno
+Registrato da: Vigdis Surri Otta Toliman, Maestra del Vox Octavus
+
+### u038318
+Rapporto sull'operazione per sradicare senza pietà i traditori clandestini dell'{g|Encyclopedia:Imperium}Imperium{/g} sul {g|Encyclopedia:AgriWorld}mondo agricolo{/g} Janus
+
+### u038319
+Per Sua grazia, la guida e il comando generale dell'operazione sono stati assunti {mf|dal|dalla} {g|Encyclopedia:RogueTrader}Rogue Trader{/g} {name} della gloriosa Casata von Valancius.
+
+### u038320
+I brutali raid punitivi, le perquisizioni e le punizioni pubbliche messi in atto dagli uomini della Governatrice Vyatt non hanno prodotto alcun effetto benefico, ma hanno soltanto inasprito ancora di più la popolazione di Janus.
+
+### u038321
+La guardia personale di tutori dell'ordine del Lord Capitano era meglio addestrata e in grado di atterrare nella giungla a bordo delle navette d'abbordaggio, anche se il suo impiego in operazioni di combattimento comportava il rischio di perdite tra l'equipaggio della nave.
+
+### u038322
+Oltre all'indubbia competenza del {mf|benedetto|benedetta} Lord Capitano, c'era un altro motivo dietro questa decisione, ossia le prove di slealtà all'interno del seguito della stimabile Governatrice Vyatt.
+
+### u038323
+La stimata Sorella Argenta ha suggerito di arruolare le ampie masse della fedele popolazione del pianeta a sostegno della lotta. Spinte da una giusta ira, le milizie avrebbero potuto battere le giungle su una scala impossibile per le forze armate più limitate.
+
+### u038324
+Sul pianeta Janus è stata rilevata un'attività sovversiva da parte dei nemici dell'Umanità. La loro insidiosa propaganda ha condotto alla dissolutezza tra i sudditi dell'Imperium, e di conseguenza i contadini hanno simpatizzato per i sentimenti ribelli.
+
+### u038325
+Permettendo all'agitazione di mettere radici nel suo dominio, la Governatrice Vistenza Vyatt si è screditata. Alla luce di ciò, i metodi grossolani da lei usati per reprimere la ribellione sono stati messi in discussione, così come il suo stato maggiore.
+
+### u038326
+La potenza e l'autorità del nobile Lord Capitano, tuttavia, hanno saputo favorire la fine del conflitto, anche se ciò ha comportato l'impiego delle risorse personali {mf|del|della} Rogue Trader.
+
+### u038327
+Il benessere futuro di Janus dipendeva dal successo di ogni fase dell'operazione. Un solo passo falso avrebbe potuto minare la sicurezza di questa preziosa colonia e, di conseguenza, infliggere un colpo alla prosperità del protettorato della Casata von Valancius.
+
+### u038328
+Fase 1 di 3: Sradicamento urbano
+
+### u038329
+Il primo passo nella lotta contro gli insorti è stato scacciare le loro cellule dalla capitale e dalle città principali. Il Lord Capitano {mf|benedetto|benedetta} dall'Imperatore ha valutato diverse strategie di repressione prima di scegliere l'opzione migliore.
+
+### u038330
+Grazie ai dati raccolti da un servitore della stimata Governatrice Vyatt e analizzati dal Lord Capitano in persona, i piani d'attacco dei ribelli sono stati smascherati, creando l'opportunità di elaborare una controstrategia.
+
+### u038331
+Le principali forze ribelli si nascondevano in luoghi remoti e incolti, ma una rete ribelle consistente è stata scoperta anche nelle città maggiori. I collaboratori di Vistenza Vyatt premevano per i raid punitivi, mentre i consiglieri del Lord Capitano hanno suggerito di lanciare una campagna di propaganda su scala planetaria per esortare i cittadini a smascherare i traditori nelle proprie file e a denunciarli alle autorità. Quest'ultimo approccio, tuttavia, avrebbe richiesto l'impiego dei fondi personali del Lord Capitano come dimostrazione della sua generosità e del suo patronato.
+
+### u038332
+Lo stimato Heinrix van Calox ha proposto di utilizzare la rete di spie a sua disposizione per attuare una sorveglianza universale sulla popolazione del pianeta.
+
+### u038333
+I servizi segreti hanno rivelato che i ribelli collaboravano con la malavita del pianeta. La stimata Jae Heydari ha suggerito di contattare le sue conoscenze negli ambienti poco raccomandabili dei contrabbandieri allo scopo di infiltrare agenti nella rete clandestina dei ribelli.
+
+### u038334
+Ispirate dalle appassionate esortazioni dei predicatori, decine di migliaia di abitanti di Janus si sono armati e si sono abbattuti sulla giungla come una tempesta furiosa. Senza badare alle pesanti perdite, la milizia ha sterminato la maggior parte dei ribelli, e i resti sono stati cacciati nelle regioni insulari, ormai prive di valore economico.
+
+### u038335
+Ispirate dai discorsi infuocati dei predicatori, decine di migliaia di abitanti di Janus si sono armati e si sono abbattuti sulla giungla come una tempesta furiosa. Ahimè, sotto il fuoco dei ribelli e subendo pesanti perdite, il fervore della milizia è presto scemato. Demoralizzati, hanno voltato le spalle e sono fuggiti, il che ha solo aumentato il numero dei morti.
+
+### u038336
+Fase 2 di 3: Operazioni nella giungla
+
+### u038337
+Le forze principali dei ribelli erano disperse nelle selvagge aree di giungla del pianeta. Al Lord Capitano sono state proposte diverse strategie per affrontarle.
+
+### u038338
+In base ai dati forniti dal segretario della stimata Governatrice Vyatt, il {mf|benedetto|benedetta} Lord Capitano ha compilato un quadro degli attacchi futuri dei ribelli nelle città.
+
+### u038339
+Questo quadro è stato la base per una serie di arresti e raid che hanno costretto gli insorti ad abbandonare le città e a ripiegare nell'entroterra del pianeta.
+
+### u038340
+Purtroppo, dopo la prima ondata di arresti e raid, i ribelli si sono adattati in fretta e hanno modificato la propria strategia.
+
+### u038341
+Poiché le file dei ribelli ingrossavano di giorno in giorno, è stata presa la spietata decisione di tenere esecuzioni pubbliche. Molti abitanti di Janus sono stati messi a morte all'istante, mentre gli altri sono stati colti da un tale terrore che su tutto il pianeta è scoppiata una giusta caccia ai traditori e agli eretici. Oltre ai molti innocenti uccisi ingiustamente, il nucleo della resistenza ribelle urbana è stato distrutto, costringendo gli insorti ad abbandonare le grandi città.
+
+### u038342
+Sebbene la guarnigione planetaria fosse addestrata peggio dei ribelli, grazie al {mf|benedetto|benedetta} Lord Capitano, che ha assunto di persona il comando dell'operazione, le truppe della governatrice hanno vinto. Le principali forze ribelli sono state spinte fuori dalle zone di produzione agricola verso le regioni insulari prive di valore economico.
+
+### u038343
+Ahimè, la guarnigione planetaria era così mal addestrata che nemmeno il comando personale della missione da parte del {mf|benedetto|benedetta} Lord Capitano è bastato a renderla un successo. I soldati sono caduti a frotte, incapaci di orientarsi nel sottobosco o anche solo di capire da dove arrivasse il fuoco.
+
+### u038344
+Le squadre d'abbordaggio dell'equipaggio del {mf|benedetto|benedetta} Lord Capitano sono piombate sulle teste dei ribelli a bordo delle loro navette da sbarco. Grazie all'abile manovra dei piloti, questo attacco fulmineo ha disperso le forze ribelli, tagliando loro le vie di ritirata e lasciandole nel caos più totale. I gruppi isolati e demoralizzati di ribelli sono stati eliminati nell'arco di diversi giorni. Gli insorti sopravvissuti si sono ritirati nelle regioni insulari di scarso rilievo. Le perdite dell'equipaggio sono state spiacevoli ma lievi.
+
+### u038345
+Le squadre d'abbordaggio dell'equipaggio del {mf|benedetto|benedetta} Lord Capitano sono piombate sulle teste dei ribelli a bordo delle loro navette da sbarco. Purtroppo, alcuni piloti erano meno abili di altri e alcune squadre sono atterrate nel punto sbagliato o sono arrivate in ritardo sulla superficie del pianeta. L'azione, pianificata come un colpo rapido e decisivo contro gruppi isolati di ribelli, si è trasformata in una trappola mortale per i tutori dell'ordine dello {mf|stimato|stimata} Lord Capitano. Intrappolati in sacche di fuoco, hanno assunto una formazione difensiva circolare e hanno subito pesanti perdite.
+
+### u038346
+I soldati della guarnigione planetaria sono stati addestrati dallo stimato Abelard Werserian e hanno assimilato in fretta le conoscenze degli empi eretici. Adottandone le tattiche, i soldati si muovevano nella giungla in piccoli gruppi, restando nascosti e sferrando colpi improvvisi. Privati ormai del loro principale vantaggio tattico, i ribelli che non erano stati annientati si sono ritirati nelle regioni insulari di scarso rilievo.
+
+### u038347
+Ahimè, il breve corso di addestramento organizzato dallo stimato Abelard Werserian per la guarnigione non ha fatto alcuna differenza. I soldati incapaci della Governatrice Vyatt non erano all'altezza dei ribelli. Gli attacchi di guerriglia sono falliti e le perdite aumentavano di giorno in giorno.
+
+### u038348
+Fase 3 di 3: Distruzione dei campi di addestramento
+
+### u038349
+Dopo la ritirata, i ribelli hanno preso a difendere i loro campi di addestramento, nascosti nel profondo delle foreste dell'arcipelago. Il {mf|benedetto|benedetta} Lord Capitano ha esaminato diversi approcci per estirpare questi nidi di sedizione e ha scelto il più promettente.
+
+### u038350
+Grazie alle prove raccolte in precedenza, il Lord Capitano era in possesso di informazioni del {g|Encyclopedia:Lexmechanic}Lexmeccanico{/g} Vinzelex che hanno semplificato il compito.
+
+### u038351
+I campi di addestramento dei ribelli si trovavano nelle regioni insulari, fittamente boscose ma insignificanti. Inoltre, i rapporti degli esploratori indicavano che anche gli istigatori della rivolta si nascondevano lì: {g|Encyclopedia:Xenos}xenos{/g}, nemici dell'Umanità. La Governatrice Vyatt ha suggerito di dare alle fiamme le inutili foreste, così che i ribelli non potessero più nascondersi, tuttavia vi erano seri dubbi sulla competenza degli ufficiali da lei scelti per il compito. Individuare i campi con le apparecchiature tecniche della nave del {mf|benedetto|benedetta} Lord Capitano era una vera sfida, possibile solo con un augur molto sensibile e potente.
+
+### u038352
+Lo stimato Magos Haneumann ha fatto notare che sulle isole erano presenti numerosi sacri meccanismi per il monitoraggio dell'attività sismica. Ha proposto che i membri dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g} al servizio di tali macchine potessero contribuire alla raccolta di informazioni.
+
+### u038353
+La stimata Idira Tlass ha avanzato la proposta di ricorrere alla divinazione psyker per tentare di scoprire il campo dei traditori.
+
+### u038354
+Le bacche trovate dal Lord Capitano tra gli effetti personali dei ribelli crescono solo in certe regioni del pianeta, dove il suolo ha una composizione minerale unica.
+
+### u038355
+Dopo aver inviato degli esploratori in quella zona, il Lord Capitano ha scoperto in fretta il nascondiglio dei ribelli. Sentendo che la fine era vicina, i ribelli si sono riuniti nei loro campi e si sono preparati a un'ultima resistenza.
+
+### u038356
+Purtroppo, gli esploratori inviati in quella zona dal Lord Capitano non sono riusciti a localizzare il nascondiglio dei ribelli: non hanno potuto penetrare l'avanzato mimetismo fornito ai ribelli dai loro empi sostenitori, gli xenos.
+
+### u038357
+I campi dei ribelli sono stati comunque individuati e circondati, ma l'intoppo avvenuto in precedenza nell'operazione aveva dato ai combattenti la possibilità di prepararsi e sferrare il colpo finale, compiendo una serie di attacchi terroristici contro i siti vitali per la sicurezza del pianeta. È stato un atto disperato di insensata malvagità.
+
+### u038358
+Armati di lanciafiamme, i soldati della guarnigione planetaria hanno cominciato a bruciare metodicamente le foreste delle isole. Senza più alcun riparo per nascondersi, i ribelli si sono riuniti nei loro campi e hanno presidiato le difese, sentendo la morte imminente.
+
+### u038359
+Purtroppo, pochi soldati della guarnigione planetaria erano abbastanza capaci da maneggiare questi potenti strumenti di distruzione senza conseguenze negative. Numerosi incidenti legati alla combustione dei serbatoi di {g|Encyclopedia:Promethium}promethium{/g} hanno reso l'incendio delle foreste un processo più lento e difficile.
+
+### u038360
+Gli augur onniveggenti della nave hanno fissato il loro occhio senza palpebre sulle foreste delle isole, segnalando in fretta i punti in cui era stata rilevata un'attività sospetta. I campi dei ribelli sono stati trovati e al loro interno gli insorti compivano un'ultima, disperata resistenza.
+
+### u038361
+Purtroppo, nemmeno l'occhio onniveggente degli augur della nave è riuscito a localizzare in fretta i campi dei ribelli nelle foreste delle isole. Le scarse informazioni fornite dai {g|Encyclopedia:TechPriest}Tecnopreti{/g} hanno composto un quadro chiaro solo quando era ormai troppo tardi.
+
+### u038362
+I saggi dell'Adeptus Mechanicus si sono rivolti con preghiere e richieste alle sacre macchine del monitoraggio geologico. Dopo aver analizzato i benedetti ritmi dell'attività sismica, hanno consegnato al Lord Capitano un rapporto con le presunte coordinate dei campi dei ribelli. I ribelli erano rinchiusi nelle loro tane, e si preparavano a un'ultima, disperata resistenza.
+
+### u038363
+I saggi dell'Adeptus Mechanicus si sono rivolti con preghiere e richieste alle sacre macchine del monitoraggio geologico, ma poi sono precipitati in un estenuante dibattito sulla liceità di rivelare ai profani i benedetti ritmi dell'attività sismica. Il dibattito era interminabile e ha ritardato la conclusione dell'operazione.
+
+### u038364
+La divinazione psyker ha rivelato la posizione precisa dei traditori dell'Imperium. Seguendo la scia dei loro pensieri profani, i soldati della guarnigione planetaria hanno rintracciato le basi dei ribelli e le hanno bloccate.
+
+### u038365
+Il tentativo di divinazione psyker si è rivelato infruttuoso: ne sono scaturite solo previsioni confuse e contraddittorie e strane, alte ombre nascoste tra gli alberi di Janus, che ungevano il nucleo del pianeta con le loro lacrime. La conclusione dell'operazione è stata ritardata di conseguenza.
+
+### u038366
+Conclusione:
+
+### u038367
+Grazie all'azione delle forze fedeli all'Imperium, i ribelli sono stati spinti in regioni isolate, dove i loro campi sono poi stati scoperti e bloccati.
+
+### u038368
+Le dure rappresaglie compiute dai servitori del Lord Capitano nella lotta contro la resistenza ribelle hanno ridotto notevolmente la popolazione di Janus e ne hanno diminuito il valore come colonia.
+
+### u038369
+Mentre i ribelli venivano scacciati dalle giungle, sono stati effettuati attacchi orbitali mirati che hanno danneggiato le infrastrutture agricole del mondo agricolo e compromesso la capacità produttiva del pianeta.
+
+### u038370
+I complessi difensivi del pianeta sono stati danneggiati nel corso degli atti terroristici dei ribelli, il che ha inciso negativamente sulla sua sicurezza.
+
+### u038371
+L'operazione per combattere i traditori dell'Umanità istigati dagli xenos è stata un successo. La saggezza e la volontà del nostro illustre Lord Capitano hanno reso possibile l'eradicazione definitiva di quel movimento empio, e il processo è stato supervisionato di persona {mf|dal|dalla} Rogue Trader, {mf|sovrano|sovrana} di Janus e agente della Sua volontà.
+
+### u038372
+Per ordine del Lord Capitano, sono state tenute funzioni di preghiera su scala planetaria tre volte al giorno, durante le quali la popolazione di Janus ha pregato per la liberazione della Sua terra dalle grinfie dei nemici dell'Umanità. I rituali e le litanie hanno avuto effetto sugli abitanti del mondo agricolo: ben presto hanno cominciato ad arrivare rapporti secondo cui i membri della resistenza avevano perso l'appoggio dei contadini ed erano stati costretti ad abbandonare i principali insediamenti del mondo.
+
+### u038373
+La campagna organizzata dagli uomini dello {mf|stimato|stimata} Lord Capitano ha avuto effetto. Il suo discorso ai suoi sudditi è stato trasmesso dai sistemi {g|Encyclopedia:Vox}vox{/g} in tutta la colonia, mentre agli operai delle città è stato concesso un turno di riposo e sono state distribuite provviste, {g|Encyclopedia:Recaf}recaf{/g} e celle energetiche personali. Commossi dalla gentilezza del Lord Capitano, gli abitanti della colonia si sono precipitati ai centri di confessione istituiti da poco. La resistenza ribelle è stata costretta a ritirarsi in fretta dalle grandi città.
+
+### u038374
+La campagna organizzata dagli uomini dello {mf|stimato|stimata} Lord Capitano non ha prodotto il risultato atteso. I dissoluti e rozzi sudditi di Janus non hanno risposto con gratitudine al discorso {g|Encyclopedia:Vox}vox{/g} del Lord Capitano, trasmesso in tutta la colonia, né alla distribuzione di provviste e {g|Encyclopedia:Recaf}recaf{/g}. Invece di accettare con riconoscenza i doni del Lord Capitano, la gente ha cominciato a mormorare che le autorità cercassero di comprarla con razioni in eccesso.
+
+### u038375
+Con il sostegno delle risorse della Governatrice Vyatt, la rete di spie dello stimato Heinrix van Calox ha stabilito in fretta la sorveglianza nelle principali città del pianeta. Nessuno è sfuggito all'attenzione di questo occhio senza palpebre, e i ribelli clandestini sono stati costretti a ritirarsi in luoghi più remoti dopo la prima ondata di arresti.
+
+### u038376
+Ahimè, la rete di spie dello stimato Heinrix van Calox non è riuscita a catturare tutti i sudditi della colonia nella sua rete di sorveglianza. Il suo successo è stato ostacolato dagli atti di sabotaggio dei ribelli e dall'incompetenza delle forze della Governatrice Vyatt, che assistevano l'operazione. Gli agenti sul campo sono stati uccisi, i rapporti di sorveglianza sono scomparsi e i dispositivi di tracciamento sono stati manomessi.
+
+### u038377
+Gli agenti del Lord Capitano sono riusciti a infiltrarsi nella resistenza ribelle attraverso le reti di spregevoli ladri e contrabbandieri e a identificare i capi principali. Dopo l'ondata di arresti, i ribelli rimasti sono fuggiti dalle grandi città.
+
+### u038378
+Purtroppo, l'operazione per infiltrare agenti nella resistenza ribelle attraverso gli ambienti criminali del pianeta è fallita. Tutte le spie sono state giustiziate in massa dagli insorti paranoici, e questa piccola vittoria è servita solo a sollevare il loro morale e a rafforzare la loro determinazione.
+
+### u038379
+Per evitare che la sconfitta nella giungla degenerasse in una catastrofe militare, il sempre {mf|saggio|saggia} Lord Capitano ha dato il tempestivo ordine di un bombardamento orbitale mirato del pianeta. I colpi spietati hanno vaporizzato i gruppi di ribelli, costringendoli a ritirarsi nelle regioni insulari prive di valore economico. Ahimè, anche le infrastrutture e gli impianti agricoli della colonia sono stati vittime del bombardamento.
+
+### u038380
+Durante le operazioni sul pianeta, i sospetti del {mf|benedetto|benedetta} Lord Capitano e dei suoi compagni sono stati confermati: i ribelli erano manipolati da nemici dell'Umanità ancora più terribili. Creature identificate come sudici {g|Encyclopedia:Xenos}xenos{/g}, Aeldari per la precisione, sono state viste combattere al fianco dei contadini. La cosiddetta assistente di Vistenza Vyatt, che si era dichiarata mutante, non era l'unica della sua specie su Janus: gli esploratori hanno confermato la presenza di altri membri di questa razza sul mondo agricolo.
+
+### u038381
+I fedeli servitori della stimata Governatrice Vyatt hanno assicurato al Lord Capitano la loro completa e incondizionata devozione e la disponibilità a {mf|servirlo|servirla} al meglio delle proprie capacità.
+
+### u038382
+Nella scelta della strategia, il Lord Capitano ha dovuto tenere conto della scarsa affidabilità della popolazione del mondo, scoperta dai medici della nave dispiegati sul pianeta a sostegno dell'offensiva. I loro rapporti indicavano diffuse anomalie genetiche negli abitanti della colonia, per le quali non esisteva alcuna spiegazione logica.
+
+### u038383
+Utilizzando il trasmettitore dei ribelli catturato dal Lord Capitano, gli ufficiali della guarnigione planetaria hanno messo in atto un elaborato {g|Encyclopedia:Vox}gioco vox{/g}, intromettendosi nelle discussioni dei ribelli, diffondendo disinformazione e seminando paranoia tra le loro file.
+
+### u038384
+Questa astuta strategia ha permesso ai custodi di spingere in fretta il nemico fuori dalle zone di produzione agricola verso le regioni insulari prive di valore economico.
+
+### u038385
+Purtroppo, i traditori dell'Umanità si sono accorti in fretta dell'inganno e hanno cambiato la frequenza vox, bloccando l'offensiva su larga scala nella giungla.
+
+### u038386
+I medici della nave del vuoto sbarcati sul pianeta a sostegno dell'offensiva erano pronti a prestare i primi soccorsi ai feriti.
+
+### u038387
+I colpi si sono abbattuti su Janus con una forza immane, colpendo le foreste delle isole e riducendo in cenere le antiche terre selvagge. I ribelli, terrorizzati, sono fuggiti verso i loro campi, dove hanno presidiato le difese, aspettando la morte imminente.
+
+### u038388
+Come previsto, i brutali raid punitivi, le perquisizioni e le punizioni pubbliche hanno seminato il terrore nella popolazione e l'hanno spinta a smascherare i traditori nelle proprie file. La resistenza ribelle è stata cacciata in fretta dalle grandi città.
+
+### u038389
+Le principali forze ribelli si nascondevano nelle giungle che ricoprivano Janus. Queste regioni scarsamente popolate ospitavano i principali impianti agricoli della colonia, che i combattenti usavano come copertura per le proprie azioni, permettendo loro di compiere incursioni. I custodi della Governatrice Vyatt non avevano l'addestramento né le capacità per operare in tali condizioni.
+
+### u038390
+Inoltre, i rapporti dei medici della nave hanno rivelato un ampio spettro di anomalie genetiche tra i custodi della governatrice e tra la popolazione contadina di Janus. Si riteneva improbabile la presenza di fonti attive di radiazioni o di minacce xenos biologiche, ma non si poteva escludere l'influenza dei {g|Encyclopedia:Chaos}Poteri Rovinosi{/g} sui corpi e sulle anime degli abitanti del pianeta. Date queste informazioni, sarebbe stato imprudente e pericoloso riporre fiducia nella gente del posto.
+
+### u038391
+Lo stimato Abelard Werserian ha proposto di usare contro i ribelli le loro stesse armi. La loro forza risiedeva nelle tattiche di guerriglia occulte dei loro attacchi. Lo stimato Abelard ha espresso la convinzione di poter insegnare le basi di queste tattiche ai soldati della guarnigione planetaria, eliminando il vantaggio dei ribelli.
+
+### u038392
+"Quand'è stata l'ultima volta che hai visto Kav?"
+
+### u038393
+"Quella notte è stata l'ultima. Subito dopo essere uscito dal perimetro, è sparito. Si sarà imbattuto in qualche pezzo di merda nel buio, scommetto."
+
+### u038394
+"Dicono che una volta da queste parti fosse più tranquillo. Adesso è tutto attacchi di bestie e avvelenamenti per il cibo del posto..."
+
+### u038395
+"Sii contento di essere qui e non in uno degli insediamenti isolati. Mio zio è scappato da uno di quelli... mi ha raccontato cose che mi hanno fatto rizzare i capelli."
+
+### u038396
+"Sai, continuo a guardarlo, ma non ho ancora idea di cosa sia fatto."
+
+### u038397
+"Sembra una specie di osso. Solo che non riesco nemmeno a immaginare una creatura vivente di quella taglia, figurarsi credere che esista."
+
+### u038398
+"Dici che potremmo provare a segarlo? E se dentro ci fosse qualcosa di davvero prezioso..."
+
+### u038399
+"Non farlo. Ho visto cosa hanno fatto i nostri 'amici' all'idiota che aveva pensato fosse una buona idea pisciare su una di queste facce di pietra. Non vuoi essere quel tizio."
+
+### u038400
+"Per Janus!"
+
+### u038401
+"Morte ai cani di Vyatt!"
+
+### u038402
+"Raaah!"
+
+### u038403
+"Tenete duro, fratelli! Chiamo i rinforzi!"
+
+### u038404
+Il tessuto esterno della pianta si è teso e crepato per la polpa gonfia sottostante. Dalle lunghe lacerazioni cola un icore torbido.
+
+### u038405
+Questa pianta, un tempo un innocuo arbusto, è ormai completamente cambiata. Il suo tessuto esterno si è crepato per i succhi che gonfiano la polpa e ora cola lungo le foglie in rivoli torbidi. La mutazione sembra il risultato di una potente stregoneria.
+
+### u038406
+La pianta è coperta di macchie viola pulsanti che sembrano i sintomi di qualche malattia sconosciuta.
+
+### u038407
+La pianta è coperta di macchie viola pulsanti. I germogli giovani portano già segni simili: chiaramente il segno di una mutazione, non di una malattia.
+
+### u038408
+Il pavimento del bunker è disseminato di sacchi a pelo, zaini e dei miseri averi dei ribelli: vestiti sporchi di sangue, rudimentali tavolette dati, barrette nutritive mangiate a metà.
+
+### u038409
+Nella penombra sotto la volta di fronde, noti le sagome di alcune macchine: generatori portatili che alimentano il campo. Alcune delle macchine sono cadute in disuso, e sarebbe impossibile raccapezzarsi tra i cavi e i fili sparsi sul pavimento senza l'aiuto di un Tecnoprete.
+
+### u038410
+Questa torre vox è stata assemblata con pezzi chiaramente non destinati a un simile uso. Tra le travi di sostegno e le lastre di plastacciaio, vedi archi di container e fissaggi di cisterne agricole.
+
+### u038411
+"Lunga vita {mf|al|alla} Rogue Trader!"
+
+### u038412
+"Gli eretici e gli xenos avranno quello che si meritano... vero?"
+
+### u038413
+La piattaforma è costellata di tracce nere e graffi. A giudicare dai segni di atterraggi e decolli, qui atterrano regolarmente dei velivoli: potrebbe trattarsi di un tipo di navetta locale.
+
+### u038414
+Questa gigantesca creatura famelica è coperta di aculei e escrescenze ossee.
+
+### u038415
+Una gigantesca creatura famelica la cui pelle è trafitta da aculei e spine. La pelle attorno alle escrescenze è infiammata, come se le protuberanze fossero comparse da poco, causando dolore alla creatura.
+
+### u038416
+Sulla nuca del cadavere c'è uno strano foro stretto, che non sembra provenire da un'arma imperiale convenzionale. Un foro simile potrebbe essere stato lasciato da una lama sottile che ha trapassato il cranio.
+
+### u038417
+Il corpo mutilato è coperto di profonde lacerazioni.
+
+### u038418
+Questo poveraccio è stato chiaramente sbranato da un grosso predatore, ma non vedi alcun segno che la creatura si sia poi saziata della sua carne: sembra che la bestia non abbia ucciso quest'uomo per fame.
+
+### u038419
+I resti di un'antica struttura sono visibili sotto la volta verde.
+
+### u038420
+Le xenorovine visibili da sotto la volta verde sembrano straordinariamente intatte. Pare che il tempo e gli elementi non abbiano alcun potere su questo materiale luminoso.
+
+### u038421
+Le rune consumate dal tempo sono del tutto illeggibili.
+
+### u038422
+Le rune formano i versi di un antico poema xenos che narra della creazione di un "Lilaethan": la trasformazione di un mondo morto e senza vita in un giardino in fiore.
+
+### u038423
+Questa massiccia statua, abbattuta da una forza sconosciuta in un lontano passato, è quasi scomparsa sotto la volta verde della giungla.
+
+### u038424
+La massiccia statua raffigura uno degli dei degli Aeldari, un'antica razza xenos che un tempo abitava vaste regioni della galassia.
+
+### u038425
+L'aria attorno al palmo di pietra costellato di antiche rune è densa dell'odore di ozono.
+
+### u038426
+La gigantesca mano di pietra coperta di antiche rune irradia chiaramente energia warp, debole ma abbastanza forte da farti formicolare la pelle del viso.
+
+### u038427
+"La tenuta di Laurina Annarus sarà liquidata da un giorno all'altro. Ho messo gli occhi su quella loro villa di campagna sperduta..."
+
+### u038428
+"Non credete che Lady Vyatt si terrà i bocconi migliori per sé? Davvero, i possedimenti degli Annarus potrebbero far diventare verde d'invidia perfino la nostra governatrice..."
+
+### u038429
+"Hmpf! A me sembra che Lady Vyatt sia interessata solo agli insediamenti invasi dai contadini. Si può solo immaginare il motivo..."
+
+### u038430
+"Cara, tieni a freno la lingua! Ci sono degli ascoltatori!"
+
+### u038431
+"Avete saputo? Avexin Goldino ha sorpreso di nuovo il marito con i servitori!"
+
+### u038432
+"La vostra sorpresa suona terribilmente finta. Siete davvero sorpresa di scoprire che il capofamiglia dei Goldino cerchi conforto in luoghi così prevedibili?"
+
+### u038433
+"Tutto il contrario: sono sconcertata che il vecchio non abbia escogitato qualcosa di più originale dopo l'incidente del loro ultimo ricevimento!"
+
+### u038434
+"Che c'è, mon-keigh?"
+
+### u038435
+"Custodire il Lilaethan è il mio dovere ancestrale."
+
+### u038436
+"Fatti indietro, mon-keigh."
+
+### u038437
+"Sì? Qualcosa non va?"
+
+### u038438
+"Se lo ottiene la governatrice, allora... allora potrei tornare a casa..."
+
+### u038439
+"Quindi è così che appare {mf|il signore supremo|la signora suprema} di Janus. Ah!"
+
+### u038440
+"Maledizione... Siamo sotto attacco! Uccidete gli intrusi!"
+
+### u038441
+"Attendo il compimento del giuramento, mon-keigh."
+
+### u038442
+"Finché non porrai fine alla vita di colui che ha macchiato il Lilaethan con la corruzione, non abbiamo nulla da discutere."
+
+### u038443
+Un elegante arco di un qualche materiale opaco. Non vedi giunture né tracce di fissaggio, come se l'intera struttura fosse stata fusa in un unico pezzo.
+
+### u038444
+Il mistico portale della Tela, per quanto ne sai l'unico modo di accedere alla misteriosa dimensione creata dalle razze dimenticate dei tempi antichi.
+
+### u038445
+"Fermi! Abbassate le armi!"
+
+### u038446
+"Queste creature erano un tempo così timide, così riservate... Possibile che il seme del male abbia attecchito anche in loro?"
+
+### u038447
+"Il tocco di Colei che ha Sete ha sfigurato il Lilaethan fino al più piccolo dei suoi figli... Quanto è profonda la corruzione?"
+
+### u038448
+"Fermatevi, miei simili! Sono io!"
+
+### u038449
+"Guardate: questi sono segni di decadimento causati non dalla natura, ma dalla perversione della natura..."
+
+### u038450
+"Andiamo. Presto vedrai tutto con i tuoi occhi, elantach."
+
+### u038451
+"Kert,
+so che per te è stata dura dopo l'incontro presso le rovine. Il primo contatto lascia il segno in tutti. Ma quando ti ho raccomandato al comandante, non avrei mai pensato che non avresti avuto lo stomaco per digerire la verità.
+Pensa quello che vuoi, ma io sono ancora tuo amico. Non voglio che ti succeda niente per colpa della tua stessa stupidità. Ho visto la tua borsa con i pacchi di barrette nutritive che i nostri ragazzi hanno portato dall'insediamento. E se pensavi che nessuno si sarebbe accorto dei caricatori mancanti dallo zaino di Torban, ti sbagliavi. Voglio darti una possibilità. Restituisci la roba. Sai che di questi tempi ogni barretta conta: quello che cresce nella foresta non è più commestibile. E abbiamo bisogno di armi più che mai.
+Posso immaginare perché ti serve tutto questo. Vuoi squagliartela. Abbandonare la nostra causa, tornare a casa e far finta di niente. Ma non ti scrivo questo per fare appello alla tua coscienza. Voglio solo dirti che ormai sei un uomo marchiato, Kert. Dopo aver incontrato i capi, tagliare la corda è la cosa peggiore che tu possa tentare. Tengono d'occhio chi li ha visti. Non ti lasceranno andare.
+Parliamone. Solo parlare, io e te, in privato. Fammi sapere quando sei al campo."
+
+### u038452
+Tavoletta dati con appunti
+
+### u038453
+Hai unito le forze con Yrliet contro Muaran per salvare Janus dal vero nemico.
+
+### u038454
+[Rivolgiti a Yrliet] "Non posso convincere il tuo parente, ma so che sei dalla mia parte... Mi aiuterai a salvare il Lilaethan dal vero nemico?"
+
+### u038455
+[Attacca] "Voglio ripulire Janus dall'eresia, e da voi!"
+
+### u038456
+"Mi dispiace sapere che la tua casa è stata distrutta. Ma io non c'ero e non so nulla di questa calamità."
+
+### u038457
+"E i tuoi simili di Janus non hanno nulla da obiettare al fatto che ti mandino a cercare i sopravvissuti, Trono sa dove, tutta da sola?"
+
+### u038458
+"Forse Muaran vedrebbe un po' di più se si prendesse la briga di togliersi la testa dal culo."
+
+### u038459
+"Calmiamo i toni e proviamo a parlarne con calma."
+
+### u038460
+"Sono {mf|disposto|disposta} ad aiutare gli Aeldari a sconfiggere l'Arcinemico. Ma prima dobbiamo occuparci delle ribellioni che avete orchestrato..."
+
+### u038461
+[Attacca] "Morte agli xenos!"
+
+### u038462
+"Se posso, vorrei dire una cosa—"
+
+### u038463
+[Attacca] "Perché ascoltare le tue chiacchiere quando posso semplicemente ucciderti?"
+
+### u038464
+"Xenos! In ginocchio davanti {mf|al|alla} Rogue Trader, il cui mondo avete gettato nell'anarchia, e implorate perdono!"
+
+### u038465
+Hai deciso di sterminare gli Aeldari su Janus.
+
+### u038466
+"Ne ho abbastanza di parlare. Se voi xenos vi rifiutate di inchinarvi {mf|al|alla} Rogue Trader, non mi lasciate altra scelta che uccidervi."
+
+### u038467
+"Se questo mondo è in grave pericolo, non ha senso combatterci a vicenda: affrontiamo insieme il nostro nemico comune!"
+
+### u038468
+"Mettere uno xenos a capo di un pianeta imperiale è un suicidio."
+
+### u038469
+"E dov'è la mia garanzia che il pianeta e i suoi abitanti saranno al sicuro?"
+
+### u038470
+[Rivolgiti al ribelle] "Torna in te, servitore del Dio-Imperatore! Scrolla via questa maledetta nebbia di stregoneria e schierati con me contro lo xenos, contro questi nemici dell'Umanità!"
+
+### u038471
+"Sto cercando chi c'è dietro le rivolte su Janus."
+
+### u038472
+"Ho saputo che sul pianeta vivevano degli xenos. E volevo conoscervi."
+
+### u038473
+"Voglio liberare questo mondo dal male."
+
+### u038474
+"Finora, nel mio tempo qui, ho imparato molto su Janus, e vedo segni di un'altra minaccia oltre a quella dei 'mon-keigh'."
+
+### u038475
+"Perché combatti contro la governatrice?"
+
+### u038476
+"Come sei finito su Janus?"
+
+### u038477
+"Le persone del pianeta sono afflitte da mutazioni la cui origine ci è ignota. Poiché sul mondo agricolo non ci sono grandi fonti di radiazioni, possiamo escludere una causa tecnologica."
+
+### u038478
+"Le foreste pullulano di segni di piaga: piante distorte, animali impazziti. Addentrati tra gli alberi e lo vedrai con i tuoi occhi."
+
+### u038479
+"Ho sentito più di una voce secondo cui la governatrice e la sua cerchia si dedicano ad alcune... attività riprovevoli."
+
+### u038480
+"Voglio fermare la violenza sul pianeta, una volta per tutte."
+
+### u038481
+Hai permesso agli Aeldari di governare Janus tramite intermediari umani.
+
+### u038482
+"Non voglio altro sangue, né il vostro né il nostro. Avete il mio permesso di prendere Janus e i suoi abitanti sotto la vostra... tutela."
+
+### u038483
+"Non posso dare Janus agli Aeldari: gli umani saranno governati solo da umani. Ma vi prometto che non vi sarà fatto alcun male."
+
+### u038484
+"Non sono {mf|tenuto|tenuta} a convincerti di nulla. Pensa quello che vuoi."
+
+### u038485
+"Anche se Crudarach fosse stata distrutta dagli umani come sostieni, immagino che tu abbia dato loro un ottimo motivo per farlo."
+
+### u038486
+"Attento a come parli, xenos. Ti sto già facendo un favore solo ascoltando le tue parole vili."
+
+### u038487
+"Il mio dovere è proteggere i miei mondi e i miei vassalli. Se Janus è minacciato dall'Arcinemico, combatterò fino alla fine."
+
+### u038488
+[Fai un cenno ai ribelli] "Cosa avete fatto a queste persone? Credono che siate i loro comandanti."
+
+### u038489
+"Un'intera mandria di xenos. La caccia sarà buona."
+
+### u038490
+"Sono {mf|il|la} Rogue Trader {name} von Valancius, {mf|il sovrano|la sovrana} di Janus e {mf|padrone|padrona} di ogni anima viva su questo mondo! In ginocchio, luridi eretici!"
+
+### u038491
+"Noi? Desideri unirti al mio seguito?"
+
+### u038492
+"Di certo non avrò bisogno dell'aiuto degli xenos in questa faccenda."
+
+### u038493
+"Sei uno xenos!"
+
+### u038494
+"Parla ancora così {mf|al|alla} Rogue Trader e sarà l'ultima cosa che dirai."
+
+### u038495
+"Yrliet, resti con noi? Presto lascerò questo mondo e mi dirigerò verso le stelle: forse vuoi farlo anche tu?"
+
+### u038496
+"Yrliet, non vuoi unirti a me?"
+
+### u038497
+Hai favorito l'alleanza tra umani e Aeldari su Janus.
+
+### u038498
+"Faremo le cose in un altro modo: concederò la mia protezione a questa forma di alleanza tra xenos e rappresentanti dell'Umanità. Insieme distruggeremo Vistenza e i suoi soci, e poi umani e Aeldari prospereranno su Janus sotto il mio patrocinio!"
+
+### u038499
+[Attacca] "In nome del Trono d'Oro, epurerò questo mondo imperiale dall'eresia che lo ha contaminato!"
+
+### u038500
+"Yrliet, devo convincerti io? Magari puoi provare a fidarti del tuo istinto invece che del tuo superiore? Sai, quella cosa che ti dice di non credere a tutto quello che dice Muaran?"
+
+### u038501
+"Ho preso questo teschio dal segretario della governatrice. Il segreto della vostra presenza su questo pianeta non è custodito bene come pensate, almeno non nella cerchia di Vistenza."
+
+### u038502
+"Forse possiamo ancora trovare un accordo? Fare concessioni reciproche?"
+
+### u038503
+"Smettila di fingere che io non ci sia. Sono {mf|venuto|venuta} a discutere della situazione su Janus."
+
+### u038504
+Hai convinto Yrliet che Muaran, il Veggente Aeldari, era caduto in preda alla corruzione.
+
+### u038505
+[Rivolgiti a Yrliet] "Non lo vedi? Ogni respiro del tuo parente è intriso di corruzione. Ricorre a bugie, sotterfugi e accuse, tutto per salvare la sua misera anima marcia. Uccidilo. Vuoi salvare il Lilaethan, non è vero?"
+
+### u038506
+"Sono già {mf|stato|stata} paziente con i tuoi simili. E ora mi chiedi ancora di più?"
+
+### u038507
+"I titoli dei mon-keigh non significano nulla per me. Se sei {mf|venuto|venuta} qui a fare vanterie con parole vuote, il tuo viaggio è stato inutile."
+
+### u038508
+{n}Yrliet sembra immobilizzarsi per un istante, poi si volta bruscamente verso Muaran.{/n} "In tutti i cicli in cui ho vagato tra le stelle, ero sicura di una cosa: il destino può essere cambiato. Aggrappati alla tua fede, Veggente, ma io mi rifiuto di seguire un cieco che condanna i suoi simili a una falsa caccia. Me ne vado per il mio Sentiero, con l'elantach."
+
+### u038509
+{n}Yrliet lancia uno strillo lamentoso e afferra l'arma, che subito punta contro di te. Gli altri Aeldari seguono rapidamente il suo esempio.{/n}
+
+### u038510
+{n}Il ribelle ti guarda con evidente {d|Encyclopedia:Ch2_JanusViolent}disprezzo{/d}. Sputa con ostentazione nella tua direzione e si volta dall'altra parte.{/n}
+
+### u038511
+"Sono una {g|Encyclopedia:Asuryani}Figlia di Asuryan{/g}, Muaran, non un trastullo nelle fredde mani del destino, che affermi parli per bocca tua! La mia scelta del Sentiero non è peggiore della tua o di quella di qualsiasi altro Aeldari, e il mio Sentiero mi chiama a combattere i nostri veri nemici, non a sterminare i mon-keigh! Se sarà necessario, mi schiererò con loro, perché questo elantach vede ciò a cui tu sei cieco, Veggente!" {n}Gli occhi di Yrliet ardono di furia. Posa ostentatamente la mano sull'arma, distogliendo lo sguardo dal Veggente.{/n}
+
+### u038512
+{n}Il ribelle emette una risata che somiglia più a un gracchio rauco e si pulisce l'angolo della bocca sulla spalla.{/n} "{mf|Padrone|Padrona}... Giù da quella nave del vuoto di cui parlano gli operatori vox, suppongo? Lavori già con il governatore... Non ha senso parlare con questo qui, Comandante, dite solo la parola e noi—"
+
+### u038513
+"Le parole di una creatura la cui volontà è governata da capricci momentanei. Non c'è nulla che tu possa fare per farmi credere nella forza delle tue convinzioni."
+
+### u038514
+"Yrliet la Reietta è schiava delle sue emozioni quanto lo siete voi mon-keigh. Non è forse per questo che ha abbandonato il suo vero cammino? E dopo anni di vagabondaggio, il suo sangue {g|Encyclopedia:Asuryani}Asuryani{/g} si è prosciugato ed è diventato più simile al vostro. Parla dunque, se hai qualcosa da dire."
+
+### u038515
+"I mon-keigh credono di servire membri della loro tribù, i loro capi saggi e nobili. Il mio dono è abbastanza potente da far sì che i mon-keigh nascosti in queste foreste vedano in noi degli umani anziché dei Figli di Asuryan, e vedano le vostre primitive strutture anziché le tracce della nostra specie."
+
+### u038516
+"Sei impazzito? Ci stai condannando tutti a morte nelle fauci di Sai'lanthresh!" {n}Yrliet afferra l'arma, la voce che si spezza in un grido disperato.{/n} "Non ti lascerò uccidere l'elantach, Muaran!"
+
+### u038517
+"Il nome di quel pericolo è mon-keigh, e farò in modo che il Lilaethan sia purgato da chi ne profana il volto. Eppure... c'è un modo per dimostrarmi che ai mon-keigh sta davvero a cuore il benessere del mondo che hanno conquistato. Elimina la sovrana dei mon-keigh che soggiorna sul Lilaethan, e cedi il governo di questo mondo a me e ai miei simili."
+
+### u038518
+"Questo elantach è stato il primo a scoprire l'arrivo di Sai'lanthresh, uno di coloro che i mon-keigh chiamano {g|Encyclopedia:Chaos}Dei del Caos{/g}. Senza {mf|di lui|di lei}, sarei ancora ingannata dalle tue parole sul destino e sul vero futuro."
+
+### u038519
+"Non dimenticare: l'attuale sovrana dei mon-keigh deve morire, per mano tua o nostra. E considererò non rispettate le condizioni del nostro accordo finché ciò non accadrà."
+
+### u038520
+"I mon-keigh che rivelano sentieri... è ridicolo. I mon-keigh portano dolore e discordia, ai nostri tempi e per sempre. Come puoi fidarti di un mon-keigh dopo quello che ti abbiamo insegnato? Dopo aver udito il canto doloroso del mondo morente?" {n}Muaran volge la testa verso di te.{/n} "Non è stato il caso a far cadere Crudarach. I mon-keigh hanno distrutto la nostra antica casa. Ci hanno privati delle nostre difese. Ci hanno condannati a vagare tra le fredde stelle."
+
+### u038521
+{n}Muaran resta in silenzio per qualche istante, poi aggiunge con tono di scherno,{/n} "Suppongo che le mie richieste possano essere considerate un dono per quelli come te. Non potresti desiderare niente di meglio di amministratori {g|Encyclopedia:Aeldari}Aeldari{/g} che governino i mon-keigh senza spargimenti di sangue..."
+
+### u038522
+"Hai la parola di un {g|Encyclopedia:Asuryani}Figlio di Asuryan{/g}, che venera la vita molto più di tutti voi. Inoltre, mon-keigh, non ho il minimo desiderio di fare del male al Lilaethan, la terra degli antenati {g|Encyclopedia:Aeldari}Aeldari{/g}."
+
+### u038523
+"Silenzio." {n}La voce dell'{g|Encyclopedia:Aeldari}Aeldari{/g} è musicale, ma ogni parola che pronuncia cade pesante e irrevocabile come un sasso gettato in una pozza scura. Il ribelle china docilmente la testa.{/n}
+
+### u038524
+"Mon-keigh, dichiara il motivo della tua venuta. Spero sia convincente, altrimenti sarai {mf|mandato|mandata} a incontrare i tuoi antenati senza indugio."
+
+### u038525
+"La vostra specie non è incline al dialogo, solo alla distruzione insensata. I mon-keigh hanno corrotto e annientato la nostra casa, il Lilaethan, tutto a causa della loro primitiva affinità per la violenza, senza dubbio. I vostri progressi in quest'arte superano quelli delle altre civiltà più antiche dell'universo."
+
+### u038526
+{n}Yrliet si sporge in avanti.{/n} "Di cosa parli, elantach?"
+
+### u038527
+"Come ti ho detto, Muaran... persino i mon-keigh riconoscono la minaccia che ha avvolto di ombra il Lilaethan! Perché insisti tanto a odiare i mon-keigh quando il nostro più antico nemico ha rialzato la testa?"
+
+### u038528
+"Il Lilaethan stesso farà da garante del nostro accordo. Così come i tuoi compatrioti che vivono su di esso. E il profitto che ricaverai dalla coltivazione del Mondo Vergine." {n}Muaran inclina la testa di lato.{/n} "I nostri aiutanti umani sostituiranno i capi dei mon-keigh. Saremo noi a governare il Lilaethan dall'ombra."
+
+### u038529
+{n}Muaran ti fissa torvo per un po', poi annuisce.{/n} "E sia."
+
+### u038530
+{n}Yrliet fa una pausa, poi guarda gli altri Aeldari.{/n} "L'ho già visto durante i miei vagabondaggi. Presi singolarmente, ognuno di questi casi può essere considerato un'anomalia, o spiegato con la stoltezza o la brutalità dei mon-keigh... Muaran, come puoi non vederlo? Possibile che i tuoi stessi occhi siano stati accecati dalle profezie? L'ombra di Colei che ha Sete si leva sul Lilaethan..."
+
+### u038531
+"Ci sono segni di corruzione persino tra coloro che condividono il nostro rifugio. Pensavo fosse il corso naturale delle cose per la nostra specie: una giovinezza precoce, un invecchiamento accelerato, e poi il marcire vivi anno dopo anno."
+
+### u038532
+"Ho visto questi cambiamenti. Non è una piaga, è il grido del Lilaethan, che implora aiuto. Lo Spirito del Mondo si difende come può, con i suoi figli, con le sue creature. E questi cambiamenti aumentano a ogni ora che passa, come se la minaccia percepita dal mondo diventasse sempre più forte..."
+
+### u038533
+{n}Muaran fa un gesto brusco.{/n} "No. Restituiremo il Lilaethan ai suoi legittimi custodi, o la nostra conversazione è finita."
+
+### u038534
+{n}Yrliet si immobilizza alla vista del teschio, poi si volta di scatto verso Muaran.{/n} "Come hanno fatto i resti di un nostro simile a finire nelle mani dei mon-keigh? Hai affermato che in questo scontro non avevamo subito alcuna perdita. I mon-keigh avrebbero dovuto essere completamente ignari della nostra specie, di me!"
+
+### u038535
+{n}Yrliet ti fissa intensamente, poi si volta dall'altra parte.{/n}
+
+### u038536
+Hai rifiutato di lasciare che gli Aeldari governassero Janus e hai promesso loro protezione.
+
+### u038537
+{n}Un pesante silenzio cala tra te e gli {g|Encyclopedia:Aeldari}Aeldari{/g} riuniti.{/n}
+
+### u038538
+"Cosa?" {n}L'uomo trasale, storce il viso e, dopo un secondo, si guarda intorno sconcertato, come se vedesse tutto per la prima volta.{/n} "Per il Dio-Imperatore! Sono..."
+
+### u038539
+{n}Muaran pronuncia una fiorita imprecazione e chiama i suoi simili alla battaglia.{/n}
+
+### u038540
+{n}La voce di Muaran rimbomba come un tuono lontano.{/n} "Non sfiderai più i tuoi padroni e non tradirai più le usanze di Crudarach, Reietta..."
+
+### u038541
+{n}Muaran si china su Yrliet, con un tono minaccioso.{/n} "Hai lasciato Crudarach nella nostra ora più buia per appagare il tuo ego. Sei venuta da noi sul Lilaethan, e io ti ho accolta come una di noi. Ti ho persino dato un vero scopo, Yrliet la Reietta... e osi insultare me, un Veggente? È stato un errore farti entrare nella nostra cerchia: hai ridotto in polvere i nostri sforzi per sopravvivere con le tue stesse mani!"
+
+### u038542
+"Parli della forza delle convinzioni, Muaran? Sostieni che sia tuo destino proteggere i tuoi simili... allora cos'è successo all'Aeldari che hai mandato dalla sovrana dei mon-keigh prima di me? L'Aeldari il cui {d|Encyclopedia:Ch2_YrlietShownSkull}teschio{/d} è ora tenuto come un ninnolo mon-keigh? Era l'emissario precedente che hai mandato, non è vero? Hai visto lo stesso destino per me nelle tue visioni?"
+
+### u038543
+{n}Una delle figure si ferma accanto a Bogul. La voce femminile è familiare, così come la sensazione di essere osservati da vicino da occhi non umani.{/n} "Dunque, {mf|forestiero|forestiera}. Hai raggiunto il tuo scopo e ci hai trovati: i capi della ribellione. Ora dimmi, cosa farai adesso? Ma prima di rispondere... Non fare movimenti avventati. I miei simili sono molto più veloci dei tuoi."
+
+### u038544
+{n}Il ribelle sputa per terra al suono del tuo nome.{/n} "Quindi sei tu... {mf|assassino|assassina}! {mf|Torturatore|Torturatrice} di innocenti! Comandante, dite solo la parola e io—"
+
+### u038545
+"Il suo destino era servire Crudarach, lo spirito del nostro {g|Encyclopedia:Craftworld}Mondo Astronave{/g} che tiene in vita gli {g|Encyclopedia:Asuryani}Asuryani{/g}. Il tuo destino è fare lo stesso, Yrliet la Reietta, purché tu non abbia intenzione di trasgredire di nuovo le nostre leggi."
+
+### u038546
+{n}Muaran volge la testa verso di te.{/n} "Dunque Yrliet la Reietta ti ha rivelato il nostro segreto. Sono certo che tu abbia qualcosa da dire in proposito, mon-keigh."
+
+### u038547
+"Il Lilaethan lotta per espellere la malattia che si è insediata entro i suoi confini. E se gli sforzi dei mon-keigh per distruggere questo pianeta non fanno che aumentare, non è giusto che il Mondo Vergine cerchi vendetta?"
+
+### u038548
+"Hai mostrato il tuo vero volto, mon-keigh. Miei simili, fate il vostro dovere: sbarazzatevi {mf|dell'estraneo|dell'estranea}."
+
+### u038549
+"Ho sentito la sovrana impartire ordini... Li ha chiamati 'le innovazioni delle menti migliori di Janus'. Quali menti si condannerebbero a un destino così misero?"
+
+### u038550
+{n}Muaran non dice nulla per alcuni istanti.{/n} "Il sentiero che ho tracciato per te era già stato percorso, Reietta. Karantar fu mandato dalla sovrana dei mon-keigh prima che venissi tra noi. Il suo destino mi fu nascosto..."
+
+### u038551
+"Smettila di trattare il mio Sentiero come se fosse una maledizione!" {n}La voce di Yrliet risuona e nei suoi occhi sorge una rabbia a stento repressa.{/n} "Il mio Sentiero non è un marchio di disgrazia! È ciò che mi ha salvata dal morire insieme a Crudarach, una morte a cui era condannata dalle tue vuote previsioni!"
+
+### u038552
+"Proteggeremo il Lilaethan, ma lo faremo senza violenza. Lavoreremo per gli interessi della nostra razza e del nostro mondo tramite mon-keigh fidati, mentre noi resteremo nell'ombra delle foreste. Sarà più sicuro per tutti."
+
+### u038553
+"Sciocca miserabile! Hai superato la mia pazienza: il tuo Sentiero finisce qui e ora!"
+
+### u038554
+{n}Muaran cerca di dire qualcosa, ma il ribelle lo interrompe:{/n} "Se questo... forestiero continua a dettare condizioni, non riuscirò a trattenermi, Comandante! Avete visto di cosa è capace {mf|lui|lei}, cosa ha {d|Encyclopedia:Ch2_JanusTyrannical}fatto{/d} a Janus? Preferisco morire che vivere in una schiavitù simile!"
+
+### u038555
+{n}Il ribelle ti guarda con un velo di dubbio.{/n} "Vedremo. Magari ce l'hai {d|Encyclopedia:Ch2_JanusHarsh}fatta pagare{/d}... ma, a dire il vero, con tutte le nostre rivolte abbiamo davvero infranto la legge dell'{g|Encyclopedia:Imperium}Imperium{/g}. Proviamo quindi così."
+
+### u038556
+{n}Yrliet scuote la testa.{/n} "La governatrice deve morire e va sostituita con nuovi governanti, non corrotti dal tocco di Colei che ha Sete... Dobbiamo tornare da Vistenza Vyatt e porre fine alla macchia che ha afflitto il Lilaethan."
+
+### u038557
+{n}Yrliet parla così piano che riesci a malapena a distinguere le sue parole:{/n} "Avremmo dovuto restare ombre per i mon-keigh, fantasmi che vagano tra le antiche rovine. Ma tu, elantach... quale mano ti ha condotto al Lilaethan? Destino o dannazione? Muaran, {mf|lascialo|lasciala} parlare."
+
+### u038558
+"Come può il destino di un Asuryani essere nascosto a colui che lo guida, Muaran? Non dovremmo essere la tua preoccupazione più grande? Non... non hai nemmeno considerato che la stessa cosa potesse accadere a me, che io potessi perire sotto l'ombra della rovina?" {n}Yrliet ti lancia un'occhiata.{/n} "Che... che altro sai, elantach? Che altro hai scoperto che mi è stato nascosto, senza intenzione o di proposito?"
+

@@ -1,0 +1,875 @@
+### u032888
+"Sì." {n}Il volto di Zorael diventa di pietra.{/n} "È stato lui a ordinare la nostra cattura. I Necron gli obbediscono senza discutere."
+
+### u032889
+"Cammina appoggiandosi a un bastone. Si comporta in modo molto più intelligente degli altri xenos. È loquace e presuntuoso. Niente di tutto questo è tipico dei Necron, ed è per questo che lo considero una minaccia di massimo livello."
+
+### u032890
+"Bene. E adesso?"
+
+### u032891
+{n}Si sfila dalla cintura una lama dall'aspetto insolito, con il filo che brilla debolmente.{/n} "Ti riconosco, {name} von Valancius. Il tuo nome compariva nelle cronache, ed era {d|Encyclopedia:CharGen_MOT_Glory}un nome di valore{/d}. Questa spada apparteneva a uno dei miei fratelli caduti in battaglia. Deve essere restituita alla {g|Encyclopedia:DeathWatchGlossary}Deathwatch{/g}. Ora questo compito è tuo, perché io ho poche speranze di lasciare questo posto."
+
+### u032892
+{n}Fino a quel momento in silenzio, Solomorne annuisce all'improvviso e dice:{/n} "Verissimo. Un nemico che si distingue per qualche caratteristica insolita è probabile che riservi una brutta sorpresa. O più d'una."
+
+### u032893
+"Se un fedele guerriero dei {g|Encyclopedia:BloodAngelsGlossary}Blood Angels{/g} parlasse con leggerezza dei misteri che gli sono stati affidati, quello sarebbe il momento di preoccuparsi. Onoro il tuo silenzio. Noi dimostriamo la nostra fede in Lui non a parole, ma con le azioni, e questo basta. Che il Dio-Imperatore ci dia forza!"
+
+### u032894
+"Questa lama ha spento la vita di innumerevoli xenos e ne spegnerà centinaia ancora. Placa la tua ira, figlio di Russ. Affido al tuo giudizio il destino di quest'arma e la sua custodia. Non deludermi."
+
+### u032895
+"Sono in molti? Chi è il loro capo?"
+
+### u032896
+"Con chi sto parlando?"
+
+### u032897
+"Che cos'è successo qui? Perché l'estrazione di promethium si è fermata?"
+
+### u032898
+"Vi trovate al cospetto del Rogue Trader {name} von Valancius, identificatevi!"
+
+### u032899
+"Basta parlare di te. Torniamo alla questione che ci interessa."
+
+### u032900
+"Venendo qui ho notato diversi meccanismi decisamente insoliti. Sono creazioni degli eretici?"
+
+### u032901
+"Intervenire? Certo che interverrò. Gli eretici saranno distrutti."
+
+### u032902
+"Prima, darò una bella occhiata in giro."
+
+### u032903
+"Perché ve ne state qui a bighellonare invece di combattere?"
+
+### u032904
+"Che cosa vogliono gli eretici?"
+
+### u032905
+"Perché parli in modo così strano?"
+
+### u032906
+"Tu ed Eogunn vi conoscete?"
+
+### u032907
+"'Artigiano'? Non ho mai sentito un titolo simile."
+
+### u032908
+{n}Un alto {g|Encyclopedia:TechPriest}Tecnoprete{/g} avvolto in vistose vesti rosse e nere vi saluta con solennità, mentre i suoi {g|Encyclopedia:Mechadendrite}mecadendriti{/g} gli si muovono sinuosi intorno. La sua veste è danneggiata in più punti e sulle sue augmetiche si vedono i segni di colpi d'arma, ma sembra non curarsene.{/n} "Porgo i miei saluti al Rogue Trader {name} von Valancius. La vostra presenza in questo tempio del {g|Encyclopedia:Promethium}promethium{/g} è un grande onore per i suoi abitanti."
+
+### u032909
+"Il fatto della cooperazione, che comprendeva discussioni su questioni divine e partecipazione a esperimenti pratici, è registrato nei log d'archivio con la seguente nota: 'efficienza estremamente elevata'." {n}L'Artigiano china il capo, pensieroso.{/n} "Ciononostante, questa esperienza, ovvero la cognizione nel servizio condiviso, non è rilevante nella presente situazione."
+
+### u032910
+"La ricerca della conoscenza non ha fine, Decabalus-4-16." {n}Uno degli innumerevoli manipolatori di Eogunn esegue alcuni gesti rapidi, quasi impercettibili.{/n}
+
+### u032911
+"I numeri esatti sono indeterminati — sconosciuti. Capo della cellula compromessa: Adepto Anziano Alva-9 — comanda gli Skitarii. La forza combattente del gruppo comprende Ruststalker e diversi {g|Encyclopedia:Enginseer}Enginseer{/g} ammutinati." {n}Alcuni degli operai dietro a Decabalus trasalgono e si guardano intorno con nervosismo quando sentono la sua risposta.{/n}
+
+### u032912
+"Avete ragione — la vostra valutazione è valida, Vostra Signoria. Il limite di tempo della nostra interazione non è infinito."
+
+### u032913
+"All'interno della stazione è stato rilevato un tentativo di sabotaggio — un'attività volta a fermare la produzione di promethium. I responsabili sono il gruppo di Alva-9 — membri ordinati del sacerdozio dell'Adeptus Mechanicus. La causa probabile è la violazione delle Sedici Leggi Universali — l'eresia tecnologica che infetta i loro centri cognitivi."
+
+### u032914
+"L'affondamento della stazione causerebbe un calo catastrofico dei volumi di estrazione del promethium — la sua completa cessazione — che a sua volta bloccherebbe la produzione. Questo esito sarebbe estremamente — blasfemamente — subottimale. Questo scenario implica inoltre — garantisce — ampie perdite collaterali tra le unità umane che attualmente assicurano il funzionamento continuo dell'impianto di Tirkuaz-4 — i suoi lavoratori. Tali perdite sarebbero indesiderabili — e altamente deplorevoli."
+
+### u032915
+"Con nostro rammarico, le forze nemiche hanno una superiorità qualitativa — dispongono di un gran numero di Skitarii specializzati. Questo ha permesso loro di infliggere gravi danni alle forze giuste — il nostro gruppo — e di dividerlo. Il nemico ha piazzato mine lungo gli accessi all'unità centrale e ci ha tagliati fuori dai nostri alleati, rendendo difficile la missione di eliminare la minaccia. L'unico fattore in grado di cambiare la situazione è l'intervento di una terza parte — Vostra Signoria."
+
+### u032916
+"Confermo il rilevamento su questa piattaforma di tecnologie non elencate negli standard sacri. E ammiro la conoscenza che Vostra Signoria ne ha. L'accesso a ulteriori dettagli è sia negato sia impossibile, poiché il rango del laico richiedente è insufficiente per stabilire la comunicazione." {n}Il Tecnoprete risponde con la compostezza inflessibile di un {g|Encyclopedia:Cogitator}cogitatore{/g} privo di anima.{/n}
+
+### u032917
+"Vostra Signoria ci concede un favore il cui valore è difficile da calcolare — da misurare in ricompense e gratitudine." {n}Il Tecnoprete si inchina leggermente.{/n}
+
+### u032918
+"Che l'Omnissiah vi tenga lontano dal male." {n}Il Tecnoprete si inchina leggermente.{/n}
+
+### u032919
+"Un modo interessante di eludere le domande scomode. I più noti corrotti spesso si trincerano dietro il loro rango e i loro paramenti — e hanno sempre qualcosa da nascondere. Artigiano, è evidente che non state dicendo la verità." {n}Solomorne pronuncia questa provocazione con un tono asciutto e pratico.{/n}
+
+### u032920
+"Nelle ultime dieci iterazioni del ciclo produttivo, almeno, non è stata registrata alcuna violazione della procedura stabilita di riscossione della {g|Encyclopedia:TitheGlossary}Decima Imperiale{/g}. Non vi sono state nemmeno violazioni delle condizioni operative degli impianti di produzione." {n}Se Decabalus ha notato l'ispezione dell'Arbitratore, non lo dà a vedere.{/n}
+
+### u032921
+{n}La visiera di Pasqal brilla di un improvviso sospetto.{/n} "Registro uno scambio irregolare di paramenti, in contrasto con i canoni riconosciuti. Avanzo l'ipotesi di una cospirazione sacrilega."
+
+### u032922
+"Suppongo che questi oggetti siano di origine xenogena. La mia ipotesi è corretta, collega?"
+
+### u032923
+"L'ipotesi è stata registrata. La sua confutazione o conferma è impossibile in presenza di laici."
+
+### u032924
+"Registro l'occultamento di dati significativi. L'ipotesi di collusione tra il Genetor Februs e l'Artigiano Decabalus-4-16 è stata confermata, convalidata e viene qui dichiarata indiscutibile."
+
+### u032925
+"Ai fini di questa conversazione, mi presento a voi come {g|Encyclopedia:Artisan}Artigiano{/g} Decabalus-4-16. Guido la missione dell'Adeptus Mechanicus — servitori del Dio-Macchina — che garantisce il funzionamento delle sacre macchine minerarie di questa stazione. Ulteriori chiarimenti..." {n}Il Tecnoprete si ferma per qualche secondo. I suoi sensori ottici scrutano lentamente ciascuno del vostro seguito, dall'alto in basso.{/n} "...sono disponibili — presentabili in forma di Basso Gotico — su richiesta. Che cosa interessa a Vostra Signoria nella stazione osservata?"
+
+### u032926
+"I suoi abitanti — servitori dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g} — si scusano per l'accoglienza indecorosa dovuta alla frattura critica — interruttiva — dei processi." {n}Il suono sembra levarsi lieve dal vox-modulatore del Tecnoprete, un ronzio quasi cullante su un'unica nota, privo di qualsiasi inflessione. {/n}
+
+### u032927
+"La verità non conosce confini, Eogunn Februs." {n}I mecadendriti dell'Artigiano si intrecciano davanti a lui in un'intricata parvenza di ingranaggi di ferro incastrati.{/n}
+
+### u032928
+"La precisazione dei termini — o riformulazione — ha lo scopo di rendere il contesto delle affermazioni più facilmente comprensibile agli individui non ordinati." {n}Decabalus allarga leggermente le mani.{/n} "Le statistiche — calcoli eseguiti da macchine sacre — mostrano che ha un effetto positivo sulla comunicazione."
+
+### u032929
+"Fu nostra comune fortuna darci ai lavori della conoscenza durante il mio servizio ad Altar-Templum-Calixis-Ext-17, prima che l'Artigiano lasciasse il santuario per il suo incarico su Tirkuaz-4. Decabalus-4-16 si rivelò un intelletto eccezionalmente eloquente, straordinariamente aperto alle nuove idee, e le sue creazioni erano impressionanti per la loro progettazione impeccabile!"
+
+### u032930
+"Coloro tra l'{g|Encyclopedia:AdeptusMechanicusGlossary}Adeptus Mechanicus{/g} che sono supremamente competenti nella sacra arte della costruzione vengono elevati al rango di Artigiano — costruttore di macchine. Gli Artigiani sono tanto abili da essere chiamati anche 'la mano della volontà dell'Omnissiah'." {n}La schiena curva del Tecnoprete si raddrizza a queste parole e lui sembra occupare più spazio, gonfio di importanza.{/n}
+
+### u032931
+"Il loro scopo è la distruzione della sacra trivella centrale — la più grande delle tecnologie della stazione — strappandone il nucleo di ancoraggio — la fonte della Forza Motrice che alimenta le nostre macchine. Un sacrilegio così inconcepibile — la rovina di una tecnologia benedetta — avrà conseguenze irreversibili che potrebbero portare alla disintegrazione dei sacri circuiti delle macchine e all'affondamento della stazione."
+
+### u032932
+"Classificazione dell'intrusione nei misteri della produzione come blasfema: confermata. Giudizio che la perdita di unità umane sia deplorevole: non confermato, e registrato come irrazionale."
+
+### u032933
+"Quindi le modifiche alle macchine di qui sono opera tua?"
+
+### u032934
+"Mi dispiace che la faccenda sia finita con la morte dei tuoi compagni."
+
+### u032935
+"Ora che il problema è risolto, parliamo delle prospettive future."
+
+### u032936
+"Non basta. Mi serve il nucleo di ancoraggio."
+
+### u032937
+"Grazie per il generoso dono. Devo tornare alla mia nave ammiraglia."
+
+### u032938
+"Il nucleo di ancoraggio, ho detto. Adesso."
+
+### u032939
+"Lascia perdere. Era un capriccio passeggero."
+
+### u032940
+Hai costretto Decabalus a consegnarti il nucleo di ancoraggio, distruggendo la stazione e tutti i suoi abitanti.
+
+### u032941
+"Hmm. Piuttosto misero, ma andrà bene."
+
+### u032942
+"Smettila di eludere! Alva-9 ha capito tutto — hai usato tecnologia xenos per forgiare il nucleo di ancoraggio!"
+
+### u032943
+"Questi potenziamenti si basano su tecnologia xenos, vero?"
+
+### u032944
+"Mi hai ingannato, malatek."
+
+### u032945
+"Non ho altre domande."
+
+### u032946
+"Che cosa c'è di così prezioso in questo complesso?"
+
+### u032947
+"Suona molto misterioso. Vorrei saperne di più."
+
+### u032948
+"Alva-9 ha tentato di distruggere il complesso di trivellazione. Perché?"
+
+### u032949
+{n}Decabalus, dopo aver finito di impartire le ultime istruzioni ai suoi subordinati, si avvicina a voi.{/n} "Lord Capitano, giudico le vostre azioni — il vostro aiuto nel prevalere sugli heretek — altamente efficaci. Vi prego di accettare la mia incalcolabile gratitudine per il vostro aiuto nel risolvere la confusione — questo sabotaggio."
+
+### u032950
+"Vostra Signoria si riferisce ad Alva-9 — il comandante nemico? I rimpianti sono ingiustificati. La funzionalità dell'ingranaggio nella grande macchina dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g} sarà parzialmente ripristinata creando un {g|Encyclopedia:ServoSkulls}servoteschio{/g} di costruzione idonea. Tratterò i resti e ne farò un servitore del Dio-Macchina. Questo è sufficiente per un adepto incapace di distinguere la Verità dell'Omnissiah dall'eresia."
+
+### u032951
+"Rogue Trader, vi scongiuro di riconsiderare! Questo artefatto vale davvero l'intera piattaforma?" {n}Lo sguardo di Eogunn si sofferma involontariamente sul punto in cui è incastonato il nucleo di ancoraggio. Una nota di dubbio si insinua nella sua voce.{/n}
+
+### u032952
+"Le prospettive — gli scenari previsti — sono valutate con moderato ottimismo. Le forniture di {g|Encyclopedia:Promethium}promethium{/g} alla Stazione Altar-Templum saranno ripristinate il prima possibile. Chiedo inoltre che Vostra Signoria accetti questo dono come espressione di gratitudine — rinforzo materiale — per il vostro aiuto." {n}A un gesto di Decabalus, due Enginseer vi porgono un'{g|Encyclopedia:AugmentationGlossary}augmetica{/g} riccamente decorata.{/n}
+
+### u032953
+"Una delle Leggi Universali afferma: 'La Conoscenza degli antichi è al di sopra di ogni questione.' I sacri meccanismi di questa stazione si basano su patti concessi dall'Omnissiah ai Suoi servitori dopo una lunga e perseverante ricerca." {n}Decabalus vi lancia uno sguardo duro e scrutatore.{/n} "Interpretazioni opposte delle loro origini — contese filosofiche — sono inevitabili, ma l'aumento della produzione delle piattaforme di promethium è un fatto indiscutibile."
+
+### u032954
+{n}Le vostre parole lasciano il Tecnoprete turbato.{/n} "Lord Capitano, sono costretto a chiedere — verificare retoricamente — se siete pienamente consapevole delle conseguenze di una simile decisione. La stazione sarà distrutta irrevocabilmente insieme a tutta la sua popolazione."
+
+### u032955
+{n}Il Tecnoprete china il capo in segno di congedo, accompagnando il gesto con una breve frase in binarico.{/n}
+
+### u032956
+{n}Le lumen dei sensori ottici di Decabalus si accendono per un istante, poi si spengono del tutto. Senza un suono, il Tecnoprete, chiaramente rassegnato alla fine di se stesso e di tutto ciò che ha caro, si avvicina alla macchina e comincia a estrarre lo strano meccanismo, che poi vi consegna.{/n}
+
+### u032957
+"Per ordine dell'Artigiano Decabalus 4-16, la rimozione, il trasferimento o qualsiasi altra manipolazione del nucleo di ancoraggio sono proibiti. Livello di proibizione: massimo. Accesso per il laico {name} von Valancius: limitato. Lord Capitano, vi si consiglia di lasciare la stazione."
+
+### u032958
+"Lord Capitano, la vostra decisione è valutata come estremamente prudente — la più sicura. La stazione continuerà a funzionare normalmente."
+
+### u032959
+"Una possibile causa è un malfunzionamento delle matrici cognitive — dei processi di pensiero — che ha portato l'Adepto Alva-9 a interpretare erroneamente l'origine del nucleo di ancoraggio potenziato — a condannarlo come privo di santità. La distruzione delle macchine sacre è una violazione di tutte e Sedici le Leggi Universali. Il destino di Alva-9 è una conseguenza logica."
+
+### u032960
+"Il servizio all'Omnissiah si manifesta spesso in modi che vanno oltre la comprensione di chi non è stato ordinato nell'Adeptus Mechanicus." {n}Decabalus non tradisce alcun segno di confusione o ansia, eppure un sgradevole rantolo si insinua nelle sfumature della sua voce.{/n} "Per la sottofazione del Cult Mechanicus che rappresento, la ricerca sulla tecnologia xenos è in linea con la nostra interpretazione delle {g|Encyclopedia:UniversalLaws}Sedici Leggi Universali{/g}."
+
+### u032961
+"I risultati della diagnostica visiva sulla piattaforma centrale confermano l'uso di tecnologie non autorizzate da parte dell'unità Artigiano Decabalus 4-16. Insisto per l'immediata confisca del nucleo di ancoraggio della piattaforma al fine di stabilirne in modo conclusivo l'origine xenoeretica."
+
+### u032962
+"Per dirla semplicemente, sì, qui si usa la tecnologia di altre razze, ma non dovresti saperlo." {n}Marazhai non distoglie lo sguardo beffardo dal Tecnoprete.{/n} "A volte mi stupisco di quanto sia primitiva l'arte dell'inganno tra i {g|Encyclopedia:MonKeigh}mon-keigh{/g}. Bastano poche parole esoteriche, un pizzico di mistero, e qualsiasi menzogna logora può incutere timore e soggezione."
+
+### u032963
+"Come vedete, l'Artigiano Decabalus-4-16 e io condividiamo la stessa scuola di pensiero, Rogue Trader. Vi chiedo di perdonare le sue risposte evasive, ma, come è ormai evidente, la necessità di segretezza era del tutto giustificata e non nasceva da cattive intenzioni. Dopotutto, la piattaforma ha funzionato alla perfezione finché la miopia dogmatica di Alva-9 non l'ha quasi condotta alla distruzione."
+
+### u032964
+"La Ricerca della Conoscenza — la missione nel nome del Dio-Macchina — continuerà. L'elenco dei potenziamenti implementati sarà ampliato al termine dell'attuale serie di esperimenti."
+
+### u032965
+{n}Dopo una breve pausa, il Tecnoprete comincia a parlare:{/n} "Questa affermazione è vera. Ho posato la mano dell'{g|Encyclopedia:Artisan}Artigiano{/g} su molte macchine di questa piattaforma. Le alterazioni ai sacri circuiti hanno aumentato la produttività delle principali unità minerarie del centocinquantatré... correzione, centocinquantaquattro per cento — un margine considerevole."
+
+### u032966
+{n}Il Tecnoprete annuisce.{/n} "Attendo il proseguimento di questa stimolante conversazione — e le vostre nuove dichiarazioni."
+
+### u032967
+"Il meccanismo al suo interno — il nucleo di ancoraggio — incarna la conoscenza unica concessa dall'Omnissiah. Ha aumentato la produttività delle principali unità minerarie del centocinquantatré— correzione, centocinquantaquattro per cento."
+
+### u032968
+"Il vostro ragionamento è in parte falso. Ingannare il Lord Capitano non era lo scopo della nostra precedente conversazione — la nostra richiesta di aiuto. L'obiettivo era garantire che i complessi di trivellazione restassero operativi con una spesa minima di risorse — salvare le tecnologie sacre e i lavoratori della stazione. Ora che questo obiettivo è stato raggiunto, sono pronto a rivelare informazioni più complete — più gelosamente custodite."
+
+### u032969
+"Una delle Leggi Universali afferma: 'La Conoscenza degli antichi è al di sopra di ogni questione.' L'Omnissiah mi ha benedetto — me, un Artigiano — permettendo che la conoscenza da fonti esterne sia volta a beneficio dell'Umanità. Il dibattito teologico è inevitabile in questa materia, ma l'aumento della produzione delle piattaforme di promethium è un fatto indiscutibile."
+
+### u032970
+"Hai visto qualcosa di insolito vicino al complesso di trivellazione?"
+
+### u032971
+"Può bastare. Parliamo d'altro."
+
+### u032972
+"Quindi sei tu a comandare tutti?"
+
+### u032973
+"Alva-9 guida gli eretici?"
+
+### u032974
+"Che cosa sai del complesso centrale?"
+
+### u032975
+"Hai parlato di un nucleo di ancoraggio. Che diavolo sarebbe?"
+
+### u032976
+"Credo di aver sentito abbastanza. Vai."
+
+### u032977
+"Da quanto tempo servi Decabalus?"
+
+### u032978
+{n}Operai stanchi in tute macchiate di grasso chinano il capo al vostro avvicinarsi. Il loro capo, un uomo anziano e robusto con una toppa da caposquadra macchiata di sangue sulla manica, si fa avanti.{/n}
+
+### u032979
+"So tutto quello che c'è da sapere. Come mantenerlo a dovere, quali riti compiere. Mio nonno ha aiutato a costruirne l'alloggiamento, e mio padre era presente alla consacrazione." {n}Il caposquadra piega un dito per ogni vanto, immerso nei suoi ricordi.{/n} "Mio padre ha persino visto il Maestro Decabalus benedire il nucleo di ancoraggio che alimenta il complesso."
+
+### u032980
+"Come desiderate, Vostra Signoria."
+
+### u032981
+{n}Il caposquadra aggrotta la fronte, facendo un calcolo a mente, poi si gratta la nuca, scompigliando i capelli grigi. {/n} "Da che ho memoria. Tutti noi qui, si può dire, siamo operai ereditari. Lavoriamo da quando sapevamo camminare e parlare." {n}Lancia una rapida occhiata al Tecnoprete.{/n} "È un grande onore lavorare sotto l'{g|Encyclopedia:AdeptusMechanicusGlossary}Adeptus Mechanicus{/g}. Sarei un uomo malvagio a lamentarmi."
+
+### u032982
+"Un fattore di forma poco convenzionale, non conosco affatto questi progetti costruttivi. Ora sono estremamente curioso di esaminarlo da vicino."
+
+### u032983
+"Come posso servirvi, Lord Capitano?" {n}Il caposquadra scandisce con cura ogni parola, ondeggiando leggermente sui piedi per la stanchezza.{/n}
+
+### u032984
+{n}L'uomo annuisce.{/n} "Lo sono, Vostra Signoria. Sono il caposquadra. Pask, mi chiamano." {n}Vi guarda con aria cupa, con gli occhi iniettati di sangue, battendo spesso le palpebre.{/n} "Be', almeno, ero il caposquadra, prima che tutto questo cominciasse. Ora io e i miei ragazzi siamo più combattenti che operai, e nell'ultimo scontro Alva-9 ci ha dato una bella batosta. Non so che cos'abbia contro di noi."
+
+### u032985
+{n}Il volto già cupo di Pask si fa ancora più scuro. Si strofina gli occhi con stanchezza prima di rispondere.{/n} "La Tecnoprete Alva-9 era responsabile delle questioni di sicurezza sulla stazione. Un paio di settimane fa, lei e Decabalus hanno avuto un litigio furioso—" {n}Il caposquadra si interrompe in fretta e tace.{/n} "Voglio dire, sì. Alcuni seguono ancora i suoi ordini, e adesso sono tutti al complesso di trivellazione."
+
+### u032986
+{n}Per un istante la bocca di Pask si irrigidisce, ma l'uomo recupera subito la sua cupa espressione di prima.{/n} "Non spetta a me, Vostra Signoria, sapere di certe cose. Stare a bocca aperta a guardare è un ottimo modo per restare impigliati negli ingranaggi di una macchina: non rimarrebbero nemmeno le ossa da raccogliere. Perdonate l'insolenza, ma non ho altro da dire in merito."
+
+### u032987
+"Quello, Lord Capitano, è ciò che alimenta tutti i macchinari qui. La sua anima, si potrebbe dire, la cosa più divina che ci sia. Emette energia e splende così forte da far male agli occhi, e ha una forma più o meno così." {n}Le mani del caposquadra tracciano nell'aria la forma di un cono considerevole, con la cima tronca.{/n} "È per questo che Alva-9 si è arrabbiata davvero."
+
+### u032988
+{n}Jae si morde il labbro pensierosa per qualche secondo.{/n} "Qualunque cosa sia, shereen, conosco gente che pagherebbe somme oscene per un gingillo del genere."
+
+### u032989
+{n}L'uomo si inchina di nuovo brevemente, ma stavolta con molta più deferenza.{/n} "Vi seguiremo, Lord Capitano."
+
+### u032990
+"Sì, Lord Capitano?"
+
+### u032991
+"Quando torneremo alla mia nave, avrai una bella conversazioncina con la Maestra d'Armi e la sua mazza potenziata."
+
+### u032992
+"Andremo a piedi, allora."
+
+### u032993
+"Chiedo scusa per il disagio, Lord Capitano! Non so che cos'è successo qui, ma la piattaforma di atterraggio principale è completamente sott'acqua. Siamo fortunati che quella secondaria sia ancora utilizzabile." {n}Il pilota osserva con cautela le pozze di promethium che bruciano intorno alla navetta.{/n}
+
+### u032994
+"Vi giuro che ho fatto tutto il possibile. Far atterrare quel coso in qualsiasi altro punto sarebbe stato come tuffarsi in mare aperto! Dovrete raggiungere la trivella centrale a piedi...
+
+### u032995
+"Potete punirmi come meglio credete, Lord Capitano. Ma ho davvero fatto tutto ciò che era in mio potere." {n}Il pilota china il capo con aria remissiva.{/n}
+
+### u032996
+"Il {g|Encyclopedia:EmperorGlossary}Dio-Imperatore{/g} vi protegga! Io aspetterò qui e mi assicurerò che il fuoco non si avvicini troppo alla navetta."
+
+### u032997
+"Tutti gli eretici cercano di confondere la mente di un fedele devoto con chiacchiere contorte. Ne ho abbastanza, preparati a morire!"
+
+### u032998
+"Lo stesso Decabalus ha installato un dispositivo xenos nel complesso della trivella centrale?"
+
+### u032999
+"Io, il Rogue Trader {name} von Valancius, e il mio seguito non ci muoviamo! Non c'è alcun bisogno di urlare in questo modo!"
+
+### u033000
+"Muori, eretico urlante!"
+
+### u033001
+"Non mentirmi, Tecnoprete. Lo vedo con i miei occhi: stai danneggiando il complesso della trivella centrale della stazione."
+
+### u033002
+"Non ho alcuna voglia di ascoltare i litigi dei sacerdoti cremisi. Muori."
+
+### u033003
+"Sono {mf|venuto|venuta} qui in missione per conto di Altar-Templum-Calixis-Ext-17, per scoprire il motivo del ritardo nelle spedizioni di promethium."
+
+### u033004
+"Devo fermarti, Alva-9. Anche il tuo compagno Decabalus mi ha parlato dell'eresia che ha avvolto questa piattaforma. Ma ha indicato te come la sua fonte..."
+
+### u033005
+"Esatto. Sono qui per eliminare la tecno-eresia, cioè il tuo gruppo."
+
+### u033006
+"Hai violato un dogma sacro. Mi basta questo per pronunciare la tua condanna."
+
+### u033007
+"Il meccanismo del complesso della trivella centrale è ciò che tiene a galla l'intera stazione. Se lo distruggi, condannerai in un colpo solo tutti i lavoratori, le attrezzature e voi stessi."
+
+### u033008
+[Non dire nulla e fermati]
+
+### u033009
+"Se vuoi vivere, unisciti a me!"
+
+### u033010
+Hai convinto il caposquadra Pask a unirsi a te.
+
+### u033011
+"Decabalus non è ciò che dice di essere! In nome del Dio-Imperatore, Pask, uccidi l'eretico!"
+
+### u033012
+"Hai prove concrete?"
+
+### u033013
+"Non osare alzare la voce con il Rogue Trader!"
+
+### u033014
+"Il motivo della mia visita non ti riguarda. Gli abitanti di questa stazione sono accusati di eresia: ne sei al corrente?"
+
+### u033015
+"Dove ha preso Decabalus il dispositivo xenos?"
+
+### u033016
+"Ti credo, Alva-9. Anche a me l'Artigiano Decabalus è sembrato sospetto."
+
+### u033017
+"Ho soddisfatto la tua richiesta e non mi muovo. Ora identificati."
+
+### u033018
+"Ha detto che avevi intenzione di scollegare la piattaforma dalla Forza Motrice e di eliminare i lavoratori della stazione. Non mi sembra il comportamento di fedeli servitori dell'Omnissiah."
+
+### u033019
+"Mettiamo che abbia mentito davvero. Raccontami la tua versione dei fatti."
+
+### u033020
+"Sulla piattaforma mi sono {mf|imbattuto|imbattuta} in dispositivi xenos. Anche questo è opera di Decabalus?"
+
+### u033021
+"Guardie, Protocollo 12.45! Alt!" {n}Il grido tonante fa vibrare il metallo sotto i tuoi piedi. Una Tecnoprete dalla veste cremisi, urlando sopra il lamento del vento, tende la mano in segno di avvertimento. Attraverso la nebbia gelida sospesa nell'aria, le lenti di puntamento dei soldati metallici Ruststalker si fissano sul tuo petto.{/n}
+
+### u033022
+"È... corretto." {n}Qualcosa cambia in modo quasi impercettibile nel tono di Alva-9.{/n}
+
+### u033023
+"Conoscenza ricevuta ed elaborata, il Protocollo 12.1 impone l'immediata distruzione della fonte della xenoeresia. L'Oggetto 16, il complesso della trivella centrale, deve essere distrutto. Ora." {n}La Tecnoprete punta un artiglio di ferro verso il meccanismo scintillante, nelle cui profondità è immersa l'altra mano a più giunture.{/n} "L'aiuto dei laici non è richiesto."
+
+### u033024
+"Non lo so e non voglio saperlo!" {n}Il tonante grido-preghiera binarico di Alva si leva sopra il ruggito del vento.{/n} "La sacra stazione mineraria di Tirkuaz-4 è contaminata, lunghi cicli di xenocorruzione hanno tormentato il suo spirito macchina. Noi lo plachiamo e lo liberiamo: questo basta."
+
+### u033025
+"Protocollo 12.1! Non lasciate che gli eretici interrompano la distruzione dell'Oggetto 16!"{n} ruggisce Alva-9, mentre i Ruststalker brandiscono le armi.{/n}
+
+### u033026
+"Che ci fa qui un laico? Protocollo 12.49 trattino 5!" {n}Dopo una pausa di un secondo, la Tecnoprete prosegue con un po' più di calma,{/n} "Questo protocollo stabilisce che, se tu o il tuo gruppo fate un altro passo verso l'Oggetto 16, i miei Ruststalker attaccheranno."
+
+### u033027
+{n}Senti il rumore di molti passi alle tue spalle. Dopo aver attraversato il sentiero ormai libero, i Tecnopreti di Decabalus, bendati in fretta, si fermano dietro di te, insieme all'Artigiano in persona.{/n} "Gratitudine: il vostro aiuto nel liberare il sentiero dalle trappole è stato estremamente efficace. Offriremo il nostro sostegno nella battaglia contro il nemico dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g}."
+
+### u033028
+"Che esperimento audace! Sconsiderato, eppure coraggioso. Decabalus-4-16 ha sempre avuto una visione unica, e non escludo che sia stato proprio qui che ha osato darle vita."
+
+### u033029
+"Io sono Alva-9. Comando gli Skitarii della stazione mineraria Tirkuaz-4. Nel territorio sotto la mia giurisdizione è avvenuta la violazione di uno dei sacri comandamenti dell'Omnissiah. In conformità al Protocollo 12.33, la consegna del {g|Encyclopedia:Promethium}promethium{/g} alla stazione principale è impossibile finché la tecno-eresia non sarà eliminata."
+
+### u033030
+"Nessun miracolo dell'Omnissiah può nascere da progetti xenos. Il Dio-Macchina ha messo a nudo le leggi dell'esistenza, e qualsiasi violazione di esse è corruzione assoluta!"
+
+### u033031
+"Non ti sbagli, laico. Questa macchina è il centro di Tirkuaz-4. Ma ne è anche la più grave violazione. Un'eresia e una blasfemia gravissime, del massimo grado."
+
+### u033032
+"L'Artigiano Decabalus-4-16 è accusato di aver violato la Nona Legge Universale al quinto grado! Ha corrotto la tecnologia dell'Omnissiah con la xenotecnologia e deve essere distrutto come schema deviante! I suoi algoritmi stanno avvelenando la tua mente: respingili o muori!" {n}Alva-9 emette un breve ululato binarico simile al lamento di una sirena da combattimento.{/n}
+
+### u033033
+"Protocollo 12.70 trattino 4!" {n}I Ruststalker spostano all'istante i raggi dei loro visori per concentrarli su qualcosa alle tue spalle.{/n} "Unitevi al {g|Encyclopedia:RogueTraderGlossary}Rogue Trader{/g}! Difendete il perimetro finché non mi sarò occupata dell'Oggetto 16!"
+
+### u033034
+"Protocollo 12.1! Laico, non permettere agli hereteks di interrompere la distruzione dell'Oggetto 16!"
+
+### u033035
+{n}Senti addosso gli occhi del caposquadra Pask. Ha un fucile tra le mani, ma non sembra del tutto convinto di dover sparare contro di te. Gli operai ai suoi lati si guardano confusi, in attesa del suo comando.{/n}
+
+### u033036
+{n}La tua voce è più forte della pioggia e del vento e colpisce Pask dritto al cuore: con decisione l'uomo si volta di scatto e punta l'arma contro la squadra di Tecnopreti con cui era venuto.{/n}
+
+### u033037
+"Questa intera piattaforma trabocca di prove, laico. Il rapporto di degradazione del metallo impossibilmente basso, la Forza Motrice fornita senza alcuna fonte identificabile, la completa assenza del sovraccarico termico descritto nei sacri progetti tecnici. Quando vedrai il nucleo d'ancoraggio, capirai."
+
+### u033038
+{n}Il tuo grido è sommerso dal vento e dalla pioggia. Pask e i suoi operai puntano le armi contro Alva-9, e contro di te.{/n}
+
+### u033039
+"Questo spiega sia la segretezza di Decabalus sia le sue risposte vaghe, Rogue Trader. Dopo quello che ha detto la comandante degli Skitarii, comincio a pensare che si trattasse di un inganno ben pianificato, a rischio di essere scoperto, e che l'Artigiano abbia ritenuto meglio scagliare l'accusa di eresia contro chi ficcava il naso nei suoi segreti. È uno stratagemma vecchio come il mondo."
+
+### u033040
+{n}Senti il rumore di molti passi alle tue spalle. Dopo aver attraversato il sentiero ormai libero, i Tecnopreti di Decabalus, bendati in fretta, si fermano dietro di te, insieme all'Artigiano in persona.{/n} "Gratitudine: il vostro aiuto nel liberare il sentiero dalle trappole è stato estremamente efficace. Ci ha dato spazio di manovra."
+
+### u033041
+"L'Emendamento 310 vieta di divulgare informazioni ai laici se i dati sono soggetti ai protocolli di indagine interna. Confermerò soltanto di aver raccolto prove sufficienti."
+
+### u033042
+"La genesi spontanea della xenotecnologia non è che un mito, solo pochissime possiedono la capacità di autoreplicarsi—" {n}Alva-9 stringe più forte l'arma, ed Eogunn si interrompe.{/n}
+
+### u033043
+"Ho diverse ipotesi..." {n}Incontrando lo sguardo furente di Alva-9, conclude il pensiero:{/n} "...che non dovrebbero essere pronunciate nelle circostanze attuali."
+
+### u033044
+"Ma di certo ce le comunicherai più tardi, non è vero, o il più saggio degli uomini?"
+
+### u033045
+"Tutto questo parla delle meravigliose opere dell'Omnissiah, più che di un atto di profanazione, collega."
+
+### u033046
+"Il protocollo di ispezione ha indicato che la sacra macchina era contaminata da xenoeresia, identificata come 'nucleo d'ancoraggio', almeno 30 turni completi fa. L'Artigiano Decabalus-4-16 ha diretto la stazione per tutto il periodo indicato. Ha comunicato con lo {g|Encyclopedia:MachineSpirit}spirito macchina{/g} del complesso della trivella e lo ha consacrato di persona. Non può non essere stato a conoscenza della tecnocorruzione che alimenta i suoi meccanismi interni."
+
+### u033047
+"La xenosetta ha infettato gli schemi di questo luogo molto tempo fa: non mi stupirei di scoprire che le tecnologie proibite sono nate nelle viscere della stazione, guidate dalla mano di un traditore."
+
+### u033048
+"Protocollo 12.45 trattino 2!" {n}sbraita Alva, e i Ruststalker cambiano sottilmente posizione.{/n} "C'è poco tempo per comunicare con i laici, ma spiegherò."
+
+### u033049
+"La mia unità è giunta su Tirkuaz-4 un ciclo planetario fa. Durante la nostra permanenza, io, in quanto comandante degli Skitarii, ho eseguito un'ispezione con protocolli segreti dei sacri meccanismi della stazione. Ho rilevato..." {n}La voce della Tecnoprete diventa un ululato stridulo.{/n} "Violazioni delle Leggi Universali al quinto grado! L'Artigiano Decabalus-4-16 ha dissacrato il sacro meccanismo del complesso della trivella centrale di Tirkuaz-4 con un'eresia xenogenica identificata come 'nucleo d'ancoraggio'. I protocolli prescrivono l'immediata distruzione dei meccanismi venuti a contatto con questa xenotecnologia!"
+
+### u033050
+"Quella feccia sguazzante nella xenoeresia... Protocollo 12.60 trattino 9, cessare il puntamento!" {n}Il suo grido costringe i Ruststalker a togliere le mire dal tuo petto. La potente voce della Tecnoprete si fa più feroce.{/n} "Il traditore Decabalus vi ha ingannati! Ha gettato nell'eresia la nostra sacra produzione e sta conducendo le unità di lavoro della stazione verso il tecnoscisma. Non fidarti di Decabalus! Il suo codice corrotto penetra nei processori senza essere rilevato. Che cosa ti ha detto?"
+
+### u033051
+"Siamo gli unici ad aver mantenuto la rettitudine su questo ammasso di xenosozzura!" {n}Fulminando con gli occhi meccanici, Alva-9 volge la testa verso i Ruststalker, che si agitano con eccitazione predatoria, e tuona:{/n} "Protocollo 12.60 trattino 9, cessare il puntamento! Qui sono all'opera le menzogne del traditore Decabalus. Vi ha detto che volevamo affondare la piattaforma, giusto? Ma vi ha detto perché?"
+
+### u033052
+"I miei Ruststalker sono riusciti a recuperare una navetta funzionante dagli hangar allagati. Non appena la xenoeresia sarà eliminata, lasceremo questo focolaio di corruzione, raggiungeremo una tecnostazione orbitale e invieremo un messaggio ad Altar-Templum-Calixis-Ext-17. Gli addetti macchina della stazione non possono essere salvati: tutto ciò che è toccato dalla tecno-eresia ne resta contaminato per sempre. Non possiamo permetterci un simile rischio."
+
+### u033053
+"E il mio trono di impianto? Altar-Templum supervisionerà i suoi miglioramenti?"
+
+### u033054
+"Io, il Rogue Trader von Valancius, li porterò sulla mia nave. Hanno contribuito a respingere l'attacco di Decabalus."
+
+### u033055
+"Che ne sarà dei lavoratori rimasti sulla stazione?"
+
+### u033056
+"Che cosa farai del nucleo d'ancoraggio?"
+
+### u033057
+"Ti ho aiutata solo perché non perdono chi inganna."
+
+### u033058
+"Preferirei un ringraziamento di natura più... materiale."
+
+### u033059
+[Avviati verso la navetta]
+
+### u033060
+"Ti ho aiutata a eliminare il tuo nemico, Tecnoprete. Perché non mi dai il nucleo d'ancoraggio?"
+
+### u033061
+"Che il Dio-Imperatore riscaldi le anime dei pentiti."
+
+### u033062
+"Quindi l'intera stazione funzionava con l'energia fornita da un'unica piccola xenobatteria?"
+
+### u033063
+"Che cos'è quell'oggetto?"
+
+### u033064
+"È mio sacro dovere essere un fedele servitore del Dio-Imperatore nella lotta contro la xenoeresia."
+
+### u033065
+"Mi tormenta una domanda... Perché parli così forte?"
+
+### u033066
+"Ho altre domande."
+
+### u033067
+"Benedetto {g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g}! Che il codice malefico non tocchi mai i tuoi circuiti!" {n}Alva-9 si volta verso di te: la mano destra della Tecnoprete, con cui ha strappato qualcosa dalla macchina, è annerita e fusa. Tra le dita metalliche contratte stringe uno strano dispositivo di materiale nero e liscio. Dal suo interno proviene un basso ronzio.{/n}
+
+### u033068
+{n}Alva-9 annuisce soddisfatta. Il caposquadra Pask, coperto di sangue e fuliggine, china il capo in silenzio.{/n}
+
+### u033069
+"La xenoeresia che i suoi seguaci chiamano 'nucleo d'ancoraggio'. I miei compagni caduti dicevano che il traditore Decabalus aveva dissacrato gli schemi energetici sacri della stazione. Questo dispositivo maledetto dall'Omnissiah alimentava con la Forza Motrice il complesso della trivella centrale e i meccanismi di stabilizzazione. Senza di esso, lo spirito macchina di Tirkuaz-4 si spegnerebbe e troverebbe pace."
+
+### u033070
+"Lo consegnerò ad Altar-Templum-Calixis-Ext-17, dove la corruzione sarà anatemizzata e distrutta."
+
+### u033071
+{n}La piattaforma sotto i tuoi piedi trema e sprofonda leggermente: la sensazione di caduta ti fa rizzare i peli sulla nuca. Lo strillo di Alva-9 si sente persino sopra lo stridio affaticato dei meccanismi.{/n} "Non abbiamo molto tempo, laico! La stazione e tutta la sua tecnocorruzione saranno sott'acqua entro un'ora. Avvio del Protocollo 17.0!"
+
+### u033072
+"Il meccanismo eretico è soggetto al recupero da parte di un'unità di competenza superiore. In quanto Magos ordinato, affermo la mia perizia e richiedo il trasferimento di questa xenotecnologia in mia custodia."
+
+### u033073
+"Protocollo 17.09. Le unità di lavoro laiche venute a contatto con la sozzura della xenoeresia saranno eliminate insieme alla stazione." {n}Alva-9 passa distaccata i suoi visori cremisi sui volti cupi degli operai.{/n}
+
+### u033074
+"Uno xenocostrutto maledetto dall'Omnissiah che asservisce la funzione originaria di questa stazione!" {n}corregge Alva-9. Nella sua voce risuona il malcontento.{/n}
+
+### u033075
+"Si consiglia di risparmiare tempo e procedere con l'esecuzione del Protocollo 17.0."
+
+### u033076
+"Protocollo—" {n}Alva-9 ingoia la fine della frase, fissando la mano annerita. Lo xenoartefatto stretto tra le dita fuse continua a emettere un basso ronzio. La Tecnoprete aggrotta la fronte e, con un forte trillo binarico, ti lancia l'oggetto.{/n}
+
+### u033077
+"Il protocollo lo vieta." {n}Il ringhio della Tecnoprete suona come il rombo di un piccolo macchinario da manufactorum.{/n}
+
+### u033078
+"Il mio vox-augment opera sulle frequenze dei Ruststalker. Non è destinato ai laici."
+
+### u033079
+{n}La Tecnoprete alza l'altra mano augmetica, ancora intatta, e si tocca il petto con gli artigli.{/n} "La debole carne che c'era in me è stata sostituita da un nodo servo-cuore consacrato. Esso... batte molto forte. Sono costretta a urlare per sovrastarlo."
+
+### u033080
+"È una questione che è meglio discutere con i Magi di Altar-Templum-Calixis-Ext-17."
+
+### u033081
+"Categoricamente negato da tutti i protocolli." {n}Il vox di Alva-9 rimbomba di pura furia, come se fosse pronta a lanciarsi contro il Manipulus.{/n}
+
+### u033082
+"Richiesta negata. La competenza del Magos è ritenuta sufficiente, ma i suoi moventi restano sospetti."
+
+### u033083
+{n}Eogunn intona sottovoce una preghiera su Decabalus-4-16, poi emette un pesante sospiro.{/n} "Ancora una volta la miopia dogmatica ha vinto su chi si era adoperato per il bene dell'Imperium. Per tanti cicli la stazione è prosperata, eppure è bastato un solo gesto della mano per precipitarla nell'abisso. Assurdo."
+
+### u033084
+{n}La Tecnoprete ti fissa torva per qualche secondo, poi grida:{/n} "Protocollo 21.190! È tuo diritto farlo, Rogue Trader. Trasmetterò questi dati ad Altar-Templum-Calixis-Ext-17."
+
+### u033085
+{n}Alva-9 annuisce con impazienza.{/n}
+### u033086
+{n}L'enorme piattaforma metallica si muove appena, ma noti la velocità con cui il livello dell'acqua sale sotto le griglie di scolo.{/n}
+
+### u033087
+"Eseguire il Protocollo 17.0!" {n}La voce tonante di Alva-9 suona un po' sorpresa.{/n} "Lascerò Tirkuaz-4 e riferirò ad Altar-Templum-Calixis-Ext-17." {n}Dopo averci pensato un momento, la Tecnoprete fa un altro passo verso di te e ti assorda quasi con la sua esclamazione:{/n} "Il tuo aiuto nel risolvere la crisi della xenoeresia sarà citato nel mio rapporto."
+
+### u033088
+{n}Lenti d'ingrandimento scivolano sull'impianto oculare di Eogunn.{/n} "Il materiale e la forma di questo dispositivo sono straordinariamente simili agli oggetti di un'antica razza xenos che costituisce il soggetto della mia ricerca. E questo singolare artefatto può benedire un'intera piattaforma con la Forza Motrice? È al di là di ogni comprensione! Chiedo categoricamente l'autorizzazione a studiarlo!"
+
+### u033089
+{n}Alva-9 china il capo senza dire nulla. Dal suo vox giunge un trillo binarico sorprendentemente sommesso e melodioso.{/n}
+
+### u033090
+"Uno schema razionale per un laico del tuo rango." {n}Alva-9 inclina rispettosamente il capo.{/n}
+
+### u033091
+"In tal caso... Procedo con il Protocollo 17.88." {n}In un unico movimento, Alva-9 estrae una specie di formidabile dispositivo da combattimento e te lo porge.{/n}
+
+### u033092
+"Perché non vengono da me?"
+
+### u033093
+"Molto bene. Modificherò i miei piani per includere una visita ai Tecnopreti di Altar-Templum."
+
+### u033094
+"Per ora aspettiamo."
+
+### u033095
+"Vostra Signoria, abbiamo contattato Altar-Templum-Calixis-Ext-17. Secondo i vostri ordini, il Coro Astropatico ha inviato alla stazione un messaggio sulla situazione del trono di impianto. Altar-Templum ha risposto molto prontamente alla nostra richiesta, il che di per sé è estremamente notevole per
+dei servitori reclusi dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g}."
+
+### u033096
+"L'Adeptus Mechanicus riferisce di essere profondamente addolorato per la sventura toccata all'antica reliquia, ed è pronto a inviare sull'ammiraglia un erudito esperto nel restauro delle macchine archeotech. Si chiama Eogunn Februs, ed è disposto non solo ad assistere personalmente la dinastia, ma anche a insegnare agli Enginseer della nave tutti i rituali necessari. In cambio, i sacerdoti cremisi chiedono soltanto che visitiate la stazione e li informiate della sorte del Reattore a fusione miracoloso di Rykad Minoris."
+
+### u033097
+"Altar-Templum-Calixis-Ext-17 è un luogo molto insolito. Un monastero di Tecnopreti, il cui accesso è negato a chiunque non appartenga ai ranghi ordinati di {g|Encyclopedia:MarsGlossary}Marte{/g}. Alcuni dicono che le sue celle siano il rifugio più sicuro per la santità dell'Omnissiah, altri che al suo interno si nasconda la prigione più sorvegliata dell'Adeptus Mechanicus nella Distesa. È già sorprendente che abbiano comunicato con dei laici; aspettarsi che lascino le mura del loro chiostro sarebbe impensabile."
+
+### u033098
+"Riferirò che avete accettato di visitare la stazione." {n}La trasmissione vox si chiude con un clic.{/n}
+
+### u033099
+"Prima di tutto, voglio sapere se potete riparare il trono di impianto."
+
+### u033100
+"Perché questo improvviso interesse per il Reattore a fusione?"
+
+### u033101
+"Sono {mf|riuscito|riuscita} a portare via il reattore dal pianeta."
+
+### u033102
+"Il reattore è rimasto su Rykad Minoris."
+
+### u033103
+"Che cosa ne volete fare?"
+
+### u033104
+"Dato che è un oggetto così prezioso, preferisco tenerlo in mio possesso."
+
+### u033105
+"Potete avere il reattore."
+
+### u033106
+"Siamo entrati nell'orbita della stazione, Lord Capitano. In attesa di un segnale da Altar-Templum-Calixis-Ext-17." {n}Per alcuni secondi la frequenza vox trasporta solo un silenzio trepidante, presto interrotto da una voce metallica e rauca.{/n}
+
+### u033107
+"Offriamo i nostri ringraziamenti all'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g} per l'intersezione di eventi con un margine di errore entro l'intervallo di confidenza. Negli infiniti rami del futuro, questo esito sarà segnato come favorevole! Io sono Tetria-Lemma, Logis di Altar-Templum-Calixis-Ext-17, e mi appello al Rogue Trader per una conoscenza sacra: qual è la sorte del Reattore a fusione miracoloso di Rykad Minoris?"
+
+### u033108
+{n}Abelard emette un brontolio scontento.{/n} "Tanto più strano, allora, che l'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g} abbia ceduto così volentieri uno dei suoi preziosi confratelli. È improbabile che una simile generosità sia dettata soltanto dalla magnanimità."
+
+### u033109
+"L'Omnissiah sa tutto, comprende tutto. L'acquisizione di conoscenza sulla benedetta archeotecnologia corregge la probabilità a priori e aumenta l'accuratezza nel prevedere eventi graziosi." {n}La Tecnoprete emette una lunga e vibrante tecnolitania binarica, facendo tremare il vox-trasmettitore.{/n}
+
+### u033110
+"Rilevo il lancio di una navetta da carico su rotta verso la nostra nave."
+
+### u033111
+"Benedizioni dell'Omnissiah! Rallegriamoci, perché la probabilità in cui l'archeotecnologia andava perduta è trascorsa! L'esito è riconosciuto come estremamente favorevole. Trasmetto una proposta di patto di cooperazione TR-2, in base al quale il possesso della sacra archeotecnologia passerà ad Altar-Templum-Calixis-Ext-17."
+
+### u033112
+"È stata registrata una deviazione negativa dall'esito ottimale. La completezza cumulativa della conoscenza è diminuita. L'Omnissiah piange questa perdita!" {n}È difficile cogliere un'intonazione nella voce solenne di Tetria-Lemma, ma l'esclamazione binarica che segue sembra sinceramente addolorata.{/n}
+
+### u033113
+"La conoscenza degli antichi è innegabile! Lo scenario del trasferimento volontario del Reattore a fusione miracoloso al nostro chiostro è riconosciuto come il meno dispendioso, e la probabilità di preservarne l'utilità nelle nostre mani tende a uno! Le conseguenze degli altri esiti sono ritenute indesiderabili."
+
+### u033114
+"Questa probabilità è stata calcolata, ma ritenuta indesiderabile."
+
+### u033115
+"Che l'Omnissiah vi benedica come fattore statisticamente significativo! I portelli stagni del nostro chiostro sono aperti! Che i doni reciproci aumentino le probabilità del vostro trionfo!"
+
+### u033116
+"In segno di gratitudine per l'ampliamento delle nostre conoscenze sull'archeotecnologia, il tecnoclero di Altar-Templum-Calixis-Ext-17 è pronto a officiare riti binarici di terzo grado sugli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g} della vostra nave. Il Genetor Extremis Eogunn Februs, un Manipulus che ha ricevuto la benedizione della Forza Motrice, sarà inviato a salire immediatamente a bordo della vostra nave. Benedizioni dell'Omnissiah!"
+
+### u033117
+"Vostra Signoria, se posso permettermi di far notare che questo erudito possiede una rara combinazione di abilità ed è quasi certamente esperto nella creazione di augmetiche benedette. È un vero dono per l'ammiraglia e per voi personalmente!"
+
+### u033118
+"Senza dubbio! Il restauro dell'archeotecnologia da reliquiario è un dovere sacro e inviolabile di ogni servitore del Dio-Macchina. Ma prima di questa azione, avvio una nuova iterazione dell'appello al Rogue Trader: qual è la sorte del Reattore a fusione miracoloso?" {n}Il Logis ripete le parole con lo stesso tono di esaltazione di prima.{/n}
+
+### u033119
+"Riferite loro che il Rogue Trader {name} von Valancius in persona li ha onorati della propria presenza e permetterà loro di elevare preghiere al trono di impianto."
+
+### u033120
+"Quali sono i termini?"
+
+### u033121
+"Di' loro che ho bisogno dei loro servigi. Il trono di impianto nel mio Settore Bionica richiede una competenza che solo loro possiedono."
+
+### u033122
+"Molto bene. Scoprirò che cosa è successo alla stazione."
+
+### u033123
+"Questo accordo non mi sembra affatto vantaggioso."
+
+### u033124
+"Cerco il loro consiglio e la loro assistenza con le apparecchiature del Settore Bionica."
+
+### u033125
+"Lord Capitano, la stazione ha rotto il silenzio vox." {n}Nella voce distorta dal vox di Vigdis senti una lieve sorpresa.{/n} "Il {g|Encyclopedia:Magos}Magos{/g} Logis di Altar-Templum, Tetria-Lemma, desidera parlare con voi."
+
+### u033126
+"I rispettabili Tecnopreti potrebbero offrire il loro aiuto senza alcun termine." {n}Percepisci il tono ferito sotto il brontolio di Abelard.{/n}
+
+### u033127
+"Quando le sacre probabilità si sommano in modo così singolare, rifiutare la loro guida porta al fallimento. Noi di Altar-Templum-Calixis-Ext-17 pregheremo per il vostro buon giudizio."
+
+### u033128
+"Comunicazione in arrivo da Altar-Templum-Calixis-Ext-17."
+
+### u033129
+"Qui trasmette il Magos Logis Tetria-Lemma. Benedizioni dell'Omnissiah! Le incalcolabili probabilità dei percorsi hanno ancora una volta condotto la vostra nave al punto di concludere il Patto TR-3. Siete {mf|disposto|disposta} ad accettare?"
+
+### u033130
+"Da diversi cicli la stazione di estrazione di {g|Encyclopedia:Promethium}promethium{/g} Tirkuaz-4 è in ritardo con le spedizioni destinate ai sacri riti di Altar-Templum. L'azione richiesta in cambio dei nostri servigi è questa: vi impegnerete a volgere il vostro sguardo verso questa stazione e a costringerla ad aprire i suoi canali vox."
+
+### u033131
+"Lord Capitano, di norma il sacerdozio del santuario di Altar-Templum-Calixis-Ext-17 non desidera comunicare con i laici... Ma oggi è un'eccezione. E lo siete anche voi." {n}Senti il clic della Maestra del Vox che passa da una frequenza all'altra.{/n} "Ci è stato concesso l'accesso alla frequenza della stazione. Quale richiesta ci ordinate di trasmettere?"
+
+### u033132
+"Benedette tutte le probabilità convergute sotto lo sguardo del Dio-Macchina. Dichiaro concluso il Patto TR-3!"
+
+### u033133
+{n}Dopo un breve segnale acustico, senti una voce acuta e rauca che parla su una sola nota:{/n} "Benedizioni dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g}! Rallegratevi! Non c'è casualità nelle probabilità che vi hanno condotto qui, perché vi trasmetto una proposta di cooperazione lucrativa: il Patto TR-3. In considerazione delle vostre azioni passate, il clero di Altar-Templum-Calixis-Ext-17 è incline a officiare riti binarici di quarto grado sugli spiriti macchina della vostra nave. I termini saranno precisati più avanti..."
+
+### u033134
+"La comunicazione con una delle piattaforme di trivellazione che estraggono promethium per Altar-Templum è stata interrotta e le spedizioni si sono fermate. Sembra che il Magos desideri che scopriate che cosa è successo," {n}suggerisce Vigdis in un sussurro.{/n}
+
+### u033135
+"Quasi certamente niente di buono. Le spedizioni in ritardo spesso segnano l'inizio di rivolte, guerre civili, sabotaggi {g|Encyclopedia:XenosGlossary}xenos{/g} e altre attività indesiderabili." {n}Il tono di Solomorne è di una serietà micidiale.{/n}
+
+### u033136
+"Fatto. In attesa di risposta." {n}Un lungo silenzio riempie il canale vox.{/n}
+
+### u033137
+"Richiesta di installazione di augmetiche accettata. L'Omnissiah benedice l'eliminazione delle debolezze della carne."
+
+### u033138
+"L'impulso a sostituire la carne con il sacro metallo è ritenuto naturale."
+
+### u033139
+"L'installazione di augmetiche di alta qualità aumenta enormemente l'efficienza di qualsiasi forma di vita biologica."
+
+### u033140
+"Basta una parola e vi installeremo le nostre augmetiche migliori, Lord Capitano!"
+
+### u033141
+"Eseguiremo un esame approfondito di ogni organo adatto all'augmetica, Lord Capitano, e sostituiremo quello meno efficiente."
+
+### u033142
+"La vostra dedizione al perfezionamento del corpo è davvero ammirevole! Sono certo che sappiate quello che fate."
+
+### u033143
+{n}Una sensazione inquietante ti lascia la mente agitata, come se qualcosa di sozzo e alieno si fosse insinuato sulla tua nave del vuoto, per poi scomparire portando via ciò che era tuo. L'intuito ti dice che la risposta a questo mistero ti attende nei tuoi alloggi privati.{/n}
+
+### u033144
+{n}Sei nei tuoi alloggi a goderti un meritato riposo, quando ti colpisce una strana sensazione, qualcosa a livello di istinto animale. Le porte sembrano chiuse a chiave e nessuno potrebbe essere entrato nei tuoi alloggi a tua insaputa, eppure... non sei {mf|solo|sola}.{/n}
+
+### u033145
+"Gli xenos osano minacciarmi? All'attacco!"
+
+### u033146
+"Potremmo unire le forze."
+
+### u033147
+"Vigdis, imposta la rotta verso il pianeta."
+
+### u033148
+"Primo Timoniere Ravor, rotta dall'orbita verso il vuoto. Devo rifletterci."
+
+### u033149
+"Yrliet, non voglio combattere contro la tua gente. Cerca di convincerli a ritirarsi."
+
+### u033150
+"Marazhai, forse puoi dissuadere i tuoi simili dal combatterci?"
+
+### u033151
+"Questo mondo è il mio dominio. Andatevene e vi risparmierò la vita."
+
+### u033152
+"Lord Capitano! La Gabbia è sotto attacco. Stiamo rilevando comunicazioni vox attive sulle frequenze del 32° Reggimento. Ho già dato notizia del nostro arriv—"
+
+### u033153
+"Io mi occuperò degli altri insediamenti, Vostra Signoria. Meglio che andiate alla Gabbia. Lì ci sono Janur e il governatore, vi diranno come stanno le cose."
+
+### u033154
+"Le truppe sono pronte allo schieramento. Io supervisionerò la liberazione degli insediamenti minori. Voi, Vostra Signoria, dovreste recarvi alla Gabbia: il governatore deve avere tutte le informazioni tattiche."
+
+### u033155
+"No. Siamo guidati dall'ira di Kaela Mensha Khaine: questo mondo deve cadere."
+
+### u033156
+{n}Riconosci la voce dell'Aeldari la cui nave hai affrontato in un sistema vicino. Gli schermi video dell'augur evidenziano squarci nello scafo non riparati, a testimonianza della tua vittoria.{/n}
+
+### u033157
+"No, mon-keigh. Questo mondo appartiene al nemico."
+
+### u033158
+"Sarà fatto... Lord Capitano, gli {g|Encyclopedia:Augur}augur{/g} rilevano navi {g|Encyclopedia:XenosGlossary}xenos{/g}! Si stanno avvicinando!"
+
+### u033159
+{n}Per un momento dal {g|Encyclopedia:Vox}vox{/g} senti solo statica, poi il suono si fa all'improvviso nitido. La voce che emerge non è umana: è quella di uno xenos, un Aeldari.{/n} "{g|Encyclopedia:MonKeigh}Mon-keigh{/g}, questo è il nostro primo e ultimo avvertimento. Lasciate l'orbita del mondo condannato e andatevene. Qui ci vendicheremo dell'antico nemico. Questo mondo non avrà sopravvissuti."
+
+### u033160
+"Dubito che ci riuscirei, se ci provassi. Sento che l'ira di Khaine li sta consumando: il sangue è destinato a scorrere."
+
+### u033161
+{n}La Maestra del Vox spegne la trasmissione e sul ponte di comando iniziano a risuonare i primi ordini di passare alla prontezza di combattimento.{/n}
+
+### u033162
+"Non tenterò nemmeno una cosa simile. Non vediamo un bello scontro da molto tempo, non sei d'accordo?"
+
+### u033163
+"Abbiamo un segnale vox in arrivo, ma non riesco a identificare la fonte."
+
+### u033164
+"Grazie per il rapporto, Maestra del Vox."
+
+### u033165
+"Ho bisogno di più informazioni. Dimmi esattamente che cosa diceva il messaggio."
+
+### u033166
+"Vostra Signoria, notizie da Zarkov. Una nave Chartista di passaggio ha portato la notizia che il pianeta è stato attaccato da ignoti nemici dell'Umanità e che i suoi abitanti chiedono aiuto al {g|Encyclopedia:RogueTraderGlossary}Rogue Trader{/g}!"
+
+### u033167
+"Lord Capitano, se mi permettete di parlare: Zarkov ha forgiato combattenti temprati e abili, abituati a contare solo su sé stessi. Se chiedono aiuto, significa che la situazione è fuori controllo."
+
+### u033168
+"Assassini senz'anima che hanno rinunciato alla loro stessa essenza in nome di una grande vendetta. La mia gente li ha combattuti tra le stelle quando i tuoi antenati erano ancora privi di coscienza. Un pugno di {g|Encyclopedia:MonKeigh}mon-keigh{/g} non può sconfiggerli. Se l'aiuto non raggiunge quel mondo, è condannato."
+
+### u033169
+"Finalmente, un avversario degno. I mon-keigh non resisteranno a lungo. Se desideri prendere parte al gioco, ti consiglio di sbrigarti."
+
+### u033170
+{n}Il colonnello Batoshski ringhia come un animale infuriato.{/n} "{name}, Zarkov non chiederebbe aiuto senza una buona ragione. Là fuori siamo sopravvissuti per secoli da soli."
+
+### u033171
+"Certo, Lord Capitano. A quanto pare Zarkov non segnala un'invasione su vasta scala, piuttosto attacchi di singole squadre. E non ci sono notizie di un blocco nel vuoto. Il Chartista ha anche riferito strani rapporti di nemici dell'Umanità forgiati nel metallo e rivestiti di carne in putrefazione... ma non sono affatto sicuro che quella parte del messaggio sia attendibile."
+
+### u033172
+"Ogni giorno combattiamo una lotta molto più terribile di qualsiasi altra, una guerra dentro noi stessi, per la purezza dell'anima. E molto più pericolosa è la corruzione che si nasconde dietro il volto di un compagno. Un mostro che non si nasconde è una grazia, perché possiamo abbatterlo senza esitazione! Avanti, dunque, nessun motivo di indugio!"
+
+### u033173
+"Registra le coordinate nel diario di bordo, intendo tornare qui più tardi."
+
+### u033174
+"Vigdis, dirigi gli augur verso la regione in cui sono stati rilevati i segnali."
+
+### u033175
+"Chiunque siano... preparate la navetta per l'atterraggio."
+
+### u033176
+"Lord Capitano, abbiamo confrontato le letture degli augur con i dati del cogitatore di Dargonus. Questo mondo è GH-89-717, citato nel diario di Seberian von Valancius."
+
+### u033177
+"Ma certo, questo è proprio il luogo che {d|Encyclopedia:Ch2_MerovianShuttleFound}lo sfortunato nella navetta{/d} cercava di salvare. Temo che laggiù troveremo solo un cimitero..."
+
+### u033178
+"Ritiro le mie parole, Vostra Signoria. Questo mondo ha appena guadagnato valore e ha acquisito interessanti prospettive."
+
+### u033179
+"Hmm... Negli archivi questo mondo è segnato come... 'privo di ulteriore valore'. Che razza di classificazione è questa? Finché un pianeta conserva un'atmosfera e almeno un briciolo di risorse, una cancellazione simile è un crimine contro la dinastia!"

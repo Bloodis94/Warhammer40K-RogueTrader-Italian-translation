@@ -1,0 +1,881 @@
+### u031471
+"La mappatura verticale del terreno viene aggiornata regolarmente dalle mie avanzate augmetiche vestibolari. Secondo i registri diagnostici, l'ultimo aggiornamento è avvenuto..." {n}Un'esalazione sorpresa sfugge dalla griglia vox del Magos.{/n} "Cinquecento cicli fa? No, è impossibile..."
+
+### u031472
+"Il punto di riferimento... è stato accettato come valido. Avvio la ricostruzione delle coordinate." {n}Il ronzio dei meccanismi interni di Exalt-117 si fa più sommesso, e nel rumore ritmico senti il suo sussurro stupito:{/n} "L'indice dati si è armonizzato. Irradia... freddo."
+
+### u031473
+"La probabilità di una disattivazione errata è del 99,999 percento." {n}Exalt-117 resta immobile per qualche istante, come sorpreso dalle proprie stesse parole.{/n} "Il risultato del calcolo probabilistico contiene un margine di errore inaccettabile. Le circostanze della disattivazione dell'identificatore saranno chiarite durante la comunicazione."
+
+### u031474
+"L'immediata esecuzione della richiesta non è rilevante. Richiesta declassata." {n}Il Tecnoprete osserva Pasqal con sguardo indifferente.{/n}
+
+### u031475
+"Se un profano percepisce fenomeni nel proprio ambiente spaziale, e tali fenomeni non sono rilevabili da nessun altro osservatore, allora quel profano è tenuto a triangolare i dati osservati secondo i punti di riferimento stabiliti, e a custodire la propria vergogna in silenzio."
+
+### u031476
+"La mappatura verticale del terreno viene aggiornata regolarmente dalle mie avanzate augmetiche vestibolari, e queste non registrano alcuna violazione dell'integrità celeste. Vi raccomando vivamente di eseguire una diagnostica dei vostri sistemi oculari."
+
+### u031477
+"Una tale precisione nei calcoli vettoriali è impossibile. Pare che la vostra prospettiva debba essere incorporata nella mappatura accettata della realtà, per quanto io trovi questo punto di riferimento aberrante. Dopotutto, mi avete superato al mio stesso gioco. Nemmeno Seberian ci è mai riuscito."
+
+### u031478
+"Invio le coordinate. Queste informazioni sono altamente riservate, usatele con cautela cognitiva."
+
+### u031479
+"Se avete ragione, il mio indice dati diverge sempre di più a ogni ciclo. Questo limita seriamente il mio raggio di pensiero."
+
+### u031480
+"Ho visto ciò che diventerete. {mf|Un eroe|Un'eroina}."
+
+### u031481
+"Il vostro reggimento è un po' fuori dall'ordinario, a quanto vedo..."
+
+### u031482
+"Che cosa dice la gente dei rinforzi dei Gaprak?"
+
+### u031483
+"È da molto che sei al tuo posto?"
+
+### u031484
+"Vedo che sei un bravo soldato, onesto. Ma non sono tutti come te, vero?"
+
+### u031485
+"Un pilota, quindi?"
+
+### u031486
+"Ti rendi conto di dove siamo? Del perché c'è una strana barriera di energia attorno al perimetro del palazzo?"
+
+### u031487
+"Alla prossima, soldato."
+
+### u031488
+{n}Sull'attenti davanti a te — goffamente, come la sua figura dinoccolata lasciava presagire — c'è un giovanotto allampanato, con un collo così lungo che la sua testa sembra un {g|Encyclopedia:ServoSkulls}servoteschio{/g} che fluttua sopra le spalle.{/n}
+"S-soldato semplice Ruban Khroshovach! Perme— ehm, permesso di salutare!"
+
+### u031489
+"Sì, {mf|signore|signora}. Non servo a nessuno con i piedi per terra."
+
+### u031490
+"Ho sentito dire poco fa che alcune posizioni nobiliari sono state colpite dall'artiglieria. Gli stendardi si sono dispersi come uno stormo di uccelli. Vorrei sapere chi è stato."
+
+### u031491
+"So che penserete che tutti lo dicano di sé, ma se non fosse stato per una cavillosità meschina, io non sarei qui. 'Contatto non autorizzato con un perimetro consacrato'? Be', dove dovevo sedermi, a mezz'aria? 'Profanazione di un santuario'? Mica ho affumicato il posto di proposito." {n}Ruban sospira, come se stesse accettando la propria condanna ancora una volta.{/n} "Comunque, non mi lamento. Come sarei finito altrimenti nell'{g|Encyclopedia:AstraMilitarumGlossary}Astra Militarum{/g}? Non sto bene di salute. Ma nella legione penale non sono schizzinosi. Se il Dio-Imperatore vorrà, non morirò prima di aver dimostrato di valere qualcosa."
+
+### u031492
+"Non sta a me saperlo, perciò non ascolto. Ma dicono tutti la stessa cosa: senza rinforzi, saremo nei guai. Per questo tengo tutte e due le orecchie chiuse — inutile alimentare la paura."
+
+### u031493
+"Non abbastanza da essere stanco. Ho appena dato il cambio a Sauerback. Quello che è stato incaricato di tenerci tutti d'occhio, ma che non sa nemmeno rispettare il regolamento sull'uniforme. L'altro giorno si è tutto sporcato trascinando cadaveri nemici."
+
+### u031494
+{n}Il soldato ascolta sconcertato il tuo lamentevole racconto del {d|Encyclopedia:Ch2_MerovianShuttleFound}pilota e delle sue suppliche, alle quali rispose solo il silenzio dello spazio{/d}.{/n}
+
+### u031495
+{n}E del lontano pianeta Zarkov, dove la gente onora la sua memoria.{/n}
+
+### u031496
+"Avete ragione. Quel sergente Vukchik, per dirne uno. Puoi mettere un ratto del vuoto in uniforme, ma non per questo diventa un soldato. Ti dico una cosa: quando c'è Vukchik in giro, tieni i tuoi oggetti di valore ben stretti."
+
+### u031497
+"Raccontate bene! E un pianeta che prende il nome da un sergente... che ridere!"
+
+### u031498
+{n}Khroshovach fa fervidamente il segno dell'Aquila, cercando di riversare in quel gesto tutta la sua reverenza.{/n}
+
+### u031499
+"Non so di cosa stiate parlando, {mf|mio signore|mia signora}. Dovreste chiedere a qualcuno più sveglio di me — non sono abituato a questi discorsi."
+
+### u031500
+Solo l'ultima parte della lettera è sopravvissuta: "...e dunque, Seberian, metti da parte i tuoi dubbi e agisci senza esitazione. E ti prego, dimentica di essere un Rogue Trader, anche solo per oggi. Usa la cautela di noi semplici mortali e distruggi questa lettera SUBITO. Altrimenti, per il Sacro Trono, dovrò incaricare un accolito di ripulire le tue tracce. Amella."
+
+### u031501
+Lettera da A
+
+### u031502
+Bagliori verdi ondeggiano sul metallo alieno, dando alla lama l'aspetto di un serpente pronto a colpire la sua vittima.
+
+### u031503
+Crimson Dance of Khaine
+
+### u031504
+Il mecadendrite urla di tecno-eresia. L'intero progetto è un crimine d'innovazione e una profanazione degli schemi sacri di Marte.
+
+### u031505
+Mecadendrite personalizzato di Exalt-117
+
+### u031506
+"Io, Juvenna von Valancius, esercitando il diritto concessomi dal Mandato, in conformità con la Legge 8913-12-4 del 6213° Volume della Lex Dargonus, con il presente decreto conferisco in questo giorno un titolo nobiliare a Isimond Sauerback e a tutti i suoi legittimi eredi fino alla fine dell'era. Possano servire fedelmente e non disonorare l'onore dei loro signori."
+
+### u031507
+Decreto n. 3849-90-12 di Juvenna von Valancius
+
+### u031508
+Lo stemma dei von Valancius è inciso sul solido anello. La sua lucentezza impeccabile mostra con quanto fervore chi lo porta veneri la dinastia.
+
+### u031509
+Anello con sigillo di Laria
+
+### u031510
+"Come vi siete procurato una ferita così grave?"
+
+### u031511
+[Esamina da vicino la ferita di Sauerback]
+
+### u031512
+"Se il vostro signore vi ha ritenuto degno solo del grado di capitano, c'è una buona ragione. Non sta a voi mettere in discussione le sue decisioni."
+
+### u031513
+"Credo che il talento trovi sempre la strada per arrivare in cima."
+
+### u031514
+"Le truppe della Casata Gaprak inviate in aiuto della dinastia: che cosa potete dirmi di loro?"
+
+### u031515
+"I Gaprak sono servitori dell'Adeptus Administratum. Il nostro sangue non è macchiato dalla contaminazione degli psyker."
+
+### u031516
+"L'Adeptus Astra Telepathica? Scusate la franchezza, ma la vostra ferita deve avervi annebbiato la mente. Da trent'anni la nobile stirpe dei Gaprak è strettamente legata al benedetto Cult Mechanicus."
+
+### u031517
+"Vheabos VI? È un minuscolo mondo penale, ma non certo uno spazioporto."
+
+### u031518
+"Giustissimo, Capitano. Non sarebbe stato possibile senza la grazia del Dio-Macchina."
+
+### u031519
+"Non ho idea di cosa stiate dicendo. L'unico spazioporto appartenente alla mia casata è quello situato su Kiava Gamma."
+
+### u031520
+"Che la Sua Luce sia con noi."
+
+### u031521
+"Che la grazia dell'Omnissiah risplenda su di noi."
+
+### u031522
+"Così sia. Ma ci si dovrebbe sempre affidare prima di tutto a se stessi."
+
+### u031523
+"Gloria al Dio-Imperatore e all'Omnissiah, uniti su Terra e su Marte."
+
+### u031524
+"È finita, Sauerback. Verrai processato per questo."
+
+### u031525
+"Quando verrà il momento, mi sosterrai nelle mie imprese, a prescindere dal disappunto di chiunque altro. Ti darò un segnale."
+
+### u031526
+"Manterrò il tuo segreto, ma ricorda: il tuo buon nome e la tua vita sono nelle mie mani, ora."
+
+### u031527
+"Come hai fatto, esattamente?"
+
+### u031528
+"Perché l'hai ucciso?"
+
+### u031529
+"Le vostre informazioni sono errate, Capitano. La tradizione della famiglia Gaprak è servire nei ranghi della Flotta Imperiale."
+
+### u031530
+"Purtroppo non abbiamo avuto alcuna notizia da loro."
+
+### u031531
+"Vi sbagliate, Sauerback. Il patrimonio dei Gaprak si trova su un mondo forgia dove la potenza d'acciaio della dinastia viene prodotta sotto l'occhio dell'Adeptus Mechanicus. Tuttavia, siete perdonato."
+
+### u031532
+"L'umiltà è una virtù di fronte al Dio-Imperatore. Siete certo che non ci sia eresia sepolta nel vostro desiderio di elevarvi?"
+
+### u031533
+"È una specie di test? Il nostro dominio è sempre stato Dargonus."
+
+### u031534
+"La mia casata non potrebbe mai aver costruito uno spazioporto su Vheabos VI, Capitano. Non da ultimo perché i nostri possedimenti ancestrali sono su Janus."
+
+### u031535
+[Convinci Isimond a fare come comandi]
+
+### u031536
+"Siete voi il Maestro d'Armi al servizio della dinastia von Valancius?"
+
+### u031537
+"Per il potere conferitomi dal Siniscalco, vi concedo il permesso di preservare il vostro onore e confessare il vostro crimine."
+
+### u031538
+"Lo terrò a mente."
+
+### u031539
+"Ci sono trasgressori tra i soldati del reggimento penale?"
+
+### u031540
+{n}Il ferito volta la testa verso di te e ti fissa incredulo con l'unico occhio sano. L'altro è sepolto sotto sangue raggrumato e gonfiore, ai lati di un profondo squarcio che gli attraversa il sopracciglio e la tempia. Il suo viso pallido, dai lineamenti affilati e delicati, non può essere il volto di un popolano.{/n} "Isimond Sauerback. A cosa devo il piacere?"
+
+### u031541
+"Una scheggia vagante. L'esplosione di una granata a frammentazione mi ha strisciato. Grazie al Trono, l'occhio è intatto, altrimenti i tutori dell'ordine avrebbero perso uno dei loro pochi comandanti competenti."
+
+### u031542
+{n}Assicurata alla cintura del tutore dell'ordine c'è un'arma che riconosci subito come una pistola al plasma. Nonostante la finitura costosa, è chiaramente un'arma da combattimento: l'impugnatura, con il monogramma "IS", è coperta di graffi e segni, indizio di un uso frequente. {/n}
+
+### u031543
+"I nobili giudicano i loro servitori dalle azioni. Ho fatto abbastanza per il {g|Encyclopedia:RogueTraderGlossary}Rogue Trader{/g} von Valancius da meritare un titolo." {n}La parte intatta del volto di Isimond Sauerback mantiene un'espressione del tutto impenetrabile.{/n} "È solo questione di tempo."
+
+### u031544
+{n}L'intrico di pelle strappata e sangue lucido è orribile a vedersi e causa evidentemente al ferito un dolore terribile. Se è davvero stato provocato da una scheggia, il tutore dell'ordine è scampato alla morte per un soffio.{/n}
+
+### u031545
+"Niente." {n}Il capitano risponde in modo secco e conciso.{/n} "Non conosco il loro numero né il loro eventuale orario di arrivo."
+
+### u031546
+"Se il Dio-Imperatore lo vuole." {n}Il ferito fa lentamente il segno dell'Aquila.{/n}
+
+### u031547
+"Muori." {n}Un grumo sfrigolante di plasma ti si schianta sul petto, riducendo il mondo intorno a te al nulla.{/n}
+
+### u031548
+"L'Inquisitore af Irramon ha davvero sottovalutato la dinastia von Valancius." {n}Sauerback pronuncia ogni parola con gongolante piacere.{/n} "Una volta — quando ha osato assaltare il palazzo. Due — quando ha creduto che i sudditi di Seberian avrebbero tradito il loro padrone. E tre..." {n}Ti punta contro la pistola al plasma.{/n} "...quando ha deciso di mandare una spia mal addestrata, che a quanto pare ignora che la Casata Gaprak possiede il mondo di Kiava Gamma da quasi trent'anni!"
+
+### u031549
+"Qualunque cosa tu sia, non sei {mf|un Gaprak|una Gaprak}." {n}Sauerback ti mira con la pistola al plasma.{/n} "La fede è un argomento molto delicato per la Casata Gaprak, a causa di tutte le voci secondo cui rifiuterebbero il Credo Imperiale in favore del {g|Encyclopedia:CultMechanicus}Cult Mechanicus{/g}. Qualsiasi membro della Casata Gaprak si darebbe da fare per sottolineare la propria devozione in ogni modo possibile. Tu non suoni molto {mf|devoto|devota}."
+
+### u031550
+{n}Nel silenzio perfetto che segue, senti distintamente lo stridore dei denti di Sauerback.{/n} "Sì. Sono stato io a ucciderlo, ma non di mia volontà, bensì per ordine di Camilla Drivestem, Duchessa di Dargonus."
+
+### u031551
+"Allora è questo il mio destino." {n}Il capitano tace e si volta, facendo capire che la conversazione è finita.{/n}
+
+### u031552
+{n}Il volto del ferito si contorce in una smorfia di odio mal celato.{/n} "Un ricatto, dunque. Sono costretto ad accettare la tua decisione e a sottomettermi, ma non pensare che dimenticherò questo momento nemmeno per un istante."
+
+### u031553
+"Plasma. Bruciato da parte a parte." {n}Il ferito sputa fuori ogni parola a denti stretti.{/n} "Volevo coglierlo di sorpresa e colpirlo alle spalle, ma quel furfante mi stava aspettando — e con la spada è riuscito a lasciarmi un piccolo ricordino. Questo non l'ha salvato dal mio secondo colpo. Ho gettato il corpo giù dal ponte per non lasciare prove."
+
+### u031554
+"La duchessa ha deciso di regolare dei vecchi conti con i Gaprak. Le serviva un agente che sapesse maneggiare una pistola... e la lingua. Ho accettato. Il mio compenso doveva essere un titolo nobiliare ereditario. Forse mi sono fatto criminale, ma i miei eredi saranno aristocratici. La mia coscienza è un piccolo prezzo da pagare per un simile dono."
+
+### u031555
+"Sì, devo aver ricordato male." {n}Sauerback scrolla le spalle.{/n} "Avete ragione, lo spazioporto ancestrale dei Gaprak su Vheabos VI fu eretto sotto l'egida dei servitori dell'{g|Encyclopedia:OmnissiahGlossary}Omnissiah{/g}." {n}L'occhio sano del capitano si stringe appena.{/n}
+
+### u031556
+{n}La pelle infiammata sul volto di Sauerback si tende in un ghigno gioioso.{/n} "Risposta sbagliata, spia. Chiunque tu sia, non sei della Casata Gaprak. Altrimenti sapresti che i Gaprak sono legati all'Adeptus Mechanicus da decenni." {n}Ti punta contro una pistola al plasma.{/n}
+
+### u031557
+"Assolutamente certo," {n}risponde subito il tutore dell'ordine, chinando il capo.{/n} "Io e tutta la mia stirpe serviremo l'Umanità con zelo raddoppiato, osservando il Credo Imperiale con impeccabile rigore."
+
+### u031558
+"Capisco. A quanto pare ero stato male informato." {n}Il capitano ti squadra da capo a piedi con uno sguardo freddo e indagatore.{/n} "Non c'è da stupirsi."
+
+### u031559
+"Bene, allora non resta che elevare una preghiera di ringraziamento per la vostra sopravvivenza. Che il {g|Encyclopedia:EmperorGlossary}Dio-Imperatore{/g} benedica le gesta della nobilissima Casata Gaprak, sia quelle già compiute sia quelle a venire. Sono certo che la Sua invisibile presenza non vi abbandonerà mai."
+
+### u031560
+"Questa affermazione è falsa. La costruzione di uno spazioporto su Vheabos VI è priva di utilità. Per le necessità del Cult Mechanicus, il supporto logistico dei mondi forgia ha la massima priorità." {n}L'impianto ottico di Pasqal tremola più volte.{/n} "Riconosco tuttavia che per i profani questa particolare catena logica non è del tutto evidente."
+
+### u031561
+"La fonte dei vostri dati è desolatamente inesatta, Capitano. La scala del mondo penale di Vheabos VI è troppo modesta perché il Cult Mechanicus vi spenda una tale quantità di sforzi e risorse. Di norma, solo i mondi forgia ricevono quell'onore."
+
+### u031562
+"Bene, può bastare. Ora sono disposto a rispondere alle domande, {mf|mio signore|mia signora}." {n}Il capitano intreccia le dita con aria soddisfatta.{/n}
+
+### u031563
+{n}Dopo averti esaminato più da vicino, l'occhio di Sauerback si illumina d'interesse.{/n} "Quindi siete voi {mf|quello|quella} che la Casata Gaprak ha mandato in aiuto di Seberian. Gli esploratori hanno riferito che la vostra compagnia è stata distrutta durante l'avvicinamento alla residenza. Un incidente increscioso, ma nulla di preoccupante: i Gaprak sono famosi per i loro {g|Encyclopedia:PsykerGlossary}psyker{/g} e {g|Encyclopedia:AstropathGlossary}Astropati{/g}, quindi devono sapere che siete {mf|sopravvissuto|sopravvissuta}. Nuove truppe verranno inviate a breve."
+
+### u031564
+"No. Comando i tutori dell'ordine come parte delle difese del palazzo e ho il grado di capitano." {n}L'uomo ti mostra l'insegna ricamata sulla manica.{/n} "Mi manca il rango nobiliare richiesto per un incarico più alto. Un piccolo contrattempo."
+
+### u031565
+{n}È una ferita da punta, causata da un colpo di striscio: una lama lunga e stretta ha trafitto e lacerato la pelle. Il gonfiore e le varie lesioni ai vasi sanguigni la fanno sembrare molto più orrenda di quanto sia. Se una scheggia di una granata a frammentazione lo avesse davvero colpito, avrebbe portato via un buon terzo del cranio di Sauerback.{/n}
+
+### u031566
+"I soldati sono ben consapevoli che il Dio-Imperatore ha concesso loro un'ultima possibilità di redenzione. Chiunque non si faccia furbo e non lo capisca viene fucilato. Persino Jarub Vukchik, un sergente con una lunga lista di infrazioni disciplinari alle spalle, ora ha imparato a non rubare la proprietà del reggimento. Se sparisce anche solo una sigaretta di lho, finirà in cella o davanti a un plotone d'esecuzione, a seconda delle perdite e delle necessità del reggimento in quel momento."
+
+### u031567
+{n}Il membro della Casata Gaprak, da vero aristocratico, doveva essere piuttosto abile con la spada, ed è riuscito a ferire il suo aggressore prima di morire.{/n}
+
+### u031568
+"Ai vostri ordini."
+
+### u031569
+"A mio avviso, non avete alcun diritto di avanzare pretese contro un membro della nobiltà, Sauerback."
+
+### u031570
+"Stavo mettendo alla prova la lealtà del sergente. Fai il tuo lavoro, tutore dell'ordine — io starò a guardare."
+
+### u031571
+[Mostra la mano con l'anello di Laria] "In nome del Siniscalco Voigtvir, Capitano, lasciaci."
+
+### u031572
+"Devo ricordarvi il vostro segreto, Sauerback? E le molte persone che sarebbero interessate a conoscerlo?
+
+### u031573
+[Punta l'arma contro Sauerback] "Fai un altro passo — e sei morto."
+
+### u031574
+"Bene..." {n}Sauerback sposta il braccio del morto con la punta dello stivale, raccoglie il fagotto e guarda dentro.{/n} "Non solo un disertore, ma anche un ladro. Devo restituire subito la spada di Sua Signoria. Grazie per la vostra collaborazione."
+
+### u031575
+"Se qualcuno si comporta in modo sospetto e frequenta furfanti, allora va interrogato. Il rango ha il suo peso in questo, ma non garantisce l'immunità. Specialmente sotto la legge marziale. Dunque, adesso, qual è il legame tra voi e il sergente Vukchik?" {n}Il capitano è sempre cortese, ma è chiaramente deciso a proseguire l'interrogatorio.{/n}
+
+### u031576
+"Mi sono allontanato solo per un minuto! La mia postazione è proprio lì, si vede da qui!" {n}Jarub indica in direzione dell'infermeria.{/n} "Se non fossi stato qui a discutere con voi, Capitano, adesso sarei già tornato di guardia!"
+
+### u031577
+"Maledetto segugio. Fiuta un intrigo a venti passi?" {n}Il meroviano schiocca la lingua irritato.{/n} "Be', al vuoto con lui."
+
+### u031578
+"Non così in fretta." {n}Il capitano dei tutori dell'ordine appare accanto a te così all'improvviso che sembra essersi materializzato dal nulla.{/n} "Ho delle domande per voi, Sergente, e per il vostro conoscente qui presente."
+
+### u031579
+{n}Prendi la spada da Jarub e consegni il pagamento. Il volto del sergente si illumina di una gioia quasi infantile.{/n}
+"È un piacere fare affari con una persona come voi, {mf|mio signore|mia signora}! Grazie dell'aiuto, allora. Ho un posto sicuro qui vicino: aspetterò che i combattimenti finiscano e che arrivino i vostri a portarmi a {g|Encyclopedia:FootfallGlossary}Footfall{/g}. Ci rivedremo, se il destino vorrà." {n}Jarub si inchina profondamente e si affretta verso i cancelli.{/n}
+
+### u031580
+{n}In preda al panico, Jarub afferra la spada di Seberian. Il capitano Sauerback non riesce a fermare il colpo, e la lama trapassa l'armatura del tutore dell'ordine. Senza preavviso, la spada va in frantumi come se fosse di vetro, e un centinaio di schegge scintillanti volano in ogni direzione. Jarub sbatte le palpebre incredulo davanti all'elsa che ha ancora in mano. Un attimo — e un lampo blu trapassa il povero meroviano, che crolla a terra morto con un lamento pietoso.{/n}
+
+### u031581
+{n}Sauerback arriccia il naso con disgusto all'odore di carne bruciata e rimette la pistola al plasma nella fondina.{/n}
+
+### u031582
+{n}Stringendo le labbra sottili, il capitano ti guarda in cagnesco e si allontana a grandi passi senza aggiungere una parola, con gli stivali che martellano il terreno a ogni passo.{/n}
+
+### u031583
+"Cosa, anche tu!" {n}I riflessi di Sauerback sono eccellenti: i vostri spari risuonano quasi simultaneamente. Il plasma ti brucia una ferita orribile al fianco, e un foro sanguinante si apre nel petto del capitano. Crolla a terra, fissandoti con tutto l'odio che riesce a raccogliere.{/n}
+
+### u031584
+{n}Alla vista dell'anello, Sauerback digrigna i denti in modo udibile.{/n} "È così? Bene, non ostacolerò la volontà di chi agisce sotto l'egida del Siniscalco."
+
+### u031585
+"{mf|Mio signore|Mia signora}!" {n}Jarub agita una mano, facendoti cenno di avvicinarti. Nell'altra mano tiene qualcosa di grande, oblungo e — a giudicare dall'ansimare del sergente — piuttosto pesante. L'oggetto è avvolto saldamente in un grosso telo cerato.{/n} "Lavoro fatto!" {n}Si guarda intorno in fretta e ti porge il fagotto.{/n} "Ora è tempo di pagare, come concordato."
+
+### u031586
+"Non avrei mai pensato di trovare {mf|un nobiluomo|una nobildonna} in affari con questa feccia." {n}Il capitano socchiude l'unico occhio sano e fulmina Jarub con lo sguardo.{/n} "Come sei riuscito a coinvolgere {mf|lui|lei} nei tuoi imbrogli, Jarub? Che cosa ci fate qui, voi due? Non fare il finto tonto con me. Questo chiaramente non è il vostro primo incontro."
+
+### u031587
+"Feccia meroviana. Grazie per la vostra vigilanza, {name}." {n}Con un'espirazione sibilante tra i denti, il capitano tocca il proprio {g|Encyclopedia:CommBead}auricolare vox{/g}.{/n} "No, annullate l'allarme. La situazione è sotto controllo. Il disertore è stato eliminato."
+
+### u031588
+"Parlami del 32° Merov."
+
+### u031589
+"Hai notato qualcosa di insolito ultimamente? Parla chiaro — non voglio tentennamenti."
+
+### u031590
+"Delle forze della Casata Gaprak avrebbero dovuto arrivare qui. Sai che cosa è successo loro?"
+
+### u031591
+"Sento dire che hai mani d'oro, Jarub. Puoi mettere le tue dita agili su quasi qualsiasi cosa."
+
+### u031592
+"Chi tra i tuoi commilitoni porta un'arma al plasma?"
+
+### u031593
+"Desidero discutere dei tuoi talenti nascosti, Jarub."
+
+### u031594
+"Perché fare tanta strada per venderla? La compro da te qui — dimmi solo il tuo prezzo. E per di più, posso far scortare dai miei uomini te a Footfall, dopo."
+
+### u031595
+"Quindi intendi davvero derubare i tuoi superiori? Non avrei mai dovuto iniziare questa conversazione..."
+
+### u031596
+"Riguardo al nostro accordo."
+
+### u031597
+"Presto ci sarà un attacco aereo al quartier generale principale. Nessuno ti noterà nel trambusto che ne seguirà."
+
+### u031598
+"Una bella lezione per tutti quelli che tentano il destino e mettono alla prova la pazienza del Dio-Imperatore. Ma la tua lezione non è ancora finita. Ho un compito per te."
+
+### u031599
+"Un mostruoso errore giudiziario. Credo che possiamo aiutarci a vicenda."
+
+### u031600
+"Andremo nel luogo dove Seberian custodisce la sua spada. Distrarrò le guardie, il resto spetta a te. Vieni."
+
+### u031601
+"Lady Juvenna ha un incarico urgente. Sono qui per darti il cambio."
+
+### u031602
+"Vengo dalla Casata Gaprak. Le forze dell'Inquisizione sono in arrivo. Riposati prima della battaglia, e io farò la guardia."
+
+### u031603
+[Mostra l'anello di Laria] "Il Siniscalco mi ha ordinato di darti il cambio."
+
+### u031604
+"Seberian mi ha incaricato personalmente di custodire la sua lama. Sei sollevato dal tuo posto."
+
+### u031605
+"Che senso ha tenere le armi lontano dai tuoi? Visto che la morte è alle porte, perché non giocare una partita a Regicidio?"
+
+### u031606
+"C'è una lama inestimabile, e se usi i tuoi talenti nel modo giusto..."
+
+### u031607
+"Sergente, hai notato la strana griglia luminosa nel cielo o il campo di forza all'ingresso della residenza?"
+
+### u031608
+"Stai attento al capitano Sauerback. Ti tiene d'occhio."
+
+### u031609
+"C'è un uomo in possesso di un artefatto di grande valore, e voglio vederlo separato da esso."
+
+### u031610
+"Salute!" {n}Il meroviano ti saluta e si mette sull'attenti, tirando su la sua figura goffa fino alla sua statura massima, poco imponente.{/n} "Sergente Jarub Vukchik, 32° Merov, ai vostri ordini."
+
+### u031611
+{n}Il sergente riflette, con lo sforzo evidente nei suoi occhi febbrili. La tua domanda è ben oltre i limiti della sua comprensione della realtà.{/n} "Perdonatemi, {mf|mio signore|mia signora}! Non sono bravo con gli indovinelli! Non ho idea di quali campi di forza stiate parlando!"
+
+### u031612
+{n}Con un movimento a scatti, il sergente si rimette sull'attenti.{/n} "{mf|Mio signore|Mia signora}, nessun incidente nell'esecuzione del compito!" {n}Con un'occhiata di sbieco agli ufficiali di passaggio, prosegue a voce bassissima, in modo che solo tu possa sentire:{/n} "Lady Drivestem, che il Dio-Imperatore prolunghi i suoi giorni, ultimamente ha mostrato favore al capitano Sauerback. Ho sentito che gli dava degli ordini, ma non sono riuscito a capire quali."
+
+### u031613
+{n}Un velo di sudore compare sulle guance di Jarub, rasate a chiazze.{/n} "So dove volete arrivare. Ho avuto lo stesso pensiero: dato che la mia vita non vale nulla per l'{g|Encyclopedia:ImperiumGlossary}Imperium{/g}, non ho niente da perdere. Rubo la spada e sparisco. Me ne vado a {g|Encyclopedia:FootfallGlossary}Footfall{/g}, la rifilo a qualcuno per una bella somma e mi faccio una nuova vita lontano da tutti questi orrori. Comunque non sono mai stato tipo da combattimenti, né da pentimenti."
+
+### u031614
+"Sì, {mf|mio signore|mia signora}!"
+
+### u031615
+{n}Per qualche secondo il sergente si dondola a disagio da un piede all'altro, riluttante a rispondere.{/n} "Non sono nessuno di speciale, {mf|mio signore|mia signora}. Sono finito nella legione penale per una serie di sfortune: volevo migliorare la mia condizione, così ho iniziato a smerciare rifiuti del {g|Encyclopedia:Manufactorum}Manufactorum{/g}. Si è scoperto che non erano affatto rifiuti, ma materiali di grande valore. Ecco come sono finito nel 32°. Quindi, che importa se ho le dita agili? A che mi è servito?"
+
+### u031616
+"Quale casata?" {n}Jarub fa per grattarsi la nuca con aria impacciata, ma si trattiene.{/n} "Non saprei, {mf|mio signore|mia signora}. La mia unità non ha segnalato l'arrivo di alcun rinforzo. Ci arrangiamo con le truppe che abbiamo."
+
+### u031617
+{n}Il sergente si china in un profondo inchino di congedo.{/n}
+
+### u031618
+"Non sono un grande narratore, ma se {mf|il mio signore|la mia signora} insiste." {n}L'espressione di Jarub si rabbuia.{/n} "Ognuno di noi {g|Encyclopedia:MerovPenalLegionGlossary}Meroviani{/g} è colpevole di fronte al {g|Encyclopedia:EmperorGlossary}Dio-Imperatore{/g}, terribilmente colpevole. Laviamo le nostre azioni malvagie con il sangue, morendo per l'Umanità. Non importa quanto piccola sia la colpa, la morte per la gloria del Trono d'Oro attende tutti nel nostro reggimento." {n}Rabbrividisce come per un freddo improvviso.{/n}
+
+### u031619
+{n}Jarub abbassa la voce in un sussurro e si guarda intorno a disagio.{/n} "Non avete cambiato idea, vero?"
+
+### u031620
+{n}Il sergente si alza, ondeggiando appena con studiata noncuranza. Jarub lancia un'occhiata furtiva prima da una parte e poi dall'altra, con il minimo movimento della testa.{/n} "Sono pronto a muovermi non appena succede, {mf|mio signore|mia signora}. Da un momento all'altro."
+
+### u031621
+{n}Incapace di trattenersi, Jarub si passa una mano tra i capelli arruffati color paglia, perplesso.{/n} "Dev'essere uno scherzo. {mf|Mio signore|Mia signora}...?" {n}Poi sembra che qualcosa gli scatti nella mente, e annuisce.{/n} "Affare fatto. Ma Sua Signoria tiene la lama sotto guardia. Dobbiamo in qualche modo allontanare le guardie dal tesoro, poi al resto penso io. Quando avrò finito, vi aspetterò fuori dall'infermeria con il... prezioso carico. Ci sarò di sicuro: il cambio della guardia si avvicina."
+
+### u031622
+{n}Jarub è visibilmente in ansia. Parla piano, quasi senza muovere le labbra.{/n} "Perdonatemi, {mf|mio signore|mia signora}, non sono ancora riuscito a compiere l'incarico. Non ne ho avuto occasione. Sono stato di sentinella — ordini del comando."
+
+### u031623
+"Chi l'avrebbe mai detto, {mf|mio signore|mia signora}—" {n}Jarub interrompe il suo confuso fiume di scuse e abbassa lo sguardo a terra.{/n} "Avete ragione. Vi ascolto."
+
+### u031624
+{n}Jarub alza lo sguardo su di te con viva curiosità, e anche con una certa diffidenza.{/n} "Mi piacerebbe molto sapere come uno come me possa essere utile {mf|al mio signore|alla mia signora}."
+
+### u031625
+{n}Jarub si guarda intorno prima di rispondere, come per controllare che non ci siano orecchie indiscrete nei paraggi. La sua voce scende quasi a un sussurro:{/n} "Il capitano Isimond Sauerback è l'unico che io conosca. Ho sentito dire che la pistola al plasma gli è stata data personalmente dal {g|Encyclopedia:RogueTraderGlossary}Rogue Trader{/g} per la sua fedele servitù alla dinastia. Come potete immaginare, è un pezzo costoso, con le sue iniziali incise e tutto. Pistole così non sono per gente come me, e nemmeno per i normali tutori dell'ordine. Se avessi ricevuto una ricompensa simile, potete star certo che ne farei buon uso. Potrei persino migliorare la mia sorte."
+
+### u031626
+{n}Lasciando Jarub nell'ombra, ti avvicini alla teca dorata, dove la lama, la Crimson Dance of Khaine, brilla all'interno di un cofano di vetro spesso e trasparente. Una guardia in uniforme con lo stemma dei Drivestem ti accoglie con uno sguardo interrogativo e si fa avanti.{/n} "Salute. Come posso servirvi?"
+
+### u031627
+{n}La guardia si guarda intorno con dubbio, ma lascia comunque il suo posto per timore di cadere in disgrazia presso i superiori. Resti immobile ancora per un po' per vedere se qualcuno si interessa a quello che stai facendo.{/n}
+
+### u031628
+{n}La diffidenza della guardia viene presto sostituita dal sospetto. In pochi istanti, sta chiedendo a Seberian via vox-trasmettitore che cosa fare della tua smodata curiosità. Il Lord Capitano non è incline a tollerare che uno sconosciuto mostri un interesse così vivo per il suo giocattolo preferito. Vengono impartiti ordini, partono spari, e ancora una volta l'oblio ti inghiotte.{/n}
+
+### u031629
+{n}Jarub si attarda con imbarazzo accanto alla teca prima di trovare finalmente il coraggio di interrompere la tua veglia.{/n} "Ehm... Forse è meglio vederci dopo all'infermeria, {mf|mio signore|mia signora}? Al resto posso pensare da solo. Non prendetela a male, ma siete un po' troppo appariscente."
+
+### u031630
+"Non so come lo sappiate, {mf|mio signore|mia signora}, ma vedo che lo sapete per certo." {n}Il sergente annuisce con gravità. {/n} "Cercherò di stargli alla larga d'ora in poi."
+
+### u031631
+"Proprio così." {n}Il meroviano lancia una rapida occhiata al cronometro.{/n} "Tempismo perfetto."
+
+### u031632
+"Non preoccupatevi, {mf|mio signore|mia signora}, ho un piano. Entro e esco in trenta minuti, e poi ci vediamo nel luogo convenuto. Ci sarò, avete la mia parola." {n}Jarub si rianima visibilmente in avida attesa.{/n}
+
+### u031633
+"Vi ascolto." {n}Il sergente si china verso di te con aria cospiratoria.{/n}
+
+### u031634
+"Non preoccupatevi, {mf|mio signore|mia signora}. Conosco il capitano da molto tempo. Potreste infilargli una bomba a melta proprio sotto il naso e non se ne accorgerebbe." {n}Jarub liquida il tuo avvertimento con finta noncuranza.{/n}
+
+### u031635
+{n}Lo sguardo del sergente si vela. Jarub, ora pallido di terrore, indietreggia da te.{/n} "{mf|Mio signore|Mia signora}, io... io stavo solo... scherzando... Ho perso la mano. Non sprecate la vostra ira con uno sciocco come me." {n}È così spaventato che dubiti che oserà parlare ancora di simili cose. La sua fiducia in te è perduta irrimediabilmente... questa volta.{/n}
+
+### u031636
+"I tuoi affari? Non dovrebbero essere gli affari di Elana?"
+
+### u031637
+[Disarmala]
+
+### u031638
+[Spara {mf|per primo|per prima}]
+
+### u031639
+[Uccidi Juvenna] "Le mie scuse."
+
+### u031640
+"Avrei potuto distruggerti, ma la mia offerta di alleanza è ancora valida."
+
+### u031641
+"Ora confesserai tutto."
+
+### u031642
+"Confessa se vuoi restare viva e illesa."
+
+### u031643
+"Lady Navigatrice, che cosa rivela la vostra vista speciale?"
+
+### u031644
+"Interrogatore van Calox, vi farebbe l'onore?"
+
+### u031645
+"Basta."
+
+### u031646
+[Tocca il tuo auricolare vox] "Seguito, da me."
+
+### u031647
+"Ora posso parlare liberamente. Lascia che ti dica questo: non ho idea di chi tu sia, ma hai commesso un errore quando hai tentato di intralciare i miei piani!" {n}Juvenna estrae una pistola ad aghi dalla fondina e te la preme sotto il mento.{/n}
+
+### u031648
+{n}L'ultima cosa che senti è lo scricchiolio disgustoso e umido dell'ago che trapassa le ossa e penetra nel cervello. L'oscurità ti avvolge.{/n}
+
+### u031649
+{n}Torci la mano che stringe l'arma, e il polso di Juvenna si spezza. Lei riesce a sparare un colpo, ma l'ago, sibilando nell'aria, manca il bersaglio. Juvenna si dibatte invano per liberarsi, urlando di dolore e di furia.{/n}
+
+### u031650
+{n}I tuoi riflessi sono più rapidi, e a Juvenna non resta nemmeno il tempo di premere il grilletto. Il tuo colpo le lascia un orribile foro frastagliato nel torso. Dovresti lasciare la scena del crimine il più in fretta possibile: per l'uccisione a sangue freddo di un'ereditiera può esserci una sola punizione: la morte.{/n}
+
+### u031651
+{n}Rendendosi conto di ciò che sta per accadere, Juvenna smette di opporre resistenza e chiude gli occhi. Trascorre i suoi ultimi istanti in preghiera.{/n}
+
+### u031652
+"Neanche per sogno." {n}Il ghigno che sboccia sul suo bel viso ti dice tutto quello che c'è da sapere.{/n} "I miei segreti moriranno con me."
+
+### u031653
+"Come ho detto: sei troppo {mf|codardo|codarda} per farmi del male."
+
+### u031654
+"No! {mf|Fermo|Ferma}!" {n}La resistenza di Juvenna è spezzata. Sopraffatta dal terrore, pende inerte tra le tue braccia.{/n} "Voglio vivere. Ti dirò tutto."
+
+### u031655
+{n}Juvenna lascia sfuggire una risata acuta e rancorosa.{/n} "Minacce vuote! Non hai il coraggio di uccidere la figlia del {g|Encyclopedia:RogueTraderGlossary}Rogue Trader{/g} von Valancius."
+
+### u031656
+{n}Con un accenno di sorriso, Heinrix tende la mano che regge la sua insegna. Una folata di vento gelido sferza l'aria, e un caldo rivolo di sangue sprizza dall'orecchio destro di Juvenna.{/n} "Mia signora, vi suggerisco di mostrare un po' di umiltà e di smettere di ostacolare questa conversazione."
+
+### u031657
+{n}Cassia osserva la prigioniera, con gli occhi accesi da un'inattesa superiorità.{/n} "Un'anima vibrante... Malizia color ruggine, fede dorata e una brama di potere che avvolge tutto in un nobile viola. Questa donna è incredibilmente pericolosa, Lord Capitano." {n}Si fa avanti, toccando la benda sul suo terzo occhio.{/n} "Parlerete con sincerità, come si addice all'erede dei von Valancius, o devo guardare la vostra essenza... più da vicino?"
+
+### u031658
+"Elana è il mio nominativo per le truppe dell'Inquisitore af Irramon. Abbiamo un accordo di lunga data. Mio padre è un eretico, e questo è un fatto. Se non verrà fermato, l'intera nostra stirpe sarà distrutta." {n}Una scintilla di ostinazione si accende nelle iridi zaffiro di Juvenna.{/n} "Ho fatto tutto il possibile per impedire che accada, e con il Dio-Imperatore a testimone, farò altrettanto ancora."
+
+### u031659
+"La compagnia di Ovedius Gaprak è stata distrutta per mio ordine, è vero. La Palatina Lorcanda, informata da me del loro avvicinamento, ha scatenato su di loro tutta la potenza dell'{g|Encyclopedia:AdeptaSororitas}Adepta Sororitas{/g}. Ma Ovedius è sopravvissuto, e questo non faceva parte del mio piano. Camilla Drivestem era ansiosa di aiutarmi e di regolare i conti con un vecchio nemico in un colpo solo. Il capitano Sauerback era abbastanza competente e ambizioso da portare a termine un incarico così delicato."
+
+### u031660
+"Sì, sono stata io a trasmettere le coordinate degli attacchi aerei alle truppe nemiche. Mi avete smascherata. Siete {mf|soddisfatto|soddisfatta}?" {n}Scandisce ogni parola con nettezza.{/n} "Ma sappiate che lo faccio per salvare la dinastia."
+
+### u031661
+"Non sono convinta." {n}Juvenna estrae rapidamente una pistola ad aghi dalla fondina e ti preme la canna sotto il mento.{/n}
+
+### u031662
+{n}I tuoi compagni compaiono quasi all'istante.{/n}
+
+### u031663
+"Ora parliamoci chiaro. Chi siete, e come fate a conoscere così intimamente i miei affari?" {n}Sembra rilassata, ma il suo sguardo è fisso sul tuo volto.{/n}
+
+### u031664
+"Lo stesso di sempre: veglio sulla dinastia. In questo caso, sbarazzandomi di una persona sospetta che ha osato entrare nel palazzo sotto falso nome."
+
+### u031665
+{n}Juvenna prende qualche respiro spezzato, riacquistando il controllo.{/n} "Io... vi credo. La mia vita è nelle vostre mani, ma respiro ancora, ed è una prova convincente. Accetto la vostra offerta."
+
+### u031666
+"Oh, che tentativo ridicolmente maldestro di smascherarmi. In qualsiasi altro momento potrei persino trovarlo divertente. Così stando le cose, la nostra conoscenza dovrà finire qui. Una tragica piega degli eventi, converrete."
+
+### u031667
+"Un membro della Casata Gaprak è stato ucciso insieme ai suoi uomini. È stata opera di... Elana?"
+
+### u031668
+"Quali sono i nostri prossimi passi, Elana?"
+
+### u031669
+"Riguardo agli attacchi aerei..."
+
+### u031670
+"Perché 'Elana'?"
+
+### u031671
+"Qual è ora il bersaglio prioritario?"
+
+### u031672
+[Consegna a Juvenna i codici dei cancelli] "Ecco i codici che cercavi."
+
+### u031673
+"Chi, tra il suo seguito, ascolta Seberian più di tutti gli altri?"
+
+### u031674
+"Suppongo, Elana, che dovremmo tornare dagli altri."
+
+### u031675
+"Di cosa volevate discutere?" {n}Juvenna ti guarda con aria interrogativa da sotto le lunghe ciglia.{/n}
+
+### u031676
+"Ora posso parlare liberamente." {n}Come gettando via una maschera, Juvenna abbandona all'istante la sua recita da "nobildonna annoiata" e prende a osservarti con vivo interesse.{/n} "Bene, dunque. Prima di tutto, dovete ricordare che per l'{g|Encyclopedia:InquisitionGlossary}Inquisizione{/g}, io sono Elana. Ora, anche per voi." {n}Si ferma per un momento, come per valutare se abbiate afferrato ciò che ha detto.{/n} "Non sento obiezioni. È un buon segno. Passiamo alle vostre istruzioni."
+
+### u031677
+{n}Juvenna solleva l'indice della mano dalla manicure impeccabile.{/n} "Uno: mio padre dev'essere costretto a incontrare di persona l'Inquisitore af Irramon. Con il pretesto di assicurare un trattato di pace, per esempio. Solo il seguito di Seberian potrebbe convincerlo a farlo, perciò gli associati di mio padre devono essere leali a noi o morti. Preferibilmente la prima."
+
+### u031678
+{n}Solleva un secondo dito.{/n} "Due: dobbiamo trovare un modo per aggirare Seberian e aprire i cancelli. Il modo più semplice sarebbe con i codici di accesso, ma mio padre non li ha condivisi con me. Senza dubbio perché non sono la sua preferita," {n}aggiunge con un sorriso.{/n}
+
+### u031679
+"L'Inquisitore af Irramon mi ha fornito questo nominativo. Elana l'Incrollabile fu una vera martire, morta rimanendo salda nella sua fede. Insegna che non si deve mai dubitare della Sua luce, nemmeno nell'ora più buia, perché c'è sempre un disastro più terribile, e il Credo Imperiale è l'unica cosa su cui una persona possa contare."
+
+### u031680
+"Per quanto ne so, i cannoni sono puntati sulle coordinate del quartier generale principale."
+
+### u031681
+"Come abbiamo concordato, la postazione meroviana subirà il colpo."
+
+### u031682
+"Il bombardamento è stato sospeso. O avete già dimenticato ciò di cui abbiamo discusso?"
+
+### u031683
+"Lasciatemi pensare... Le parole del {g|Encyclopedia:TechPriest}Tecnoprete{/g} sono di certo qualcosa di più che aria sprecata per Seberian. Exalt-117 sarebbe un prezioso alleato per noi. E i {g|Encyclopedia:MerovPenalLegionGlossary}Meroviani{/g} sono un'altra possibilità: per quanto strano possa sembrare, mio padre tiene ai suoi combattenti e spesso conversa di persona con i loro comandanti. E, naturalmente, c'è Laria." {n}Juvenna fa una smorfia, come se il solo nome della sorella la disgustasse.{/n} "Ma la sua ostinata devozione a mio padre difficilmente verrà scossa."
+
+### u031684
+"E infine: la lama, la Crimson Dance of Khaine, deve essere ottenuta a ogni costo. Finché resta in possesso di Seberian, la nostra proposta di trattare con l'Inquisizione sembrerebbe ridicola. Tuttavia, se mio padre venisse privato di quell'empio artefatto, potremmo riuscire a dimostrare a Diodas af Irramon che Seberian è pronto a collaborare. Vedo una sola soluzione: trovare qualcuno con dita molto agili e un talento per la furtività — qualcuno abbastanza disperato da rivoltarsi contro il proprio padrone decaduto per la grazia del {g|Encyclopedia:EmperorGlossary}Dio-Imperatore{/g}."
+
+### u031685
+"Eccellente!" {n}L'entusiasmo si accende nella voce di Juvenna.{/n} "Mi assicurerò che raggiungano le persone giuste e vengano usati subito."
+
+### u031686
+"Vi ascolto." {n}Juvenna inarca un sopracciglio con aria interrogativa.{/n}
+
+### u031687
+"Sì, suppongo di sì." {n}Juvenna torna al suo tono volutamente formale.{/n} "Ora ricordate: stavate semplicemente accompagnando una nobildonna nella sua passeggiata quotidiana."
+
+### u031688
+"Non vedi che siamo caduti in una trappola xenos? Tutto ciò che ti circonda è solo una replica!"
+
+### u031689
+"Il nome 'Elana' non ti suona familiare?"
+
+### u031690
+"I rinforzi inviati dalla Casata Gaprak sono scomparsi durante l'avvicinamento alla residenza. Sai altro in proposito?"
+
+### u031691
+"Dunque, tuo padre si fida ancora di te? Dai così poco valore alla sua fiducia come ne dai ai legami di sangue?"
+
+### u031692
+"Sarei {mf|lieto|lieta} di venire con voi."
+
+### u031693
+"So che hai tradito Seberian, Juvenna."
+
+### u031694
+"Non ho nulla da obiettare sugli accordi. Procediamo."
+
+### u031695
+"Qui devo prendere congedo."
+
+### u031696
+"Purtroppo devo rifiutare — ho faccende urgenti da sbrigare."
+
+### u031697
+[Mostra l'ordine di conferimento del titolo] "Hai intenzione di riconoscere i meriti di Isimond Sauerback?"
+
+### u031698
+"Non preoccuparti. Sto seguendo il piano. Tutto procede di conseguenza."
+
+### u031699
+"Ti andrebbe di discutere in privato delle gesta di Santa Elana?"
+
+### u031700
+"Continueremo la nostra conversazione più tardi."
+
+### u031701
+"È stato un incidente. Un mio errore."
+
+### u031702
+[Convinci Juvenna a lasciarti unire alla cospirazione]
+
+### u031703
+"A cosa devo la vostra attenzione?" {n}Il tono vellutato con cui Juvenna ti saluta è impeccabilmente cortese, ma freddo. Tutto in lei — la figura, il portamento, persino l'espressione dei suoi occhi azzurri e brillanti — irradia un distacco educato.{/n}
+
+### u031704
+{n}Il disprezzo nei suoi occhi parla più eloquentemente di qualsiasi risposta diretta. Juvenna ti fissa in silenzio, come se fossi {mf|vestito|vestita} con i cenci fetidi di un vagabondo delirante.{/n}
+
+### u031705
+"Non ho idea di chi intendiate. Se cercate un vostro parente tra i combattenti, vi suggerisco di rivolgervi a uno dei comandanti sul campo," {n}risponde l'erede dei von Valancius con una lieve cadenza strascicata, scansando le domande scomode con la stessa impenetrabile cortesia.{/n}
+
+### u031706
+"Gradireste proseguire questa conversazione in modo più personale? Una piccola passeggiata per ammirare il teatro di battaglia non ci farà alcun male." {n}Juvenna ti prende a braccetto, con un sorriso furbo.{/n} "Venite."
+
+### u031707
+"No," {n}dice con un'elegante scrollata di spalle.{/n}
+
+### u031708
+"Spero che lo sia stato, per il vostro bene. Detesterei davvero pentirmi della mia decisione di fidarmi di voi." {n}Con questa replica fredda e secca, Juvenna vi congeda con un grazioso gesto della mano e se ne va.{/n}
+
+### u031709
+{n}Gli zigomi affilati di Juvenna si tendono — mantiene stoicamente l'espressione, ma la mascella si contrae a scatti, tradendo la sua agitazione. All'improvviso, la serenità e la fredda sicurezza svaniscono dal suo sguardo, lasciando il posto a una evidente tensione. Ha avuto a che fare con quello che è successo alle truppe dei Gaprak: questo è chiaro.{/n}
+
+### u031710
+"Allora non abbiamo altro da dirci." {n}Offesa dal tuo rifiuto, Juvenna se ne va.{/n}
+
+### u031711
+"Oh, siamo già in confidenza, ora? Molto audace." {n}Le sue labbra piene si aprono in un ghigno sardonico.{/n} "Sono incuriosita. Ammettiamo che abbiate ragione — e con ciò? È la vostra parola contro la mia, e dubito che Seberian vi crederà."
+
+### u031712
+"Una scelta interessante. Come desiderate." {n}Juvenna ti fissa intensamente, con gli occhi socchiusi.{/n}
+
+### u031713
+"E perché dovrei crederci?" {n}Juvenna ti rivolge un sorriso affascinante, inclinando la testa di lato.{/n}
+
+### u031714
+{n}La voce liscia e melodiosa della nobildonna ti suona familiare. È la stessa voce che hai sentito sulla vox-stazione della Sorella della Battaglia morta che hai scoperto fuori. L'erede dei von Valancius gioca su due tavoli, comunicando con l'Inquisizione con il nominativo "Elana".{/n}
+
+### u031715
+{n}Non è un'esagerazione definire bellissima la dama che hai davanti. Dalla pelle di porcellana sul volto raffinato e angoloso dal naso delicato, ai capelli lisci e scuri in un'intricata acconciatura, tutto in Juvenna ti dice che è la vera erede di una dinastia di Rogue Trader. {nc|La sua somiglianza con il ritratto che hai visto di un giovane Seberian è impressionante.|}{/n}
+
+### u031716
+"Un momento." {n}Juvenna ti fissa intensamente in volto.{/n} "Sì, credo che andrete bene. Ho bisogno di {mf|un degno compagno|una degna compagna} per un'uscita oltre i cancelli: desidero accertarmi delle condizioni dell'altare della mia famiglia. Si trova in un'alcova a nord, non lontano da qui."
+
+### u031717
+"Allora non perdiamo tempo." {n}Con un sorriso incantevole, Juvenna ti prende a braccetto.{/n}
+
+### u031718
+"I vostri compagni possono attendere qui. Purtroppo sono disposta a estendere la mia fiducia solo a voi."
+
+### u031719
+"Per il Trono, che cosa state facendo? Spiegatevi." {n}Le parole di Juvenna risuonano di irritazione.{/n} "Ancora un po' e comincerò a pensare che stiate sabotando deliberatamente il nostro piano."
+
+### u031720
+"È stato un errore fidarsi di te." {n}Juvenna socchiude gli occhi. Estrae una pistola ad aghi dalla fondina e, un secondo dopo, un dolore acuto ti trafigge il corpo.{/n}
+
+### u031721
+"Quindi condividete la mia ammirazione per le gesta di Santa Elana?" {n}Juvenna lascia sfuggire una risata sommessa e incantevole, come sperando che chiunque vi stia attorno scambi la vostra conversazione per un chiacchiericcio.{/n}
+
+### u031722
+{n}Juvenna afferra il foglio e lo scorre con lo sguardo. Il petto le si alza e abbassa bruscamente, e per un momento sembra sul punto di esplodere d'indignazione. Ma si limita a fare un respiro profondo e a strappare il documento in minuscoli pezzi. Poi ti offre un sorriso mielato.{/n} "Non c'è nulla di sospetto nel preparare dei documenti di titolo per un servitore capace. Questo di certo non significa che verranno attuati subito. Ciò che è sospetto è come le mie intenzioni, messe nero su bianco, siano finite nelle vostre mani rapaci."
+
+### u031723
+"Hai avuto la sfacciataggine di mettere agli arresti Camilla Drivestem! È nostra alleata. I suoi anni e la sua posizione le danno il diritto di parlare in modo piuttosto diretto con Seberian. Ci hai privato di un sostegno di cui avevamo un grande bisogno!"
+
+### u031724
+"Ci hai fatto perdere Isimond! Sacra Terra, hai la minima idea di quanto ci sia voluto perché mio padre non solo notasse quell'arrivista di umili natali, ma iniziasse a prenderlo sul serio?"
+
+### u031725
+"Pensi che placare gli spiriti di un intero sistema di difesa aerea, tanto che persino Exalt-117 è convinto della sua efficienza, sia una sciocchezza? Spiegami, allora, perché il {g|Encyclopedia:Magos}Magos{/g} ha ritenuto necessario sottoporlo a un nuovo collaudo."
+
+### u031726
+"Vi andrebbe di discutere di questa questione delicata in un luogo più riservato?"
+
+### u031727
+"Non sono convinta." {n}Ti guarda con indifferenza.{/n} "La vostra proposta non mi interessa."
+
+### u031728
+"Neanche per sogno." {n}Juvenna scuote leggermente la testa.{/n} "Non rivelerò i miei piani a qualcuno che ha rubato il titolo di un morto per poter ficcare il naso nei segreti altrui."
+
+### u031729
+"E io comincio a dubitare che abbiamo davvero un obiettivo in comune."
+
+### u031730
+"La Legge Imperiale è al di sopra di ogni legame di sangue." {n}Alza la mano in un gesto di ammonimento.{/n} "Mio padre ha tradito la fede e si è lasciato prendere dall'eresia."
+
+### u031731
+"Siate estremamente {mf|cauto|cauta}." {n}L'Interrogatore parla vicino al tuo orecchio, quasi senza muovere le labbra.{/n} "Per una persona che combatte una guerra contro l'eresia, questa dama ha mostrato un grado fin troppo alto di flessibilità morale."
+
+### u031732
+"La bellezza ti prepara un letto morbido, ma quando ti sdrai per dormire — bam! Ti svegli senza testa." {n}Una risatina beffarda sfugge a Idira prima che la {g|Encyclopedia:PsykerGlossary}psyker{/g} riesca a premersi entrambe le mani sulla bocca.{/n} "S-s-scusa... Vostra Signoria..."
+
+### u031733
+"Buongiorno a voi." {n}Juvenna china il capo con cortesia.{/n}
+
+### u031734
+"È una questione di estrema delicatezza, ma credo che abbiate il diritto di saperlo, dato che condividiamo lo stesso obiettivo." {n}Vi fissa intensamente.{/n}
+
+### u031735
+"Dai loro coordinate alternative, e ti giuro che nessuno lo scoprirà."
+
+### u031736
+[Vattene senza fare rumore]
+
+### u031737
+"Quindi sei 'Elana'?"
+
+### u031738
+"Il quartier generale del comando è il bersaglio prioritario."
+
+### u031739
+"Che cosa ti ha spinto a cospirare con i tuoi nemici?"
+
+### u031740
+"Non cerco lo scontro con te. Al contrario, ti propongo di unire le forze."
+
+### u031741
+"In nome di Seberian von Valancius, sarai giustiziata per tradimento!"
+
+### u031742
+"Vale la pena distruggere l'avamposto meroviano per negare a Seberian il vantaggio."
+
+### u031743
+"{mf|Lieto|Lieta} di fare la tua conoscenza, Elana."
+
+### u031744
+"Ne ho sentito abbastanza. Hai la mia parola, manterrò il tuo segreto, Juvenna."
+
+### u031745
+"Una conversazione avvincente, vero?"
+
+### u031746
+"Chiedi che l'attacco venga annullato. Non serve più."
+
+### u031747
+"Elana ai servitori del Trono d'Oro. Coordinate per colpire il quartier generale principale: Quattro-Xi, Rho-Sigma..." {n}La donna alta in piedi davanti al vox è completamente assorbita dalla sua trasmissione e non nota la tua presenza.{/n}
+
+### u031748
+{n}L'espressione della nobildonna si fa sofferta, come se avesse il mal di denti.{/n} "Suppongo di sì. Dopotutto, sembra che sappiate quello che state facendo."
+
+### u031750
+"Chiunque voi siate, permettetemi di mettere subito fine ai vostri pensieri calunniosi. Sono Juvenna von Valancius, unica e, naturalmente, legittima erede della mia dinastia. Ricordatelo, e forse il nostro piccolo malinteso potrà ancora trasformarsi in una piacevole conversazione. Dobbiamo essere discreti e non attirare l'attenzione delle guardie. Altrimenti dovremo spiegarci entrambi — ma a differenza di me, voi avrete solo pochi secondi per farlo... prima di essere {mf|fucilato|fucilata} al mio comando."
+
+### u031751
+{n}Juvenna solleva un sopracciglio perfettamente disegnato.{/n} "Ero preparata a tutto, ma—" {n}interrompendosi, incrocia le braccia sul petto.{/n} "Non importa. Indicate la direzione, e darò inizio alla trasmissione."
+
+### u031752
+"Non ha senso nasconderlo ora, suppongo." {n}Juvenna è chiaramente irritata dalla vostra intrusione sfacciata.{/n} "Sì, sono io."
+
+### u031753
+{n}La calma di facciata svanisce all'istante dal volto di Juvenna, e i suoi bei lineamenti si contorcono di rabbia.{/n} "Mio padre è un eretico ottuso e un pazzo che ha attirato l'ira dei Sacri Ordo sull'intera dinastia. Se io, l'unica erede legittima, non rimedio al suo torto, non lo farà nessuno! Ma invece di abbracciare me, sceglie quel parvenu di bassa estrazione di Voigtvir, che asseconda la sua malvagità. Metterò fine a tutto questo."
+
+### u031754
+{n}Un sommesso sbuffo sprezzante ti giunge alle orecchie.{/n} "Quella postazione non vale nemmeno il proiettile che servirebbe a distruggerla, ma se insistete..."
+
+### u031755
+{n}Interrompe subito la trasmissione e si volta verso di te. Con gli occhi che scintillano, Juvenna von Valancius ti rivolge un sorriso luminoso e sanguinario, privo anche solo di un accenno di calore.{/n} "Non posso negare di aver atteso con impazienza questo incontro."
+
+### u031756
+"Il bersaglio originariamente previsto, quindi?" {n}Juvenna schiocca la lingua con sarcasmo.{/n}
+
+### u031757
+{n}Cade a terra morta, con le braccia spalancate. Non emette alcun suono, ma lo sparo riecheggia in tutta la zona.{/n}
+
+### u031758
+{n}Al suono della tua voce, la donna interrompe all'istante la trasmissione vox e si volta di scatto. Pare che tu abbia appena interrotto uno scambio con le forze dell'Inquisizione.{/n}
+
+### u031759
+{n}Si volta di nuovo verso il vox.{/n} "Elana ai servitori del Trono d'Oro: Codice Entr'acte."
+
+### u031760
+{n}La frequenza vox sibila piano negli altoparlanti.{/n} "Elana ai servitori del Trono d'Oro. Ripeto: Quattro-Xi, Rho-Sigma."
+
+### u031761
+{n}Dal vox giungono suoni lontani di bombardamento.{/n} "Elana ai servitori del Trono d'Oro. Bersaglio: Quattro-Xi, Rho-Omicron."
+
+### u031762
+"Un'aspirazione lodevole. È particolarmente curioso che ne venga a conoscenza qui e ora." {n}L'erede dei von Valancius ti guarda con vivo interesse.{/n} "Dovremmo discutere i dettagli."
+
+### u031763
+{n}Qualche secondo dopo, senti i passi pesanti di persone che corrono. Una Laria Voigtvir senza fiato, scortata dai tutori dell'ordine, sale rapidamente lungo il muro.{/n} "In nome del Dio-Imperatore, che cosa succede qui?"
+
+### u031764
+{n}Alla vista del volto del traditore ucciso, Laria impallidisce, stringendo convulsamente i pugni.{/n} "Avete ucciso l'erede di Seberian?" {n}Senza attendere la tua risposta, fa un gesto ai tutori dell'ordine, che si dispongono rapidamente attorno a te, puntando le armi contro di te e il tuo seguito.{/n}
+

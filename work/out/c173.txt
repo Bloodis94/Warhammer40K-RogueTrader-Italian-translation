@@ -1,0 +1,948 @@
+### u058731
+{n}L'uomo guarda Abelard e poi di nuovo voi.{/n} "'Siniscalco'? 'Lord Capitano'? Ho il piacere di parlare con un {g|Encyclopedia:RogueTrader}Rogue Trader{/g}? Permettete che mi presenti: sono l'Interrogatore Heinrix van Calox, dell'illustre Ordo Xenos della Santa Inquisizione {g|Encyclopedia:Emperor}Imperiale{/g}. Devo confessare di essere perplesso nell'incontrare una persona del vostro rango in un luogo come questo."
+
+### u058732
+{n}L'uomo sorride aspro con un angolo della bocca.{/n} "Un {g|Encyclopedia:RogueTrader}Rogue Trader{/g}... Con tutto il rispetto, Vostra Signoria, il mio diritto ai poteri stregoneschi mi è stato conferito da un potere più grande del vostro. Permettete che mi presenti: Interrogatore Heinrix van Calox, dell'illustre Ordo Xenos della Santa Inquisizione Imperiale, membro della cerchia del Lord Inquisitore Supremo e, per grazia di Sua Signoria, {g|Encyclopedia:Psyker}psyker{/g} sanzionato al servizio dell'Imperium. Se questa presentazione vi basta, mi sia concesso di chiedere rispettosamente quale circostanza abbia condotto un Rogue Trader in questo monastero, ora invaso dagli eretici."
+
+### u058733
+"N-non fate l'inquisitore con me! Sono sotto la protezione del Rogue Trader!" {n}Idira vi guarda con aria supplichevole.{/n}
+
+### u058734
+{n}Heinrix strizza gli occhi.{/n} "Il vostro nome mi dice qualcosa... Siete {mf|uno degli eredi|una delle eredi} del Rogue Trader Theodora von Valancius, non è così?"
+
+### u058735
+{n}Heinrix si ritrae e distoglie lo sguardo con evidente sforzo.{/n} "Ammetto che i convenevoli cortesi non sono il mio forte. Cosa vi porta al Sanctum dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}?"
+
+### u058736
+"La notizia è deplorevole... Le mie condoglianze. E presumo che l'erede del sacro Mandato di Commercio e dell'eccelso titolo di {g|Encyclopedia:RogueTrader}Rogue Trader{/g} non sia altri che voi. Bene, dunque... cosa vi ha condotto, esattamente, al Sanctum dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}?"
+
+### u058737
+{n}Heinrix rimugina in silenzio su quanto gli avete detto. Poi emette un "hmm" soddisfatto e dice,{/n} "Allora il tempismo del nostro incontro è propizio. Vi requisisco, voi e il vostro seguito, per il mio incarico."
+
+### u058738
+"Sono venuto su Rykad Minoris per una missione, che una ribellione mi ha impedito di portare a termine. Il governatore è convinto che a istigarla siano stati dei malcontenti tra la plebaglia, ma io ho subito sospettato una presenza più sinistra alla radice dell'ammutinamento. La mia visita al monastero e qualche conversazione senza fretta con alcuni dei ribelli—" {n}Heinrix getta un'occhiata al cadavere ai suoi piedi.{/n} "—hanno confermato i miei sospetti."
+
+### u058739
+"Una certa Aurora guida la ribellione. I dati indicano che il capo dei cultisti si trova qui in questo momento, nel sanctum dell'antico reattore. Data la profezia dell'Alba Finale e gli sforzi particolari dei nemici dell'Umanità per impadronirsi del monastero, il loro scopo è ottenere accesso al circuito di controllo della sacra fonte di energia e innescare un processo che, una volta avviato, non può essere fermato. In altre parole, far detonare il reattore, divenendo così essi stessi la causa della tanto decantata 'alba finale'."
+
+### u058740
+"Forse non mi sono spiegato abbastanza chiaramente..." {n}Heinrix si china un poco in avanti e vi guarda dritto negli occhi.{/n} "In assenza del Lord Inquisitore, sono io a incarnare la volontà dei Sacri Ordo. L'Inquisizione è fermamente decisa a sventare la vile profezia che minaccia la rovina di un intero pianeta. E non lascerò il Sistema Rykad finché una simile minaccia non sarà rimossa."
+
+### u058741
+"Sono certo che non tutti gli Elettropreti tra queste mura siano morti; gli eretici hanno parlato di ombre che emergono dai vicoli laterali per sbrigarsela in fretta con i cultisti che invadevano la loro dimora. Suppongo che l'ingresso del loro nascondiglio si trovi da qualche parte nella sala, vicino a una macchina nota come 'cogitatore circolare'. Immagino sia una delle reliquie sacre locali che gli Elettropreti trattano con particolare devozione."
+
+### u058742
+{n}L'Interrogatore posa ancora per un istante il suo sguardo intenso su Idira, prima di spostarlo su di voi.{/n} "Il vostro seguito, dite? Allora torniamo alla mia domanda precedente. Con chi ho l'onore di parlare?"
+
+### u058743
+{n}L'Interrogatore posa ancora per un istante il suo sguardo intenso su Idira, prima di spostarlo su di voi.{/n} "Temo che prestare attenzione a certe cose sia mio preciso dovere. Ma per ora lasciamo da parte la questione e torniamo al punto. Con chi ho l'onore di parlare?"
+
+### u058744
+{n}L'Interrogatore ridacchia.{/n} "E io vi terrò d'occhio. Ora che abbiamo dichiarato le nostre intenzioni, lasciate che lo chieda di nuovo: chi siete?"
+
+### u058745
+"Requisire!" {n}Abelard resta per un momento senza parole.{/n} "Giovanotto, la vostra scelta di termini è sconveniente fino all'insulto: vi rivolgete a un Rogue Trader!"
+
+### u058746
+{n}Heinrix lancia un'occhiata apprensiva ad Abelard.{/n} "Non credo che sareste più contento se dicessi 'presa in custodia inquisitoriale'."
+
+### u058747
+"Aiutare il Suo fedele servitore nella lotta contro la corruzione è il dovere solenne di tutti coloro le cui azioni riguardano milioni di sudditi dell'Imperium. 'Il tuo esempio guidi coloro che porteranno la luce dell'Imperatore attraverso mille stelle.'"
+
+### u058748
+"Conoscete le opere dell'Inquisitore Alastar il Redentore? Non ogni accolito può dire altrettanto, per non parlare di... persone meno iniziate." {n}Heinrix inarca un sopracciglio, esaminando lo stemma sugli abiti di Cassia.{/n} "Vogliate perdonare la mia mancanza di garbo, Lady Navigatrice Orsellio. È un grande onore."
+
+### u058749
+{n}Mentre Heinrix van Calox parla, noti all'improvviso il modo in cui ti guarda, con gli occhi leggermente socchiusi, come se scrutasse la tua anima... un'anima toccata dal dono della stregoneria. Il cambiamento nella tua espressione non sfugge all'Interrogatore, e vedi l'angolo della sua bocca tremare. Deve aver riconosciuto all'istante un {d|Encyclopedia:CharGen_Psyker}altro psyker{/d}.{/n}
+
+### u058750
+{n}Cerchi di concentrarti sull'uomo che hai davanti, ma non riesci a scacciare l'immagine della {d|Encyclopedia:CharGen_DH_Torture}tortura mortale{/d} che ha inflitto alla sua vittima. Il polso accelera, il sangue ti martella nelle orecchie e il sudore ti imperla la pelle.{/n}
+
+### u058751
+"A cominciare da lei." {n}Heinrix fa un cenno a Kibellah.{/n} "Avete fornito esattamente il tipo di specialista che questa situazione richiede."
+
+### u058752
+{n}Kibellah lo guarda con freddezza.{/n} "Sono l'ombra del Domin'. Se {mf|lui|lei} dice la parola, vi proteggerò. Se {mf|lui|lei} dice la parola, vi porterò dall'Imperituro."
+
+### u058753
+"Sono arrivato qui con una squadra di scorta, per perderla già nel nostro primo scontro aperto; il monastero brulica di eretici. I soldati che avevo requisito al governatore sono caduti in battaglia, sono morti dissanguati o hanno disertato. Ho dovuto accontentarmi di catturare e interrogare con la forza singoli ribelli. È da loro che ho appreso ciò che vi ho riferito poco fa."
+
+### u058754
+{n}Idira si ritrae dall'Interrogatore come se si fosse scottata e comincia a dondolare avanti e indietro.{/n} "O-ombra! Una grande ombra che eclissa il sole e tesse catene! Vedo i fili, miriadi di fili che si tendono verso tutti noi, e tutti strisciano via verso di lui come serpenti, avvolgendoci di veleno. Povera me, sento guai, e sono proprio qui in gola! Prude!" {n}Dalla bocca dello {g|Encyclopedia:Psyker}psyker{/g} esce uno sbuffo di fumo nero che si dissolve subito.{/n}
+
+### u058755
+"Grazie. Purtroppo la gente del governatore si è rivelata impreparata ai pericoli di questo luogo." {n}L'Interrogatore osserva il corpo inerte vestito dei colori dei custodi del governatore e sospira brevemente.{/n} "E estrarre schegge di lama dallo stomaco di una persona è al di là delle mie capacità. Spero che il seguito di un Rogue Trader si dimostri più capace di un gruppo di soldati appena usciti dalla caserma."
+
+### u058756
+"Follia blasfema." {n}La visiera del {g|Encyclopedia:TechPriest}Tecnoprete{/g} lampeggia e diventa di un rosso scarlatto sanguigno. Da sotto la sua tonaca si sente il leggero ronzio di sistemi che si attivano.{/n}
+
+### u058757
+{n}Heinrix scruta Idira con attenzione.{/n} "Una psyker. Interessante. E per di più una divinatrice. Ancora più interessante. Siete sanzionata?"
+
+### u058758
+{n}Lancia un'occhiata disgustata alla {d|Encyclopedia:Ch1_CultistClothes}veste eretica{/d} che indossate e commenta sottovoce,{/n} "Sconsiglierei anche questo tipo di travestimento. Non avete mai sentito il detto 'la maschera diventa il volto'?"
+
+### u058759
+{n}L'Interrogatore getta uno sguardo cupo ai {d|Encyclopedia:Ch1_CultistClothes}stracci da eretici{/d} che indossate e dice, con evidente riluttanza,{/n} "Suppongo che dovrò mettere un travestimento, altrimenti spiccherò come un pugno in un occhio. Per fortuna ho... avevo... un prigioniero."
+
+### u058760
+L'elsa in ossospettro di una spada forgiata dagli armaioli Aeldari. Il pomolo è adornato da un occhio sinistro che puzza di corruzione.
+
+### u058761
+Elsa misteriosa di spada
+
+### u058762
+Un prisma di vetro forgiato dai cultisti dell'Alba Finale. Apparteneva al loro capo, Aurora. Se lo si guarda abbastanza a lungo, la vista inizia a ingannare la mente, mostrando ciò che potrebbe essere invece di ciò che è.
+
+### u058763
+Prisma blasfemo
+
+### u058764
+Aurora
+
+### u058765
+Tecnoprete torturato
+
+### u058766
+Abel
+
+### u058767
+Pilastro elettrico
+
+### u058768
+Elettroprete corrotto
+
+### u058769
+Elettroprete
+
+### u058770
+Elettroprete mummificato
+
+### u058771
+Dahr-Impulse II
+
+### u058772
+Dahr-Impulse VI
+
+### u058773
+[Avvicinati in modo inquietante al cultista] "Sei sicuro di voler ricordare il mio volto? I curiosi come te vivono di rado a lungo. E le loro vite brevi sono spesso molto tristi."
+
+### u058774
+[Sorridi in modo misterioso] "Forse il Maestro ti ha accecato gli occhi davanti alle sciocchezze perché tu possa contemplare ciò che è vero?"
+
+### u058775
+[Lancia uno sguardo minaccioso] "Nemmeno io ti conosco, sai. Cosa sono tutte queste domande? Sei una spia del governatore?"
+
+### u058776
+[Alza le mani con aria imbarazzata] "Sono {mf|nuovo|nuova}. Mi hanno mandato qui a massacrare gli infedeli, e ho appena finito."
+
+### u058777
+[Schiaffeggia l'impudente] "Chi sono io? Sono il Rogue Trader della Casata von Valancius!"
+
+### u058778
+[Fracassa la testa al cultista] "Sei così osservatore. Ecco il tuo premio."
+
+### u058779
+[Improvvisa] "Non mi conosci? Ma la probabilità che tu conosca ogni membro della nostra congrega è statisticamente trascurabile. Se analizziamo e ricaviamo un valore di probabilità oggettivo..."
+
+### u058780
+{n}Un eretico dall'aria torva si avvicina con decisione, sbarrandoti la strada. Mentre studia con sospetto il tuo {d|Encyclopedia:Ch1_CultistClothes}travestimento{/d}, noti che il suo occhio sinistro ha due iridi unite, mentre il destro ne ha quattro.{/n} "Non ti conosco. Chi sei, e perché non ti ho mai incontrato prima?"
+
+### u058781
+"Basta girarci intorno. So riconoscere un lurido cane del governatore quando ne vedo uno, qualunque straccio indossi. Alla battaglia, fratelli e sorelle! Per Aurora e l'Alba Finale!"
+
+### u058782
+{n}Stordita dalla tua risposta, Idira scoppia a ridacchiare, più per la sorpresa che per l'allegria.{/n}
+
+### u058783
+{n}Heinrix lascia sfuggire un sommesso gemito di frustrazione.{/n} "Ci siamo sporcati con questi stracci per niente..."
+
+### u058784
+{n}La tua risposta, intrisa di significato mistico, è evidentemente piaciuta al cultista. Sorride con alterigia e dice,{/n} "Che il nostro Maestro accechi anche te, {mf|fratello|sorella}."
+
+### u058785
+{n}L'eretico continua a fissarti con sospetto.{/n} "Che razza di sciocchezza è questa?"
+
+### u058786
+{n}Il cultista è colto di sorpresa e indietreggia barcollando un poco. Nei suoi occhi mutati balena la paura.{/n} "Ah, all'abisso con te! Vai per la tua strada, {mf|fratello|sorella}."
+
+### u058787
+"Una spia? Io? Tutti mi hanno visto uccidere i falsi credenti. Ma tu dov'eri mentre lo facevo?"
+
+### u058788
+{n}Il cultista sorride con sete di sangue.{/n} "Ah. Sei {mf|nuovo|nuova}. Giusto. Ogni nuovo arrivato deve tagliare la gola a un falso credente per provare la sua lealtà all'Edge of Daybreak. Ti è piaciuto, almeno? Non devi rispondere. Vedo che ti è piaciuto. Avanti, {mf|fratello|sorella}."
+
+### u058789
+"Nuovo? Non ti avevo preso per una recluta sbruffona. Un po' troppo {mf|sicuro|sicura} di te, per come tieni quell'arma."
+
+### u058790
+{n}Il cultista ti fissa incredulo, tenendosi la guancia. Avvilito, lancia ai suoi compagni un'occhiata di traverso con i suoi occhi inquietanti e mormora stordito,{/n} "Uccidete {mf|lui|lei}."
+
+### u058791
+{n}Gli occhi inquietanti del cultista schizzano fuori dalle orbite e cadono a terra con un umido schiocco. Gli eretici fissano in silenzio il compagno caduto, attoniti. Poi si avventano su di te.{/n}
+
+### u058792
+{n}Il cultista strizza gli occhi con diffidenza e porta una mano all'arma.{/n} "C'è qualcosa di strano in te."
+
+### u058793
+{n}Qualcosa, il tuo tono significativo o lo sguardo minaccioso nei tuoi occhi, spinge il cultista a reagire come le {d|Encyclopedia:CharGen_Criminal}centinaia di altre pedine che hai intimidito{/d}. Abbassa la testa e si fa da parte come il codardo che è.{/n}
+
+### u058794
+{n}Gli strani occhi del cultista si velano davanti alla ricchezza di termini chiaramente a lui sconosciuti e {d|Encyclopedia:CharGen_MOT_Mind}incomprensibili{/d}. Ti congeda in fretta con un gesto.{/n} "Sei {mf|un furbo|una furba}, eh... Va', va' a importunare qualcun altro con le tue sadisticherie..."
+
+### u058795
+"Dahr-Impulse VI... È da voi, non è così, che Logis Abel venne a cercare un'interpretazione della sua datatrance?"
+
+### u058796
+"Parlami ancora della tua reliquia."
+
+### u058797
+"Non sei come gli altri membri dell'Adeptus Mechanicus che ho conosciuto."
+
+### u058798
+[Fai il segno dell'Aquila] "L'Imperatore protegge."
+
+### u058799
+"Un altro eretico cieco. Alla battaglia."
+
+### u058800
+"Nel monastero sono {mf|stato attaccato|stata attaccata} da persone che sembravano Elettropreti."
+
+### u058801
+"Voglio raggiungere il sacro reattore."
+
+### u058802
+"Logis Abel è morto."
+
+### u058803
+"I miei tutori dell'ordine e le guardie del governatore possono aiutarvi a riconquistare il monastero."
+
+### u058804
+"Devo proseguire."
+
+### u058805
+"In cosa credete esattamente?"
+
+### u058806
+"Capisco tutto."
+
+### u058807
+"Avete preso la decisione giusta quando avete scelto di evitare il combattimento e salvarvi."
+
+### u058808
+"Un vero uomo di fede non si sarebbe mai nascosto lasciando che il nemico si impadronisse del suo tempio."
+
+### u058809
+[Sbuffa con disprezzo] "Non mi illudevo che da umili preti ci si potesse aspettare qualcosa che somigli a uno spirito combattivo."
+
+### u058810
+"L'ho salvato dagli insorti."
+
+### u058811
+"Io, {mf|il|la} Rogue Trader {name} von Valancius, dichiaro questo monastero sotto la mia protezione."
+
+### u058812
+Hai convinto il Praetor del Cenobio Elettrodinamico a prestare aiuto ai preti.
+
+### u058813
+"È giunto il momento di dimostrare la tua lealtà all'Omnissiah, Praetor. In nome del Dio dell'Umanità, rafforza le mie fila con i fedeli desiderosi di compiere il loro dovere, perché mi aiutino a punire i blasfemi."
+
+### u058814
+"Serviamo lo stesso essere sacro, la stessa rivelazione divina dai molti volti. Ti saluto."
+
+### u058815
+"Perché mi chiami {mf|pellegrino|pellegrina}?"
+
+### u058816
+"Cos'è successo qui e come siete riusciti a sopravvivere?"
+
+### u058817
+"Ho alcune domande su questo luogo e sulle persone che lo abitano."
+
+### u058818
+"Parlami ancora di Logis Abel."
+
+### u058819
+"Che genere di visioni riceveva?"
+
+### u058820
+{n}Un uomo tarchiato e muscoloso, con i colori scarlatti del {g|Encyclopedia:AdeptusMechanicus}Sacerdozio di Marte{/g}, si ferma sul tuo cammino. Le rughe sulle guance e sulla fronte rivelano la sua propensione a frequenti scoppi di collera feroce, ma ora non mostra alcun segno di aggressività. Brillanti motivi blu di tatuaggi elettrici, o elettatuaggi, traspaiono dalla sua pelle dalla strana tinta bluastra.{/n}
+
+### u058821
+"Parla, {mf|pellegrino|pellegrina}."
+
+### u058822
+{n}Pasqal mantiene un solenne silenzio, ma il rapido schiocco dell'artiglio del suo {g|Encyclopedia:Mechadendrite}mecadendrite{/g} tradisce l'eccitazione di trovarsi così vicino alla sacra {g|Encyclopedia:Archeotech}archeotecnologia{/g}.{/n}
+
+### u058823
+"Sarebbe inutile descrivere il Miracoloso Reattore a Fusione. Solo contemplandone la feroce potenza si può comprendere la sua essenza benedetta e temere il potere dell'Omnissiah. Il suo nucleo fu trovato quattromila anni fa e consegnato a Rykad Minoris dal santo guerriero di fede Locke-Impulse I durante una delle sue campagne. La sua sacra scintilla non si è spenta un solo istante, e le mura e le unità energetiche di questo cenobio sono state erette attorno alla reliquia per proteggerla dai profani ignoranti, così come per proteggere loro dal suo formidabile potere."
+
+### u058824
+"Confermato. La presenza di profani nel recinto del monastero senza la benedizione del Praetor Electroid sarà considerata una violazione sacrilega del santo Rito di Operazione."
+
+### u058825
+"Quando gli eretici sono calati a frotte su questo cenobio, abbiamo dato battaglia. Ma i nemici empi hanno sepolto i guerrieri dell'Omnissiah sotto una massa di corpi, spegnendo così le scintille di purezza dei difensori. Fu allora che ordinai ai pochi fratelli sopravvissuti di ritirarsi nelle camere segrete del monastero. Trovato lì rifugio, iniziammo a distruggere gli intrusi blasfemi in modi furtivi. Ahimè, per quanto ardente fosse l'ira dei miei fratelli, non avevo alcun diritto di permettere loro di morire in onesto combattimento, poiché il compito di riprenderci la nostra dimora ci attendeva ancora."
+
+### u058826
+"Fermati, {mf|pellegrino|pellegrina}. Qui non hai nemici, poiché la corruzione dell'eresia non ha toccato la nostra fratellanza."
+
+### u058827
+{n}L'uomo risponde in tono brusco, come impartendo un comando militare:{/n} "L'Omnissiah sa tutto, comprende tutto."
+
+### u058828
+"Spero che l'Omnissiah preservi la vita del Tecno-Fratello Abel, affinché possa continuare a comprendere i misteri che ha attinto."
+
+### u058829
+"Il Sacro Cenobio Elettrodinamico ti accoglie, {mf|pellegrino|pellegrina}. Sono Dahr-Impulse VI, servitore della Forza Motrice e Praetor Electroid di questo sacro monastero."
+
+### u058830
+"Triste notizia, davvero. Il Tecno-Fratello Abel era stato scelto dall'Omnissiah per essere un comprensore di grandi misteri. Possa la Forza Motrice del suo spirito tornare a esistere nella fonte del Miracoloso Reattore a Fusione."
+
+### u058831
+"Non posso permetterlo. Ai profani è vietato visitare il monastero, e solo a pochi eletti è consentito contemplare l'arca e la reliquia al suo interno. Tu e il tuo seguito siete pellegrini di uno status speciale conferito dall'Imperatore. Tuttavia, se un qualsiasi soldato non benedetto dall'Omnissiah varcasse la soglia di questo monastero, lo giudicherei un eretico e lo farei mettere a morte."
+
+### u058832
+"I servitori operosi e gli abitanti di questo cenobio. Elettropreti dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g}. I Corpuscarii ci hanno fatto un grande onore affidando alle nostre cure la sacra reliquia attorno a cui è stato costruito il Sacro Cenobio Elettrodinamico."
+
+### u058833
+"Ci siamo dedicati al culto di quell'aspetto del Dio-Macchina noto come Forza Motrice. È la benedetta scintilla divina che crea impulso nell'universo. L'Omnissiah, nella sua misericordia, ha fatto al mondo il dono della Forza Motrice, e noi ne seguiamo gli impulsi per accrescerla, portarla ai profani e proteggerla da mani empie."
+
+### u058834
+"Grazie, {mf|pellegrino|pellegrina}. Non è stato facile vedere intrusi empi scorrazzare per le camere del mio tempio. Abbiamo tutti invidiato i nostri fratelli caduti prima che quel sacrilegio cominciasse."
+
+### u058835
+{n}Il volto del Praetor Electroid diventa di pietra.{/n} "Il mio corpo trabocca della furia della Forza Motrice che vuole essere scatenata sugli eretici che hanno osato profanare il mio tempio. Ma questo è orgoglio, ed è incompatibile con il mio rango e i miei doveri."
+
+### u058836
+{n}Anche il Praetor Electroid cade in un mesto silenzio.{/n}
+
+### u058837
+"La reliquia che questo monastero custodisce fornisce l'intero pianeta di Rykad Minoris della benedetta Forza Motrice, e noi, indegni come siamo, siamo lieti di servire l'antica macchina che dimora in questo luogo."
+
+### u058838
+"'Le Lacrime dell'Omnissiah' è come chiamiamo questo fenomeno, questo spegnersi della carne indegna. Mentre rifuggiamo i mezzi primitivi dei profani di guardare il mondo, acquisiamo la capacità di percepire la Forza Motrice attorno a noi con tutto il corpo."
+
+### u058839
+"È un errore deplorevole. Non conoscevamo alcun aiuto in arrivo e non ci aspettavamo di incontrare alleati nelle camere del monastero. Ma vedo che siete vivi, e piango le morti insensate dei miei fratelli."
+
+### u058840
+{n}Heinrix apre la bocca per un istante per dire qualcosa, ma cambia idea e si schiarisce piano la gola.{/n}
+
+### u058841
+"L'arca è celata agli occhi dei pellegrini. Ma considerate le circostanze straordinarie della tua visita a questo monastero, ti concedo questo diritto. La sala che conduce all'alto reliquiario è stata sbarrata dal nemico, ma aprirò per te un sentiero segreto. Entra nell'arca e sperimenta la Forza Motrice, {mf|pellegrino|pellegrina}. Pregheremo i sistemi di sicurezza affinché si astengano dal punirti per la tua intrusione."
+
+### u058842
+"Certo, meglio morire a proteggere i loro lumen e le loro bobine che accettare aiuto dagli 'indegni'! E a noi tocca rimediare al disastro, come al solito..."
+
+### u058843
+{n}Una benda stretta copre gli occhi dell'uomo, eppure rivolge il viso dritto verso di te senza esitazione. Ha una voce acuta e stridula, non dissimile dal gracchiare di un uccello:{/n} "Possa la carica della misericordia dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g} persistere nelle mani dei fedeli."
+
+### u058844
+"Solo i profani che desiderano sperimentare la Forza Motrice possono varcare la soglia di questo monastero. Tutti gli altri sono profanatori e criminali. Tu non appartieni alla fratellanza degli Elettropreti, ma le tue intenzioni sono buone. Se non cercavi la saggezza dell'Omnissiah, allora è stata la Forza Motrice stessa a condurti qui per trovarla."
+
+### u058845
+"La sua mente è sempre stata capace di combinare fatti e conclusioni in insiemi armoniosi che erano a dir poco belli. Molti tra il mio gregge trovavano poetici i suoi sermoni."
+
+### u058846
+"La verità è come la luce, e bloccarle il cammino è criminale." {n}Il Praetor Electroid annuisce maestosamente.{/n}
+
+### u058847
+"La nostra fede ci impone un dovere di obbedienza. A ogni Elettroprete vengono dati numerosi elettatuaggi che si combinano in un benedetto circuito voltagheist, permettendo alla carne debole di resistere al potere della Forza Motrice. Per questo la nostra pelle brilla della sua luce, e i nostri occhi bollono e si sciolgono quando veniamo ordinati."
+
+### u058848
+{n}Il Praetor resta in silenzio a lungo. Infine emette un profondo sospiro.{/n} "Grazie, {mf|pellegrino|pellegrina}, per avermi ricordato il nostro dovere verso l'Umanità. Manderò i guerrieri del Cenobio in tuo aiuto, se è questo che i Suoi guerrieri vogliono da me."
+
+### u058849
+{n}Cassia annuisce con aria pensierosa.{/n} "Sì, capisco... La Casata Orsellio segue le stesse regole quando si tratta di estranei."
+
+### u058850
+"Sono lieto di essere il conduttore della verità."
+
+### u058851
+"Devo elogiare l'abilità con cui sono nascoste le vostre camere segrete." {n}Percepisci una punta di orgoglio ferito nelle parole di Heinrix, come se fosse irritato per non essere riuscito a scoprire il rifugio degli Elettropreti.{/n} "Anche la vostra scelta tattica è stata saggia. Non aveva senso perdere altre vite nel massacro compiuto dai cultisti."
+
+### u058852
+"Avete l'onore di ospitare il Rogue Trader della Casata von Valancius. Vi esorto a seguire la dovuta etichetta nel rapportarvi con l'eminente {mf|portatore|portatrice} del sacro Mandato."
+
+### u058853
+"Tra queste mura, i titoli mondani non sono nulla davanti alla Forza Motrice. Le vostre gesta, tuttavia, parlano molto più forte dei titoli, poiché il vostro cammino fin qui è cosparso del sangue dei dissacratori."
+
+### u058854
+"Mi chiedo se avreste pianto con tanta commozione la morte del Lord Capitano, o se simili sentimenti si sarebbero risvegliati solo al suono della nostra nave del vuoto che sferra un attacco punitivo dall'orbita."
+
+### u058855
+{n}L'uomo ti rivolge un profondo inchino, rispettoso delle parole pronunciate da {mf|un|un'}{d|Encyclopedia:CharGen_Ministorum}{mf|ex servitore|ex servitrice} dell'Adeptus Ministorum{/d}.{/n} "Possa la Forza Motrice nei tuoi arti giusti non venir meno mai nel Suo santo servizio. Ti saluto allo stesso modo, {mf|fratello|sorella}."
+
+### u058856
+{n}Il Praetor Electroid guarda Kibellah e fa un dignitoso cenno del capo.{/n} "Avete portato un'assassina. Bene. Troverà molto lavoro qui. Sei pronta per nuove fatiche, benedetta sgozzatrice?"
+
+### u058857
+"Sempre. Può essere altrimenti?"
+
+### u058858
+"Possa la Forza Motrice persistere nelle loro batterie."
+
+### u058859
+{n}L'uomo china il capo.{/n} "La Forza Motrice ti ha {mf|condotto|condotta} qui al momento giusto, {mf|pellegrino|pellegrina}."
+
+### u058860
+{n}Pasqal si inchina umilmente davanti all'uomo. Dal suo {g|Encyclopedia:Vox}vox{/g} esce un trillo di segnali binarici, a cui il Praetor risponde con un solenne gesto di benedizione. Pasqal si volta verso di te e dice,{/n} "Il rango di Praetor Electroid è segno di alta posizione nella fratellanza degli Elettropreti. Essere stati ammessi a un'udienza è un grande onore."
+
+### u058861
+"Sì. Il Tecno-Fratello Abel è arrivato qui per dedicarsi a una meditazione magnetica che lo aiutasse a chiarire le sue visioni. Purtroppo, le macchinazioni degli eretici ci hanno impedito di completare il rito. L'illustre Logis si è offerto volontario per aiutare a difendere il monastero, ma il contatto con lui è stato perso poco dopo."
+
+### u058862
+"Questo luogo santo sarà protetto dalle pratiche sacrileghe. Lo giuro."
+
+### u058863
+"Non ci parlavamo molto. Preferiva dedicare il suo tempo a riflessioni solitarie nella sua cappella. L'Omnissiah ha dato al Tecno-Fratello Abel un dono di grande intuizione, che gli permette di discernere ogni singola sfaccettatura dell'esistenza anziché la visione d'insieme. Questo rende la sua logica diversa da quella delle altre persone."
+
+### u058864
+"Il capo degli eretici si è fatta strada a forza nell'arca dove dimora il Miracoloso Reattore a Fusione. Sta cercando di dissacrare il Rito di Operazione con le sue empie litanie affinché la reliquia venga corrotta e il mondo di Rykad Minoris perisca in una fonte di fuoco. Ma i miei fratelli, nella loro meditazione magnetica, ostacolano i suoi sforzi recitando all'unisono preghiere di richiesta d'accesso, soffocando così i comandi che i blasfemi immettono." {n}Il Praetor Electroid fa un cenno verso i suoi compagni in trance.{/n}
+
+### u058865
+"La rivelazione dell'Omnissiah è stata cifrata con grande meticolosità, il che indica la sua grande importanza. Afferrarla del tutto è al di là delle mie capacità, ma un solo tocco è bastato per farmi comprendere l'enormità del segreto celato al suo interno. O, più esattamente, il Disegno Segreto, come lo chiamava il Tecno-Fratello Abel. La sua mente aveva discernuto nel mondo attorno a lui tracce di un grande silenzio che desiderava comprendere."
+
+### u058866
+[Interrompi la preghiera]
+
+### u058867
+"...i due poli di segno opposto che annunciano il moto della corrente."
+
+### u058868
+"...la Forza Motrice che scorre per vene di rame."
+
+### u058869
+"...l'Omnissiah, da cui sgorga la santa scarica."
+
+### u058870
+"...il benedetto Catodo che richiama l'elettrone senza tempo."
+
+### u058871
+"...il possente Reattore che compie il sacramento della fusione."
+
+### u058872
+"...il Circuito Chiuso, in cui l'inizio e la fine del cammino sono legati in un nodo."
+
+### u058873
+"...la Memoria delle ere che è conservata con somma devozione."
+
+### u058874
+"...l'Anima impeccabile che la corrente lava."
+
+### u058875
+"...il Corpo mortale e i suoi meccanismi."
+
+### u058876
+"...la Ragione immortale che ha creato la scintilla."
+
+### u058877
+"...la benedetta Fede che porta la luce."
+
+### u058878
+"Pasqal, ricordami gentilmente come va questo inno."
+
+### u058879
+"...i resistori splendidi che celano in sé il rito della trasfigurazione."
+
+### u058880
+"...gli interruttori vigili che ci proteggono dal sacrilegio del cortocircuito."
+
+### u058881
+"...i contatti consacrati il cui tocco conduce la corrente."
+
+### u058882
+"...la chiave arcana che chiude il circuito."
+
+### u058883
+{n}Lo schermo verde del cogitatore si illumina mentre ti avvicini e mostra il messaggio lampeggiante,{/n} "{mf|Pellegrino|Pellegrina}, solo le parole del Primo Inno Galvanico ti sveleranno i doni celati dietro il velo della conoscenza. Ora canta con me: 'Intoniamo questo cantico a...'" {n}La tastiera del dispositivo si illumina, in chiara attesa che tu inserisca il resto del verso.{/n}
+
+### u058884
+{n}Il vox di Pasqal emette un rumoroso gemito, come se si schiarisse la gola, ma poi si interrompe bruscamente. Dopo una breve pausa, distoglie lo sguardo e dice con voce rauca,{/n} "Non mi è noto. Solo i servitori di alto rango dei santuari della prosperità energetica possono eseguire il Primo Inno Galvanico."
+
+### u058885
+{n}Abelard sbuffa e si sforza di reprimere un sorriso involontario.{/n} "Che l'Imperatore ci aiuti tutti. L'illustre Magos è stato colto a non sapere una preghiera, e ora annaspa come un cadetto a un esame. Non avrei mai pensato di vivere abbastanza per vederlo."
+
+### u058886
+"Ora completa questa preghiera, {mf|pellegrino|pellegrina}: 'Possa l'unità delle sacre cariche alimentare...'"
+
+### u058887
+"Il secondo verso ti chiama, {mf|pellegrino|pellegrina}: 'Riempiamo le nostre anime di gratitudine verso—'"
+
+### u058888
+{n}Dal cogitatore giunge un solenne trillo binarico.{/n} "In verità! {mf|Un pellegrino|Una pellegrina} che ha appreso le nostre vie è degno dei doni degli illuminati."
+
+### u058889
+"Solo chi ha appreso il sentiero del nostro Cenobio è degno dei suoi doni. Percorri il sentiero degli illuminati, assorbi la loro saggezza millenaria e canta di nuovo con me." {n}Lo schermo si spegne, deluso.{/n}
+
+### u058890
+Hai indossato per curiosità gli abiti degli eretici.
+
+### u058891
+[Ridi] "In realtà sono {mf|curioso|curiosa} di sapere com'è mettersi nei panni di un eretico."
+
+### u058892
+"Qual è l'essenza del vostro piano?"
+
+### u058893
+"Sei sicuro che sia Amarnat?"
+
+### u058894
+[Guarda la sala]
+
+### u058895
+"Dobbiamo salvare l'illustre Tecnoprete senza rischiare la sua vita."
+
+### u058896
+"Allora uccidiamoli tutti."
+
+### u058897
+Hai rifiutato di indossare gli abiti degli eretici.
+
+### u058898
+"Non permetterò alla corruzione di toccarvi. Ci rivestiremo di fede e uccideremo fino all'ultimo traditore del Trono d'Oro."
+
+### u058899
+"State suggerendo di rinunciare alla possibilità di ucciderli tutti con le nostre mani? Scordatevelo. Non mi perdo il divertimento!"
+
+### u058900
+Hai indossato gli abiti degli eretici per salvare il Tecnoprete.
+
+### u058901
+"Se serve a salvare un uomo degno, indosserò le vesti del cultista."
+
+### u058902
+"Come sopporta questa tortura?"
+
+### u058903
+"Ti rendi conto che questo piano suona come un suicidio?"
+
+### u058904
+"Vi disonorereste indossando questi stracci contaminati?"
+
+### u058905
+{n}Una folla di cultisti ha circondato un {g|Encyclopedia:TechPriest}Tecnoprete{/g} crocifisso su un meccanismo. Un sussurro ritmico ripetuto da un centinaio di voci si fonde in un empio incantesimo. Potenti scariche di Forza Motrice attraversano la macchina, facendo sussultare brutalmente in convulsioni il corpo dello sventurato prigioniero e strappandogli dalle labbra grida di dolore strazianti.{/n}
+
+### u058906
+{n}La voce roca del Tecnoprete riecheggia sotto il soffitto:{/n} "Negli artigli serrati della stagnazione — nelle catene dell'Iterazione Zero — sotto l'ala di ferro — sia — il Ciclo — cessato!"
+
+### u058907
+{n}I {g|Encyclopedia:Mechadendrite}mecadendriti{/g} di Pasqal scattano all'istante in modalità di combattimento, e dal suo {g|Encyclopedia:Vox}vox{/g} esce un rantolo furioso,{/n} "Registro una grave violazione del protocollo di purezza! Il benedetto Amarnat è stato catturato dagli eretici e viene torturato!"
+
+### u058908
+"Il sistema di sicurezza che protegge la sala è controllato dall'altare macchina, che deve essere disattivato. Se tutte queste operazioni vengono eseguite, posso garantire che nemmeno un blasfemo sopravvivrà all'ira dell'Omnissiah che si scatenerà su questo luogo."
+
+### u058909
+"Confermato. Non osservo il suo volto, ma riconosco le sue parole. 'Che il Ciclo sia cessato' è il motto del benedetto Amarnat."
+
+### u058910
+{n}Gli eretici hanno preso posizione ovunque, e certamente molti altri si nascondono nei passaggi che portano fuori dalla sala. Per ora sono tutti concentrati sulla sacrilega tortura del Tecnoprete e non vi notano.{/n}
+
+### u058911
+{n}Il mecadendrite indica i cadaveri degli eretici che giacciono lì vicino.{/n} "Possiamo usare gli abiti dei blasfemi come travestimento. Non riconosciuti, possiamo sabotare le unità energetiche, sovraccaricandole e purificando così la sala dagli eretici."
+
+### u058912
+"La mia analisi della situazione indica l'enorme superiorità numerica del nemico. In uno scontro aperto, il benedetto Amarnat potrebbe essere colpito dal fuoco, casualmente o di proposito. Ho una proposta alternativa allo scontro diretto."
+
+### u058913
+{n}Le scariche dei fulmini hanno carbonizzato i cadaveri dei cultisti. Sbuffi di fumo si levano dalle loro orbite vuote, il cui contenuto è evaporato. I loro abiti, coperti del sangue degli innocenti, sono rozzamente dipinti con gli emblemi dell'{g|Encyclopedia:Chaos}Arcinemico{/g}, che emanano un'aria ripugnante di decomposizione dell'anima.{/n}
+
+### u058914
+"Così sia. Possa l'Omnissiah proteggere il benedetto Amarnat nella battaglia imminente. Morte ai blasfemi!"
+
+### u058915
+"Prego che l'Omnissiah dia al benedetto Amarnat abbastanza forza d'animo." {n}Pasqal fa una smorfia mentre un nuovo grido di dolore lacera l'aria.{/n}
+
+### u058916
+"Un devoto dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g} è in grado di sopportare grandi tormenti corporei senza alcuna perdita di funzionalità. Ma dove la carne rinforzata dal sacro ferro persevererà, la purezza dello spirito può perire."
+
+### u058917
+{n}Gli abiti dell'eretico ti si attaccano alla pelle come una sanguisuga avida. Un formicolio e una febbre immonda si diffondono sul tuo corpo, come se quegli stracci avessero assorbito l'immondo contenuto dell'anima di chi li indossava prima.{/n}
+
+### u058918
+{n}Pasqal commenta impassibile,{/n} "L'unica vergogna insopportabile è quella di un dovere non compiuto. Il resto è mero logorio spirituale."
+
+### u058919
+{n}Con un'espressione di disgusto, Kibellah solleva uno degli stracci con la punta della lama.{/n} "Nient'altro che la vostra parola, Domin' {name}, può farmi indossare questa sozzura. Una volta finito, mi raschierò la pelle con una spazzola di metallo e la laverò in liscivia caustica."
+
+### u058920
+{n}Un altro urlo disperato lacera l'aria.{/n}
+
+### u058921
+"Ipotizzo che gli eretici abbiano reso il benedetto Amarnat partecipe di una qualche forma di rito sacrilego. Con una tortura sacrilega, cercano di spezzare la sua volontà e trasformarlo in un empio terminale con cui controllare il sistema del circuito energetico esterno del reattore."
+
+### u058922
+"Pronunciare una Litania di Attuazione per le unità energetiche dal trono di comando del lumenodiacono dirigerà nella sala la Forza Motrice creata dal benedetto reattore. Il {g|Encyclopedia:Servitor}servitore di distribuzione{/g} sta mantenendo la sua emissione entro i parametri impostati, ma una volta ricevuto l'ordine di portarla ai valori di picco, trasformerà questo luogo in una trappola elettrica."
+
+### u058923
+"Rabbrividisco di disgusto al solo pensiero di dover toccare indumenti ornati di simboli empi, per non parlare di indossarli! Questo è il primo passo verso la caduta, un piccolo compromesso col male che condurrà a qualcosa di più grande. Non c'è davvero altra via, Rogue Trader?"
+
+### u058924
+"I segni dell'Arcinemico non sono semplici simboli dipinti, ma conduttori della sua volontà. Le parole delle loro preghiere, anche pronunciate senza fede, i loro stemmi, anche indossati con inganno: tutto questo accresce la presenza dei Poteri Rovinosi vicino a voi e attira su di voi la loro attenzione corruttrice."
+
+### u058925
+{n}Cassia fissa con orrore gli abiti corrotti e le ceneri umane sparse.{/n} "N-non costringetemi..."
+
+### u058926
+"I colori del Tecnoprete sono macchiati di sudiciume. Sono diluiti. Dipinti di marciume... Eppure il suo cuore serba ancora un tizzone di rosso vivo. Questa fiamma morente... può essere riaccesa."
+
+### u058927
+{n}Dal vox di Pasqal sfugge un suono simile a una risata.{/n} "Questa affermazione è vera. Allora cosa proponete? Di fuggire? Ho tentato di impiegare questa strategia comportamentale in passato, e non ha portato sollievo alla mia anima."
+
+### u058928
+"Pasqal? Cos'era quello?"
+
+### u058929
+"Sei un Explorator, non è vero? Cosa ci fai qui?"
+
+### u058930
+"Permesso di trasferire informazioni concesso. Cosa desideri dirmi?"
+
+### u058931
+"Cosa ci fa la Cognisance Fleet nel Sistema Rykad?"
+
+### u058932
+"Mostrami il tuo arsenale. Accetto la transazione commerciale."
+
+### u058933
+"Il governatore sta svolgendo i suoi doveri immediati. Non intendo interferire."
+
+### u058934
+"Sai qualcosa del Tecnoprete Abel Haneumann?"
+
+### u058935
+"Prendo congedo."
+
+### u058936
+"Cosa otterrò in cambio del mio aiuto?"
+
+### u058937
+"Ne parlerò con il governatore."
+
+### u058938
+{n}Il Tecnoprete dolorosamente magro si volta di scatto verso di te. L'improvviso movimento fa tintinnare per un attimo le sue augmetiche cromate. I suoi occhi grigi, incassati sotto le sopracciglia aggrottate, si confondono quasi con il pallore della sua pelle, e ti rivolge uno sguardo pesante e cupo.{/n}
+
+### u058939
+"L'Unità Quartz-Krame richiede il permesso di negoziare accordi commerciali. Siete aperti a una transazione commerciale?"
+
+### u058940
+"Recupero di dati archiviati. Oltre settant'anni terrani fa, il governatore di Rykad Minoris e i rappresentanti autorizzati della Explorator Cognisance Fleet stipularono un accordo. Il suo scopo era il beneficio reciproco tramite la cooperazione. L'Unità Logis Quartz-Krame è l'agente commerciale designato della Flotta. L'unità è responsabile della manutenzione dell'arsenale e dei macchinari da combattimento."
+
+### u058941
+{n}Quando il Tecnoprete nota Pasqal, i suoi occhi si spalancano. La sua unità vox emette subito una sequenza di binarico stridulo, una tirata tortuosamente lunga in cui il volume sale e scende apparentemente a caso. Quando finalmente termina, il servitore dell'Omnissiah china il capo in segno di deferenza.{/n}
+
+### u058942
+"Osservo che le autorità di questo mondo mancano di diligenza nell'adempimento dei loro doveri."
+
+### u058943
+{n}Il Tecnoprete dice, in tono secco e brusco,{/n} "Decisioni avventate e noncuranti da parte del governatore di Rykad Minoris hanno condotto a conseguenze inaccettabili. La comunicazione con il sanctum dell'Adeptus Mechanicus è stata persa. Occorre inviare truppe al Sacro Cenobio Elettrodinamico senza indugio. Ristabilire le comunicazioni con gli Elettropreti e garantire la sicurezza del sanctum sono le nostre priorità assolute."
+
+### u058944
+"La presenza della Cognisance Fleet nel Sistema Rykad è trascurabile. Le sue attività di ricerca nel sistema sono concluse. Viene mantenuta una presenza limitata a fini di supporto logistico. Adempimento dei voti di preservare le creazioni dell'Omnissiah. Supervisione spirituale."
+
+### u058945
+{n}Il prete ti trafigge con il suo sguardo cupo mentre il suo vox-trasmettitore crepita teso. Pochi secondi dopo, annuisce brevemente.{/n} "Risposta accettata. Il futuro del sanctum dell'Adeptus Mechanicus resta minacciato."
+
+### u058946
+"L'Unità Quartz-Krame non ha avuto comunicazioni precedenti con l'Unità Abel Haneumann. Il settore di memoria contiene altri dati correlati a questa richiesta."
+
+### u058947
+"Benedetti i valorosi guerrieri, poiché senza di loro non c'è fine alle tenebre." {n}I servitori dell'Omnissiah si scambiano brevi mantra binarici carichi di intimidatoria solennità.{/n}
+
+### u058948
+"Questa affermazione è vera!" {n}Uniti nelle loro denunce e traboccanti di giusta critica, la coppia in rosso si scambia cenni d'intesa.{/n}
+
+### u058949
+"Identificazione. Unità Logis Quartz-Krame. Rappresentante commerciale ufficiale della Explorator Cognisance Fleet. L'unità supervisiona le rotte di rifornimento nel Sistema Rykad. Garantisce la sicurezza dell'arsenale da combattimento. Effettua transazioni commerciali e assicura contratti reciprocamente vantaggiosi."
+
+### u058950
+"L'Unità Quartz-Krame richiede il permesso di trasferire informazioni. Il Rogue Trader possiede un grado supremo di potere. Il potenziale di influenzare l'attuale dirigenza. La capacità di ripristinare l'ordine nel Sistema Rykad."
+
+### u058951
+"Varie risorse e dispositivi di archiviazione dati di interesse sono stati prelevati dall'esercito permanente di Rykad Minoris a scopo di conservazione. Il centro di comando ospita attualmente un cogitatore usato dall'Unità Abel Haneumann. Appellarsi agli spiriti del cogitatore per ulteriori informazioni."
+
+### u058952
+"L'Unità Quartz-Krame è grata. È altamente probabile che il Rogue Trader influenzi con successo le future azioni delle autorità locali."
+
+### u058953
+"Siete il capo di una dinastia di Rogue Trader. La vostra posizione vi permette di esercitare influenza—" {n}Il Tecnoprete si interrompe per un attimo.{/n} "—e pressione sui sudditi dell'Imperium. L'Unità Quartz-Krame richiede assistenza. Le azioni del Governatore Faisal Rykadi ab Medineh af Koronus devono essere influenzate. Esigete che vengano inviate truppe al santo monastero dell'Adeptus Mechanicus."
+
+### u058954
+"Un reclamo dettagliato. Raccomando di considerare la richiesta di trasferimento di informazioni dell'Unità Quartz-Krame."
+
+### u058955
+{n}Il Tecnoprete vi fissa senza battere ciglio.{/n} "Presa d'atto del fatto che il Rogue Trader non è rimasto in disparte e ha influenzato il futuro del Sacro Cenobio Elettrodinamico. Compresa la possibile salvezza dei santissimi Elettropreti. L'Unità Quartz-Krame non può promettere altro."
+
+### u058956
+[Vai a "Archivio privato di Logis. Risultato della datatrance di Logis Abel"]
+
+### u058957
+[Vai a "Computazione sacra 782-5-M"]
+
+### u058958
+[Vai a "Osservazioni recenti"]
+
+### u058959
+[Vai a "Da indagare"]
+
+### u058960
+{n}Questo cogitatore sembra molto più vecchio e consumato di quelli accanto. Tuttavia, è evidente che è stato ben curato: numerose parti sono state sostituite, non un solo tasto è bloccato, e sigilli freschi con preghiere all'{g|Encyclopedia:Omnissiah}Omnissiah{/g} ne adornano la superficie. Uno dei pannelli laterali è stato rimosso. Fasci di cavi con tacche dorate corrono dall'interno a una piccola cripta dati collegata solo da poco.{/n}
+
+### u058961
+"Conclusione di Logis Abel: l'insurrezione sul pianeta era in preparazione da tempo, con la partecipazione di attori esterni. Si sostiene che due cicli fa 'Aurora' sia arrivata nel Sistema Rykad, la presunta empia profetessa degli insorti. I successivi movimenti di navi possono essere attribuiti a consegne di armi. Ma qual è la natura della loro attività nei pressi di Rykadi Philia? L'attenzione del Governatore Medineh deve essere richiamata su—" {n}L'ultima voce si interrompe bruscamente.{/n}
+
+### u058962
+"Gli spiriti macchina vi sono ostili. Permettetemi di placarli nel modo appropriato." {n}Pasqal si china sul cogitatore e si mette al lavoro.{/n}
+
+### u058963
+"Il satellite Zafireh il Vigile riferisce che una nave alla deriva nelle vicinanze si è allontanata in fretta. La nave aveva inviato una trasmissione vox cifrata alle aree della superficie di Rykad Minoris controllate dagli insorti. Un'altra trasmissione era diretta al planetoide Rykadi Philia. Entrambe le trasmissioni erano firmate 'Fratello Crepuscolo'. Il loro contenuto non ha potuto essere decifrato."
+
+### u058964
+{n}Hai aggirato gli strati di sicurezza. Il cogitatore è pronto a rivelare i suoi segreti.{/n}
+
+### u058965
+{n}Nonostante i tuoi sforzi, gli ostinati spiriti macchina non vogliono rivelare i loro segreti.{/n}
+
+### u058966
+"Per ordine di Logis Abel, sono stati interrogati gli archivi di ogni stazione augur su Rykad Minoris e dei due satelliti principali della stella di Rykad. Detti satelliti si chiamano Magos Ma'rouf e Zafireh il Vigile, dal nome di due grandi campioni della fede, i cui cogitatori esterni furono collocati nei nuclei dei satelliti dopo la morte dei loro involucri. Lo scopo della computazione sacra richiesta dal Logis è scoprire l'influenza esterna dietro l'insurrezione in corso."
+
+### u058967
+"Il satellite Magos Ma'rouf riferisce che una nave ha effettuato una traslazione nel sistema. La sua firma è coerente con i registri dell'ammiraglia di una dinastia di {g|Encyclopedia:RogueTrader}Rogue Trader{/g}, la Casata von Valancius."
+
+### u058968
+{n}Pasqal si china in avanti e fa scorrere le dita sui tasti. Lo schermo del cogitatore lampeggia e risponde con stringhe di caratteri sconosciuti.{/n} "Ho fatto appello allo spirito macchina perché apra anche gli archivi personali di Logis Abel. Ha accettato la mia richiesta."
+
+### u058969
+{n}Sullo schermo si legge:{/n} "In attesa del codice di accesso."
+
+### u058970
+"Risultato della computazione: positivo. Rilevati molteplici casi di interferenza e malfunzionamento, che suggeriscono che le navi in movimento nel sistema abbiano deliberatamente accecato gli occhi dei sacri {g|Encyclopedia:Augur}augur{/g}. Si ritiene che la prima di queste navi sia arrivata due cicli di Rykad Minoris fa, all'inizio dell'inverno. La più recente è arrivata un mese fa."
+
+### u058971
+"Non posso vedere il Disegno Segreto, ma lo percepisco, incatenato nella stasi. Le menti degli iniziati dormono nell'imbracatura neurale dei loro voti. Registro un impulso di cambiamento. Ipotizzo una potenziale influenza sulla stasi del Disegno Segreto. Venne un tempo in cui la spirale fu trasformata in cerchio, ma il ciclo può essere cessato."
+
+### u058972
+{n}La voce contiene coordinate sulla superficie del pianeta contrassegnate come "Forte disturbo della stazione augur pesante. Possibile base insorta nascosta?"{/n}
+
+### u058973
+"Il ciclo può essere cessato... Riconosco le parole." {n}La voce dal {g|Encyclopedia:Vox}vox{/g} è dolce e pensosa, appena udibile sopra il rumore statico.{/n} "Credo di sapere chi fosse il destinatario del messaggio nel Sistema Furibundus. Ero io. Omnissiah, concedimi la saggezza di sondare questo mistero."
+
+### u058974
+"La rivelazione concessa dall'Omnissiah a Logis Abel nel corso della sua datameditazione è stata registrata parola per parola. Logis Abel cerca un'udienza con il venerabile Dahr-Impulse VI, che potrebbe aiutare a interpretare la rivelazione. È stata inviata una richiesta al palazzo del governatore per un volo di navetta fino al Cenobio Elettrodinamico. È stato inoltre inviato un messaggio al Sistema Furibundus."
+
+### u058975
+"L'equipaggio della mia nave ha subito pesanti perdite. Voglio assicurarmi dei rimpiazzi su Rykad Minoris."
+
+### u058976
+"Mi serve equipaggio fresco per sostituire quello ucciso nell'attacco alla nave. E mi serve una compensazione materiale."
+
+### u058977
+"Pasqal, cosa c'è di tanto speciale nel cenobio e nella reliquia? Cosa c'è là dentro che ha attirato l'attenzione di un Interrogatore dell'Inquisizione?"
+
+### u058978
+"Sono {mf|pronto|pronta} per il mio trionfo."
+
+### u058979
+"Non sono ancora {mf|pronto|pronta} per il trionfo. Non ho ancora trovato un Navigatore per la mia nave."
+
+### u058980
+"Ho altri affari in questo sistema."
+
+### u058981
+"Che curioso scambio di convenevoli. C'è qualche genere di discordia tra voi e Abelard?"
+
+### u058982
+"Il convoglio è caduto in un'imboscata ed è stato massacrato. L'unico soldato sopravvissuto si è rivelato un traditore ed è stato giustiziato personalmente da me."
+
+### u058983
+"Il convoglio è caduto in un'imboscata ed è stato massacrato per intero, salvo la miracolosa sopravvivenza di un soldato semplice. Conto su di te per indagare sull'incidente."
+
+### u058984
+"C'è qualcos'altro che posso fare su questo pianeta o in questo sistema mentre attendo la fine della rivolta?"
+
+### u058985
+"Heinrix van Calox, Interrogatore della Santissima Inquisizione, opera nel vostro sistema. Sapete dove si trova?"
+
+### u058986
+"Siete così sicuro che schiaccerete presto l'insurrezione? La mia impressione è stata esattamente l'opposto."
+
+### u058987
+"È tutto ciò di cui volevo discutere."
+
+### u058988
+"La nostra nave è stata attaccata, Theodora è stata uccisa e ho reclamato la mia eredità. È tutto ciò che c'è da sapere."
+
+### u058989
+"Il convoglio è caduto in un'imboscata. Non ci sono stati sopravvissuti a parte il soldato semplice Camille Regias. Devo elogiare la sua straordinaria lealtà e resilienza."
+
+### u058990
+"Decine di persone impazzite con gli occhi bruciati si aggirano per la città."
+
+### u058991
+"Gli insorti parlano di una 'Alba Finale': l'imminente fine del mondo."
+
+### u058992
+"Dovrei essere io a farvi questa domanda. La nostra nave è stata attaccata dagli eretici. Hanno ucciso Lady Theodora!"
+
+### u058993
+"Voglio saperne di più sul monastero."
+
+### u058994
+"Gli insorti usano artefatti dell'Arcinemico, lenti incantate, per compiere empie stregonerie."
+
+### u058995
+"Voglio discutere dell'insurrezione sul pianeta."
+
+### u058996
+"Il mio parente Kunrad Voigtvir von Valancius ha tradito la nostra dinastia e l'Imperium. Se si nasconde in questo sistema, voglio che mi venga consegnato."
+
+### u058997
+"Dovreste uscire più spesso dal vostro bunker, Governatore Medineh. Sono {mf|arrivato|arrivata} in questo sistema da poco e so già molto più di voi sulla rivolta."
+
+### u058998
+"Vedo che non è in mio potere convincervi. Cambiamo argomento."
+
+### u058999
+"Perché è volato al monastero? Sembra sospetto."
+
+### u059000
+"Idira, sei ferita?"
+
+### u059001
+"Dove posso trovare più informazioni su questo individuo?"
+
+### u059002
+"Un'altra profezia?"
+
+### u059003
+"Non fateci caso, Governatore. È un po' fuori di testa."
+
+### u059004
+"L'insurrezione è guidata da una certa Aurora, una profetessa che, secondo i suoi seguaci, possiede poteri mistici."
+
+### u059005
+"Il Tecnoprete Quartz-Krame sostiene che non state facendo abbastanza per garantire la sicurezza del monastero dell'Adeptus Mechanicus."
+
+### u059006
+"Il mio ragionamento? Bisognerebbe essere ciechi per non vedere tutti i segni dell'attività dei cultisti! Avete mai dovuto affrontare una simile minaccia prima d'ora, Governatore Medineh? Come soldato dell'Astra Militarum, io sì, quindi non fatemi perdere tempo con richieste di dimostrare l'ovvio, perché parlo per esperienza!"
+
+### u059007
+"Gli insorti sono riusciti a rubare un vox-trasmettitore. Hanno ascoltato le comunicazioni della vostra gente."
+
+### u059008
+"Avete scelto un momento interessante per litigare con un servitore dell'Omnissiah, Governatore."
+
+### u059009
+"Questo Magos fa parte del mio seguito. Non avete alcun diritto di dargli ordini."
+
+### u059010
+"Forse l'illustre governatore ha ragione."
+
+### u059011
+[Lascia che Pasqal risolva da sé i propri problemi]
+
+### u059012
+"Perché siete così determinato a raggiungere il monastero? È solo per via della reliquia?"
+
+### u059013
+"Sarà un piacere aiutare il servitore dell'Omnissiah a raggiungere il sanctum."
+
+### u059014
+"Strega, vi asterrete dalla vostra stregoneria davanti al governatore!"
+
+### u059015
+"I rivoltosi sono troppo ben organizzati, troppo ben informati, troppo ben armati. Ci sono segni di indottrinamento a credenze eretiche: sono chiaramente diretti da qualcuno di competente e carismatico. Governatore, avete a che fare con un culto dell'Arcinemico che cresce a un ritmo allarmante."
+
+### u059016
+"Il mio illustre predecessore è morto per mano dei cultisti, che l'Imperatore incenerisca le loro anime."
+
+### u059017
+"Questo mondo appartiene a Winterscale. L'Adeptus Arbites ha davvero l'autorità di interferire nel governo di governatori nominati da un Rogue Trader?"
+
+### u059018
+"Non penserei mai di oppormi a un servitore della Lex."
+
+### u059019
+"Non provate nemmeno a coinvolgermi in questo, Medineh."
+
+### u059020
+[Alza le spalle] "Suppongo che non ci sia altro da fare."
+
+### u059021
+"Qual è il vostro piano, Proctor?"
+
+### u059022
+"Quindi vi limiterete a restare a guardare in questo bunker..."
+
+### u059023
+"Proctor, credete anche voi che questa ribellione sia stata orchestrata da nient'altro che una manciata di pazzi di umili natali?"
+
+### u059024
+Hai sottolineato a Solomorne, su Rykad Minoris, che le vittime civili sono inaccettabili.
+
+### u059025
+"Uccidere degli innocenti è inaccettabile, anche per salvare un mondo."
+
+### u059026
+Hai sostenuto il piano di Solomorne per riprendere il controllo di Rykad Minoris.
+
+### u059027
+"Un piano solido, Proctor. Solo misure dure possono ripristinare l'ordine."
+
+### u059028
+"Vi auguro buona fortuna nelle vostre indagini, Proctor."
+
+### u059029
+"Voglio elogiare il coraggio di uno dei vostri ufficiali, il Sergente Malgar. Lui e i suoi soldati difendono valorosamente lo spazioporto."
+
+### u059030
+"Vi prego di non farle caso, Proctor. Ha... degli episodi, a volte."
+
+### u059031
+"Come osate esercitare la vostra stregoneria davanti al Proctor, strega!"
+
+### u059032
+"Perché pensate che i ribelli si nascondano tra i civili? Potrebbero avere rifugi altrove."
+
+### u059033
+[Abbassa la voce] "Governatore, non avete rubato voi la nave della decima, vero?"
+
+### u059034
+Hai consigliato a Solomorne di distruggere altra parte della popolazione di Rykad Minoris per instillare terrore e obbedienza tra i sopravvissuti.
+
+### u059035
+"Raccomando di non tenere conto delle vittime civili. Queste persone hanno bisogno di una buona lezione di dolore e paura."
+
+### u059036
+"La batteria antiaerea che vi dava tanti problemi è stata distrutta."
+
+### u059037
+"Cosa vi ha lasciato perplesso del nome del mio compagno?"
+
+### u059038
+"Perché non bombardare il monastero, se è lì che si sono radunati gli insorti? O inviare una forza da sbarco?"
+
+### u059039
+"Cosa sapete di questo Abel, Governatore?"
+
+### u059040
+"Mi rendo conto che anche voi siete in una situazione difficile, ma il mio equipaggio ha subito gravi perdite. Devo sostituire i membri mancanti."
+
+### u059041
+{n}L'uomo alto e dalla pelle scura si volta verso di voi e vi saluta con un secco gesto militare:{/n} "Faisal Rykadi ab Medineh af Koronus, governatore di questo sistema stellare. Benvenuti nel mio quartier generale temporaneo."
+
+### u059042
+{n}Idira si irrigidisce e ascolta, poi si volta bruscamente verso Pasqal.{/n} "Sento i sussurri sarcastici dei miei amici attraverso la porta. Fai attenzione nella tua ricerca, Magos. Se fissi troppo a lungo uno specchio in frantumi, potresti vederti in esso, in ogni frammento contemporaneamente. Ripararlo è allora un affare ancora più contaminato: il nuovo riflesso è simile alla morte."
+
+### u059043
+"Vorrei anche salutare {mf|il salvatore|la salvatrice} di Rykad Minoris e ho già dato l'ordine di organizzare una celebrazione in vostro onore. Segneremo la vostra vittoria con un'antica usanza: il trionfo. Percorrerete le strade della città {mf|accompagnato|accompagnata} da una guardia d'onore, come si addice a {mf|un eroe|un'eroina} che ha sconfitto i nemici dell'{g|Encyclopedia:Imperium}Imperium{/g}, mentre i vostri trofei saranno esposti alla folla giubilante. Fatemi sapere quando avrete concluso i vostri affari in questo sistema e sarete {mf|pronto|pronta} per l'inizio del trionfo!" {n}Il Governatore Medineh è letteralmente infiammato dall'entusiasmo.{/n}
+
+### u059044
+{n}Abelard annuisce seccamente.{/n} "Governatore Medineh. I miei saluti."
+
+### u059045
+{n}Lo sguardo dell'uomo cade su Abelard. I suoi occhi si socchiudono leggermente.{/n} "Werserian."
+
+### u059046
+"Non vedo il convoglio che avevo inviato a incontrarvi. Cos'è successo? Non sono riusciti a trovarvi e a scortarvi? Se è così, vi prometto che la loro punizione sarà rapida e severa."
+

@@ -1,0 +1,945 @@
+### u064818
+"Suona maestoso e onora le tradizioni della tua dinastia. Mi piace."
+
+### u064819
+{n}Jae ride e annuisce.{/n} "Spero che il nostro Primo Timoniere non la prenda male."
+
+### u064820
+"Eccellente. Un animale fiero merita un nome fiero! Chi se ne intende sentirà il nome e proverà un rispetto ancora maggiore per {mf|colui|colei} che ha messo il guinzaglio a questa forza della natura."
+
+### u064821
+"È un'allieva veloce." {n}Jae si fa improvvisamente guardinga.{/n} "Le ho già insegnato un comando: 'Non mangiare.'"
+
+### u064822
+"Ammaricar... è una specie di festa?"
+
+### u064823
+"Che genere di gente ci sarà a questa festa? Contrabbandieri e ladri?"
+
+### u064824
+"Sarà un piacere partecipare alla tua festa."
+
+### u064825
+"Partecipare a simili raduni è al di sotto di me."
+
+### u064826
+"Shereen, se trovi un minuto libero a Footfall quando non sei {mf|impegnato|impegnata} a decidere i nostri insulsi destini, sarei lieta di vederti al mio ammaricar all'Amasecus. Dirò a Octy di mettere da parte del vino decente, nel caso tu decida di onorare la nostra umile festa con la tua luminosa presenza."
+
+### u064827
+"È una ricorrenza celebrata sul mio mondo, Efreet. È il giorno in cui una persona dimostra con le proprie azioni di aver raggiunto la maturità, di avere uno spirito nobilitato. Tra la nobiltà efreetiana questo giorno è considerato più importante di altri eventi simbolici, come il primo vagito o il giorno del riposo. E per una meravigliosa coincidenza, il mio ammaricar cade proprio nel giorno in cui desidero festeggiare anche l'acquisizione del Mercatum Tabula Officiale."
+
+### u064828
+"Sono invitati solo i miei più cari — persone il cui volto fa cantare il mio cuore, brillare i miei occhi e fiorire sulle mie labbra le lodi dell'Eccelso. Questo non significa che tra loro non troverai ladri o contrabbandieri. Anzi, sono la maggioranza."
+
+### u064829
+"I miseri habitué dell'Amasecus racconteranno ai loro pronipoti di quando ebbero l'onore di assistere alla tua abbagliante visita in quella indegna bettola, shereen. Sempre che vivano abbastanza a lungo da vedere i loro pronipoti, si capisce."
+
+### u064830
+"Sono d'accordo con ogni parola, shereen. Ma chi oserebbe mettere in dubbio la decisione del Rogue Trader di partecipare a una festicciola? Dopotutto, non è stato l'Eccelso in persona a concedere al Rogue Trader una frazione della Sua stessa abbagliante gloria? Prego che Egli mandi al tuo cuore l'impulso di ripensarci."
+
+### u064831
+"Ecco la Jae che ricordo, quella che si unì per la prima volta al mio seguito."
+
+### u064832
+[Osserva i presenti]
+
+### u064833
+"Sono {mf|venuto|venuta} a informarvi tutti su come farete affari d'ora in poi. Vi consiglio di ascoltare bene."
+
+### u064834
+"I migliori furfanti della Distesa sono già qui, vedo."
+
+### u064835
+"Salute a voi, mercanti del Commercio Freddo."
+
+### u064836
+[Fai un cenno a Jae]
+
+### u064837
+"Vi sconsiglio di entrare in conflitto con un Rogue Trader. Le conseguenze per voi saranno molto spiacevoli."
+
+### u064838
+[Alza le mani al cielo]
+
+### u064839
+[Estrai l'arma] "Questa conversazione procederà molto più in fretta se libereremo un posto al tavolo."
+
+### u064840
+[Abbassa la voce] "Jae, se vuoi ottenere ciò che ti spetta di diritto, è il momento di mostrare i denti."
+
+### u064841
+"Sei molto silenzioso, Vladaym."
+
+### u064842
+"Avresti potuto avvertirmi."
+
+### u064843
+"Ora?"
+
+### u064844
+"Hai afferrato il messaggio, Mercy? O hai ancora delle obiezioni?"
+
+### u064845
+[Lascia a Mercy una ferita sanguinante] "Un ricordino per te."
+
+### u064846
+[Uccidi Mercy] "Sarebbe un errore lasciarti vivere."
+
+### u064847
+"Quel borioso bastardo finalmente si zittisce. Perché tutti hanno tanta paura di te? Io non lo capisco."
+
+### u064848
+"Jae, questo deve morire. Pensaci tu."
+
+### u064849
+"Vivi. Ma non farti mai più vedere da me."
+
+### u064850
+"Forse uno dei mercanti anziani vuole dire la sua? O è lui l'unico a cui è concesso parlare, qui?"
+
+### u064851
+"È inutile. Ce ne andiamo."
+
+### u064852
+[Colpisci Mercy] "Sparisci dalla vita di Jae."
+
+### u064853
+"Credo proprio che possiamo considerare chiusa questa riunione."
+
+### u064854
+[Colpiscilo di nuovo] "Non ho sentito la tua risposta. Sparisci dalla vita di Jae."
+
+### u064855
+"Continui a vedere Jae come la ragazzina che aveva bisogno della tua protezione. Dimentica quella ragazzina, ora è un'altra persona."
+
+### u064856
+"Sono {mf|certo|certa} che la gestione dei beni di Falco da parte di Jae sarà più redditizia per i Kasballica."
+
+### u064857
+"Jae, magari hai un argomento a sostegno della tua richiesta?"
+
+### u064858
+"Forse dovresti ascoltare il circolo, Jae."
+
+### u064859
+[Rivolgi a Jae un sorriso d'incoraggiamento] "Non lascerai che ti spennino, vero? Hai un piano di riserva?"
+
+### u064860
+"Octaviana, è il momento di ricordare l'affetto che nutri per Jae, sempre che tu ne abbia davvero."
+
+### u064861
+[Bacia Jae]
+
+### u064862
+"Non credo che..."
+
+### u064863
+{n}Volti tesi si voltano verso di te, volti di gente dura, dal pugno duro e dal cuore duro. I mercanti del Commercio Freddo mantengono un silenzio deferente, rotto soltanto dal sibilo della sigaretta di lho fumata con gusto da un uomo dai capelli scuri e dall'aria aristocratica, avvolto in un sontuoso cappotto.{/n}
+
+### u064864
+{n}Octaviana, seduta accanto all'uomo dall'aspetto regale, dichiara a voce bassa ma con tono imperioso:{/n} "I posti sono stati reclamati. Ora discutiamo del Commercio." {n}Le sue parole risuonano gravi, come l'inizio di una litania rituale.{/n}
+
+### u064865
+{n}Vladaym, lanciando un'occhiata di traverso allo sconosciuto dall'aspetto regale, con l'intonazione secca e solenne di un sacerdote dichiara,{/n} "I posti sono stati reclamati. Ora discutiamo del Commercio."
+
+### u064866
+{n}Jae, il volto irrigidito in una maschera di battaglia, fulmina con lo sguardo lo sconosciuto dai capelli scuri, che risponde con un sottile sorriso di condiscendenza.{/n}
+
+### u064867
+"Il circolo ascolterà Jae Amira Fathreen Tameri ash Efreet." {n}Mercy pronuncia tutti i nomi della tua compagna con studiata meticolosità, senza mai staccare da lei i suoi occhi ridenti.{/n}
+
+### u064868
+"Rivendico gli affari di Falco. Il suo territorio e la sua ciurma. Lui ha tentato di prendere i miei e ha perso, quindi ora prenderò i suoi. E voglio che il circolo approvi la mia rivendicazione." {n}Jae continua la sfida di sguardi con Mercy, puntando ogni parola contro di lui come un proiettile in mezzo agli occhi.{/n}
+
+### u064869
+"È così?" {n}Con la fronte aggrottata, Mercy scambia un'occhiata con gli altri mercanti del Commercio Freddo. Come se leggesse una risposta nei loro occhi vitrei, scuote la testa.{/n} "Può il circolo acconsentire? Dopotutto, la condanna di Falco non è stata pronunciata da noi, ma da te soltanto. Significa che ora parli a nome nostro e al posto nostro? Una proposta pericolosa."
+
+### u064870
+{n}I venditori ambulanti del Commercio Freddo siedono in un silenzio mansueto. Quando lo sguardo dell'uomo dai capelli scuri cade distrattamente su di loro, abbassano ancora di più la testa. Jae, con il mento alto, sembra l'unica smentita della schiacciante superiorità di quell'uomo, ma la sua espressione tesa rende chiaro che nemmeno lei è indifferente alla sua presenza.{/n}
+
+### u064871
+"Ma quale vox raccoglierà la tua voce nel vuoto? Quali amici ripeteranno le parole di Jae Heydari pronunciate qui? Il Rogue Trader? No — quali amici nell'organizzazione? Non ne hai... anche se un tempo ne avevi." {n}Lo sguardo di Mercy su Jae è paternalista e stranamente compassionevole.{/n}
+
+### u064872
+{n}Mercy si contrae per il dolore alle tue parole, il volto non più protetto dalla fastosa armatura della sua sicurezza. Dopo aver lanciato un'occhiata stanca a Jae e aver ricevuto da lei un cenno affermativo, sospira pesantemente:{/n} "È vero. Ora è un'altra persona."
+
+### u064873
+"E salute anche a voi, Vostra Signoria. Siamo lieti di accogliere un ospite del vostro rango... anche se non invitato e così scortese. Ma d'altronde, chi non ricorda mai un'offesa non si addossa mai il fardello della vendetta." {n}L'uomo dai capelli scuri ti sorride con fredda cortesia e, così pare, perfino con un pizzico di sufficienza.{/n}
+
+### u064874
+{n}L'uomo dai capelli scuri risponde con un sorriso sereno.{/n} "Siete {mf|stato male informato|stata male informata}, Vostra Signoria — siete {mf|venuto|venuta} qui come ospite d'onore, e che il giubilo riempia i nostri cuori nel vedere un personaggio tanto illustre onorarci della sua considerazione."
+
+### u064875
+"Salute al benedetto Rogue Trader. La natura della nostra professione ci obbliga, noi mercanti itineranti, a essere ospiti accoglienti." {n}Il sorriso carismatico trasuda deferente amicizia.{/n}
+
+### u064876
+"Vox quieto a tutti voi, chegnar. Il Rogue Trader {name} von Valancius è {mf|venuto|venuta} al nostro incontro per assicurarsi che i suoi interessi non vengano danneggiati."
+
+### u064877
+"Sarebbe sciocco lasciarsi sfuggire la montagna di denaro che deriverebbe dall'amicizia con la dinastia von Valancius." {n}Le educate parole di Jae non bastano a nascondere la minaccia precedente, e pare che non fossero pensate per farlo.{/n}
+
+### u064878
+{n}Ora i mercanti del Commercio Freddo guardano te e soltanto te. Sembra che abbiano più paura di te che di Mercy.{/n}
+
+### u064879
+{n}I mercanti del Commercio Freddo mantengono la loro fredda compostezza. Non è certo la prima volta che questi criminali incalliti vengono minacciati.{/n}
+
+### u064880
+{n}La risata di Mercy, vellutata e seducente, fa corrugare la fronte di Jae per il tormento.{/n} "Hai ascoltato bene, shereen. Ti sei trovata accusata, e così hai scagliato a tua volta un'accusa — una mossa logica."
+
+### u064881
+"Mi rallegra vedere le perle di saggezza che ho seminato crescere in alberi di sagge decisioni. Shereen, mi aspetto che tu sia pronta a presentarti davanti a me in qualsiasi momento per ricevere istruzioni. Porgo il mio ringraziamento particolare al Rogue Trader — non capita tutti i giorni che l'Imperatore conceda l'occasione di osservare {mf|un vero saggio padrone|una vera saggia padrona} di destini, che sa che il culmine di tutte le grazie dell'Umanità è fare amici, non fare nemici."
+
+### u064882
+"Come dici tu... shereen." {n}Jae ti guarda di sbieco, gli occhi gelidi di dolore. Sbatte le palpebre e le lacrime lavano via la tristezza dal suo sguardo. I suoi occhi sono di nuovo colmi di educata cortesia... come una bella conchiglia che contiene un mollusco morto e marcio.{/n}
+
+### u064883
+{n}Jae risponde con un sorriso fragile.{/n} "La facilità con cui mi leggi nel cuore mi spaventa, shereen."
+
+### u064884
+{n}Il fragore di porte sfondate a calci e le urla riempiono la stanza. L'aspro odore di fyceline bruciata pervade l'aria. I mercanti del Commercio Freddo si bloccano, con tutta l'attenzione rivolta alle canne puntate contro di loro.{/n}
+
+### u064885
+"Solo canzoni brevi e sanguinose nascono al suono degli spari. Credete di poter costringere..." {n}Il sibilo del proiettile che sfiora l'orecchio di Mercy gli fa ingoiare il resto del suo fiorito discorso.{/n}
+
+### u064886
+{n}Gli occhiali che luccicano, il Liege ribatte seccamente,{/n} "Apprezzo i talenti della Signora Heydari e l'interesse di Vostra Signoria per il suo destino. Ma noi non siamo una banda di pirati, bensì un'organizzazione con delle regole, e quelle regole le rispettiamo."
+
+### u064887
+"Adesso."
+
+### u064888
+{n}Le labbra di Jae bruciano contro le tue e lasciano il sapore di vino aspro bilanciato da una dolcezza di miele. Ti bacia con la disperazione di una donna che ha trovato un sorso d'acqua un attimo prima di morire di sete.{/n}
+
+### u064889
+{n}Senza ascoltare, Jae ti fa cenno di avvicinarti con un gesto delicato che non ammette repliche.{/n}
+
+### u064890
+{n}Stringendo una nuova sigaretta di lho tra i denti bianchissimi, Mercy risponde con freddezza,{/n} "Non sono un idiota. Non intendo discutere con un Rogue Trader e una pistola automatica carica."
+
+### u064891
+{n}Nonostante lo strano sangue freddo di Mercy, ti è chiaro che questo è un uomo non abituato a sopportare simili umiliazioni, e altrettanto poco abituato a perdonare chi gli ha fatto un torto.{/n}
+
+### u064892
+{n}Una strana calma scende su Mercy. Di fronte a fatti che non può cambiare, sembra aver semplicemente deciso di non tormentarsi con alcun sentimento al riguardo.{/n}
+
+### u064893
+{n}Il sangue cola sul volto del mercante del Commercio Freddo. Di sicuro lascerà una cicatrice orribile. Stringendo i denti, Mercy sibila:{/n} "Ricorderò questo incontro, Vostra Signoria. Ve lo prometto."
+
+### u064894
+"È vero." {n}Le ultime parole di Mercy volano dalle sue labbra, contorte in un ghigno insolente. Il lustro della sua altera boria aristocratica resta intatto fino all'ultimo, fino a quando si schianta senza vita sul pavimento.{/n}
+
+### u064895
+{n}Fissando tristemente il corpo, Jae dice,{/n} "Grazie, Eust. E addio."
+
+### u064896
+"Conosco bene questa danza della vittoria. Nelle questioni di cuore, sconfiggere l'avversario non basta — bisogna umiliarlo davanti alla sua amata. Jae, sei adeguatamente colpita? Abbastanza da alimentare le passioni di stanotte?"
+
+### u064897
+{n}Dopo alcuni istanti di silenzio, Jae scuote la testa con aria cupa.{/n} "Mi ha dato così tanto. Mi ha addestrata, si è preso cura di me, è stato perfino gentile con me. Sarei la peggior specie di canaglia se lo ripagassi con una pallottola nel cuore. Tu stammi lontano, Mercy. Non voglio ucciderti."
+
+### u064898
+"E lunga vita anche a voi, Vostra Signoria."
+
+### u064899
+{n}Mercy rivolge uno sguardo cordiale ai mercanti del Commercio Freddo.{/n} "Io sono la persona di grado più elevato qui, Vostra Signoria. Non l'avete spiegato alla vostra compagna... a Jae?" {n}Il nome di battesimo della contrabbandiera scivola dalla lingua di Mercy con disinvolta familiarità.{/n} "E se ci tenete tanto a mostrare rispetto per l'anzianità, vi consolerà sapere che io ricopro il mio ruolo da molto più tempo di quanto voi ricopriate il vostro."
+
+### u064900
+"Voi potete anche andarvene, Vostra Signoria, ma la Signora Heydari resterà qui fino alla conclusione della riunione del circolo."
+
+### u064901
+{n}L'espressione immutata, Mercy non dice nulla mentre i suoi occhi si conficcano nei tuoi.{/n}
+
+### u064902
+"Obiezioni...? Non mi pare. Le nostre trattative sono concluse. Il circolo non ostacolerà la rivendicazione di Jae Heydari." {n}Voltandosi dal tavolo, Octaviana strizza l'occhio a Jae in privato e sussurra,{/n} "Perché ci hai messo tanto?"
+
+### u064903
+"Certamente. Il circolo approva la rivendicazione di Jae Heydari. Le nostre trattative sono concluse. Il rappresentante della Missione sulla mia stazione..." {n}Vladaym sottolinea queste ultime due parole, e Jae gli rivolge un cenno di gratitudine.{/n} "...si impegna a garantire che gli interessi della Signora Heydari non vengano danneggiati."
+
+### u064904
+{n}Il sangue cola dal suo naso rotto.{/n} "Non oserei rifiutare Vostra Signoria. Sospetto che abbiate in serbo molti altri argomenti altrettanto convincenti."
+
+### u064905
+{n}Il mondo si ferma per qualche istante.{/n}
+
+### u064906
+{n}Negli occhi di Mercy, mentre guarda Jae, scorgi un interessante miscuglio di emozioni: irritazione, calore, interesse... perfino risentimento. Per lui lei è qualcosa di più di una semplice avversaria in una trattativa d'affari.{/n}
+
+### u064907
+{n}Gli sguardi dei mercanti del Commercio Freddo guizzano l'uno verso l'altro. Dai loro volti capisci che le parole di Jae hanno colto nel segno. Ma un gesto imperioso e leggermente irritato di Mercy pone fine al silenzioso trambusto di conversazioni.{/n}
+
+### u064908
+{n}I mercanti del Commercio Freddo fissano Mercy, i volti che non lasciano trapelare nulla. Pare che ora abbiano orecchie per una sola voce.{/n}
+
+### u064909
+"Il denaro non può comprare una testa nuova al posto di una piena di proiettili. Ci state chiedendo di creare un pericoloso precedente. State mettendo nelle nostre mani una granata ingioiellata... shereen." {n}Non ti sfugge il modo in cui le spalle di Jae sussultano all'ultima parola di Mercy.{/n}
+
+### u064910
+{n}Le parole di Mercy grondano veleno:{/n} "Oggi è accaduto troppo perché possa essere semplicemente dimenticato."
+
+### u064911
+"È un po' tardi per cominciare a preoccuparsene ora, shereen." {n}L'angoscia che permea la voce di Mercy è nera e ineluttabile, e ricalca sul suo volto le cicatrici lasciate dal dolore e dal rancore.{/n}
+
+### u064912
+"Falco era sciatto, e prestava troppa attenzione ai..." {n}Jae rivolge a Mercy un sorriso sardonico.{/n} "...progetti secondari. La mia rete di contatti è più vasta, e il mio patrono è più potente..." {n}Un altro sorriso velenoso.{/n} "Garantisco che le entrate aumenteranno di almeno un terzo."
+
+### u064913
+"Siamo mercanti, non combattenti — preferiamo il linguaggio degli accordi a quello delle battaglie. Ma questo non significa che ci si possa intimidire. La nostra organizzazione opera nell'ombra, e siamo abituati all'ostilità dei poteri costituiti. Teniamo le lame nel fodero, ma dateci un motivo per mostrarvi quanto siano davvero affilate e ve ne pentirete amaramente. Una simile consapevolezza basta ad avvelenare la mente."
+
+### u064914
+{n}Jae prende un respiro profondo e dice con irresistibile serietà,{/n} "Non avete impedito a Falco di derubarmi. Non gli avete impedito di uccidere i miei amici. Il circolo ha votato la mia espulsione? Non che io sappia. O ammettete di aver permesso a Falco di infrangere le regole, o dovete comportarvi come se contassero ancora. Secondo le regole, Falco ha sbagliato, e io l'ho punito... diciamo a nome vostro. Quindi il suo Commercio è il mio trofeo e la ricompensa del circolo per il mio disturbo."
+
+### u064915
+{n}Jae ti lancia uno sguardo disperato e stringe forte le labbra.{/n}
+
+### u064916
+"I desideri della Signora Heydari potrebbero essere soddisfatti... con alcune riserve. Se, insieme ai contratti di Falco, si assume l'onere dei suoi obblighi verso di me, posso farmi garante presso il circolo che gli interessi dell'organizzazione non verranno lesi. Ma naturalmente mi aspetto che qualsiasi legame esistente tra la Signora Heydari e il Rogue Trader venga reciso completamente. Lavorare con terze parti possiamo accettarlo, ma quello che non possiamo accettare è una fedeltà nata tra le lenzuola."
+
+### u064917
+{n}Lo sconosciuto trasuda altera boria aristocratica. Aspira boccate dal profumato lho con evidente gusto, le dita che giocherellano distratte con un bottone della giacca e, di tanto in tanto, sorride in modo enigmatico ai suoi pensieri.{/n}
+
+### u064918
+{n}Dopo aver chinato la testa e taciuto a lungo, come se riflettesse, Jae dichiara con voce spenta,{/n} "Va bene. Accetto le vostre condizioni."
+
+### u064919
+"No." {n}Jae ti ferma in fretta con un gesto, che dipinge un sorriso compiaciuto sulle labbra di Mercy. Ma il sorriso svanisce alle parole successive di Jae:{/n} "Lo farò io stessa."
+
+### u064920
+"Vox quieto a tutti voi, chegnar. Vox quieto a voi, Maestro Mercy." {n}Jae riceve in risposta dei cenni educati. I volti dei mercanti del Commercio Freddo rivolti verso di lei rivelano un misto di sostegno, compassione e diffidenza, come in presenza di un parente infetto.{/n}
+
+### u064921
+{n}La risposta di Jae è un avvertimento sussurrato:{/n} "Solo se intendo affondarli nella sua gola. Altrimenti mi strapperà i denti e li terrà come trofei. Fidati, Mercy è il tipo vendicativo."
+
+### u064922
+{n}Abbassando lo sguardo ed evitando deliberatamente di guardare Jae, Octaviana afferma cupa,{/n} "Il mio potere è un potere che mi è stato dato dall'organizzazione. Rispettare le regole è il prezzo che pago per quel potere."
+
+### u064923
+{n}Con un sorriso compiaciuto, Mercy si rivolge a Jae con voce setosa:{/n} "Anche tu un tempo ricordavi le regole. Confido che, con una saggia guida, potremo rinfrescarti la memoria e ravvivare la tua fedeltà alle nostre leggi."
+
+### u064924
+"Non sapevo cosa avrei fatto. Ma tu mi hai aiutata." {n}Il volto di Jae è molto vicino al tuo.{/n} "Baciami."
+
+### u064925
+{n}La voce di Jae è bassa e minacciosa:{/n} "Scegli con cura le tue parole, Mercy. Persone più prudenti di te sono morte per uno scivolone di lingua alla presenza del Rogue Trader."
+
+### u064926
+"Salute a voi, Vostra Signoria. Io sono Mercy, l'organizzatore di questo raduno di uomini e donne probi e intraprendenti. Il giubilo che si è generato nella mia anima alla notizia della vostra visita non è stato offuscato nemmeno dalla schiera di domande che ha sollevato — in primo luogo, su come i vostri interessi si trovino così vicini ai nostri da concedermi l'onore di vedervi a una riunione del circolo supremo della Missione. Le domande sorgono e si risolvono, e i saggi non dovrebbero oscurarsi il cuore con esse." {n}Vi rivolge un sorriso radioso.{/n}
+
+### u064927
+"Agli occhi della Missione siamo strumenti, scelti e disposti con cura. Uno può essere impiegato per la sua abilità e per la ricerca del profitto, un altro per la protezione e lo spargimento di sangue. Io servo per la risoluzione delle dispute e per la supervisione. E per lo spargimento di sangue... ma solo in rare occasioni. Perciò nessun'altra voce oltre alla mia risuonerà nelle vostre orecchie."
+
+### u064928
+{n}Sul volto di Jae compare un'espressione antica e familiare — lo sguardo di un predatore soddisfatto.{/n} "Mercy, ti ricordi per cosa mi rimproveravi sempre? 'Sei troppo pronta a respingere l'idea di poter meritare qualcosa, shereen' — è questo che dicevi. Grazie per la lezione. Stavolta non sarò umile. I contratti di Falco sono miei. La ciurma di Falco è mia. Parli ora chi non è d'accordo. Voialtri — a riposo."
+
+### u064929
+"Aprirsi un varco attraverso la valanga del passato che copriva la mia tomba non è stato facile, shereen. Ma sono risorto."
+
+### u064930
+{n}Il mondo si ferma per qualche istante, ma con la coda dell'occhio vedi il volto di Mercy contorcersi in una smorfia di dolore.{/n}
+
+### u064931
+[Tocca il cristallo]
+
+### u064932
+"Questa cosa offre qualche vantaggio pratico?"
+
+### u064933
+{n}Marazhai si volta verso di te — tiene in mano un cristallo che scintilla di un fuoco ultraterreno.{/n} "{name}... guarda qui. L'anima del tuo nemico è nel palmo della tua mano, sotto il tuo completo controllo, in balia dei tuoi desideri. Non è questa la più grande vendetta per i torti passati?"
+
+### u064934
+{n}Basta avvicinare la mano al cristallo per sentire l'ondata di energia psichica che ne emana. Quando le tue dita sfiorano la superficie gelida, il maelstrom delle emozioni di un altro ti esplode nella mente — odio, sete di sangue, terrore, disperazione...{/n}
+
+### u064935
+{n}...e, incapace di sopportare l'assalto, ritiri la mano. Marazhai sogghigna, fa scorrere con noncuranza due dita sul cristallo e lo rimette al suo posto sulla cintura.{/n}
+
+### u064936
+"Sì. La sofferenza di Yremeryss mi darà forza sul campo di battaglia. Forse un giorno vorrò sostituire la sua anima con l'essenza di un altro avversario, più degno... ma non accadrà tanto presto."
+
+### u064937
+{n}...e all'improvviso, in questo turbine di agonia, distingui nuove sfumature di sentimento — accenni di trionfo e il brivido del dominio su un nemico sconfitto. Gli occhi di Marazhai, che ti hanno osservato attentamente in volto, si spalancano e le sue labbra si curvano in un sorriso esultante.{/n}
+
+### u064938
+"L'esaltazione sta svanendo... Che ne dici di un altro massacro, subito? No, no... Dovremmo assaporare ogni momento."
+
+### u064939
+"Sei così {mf|ricettivo|ricettiva} a tutto ciò che ti dono... Un giorno ti plasmerò in un capolavoro di estasi."
+
+### u064940
+"I suoni che emetti quando soffri sono squisiti. La prossima volta ti farò urlare più forte."
+
+### u064941
+"Me lo sono immaginato, o ti stavi trattenendo? Non osare. Dammi tutto {mf|te stesso|te stessa}. E non temere di spezzarmi."
+
+### u064942
+"Sei piuttosto {mf|creativo|creativa} con l'agonizzatore. Mi compiace vedere il mio vecchio giocattolo dilettare quello nuovo."
+
+### u064943
+"Kibellah."
+
+### u064944
+[Lascia che Marazhai ti incida un marchio]
+
+### u064945
+"Neanche per sogno!"
+
+### u064946
+"Cosa ho fatto di male?"
+
+### u064947
+"Tu... vuoi prendere qualcuno del mio seguito?"
+
+### u064948
+"Ti darò uno del mio seguito."
+
+### u064949
+"Non era questo che volevi?"
+
+### u064950
+"Idira Tlass."
+
+### u064951
+"Abelard Werserian."
+
+### u064952
+"Sono d'accordo. Dobbiamo separarci."
+
+### u064953
+"Ho spezzato un altro legame per te!"
+
+### u064954
+"Heinrix van Calox."
+
+### u064955
+"Posso fare qualcosa per farmi perdonare?"
+
+### u064956
+"Ulfar."
+
+### u064957
+"Jae Heydari."
+
+### u064958
+"Pasqal Haneumann."
+
+### u064959
+"Yrliet Lanaevyss."
+
+### u064960
+"Che il vuoto ti porti! Non ti darò nessuno!"
+
+### u064961
+"Ti comporti in modo strano, per essere uno xenos da compagnia obbediente."
+
+### u064962
+"A cosa serve la lama?"
+
+### u064963
+"Intendi incidermi un marchio?"
+
+### u064964
+"Nell'Imperium è usanza marchiare gli xenos sanzionati."
+
+### u064965
+"È rivoltante."
+
+### u064966
+"Non parteciperò. Né ora né mai."
+
+### u064967
+"Tu e soltanto tu porterai il marchio!"
+
+### u064968
+"Cassia Orsellio."
+
+### u064969
+"Sorella Argenta."
+
+### u064970
+[Afferra la lama e pugnala Marazhai]
+
+### u064971
+"Hai il mio permesso."
+
+### u064972
+"Non ora, mio xenos da compagnia."
+
+### u064973
+"Eogunn Februs."
+
+### u064974
+"Solomorne Anthar."
+
+### u064975
+[Afferra la lama e imprimi un marchio a fuoco su Marazhai]
+
+### u064976
+"Basta! Ora basta! Non voglio più essere {mf|coinvolto|coinvolta} in questa storia!"
+
+### u064977
+{n}Alla tua vista, Marazhai toglie con noncuranza i piedi dalla scrivania e si alza.{/n} "{name}. Devo parlarti."
+
+### u064978
+"Infrangi le regole, ancora e ancora. Sono stanco del tanfo di paura che emani ogni volta che ti presento una nuova rivelazione. E la cosa peggiore... è che mi annoi, {name}. Non voglio sprecare altre parole o azioni su chi si rifiuta di giocare la partita come si deve."
+
+### u064979
+"Mmm, la piccola assassina convinta di sapere tutto sul dolore. Che rivelazione l'attende..."
+
+### u064980
+"Perché no? Non hai saputo apprezzare ciò che ti ho offerto. Devi fare ammenda per la tua trasgressione. La mia richiesta è semplicissima — un sacrificio dalla tua cerchia ristretta. Io mi divertirò e, forse, dimenticherò la tua offesa. Per me... è un prezzo ben piccolo."
+
+### u064981
+{n}Il contatto del metallo provoca un dolore atroce e insopportabile che ti strappa dai polmoni un urlo da gelare il sangue. Con pochi guizzi della lama, Marazhai incide un simbolo sul tuo collo. L'aria si riempie del tanfo di carne bruciata e della risata dello xenos. Terminato il suo compito, Marazhai si china all'indietro per valutare il proprio lavoro.{/n}
+
+### u064982
+{n}Ti accorgi all'improvviso che si muove con una lentezza straordinaria — un netto contrasto con il suo balzo di pochi istanti fa. Non sembra avere alcuna fretta di abbassare la mano sollevata, poi sibila,{/n} "Che cosa ti prende, {name}? Hai dimenticato il tuo posto?"
+
+### u064983
+"Ci vorrebbe troppo tempo a raccontarlo — e perché dovrei? Non ho alcuna voglia di sprecare fiato in questa conversazione."
+
+### u064984
+"Hai paura. Rifiuti di sperimentare cosa significhi stare sul filo. Cosa significhi conoscere il dolore. Come potrai mai spingerti oltre i tuoi miseri limiti se ti ci aggrappi con tutte le tue forze?"
+
+### u064985
+"Ti ho fatto un dono. E tu che ne hai fatto? Lo hai scartato, troppo {mf|codardo|codarda} per assaporare anche un solo granello dei piaceri che prometteva."
+
+### u064986
+"Ti ho detto che dovevo rintracciare i fuggiaschi del mio Kabal... Un piccolo prezzo da pagare per il privilegio di banchettare con me, pensavo." {n}Marazhai socchiude gli occhi.{/n} "Ti ho offerto tutto, e tu non mi hai dato nulla."
+
+### u064987
+"Infrangi le regole. Le hai stabilite tu {mf|stesso|stessa}, fin dall'inizio... e poi hai cominciato a uscire dal tuo ruolo, a confondere le parole. O possiedi o ti lasci possedere. Non esiste una via di mezzo."
+
+### u064988
+"Per tutto questo tempo... pensavo... pensavo davvero che tu..." {n}Marazhai emette un basso sibilo.{/n} "Basta. Hai... rovinato tutto, mon-keigh. Non verrò più da te. E tu... puoi scordare ciò che è accaduto tra noi. Non sprecherò altro tempo con te e le tue debolezze."
+
+### u064989
+{n}Marazhai si blocca, gli occhi che irradiano shock e amarissima delusione. Un attimo dopo libera senza sforzo il polso dalla tua presa e si alza, rinfoderando la lama e borbottando a denti stretti intraducibili imprecazioni xenos.{/n}
+
+### u064990
+{n}Marazhai inclina la testa da un lato.{/n} "Perché dovrebbe importarmi? Credi che dovrei sentirmi lusingato che tu, {mf|un|una} mon-keigh, abbia scelto me tra tutti gli altri? Che tu abbia trovato la mia offerta superiore ai primitivi legami della tua specie? Questo è un dato di fatto, non un segno della tua munificenza."
+
+### u064991
+"No. Non c'è nulla di cui io possa privarti che ti causerebbe dolore."
+
+### u064992
+{n}Gli occhi di Marazhai, che prima ardevano di uno strano fuoco, divampano all'improvviso della fiamma dilagante della follia — la stessa follia che lo ha preso nel momento in cui si è saziato del dolore altrui. Emette una breve risata isterica.{/n} "Sì... Proprio come dev'essere..."
+
+### u064993
+{n}Marazhai ti afferra il mento e ti gira la testa, ammirando il marchio.{/n} "Bene, bene, mio piccolo animale. Ho fame di un banchetto. E tu... verrai con me. Subito."
+
+### u064994
+"E ora..." {n}Il tono e la postura di Marazhai cambiano all'istante — china la testa e ti guarda dal basso in una dimostrazione di sottomissione quasi giocosa.{/n} "Ho fame di un banchetto, {name}. Ora. Immediatamente. Ho il tuo permesso?"
+
+### u064995
+"Quella che i mon-keigh chiamano strega? Ti farò il favore di liberarti da quella lacerazione del velo."
+
+### u064996
+"Il vecchio mon-keigh? Suppongo che ci sia abbastanza vita in lui da tenermi occupato per un po'."
+
+### u064997
+"L'abominio in persona! Oh, proverò un grande piacere nello strapparle quell'occhio maledetto!"
+
+### u064998
+"La mon-keigh dalla voce dolce. È giunto il momento di renderla rauca a forza di urla di dolore."
+
+### u064999
+"Ah, il forte e ostinato? Durerà a lungo. Moltissimo."
+
+### u065000
+{n}Qualcosa guizza negli occhi del Drukhari. Scarta con noncuranza il suggerimento.{/n} "No. Non lui. Scegli qualcun altro."
+
+### u065001
+"Una mon-keigh chiacchierona convinta di comprendere la mia specie. Presto la comprenderà."
+
+### u065002
+"Ah, il piccolo martire meccanico. Penso che a lui piacerà ciò che gli farò quanto piacerà a me."
+
+### u065003
+"Mia carissima cugina... È passato da un pezzo il momento di porre fine alla nostra parentela."
+
+### u065004
+"Prenderò la vittima con discrezione — per il tuo equipaggio, uno dei suoi membri semplicemente... svanirà senza lasciare traccia. Ci sono molti angoli bui su questa nave... Sì, e un'altra cosa." {n}Marazhai socchiude gli occhi.{/n} "Non sei {mf|invitato|invitata} a questo banchetto. Sarò io solo a godere del tormento della tua offerta."
+
+### u065005
+{n}Fa una pausa, poi ti raggiunge a grandi passi e ti trascina un artiglio lungo la guancia. La sua voce, che un attimo fa vibrava d'irritazione, è ora liscia come miele speziato.{/n} "Ma quando sarai {mf|pronto|pronta} per un'altra passeggiata... sai dove trovarmi."
+
+### u065006
+{n}Sdraiato su una sedia, Marazhai agita leggermente una stretta lama Drukhari avanti e indietro sopra una candela accesa. I suoi occhi incontrano i tuoi oltre la fiamma, la sua voce ti cola nelle orecchie come miele avvelenato:{/n} "{name}. Ti stavo aspettando."
+
+### u065007
+{n}Il Drukhari si alza dal suo posto con la fluidità di un predatore.{/n} "È giunto il momento di discutere ciò che ci lega. Ciò che hai sperimentato sotto la mia instancabile sorveglianza."
+
+### u065008
+"Tutto a suo tempo, {name}." {n}Marazhai fa roteare tra le dita la lama incandescente e sorride.{/n}
+
+### u065009
+"Ha! Un altro segno che comprendi la natura del nostro legame. Ma non sto uscendo dal mio ruolo, no. Non ancora."
+
+### u065010
+"Ti ho già detto che noi Drukhari siamo i veri eredi degli antichi Aeldari. Gli Aeldari che regnarono sull'intera galassia. Che ispiravano terrore e soggezione alle razze inferiori. Che conoscevano verità che gli altri temevano perfino di sfiorare con lo sguardo. I nostri lontani parenti — quelli che vivono nello spazio reale nell'eterno timore di Sai'lanthresh — sono solo l'ombra di quell'antica grandezza. Noi, e solo noi, portiamo avanti la grandezza dei nostri antenati."
+
+### u065011
+{n}Marazhai soppesa la lama nella mano.{/n} "Ho passato abbastanza tempo tra i mon-keigh. Ad ascoltare. A osservare. Siete zoppicanti per via di piccole passioni, come quella cosa strana che chiamate 'lealtà.' E 'amicizia.' E peggio di tutte... 'amore.'" {n}Scuote la testa come se si pentisse perfino di aver pronunciato la parola.{/n} "A noi sono risparmiate simili debolezze. Noi vediamo più a fondo — e in quella profondità non c'è altro che dominio e sottomissione."
+
+### u065012
+"Fin dall'inizio... ci siamo capiti alla perfezione. Fin dall'inizio, i ruoli sono stati assegnati... e accettati. Tu sei {mf|diverso|diversa} dagli altri. Conosci le regole del gioco. Vuoi trascendere i limiti della tua specie. Ti osservo da molto tempo, {name}. E ho deciso che il passo finale deve essere compiuto. Rendere esplicito chi è il possessore e chi il posseduto. Apporre il sigillo." {n}Solleva la lama e ti guarda intensamente negli occhi, avanzando verso di te a passi lenti.{/n}
+
+### u065013
+"Naturalmente." {n}Inclina la testa da un lato.{/n} "Mi appartieni. Tutto di te, senza riserve. È giunto il momento di riaffermare l'ordine delle cose, una volta per tutte."
+
+### u065014
+"Non mi interessano i patetici riti dei mon-keigh. Parlo di qualcos'altro." {n}La sua voce scende in un sibilo sommesso.{/n} "Non costringermi a ripetermi."
+
+### u065015
+"Hmm? Mi permetteresti di farlo? Dopo tutto quello che abbiamo vissuto? Dopo quanto sono stato... sottomesso, mi lasceresti andare in giro senza il tuo marchio?" {n}Gli occhi del Drukhari sono beffardi, lampeggianti di malizia.{/n} "Significa che ho frainteso i nostri ruoli? Be'... vedremo."
+
+### u065016
+"Davvero? Allora perché hai tentato di scrutare la mia verità, mon-keigh? Perché hai eseguito con tanta diligenza ogni mio comando sussurrato? Non dire di non essere stato {mf|scottato|scottata} dalle scintille della fiamma che arde eterna in me e nella mia specie — la fiamma del dominio e della violenza, le verità fondamentali di questo mondo. Perfino i tuoi sensi primitivi... ne sono capaci."
+
+### u065017
+{n}Marazhai si blocca.{/n} "Cosa...? Questo è un grande onore per uno come te... e hai intenzione di rifiutarlo?" {n}L'espressione sul suo volto è nuova per te — di autentica sorpresa... e di rabbia ribollente. Con un ringhio gutturale, ripone la lama e ti lancia un'occhiata minacciosa.{/n} "Basta così. Me ne vado... e non sprecherò altro tempo con i tuoi dubbi e le tue debolezze, mon-keigh."
+
+### u065018
+{n}Marazhai è così rapido che a stento registri il suo movimento — con un solo balzo ti costringe a terra, ti immobilizza e solleva la lama incandescente...{/n}
+
+### u065019
+{n}Afferri la lama di Marazhai con una facilità sorprendente, perfino sospetta, e premi la punta rovente contro il suo collo. Lui si dimena ed emette un ululato agonizzante, ma la tua presa è salda — non gli permetti di muoversi finché il metallo incandescente non ha impresso a fuoco il simbolo dei von Valancius sulla sua pelle pallida. Infine si scosta da te con uno strattone, portando le dita a toccare il marchio sul collo.{/n}
+
+### u065020
+{n}Marazhai si blocca, respirando pesantemente, gli occhi che irradiano shock e amarissima delusione. Un attimo dopo scatena un torrente di intraducibili imprecazioni xenos e rotola via da te, rinfoderando la lama.{/n}
+
+### u065021
+{n}Strappi la lama dalla mano di Marazhai con facilità — per un momento pensi che abbia allentato di proposito la presa. Ma di certo non si aspettava il tuo colpo successivo — con uno schianto, conficchi la lama sotto la sua mascella, trapassandogli la gola e frantumandogli le vertebre. Un ultimo sguardo stupefatto e incredulo... e Marazhai Aezyrraesh cade morto sul pavimento.{/n}
+
+### u065022
+"Ti ringrazio per la tua indulgenza." {n}La voce di Marazhai trema d'eccitazione.{/n}
+
+### u065023
+{n}Marazhai emette un sibilo appena udibile, ma abbassa lo sguardo.{/n} "Io... aspetterò."
+
+### u065024
+{n}La voce di Marazhai è del tutto priva di colore e di giocosità — è tornato allo stesso tono imperioso che hai udito su Grantis.{/n} "Un tempo volevi ottenere conoscenze proibite — i sentieri dei veri eredi degli antichi Aeldari. L'essenza del mio mondo. Cose inaccessibili ai comuni mon-keigh. Cose che mi danno piacere. E, devo dire, ti sei {mf|rivelato un allievo abominevolmente scarso|rivelata un'allieva abominevolmente scarsa}."
+
+### u065025
+{n}Marazhai resta immobile, pensieroso.{/n} "Forse c'è." {n}Un'ombra di sorriso compare sul suo volto.{/n} "Quanto desideri restare con me? La vita di chi apprezzi quanto la mia indulgenza?"
+
+### u065026
+{n}Senti tutta la forza del suo disprezzo mentre ti guarda.{/n} "Non ho altro da dire."
+
+### u065027
+"Quel noioso mon-keigh? Anche se, se comincio dalla sua bestia, mi regalerà un bouquet indimenticabile di miseria."
+
+### u065028
+"Uno dei pochi mon-keigh la cui conversazione sia stata davvero divertente. Non importa, il suo dolore dissiperà la mia noia un'ultima volta."
+
+### u065029
+{n}Afferri il polso di Marazhai, cercando di togliergli la lama di mano. Lui ti fulmina con lo sguardo, indignato.{/n} "Che cosa fai, mon-keigh? Hai dimenticato il tuo posto?"
+
+### u065030
+{n}Gli occhi di Marazhai si accendono.{/n} "Un nome. Dammi un nome."
+
+### u065031
+"Tutte queste offerte suonano troppo ambigue."
+
+### u065032
+"Non ho bisogno dei tuoi doni."
+
+### u065033
+"Non ho bisogno di nulla da te."
+
+### u065034
+"Ma d'altra parte... penso che sceglierò, dopotutto."
+
+### u065035
+"Migliaia di tocchi — suona intrigante."
+
+### u065036
+"Mi piace l'idea della passione che soffoca."
+
+### u065037
+"Estasi perfetta? Credo che sceglierò quella."
+
+### u065038
+"Che... che cos'è questo?"
+
+### u065039
+"Prendi questa porcheria e togliti dalla mia camera da letto. Non voglio mai più vedere nulla del genere sulla mia nave!"
+
+### u065040
+"Apprezzo il pensiero. Ma non mi avvarrò di tutto questo."
+
+### u065041
+"Be', visto che il tuo dono è già qui, questo è il momento perfetto per provarlo."
+
+### u065042
+"Penso che proverò tutte le sfaccettature del tuo dono... su {mf|me stesso|me stessa}."
+
+### u065043
+"Voglio che tu cada vittima di questi piaceri. E io... starò a guardare."
+
+### u065044
+"{name}." {n}Marazhai si inchina con un ampio gesto e rialza la testa, guardandoti dal basso.{/n} "Concedetemi un momento del vostro tempo, Rogue Trader. Sono venuto a ricambiare la premura che avete dimostrato nei miei confronti."
+
+### u065045
+{n}Ti guarda negli occhi.{/n} "I resti della Reaving Tempest che abbiamo incontrato nel vuoto... Avreste potuto rifiutare la mia richiesta. Avreste potuto disporre di quei bottini come meglio credevate, ma vi siete {mf|degnato|degnata} di assecondarmi... e così devo esprimervi la mia gratitudine — come solo io posso."
+
+### u065046
+"Mio piccolo animale..." {n}Marazhai ti fissa dall'alto, con un ghigno.{/n} "Non ho potuto fare a meno di notare quanto tu sia {mf|stato|stata} obbediente di recente. Sono soddisfatto di te."
+
+### u065047
+{n}Le dita di Marazhai ti afferrano il mento e ti costringono ad alzare la testa.{/n} "I resti della Reaving Tempest si sono prostrati davanti a me quando hanno visto che non avevo perso la mia autorità nemmeno oltre i confini della Tela. Credo che ti sia {mf|meritato|meritata} un piccolo dono da parte mia."
+
+### u065048
+{n}Marazhai inclina la testa da un lato.{/n} "Dimmi, quale offerta ti eccita di più? Migliaia di tocchi che elargiscono tenerezza e dolore? Una passione capace di soffocarti fino a spegnerti la vita? O forse un'estasi perfetta e sconvolgente, generata da miliardi di minuscoli picchi? La scelta è tua."
+
+### u065049
+"Davvero?" {n}Il sorriso di Marazhai si trasforma in un'occhiata lasciva e feroce.{/n} "Che posso dire? Mi piace sorprendere."
+
+### u065050
+{n}Il volto di Marazhai si contrae in una smorfia di frustrazione.{/n} "Rifiuti il dono che ti ho offerto?"
+
+### u065051
+{n}Marazhai emette un sospiro deluso.{/n} "Ti sbagli. Ma non cercherò di convincerti a partecipare ai piaceri che posso donarti. Fa' come vuoi."
+
+### u065052
+"Allora smetti di mettere alla prova la mia pazienza e dimmi cosa vuoi."
+
+### u065053
+{n}Marazhai ti rivolge un'occhiata cupa, piena di promesse.{/n} "Molto bene. Concedimi un po' di tempo e ti darò ciò che desideri."
+
+### u065054
+{n}La sua voce vibra d'eccitazione.{/n} "Guarda... Chi altri potrebbe offrirti un dono simile? Le delizie della mia specie, scelte secondo i tuoi desideri!"
+
+### u065055
+{n}Marazhai solleva le sopracciglia in finta confusione.{/n} "Non hai forse scelto tu {mf|stesso|stessa} ciò che la tua anima brama più di ogni altra cosa?"
+
+### u065056
+"Queste Wych, bandite dal loro Culto per il legame con la Reaving Tempest, sono squisite artiste della lama. Migliaia di tocchi ti ricopriranno l'intero corpo di tagli finissimi, donando il più dolce dei dolori — ma senza mai concedere il rilascio definitivo. L'oggetto della loro arte oscillerà sul confine tra la vita e la morte... per ore."
+
+### u065057
+"L'intero corpo di uno Sslyth non è che un unico, gigantesco laccio che stritola non solo le ossa, ma lo spirito stesso. Di secondo in secondo la pressione cresce... e cresce... e, all'improvviso, il petto non riesce più a espandersi nemmeno per prendere un respiro, e la coscienza comincia a dibattersi nelle sue convulsioni agoniche. Poco può eguagliare, per pura potenza, la passione nata dal soffocamento."
+
+### u065058
+"Questa macchina del dolore creata da un Haemonculus è un meccanismo delicato — un'orchestra di sofferenza e tormento, dotata di mille aghi, coltelli e siringhe che infliggono le sensazioni più sublimi. Ti risucchierà l'anima, la ridurrà in polvere, la cambierà per sempre... e poi la farà rivivere, restituendo alle tue vene ogni essenza e ogni sentimento. Non esiste estasi più grande di quella provata da chi ha subito la tortura di questa macchina."
+
+### u065059
+{n}Marazhai schiocca la lingua con disappunto.{/n} "Mi sono dato un gran daffare per compiacerti... ed è così che mi ripaghi delle mie fatiche? Hmm. Come vuoi. Forse il tuo palato è ancora troppo... insipido per apprezzare appieno ciò che ti è stato offerto."
+
+### u065060
+{n}Marazhai si morde il labbro, sostenendo il tuo sguardo e attendendo la tua parola.{/n}
+
+### u065061
+{n}Marazhai risponde alle tue parole con un cenno indulgente.{/n}
+
+### u065062
+"Naturalmente. Ma io... ti osserverò con interesse, mio animale." {n}Gli occhi di Marazhai ardono di un fuoco cupo mentre ti dà una leggera spinta alla schiena.{/n}
+
+### u065063
+{n}Un sorriso soddisfatto si allarga sul volto di Marazhai — che nasconde subito chinando la testa in un inchino plateale.{/n} "Non vi deluderò, {name}."
+
+### u065064
+{n}Marazhai ti fulmina con lo sguardo, il labbro che si arriccia appena, come se la tua risposta avesse in qualche modo rovinato i suoi piani.{/n} "Come desiderate, {name}. Come desiderate."
+
+### u065065
+"Lord Capitano? Volevo avvertirvi — Marazhai sta venendo ai vostri alloggi. Sarà da voi da un momento all'altro..."
+
+### u065066
+"Chi ha iniziato?"
+
+### u065067
+"Non ho salvato la vita a Marazhai perché vi faceste giustizia da soli! Riponete le armi, tutti quanti!"
+
+### u065068
+"E gli altri? Ve ne siete rimasti a guardare?"
+
+### u065069
+[Estrai l'arma] "Liberiamo il mondo da questa feccia, insieme."
+
+### u065070
+{n}Il tempo sembra fermarsi quando entri. Figure avvolte dall'ombra, raccolte contro le pareti, si voltano verso di te — tutte tranne i pochi che restano immobili in mezzo alla stanza con le armi in pugno.{/n}
+
+### u065071
+{n}L'aria intorno a Heinrix sembra crepitare di freddo. Fa una smorfia e sputa sangue, chiaramente sofferente per una contusione allo zigomo.{/n} "Piuttosto veloce, per una carogna..."
+
+### u065072
+{n}Argenta ansima, ma la sua arma resta puntata con fermezza su Marazhai.{/n} "Possa la Tua volontà rafforzare la mia mano, possa la mia fede in Te donarmi forza..."
+
+### u065073
+{n}La risata cupa e maligna di Ulfar rimbomba contro il soffitto della tana.{/n} "Sei un parassita agile, eh? Avresti potuto arrenderti senza combattere — ti avrei spezzato il collo risparmiandoti il tormento. Ma hai scelto di morire più dolorosamente..."
+
+### u065074
+{n}Nonostante la postura fiera, Marazhai fatica visibilmente a restare in piedi. La sua armatura è ammaccata e scheggiata in più punti, e il volto stravolto è rigato di strisce di sangue.{/n} "Più vicino, mon-keigh... più vicino, se sei così ansioso di conoscere la carezza delle mie lame..."
+
+### u065075
+{n}Marazhai, la cui armatura è ammaccata in diversi punti, emette una risata gutturale.{/n} "Che cosa aspetti? È ora di concludere la nostra piccola danza!"
+
+### u065076
+{n}Marazhai brandisce con leggerezza le lame, ridendo con scherno in faccia all'avversario.{/n} "Posso continuare a danzare con te a lungo, molto a lungo... ma comincio a stancarmi dei tuoi patetici tentativi."
+
+### u065077
+"Non tutti i tuoi tirapiedi sono ben addestrati, {name}. Appena ho varcato la soglia di questa lurida buca, sono stato costretto a prendere le armi."
+
+### u065078
+"Sto semplicemente facendo il mio lavoro, {name}." {n}La voce di Heinrix gronda veleno sarcastico.{/n} "Non vi ho sentito dichiararvi ufficialmente {mf|protettore|protettrice} di questo xenos, e quindi l'Ordo è pienamente nel suo diritto di agire!"
+
+### u065079
+"L'abominio che avete lasciato entrare nei ranghi dei vostri compagni deve morire. Questa è la Sua volontà e il mio dovere, Rogue Trader." {n}Gli occhi di Argenta ardono di un fuoco frenetico e incenerente.{/n}
+
+### u065080
+"Ehilà! Ho deciso di svagarmi inseguendo questo xenos allampanato lungo il soffitto! Unisciti a me, Aett-Vater!"
+
+### u065081
+{n}Marazhai ridacchia con voce roca.{/n} "Non m'importa dei tuoi tirapiedi, {name}. Ma a quanto pare io importo a loro. I mon-keigh non conoscono il loro posto nella tua cerchia. Uno spettacolo pietoso."
+
+### u065082
+"Chi sono io per ostacolare la giustizia dell'Imperium?"
+
+### u065083
+"Lord Cap', non sono affari miei... ma vedere quel bastardo smorto prenderle di santa ragione per me va benissimo!"
+
+### u065084
+"Mi rifiuto di pagare per le azioni del mio oscuro cugino."
+
+### u065085
+"Shereen, la vera saggezza sta nel sapere quando farsi avanti e quando fare un passo indietro e confondersi con il muro."
+
+### u065086
+"La punizione corporale è uno dei metodi più efficaci per sottomettere gli xenos non sanzionati. Ero curioso di vedere se avrebbe funzionato sui Drukhari."
+
+### u065087
+"L'intervento nel conflitto è stato giudicato non costruttivo. L'unità identificata come lo xenos Marazhai non ha una priorità sufficientemente alta da attivare le strategie di protezione."
+
+### u065088
+{n}Heinrix impreca in modo fiorito in un dialetto del Basso Gotico che non riconosci.{/n} "Maledizione, {name}! La vostra indulgenza verso i nemici dell'Umanità... no, verso questo specifico, subdolo e spregevole sacco di feccia supera ogni limite!"
+
+### u065089
+{n}Lo sguardo di Argenta su di te è pieno di condanna.{/n} "Non mi opporrò a voi, Rogue Trader, anche se la mia anima può reclamare la distruzione di questa cosa immonda. Ma attenderò che mi dia un motivo. Lo attenderò con impazienza."
+
+### u065090
+{n}Ulfar sbatte il pugno guantato contro l'armatura, emettendo un sospiro di delusione.{/n} "Non sono uno che pone fine a una battaglia finché uno xenos è ancora in piedi... Ma non importa, magrolino disumano — avremo l'occasione di concludere la faccenda un'altra volta."
+
+### u065091
+{n}Marazhai distoglie lo sguardo dall'uscita e ti guarda. La maschera contorta della rabbia di battaglia scivola via dal suo volto, e rinfodera le lame.{/n} "Se i tuoi tirapiedi hanno visto abbastanza dello spettacolo, ho degli affari da discutere con te, {name}."
+
+### u065092
+{n}Marazhai emette un grido furioso e, alzando le lame, si lancia contro di te e i tuoi compagni prima che tu possa muoverti.{/n}
+
+### u065093
+"La decisione giusta." {n}Gli occhi di Heinrix ardono di un ghiaccio ultraterreno.{/n}
+
+### u065094
+"Sia fatta la Sua volontà!"
+
+### u065095
+"Ci sono cose nell'universo che non si possono cambiare. Il Lupo incontra lo xenos, lo xenos muore. Finiamolo, Aett-Vater!"
+
+### u065096
+"Il suo nome non è caduto dalle vostre labbra, Domin'{name}. È l'unica ragione per sguainare la lama in questa città marcia. Altrimenti, quasi tutti qui dovrebbero essere massacrati."
+
+### u065097
+"Questa creatura immonda è diventata vostra proprietà quando l'avete accolta nel vostro seguito. Non attaccherò il vostro xenos da compagnia, ma nulla mi impedisce di guardare e di pregare che altri, meno vincolati dagli obblighi dei Suoi servitori, riescano nel tentativo."
+
+### u065098
+"Osservare i modelli biomeccanici dei Drukhari senza alcun rischio associato è molto raro, Rogue Trader. Ho ritenuto che osservare e registrare con il pict questi eventi fosse più che appropriato nel quadro dei miei esperimenti."
+
+### u065099
+"Lasciami in pace in cambio di Yremeryss, e potrai averla."
+
+### u065100
+"Se questa conversazione è finita..."
+
+### u065101
+"Hai la sfacciataggine di mancare di rispetto a chi ti ha appena trascinato fuori vivo dall'arena?"
+
+### u065102
+"Di cosa hai bisogno?"
+
+### u065103
+"Vedo che avete un rapporto complicato."
+
+### u065104
+"Penserò alla tua proposta."
+
+### u065105
+"Molto bene. Se dovessimo incontrare Yremeryss, ti lascerò sferrare il colpo di grazia."
+
+### u065106
+"Cosa vuoi dalla sua anima?"
+
+### u065107
+"Non ho intenzione di cederti questa uccisione."
+
+### u065108
+[Guarda cosa copriva la piastra]
+
+### u065109
+[Esamina la piastra nelle mani di Marazhai]
+
+### u065110
+"Non ti aiuterò. Dai la caccia a Yremeryss da solo."
+
+### u065111
+[Fai un passo indietro] "Niente."
+
+### u065112
+"La tua armatura è tenuta su da ganci che ti affondano nel corpo?"
+
+### u065113
+"Tu. Non ho mai visto un Drukhari da così vicino."
+
+### u065114
+[Afferra Marazhai per la gola] "Guarderei volentieri un mondo in cui sai stare al tuo posto."
+
+### u065115
+[Barcolla all'indietro] "Non ne ho bisogno."
+
+### u065116
+"Va bene, sono d'accordo."
+
+### u065117
+"Perché odi tanto Yremeryss? È stata colpa tua se sei finito nella Voragine."
+
+### u065118
+"Un'armatura tenuta su da ganci da macellaio? Voi Drukhari siete davvero feccia perversa."
+
+### u065119
+"Aspetta... 'Solo un Aezyrraesh'? Siete parenti?"
+
+### u065120
+"Vuoi uccidere tua sorella?"
+
+### u065121
+"Non importa. Dimentica che l'ho nominato."
+
+### u065122
+[Colpisci Marazhai] "Stammi lontano!"
+
+### u065123
+"Resurrezione? Quale resurrezione?"
+
+### u065124
+{n}Marazhai ispeziona con noncuranza la propria armatura in cerca di danni, apparentemente impassibile di fronte al tentativo di rappresaglia contro di lui.{/n}
+
+### u065125
+{n}Vedi i muscoli della mascella di Marazhai contrarsi — a quanto pare l'attacco è riuscito comunque a turbare il suo equilibrio. Sta ispezionando con cura l'armatura, che ha evidentemente subito danni nell'arena e nel recente scontro.{/n}
+
+### u065126
+{n}Marazhai fa un gesto noncurante, rimettendo con lo stesso movimento la piastra al suo posto.{/n} "Ho finito. Fammi sapere quando hai intenzione di uccidere qualcuno — non sopporto questa calma piatta."
+
+### u065127
+{n}...e noti il luccichio nei suoi occhi scuri e l'accenno di sorriso sulle sue labbra distorte. Marazhai potrebbe facilmente strapparsi la tua mano dal collo, se volesse — sta al gioco con evidente piacere.{/n}
+
+### u065128
+{n}...e ti rendi conto di non riuscire a decifrare le emozioni nei suoi occhi — scivolano via così in fretta che non puoi contarle. Eppure non fa alcun tentativo di togliere la tua mano.{/n}
+
+### u065129
+"L'anima di Yremeryss, l'Arconte della Reaving Tempest. Dovrebbe appartenere a me. Non so dove... non so come... ma quella cagna ha tentato di sbarazzarsi di me senza sporcarsi le mani e merita di perdere la vita. La sua anima resterà nella mia Soul-Trap." {n}Con un pigro cenno del capo, Marazhai indica il cristallo scuro appeso alla cintura.{/n}
+
+### u065130
+"Trascinato fuori vivo?" {n}Marazhai si concede un sottile sorriso.{/n} "L'unica ragione per cui sei uscito da quello scontro tutto intero è che ero dalla tua parte. La tua autoillusione è desolantemente profonda."
+
+### u065131
+"Ucciderla e basta non mi è sufficiente — no, è troppo... banale? Tenerla imprigionata per l'eternità in una gabbia di miseria da cui non c'è scampo — questo è un destino più di mio gusto. La sua furia e il suo tormento mi nutriranno finché il suo spirito non si sarà inaridito, come una fontana di sangue che zampilla da un'arteria recisa. E inoltre... potrebbe rendere problematica la sua resurrezione."
+
+### u065132
+{n}Con l'artiglio del guanto, Marazhai aggancia una delle placche d'armatura schiacciate sulla coscia e la esamina meticolosamente.{/n} "Quando finalmente ci troveremo faccia a faccia — e ci troveremo, anche se dovessi sventrare tutta Commorragh per riuscirci — e se tu sarai presente quando accadrà, non pensare nemmeno di tentare di sferrare il colpo di grazia. Solo un Aezyrraesh ha il diritto di togliere la vita a un Aezyrraesh — e quel diritto è mio."
+

@@ -1,0 +1,881 @@
+### u037656
+{n}Il Navigatore scosta con irritazione una ciocca di capelli insanguinati.{/n} "Fidatevi, io lo so bene! Tutto è successo troppo in fretta, ci sono stati decine di segnalazioni di incidenti, vittime e sistemi in avaria... Ma l'unica cosa preziosa a bordo di questa stazione è la vita di Lady Cassia. Tutto il resto è futile e si rimpiazza facilmente."
+
+### u037657
+{n}Il Navigatore guarda le sue guardie e sussulta. I soldati tremano come se la loro carne tormentata venisse scorticata, eppure continuano a stringere le armi.{/n}
+
+### u037658
+"Purtroppo non mi è consentito parlare della mia signora, né con il suo seguito né con gli estranei. Vi parlerà di sé di persona, se lo vorrà... Ammesso che sopravviva. Vi imploro di non sprecare altro del nostro tempo prezioso, perché sta per finire!"
+
+### u037659
+"Le correnti del warp nel sistema sono tumultuose da decine di cicli e hanno reso sottile e fragile il velo che separa il nostro mondo dall'{g|Encyclopedia:Warp}Immaterium{/g}, almeno qui sulla stazione. I {g|Encyclopedia:Chaos}Poteri Rovinosi{/g} cercano di abbatterlo del tutto e di corrompere ogni essere vivente. I servitori... sono stati i primi a caderne vittima. Oh, i loro corpi si sono deformati, e il dolore e la disperazione hanno fatto impazzire quelle povere anime. I folli hanno preso prigioniera la mia signora e hanno quasi distrutto la stazione, ma io ho radunato i pochi che seguivano ancora la luce del {g|Encyclopedia:GoldenThrone}Trono d'Oro{/g} per rimettere le cose a posto."
+
+### u037660
+{n}Le labbra sottili di Felek si torcono, rivelando una fila di denti affilati.{/n} "Non so cosa stiate tramando, ma non sono dell'umore per i giochetti."
+
+### u037661
+"In circostanze diverse non vi chiederei mai un simile favore, eppure..." {n}Felek toglie la mano dalla cassa toracica, nota il sangue e sussulta per il dolore.{/n} "Eppure il benessere di Lady Cassia viene prima di tutto. Mi restano pochi uomini, e le mie ferite sono troppo profonde perché io possa agire con precisione e rapidità. Ma voi... voi potreste davvero riuscirci."
+
+### u037662
+"Credete che valgano la vita della mia signora?"
+
+### u037663
+"Il {g|Encyclopedia:Warp}warp{/g} corrompe non solo l'anima, ma altrettanto il corpo e la mente. Folle e furioso, un singolo servitore brandiva più forza di un'intera squadra delle guardie personali della mia signora. Anche le guardie del corpo avevano la mente offuscata, ma la loro volontà temprata ha permesso loro di resistere giusto il tempo di abbattere chi si era scagliato contro di loro a mani nude."
+
+### u037664
+"Pensavate davvero che dei semplici servitori potessero pianificare un colpo di mano? Gli ufficiali superiori sono colpevoli quanto loro, metà delle mie guardie si è massacrata a vicenda perché sospettava un tradimento. Quanto al vero colpevole... Il colpo di mano è stato orchestrato da chi era più vicino alla mia signora."
+
+### u037665
+{n}Felek annuisce con aria stanca.{/n} "Suppongo sia giunto il momento di togliere la maschera. Complimenti, mi avete scoperto. Ma davvero vi aspettavate che fossi sincero per tutto questo tempo? Che vi accogliessi a braccia aperte, {mf|alleato|alleata} di Tisiphone e del suo... mostro? Della maledetta Bambina che da anni tormenta i {g|Encyclopedia:Navigator}Navigatori{/g} della Casata Orsellio? Non fatemi ridere. Siete {mf|arrivato|arrivata} per aiutarla a distruggere del tutto la nostra Casata. E io non posso permetterlo."
+
+### u037666
+{n}Felek espira rumorosamente e sorride.{/n} "Grazie, Rogue Trader. Io... non so nemmeno cosa dire. Il rango e l'onore mi hanno impedito di ammetterlo fino a ora, ma avete risvegliato in me la speranza. La speranza di lasciare davvero questa stazione insieme alla mia signora. Ed è per questo che sto per chiedervi un ultimo favore."
+
+### u037667
+"Non è così?" {n}Felek esita per un bel po'.{/n} "In tal caso... Accettate le mie sincere scuse. Per l'inganno e per il mio comportamento di prima. Non avevo alcuna intenzione di farmi nemic{mf|o|a} {mf|un erede|un'erede} dei von Valancius né di distruggere la stazione che per molti anni è stata la mia casa. Non mi hanno lasciato scelta! Non potete nemmeno immaginare quale mostro si annidi nelle stanze superiori: un male, una piaga, una pestilenza sul nostro lignaggio che cerca di distruggere la Casata Orsellio dall'interno!"
+
+### u037668
+"E Theobald e i suoi seguaci... non sono che fanatici privi di giudizio al servizio di questo male. Lady Cassia è la discendente di una tiranna spietata, ma non è il legame con Tisiphone a essere terrificante. È un mostro i cui poteri fanno impazzire i servitori nel giro di pochi turni. Una Bambina maledetta che può uccidere con un solo sguardo un Navigatore del sangue degli Orsellio. Solo io, in tutti questi anni, sono riuscito ad avvicinarla abbastanza. Lei ha abbassato la guardia e si è fidata di me... E alla fine ho liberato la mia Casata dalla maledizione. Questa è la verità."
+
+### u037669
+"Peccato." {n}Felek raddrizza le spalle e fa cenno alle sue guardie.{/n} "Speravo di trovare in voi un alleato, ma ora non fate che ritardare la triste fine della vostra storia. Preparatevi a morire!"
+
+### u037670
+{n}Felek annuisce con cautela.{/n} "Non mi aspettavo di uscire vivo dalla stazione, ma il vostro arrivo tempestivo... cambia tutto. Se salgo e affronto Lady Cassia, mi ucciderà con un'occhiata. Non mento: i suoi poteri maledetti hanno presa su chi porta il nostro gene dei Navigatori. Ma se riuscite a premere un talismano speciale contro la sua pelle, con la forza o con l'astuzia, l'influsso nefasto dei suoi poteri si ritirerà! E potrete portarmi la Bambina maledetta, così che la giustizia trionfi e la Casata Orsellio possa spezzare le sue catene!"
+
+### u037671
+"Vi servirà questo talismano." {n}Felek vi porge una pietra preziosa senza castone. La sua superficie luminosa resta fredda al tatto per quanto a lungo la teniate in mano.{/n} "Non dovete preoccuparvi dei poteri della Bambina, sono letali solo per i Navigatori della nostra Casata. Quanto a Theobald... è caduto preda della follia del mostro da molto tempo. Povero vecchio sviato... Non ha alcuna possibilità contro di voi."
+
+### u037672
+"Mi sono aperto con voi, e voi mi voltate le spalle con tanta facilità dopo tutto quello che avete sentito? Che grande peccato. Speravo di trovare in voi un alleato, ma ora non fate che ritardare la triste conclusione della vostra storia. Preparatevi a morire!"
+
+### u037673
+{n}Il Siniscalco prende un respiro profondo.{/n} "Davanti a voi sta Sua Signoria il {g|Encyclopedia:RogueTrader}Rogue Trader{/g} {name} von Valancius, erede del più grande protettorato della {g|Encyclopedia:KoronusExpanse}Distesa di Koronus{/g} e portatore del sacro {g|Encyclopedia:Warrant}Mandato di Commercio{/g}. Mi permetto di far notare che l'usanza dei Nobilite vorrebbe che fosse il Lord Navigatore a presentarsi per primo, ma date le, ehm, insolite circostanze sulla stazione, Sua Signoria il Rogue Trader è disposto a chiudere un occhio sulla vostra ostilità. Ma solo per questa volta."
+
+### u037674
+{n}Felek sfiora con dolcezza l'occhio chiuso sulla fronte.{/n} "Grazie a un gene speciale, i Navigatori resistono alle emanazioni del warp meglio dei semplici mortali. È ciò che ci permette di guidare le navi attraverso il {g|Encyclopedia:Warp}Mare delle Anime{/g}."
+
+### u037675
+"Questo sistema è sotto la protezione della dinastia Winterscale da molti anni. Certo, non mi aspettavo di incontrare un altro {g|Encyclopedia:RogueTrader}Rogue Trader{/g} nel corso della mia vita... figuriamoci uno di {d|Encyclopedia:CharGen_Nobility}sangue nobile{/d}."
+
+### u037676
+"Ho già detto che Eurac V è sacrosanta. È il dominio sacro dei Navis Nobilite, ed è proibito ai popolani del mondo sottostante. Speravamo di risolvere la crisi da soli, ma quando la situazione è sfuggita di mano non siamo riusciti a stabilire un contatto, perché i traditori avevano disattivato le nostre apparecchiature."
+
+### u037677
+{n}Il Navigatore aggrotta la fronte.{/n} "Nessuno ha il diritto di interpretare così liberamente la Sua volontà, {mf|fratello|sorella}. Ma aspettate... riconosco il vostro stemma. Dovete essere {mf|un Lord|una Lady} della dinastia von Valancius? Sì, ne sono assolutamente certo, anzi."
+
+### u037678
+"Una chiamata, dite?" {n}I neri pozzi degli occhi di Felek si spalancano per la sorpresa.{/n} "Una sola persona potrebbe avervi mandato qui, e dev'essere stato Evayne Winterscale. Perché non è venuto di persona?"
+
+### u037679
+{n}Felek Orsellio ha un aspetto un po' migliore: i capelli arruffati ora sono ordinatamente intrecciati, le ferite sono strettamente fasciate e sotto le squame delle guance c'è un po' di colorito sano.{/n} "Avete eliminato la minaccia e dato energia all'ascensore... Ben fatto. Confido che abbiate portato anche l'asta di attivazione? Ricordate, ogni secondo di esitazione può costare la vita alla mia signora."
+
+### u037680
+"Osate ancora insultarmi?" {n}Il Navigatore alza le braccia, pronto ad aprire il terzo occhio, ma si ferma di colpo.{/n} "Ah, ma riconosco questo stemma. Venite dalla dinastia von Valancius. Questo... spiega molte cose. Più di quanto pensiate."
+
+### u037681
+"Un peccato. Era un giovane piacevole, anche se un po' ingenuo. Ma aspettate... riconosco il vostro stemma. Dovete essere {mf|un Lord|una Lady} della dinastia von Valancius?"
+
+### u037682
+"Non mi dite... Ottenere l'accesso al comunicatore personale dell'erede di una grande dinastia non è impresa da poco. Chi siete esattamente?" {n}Il Navigatore inclina la testa, come se avesse intuito qualcosa.{/n} "Ah, aspettate... riconosco questo stemma. Siete {mf|un Lord|una Lady} della dinastia von Valancius. Questo spiega tanto, tantissimo."
+
+### u037683
+{n}Il Navigatore annuisce con aria pensosa, poi si raddrizza come se avesse capito qualcosa di importante.{/n} "Riconosco questo stemma! Dovete appartenere all'illustre dinastia von Valancius? Ne sono certo..."
+
+### u037684
+"Davvero?" {n}Anche ferito, Felek Orsellio rimane composto.{/n} "Non credo. Non potete costringermi, potete solo togliermi la vita. Ma non è questo che desidera il vostro cuore, non è vero? Forse... Forse possiamo aiutarci a vicenda e giungere a un accordo più vantaggioso."
+
+### u037685
+{n}Nei suoi occhi senza fondo, Felek Orsellio ha tenebre che turbinano, mentre scopre i denti aguzzi in un ringhio difensivo.{/n} "Volete spiegarvi, {mf|rampollo|rampolla} della dinastia von Valancius? Che significa tutto questo?"
+
+### u037686
+"Non credo sia possibile. Eurac V è una stazione di osservazione. Non firmiamo contratti e non forniamo Navigatori. Scrutiamo le profondità dell'infinito e tracciamo i movimenti delle tempeste warp. E inoltre..." {n}Felek indica il disordine attorno a sé.{/n} "...avete scelto un momento inopportuno per le trattative."
+
+### u037687
+"La colpa è di Theobald Orsellio, il secondo Custode di Eurac V. Il vecchio... era un grande Navigatore, ma non riusciva più a controllare i suoi poteri. Lo implorai di ritirarsi, ma era troppo ossessionato dalla nostra signora, Lady Cassia. La sua follia e la sua testardaggine hanno segnato la rovina dell'intera stazione, perché in un accesso d'ira ha aperto il terzo occhio e ha scatenato gli orrori del warp su chi gli dispiaceva. Il Theobald che conoscevo non avrebbe mai usato i suoi poteri in modo così sconsiderato. Sarà difficile da spiegare a chi non è iniziato, ma ci proverò."
+
+### u037688
+"Il Lord Navigatore qui presente dice la pura verità. Scommetto che questa stazione è piena di voci e di sussurri, che cercano tutti di farsi strada dall'altra parte, in attesa che tu allunghi la mano e spalanchi la porta."
+
+### u037689
+"La morsa soffocante dell'Immaterium si avverte in tutto il sistema. Non c'è da stupirsi che il velo si sia assottigliato proprio qui: i Navis Nobilite sanno comandare le correnti del warp, ma l'uso delle loro capacità logora la barriera tra i due mondi."
+
+### u037690
+"Per salire agli appartamenti della mia signora dovrete ricostruire una sacra reliquia santificata con il sangue della stessa Lady Orsellio. È l'asta di controllo dello {g|Encyclopedia:MachineSpirit}spirito macchina{/g} dell'ascensore. Io possiedo una parte, l'altra è andata perduta durante l'ammutinamento. Ma nemmeno questa reliquia servirà a nulla se il meccanismo dell'ascensore non riceve energia."
+
+### u037691
+"Ho una fiala contenente il sangue della mia signora. Va portata al laboratorio, che si trova dietro una delle porte del reliquiario. Il più antico dei sacri meccanismi aiuterà a ricostruire l'asta: i {g|Encyclopedia:TechPriest}Tecnopreti{/g} hanno compiuto senza sosta i riti di placazione affinché lo spirito macchina servisse la Casata nel momento del bisogno. L'ora fatale è ormai su di noi."
+
+### u037692
+"E poiché il fato ha condotto una persona così importante nella mia dimora... permettetemi di presentarmi. Davanti a voi sta Felek Christoph August, Custode di questa stazione. Dunque non siete {mf|venuto|venuta} a offrire sostegno ai traditori? Ottima notizia. Detto questo, dovete capire che Eurac V è un sacro santuario per la Casata Orsellio e la via che vi conduce è rivelata solo a pochi eletti. Mi duole dirvi che non siete nella lista degli ospiti."
+
+### u037693
+"Il {g|Encyclopedia:Cogitator}cogitatore{/g} principale della stazione si trova nel corpo di guardia. Basta inserire la corretta sequenza di comandi e il sacro meccanismo farà il resto."
+
+### u037694
+"Non ho mai detto che l'impresa sarebbe stata facile. La strada per il laboratorio e per il corpo di guardia è bloccata dagli stessi folli che hanno preso il controllo della stazione. Non tratteranno e non temono di dispiacere ai Navis Nobilite né di incorrere nell'ira dell'Imperatore. Si piegano solo alla forza bruta, cosa di cui al momento mi trovo a essere privo."
+
+### u037695
+"Dunque, cosa avete deciso, discendente della stirpe dei von Valancius?"
+
+### u037696
+"Ridicolo! Le parole d'ordine le consegno di persona a ogni addetto. Quello che avete menzionato quando ci siamo incontrati non ha nulla a che fare con il codice d'accesso a Eurac V. Vi hanno ingannato."
+
+### u037697
+"In tal caso, chiuderò un occhio sulla vostra invasione senza tante cerimonie. Ma solo per questa volta." {n}Un lampo pericoloso balena negli occhi ombreggiati dell'uomo.{/n} "Molto bene, permettetemi di presentarmi. Davanti a voi sta Felek Christoph August, Custode di questo luogo. Dunque non siete {mf|venuto|venuta} a offrire sostegno ai traditori? Ottima notizia. Detto questo, dovete capire che Eurac V è un sacro santuario per la Casata Orsellio e la via che vi conduce è rivelata solo a pochi eletti. Mi duole dirvi che non siete nella lista degli ospiti."
+
+### u037698
+"Come sono certo sappiate, i Custodi della Stazione erano due. La vostra supposizione è assolutamente corretta: Theobald Orsellio, il vecchio demente ossessionato da Lady Cassia e dal suo potere. E anche il responsabile delle sventure che si sono abbattute su Eurac V e sulla nostra nobile stirpe."
+
+### u037699
+{n}La risposta di Felek suona secca e stanca.{/n} "E sia. Sbrigatevi, conta solo la sicurezza della mia signora. Ma se doveste fallire, il nostro accordo è finito."
+
+### u037700
+"Invadete il sacro dominio dei Navis Nobilite e avete l'audacia di minacciarmi? Sulla mia stessa stazione?" {n}L'aria attorno al Custode si fa densa, e l'occhio del Navigatore trema in modo minaccioso.{/n} "Andrete incontro a una morte ingloriosa, {mf|rampollo|rampolla} di una grande famiglia. Guardie!"
+
+### u037701
+"Non capite! Questo è..." {n}Felek si interrompe a metà frase, fa una breve pausa e poi annuisce tra sé.{/n} "Avete ragione, potrebbe funzionare. È di certo possibile..."
+
+### u037702
+"Dovete aver perso il senno per trattare così i Navis Nobilite! Non sperate nemmeno che mi arrenda in silenzio!"
+
+### u037703
+{n}Felek scrolla le spalle con indifferenza.{/n} "Ecco perché sono pazzi. Darete davvero ascolto ai vaneggiamenti di servitori che hanno osato alzare la mano contro i rampolli di un nobile lignaggio?"
+
+### u037704
+"Non posso cambiare il passato e non oso sperare che vi fiderete mai più di me. Ma giuro che le mie parole e le mie scuse sono sincere."
+
+### u037705
+"Vi servirà questo talismano." {n}Felek vi porge una pietra preziosa senza castone. La sua superficie luminosa resta fredda al tatto per quanto a lungo la teniate in mano.{/n} "Se riuscite a premerla contro la pelle del mostro, con la forza o con l'astuzia, l'influsso nefasto dei suoi poteri si ritirerà. Potrete prenderla e lasciare la stazione."
+
+### u037706
+{n}Felek sembra esausto, ma una risoluzione arrogante rafforza la sua voce.{/n} "E queste tecnologie sono state rese segrete per un motivo. Devo respingere con rispetto la vostra richiesta, stimato servitore dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}. Voi avete i vostri sacramenti e noi i nostri."
+
+### u037707
+{n}Idira inclina di scatto la testa e conficca le unghie in profondità nella spalla. Poi inizia a farfugliare.{/n} "Il crocevia! Ci sono due strade, entrambe macchiate di sangue, entrambe dirette al maledetto occhio. Portano tutti delle maschere, così povere e fragili, cadono al minimo tocco, una nasconde un cieco, un'altra un traditore."
+
+### u037708
+"I miei sussurratori ridacchiano con cattiveria, non vogliono parlare, quelle birichine. Dicono che strappare le maschere è affar tuo."
+
+### u037709
+"Questa stazione ha già abbastanza problemi senza la vostra stregoneria, psyker." {n}Felek scaccia Idira con un gesto e guarda voi in attesa.{/n}
+
+### u037710
+{n}Idira annuisce stancamente e lancia un'occhiata di sbieco a Felek.{/n}
+
+### u037711
+"Lord Capitano, ci serve ancora un Naviga—"
+
+### u037712
+"Le nostre chiacchiere oziose non salveranno Lady Cassia. Ma se avete bisogno di essere {mf|certo|certa} di qualcosa prima di poterci aiutare... E sia."
+
+### u037713
+{n}Una scintilla di preoccupazione guizza nei pozzi neri degli occhi di Felek.{/n} "Potreste non credermi, ma Lady Cassia è capace di..." {n}Il Navigatore si contrae, apparentemente per il dolore, ed espira con furia,{/n} "...cose incredibili. Nemmeno il traditore Theobald riesce a imbrigliare facilmente il suo potere."
+
+### u037714
+"Sono stato clemente, è vero. E alla fine ne ho pagato un prezzo altissimo: guardate la distruzione attorno a noi. Gli insorti non hanno lasciato quasi nulla della mia casa..." {n}Il Custode sputa le ultime parole con particolare amarezza.{/n}
+
+### u037715
+"Voi... vi siete {mf|immischiato|immischiata} in qualcosa che andava lasciato in pace." {n}Il Custode incrocia le braccia e scuote la testa con disapprovazione.{/n} "'La Bambina' è il nome con cui i servitori della stazione chiamano Lady Cassia, perché le sudicie bocche dei popolani non devono macchiare il suo nome pronunciandolo. Vedete, non è vantaggioso che tutti i servitori abbiano gli organi vocali alterati. Alcuni si rivelano più utili quando sono ancora in grado di parlare."
+
+### u037716
+"Il che significa che l'ha fatto prima che il rapporto fosse presentato! O forse dopo. O..." {n}Il volto severo di Felek si contorce per il disgusto.{/n} "Osate sospettare di me per quello che è successo? Proprio io, che faccio di tutto per preservare quel poco che ancora resta? Per il Dio-Imperatore, tenetevi per voi queste accuse calunniose."
+
+### u037717
+"È davvero ora di porre fine a tutto questo." {n}Felek raddrizza le spalle e fa cenno alle sue guardie.{/n} "Speravo di trovare in voi un alleato, ma ora non fate che ritardare la triste fine della vostra storia. Preparatevi a morire!"
+
+### u037718
+"I recenti eventi hanno turbato gravemente la psiche di Lady Cassia, e le entità del warp bramano sempre le anime più deboli, soprattutto quando il velo si assottiglia. Anche voi sarete al sicuro accanto a questo talismano."
+
+### u037719
+"I miserabili insorti si sono impossessati di un'arma che sopprime i miei poteri di Navigatore. La loro assenza mi rende un bersaglio vivente, ma quest'arma è inutile contro di voi, così come la banda di lunatici che la impugna. Vi chiedo umilmente di occuparvi della feccia che si annida di sopra e di affrettarvi ad adornare la mia signora con la reliquia della nostra Casata, un sacro amuleto contro ogni male."
+
+### u037720
+{n}Felek stringe il prezioso bastone con una mano simile al tentacolo di un kraken.{/n} "Posso essere un mutante. Eppure i mostri possono assumere molte piacevoli sembianze: non credete a tutto ciò che vedete."
+
+### u037721
+{n}Felek annuisce seccamente.{/n} "Allora dovreste sbrigarvi. Noi resteremo qui a tenere la linea e a leccarci le ferite. Buona fortuna, Rogue Trader. E che la luce dell'Imperatore sia con voi!"
+
+### u037722
+{n}Pasqal allunga eccitato la mano verso una {g|Encyclopedia:Dataslate}tavoletta dati{/g}.{/n} "Richiedo l'accesso alla {g|Encyclopedia:Cybercrypt}cripta dati{/g} dell'oggetto. I Navis Nobilite usano modifiche indipendenti delle tecnologie sanguinarie standard, data l'unicità del codice genetico propria del lignaggio di ciascuna Casata."
+
+### u037723
+"Spero sinceramente che l'influsso dell'Immaterium non abbia ancora toccato il vostro corpo e la vostra anima. Con tutto il rispetto, vi consiglio di non restare sulla stazione. Tornate alla vostra nave del vuoto. Io devo salvare Lady Cassia. Se non siete {mf|disposto|disposta} ad aiutare né a rischiare la vita, dovete andarvene ora."
+
+### u037724
+{n}Felek sorride dolcemente e appare rilassato, quasi calmo.{/n} "Se tutto andrà come previsto, non dovrete preoccuparvi di cose simili."
+
+### u037725
+"Otterrete tutto ciò che volevate: un Navigatore leale e l'eterna gratitudine della Casata Orsellio."
+
+### u037726
+"Siete {mf|venuto|venuta} su questa stazione per una ragione. La Casata Orsellio non potrà aiutarvi finché la crisi attuale non sarà risolta, ma se ci aiuterete ora... vi prometto che raggiungeremo un accordo che troverete soddisfacente, che si tratti di ricchezze, di influenza o dei poteri dei nostri Navigatori."
+
+### u037727
+{n}Felek raddrizza le spalle e fa cenno alle sue guardie.{/n} "Non temo le minacce della vostra specie, perché non mi sono mai sentito al sicuro con un mostro nel cuore della mia Casata. Ora cadete!"
+
+### u037728
+"Cerco l'Interrogatore del Lord Inquisitore, un certo Heinrix van Calox. Sapete qualcosa di dove si trovi al momento?"
+
+### u037729
+"L'Interrogatore del {g|Encyclopedia:Inquisition}Lord Inquisitore{/g}? Credo che lo saprei, se una persona tanto importante avesse deciso di farci visita."
+
+### u037730
+[Nasconditi dietro Cassia]
+
+### u037731
+"Che coincidenza. Nemmeno io avevo intenzione di lasciarvi andare!"
+
+### u037732
+"Un traditore? Che significa tutto questo?"
+
+### u037733
+[Rivolgiti a Felek] "Ho mantenuto la mia parte dell'accordo, Felek. Ora sei il mio Navigatore."
+
+### u037734
+"Che c'è, Lady Cassia? Non ti ho portata dal tuo campione?"
+
+### u037735
+"Hai firmato la tua stessa condanna a morte!"
+
+### u037736
+"Ti scongiuro, Imperatore! Proteggimi da questo male!"
+
+### u037737
+[Estrai l'arma]
+
+### u037738
+[Rivolgiti a Cassia] "Taci, mostro. Non sei forse tu quella che ha tormentato i suoi sudditi per tutto questo tempo?"
+
+### u037739
+"Rogue Trader! Siete... {mf|tornato|tornata}." {n}Nella voce di Felek senti in parti uguali confusione e frustrazione.{/n} "E vi siete {mf|trascinato|trascinata} dietro questo mostro. Bene."
+
+### u037740
+"Perdonatemi questa piccola bugia, Rogue Trader. Avete servito la nobile causa della liberazione della Casata Orsellio come nessun altro, e per questo vi sarò per sempre grato. In un'altra vita avremmo potuto diventare grandi amici."
+
+### u037741
+"Dannazione! Perché non vuoi morire e basta!"
+
+### u037742
+{n}Una forza opprimente si abbatte su di te, quasi facendoti cadere. Il sapore del metallo ti inonda la bocca, ma una volontà incrollabile ti aiuta a resistere. Alla fine, gli orrori sputati dal terzo occhio del Navigatore non hanno più presa su di te.{/n}
+
+### u037743
+{n}Le parole ti si bloccano in gola e le mani rifiutano di obbedire. L'odio per Felek ti sopraffà. Come ha potuto? Come osa tradirti? Lui, il suo mentore? La sua Casata? Senti una donna urlare come da lontano, e il velo delle emozioni altrui che si intrecciano si dissolve.{/n}
+
+### u037744
+"Avete rovinato la mia casa e ucciso Theobald... per questo? Vi inganna come ha ingannato il mio popolo per tutti questi anni! La nebbia muschiosa vi offusca gli occhi, ma in fondo al vostro cuore vedo risplendere la luce dorata della verità. Sapete che non vi sto mentendo."
+
+### u037745
+"Il mio campione?" {n}Cassia ride con amarezza.{/n} "Felek Orsellio è un rinnegato. Un traditore della nostra Casata che ha massacrato la mia gente... Mi avete portata dal mio carnefice senza nemmeno rendervene conto? Che... che tristezza."
+
+### u037746
+"Di cosa state parlando? Sono Cassia Orsellio, una delle eredi della Casata Orsellio. Non sono un mostro e voglio che sappiate che non ho mai tormentato nessuno! Io... ho passato tutta la vita su Eurac V in compagnia di Felek e Theobald. Ed entrambi sono rimasti in buona salute fino a oggi!" {n}Cassia annuisce con rabbia verso Felek.{/n} "Ora me ne pento. Vedo gli anelli verde acido dell'inganno che vi stringono. Felek vi ha mentito... Proprio come ha mentito a me per tutto questo tempo."
+
+### u037747
+{n}Una forza opprimente si abbatte su di te, quasi facendoti cadere. Senti la pelle sciogliersi e il sangue ribollire mentre l'aria stessa ti brucia i polmoni dall'interno. Le parole ti si bloccano in gola e le mani rifiutano di obbedire, ma l'urlo di qualcuno ti riporta alla ragione.{/n}
+
+### u037748
+{n}Cassia sussulta alle parole del {g|Encyclopedia:Navigator}Navigatore{/g} e stringe i pugni. Le unghie aguzze affondano nella pelle morbida, facendo sgorgare il sangue. Il volto di Cassia, tuttavia, resta impassibile.{/n} "Traditore."
+
+### u037749
+"Sia lodato l'Imperatore onnipotente, la mia benefica signora è salva! Meraviglioso, è meraviglioso... Il peso del mondo mi è stato tolto dalle spalle!" {n}Felek ghigna con scherno prima di tornare cupo.{/n} "Mostro."
+
+### u037750
+"Tuttavia la reputazione della Casata non deve essere compromessa dalla vostra testimonianza. La ragazza è una maledizione per tutti gli Orsellio. È l'eredità di Tisiphone, una belva che teneva l'intera Casata incatenata dalla paura, uccidendo senza pietà alla minima traccia di dissenso! Ho dovuto spezzare le catene della sua tirannia. Non è nulla di personale. Sono certo che capiate." {n}L'occhio sulla fronte del Navigatore si spalanca.{/n}
+
+### u037751
+"Oh no no no, è male, è molto male! La maschera fragile, è sparita, e lo sguardo dietro di essa è puntato dritto su di voi, Lord Capitano!"
+
+### u037752
+"Oh, sì. A questo proposito..." {n}Felek Orsellio scrolla le spalle con imbarazzo.{/n}
+
+### u037753
+"Questo significa che avete ucciso il mio unico difensore e mi avete trascinata dritta tra le braccia del traditore che ha condannato Eurac V!" {n}Cassia ti scosta con rabbia, trattenendo a stento il tremito nella voce.{/n}
+
+### u037754
+"Bugiardi come voi, signore, non meritano di definirsi amici della dinastia." {n}Abelard allunga la mano verso l'arma.{/n} "Non che qualcuno vi abbia mai concesso un simile onore."
+
+### u037755
+Una fiala sigillata con incise le iniziali C.T.E.O.
+
+### u037756
+Filatterio di sangue
+
+### u037757
+Un'asta di controllo dell'ascensore realizzata con l'aiuto delle tecnologie dei Navigatori.
+
+### u037758
+Asta di controllo
+
+### u037759
+Un'asta di controllo a forma di meccanismo rotante.
+
+### u037760
+Asta di controllo del Custode
+
+### u037761
+136.M41
+La morte del Novator Jucebio Serapion Orsellio ha portato a un lungo conflitto tra le fazioni disparate all'interno della Casata. Lo stesso turno, Neonilla Orsellio parte per il Settore Askellon nel Segmentum Obscurus, rispondendo alla chiamata dei nostri alleati, la Casata Sakrobo.{br}
+139.M41
+I Lord di Terra convocano le Casate dei Navigatori nel Segmentum Obscurus per respingere Abaddon il Devastatore, un eretico e servitore del Caos. Dodici dei migliori Navigatori vengono trasferiti all'Inquisizione e alla Flotta Imperiale. Neonilla Orsellio è data per dispersa. Viene proclamato un giorno di lutto.{br}
+161.M41
+La Casata Orsellio lascia il Segmentum Obscurus. Perdite in combattimento: *cifre cancellate con inchiostro rosso*.{br}
+179.M41
+Meropa l'Occhio Onniveggente ascende al trono della Casata Orsellio come nuovo Novator. Viene emanato un decreto per fondere la Casata Orsellio e la Casata Sakrobo in un'unica Casata di Navigatori.{br}
+185.M41
+La Casata Orsellio e la flotta del Grande Inquisitore Synesius affrontano le forze della Casata Navigatrice Rinnegata Urbennto-Mono. Meropa l'Occhio Onniveggente muore per mano di un assalitore non identificato. *Un'aggiunta in inchiostro rosso recita: "Officio Assassinorum, Pyrr lo ha confermato."*{br}
+200.M41
+L'erede di Meropa l'Occhio Onniveggente, il Lord Navigatore Theophilus Orsellio, svanisce per sempre durante un volo verso il Settore Calixis insieme al Grande Inquisitore Synesius. Il trono di Novator viene rivendicato dal nipote di Theophilus, Chionia-Phira Orsellio I.
+
+### u037762
+Cronache della Casata Orsellio, Volume XXI
+
+### u037763
+"- ...un onore enorme!
+- Sì, ma... questa promozione trasferirà l'intera squadra alla guardia personale della Bambina.
+- Per il Dio-Imperatore! Be', sei un bel ragazzone, ce la farai probabilmente per un ciclo o tre.
+- Ha sfinito uomini migliori di me. A che serve, se il cervello ti si riduce in poltiglia? Potrei strapparmi gli occhi come ha fatto Amos. Nella migliore delle ipotesi, impazzirò come quel piccolo stronzetto che continuava a rubarci il lho...
+- Oh? E che fine ha fatto quello?
+- Si è buttato fuori da una camera depressurizzata perché delle voci glielo avevano detto.
+- Calmati. Il Custode Felek ha detto che la squadra non dovrà servire la Bambina a lungo. Ci ha perfino lasciato un po' di margine.
+- A differenza di quel testa di pesce...
+- Zitto! Potrebbe sentirti.
+- Be', hai capito cosa intendo. Ci ha quasi spaccato la testa perché qualcuno si era dimenticato di controllare l'unità di ristoro.
+- Non facciamo entrare un solo estraneo da più di dieci anni, ma il Custode Theobald trova sempre qualcosa di cui preoccuparsi. Immagina le urla se scopre che il Custode Felek non ci ha fatto ispezionare l'hangar dopo l'ultima visita di Lord Winterscale.
+- Il Trono non voglia! Cerco di stare alla larga dai battibecchi tra i nobili. Alcuni ordini del Custode Felek hanno poco senso, come l'ultima volta che ci ha ordinato di interrompere per un po' le comunicazioni con Rykad Minoris.
+- Perché l'avrebbe fatto?
+- Pare che si sia stancato delle visite del rampollo dei Winterscale.
+- Be', è sempre un piacere aiutare il Custode Felek.
+- Giusto. Se i nobili si sono stancati l'uno dell'altro, che se la sbrighino loro..."
+
+### u037764
+Conversazione intercettata tra ufficiali della sicurezza
+
+### u037765
+Un liquido sibilante e maleodorante.
+
+### u037766
+Acido non identificato
+
+### u037767
+Una sostanza viscosa e traslucida.
+
+### u037768
+Biogel
+
+### u037769
+Un campione purificato dal mondo oceanico OM-42-K-003.
+
+### u037770
+Acqua nera
+
+### u037771
+Pietra finemente macinata con particelle di metallo mescolate.
+
+### u037772
+Polvere di meteorite
+
+### u037773
+Una scheggia di meteorite fuso, ancora fredda del gelido respiro del vuoto.
+
+### u037774
+Frammento di meteorite
+
+### u037775
+Un grumo di minerale grezzo.
+
+### u037776
+Una manciata di polvere nera come il carbone e scintillante.
+
+### u037777
+Polvere adamantina
+
+### u037778
+Schegge sfolgoranti di un cristallo verde smeraldo.
+
+### u037779
+Polvere di cristallo
+
+### u037780
+Un cristallo scintillante che emette una luce spettrale.
+
+### u037781
+Psicristallo
+
+### u037782
+Un campione di carne con numerose escrescenze ricoperte da una rete di vene nero-bluastre.
+
+### u037783
+Campione di carne mutata
+
+### u037784
+Un campione di carne con frammenti di squame e rudimentali dita palmate.
+
+### u037785
+Campione di carne di Navigatore
+
+### u037786
+Un campione di carne di un tenero colore rosa, intatta dalle mutazioni.
+
+### u037787
+Campione di carne
+
+### u037788
+***
+Il Custode Theobald ha graziosamente accettato di fornire campioni delle sue escrescenze cutanee, così da poter studiare l'influenza dell'Immaterium ribelle sulla carne dei Navis Nobilite. Proprio come pensavamo, i Navigatori sono decisamente resistenti alle correnti irrequiete del warp... Il Dio-Imperatore protegge davvero alcuni dalla corruzione e dalla miseria. Ma torniamo allo studio della carne mortale. A momenti verrà portato un altro servitore, devo preparare l'attrezzatura per l'estrazione degli organi.
+***
+Polvere adamantina e acqua nera! È stata la peggiore idea che potesse venirmi in mente! Sia lodato il Dio-Imperatore, sono fortunata a non aver perso la testa dopo questo esperimento sconsiderato. Tuttavia abbiamo fatto una scoperta importante: l'adamantio sembra proteggere in una certa misura la fragile carne dei popolani. Detto questo, nemmeno il macinatore regge il suo temperamento, quindi dovremmo probabilmente introdurre nella formula un composto più complesso. Tutti i dati relativi all'esperimento sono stati registrati nella cripta dati K-04-OH. Vi tornerò più tardi, quando avrò finito l'esperimento H-41-OK.
+***
+Ho già detto che il frammento di meteorite trovato dai sudditi del Custode Felek è del tutto inutile? Anche se... i suoi granuli lucenti potrebbero servire a fare nuove vernici per la Bambina. Sì... credo che farò proprio così.
+
+### u037789
+Appunti di ricerca della Custode della Navis Laboratorum Fortunata Orsellio, Parte 13
+
+### u037790
+***
+Sempre più servitori subiscono l'influenza dell'Immaterium, e non ha nulla a che vedere con i capricci sempre più frequenti della Bambina. Abbiamo scoperto che la carne corrotta dei mutati reagisce in modo del tutto insolito ai cristalli acquistati dalla dinastia Winterscale. Raccomando caldamente di macinare finemente il reagente per catalizzare la reazione. Non usate l'acido in nessun caso! Credetemi, non vi piacerà dover curare le ustioni per una dozzina di turni di fila. Serve qualcosa di più... basico. Ah, e un'altra cosa. I Tecnopreti hanno benedetto la cripta dati H-41-OK per il numero calcolato di cronoturni, il che significa che non è più necessario restare accanto al dispositivo in attesa che la reazione inizi.
+***
+La cripta dati H-40-KO ha avuto un malfunzionamento nel corso delle nostre ricerche. Devo ricordare ai tecnomati di consegnare questo sacro meccanismo nelle capaci mani del Magos Dioctius.
+***
+
+### u037791
+Appunti di ricerca della Custode della Navis Laboratorum Fortunata Orsellio, Parte 12
+
+### u037792
+Sezione sperimentale: l'influenza della Bambina sullo stato psicoemotivo di vari rappresentanti dell'Imperium
+Livello di accesso: Orsellio-T-prime{br}
+Esperimento H4545-1
+Sottogruppo: popolani, maschi
+I soggetti del test mostrano segni di stress acuto. La maggioranza è morta per dissanguamento entro un giorno dal collocamento nella camera del laboratorio, a causa dell'impossibilità di arrestare la secrezione oculare (lacrime) e della successiva sostituzione di tali secrezioni da parte dell'organismo con il tessuto connettivo del suo ambiente interno. Gli individui con la maggiore resistenza alla risonanza della sacra Bambina sono morti alcuni cronoturni dopo: estese ferite all'addome, presumibilmente inflitte da un frammento di metallo seghettato; la morte è stata causata da strangolamento con le loro stesse viscere. Le ultime grida dei soggetti esprimevano timore per abominevoli tentacoli e vermi del vuoto, allucinazioni attribuite ai loro stessi organi interni.{br}
+Esperimento H4545-2
+Sottogruppo: popolane, femmine
+I soggetti del test sono morti entro un'ora dall'ingresso nel laboratorio adiacente alle stanze della Bambina. La maggior parte si era mozzata la lingua a morsi o si era slogata gravemente la mascella: ad alcuni soggetti mancava la forza fisica per separarla dal resto del cranio. Causa della morte: gravi traumi cranici causati dall'impatto contro le pareti o il pavimento.{br}
+Esperimento H4545-3
+Sottogruppo: un paziente paralizzato che ha perso la capacità di parlare a causa dello shock provocato da un incidente in un manufactorum, maschio
+Il soggetto del test ha riferito una sensazione di formicolio nel tessuto deteriorato. Durante la visita del Reggente Aaronto Orsellio alla Bambina, il soggetto ha sorriso e ha iniziato a canticchiare (molto probabilmente cercando di riprodurre un motivetto plebeo) e poi ha tentato di rivolgersi al servitore che gli portava il cibo. Una lunga conversazione è risultata impossibile a causa dell'assenza di lingua nel servitore.{br}
+Esperimento H4545-4
+Sottogruppo: una prole difettosa di Lord P. Orsellio, dichiarata inadatta allo studio dell'alta arte della Navigazione a causa della mutazione dei tessuti necessari all'installazione delle augmetiche obbligatorie che fondono la coscienza con la nave, e inoltre affetta da generale debolezza mentale, femmina
+I soggetti del test hanno imitato le azioni della Bambina per tre giorni. Il quarto giorno la Bambina si è turbata dopo aver appreso la notizia della prematura scomparsa di Amos Cantarelli, ufficiale della sua guardia personale. Di conseguenza, uno dei soggetti del test si è strappato dal volto vari strati di tessuto ed è morto per il conseguente massiccio attacco cardiaco.
+L'ultimo soggetto sopravvissuto è stato giustiziato per aver tentato di contattare la Bambina.
+
+### u037793
+Giornale di laboratorio H-4045LS
+
+### u037794
+La cripta dati reca un'iscrizione scritta con mano ordinata: "K-04-OH."
+
+### u037795
+Cripta dati K-04-OH
+
+### u037796
+La cripta dati reca un'iscrizione sull'involucro fuso: "H-40-KO."
+
+### u037797
+Cripta dati H-40-KO
+
+### u037798
+La cripta dati reca un'iscrizione mezza cancellata: "H-41-OK."
+
+### u037799
+Cripta dati H-41-OK
+
+### u037800
+Una pietra preziosa grezza priva di castone. È sempre fredda al tatto.
+
+### u037801
+Pietra luminosa
+
+### u037802
+Un buon maggiordomo cerca di coltivare solo i fiori più pregiati nel giardino che è la vita del suo padrone. Perciò i nuovi semi per il giardino vanno selezionati con la massima cura, affinché gli alberi del giardino producano i frutti più dolci. Le lezioni che seguono vi aiuteranno a separare i semi preziosi dalle spine vili per coltivare il giardino perfetto per qualsiasi Lady Navigatrice.{br}
+Lezione 1. Un servitore fedele si assicura sempre che le stanze e le vesti della sua signora siano pulite.
+Lezione 2. Un servitore fedele non offrirà mai alla sua signora lo stesso abito presentato in precedenza nel corso del ciclo.
+Lezione 3. Un servitore fedele offre alla sua signora un bicchiere d'acqua fresca al risveglio.
+Lezione 4. Un servitore fedele assaggia ogni piatto e ogni bevanda prima di servirli alla sua signora.
+Lezione 5. Un servitore fedele avrà padroneggiato l'arte di acconciare i capelli della sua signora. Il tempo totale che cinque servitori possono dedicare all'acconciatura della loro signora non dovrebbe superare tre giri del cronometro.
+Lezione 6. Un servitore fedele vive per la sua signora e dà volentieri la vita anche per lei.
+Lezione 7. Un servitore fedele...
+
+### u037803
+Pontius Cipheus Gelacius, "Sulla formazione di servitori degni alla corte dei Navis Nobilite"
+
+### u037804
+Un foglio di carta accartocciato con il disegno di una donna alta e di un mostro dagli occhi scuri... Dipinto con sangue fresco.
+
+### u037805
+Rozzo schizzo insanguinato
+
+### u037806
+Uve
+
+### u037807
+Guardia del corpo di Felek
+
+### u037808
+Guardia difensore
+
+### u037809
+Medico della guardia
+
+### u037811
+[Attiva l'ascensore]
+
+### u037812
+[Esamina i registri della sicurezza e del supporto vitale]
+
+### u037813
+[Risveglia il cogitatore]
+
+### u037814
+[Corpo di guardia]
+
+### u037815
+[Laboratorio]
+
+### u037816
+[Controlli principali dell'ascensore]
+
+### u037817
+[Armeria]
+
+### u037818
+[Visualizza il rapporto vox 12AH890]
+
+### u037819
+[Chiama Rykad Minoris per chiedere aiuto]
+
+### u037820
+[Esamina il registro d'attracco della stazione]
+
+### u037821
+[Visualizza i dati cifrati]
+
+### u037822
+[Passa ai controlli della camera principale]
+
+### u037823
+[Apri tutte le porte del livello]
+
+### u037830
+[Esamina le voci recenti del registro degli incidenti]
+
+### u037831
+[Sfonda le difese dei guardiani meccanici]
+
+### u037833
+[Richiedi i dati sui Navigatori della stazione]
+
+### u037834
+"Procedi pure."
+
+### u037835
+"Grazie, ce la faccio {mf|da solo|da sola}."
+
+### u037836
+[Salone principale]
+
+### u037837
+[Biblioteca]
+
+### u037838
+[Compartimento adiacente]
+
+### u037839
+[Aree tecniche]
+
+### u037840
+[Esamina il registro]
+
+### u037841
+[Torna all'elenco dei comandi disponibili]
+
+### u037842
+{n}Aggiri con facilità le restrizioni imposte alla sacra macchina. I processori sovraccarichi del cogitatore ronzano con malcontento.{/n}
+
+### u037843
+{n}La maggior parte dei dati cifrati è stata cancellata: trovi tracce del protocollo di epurazione. Il recupero è impossibile, ma un elenco degli ultimi comandi, incorporato nella coscienza dello spirito macchina, ora scorre sullo schermo in un'unica riga strisciante: "ChildDeletePictFlowDisableAccessCodeAnnulStationControlsDeleteActivateShuttleSelfdestructPurgeCommandLog..."{/n}
+
+### u037844
+{n}Esplorando ancora un po' gli archivi trovi un estratto sopravvissuto del rapporto del capitano della guardia, che menziona come il sistema di sicurezza sia stato riconfigurato di recente a sua insaputa. Il suo commento recita:{/n} "Solo i Custodi della Stazione hanno accesso ai sistemi di supporto vitale... Ma il Custode Theobald non si era allontanato dal fianco della Bambina, e nemmeno io. Possibile che..."
+
+### u037845
+"Elaborazione della richiesta... Confermato."
+
+### u037846
+{n}Lo schermo vid lampeggia e i meccanismi nel nucleo della macchina emettono un basso ronzio.{/n}
+
+### u037847
+{n}Lo schermo vid del {g|Encyclopedia:Cogitator}cogitatore{/g} è coperto di crepe e macchiato di sangue secco. Pulsanti, interruttori e leve sono stati strappati dal pannello di controllo con eccezionale crudeltà e sparpagliati attorno al sacro meccanismo che ora scintilla e sibila nell'agonia, rifiutandosi ancora di spegnersi.{/n}
+
+### u037848
+{n}Lo schermo rotto sfarfalla di statica danzante:{/n} "ATTENZIONE! Dati corrotti. Elaborazione... Elaborazione... Elaborazione... ERRORE. È richiesta la configurazione manuale."
+
+### u037849
+{n}Le dita di Pasqal tamburellano un crescendo risonante sul pannello di controllo mentre i suoi mecadendriti rimuovono la copertura metallica e il cavo dati scivola nelle viscere della macchina. Il corpo del cogitatore inizia a crepitare di impulsi elettrici, e il Tecnoprete annuisce soddisfatto. Pochi minuti dopo Pasqal alza le mani sopra la macchina, intona una breve litania che solo lui comprende e preme il moncone sopravvissuto di una delle leve.{/n} "Le mie umili preghiere hanno soddisfatto i requisiti di questa macchina."
+
+### u037850
+{n}I dati d'archivio conservati nella {g|Encyclopedia:Cybercrypt}cripta dati{/g} locale del cogitatore sono parzialmente corrotti, ma riesci comunque ad accedere ai registri residui per esaminarli.{/n}
+
+### u037851
+{n}Pasqal getta una breve occhiata allo schermo vid e parla con tono asciutto:{/n} "L'imminente fine di questa stazione del vuoto è confermata. Il danno alla sua infrastruttura centrale ha raggiunto la massa critica, punto in cui l'ulteriore degrado è proseguito in configurazione a cascata."
+
+### u037852
+"Qui l'ufficiale H-123. Duecento servitori sono morti per la decompressione esplosiva degli alloggi. Abbiamo individuato tracce di interferenza meccanica. La causa preliminare è il sabotaggio da parte di un ufficiale. Le squadre cinque, sei e nove sono isolate dal compartimento principale. Abbiamo ossigeno per venti minuti, che l'{g|Encyclopedia:Emperor}Imperatore{/g} salvi le nostre anime."
+
+### u037853
+"Ufficiali superiori della stazione, qui parla il capitano. Abbiamo tentato di contattare il rampollo dei Winterscale per chiedere aiuto, ma qualcosa disturba il segnale. Non abbiamo mai ricevuto risposta e non possiamo nemmeno essere certi che sia mai stata inviata. Una squadra di soccorso non arriverà. Siamo soli, quindi restate vigili. Chiunque potrebbe essere un traditore, mi sentite? CHIUNQUE! Se avete dubbi, sparate per uccidere."
+
+### u037854
+{n}L'ascensore è stato attivato.{/n}
+
+### u037855
+{n}Qualche manipolazione degli interruttori ti fa capire che l'ascensore per le stanze superiori è bloccato.{/n}
+
+### u037856
+{n}Le luci gialle sopra il pannello di controllo si accendono con un guizzo e un unico messaggio ripetuto scorre sullo schermo vid:{/n} "ATTENZIONE! Rilevati danni ai compartimenti tecnici A-12, B-3, D-8 e H-24. ATTENZIONE! Alloggi L-10, L-16, L-28 depressurizzati. ATTENZIONE! Impossibile accedere al sistema di attracco della stazione. ATTENZIONE! Sistema di regolazione energetica: errore sconosciuto. La stazione passerà all'alimentazione di emergenza. Si consiglia l'evacuazione immediata della struttura. ATTENZIONE!"
+
+### u037857
+{n}La {g|Encyclopedia:Vox}registrazione vox{/g} sibila per un po' prima che tu senta una voce: {/n} "Qui l'ufficiale A-282, mi ricevete? Diversi generatori si sono surriscaldati ai livelli inferiori, le camere da A a D sono prive di energia! L'equipaggio di {g|Encyclopedia:TechPriest}Tecnopreti{/g} inviato a indagare sul problema non risponde. Richiedo rinfor—" {n}Il discorso dell'ufficiale viene interrotto da delle urla e la registrazione termina bruscamente.{/n}
+
+### u037858
+{n}Il registro è quasi completamente corrotto, ma riesci a recuperare l'ultima voce:{/n} "Identità confermata: Reggente Aaronto Orsellio. Data della visita: riservata. Motivo della visita: riservato. Data di partenza: riservata."
+
+### u037859
+{n}Qualcosa ronza nelle viscere metalliche del cogitatore. Diversi lumen rossi si accendono sopra lo schermo vid:{/n} "Livello di accesso richiesto: capitano della sicurezza o superiore. Livello di accesso attuale: ufficiale superiore della sicurezza."
+
+### u037860
+{n}Lo schermo vid lampeggia con furia e il pannello di controllo inizia a sputare scintille che ti mordono le dita. Dopo qualche minuto di disperato scontro, il cogitatore tace, negandoti per sempre l'accesso ai dati riservati.{/n}
+
+### u037861
+"Chiedo il permesso di placare gli spiriti stanchi in questa creazione dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}." {n}Pasqal si china sul cogitatore, mentre il suo sistema vox intona un mantra dell'Armonia Meccanica e i mecadendriti ruotano con cura le manopole e premono i pulsanti del pannello di controllo. Pochi minuti dopo il Tecnoprete riferisce:{/n} "Fatto. L'accesso agli archivi è stato concesso."
+
+### u037862
+{n}Gli ingranaggi all'interno del sacro meccanismo cominciano lentamente a girare con pesanti stridori e scatti. Gli stanchi spiriti macchina ti concedono l'accesso ai controlli della stazione, o almeno alle parti che ancora obbediscono al cogitatore.{/n}
+
+### u037863
+{n}Lo schermo vid del cogitatore si spegne come se gli spiriti macchina fossero fuggiti dal loro scrigno meccanico. Ma ti sbagli, perché pochi istanti dopo si riempie di statica. A stento distingui un'iscrizione nel flusso di simboli che cambiano rapidamente.{/n}
+
+### u037864
+{n}Giri qualche altra manopola rimasta e tiri la leva di attivazione. Lo schermo vid incrinato del sacro motore sfarfalla. Le viscere del cogitatore emettono scricchiolii e gemiti e i {g|Encyclopedia:Lumen}lumen{/g} oscillano a caso. Ci vuole un po', ma alla fine gli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g} ti concedono davvero l'accesso ai sistemi del cogitatore.{/n}
+
+### u037865
+{n}Premi qualche pulsante sul pannello di controllo, ma il sistema si ribella e continua a reimpostare i tuoi comandi. Secondo i dati, il compartimento che stai cercando di aprire è depressurizzato.{/n}
+
+### u037866
+{n}Ringrazi gli spiriti macchina e reimposti il protocollo operativo.{/n}
+
+### u037867
+{n}Lo schermo vid si illumina di una manciata di simboli verdi sconosciuti e da qualche parte alle tue spalle senti uno strano scatto. Sembra che una delle porte della camera si sia aperta.{/n}
+
+### u037868
+{n}Rapporto X-880, origine: riservata. Data: riservata.{/n} "I servitori vicini alla Bambina hanno ricominciato a massacrarsi a vicenda. È giunto l'ordine dall'alto di far riciclare i loro resti."
+
+### u037869
+{n}Il sistema non riesce a eseguire il tuo comando nonostante la volenterosa obbedienza degli spiriti macchina. Una cosa è certa: il problema non sta nei meccanismi del cogitatore.{/n}
+
+### u037870
+{n}Rapporto X-886, origine: riservata. Data: riservata.{/n} "I negoziati con i Winterscale sono stati un successo. Un nuovo gruppo di servitori arriverà tra dieci lune. Scortateli subito al laboratorio, è imperativo aumentare la resistenza dei nuovi servitori ai poteri della Bambina."
+
+### u037871
+{n}I sistemi vox di Pasqal emettono un trillo binarico.{/n} "Gli spiriti di questa sacra macchina richiedono speciali rituali di purificazione per ripristinare l'uso della lingua più familiare ai cittadini dell'{g|Encyclopedia:Imperium}Imperium{/g}. Chiedo accesso al dispositivo."
+
+### u037872
+{n}Un brivido di statica attraversa lo schermo vid in frantumi.{/n}
+
+### u037873
+{n}Dopo una breve pausa, i dati appaiono sullo schermo vid:
+- Felek Orsellio. Posizione: salone principale. Stato: vivo.
+- Theobald Orsellio. Posizione: stanze superiori. Stato: vivo.
+- Calomira Orsellio. Posizione: stanze superiori. Stato: deceduta.
+- Alexius Orsellio. Posizione: livelli inferiori. Stato: deceduto.
+- Rasmus-Estevan Orsellio. Posizione: sconosciuta. Stato: deceduto.{/n}
+
+### u037874
+{n}Rapporto X-891, origine: riservata. Data: riservata.{/n} "Dati cancellati."
+
+### u037875
+{n}La Bambina. Posizione: stanze superiori. Parametri biometrici: battito accelerato, temperatura corporea elevata, livello di stress oltre il limite consentito. Stato: errore sconosciuto.
+ATTENZIONE! Si consigliano procedure calmanti. ATTENZIONE! Stanze superiori inaccessibili. ERRORE: l'asta di controllo non è presente. Se l'asta è stata smarrita, contattare immediatamente un Custode della stazione o il custode della Navis Laboratorum.{/n}
+
+### u037876
+{n}Le seguenti registrazioni vox sono troppo distorte per distinguere anche una sola parola.{/n}
+
+### u037877
+{n}Un ululato soffocato proviene da sotto il guscio di ferro del cogitatore. Per quanto ti sforzi di sopraffarlo, il sistema resta inaccessibile.{/n}
+
+### u037878
+{n}I sistemi vox del {g|Encyclopedia:TechPriest}Tecnoprete{/g} emettono un trillo binarico e i suoi {g|Encyclopedia:Mechadendrite}mecadendriti{/g} iniziano a sferzare furiosamente l'aria:{/n} "Sto registrando una blasfemia! Chiunque sia ritenuto colpevole di tale crudeltà verso un nobile meccanismo deve essere condannato alla distruzione immediata."
+
+### u037879
+{n}C'è un ronzio inquieto all'interno della sacra macchina, ma presto le informazioni richieste vengono proiettate sullo schermo vid:
+- Felek Orsellio. Posizione: ingresso principale. Stato: deceduto.
+- Theobald Orsellio. Posizione: stanze superiori. Stato: vivo.
+- Calomira Orsellio. Posizione: stanze superiori. Stato: deceduta.
+- Alexius Orsellio. Posizione: livelli inferiori. Stato: deceduto.
+- Rasmus-Estevan Orsellio. Posizione: sconosciuta. Stato: deceduto.{/n}
+
+### u037880
+{n}La Bambina. Posizione: stanze superiori. Parametri biometrici: battito accelerato, temperatura corporea elevata, livello di stress oltre il limite consentito. Stato: errore sconosciuto.
+ATTENZIONE! Si consigliano procedure calmanti. ATTENZIONE! Stanze superiori inaccessibili. ERRORE: il meccanismo principale dell'ascensore non è alimentato. ERRORE: l'asta di controllo non è presente. Se l'asta è stata smarrita, contattare immediatamente un Custode della stazione o il custode della Navis Laboratorum.{/n}
+
+### u037881
+"Ricevuto."
+
+### u037882
+"ATTENZIONE! Dati corrotti. Elaborazione... Elaborazione... Elaborazione... ERRORE. 0100110101100001011011100111010101100001011011000010000001000011011011110110111001100110011010010110011101110101011100100110000101110100011010010110111101101110 è richiesto."
+
+### u037883
+{n}Il cogitatore impiega qualche istante a raccogliere i dati dai sistemi attivi della stazione e produce il seguente messaggio:{/n} "Il protocollo è stato eseguito. Il passaggio è stato aperto."
+
+### u037884
+{n}Il cogitatore impiega qualche istante a raccogliere i dati dai sistemi attivi della stazione. Secondo il rapporto, questa porta è già stata aperta.{/n}
+
+### u037885
+Fiasca del catalizzatore
+
+### u037886
+Fiasca del reagente
+
+### u037887
+Connettore per cripta dati
+
+### u037888
+Fiasca per tessuti
+
+### u037889
+Trasduttore
+
+### u037890
+Attiva il dispositivo
+
+### u037891
+"Benvenuti al centro di comando di Rykad Minoris!"
+
+### u037892
+"È un onore!"
+
+### u037893
+Corpi di soldati uccisi molto di recente.
+
+### u037894
+I corpi dei soldati e le conseguenze generali della battaglia suggeriscono che gli aggressori conoscessero con precisione il numero, i gradi e il percorso della squadra.
+
+### u037895
+Ovunque ci sono tracce di una battaglia recente, compresi corpi in uniforme della guardia planetaria.
+
+### u037896
+"Il nemico di Aurora è qui! Morte! Morte!"
+
+### u037897
+"Morte agli empi eretici!"
+
+### u037898
+"Che giunga l'Alba Finale!"
+
+### u037899
+"Il nemico di Aurora dev'essere ormai qui."
+
+### u037900
+"Pazienza. Cadrà nella nostra trappola. La verità del profeta è con noi."
+
+### u037901
+"Salve... Aurora... salve... Aurora... salve... Aurora..."
+
+### u037902
+"Gli occhi... I miei occhi... Li avete voi? Vi prego, ridatemeli! Anche uno solo! Vi prego!"
+
+### u037903
+"Il sole... sorgerà un'ultima volta... l'ultima volta..."
+
+### u037904
+"La luce! È dentro di me! È dentro! Mi sta... uccidendo... aargh!"
+
+### u037905
+"L'Alba Finale è vicina! Lo sento!"
+
+### u037906
+"Il confine... il confine... il confine... di cosa? Non ricordo! Basta! Smettete di parlarmi!"
+
+### u037907
+"Siete giunti a destinazione. E ora morirete! Per Aurora e per l'Alba Finale!"
+
+### u037908
+"Non possiamo attraversare in linea retta, Vostra Signoria. Vi mostro io una strada sicura per girarci attorno!"
+
+### u037909
+"Vi prego, seguitemi!"
+
+### u037910
+Questo giovane è stato evidentemente ucciso insieme agli altri. Ma è l'unico a cui sono stati portati via vestiti ed equipaggiamento.
+
+### u037911
+Non c'è dubbio che i simboli minacciosi siano eretici.
+
+### u037912
+Il luogo del rituale è coperto di sinistri simboli eretici, ciascuno dei quali emana inequivocabilmente il potere malevolo del warp.
+
+### u037913
+Un vox-trasmettitore portatile in grado di trasmettere segnali su grandi distanze.
+
+### u037914
+I segni su questo vox-trasmettitore indicano chiaramente che appartiene ai custodi planetari. Sul dispositivo si notano graffi e tracce di sangue.
+
+### u037915
+"Dunque... dobbiamo fare il giro... la strada principale è un po'... bloccata dai detriti..."
+
+### u037916
+"Seguitemi, Vostra Signoria!"
+
+### u037917
+"Credevi di aver vinto, nemico mio?"
+
+### u037918
+"Questo è solo l'inizio, nemico mio."
+
+### u037919
+"Egli viene! Egli viene! Egli viene! Egli viene!"
+
+### u037920
+"Dalle profondità della pietra morta, dalla Sua prigione di freddo metallo, Egli sorgerà: l'ora è vicina!"
+
+### u037921
+"Hai sconfitto Twilight. Hai abbattuto Aurora. Ma lei era solo una di noi. Mi senti?"
+
+### u037922
+"Stanno arrivando, uno sulle orme dell'altro: l'Aurora del mattino e l'Aurora della sera."
+
+### u037923
+"Stanno arrivando, passo dopo passo, i seguaci senza occhi, gli araldi senza voce. Il grande Maestro e dietro di lui, il suo fedele Apostolo."
+
+### u037924
+"Ascolta, nemico mio! Siamo mere ombre. Seguaci. Devi ancora incontrare Colui che ci ha dotati di conoscenza segreta."
+
+### u037925
+"Ovviamente, sempre che tu sopravviva a questo giorno: il giorno della venuta dell'Alba Finale!"
+
+### u037926
+"Ecco l'Alba Finale!"
+
+### u037927
+"Aiuto! Vi prego, aiuto!"
+
+### u037928
+"L'Imperatore ci protegga! Salvaci!"
+
+### u037929
+"Salvaci, proteggici e liberaci..."
+
+### u037930
+"Mamma! Mammina!"
+
+### u037931
+"Perché siete tutti ammassati... da qui dietro non vedo niente!"
+
+### u037932
+"Un vero Rogue Trader? In carne e ossa? Non ho mai visto nemmeno il nostro Lord Winterscale."
+
+### u037933
+"Avremmo dovuto trovare un posto vicino allo spazioporto. È lì che bruceranno l'eretico."
+
+### u037934
+"Guardate quel vecchio distinto che cammina dietro al Rogue Trader!"
+

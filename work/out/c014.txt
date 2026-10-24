@@ -1,0 +1,1993 @@
+### u006524
+Nerves of Steel
+
+### u006525
+Usare kit medici su un alleato sotto gli effetti delle {g|Encyclopedia:Career}abilità dell'archetipo{/g} Master Tactician cura quel bersaglio di ulteriori {g|Encyclopedia:HitPoints}ferite{/g} pari a <u>(bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del Master Tactician + bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g} del bersaglio)</u> e rimuove una {g|Encyclopedia:Injury}lesione{/g} extra senza alcuna {g|Encyclopedia:Test}prova{/g}.
+
+### u006526
+Salvation
+
+### u006527
+Ogni volta che il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} {g|Encyclopedia:Reload}ricarica{/g} un'arma, tutti gli alleati in un raggio di 3 caselle attorno al Master Tactician ricaricano a loro volta le proprie armi.
+
+### u006528
+Tactical Respite
+
+### u006529
+Granate e kit medici costano −1 {g|Encyclopedia:ActionPoints}punto azione{/g} in meno da usare (minimo 0).
+
+### u006530
+Cost-Effective
+
+### u006531
+Ogni volta che il {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} spende accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} sulle {g|Encyclopedia:Ability}abilità{/g}, i {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} inflitti dal Master Tactician aumentano di +1% per ogni accumulo speso fino alla fine del {g|Encyclopedia:Turn}turno{/g}.
+
+### u006532
+Stacking the Deck
+
+### u006533
+Il bersaglio di {g|f:3c33178f69de4c46983635ff3838e4f5}Inspire{/g} ottiene un ulteriore +5% di {g|Encyclopedia:DamageGlossary}danni{/g} per ogni 10 accumuli di {g|f:b669fe2c03a240fca1b3b2429ca87414}tactical advantage{/g} fino all'inizio del {g|Encyclopedia:Turn}turno{/g} successivo del {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g}.
+
+### u006534
+Unwavering Motivation
+
+### u006535
+{g|f:0d8a5197d82b4c0193a429c49a6b25a7}Assign Objective{/g} fa inoltre subire al bersaglio il +7% di {g|Encyclopedia:DamageGlossary}danni{/g} da qualsiasi fonte fino all'inizio del {g|Encyclopedia:Turn}turno{/g} successivo del {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g}.
+
+### u006536
+Primary Objective
+
+### u006537
+Ogni nemico ucciso dal {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} aumenta di +1 la {g|Encyclopedia:Resolve}determinazione{/g} del Master Tactician fino alla fine del combattimento.
+
+### u006538
+Personal Involvement
+
+### u006539
+Tutti i nemici {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} dal {g|Encyclopedia:CareerTacticianGlossary}Master Tactician{/g} hanno il +10% di probabilità in più di colpire la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} quando sparano agli alleati del Master Tactician al riparo.
+
+### u006540
+Suppressive Fire
+
+### u006541
+Fino all'inizio del proprio prossimo {g|Encyclopedia:Turn}turno{/g}, il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} ottiene una {g|Encyclopedia:Deflection}deviazione{/g} dei danni contro gli attacchi a distanza pari al numero di accumuli di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g} del Vanguard. Inoltre, il Vanguard diventa immune agli effetti di {g|Encyclopedia:PushGlossary}spinta{/g} e di movimento forzato fino al proprio prossimo turno.
+
+### u006542
+Bulwark
+
+### u006543
+<u>(10 + 2 × numero di accumuli di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g})</u>
+
+### u006544
+<u>Bonus di parata</u>
+
+### u006545
+Il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} ottiene +<u>(10 + 2 × numero di accumuli di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g})</u>% di {g|Encyclopedia:Parry}parata{/g} fino al proprio prossimo turno. Ogni volta che il Vanguard para l'attacco di un nemico, effettua immediatamente un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g} contro quel nemico con una penalità di −20 a {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}.
+
+### u006546
+<u>(10 + 2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g})</u>
+
+### u006547
+Il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} costringe un nemico nel proprio {g|Encyclopedia:MeleeAttacksGlossary}raggio di mischia{/g} ad attaccarlo immediatamente. Tutti gli alleati del Vanguard che impugnano armi da mischia e si trovano adiacenti al nemico effettuano un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g} contro di esso. Il nemico subisce +{unit_stat|WarhammerFellowship|bonus} di danni in più da questi attacchi di opportunità e ha una penalità di −{uip|DodgeParryPenalty|46e7a840c3d04703b154660efb45538b}% alla {g|Encyclopedia:Parry}parata{/g} e alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u006548
+Provocation
+
+### u006549
+<u>(5 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g})</u>
+
+### u006550
+Il Vanguard sceglie un alleato. Tutti i nemici in un raggio di 3 caselle attorno a questo alleato devono effettuare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una penalità di −{uip|ResistancePenalty|dac2896f1b4249648300531819f4d31d}. In caso di prova fallita, il Vanguard diventa il loro {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g}.
+Indipendentemente dall'esito della prova di resistenza di Willpower, l'alleato scelto non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} da parte di questi nemici, può sparare ai nemici nel raggio di mischia e si muove come se non si trovasse nel raggio degli attacchi di opportunità.
+
+### u006551
+Forced Distraction
+
+### u006552
+<u>(10 + 2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u>
+
+### u006553
+Questa creatura subisce +{uip|DamageBonus|6d2666949acd442bac7a4ab914af0b1f}% di danni in più dal Vanguard e dai suoi alleati. La loro {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} contro di essa è aumentata di +{uip|ArmourPenetrationBonus|6d2666949acd442bac7a4ab914af0b1f}%.
+
+### u006554
+Fino all'inizio del proprio prossimo turno, il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} e tutti i suoi alleati ottengono +{uip|DamageBonus|6d2666949acd442bac7a4ab914af0b1f}% di danni e +{uip|ArmourPenetrationBonus|6d2666949acd442bac7a4ab914af0b1f}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} contro i nemici in un raggio di 2 caselle attorno al Vanguard. Se il Vanguard si muove, l'area di questo effetto si sposta di conseguenza.
+Inoltre, tutti gli alleati che si trovano in un raggio di 2 caselle attorno al Vanguard nel momento in cui questa {g|Encyclopedia:Ability}abilità{/g} viene usata ottengono l'abilità {g|f:a39d7daf9b884978a66ef00675b2766f}Following!{/g}, che costa 0 PA, fino all'inizio del prossimo turno del Vanguard.
+
+### u006555
+Follow My Lead
+
+### u006556
+Il personaggio può muoversi in qualsiasi casella nella propria linea di vista in un raggio di 2 caselle attorno al {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} senza provocare {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u006557
+Following!
+
+### u006558
+Una forza inarrestabile in prima linea e un faro per i propri alleati. Anche sotto un fuoco di sbarramento estremamente pesante, un {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} diventa solo più forte nel crogiolo della battaglia.
+Focus principale: comandante in prima linea, supporto difensivo, {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}, assorbimento degli attacchi, reindirizzamento degli attacchi.
+
+### u006559
+Vanguard
+
+### u006560
+Ogni volta che il Vanguard {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico con un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g}, quel nemico deve effettuare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Willpower. In caso di prova fallita, il Vanguard diventa il {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} di questo nemico fino alla fine del prossimo turno del Vanguard.
+
+### u006561
+Taunting Opportunity
+
+### u006562
+Il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} ottiene +{uip|ParryBonus|4306728a131248258985ea6a89d9ec88}% di {g|Encyclopedia:Parry}parata{/g} contro i nemici che considerano il Vanguard un {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g}.
+
+### u006563
+Taunting Defence
+
+### u006564
+Ogni accumulo di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g} aumenta inoltre l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e la {g|Encyclopedia:Parry}parata{/g} di +1%.
+
+### u006565
+Renitent Beacon
+
+### u006566
+Ogni volta che un alleato del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} in un raggio di 2 caselle attorno a lui viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g}, il Vanguard concede a quell'alleato +{unit_stat|WarhammerFellowship|bonus} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}. Una volta per {g|Encyclopedia:Round}round{/g} per ciascun alleato.
+
+### u006567
+Words of Endurance
+
+### u006568
+Tutti i nemici in un raggio di 2 caselle attorno al {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} subiscono una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|DodgePenalty|bf4d485e8397405daed6d2d7de06fb57}% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} contro tutti gli attacchi tranne quelli del Vanguard.
+Se uno di questi nemici considera il Vanguard un {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g}, subisce invece una penalità di −{uip|DodgePenaltyMore|bf4d485e8397405daed6d2d7de06fb57}% alla schivata.
+
+### u006569
+Formidable Distraction
+
+### u006570
+<u>(5 + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u>
+
+### u006571
+<u>(5 + 2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u>
+
+### u006572
+Una volta per {g|Encyclopedia:Round}round{/g}, ogni volta che un nemico che considera il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} un {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} entra in una casella adiacente al Vanguard, quel nemico provoca un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g}.
+
+### u006573
+Punish the Imprudent
+
+### u006574
+Tutti gli alleati influenzati dalle {g|Encyclopedia:Ability}abilità{/g} del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} (ma non il Vanguard stesso) hanno il −{uip|CritChanceReduction|42bac3ce18ad49d887db32af0aea9f2c}% di probabilità in meno di subire un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+
+### u006575
+Protective Word
+
+### u006576
+<u>(5 + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g})</u>
+
+### u006577
+I {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g} infliggono il −{uip|CritDamageReduction|05c4347d31b44d89ad317c8d381a0a42}% di {g|Encyclopedia:DamageGlossary}danni{/g} in meno al {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g}.
+
+### u006578
+Resilient Beacon
+
+### u006579
+<u>(15 + 2 × bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g})</u>
+
+### u006580
+Finché il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} ha almeno 1 {g|Encyclopedia:TemporaryWounds}ferita temporanea{/g}, ottiene +{uip|ParryArmourBonus|62e487f6dc7b4155a35582f33a10d5de}% di {g|Encyclopedia:Parry}parata{/g} e di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+
+### u006581
+Enduring Shield
+
+### u006582
+{g|f:a0df8194db8c4e65ba74defc0da50a76}Defensive Stance{/g} ora ha una {g|Encyclopedia:Penalty}penalità{/g} di −10 a {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} per gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} concessi da questa {g|Encyclopedia:Ability}abilità{/g} invece di −20. Questi attacchi di opportunità infliggono ulteriori +{unit_stat|WarhammerToughness|bonus} {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u006583
+Counter-Attack Stance
+
+### u006584
+Finché {g|f:4a0836fc274b422c922d1327438b5847}Bulwark{/g} è attivo, il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} conta come {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura totale{/g} per i propri alleati e concede agli alleati adiacenti +<u>(accumuli di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g} / 2)</u> di {g|Encyclopedia:Deflection}deviazione{/g} dei {g|Encyclopedia:DamageGlossary}danni{/g} contro gli attacchi a distanza.
+
+### u006585
+Covering Bulwark
+
+### u006586
+Il prossimo attacco effettuato da un alleato sotto l'effetto di {g|f:f3704377141641898e285c815c4ab1dc}Forced Distraction{/g} concede inoltre a quell'alleato +3 {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u006587
+On Your Feet!
+
+### u006588
+Se il bersaglio di {g|f:3307422c78e04b02953a87f147c18942}Provocation{/g} viene colpito da almeno un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g} causato da {g|f:3307422c78e04b02953a87f147c18942}Provocation{/g}, il bersaglio ottiene +1 accumulo di {g|Encyclopedia:FatiguedEffect}affaticato{/g} fino alla fine del combattimento.
+
+### u006589
+Overwhelming Provocation
+
+### u006590
+{g|f:483e603fb5ea47fa8d5b45d1c34f4104}Wall of Rockcrete{/g} ora concede a tutti i bersagli ulteriori +{unit_stat|WarhammerToughness|bonus} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+
+### u006591
+Wall of Ferrocrete
+
+### u006592
+Ogni volta che un alleato usa {g|f:a39d7daf9b884978a66ef00675b2766f}Following!{/g}, quell'alleato ottiene +{uip|DamageBonus|34e432a3137e4dc29ef5ce4fae0b0492}% di {g|Encyclopedia:DamageGlossary}danni{/g} in più contro tutti i nemici in un raggio di 2 caselle attorno al {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u006593
+Offensive Follow
+
+### u006594
+<u>(5 + 2 × bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g})</u>
+
+### u006595
+Finché è al massimo degli accumuli di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g}, il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} ottiene +7 di {g|Encyclopedia:Resolve}determinazione{/g}.
+
+### u006596
+Unyielding Resolve
+
+### u006597
+Per ogni nemico che considera il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} un {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g}, l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del Vanguard aumenta del +5%.
+
+### u006598
+Centre of Attention
+
+### u006599
+All'inizio del {g|Encyclopedia:Turn}turno{/g} del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g}, prima che le sue {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} vengano perse, il Vanguard ottiene +<u>numero di {g|Encyclopedia:HitPoints}ferite{/g} temporanee</u> di {g|Encyclopedia:WarhammerStrength}Strength{/g} per 1 round.
+
+### u006600
+Beacon of Might
+
+### u006601
+Ogni volta che un attacco effettuato da un alleato {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} per la prima volta in un {g|Encyclopedia:Round}round{/g}, quell'attacco non infligge alcun {g|Encyclopedia:DamageGlossary}danno{/g} al Vanguard. Se questo attacco è un attacco a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}, ciò si applica a ogni colpo a segno della raffica.
+
+### u006602
+Unflinching
+
+### u006603
+Gli alleati influenzati da una qualsiasi delle {g|Encyclopedia:Ability}abilità{/g} del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} ottengono +{uip|ArmourBonus|73f6b026ca2d470c9e497583148b7650}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} per 1 {g|Encyclopedia:Round}round{/g}. Non è cumulabile.
+
+### u006604
+Selfless Resilience
+
+### u006605
+<u>(2 + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g} del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g})</u>
+
+### u006606
+Finché il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} ha almeno un alleato in un raggio di 2 caselle, il Vanguard ottiene +{uip|ParryBonus|d24e2ca5840c4a3d858e1a180c83cf20}% di {g|Encyclopedia:Parry}parata{/g}.
+
+### u006607
+Defensive Comrade
+
+### u006608
+<u>(3 + bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g} del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g})</u>
+
+### u006609
+Fino al proprio prossimo {g|Encyclopedia:Turn}turno{/g}, il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} attacca ogni nemico che attacca gli alleati del Vanguard in un raggio di 3 caselle attorno a lui. Inoltre, fino al proprio prossimo turno, il Vanguard rappresaglia sempre quando viene attaccato.
+Fino alla fine del combattimento, il Vanguard subisce il +30% di {g|Encyclopedia:DamageGlossary}danni{/g} in più da tutte le fonti.
+
+### u006610
+Fino al proprio prossimo {g|Encyclopedia:Turn}turno{/g}, il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} tenta di attaccare ogni nemico che attacca il Vanguard o i suoi alleati in un raggio di 3 caselle attorno a lui. Per effettuare questo contrattacco, se il Vanguard ha PM sufficienti, può muoversi verso l'attaccante. Se il Vanguard si muove, l'area di questo effetto si sposta di conseguenza.
+
+### u006611
+Unyielding Guard
+
+### u006612
+Fino alla fine del proprio prossimo {g|Encyclopedia:Turn}turno{/g}, il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} non può morire.
+Fino all'inizio del proprio prossimo turno, tutti i {g|Encyclopedia:DamageGlossary}danni{/g} subiti dal Vanguard sono ridotti di −{unit_stat|WarhammerToughness|bonus}.
+
+### u006613
+Unyielding Guard (Upgrade I)
+
+### u006614
+Fino all'inizio del prossimo {g|Encyclopedia:Turn}turno{/g} del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g}, ogni attacco effettuato dal Vanguard lo rende un {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} per il nemico {g|Encyclopedia:HitSequenceGlossary}colpito{/g} da quell'attacco.
+
+### u006615
+Unyielding Guard (Upgrade II)
+
+### u006616
+Fino alla fine del combattimento, tutti gli alleati in un raggio di 3 caselle attorno al {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} subiscono −{uip|DamageReduction|5ba4b5d2e2e242249a271800974865cd} di {g|Encyclopedia:DamageGlossary}danni{/g} in meno.
+
+### u006617
+Unyielding Guard (Upgrade III)
+
+### u006618
+<u>(bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g} del {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} / 2)</u>
+
+### u006619
+Fino alla fine del combattimento, il {g|Encyclopedia:CareerVanguardGlossary}Vanguard{/g} ottiene +{unit_stat|WarhammerFellowship|bonus} di {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g} per ogni attacco che lo {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}.
+
+### u006620
+Unyielding Guard (Upgrade IV)
+
+### u006621
+Entrench
+
+### u006622
+L'{g|Encyclopedia:CareerVeteranGlossary}Arch-Militant{/g} ottiene l'effetto {g|f:b75d2649f75f4262975138d739bf822e}cautious approach{/g} fino alla fine del combattimento, o fino a che questa abilità non viene usata di nuovo, o fino a che non usa {g|f:e63c911438394fb69d58597549f65688}Confident Approach{/g}. Invece dei consueti bonus di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g}, l'Arch-Militant ottiene +5% di {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g} per ogni accumulo.
+Se l'Arch-Militant ha già 4 o più accumuli di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g}, rimuove da sé tutti gli effetti di {g|Encyclopedia:SlowedEffect}rallentato{/g}, {g|Encyclopedia:BlindedEffect}accecato{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}in fiamme{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g} e diventa immune a questi effetti, oltre che a {g|Encyclopedia:Stun}stordito{/g} e {g|Encyclopedia:ProneEffect}a terra{/g}, finché mantiene attivo l'effetto {g|f:b75d2649f75f4262975138d739bf822e}cautious approach{/g}.
+
+### u006623
+Cautious Approach
+
+### u006624
+L'Arch-Militant ottiene l'effetto {g|f:e63c911438394fb69d58597549f65688}confident approach{/g} fino alla fine del combattimento, fino a che questa abilità non viene usata di nuovo, o fino a che non usa {g|f:b75d2649f75f4262975138d739bf822e}Cautious Approach{/g}. Invece dei consueti bonus di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g}, l'Arch-Militant ottiene +3% di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} e {g|Encyclopedia:ParryReduction}riduzione della parata{/g} e ignora il 3% della {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} nemica per ogni accumulo.
+Tutti gli attacchi dell'Arch-Militant mettono a segno {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g}, ma i danni critici dell'Arch-Militant su quegli attacchi sono dimezzati.
+Se l'Arch-Militant ha già 4 o più accumuli di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g}, i suoi attacchi infliggono sempre il massimo dei danni finché l'Arch-Militant mantiene attivo l'effetto {g|f:e63c911438394fb69d58597549f65688}confident approach{/g}.
+
+### u006625
+Confident Approach
+
+### u006626
+<u>(2 × bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g} o di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g} dell'{g|Encyclopedia:CareerVeteranGlossary}Arch-Militant{/g}, a seconda di quale sia più alto)</u>
+
+### u006627
+Se colpisce, il prossimo attacco dell'Arch-Militant costringerà tutti i bersagli a effettuare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Toughness con una penalità di −{uip|ResistancePenalty|fe85384efebb4d38b71738594746e413}. In caso di fallimento, i bersagli subiranno un effetto negativo in base al tipo di danno dell'attacco:
+-<indent=5%>I {g|Encyclopedia:ImpactDamage}danni da impatto{/g} mandano il bersaglio {g|Encyclopedia:ProneEffect}a terra{/g} per 1 round.</indent>
+-<indent=5%>I danni perforanti e {g|Encyclopedia:RendingDamage}laceranti{/g} infliggono {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e {g|Encyclopedia:SlowedEffect}rallentato{/g} al bersaglio fino alla fine del combattimento.</indent>
+-<indent=5%>I danni energetici e tutti gli altri danni infliggono {g|Encyclopedia:BlindedEffect}accecato{/g} al bersaglio fino alla fine del combattimento.</indent>
+Le spade potenziate e le asce potenziate contano sia come energetiche sia come laceranti, mentre i martelli potenziati contano sia come energetici sia come da impatto. Gli attacchi che combinano più tipi di danno beneficeranno di ciascun effetto aggiuntivo.
+
+### u006628
+Devastating Attack
+
+### u006629
+<u>(bonus di {g|Encyclopedia:WarhammerToughness}TGH{/g} + {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerStrength}STR{/g})</u>
+
+### u006630
+L'Arch-Militant effettua un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} con un calcio, infliggendo {uip|Damage|22d6c1b32a6d47f4899a370e28cf16f9} {g|Encyclopedia:DamageGlossary}danni{/g} invece dei danni dell'arma. Questo attacco non conta ai fini del limite di attacchi per {g|Encyclopedia:Turn}turno{/g} e conta come un singolo attacco in mischia ai fini di {g|f:7f7d109653f24774939f758d094b8812}Versatility{/g}.
+Questo attacco non può essere parato e {g|Encyclopedia:PushGlossary}spingerà{/g} il bersaglio a 2 caselle di distanza.
+
+### u006631
+Kick
+
+### u006632
+<u>(3 + bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} dell'{g|Encyclopedia:CareerVeteranGlossary}Arch-Militant{/g})</u>
+
+### u006633
+L'Arch-Militant ottiene immediatamente +{uip|MovementPoints|801926b855d64391b465b6d75796a19a} {g|Encyclopedia:MovementPoints}PM{/g}.
+Se l'Arch-Militant ha accumuli di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g}, ottiene +3 accumuli aggiuntivi di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g} che durano fino alla fine del proprio {g|Encyclopedia:Turn}turno{/g}.
+
+### u006634
+Reckless Rush
+
+### u006635
+Il prossimo attacco dell'Arch-Militant in questo {g|Encyclopedia:Turn}turno{/g} costerà 0 {g|Encyclopedia:ActionPoints}PA{/g} e non conterà ai fini del limite di attacchi per turno.
+Il costo di questa {g|Encyclopedia:Ability}abilità{/g} è ridotto di −1 PA ogni 4 accumuli di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g} (minimo 1).
+
+### u006636
+Wildfire
+
+### u006637
+Un Arch-Militant è un formidabile maestro di guerra, capace di fondere armi e stili diversi nel mezzo del combattimento. Che sia in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, a distanza o a metà strada tra le due — l'Arch-Militant è il migliore, e diventa sempre più forte a ogni istante di battaglia.
+Focus principale: versatilità, {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} estesi, benefici personali, rotazione dei set di armi, controllo della folla.
+
+### u006638
+Ogni volta che l'Arch-Militant usa un attacco di tipo diverso rispetto al precedente, ottiene un accumulo di versatility. I tipi di attacco validi sono: a {g|Encyclopedia:SingleRangedAttacksGlossary}colpo singolo{/g}, attacco in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} (a bersaglio singolo o a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}), in mischia ad area, a distanza ad area o a distanza a raffica.
+L'Arch-Militant ottiene +3 a Weapon Skill e Ballistic Skill per ogni accumulo di versatility.
+Se l'Arch-Militant ha 4 o più accumuli di versatility, infligge ulteriori +<u>(10 + {g|Encyclopedia:Bonus}bonus{/g} di WS)</u>% o +<u>(10 + bonus di BS)</u>% di danni, a seconda di quale sia il più alto.
+
+### u006639
+Versatility
+
+### u006640
+Quando l'Arch-Militant attacca bersagli la cui {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} è ridotta da effetti applicati dagli alleati dell'Arch-Militant, infligge +10% di {g|Encyclopedia:DamageGlossary}danni{/g}.
+Quando l'Arch-Militant attacca bersagli la cui {g|Encyclopedia:Deflection}deviazione{/g} è ridotta da effetti applicati dagli alleati dell'Arch-Militant, infligge +2 danni.
+
+### u006641
+Exploit Weakness
+
+### u006642
+Ottenere un accumulo di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g} aumenta la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} di +5% fino alla fine del {g|Encyclopedia:Turn}turno{/g}. Cumulabile.
+
+### u006643
+Adaptability
+
+### u006644
+L'Arch-Militant inizia il combattimento con 2 accumuli di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g}.
+
+### u006645
+Always Ready
+
+### u006646
+Uccidere un nemico con un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} fa costare −1 {g|Encyclopedia:ActionPoints}PA{/g} (min 1) a tutti gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g} dell'Arch-Militant in questo {g|Encyclopedia:Turn}turno{/g}, e viceversa. Non è cumulabile.
+
+### u006647
+Armsmaster
+
+### u006648
+Finché l'Arch-Militant ha ucciso almeno un nemico con un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} in questo {g|Encyclopedia:Round}round{/g}, ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +{uip|DodgeBonus|c3df77552dee4af28b2fb6c34078fcd6}% alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u006649
+Blood Haze
+
+### u006650
+Quando entra in combattimento, l'Arch-Militant ottiene +{uip|WeaponSkillBonus|92c12030342e45e38f93a34f72d264f8} di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e +{uip|BallisticSkillBonus|92c12030342e45e38f93a34f72d264f8} di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} fino alla fine del combattimento.
+
+### u006651
+Broad Expertise
+
+### u006652
+<u>(2 × bonus di {g|Encyclopedia:WarhammerBallisticSkill}BS{/g})</u>
+
+### u006653
+I nemici costretti a effettuare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} dall'Arch-Militant effettueranno qualsiasi prova di resistenza, da qualsiasi fonte, con una {g|Encyclopedia:Penalty}penalità{/g} di −{uip|ResistancePenalty|1b460fbb306341c3b19992da7b15f108} fino alla fine del combattimento.
+
+### u006654
+Ingenious
+
+### u006655
+L'Arch-Militant può usare {g|Encyclopedia:RangeAreaAttacksGlossary}armi a distanza{/g} a due mani nel {g|Encyclopedia:MeleeAttacksGlossary}raggio di mischia{/g}, ma con una {g|Encyclopedia:Penalty}penalità{/g} di −10 a {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+
+### u006656
+Close-Quarters Training
+
+### u006657
+L'Arch-Militant ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +<u>(5 + numero di accumuli di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g})</u>% ai {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g}. Questo bonus viene mantenuto quando l'Arch-Militant usa {g|f:b75d2649f75f4262975138d739bf822e}Cautious Approach{/g} o {g|f:e63c911438394fb69d58597549f65688}Confident Approach{/g}.
+
+### u006658
+Critical Versatility
+
+### u006659
+Gli attacchi con armi pesanti dell'Arch-Militant costano −1 {g|Encyclopedia:ActionPoints}punto azione{/g} (minimo 1).
+
+### u006660
+Heavy Gunner
+
+### u006661
+L'Arch-Militant infligge +15% di {g|Encyclopedia:DamageGlossary}danni{/g} ai bersagli che hanno un {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} (indipendentemente dal fatto che sia l'Arch-Militant o qualcun altro).
+
+### u006662
+Focal Point
+
+### u006663
+Ogni {g|Encyclopedia:Round}round{/g}, la prima {g|Encyclopedia:Ability}abilità{/g} a bersaglio singolo usata da un alleato sull'Arch-Militant concede +1 {g|Encyclopedia:ActionPoints}punto azione{/g} a quell'alleato.
+
+### u006664
+Awaiting Orders
+
+### u006665
+L'Arch-Militant infligge +20% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g} ai bersagli {g|Encyclopedia:Stun}storditi{/g}, {g|Encyclopedia:ProneEffect}a terra{/g} o {g|Encyclopedia:BlindedEffect}accecati{/g}.
+
+### u006666
+Contempt for the Weak
+
+### u006667
+L'Arch-Militant ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +<u>(5 + numero di accumuli di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g})</u>% all'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}. Questo bonus viene mantenuto quando l'Arch-Militant usa {g|f:b75d2649f75f4262975138d739bf822e}Cautious Approach{/g} o {g|f:e63c911438394fb69d58597549f65688}Confident Approach{/g}.
+
+### u006668
+Dependable
+
+### u006669
+L'Arch-Militant ottiene +1 accumulo di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g} ogni volta che un alleato gli concede un {g|Encyclopedia:ExtraTurn}turno extra{/g}.
+
+### u006670
+Discipline
+
+### u006671
+Qualsiasi attacco a distanza ad area e a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} dell'Arch-Militant riduce di −10 la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} di tutti i nemici {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} fino alla fine del combattimento. Non è cumulabile.
+
+### u006672
+Crippling Blasts
+
+### u006673
+Qualsiasi {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} dell'Arch-Militant, sia in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} sia a distanza, riduce la {g|Encyclopedia:Deflection}deviazione{/g} di tutti i nemici colpiti di −2 e la loro {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di −7% fino alla fine del combattimento. Non è cumulabile.
+
+### u006674
+Dismantle
+
+### u006675
+Qualsiasi attacco a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} e {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} dell'Arch-Militant riduce la {g|Encyclopedia:DodgeGlossary}schivata{/g} di tutti i nemici colpiti di −8% fino alla fine del combattimento. Non è cumulabile.
+
+### u006676
+Distract
+
+### u006677
+Quando l'Arch-Militant attacca bersagli la cui {g|Encyclopedia:DodgeGlossary}schivata{/g} è ridotta da effetti applicati dagli alleati dell'Arch-Militant, ottiene +10% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+Quando l'Arch-Militant attacca bersagli la cui {g|Encyclopedia:Parry}parata{/g} è ridotta da effetti applicati dagli alleati dell'Arch-Militant, infligge +20% di {g|Encyclopedia:DamageGlossary}danni{/g} critici.
+
+### u006678
+Preferred Targets
+
+### u006679
+Ogni volta che l'Arch-Militant o un suo alleato usa un {g|Encyclopedia:HeroicAct}atto eroico{/g} o una {g|Encyclopedia:DesperateMeasure}misura disperata{/g}, l'Arch-Militant ottiene +1 e +10% di {g|Encyclopedia:DamageGlossary}danni{/g} su tutti gli attacchi fino alla fine del combattimento.
+
+### u006680
+Accustomed to Glory
+
+### u006681
+Il bersaglio di {g|f:e7836ee2419b46d68da401547aaf630c}Kick{/g} deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una penalità di −{uip|ResistancePenalty|8c9f4b237a774e008c21e126a8b98746} o cadere {g|Encyclopedia:ProneEffect}a terra{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u006682
+Martial Art
+
+### u006683
+<u>(2 × bonus di {g|Encyclopedia:WarhammerStrength}STR{/g} dell'{g|Encyclopedia:CareerVeteranGlossary}Arch-Militant{/g})</u>
+
+### u006684
+Il costo di {g|f:9f4f7d8ef2c645c0a36b512f6fb69798}Wildfire{/g} è ridotto di −1 {g|Encyclopedia:ActionPoints}PA{/g} ogni 3 accumuli di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g} invece che 4.
+
+### u006685
+Flashfire
+
+### u006686
+Usare {g|f:b75d2649f75f4262975138d739bf822e}Cautious Approach{/g} concede inoltre all'Arch-Militant {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} pari al 10% delle sue {g|Encyclopedia:MaxWounds}ferite massime{/g}. Lo stesso accade all'inizio di ogni {g|Encyclopedia:Turn}turno{/g} finché l'Arch-Militant rimane sotto l'effetto di {g|f:b75d2649f75f4262975138d739bf822e}Cautious Approach{/g}.
+
+### u006687
+Survivor
+
+### u006688
+Mentre è sotto l'effetto di {g|f:e63c911438394fb69d58597549f65688}Confident Approach{/g}, l'Arch-Militant mantiene metà dei consueti {g|Encyclopedia:Bonus}bonus{/g} di {g|f:7f7d109653f24774939f758d094b8812}Versatility{/g}.
+
+### u006689
+Calm and Steady
+
+### u006690
+{g|f:662584d6310e4bc4b626937f35657e19}Devastating Attack{/g} riduce inoltre l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del bersaglio di −7% e la {g|Encyclopedia:WarhammerToughness}Toughness{/g} di −10 fino alla fine del combattimento. Non è cumulabile.
+
+### u006691
+Breaking Attack
+
+### u006692
+Mentre l'Arch-Militant è sotto l'effetto di {g|f:04e6f4e64b964552aec4b62f2f331090}Reckless Rush{/g}, i suoi attacchi non costano PM.
+
+### u006693
+All Out
+
+### u006694
+Fino alla fine del combattimento, l'Arch-Militant può effettuare un attacco aggiuntivo a ogni turno (compreso un attacco aggiuntivo nel turno in cui è stata usata questa {g|Encyclopedia:DesperateMeasure}misura disperata{/g}). Il primo attacco dopo aver usato questa abilità e quello di ogni turno successivo costano 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+Fino alla fine del combattimento, l'Arch-Militant subisce una penalità di −30 a Toughness e, all'inizio di ogni turno dell'Arch-Militant, subisce danni diretti pari al 10% delle sue {g|Encyclopedia:MaxWounds}ferite massime{/g}. Quest'ultimo effetto può essere rimosso curandosi.
+
+### u006695
+Heroic Sacrifice
+
+### u006696
+All'inizio del proprio turno, l'Arch-Militant subisce danni diretti pari al 10% delle sue {g|Encyclopedia:MaxWounds}ferite massime{/g}. Questo effetto può essere rimosso curandosi.
+
+### u006697
+L'Arch-Militant subisce una {g|Encyclopedia:Penalty}penalità{/g} di −30 alla propria {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u006698
+Fino alla fine del combattimento, l'Arch-Militant può effettuare un attacco aggiuntivo a ogni {g|Encyclopedia:Turn}turno{/g} (compreso un attacco aggiuntivo nel turno in cui è stato usato questo {g|Encyclopedia:HeroicAct}atto eroico{/g}). Il primo attacco dopo aver usato questa {g|Encyclopedia:Ability}abilità{/g} e quello di ogni turno successivo costano 0 {g|Encyclopedia:ActionPoints}PA{/g}.
+
+### u006699
+Steady Superiority
+
+### u006700
+Fino alla fine del combattimento, l'Arch-Militant può effettuare un attacco aggiuntivo con ciascuno dei propri set di armi. Inoltre, l'Arch-Militant ripristina tutti i propri {g|Encyclopedia:ActionPoints}punti azione{/g}.
+
+### u006701
+La prima volta in combattimento che l'Arch-Militant raggiunge 0 {g|Encyclopedia:HitPoints}ferite{/g} mentre è sotto l'effetto di {g|f:ad31784e7ced47a394736d4aeb4ec745}Steady Superiority{/g} o {g|f:f4dfd57e9b204e1e8d7eb2bb61a9ac11}Heroic Sacrifice{/g}, ripristina il 20% delle proprie {g|Encyclopedia:MaxWounds}ferite massime{/g} e perde questo effetto.
+
+### u006702
+Steady Superiority (Upgrade I)
+
+### u006703
+Fino alla fine del combattimento, ogni attacco concede un {g|Encyclopedia:Bonus}bonus{/g} cumulabile di +2% alla {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+
+### u006704
+Steady Superiority (Upgrade II)
+
+### u006705
+Fino alla fine del combattimento, gli attacchi dell'Arch-Militant non consumano tutti i {g|Encyclopedia:MovementPoints}PM{/g}. Inoltre, ogni attacco concede per 1 {g|Encyclopedia:Round}round{/g} un {g|Encyclopedia:Bonus}bonus{/g} cumulabile di +5% alla {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u006706
+Steady Superiority (Upgrade III)
+
+### u006707
+L'Arch-Militant può usare, in un singolo combattimento, sia l'{g|Encyclopedia:HeroicAct}atto eroico{/g} dell'{g|Encyclopedia:Career}archetipo{/g} Arch-Militant sia quello dell'archetipo {g|Encyclopedia:CareerFighterGlossary}Warrior{/g} o {g|Encyclopedia:CareerMarksmanGlossary}Soldier{/g}.
+<i>Nota:</i> puoi comunque usare un atto eroico o una misura disperata una sola volta per round.
+
+### u006708
+Steady Superiority (Upgrade IV)
+
+### u006709
+{g|Encyclopedia:HitSequenceGlossary}Probabilità di colpire{/g} ridotta di −100%
+
+### u006710
+<u>(10 × rango di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g})</u>
+
+### u006711
+Ogni accumulo di questo effetto aumenta di +1 tutti i danni da fuoco o da {g|Encyclopedia:BurningEffect}fiamme{/g} subiti dalla creatura.
+
+### u006712
+Covered in Oil
+
+### u006713
+Armatura a piastre feudale
+
+### u006714
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} se l'{g|Encyclopedia:WarhammerAgility}Agility{/g} di chi la indossa è superiore a 80.
+<b>Proprietà del mondo</b>: +15 di Agility.
+
+### u006715
+[Origine: Mondo Astronave] Armatura a maglia da Guardiano Aeldari
+
+### u006716
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se la {g|Encyclopedia:WarhammerWillpower}Willpower{/g} di chi la indossa è superiore a 50.
+
+### u006717
+Armatura runica
+
+### u006718
+Armatura Arbites
+
+### u006719
+Tuta corazzata migliorata
+
+### u006720
+Tuta corazzata efficiente
+
+### u006721
+Tuta corazzata rinforzata
+
+### u006722
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+<b>Proprietà del mondo</b>: +2 {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u006723
+[Origine: Mondo letale] Tuta corazzata
+
+### u006724
+Tuta corazzata
+
+### u006725
+Chi la indossa si muove in linea retta verso il bersaglio e infligge danni pari a <u>{g|Encyclopedia:Deflection}Deviazione{/g}</u>, poi {g|Encyclopedia:PushGlossary}spinge{/g} il bersaglio a 3 caselle di distanza. Questa abilità non conta ai fini del limite di {g|Encyclopedia:AttacksPerTurn}attacchi per turno{/g}.
+Devono esserci almeno 2 caselle libere tra chi la indossa e il bersaglio per usare questa abilità.
+
+### u006726
+Invincible Onslaught
+
+### u006727
+<u>{g|Encyclopedia:Deflection}Deviazione{/g}</u>
+
+### u006728
+Chi la indossa ottiene le abilità {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} e {g|f:d9f20b396eb64a4293c9e3bd3270e0dc}Invincible Onslaught{/g}.
+Ogni volta che chi la indossa usa {g|f:4955b43454f6488f82892e166c76c995}Charge{/g}, infligge +{uip|DmgDeflection|2c4c34ff909a4d3f86b2ad25c5659b96} {g|Encyclopedia:DirectDamage}danni diretti{/g} aggiuntivi.
+<b>Proprietà base dell'armatura</b>: +15 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006729
+Armatura Invincible Onslaught
+
+### u006730
+<u>(2 × {g|Encyclopedia:Deflection}deviazione{/g})</u>
+
+### u006731
+Pettorale carapace
+
+### u006732
+Pettorale con rivestimento
+
+### u006733
+Carapace in ceramite da Storm Trooper
+
+### u006734
+<b>Proprietà base dell'armatura</b>: +1 di {g|Encyclopedia:Deflection}deviazione{/g} contro i nemici umani.
+
+### u006735
+Cotta di maglia
+
+### u006736
+<b>Proprietà base dell'armatura</b>: +20% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro i demoni.
+<b>Proprietà del mondo</b>: +10% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u006737
+[Origine: Mondo demoniaco] Carapace da tutore dell'ordine del Caos
+
+### u006738
+<u>(3 + 3 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u006739
+Chi la indossa subisce il −50% di {g|Encyclopedia:WarpDamage}danni warp{/g} in meno.
+Quando chi la indossa subisce danni per la prima volta in un {g|Encyclopedia:Round}round{/g}, questa armatura scatena un fulmine, infliggendo {uip|Damage|812207c99d794fe9a525dc5ba6d18132} danni a tutte le creature in un raggio di 2 caselle.
+<b>Proprietà base dell'armatura</b>: +15 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006740
+Thunder Bearer
+
+### u006741
+<b>Proprietà base dell'armatura</b>: +3 di {g|Encyclopedia:Deflection}deviazione{/g} contro gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+<b>Proprietà del mondo</b>: +15 di {g|Encyclopedia:Parry}parata{/g}.
+
+### u006742
+[Origine: Mondo di guerra] Armatura a piastre della Crociata
+
+### u006743
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro i nemici non Aeldari.
+
+### u006744
+Armatura da Ranger
+
+### u006745
+Armatura da Arlecchino
+
+### u006746
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se chi la indossa si trova in una qualsiasi {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+
+### u006747
+Armatura da Ranger Aeldari
+
+### u006748
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro i nemici umani.
+<b>Proprietà del mondo</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u006749
+[Origine: Mondo di guerra] Carapace da tutore dell'ordine
+
+### u006750
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro i nemici umani.
+
+### u006751
+Carapace da tutore dell'ordine
+
+### u006752
+Carapace leggero da tutore dell'ordine
+
+### u006753
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro i nemici umani.
+<b>Proprietà del mondo</b>: +10 di {g|Encyclopedia:WarhammerAgility}Agility{/g}.
+
+### u006754
+[Origine: Mondo letale] Carapace leggero da tutore dell'ordine
+
+### u006755
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro i nemici umani.
+
+### u006756
+Carapace leggero da tutore dell'ordine migliorato
+
+### u006757
+<b>Proprietà base dell'armatura</b>: +15 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006758
+Armatura potenziata di famiglia
+
+### u006759
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+<b>Proprietà del mondo</b>: +10% di {g|Encyclopedia:Parry}parata{/g}.
+
+### u006760
+[Origine: Mondo di guerra] Tuta da scherma
+
+### u006761
+Giubbotto flak rinforzato
+
+### u006762
+Giubbotto flak migliorato
+
+### u006763
+Giubbotto flak
+
+### u006764
+Finché chi la indossa ha {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}, i suoi attacchi in mischia infliggono +15% di danni in più.
+Ogni volta che chi la indossa {g|Encyclopedia:Parry}para{/g} l'attacco nemico, ottiene +{unit_stat|WarhammerToughness|bonus} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+<b>Proprietà base dell'armatura</b>: +15 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006765
+Sanguine Judgement
+
+### u006766
+Armatura della forgia
+
+### u006767
+Chi la indossa ottiene +{uip|Deflection|45fe9f269ef14253aaa7f14d414f8a39} di {g|Encyclopedia:Deflection}deviazione{/g}.
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se chi la indossa non si trova in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+
+### u006768
+Armatura Ghostplate
+
+### u006769
+<b>Proprietà base dell'armatura</b>: +3 di {g|Encyclopedia:Deflection}deviazione{/g} contro gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+
+### u006770
+Armatura a maglia da gladiatore
+
+### u006771
+Armatura flak migliorata
+
+### u006772
+Armatura flak
+
+### u006773
+Armatura flak rinforzata
+
+### u006774
+[Origine: Mondo di guerra] Pettorale flak
+
+### u006775
+<b>Proprietà base dell'armatura</b>: +5 di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} se chi la indossa non ha {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+<b>Proprietà del mondo</b>: +10% di {g|Encyclopedia:Parry}parata{/g}.
+
+### u006776
+Pettorale flak
+
+### u006777
+<b>Proprietà base dell'armatura</b>: +{uip|Dodge|ad3dcdf13466497cb71f16b239944873}% di {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u006778
+Carapace leggero da cacciatore di teste
+
+### u006779
+Armatura di cuoio pesante
+
+### u006780
+<b>Proprietà base dell'armatura</b>: +2 di {g|Encyclopedia:Deflection}deviazione{/g} contro i nemici non umani.
+<b>Proprietà aggiuntiva</b>: +5 {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u006781
+Xenomaglia pesante improvvisata
+
+### u006782
+Xenomaglia pesante
+
+### u006783
+<b>Proprietà base dell'armatura</b>: +2 di {g|Encyclopedia:Deflection}deviazione{/g} contro i nemici non umani.
+
+### u006784
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} se chi la indossa si trova in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura parziale{/g}.
+
+### u006785
+Carapace da cacciatore
+
+### u006786
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+<b>Proprietà del mondo</b>: +2 {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u006787
+[Origine: Kabal Reaving Tempest] Armatura da Incubus
+
+### u006788
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+
+### u006789
+Armatura da Incubus rinforzata
+
+### u006790
+Armatura da Incubus
+
+### u006791
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se l'{g|Encyclopedia:WarhammerAgility}Agility{/g} di chi la indossa è superiore a 70.
+<b>Proprietà del mondo</b>: immune a {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:ToxinEffect}tossina{/g} e {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+
+### u006792
+[Origine: Kabal del Cuore Nero] Armatura da Kabalite
+
+### u006793
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se l'{g|Encyclopedia:WarhammerAgility}Agility{/g} di chi la indossa è superiore a 65.
+
+### u006794
+Armatura da Kabalite rinforzata
+
+### u006795
+Armatura da Kabalite
+
+### u006796
+<b>Proprietà base dell'armatura</b>: +5% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro i nemici umani.
+
+### u006797
+Armatura di cuoio
+
+### u006798
+Pettorale a maglia
+
+### u006799
+<b>Proprietà base dell'armatura</b>: +5% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+<b>Proprietà del mondo</b>: +5 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u006800
+[Origine: Mondo fortezza] Giubbotto a maglia
+
+### u006801
+<b>Proprietà base dell'armatura</b>: +5% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}
+
+### u006802
+Giubbotto a maglia
+
+### u006803
+Cotta di maglia da pirata
+
+### u006804
+Finché nel gruppo non ci sono xenos, chi la indossa ottiene +10 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g}.
+<b>Proprietà base dell'armatura</b>: +20 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006805
+Adherent of Mankind
+
+### u006806
+Pettorale radioso
+
+### u006807
+<b>Proprietà base dell'armatura</b>: +2 di {g|Encyclopedia:Deflection}deviazione{/g} contro gli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g}.
+<indent=5%>+7 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g}</indent>
+<indent=5%>−5% di {g|Encyclopedia:DodgeGlossary}schivata{/g}</indent>
+
+### u006808
+Cotta di maglia di rottami
+
+### u006809
+<b>Proprietà base dell'armatura</b>: +{uip|Armour|3ad0b97773334053ab3303eb9b03dd0b}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+<b>Proprietà del mondo</b>: −2 {g|Encyclopedia:ActionPoints}PA{/g} al costo di {g|Encyclopedia:Reload}ricarica{/g} (minimo 1).
+
+### u006810
+[Origine: Mondo forgia] Armatura da Skitarii Ranger
+
+### u006811
+<b>Proprietà base dell'armatura</b>: +5% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se l'{g|Encyclopedia:WarhammerAgility}Agility{/g} di chi la indossa è superiore a 40.
+
+### u006812
+Pelle sintetica
+
+### u006813
+Una volta spruzzata sul corpo, protegge dai fattori ambientali e migliora le capacità di combattimento.
+
+### u006814
+Carapace Tempestus rinforzato
+
+### u006815
+<b>Proprietà base dell'armatura</b>: +2 di {g|Encyclopedia:Deflection}deviazione{/g} contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+<b>Proprietà del mondo</b>: +10 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u006816
+[Origine: Mondo fortezza] Carapace Tempestus
+
+### u006817
+<u>({g|Encyclopedia:SkillCarouse}Carouse{/g} / 15)</u>
+
+### u006818
+<b>Proprietà base dell'armatura</b>: +{uip|Deflection|c08bdc34a70346dfa2193a3fcaaa5b61} di {g|Encyclopedia:Deflection}deviazione{/g}.
+<b>Proprietà del mondo</b>: +30% di {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u006819
+[Origine: Mondo di guerra] Carapace Tempestus d'élite
+
+### u006820
+Carapace Tempestus
+
+### u006821
+<b>Proprietà base dell'armatura</b>: +2 di {g|Encyclopedia:Deflection}deviazione{/g} contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+
+### u006822
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro i nemici umani.
+<b>Proprietà del mondo</b>: +15 di {g|Encyclopedia:WarhammerPerception}Perception{/g}.
+
+### u006823
+[Origine: Mondo formicaio] Armatura da marinaio del vuoto
+
+### u006824
+Chi la indossa non subisce danni dagli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro i nemici non Drukhari.
+
+### u006825
+Wych's Scorn
+
+### u006826
+Armatura da Wych
+
+### u006827
+<b>Proprietà base dell'armatura</b>: +{uip|Armour|517d87082d9c4bfbb202bbf398722dbf}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+
+### u006828
+Xenopettorale in ceramite
+
+### u006829
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro i nemici xenos.
+
+### u006830
+Xenomaglia
+
+### u006831
+Chi la indossa è immune alla {g|Encyclopedia:ToxinEffect}tossina{/g} e non può cadere {g|Encyclopedia:ProneEffect}a terra{/g}, essere {g|Encyclopedia:PushGlossary}spinto{/g} via o diventare {g|Encyclopedia:StaggeredEffect}barcollante{/g}. Inoltre, la sua penalità alla {g|Encyclopedia:DodgeGlossary}schivata{/g} è ridotta.
+Tuttavia, il materiale di cui è fatta questa armatura è estremamente infiammabile: chi la indossa effettua tutte le {g|Encyclopedia:Test}prove{/g} per rimuovere {g|Encyclopedia:BurningEffect}in fiamme{/g} con una penalità di −30, subisce il doppio dei danni da fiamme e, quando subisce {g|Encyclopedia:FireDamage}danni da fuoco{/g}, subisce 6 livelli di fiamme.
+
+### u006832
+<u>({g|Encyclopedia:SkillAwareness}Awareness{/g} / 10)</u>
+
+### u006833
+<u>({g|Encyclopedia:SkillLoreXenos}Lore (Xenos){/g} / 10)</u>
+
+### u006834
+Questo giubbotto flak concede a chi lo indossa +3 di {g|Encyclopedia:Deflection}deviazione{/g} e +15% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} all'inizio di ogni combattimento. Durante i primi 3 {g|Encyclopedia:Round}round{/g}, la deviazione {g|Encyclopedia:Bonus}bonus{/g} si riduce di −1 e l'armatura di −5% alla fine di ogni round.
+<b>Proprietà base dell'armatura</b>: +10% di armatura se l'{g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} di chi la indossa è superiore a 55.
+
+### u006835
+Giubbotto flak adattivo
+
+### u006836
+Le probabilità di chi la indossa di subire un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} sono ridotte di −20%.
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} se la {g|Encyclopedia:WarhammerWillpower}Willpower{/g} di chi la indossa è superiore a 70.
+
+### u006837
+Armatura a maglia da Veggente Aeldari
+
+### u006838
+Ogni volta che chi la indossa uccide un nemico, recupera {g|Encyclopedia:HitPoints}ferite{/g} pari al 10% delle proprie ferite mancanti.
+<b>Proprietà base dell'armatura</b>: +30 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006839
+Armatura a rune dell'etere
+
+### u006840
+<u>({g|Encyclopedia:SkillCoercion}Coercion{/g} / 15)</u>
+
+### u006841
+Quando chi la indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un nemico umano, quel nemico ottiene +1 accumulo dell'effetto {g|Encyclopedia:PerplexedEffect}confuso{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+<b>Proprietà base dell'armatura</b>: +{uip|Deflection|43e0cceb9a584c938bf68300a2c4ccf6} di {g|Encyclopedia:Deflection}deviazione{/g}.
+
+### u006842
+Armatura pesante Arbites
+
+### u006843
+Ogni volta che chi la indossa schiva o para un attacco nemico, ottiene +{uip|Momentum|6b8e32c8b2ae4c0c9e7e164b34a7389f} di {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g}.
+<b>Proprietà base dell'armatura</b>: +{unit_stat|WarhammerWeaponSkill|bonus}% di {g|Encyclopedia:Parry}parata{/g} e +{unit_stat|WarhammerAgility|bonus}% di schivata contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+
+### u006844
+Shadow of the Undying One
+
+### u006845
+Armatura sacra intarsiata con le ossa dell'uomo pio che si faceva chiamare il Profeta dalla Voce Pura.
+
+### u006846
+<u>(3 + rango di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} di chi la indossa)</u>
+
+### u006847
+<u>({g|Encyclopedia:SkillLoreImperium}Lore (Imperium){/g} / 10)</u>
+
+### u006848
+Tutte le {g|Encyclopedia:Ability}abilità{/g} offensive di chi la indossa costano +1 {g|Encyclopedia:ActionPoints}PA{/g} in più, ma ottengono +20% di {g|Encyclopedia:HitSequenceGlossary}probabilità{/g} di colpo critico.
+<b>Proprietà base dell'armatura</b>: +{uip|Armour|316d01893b674779a75f89b5de397d88}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+
+### u006849
+Armour of the Undaunted
+
+### u006850
+La {g|Encyclopedia:HitSequenceGlossary}probabilità{/g} di colpo critico di chi la indossa nel combattimento in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} aumenta di +{uip|CritChance|1144f936b5e14273b7d60367992364a8}%.
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro i nemici umani.
+
+### u006851
+Carapace condensato
+
+### u006852
+<b>Proprietà base dell'armatura</b>: +15% di armatura contro i nemici xenos.
+<b>Proprietà extra</b>: +15% di parata.
+
+### u006853
+Armatura da sfondatore efficiente
+
+### u006854
+<b>Proprietà base dell'armatura</b>: +{uip|Armour|88c4c2fedc84403796580d7e85a03c7d}% di armatura.
+<b>Proprietà extra</b>: +10 di Perception.
+
+### u006855
+Armatura da sfondatore
+
+### u006856
+<u>(5 + rango di {g|Encyclopedia:SoulMarkHope}Iconoclast{/g})</u>
+
+### u006857
+<u>({g|Encyclopedia:SkillPersuasion}Persuasion{/g} / 10)</u>
+
+### u006858
+Chi la indossa ottiene +{uip|THP|4ebf0daf3a5d4b53b4d9323e3d3869a2} {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} per ciascuno dei suoi alleati a piena salute all'inizio del {g|Encyclopedia:Turn}turno{/g} di chi la indossa.
+<b>Proprietà base dell'armatura</b>: +{uip|Armour|4ebf0daf3a5d4b53b4d9323e3d3869a2}% di armatura.
+
+### u006859
+Armatura da sfondatore modificata
+
+### u006860
+Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} — Zelota
+Chi la indossa non può fallire alcuna {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} o {g|Encyclopedia:WarhammerToughness}Toughness{/g} mentre è in combattimento.
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} se la Toughness di chi la indossa è superiore a 70.
+
+### u006861
+Carapace da Castellano cadiano
+
+### u006862
+Concede +15% di {g|Encyclopedia:DamageGlossary}danni{/g} in più a qualsiasi potere di psyker o Navigatore.
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro i non demoni.
+
+### u006863
+Tuta del Caos
+
+### u006864
+<b>Proprietà base dell'armatura</b>: +20% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro i demoni.
+<b>Proprietà del mondo</b>: +15 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u006865
+[Origine: Mondo fortezza] Carapace leggero da tutore del Caos
+
+### u006866
+<b>Proprietà base dell'armatura</b>: +{unit_stat|WarhammerIntelligence|bonus} a {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
++10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se l'Intelligence di chi la indossa è superiore a 65.
+
+### u006867
+Pettorale flak da Commissario
+
+### u006868
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Zelota.
+Ogni volta che chi la indossa viene attaccato, l'attaccante deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una penalità di −20, altrimenti l'attacco infliggerà solo metà dei danni in caso di {g|Encyclopedia:HitSequenceGlossary}colpo{/g} e l'attaccante resterà {g|Encyclopedia:StaggeredEffect}barcollante{/g} per 1 round.
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} se la Willpower di chi la indossa è superiore a 70.
+
+### u006869
+Piastre d'armatura da cultista
+
+### u006870
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se chi la indossa non si trova in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+<b>Proprietà extra</b>: +{unit_stat|WarhammerStrength|bonus} {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u006871
+Pettorale da filatore Bloodspun
+
+### u006872
+<b>Proprietà base dell'armatura</b>: +{unit_stat|WarhammerAgility|bonus}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g} contro gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+<b>Proprietà extra</b>: +5 di Agility.
+
+### u006873
+Pettorale da filatore leggero
+
+### u006874
+Una volta per {g|Encyclopedia:Round}round{/g}, chi la indossa ottiene +2 {g|Encyclopedia:ActionPoints}PA{/g} e +2 {g|Encyclopedia:MovementPoints}PM{/g} nel proprio {g|Encyclopedia:Turn}turno{/g} in corso se uccide un nemico.
+<b>Proprietà base dell'armatura</b>: +20 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006875
+Armatura potenziata a scaglie di drago
+
+### u006876
+Ogni volta che un nemico si sposta in una casella adiacente a chi la indossa, quel nemico deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Willpower o subire +1 accumulo di {g|Encyclopedia:PerplexedEffect}confuso{/g} per 2 round.
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g} se chi la indossa non si trova in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+
+### u006877
+Armatura da alto filatore
+
+### u006878
+<b>Proprietà base dell'armatura</b>: +10% di probabilità di {g|Encyclopedia:Parry}parata{/g} contro gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}
+<b>Proprietà del mondo</b>: +5 di {g|Encyclopedia:WarhammerAgility}Agility{/g}
+
+### u006879
+[Origine: Mondo letale] Armatura flak leggera
+
+### u006880
+Armatura flak leggera
+
+### u006881
+<b>Proprietà base dell'armatura</b>: +10% di probabilità di {g|Encyclopedia:Parry}parata{/g} contro gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
++1 {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} per ogni attacco {g|Encyclopedia:DodgeGlossary}schivato{/g} o parato.
+
+### u006882
+Se chi la indossa equipaggia due pistole, ottiene +10 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e +10% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}.
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se la Ballistic Skill di chi la indossa è superiore a 70.
+
+### u006883
+Uniforme da duellante
+
+### u006884
+Questo carapace concede a chi lo indossa +2 di {g|Encyclopedia:Deflection}deviazione{/g} e +20% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro i {g|Encyclopedia:FireDamage}danni da fuoco{/g}, oltre all'immunità a {g|Encyclopedia:BurningEffect}in fiamme{/g}.
+<b>Proprietà base dell'armatura</b>: +10% di armatura contro gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+
+### u006885
+Carapace benedetto dal fuoco
+
+### u006886
+Una volta per {g|Encyclopedia:Round}round{/g}, qualsiasi {g|Encyclopedia:DamageGlossary}danno{/g} in arrivo da attacchi con armi concede a chi la indossa +10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} per il round successivo.
+
+### u006887
+Una volta per {g|Encyclopedia:Round}round{/g}, qualsiasi {g|Encyclopedia:DamageGlossary}danno{/g} in arrivo da attacchi con armi concede a chi la indossa +10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} per il round successivo.
+<b>Proprietà base dell'armatura</b>: +10% di armatura se la {g|Encyclopedia:WarhammerStrength}Strength{/g} di chi la indossa è superiore a 65.
+
+### u006888
+Carapace Gnarlskin
+
+### u006889
+Riduce di −10 la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} di tutti i nemici in combattimento.
+
+### u006890
+Tutti i nemici in combattimento subiscono −10 a {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+<b>Proprietà base dell'armatura</b>: +15 di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro i nemici umani.
+
+### u006891
+Armour of Despair
+
+### u006892
+Carapace fidato del Siniscalco
+
+### u006893
+<u>(2 × {g|Encyclopedia:Deflection}deviazione{/g} di chi la indossa)</u>
+
+### u006894
+Ogni volta che chi la indossa viene attaccato, la probabilità di colpo critico dell'attaccante contro di lui è ridotta di −{uip|CritRed|7f49924fd83944638d5dfc93a693b779}%.
+<b>Proprietà base dell'armatura</b>: +3 di {g|Encyclopedia:Deflection}deviazione{/g} se la Toughness di chi la indossa è superiore a 75.
+
+### u006895
+Tuta a costole
+
+### u006896
+Chi la indossa subisce −30% di {g|Encyclopedia:DamageGlossary}danni{/g} in meno dagli attacchi ad area e a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}.
+<b>Proprietà base dell'armatura</b>: +20% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro i nemici umani.
+
+### u006897
+Tuta del vuoto pesante
+
+### u006898
+<u>(ferite {g|Encyclopedia:HitPoints}totali{/g} di chi la indossa / 4)</u>
+
+### u006899
+Quando chi la indossa subisce danni pari o superiori a {uip|Wounds|f5809de6da7e407b95e15f8f7154a4d8}, questa {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} scatena un'esplosione di energia, infliggendo <u>(da 20 a 25)</u> {g|Encyclopedia:PowerDamage}danni da potenza{/g} (con {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} del 10%) a qualsiasi bersaglio nel {g|Encyclopedia:MeleeAttacksGlossary}raggio di mischia{/g}.
+<b>Proprietà base dell'armatura</b>: +25 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006900
+Armatura potenziata sacra
+
+### u006901
+Quando chi la indossa subisce danni pari o superiori a {uip|Wounds|f5809de6da7e407b95e15f8f7154a4d8}, questa armatura scatena un'esplosione di energia, infliggendo <u>(da 25 a 30)</u> {g|Encyclopedia:PowerDamage}danni da potenza{/g} (con il 10% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}) ai nemici nel {g|Encyclopedia:MeleeAttacksGlossary}raggio di mischia{/g}.\n<b>Proprietà base dell'armatura</b>: +30 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006902
+<b>Proprietà base dell'armatura</b>:
+<indent=5%>+{uip|Armour|45d920f667354737be5efb18e0ddc6df}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}</indent>
+<indent=5%>+{uip|TechUse|45d920f667354737be5efb18e0ddc6df} a {g|Encyclopedia:SkillTechUse}Tech-Use{/g}</indent>
+
+### u006903
+Paramento sacro
+
+### u006904
+Benedetto dagli aderenti dell'Omnissiah.
+
+### u006905
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se l'Agility di chi la indossa è superiore a 50 .
+<b>Proprietà extra</b>: +15 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u006906
+Pettorale da filatore
+
+### u006907
+Questa {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} infligge <u>(da 10 a 15)</u> {g|Encyclopedia:PiercingDamage}danni perforanti{/g} (con {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} del 5%) a qualsiasi bersaglio nel {g|Encyclopedia:MeleeAttacksGlossary}raggio di mischia{/g} quando chi la indossa effettua un attacco in mischia.
+<b>Proprietà base dell'armatura</b>: +3 di {g|Encyclopedia:Deflection}deviazione{/g} se la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} di chi la indossa è superiore a 65.
+
+### u006908
+Armatura da Incubus Blade
+
+### u006909
+Chi la indossa ripristina 1 {g|Encyclopedia:ActionPoints}PA{/g} dopo aver ucciso un nemico (una volta per {g|Encyclopedia:Round}round{/g}).
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} se la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} di chi la indossa è superiore a 70.
+
+### u006910
+Armatura da Kasrkin
+
+### u006911
+Chi la indossa ottiene +15% di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} per 1 {g|Encyclopedia:Round}round{/g} se si muove di almeno 3 caselle per {g|Encyclopedia:Turn}turno{/g}.
+<b>Proprietà base dell'armatura</b>: +{uip|Armour|d15d54dcad1347c4bca2a577781fd508}% di {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u006912
+Armatura leggera a scaglie di carapace
+
+### u006913
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro i nemici xenos.
+<b>Proprietà del mondo</b>: +10% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}.
+
+### u006914
+[Origine: Mondo arsenale] Tuta Malleus
+
+### u006915
+Gli attacchi con armi pesanti di chi la indossa costano −1 {g|Encyclopedia:ActionPoints}PA{/g} in meno.
+<b>Proprietà base dell'armatura</b>: +20 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006916
+Armatura da artificiere modificata
+
+### u006917
+<u>(10 + 2 × rango di {g|Encyclopedia:SoulMarkCorruption}Heretical{/g})</u>
+
+### u006918
+Chi la indossa subisce −{uip|Armour|fd26808c79844c5885885530cce69f77}% di danni warp, mentali e {g|Encyclopedia:DirectDamage}diretti{/g} in meno.
+<b>Proprietà base dell'armatura</b>: +5 di {g|Encyclopedia:Deflection}deviazione{/g} contro i nemici umani.
+
+### u006919
+Armatura incantata da contrabbandiere
+
+### u006920
+A ogni {g|Encyclopedia:Round}round{/g} la {g|Encyclopedia:DodgeGlossary}schivata{/g} di chi la indossa aumenta di +10% fino alla fine del combattimento. Questo effetto si azzera dopo qualsiasi attacco subito da chi la indossa.
+<b>Proprietà base dell'armatura</b>: +15% di schivata contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+
+### u006921
+Panoplia dell'Assassin
+
+### u006922
+<u>(3 × {g|Encyclopedia:PsyRating}livello psichico{/g})</u>
+
+### u006923
+Chi la indossa ignora i {g|Encyclopedia:DamageGlossary}danni{/g} del primo {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} in combattimento.
+<b>Proprietà base dell'armatura</b>: +{uip|Dodge|ce34933143fc43a3a807966bfa838b0c}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se la {g|Encyclopedia:WarhammerWillpower}Willpower{/g} di chi la indossa è superiore a 40.
+
+### u006924
+Tuta psichica
+
+### u006925
+Se il {g|f:9b090810169e4a42b22afd5995d3720d}Death Cult assassin{/g} ha 8 o più accumuli di {g|f:DeathCultAssassin_Bloodstained_AllyBuff}bloodblessed{/g}, ottiene +1 PA e +1 {g|Encyclopedia:AttacksPerTurn}attacco per turno{/g}.
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} e {g|Encyclopedia:Parry}parata{/g} se chi la indossa non si trova in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g}.
+
+### u006926
+Questo carapace concede a chi lo indossa +1 di {g|Encyclopedia:Deflection}deviazione{/g} e +10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} se si è mosso durante il proprio {g|Encyclopedia:Turn}turno{/g}.
+<b>Proprietà base dell'armatura</b>: +2 di deviazione contro i nemici umani.
+
+### u006927
+Armatura da marinaio del vuoto rinforzata
+
+### u006928
+Richiede {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Zelota.
+Chi indossa questa {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} è immune ai {g|Encyclopedia:HitSequenceGlossary}colpi{/g} critici finché nessun membro del gruppo è finito {g|Encyclopedia:ProneEffect}a terra{/g} durante l'intero combattimento.
+<b>Proprietà base dell'armatura</b>: +15% di armatura contro gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+
+### u006929
+<u>({g|Encyclopedia:SkillMedicae}Medicae{/g} / 4)</u>
+
+### u006930
+Ogni volta che chi la indossa subisce un trauma in combattimento, se ha più di 0 ferite, recupera immediatamente +{uip|Heal|3e54949b6a89465fa52cd37fb7fa7889} {g|Encyclopedia:HitPoints}ferite{/g}.
+<b>Proprietà base dell'armatura</b>: +10% di {g|Encyclopedia:DodgeGlossary}schivata{/g} se la Weapon Skill di chi la indossa è superiore a 55.
+
+### u006931
+Silent Death
+
+### u006932
+L'{g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} di chi la indossa aumenta di +15%. Questo {g|Encyclopedia:Bonus}bonus{/g} raddoppia se chi la indossa non si è mosso durante il proprio {g|Encyclopedia:Turn}turno{/g}.
+<b>Proprietà base dell'armatura</b>: +15% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} se chi la indossa è in copertura totale.
+
+### u006933
+Armatura da esploratore
+
+### u006934
+Questa tuta concede a chi la indossa +20% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro i nemici con una {g|Encyclopedia:WarhammerPerception}Perception{/g} inferiore a quella di chi la indossa.
+<b>Proprietà base dell'armatura</b>: +10% di schivata contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+
+### u006935
+Tuta liscia
+
+### u006936
+The One Star
+
+### u006937
+Questa armatura potenziata delle Adepta Sororitas apparteneva un tempo alla stessa Santa Argenta, venerata tanto nel Settore Calixis quanto nella Distesa di Koronus. La sola vista di questa maestosa armatura accende il fuoco della fede nell'anima umana.
+
+### u006938
+Dopo aver usato un {g|Encyclopedia:HeroicAct}atto eroico{/g}, chi la indossa usa immediatamente {g|f:c647c1c4a1a14c9cb31217ee439164ff}War Hymn{/g} o {g|f:85e6ce25a6d64313b9ff39a8013d1b43}Furious Recital{/g} (indipendentemente dal relativo {g|Encyclopedia:Cooldown}tempo di ricarica{/g}).
+<b>Proprietà base dell'armatura</b>: +15 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006939
+Ogni accumulo di questo effetto aumenta i danni inflitti di +5%.
+
+### u006940
+Ogni volta che chi la indossa mette a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} o uccide un nemico, i danni inflitti da chi la indossa aumentano di +5%.
+<b>Proprietà base dell'armatura</b>: +15 di {g|Encyclopedia:WarhammerStrength}Strength{/g}.
+
+### u006941
+Questa armatura potenziata delle Adepta Sororitas apparteneva un tempo alla stessa Santa Argenta, venerata tanto nel Settore Calixis quanto nella Distesa di Koronus. Il guerriero che indossa questa armatura diventa un'arma grandiosa e spietata contro i nemici dell'Imperium.
+
+### u006942
+Riduce di −10% la probabilità di innescare {g|Encyclopedia:PsychicPhenomena}fenomeni psichici{/g}. Se si manifestano dei {g|Encyclopedia:PerilsOfWarp}Pericoli del Warp{/g}, chi la indossa ottiene ulteriori +2 di {g|Encyclopedia:PsyRating}livello psichico{/g} fino alla fine del combattimento.
+<b>Proprietà base dell'armatura</b>: +2 di {g|Encyclopedia:Deflection}deviazione{/g} se la {g|Encyclopedia:WarhammerWillpower}Willpower{/g} di chi la indossa è superiore a 50.
+
+### u006943
+Pettorale da psyker
+
+### u006944
+Bloody Retribution
+
+### u006945
+Gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g} di chi la indossa infliggono ulteriori +10 {g|Encyclopedia:ToxicDamage}danni tossici{/g}. Se chi la indossa è stato attaccato con un attacco di opportunità, anche l'attaccante subisce {g|Encyclopedia:DamageGlossary}danni{/g} tossici.
+<b>Proprietà base dell'armatura</b>: +15 di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+
+### u006946
+Cotta di maglia velenosa
+
+### u006947
+Se chi la indossa non si è mosso durante il proprio {g|Encyclopedia:Turn}turno{/g}, la sua {g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} aumenta di +20% per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u006948
+Se chi la indossa si muove di almeno 3 caselle per {g|Encyclopedia:Turn}turno{/g}, ottiene +20% di {g|Encyclopedia:DodgeGlossary}schivata{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u006949
+Se chi la indossa non si è mosso durante il proprio {g|Encyclopedia:Turn}turno{/g}, la sua {g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} aumenta di +20% per 1 {g|Encyclopedia:Round}round{/g}. Se chi la indossa si muove di almeno 3 caselle per turno, ottiene +20% di {g|Encyclopedia:DodgeGlossary}schivata{/g} per 1 round.
+<b>Proprietà base dell'armatura</b>: +20% di schivata contro gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g}.
+
+### u006950
+Questa {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} ripristina {uip|Wounds|4dff23a7cc4d430b91bfa8b1b5cfc20d} {g|Encyclopedia:HitPoints}ferite{/g} a ogni round quando chi la indossa subisce uno qualsiasi dei seguenti effetti di danno nel tempo: {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:ToxinEffect}tossina{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+<b>Proprietà base dell'armatura</b>: +10% di armatura contro i nemici non Drukhari.
+
+### u006951
+Tuta da battaglia intessuta di ossospettro
+
+### u006952
+Quando chi la indossa uccide un nemico, lo {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g} aumenta ulteriormente del doppio del {g|Encyclopedia:DifficultyTier}livello di difficoltà{/g} del bersaglio.
+
+### u006953
+Pellicce di Skjald
+
+### u006954
+Dopo che chi la indossa porta un {g|Encyclopedia:AreaOfEffect}attacco ad area{/g} in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, ottiene +5% di riduzione della schivata e della parata per ogni bersaglio influenzato da quell'attacco, per il successivo attacco in mischia.
+
+### u006955
+Mantello d'assalto
+
+### u006956
+<u>({g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} / 5)</u>
+
+### u006957
+Gli attacchi a distanza di chi la indossa infliggono {uip|Bleed|eaed3890d0204c0f844cca89fc0cfa96} livelli di {g|Encyclopedia:BleedingEffect}sanguinamento{/g} ai bersagli.
+
+### u006958
+Zaino con munizioni perforanti
+
+### u006959
+Quando chi la indossa termina il proprio turno, rimuove gli {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g} di {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g} da sé e da tutti gli alleati adiacenti. Chi la indossa ottiene +{uip|THP|1d0faee48d084334aff1c4f05542bb9d} {g|Encyclopedia:HitPoints}ferite{/g} temporanee per ogni effetto negativo rimosso in questo modo.
+
+### u006960
+Mantello segnato dalle battaglie
+
+### u006961
+<u>(10 + 2 × numero di {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g} rimossi)</u>
+
+### u006962
+Quando chi la indossa termina il proprio {g|Encyclopedia:Turn}turno{/g}, rimuove {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g} da tutti gli alleati adiacenti. Poi chi la indossa infligge {uip|Power|be21ee63735043728f13823e5568c5cc} livelli di sanguinamento a tutti i nemici adiacenti.
+
+### u006963
+Manto segnato dalle battaglie
+
+### u006964
+Mantello benedetto
+
+### u006965
+Aumenta di +2 i {g|Encyclopedia:DamageGlossary}danni{/g} degli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g} contro i nemici demoni. Se chi la indossa ha la {g|Encyclopedia:SoulmarkTypesGlossary}Convinzione{/g} — {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g}, i danni aumentano invece di +4.
+
+### u006966
+Veste mimetica
+
+### u006967
+Gli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g} di chi la indossa riducono la {g|Encyclopedia:DodgeGlossary}schivata{/g} dei bersagli di −5%. Non è cumulabile.
+
+### u006968
+<u>(3 × {g|Encyclopedia:Resolve}determinazione{/g} di chi la indossa)</u>
+
+### u006969
+{g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g} infligge +{uip|Damage|f08821bffc3b4437953bbb6aeb86cff5} danni mentali aggiuntivi.
+
+### u006970
+Manto del Bladedancer
+
+### u006971
+Cape of Reckoning
+
+### u006972
+Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} — Devoto
+Ogni volta che un nemico {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} chi la indossa, chi la indossa ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +5% ai {g|Encyclopedia:DamageGlossary}danni{/g} degli attacchi a distanza contro quel nemico. Contro demoni o xenos questo bonus è moltiplicato per il <u>rango di Dogmatic</u> di chi la indossa.
+
+### u006973
+Se il bersaglio di chi la indossa soffre di {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, gli attacchi in mischia di chi la indossa infliggono +2% di danni aggiuntivi per ogni punto del bonus di Agility del bersaglio.
+
+### u006974
+Cloak of Bloodthirst
+
+### u006975
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Devoto
+Chi indossa questo mantello ottiene un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} che gli permette di sacrificare <u>(da 3 a 9)</u> {g|Encyclopedia:HitPoints}ferite{/g} per teletrasportarsi immediatamente in qualsiasi casella in un raggio di 4 caselle.
+
+### u006976
+Mantello del viaggiatore dimensionale
+
+### u006977
+Cloak of Hatred
+
+### u006978
+Ogni nemico ucciso dagli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} di chi la indossa aumenta i {g|Encyclopedia:DamageGlossary}danni{/g} di chi la indossa di +3% fino alla fine del combattimento.
+
+### u006979
+Mantle of Heroism
+
+### u006980
+Richiede {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Seguace
+Ogni {g|Encyclopedia:HeroicAct}atto eroico{/g} usato in battaglia aumenta la {g|Encyclopedia:DodgeGlossary}schivata{/g} di chi la indossa di +20% fino alla fine del combattimento (max 60%).
+
+### u006981
+Aumenta di +1 casella la {g|Encyclopedia:Range}gittata{/g} delle {g|Encyclopedia:Ability}abilità{/g} dell'{g|Encyclopedia:Career}archetipo{/g} {g|Encyclopedia:CareerLeaderGlossary}Officer{/g}.
+
+### u006982
+Mantello da comandante
+
+### u006983
+Mantello di distrazione
+
+### u006984
+Questo mantello riduce di −{unit_stat|WarhammerFellowship|bonus} la {g|Encyclopedia:WarhammerPerception}Perception{/g} di tutti i nemici in un raggio di 5 caselle.
+
+### u006985
+Ogni volta che chi la indossa infligge {g|Encyclopedia:DamageGlossary}danni{/g} a un nemico con un attacco a distanza da 5 caselle o più, diventa il {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} principale di questo nemico fino al {g|Encyclopedia:Turn}turno{/g} successivo di chi la indossa.
+
+### u006986
+Pellicce da trapper
+
+### u006987
+Cappotto da spadaccino della Flotta
+
+### u006988
+Questo cappotto concede a chi lo indossa +10% di {g|Encyclopedia:ParryReduction}riduzione della parata{/g} e +5% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} per gli {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+
+### u006989
+Ogni volta che chi la indossa subisce un trauma, se possibile, tutti gli alleati attaccano immediatamente il nemico più vicino con l'attacco che normalmente costa meno PA.
+
+### u006990
+Vox-trasmettitori d'emergenza
+
+### u006991
+Chi la indossa e i suoi alleati sono immuni ai {g|Encyclopedia:DamageGlossary}danni{/g} delle granate di chi la indossa. La prima volta che chi la indossa usa una granata durante il proprio {g|Encyclopedia:Turn}turno{/g}, ha il 50% di probabilità di non consumarla.
+
+### u006992
+Zaino del granatiere
+
+### u006993
+Chi la indossa e i suoi alleati sono immuni ai {g|Encyclopedia:DamageGlossary}danni{/g} delle granate di chi la indossa.
+
+### u006994
+Mantello del granatiere
+
+### u006995
+I bersagli di {g|f:13e41af1d54c458da81050336ce8e0fc}Taunting Scream{/g} non devono fallire la {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} per essere influenzati da questa {g|Encyclopedia:Ability}abilità{/g}.
+
+### u006996
+Manto dell'istigatore
+
+### u006997
+Concede +5 di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} per ogni nemico in un raggio di 2 caselle.
+
+### u006998
+Mantello del Rogue Trader
+
+### u006999
+Questo set di reagenti chimici aumenta di +2 i {g|Encyclopedia:DamageGlossary}danni{/g} di tutti gli effetti di {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:BurningEffect}in fiamme{/g} o {g|Encyclopedia:ToxinEffect}tossina{/g} applicati dall'utilizzatore.
+
+### u007000
+Set di reagenti
+
+### u007001
+Ogni accumulo di {g|f:fc83a8ac57e54db59c3bb70083dc385c}unyielding beacon{/g} aumenta di +2 la {g|Encyclopedia:WarhammerToughness}Toughness{/g} di chi la indossa.
+
+### u007002
+Ogni volta che chi la indossa uccide un nemico con un attacco ad area, gli alleati di chi la indossa ottengono +5% di probabilità di colpo critico fino al turno successivo di chi la indossa. Cumulabile.
+
+### u007003
+Mantle of Extermination
+
+### u007004
+Quando chi la indossa sposta una delle proprie aree di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g}, i {g|Encyclopedia:Bonus}bonus{/g} concessi da quest'area sono raddoppiati.
+
+### u007005
+Emettitore di campo di occultamento
+
+### u007006
+Ogni volta che chi la indossa usa {g|f:e5874ecd259b4878bc71239c281c17e4}Carnival of Misery{/g}, si cura immediatamente al massimo.
+
+### u007007
+Borsa con stimolanti
+
+### u007008
+Mantello del militante
+
+### u007009
+Il primo {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} di chi la indossa in combattimento non può essere parato né {g|Encyclopedia:DodgeGlossary}schivato{/g}.
+
+### u007010
+Manto dell'Arch-Strategist
+
+### u007011
+Tutti i {g|Encyclopedia:Bonus}bonus{/g} delle aree di {g|f:e4e45f74936c4740b7bc03013f6991ba}Combat Tactics{/g} di chi la indossa aumentano di +5% per 1 {g|Encyclopedia:Round}round{/g} se chi la indossa usa uno {g|Encyclopedia:Stratagem}stratagemma{/g} diverso da quello usato in precedenza, o se non ne ha usati prima. Questo effetto non è cumulabile.
+
+### u007012
+<u>(1 + accumuli di {g|f:7f7d109653f24774939f758d094b8812}versatility{/g})</u>
+
+### u007013
+Riduce di −{uip|Damage|c6af4d981ffe4a46ac8c1fa9891ec337}% tutti i {g|Encyclopedia:DamageGlossary}danni{/g} in arrivo tranne i {g|Encyclopedia:DirectDamage}danni diretti{/g}.
+
+### u007014
+Mantello di pelle mon-keigh
+
+### u007015
+Finché chi la indossa ha l'effetto shrouded, quando diventa bersaglio di un attacco lo {g|Encyclopedia:DodgeGlossary}schiva{/g} automaticamente. Dopodiché l'effetto shrouded viene rimosso.
+
+### u007016
+Shrouded
+
+### u007017
+Ogni volta che chi la indossa infligge {g|Encyclopedia:DamageGlossary}danni{/g} con un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g}, ottiene l'effetto shrouded. Questo effetto non è cumulabile.
+<i>Shrouded</i>: finché chi la indossa ha l'effetto shrouded, quando diventa bersaglio di un attacco lo {g|Encyclopedia:DodgeGlossary}schiva{/g} automaticamente. Dopodiché l'effetto shrouded viene rimosso.
+
+### u007018
+Cloak of Shadows
+
+### u007019
+Concede +15% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro i {g|Encyclopedia:WarpDamage}danni warp{/g}.
+
+### u007020
+Mantello fantasma
+
+### u007021
+Concede +12% di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} agli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} in {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} di chi la indossa.
+
+### u007022
+Mantello del mietitore
+
+### u007023
+Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} — Devoto
+Se chi la indossa o un suo alleato viene {g|Encyclopedia:HitSequenceGlossary}colpito{/g} da un nemico con un colpo critico, chi la indossa effettua immediatamente un attacco con la propria arma attuale contro questo nemico, se il nemico è a portata. In caso di colpo a segno, questo attacco infligge {g|Encyclopedia:BurningEffect}in fiamme{/g} (10).
+
+### u007024
+Fiery Vengeance
+
+### u007025
+Cape of Righteous Fury
+
+### u007026
+Per ogni uccisione, chi la indossa aumenta la propria {g|Encyclopedia:HitSequenceGlossary}probabilità{/g} di colpo critico di +5% fino alla fine del combattimento.
+
+### u007027
+{g|f:c3d6e29e74e440a79cb243e4e93e0501}Death From Above{/g} infligge +{uip|Damage|4e13c403d0b2471da1cddbc3bfae039f} danni mentali aggiuntivi. Ogni bersaglio colpito subisce +1 accumulo di affaticato per 2 round.
+
+### u007028
+Mantello da alto filatore
+
+### u007029
+Quando chi la indossa usa {g|f:4d2f2a839d2340388d45cf4cf66c947b}Endure{/g}, rimuove immediatamente uno degli effetti su di sé nel seguente ordine: {g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:ToxinEffect}tossina{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+
+### u007030
+Mantello saturo
+
+### u007031
+Ogni volta che chi la indossa uccide un nemico con un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, il suo limite di attacchi viene rimosso fino alla fine del proprio {g|Encyclopedia:Turn}turno{/g}, ma ogni suo attacco infligge anche a chi la indossa {g|Encyclopedia:DirectDamage}danni diretti{/g} pari a <u>10% delle {g|Encyclopedia:HitPoints}ferite{/g} massime di chi la indossa</u>.
+
+### u007032
+Mantello della furia di sangue
+
+### u007033
+Il campo di stasi recupera immediatamente <u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerToughness}TGH{/g}</u> {g|Encyclopedia:HitPoints}ferite{/g}.
+Chi la indossa perde tutti i {g|Encyclopedia:MovementPoints}PM{/g} ma ottiene +30% di {g|Encyclopedia:DodgeGlossary}schivata{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u007034
+Se le {g|Encyclopedia:HitPoints}ferite{/g} di chi la indossa vengono ridotte a 0, non cade privo di sensi. Invece, recupera immediatamente +{unit_stat|WarhammerToughness|bonus} ferite concesse dal campo di stasi, spende tutti i {g|Encyclopedia:MovementPoints}PM{/g}, se ne ha, e, per 1 {g|Encyclopedia:Round}round{/g}, ottiene +30% di {g|Encyclopedia:DodgeGlossary}schivata{/g} e non può recuperare PM.
+! Utilizzabile una sola volta per combattimento.
+
+### u007035
+Iniettore d'emergenza
+
+### u007036
+Questo zaino concede a chi lo indossa +1 alla {g|Encyclopedia:RateOfFire}cadenza di fuoco{/g} o al numero di colpi per qualsiasi arma capace di attacchi a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}.
+
+### u007037
+Zaino tattico
+
+### u007038
+In combattimento, chi indossa questo mantello ottiene un {g|Encyclopedia:Bonus}bonus{/g} di +15 a {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} ogni volta che non ci sono nemici in un raggio di 4 caselle.
+
+### u007039
+Manto del nobile di nascita
+
+### u007040
+<u>(2 × (5 + bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g}))</u>
+
+### u007041
+<u>(5 + bonus di {g|Encyclopedia:WarhammerIntelligence}INT{/g} di chi la indossa)</u>
+
+### u007042
+Chi la indossa subisce −{uip|Resist|b0e7b907907b44fe948e142a93add87e}% di danni da impatto ed {g|Encyclopedia:EnergyDamage}energetici{/g} in meno.
+Quando chi la indossa subisce {g|Encyclopedia:DamageGlossary}danni{/g} da impatto o energetici, il nemico attaccante subisce {uip|Damage|b0e7b907907b44fe948e142a93add87e} {g|Encyclopedia:PowerDamage}danni da potenza{/g}.
+
+### u007043
+Emettitore di campo Voltagheist
+
+### u007044
+Ogni volta che chi la indossa infligge {g|Encyclopedia:BurningEffect}in fiamme{/g} a un nemico, questo effetto ottiene +6 livelli aggiuntivi.
+Questo nemico ottiene anche l'effetto di {g|Encyclopedia:CalmedWarpEffect}smorzamento psichico{/g} fino al {g|Encyclopedia:Turn}turno{/g} successivo di chi la indossa.
+
+### u007045
+Emettitore xeno
+
+### u007046
+L'abilità {g|f:22d6c1b32a6d47f4899a370e28cf16f9}Kick{/g} costa 0 {g|Encyclopedia:ActionPoints}PA{/g} e infligge +{uip|Damage|15ad552f904944b19a7064a81bfcd801} {g|Encyclopedia:DamageGlossary}danni{/g} in più.
+Ogni volta che chi li indossa uccide un nemico con un'{g|Encyclopedia:RangeAreaAttacksGlossary}arma a distanza{/g}, il {g|Encyclopedia:Cooldown}tempo di ricarica{/g} dell'abilità {g|f:22d6c1b32a6d47f4899a370e28cf16f9}Kick{/g} viene azzerato.
+
+### u007047
+Calzari spezzaghiaccio
+
+### u007048
+Arnoolf il grande! Arnoolf il glorioso!{br}
+Il suo passo spezza il ghiaccio,{br}
+cinquanta braccia di profondità.{br}
+Il piede pesante cala,{br}
+i nemici del Padre di Tutti manda{br}
+a sfamare il Lupo di Mare.{br}
+Skal!{br}
+
+### u007049
+All'inizio del {g|Encyclopedia:Turn}turno{/g} di chi li indossa, questi ottiene +20% di {g|Encyclopedia:DodgeGlossary}schivata{/g} fino alla fine del {g|Encyclopedia:Round}round{/g}.
+
+### u007050
+Stivali da guerra all'adrenalina
+
+### u007051
+Astral Currents
+
+### u007052
+Nel primo {g|Encyclopedia:Round}round{/g} di combattimento, chi li indossa ottiene i seguenti benefici:
+-<indent=5%>+20 {g|Encyclopedia:MovementPoints}PM{/g}.</indent>
+-<indent=5%>Il costo di movimento di chi li indossa non è influenzato dalle aree minacciate.</indent>
+-<indent=5%>Il movimento di chi li indossa non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.</indent>
+
+### u007053
+Una volta per turno, dopo che chi li indossa usa {g|f:a29aa37a4db3485fb5a0ee7b7515e0dd}Blood Oath{/g} o {g|f:3774147440ac412a876725b9b2b24682}Oath of Vengeance{/g}, ottiene +1 uso di {g|f:9b09708aa0c244a6bc4a8e46d69c5884}Dash{/g}, a costo 0 PA, fino alla fine del proprio turno.
+Dopo aver usato questa abilità {g|f:9b09708aa0c244a6bc4a8e46d69c5884}Dash{/g}, chi li indossa recupera PM pari alla propria determinazione.
+
+### u007054
+Dancing on Blood
+
+### u007055
+All'inizio del combattimento, chi li indossa ottiene le {g|Encyclopedia:Ability}abilità{/g} {g|f:b6e3c9398ea94c75afdbf61633ce2f85}Medikit{/g} e {g|f:aa74639ee0f34ac7bd5f6f797631bffe}Onslaught{/g}, che riproducono l'effetto dei consumabili kit medico e onslaught, a costo 0 {g|Encyclopedia:ActionPoints}PA{/g}. Ciascuna di queste abilità può essere usata una sola volta per combattimento.
+
+### u007056
+Stivali del chirurgo
+
+### u007057
+Questi stivali raddoppiano il bonus di {g|Encyclopedia:Resolve}determinazione{/g} che gli alleati ottengono dall'{g|Encyclopedia:Ability}abilità{/g} {g|f:fc83a8ac57e54db59c3bb70083dc385c}Unyielding Beacon{/g} di chi li indossa.
+
+### u007058
+Stivali da Vanguard inflessibile
+
+### u007059
+Ogni volta che chi li indossa {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} un'{g|Encyclopedia:Opening}apertura{/g} con le {g|Encyclopedia:Ability}abilità{/g} {g|f:4955b43454f6488f82892e166c76c995}Charge{/g}, {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g} o {g|f:7daf9f9d4c3d44ccaeebb0b9a7725b54}Danse Macabre{/g}, infligge {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (10) al bersaglio.
+
+### u007060
+Stivali lamati
+
+### u007061
+Muoversi attraverso le caselle influenzate da {g|f:e299c13f2278479bbd4e23269af5657c}Raining Blood{/g} o {g|f:3a4eebf212974ba68d6867981c240b1b}blood phial{/g} costa a chi li indossa il −50% di PM in meno.
+
+### u007062
+Schinieri del Bladedancer
+
+### u007063
+Boots of Silence
+
+### u007064
+Una volta per turno, dopo che chi li indossa usa {g|f:a29aa37a4db3485fb5a0ee7b7515e0dd}Blood Oath{/g} o {g|f:3774147440ac412a876725b9b2b24682}Oath of Vengeance{/g}, ottiene +1 uso di {g|f:9b09708aa0c244a6bc4a8e46d69c5884}Dash{/g}, a costo 0 PA, fino alla fine del proprio turno.
+
+### u007065
+Swift Shadows
+
+### u007066
+Boots of Victory
+
+### u007067
+Ogni volta che chi li indossa compie un {g|Encyclopedia:HeroicAct}atto eroico{/g} o una {g|Encyclopedia:DesperateMeasure}misura disperata{/g}, recupera tutte le proprie {g|Encyclopedia:HitPoints}ferite{/g} e ottiene +2 {g|Encyclopedia:ActionPoints}PA{/g} in questo {g|Encyclopedia:Turn}turno{/g}.
+
+### u007068
+Ogni volta che chi li indossa uccide un nemico con il proprio attacco in mischia, ottiene immediatamente +1 uso di {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} a costo 0 PA (anche se non possiede questa abilità).
+
+### u007069
+Stivali da veterano del vuoto
+
+### u007070
+Questo personaggio può spendere un accumulo di acrobatic trick per ritirare un attacco (se mancato, schivato o parato) o per evitare un attacco.
+
+### u007071
+Acrobatic Trick
+
+### u007072
+Schinieri dell'acrobata
+
+### u007073
+All'inizio del combattimento, chi li indossa ottiene accumuli di {g|f:48b5d7a82ab3411eae0449d06da0d821}acrobatic trick{/g} pari ai propri PM. Questi accumuli possono essere usati fino alla fine del combattimento.
+
+### u007074
+Ogni volta che chi li indossa attacca un nemico dietro {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} con un attacco a distanza, l'efficacia della copertura diminuisce di −40% per quell'attacco.
+<indent=5%>−15 di {g|Encyclopedia:Recoil}rinculo{/g}</indent>
+
+### u007075
+Stivali da guerra anti-rinculo
+
+### u007076
+Se chi li indossa non ha speso {g|Encyclopedia:MovementPoints}PM{/g} durante il proprio {g|Encyclopedia:Turn}turno{/g}, raddoppia la propria {g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} e ottiene l'immunità agli effetti di movimento forzato fino alla fine del turno successivo di chi li indossa.
+
+### u007077
+Stivali del crociato
+
+### u007078
+Dopo che chi li indossa effettua un attacco ad area, ottiene +4 PM e può proseguire il proprio movimento.
+
+### u007079
+Stivali da sfondatore pesanti
+
+### u007080
+<u>Numero di creature adiacenti</u>
+
+### u007081
+<u>{g|Encyclopedia:SoulmarkTypesGlossary}Convinzione{/g} — rango di {g|Encyclopedia:SoulMarkCorruption}Heretical{/g}</u>
+
+### u007082
+Ogni volta che chi li indossa termina il proprio {g|Encyclopedia:Turn}turno{/g}, infligge {uip|Damage|dfe89c96a963499f8a5ca14f9b95e7b4} {g|Encyclopedia:WarpDamage}danni warp{/g} a ogni creatura adiacente e a se stesso.
+Chi li indossa infligge inoltre +{uip|MoreDamae|dfe89c96a963499f8a5ca14f9b95e7b4} {g|Encyclopedia:DamageGlossary}danni{/g} warp aggiuntivi ai nemici.
+
+### u007083
+Stivali maledetti
+
+### u007084
+Questi stivali concedono a chi li indossa un {g|Encyclopedia:Bonus}bonus{/g} di +15% di {g|Encyclopedia:DodgeReduction}riduzione della schivata{/g} per gli attacchi con armi da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}.
+
+### u007085
+Stivali da guerra del mondo letale
+
+### u007086
+Se chi li indossa non ha speso {g|Encyclopedia:MovementPoints}PM{/g} durante il proprio {g|Encyclopedia:Turn}turno{/g}, raddoppia la propria {g|Encyclopedia:DetailsOfTheCoverGlossary}efficacia della copertura{/g} in copertura parziale fino alla fine del turno successivo di chi li indossa.
+
+### u007087
+Stivali difensivi
+
+### u007088
+Chi li indossa ottiene +{uip|Dodge|ab83495228d0477dbbbb20c2c390cc58}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro i nemici sotto l'effetto di {g|f:197b8a8a12b0442db7ffee1067cf3d97}Expose Weakness{/g}.
+
+### u007089
+Stivali del discepolo
+
+### u007090
+<u>(bonus di {g|Encyclopedia:WarhammerPerception}PER{/g} di chi li indossa × 2)</u>
+
+### u007091
+<u>(5 × rango di {g|Encyclopedia:SoulMarkCorruption}Heretical{/g})</u>
+
+### u007092
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Devoto
+Chi li indossa è sempre {g|Encyclopedia:SlowedEffect}rallentato{/g} ma immune all'effetto {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}.
+I bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} dagli attacchi in mischia di chi li indossa cadono {g|Encyclopedia:ProneEffect}a terra{/g} per 1 turno se falliscono una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Toughness con una penalità di −{uip|Check|c9279ededcda42f58f38dda7b6a16946}. Se la superano, il bersaglio resta invece rallentato per 1 turno.
+
+### u007093
+Stivali da tutore dell'ordine corrotti
+
+### u007094
+Ogni volta che un nemico tenta di effettuare un attacco di opportunità contro chi li indossa, quel nemico viene respinto di 1 casella prima che l'attacco possa colpire chi li indossa.
+
+### u007095
+Stivali tattici
+
+### u007096
+La potenza degli effetti di {g|Encyclopedia:BurningEffect}in fiamme{/g} inflitti da chi li indossa aumenta di +1 per ogni nemico influenzato dagli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} di chi li indossa fino alla fine del combattimento. Questo {g|Encyclopedia:Bonus}bonus{/g} è cumulabile.
+
+### u007097
+Greaves of the Black Archon
+
+### u007098
+Ogni volta che chi li indossa mette a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} con un'arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, ripristina <u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} / 2)</u> {g|Encyclopedia:HitPoints}ferite{/g} e ottiene +2 {g|Encyclopedia:MovementPoints}PM{/g}.
+<indent=5%>+15% di danni critici</indent>
+
+### u007099
+Muoversi attraverso le caselle influenzate da {g|f:e299c13f2278479bbd4e23269af5657c}Raining Blood{/g} o {g|f:3a4eebf212974ba68d6867981c240b1b}blood phial{/g} costa a chi li indossa 0 PM.
+
+### u007100
+Schinieri leggeri del Bladedancer
+
+### u007101
+<u>(4 × (bonus di {g|Encyclopedia:WarhammerAgility}AGI{/g} + rango di {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g}))</u>
+
+### u007102
+Concedono +5 di {g|Encyclopedia:WarhammerAgility}Agility{/g} e +{uip|Dodge|337dc2d4ce7648e4a2f7998a14aa71cb}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} contro gli {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u007103
+Stivali resistenti all'usura
+
+### u007104
+Chi indossa questi stivali ottiene +{uip|Parry|116f8ed237df4e4bbabfaf9175eb7121}% di {g|Encyclopedia:Parry}parata{/g} e ripete le {g|Encyclopedia:Test}prove{/g} di {g|Encyclopedia:DodgeGlossary}schivata{/g} fallite.
+
+### u007105
+Stivali leggeri migliorati
+
+### u007106
+Chi indossa questi stivali ottiene +{unit_stat|WarhammerStrength|bonus}% di {g|Encyclopedia:Parry}parata{/g} mentre indossa un'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} leggera.
+
+### u007107
+Stivali leggeri
+
+### u007108
+L'{g|Encyclopedia:Ability}abilità{/g} {g|f:e7836ee2419b46d68da401547aaf630c}Kick{/g} costa 0 {g|Encyclopedia:ActionPoints}PA{/g} e infligge +{uip|Damage|437b8247ae98465491ab35193f77e47d} {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi.
+
+### u007109
+Stivali potenziati Astartes
+
+### u007110
+Calzature da psyker
+
+### u007111
+Questi stivali concedono a chi li indossa +3% di {g|Encyclopedia:DodgeGlossary}schivata{/g} fino alla fine del combattimento per ogni potere psichico usato. Cumulabile.
+
+### u007112
+Ogni volta che un alleato di chi li indossa usa {g|f:a39d7daf9b884978a66ef00675b2766f}Following!{/g}, quell'alleato infligge +33% di {g|Encyclopedia:DamageGlossary}danni{/g} in più con il proprio prossimo attacco per ogni alleato in un raggio di 2 caselle attorno a chi li indossa.
+
+### u007113
+Stivali dell'adunata
+
+### u007114
+Questi stivali concedono a chi li indossa +5 di {g|Encyclopedia:WarhammerToughness}Toughness{/g}. I {g|Encyclopedia:DamageGlossary}danni{/g} da {g|Encyclopedia:PushGlossary}collisione{/g} causati da chi li indossa aumentano di +{uip|Damage|5db94011cf9f4531a77ecfdcdd19e18a}.
+
+### u007115
+Stivali rinforzati
+
+### u007116
+Stivali blitz
+
+### u007117
+Chi li indossa ottiene +4 {g|Encyclopedia:DamageGlossary}danni{/g} contro i nemici che non hanno alleati adiacenti. Si applica solo al primo colpo o proiettile di un attacco a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g}.
+Inoltre, la gittata delle {g|Encyclopedia:Ability}abilità{/g} {g|f:1d48dfb6002a48f68bee0b86c4b56dc4}Dash{/g} e {g|f:4955b43454f6488f82892e166c76c995}Charge{/g} di chi li indossa aumenta di +1 casella.
+
+### u007118
+Se chi li indossa ha armi da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g} equipaggiate in entrambe le mani, la sua {g|Encyclopedia:Ability}abilità{/g} {g|f:f6d693dbff0d44eb9590684241e63ef3}Slash{/g} effettua un ulteriore attacco in mischia con l'arma secondaria.
+
+### u007119
+Stivali da appostamento
+
+### u007120
+Ogni volta che si attiva il {g|Encyclopedia:ExtraTurn}turno extra{/g} di {g|f:56bd0b3c54784098ae7044ceae173c7c}Hot on the Trail{/g} di chi li indossa, questi ottiene +1 {g|Encyclopedia:ActionPoints}PA{/g} e +{unit_stat|WarhammerAgility|bonus} {g|Encyclopedia:MovementPoints}PM{/g} per questo {g|Encyclopedia:Turn}turno{/g} extra.
+
+### u007121
+Stivali da inseguitore
+
+### u007122
+Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} — Zelota
+L'aquila cibernetica ottiene +20 di {g|Encyclopedia:WarhammerPerception}Perception{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g}, e infligge +250% di danni in più.
+L'aquila cibernetica {g|Encyclopedia:DodgeGlossary}schiva{/g} sempre gli attacchi effettuati da xenos, psyker o demoni.
+
+### u007123
+Undefiled Aquila
+
+### u007124
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Zelota
+L'aquila cibernetica ottiene +20 di {g|Encyclopedia:WarhammerPerception}Perception{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g}, e infligge +250% di danni in più.
+Ogni volta che l'aquila cibernetica {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco effettuato dal nemico {g|f:1e22c265a12744cc95a03d26b6c3cef9}obstructed{/g}, quel nemico effettua un attacco contro se stesso, infliggendo +100% di danni in più. Non può essere {g|Encyclopedia:BlockChance}bloccato{/g}, {g|Encyclopedia:Parry}parato{/g} o {g|Encyclopedia:DodgeGlossary}schivato{/g}.
+
+### u007125
+Maddening Winds
+
+### u007126
+Richiede {g|Encyclopedia:SoulMarkHope}Iconoclast{/g} — Zelota
+L'aquila cibernetica ottiene +20 di {g|Encyclopedia:WarhammerPerception}Perception{/g} e {g|Encyclopedia:WarhammerAgility}Agility{/g}, e infligge +250% di danni in più.
+All'inizio di ogni {g|Encyclopedia:Round}round{/g}, tutti i personaggi alleati ottengono 2 accumuli dell'effetto {g|f:90f1c90ae52342fda66f67d43e988286}bait{/g}.
+
+### u007127
+Devotion of the Aquila
+
+### u007128
+Questo kit di miglioramento potenzia in modo permanente le stazioni di manutenzione dei famigli del Rogue Trader. Se applicato a una qualsiasi di esse, entrambe vengono migliorate.
+<i>! I kit di miglioramento possono essere usati solo in ordine numerico.</i>
+<i>! Utilizzabile solo se il Rogue Trader ha l'archetipo Overseer.</i>
+
+### u007129
+Kit di miglioramento della stazione di manutenzione dei famigli I
+
+### u007130
+Kit di miglioramento della stazione di manutenzione dei famigli II
+
+### u007131
+Kit di miglioramento della stazione di manutenzione dei famigli III
+
+### u007132
+Richiede {g|Encyclopedia:SoulMarkFaith}Dogmatic{/g} — Zelota
+Le {g|Encyclopedia:MaxWounds}ferite massime{/g} del mastino cibernetico aumentano di +50%, e infligge +250% di danni in più.
+Se il bersaglio è uno xenos, uno psyker o un demone, mette sempre a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}.
+
+### u007133
+Consecrated Fangs
+
+### u007134
+Alleati
+
+### u007135
+Nemici
+
+### u007136
+Richiede {g|Encyclopedia:SoulMarkCorruption}Heretical{/g} — Zelota
+Le {g|Encyclopedia:MaxWounds}ferite massime{/g} del mastino cibernetico aumentano di +50%, e infligge +250% di danni in più.
+Il mastino cibernetico infligge +20% di danni in più per ogni nemico sconfitto e +200% per ogni personaggio alleato privo di sensi.
+
+### u007137
+Dog of War
+
+### u007138
+<u>({g|Encyclopedia:SkillCoercion}Coercion{/g} dell'Overseer / 5)</u>
+
+### u007139
+Richiede Iconoclast — Zelota
+Le ferite massime del mastino cibernetico aumentano di +50% e infligge +250% di danni in più.
+Tutti i danni inflitti all'alleato {g|f:7d75105e9e224ceab784932c12a26757}protected{/g} vengono inflitti invece al mastino cibernetico. I danni subiti da qualsiasi fonte dal mastino cibernetico {g|f:a63088cd6402424b8ec0c508e5143083}protecting{/g} sono ridotti di −{uip|DamageResist|7108aa88cc5a4099a543f5f57741156c}%.

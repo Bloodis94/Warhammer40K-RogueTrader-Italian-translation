@@ -1,0 +1,1786 @@
+### u057850
+Sic!
+
+### u057851
+Il Domatore può riportare in vita un mastino cibernetico sconfitto con metà delle sue {g|Encyclopedia:MaxWounds}ferite massime{/g} e senza {g|Encyclopedia:Traumas}traumi{/g}.
+<i>Utilizzabile solo due volte per {g|Encyclopedia:Turn}turno{/g}.</i>
+<i>Ogni mastino cibernetico può essere riattivato una sola volta.</i>
+
+### u057852
+Questo proiettile è progettato appositamente per essere usato contro veicoli pesantemente corazzati.
+
+### u057853
+Proiettile anticarro
+
+### u057854
+Proiettile antiuomo
+
+### u057855
+Il Capitano Walz concede un {g|Encyclopedia:ExtraTurn}turno extra{/g} a ogni alleato nell'{g|Encyclopedia:AreaOfEffect}area d'effetto{/g}.
+
+### u057856
+Desperate Command
+
+### u057857
+La vasta esperienza nell'aprire i contenitori della decima conferisce a questo soldato della Guardia un bonus del +50% alla {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u057858
+Metalcutter
+
+### u057859
+Gli alleati {g|Encyclopedia:DodgeGlossary}schivano{/g} automaticamente gli attacchi di questa creatura.
+
+### u057860
+Squad Tactics
+
+### u057861
+Questo protocollo permette al Domatore di controllare qualsiasi mastino cibernetico alleato.
+
+### u057862
+Protocol: Control Severance
+
+### u057863
+Quando le {g|Encyclopedia:HitPoints}ferite{/g} del Capitano Walz scendono sotto il 50%, egli agisce dopo la fine del {g|Encyclopedia:Turn}turno{/g} di ogni nemico.
+
+### u057864
+Questo soldato della Guardia subisce il −75% di {g|Encyclopedia:DamageGlossary}danni{/g} in meno dagli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g}.
+
+### u057865
+Demolitionist's Instincts
+
+### u057866
+Ogni volta che un alleato muore, il soldato della Guardia ottiene +{uip|Dodge|5111136ad86740b4a1d6d9dcbf75fb15}% di {g|Encyclopedia:DodgeGlossary}schivata{/g} e di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}. Questo effetto è cumulabile e dura fino alla fine del combattimento.
+
+### u057867
+At Any Cost
+
+### u057868
+<u>(10 − bonus di {g|Encyclopedia:WarhammerWillpower}WP{/g})</u>
+
+### u057869
+Quando è prossimo alla morte, il Capitano Walz ordina alle sue truppe di eseguire il suo ultimo ordine.
+
+### u057870
+The Final Order
+
+### u057871
+Questo meccanismo è immune agli effetti {g|Encyclopedia:ProneEffect}a terra{/g}, {g|Encyclopedia:FatiguedEffect}affaticato{/g}, {g|Encyclopedia:DisturbedEffect}turbato{/g}, {g|Encyclopedia:PerplexedEffect}confuso{/g}, {g|Encyclopedia:StaggeredEffect}barcollante{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g}, agli {g|f:423e91ce057d4e2489043ded7306f3e2}orrori del warp{/g} e ai {g|Encyclopedia:MentalDamage}danni mentali{/g}. Non può {g|Encyclopedia:DodgeGlossary}schivare{/g} e non può essere {g|Encyclopedia:PushGlossary}spinto{/g}. La sua {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} è del 40% e la sua {g|Encyclopedia:Deflection}deviazione{/g} è 5.
+
+### u057872
+Inorganic Nature
+
+### u057873
+Il bersaglio di questo attacco deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −20, altrimenti resta {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}.
+
+### u057874
+Gargantuan Strength
+
+### u057875
+Il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} o venire {g|Encyclopedia:PushGlossary}spinto{/g} a 3 caselle di distanza.
+
+### u057876
+Firm Kick
+
+### u057877
+Per ogni accumulo di questo effetto, la {g|Encyclopedia:WarhammerToughness}Toughness{/g} è ridotta di −5 e l'{g|Encyclopedia:WarhammerAgility}Agility{/g} è ridotta di −10.
+
+### u057878
+Unbearable Itching
+
+### u057879
+Quando questa creatura muore, le sue vesciche scoppiano e schizzano sangue sui nemici adiacenti. I nemici colpiti subiscono +1 accumulo di {g|f:3bfd44baa24c4533b370dd1373a50e46}Unbearable Itch{/g}. Questo effetto è cumulabile fino a 3 volte e dura 3 {g|Encyclopedia:Round}round{/g}.
+
+### u057880
+Festering Sores
+
+### u057881
+Sceglie un alleato e gli concede immediatamente un {g|Encyclopedia:ExtraTurn}turno extra{/g} con 2 {g|Encyclopedia:ActionPoints}PA{/g} e 4 {g|Encyclopedia:MovementPoints}PM{/g}.
+
+### u057882
+Look Alive!
+
+### u057883
+Gonfia di thassertium, il corpo di questa creatura sta per esplodere. Corre verso il bersaglio ed esplode, infliggendo <u>(da 25 a 30)</u> {g|Encyclopedia:WarpDamage}danni warp{/g} a tutti i bersagli non mutanti entro un raggio di 2 caselle.
+
+### u057884
+Thassertium Buboes
+
+### u057885
+Questa {g|Encyclopedia:Ability}abilità{/g} rinvigorisce 5 mutanti casuali in combattimento, aumentando alcune delle loro {g|Encyclopedia:Characteristic}caratteristiche{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u057886
+Frenzied Cry
+
+### u057887
+La {g|Encyclopedia:WarhammerStrength}Strength{/g}, la {g|Encyclopedia:WarhammerToughness}Toughness{/g} e la {g|Encyclopedia:WarhammerWillpower}Willpower{/g} di questa creatura sono aumentate di +15.
+
+### u057888
+I bersagli colpiti dalla saliva velenosa dei mutanti subiscono 5 {g|Encyclopedia:ToxicDamage}danni tossici{/g} e {g|Encyclopedia:ToxinEffect}tossina{/g} (15).
+
+### u057889
+Toxic Spittle
+
+### u057890
+Quando il bersaglio di questa {g|Encyclopedia:Ability}abilità{/g} muore, esplode, infliggendo <u>(da 30 a 35)</u> {g|Encyclopedia:ImpactDamage}danni da impatto{/g} a tutte le creature adiacenti.
+
+### u057891
+Tissue Explosion
+
+### u057892
+"I destini del mio signore sono già scolpiti nella pietra! Finché vivrò, non potrete distruggerli."
+
+### u057893
+Finché Tavrisk è vivo, Bluff ottiene +1 accumulo di {g|f:8e056b164f3b4a17b03b1d7565cc558e}bonds of servitude{/g} per ogni sentinella di pietra ancora in combattimento.
+
+### u057894
+Bonds of Servitude
+
+### u057895
+"Non potete farmi del male? Che peccato! Direi che il destino non è dalla vostra parte!"
+
+### u057896
+"Sono così stanco di voi tutti... Morite e basta, una buona volta! È tanto difficile?"
+
+### u057897
+"Odio quando qualcuno mi rompe i giocattoli, sapete? E quindi, la pagherete!"
+
+### u057898
+Per ogni accumulo di questo effetto, Bluff ottiene:
+-<indent=5%> −25% di {g|Encyclopedia:DamageGlossary}danni{/g} subiti</indent>
+-<indent=5%> +25% di danni inflitti</indent>
+-<indent=5%> +25% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}</indent>
+-<indent=5%> +1 {g|Encyclopedia:MovementPoints}punto movimento{/g}</indent>
+
+### u057899
+Link in the Chain
+
+### u057900
+Questo psyker ha un {g|Encyclopedia:PsyRating}livello psichico{/g} pari a 9.
+La gittata dei {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} è aumentata di +99.
+La {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} è diminuita di −99.
+
+### u057901
+Corrupted Psyker
+
+### u057902
+La carne di questa creatura brilla di polvere di thassertium, aumentando la sua {g|Encyclopedia:WarhammerStrength}Strength{/g} di +25.
+Quando questa creatura muore, il thassertium trasforma le sue emozioni concentrate in energia warp, infliggendo <u>(da 25 a 30)</u> {g|Encyclopedia:WarpDamage}danni warp{/g} a tutti i bersagli non mutanti entro un raggio di 2 caselle.
+
+### u057903
+Thasserian Fever
+
+### u057904
+Quando Bluff viene ucciso, tutte le sentinelle di pietra vengono distrutte.
+
+### u057905
+Ritual Focus
+
+### u057906
+"Falce rosso sangue della luna,
+Mi concederai un'ultima fortuna?
+L'Ombra sussurrò, bella e sincera:
+La morte viene per TE stasera!"
+
+### u057907
+L'ultima creatura che ha inflitto {g|Encyclopedia:DamageGlossary}danni{/g} a Bluff, alle sentinelle di pietra o a Tavrisk diventa il {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} di Bluff. Se quella creatura è {g|Encyclopedia:UnconsciousEffect}priva di sensi{/g}, il suo bersaglio prioritario diventa un nemico casuale.
+
+### u057908
+At Gunpoint
+
+### u057909
+Il corpo di questa creatura è coperto di vesciche e protuberanze, con gli arti trasformati in modo innaturale.
+La sua {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e la sua {g|Encyclopedia:WarhammerWillpower}Willpower{/g} sono aumentate di +25, ma la sua {g|Encyclopedia:DodgeGlossary}schivata{/g} è ridotta di −50%.
+
+### u057910
+Mutation
+
+### u057911
+Spada gigantesca
+
+### u057912
+Questa granata crea un'area {g|Encyclopedia:BurningEffect}in fiamme{/g} che dura 2 {g|Encyclopedia:Round}round{/g}. Qualsiasi creatura che entri in quell'area (o si trovi lì nel momento in cui l'effetto viene applicato) subisce 20 {g|Encyclopedia:FireDamage}danni da fuoco{/g}, con il 20% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}, e in fiamme (15) per 3 round.
+
+### u057913
+Spada feudale
+
+### u057914
+Mercenario "Beta"
+
+### u057915
+Mercenario "Delta"
+
+### u057916
+Mercenario "Zeta"
+
+### u057917
+Mercenario "Epsilon"
+
+### u057918
+Mercenario "Gamma"
+
+### u057919
+Mercenario "Alpha"
+
+### u057920
+Pirata
+
+### u057921
+Arma della Giustizia
+
+### u057922
+Accusatore
+
+### u057923
+Seguace di Anvylas
+
+### u057924
+Ripristina le {g|Encyclopedia:HitPoints}ferite{/g} della torretta e le conferisce l'effetto {g|f:2b822f5f71d0476fa975e5dff7092cd3}overclock{/g}.
+
+### u057925
+Ogni {g|Encyclopedia:Round}round{/g}, la torretta ottiene più {g|Encyclopedia:ExtraTurn}turni extra{/g}. Per ogni attacco, ottiene +1 accumulo di {g|f:7733be9627bd41ce83b43dc4438df22c}overheat{/g}.
+
+### u057926
+Overclock
+
+### u057927
+Gli attacchi di questa creatura ignorano sempre i blocchi degli scudi.
+
+### u057928
+Calculated Strikes
+
+### u057929
+Il mutante sputa acido che infligge l'effetto {g|Encyclopedia:MeltingEffect}in fusione{/g}.
+
+### u057930
+Acid Spit
+
+### u057931
+Forceful Slam
+
+### u057932
+Il tocco del warp concede ai mutanti una mutazione casuale ogni {g|Encyclopedia:Round}round{/g}. La mutazione può curare, infliggere {g|Encyclopedia:DamageGlossary}danni{/g}, accecare o concedere presagi.
+
+### u057933
+Ogni {g|Encyclopedia:Round}round{/g} i mutanti ottengono una mutazione warp casuale.
+
+### u057934
+Questa creatura corrompe i suoi nemici a ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g} ancora più in fretta degli altri servitori di Nurgle, facendoli rialzare dopo la morte come burattini senza mente.
+
+### u057935
+Rotten Hulk
+
+### u057936
+Questa creatura corrompe i suoi nemici a ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g}, facendoli rialzare dopo la morte come burattini senza mente.
+
+### u057937
+Rotten Undead
+
+### u057938
+Questa creatura evoca un Horror Rosa attraverso un portale.
+
+### u057939
+Break with Reality
+
+### u057940
+Un attacco a distanza. Se {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, il nemico ottiene un +20% di probabilità di essere colpito per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u057941
+Kill Mark
+
+### u057942
+Una creatura che si trova in quest'area subisce l'effetto {g|f:15f32ade9f3e4b9f8e47a2840f514b70}conductivity{/g}.
+
+### u057943
+Pozza
+
+### u057944
+Concede un {g|Encyclopedia:Turn}turno{/g} extra a un alleato.
+
+### u057945
+Demand Assistance
+
+### u057946
+Nocturne of Oblivion colpisce ogni lato disponibile del bersaglio (non coperto da un oggetto o una creatura adiacente), eseguendo un massimo di 4 attacchi.
+
+### u057947
+Gli attacchi non consumano {g|Encyclopedia:MovementPoints}punti movimento{/g} e il movimento non provoca {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u057948
+I {g|Encyclopedia:DamageGlossary}danni{/g} di questa creatura aumentano di +5 per accumulo.
+
+### u057949
+Ogni volta che questa creatura subisce {g|Encyclopedia:DamageGlossary}danni{/g}, i suoi attacchi ottengono +5 danni. Cumulabile.
+
+### u057950
+Recklessness
+
+### u057951
+Ripristina il 20% delle {g|Encyclopedia:HitPoints}ferite{/g} massime all'inizio del {g|Encyclopedia:Turn}turno{/g} di ogni creatura.
+
+### u057952
+Suppress Pain
+
+### u057953
+I nemici colpiti da questa {g|Encyclopedia:Ability}abilità{/g} devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}. In caso di fallimento subiscono 5 {g|Encyclopedia:DamageGlossary}danni{/g} e ottengono l'effetto {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+
+### u057954
+Bloodstone
+
+### u057955
+"Abbracceranno tutti la morte!"
+
+### u057956
+Tutti gli Incubi ottengono un {g|Encyclopedia:Turn}turno{/g} extra.
+
+### u057957
+Archon's Will
+
+### u057958
+Questa creatura subisce 5 {g|Encyclopedia:DamageGlossary}danni{/g} a ogni {g|Encyclopedia:Round}round{/g}.
+
+### u057959
+Agony
+
+### u057960
+Questa creatura recupera +3 {g|Encyclopedia:HitPoints}ferite{/g} ogni volta che un'altra creatura subisce {g|Encyclopedia:DamageGlossary}danni{/g} che non la uccidono.
+
+### u057961
+Revitalising Pain
+
+### u057962
+Thanatophobia Zone
+
+### u057963
+Quando una creatura nella zona di {g|f:482633ad900b420aa0433246e7716f82}thanatophobia{/g} subisce {g|Encyclopedia:DamageGlossary}danni{/g}, deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}. In caso di fallimento, ottiene l'effetto {g|f:482633ad900b420aa0433246e7716f82}thanatophobia{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u057964
+Riduce di −25 l'{g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, la {g|Encyclopedia:WarhammerStrength}Strength{/g} e l'{g|Encyclopedia:WarhammerAgility}Agility{/g} del bersaglio. Quando il bersaglio subisce {g|Encyclopedia:DamageGlossary}danni{/g} da qualsiasi fonte, tutti i Drukhari recuperano 3 {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u057965
+Thanatophobia
+
+### u057966
+Withering Talons
+
+### u057967
+Deep Incision
+
+### u057968
+Fate of the Abject
+
+### u057969
+Experimental Stimm
+
+### u057970
+La creatura ottiene un attacco aggiuntivo per {g|Encyclopedia:Turn}turno{/g}, +4 {g|Encyclopedia:ActionPoints}PA{/g}, +100% di {g|Encyclopedia:DamageGlossary}danni{/g} e +50% a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g}. Ma quando l'effetto dello stimm termina, questa creatura subisce 120 {g|Encyclopedia:MentalDamage}danni mentali{/g}.
+
+### u057971
+Questa creatura ottiene +1 {g|Encyclopedia:DamageGlossary}danni{/g} ogni volta che i suoi alleati subiscono danni o applicano l'effetto {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+
+### u057972
+Questa creatura ottiene un {g|Encyclopedia:ExtraTurn}turno extra{/g} ogni volta che un suo alleato muore. Ottiene anche un {g|Encyclopedia:Turn}turno{/g} extra quando le {g|Encyclopedia:HitPoints}ferite{/g} di un alleato scendono sotto il 50%, ma solo una volta per alleato.
+
+### u057973
+Intervention
+
+### u057974
+Dopo essere stata {g|Encyclopedia:HitSequenceGlossary}colpita{/g} da un attacco a distanza, questa creatura risponde immediatamente al fuoco.
+
+### u057975
+Take It Back!
+
+### u057976
+Uccideteli!
+
+### u057977
+Aumenta la {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} e la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} dei Drukhari sotto il comando di Kharael di +20%.
+
+### u057978
+La {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} e la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} di questa creatura sono aumentate di +20%.
+
+### u057979
+Un attacco violento che riduce i {g|Encyclopedia:ActionPoints}PA{/g} e i {g|Encyclopedia:MovementPoints}PM{/g} del bersaglio di −2.
+
+### u057980
+Abrupt Attack
+
+### u057981
+Torn Sinews
+
+### u057982
+I {g|Encyclopedia:HitSequenceGlossary}colpi{/g} di Kharael infliggono {g|Encyclopedia:ToxinEffect}tossina{/g} al suo bersaglio per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u057983
+Toxic Blade
+
+### u057984
+Le creature sotto il comando di Nazrakhei ottengono +20% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}, +4 di {g|Encyclopedia:Deflection}deviazione{/g} e si curano di <u>(da 12 a 30)</u> a ogni {g|Encyclopedia:Turn}turno{/g} finché l'Arconte è vivo.
+
+### u057985
+Archon's Presence
+
+### u057986
+Concede a tutte le creature sotto il comando di Kharael +10% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}, +15% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e +7 {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u057987
+Leader's Presence
+
+### u057988
+Nazrakhei's Avenger
+
+### u057989
+Ogni volta che Nazrakhei subisce {g|Encyclopedia:DamageGlossary}danni{/g} da attacchi con armi, concede subito un {g|Encyclopedia:ExtraTurn}turno extra{/g} a un alleato (gli alleati con obey my authority hanno la priorità più alta). La creatura che ha ottenuto quel {g|Encyclopedia:Turn}turno{/g} extra cerca di {g|Encyclopedia:HitSequenceGlossary}colpire{/g} il nemico che ha ferito Nazrakhei.
+
+### u057990
+Nazrakhei concede al suo alleato (gli alleati con obey my authority hanno la priorità più alta) un {g|Encyclopedia:ExtraTurn}turno extra{/g}. La creatura che ha ottenuto quel {g|Encyclopedia:Turn}turno{/g} extra cerca di {g|Encyclopedia:HitSequenceGlossary}colpire{/g} il nemico che ha {g|Encyclopedia:DamageGlossary}ferito{/g} Nazrakhei.
+
+### u057991
+Obey My Authority!
+
+### u057992
+Nazrakhei concede a un alleato +200% di {g|Encyclopedia:DamageGlossary}danni{/g}, +30% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e +50 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u057993
+Questa creatura ha +200% di {g|Encyclopedia:DamageGlossary}danni{/g}, +30% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e +50 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} e {g|Encyclopedia:WarhammerPerception}Perception{/g}.
+
+### u057994
+Nazrakhei spara, infliggendo <u>(da 12 a 52)</u> {g|Encyclopedia:PiercingDamage}danni perforanti{/g}. Tutti attorno al bersaglio e il bersaglio stesso subiscono −10% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e −1 di {g|Encyclopedia:Deflection}deviazione{/g}, a meno che non superino una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g}.
+
+### u057995
+Toxic Melting
+### u057996
+I {g|Encyclopedia:HitSequenceGlossary}colpi{/g} di Sinisthoria infliggono {g|Encyclopedia:BleedingEffect}sanguinamento{/g} al suo bersaglio per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u057997
+Massacre in Scarlet
+
+### u057998
+Sinisthoria colpisce ogni lato disponibile del bersaglio (non coperto da un oggetto o una creatura adiacente), eseguendo un massimo di 4 attacchi.
+
+### u057999
+I Am Everywhere!
+
+### u058000
+Gli attacchi di Sinisthoria non consumano {g|Encyclopedia:MovementPoints}PM{/g} e i suoi movimenti non provocano {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u058001
+Deliberate Moves
+
+### u058002
+Le creature condannate subiscono una {g|Encyclopedia:Penalty}penalità{/g} del −50% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} e alla {g|Encyclopedia:Parry}parata{/g} e una penalità di −4 alla {g|Encyclopedia:Deflection}deviazione{/g}. Inoltre, i nemici ottengono +50% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} contro le creature condannate.
+
+### u058003
+Prophesy of Doom
+
+### u058004
+Il Veggente evoca una vasta tempesta psichica, infliggendo 10 {g|Encyclopedia:EnergyDamage}danni energetici{/g} in un'area con raggio di 4 caselle. Dopo 2 {g|Encyclopedia:Turn}turni{/g} la tempesta ritorna nel warp, infliggendo 35 {g|Encyclopedia:DamageGlossary}danni{/g} energetici.
+
+### u058005
+Eldritch Storm
+
+### u058006
+Tutti gli attacchi contro questa creatura subiscono una {g|Encyclopedia:Penalty}penalità{/g} del −50% alla {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g}.
+
+### u058007
+Foreseen Fortune
+
+### u058008
+Il Veggente infligge {g|Encyclopedia:SlowedEffect}rallentato{/g} a un nemico e gli impedisce di usare {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g}.
+Il bersaglio deve superare una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:SkillAwareness}Awareness{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −30 per evitare gli effetti.
+
+### u058009
+Mind War
+
+### u058010
++10 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} per 1 {g|Encyclopedia:Round}round{/g}
+
+### u058011
+Ready Your Weapons!
+
+### u058012
++50 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} fino alla fine del combattimento
+
+### u058013
+Kill Them!
+
+### u058014
+Il direttore Casteglia subisce una {g|Encyclopedia:Penalty}penalità{/g} di −20 all'{g|Encyclopedia:WarhammerAgility}Agility{/g}, ma i suoi nemici subiscono una penalità del −25% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} contro i suoi attacchi.
+
+### u058015
+Daemonic Impediment
+
+### u058016
+Il bersaglio subisce una {g|Encyclopedia:Penalty}penalità{/g} di −20 alla {g|Encyclopedia:WarhammerToughness}Toughness{/g} e ottiene +50% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} contro tutti i tipi di {g|Encyclopedia:DamageGlossary}danni{/g} tranne i {g|Encyclopedia:WarpDamage}danni warp{/g}.
+
+### u058017
+Daemonic Armour
+
+### u058018
+Il bersaglio subisce una {g|Encyclopedia:Penalty}penalità{/g} di −20 alla {g|Encyclopedia:WarhammerStrength}Strength{/g}. Ogni attacco del bersaglio infligge {g|Encyclopedia:WarpDamage}danni warp{/g} aggiuntivi.
+
+### u058019
+Daemonic Strike
+
+### u058020
+Aumenta la fortuna del Navigatore, anche se il Navigatore non può muoversi per un certo periodo:
+-<indent=5%>+30% alla {g|Encyclopedia:HitSequenceGlossary}probabilità di colpire{/g} e alla {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g} del Navigatore.</indent>
+-<indent=5%>+3 ai {g|Encyclopedia:DamageGlossary}danni{/g} del Navigatore.</indent>
+-<indent=5%>−30% di {g|Encyclopedia:Penalty}penalità{/g} alla probabilità di colpire dei nemici contro il Navigatore.</indent>
+
+### u058021
+Concede il 50% di probabilità di assorbire tutti i {g|Encyclopedia:DamageGlossary}danni{/g} in arrivo.
+
+### u058022
+Overload
+
+### u058023
+Quando ha meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g}, questa creatura produce un cono di fuoco di 7 caselle che infligge 3 {g|Encyclopedia:FireDamage}danni da fuoco{/g} e provoca {g|Encyclopedia:BurningEffect}in fiamme{/g}.
+
+### u058024
+Let Them Burn!
+
+### u058025
+Quando ha meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g}, questa creatura comincia a infliggere più {g|Encyclopedia:DamageGlossary}danni{/g} ai nemici ma subisce 3 {g|Encyclopedia:PiercingDamage}danni perforanti{/g} ogni volta che infligge danni. I suoi attacchi ottengono una probabilità di {g|Encyclopedia:PushGlossary}spingere{/g} il bersaglio o di infliggere {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+
+### u058026
+Cutting Edge
+
+### u058027
+Xenobomba
+
+### u058028
+Questa creatura infligge più {g|Encyclopedia:DamageGlossary}danni{/g} ai nemici ma subisce 3 {g|Encyclopedia:PiercingDamage}danni perforanti{/g} ogni volta che infligge danni. I suoi attacchi ottengono una probabilità di {g|Encyclopedia:PushGlossary}spingere{/g} il bersaglio o di infliggere {g|Encyclopedia:BleedingEffect}sanguinamento{/g}.
+
+### u058029
+Final Run
+
+### u058030
+Il Commissario giustizia uno dei suoi alleati per aumentare i {g|Encyclopedia:DamageGlossary}danni{/g} degli altri e concedere loro {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g} e {g|Encyclopedia:MovementPoints}punti movimento{/g} aggiuntivi per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u058031
+Death to Traitors
+
+### u058032
+Aumenta i {g|Encyclopedia:DamageGlossary}danni{/g} del +100%. Questa creatura ottiene anche +20 {g|Encyclopedia:HitPoints}ferite{/g} temporanee e +2 {g|Encyclopedia:MovementPoints}punti movimento{/g}.
+
+### u058033
+Horrification
+
+### u058034
+Un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} che può {g|Encyclopedia:PushGlossary}spingere{/g} un nemico fino a 3 caselle di distanza, a meno che non superi una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u058035
+All'inizio del suo {g|Encyclopedia:Turn}turno{/g}, questa creatura cambia tattica di combattimento a seconda che ci sia almeno un nemico adiacente.
+
+### u058036
+Il Commissario chiama 3 alleati entro una gittata di 20 caselle perché lo raggiungano seguendo il percorso più breve possibile. Quegli alleati assorbono i {g|Encyclopedia:DamageGlossary}danni{/g} al posto del Commissario.
+
+### u058037
+Protect Me!
+
+### u058038
+Un attacco a distanza che può infliggere {g|Encyclopedia:StaggeredEffect}barcollante{/g} per 1 {g|Encyclopedia:Round}round{/g}, a meno che il bersaglio non superi una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u058039
+Staggering Shot
+
+### u058040
+Pistola bolt "Horrifier"
+
+### u058041
+Vecchia spada a catena
+
+### u058042
+Contrattacca tutti gli attacchi in arrivo.
+
+### u058043
+Proprio nel momento in cui subisce danni letali, Incendia Chorda esegue un contrattacco a sorpresa.
+
+### u058044
+Martyr's Indomitability
+
+### u058045
+Incendia Chorda spara un singolo colpo a ogni nemico nella sua {g|Encyclopedia:LineOfSight}linea di vista{/g}. Questi colpi {g|Encyclopedia:HitSequenceGlossary}colpiscono{/g} sempre.
+
+### u058046
+His Inevitable Justice
+
+### u058047
+His Inevitable Justice — Second Weapon
+
+### u058048
+Aumenta le {g|Encyclopedia:Characteristic}caratteristiche{/g} di un alleato di +20 per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u058049
+Stirring Rhetoric
+
+### u058050
+Tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} aumentate di +20 per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u058051
+Inspired
+
+### u058052
+Infligge 5 {g|Encyclopedia:DamageGlossary}danni{/g} e costringe il bersaglio ad attaccare i suoi alleati. I bersagli devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −20 per non essere più confusi.
+
+### u058053
+Confusing Slap
+
+### u058054
+Dopo aver inflitto {g|Encyclopedia:DamageGlossary}danni{/g} per la prima volta in combattimento, ottiene un ulteriore +60% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e +6 di {g|Encyclopedia:Deflection}deviazione{/g}.
+
+### u058055
+Forged in Battle
+
+### u058056
++60% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}
++6 di {g|Encyclopedia:Deflection}deviazione{/g}
+
+### u058057
+Tail Strike
+
+### u058058
+Infligge 15 {g|Encyclopedia:DamageGlossary}danni{/g}. Se il bersaglio fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g}, viene anche scagliato {g|Encyclopedia:ProneEffect}a terra{/g}.
+
+### u058059
+Il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} o cadere {g|Encyclopedia:ProneEffect}a terra{/g}.
+
+### u058060
+Dirty Fighting
+
+### u058061
+Questa creatura ottiene +12 {g|Encyclopedia:DamageGlossary}danni{/g} e +20% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u058062
+Looked Like It Hurt
+
+### u058063
+Questa creatura ottiene {g|Encyclopedia:MovementPoints}punti movimento{/g} {g|Encyclopedia:Bonus}bonus{/g} e un attacco aggiuntivo per {g|Encyclopedia:Turn}turno{/g}.
+
+### u058064
+Quando le {g|Encyclopedia:HitPoints}ferite{/g} di questa creatura scendono sotto il 50%, essa recupera tutte le ferite e ottiene {g|Encyclopedia:MovementPoints}punti movimento{/g} {g|Encyclopedia:Bonus}bonus{/g} e un attacco aggiuntivo per {g|Encyclopedia:Turn}turno{/g}.
+
+### u058065
+Vicious Drive
+
+### u058066
+Falco infligge +10% di {g|Encyclopedia:DamageGlossary}danni{/g} per ogni nemico che subisce un effetto {g|Encyclopedia:ToxinEffect}tossina{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g} o {g|Encyclopedia:BurningEffect}in fiamme{/g} in combattimento (ma non oltre +100% di danni).
+
+### u058067
+Insidious Ecstasy
+
+### u058068
+Questa creatura non ha limiti al numero di attacchi che può eseguire durante il suo {g|Encyclopedia:Turn}turno{/g}.
+
+### u058069
+Immaterium Frenzy
+
+### u058070
+Ripristina <u>(da 32 a 42)</u> {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u058071
+Kit medico di Ravor
+
+### u058072
+Concede +2 {g|Encyclopedia:ActionPoints}punti azione{/g} e +50% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u058073
+Old Dog's Advice
+
+### u058074
+Ravor concede a questa creatura +2 {g|Encyclopedia:ActionPoints}punti azione{/g} e +50% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico.
+
+### u058075
+Non si può disobbedire!
+Concede un {g|Encyclopedia:ExtraTurn}turno extra{/g} a un alleato. Può essere attivata solo una volta per {g|Encyclopedia:Turn}turno{/g}.
+
+### u058076
+Augmentation Launch
+
+### u058077
+L'equipaggio di Aishara ottiene {g|Encyclopedia:HitPoints}ferite{/g} temporanee e {g|Encyclopedia:MovementPoints}punti movimento{/g} extra, e aumenta la propria {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico.
+
+### u058078
+Questa creatura ha +20% di {g|Encyclopedia:HitPoints}ferite{/g} temporanee, +4 {g|Encyclopedia:MovementPoints}punti movimento{/g} e +50% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico.
+
+### u058079
+Concede +3 di {g|Encyclopedia:Deflection}deviazione{/g} per ogni accumulo.
+
+### u058080
+Mitigation
+
+### u058081
+Ogni istanza di {g|Encyclopedia:DamageGlossary}danni{/g}, inclusi i danni nel tempo ({g|Encyclopedia:BurningEffect}in fiamme{/g}, {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, {g|Encyclopedia:ToxinEffect}tossina{/g}), concede ad Aishara +1 accumulo dell'effetto mitigation, ottenendo +3 di {g|Encyclopedia:Deflection}deviazione{/g} per ogni accumulo (fino a 10 accumuli). All'inizio del {g|Encyclopedia:Turn}turno{/g} successivo di Aishara tutti gli accumuli di mitigation vengono rimossi.
+
+### u058082
+Il {g|f:b2d7c012454c42dead2097e033918d22}Psychic Trigger{/g} di Aishara è in {g|Encyclopedia:Cooldown}tempo di ricarica{/g}: i {g|Encyclopedia:WarpDamage}danni warp{/g} e i {g|Encyclopedia:PsykerPowersGlossary}poteri psichici{/g} non le concederanno un {g|Encyclopedia:ExtraTurn}turno extra{/g}.
+
+### u058083
+Trigger Deactivated
+
+### u058084
+Una volta per {g|Encyclopedia:Round}round{/g}, qualsiasi {g|Encyclopedia:WarpDamage}danno warp{/g} o effetto di un {g|Encyclopedia:PsykerPowersGlossary}potere psichico{/g} contro Aishara le concederà un {g|Encyclopedia:ExtraTurn}turno extra{/g}.
+Il {g|Encyclopedia:Cooldown}tempo di ricarica{/g} di questa {g|Encyclopedia:Ability}abilità{/g} viene azzerato all'inizio del {g|Encyclopedia:Turn}turno{/g} di Aishara.
+
+### u058085
+Psychic Trigger
+
+### u058086
+Lancia una granata che infligge {g|Encyclopedia:WarpDamage}danni warp{/g}.
+
+### u058087
+Eschatos's Bonds
+
+### u058088
+Brasswhisper risveglia Eschatos, potenziando sia se stessa sia Pasqal per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u058089
+Pasqal attinge al potere di Eschatos. Ottiene +10 di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} e +50% di {g|Encyclopedia:DamageGlossary}danni{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+Tuttavia, anche i nemici dell'Adeptus Mechanicus ottengono +10% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico contro Pasqal e lo considerano un {g|Encyclopedia:PriorityTarget}bersaglio prioritario{/g} per questo round.
+
+### u058090
+Brasswhisper attinge al potere di Eschatos. Ottiene +10 di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} e +50% di {g|Encyclopedia:DamageGlossary}danni{/g}. Cumulabile fino a 3 volte.
+Anche Pasqal ottiene +10% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico contro di lei al suo prossimo attacco riuscito. Quando Pasqal colpisce Brasswhisper, lei perde tutti gli accumuli di questo effetto.
+
+### u058091
+Wrath of Eschatos
+
+### u058092
+All'inizio di ogni {g|Encyclopedia:Round}round{/g}, attorno a un nemico casuale viene creata una speciale zona di 7×7 che esplode alla fine del round. Chiunque si trovi nella zona al momento dell'esplosione subirà l'effetto wrath of Eschatos per 2 round. Se la creatura è già soggetta a questo effetto, wrath of Eschatos viene invece rimosso.
+
+### u058093
+Quando l'effetto ad area termina, wrath of Eschatos viene rimosso.
+
+### u058094
+Eschatos's Weakness
+
+### u058095
+Quando l'effetto ad area termina, wrath of Eschatos viene applicato a tutti coloro che si trovano nella zona per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u058096
+Eschatos's Strength
+
+### u058097
+La creatura subisce −50 a tutte le {g|Encyclopedia:Characteristic}caratteristiche{/g} e i {g|Encyclopedia:DamageGlossary}danni{/g} della sua {g|Encyclopedia:RangeAreaAttacksGlossary}arma a distanza{/g} sono ridotti del −75%.
+
+### u058098
+Brasswhisper usa il potere di Eschatos per bloccare tutte le augmetiche e i meccanismi nei corpi dei suoi nemici. I bersagli devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} con una {g|Encyclopedia:Penalty}penalità{/g} di −10 o restare {g|Encyclopedia:Stun}storditi{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+Non ha effetto su Pasqal.
+
+### u058099
+Humility Protocol
+
+### u058100
+Machine Spirit Absolute
+
+### u058101
+Brasswhisper invoca lo spirito macchina. I suoi alleati sono benedetti dai suoi poteri e i suoi nemici sono maledetti per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u058102
+Questa creatura è benedetta dallo spirito macchina. Il {g|Encyclopedia:Recoil}rinculo{/g} delle sue armi è dimezzato e tutti i suoi bersagli subiscono −<u>(2 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerIntelligence}INT{/g})</u>% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} e alla {g|Encyclopedia:Parry}parata{/g} contro gli attacchi di questa creatura.
+
+### u058103
+Blessing of the Absolute Spirit
+
+### u058104
+Questa creatura è maledetta dallo spirito macchina. Il {g|Encyclopedia:Recoil}rinculo{/g} delle sue armi è raddoppiato e tutti i suoi bersagli ottengono +<u>(2 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerIntelligence}INT{/g})</u>% alla {g|Encyclopedia:DodgeGlossary}schivata{/g} e alla {g|Encyclopedia:Parry}parata{/g} contro gli attacchi di questa creatura.
+
+### u058105
+Curse of the Absolute Spirit
+
+### u058106
+Questa creatura ottiene +5 {g|Encyclopedia:MovementPoints}punti movimento{/g}, +30 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, e +50% di {g|Encyclopedia:HitSequenceGlossary}probabilità di colpo{/g} critico e di {g|Encyclopedia:DamageGlossary}danni{/g} dell'arma.
+
+### u058107
+Unlimited Code
+
+### u058108
+Se Pasqal muore, tutti i nemici dell'Adeptus Mechanicus riceveranno un potente dono di Eschatos.
+
+### u058109
+Death Means Perfection
+
+### u058110
+{g|Encyclopedia:PsyRating}Livello psichico{/g} ridotto di −2.
+
+### u058111
+Inquisition Presence
+
+### u058112
+L'aura dell'Inquisitore riduce di −2 il {g|Encyclopedia:PsyRating}livello psichico{/g} degli psyker entro un raggio di 4 caselle.
+
+### u058113
+Holy Inquisition Presence
+
+### u058114
+Devastating Stratagem
+
+### u058115
+Aumenta la {g|Encyclopedia:Deflection}deviazione{/g} di +3, l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di +30%, e la {g|Encyclopedia:WarhammerStrength}Strength{/g} e la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} di +30,
+
+### u058116
+Aggressive Protocol
+
+### u058117
+Alla fine di ogni {g|Encyclopedia:Turn}turno{/g} questa creatura subisce 10 {g|Encyclopedia:DirectDamage}danni diretti{/g} ma ottiene un {g|Encyclopedia:Bonus}bonus{/g} cumulabile di +5 {g|Encyclopedia:DamageGlossary}danni{/g}. Inoltre, alla fine del suo turno, questa creatura esegue un attacco contro chiunque si trovi nella sua {g|Encyclopedia:MeleeAttacksGlossary}portata di mischia{/g}.
+
+### u058118
+Concede +5 {g|Encyclopedia:DamageGlossary}danni{/g}. Cumulabile.
+
+### u058119
+Ogni volta che questa creatura viene colpita in mischia, contrattacca immediatamente.
+
+### u058120
+Hyperaction Protocols
+
+### u058121
+Questa creatura ottiene +10% di schivata, +10% di parata e +3 di deviazione per ogni accumulo di {g|f:3c33d7486cdf41b39e77ff573577110c}blood haste{/g}.
+
+### u058122
+Blood Haste
+
+### u058123
+Questa creatura ottiene +1 accumulo di {g|f:3c33d7486cdf41b39e77ff573577110c}blood haste{/g} per ogni 20% di ferite mancanti.
+
+### u058124
+Questa creatura subisce il −5% in meno di danni warp e mentali per ogni alleato in vita.
+
+### u058125
+Inner Prayers
+
+### u058126
+Questa creatura ottiene un bonus di +5 a Weapon Skill, Agility e Perception per ogni accumulo dell'effetto.
+
+### u058127
+Revenge in Crimson
+
+### u058128
+Il potere di questa creatura cresce con la morte dei suoi alleati. Ogni volta che un alleato muore, la creatura ottiene +1 accumulo di {g|f:0b96ee4c62f749859db57d06d65c6ffd}revenge in crimson{/g}.
+
+### u058129
+Quando le ferite di questa creatura scendono sotto il 30% per la prima volta in combattimento, la creatura ottiene immediatamente un turno extra.
+
+### u058130
+Bloody Vengeance
+
+### u058131
+Il Vizsier esegue <u>(2 + bonus di AGI / 4)</u> colpi in mischia contro bersagli casuali (alleati inclusi) adiacenti a lui, ciascuno dei quali infligge il 50% dei suoi normali danni. Ogni colpo a segno concede al Vizsier +1 accumulo di {g|f:437c7a78578c4bbeab1e85ea4a76df7d}bloodblessed{/g}.
+
+### u058132
+Qualsiasi {g|Encyclopedia:DamageGlossary}danno{/g} inflitto al Vizsier sarà vendicato dagli alleati ancora in combattimento.
+
+### u058133
+Bloodspun Thread
+
+### u058134
+Ogni volta che questo Vizsier subisce {g|Encyclopedia:DamageGlossary}danni{/g}, consuma 1 accumulo di {g|f:f9bf89daca884ccf9ffecadca9045927}bloodspun thread{/g} per concedere un {g|Encyclopedia:Turn}turno{/g} extra a un alleato casuale. Durante il turno extra, questo alleato casuale cerca di attaccare il nemico che ha inflitto quei danni al Vizsier. All'inizio del suo turno, egli ripristina tutti gli accumuli di {g|f:f9bf89daca884ccf9ffecadca9045927}bloodspun thread{/g}.
+
+### u058135
+Quando è bersaglio di un attacco a distanza, questo cultista della morte consuma 1 accumulo di {g|f:3cd9c0cb6ed643969618dc333e38400d}evasive pirouette{/g}, {g|Encyclopedia:DodgeGlossary}schivando{/g} l'attacco e spostandosi in una casella libera adiacente casuale.
+
+### u058136
+Evasive Pirouette
+
+### u058137
+All'inizio del combattimento e ogni volta che questo cultista della morte termina il suo {g|Encyclopedia:Turn}turno{/g}, ottiene +<u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerAgility}AGI{/g} / 2)</u> accumuli di {g|f:3cd9c0cb6ed643969618dc333e38400d}evasive pirouette{/g}.
+
+### u058138
+Non appena il Vizsier raggiunge 9 accumuli di {g|f:437c7a78578c4bbeab1e85ea4a76df7d}bloodblessed{/g}, questa {g|Encyclopedia:Ability}abilità{/g} gli permette di ripristinare tutti i suoi PA e PM e di ottenere l'effetto {g|f:4da45a2d9f6f41048afa8c7d9398e7b2}idol of bloodrites{/g} fino alla fine del suo {g|Encyclopedia:Turn}turno{/g}.
+
+### u058139
+Indulge in Blood
+
+### u058140
+Ogni volta che il Vizsier infligge {g|Encyclopedia:DamageGlossary}danni{/g}, recupera lo stesso numero di ferite. Questo effetto dura fino alla fine del suo {g|Encyclopedia:Turn}turno{/g}.
+
+### u058141
+Idol of Bloodrites
+### u058142
+Questa abilità concede al Vizsier un effetto una tantum {g|f:7217d9629e534111a993a2cce0bcf0e4}raining blood{/g} che verrà applicato al suo prossimo attacco riuscito.
+
+### u058143
+Il prossimo attacco riuscito del Vizsier schizza un cono di sangue dietro il bersaglio. Ogni volta che un nemico si sposta in una qualsiasi casella interessata, subisce +1 accumulo di {g|f:4fe436747a7849759de6b83cdc774b7e}bloodstained{/g}. Inoltre, questo attacco concede +1 accumulo di {g|f:437c7a78578c4bbeab1e85ea4a76df7d}bloodblessed{/g} al Vizsier e infligge +1 accumulo di {g|f:4fe436747a7849759de6b83cdc774b7e}bloodstained{/g} al suo bersaglio. Questi effetti durano 2 round.
+
+### u058144
+Ogni bersaglio colpito da questo cultista della morte deve superare una prova di resistenza di Toughness con una penalità di −30 o subire {g|Encyclopedia:BleedingEffect}sanguinamento{/g} (5), {g|Encyclopedia:ToxinEffect}tossina{/g} (5) o {g|Encyclopedia:BurningEffect}in fiamme{/g} (5). L'effetto viene scelto a caso.
+
+### u058145
+Sacred Infusions
+
+### u058146
+Ogni volta che questo cultista della morte porta a segno un attacco, ottiene +1 accumulo di {g|f:437c7a78578c4bbeab1e85ea4a76df7d}bloodblessed{/g} e infligge +1 accumulo di {g|f:4fe436747a7849759de6b83cdc774b7e}bloodstained{/g} al suo bersaglio.
+
+### u058147
+Sanguine Threads
+
+### u058148
+Il Vizsier è pronto a lanciare la sua fiala di sangue. Questo creerà una pozza di sangue con le stesse proprietà di quella creata con l'abilità {g|f:7217d9629e534111a993a2cce0bcf0e4}Raining Blood{/g}.
+
+### u058149
+Questa creatura si trova sotto la cupola e può infliggere {g|Encyclopedia:DamageGlossary}danni{/g} al Magus.
+
+### u058150
+Under the Dome
+
+### u058151
+Il Magus non subisce {g|Encyclopedia:DamageGlossary}danni{/g} dagli attacchi delle creature all'esterno della cupola.
+
+### u058152
+Telekinetic Dome
+
+### u058153
+Il Magus segna una zona del campo di battaglia. Nel {g|Encyclopedia:Round}round{/g} successivo avviene un'esplosione che infligge <u>(da 25 a 70)</u> {g|Encyclopedia:DamageGlossary}danni{/g} con il 30% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} a tutte le unità in quella zona.
+
+### u058154
+Telekinetic Explosion
+
+### u058155
+Il Magus crea un impulso telecinetico che infligge {g|Encyclopedia:DamageGlossary}danni{/g} a tutte le creature adiacenti e le {g|Encyclopedia:PushGlossary}spinge{/g} a 3 caselle di distanza.
+
+### u058156
+Telekinetic Impulse
+
+### u058157
+Questa creatura è la più vicina al Magus. Sarà il prossimo bersaglio dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:459d59962a184d46b5665ad6f5f04e3f}Telekinetic Explosion{/g} del Magus.
+
+### u058158
+Prey of the Ravenous Star
+
+### u058159
+Questa creatura lancia una carica di fuoco contro la creatura bersaglio, creando un'area {g|Encyclopedia:BurningEffect}in fiamme{/g} di 3×3 che dura 2 {g|Encyclopedia:Round}round{/g}. Qualsiasi creatura che entri in quell'area (o si trovi lì nel momento in cui l'effetto viene applicato) subisce <u>(da 10 a 12)</u> {g|Encyclopedia:FireDamage}danni da fuoco{/g} con il 50% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e in fiamme (6).
+
+### u058160
+Shackles of Flame
+
+### u058161
+Ogni volta che un nemico {g|Encyclopedia:HitSequenceGlossary}colpisce{/g} il capitano con un'arma da {g|Encyclopedia:MeleeAttacksGlossary}mischia{/g}, il capitano consuma 1 accumulo di fire barrier causando un'esplosione che {g|Encyclopedia:PushGlossary}spinge{/g} i nemici adiacenti a 1 casella di distanza e infligge <u>(da 12 a 18)</u> {g|Encyclopedia:FireDamage}danni da fuoco{/g} ignorando completamente l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g}.
+
+### u058162
+Fire Barrier
+
+### u058163
+All'inizio del combattimento, il capitano ottiene +<u>(2 × livello psichico)</u> accumuli di fire barrier e diventa immune a {g|Encyclopedia:BurningEffect}in fiamme{/g}.
+
+### u058164
+Pyromancer's Blood
+
+### u058165
+Scatena un torrente di 4 proiettili infuocati, ciascuno dei quali infligge <u>(da 8 a 16)</u> {g|Encyclopedia:DamageGlossary}danni{/g} e provoca {g|Encyclopedia:BurningEffect}in fiamme{/g} (6). I proiettili hanno il 60% di probabilità di volare lungo la linea centrale e il 40% di deviare su una delle linee laterali.
+
+### u058166
+Questa creatura fa esplodere il corpo di un alleato morto, sostituendolo con un servitore del {g|Encyclopedia:DecayEffect}decadimento{/g} a seconda del tipo di quell'alleato. Se l'alleato bersaglio è una guardia, al suo posto appare una Guardia Poxwalker. Se l'alleato bersaglio è un ufficiale, al suo posto appare un Plaguebearer.
+
+### u058167
+Rise!
+
+### u058168
+Ogni volta che un nemico si sposta in un raggio di 1 casella attorno alla guardia del corpo, questa esegue immediatamente un singolo attacco normale contro quel nemico, riducendo i suoi {g|Encyclopedia:MovementPoints}PM{/g} a 0. Questo attacco può interrompere il movimento del nemico.
+
+### u058169
+Aim for the Tendons
+
+### u058170
+Ogni accumulo aumenta la {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e la {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} di +5 e la {g|Encyclopedia:WarhammerPerception}Perception{/g} di +10.
+
+### u058171
+Thirst for Revenge
+
+### u058172
+Ogni volta che un {g|Encyclopedia:CareerLeaderGlossary}ufficiale{/g} alleato muore, questa creatura ottiene +1 accumulo di {g|f:3e487d5d02384da5a8be7f93364af88c}Thirst for Revenge{/g} (+3 accumuli se muore il Capitano Sargona). Cumulabile fino a 5 volte.
+
+### u058173
+For the Fallen!
+
+### u058174
+L'utilizzatore ripristina al massimo i propri {g|Encyclopedia:ActionPoints}PA{/g} e {g|Encyclopedia:MovementPoints}PM{/g}, ottiene +10 attacchi aggiuntivi e, fino alla fine del {g|Encyclopedia:Turn}turno{/g}, infligge +100% di danni in più e non può essere {g|Encyclopedia:Stun}stordito{/g}, {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g}, cadere {g|Encyclopedia:ProneEffect}a terra{/g} o perdere i sensi. Alla fine del turno, l'utilizzatore perde i sensi.
+
+### u058175
+Emergency Galvanisation
+
+### u058176
+L'utilizzatore infligge +5% di danni in più e subisce −5% di danni in meno per ogni personaggio alleato ancora in combattimento entro un raggio di 3 caselle.
+
+### u058177
+Monocolo del Rogue Trader
+
+### u058178
+L'utilizzatore sceglie come bersaglio una creatura adiacente. Il bersaglio resta {g|Encyclopedia:ImmobilisedEffect}immobilizzato{/g} e viene considerato {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura totale{/g} per l'utilizzatore.
+
+### u058179
+Suppression
+
+### u058180
+L'utilizzatore ottiene l'abilità {g|f:0306640e7eec44c8a4146a496826c6d9}Suppression{/g}.
+
+### u058181
+Mano del disprezzo
+
+### u058182
+L'utilizzatore subisce {g|Encyclopedia:SlowedEffect}rallentato{/g} per 1 {g|Encyclopedia:Round}round{/g} quando usa l'abilità {g|f:0306640e7eec44c8a4146a496826c6d9}Suppression{/g}.
+
+### u058183
+<u>(({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerStrength}STR{/g} + bonus di {g|Encyclopedia:WarhammerFellowship}FEL{/g}) × numero di accumuli di {g|Encyclopedia:PerplexedEffect}confuso{/g} dell'utilizzatore)</u>
+
+### u058184
+L'utilizzatore può attraversare le unità, infliggendo loro {uip|Damage|c46782c71be94869b4022275e1611915} {g|Encyclopedia:DirectDamage}danni diretti{/g} e ottenendo +3 accumuli di {g|f:2606d221cbd84502957939547b6f4d21}tactical advantage{/g} per ogni unità attraversata.
+
+### u058185
+Oscillatore di fase rinforzato
+
+### u058186
+Ogni volta che l'utilizzatore {g|Encyclopedia:DodgeGlossary}schiva{/g} un attacco, deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una penalità di −{uip|DC|54824592a3774dfd8fb898ca6aee0e65} o ottenere +1 accumulo di {g|Encyclopedia:PerplexedEffect}confuso{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u058187
+Quando un nemico entra in un raggio di 4 caselle attorno all'utilizzatore, questi usa {g|f:ad7bde40de224aeca7c9807e67f5c16b}Flamer Shot: Spray{/g} contro il bersaglio. Questo effetto è attivo solo durante i {g|Encyclopedia:Turn}turni{/g} delle altre creature.
+
+### u058188
+Lanciafiamme reattivo
+
+### u058189
+Dopo che l'utilizzatore ha eseguito 4 attacchi con questa {g|Encyclopedia:AugmentsFullGlossary}augmetica{/g}, essa si guasta per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u058190
+<u>({g|Encyclopedia:SkillAthletics}Athletics{/g} / 2)</u>
+
+### u058191
+L'utilizzatore ottiene +{uip|Armour|71d23e8ca7d14824b28e0f295f59e487}% di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} e +{unit_stat|WarhammerFellowship|bonus} di {g|Encyclopedia:Deflection}deviazione{/g}.
+
+### u058192
+Egida della dinastia
+
+### u058193
+L'utilizzatore non può equipaggiare armature.
+
+### u058194
+Ogni {g|Encyclopedia:Round}round{/g}, quando l'utilizzatore viene attaccato, contrattacca (fino a {uip|Count|0eaa3dfaf2cf49109eef844b9477cd5a} volte). Gli alleati {g|Encyclopedia:DodgeGlossary}schivano{/g} sempre i suoi attacchi.
+
+### u058195
+Neuroamplificatori cablati
+
+### u058196
+<u>(numero di accumuli di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g} sull'utilizzatore)</u>
+
+### u058197
+Se un nemico {g|Encyclopedia:DodgeGlossary}schiva{/g}, {g|Encyclopedia:Parry}para{/g} o {g|Encyclopedia:BlockChance}blocca{/g} l'attacco dell'utilizzatore, l'attacco successivo dell'utilizzatore contro quel nemico non può essere schivato, parato o bloccato e infligge +{uip|Damage|d631acbb9e10424c88f2974f7c075207} di danni base.
+
+### u058198
+Logis-analizzatore telemetrico multi-thread
+
+### u058199
+Dopo ogni attacco, l'utilizzatore deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} con una penalità di −{uip|DC|9240ed9f123d4fa69f44e9c24d6e1b35} o ottenere +{uip|Toxin|9240ed9f123d4fa69f44e9c24d6e1b35} livelli di {g|Encyclopedia:ToxinEffect}tossina{/g} e subire immediatamente un'ulteriore istanza di danni da essa.
+
+### u058200
+{g|Encyclopedia:CharacterLevel}<u>Livello del personaggio</u>{/g}
+
+### u058201
+<u>(5 × bonus di {g|Encyclopedia:WarhammerPerception}PER{/g})</u>
+
+### u058202
+L'utilizzatore non può subire {g|Encyclopedia:Traumas}traumi{/g}. I danni extra subiti a causa di {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g} sono ridotti al 10% per accumulo.
+
+### u058203
+Matrice rigenerativa
+
+### u058204
+Quando l'utilizzatore subisce una {g|Encyclopedia:Injury}lesione{/g}, resta anche {g|Encyclopedia:Stun}stordito{/g} per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u058205
+Heretek demente
+
+### u058206
+Defiler antico
+
+### u058207
+Helbrute vorace
+
+### u058208
+Round prima del risveglio del Defiler:
+
+### u058209
+Grazie alla vasta esperienza e alle numerose {g|Encyclopedia:AugmentsFullGlossary}augmetiche{/g}, le {g|Encyclopedia:Characteristic}caratteristiche{/g} di Seberian sono aumentate.
+
+### u058210
+Salvatore della Casata von Valancius, il Dissipatore delle Tenebre, Conquistatore di Janus
+
+### u058211
+Rulecarver
+
+### u058212
+Una strana radiazione che i Necron usano per trasformare gli oggetti materiali in repliche olografiche senza vita.
+
+### u058213
+Commissario di Krieg
+
+### u058214
+Ingegnere di Krieg
+
+### u058215
+Lanciafiamme di Krieg
+
+### u058216
+Ogni accumulo di questo effetto concede +10% di danni, +10% di armatura e +10% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+
+### u058217
+Maschera antigas di Krieg
+
+### u058218
+Granatiere di Krieg
+
+### u058219
+Fante di Krieg
+
+### u058220
+Quartiermastro di Krieg
+
+### u058221
+Cecchino di Krieg
+
+### u058222
+Torretta Tarantula
+
+### u058223
+Ufficiale di Krieg
+
+### u058224
+Ignora il {g|Encyclopedia:BlockChance}blocco{/g} e la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} del bersaglio.
+
+### u058225
+Justice Inevitable
+
+### u058226
+I soldati dell'Inquisizione ottengono +50 di {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g}, +50 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}, +20 di {g|Encyclopedia:WarhammerStrength}Strength{/g}, +20 di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, +20 di {g|Encyclopedia:WarhammerPerception}Perception{/g} e +20 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+
+### u058227
+Questa creatura ottiene +40 di {g|Encyclopedia:WarhammerBallisticSkill}Ballistic skill{/g}, +40 di {g|Encyclopedia:WarhammerAgility}Agility{/g}, +20 di {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g}, +40 di {g|Encyclopedia:WarhammerPerception}Perception{/g} e +20 di {g|Encyclopedia:WarhammerWillpower}Willpower{/g}.
+
+### u058228
+Order Militant
+
+### u058229
+Lo Space Marine del Caos attaccherà il bersaglio segnato come odiato da Aurora.
+
+### u058230
+Focus of Rage
+
+### u058231
+Lo Space Marine del Caos vuole far saltare in aria la navetta!
+
+### u058232
+Destroy Shuttle
+
+### u058233
+Quando viene attaccata, questa creatura scatenerà il proprio odio contro l'ultimo aggressore.
+
+### u058234
+Aurora's Hatred
+
+### u058235
+Hated by Aurora
+
+### u058236
+Quando questa creatura attacca il bersaglio soggetto all'effetto hated by Aurora, la {g|Encyclopedia:WarhammerStrength}strength{/g} di questa creatura aumenta del +50% per 1 {g|Encyclopedia:Round}round{/g}.
+
+### u058237
+Blood Rage
+
+### u058238
+Calcia un nemico, infliggendo <u>({g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerToughness}TGH{/g} + bonus di {g|Encyclopedia:WarhammerStrength}STR{/g})</u> {g|Encyclopedia:DamageGlossary}danni{/g}.
+Questo attacco non può essere parato e {g|Encyclopedia:PushGlossary}spinge{/g} il bersaglio a 3 caselle di distanza. Il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di Toughness con una {g|Encyclopedia:Penalty}penalità{/g} di −20 o cadere {g|Encyclopedia:ProneEffect}a terra{/g}.
+
+### u058239
+Powerful Kick
+
+### u058240
+Questa creatura risucchia potere e vitalità da un alleato, curandosi e applicandosi uno scudo che annulla i {g|Encyclopedia:DamageGlossary}danni{/g} in arrivo dai successivi 3 attacchi.
+
+### u058241
+Scorn for the Weak
+
+### u058242
+Infiamma il sangue di uno Space Wolf e aumenta i suoi {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u058243
+Howl of Russ
+
+### u058244
+Questa creatura è potenziata dal potere del suo Primarca. Infligge +100% di {g|Encyclopedia:DamageGlossary}danni{/g}.
+
+### u058245
+Il prossimo attacco di questa creatura mette a segno un {g|Encyclopedia:HitSequenceGlossary}colpo{/g} critico.
+
+### u058246
+Strike of Fate
+
+### u058247
+Infligge il 100% di {g|Encyclopedia:DamageGlossary}danni{/g} bonus con il 100% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} ai bersagli con l'effetto {g|Encyclopedia:BurningEffect}in fiamme{/g}. Gli attacchi riusciti infliggono anche liquid flames.
+
+### u058248
+Let the World Burn!
+
+### u058249
+−50% di {g|Encyclopedia:WarhammerAgility}Agility{/g}
+
+### u058250
+Liquid Flames
+
+### u058251
+Granata incendiaria
+
+### u058252
+Subisce {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi finché non ci sono alleati nelle vicinanze.
+
+### u058253
+Desolated
+
+### u058254
+Esegue 3 attacchi in 1 {g|Encyclopedia:Round}round{/g}.
+
+### u058255
+Fanatic Zealotry
+
+### u058256
+I {g|Encyclopedia:DamageGlossary}danni{/g} in arrivo dagli {g|Encyclopedia:RangeAreaAttacksGlossary}attacchi a distanza{/g} sono aumentati di +<u>(5 + 3 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerWeaponSkill}WS{/g})</u>% fino alla fine del combattimento. Non cumulabile.
+
+### u058257
+Exposed Opening Strike
+
+### u058258
+Quando mette a segno un {g|Encyclopedia:HitSequenceGlossary}colpo{/g}, questo personaggio applica l'{g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g} confounded al suo bersaglio per 1 {g|Encyclopedia:Round}round{/g}. Il nemico bersaglio non può usare {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u058259
+Confounding Strike
+
+### u058260
+Non può usare {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacchi di opportunità{/g}.
+
+### u058261
+Confounded
+
+### u058262
+Quando un alleato di Uralon ha meno del 50% di {g|Encyclopedia:HitPoints}ferite{/g}, Uralon sacrifica il 20% delle proprie ferite per concedere a questo alleato +<u>(ferite massime dell'alleato / 2)</u> {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+! Utilizzabile solo una volta per bersaglio.
+
+### u058263
+Dark Pact
+
+### u058264
+Non può essere bersaglio dell'{g|Encyclopedia:Ability}abilità{/g} {g|f:3aceacf1ab554c61b4b876271b5e76ba}Dark Pact{/g}.
+
+### u058265
+Dark Pact Sealed
+
+### u058266
+Uralon concede a un alleato un {g|Encyclopedia:Turn}turno{/g} extra con {g|Encyclopedia:ActionPoints}PA{/g} e {g|Encyclopedia:MovementPoints}PM{/g} pari a <u>(2 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerFellowship}FEL{/g} di Uralon)</u>.
+In questo turno, il limite di attacchi di quell'alleato è pari a <u>(bonus di FEL di Uralon / 4)</u>.
+
+### u058267
+Evoca un demone.
+
+### u058268
+Tomo malefico
+
+### u058269
+Master of Union
+
+### u058270
+Uralon ottiene +9 di {g|Encyclopedia:Deflection}deviazione{/g} per ogni Space Marine del Caos alleato in combattimento.
+
+### u058271
+The Voice of Lorgar
+
+### u058272
+"Con le nostre armi empie stermineremo i non credenti e lasceremo entrare nel mondo la Parola della Verità!"
+
+### u058273
+Tutti gli Space Marine del Caos ottengono un {g|Encyclopedia:Turn}turno{/g} extra.
+
+### u058274
+Questa creatura recupera {g|Encyclopedia:HitPoints}ferite{/g} pari ai {g|Encyclopedia:DamageGlossary}danni{/g} inflitti dal suo {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}.
+
+### u058275
+Blood Sacrifice
+
+### u058276
+L'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di questa creatura è forgiata nel fuoco infernale.
++10 di {g|Encyclopedia:Deflection}deviazione{/g}
++50% di armatura
+
+### u058277
+Hellforged Armour
+
+### u058278
+Il bersaglio ottiene +<u>({g|Encyclopedia:HitPoints}ferite{/g} massime / 2)</u> {g|Encyclopedia:TemporaryWounds}ferite temporanee{/g}.
+
+### u058279
+Ogni volta che questa creatura subisce {g|Encyclopedia:DamageGlossary}danni{/g}, i suoi danni aumentano di +1 per 2 {g|Encyclopedia:Round}round{/g}. Cumulabile.
+
+### u058280
+Profane Zeal
+
+### u058281
+War Howl
+
+### u058282
+Concede +35% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} e +20% di {g|Encyclopedia:DodgeGlossary}schivata{/g}.
+
+### u058283
+Ghostwolf Apparition
+
+### u058284
+Il Ghostwolf scatta attraverso un nemico, terminando il movimento nella casella sul lato opposto del nemico. Poi esegue un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g} che infligge l'effetto {g|Encyclopedia:MeltingEffect}in fusione{/g} per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u058285
+Feral Slice
+
+### u058286
+Il Ghostwolf emette un ululato bestiale, ordinando agli alleati di cambiare arma e passare alle asce.
+
+### u058287
+Ogni volta che l'attacco di chi la impugna con quest'arma mette a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g}, i suoi danni base aumentano di +{uip|Damage|9f76314d15a24116bf349701ecc396cc} fino alla fine del combattimento.
+
+### u058288
+Lullaby of Sha'eil
+
+### u058289
+<u>({g|Encyclopedia:WarhammerPerception}PER{/g} / 2)</u>
+### u058290
+Un attacco con quest'arma infligge +{uip|Damage|0f41b613afe24784af011bb8bd400cfc}% di danni in più ai bersagli con tutte le {g|Encyclopedia:HitPoints}ferite{/g}.
+
+### u058291
+Blessing of Death
+
+### u058292
+Il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerAgility}Agility{/g} o restare {g|Encyclopedia:SlowedEffect}rallentato{/g} fino alla fine del combattimento. Gli attacchi con quest'arma mettono sempre a segno un {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpo critico{/g} contro i bersagli rallentati.
+
+### u058293
+Chant of Stagnation
+
+### u058294
+Un {g|Encyclopedia:DeadeyeShot}colpo infallibile{/g} con quest'arma infligge al bersaglio l'effetto {g|f:67ea9e6b76b347359ab2cbc7a3be143c}prey{/g}.
+
+### u058295
+Gift of Kurnous
+
+### u058296
+Ogni volta che l'attacco di chi la impugna con quest'arma {g|Encyclopedia:HitSequenceGlossary}colpisce{/g}, tutti i suoi alleati adiacenti al bersaglio eseguono un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g} contro di esso.
+
+### u058297
+Chorus of Battle
+
+### u058298
+I fucili di precisione infliggono +50% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}danni critici{/g}.
+
+### u058299
+Quando i nemici {g|Encyclopedia:HitSequenceGlossary}colpiti{/g} con quest'arma subiscono danni da {g|Encyclopedia:BleedingEffect}sanguinamento{/g}, infliggono metà di quei danni alle creature adiacenti.
+
+### u058300
+Slithering Slaughter
+
+### u058301
+Quest'arma infligge {g|Encyclopedia:DirectDamage}danni diretti{/g}.
+
+### u058302
+Heart Piercer
+
+### u058303
+Il bersaglio subisce l'effetto {g|Encyclopedia:ToxinEffect}tossina{/g} di quest'arma e +3 livelli di tossina per ogni altro tipo di effetto di danni nel tempo che sta subendo.
+
+### u058304
+Blade of the Suffering Collector
+
+### u058305
+Dopo che chi la impugna infligge {g|Encyclopedia:DamageGlossary}danni{/g} al bersaglio con questa spada, fino alla fine del combattimento ottiene +3 di {g|Encyclopedia:WarhammerAgility}Agility{/g}, {g|Encyclopedia:WarhammerPerception}Perception{/g}, {g|Encyclopedia:WarhammerIntelligence}Intelligence{/g} e {g|Encyclopedia:WarhammerWillpower}Willpower{/g}, e il bersaglio subisce una {g|Encyclopedia:Penalty}penalità{/g} di −3 a quelle {g|Encyclopedia:Characteristic}caratteristiche{/g}.
+
+### u058306
+Insatiable Djin Blade
+
+### u058307
+Yremeryss's Ardour
+
+### u058308
+Yremeryss's Curse
+
+### u058309
+I nemici soggetti all'effetto {g|Encyclopedia:ToxinEffect}tossina{/g} non possono {g|Encyclopedia:DodgeGlossary}schivare{/g} né {g|Encyclopedia:Parry}parare{/g} gli attacchi eseguiti con quest'arma.
+
+### u058310
+Imminent Torment
+
+### u058311
+Il bersaglio deve superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g} o subire un {g|Encyclopedia:NegativeEffectTypesGlossary}effetto negativo{/g} comune casuale per 2 {g|Encyclopedia:Round}round{/g}.
+
+### u058312
+Symphony of Pain
+
+### u058313
+<u>({g|Encyclopedia:WarhammerWeaponSkill}WS{/g} / 2)</u>
+
+### u058314
+Quest'arma ha {uip|Pen|2494b9c8d26d490d944c146a7245db55}% di {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g}.
+
+### u058315
+Blade of the Blood Hunter
+
+### u058316
+Claymore potenziata
+
+### u058317
+I bersagli colpiti da quest'arma devono superare una prova di resistenza di Agility o restare {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} per 1 round.
+Alla fine del suo turno, il bersaglio colpito deve superare una prova di resistenza di Agility per rimuovere l'effetto o subire danni diretti pari al <u>bonus di AGI del bersaglio</u>.
+
+### u058318
+I lanciafiamme hanno 2 attacchi speciali ad area con diverse aree d'effetto.
+
+### u058319
+<i>Le armi laser sono efficaci contro i bersagli in {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} e contro quelli con alta {g|Encyclopedia:DodgeGlossary}schivata{/g}.</i>
+
+### u058320
+"Mentore... il nostro ultimo duello è stato la tua lezione finale. Le ferite che mi hai lasciato sono il tuo dono d'addio. Le custodirò, finché l'Imperatore Imperituro non mi convocherà."
+
+### u058321
+"Il vecchio è uscito fino alle ginocchia nel sangue, cercando di uccidere la persona a lui più cara. Pensavo che morissero così solo gli psyker squilibrati, e invece eccoci qui."
+
+### u058322
+"È questo sentimentalismo che ti impedirà per sempre di elevarti al di sopra della tua natura primitiva. Se così deve essere, allora... puoi trascorrere il resto dei tuoi giorni come una preda."
+
+### u058323
+"Perché sorridete in modo così sospetto? I vostri colori... danzano in maniera così bizzarra quando vi sono vicina."
+
+### u058324
+"Mi stavo solo chiedendo cosa fosse questa sensazione che solleva e commuove — il primo amore! Ah, sento le farfalle nello stomaco, il calore sulle guance..."
+
+### u058325
+"Senza offesa, Cass, ma è tutta roba da Navigatori. Stamattina mi sono svegliata di pessimo umore, ma il Lord Capitano ti ha dato un'occhiata e di colpo mi è spuntato un sorriso da un orecchio all'altro."
+
+### u058326
+"Inchini, sguardi eloquenti, perfino un immortalium... È da tanto che non vedevo qualcuno rispettare le regole aristocratiche del corteggiamento. E con tanta devozione, per giunta."
+
+### u058327
+"Metterete anche questo nei vostri rapporti, van Calox? Siete privo di vergogna e di coscienza. Se osate turbare Lady Cassia, per le stelle, farò in modo che ve ne pentiate."
+
+### u058328
+"I rituali che l'elantach e la veggente di Sha'eil stanno compiendo... non hanno nulla della ferocia per cui sono noti i mon-keigh. Quasi mi diverte guardare i loro sensi sbocciare."
+
+### u058329
+"Pare che il Lord Capitano e Cass siano ai ferri corti ultimamente."
+
+### u058330
+"I tempi duri possono trasformare i sentimenti più teneri in qualcosa di più forte. A volte ci vuole una bella lite per arrivare a un vero chiarimento."
+
+### u058331
+"Già. Spero proprio che duri."
+
+### u058332
+"Mi chiedo se Cass e il Lord Capitano si trovino a loro agio con... be'... con tutte le stranezze dei Navigatori. Gli artigli affilati, le branchie delicate..."
+
+### u058333
+"Heydari, basta. Potete domandarvelo quanto volete, ma risparmiate il resto di noi e tenete i vostri pensieri per voi."
+
+### u058334
+"È stata registrata l'unione di due unità politiche. Anomalia rilevata: l'armonia prevista è assente. Registro un senso di disagio."
+
+### u058335
+"Suvvia, stimato Magos, l'unione fra la Casata Orsellio e la dinastia von Valancius è un'occasione grandiosa. Chiunque nutra simili 'preoccupazioni' è semplicemente invidioso: i veri amici offrono il proprio sostegno."
+
+### u058336
+"Fatti gli affari tuoi, latta senz'anima! Il destino delle persone non si può ridurre ai tuoi stupidi calcoli."
+
+### u058337
+"Dunque, ehm, il matrimonio di Lady Cassia e del Lord Capitano... Un'unione degna fra i capi di due grandi dinastie."
+
+### u058338
+"Fingi di preoccuparti per il dovere e per il dominio dell'elantach, ma io conosco la verità. Sei in ansia e rattristato da un'unione priva di qualsiasi sentimento sincero."
+
+### u058339
+"Almeno questo matrimonio non si fonda su odio, disprezzo e intrighi — un lusso inaudito per la maggior parte delle alleanze aristocratiche."
+
+### u058340
+"Vedo tutti i tuoi colori lampeggiare... Chiedimelo. Non hai mai taciuto prima d'ora, né per educazione né per pietà."
+
+### u058341
+"Cass, tu... non sei giusta con me. Per quanto sia buffo, dopo tutto il tempo passato insieme, mi sono {mf|affezionato|affezionata} a te. E... be'... mi dispiace, Cass. Mi dispiace davvero."
+
+### u058342
+"I tuoi sentimenti per l'elantach ti impediscono di guidare la nave attraverso Sha'eil. Datti una regolata, occhio-triplo! La tua debolezza potrebbe costarci la vita... e perfino qualcosa di più."
+
+### u058343
+"Non saprei dire esattamente perché, ma ultimamente mi sembra di ricevere molte più attenzioni."
+
+### u058344
+"Ti dico una cosa, van Calox, mettitela bene in testa: se prendi in giro il Lord Capitano, non risponderai all'Inquisizione — risponderai a me."
+
+### u058345
+"I miei piccoli sussurratori mi hanno raccontato tutto di te, uomo di ghiaccio... ma non sei più congelato, vero? Stai cominciando a scioglierti un po'. Qualcuno ha lasciato aperta la porta della cella frigorifera? Ah!"
+
+### u058346
+"I colori del Lord Capitano e del Maestro van Calox cambiano quando sono vicini."
+
+### u058347
+"Cassia... non mi serve un terzo occhio per vedere ciò che ho proprio davanti. Devi imparare a fidarti anche dei tuoi occhi normali."
+
+### u058348
+"Sapete, van Calox... non sempre abbiamo visto le cose allo stesso modo, ma se deve esserci qualcuno al fianco del Lord Capitano, eravate ben lungi dall'essere il candidato peggiore..."
+
+### u058349
+"Primo Ufficiale Werserian. Il solo pensiero di ordinare di tacere a un uomo della vostra età e del vostro servizio mi è anatema. Perciò evitiamo di arrivare al punto in cui sia costretto a farlo."
+
+### u058350
+"Ora so che cosa significa l'espressione 'bella coppia'. Mi dispiace che questo quadro squisito non fosse destinato a prendere forma sulla tela della realtà."
+
+### u058351
+"Vi ringrazio per la vostra gentilezza, Lady Navigatrice. Forse... è meglio per tutti gli interessati."
+
+### u058352
+"Heinrix, le mie voci, quando ti sono vicine, sussurrano cose oscure e mostruose. Non era mai successo, mai... Che cosa ti sta succedendo?"
+
+### u058353
+"Sto... bene. Un po'... stanco. Le nostre recenti prove avrebbero sfinito chiunque. Ascoltate meno le esortazioni del warp e concentratevi sul compito che abbiamo davanti."
+
+### u058354
+"Smettetela di guardare il Rogue Trader in quel modo, Heinrix. Non le accadrà nulla finché siamo qui."
+
+### u058355
+"Lo so! Lo so. Non c'è bisogno che me lo diciate... e comunque, Sorella, fareste meglio a tenere d'occhio ciò che vi circonda anziché me."
+
+### u058356
+"Abelard. Avanti, dite quello che avete da dire. Sarà certamente preferibile alla vostra condanna silenziosa e palpabile."
+
+### u058357
+"Sono combattuto fra due desideri: farvi la predica sul vostro pessimo tempismo e sulla scelta del luogo, oppure esprimere il mio stupore per i metodi di sostegno morale dell'Inquisizione."
+
+### u058358
+"Jae... non fa mistero del suo legame con il Lord Capitano. Un comportamento insolito per una principessa. A quanto pare i nobili di Efreet hanno idee molto diverse sul decoro."
+
+### u058359
+"Non fa mistero? Tra poco ci lascerà nei nostri alloggi le pict delle loro bravate in camera da letto."
+
+### u058360
+"A Jae piace sfoggiare i suoi trofei e le sue ricchezze — il Lord Capitano per lei è entrambe le cose."
+
+### u058361
+"Non mi piace l'interesse del Lord Capitano per la Signora Heydari. È utile, ma lasciare che si avvicini tanto è imprudente."
+
+### u058362
+"{name} potrà anche rischiare il contenuto delle proprie tasche e il proprio cuore con Jae, ma non la propria incolumità. Jae è una truffatrice, non una criminale, dicono le voci. E mi piace."
+
+### u058363
+"Ascoltandovi ora, Primo Ufficiale Werserian, mi chiedo se abbiate vegliato sul letto di Lady Theodora con la stessa vigilanza con cui vegliate su quello dell'attuale Lord Capitano."
+
+### u058364
+"Mmm, che bouquet interessante. È a causa del Rogue Trader, vero? Non riesco a distinguere cosa sia... ambizione soffocata o semplice gelosia? Vuoi che ti aiuti a liberartene?"
+
+### u058365
+"Dopo aver visto come vi hanno usato le Wych dell'arena, temo di non avere lo stomaco per questo."
+
+### u058366
+"Spari un sacco di merda di grox pericolosa, viscido spilungone, ma stavolta avresti decisamente fatto meglio a tenere la bocca chiusa. Ti andrà bene se non finirai strangolato."
+
+### u058367
+"I tuoi colori sono diventati più scuri e cupi. Perché c'è tanta tristezza in te?"
+
+### u058368
+"Che intendi, cara? Jae Heydari non conosce tristezza! Il suo cuore è come il vento incostante, libero dalla polvere della terra, che corre sempre avanti!"
+
+### u058369
+"Ipotesi: la causa della sofferenza emotiva dell'unità risiede nell'interruzione del legame romantico-comunicativo tra—"
+
+### u058370
+"Zitto, cervello a ingranaggi! O ti strangolo con il tuo stesso tentacolo!"
+
+### u058371
+"Ammetto di essere alquanto sconcertato dal fatto che il Lord Capitano abbia proseguito la sua relazione con Jae dopo che la verità sul suo passato è venuta a galla. Già prima era un accoppiamento poco felice, ma ora..."
+
+### u058372
+"La mia gente è libera dai pregiudizi dei mon-keigh, ma... è possibile provare passione per qualcuno che è disonesto con te?"
+
+### u058373
+"Me lo chiedo anch'io. Forse a letto fa cose per cui Sua Signoria le perdonerebbe qualsiasi trasgressione. Ma chi sono io per dirlo...?"
+
+### u058374
+"Sorella Argenta, ditemi: come si richiama all'umiltà un cuore sopraffatto dalla... gelosia e dai dubbi?"
+
+### u058375
+"Riempite la vostra anima di puro amore per il Dio-Imperatore, e tutti i dubbi del cuore si riveleranno subito vani."
+
+### u058376
+"State lontana dal Lord Capitano, xenos. E non pensate nemmeno di fare scherzi. Un passo falso, e..."
+
+### u058377
+"Oh, mon-keigh, perché riveli la tua paura e la tua insicurezza in modo così rozzo? Forse il Rogue Trader mi concede maggiori libertà — è per questo che sei così ansioso di cacciarmi? È un tuo difetto, non mio."
+
+### u058378
+"Cass, ho sentito dire che di notte piangi nel cuscino. Non ci credo, ovviamente, ma ultimamente sei davvero giù."
+
+### u058379
+"Per niente! È solo che io... ho sempre voluto essere l'unica per qualcuno, ma la vita mi ha insegnato che non sempre otteniamo ciò che vogliamo."
+
+### u058380
+"Heinrix, non pensavo l'avrei mai detto, ma... io e te abbiamo qualcosa in comune, non credi? Che ne dici di parlare delle nostre passioni condivise? Scambiarci qualche storia?"
+
+### u058381
+"Ehm. Abbiate almeno la decenza di non fare proposte così sfacciate in presenza della nostra... 'passione condivisa'."
+
+### u058382
+"Non avrei mai creduto che una simile... mostruosa iniquità potesse consumarsi sulla nave ammiraglia dei von Valancius. Sono stufo di rimproverare gli ufficiali per le chiacchiere sconvenienti su ciò che il Lord Capitano e la xenos combinano sui ponti inferiori..."
+
+### u058383
+"Non brontolare, vecchio. Personalmente, sono solo contento che gli alloggi del Lord Capitano abbiano porte così pesanti e a tenuta stagna. Le urla... non sono così raccapriccianti quando sono attutite da un grosso strato di plastacciaio."
+
+### u058384
+"Non sono le lingue malvagie che dovresti temere, ma ciò che l'elantach diventerà se non devierà dal Sentiero che ha scelto. Le vie degli Oscuri divorano l'anima... e rivelano segreti che è meglio non riconoscere."
+
+### u058385
+"I ponti della nave si avvolgevano di un giallo allarmante e di un verde terrorizzato ogni volta che Marazhai camminava fra l'equipaggio... ma ora gli stessi colori inondano il mio sguardo quando il Lord Capitano compare sul ponte di comando. Questo cambiamento... mi spaventa."
+
+### u058386
+"Il bestiame sta imparando in fretta qual è il suo posto. Bene."
+
+### u058387
+"Ve l'ho detto, Lord Capitano? L'equipaggio ha notato che avete smesso le vostre... ehm... visite ai ponti inferiori, e mi ha pregato di trasmettervi la sua più profonda gratitudine per la vostra clemenza."
+
+### u058388
+"Se il bestiame si annoia, posso fargli visita io stesso. Lo farò alla prima occasione."
+
+### u058389
+"Quale sarà la causa, mi chiedo? Non riesco a farmene una ragione. Il nostro shereen, il Lord Capitano, ha smesso di portare a spasso la sua xenos da compagnia? Che separazione triste — e attesa da tempo."
+
+### u058390
+"Cosa vuoi dall'elantach, Oscuro? Perché {mf|lo|la} divori con gli occhi come se stessi tramando il male?"
+
+### u058391
+"Mmm. Tu, cugina, non hai più alcun interesse per me come giocattolo. Ma devo pur scacciare la noia in qualche modo... e mi pare di aver trovato un nuovo modo elettrizzante per farlo."
+
+### u058392
+"Oooh, Red, se i miei piccoli sussurratori dicono il vero, 'male' non rende nemmeno lontanamente l'idea di cosa passi per la testa di quell'insetto stecco..."
+
+### u058393
+"Come ha potuto il Rogue Trader ammetterti nel proprio seguito? Quale cedimento della volontà ha spinto {mf|lui|lei} a trovare un posto al proprio fianco per un abominio come te?"
+
+### u058394
+"Vuoi davvero sapere la risposta? Curiosità. Una curiosità che soddisferò... nel modo più completo e piacevole possibile."
+
+### u058395
+"La xenos ha l'abitudine di distrarre il Lord Capitano a ogni occasione. Le sue conversazioni stanno sottraendo tempo prezioso."
+
+### u058396
+"Il Rogue Trader sta mostrando troppa indulgenza verso la xenos. Andrebbe tenuta al guinzaglio corto, non trattata come un ospite d'onore."
+
+### u058397
+"Quella xenos ha un nome: Yrliet. E sì, le voci ridacchiano. Dicono che fra loro stia succedendo qualcosa, qualcosa che bolle in pentola... Bleah. Non. Sono. Affari. Miei."
+
+### u058398
+"Stai cercando di guadagnarti la fiducia del Rogue Trader? Di ammaliar{mf|lo|la}? Non succederà. Ti tengo d'occhio."
+
+### u058399
+"Quali pensieri primitivi ti ribollono in testa, mon-keigh? Sei la prova vivente di quanto sia semplice la tua specie, ma l'elantach sembra {mf|diverso|diversa}..."
+
+### u058400
+"Sento i tuoi occhi trapanarmi, mon-keigh. Basta. I tuoi sozzi poteri macchiano l'anima come le frecce di Kurnous."
+
+### u058401
+"Oh, io... mi dispiace. I tuoi colori si sono improvvisamente spenti e ora quasi mi fa male guardarli. È... a causa del Lord Capitano, vero? Hmm. Anche il silenzio è una risposta."
+
+### u058402
+"Continuo ad ascoltare, cercando solo di capire... Ora che il Lord Capitano ti ha rifiutata, ricomincerai a dare di matto e a comportarti in modo strano?"
+
+### u058403
+"Se ti fossi impegnata nella tua 're-educazione' a Commorragh, ora potresti assaporare il tuo dolore e la tua solitudine come una fine prelibatezza. Ah. Tutti rimpiangiamo le occasioni mancate, non è vero?"
+
+### u058404
+"C'è una sola occasione mancata che rimpiango: quella di liberare il mondo da te quando ci siamo incontrati."
+
+### u058405
+"Yrliet avrà anche salvato il Lord Capitano sacrificando la sua pietra spirituale, ma è stata lei a causare il pericolo in primo luogo. Di nuovo."
+
+### u058406
+"Se il Lord Capitano non si fosse lanciato in una corsa folle per interrompere il rituale degli xenos, non avremmo dovuto salvare nessuno. Già... Quei due si meritano a vicenda."
+
+### u058407
+"Non è bellissimo? Per amore del Rogue Trader, Yrliet ha rinunciato al suo bene più prezioso. Quanto dolore ha causato quella scelta? Quanta paura?"
+
+### u058408
+"Il Rogue Trader si è {mf|fatto|fatta} così {mf|vicino|vicina} alla xenos da essersi {mf|addentrato|addentrata} nella sua stessa anima, da aver compreso i suoi sentimenti... Un'eresia empia e imperdonabile!"
+
+### u058409
+"Obiezione: il comportamento del Lord Capitano differisce dalla normale espressione dei sentimenti. Ipotesi: (a) la xenos mente; (b) il Lord Capitano mente; oppure (c) esiste una variabile sconosciuta. Sono necessarie ulteriori osservazioni per stabilire la vera natura di questo fenomeno."
+
+### u058410
+"Vedo un bagliore azzurro argenteo attorno al Lord Capitano e a Yrliet. Questi colori sono... diversi da tutto ciò che ho mai visto. È come se i loro sentimenti esistessero su un piano inconoscibile."
+
+### u058411
+"Lo sanno tutti: la vostra presenza sta avvelenando la mente e l'anima del Rogue Trader. Un passo falso, e porrò fine alla vostra misera vita senza esitare!"
+
+### u058412
+"Ecco, l'orgoglio dei mon-keigh. Credi che l'elantach affonderebbe nell'oscurità senza di te a guidar{mf|lo|la}. Ma la sua anima brilla così intensamente da dissipare qualsiasi tenebra, e perciò non temo le tue parole."
+
+### u058413
+Nelle viscere del monastero
+
+### u058414
+"Non conosco le parole di quell'inno, perciò vi chiedo di illuminarmi."
+
+### u058415
+"Forse non appartengo al vostro sacerdozio, ma voi e io abbiamo la stessa fede!"
+
+### u058416
+"Mi sentite, Tecnoprete?"
+
+### u058417
+[Scollega uno dei fili dal corpo]
+
+### u058418
+[Lascia il morto in pace]
+
+### u058419
+"Un altro attentato alla mia persona e ti farò a pezzi!"
+
+### u058420
+"Lodiamo le cariche gemelle, il corpo elettrico e l'Omnissiah che accende in noi la scintilla della ragione. E portiamo la Sua carica a coloro che hanno rivolto la mente alla Sua luce."
+
+### u058421
+[Improvvisa] "Gloria alla Santa Martire Galvanica, e che una grande... ehm... abbondanza di corrente persista nelle sue bobine a induzione! Che gli elettroni scorrano attraverso di te come scorrono attraverso... ehm... il sacro rame!"
+
+### u058422
+"Ditemi com'è il vostro sogno di dati."
+
+### u058423
+[Distruggi il corpo] "I cultisti potrebbero arrivare a lui. Non è desiderabile."
+
+### u058424
+"Non vi disturberò oltre."
+
+### u058425
+"Pensa a dare ordini ai tuoi monaci, cadavere. Non intonerò nulla per te."
+
+### u058426
+"Cosa, sei vivo?"
+
+### u058427
+[Uccidi il Tecnoprete] "Muori come si deve!"
+
+### u058428
+"Preferireste aspettare che mettano le loro mani sporche dentro il vostro sacro reattore? Avete idea di cosa gli faranno?"
+
+### u058429
+"Il monastero è sotto attacco da parte di eretici. Potete aiutarci?"
+
+### u058430
+"Per quanto diversi siano i Suoi nomi con cui incoroniamo le nostre preghiere, tutti i nostri pensieri e le nostre intenzioni nascono comunque dall'unico pilastro di tutto ciò che è santo e sacro. Un tempo facevo parte dell'Adeptus Ministorum. Servo il Dio-Imperatore, che voi chiamate Omnissiah, e dunque apparteniamo allo stesso gregge."
+
+### u058431
+[Inchinati] "Chiedo scusa per il disturbo, ma ho bisogno della vostra saggezza."
+
+### u058432
+"Pasqal, scusati a nome mio con lo stimato Tecnoprete."
+
+### u058433
+{n}Il corpo di un {g|Encyclopedia:TechPriest}Tecnoprete{/g} riposa su un tavolo di metallo, circondato da spirali scintillanti di bobine di rame. Una patina di sacri unguenti ricopre la sua carne avvizzita. Le sue {g|Encyclopedia:Augmentation}augmetiche{/g} sono state lucidate con grande cura. Intricati elettatuaggi coprono le braccia incrociate e il torso nudo del morto, e matasse di fili gli avvolgono la testa.{/n}
+
+### u058434
+"Il Primo Articolo di Fede dice: 'La Forza Motrice è vita.' Dunque, finché mi riempie, sono vivo."
+
+### u058435
+{n}Non appena tocchi il filo rivestito di rame, un dolore bruciante ti trafigge le dita e il polso. Il mondo diventa luminosissimo per un secondo, poi cala il buio.{/n}
+
+### u058436
+{n}Una scarica percorre i fili che avvolgono la testa del Tecnoprete, e dal sistema vox sul soffitto proviene un sibilo minaccioso. Una voce dolce, che sembra faticare per vincere il suo torpore sognante, ti si rivolge con severità:{/n} "Non temerò alcun nemico, poiché la Forza Motrice è con me, e la sua scarica abbatterà chiunque alzi le mani contro i giusti."

@@ -1,0 +1,3007 @@
+### u000000
+Round alla traslazione warp:
+
+### u000001
+Rogue Trader
+
+### u000002
+Prendi l'oggetto
+
+### u000003
+Per ogni accumulo di questo effetto, questa creatura subisce un +15% di {g|Encyclopedia:ShockDamage}danni da shock{/g}.
+<i>Questo effetto è causato dalle augmetiche della creatura e non può essere rimosso.</i>
+
+### u000004
+Ferrum Sanctum
+
+### u000005
+MK "Operative"
+
+### u000006
+MK "Arch-Militant"
+
+### u000007
+MK "Assassin"
+
+### u000008
+MK "Warrior"
+
+### u000009
+MK "Hunter"
+
+### u000010
+MK "Officer"
+
+### u000011
+Galvanizzazione
+
+### u000012
+MK "Soldier"
+
+### u000013
+MK "Strategist"
+
+### u000014
+MK "Tactician"
+
+### u000015
+MK "Vanguard"
+
+### u000016
+MK-I
+
+### u000017
+MK-II
+
+### u000018
+[buff di {g|Encyclopedia:Test}test{/g}] immortalità
+
+### u000019
+[buff di test] immortalità
+
+### u000020
+Le {g|Encyclopedia:MaxWounds}ferite massime{/g} sono state ridotte.
+<i>Per curare un {g|Encyclopedia:Traumas}trauma{/g}, questo personaggio deve recarsi sulla nave del vuoto.</i>
+
+### u000021
+Trauma
+
+### u000022
+Ballistic Skill e {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} della creatura sono ridotte di −5 per ogni livello dell'effetto Scosso.
+
+### u000023
+Scosso
+
+### u000024
+Il carico serve a conservare il bottino che non ha un valore sufficiente per un potente Rogue Trader.
+Trascina i pezzi di bottino per toglierli dalla schermata del bottino: verranno imballati in uno spazio di carico adatto. Puoi ritirare il bottino dal carico in qualsiasi momento.
+Vendere un carico pieno ai mercanti migliora la tua {g|Encyclopedia:Reputation}reputazione{/g} presso la loro fazione. Tuttavia, tutto il bottino contenuto in quel carico andrà perso.
+
+### u000025
+Questa {g|Encyclopedia:Ability}abilità{/g} permette di ridistribuire immediatamente i {g|Encyclopedia:ExperiencePoints}punti esperienza{/g} di questo personaggio.
+Può essere usata una sola volta e scomparirà quando tornerai alla tua nave del vuoto.
+
+### u000026
+Field Retraining
+
+### u000027
+Tutti gli alleati ottengono un bonus di +<u>(4 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerFellowship}FEL{/g})</u> a {g|Encyclopedia:WarhammerWeaponSkill}Weapon Skill{/g} e {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g}.
+
+### u000028
+Air of Authority
+
+### u000029
+Quando le sue {g|Encyclopedia:HitPoints}ferite{/g} scendono sotto il 50%, questa creatura ottiene {g|Encyclopedia:MovementPoints}punti movimento{/g} {g|Encyclopedia:Bonus}bonus{/g} e un attacco aggiuntivo per {g|Encyclopedia:Turn}turno{/g}.
+
+### u000030
+Berserker
+
+### u000031
+Questa creatura infligge {g|Encyclopedia:ToxinEffect}tossina{/g} con i suoi {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+
+### u000032
+Contaminated Weapon
+
+### u000033
+Quando questa creatura attacca i nemici con un {g|Encyclopedia:MeleeAttacksGlossary}attacco in mischia{/g}, il bersaglio perde −2 {g|Encyclopedia:MovementPoints}punti movimento{/g} nel suo prossimo {g|Encyclopedia:Turn}turno{/g}. Si cumula.
+
+### u000034
+Cut the Sinews
+
+### u000035
+Questa creatura infligge {g|Encyclopedia:BleedingEffect}sanguinamento{/g} con i suoi {g|Encyclopedia:MeleeAttacksGlossary}attacchi in mischia{/g}.
+
+### u000036
+Deep Cuts
+
+### u000037
+Conferisce +<u>{g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerPerception}PER{/g}</u>% di {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico{/g}.
+
+### u000038
+Eagle Eye
+
+### u000039
+Le creature colte nell'area dell'esplosione della granata corrosiva subiscono una riduzione dell'armatura di −<u>(la loro {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} attuale / 2)</u>%.
+
+### u000040
+Questa creatura non ha una {g|Encyclopedia:Resolve}determinazione{/g} propria e non influisce sullo {g|Encyclopedia:MomentumWithDetailsGlossary}slancio{/g}.
+
+### u000041
+Irresolute
+
+### u000042
+Questa creatura può stordire un nemico con un attacco per 1 {g|Encyclopedia:Round}round{/g} se il nemico fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u000043
+Stordisce un nemico che fallisce una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerToughness}Toughness{/g}.
+
+### u000044
+Stunner
+
+### u000045
+Sunder Armour
+
+### u000046
+Questa creatura riduce la {g|Encyclopedia:Deflection}deviazione{/g} e l'{g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} del nemico a ogni {g|Encyclopedia:HitSequenceGlossary}colpo{/g}:
+<indent=5%>−1 di deviazione</indent>
+<indent=5%>−10% di armatura</indent>
+Si cumula fino a 3 volte.
+
+### u000047
+La pelle innaturalmente spessa di questa creatura aumenta la sua {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} di +<u>(5 × {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerToughness}TGH{/g})</u>%.
+
+### u000048
+La probabilità di {g|Encyclopedia:HitSequenceGlossary}colpire{/g} questa creatura è ridotta di −50%.
+
+### u000049
+Tiny Creature
+
+### u000050
+Toppler
+
+### u000051
+Questa creatura ha una probabilità di far cadere {g|Encyclopedia:ProneEffect}a terra{/g} un nemico.
+
+### u000052
+Il demone ottiene un valore di {g|Encyclopedia:WarhammerArmourGlossary}armatura{/g} pari alla sua {g|Encyclopedia:WarhammerWillpower}Willpower{/g}, l'immunità ai {g|Encyclopedia:PerilsOfWarp}pericoli del warp{/g} e l'immunità ai {g|Encyclopedia:ToxicDamage}danni tossici{/g}.
+
+### u000053
+Warp Creature
+
+### u000054
+Livello Diamante
+
+### u000055
+Il nostro più sentito ringraziamento va a tutti i nostri sostenitori, che non solo ci hanno supportato con le loro donazioni, ma ci hanno anche aiutato ad aggiungere più contenuti e funzionalità al gioco. Lodiamo la vostra creatività!
+
+### u000056
+Fine
+
+### u000058
+Fine!
+
+### u000059
+Grazie per aver giocato a Warhammer 40,000: Rogue Trader!
+
+### u000060
+Games Workshop
+
+### u000061
+Un ringraziamento speciale al team di Games Workshop
+
+### u000062
+Microsoft
+
+### u000063
+Audiokinetic Inc.
+
+### u000064
+Syrinscape Pty Ltd.
+
+### u000065
+Unity Technologies
+
+### u000066
+Dungeon Architect
+
+### u000067
+Middleware
+
+### u000068
+Sviluppatori
+
+### u000069
+Esterni
+
+### u000070
+Il nostro più sentito ringraziamento a tutti i sostenitori, che ci hanno aiutato con i loro riscontri!
+
+### u000071
+Owlcat Games
+
+### u000072
+Il glossario dell'ambientazione contiene informazioni raccolte e riassunte dai redattori volontari di pathfinderwiki.com. Desideriamo ringraziarli per il loro contributo alla comunità di Pathfinder.
+
+### u000073
+Grazie per aver giocato!
+
+### u000074
+Un ringraziamento speciale alle nostre famiglie e ai nostri amici per il loro sostegno!
+
+### u000075
+Un ringraziamento speciale alle nostre famiglie e ai nostri amici per il loro sostegno!
+
+### u000076
+QA Lead
+
+### u000077
+3D Artist
+
+### u000078
+Arcane Magic Chants (female version)
+
+### u000079
+UI Engineer
+
+### u000080
+Arcane Magic Chants (male version)
+
+### u000081
+Vocals
+
+### u000082
+Divine Magic Chants (female version)
+
+### u000083
+Head of Studio
+
+### u000084
+Divine Magic Chants (male version)
+
+### u000085
+UI Expert
+
+### u000086
+Audio Director / Sound Designer
+
+### u000087
+Raven
+
+### u000088
+Lead Music Composer
+
+### u000089
+Additional Sound Design
+
+### u000090
+Marazhai
+
+### u000091
+Marketing Consultant
+
+### u000092
+Marketing manager and social media guru
+
+### u000093
+Il glossario dell'ambientazione contiene informazioni raccolte e riassunte dai redattori volontari di pathfinderwiki.com.
+
+### u000094
+Ulfar
+
+### u000095
+CCO and Publisher
+
+### u000096
+Build Manager
+
+### u000097
+Abelard
+
+### u000098
+QA
+
+### u000099
+QA Director
+
+### u000100
+Audio Engineer
+
+### u000101
+Licensing Manager
+
+### u000102
+Argenta
+
+### u000103
+Creative Director
+
+### u000104
+Cassia
+
+### u000105
+Design Director
+
+### u000106
+Lead Cinematic Artist
+
+### u000107
+Kanerah, Kalikke
+
+### u000108
+Heinrix
+
+### u000109
+COO
+
+### u000110
+Hargulka, Cephal Lorentus
+
+### u000111
+Idira
+
+### u000112
+VP of Marketing and Licensing
+
+### u000113
+Jae
+
+### u000114
+Franchise Manager
+
+### u000115
+Publishing Team
+
+### u000116
+Pasqal
+
+### u000117
+Director of licensing
+
+### u000118
+Technical Art Lead Artist
+
+### u000119
+Art Director
+
+### u000120
+Lead UI Engineer
+
+### u000121
+Rogue Trader Pragmatic Male
+
+### u000122
+CTO
+
+### u000123
+Rogue Trader Pragmatic Female
+
+### u000124
+Senior UI Engineer
+
+### u000125
+Editor in Chief
+
+### u000126
+Rogue Trader Pious Male
+
+### u000127
+UI Artist
+
+### u000128
+Audio Lead / Music Composer
+
+### u000129
+2D Artist
+
+### u000130
+UI Software Engineer
+
+### u000131
+Rogue Trader Pious Female
+
+### u000132
+Rogue Trader Bold Male
+
+### u000133
+System Administrator
+
+### u000134
+Rogue Trader Bold Female
+
+### u000135
+Head of Publishing
+
+### u000136
+Rogue Trader Heretic Male
+
+### u000137
+PR Director
+
+### u000138
+Rogue Trader Heretic Female
+
+### u000139
+Rogue Trader Mad Male
+
+### u000140
+Marketing Manager
+
+### u000141
+Rogue Trader Mad Female
+
+### u000142
+Graphic Designer
+
+### u000143
+Inquisitor Xavier Calcazar
+
+### u000144
+Lead Community Manager
+
+### u000145
+Kunrad Voigtvir
+
+### u000146
+Community Manager
+
+### u000147
+Junior Community Manager
+
+### u000148
+Nomos
+
+### u000149
+Level Designer
+
+### u000150
+Audio Team
+
+### u000151
+Finance Manager
+
+### u000152
+Theo Orselio
+
+### u000153
+Office Manager
+
+### u000154
+Crew Officer 1
+
+### u000155
+Crew Officer 2
+
+### u000156
+Rigger
+
+### u000157
+Edelthrad
+
+### u000158
+Editing Consultant
+
+### u000159
+Human Bandit Male
+
+### u000160
+Level Artist
+
+### u000161
+Human Loyalist Male – Military and Civilian
+
+### u000162
+Font Designer
+
+### u000163
+Human Cultist Male
+
+### u000164
+Dialogue Editor
+
+### u000165
+Human Bandit Female
+
+### u000166
+Translator and Editor (English)
+
+### u000167
+Human Female Loyalist Military and Civilian
+
+### u000168
+Human Cultist Female
+
+### u000169
+Translator (English)
+
+### u000170
+Game Designer
+
+### u000171
+Dark Eldar Male 1
+
+### u000172
+Support Translator (English)
+
+### u000173
+Editor (English)
+
+### u000174
+Support Translator (French)
+
+### u000175
+Dark Eldar Male 2
+
+### u000176
+Dark Eldar Female 1
+
+### u000177
+Dark Eldar Female 2
+
+### u000178
+Translator and Editor (Chinese)
+
+### u000179
+Eldar Male
+
+### u000180
+French Localization
+
+### u000181
+Eldar Female
+
+### u000182
+CEO
+
+### u000183
+Harlequin Male
+
+### u000184
+Project Manager
+
+### u000185
+Chaos Space Marine
+
+### u000186
+Translator
+
+### u000187
+Loyal Space Marine – Spacewolf
+
+### u000188
+German Localization
+
+### u000189
+Khorn Bloodletter
+
+### u000190
+Senior Localization Project Manager
+
+### u000191
+Narrative Designer
+
+### u000192
+Daemonette
+
+### u000193
+Junior Localization Project Manager
+
+### u000194
+Plaguebearer
+
+### u000195
+Leading Translator
+
+### u000196
+Frammento C'tan
+
+### u000197
+Head of Localization
+
+### u000198
+Lord of Change
+
+### u000199
+Localization Project Manager
+
+### u000200
+Necron Skorpekh Lord / Immortal / Deathmark
+
+### u000201
+Multilingual Localization
+
+### u000202
+Cultist (Cutscene)
+
+### u000203
+Translator (Spanish)
+
+### u000204
+Guardsmen (Cutscene)
+
+### u000205
+Editor (Spanish)
+
+### u000206
+Translator (Chinese)
+
+### u000207
+Commander of the Blind (Cutscene)
+
+### u000208
+Editor (Chinese)
+
+### u000209
+Felek (Cutscene)
+
+### u000210
+Captured Guardsmen (Cutscene)
+
+### u000211
+Translator (German)
+
+### u000212
+Lead Narrative Designer
+
+### u000213
+Casting & Voice Production
+
+### u000214
+Footfall Bandit (Cutscene)
+
+### u000215
+Multilingual Localization Editor (German)
+
+### u000216
+Guardsman Survivor (Cutscene)
+
+### u000217
+Translator (French)
+
+### u000218
+Pirate 1 (Cutscene)
+
+### u000219
+Translator and Editor (Spanish)
+
+### u000220
+Pirate 2 (Cutscene)
+
+### u000221
+Support Translator (Spanish)
+
+### u000222
+Account Manager
+
+### u000223
+Pirate 3 (Cutscene)
+
+### u000224
+Founder & CEO
+
+### u000225
+Footfall Bartender (Cutscene)
+
+### u000226
+Anver Bandit 1 (Cutscene)
+
+### u000227
+PR Partner in UK
+
+### u000228
+Anver Bandit 2 (Cutscene)
+
+### u000229
+Managing Director
+
+### u000230
+PR Executive
+
+### u000231
+Rebel (Cutscene)
+
+### u000232
+Regent Aaronto – House Orsellio Regent (Cutscene)
+
+### u000233
+Lead Game Designer
+
+### u000234
+Chinese Localisation
+
+### u000235
+Elina-Hatteria Orsellio – House Orsellio Renegade (Cutscene)
+
+### u000236
+PR Consultant
+
+### u000237
+Walla Female01
+
+### u000238
+Walla Female 2
+
+### u000239
+Senior PR Consultant
+
+### u000240
+Walla Female 3
+
+### u000241
+Walla Female 4
+
+### u000242
+PR Partner in France
+
+### u000243
+Walla Female 5
+
+### u000244
+Creative Producer
+
+### u000245
+Walla Male 1
+
+### u000246
+Walla Male 2
+
+### u000247
+Head of Video Production
+
+### u000248
+Walla Male 3
+
+### u000249
+Walla Male 4
+
+### u000250
+Cinematic Artist
+
+### u000251
+Guru of narrative design
+
+### u000252
+Co-Founder
+
+### u000253
+Walla Male 5
+
+### u000254
+Video Chief Producer
+
+### u000255
+Base Servitor Female 1
+
+### u000256
+Video Producer
+
+### u000257
+Base Servitor Female 2
+
+### u000258
+Video Editor
+
+### u000259
+Base Servitor Male 1
+
+### u000260
+Video Chief Editor
+
+### u000261
+Base Servitor Male 2
+
+### u000262
+Cameraman
+
+### u000263
+Base Servitor Male 3
+
+### u000264
+Video Screenwriter
+
+### u000265
+Orchestra Supervisor
+
+### u000266
+Video Assist
+
+### u000267
+Dubbing Director
+
+### u000268
+Lead Animator
+
+### u000269
+Sound Engineer
+
+### u000270
+Conductor
+
+### u000271
+3D Characters Designer
+
+### u000272
+Audio Director
+
+### u000273
+Concertmaster
+
+### u000274
+3D Environment Designer
+
+### u000275
+Web Designer
+
+### u000276
+Session Librarian
+
+### u000277
+Dubbing Studio
+
+### u000278
+Technical Organiser / Contracting
+
+### u000279
+Animation
+
+### u000280
+Recording Producer
+
+### u000281
+Music Recording
+
+### u000282
+Publishing Producer
+
+### u000283
+Music Performance
+
+### u000284
+Brand Manager
+
+### u000285
+Modeling
+
+### u000286
+Release Manager
+
+### u000287
+Web Design
+
+### u000288
+Video Designer
+
+### u000289
+Type Design
+
+### u000290
+Graphics
+
+### u000291
+Gaming Hardware
+
+### u000292
+Music Composer
+
+### u000293
+Core Design Team
+
+### u000294
+Social Media Marketing
+
+### u000295
+Translator / Editor
+
+### u000296
+Recording Studio
+
+### u000297
+Build Engineer
+
+### u000298
+Sound Design and Music Production
+
+### u000299
+System Administration
+
+### u000300
+L&D Manager
+
+### u000301
+Head of HR Admin & C&B
+
+### u000302
+Creative Agency
+
+### u000303
+HR Admin
+
+### u000304
+Official Game Wiki
+
+### u000305
+Senior Office Manager
+
+### u000306
+Producer, Sound Director
+
+### u000307
+Producer, Orchestra Director
+
+### u000308
+Head of Business Travel & Events
+
+### u000309
+Chief Conductor
+
+### u000310
+Lead Video Designer
+
+### u000311
+Audio Lead
+
+### u000312
+Choirmaster
+
+### u000313
+Studio QA Director
+
+### u000314
+Violin
+
+### u000315
+Layouts
+
+### u000316
+Cello
+
+### u000317
+FX Animation
+
+### u000318
+Viola
+
+### u000319
+Clean-up & Painting
+
+### u000320
+English Horn
+
+### u000321
+3D Modelling & Rendering
+
+### u000322
+Trumpet
+
+### u000323
+Compositing
+
+### u000324
+French Horn
+
+### u000325
+System Designer
+
+### u000326
+Soprano
+
+### u000327
+Encounter Designer
+
+### u000328
+Dubbing Director, Voice Actor (Graveknight)
+
+### u000329
+Technical Game Designer
+
+### u000330
+Sound Designer
+
+### u000331
+Creature & VFX Sound Design
+
+### u000332
+Game Design Support
+
+### u000333
+Voice Actor (Bodak, Demodand)
+
+### u000334
+Encounter Design Expert
+
+### u000335
+Voice Actor (Cambion)
+
+### u000336
+Lead Concept Artist
+
+### u000337
+Voice Actor (Incubus)
+
+### u000338
+Dialog Editor
+
+### u000339
+Voice Actor (Undead)
+
+### u000340
+Head of Game Localisation
+
+### u000341
+Voice Actor (Mephistopheles)
+
+### u000342
+Project Manager (Spanish)
+
+### u000343
+Voice Actress (Wildhunt Ranger)
+
+### u000344
+Project Manager (Chinese)
+
+### u000345
+Voice Actress (Succubus)
+
+### u000346
+Project Manager (Japanese) / Translator (Chinese) / Editor (Chinese)
+
+### u000347
+Voice Actor (Mongrel Male)
+
+### u000348
+Project Manager (Japanese)
+
+### u000349
+Voice Actress (Undead Delamere)
+
+### u000350
+Creature Sound Design
+
+### u000351
+Voice Actress (Mongrel Female)
+
+### u000352
+Voice Actress (Deva Female)
+
+### u000353
+Translator / Editor (Chinese)
+
+### u000354
+Voice Actor (Deva Male, Undead)
+
+### u000355
+Consultant (Chinese)
+
+### u000356
+Voice Actress (Memitim)
+
+### u000357
+Translator (Japanese)
+
+### u000358
+Voice Actress (Hepzamirah)
+
+### u000359
+Editor (Japanese)
+
+### u000360
+Sosiel
+
+### u000361
+Direction, Storyboard, Lead Animation
+
+### u000362
+Daeran
+
+### u000363
+2D Character Design
+
+### u000364
+Camellia
+
+### u000365
+Regill, Staunton
+
+### u000366
+Environment Design
+
+### u000367
+Arueshalae
+
+### u000368
+2D Animation
+
+### u000369
+Technical Director
+
+### u000370
+Creature Voices
+
+### u000371
+Greybor
+
+### u000372
+Greybor, Nahyndri
+
+### u000373
+Lead 2D Artist
+
+### u000374
+Ember
+
+### u000375
+Lann
+
+### u000376
+Seelah
+
+### u000377
+President, Voice Director
+
+### u000378
+Queen Galfrey
+
+### u000379
+Assistant Voice Director
+
+### u000380
+Nurah
+
+### u000381
+Recording Engineer
+
+### u000382
+Trever
+
+### u000383
+Trever / Valmallos
+
+### u000384
+Assistant Voice Director, Recording Engineer
+
+### u000385
+Woljif
+
+### u000386
+Assistant Voice Director, Recording Engineer, Dialogue Editing
+
+### u000387
+Wenduag
+
+### u000388
+Recording Engineer, Dialogue Editing
+
+### u000389
+Finnean
+
+### u000390
+Finnean / Brodie / Ssila'meshnik (male voice)
+
+### u000391
+Dialogue Editing
+
+### u000392
+Graphic Software Engineer
+
+### u000393
+Crowd Sounds
+
+### u000394
+Nenio
+
+### u000395
+Voice Casting
+
+### u000396
+Hand of the Inheritor
+
+### u000397
+President, Voice Director, Voice Casting
+
+### u000398
+Anevia
+
+### u000399
+Lead Level Designer
+
+### u000400
+Hulrun
+
+### u000401
+Lead 3D Artist
+
+### u000402
+Iomedae
+
+### u000403
+2D Artist / 3D Artist
+
+### u000404
+Irabeth
+
+### u000405
+Lead 3D Character Artist
+
+### u000406
+Suture, Minion of Darrazand
+
+### u000407
+Junior Travel Manager
+
+### u000408
+Terendelev
+
+### u000409
+Art Producer
+
+### u000410
+Pharasma
+
+### u000411
+Cutscene Manager
+
+### u000412
+Minagho
+
+### u000413
+Motion Designer
+
+### u000414
+Software Engineer
+
+### u000415
+Editor
+
+### u000416
+Deskari
+
+### u000417
+Abelard Werserian
+
+### u000418
+Baphomet
+
+### u000419
+Idira Tlass
+
+### u000420
+Areelu
+
+### u000421
+Sister Argenta
+
+### u000422
+Nocticula
+
+### u000423
+Heinrix van Calox
+
+### u000424
+Darrazand
+
+### u000425
+Yrliet Lanaevyss
+
+### u000426
+Nulkineth
+
+### u000427
+Jae Heydari
+
+### u000428
+Player Male (Aggressive)
+
+### u000429
+Cassia Orsellio
+
+### u000430
+Langrath Messini
+
+### u000431
+Player Male (Brave)
+
+### u000432
+Pasqal Haneumann
+
+### u000433
+Rekarth
+
+### u000434
+Player Male (Confident)
+
+### u000435
+Marazhai Aezyrraesh
+
+### u000436
+Sendri
+
+### u000437
+Player Male (Madman)
+
+### u000438
+Lord Inquisitor Xavier Calcazar
+
+### u000439
+PMA & Account Manager
+
+### u000440
+Executive Producer
+
+### u000441
+Player Male (Pious)
+
+### u000442
+Player Male (Pragmatic)
+
+### u000443
+Player Male (Reserved)
+
+### u000444
+Player Male (Grumpy)
+
+### u000445
+Orsellio
+
+### u000446
+Player Male (Wise)
+
+### u000447
+Art Team Lead, Lead Technical Artist
+
+### u000448
+Player Male (Optimist)
+
+### u000449
+Lead Character Artist
+
+### u000450
+Player Female (Reserved)
+
+### u000451
+Lighting Artist, Technical Artist
+
+### u000452
+Player Female (Aggressive)
+
+### u000453
+Lead 3D Animator
+
+### u000454
+Player Female (Brave)
+
+### u000455
+Cutscene Director
+
+### u000456
+Player Female (Confident)
+
+### u000457
+Art Consultant
+
+### u000458
+Localization Manager
+
+### u000459
+French Localisation
+
+### u000460
+Player Female (Madwoman)
+
+### u000461
+PR Agency
+
+### u000462
+Player Female (Pious)
+
+### u000463
+Player Female (Pragmatic)
+
+### u000464
+Collector's Edition Production
+
+### u000465
+Player Female (Cunning)
+
+### u000466
+Tech Partner
+
+### u000467
+Player Female (Carefree)
+
+### u000468
+Trade Shows Partner
+
+### u000469
+Hardware Supplier
+
+### u000470
+Web Support
+
+### u000471
+Voiceover Artist
+
+### u000472
+Wiki Contributor
+
+### u000473
+Animator
+
+### u000474
+Trade Shows Contributor
+
+### u000475
+FX Artist
+
+### u000476
+Data Analyst
+
+### u000477
+Voice Actor (Balor)
+
+### u000478
+Moderator
+
+### u000479
+Financial Adviser
+
+### u000480
+Admin
+
+### u000481
+Business Development
+
+### u000482
+Project Manager (German)
+
+### u000483
+PR Adviser
+
+### u000485
+Business and Strategic Development Adviser
+
+### u000486
+Reviewer (German)
+
+### u000487
+Accountant
+
+### u000488
+Localisation Consultant (German)
+
+### u000489
+Legal Adviser
+
+### u000490
+Chief Accountant
+
+### u000491
+French & German Localisation Team
+
+### u000492
+Сoop Tester
+
+### u000493
+Head of Owlcat Games
+
+### u000494
+2D Artist / Author of the Key Art
+
+### u000495
+Arch-Militant
+
+### u000496
+Navigator (Prologue)
+
+### u000497
+Ravor
+
+### u000498
+Ssilameshnik (female voice)
+
+### u000499
+Theodora Von Valancius
+
+### u000500
+Nahyndri
+
+### u000501
+Keykeross
+
+### u000502
+Kibellah
+
+### u000503
+Producer
+
+### u000504
+Vision of Death
+
+### u000505
+Rogue Trader Daring Male
+
+### u000506
+Death Cultist Male Dialogue
+
+### u000507
+Genecultist Male
+
+### u000508
+German Localisation
+
+### u000509
+Technical Artist
+
+### u000510
+Texture Artist
+
+### u000511
+Genecultist Female
+
+### u000512
+Genestealer Acolyte
+
+### u000513
+Cinematic Director
+
+### u000514
+Concept Artist
+
+### u000515
+Ubriachi e ratti di sottofondo :)
+
+### u000516
+Chinese localisation
+
+### u000517
+QC
+
+### u000518
+French localisation
+
+### u000519
+Lead Software Engineer
+
+### u000520
+German localisation
+
+### u000521
+Ulbrig Olesk-Neverhome
+
+### u000522
+Head of Localisation
+
+### u000523
+Localisation Manager
+
+### u000524
+French and German localisation team
+
+### u000525
+Project Manager / Editor
+
+### u000526
+Design and Video Team Lead
+
+### u000527
+Solomorne Anthar
+
+### u000528
+Arbites Male
+
+### u000529
+Arbites Female
+
+### u000530
+Head of Recruitment
+
+### u000531
+Sourcer
+
+### u000532
+Graphics Programmer
+
+### u000533
+QA Sublead
+
+### u000534
+Art manager
+
+### u000535
+3D Environment Artist
+
+### u000536
+3D Character Artist
+
+### u000537
+Environment Concept Artist
+
+### u000538
+Character Concept Artist
+
+### u000539
+Senior UI/UX Designer
+
+### u000540
+Graphics Engineer
+
+### u000541
+Terminology Specialist
+
+### u000542
+Studio CIO
+
+### u000543
+IT Lead
+
+### u000544
+IT support
+
+### u000545
+Logo Artist
+
+### u000546
+Seberian
+
+### u000547
+Manipulus
+
+### u000548
+Trazyn
+
+### u000549
+Reviewer
+
+### u000550
+Lead Lighting Artist, Technical Artist
+
+### u000551
+Narrative manager
+
+### u000552
+Narrative Design Team
+
+### u000553
+HR Business Partner
+
+### u000554
+Lead UI/UX Designer
+
+### u000555
+Site Reliability Engineer
+
+### u000556
+Team Lead
+
+### u000557
+Composer, Vocals
+
+### u000558
+Lead Narrative Director
+
+### u000559
+HR Director
+
+### u000560
+UI Design Team
+
+### u000561
+Technical Art
+
+### u000562
+Interpreter
+
+### u000563
+Junior Recruiter
+
+### u000564
+Lead Area Designer
+
+### u000565
+Technical Animator
+
+### u000566
+Lead Artist
+
+### u000567
+3D Animator
+
+### u000568
+Lead Environment Artist
+
+### u000569
+VFX Sound Design
+
+### u000570
+Lead Graphics Engineer
+
+### u000571
+Lead Learning & Development Manager
+
+### u000572
+Author of the Main Theme
+
+### u000573
+Technical Lead
+
+### u000574
+Lead Programmer
+
+### u000575
+Lead Recruiter
+
+### u000576
+German localization
+
+### u000577
+Lead Sound Designer
+
+### u000578
+Lead Tech Artist
+
+### u000579
+French localization
+
+### u000580
+Chinese localization
+
+### u000581
+Lead UX/UI Engineer
+
+### u000582
+Casting and voice production
+
+### u000583
+Lead VFX Artist
+
+### u000584
+Canto ufficiale dei goblin creato dall'app pluripremiata Syrinscape appositamente per il gioco di ruolo Pathfinder.
+
+### u000585
+Learning & Development Manager
+
+### u000586
+President
+
+### u000587
+Lighting Artist
+
+### u000588
+Voice Director, Recording Engineer
+
+### u000589
+Mechanics Designer
+
+### u000590
+Technical Editor
+
+### u000591
+Amiri
+
+### u000592
+Area Design Lead
+
+### u000593
+Armag
+
+### u000594
+Music Composer / Author of the Main Theme
+
+### u000595
+Defaced Sister
+
+### u000596
+Dugath
+
+### u000597
+Ekundayo
+
+### u000598
+Hargulka
+
+### u000599
+Harrim
+
+### u000600
+Programmer
+
+### u000601
+Ioseph Sellemius
+
+### u000602
+Jaethal
+
+### u000603
+Jamandi Aldori
+
+### u000604
+QA Specialist
+
+### u000605
+Jhod Kavken
+
+### u000606
+QC Lead
+
+### u000607
+Area Designer
+
+### u000608
+Jubilost
+
+### u000609
+QC Specialist
+
+### u000610
+Kesten Garess
+
+### u000611
+Recruiter
+
+### u000612
+King Irovetti
+
+### u000613
+Senior 3D Artist
+
+### u000614
+Kressle
+
+### u000615
+Senior Concept Artist
+
+### u000616
+Lantern King
+
+### u000617
+Senior Programmer
+
+### u000618
+Linzi
+
+### u000619
+Senior Recruiter
+
+### u000620
+Natala Surtova
+
+### u000621
+Nok-Nok
+
+### u000622
+Supervising Director
+
+### u000623
+Octavia
+
+### u000624
+Regongar
+
+### u000625
+Tristian
+
+### u000626
+Baron (Confident)
+
+### u000627
+UI Designer
+
+### u000628
+Baron (Madman)
+
+### u000629
+UI Programmer
+
+### u000630
+Associate Producer
+
+### u000631
+Baron (Pious)
+
+### u000632
+UI/UX Designer
+
+### u000633
+Baron (Pragmatic)
+
+### u000634
+Baron (Reserved)
+
+### u000635
+VFX Artist
+
+### u000636
+Lead UI Programmer
+
+### u000637
+Baroness (Aggressive)
+
+### u000638
+Baroness (Brave)
+
+### u000639
+Baroness (Confident)
+
+### u000640
+Baroness (Madman)
+
+### u000641
+Baroness (Pious)
+
+### u000642
+Baroness (Pragmatic)
+
+### u000643
+Audio Director / Music Composer
+
+### u000644
+Santuario del Ricordo
+
+### u000645
+Sostenitori
+
+### u000646
+Livello Argento
+
+### u000647
+Ringraziamenti speciali
+
+### u000648
+Head of studio
+
+### u000649
+Supporto testuale
+
+### u000650
+Altro supporto
+
+### u000651
+Publishing
+
+### u000652
+Concept Art
+
+### u000653
+Illustration Art
+
+### u000654
+3D Art
+
+### u000655
+Game Design
+
+### u000656
+Character Art
+
+### u000657
+Environment Art
+
+### u000658
+Un ringraziamento speciale a:
+
+### u000659
+Equipment
+
+### u000660
+Tech Art
+
+### u000661
+Lighting
+
+### u000662
+VFX
+
+### u000663
+Level Design
+
+### u000664
+Narrative Design
+
+### u000665
+UI Design
+
+### u000666
+Tech
+
+### u000667
+Manage & Support
+
+### u000668
+Management
+
+### u000669
+Leads
+
+### u000670
+QA/QC
+
+### u000671
+[ FOUR FOR MUSIC LTD ]
+
+### u000672
+Orchestration, Recording & Contracting — FOUR FOR MUSIC LTD.
+
+### u000673
+Recorded by: SOFIA SESSION ORCHESTRA & CHOIR
+
+### u000674
+Strings
+
+### u000675
+Violins
+
+### u000676
+Violoncellos
+
+### u000677
+Double Basses
+
+### u000678
+[ BRASS ]
+
+### u000679
+Bass Trombone
+
+### u000680
+Artists
+
+### u000681
+Cimbasso
+
+### u000682
+Soloists
+
+### u000683
+Sopranos
+
+### u000684
+Altos
+
+### u000685
+Tenors
+
+### u000686
+Community Management
+
+### u000687
+Video & Design Team
+
+### u000688
+Cast (Russian)
+
+### u000689
+Un ringraziamento speciale a:
+
+### u000690
+Logrus Global
+
+### u000691
+[AUDIO]
+
+### u000692
+Leads & Management
+
+### u000693
+QA/QC Team
+
+### u000694
+Community Management Team
+
+### u000695
+Loc3 Ltd (French Localisation)
+
+### u000696
+[ ART OUTSOURCE ]
+
+### u000697
+REDMEDVED Motion Graphics Studio
+
+### u000698
+Petrick
+
+### u000699
+Level Design Team
+
+### u000700
+Production Babies
+
+### u000701
+Designers
+
+### u000702
+Moderators
+
+### u000703
+[ART]
+
+### u000704
+Mod Team
+
+### u000705
+[ LOCALISATION ]
+
+### u000706
+Localisation Team
+
+### u000707
+23 Studios (Turkish Localisation)
+
+### u000708
+Lan-bridge Metagame
+
+### u000709
+Inno dei Perduti
+
+### u000710
+Infrastructure
+
+### u000711
+Music
+
+### u000712
+Team e aziende
+
+### u000713
+Grafit Art
+
+### u000714
+Art Team
+
+### u000715
+Sanctum
+
+### u000716
+3Beep
+
+### u000717
+Cast (English)
+
+### u000718
+Persone coinvolte
+
+### u000719
+Paizo Publishing
+
+### u000720
+MyGames
+
+### u000721
+PR & Marketing
+
+### u000722
+Technical support
+
+### u000723
+Area Design Team
+
+### u000724
+Fine del gioco
+
+### u000725
+NPC Creator
+
+### u000726
+Quest Creator
+
+### u000727
+Face Creator
+
+### u000728
+Spell Creator
+
+### u000729
+Party Banter Creator
+
+### u000730
+In-Game Armor (or Item) Creator
+
+### u000731
+In-Game Item Creator
+
+### u000732
+Parte del team
+
+### u000733
+Familiar Creator
+
+### u000734
+Monument Creator
+
+### u000735
+Infrastructure Team
+
+### u000736
+Loc-3 (French Localization)
+
+### u000737
+Böck GmbH (German Localisation)
+
+### u000738
+4-Real Intermedia GmbH (German Localization)
+
+### u000739
+Synthesis Deutschland GmbH — a Keywords Studio (German Localization)
+
+### u000740
+GlobaLoc GmbH (German Localization)
+
+### u000741
+Levsha (Multilingual Localisation)
+
+### u000742
+HomeRun PR (Global PR Partner)
+
+### u000743
+Indigo Pearl (PR Partner in UK)
+
+### u000744
+Marchsreiter Communications GmbH (PR Partner in Germany)
+
+### u000745
+Video Production
+
+### u000746
+Mail.Ru Video Production Team
+
+### u000747
+Navigator Igrovogo Mira
+
+### u000748
+Redmedved Motion Design Studio
+
+### u000749
+Solo
+
+### u000750
+Baltic Sound Production
+
+### u000751
+1st Violins
+
+### u000752
+2nd Violins
+
+### u000753
+Violas
+
+### u000754
+Cellos
+
+### u000755
+Basses
+
+### u000756
+Trumpets
+
+### u000757
+Trombones
+
+### u000758
+French Horns
+
+### u000759
+Bass Trombones
+
+### u000760
+Tuba
+
+### u000761
+Choir
+
+### u000762
+SMGO Records
+
+### u000763
+[ CHOIR ]
+
+### u000764
+Persone coinvolte
+
+### u000765
+Supporto speciale
+
+### u000766
+QA Team
+
+### u000767
+GEM Capital
+
+### u000768
+META Publishing
+
+### u000769
+Production
+
+### u000770
+Global Brand and Marketing
+
+### u000771
+Creative Services
+
+### u000772
+Tech Team
+
+### u000773
+Manage & Support Team
+
+### u000774
+<b> Abelard, portami lo specchio! </b><br> Viaggia attraverso la Distesa di Koronus con un nuovo stile. Questo pacchetto aspetto per Warhammer 40,000: Rogue Trader include sette acconciature distintive — quattro per i personaggi maschili e tre per quelli femminili — oltre a quattro impianti augmetici personalizzati per rendere unico il tuo Lord Capitano. Che tu stia stringendo alleanze o abbattendo i tuoi nemici, lascia che il tuo aspetto incarni il potere. <br> Gratuito per tutti i possessori di Season Pass 2.
+
+### u000775
+Pacchetto aspetto
+
+### u000776
+Edizione Deluxe
+
+### u000777
+Placeholder
+
+### u000778
+Preparati per la Distesa di Koronus con oggetti di gioco aggiuntivi e extra digitali!
+Questo pacchetto include:<br><br>
+-<b>OST</b>
+La raccolta completa dei nostri favolosi brani di gioco. Goditi le tue tracce musicali preferite in qualità WAV per ascoltare tutte le sfumature e i sussurri del Vuoto.. <br>
+-<b>Artbook digitale</b>
+Il nostro artbook digitale in alta risoluzione è pieno di arte legata al gioco. Vedrai concept e illustrazioni in alta risoluzione di personaggi, ambienti, paesaggi e molto altro. <br>
+- <b>Fregata classe Firestorm</b> — oggetto di gioco
+Una nave del vuoto alternativa per soddisfare le tue esigenze, con equipaggiamento iniziale alternativo e un aspetto unico!<br><br>- <b>Fucile a pompa Blast Wave</b> — oggetto di gioco
+Spazza via i tuoi nemici con questo fucile a pompa unico! Ti permette di respingere gli avversari anche se manchi il colpo.<br><br>- <b>Spada a catena Wrath of Saint Drusus</b> — oggetto di gioco
+Mostra a quegli eretici come si fa. Sebbene questa spada a catena tolga la possibilità di effettuare attacchi ad area, offre danni a bersaglio singolo straordinari grazie a combo davvero devastanti con il tuo gruppo.<br><br>- <b>Pistola automatica Heirloom</b> — oggetto di gioco
+La Dinastia von Valancius è venerabile e orgogliosa e ha accesso ad armi davvero antiche, come questa pistola automatica. La maestria necessaria per crearla è andata perduta nel tempo, ma la sua pura fattura permette a chi la usa di portare le proprie abilità di tiro a un livello superiore.
+
+### u000779
+Preparati per la Distesa di Koronus con oggetti di gioco aggiuntivi e extra digitali!
+Questo pacchetto include:<br><br>- <b>Artbook digitale</b>
+Esplora la bellezza della Distesa di Koronus in questo artbook realizzato dai nostri talentuosi artisti e designer!<br><br>- <b>OST digitale</b>
+Rivivi ogni momento con la mozzafiato colonna sonora di Rogue Trader, composta da un team di talentuosi compositori. Ascoltala in qualsiasi momento nel miglior formato disponibile, con tracce in qualità FLAC e MP3.<br><br>- <b>Pacchetto sfondi</b>
+Accedi a splendide immagini del gioco in formati ideali da usare come sfondi per il tuo PC/Mac o telefono.<br><br>- <b>Fregata classe Firestorm</b> — oggetto di gioco
+Una nave del vuoto alternativa per soddisfare le tue esigenze, con equipaggiamento iniziale alternativo e un aspetto unico!<br><br>- <b>Fucile a pompa Blast Wave</b> — oggetto di gioco
+Spazza via i tuoi nemici con questo fucile a pompa unico! Ti permette di respingere gli avversari anche se manchi il colpo.<br><br>- <b>Spada a catena Wrath of Saint Drusus</b> — oggetto di gioco
+Mostra a quegli eretici come si fa. Sebbene questa spada a catena tolga la possibilità di effettuare attacchi ad area, offre danni a bersaglio singolo straordinari grazie a combo davvero devastanti con il tuo gruppo.<br><br>- <b>Pistola automatica Heirloom</b> — oggetto di gioco
+La Dinastia von Valancius è venerabile e orgogliosa e ha accesso ad armi davvero antiche, come questa pistola automatica. La maestria necessaria per crearla è andata perduta nel tempo, ma la sua pura fattura permette a chi la usa di portare le proprie abilità di tiro a un livello superiore.
+
+### u000780
+Pacchetto Deluxe
+
+### u000781
+Preparati per la Distesa di Koronus con oggetti di gioco aggiuntivi e extra digitali!
+Questo pacchetto include:<br><br>- <b>Fregata classe Firestorm</b> — oggetto di gioco
+Una nave del vuoto alternativa per soddisfare le tue esigenze, con equipaggiamento iniziale alternativo e un aspetto unico!<br><br>- <b>Fucile a pompa Blast Wave</b> — oggetto di gioco
+Spazza via i tuoi nemici con questo fucile a pompa unico! Ti permette di respingere gli avversari anche se manchi il colpo.<br><br>- <b>Spada a catena Wrath of Saint Drusus</b> — oggetto di gioco
+Mostra a quegli eretici come si fa. Sebbene questa spada a catena tolga la possibilità di effettuare attacchi ad area, offre danni a bersaglio singolo straordinari grazie a combo davvero devastanti con il tuo gruppo.<br><br>- <b>Pistola automatica Heirloom</b> — oggetto di gioco
+La Dinastia von Valancius è venerabile e orgogliosa e ha accesso ad armi davvero antiche, come questa pistola automatica. La maestria necessaria per crearla è andata perduta nel tempo, ma la sua pura fattura permette a chi la usa di portare le proprie abilità di tiro a un livello superiore.
+
+### u000782
+Pacchetto del Fondatore — Per chi è stato con noi fin dall'inizio. Contiene tre oggetti di gioco unici e un disegno alternativo di nave del vuoto.
+
+### u000783
+Pacchetto del Fondatore
+
+### u000784
+Un DLC gratuito disponibile per tutti i possessori del gioco. Si tratta di un'offerta a tempo limitato da riscattare entro il 31 gennaio 2024. Affrettati prima che svanisca!
+Questo pacchetto contiene i seguenti oggetti:<br><br>- <b>Maschera esclusiva da Rogue Trader</b> — oggetto di gioco<br><br>- <b>Magnifico mantello da Rogue Trader</b> — oggetto di gioco
+
+### u000785
+Abito a edizione limitata
+
+### u000786
+Sblocca in un unico pacchetto due importanti espansioni narrative di Warhammer 40,000: Rogue Trader. Esplora un cimitero di astronavi distorto dalla follia e affronta i Necron. Ti aspettano nuove ambientazioni, compagni e pericoli. Include il DLC Pacchetto aspetto.
+
+### u000787
+Season Pass 2
+
+### u000788
+Ottieni l'accesso alle due prossime importanti espansioni narrative di Warhammer 40,000: Rogue Trader e risparmia con il prezzo del pacchetto!<br><br>1. <b>Void Shadows</b><br><br>La prima espansione narrativa è dedicata alla nave del vuoto del Rogue Trader, alla vita del suo equipaggio e alle minacce che si annidano nelle sue stive. Immergiti in una nuova epica storia integrata nella narrazione principale, combatti nuovi nemici e recluta un nuovo compagno: un assassino di un culto della morte. Esplora nuovi ponti della tua nave del vuoto, sblocca nuove opzioni di potenziamento e padroneggia le meccaniche del combattimento nel vuoto. Incontra nuovi membri del tuo equipaggio sul ponte di comando, come l'Astropate, il chirurgo e altri.
+- Gli eventi di questa storia si rifletteranno nell'epilogo del gioco.
+- Questa espansione offre 15 ore di gioco.<br><br>2. <b>Lex Imperialis</b><br><br>La seconda espansione narrativa vede il Lord Capitano unire le forze con un nuovo compagno: un membro dell'Adeptus Arbites. Mentre il passato della Casata von Valancius comincia a presentarsi sotto una nuova luce, il Rogue Trader si trova ad affrontare decisioni difficili che potrebbero influenzare il futuro dell'intera Distesa di Koronus. Nel corso di questa storia avrai la possibilità di scoprire di più sulla riscossione della Decima Imperiale, altrimenti nota come Grande Raccolto. Interferire con questo processo fondamentale dell'Imperium è un rischio che corri a tuo pericolo. Scopri nuove aree, meccaniche di gioco e archetipi — e, naturalmente, incontra nuovi orrori dell'Immaterium.
+- Anche questa espansione offre 15 ore di gioco.
+
+### u000789
+Season Pass
+
+### u000790
+La ricompensa per l'obiettivo "There Is Only War…" ti attende sull'ammiraglia, nel caveau degli Alloggi del Lord Capitano.
+
+### u000791
+Esplora il Vuoto con questi oggetti di gioco aggiuntivi:<br><br>- <b>Trono unico da Rogue Trader</b> — oggetto di gioco
+Cambia l'aspetto del trono sul ponte di comando della tua nave del vuoto in qualcosa di ancora più illustre e degno del tuo status di Rogue Trader.<br><br>- <b>Cherubino da compagnia</b> — oggetto di gioco
+Ti permette di cambiare l'aspetto del tuo fedele compagno da normale servoteschio a Cherubino!
+
+### u000792
+Pacchetto del Navigante del Vuoto
+
+### u000793
+Questo è solo un link a {g|Encyclopedia:Test}TestEntry{/g}...
+Questo è solo un link a {g|Encyclopedia:Chaos}Caos{/g}...
+Questo è solo un link a {g|Encyclopedia:Drusians}Drusiani{/g}...
+Questo è solo un link a {g|Encyclopedia:Astropath}Astropate{/g}...{g|Encyclopedia:Astropath}Astropate{/g}...{g|Encyclopedia:Astropath}Astropate{/g}...
+
+### u000794
+Dispacci astropatici
+
+### u000795
+Archivio dei rapporti
+
+### u000796
+Uno dei possibili parametri del bastone di un Navigatore. È sempre seguito da un valore numerico (ad esempio, castigating 10). I nemici che diventano bersaglio dei poteri del Navigatore subiscono una {g|Encyclopedia:Penalty}penalità{/g} a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} pari al parametro castigating, che dura fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} del Navigatore. Questa penalità si cumula e viene prolungata fino al prossimo turno del Navigatore a ogni accumulo.
+
+### u000797
+Decisioni
+
+### u000798
+Rapporto sull'abbordaggio di una nave del vuoto Fireborn
+
+### u000799
+Uno dei possibili parametri del bastone di un Navigatore. È sempre seguito da un valore numerico (ad esempio, devastating 10). Il primo uso di un potere offensivo del Navigatore in un singolo turno non attiva il {g|Encyclopedia:Cooldown}tempo di ricarica{/g} del potere e non conta ai fini del limite di attacchi per turno. Il secondo uso di questo potere o l'uso di un diverso potere offensivo del Navigatore nello stesso turno infligge {g|Encyclopedia:DamageGlossary}danni{/g} aggiuntivi pari al parametro devastating a tutti i bersagli e la stessa quantità di danni diretti al Navigatore.
+
+### u000800
+Dizionario
+
+### u000801
+Grimorio proibito
+
+### u000802
+Annali dell'Imperium
+
+### u000803
+Uno dei possibili parametri del bastone di un Navigatore. È sempre seguito da un valore numerico (ad esempio, infusing 10). Gli alleati che diventano bersaglio dei poteri del Navigatore ottengono {g|Encyclopedia:Bonus}bonus{/g} a tutte le loro {g|Encyclopedia:Characteristic}caratteristiche{/g} pari al parametro infusing, che dura fino alla fine del prossimo {g|Encyclopedia:Turn}turno{/g} del Navigatore. Questo bonus si cumula e viene prolungato fino al prossimo turno del Navigatore a ogni accumulo.
+
+### u000804
+Cronache della Distesa di Koronus
+
+### u000805
+Dizionario meccanico
+
+### u000806
+Mondi della Distesa
+
+### u000807
+Tutorial
+
+### u000808
+Armi
+
+### u000809
+Per un vero servitore dell'Imperatore, l'odio verso i nemici dell'Umanità trascende persino la morte. Il teschio di questo Commissario, caduto in una battaglia impari contro gli eretici, ha incastonato un ripetitore vox che riproduce il suo ultimo grido di battaglia.
+
+### u000810
+Teschio del valoroso Commissario
+
+### u000811
+L'intuizione del Navigatore è una risorsa speciale che si ottiene esplorando la Distesa di Koronus: scansionando nuovi sistemi e anomalie o partecipando a eventi spaziali senza combattimento.
+Il Navigatore dell'ammiraglia la usa per tracciare nuove rotte warp e per renderle più stabili e sicure... per quanto sia possibile.
+
+### u000812
+Accesso negato
+
+### u000813
+Accesso ottenuto
+
+### u000814
+Chiuso a chiave
+
+### u000815
+Serve la chiave
+
+### u000816
+Serve
+
+### u000817
+La trappola non può essere disinnescata direttamente
+
+### u000818
+Sbloccato!
+
+### u000819
+Storia principale
+
+### u000820
+Incontro casuale
+
+### u000821
+Suggerimento: {0}
+
+### u000822
+Hai ottenuto questo oggetto esplorando {0}
+
+### u000823
+Hai ricevuto questo oggetto dal mercante {0}
+
+### u000824
+Crea una tua lobby o unisciti a una già esistente.
+
+### u000825
+Assicurati che tutti i giocatori abbiano la stessa regione del server e la stessa versione co-op.
+
+### u000826
+Usa il codice della lobby per unirti o per invitare gli amici.
+
+### u000827
+Scegli il tuo personaggio e giocate insieme.
+
+### u000828
+e
+
+### u000829
+g
+
+### u000830
+h
+
+### u000831
+m
+
+### u000832
+s
+
+### u000833
+giorni
+
+### u000834
+ore
+
+### u000835
+meno di un'ora
+
+### u000836
+giorno
+
+### u000837
+ora
+
+### u000838
+[obsolete] Ottiene 2 PM e 2 PA durante il prossimo round.
+
+### u000839
+[obsolete] Riduce WS di −20 e PM di −1 dopo 1 round
+
+### u000840
+Ignatius/Lazarus/Marn/Malakai/Aubray/Harmon/Nathin/Solar/Vorgen/Zachary/Cornelius/Macharius/Holt/Aestaban/Orthesy/Siegmund/Seth/Borin/Wilbur/Persivaul/Phinnean/Edmant/Clement/Isidorus/Abner/Hester/Jabez/Barnabas/Hiram/Konstantinos/
+
+### u000841
+Lavinia/Ceciliana/Maude/Pandora/Isiabel/Philomena/Blanche/Augustania/Zebalia/Lucindia/Ammabel/Beulah/Lellianna/Coranna/Beatriccie/Eustania/Imogene/Ramonna/Isla/Ethel/Mycandra/Sesselie/Karroleen/Xandra/Regia/Venria/Tessera/Gamma/Acadi/Merania/
+
+### u000842
+Abital/Adelynn/Attie/Barbaretta/Bethana/Caileigh/Diane/Eos/Faye/Fiora/Galatia/Hannette/Herona/Iscah/Karina/Kioli/Lilith/Magdala/Naamie/Narine/Noemi/Priscilla/Quinnie/Rocha/Selah/Sulla/Tanda/Tryphosa/Una/Vardah/Zanna/
+
+### u000843
+Absalom/Aghilum/Alexio/Ananias/Astragos/Bron/Caleb/Carno/Castinus/Cyrius/Enoch/Ezra/Haarith/Festus/Jayce/Jeremias/Jorn/Lanto/Malachi/Nadr/Philo/Quathor/Rulf/Syed/Talmai/Tarl/Titus/Tob/Uriah/Vir/
+
+### u000844
+Fulgur/Phobos/Sarama/Karnon/Magnum/Fenr/Rage/Bellon/Cerberas/Sargathe/Garm/Fahmlus/Maera/Crudele/Canis
+
+### u000845
+Prelate/Aquila/Anzu/Storm/Eos/Seaver/Aethon/Skyla/Lumos/Parnassus/Dominus/Extremis/Sol/Auros/Rarog
+
+### u000846
+Legion/Host/Drove/League/Tribunal/Collective/Swarm/Choir/Council/Lodge/Nexus/Oculis/Cascade/Corpus/Gathering
+
+### u000847
+Grym/Empiras/Scarix/Blight/Branwen/Urien/Badb/Nox/Nebula/Griseos/Huginn/Fuga/Agate/Onyx/Dragsus
+
+### u000848
+Patient Fortune/Fatum Audacium/Daring Destiny/Glorium Libertatum/Charybdis/Righteous Absolution/Redemption Inexorable/Guardian of the Brink/Atonement of the Abyss/Eye of Providence/Exile of Kalmanterde/Harbinger of War/Calamity's Promise/Oculus Ignis/Arcanum Redemptionis/Arcanum Lucidus/Invictum Irabus/Voidtreader/Unbound Avarice/Apex Predator/Trailblazer/Destiny Hunter/Unforgiven/Fear of the Faithless/Firstforged /Malefactor's Repentance/Mercy of the Stars/Servant of His Glory/Seeker's Haven/Light in the Void/
+
+### u000849
+Il personaggio può attaccare con la seconda arma del suo set di armi attuale oltre al consueto attacco per round. Questo attacco subisce una penalità di −20 a Weapon Skill e Ballistic Skill e costa 1 PA in più.
+
+### u000850
+Dual-Weapon Combat
+
+### u000852
+Combatti!
+
+### u000853
+Entra
+
+### u000854
+Heretical — Seguace
+
+### u000855
+Heretical — Aderente
+
+### u000856
+Heretical — Devoto
+
+### u000857
+Heretical — Fanatico
+
+### u000858
+Heretical — Zelota
+
+### u000859
+Dogmatic — Seguace
+
+### u000860
+Dogmatic — Aderente
+
+### u000861
+Dogmatic — Devoto
+
+### u000862
+Dogmatic — Fanatico
+
+### u000863
+Dogmatic — Zelota
+
+### u000864
+Iconoclast — Seguace
+
+### u000865
+Iconoclast — Aderente
+
+### u000866
+Iconoclast — Devoto
+
+### u000867
+Iconoclast — Fanatico
+
+### u000868
+Iconoclast — Zelota
+
+### u000869
+Multishot
+
+### u000870
+Trappola
+
+### u000871
+Per aprire la porta, clicca sull'icona sopra il cogitatore: il personaggio con il valore più alto di {g|Encyclopedia:SkillLogic}Logic{/g} effettuerà la {g|Encyclopedia:Test}<b>prova</b>{/g} di {g|Encyclopedia:Skills}competenza{/g}.
+Se la prova fallisce, la porta resterà chiusa. Un risultato particolarmente negativo in una prova di <b>Logic</b> può far sì che la porta si blocchi definitivamente e non si possa più aprire.
+
+### u000872
+{g|Encyclopedia:Test}Prove{/g} di {g|Encyclopedia:Skills}competenza{/g} e interazione con l'ambiente
+
+### u000873
+Tieni premuto [{bind|HighlightObjects}] per evidenziare gli oggetti con cui il tuo personaggio può interagire.
+
+### u000874
+Alcuni oggetti del gioco permettono un'interazione speciale. Sono contrassegnati da icone specifiche: alcune icone ti permettono di studiare gli oggetti, altre trasferiscono il personaggio in luoghi vicini o avviano un piccolo evento. Queste icone diventano visibili quando il tuo personaggio si trova abbastanza vicino all'oggetto interattivo.
+Clicca {mouse_icon|LeftMouse} sull'icona per eseguire l'azione associata. Alcuni oggetti interattivi, come porte o casse, non sono sempre contrassegnati da icone, ma il cursore cambia quando ci passi sopra. Passa il cursore sull'oggetto: se il cursore cambia, l'oggetto è interattivo.
+
+### u000875
+Oggetti interattivi
+
+### u000876
+In combattimento un personaggio può aver bisogno di usare diversi tipi di armi, che possono essere preparate in anticipo. Apri il tuo inventario [{bind|OpenInventory}] e prepara diversi set di armi. Per passare a un altro set di armi in combattimento, premi [{bind|ChangeWeaponSet}].
+Cambiare set di armi in combattimento non costa {g|Encyclopedia:ActionPoints}punti azione{/g}.
+
+### u000877
+Armi alternative
+
+### u000878
+Un Arbitrator con la specializzazione Subductor possiede l'abilità passiva {g|f:613246cc28464ade9845da9b30dc65c3}Ruthless Suppression{/g}, che rende l'Arbitrator e il suo famiglio immuni ai {g|Encyclopedia:CritChancesAndCritDamageGlossary}colpi critici{/g} e aumenta la probabilità di colpo critico dell'Arbitrator e del suo famiglio se ci sono 2 o più nemici in un raggio di 2 caselle attorno all'Arbitrator. Ogni volta che un nemico adiacente all'Arbitrator si rialza dopo essere stato {g|Encyclopedia:ProneEffect}a terra{/g}, quel nemico provoca un {g|Encyclopedia:AttackOfOpportunityFullGlossary}attacco di opportunità{/g} da parte dell'Arbitrator.
+Le abilità attive del Subductor sono disponibili solo con uno scudo equipaggiato.
+L'abilità {g|f:8c7d2be4225745e4911eb3c53c603b76}Assault Onslaught{/g} permette all'Arbitrator di lanciarsi in linea retta attraverso alleati e nemici per un massimo di 5 caselle senza provocare attacchi di opportunità. Ogni nemico attraversato deve superare una prova di resistenza di Agility, altrimenti cade a terra fino all'inizio del {g|Encyclopedia:Turn}turno{/g} successivo di quel nemico.
+Lo {g|f:1c5f4edca9f64fe0911bc946e0b4ea4a}Shield Bash{/g} del Subductor infligge più danni ai nemici a terra o {g|Encyclopedia:ImmobilisedEffect}immobilizzati{/g} e mette a segno colpi critici garantiti contro di loro.
+I nemici colpiti da {g|f:f6a60b4556214528b0ce295c4f69306e}Stalwart Defence{/g} del Subductor infliggono meno danni e subiscono più danni dai contrattacchi del Subductor.
+
+### u000879
+Arbitrator: Subductor
+
+### u000880
+Un Arbitrator con la specializzazione Vigilant possiede l'abilità passiva {g|f:e9fc0a90ebe8458a86c9b7db9f6770b3}Swift Justice{/g}, per cui i nemici attaccati dall'Arbitrator o dal suo famiglio subiscono l'effetto {g|f:3a4b8214c73240de911a805fe645e624}swift justice{/g} fino all'inizio del {g|Encyclopedia:Turn}turno{/g} successivo dell'Arbitrator. Gli attacchi con fucile a pompa dell'Arbitrator infliggono più {g|Encyclopedia:DamageGlossary}danni{/g} a quei nemici.
+Con un fucile a pompa equipaggiato, il Vigilant ottiene l'accesso ad attacchi unici con il fucile a pompa. Ognuno costa 2 PA e non consuma munizioni.
+{g|f:def7164545244af28d52cd38d0502525}Double Slug{/g} permette all'Arbitrator di effettuare due {g|Encyclopedia:SingleRangedAttacksGlossary}colpi singoli{/g} contro il bersaglio.
+{g|f:027e75ab89364049b844a720feca85ec}Grisly Adjudication{/g} aumenta la {g|Encyclopedia:ArmourPenetration}penetrazione dell'armatura{/g} del fucile a pompa e infligge {g|Encyclopedia:BleedingEffect}sanguinamento{/g} ai bersagli {g|Encyclopedia:HitSequenceGlossary}colpiti{/g}.
+{g|f:2162ce26f6db4cd1b748a4105c364ddb}Fulminating Shot{/g} infligge meno danni ma riduce la {g|Encyclopedia:DodgeGlossary}schivata{/g}, la {g|Encyclopedia:Parry}parata{/g} e il blocco dei bersagli nella sua {g|Encyclopedia:AreaOfEffect}area d'effetto{/g} per 1 {g|Encyclopedia:Round}round{/g}, indipendentemente dal fatto che siano stati colpiti o meno.
+
+### u000881
+Arbitrator: Vigilant
+
+### u000882
+L'armatura protegge il personaggio dai {g|Encyclopedia:DamageGlossary}danni{/g} in arrivo. Al momento hai a disposizione i tipi di armatura leggera e {g|Encyclopedia:MediumArmour}media{/g}.
+Il valore di armatura indica quale percentuale dei danni di un attacco nemico può assorbire. Il tipo di armatura influisce anche sulle probabilità che chi la indossa superi una prova di {g|Encyclopedia:DodgeGlossary}schivata{/g}: più alta è la <b>{g|Encyclopedia:Penalty}penalità{/g} di schivata</b>, minore è la probabilità di schivare un attacco nemico.
+Un personaggio con {g|Encyclopedia:LightArmour}armatura leggera{/g} schiva gli attacchi più spesso, ma subisce più danni quando viene colpito. L'armatura media assorbe più danni se il personaggio viene colpito, ma ne riduce la mobilità e la capacità di schivare gli attacchi.
+Alcuni {g|Encyclopedia:Talent}<b>talenti</b>{/g} permettono ai personaggi di usare più efficacemente diversi tipi di armatura.
+
+### u000883
+Armatura leggera e media
+
+### u000884
+Hai ottenuto un'augmetica. Le augmetiche non possono essere equipaggiate come armi o dotazioni. Per inserirla nel corpo devi usare un Trono di Impianto nel Settore Bionica.
+
+### u000885
+Augmetica
+
+### u000886
+Ogni augmetica offre bonus attivi e passivi unici, ma applica sempre un effetto negativo inevitabile.
+Quando il personaggio subisce un trauma alla corrispondente parte del corpo, l'augmetica installata non funziona correttamente.
+I suoi effetti passivi positivi sono disattivati finché il trauma non viene curato, mentre quelli negativi restano.
+
+### u000887
+{g|Encyclopedia:Traumas}Traumi{/g} ed {g|Encyclopedia:NegativeEffectTypesGlossary}effetti negativi{/g}
+
+### u000888
+Installare augmetiche infligge accumuli dell'effetto {g|f:780497b04a0944e59cb57e68bb9775c4}ferrum sanctum{/g}.
+Per ogni augmetica installata, il personaggio subisce un +15% di danni da shock dalle granate ad arco e da altri effetti che folgorano il bersaglio.
+
+### u000889
+Un personaggio ha 6 slot per augmetiche: 1 ottico e 1 corticale nella testa, 1 somatico nel torso, 2 nelle braccia (sinistro e destro) e 1 muscoloscheletrico nelle gambe.
+Alcuni compagni possiedono augmetiche uniche. Possono essere sostituite, ma gli altri personaggi non possono installarle.
+Cassia, i compagni Space Marine e i compagni xenos non possono installare augmetiche.
+
+### u000890
+Slot di innesto
+
+### u000891
+L'augmetica modifica direttamente il corpo del personaggio. A differenza dell'equipaggiamento, l'installazione di un'augmetica è permanente.
+Un'augmetica non può essere rimossa e può essere sostituita solo con un'altra augmetica. Se viene rimossa, è sostituita da un'augmetica di base. La parte del corpo originale non può essere ripristinata.
+Ci sono diversi modi per installare un'augmetica. Puoi usare il Trono di Impianto, parlare con l'Alto Factotum sul ponte di comando della nave oppure aprire il menu Augmetica nella parte più a destra della mappa della Distesa di Koronus.
+Per installare un'augmetica, trascinala nello slot corrispondente sul diagramma del personaggio e clicca su "Installa".
+
+### u000892
+Installazione dell'augmetica
+
+### u000893
+In combattimento, l'icona della galvanizzazione è mostrata sulla barra delle azioni accanto agli atti eroici e alle misure disperate. Può essere usata una sola volta per combattimento.
+Usare le abilità di galvanizzazione conferisce effetti potenti, ma può anche infliggere effetti negativi all'utilizzatore, fargli subire danni aggiuntivi, ridurre le sue caratteristiche o penalizzarlo in altri modi.
+
+### u000894
+Galvanizzazione in combattimento
+
+### u000895
+Alcune augmetiche hanno abilità di galvanizzazione con effetti potenti.
+Solo un'augmetica alla volta può essere impostata per la galvanizzazione, rendendo la sua abilità disponibile in combattimento.
+Le augmetiche non possono essere impostate per la galvanizzazione mentre il personaggio è in combattimento.
+
+### u000896
+Imposta per la galvanizzazione
+
+### u000897
+Hai ottenuto un'augmetica primaria. L'attuale Trono di Impianto non ha la capacità di sostenere un'alterazione della carne così invasiva. Serve un Trono di Impianto migliorato.
+
+### u000898
+Augmetiche primarie
+
+### u000899
+Puoi capire meglio cosa è successo in combattimento consultando il registro di combattimento. Tutte le azioni compiute dal tuo personaggio, dai suoi compagni e dai nemici sono registrate nel registro di combattimento in basso a destra dello schermo.
+Clicca {mouse_icon|RightMouse} su un evento o un'azione per saperne di più.
+
+### u000900
+Registro di combattimento
+
+### u000901
+Alcuni tipi di armi permettono di effettuare <b>attacchi a {g|Encyclopedia:BurstAttacks}raffica{/g}</b>.
+Con un attacco a raffica in mischia, il personaggio sferra più colpi contro un singolo bersaglio. Se il primo colpo va a segno, tutti i successivi colpiscono automaticamente. Se il primo colpo viene schivato o parato, tutti i successivi vengono schivati o parati automaticamente.
+Con un attacco a raffica a distanza, il personaggio spara diversi colpi in successione con traiettorie diverse. La maggior parte di questi colpi è concentrata al centro del cono d'attacco selezionato; pertanto, più nemici ci sono al centro di quest'area, più ne verranno danneggiati se l'attacco riesce. Tutti i colpi sparati dopo il primo sono meno precisi e hanno maggiori probabilità di deviare dalla linea centrale. I colpi a raffica sono particolarmente efficaci contro gruppi di nemici.
+Attenzione: i colpi a raffica possono colpire gli alleati se si trovano nella direzione dell'attacco.
+
+### u000902
+Argenta è una guerriera delle <b>Adepta Sororitas</b> e un <b>Soldier</b>. È un'esperta di armi {g|Encyclopedia:Range}a distanza{/g} {g|Encyclopedia:BurstAttacks}a raffica{/g} e di armi che infliggono danni ad area. Un altro punto di forza di Argenta è la sua mobilità in combattimento.
+{g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g} è un'{g|Encyclopedia:Ability}abilità{/g} unica dei Soldier. Usarla conferisce al Soldier {g|Encyclopedia:MovementPoints}punti movimento{/g} extra e riduce di −1 {g|Encyclopedia:ActionPoints}punto azione{/g} il costo del suo prossimo attacco. Il Soldier subirà inoltre una {g|Encyclopedia:Penalty}penalità{/g} di −10 alla sua {g|Encyclopedia:WarhammerBallisticSkill}Ballistic Skill{/g} per quell'attacco. {g|f:7a76af1ef02c4699b62db147e2b9a172}Run and Gun{/g} permette inoltre al Soldier di effettuare un attacco aggiuntivo con un'arma a distanza, un utile strumento se vuoi compiere più di un attacco con lui nel suo {g|Encyclopedia:Turn}turno{/g}.
+{g|f:8638221f9caf46649cefcbd7574804d1}Revel in Slaughter{/g} è un'abilità dei Soldier che può essere usata una volta ogni 3 nemici uccisi dal Soldier in un singolo scontro. Ogni attivazione di questa abilità aumenta la Ballistic Skill, la {g|Encyclopedia:CritChancesAndCritDamageGlossary}probabilità di colpo critico e i danni critici{/g} del Soldier. Questo {g|Encyclopedia:CommonStatuses}effetto{/g} si cumula e dura fino alla fine del combattimento.
+
+### u000903
+Abilità di Argenta
+
+### u000904
+Attacchi a raffica
+
+### u000905
+Cambia punto di vista! Muovi la telecamera con i tasti [{bind|CameraUp}], [{bind|CameraDown}], [{bind|CameraLeft}], [{bind|CameraRight}] o con le frecce della tastiera. Ruota la telecamera con i tasti [{bind|CameraRotateLeft}], [{bind|CameraRotateRight}] o con la rotellina del mouse.
+
+### u000906
+Controlli della telecamera
+
+### u000907
+Apri la schermata di gestione del carico per saperne di più sul carico della tua ammiraglia: la quantità, i tipi e la percentuale di carico occupata.
+Nella scheda del carico puoi vedere i dettagli degli oggetti imballati in ogni slot di carico. Se hai bisogno di usare un oggetto già imballato, riportalo nel tuo inventario.
+Il carico serve per commerciare con i mercanti. Li incontrerai presto.
+
+### u000908
+Gestione del carico
+
+### u000909
+Al momento è impossibile rimuovere i trofei dal carico, poiché non è stata stabilita la comunicazione con l'ammiraglia.
+
+### u000910
+Contatto perso con l'ammiraglia
+
+### u000911
+Hai imballato come carico un importante pezzo di equipaggiamento: i personaggi non possono equipaggiare oggetti dal carico della nave!
+Riporta l'arma dal carico al tuo inventario ed equipaggiala: ti servirà in questa fase del gioco. In seguito potrai usare il carico per commerciare con i mercanti.
+
+### u000912
+Carico e inventario
+
+### u000913
+Cassia è un <b>Officer</b> e la <b>Navigatrice</b> della tua nave. Colpisce i nemici con le energie del warp e supporta il gruppo potenziando i suoi alleati.
+{g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} è un'{g|Encyclopedia:Ability}abilità{/g} degli Officer che aumenta le caratteristiche di un alleato per 1 {g|Encyclopedia:Round}round{/g} e permette inoltre all'Officer di usare le sue altre abilità dell'archetipo Officer su quell'alleato da qualsiasi distanza. Più alto è il {g|Encyclopedia:Bonus}bonus{/g} di {g|Encyclopedia:WarhammerFellowship}Fellowship{/g} dell'Officer, maggiore è l'aumento delle caratteristiche del bersaglio.
+Un Officer può usare di nuovo {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} sullo stesso alleato solo dopo che sono trascorsi 2 round dalla prima applicazione.
+{g|f:5bfccf14d8604ae1a041fb347fb8f19f}Bring It Down!{/g} è un'abilità degli Officer che permette di concedere immediatamente un {g|Encyclopedia:ExtraTurn}turno extra{/g} a un alleato. Durante quel turno extra l'alleato non ottiene {g|Encyclopedia:MovementPoints}punti movimento{/g}, ma ottiene 2 {g|Encyclopedia:ActionPoints}punti azione{/g} che possono essere spesi per effettuare un attacco o usare abilità o consumabili.
+Se l'alleato è sotto l'effetto di {g|f:9c78e44bf8ff44a9afff8370c673c9ad}Voice of Command{/g} e distrugge un nemico prima della fine del turno dell'Officer, all'alleato verrà concesso dello {g|Encyclopedia:MomentumWithDetails}slancio{/g} extra per quell'uccisione.
+{g|f:e8164ac219f44e69b95de4853569da3b}Lidless Stare{/g} è un'abilità offensiva unica che investe con energie del warp tutti i bersagli in un ampio cono davanti alla Navigatrice. I danni inflitti si basano sul bonus di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} della Navigatrice. Tutte le creature bersaglio di questa abilità devono superare una {g|Encyclopedia:ResistanceTest}prova di resistenza{/g} di {g|Encyclopedia:WarhammerWillpower}Willpower{/g} o restare {g|Encyclopedia:Stun}stordite{/g}.
+
+### u000914
+Abilità di Cassia
+
+### u000915
+Durante i tuoi viaggi incontrerai contenitori, casse e altri oggetti dell'ambiente che puoi perquisire. All'interno troverai bottini di ogni genere: dalle cose inutili a un Rogue Trader (ma che potrebbero comunque interessare a un mercante) a nuovo equipaggiamento e importanti oggetti di trama.
+Clicca {mouse_icon|LeftMouse} su un contenitore per aprirlo.
+Incontrerai anche contenitori chiusi a chiave. Per aprirli, i membri del tuo gruppo dovranno superare la {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:Skills}competenza{/g} associata.
+
+### u000916
+Contenitori di bottino
+
+### u000917
+In combattimento puoi aumentare notevolmente la velocità delle animazioni di nemici e alleati. Per farlo, tieni premuto il tasto assegnato ([SPACE] per impostazione predefinita).
+Nel menu delle opzioni puoi attivare questa funzione per velocizzare automaticamente le animazioni oppure disattivarla.
+
+### u000918
+Velocizzare le animazioni in combattimento
+
+### u000919
+Hai incontrato l'Intendente dei Mercenari. Parlagli. Tramite le apposite opzioni di dialogo potrai creare fino a 2 mercenari da far controllare agli altri membri del gruppo.
+In quanto capogruppo verrai {mf|reindirizzato|reindirizzata} alla schermata di creazione del personaggio. Lì potrai dare un nome a questi mercenari e personalizzarli, scegliendo il loro passato, gli archetipi e vari altri parametri.
+Una volta creati i mercenari, i loro modelli compariranno nel mondo di gioco. All'inizio saranno controllati da te. Vai al menu di assegnazione dei personaggi per concedere a ogni membro del gruppo la possibilità di controllare il mercenario corrispondente.
+Se il tuo gruppo è composto da più di 3 giocatori e non ci sono ancora abbastanza personaggi per tutti, continua a giocare. Man mano che la storia procede, presto nuovi compagni si uniranno al tuo gruppo e ogni membro potrà scegliere un personaggio per sé.
+Attenzione! Se salti il dialogo con l'Intendente dei Mercenari, non potrai tornare da lui più tardi.
+
+### u000920
+Creazione dei mercenari (modalità co-op)
+
+### u000921
+Tutti i membri del gruppo tranne il capogruppo possono usare {mouse_icon|LeftMouse} nel combattimento a terra per evidenziare l'icona di un'abilità o di un oggetto consumabile sul pannello in basso nello schermo.
+Inoltre possono usare {mouse_icon|LeftMouse} per evidenziare le scelte nei dialoghi e negli eventi narrativi, mostrando agli altri membri del gruppo quale opzione vorrebbero selezionare.
+Nota: sebbene ogni membro del gruppo possa esprimere la propria opinione, la decisione finale spetta al capogruppo.
+
+### u000922
+Nei dialoghi e negli eventi narrativi puoi usare {mouse_icon|LeftMouse} + [ALT] per evidenziare una riga di testo e mostrare agli altri membri del gruppo quale opzione vorresti scegliere.
+Nota: sebbene ogni membro del gruppo possa esprimere la propria opinione, la decisione spetta al capogruppo.
+
+### u000923
+Ogni membro del gruppo può usare [ALT] + {mouse_icon|LeftMouse} per evidenziare un oggetto selezionato, ad esempio:
+-<indent=5%>un'unità (in combattimento e fuori dal combattimento)</indent>
+-<indent=5%>una casella del campo di battaglia (nel combattimento a terra e spaziale)</indent>
+-<indent=5%>un oggetto sulla mappa (compresa la mappa della località, la mappa del sistema e la mappa della Distesa di Koronus)</indent>
+
+### u000924
+Durante il combattimento a terra o spaziale puoi usare {mouse_icon|LeftMouse} + [ALT] per evidenziare un oggetto selezionato e metterlo in risalto, in modo che gli altri membri del gruppo si concentrino su di esso. Puoi evidenziare:
+-<indent=5%>il modello di una creatura</indent>
+-<indent=5%>un'icona sul pannello delle abilità</indent>
+-<indent=5%>una casella del campo di battaglia</indent>
+
+### u000925
+Mentre giochi in modalità co-op puoi evidenziare una casella, una creatura, una riga di dialogo, un oggetto sulla mappa o l'icona di un'abilità per metterla in risalto agli altri membri del gruppo. Sentiranno il segnale e vedranno quell'oggetto evidenziato sui loro schermi. Questa funzione può essere usata nelle zone in cui controlli direttamente i tuoi personaggi, nel combattimento a terra e spaziale, nei dialoghi e negli eventi narrativi e su varie mappe.
+
+### u000926
+Mentre giochi in modalità co-op puoi evidenziare una casella, una creatura, una riga di dialogo o un'icona sul pannello delle abilità per metterla in risalto agli altri membri del gruppo. Per farlo, passa il cursore sull'oggetto e clicca {mouse_icon|LeftMouse} tenendo premuto [ALT]. Gli altri membri del gruppo sentiranno il segnale e vedranno quell'oggetto evidenziato sui loro schermi.
+Questa funzione può essere usata nelle zone in cui controlli direttamente i tuoi personaggi, sulle mappe dei sistemi e sulla mappa della Distesa di Koronus.
+
+### u000927
+Interazione nei dialoghi e negli eventi narrativi
+
+### u000928
+Interazione durante il combattimento a terra e spaziale
+
+### u000929
+Interazione tra giocatori
+
+### u000930
+Usa la {g|Encyclopedia:DetailsOfTheCoverGlossary}copertura{/g} per evitare gli attacchi nemici.
+Le coperture dietro cui un personaggio può ripararsi sono contrassegnate da uno scudo (o da uno scudo con un teschio). Quando si trova vicino a esse, il personaggio assume automaticamente una posizione vantaggiosa: in questo caso aumenta la probabilità che gli attacchi nemici colpiscano la copertura e non il personaggio dietro di essa.
+Il personaggio non riceverà un {g|Encyclopedia:Bonus}bonus{/g} se viene attaccato da un lato non protetto dalla sua copertura attuale.
+
+### u000931
+Copertura
+
+### u000932
+La copertura totale e parziale ti dà la possibilità di evitare gli attacchi nemici.
+La {g|Encyclopedia:DetailsOfTheCoverGlossary}<b>copertura totale</b>{/g}, indicata da un teschio sullo scudo, riduce del 60% la probabilità di essere colpiti. La copertura <b>parziale</b> la riduce del 35%. Allo stesso tempo, la probabilità di colpire un personaggio al riparo può variare a seconda della difficoltà di gioco scelta.
+Alcune coperture possono essere distrutte da {g|Encyclopedia:MeleeAttacks}attacchi in mischia{/g}, {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g} e altre {g|Encyclopedia:Ability}abilità{/g}. Le coperture distruttibili hanno una barra di resistenza sopra di esse. Il {g|Encyclopedia:SingleRangedAttacks}colpo singolo{/g} può penetrare qualsiasi copertura.
+
+### u000933
+Tipi di copertura
+
+### u000934
+Più alto è il punteggio di {g|Encyclopedia:Skills}competenza{/g} di un personaggio, più facile è per lui superare le {g|Encyclopedia:Test}prove{/g}. I punteggi di competenza dipendono dai rispettivi punteggi di caratteristica del personaggio, dagli avanzamenti di competenza ai passaggi di livello e dai {g|Encyclopedia:Bonus}bonus{/g} che il suo equipaggiamento può offrire.
+Per superare le varie prove durante il gioco, sviluppa competenze diverse per il tuo personaggio e per i suoi compagni.
+
+### u000935
+Il tuo personaggio sta per effettuare una {g|Encyclopedia:Test}prova{/g} di {g|Encyclopedia:Skills}competenza{/g} di {g|Encyclopedia:SkillLogic}Logic{/g}. Nei dialoghi e durante l'esplorazione effettuerai spesso varie prove di competenza, e il loro risultato potrebbe determinare il successo degli sforzi del tuo personaggio, far comparire opzioni di dialogo nascoste o rivelare nuove informazioni.
+Il successo della prova è determinato lanciando un dado a 100 facce.
+Ogni prova di competenza ha una difficoltà fino a 100 (compresi i valori negativi). Per riuscire, devi ottenere un valore uguale o inferiore alla somma della difficoltà indicata e del valore della competenza usata per la prova.
+Ad esempio, stai tentando una prova con difficoltà −10.
+Il punteggio di <b>Logic</b> del tuo personaggio è 40.
+40 − 10 = 30
+Quindi, per superare la prova di <b>Logic</b>, devi ottenere 30 o meno. Qualsiasi risultato superiore a 30 significa fallimento.
+Tieni presente che la difficoltà viene calcolata dai valori maggiori a quelli minori. Più alto è il valore di difficoltà, più facile è superare la prova (è più facile superare una prova di difficoltà 40 che una di difficoltà 10).
+
+### u000936
+Prove di competenza
+
+### u000937
+Sistema D100
+
+### u000938
+Le superfici {g|Encyclopedia:BurningEffect}in fiamme{/g}, l'elettricità, i fumi tossici e altri pericolosi effetti ambientali possono infliggere danni al tuo gruppo o causare {g|Encyclopedia:NegativeEffect}effetti negativi{/g} persistenti.
+Usa un {g|ib:Medikit}kit medico{/g} per fermare tali effetti.
+
+### u000939
+Effetti ambientali
+
+### u000940
+Una delle opzioni di dialogo disponibili richiede una {g|Encyclopedia:Test}<b>prova</b>{/g} di {g|Encyclopedia:Skills}competenza{/g}. A differenza delle prove passive, che vengono effettuate automaticamente, in questo caso puoi decidere se scegliere o meno un'opzione, le cui conseguenze dipenderanno dal risultato della prova associata.
+Il successo o il fallimento influenza lo sviluppo del dialogo: a seconda del contesto, potresti cambiare il corso della conversazione, modificare l'atteggiamento del personaggio o compiere un'azione le cui conseguenze si vedranno solo più tardi. Passa il cursore sull'opzione di dialogo che richiede una prova di competenza e vedrai un suggerimento che illustra le tue probabilità di successo.
+Il numero dopo il nome della competenza indica la difficoltà della prova.
+Quando il tuo personaggio comincerà a viaggiare con degli alleati, per ogni prova verrà scelto il membro del gruppo con il punteggio più alto nella competenza richiesta.
+
+### u000941
+Prove di competenza nei dialoghi
+
+### u000942
+Le competenze dei tuoi personaggi riflettono le loro conoscenze e capacità. Alcuni dialoghi avviano automaticamente {g|Encyclopedia:Test}<b>prove</b>{/g} di {g|Encyclopedia:Skills}competenza{/g} passive: se la prova riesce, verranno rivelate nuove informazioni o si sbloccherà un'opzione di dialogo nascosta.
+Se il tuo personaggio viaggia con degli alleati, per ogni prova di competenza passiva viene scelto il membro del gruppo con il punteggio più alto nella competenza richiesta.
+
+### u000943
+Prove di competenza passive
+
+### u000944
+Sei in un dialogo: qui puoi scoprire di più sugli eventi in corso, influenzare il personaggio con cui parli o persino cambiare il corso della narrazione del gioco. La storia personale del tuo personaggio dipende dalle scelte di dialogo che compi.
+Le opzioni di dialogo disponibili sono mostrate a destra. Seleziona una risposta cliccando {mouse_icon|LeftMouse} su di essa o premendo il numero corrispondente sulla tastiera.
+
+### u000945
+Scelte nei dialoghi
+
+### u000946
+Le {g|Encyclopedia:Ability}abilità{/g} di combattimento dei personaggi differiscono a seconda del loro archetipo. Le abilità disponibili si trovano in basso a destra dello schermo, sul pannello delle abilità. Per leggere la descrizione completa di un'abilità, passa il cursore sulla sua icona o clicca {mouse_icon|RightMouse} su di essa.
+Clicca {mouse_icon|LeftMouse} sull'icona per usare l'abilità. Prima di usarla potrai rivedere il suo esito stimato passando il cursore su un personaggio o su un'area a tua scelta. Vedrai anche la sua {g|Encyclopedia:AreaOfEffect}area d'effetto{/g}, e su ogni personaggio in quest'area sarà mostrato un numero che indica la probabilità di essere colpito con successo. Se l'{g|Encyclopedia:CommonStatuses}effetto{/g} dell'abilità è garantito, al posto del numero viene mostrata l'icona dell'abilità. Quando sei {mf|pronto|pronta} a usare l'abilità, clicca di nuovo {mouse_icon|LeftMouse} per confermare la tua scelta.
+Durante le tue avventure, i tuoi personaggi otterranno nuove abilità e {g|Encyclopedia:Talent}talenti{/g} man mano che il loro potere crescerà. Puoi consultare l'elenco completo di abilità e talenti disponibili nella scheda delle capacità del menu del personaggio [{bind|OpenCharacterScreen}].
+
+### u000947
+I <b>{g|Encyclopedia:ActionPoints}punti azione{/g} (PA)</b> vengono usati per effettuare attacchi e usare {g|Encyclopedia:Ability}abilità{/g} in combattimento. La loro quantità è mostrata sul pannello delle abilità in basso nello schermo. Ogni attacco o abilità ha un certo costo in <b>PA</b>. All'inizio di ogni {g|Encyclopedia:Turn}turno{/g}, i <b>PA</b> di un personaggio vengono ripristinati al valore massimo. Più alto è il grado dell'{g|Encyclopedia:Career}archetipo{/g} di un personaggio, più <b>PA</b> ha.
+
+### u000948
+Abilità
+
+### u000949
+Per {g|Encyclopedia:SpeedSpace}accelerare{/g} le azioni dei nemici, tieni premuto [{bind|SpeedUpEnemies}] durante il loro {g|Encyclopedia:Turn}turno{/g} per far procedere la battaglia a un ritmo più veloce.
+
+### u000950
+Velocizzare il combattimento
+
+### u000951
+I personaggi con <b>armi da mischia</b> possono effettuare un {g|Encyclopedia:AttackOfOpportunity}<b>attacco di opportunità</b>{/g} se un avversario in una casella adiacente inizia a muoversi. Può essere innescato anche da alcune {g|Encyclopedia:Ability}abilità{/g}.
+Tutti i personaggi con armi da mischia, compresi i membri del tuo gruppo, possono effettuare attacchi di opportunità.
+La probabilità di colpire e infliggere {g|Encyclopedia:DamageGlossary}danni{/g} è calcolata come per un normale attacco.
+
+### u000952
+Attacco di opportunità
+
+### u000953
+Il tuo personaggio ha appena messo a segno un <b>colpo critico</b> che infligge danni aumentati pari alla statistica di {g|Encyclopedia:CritChancesAndCritDamage}<b>danni critici</b>{/g} del personaggio.
+I <b>danni critici</b> dei personaggi sono per impostazione predefinita il 150% dei loro danni normali, tuttavia alcuni {g|Encyclopedia:Talent}talenti{/g}, effetti e {g|Encyclopedia:Ability}abilità{/g} possono aumentarli.
+Alcune armi hanno una propria statistica di <b>danni critici</b>, che viene sommata al valore totale della statistica del personaggio durante l'attacco.
+
+### u000954
+Colpo critico
+
+### u000955
+Il tuo personaggio ha perso i sensi: le sue {g|Encyclopedia:HitPoints}ferite{/g} sono state ridotte a 0!
+Il personaggio non può più partecipare al combattimento né essere rianimato in alcun modo. Riprenderà i sensi dopo la battaglia e riceverà un {g|Encyclopedia:Traumas}trauma{/g}, che può essere curato riposando sulla nave o in certi altri luoghi adatti al riposo.
+
+### u000956
+Privo di sensi
+
+### u000957
+Attenzione! I compagni possono essere feriti dai tuoi attacchi a {g|Encyclopedia:BurstAttacksGlossary}raffica{/g} o dagli {g|Encyclopedia:AreaOfEffect}attacchi ad area{/g}.
+Per evitare il {g|Encyclopedia:FriendlyFire}fuoco amico{/g}, tieni d'occhio la traiettoria dei colpi e l'area d'effetto degli attacchi ad area e degli attacchi a raffica in mischia.
+
+### u000958
+Fuoco amico
+
+### u000959
+Prima di compiere un'azione in combattimento puoi valutarne l'efficacia con un ologramma.
+Clicca {mouse_icon|LeftMouse} sul campo di battaglia per collocare un ologramma in quel punto. Seleziona azioni e {g|Encyclopedia:Ability}abilità{/g} per vederne i risultati previsti. L'azione verrà mostrata come se fosse usata dalla posizione dell'ologramma, per permetterti di valutare se hai scelto una posizione efficace per l'azione che intendi compiere.
+Clicca di nuovo {mouse_icon|LeftMouse} per confermare la tua scelta. Clicca {mouse_icon|RightMouse} o premi il tasto [ESC] per annullare.
+
+### u000960
+Puoi usare l'ologramma per valutare l'efficacia delle azioni che intendi compiere in combattimento prima di eseguirle.
+Clicca {mouse_icon|LeftMouse} su qualsiasi casella accessibile del campo di battaglia per collocarvi l'ologramma del personaggio. Seleziona un'{g|Encyclopedia:Ability}abilità{/g} o un attacco a {g|Encyclopedia:SingleRangedAttacks}colpo singolo{/g} per vederne il risultato previsto. L'azione verrà mostrata come se fosse usata dalla posizione dell'ologramma, per permetterti di valutare se hai scelto una posizione efficace per l'azione che intendi compiere. L'ologramma ti permette anche di vedere se il nemico sarà nella tua {g|Encyclopedia:LineOfSight}linea di vista{/g} dopo il tuo spostamento nella casella selezionata.
+Clicca di nuovo {mouse_icon|LeftMouse} per confermare la scelta ed eseguire l'azione selezionata. Clicca {mouse_icon|RightMouse} in qualsiasi punto del campo di battaglia o premi il tasto [ESC] per annullare.
+
+### u000961
+Ologramma
+
+### u000962
+Tutti i combattenti agiscono a {g|Encyclopedia:Turn}turni{/g} e il loro ordine è determinato da un tiro di iniziativa. L'ordine dei turni è mostrato sul lato sinistro dello schermo dal basso verso l'alto: il personaggio in fondo agisce per primo, poi quello sopra di lui, e così via.
+

@@ -1,0 +1,780 @@
+### u065759
+"Sedetevi ora, Domin'{name}, e ascoltate. Che la cerimonia dell'intreccio abbia inizio." {n}Con una lama finemente affilata, Kibellah incide un intricato simbolo sul pavimento. Poi estrae un piccolo fagotto avvolto in una pergamena impregnata d'incenso e gli dà fuoco.{/n}
+
+### u065760
+{n}Percepisci un lieve sorriso sotto la maschera funeraria. Kibellah ti porge la coppa e comincia a tracciare con il dito il fondo, sussurrando una preghiera:{/n} "Guardate ora, Domin'{name}. Che cosa scorge il vostro occhio veggente negli schemi convergenti del sangue?" {n}Richiama la tua attenzione sui simboli che ha tracciato.{/n}
+
+### u065761
+"Come desiderate. Allora sarò oltre la portata dell'eco della vostra volontà." {n}Mentre le dita di Kibellah compiono il gesto di commiato dei cultisti della morte, ti sfiora per caso la spalla. Una scossa ti percorre il corpo, abbagliandoti i sensi, e per la sorpresa rovesci la coppa rituale. Il sangue si allarga sul pavimento in uno strano disegno.{/n}
+
+### u065762
+{n}Nel sangue vedi immagini mutevoli: un ragno che tesse una fine ragnatela, ombre sfocate che potrebbero essere uno sciame di ratti del vuoto oppure un segugio infuriato, lame incrociate, una carta dei {g|Encyclopedia:ImperialTarotGlossary}Tarocchi dell'Imperatore{/g}... Ma non appena il tuo sguardo si sofferma su una di esse, la realtà filtra attraverso le forme fluide.{/n}
+
+### u065763
+{n}Kibellah ti fissa intensamente, poi estrae un'ampolla di liquido scarlatto e lo versa nella coppa.{/n} "Il sangue di una dozzina di martiri, mescolato alle loro lacrime, santificato dalle loro preghiere in punto di morte e raccolto al loro ultimo respiro. Questo artefatto è ben lungi dall'essere potente quanto il sangue del Domin, ma poiché vi rifiutate di offrire il vostro... dovrebbe bastare perché il rituale abbia inizio."
+
+### u065764
+{n}Risponde stizzita,{/n} "Non macchiatevi le labbra con simili sospetti. Non siamo né {g|Encyclopedia:PsykerGlossary}streghe né maledetti stregoni{/g} — siamo i Suoi devoti, e per il nostro vero servizio siamo così ricompensati. Questa non è arte psichica profana, ma la benedizione dell'Imperituro, concessa ai filatori del Bloodspun Web. Un sottile filo di parentela spirituale che lega i destini dei Domini a quelli delle loro ombre."
+
+### u065765
+{n}Il teschio sogghigna benevolo.{/n} "State imparando a vedere ciò che si nasconde dietro il guscio familiare. Continuate a esercitarvi e, tra qualche anno, saprete scorgere la verità anche a occhi chiusi."
+
+### u065766
+"Il vostro spirito verrà con me nelle camere del propulsore al plasma mentre il vostro corpo resterà immobile. Se l'Imperituro vi concede la Sua grazia, udrete ciò che odo io, vedrete ciò che vedo io. Penserete i miei pensieri come fossero vostri. Ma se mi griderete qualcosa, se mi darete un ordine, non lo sentirò. Solo le increspature della vostra mente potranno raggiungermi attraverso il filo sinuoso."
+
+### u065767
+"Chi segue il filo della Rete non combatte per rabbia, ma con una mente fredda come la pietra. Tuttavia, la rabbia può diventare un'arma potente nelle mani di un castigatore. Io... capisco, Domin'{name}. Accetto la vostra benedizione."
+
+### u065768
+"Sono il vostro scudo. La vostra ombra. La vostra arma. I vostri nemici non troveranno altro che vendetta nello stretto abbraccio delle mie lame."
+
+### u065769
+"Non c'è ritorno per chi ha sfidato {mf|il Signore|la Signora} dell'Arca, per chi ha barattato l'ardua via del servizio con la dolcezza di false promesse... Almeno, non di norma. Ma ricorderò le vostre parole, Domin."
+
+### u065770
+{n}Il dolore lascia il posto a un bruciore mentre Kibellah ti afferra la mano e la stringe sopra la coppa rituale. Ma anche questo nuovo fastidio viene presto sostituito, stavolta da un sordo torpore e dal debole calore del sangue che sgorga dalla ferita aperta.{/n}
+
+### u065771
+"Con il nostro sangue, con la nostra volontà, fileremo una ragnatela scarlatta, simbolo della caccia. Che annunci la rovina della nostra preda." {n}Kibellah ti mette il pugnale in mano e senti all'improvviso quanto siano diventate pesanti le tue palpebre. Il battito del cuore rallenta nel petto. Le sue parole indugiano, poi ti invadono la mente come un diluvio. L'odore denso dell'incenso ti avvolge e ti fa girare la testa.{/n}
+
+### u065772
+"Perché l'intreccio avvenga, dovete prima espandere la mente, vedere l'invisibile, udire l'inudibile. Chi vive e muore secondo i Precetti della Rete brucia spesso essenze sacre, e il vostro corpo non vi è ancora abituato, Domin'{name}. La vostra mente tenta di afferrare i suoi nuovi confini. Non resistete. Respirate a fondo. Imparate."
+
+### u065773
+{n}Kibellah può chiamarlo come vuole, ma {d|Encyclopedia:CharGen_Psyker}i tuoi sensi{/d} raccontano un'altra storia. Un sottile filo di connessione psichica si è teso tra le vostre menti. È troppo debole per permetterti di vedere o sentire attraverso la coscienza di un altro, eppure... è troppo forte per essere ignorato come insignificante.{/n}
+
+### u065774
+"Ungetemi con la vostra benedizione, Domin'{name}, e che la cerimonia dell'intreccio abbia inizio." {n}Il volto di Kibellah si sfoca davanti ai tuoi occhi. Per quanto ti sforzi di mettere a fuoco e dissolvere la visione, al posto del suo viso vedi una maschera funeraria, un teschio spezzato con orbite vuote.{/n}
+
+### u065775
+"Presto il vostro spirito potrà seguirmi. Ordinerò ai servitori di portare il vostro corpo nelle vostre stanze, dove nessuno vi disturberà. Attendete in silenzio e al sicuro. Per me, la caccia è iniziata."
+
+### u065776
+"Presto il vostro spirito potrà seguirmi. Attendete in silenzio e al sicuro nelle vostre stanze. Per me, la caccia è iniziata."
+
+### u065777
+{n}I passi di Kibellah si spengono, sciogliendosi nella stessa impenetrabile oscurità in cui si estingue la tua coscienza.{/n}
+
+### u065778
+L'imboscata contro Nemesite si è conclusa in un bagno di sangue che ha lasciato morti molti tutori dell'ordine. La Maestra d'Armi è stata costretta a ridurre temporaneamente il numero di pattuglie nel modulo dei motori, il che ha causato disordini tra l'equipaggio.
+
+### u065779
+Trappola scattata
+
+### u065780
+Kibellah ha usato il proprio corpo per proteggere il suo Domin dal colpo di Nemesite, riportando una grave ferita.
+
+### u065781
+Io sono il vostro scudo
+
+### u065782
+"Interi ranghi di guerrieri hanno temuto lo sguardo del Domin. Le ribellioni sono appassite al cenno della {rt_mf|sua|sua} mano. Voi non siete guerrieri. Non reggerete il {rt_mf|suo|suo} sguardo. Ricordatelo."
+
+### u065783
+[Percepisco l'odore che aleggia sulla folla]
+
+### u065784
+[Osservo meglio Furnace]
+
+### u065785
+"Chi di voi ha osato definire ingiusto il giudizio del Lord Capitano? Esigo di vedere l'accusatore."
+
+### u065786
+"Siete già dei rivoltosi in tutto tranne che nel nome, e poi vi chiedete perché non vi sia stata accordata fiducia?"
+
+### u065787
+"Dovreste essere grati di essere stati benedetti sia dalla fatica sia dalle ferite. Chi sareste senza? Nient'altro che plebaglia inutile."
+
+### u065788
+[Penso a Domin'{rt_name}]
+
+### u065789
+"La morte vi reclamerà tutti, ma non oggi — a meno che non siate davvero smaniosi di incontrare il suo abbraccio."
+
+### u065790
+[Snudo una delle mie lame] "Volete morire? Giuro che chiunque segua gli ammutinati perirà in questo giorno!"
+
+### u065791
+[Uso il mio coltello da lancio per fendere a vuoto il volto di Rapier] "Chiudi la bocca, eretica."
+
+### u065792
+[Rivolgo i pensieri a Domin'{rt_name}]
+
+### u065793
+"Il Domin si prende cura di tutti, perché tale è il {rt_mf|suo|suo} fardello. Ma {rt_mf|egli|ella} non può salvare ognuno."
+
+### u065794
+"Le vostre parole sediziose sono state udite e non saranno dimenticate. Con la presente castigo questo compartimento per i suoi pensieri profani."
+
+### u065795
+[Rivelo le mie lame] "Cercate di sfidarmi? Potete provarci."
+
+### u065796
+[Non voglio ascoltare]
+
+### u065797
+[Ma la sua voce non risuona nei miei pensieri]
+
+### u065798
+[Guardo Rapier negli occhi]
+
+### u065799
+[Percepisco il fetido tanfo della blasfemia]
+
+### u065800
+[Mi appello a Domin'{rt_name} a gran voce e con urgenza]
+
+### u065801
+[Fermo la giustizia sommaria della folla]
+
+### u065802
+[Metto le mie lame al lavoro]
+
+### u065803
+[Osservo in silenzio i nemici dell'Imperituro perire]
+
+### u065804
+"Sauerback! Monteg! Assistetemi!"
+
+### u065805
+"Fermi! State commettendo tradimento!"
+
+### u065806
+[Resto salda e non oppongo resistenza]
+
+### u065807
+[Mi perdo nella danza del sangue]
+
+### u065808
+[Sento la rabbia che scorre in questi poveri disgraziati]
+
+### u065809
+{n}I laici premono da ogni lato, spingendo e urtandosi. I loro volti sono in fiamme per il terrore e la rabbia, e un'energia violenta ribolle nella massa dei corpi. Questa forza sarà difficile da contenere — la gente spaventata è gente pericolosa. La caccia doveva andare diversamente, ma tale è la volontà dell'Imperituro.{/n}
+
+### u065810
+"Loro hanno l'onnipotente manganello. Voi avete solo la fonte dell'energia che alimenta l'intera nave. Perché non dovrebbero darvi per scontati? Ve lo meritate, vigliacchi!" {n}Il suo strillo ripugnante cola come veleno sui volti sudati, che si stringono lentamente sempre più vicino.{/n}
+
+### u065811
+{n}Inspiro a fondo e qualcosa di stordente, nocivo e dolciastro mi turba i sensi. Non è un odore comune, ma qualcosa di sottile e... fetido. Porta con sé lo stesso tanfo di Rot.{/n}
+
+### u065812
+{n}Volti deformi e musi bestiali. Tanfo e saliva che schizzano da bocche spalancate. Occhi fissi, pugni serrati, capelli ritti... Mi soffocano con la loro massa, premendo, pretendendo, lamentandosi, protestando... Sono brutti nella loro offesa e, come tutti gli offensori, bramano di essere puniti.{/n}
+
+### u065813
+{n}La folla si avvicina e Furnace grida a squarciagola,{/n} "Sentite? Non hanno niente da dire! Persino loro sanno che abbiamo ragione!"
+
+### u065814
+{n}Forte. Pesante. Mani enormi, i cui colpi sono da temere. Un gran ventre che è diventato simbolo del suo successo. Lui non patisce la fame, quindi non la patiranno nemmeno quelli che lo seguono. Un capo potente, riconosciuto da tutto il branco.{/n}
+
+### u065815
+{n}Rivolgo i pensieri a {rt_mf|lui|lei}, perché è il suo popolo quello che mi sta davanti. Che cosa farebbe {rt_mf|egli|ella}, {rt_mf|colui|colei} il cui filo ungo con il mio sangue?{/n}
+
+### u065816
+{n}La folla ammutolisce quando la sacra promessa di morte ricorda loro quanto sia preziosa la vita.{/n}
+
+### u065817
+{n}Di fronte alla lama, ogni forza e ogni autorità sono state cancellate dai suoi lineamenti. La folla guarda con orrore colei per cui, solo pochi istanti prima, era pronta a morire. Hanno visto con quanta facilità il suo potere è stato rovesciato e sono presi dalla paura.{/n}
+
+### u065818
+{n}Si fanno immobili, come se una lastra di ghiaccio si fosse formata sulla superficie agitata di una cisterna d'acqua. Nessuno osa essere Colui il cui Nome viene Pronunciato. Nessuno osa lasciare la folla e perdere la protezione dell'anonimato.{/n}
+
+### u065819
+{n}Le mie parole li spaventano — li feriscono — perché sono giuste. E questo fa gonfiare ancor più la loro rabbia.{/n}
+
+### u065820
+"Perché vi sorprendete? Forse gli ufficiali ci hanno mai trattati diversamente?" {n}Una nuova voce, ruvida come carta vetrata, squarcia il brusio della folla. Il suo proprietario è stracciato e sporco, e uno scintillio febbrile gli arde negli occhi. Le sue parole infiammano le menti della gente, come la putredine che si nutre di una ferita. Rot grida con scherno,{/n} "Perché avete paura di loro, ma loro non hanno paura di voi!"
+
+### u065821
+{n}Nessuno di loro è intriso di corruzione, e perciò la dolcezza della trasgressione li inebria ancora. Le loro menti sono rapite da quanto si sono avvicinati al proibito. Non meritano un'esecuzione immediata... non ancora. Ma meritano di essere salvati? Perché salvarli, poi?{/n}
+
+### u065822
+{n}Mi rivolgo a {rt_mf|colui|colei} che comanda queste persone e che possiede l'autorità di giustiziare e graziare. Devo forse ascoltare i suoi pensieri?{/n}
+
+### u065823
+{n}Ma il sussurro dell'Imperituro non mi abbandonerà.{/n}
+
+### u065824
+{n}Farò la mia scelta.{/n}
+
+### u065825
+"{rt_mf|Lui|Lei} si preoccupa solo dei {rt_mf|suoi|suoi} leccapiedi!" {n}La bile che schizza dalla bocca di Rot sfrigola nelle menti degli operai come acido. Li sta bruciando fino in fondo.{/n}
+
+### u065826
+"Esatto! Fatevene una ragione, feccia! Loro non hanno paura di voi!" {n}La voce di Rot sembra fuori luogo nel silenzio sospeso, suona estranea, priva di forza. La parola della punizione ha riportato un brandello di ragione nelle menti degli operai, perché tutto è come dovrebbe essere. All'insolenza è seguita la punizione. Il mondo ha di nuovo senso e non fa più paura.{/n}
+
+### u065827
+"Vedete! Non vedono l'ora di ucciderci e noi non abbiamo ancora fatto niente! Non hanno paura di noi!" {n}La bile che schizza dalla bocca di Rot sfrigola nelle menti degli operai come acido. Li sta bruciando fino in fondo.{/n}
+
+### u065828
+"Non commetteremo ribellione, ma non ci lasceremo nemmeno massacrare da dei furfanti. La legge e l'Imperatore sono dalla nostra parte!" {n}Una giovane donna si fa avanti, snella e flessuosa come uno stocco.{/n} "Se vogliono schiacciarci con la paura della morte, che ci uccidano: servirà solo a dimostrare la nostra rettitudine!" {n}Il richiamo squillante è un comando, che si imprime nei loro cuori. Il fetido tanfo del sacrilegio quasi mi fa cadere in ginocchio.{/n}
+
+### u065829
+{n}È fragile, ma c'è in lei una forza, un'autorità, data per scontata e compresa da tutti. È chiaramente pronta a comandare, con intere legioni disposte a morire per fanciulle come lei, belle e risolute. Non porta alcuno stendardo in mano, perché lei stessa è lo stendardo.{/n}
+
+### u065830
+{n}La folla puzza di tradimento in fiore. Scendo fino alla sua radice e comprendo che cosa rifiuta così la Sua volontà: il Suo sacro privilegio è sotto attacco. Egli solo sceglie chi può compiere il viaggio fino a Lui, ma questi tre... istigatori sono determinati a prendere questa decisione da soli, trascinando con sé nei fuochi della violenza le anime di tutti coloro che li circondano.{/n}
+
+### u065831
+{n}Ma il frastuono intorno a me soffoca i miei stessi pensieri e mi impedisce di concentrarmi sulla sua immagine.{/n}
+
+### u065832
+{n}La folla non risponde. Non mi sentono. La sacra promessa di morte non li commuove più, perché sono caduti sotto l'incantesimo del nemico.{/n}
+
+### u065833
+{n}Il sangue versato diventa il punto di non ritorno. La folla esplode in grida. Non mi sentono più, perché il nemico li tiene in pugno.{/n}
+
+### u065834
+{n}Un grido roco si leva sopra le loro teste: "Abbattete gli eretici!" In pochi istanti, la turba infuriata comincia a lacerare, colpire e calpestare i tre sediziosi, riducendoli a una massa di carne e ossa. Questo è sbagliato! Mi servono vivi!{/n}
+
+### u065835
+{n}La folla è troppo esasperata, stordita dalla propria furia. I pugni si alzano e si abbassano, ogni volta con più sangue addosso.{/n}
+
+### u065836
+{n}È troppo tardi. La folla è troppo esasperata per temere altra violenza. Ha sete di sangue, e quelli che ferisco urlano di estasi, gloriandosi nella loro agonia.{/n}
+
+### u065837
+{n}Le mie parole sono sommerse dal ruggito di uomini in cerca di uccidere. Cerco quelli che si erano offerti di assistermi, ma non si trovano da nessuna parte.{/n}
+
+### u065838
+{n}Tutto finisce in fretta e nel sangue. Questa carne delicata non può reggere la furia di chi ha compreso di essere quasi stato mandato al patibolo.{/n}
+
+### u065839
+{n}Mi circondano, minacciosi, puntando le dita, imprecando. Non osano colpire, non ancora... Ma già la loro enorme mole mi opprime, mentre l'odore di sangue nell'aria si fa più denso a ogni minuto.{/n}
+
+### u065840
+{n}Non ne posso più. Le lame nelle mie mani cantano e il sangue schizza su volti attoniti. Ho finito di parlare e di esortare — danzo soltanto sul filo che ho filato. Elargisco morte e ferite benedette. Intravedo il volto spaccato di Rapier e il ventre aperto di Furnace. La mano mozzata di Rot cade ai miei piedi e il suo proprietario fugge ululando. Danzo e respiro, così liberamente!{/n}
+
+### u065841
+{n}Non mi sentono più. Non possono, perché il veleno della disobbedienza ha riempito completamente le loro menti.{/n}
+
+### u065842
+{n}La folla avanza, sempre più forte. Il respiro mi si fa corto, le ossa scricchiolano. Qualcuno mi urla in faccia... Sopporto il tanfo.{/n}
+
+### u065843
+"Pensano forse di poter nascondere la {d|Encyclopedia:CharGen_DH_Shame}vergogna{/d} del loro {rt_mf|padrone|padrona} dietro simili minacce?" {n}La bile che schizza dalla bocca di Rot sfrigola nelle menti degli operai come acido. Li sta bruciando fino in fondo.{/n}
+
+### u065844
+{n}Quell'odore allettante e sfuggente di rabbia... È più di un tanfo. È uno strumento. L'arma dell'abietto trio, con cui influenzano le menti dei laici. Inebriandone invisibilmente le menti!{/n}
+
+### u065845
+{n}Una voce si leva sopra le altre, la voce di un {g|Encyclopedia:Technomat}tecnomate{/g} barbuto e corpulento, bassa come il rombo di una fornace. Furnace sa di sudore e di sacri unguenti. Non ha paura, finge soltanto. Sotto il brivido del terrore, sento eccitazione.{/n} "Meritiamo forse di essere giustiziati, fratelli e sorelle? Non abbiamo forse faticato con il sudore della fronte? Non siamo forse caduti per gli scatti di spiriti macchina infuriati? Perché ci chiamano ribelli? Perché veniamo puniti?" {n}Le parole di Furnace fanno ribollire ancora di più la folla.{/n}
+
+### u065846
+{n}Ma c'è qualcos'altro mescolato alla loro giusta indignazione, qualcosa che li schernisce, li eccita, li fa infuriare. Qualcosa di immondo, sospeso nell'aria. Aberrazione.{/n}
+
+### u065847
+{n}La fiamma arde alta, perché al suo cuore c'è combustibile in abbondanza. Queste persone hanno accumulato molti rancori. I tutori dell'ordine sono crudeli con loro, perché credono che la paura estirpi il tradimento. Gli ufficiali li disprezzano, perché i loro abiti e le loro mani sono sporchi. I quartiermastri li derubano e trattengono ciò che spetta loro, perché il loro clan non è abbastanza forte da avanzare pretese. Sono vulnerabili. I loro cuori sono vulnerabili. L'Imperituro ci comanda di filare una rete per catturare tali cuori prima che precipitino nell'abisso del tradimento. E così, io sto filando la rete.{/n}
+
+### u065848
+{n}Magro e scheletrico, Rot mi guarda in cagnesco con la bocca spalancata. È un nessuno che non ha niente. Il suo corpo si è consumato per la malattia. Alle sue mani mancano cinque dita. Il suo destino è segnato. E questo lo rende convincente: tutti sanno che non ha nulla da guadagnare per sé, e dunque nessun motivo di mentire. La sua povertà è la sua armatura.{/n}
+
+### u065849
+{n}Sono impudenti arrivisti che si sono posti al di sopra di Lui... e al di sopra di me, la Seconda Filatrice del Bloodspun Web, Sua prescelta serva. La consapevolezza di tale audacia mi brucia l'anima stessa.{/n}
+
+### u065850
+{n}Finalmente, scorgo un barlume di comprensione e di disponibilità ad ascoltare sui loro volti pallidi. Indico Furnace, Rot e Rapier, e so che non servono parole, perché la folla parla per me:{/n} "Traditori!"
+
+### u065851
+"Non siamo guerrieri. Siamo gente comune! E non ci lasceremo intimidire da un {d|Encyclopedia:CharGen_Commissar}Commissario{/d} in pensione!" {n}La voce di Rot sembra fuori luogo nel silenzio sospeso, suona estranea, priva di forza. L'immagine dei manifesti gela il cuore della folla: una persona si può uccidere, ma l'incarnazione vivente della punizione è invulnerabile. Tutti i presenti sanno che la loro vana battaglia è già persa.{/n}
+
+### u065852
+[Che cosa mi dirà l'aspetto dei sopravvissuti?]
+
+### u065853
+[Flaming Voice e Steel Mistress sono ancora vivi?]
+
+### u065854
+[Che cosa possono rivelarmi questi cadaveri?]
+
+### u065855
+[È giunto il momento del passo successivo]
+
+### u065856
+[Traggo l'inizio della Stesa]
+
+### u065857
+[Traggo il cuore della Stesa]
+
+### u065858
+[Traggo la fine della Stesa]
+
+### u065859
+[La sofferenza scaccerà tutto ciò che affligge il labirinto]
+
+### u065860
+[La preghiera mi restituirà la concentrazione]
+
+### u065861
+[Io... non resisterò]
+
+### u065862
+{n}Non è andata come avevo pianificato. L'odore di sangue indugia nell'aria come il tanfo di una sconfitta imminente.{/n}
+
+### u065863
+{n}Due corpi giacciono scomposti davanti a me. Ho reciso i loro fili. Il terzo blasfemo è riuscito a fuggire, ma anche la sua mano staccata giace sul pavimento. Carne inutile.{/n}
+
+### u065864
+{n}Si rannicchiano negli angoli, terrorizzati dalla mia danza di sangue. Non pensano più alla ribellione, solo al filo delle mie lame.{/n}
+
+### u065865
+{n}Si rannicchiano negli angoli, vergognandosi della propria sottomissione. Hanno cercato di convincersi che il sangue versato così stoltamente li avrebbe assolti, ma... sanno che non basta.{/n}
+
+### u065866
+{n}I loro fili non sono ancora stati recisi. Mi accorgo con stupore che sono in piedi vicino a me. Flaming Voice rimprovera furiosamente tutti quelli che si erano uniti da poco alla rivolta, mentre Steel Mistress tuona come una sirena, agitando il maglio e minacciando punizioni. Ora sono inutili alla caccia.{/n}
+
+### u065867
+{n}Molto poco. Le deboli tracce delle vili mutazioni che hanno contorto i loro corpi. Il fetido tanfo di corruzione che emana dalla loro carne. I cervelli deformi, dai colori strani, nei crani schiacciati, che hanno generato l'eresia della sedizione.{/n}
+
+### u065868
+{n}Un fremito percorre i fili della mia coscienza. È... Domin'{rt_name}? Posso davvero sentire {rt_mf|lui|lei} di nuovo, o me lo sto immaginando? Devo concentrarmi. Fisso le pozze di sangue e gli schemi che formano. Vedo... vedo... un labirinto. L'Imperituro mi ha dato un segno!{/n}
+
+### u065869
+{n}Un fiotto di sangue sgorga sul pavimento e le Sue carte dei Tarocchi giacciono sulla macchia color carminio. Tutti tacciono e mi fissano. Sto leggendo il presagio.{/n}
+
+### u065870
+{n}Il Segugio. Fisso la carta e la sua raffigurazione del veicolo corazzato dell'Astra Militarum che porta quel formidabile nome. La ricerca della verità, il sacrificio e la vittoria — questa sono io, e sono sulla strada giusta.{/n}
+
+### u065871
+{n}L'Arlecchino, capovolto. Menzogne, manipolazione, un gioco d'ombre che mi sbarra la strada. Ma è una menzogna smascherata — un inganno che deve essere rivelato.{/n}
+
+### u065872
+{n}Il Predicatore. Un uomo che porta un'idea e la proclama... Ma chi è? Nemesite? Uno dei suoi sostenitori? Qualcuno già ucciso o ancora vivo? La divinazione è poco chiara, e così traggo una quarta carta. È pericoloso chiedere di più all'Imperituro, ma devo sapere!{/n}
+
+### u065873
+"L'Imperituro ha manifestato il Suo presagio nel sangue dei traditori. La caccia iniziata si concluderà con lo svelamento di un grande inganno. Il nostro nemico è elusivo perché ha un potente alleato, uno che professa fede nell'Imperatore su questa nave. Il confessore di bordo è in combutta con Nemesite. Sarà lui la prossima preda."
+
+### u065874
+"Adalbert. Quel mascalzone! Preparerò una squadra di tutori dell'ordine per arrestarlo, ma mi serve l'autorizzazione del Lord Capitano. Una dimostrazione impressionante, Signora Kibellah."
+
+### u065875
+{n}I pensieri su Domin'{rt_name} affollano la mia mente, irrilevanti e dannosi in questo momento sacro. Non mi rendo conto subito di quanto siano estranei al qui e ora. Perché penso a {rt_mf|lui|lei}?{/n}
+
+### u065876
+{n}I pensieri su Domin'{rt_name} strisciano fuori dall'ombra e balzano sulla mia mente concentrata come un predatore. La graffiano, privandomi della concentrazione... Perché? Non devo pensare... a {rt_mf|lui|lei}! Non devo desiderare che {rt_mf|egli|ella} sia vicino a me in questo momento!{/n}
+
+### u065877
+{n}Il coltello rinnova i voti incisi sulla mia pelle. Ora non c'è dolore, perché sono oltre, ma il ricordo ancora mi schiarisce la mente.{/n}
+
+### u065878
+{n}Sussurro una preghiera silenziosa e una capsula imbevuta di stimolante benedetto mi scivola sotto la lingua. La nebbia dell'illuminazione nasconde Domin'{rt_name} alla mia vista.{/n}
+
+### u065879
+{n}L'immagine di Domin'{rt_name} appare alla vista e la contemplo per un tempo imperdonabile. Non sapevo che il legame tra noi sarebbe stato così... forte. Il Vizsier non mi ha avvertita di quanto potesse diventare importante e prezioso. Cedo alla mia debolezza e la confusione nella mia mente si attenua.{/n}
+
+### u065880
+{n}Dovrei pensare alla caccia, eppure i miei pensieri ora indugiano solo sul momento in cui mi presenterò di nuovo davanti a Domin'{rt_name} per raccontare a {rt_mf|lui|lei} ciò che ho visto. {rt_mf|Sarà orgoglioso|Sarà orgogliosa} di me? {rt_mf|Ne sarà compiaciuto|Ne sarà compiaciuta}? Questo è sbagliato.{/n}
+
+### u065881
+{n}Tre corpi spezzati giacciono davanti a me. La folla li ha dilaniati, ha strizzato via loro la vita e li ha resi inutili.{/n}
+
+### u065882
+{n}La mia mano trova la custodia sigillata in cui riposano {g|Encyclopedia:ImperialTarotGlossary}le Sue carte dei Tarocchi{/g}. È tempo di una divinazione nel sangue dei morti — mi rivelerà il nome del loro empio padrone.{/n}
+
+### u065883
+{n}L'Aquila. La Sua santa immagine mi osserva dall'interno della carta, e il mio cuore si fa gelido al pensiero di ciò che rappresenta.{/n}
+
+### u065884
+[So come finirà il filo di Whip]
+
+### u065885
+[Whip, che cosa possono rivelarmi le tue cicatrici?]
+
+### u065886
+"Nulla è irrilevante durante la caccia. Ditemi ciò che sapete e vi ascolterò."
+
+### u065887
+[Lascio che i tutori dell'ordine conversino. Terrò d'occhio chi ci circonda]
+
+### u065888
+[Inspiro un'essenza fatta di ceneri e sangue dei fedeli. Rischiara la mente, concedendole la grazia di leggere i Suoi segni]
+
+### u065889
+{n}Giorno dopo giorno, osserva i servi lavorare, consumando le ultime vestigia delle loro forze. E nei suoi occhi non c'è compassione. Sono semplicemente una risorsa che le è stato ordinato di sfruttare e poi scartare. Li odia perché li ritiene responsabili del suo dolore, delle sue ferite.{/n}
+
+### u065890
+"M-Maestra d'Armi! Tenente Godierda, pronta a presentare rapporto come richiest—"
+
+### u065891
+{n}Una vecchia ustione le si spande sul corpo in una macchia scarlatta. Uno sguardo di disprezzo. Un pesante manganello, coperto di sangue e simbolo di un potere sconfinato. Come una feroce frusta di cuoio, colpisce sia con la mano sia con lo sguardo.{/n}
+
+### u065892
+"E Motilda, presumo, sarebbe quel meraviglioso, per niente intimidatorio manganello che hai alla cintura? Direi che il nostro travestimento funziona, ma preferirei non passare i prossimi turni di guardia in infermeria per un malinteso." {n}Il suo respiro si è fatto più rapido. Flaming Voice scherza sempre quando è nervoso... o irritato. Forse i tutori dell'ordine lo fanno infuriare?{/n}
+
+### u065893
+"Abbiamo sigillato le uscite e ridotto l'aria nei condotti di manutenzione al minimo assoluto — ora non si resiste là dentro più di qualche minuto senza svenire. Quei bastardi non possono aver lasciato le camere del propulsore al plasma. Sono di sicuro qui da qualche parte." {n}Come serpenti, i servitori di Nemesite hanno cambiato pelle. La sciarpa rossa è solo un diversivo.{/n}
+
+### u065894
+"Abbassa la voce, d'accordo? Capisco il tuo desiderio di ingraziarti qualcuno, ma devi farlo così rumorosamente? La Signora Sauerback è già di suo un personaggio pittoresco e che attira l'attenzione."
+
+### u065895
+{n}Alcune delle persone che ho scortato dall'altra parte mi guardavano allo stesso modo. In passato non capivo, ma ora... I laici vedono dei mostri nei filatori che compiono il loro dovere verso l'Imperituro o nei tutori dell'ordine che compiono il proprio verso il Domin?{/n}
+
+### u065896
+"Un gruppo di operai con sciarpe rosse è stato visto nel compartimento subito dopo l'attacco al santuario. Il caposquadra ha dichiarato che stavano lavorando alla linea merci. Niente polvere da sparo sui vestiti, nessuna ferita fresca. Sono in troppi ad aver iniziato a indossare maschere rosse, e questo confonde le tracce. Ma poco dopo abbiamo trovato anche alcune sciarpe rosse e stracci insanguinati in uno dei trituratori."
+
+### u065897
+"Maestro dell'Infernus? M-Maestra d'Armi? Scusate se non vi ho riconosciuti, signora!"
+
+### u065898
+{n}Gli operai nascondono lo sguardo. Ma sento i mormorii che echeggiano nella baia. C'è una rabbia impotente nei loro cuori, rivolta a Whip, perché è l'incarnazione dello stesso ordine che disprezzano. Ma perché non capiscono che il tutore dell'ordine è tanto uno scudo quanto una frusta?{/n}
+
+### u065899
+{n}Un presagio da Lui... L'Imperituro mi concede di prendere Whip. I tirapiedi di Nemesite la temono. Quando la sua anima sarà consegnata all'Imperituro, i traditori si sentiranno invulnerabili. Usciranno strisciando dalle loro tane e cadranno nella mia rete.{/n}
+
+### u065900
+{n}Sento... il tocco della Sua volontà? L'Imperatore Imperituro desidera concedermi una rivelazione in quest'ora difficile. Che i Suoi Tarocchi mi mostrino la via.{/n}
+
+### u065901
+{n}Un'ondata di illuminazione spazza via i miei pensieri, trascinandomi in una trance benedetta. Le mie dita si muovono da sole sul sacro mazzo e traggono una carta. È il Martire. Vedo una lacrima di sangue scorrere sui pallidi lineamenti dell'immagine, che mutano, diventando il volto di Whip.{/n}
+
+### u065902
+{n}Il Domin ha vietato ai filatori di recidere i fili dei {rt_mf|suoi|suoi} sudditi. Dovrò andare contro la volontà del mio {rt_mf|signore|signora} per proteggere {rt_mf|lui|lei} e l'arca. E se seguirà una punizione... sono pronta ad accettarla. Il mio dovere verso il Domin viene prima della mia vita.{/n}
+
+### u065903
+"Che cosa guardate, pezzenti? Finite il turno, andate in caserma. Iniziate il turno, vi presentate al caposquadra e vi mettete al lavoro prima che Motilda venga a darvi una pacca sulla spalla."
+
+### u065904
+"Non azzardarti a rimproverare i miei tutori dell'ordine davanti a me." {n}Steel Mistress è chiaramente d'accordo con lui, ma l'orgoglio non le permette di ammetterlo. Teme di apparire debole — di perdere il controllo, il rispetto. E così facendo potrebbe rovinare la caccia.{/n}
+
+### u065905
+"Godierda, stiamo conducendo un'inchiesta. Rispondi alle domande della filatrice. Spero che il tuo rapporto sia utile."
+
+### u065906
+{n}Non posso recidere il filo di Whip con una lama, perché i servi mi riconoscerebbero come una delle filatrici e perderebbero ogni coraggio. Ma la scintilla degli spiriti macchina nelle camere del propulsore al plasma ha già reclamato molte vite. Userò questo, e così la rete sarà filata.{/n}
+
+### u065907
+[Il filo vibra. La preda lascia sempre una traccia. Forse non la vediamo, ma possiamo sentirla]
+
+### u065908
+[Esamino Steel Mistress e Flaming Voice]
+
+### u065909
+[Mi faccio avanti] "Sono qui."
+
+### u065910
+[La rete è tesa. Conosci il terreno di caccia]
+
+### u065911
+[Avanzo in silenzio. L'oscurità è nostra alleata. Fonditi con le ombre]
+
+### u065912
+"Infondere un falso senso di impunità. Convincerli che possono e devono agire adesso."
+
+### u065913
+"Intimidirli con una minaccia imminente."
+
+### u065914
+"Estrarre la scintilla che accenderà la fiamma."
+
+### u065915
+"Questo è il mio piano."
+
+### u065916
+{n}Aria stantia. Rumore opprimente. Il ronzio e il rombo dei macchinari soffocano ogni pensiero. Questo luogo risuona di tensione... È la potente energia che scorre nei cavi, o i lamenti degli operai si sono fusi in una cacofonia di sussurri indignati e preghiere disperate? Smarriti, impantanati in piccoli guai, incuranti del dovere, le loro voci cigolano come ricoperte di ruggine e i loro occhi sono offuscati dalla fatica infinita e dalla mancanza di luce qui sui ponti di lavoro della grande arca del Domin.{/n}
+
+### u065917
+{n}Assaggio l'aria. L'odore di tintura fresca con una sottile nota di scintille... È nuovo. Piacevole. I ponti superiori puzzano di lusso, ma qui mi sento a mio agio. C'è qualcos'altro... Ecco. Riconosco l'odore. Unguento, lho e carne bruciata. Proprio come dentro il santuario. È giunto il momento di filare la rete scarlatta.{/n}
+
+### u065918
+"Non mi sorprenderebbe se la cultista si fosse messa da sola sulle tracce di Nemesite. I filatori sono arroganti. Per loro non siamo che un'altra anima, un dono da offrire alla morte." {n}La voce di Steel Mistress è dura e fredda, come la sua volontà. Le leggo negli occhi che non le sono simpatica. È diffidente. E ha ragione di esserlo, perché serviamo il Domin, non l'una l'altra.{/n}
+
+### u065919
+"Ti ricorda qualcuno, per caso, Jocasta?" {n}Quest'uomo è innamorato del fuoco. Anche le sue parole suonano piene di fiamme mordaci, e a lui stesso piace giocare con il fuoco — fin troppo. Bisticciano di nuovo. La loro reciproca animosità potrebbe compromettere la caccia.{/n}
+
+### u065920
+{n}Per i laici, i due ora si distinguono a malapena dai comuni servi. In un mondo in cui status e privilegi sono definiti dall'apparenza, basta un pezzo di stoffa marcia per abbassare la propria posizione. Diventeremo segugi spettrali e seguiremo la pista senza attirare l'attenzione.{/n}
+
+### u065921
+"Potrete scambiarvi i convenevoli più tardi. Il Tenente Godierda è di servizio in questo compartimento. Le ho ordinato di raccogliere informazioni su tutti gli operai che portano sciarpe rosse e che hanno lasciato di recente la baia." {n}È inutile. La sciarpa rossa non è prova di colpevolezza, è soltanto un simbolo. Potrebbe essere una trappola. Devo trovarla. Osserverò la tutrice dell'ordine e chi a sua volta la osserva.{/n}
+
+### u065922
+"La tua tutrice dell'ordine non sa nulla della vita in questo compartimento. Te lo garantisco. Io ho una fonte migliore, un mio buon amico che sa molto sulle faccende delicate. Sarebbe facile farlo parlare: ha il terrore del dolore... e della morte." {n}Solo chi non ha fede teme la morte. Non mi fiderò di lui. Che si fidi lui di me, così che la sua fiducia diventi un laccio per la mia caccia.{/n}
+
+### u065923
+{n}L'ho già visto. In queste oscure profondità, le persone diventano creature fin troppo pronte a divorarsi a vicenda per guadagni mondani, piaceri fugaci o un'immaginaria libertà dagli obblighi nata dall'abisso del vuoto spirituale. L'Imperituro le punisce attraverso di me. Mutazioni disgustose, abominii, riflessi del vizio nascono in queste ombre, e io sarò la loro rovina.{/n}
+
+### u065924
+{n}Li sento acquattati nella folla. I miei nemici. Sono cauti. Devo trovarli e lasciare che credano alla loro fortuna. Allora getteranno le maschere, e io li abbatterò.{/n}
+
+### u065925
+{n}Per trovare il nemico, devo ascoltare. Inspira. Espira. Inspira. Il battito ritmico dei motori e delle pompe: questo è il respiro della nave. Questo è il battito del suo cuore. È strano che mi senta a casa tra gli operai dei ponti inferiori, che passano il tempo come morti viventi? {/n}
+
+### u065926
+{n}Il filo vibra.
+La rete è tesa.
+Avanzo in silenzio.
+Che la grande caccia abbia inizio.{/n}
+
+### u065927
+{n}Nel crepuscolo della camera, appena illuminata dalla luce tremolante delle candele, divento come loro — i servi smarriti, impantanati. Diventeranno alleati inconsapevoli nella mia caccia. La loro disperazione, la loro sete di sopravvivenza diventeranno strumenti al mio servizio.{/n}
+
+### u065928
+{n}Li zittisco con un gesto. I loro metodi di caccia non sono i miei. Ma prendo il granello di verità dalle loro parole e lo intreccio nel mio piano:{/n} "Dobbiamo provocarli perché facciano una mossa."
+
+### u065929
+{n}Mi guardano in silenzio. Non capiscono ancora, ma poco importa. Sono a caccia.{/n}
+
+### u065930
+{n}Questa tutrice dell'ordine che risponde a Steel Mistress è il simbolo dell'ordine e dell'obbedienza in queste camere. È... d'intralcio. Quando sparirà, i miei nemici crederanno che sia sicuro colpire... e sarà un errore costoso.{/n}
+
+### u065931
+{n}Flaming Voice fa affidamento su un chiacchierone, uno che non serba segreti e teme il dolore. Un recipiente inaffidabile è pessimo per custodire segreti, ma ottimo per versarli. Attraverso di lui, sussurrerò menzogne al nemico.{/n}
+
+### u065932
+"Eccola! Benvenuta nelle camere del propulsore al plasma, stimata santa assassina."
+
+### u065933
+{n}Il calore mi si diffonde nel petto. Mi piace pensare che sia il legame con cui l'Imperituro ha unito il mio destino e quello del Domin. Ci ha benedetti, e cacciamo come una cosa sola.{/n}
+
+### u065934
+{n}Passi? Ne arrivano due. Verso di me. Andature familiari. Sono i servitori del Domin.{/n}
+
+### u065935
+{n}Sono vistosi — i loro abiti attirano l'occhio. Lo sfrutterò: che diventino una minaccia incombente su queste camere. Che agitino le anime dei laici, nei cui cuori crescerà il timore della punizione.{/n}
+
+### u065936
+Scrivano dell'Alto Factotum
+
+### u065937
+Belinda Traufgold
+
+### u065938
+Nemesite
+
+### u065939
+Ufficiale medicae
+
+### u065940
+"Qualunque essere tu chiami al tuo fianco, io ho il Dio-Imperatore dal mio. Ciò significa che sei condannato."
+
+### u065941
+"Dunque, ci incontriamo finalmente. Alla fine scoprirò chi si è nascosto dietro il nome di Nemesite."
+
+### u065942
+"Ti conosco. Sei l'imbonitore della linea merci che intratteneva la plebaglia con giochi e musica."
+
+### u065943
+[Scambio un'occhiata con Kibellah]
+
+### u065944
+"Hai perso. La tua battaglia per la 'libertà' della nave è finita. Hai qualche ultima parola prima di morire?"
+
+### u065945
+"Kibellah, stai bene?"
+
+### u065946
+[Sorridi con disprezzo] "Oh, ti prego! Ti rode di essere nato un mostro, e ora vuoi dimostrare di essere buono quanto noi gente normale!"
+
+### u065947
+"L'uomo che ti ha cresciuto era altrettanto sciocco e incline a credere a una favola? Hai usato anche lui?"
+
+### u065948
+"Parli come un fanatico che vuole soltanto morire in nome di qualcosa di più grande di sé."
+
+### u065949
+"Sei solo un altro rampollo del culto dell'aberrazione che ho sradicato, non è vero?"
+
+### u065950
+[Metti trepidazione nella voce] "Vedo che non ti lasci intimidire. Che ne dici se... facessimo un accordo?"
+
+### u065951
+[Guarda il cadavere]
+
+### u065952
+"Kibellah, sei ferita?"
+
+### u065953
+[Ridi] "Capisco! Sei solo un altro arrivista chiacchierone che specula sulle menti della gente."
+
+### u065954
+"Così termina la lotta di Nemesite. "
+
+### u065955
+"Vile mutante. Sei un insulto alla forma umana."
+
+### u065956
+"Potrebbero esserci ancora aberrazioni genetiche a bordo. Abbiamo festeggiato la vittoria troppo presto."
+
+### u065957
+[Ghigna] "Sai almeno chi sono? Sei a conoscenza delle mie imprese? E ancora pensi che io possa essere {mf|ucciso|uccisa} da uno come te?"
+
+### u065958
+[Fingi una smorfia di dolore] "Hai ragione. Tutti sanno che sono... {mf|indegno|indegna} di stare al potere."
+
+### u065959
+[Fingi di cercare una seconda arma] "Dato che non hai paura di morire, ti offro una scelta. Ti uccido con la destra o con la sinistra?"
+
+### u065960
+[Assumi la posa da duello della nobiltà] "Non sarai il primo spaccone che rimetto al suo posto."
+
+### u065961
+[Accorcia le distanze e colpisci]
+
+### u065962
+[Scatena le energie dell'Empireo]
+
+### u065963
+"Questo eretico non era solo un sobillatore. Era un'aberrazione genetica, un mutante!"
+
+### u065964
+[Attacca] "Basta parlare. Muori!"
+
+### u065965
+"Delle tue sciocchezze non potrebbe importarmi di meno."
+
+### u065966
+[Alza la voce in tono minaccioso] "Hai mentito alla gente, l'hai condannata a morte, e per questo sarai punito. Parlerò a nome di coloro che hai portato alla rovina."
+
+### u065967
+"Sei solo un altro ammutinato di quart'ordine — non riesco nemmeno a ricordare quanti ribelli come te ho condannato a morte."
+
+### u065968
+"Arrenditi e sarai giudicato con equità per le tue colpe."
+
+### u065969
+[Preparati a combattere] "Sarai l'ultimo 'Nemesite' che questa nave vedrà. Me ne assicurerò io."
+
+### u065970
+[Fai un cenno a Kibellah e agite di concerto per ingannare il nemico]
+
+### u065971
+[Schiva il primo colpo e colpisci a segno]
+
+### u065972
+{n}Nemesite è accovacciato a terra e si stringe la ferita sanguinante sotto le costole. Il suo corpo torturato è ancora forte, e ogni suo atteggiamento esprime la volontà di continuare a combattere. La sciarpa rossa non gli copre più il volto, e il giustiziere ti sorride con i denti insanguinati.{/n} "Debole. Devo ancora restare impressionato."
+
+### u065973
+{n}Non più coperto dagli occhiali rotti, il cranio glabro è gonfio di enormi escrescenze. Tuttavia, la natura mutante del tuo nemico è tradita con altrettanta rapidità da una caratteristica ancora più inquietante: il terzo braccio che gli cresce dal torso. Osservi le sue dita svuotare con destrezza il tamburo di un revolver stub e ricaricarlo con proiettili freschi.{/n}
+
+### u065974
+{n}Kibellah emerge lì vicino come un'ombra, la lama che brilla minacciosa nella mano. Sibila piano, pronta a balzare:{/n} "È il tuo filo che si spezzerà oggi e nessun altro."
+
+### u065975
+{n}Lo sguardo di Kibellah è fisso su Nemesite, e lei non nota quello che le rivolgi. Forse siete in superiorità numerica, ma ciascuno di voi dovrà affrontare il ribelle da solo.{/n}
+
+### u065976
+{n}Il ribelle sbuffa e sputa un dente insieme a saliva striata di sangue.{/n} "Ancora non l'hai capito, vero? Nemesite non è una persona sola. È la vendetta e la rabbia che ribollono nei ponti inferiori della tua nave usurpata. È il servo che pulisce il tuo vaso da notte, il magazziniere la cui famiglia è stata massacrata dai tutori dell'ordine, il macchinista del treno a cui hanno dato mezza dozzina di tessere di razionamento in tre volte tanti turni. È il nome di chi ti ucciderà, prima o poi. Chiunque ci riuscirà sarà il vero Nemesite."
+
+### u065977
+"Non sei un po' troppo sicuro di te?" {n}Nemesite lancia un'occhiata al revolver stub che ha in mano, poi di nuovo a te.{/n} "Sei proprio davanti a me. La mia pistola è carica. Credo che questa melodia non sia ancora finita." {n}Sembra che il tempo si sia fatto viscoso e ti rallenti. Vedi la mano insanguinata di Nemesite alzare l'arma, e il tuo corpo reagisce da solo...{/n}
+
+### u065978
+{n}Kibellah ti osserva con la coda dell'occhio. Non pronuncia parola, ma nella sua postura, nell'espressione gelida del volto, nel lieve scintillio delle sue lame, leggi ogni movimento della danza mortale che sta per eseguire. Nel frattempo, il suo sguardo leggermente spostato ti dice che sta leggendo la tua tattica con altrettanta chiarezza. Nemesite non avrà scampo quando agirete all'unisono.{/n}
+
+### u065979
+"Conserva il tuo messaggio per il tuo falso dio, quando lo incontrerai, servitrice della morte. Sono lieto di potervi abbattere entrambi in un colpo solo." {n}La seconda pistola ora è puntata su Kibellah.{/n} "Giuro che la tua setta assassina cadrà insieme al Lord Capitano."
+
+### u065980
+{n}Non c'è tempo di cercare la tua arma! Afferri una pistola dalla fondina del tutore dell'ordine lì accanto. Quando punti la canna su Nemesite, lui sta già puntando la sua su di te, un ghigno malevolo sul volto. Le due nere bocche di fuoco si fissano a vicenda, e il mondo intorno a te si restringe a una sottile linea.{/n}
+
+### u065981
+"Io... devo riflettere sulla sua morte, Domin. Devo presentarmi davanti all'Imperituro e udire il Suo benedetto sussurro. Potremo discutere di ciò che è accaduto... dopo."
+
+### u065982
+"Non solo loro, come vedi. Ho anche cantato canzoni gloriose sulla crudeltà degli ufficiali, sull'insensibilità del Lord Capitano e sul coraggio dell'altruista Nemesite. Nessuno nota mai il patetico suonatore di flauto che porta sempre con sé qualche tessera di razionamento per corrompere i tutori dell'ordine, non è così? Nascondersi nell'ombra del tuo regno marcio è stato fin troppo facile."
+
+### u065983
+{n}Nemesite scrolla le spalle, con tutti e tre i bracci che si muovono con mortale eleganza.{/n} "Il destino mi ha ricompensato con la capacità di uccidere tre dei tuoi cagnacci in un colpo solo invece di due. Sono davvero benedetto."
+
+### u065984
+{n}Qualcosa nella tua voce fa svanire il ghigno di Nemesite e gli fa tremare la pistola... ma solo per un attimo.{/n} "Vedo che ti sei {mf|appropriato|appropriata} anche dei loro nomi e dei loro ricordi. Che adatto, usare le persone anche dopo la morte."
+
+### u065985
+{n}Gli occhi luminosi e familiari del suonatore di flauto dei ponti inferiori brillano di audacia. L'umile imbroglione che un tempo giocava brutti tiri agli sciocchi con l'aiuto del suo ratto ammaestrato ora ti rivolge un cenno di scherno.{/n} "Aspettavo questo incontro, Lord Capitano."
+
+### u065986
+"Bel tentativo." {n}Nemesite sogghigna con aria di sfida.{/n} "Ma i morti non hanno nulla che i vivi possano desiderare."
+
+### u065987
+{n}Ti pieghi di lato e vedi la bocca del revolver stub di Nemesite eruttare fuoco mentre il basso sibilo di un proiettile ti passa sopra la testa. Ora tocca a te!{/n}
+
+### u065988
+{n}Nemesite ride con scherno.{/n} "Libertà? Non m'importa nulla della libertà né delle masse disposte a offrire il collo al tuo giogo. Non morirò per questi disgraziati, ma pagherò volentieri con la vita la tua fine."
+
+### u065989
+{n}Nemesite ride, la voce piena di disprezzo.{/n} "Allora mettiti una pallottola in fronte. Era quello il loro obiettivo finale, dopotutto!"
+
+### u065990
+{n}Nemesite sibila di rabbia, senza accorgersi che la sua presa sull'arma si è spostata leggermente.{/n} "Un altro qualunque? Il mio nome è pronunciato in ogni baia di questa nave. Sono più di 'un altro arrivista'. Sono la tua condanna a morte!"
+
+### u065991
+"Allora morirai per mano dello stesso arrivista chiacchierone. Che carnefice adatto per una vittima così patetica."
+
+### u065992
+"No, Adalbert credeva in ciò in cui credo io. Era disposto a sacrificarsi quanto me. Lo disgustavi, e sono orgoglioso che sia riuscito a infliggere un tale colpo alla tua misera autorità."
+
+### u065993
+"La morte è ben poco come prezzo. Tutti muoiono prima o poi. Io ho dato alla mia idea molto di più! Le ho dato la mia vita — ogni giorno di cui ho memoria. E quell'idea è così semplice: tu e la tua gente dovete andarvene. Perire nel sangue e nel sudiciume che vomitate con tanto zelo, perché qualcosa di degno possa prendere il vostro posto. Qualcosa che sia gradito all'unico vero dio."
+
+### u065994
+{n}Una smorfia di rabbia gli contorce il volto.{/n} "Sì, e ti punirò per quella blasfemia — per ogni anima pura che hai epurato e per aver profanato il corpo della nostra guida. Una volta mi ha benedetto e mi ha chiamato a essere un Nemesite e a spianare la strada ai figli dell'Imperatore dalle Molte Braccia. Hai fatto l'impensabile. Pagherai qui e ora, perché i morti hanno fame di vendetta."
+
+### u065995
+{n}Il tono da mercante nella tua voce porta un sorriso compiaciuto sul volto di Nemesite. Il suo dito sul grilletto si rilassa leggermente.{/n} "Non si contratta con la vendetta, patetica creatura."
+
+### u065996
+"Se conoscessi anche solo un briciolo di verità sul mio dio, saresti già strisciante sul pavimento, a implorare una morte rapida!" {n}Assorto nella sua replica zelante, Nemesite non ti tiene più saldamente nel mirino della sua arma.{/n}
+
+### u065997
+"Significa solo che un giorno ucciderò anche lui."
+
+### u065998
+{n}Nemesite fa una smorfia e ringhia,{/n} "Se solo sapessi cosa stai dicendo... Sì, la mia carne è maledetta dall'imperfezione, il mio sangue porta miseria, perché potrei essere... Ma non capiresti, dal sangue immondo." {n}La canna dell'arma di Nemesite trema, ma la sua mente infiammata non se ne accorge.{/n}
+
+### u065999
+"Oh sì, mi dispiace di essere nato da sangue immondo — lo stesso miserabile sangue che scorre nelle tue vene e in quelle dei tuoi schiavi. Ma tale era il piano divino per me, e sono disposto a recitare la mia parte."
+
+### u066000
+{n}{mf|Assordato|Assordata} dal rombo della tua arma e dal pulsare del sangue nelle tempie, non senti lo sparo di Nemesite.{/n}
+
+### u066001
+{n}Tu e Kibellah vi muovete come una cosa sola e riuscite a confondere Nemesite con una manovra perfettamente cronometrata. Lui esita a sparare... ma tu no.{/n}
+
+### u066002
+{n}Ondeggi di lato, vedi la bocca del revolver stub di Nemesite eruttare fuoco e capisci che non mancherà il bersaglio. In questo ultimo istante non ti resta che attaccare.{/n}
+
+### u066003
+{n}Premi il grilletto, ma il tuo nemico è più veloce. La bocca del revolver stub di Nemesite erutta fuoco.{/n}
+
+### u066004
+{n}Tu e Kibellah vi muovete quasi come una cosa sola, ma la manovra manca di coordinazione e precisione. Senti uno sparo e attacchi il nemico con un grido furioso.{/n}
+
+### u066005
+{n}Kibellah inspira a fondo e ripulisce la lama dal sangue. La testa della leggenda vivente giace mozzata ai suoi piedi.{/n}
+
+### u066006
+{n}Quando il battito si calma e il respiro si regolarizza, ti rendi conto che il proiettile destinato a te... è in qualche modo mancato il bersaglio. Kibellah è in piedi accanto a te, ancora ansante mentre ripulisce la lama. Una macchia scarlatta si allarga rapidamente lungo il suo fianco, il sangue le inzuppa i vestiti e gocciola sul pavimento. La testa di Nemesite giace mozzata ai suoi piedi. È finita.{/n}
+
+### u066007
+"Non mi ha fatto del male." {n}Kibellah guarda il corpo di Nemesite con un'espressione incomprensibile.{/n} "Ma ci ha provato. Tale era la sua idea, e le è rimasto fedele fino all'ultimo respiro. La sua è stata... una buona morte."
+
+### u066008
+"Cosa? Lo sono, ma non importa." {n}Kibellah guarda con indifferenza il foro sanguinante nel fianco.{/n} "Questo proiettile non era destinato a recidere il mio filo, perché appartiene a voi."
+
+### u066009
+{n}Il corpo decapitato giace immobile sul ponte. Il taglio al collo ti fissa dalla cresta grottescamente distorta della colonna vertebrale. Il potere del mito popolare svanisce nell'aria come il fumo che si leva dalla bocca del suo revolver stub.{/n}
+
+### u066010
+{n}Kibellah raccoglie dal ponte la testa mozzata e ne osserva gli occhi spenti con una strana malinconia.{/n} "La lotta non sono le persone. La lotta sono le idee, e le persone ne sono soltanto i recipienti — i portatori della lotta."
+
+### u066011
+"E non ti importa se la vedi con i tuoi occhi. Tutto ciò a cui aspiri è essere un sassolino sulla strada." {n}Kibellah non chiede, proclama, mentre guarda Nemesite con una strana espressione.{/n}
+
+### u066012
+"Sì." {n}Per un breve istante lo sprezzante sarcasmo svanisce dalla voce di Nemesite.{/n} "E diventando un sassolino, sosterrò i piedi di tutti coloro che percorreranno questa strada verso il futuro."
+
+### u066013
+"Sia tu sia i tuoi sgobboni venite dalla stessa radice marcia. Ecco perché è così facile ingannarvi. Nemesite e la sua marcia contro l'autorità sono solo una storia fantasiosa da raccontare alla plebaglia, un comodo strumento per reclutare i torti e i diseredati. In verità, tutti voi dovete morire e fare posto a chi ne è davvero degno. Più puri, più pii, più coraggiosi di quanto voi siate mai stati."
+
+### u066014
+"Allora troveremo e uccideremo anche loro. Se respirano ancora, offendono l'Imperituro. Presto vi si porrà rimedio."
+
+### u066015
+{n}Cala un silenzio teso, perché tutte le parole sono state dette. Infine, Nemesite dice piano,{/n} "È ora. Addio, Lord Capitano." {n}Il sorriso acido scompare dal suo volto. Al suo posto, il suo atteggiamento si fa freddo, composto, calmo, con la smorfia indifferente di un teschio.{/n}
+
+### u066016
+{n}Il tempo si ferma per un istante, poi, come scagliati da un'onda d'urto, gli eventi balzano in avanti come schegge assassine.{/n}
+
+### u066017
+{n}La sala preparata per la cerimonia è disseminata di segni di battaglia. I corpi dei complici di Nemesite giacciono mescolati a quelli dei tutori dell'ordine.{/n}
+

@@ -1,0 +1,828 @@
+### u042280
+"Siete ben {mf|informato|informata} su come è organizzata l'Inquisizione, {name}. Sì, in origine il nostro arrivo nella Distesa di Koronus era dettato dalla necessità di combattere gli xenos. Ma c'è dell'altro: il culto ha un legame marginale con la mia specializzazione principale. Forse un giorno potrò rivelarvi tutta la verità, ma per ora vi chiedo di mostrare umiltà e pazienza."
+
+### u042281
+"Tuttavia il Culto dell'Alba Finale è qualcosa di più di una manciata di veggenti e indovini fuorviati. Hanno diffuso con astuzia i loro agenti in tutta la Distesa di Koronus, spargendo l'eresia tra la gente onesta dei mondi imperiali. C'è una certa strategia nelle loro azioni, che cambia ogni volta che ci avviciniamo troppo. E infine hanno forze militari sufficienti da far sì che le due navi che avevamo inviato sulle loro tracce venissero poi ritrovate sotto forma di relitti."
+
+### u042282
+"Non avreste dovuto usare la parola 'a volte'. Il bene dell'Imperium prevale sempre sulla vita dei suoi singoli servitori. A volte posso vacillare, ma questo parla della mia debolezza, non della generosità della mia anima. Molto dipende dalle decisioni prese dall'Inquisizione, a volte molto più di quanto un comune servitore del Trono possa vedere."
+
+### u042283
+{n}Gli occhi dell'Interrogatore si stringono.{/n} "Non ho detto che non vorrei potermi permettere un simile lusso. In effetti, nel profondo capisco perché avete agito così... Devo ancora estirpare da me la comprensione e l'accettazione, ma ci riuscirò."
+
+### u042284
+"Mettiamola così: potete pensare di me ciò che volete, ma il mio scopo non è ostacolarvi. Sono qui per aiutarvi nella lotta contro nemici di cui potreste non essere nemmeno a conoscenza. Avete la mia parola che darò ogni assistenza nello sradicare l'eresia germogliata sui mondi dei von Valancius mentre il loro {mf|padrone|padrona} era via — e che cercherò di avere più pazienza con i difetti meno gravi che i portatori del {g|Encyclopedia:Warrant}Mandato{/g} sono talvolta noti per avere."
+
+### u042285
+{n}L'Interrogatore fa una pausa. Poi sorride appena e aggiunge con un tono leggermente diverso,{/n} "Posso aggiungere che non abbiamo ancora avuto occasione di parlare in circostanze meno pressanti? Spero che potremo riprendere il discorso quando avrò portato a termine la mia missione."
+
+### u042286
+{n}Heinrix china il capo.{/n} "Grazie per aver trovato il tempo, Lord Capitano."
+
+### u042287
+{n}Heinrix trasalisce.{/n} "I {g|Encyclopedia:Drukhari}Drukhari{/g}... Uno dei rami degli {g|Encyclopedia:Aeldari}Aeldari{/g}, un'antica e crudele razza {g|Encyclopedia:Xenos}xenos{/g}. Quelle creature sono un terrore vivente per la gente comune che cade vittima delle loro incursioni, per il semplice motivo che le vittime non vengono uccise subito ma diventano invece i loro... 'giocattoli'. Proprio come voi e io abbiamo bisogno d'aria per sopravvivere, i Drukhari richiedono energia psichica nata dal tormento e dal dolore, che estraggono dai loro prigionieri con una perizia sovrannaturale."
+
+### u042288
+"Le loro navi, difficili da scambiare per qualsiasi altra, arrivano all'improvviso e non rilevate: le loro tecnologie di occultamento superano di gran lunga le capacità dei normali array di augur dell'Imperium. L'obiettivo delle loro incursioni non è mai conquistare un mondo o una nave — no, sono interessati solo a vittime fresche. Dopo aver riempito le stive di prigionieri vivi, scompaiono nella {g|Encyclopedia:Webway}Tela{/g}, una dimensione diversa che nasconde la loro più grande roccaforte. Commorragh. La Città Oscura dei Drukhari, da cui nessuno può sperare di fuggire."
+
+### u042289
+{n}Heinrix studia la vostra espressione.{/n} "Non so perché i Drukhari abbiano rubato il sole di Rykad e abbiano portato al compimento delle profezie del culto. Forse gli stessi xenos hanno fatto il gioco dei piani dell'{g|Encyclopedia:Chaos}Arcinemico{/g}. O forse le divinazioni di Aurora, in realtà, descrivevano le azioni dei Drukhari... C'è una sola cosa che posso dire con assoluta certezza: non esiste alcuna alleanza tra il Culto dell'Alba Finale e gli xenos. È semplicemente impossibile."
+
+### u042290
+"La crescente difficoltà nell'effettuare i salti warp ci danneggia, ma è improbabile che dia fastidio a chi pratica la sua vile stregoneria giorno dopo giorno." {n}Heinrix sospira.{/n} "Dopo gli eventi su Rykad Minoris sospettavo che il culto avesse fatto il nido nel dominio di Winterscale, ma gli ultimi rapporti indicano che è il vostro protettorato a dare rifugio agli eretici. Far parte del vostro seguito migliora le mie probabilità di avvicinarmi ai loro segreti."
+
+### u042291
+"Frammenti disgiunti di dati che alla fine si sono fusi in un unico quadro. Inoltre, non molto tempo fa una nave proveniente da quel mondo è arrivata a Footfall. I rapporti dell'equipaggio erano confusi e allarmanti, e mi hanno fatto temere una ribellione su scala planetaria."
+
+### u042292
+"Non ho dubbi che accadrà prima o poi, {name}. Dei Marine del Caos che si schierano con il culto sono... pessime, pessime notizie: con ogni probabilità sono rimasti lontani fino a poco fa, tirando i fili dei loro burattini da una rispettabile distanza. Questi traditori raramente si presentano da soli. Il meglio su cui possiamo contare è di dover affrontare un solo squadrone di Space Marine del Caos nella Distesa di Koronus e non un'intera compagnia."
+
+### u042293
+"Ricordo il nostro scambio. Per il momento, tuttavia, preferirei concentrarmi sulle mie responsabilità dirette." {n}Senti una nota di rammarico nella voce di Heinrix mentre scuote la testa.{/n} "Forse più tardi. Dopo Kiava Gamma."
+
+### u042294
+"Sarò franco: è improbabile che la risposta a questa domanda piaccia a nessuno dei due. Le macchinazioni del Caos di solito vanno oltre il semplice infliggere innumerevoli morti e distruzione. Se i loro piani giungessero a compimento, le conseguenze sarebbero molto più terribili. Uno dei sistemi della Distesa di Koronus è già perduto... Che l'Imperatore ci protegga dal veder ripetersi questa tragedia."
+
+### u042295
+"Il Caos cammina in punta di piedi, {name}. Il pericolo principale dei culti e delle sette segrete è che sono come semi. Possono restare sotto terra per decenni, al sicuro da ogni sguardo — finché non si presenta l'occasione di germogliare, crescere e portare frutti mostruosi. La comparsa di un culto su uno dei pianeti del Rogue Trader non significa che il capo della dinastia sia {mf|egli stesso|ella stessa} un adoratore del Caos. Detto questo, va notato che Theodora von Valancius era famosa per la sua interpretazione disinvolta delle libertà concesse dal {g|Encyclopedia:Warrant}Mandato{/g}."
+
+### u042296
+{n}Heinrix vi osserva con uno sguardo indagatore.{/n} "Una stirpe può essere macchiata dalle colpe degli antenati. Se è davvero così, è nel vostro interesse fare tutto il necessario per redimervi — e allora, forse, avrete la possibilità di salvare la reputazione della vostra dinastia."
+
+### u042297
+{n}Heinrix vi guarda attentamente.{/n} "È noto che la corruzione scorre nel sangue. La vostra propensione alle azioni ereticali è ancora da determinare — forse dallo stesso Lord Inquisitore."
+
+### u042298
+"Molto bene, la rotta è chiara. I miei ufficiali hanno altre questioni che richiedono attenzione immediata?"
+
+### u042299
+"Abelard, qual è la tua opinione? Con quale mondo dovremmo occuparci per primo?"
+
+### u042300
+"Che cos'è Kiava Gamma?"
+
+### u042301
+"Cosa devo sapere su Dargonus?"
+
+### u042302
+"Quali sarebbero le conseguenze di perdere i contatti con questi mondi?"
+
+### u042303
+"Attesto che Kiava Gamma è un mondo segnato dal patrocinio dell'{g|Encyclopedia:Omnissiah}Omnissiah{/g}. Per Sua grazia, i Manufactorum della colonia sono abitati da spiriti macchina devoti e operosi."
+
+### u042304
+"Ora possiamo essere certi che i problemi con le comunicazioni {g|Encyclopedia:Astropath}astropatiche{/g} nella Distesa di Koronus non sono una coincidenza. C'è una perturbazione del warp sul vostro cammino, Lord Capitano: sta inghiottendo i messaggi e sconvolgendo le rotte note. Questo significa che dovete localizzare al più presto i mondi chiave del protettorato dei von Valancius — parlo di Janus, Dargonus e Kiava Gamma. Tracciare nuove rotte per poterli raggiungere e ripristinare il controllo sarà il prossimo passo necessario."
+
+### u042305
+"Dargonus è il cuore e l'anima del vostro protettorato. È lì che si trovano le principali risorse amministrative e i magazzini, e anche il palazzo dei von Valancius. Se volete saperlo, è lì che accetterete pubblicamente il titolo di Rogue Trader. Dargonus è un importante centro amministrativo che gestisce la flotta cargo e tiene traccia delle finanze."
+
+### u042306
+"Lieto di essere stato utile."
+
+### u042307
+"È tutto, Lord Capitano. La nave e l'equipaggio attendono le vostre istruzioni e sono pronti a lasciare Footfall immediatamente, se lo desiderate."
+
+### u042308
+{n}Cassia fa un rapido gesto nervoso, sistemando l'ornamento sopra il suo terzo occhio.{/n} "Ho studiato i registri lasciati dal precedente {g|Encyclopedia:Navigator}Navigatore{/g} della nave. Volevo ricontrollare la rotta per Dargonus e ho scoperto che... non corrisponde a quella registrata nell'Atlante. È più di una lieve fluttuazione del {g|Encyclopedia:Warp}warp{/g}: la rotta è stata cancellata, non può più essere usata per viaggiare. A peggiorare le cose, ho cominciato a controllare i percorsi dell'Atlante, uno dopo l'altro, e ho visto la stessa cosa ovunque. Il warp ribolle di una {g|Encyclopedia:CicatrixMaledictum}tempesta sinistra{/g}, che esplode di colori vividi e urlanti. Non ostacolerà il nostro movimento... Ma tutta la conoscenza precedente è ormai del tutto inutile."
+
+### u042309
+"Un mondo privato del collegamento con i sistemi vicini e con l'infrastruttura della Distesa di Koronus può contare solo su se stesso — e le sue capacità sono spesso limitate. Per esempio, Janus non ha una flotta propria. Pirati, cultisti, eretici, xenos: chiunque potrebbe fare preda del pianeta indifeso. La perdita delle comunicazioni è una minaccia per la vostra posizione. Un {g|Encyclopedia:RogueTrader}Rogue Trader{/g} senza un protettorato a sostenerlo è un Rogue Trader che si indebolisce di giorno in giorno."
+
+### u042310
+"D'altra parte, mi preoccupano le voci su Kiava Gamma. Su Janus non ci sono problemi da molti anni, ma qualcosa non va affatto sul {g|Encyclopedia:IndustrialWorld}mondo industriale{/g} in questo momento. Il ritardo potrebbe costarci l'intero pianeta."
+
+### u042311
+{n}Heinrix tossisce piano.{/n} "La Signora Toliman ha omesso di menzionare che il Manufactorum di Kiava Gamma fornisce anche macchinari pesanti, dalle mietitrebbie ai sistemi e ai componenti per le navi."
+
+### u042312
+"Confido di non dover spiegare l'importanza del mondo capitale. Perderlo ci renderebbe lo zimbello delle altre dinastie. Inoltre, la perdita di cronache e registri contabili significherebbe una catastrofe burocratica... Quindi tutti e tre i sistemi sono ugualmente vitali per il protettorato. Spetta a voi decidere quale debba essere riportato all'ovile prima degli altri, Lord Capitano."
+
+### u042313
+{n}Abelard volge i suoi occhi duri su Heinrix.{/n} "Mostrate una conoscenza lodevole della capacità produttiva dei nostri mondi, van Calox."
+
+### u042314
+{n}Argenta fende l'aria con il taglio del palmo, furiosa.{/n} "Le tempeste warp sono nostre nemiche, proprio come gli eretici e i demoni. Peccato che non si possano disperdere con un lanciafiamme o un bolter!"
+
+### u042315
+"Lord Capitano, l'ispezione dei sistemi della nave è completa. I {g|Encyclopedia:TechPriest}Tecnopreti{/g} riferiscono che gli {g|Encyclopedia:MachineSpirit}spiriti macchina{/g} sono calmi e soddisfatti. Tutto è pronto per proseguire il viaggio... Tranne che c'è una questione di cui dovete essere {mf|messo|messa} al corrente."
+
+### u042316
+"La superficie di Janus è stata modificata in modo esteso affinché il pianeta potesse essere designato {g|Encyclopedia:AgriWorld}mondo agricolo{/g}. È una potente base alimentare, in grado di rifornire il protettorato in espansione ed esportare al tempo stesso provviste ai mondi esterni. Janus deve gran parte della sua prosperità alla Casata governativa dei Vyatt. Sotto la sua guida, il mondo è diventato anno dopo anno sempre più prospero, garantendo carichi e tasse e tenendo la forza lavoro strettamente sotto controllo."
+
+### u042317
+"Il {g|Encyclopedia:IndustrialWorld}mondo industriale{/g} Kiava Gamma è amministrato dalla Casata governativa dei Gaprak e rifornisce il vostro protettorato di rare risorse minerarie. Inoltre, il pianeta ospita un {g|Encyclopedia:Manufactorum}Manufactorum{/g} dell'{g|Encyclopedia:AdeptusMechanicus}Adeptus Mechanicus{/g} che lavora i materiali e li prepara per la spedizione."
+
+### u042318
+{n}Un lieve sorriso compare sulle labbra di Kibellah.{/n} "Se i senza fede decidono che i vostri mondi sono facili prede, è un bene. Allora troveremo abbastanza nemici nel vostro dominio. E li uccideremo. L'Imperituro ci guarderà con approvazione."
+
+### u042319
+{n}Abelard si accarezza la barba per qualche secondo prima di rispondere con esitazione:{/n} "Riscoprire il {g|Encyclopedia:AgriWorld}mondo agricolo{/g} fornirà al vostro protettorato qualcosa di cui nessuno dei vostri servitori può fare a meno: il sostentamento. L'importanza delle scorte di base non va sottovalutata. Guardate {g|Encyclopedia:Footfall}Footfall{/g} nel suo attuale stato pietoso."
+
+### u042320
+"La Maestra del Vox ha perfettamente ragione. Siete il Rogue Trader {name} von Valancius, l'erede di Theodora von Valancius, una delle donne più influenti da questa parte della {g|Encyclopedia:Maw}Fauce{/g}. Ma siete anche {mf|nuovo|nuova} negli affari di governo. In molti dubiteranno della vostra competenza e cercheranno di spartirsi il vostro protettorato per arraffarne un pezzo. È importante mostrare ai vostri potenziali alleati e nemici che avete la situazione in pugno. Ed è per questo che prima riprendiamo questi mondi perduti, meglio è!"
+
+### u042321
+L'elmo incrinato di uno xenos Aeldari ricorda la vittoria sui nemici dell'Umanità sul mondo agricolo di Janus.
+
+### u042322
+Un affascinante fiore dal delicato profumo del mondo agricolo Janus è solo uno dei simboli della liberazione del pianeta dalle grinfie degli adoratori del Caos.
+
+### u042323
+La maschera di Aurora, la profetessa dell'Arcinemico che predisse l'Alba Finale su Rykad Minoris.
+
+### u042324
+La lama di uno xenos Drukhari è uno dei trofei strappati ai corpi dei nemici durante la difesa di Dargonus.
+
+### u042325
+Un ordigno esplosivo disinnescato, creato da mani disumane e portato a bordo della nave dei von Valancius dagli incursori xenos.
+
+### u042326
+Un frammento di una macchina sacra che un tempo faceva parte del massiccio complesso manifatturiero del mondo forgia Eufrates II.
+
+### u042327
+L'orrenda testa di un diavolo d'acciaio distrutto dal Rogue Trader a bordo di una nave del vuoto corrotta.
+
+### u042328
+Questo ingranaggio sacro proviene dalle linee di produzione di Kiava Gamma.
+
+### u042329
+Un enorme artiglio xenos portato a bordo della nave del vuoto dal misterioso nascondiglio dei mercanti del Commercio Freddo.
+
+### u042330
+Un Talos Pain Engine. Creazione delle menti deviate degli Haemonculi Drukhari, contorti scultori di carne della Città Oscura di Commorragh.
+
+### u042331
+Il cadavere impagliato di uno Sslyth, una bizzarra xenobestia che un tempo era al servizio dei Drukhari.
+
+### u042332
+"Come trovi la vita sulla nave?"
+
+### u042333
+"Parlami della vita dei nati nel vuoto del mio equipaggio."
+
+### u042334
+"Grazie per il tuo servizio, Signora Toliman."
+
+### u042335
+"Il tuo aspetto è unico. Sei una nata nel vuoto, non è vero?"
+
+### u042336
+"È forse un brutto scherzo?"
+
+### u042337
+"Collegami al canale principale della nave. Desidero risollevare il morale del mio equipaggio."
+
+### u042338
+"Portami Jae Heydari. Ho una domanda per lei."
+
+### u042339
+"Allora... che ne pensi della trasmissione?"
+
+### u042340
+"Non si discuterà più di questo incidente. Dimenticate tutto ciò che avete sentito. Riceverò il rapporto e mi esilierò sul Ponte 18-Est. Sembra l'unico posto in cui ora possa trovare pace."
+
+### u042341
+"Dimmi, per favore, perché?"
+
+### u042342
+"Hai oltrepassato un limite pericoloso, Jae."
+
+### u042343
+[Sorridi] "Jae, tu... birichina. Avresti potuto avvertirmi."
+
+### u042344
+[Annuisci con freddezza] "Rapporto ricevuto, Signora Heydari."
+
+### u042345
+"Ti rendi conto che non è così che si fanno le cose sulla mia nave?"
+
+### u042346
+[Giustizia il contrabbandiere] "Per aver preso in giro il Rogue Trader, ti condanno a morte."
+
+### u042347
+"Da dove viene la parola 'nato nel vuoto'?"
+
+### u042348
+"Sembra che tu sia molto amica di Idira."
+
+### u042349
+"Come sta Ulfar? Ha ripreso conoscenza?"
+
+### u042350
+"Voglio che tu ottenga almeno qualche informazione per me."
+
+### u042351
+"Fa' che un servitore mi accompagni agli alloggi di Ulfar."
+
+### u042352
+"Lo andrò a trovare più tardi."
+
+### u042353
+"Ricordi qualcosa di insolito sui viaggi di Theodora? Le parole 'Epitaph', 'Incident N872-04' o 'tech-blight' ti dicono qualcosa?"
+
+### u042354
+"Toliman, non molto tempo fa ho partecipato a una festa in onore di Jae..."
+
+### u042355
+[Guarda il ponte di comando]
+
+### u042356
+"Maestra del Vox, è successo qualcosa?"
+
+### u042357
+"Vigdis, presenta il tuo rapporto sull'ultimo turno di guardia."
+
+### u042358
+[Alza la voce] "Maestra del Vox, datti un contegno. Presenta il tuo rapporto sull'ultimo turno di guardia!"
+
+### u042359
+"Quale trasmissione?"
+
+### u042360
+"Maestra del Vox, ho una domanda: è stato sabotaggio o negligenza criminale?"
+
+### u042361
+"E chi l'ha sentita?"
+
+### u042362
+"Ancora non capisco. Quale trasmissione?"
+
+### u042363
+"Non farlo mai più. Intesi?"
+
+### u042364
+"Come ti trattano gli altri sulla nave?"
+
+### u042365
+"Tra noi è finita. Sei andata troppo oltre."
+
+### u042366
+"Fuori dalla mia nave. Non voglio più vederti nel mio seguito."
+
+### u042367
+"Ma davvero, perché l'hai fatto? È una specie di feticismo?"
+
+### u042368
+"Dei membri di un culto che opera sulla nave hanno chiesto un incontro. Sono {mf|disposto|disposta} a riceverli."
+
+### u042369
+"Sono {mf|pronto|pronta} ad ascoltare la tua lamentela sul Proctor Anthar."
+
+### u042370
+"La domanda importante è perché."
+
+### u042371
+"Aspetta, perché proprio le kleppas dalle orecchie pendule?"
+
+### u042372
+"Vigdis, voglio una coppia di kleppas a bordo della nave!"
+
+### u042373
+"La tua 'confessione' ha lasciato perplesso l'iniziato. Trova un modo per cancellarla e la dimenticheremo."
+
+### u042374
+"Hai parlato di una processione di ringraziamento. Sono {mf|pronto|pronta} a riceverla."
+
+### u042375
+"Capisco. Torniamo agli affari."
+
+### u042376
+"Gli spiriti del vox ti hanno portato qualcosa di interessante di recente?"
+
+### u042377
+"Quali sono i compiti della Maestra del Vox?"
+
+### u042378
+"Il mio registro personale dice che il sistema vox della nave non funziona bene. Puoi spiegarmi?"
+
+### u042379
+"Hai mai lasciato la nave?"
+
+### u042380
+[Annuisci e vattene senza dire una parola]
+
+### u042381
+[Abbassa la voce con aria cospiratoria] "Le kleppas dalle orecchie pendule. La confessione."
+
+### u042382
+{n}Una donna magra e pallida spicca tra il resto dell'equipaggio. Un fitto fascio di cavi le esce dalla nuca e scompare sotto la veste cerimoniale, e dove dovrebbe esserci la bocca vedi la griglia di un vox che ronza piano. La donna ti vede e china il capo in un rispettoso saluto:{/n} "Come posso servirvi, Lord Capitano?"
+
+### u042383
+{n}Quando ti avvicini, Vigdis smette di regolare con precisione un altro vox e china il capo:{/n} "Lord Capitano, la nave mi ha informato del nostro imminente incontro."
+
+### u042384
+"Come desiderate, Lord Capitano."
+
+### u042385
+"Maestra del Vox Octavus Vigdis Surri Otta della dinastia Toliman, l'attuale Maestra del Vox al servizio a bordo della vostra nave. Secondo gli ordini del Siniscalco, ho assunto questo incarico subito dopo la scomparsa dell'illustre Maestro del Vox Septimus, che era mio nonno."
+
+### u042386
+{n}Reti di minuscole rughe compaiono agli angoli degli occhi di Vigdis — l'unico indizio che la Maestra del Vox sta sorridendo.{/n} "I nati nel vuoto raramente fanno amicizia, soprattutto nel seguito del capitano. Ma vedete, molti considerano Idira... diversa. Anch'io sono diversa. Abbiamo passato molto tempo insieme, a discutere di {g|Encyclopedia:Regicide}Regicidio{/g} davanti a un bicchiere di {g|Encyclopedia:Amasec}amasec{/g}."
+
+### u042387
+"Oh, una volta sì. Ed è stato terribile! Sembrava che l'enorme cupola blu sopra di me potesse andare in frantumi da un momento all'altro e cadere, e che le mie ossa sarebbero state schiacciate dalla gravità..." {n}Vigdis scrolla le spalle, cercando di scacciare l'ondata di ricordi.{/n} "La nave è la mia casa, Lord Capitano. E non la scambierei nemmeno con la ricchezza di cento mondi."
+
+### u042388
+"Il mio aspetto deriva dalla mia stirpe, generazione dopo generazione di persone che hanno trascorso l'intera vita nelle profondità di questa nave del vuoto. Né noi né i nostri antenati abbiamo mai lasciato la nostra casa, ma lo stesso si può dire di molti abitanti del milione di mondi dell'Imperium. Siamo abituati al silenzio del cosmo e alle voci della nave. Siamo migliaia, ma viviamo lontano dai ponti superiori del Lord Capitano e restiamo invisibili. Siamo i nati nel vuoto."
+
+### u042389
+{n}Il vox di Vigdis gracchia con una risata appena udibile.{/n} "Non lo sapete, Lord Capitano? Entrambi siamo nati nella fredda vastità dello spazio. Ma non esistono due storie uguali, così come non esistono due stelle uguali. Se volete, vi racconterò volentieri la vita dei nati nel vuoto a bordo di questa nave."
+
+### u042390
+{n}Il suo sorriso trionfante vale quanto una confessione — ecco l'orchestratrice della tua esibizione involontaria.{/n} "Shereen? Sono ansiosa di compiacerti." {n}L'espressione perfettamente innocente della contrabbandiera è ammirevole a modo suo.{/n}
+
+### u042391
+"Ehm... Abbiamo appena avuto una trasmissione su tutta la nave, Lord Capitano."
+
+### u042392
+"Come desiderate, Lord Capitano. Il resto del turno è stato... tranquillo." {n}La Maestra del Vox si inchina rispettosamente e gli ufficiali tornano al lavoro, bisbigliando tra loro.{/n}
+
+### u042393
+{n}Gli occhi di Vigdis si sgranano.{/n} "Straordinario, Vostra Signoria."
+
+### u042394
+{n}Jae abbassa lo sguardo con aria mansueta e tuba,{/n} "Non commetterò lo stesso errore due volte, shereen."
+
+### u042395
+"Perché no?" {n}Jae scrolla le spalle allegramente.{/n} "I tuoi servitori non sarebbero felici di sapere che il loro {mf|padrone|padrona} trascorre piacevolmente il proprio tempo libero?"
+
+### u042396
+"Che cosa? Sher—" {n}Jae è colta completamente di sorpresa, e non ha nemmeno la possibilità di difendersi. Il colpo letale fa rotolare il suo corpo sul ponte. Giace immobile come una bambola rotta, gli occhi vitrei fissi nello sconcerto.{/n}
+
+### u042397
+"Perché? Ti vergogni? Ti vergogni di me, forse? Vuoi tenere segreta la passione che ha intrecciato e unito i nostri cuori come una vite rigogliosa? Credo che i tuoi servitori l'abbiano trovata eccitante."
+
+### u042398
+{n}Jae finge un brivido e simula paura nella voce,{/n} "Sento che sta per abbattersi su di me una severa punizione. Ti prego di mostrare clemenza, shereen."
+
+### u042399
+{n}Prima che tu possa attivare il vox, uno stridio assordante di statica riempie l'aria, facendo scattare sull'attenti tutti a bordo. Ti schiarisci la gola e ti rivolgi all'equipaggio con un discorso esaltante, ma bisbigli e sguardi indifferenti sono l'unica risposta.{/n}
+
+### u042400
+"A parte questo incidente, non è accaduto nulla di degno di nota durante il turno, Lord Capitano." {n}A queste parole, la febbrile eccitazione che pervade gli ufficiali di plancia comincia a dissiparsi lentamente.{/n}
+
+### u042401
+"Cerca di evitare di trasmettere la sua punizione, qualunque essa sia."
+
+### u042402
+"Ah, quindi era questa l'espressione sui volti degli ufficiali. Felicità."
+
+### u042403
+{n}La Maestra del Vox annuisce docilmente e preme diversi interruttori sul dispositivo che tiene in mano.{/n} "Fatto, Lord Capitano."
+
+### u042404
+"Per noi i gemiti, gli scricchiolii e i mormorii della nave suonano come i ruscelli gorgoglianti e gli uccelli canori per chi vive sui mondi. Sentiamo la nave respirare, sappiamo che cosa sente e che cosa pensa. Siamo parte della nave così come essa è parte di noi. Svolgiamo numerose funzioni, e tra noi ci sono molti ufficiali. Alcuni mantengono l'ordine e prevengono gli ammutinamenti, altri fanno da pastori e sostengono l'equipaggio, e alcuni si dedicano a curare il corpo e lo spirito della nave."
+
+### u042405
+"Lord Capitano." {n}Esegue un inchino insolitamente profondo, probabilmente per mascherare la propria confusione.{/n}
+
+### u042406
+"Abbiamo un aspetto, un modo di parlare e di muoverci diversi da quelli degli abitanti dei mondi planetari. Il nostro stile di vita, le nostre tradizioni e le nostre stranezze spaventano queste persone proprio come l'oscurità del cosmo. Molti credono che portiamo sfortuna e, ahimè, è sui nati nel vuoto che ricade la colpa dei terribili fenomeni del warp durante i viaggi più lunghi."
+
+### u042407
+{n}Interpretare le emozioni della Maestra del Vox a partire da mezzo volto e da una voce modulata dal vox non è un compito facile, ma riesci a cogliere il sottofondo nelle parole di Vigdis. La Maestra del Vox non è semplicemente rattristata dalla rottura con Idira: ne è devastata.{/n}
+
+### u042408
+"Spero che troverà il buon senso e la lucidità per uscire dal luogo oscuro in cui si trova ora."
+
+### u042409
+"Perdonatemi, Lord Capitano. Non ho informazioni che possano interessarvi in questo momento."
+
+### u042410
+"Perché siamo i figli nati nel vuoto tra le stelle, che sia il grembo di una nave in viaggio, di un satellite orbitale o di una dimenticata stazione su un asteroide. La bassa gravità, i viaggi attraverso il warp e gli innumerevoli pericoli dei viaggi spaziali — tutto ciò che gli altri odiano e temono è per noi una seconda natura."
+
+### u042411
+{n}Ti rivolgi all'equipaggio con un discorso esaltante e senti la tua voce rotolare per la nave, raggiungendo persino gli angoli normalmente silenziosi dello scafo. Quando la trasmissione finisce, senti grida di approvazione in lontananza.{/n}
+
+### u042412
+"Vi porgo le mie scuse, Lord Capitano, ma simili questioni rientrano nelle competenze dell'Alto Factotum Danrok. Io sono più versata nelle comunicazioni vox che nei doni rari."
+
+### u042413
+"La maggior parte dei nati nel vuoto appartiene a grandi dinastie delle navi del vuoto che hanno la responsabilità di un certo aspetto della vita della nave. Da trecento anni, il ramo principale della dinastia Toliman produce i Maestri del Vox della nave. E la maggior parte dei nostri subordinati proviene dalle casate cadette della dinastia."
+
+### u042414
+"C'è altro che desiderate sapere, Lord Capitano?"
+
+### u042415
+"Subito, Lord Capitano." {n}Vigdis collega alcuni fili dalla parte posteriore della testa al sistema vox del ponte di comando principale e chiude gli occhi.{/n} "Un artefatto di simile descrizione è stato recuperato su Eurac V insieme agli effetti personali della Lady Navigatrice. Tuttavia nessuno conosce il suo vero valore o scopo — dopotutto, i gusti raffinati della Navis Nobilite sono ben lontani dalla comprensione di un popolano."
+
+### u042416
+"Sta meglio, Lord Capitano. Il chirurgo della nave è rimasto stupito dalla sua resistenza. L'illustre Lord Ulfar sta attualmente convalescendo nei suoi alloggi."
+
+### u042417
+{n}Vigdis esita prima di proseguire.{/n} "Diversi anni fa, uno sfortunato salto warp fece andare a male tutto il cibo a bordo. Quindici giorni dopo, un equipaggio affamato e furioso quasi massacrò tutti sui ponti inferiori, dandoci la colpa della sventura e sperando di rifornire le dispense con la nostra carne. Sarei stata uccisa durante l'ammutinamento se Idira Tlass non si fosse trovata al posto giusto nel momento giusto. Mi venne in soccorso, e la paura che quei furfanti avevano di lei era ancora più grande della paura che avevano dei nati nel vuoto."
+
+### u042418
+"Solo che Idira è cambiata dopo un certo... incidente, e abbiamo cominciato ad allontanarci. La morte del Lord Capitano Theodora l'ha fatta chiudere ancora di più in se stessa. Non so se Idira mi consideri ancora sua amica, ma un tempo eravamo molto, molto vicine. È un bene che io possa ancora badare a lei... a modo mio."
+
+### u042419
+"Potrebbe interessarvi sapere che un gruppo di ufficiali discuteva di una voce sinistra durante il pranzo. Si dice che di recente a bordo sia stata avvistata l'apparizione del Lord Capitano Theodora. Sì, avete sentito bene. Dicono che infesti i ponti, trascinando membri dell'equipaggio sviati nell'oblio. L'inquietudine si è diffusa per tutta la nave, poiché l'anomalia è stata segnalata in sezioni diverse, a volte distanti interi chilometri."
+
+### u042420
+{n}La Maestra del Vox si china più vicino a te.{/n} "Il Maestro Heinrix van Calox ha manifestato interesse per le nostre stazioni di comunicazione e le nostre reti vox poco tempo fa. L'Interrogatore sembra molto versato nelle questioni della tecnologia sacra... E la cosa mi preoccupa. Un uomo con le sue conoscenze e nel suo mestiere è in grado di piazzare discretamente i propri dispositivi nei nostri sistemi. Saremo vigili, Lord Capitano, ma dovreste cercare di essere più prudente anche voi."
+
+### u042421
+"Tutti i viaggi di Lady Theodora potrebbero essere considerati insoliti. Le sue odissee erano sempre audaci. Quanto alle parole che avete menzionato... Nessuna mi suona familiare, per quanto posso dire."
+
+### u042422
+"Tranne forse l''incidente'... Ricordo di aver incontrato questa parola nelle trasmissioni diverse volte. Credo che fosse ripetuta dall'ex Enginseer, quello che è morto durante la rivolta di Kunrad Voigtvir."
+
+### u042423
+"Se mai vorrete sapere quali preoccupazioni e timori nutre il vostro equipaggio, di cosa sussurrano i vostri sudditi nelle reti locali dopo i turni, e di cosa strepitano i loro capi nelle trasmissioni vox a onde corte, venite da me — soddisferò la vostra curiosità."
+
+### u042424
+"Lo descriveva come 'l'Incidente', qualcosa di davvero notevole. A quanto pare, a un certo punto del passato l'intera nave fu colpita da un massiccio guasto dei sistemi. Tutti i sistemi smisero di rispondere per un quinto di secondo. La maggior parte dell'equipaggio, me compresa dato che probabilmente ero a bordo in quel momento, non notò nulla di strano. Ma i Tecnopreti sono sensibili a certe cose."
+
+### u042425
+"È tutto ciò che posso dirvi, Lord Capitano. Vorrei poter essere di più aiuto."
+
+### u042426
+"Vostra Signoria desidera conoscere le circostanze del suo ritorno sulla nave? Posso assicurarvi che il ponte di atterraggio ha subito danni minimi. La Signora Heydari vi ha {mf|scortato|scortata} fino ai vostri alloggi, toccando piuttosto audacemente la persona del Rogue Trader, e in risposta ai tentativi dell'equipaggio di aiutarvi, voi vi siete {mf|sforzato|sforzata} di dimostrare la vostra padronanza di diverse imprecazioni efreet che, a vostro dire, la Signora Heydari vi aveva insegnato in precedenza."
+
+### u042427
+"Riguardo agli incidenti avvenuti su Footfall, il Liege Tocara ci ha già fatto sapere che le persone coinvolte non hanno alcuna pretesa nei vostri confronti e ringraziano Vostra Signoria per l'onore di aver assistito a come il Rogue Trader e la sua affascinante amante si divertono."
+
+### u042428
+{n}La Maestra del Vox ti sta guardando... in modo diverso. Persino la statica che proviene dall'altoparlante del vox sembra particolarmente forte e nervosa oggi.{/n}
+
+### u042429
+"Sì, {mf|signore|signora}, Lord Capitano! L'ultimo turno è trascorso senza incidenti... Almeno, nessuno che abbia messo a repentaglio la sicurezza della nave e del suo equipaggio. La situazione è sotto controllo."
+
+### u042430
+"Rapporto? Ehm, il mio rapporto... Lord Capitano, se desiderate ascoltare il mio rapporto, io vorrei..."
+
+### u042431
+{n}Una tensione inspiegabile ha afferrato non solo Vigdis, ma apparentemente anche il resto degli ufficiali. Restano immobili, con gli occhi incollati su di te.{/n}
+
+### u042432
+"C'è stata una trasmissione su tutta la nave mentre voi e la Signora Heydari vi stavate... rilassando. Cioè, c'è stata una trasmissione delle vostre attività di rilassamento."
+
+### u042433
+"Nessuna delle due, Lord Capitano. La trasmissione vox è stata avviata dall'interno dei vostri alloggi. Da qualcuno che... era presente lì. Suppongo che, se non siete {mf|stato|stata} voi, debba essere stata la Signora Heydari. Non sono autorizzata a interrompere simili trasmissioni, tranne..." {n}Una nota insidiosa si insinua nella voce di Vigdis, simile a una risatina soffocata.{/n} "...tranne nei casi in cui mettano esplicitamente a repentaglio la sicurezza della nave e del suo equipaggio."
+
+### u042434
+"La vita è stata piuttosto generosa con me, Lord Capitano. Sono la Maestra del Vox, e solo i migliori della dinastia possono diventarlo. In virtù delle mie capacità e della mia posizione, nessuno mi ha mai negato nulla. La nostra famiglia rivendica una sezione spaziosa come suo dominio. Mi piace anche fare lunghe passeggiate lungo i corridoi stretti e fiocamente illuminati della nave, ascoltando i suoni della sua attività, addormentandomi e svegliandomi al canto degli inni... E ammirando le stelle là fuori, naturalmente."
+
+### u042435
+{n}Vigdis si porta una mano al petto e dice con compassione,{/n} "Non avrei osato né pensato di deridere Vostra Signoria in modo così sconvolgente. Confesso che anch'io sono rimasta sbalordita da ciò che stava accadendo."
+
+### u042436
+"Tutti l'hanno sentita, l'intera nave."
+
+### u042437
+"Con l'eccezione del Ponte 18-Est. Il vox-relè lì era fuori servizio in quel momento." {n}L'osservazione noncurante di Ravor fa soffocare qualcuno nel misero tentativo di reprimere una risatina.{/n}
+
+### u042438
+"Quest'... impresa soddisfa le alte aspettative riposte nell'inviato del Dio-Imperatore sotto ogni aspetto!"
+
+### u042439
+"Voi mon-keigh siete straordinariamente creativi nel descrivere le vostre passioni e sorprendentemente sporchi e abietti nel metterle in atto."
+
+### u042440
+"Da padre di una famiglia piuttosto numerosa, posso assicurarvi che avete tenuto alto il nome della dinastia, Vostra Signoria."
+
+### u042441
+{n}Il commento di Danrok rompe la diga. Sul ponte scoppia un tumulto anarchico. I vostri ufficiali, che non sono spesso esposti a simili divertimenti, non riescono più a contenere la tempesta di emozioni che turbina dentro di loro.{/n}
+
+### u042442
+{n}Una risatina isterica proviene da un lato. Idira si tappa la bocca, ma non riesce a fermarsi.{/n}
+
+### u042443
+{n}Jae sfoggia un sorriso.{/n} "Dove sarebbe il divertimento, allora?"
+
+### u042444
+"Le ragioni emotive sono superflue quando sono presenti ragioni razionali. Le osservazioni mostrano che l'efficienza dell'equipaggio del ponte di comando è scesa di nove virgola due unità durante la trasmissione."
+
+### u042445
+"Lord Capitano..." {n}La Maestra del Vox è colta alla sprovvista dalla tua domanda. Le serve un momento per trovare le parole.{/n} "Il sistema vox funziona come previsto e nessun membro dell'equipaggio ha segnalato problemi di comunicazione... Permettetemi di controllare le impostazioni di calibrazione del sistema in vostra presenza per dissipare qualsiasi dubbio sulle sue prestazioni."
+
+### u042446
+"E sei d'accordo con questi due riconosciuti esperti di romanticismo, shereen?"
+
+### u042447
+{n}Cassia nota il tuo sguardo e si volta in fretta, rannicchiandosi come se cercasse di scomparire.{/n}
+
+### u042448
+"L'intera nave vi ha sentito mentre ve la spassavate con la Signora Heydari, Lord Cap'. Non ci sono stati risparmiati dettagli — i grugniti, i gemiti, i sospiri e tutte le altre attività non regolamentari."
+
+### u042449
+{n}Gli occhi di Jae si spalancano per lo stupore.{/n} "Non volevo offenderti, shereen. Era solo... un po' di divertimento. Ma se ti ha {mf|ferito|ferita}, accetterò umilmente la punizione più severa. Perdonami."
+
+### u042450
+"Certo, la prossima volta probabilmente ti inventerai qualcosa di nuovo."
+
+### u042451
+{n}L'equipaggio osserva in silenzio attonito. Alla fine Vigdis sospira con voce roca e borbotta a mezza voce,{/n} "Convocherò i servitori per ripulire il ponte di comando. A parte questo incidente, il turno è stato tranquillo."
+
+### u042452
+"Forse potrebbe interessarvi una trasmissione vox che ho intercettato non molto tempo fa, Lord Capitano. Il messaggio, accuratamente criptato, conteneva le coordinate di un sito di atterraggio su un certo pianeta, contrassegnato come 'carico raro'. Non sono riuscita a scoprire altro, ma credo che la cifratura fosse destinata a chi è... coinvolto in attività commerciali non autorizzate."
+
+### u042453
+{n}Jae si fa seria.{/n} "Voglio che sappiano che il loro {mf|padrone|padrona} ha scelto me, una contrabbandiera e una ladra. E voglio che sappiano che passiamo le notti insieme. Non avranno bisogno di bisbigliare alle nostre spalle una volta che conosceranno la verità. Mi piace essere la tua compagna e la tua amante, ma non sono un segreto imbarazzante da nascondere alla gente cosiddetta 'perbene'. Spero che tu non abbia problemi con questo, shereen."
+
+### u042454
+"Una moltitudine di navi esploratrici scandaglia instancabilmente la Distesa in cerca di nuovi giacimenti di risorse, ma purtroppo non tutte rappresentano gli interessi della dinastia von Valancius. Di tanto in tanto intercetto trasmissioni vox di navi che si aggirano nel vostro dominio in cerca di bottini facili. Nel Sistema di Sotto's Tomb è stato scoperto un asteroide grande quanto un piccolo pianeta, e i prospettori ritengono che sotto la crosta possa nascondersi una ricchezza di risorse."
+
+### u042455
+"C'è fermento sui ponti inferiori, Lord Capitano. I tutori dell'ordine cercano attivamente sobillatori ed eretici, ma la popolazione è estremamente insoddisfatta del trattamento severo. Molti maledicono Abelard, la cui firma segna gli ordini e nel cui nome viene perpetrata l'oppressione."
+
+### u042456
+"E... l'ultima questione per oggi: alcuni pellegrini di Footfall, accolti graziosamente a bordo, hanno riempito la mente dell'equipaggio di racconti su un mondo degli ascesi. Dicono che le preghiere su un mondo vicino alla stella fredda Cinerus Maleficum non siano cessate da diverse centinaia di anni. Affermano che il Dio-Imperatore in persona abbia scelto questo pianeta e abbia innalzato tutto il suo popolo alle Sue sale." {n}Vigdis tossisce sopra lo stridore del sistema vox.{/n} "Abbiamo soppresso queste voci per fare in modo che l'equipaggio non si distragga dai suoi compiti vitali. Ma forse potreste decidere di visitare questo pianeta, data la sua insolita reputazione."
+
+### u042457
+"Presumo abbiate sentito il mio messaggio confessionale," {n}risponde Vigdis, senza alcuna traccia di imbarazzo.{/n} "Desiderate parlarne?"
+
+### u042458
+"Stavo verificando i guasti dei dispositivi vox nel reliquiario della nave. La registrazione dei messaggi funziona ma la cancellazione no. Mi avete aiutato a stabilirlo. Grazie."
+
+### u042459
+"All'epoca non avevo nulla di cui pentirmi, così dettai un estratto di una vecchia lettera a mia madre. Come avete sentito, conteneva argomenti a favore del tenere a bordo le kleppas dalle orecchie pendule. Posso ancora recitarlo a memoria."
+
+### u042460
+"Citerò la risposta di mia madre: è impossibile. Vedete, la specie si è estinta diversi secoli fa." {n}La voce di Vigdis si fa appena un po' più calda.{/n} "Mi dispiace molto, Lord Capitano. Non ci sono kleppas da procurarsi."
+
+### u042461
+{n}Le dita sottili della Maestra del Vox sfrecciano tra centinaia di fili e cavi sul pannello di controllo. Azionando interruttori e girando manopole, impartisce comandi e controlla con metodo le linee di comunicazione con l'equipaggio su ogni ponte. Alla fine, accompagnata dal suono della statica, dal crepitio del vox e dal lampeggiare delle luci di segnalazione, la danza delle sue mani si conclude.{/n}
+
+### u042462
+"Sarà fatto, Lord Capitano! Desiderate discutere di altre questioni?"
+
+### u042463
+"Aspetta." {n}Lo sguardo di Kibellah, fino a quel momento pensieroso, si schiarisce improvvisamente.{/n} "Quindi non era una pratica comune? Pensavo fosse un rituale tradizionale dei ponti superiori. Anche se avevo i miei dubbi."
+
+### u042464
+"Forse sono questioni di tempi lontani, che solo il mio predecessore o un Siniscalco passato avrebbe potuto conoscere, oltre a Lady Theodora stessa. Ma mio nonno non ha mai menzionato nulla del genere, e io non ho mai conosciuto il vecchio Siniscalco."
+
+### u042465
+"Trasmetterò subito i vostri ordini, Lord Capitano."
+
+### u042466
+"Sono le orecchie e la voce di questa nave del vuoto. Supervisiono diverse dozzine di ufficiali e il triplo di personale di supporto. Riceviamo, inviamo, cifriamo e decodifichiamo tutti i messaggi in entrata e in uscita attraverso i canali interni ed esterni della nave, e ci assicuriamo inoltre che le comunicazioni siano limpide e che i vox-trasmettitori dell'equipaggio funzionino con la massima efficienza."
+
+### u042467
+"Tutto finito, Lord Capitano. Nessun problema rilevato. Il sistema funziona come previsto." {n}Studia il tuo volto in attesa della tua risposta.{/n}
+
+### u042468
+"Vivo per servire, Lord Capitano."
+
+### u042469
+"E come proponi di farlo?"
+
+### u042470
+[Mira e spara alla figura indicata da Argenta]
+
+### u042471
+"Sono oltre ogni salvezza. Lasciali andare."
+
+### u042472
+"Che cosa vuoi davvero? Salvarlo? O alleviare la tua coscienza? Dopotutto, è qui perché ha ascoltato i tuoi sermoni."
+
+### u042473
+"La tua unica possibilità di aiutarlo è sparargli e porre fine alla sua sofferenza. È ora o mai più."
+
+### u042474
+"Argenta, controllati! Vendicherai il suo tormento un altro giorno!"
+
+### u042475
+Sergente Vigastes salvato a Commorragh.
+
+### u042476
+[Mira e spara al motore] "Siate pronti. Dovremo agire in fretta."
+
+### u042477
+[Guardati intorno in cerca di un'arma a lungo raggio]
+
+### u042478
+{n}Segui lo sguardo di Argenta verso l'imbarcazione Drukhari che si innalza e i corpi che si contorcono inchiodati al suo fianco.{/n} "Quello è... Quello è il Sergente Vigastes! Lo riconosco, conosco la sua voce! {name}, aiutatemi! Dobbiamo salvare queste persone da questa tortura!"
+
+### u042479
+{n}Per qualche miracolo, il Sergente Vigastes è ancora vivo. I suoi fianchi e i suoi avambracci sono impalati sulle punte contorte che ricoprono la fiancata dell'imbarcazione, ma gli organi vitali sono intatti: i Drukhari sanno come prolungare la sofferenza delle loro vittime. Il resto di queste persone non è altrettanto fortunato. Alcuni si sono quasi dissanguati, mentre altri sono morti per il violento impatto.{/n}
+
+### u042480
+"Sono parole di chi è impotente! Devo... devo liberarlo da questo tormento! Deve esserci un modo!"
+
+### u042481
+{n}Argenta non esita più di un secondo prima di alzare l'arma e fare fuoco. La figura sussulta e si affloscia.{/n}
+
+### u042482
+"Deve esserci un modo! Non possiamo... Io non posso semplicemente restare qui a guardare!"
+
+### u042483
+{n}Risuona uno sparo — e la figura inchiodata al fianco della nave sussulta e si immobilizza.{/n}
+
+### u042484
+{n}Risuona uno sparo, ma il tuo bersaglio è ancora vivo, le sue grida sommerse dal rombo dei motori della nave.{/n}
+
+### u042485
+{n}Argenta si blocca e poi si volta verso di te. I suoi occhi sono colmi di rabbia, stupore e infinito dolore. Per un attimo il suo viso si contorce in una smorfia, ma poi china la testa e comincia a sussurrare parole di preghiera.{/n}
+
+### u042486
+"No!" {n}La sua voce diventa un grido lacerante.{/n} "Non così!"
+
+### u042487
+"Esaltato sia il Suo nome, santificato il Suo sacrificio, onorati i Suoi insegnamenti..." {n}Argenta mormora la preghiera a denti stretti, i pugni serrati dalla rabbia.{/n} "Commorragh annegherà nel sangue... Lo giuro..."
+
+### u042488
+{n}Uno dei Drukhari a bordo sogghigna sentendo le grida di Argenta. Suscitando un'ondata di acclamazioni approvanti, il Drukhari prende a calci uno dei corpi gementi, assaporando senza vergogna la propria intoccabilità.{/n}
+
+### u042489
+"Merda di grox!" {n}Jae lancia un grido soffocato.{/n} "Ho visto quei mostri xenos afferrare la gente per la collottola nelle strade. Hanno quasi preso anche me. È questo che sarebbe successo a me... se mi avessero presa...?"
+
+### u042490
+{n}Argenta esita per una frazione di secondo, come per confermare di non stare immaginando ciò che vede, poi si precipita dal sergente e lo solleva dai rottami. Preme sulle sue ferite prima di voltare la testa verso di te e sussurrare,{/n} "Grazie, {name}."
+
+### u042491
+{n}Tra i resti devastati sparsi per l'arena, noti un braccio mozzato che giace non lontano da te. Le sue dita rigide stringono una pistola. Con uno schiocco, liberi l'arma dalla presa mortale e la prendi per te.{/n}
+
+### u042492
+"Non credo che possano essere salvati, elantach. Vedo persino da qui quanto siano innaturalmente contorte le articolazioni e quanto siano mal recisi i tendini..."
+
+### u042493
+"Taci... Taci, spregevole xenos! Tutto questo è opera della tua gente!" {n}Argenta sibila con rabbia e stringe l'arma.{/n}
+
+### u042494
+{n}Yrliet guarda quasi con compassione.{/n} "L'unica salvezza che puoi dare agli sventurati è la grazia di porre fine alle loro sofferenze."
+
+### u042495
+"Impossibile..." {n}Abelard scuote la testa, guardando i prigionieri.{/n}
+
+### u042496
+"Nel portale, Vostra Signoria! Dobbiamo andarcene da qui!"
+
+### u042497
+"Vi prego... Finitemi..."
+
+### u042498
+"Il Commissario... Traditore..."
+
+### u042499
+"Una nave dovrebbe essere... in attesa... Una nave... in attesa..."
+
+### u042500
+Il mondo perde improvvisamente forza e certezza, tutto intorno a te sembra una scenografia e una finzione. L'orrore ti stringe il petto.
+
+### u042501
+I suoni si uniscono in un terribile ciclo che si ripete all'infinito, mescolandosi a un rumore stridente, diventando acuti e taglienti come i denti di una spada a catena e lacerandoti i timpani.
+
+### u042502
+"Addio, Vostra Signoria! L'Imperatore protegge!"
+
+### u042503
+"Nemici! Sono curioso! Voglio vedere com'è fatto il vostro interno!"
+
+### u042504
+"Perché così strano dentro? Aaargh! Uccidere!"
+
+### u042505
+"Dannata feccia xenos, vi porteremo con noi! Per l'Imperatore!"
+
+### u042506
+"Con me, presto! Nel portale!"
+
+### u042507
+"Buona fortuna, Commissario."
+
+### u042508
+"L'Imperatore riconoscerà il vostro sacrificio, Commissario."
+
+### u042509
+"Ho detto di ripiegare! È un ordine!"
+
+### u042510
+{n}Il Commissario, che si erge senza paura sul massacro, abbaia ordini ai combattenti mentre al contempo fa piovere fuoco con la sua pistola. Ti vede, volta la testa e grida, continuando a sparare,{/n} "Non è il momento, Vostra Signoria! Andate, vi copriamo!"
+
+### u042511
+"Così... tanto... oro..." {n}Cassia fissa con ammirazione i combattenti, come se non guardasse un massacro ma una liturgia.{/n} "È come se la Sua luce avesse squarciato l'oscurità di questo luogo, dissipando la tristezza nei cuori di questi uomini. Oh, quanto mi è mancata la fermezza di questi colori."
+
+### u042512
+"Neanche a parlarne. Dobbiamo tenere la posizione. È un ordine che ci siamo dati da soli. Tutti vogliono far pagare a quella feccia tutte le perdite e il dolore che hanno sofferto. E io faccio pagare a me stesso l'essere stato la feccia che ero. Forse l'Imperatore avrà pietà di me se almeno morirò da uomo perbene. E voi dovreste andarvene da qui, o il nostro eroismo sarà stato vano! Almeno una persona deve davvero fuggire da questa fossa di disperazione!"
+
+### u042513
+"Grazie, ma tenetevi pure quella fortuna. Dopotutto, abbiamo l'Imperatore con noi!" {n}Con un ultimo occhiolino, il Commissario si volta di nuovo verso le sue truppe e urla,{/n} "{d|Encyclopedia:Ch3_ArenaFaithEnding}Per l'Imperatore{/d}!"
+
+### u042514
+"Grazie, Vostra Signoria. Sto solo facendo il mio dovere di ufficiale disciplinare dell'Imperium. Mettetevi in salvo!" {n}Con un ultimo occhiolino, il Commissario si volta di nuovo verso le sue truppe e urla,{/n} "{d|Encyclopedia:Ch3_ArenaFaithEnding}Per l'Imperatore{/d}!"
+
+### u042515
+"Peccato che non sia un vero Commissario che obbedirebbe! No. Restiamo. L'Imperatore non ama i codardi. Se vi rende le cose più facili, consideratelo solo un'altra delle mie bugie, per forza d'abitudine. Questo sono io, una canaglia fino alla fine."
+
+### u042516
+{n}Kibellah fissa il Commissario, gli occhi sgranati per la sorpresa.{/n} "Siete tornato alla fede, pronto ad accogliere la morte... Che una cosa simile accada... in un luogo così maledetto..." {n}Serra i denti e alza il mento.{/n} "Andate e bagnatevi nel sangue dei nemici dell'Imperituro. Che Egli accolga la vostra anima rinata tra le Sue mani."
+
+### u042517
+{n}Indugiando per un momento, Ulfar fa l'occhiolino al Commissario.{/n} "Sei una canaglia senza paura. Va bene, puoi avere un verso nella mia saga. Addio e combatti con valore, così che il Padre di Tutti possa udire le urla dei tuoi nemici."
+
+### u042518
+{n}Una linea furiosa solca la fronte di Solomorne, ma l'ondata di rabbia si ritira prima di poter salire.{/n} "Qualunque siano state le vostre azioni passate, ammetto che ora state compiendo una scelta onorevole. Riconosco il vostro diritto di scegliere la vostra sentenza — per la Lex Imperialis, che questo atto sia tenuto in conto quando affronterete il vostro giudizio finale."
+
+### u042519
+[Percepisci dove andrebbe la polvere]
+
+### u042520
+[Libera la polvere]
+
+### u042521
+[Non aprire il sacchetto]
+
+### u042522
+{n}Il sacchetto di polvere comincia a brillare e a pulsare tra le tue mani. Sazio delle morti e dei tormenti delle tue vittime, ora brama di essere liberato.{/n}
+
+### u042523
+{n}Senti che il contenuto del sacchetto è attratto dal soppressore psichico sopra l'arena. La volontà racchiusa nella polvere vuole distruggere lo xenodispositivo.{/n}
+
+### u042524
+{n}Una nuvola di ceneri empie esce dal sacchetto e si scaglia verso il soppressore psichico. La polvere forma una tempesta di corruzione attorno al dispositivo, rosicchiandone implacabilmente la struttura. Una ragnatela di crepe si estende lungo tutto l'obelisco fluttuante e, poco dopo, esso va in frantumi. Senti risate avide e ringhianti provenire da ogni dove e da nessun luogo — presagio dell'imminente calamità di cui sei responsabile.{/n}
+
+### u042525
+{n}Prima che tu possa riporre il sacchetto, esso si sfalda e filtra tra le tue dita sul pavimento dell'arena in un mucchio di scaglie incolori. Il potere che vi era nascosto è perduto per sempre, il suo scopo rimasto incompiuto.{/n}
+
+### u042526
+"Allora, xenos, sei pronto a servirmi di tutto cuore e a saldare il tuo debito?"
+
+### u042527
+"Chiamami 'mon-keigh' ancora una volta e questa alleanza è finita."
+
+### u042528
+"Non ho alcuna voglia di morire per il divertimento degli spettatori. Immagino che nemmeno tu."
+
+### u042529
+"Ora ci porteranno alla Voragine. Parliamo in un posto tranquillo — la tana degli Shrieker andrà bene."
+
+### u042530
+"Allora, mon-keigh..." {n}Marazhai ti guarda con una strana espressione, come se faticasse a comprendere ciò che è appena accaduto.{/n} "Sei davvero {mf|deciso|decisa} a fuggire dalla Voragine, vero? Ambizioni audaci per carne da arena."
+
+### u042531
+{n}Un voltare del capo, un'occhiata rapida, un cenno sottile — noti una conversazione senza parole che si svolge tra alcuni dei tuoi compagni.{/n}
+
+### u042532
+{n}Fa una smorfia.{/n} "Farò... uno sforzo per non farlo."
+
+### u042533
+"Mai. Evaderò da quest'arena, eviterò i carnefici del Culto... e farò pagare a Yremeryss e Nazrakhei ogni istante della mia umiliazione."
+
+### u042534
+"Sì, abbiamo molto di cui discutere. Ci andrò ora. Non farmi aspettare."
+
+### u042535
+{n}Marazhai scuote il sangue dalle sue lame e si volta verso di te, la furia della battaglia ancora ardente nei suoi occhi. Un attimo dopo, le sue labbra si piegano in un sorriso.{/n} "Bene, bene. Non si può che restare ammirati dai capricciosi giri del destino, Rogue Trader."
+
+### u042536
+{n}Yrliet alza l'arma, con una rabbia incontenibile che le lampeggia negli occhi.{/n} "Farò ciò che l'elantach non ha avuto il coraggio di fare..."
+
+### u042537
+"A volte dobbiamo tutti fare i conti con circostanze che rendono qualsiasi... qualsiasi alleato utile..." {n}Abelard cerca di convincere se stesso, guardando lo xenos con indignazione e sgomento.{/n}
+
+### u042538
+"Ah, cugina! Sei riuscita inspiegabilmente a ottenere il perdono di {mf|colui|colei} che hai tradito e spinto tra le braccia di Commorragh, e ora intendi andare contro la sua volontà uccidendomi? La tua lodata moderazione Asuryani ti viene meno... come già in passato."
+
+### u042539
+{n}Yrliet esita per qualche istante... e si rimpicciolisce sotto lo sguardo beffardo del Drukhari.{/n}
+
+### u042540
+"Non coltivare illusioni, piccola creatura." {n}Gli occhi di Marazhai si stringono in due fessure di un turchese scuro.{/n} "Basta che ti tratti quasi da pari accettando un'alleanza. Cercati altrove uno xenos da compagnia."
+
+### u042541
+"Per voi è facile parlare, Amic'Abelard. L'Imperituro vi chiamerà presto, ma per quanto tempo il resto di noi dovrà tollerare questo... alleato..." {n}Kibellah sospira, imbronciata.{/n}
+
+### u042542
+"Presto... Come, prego? No, no, non dite nulla, Signora Kibellah. Non ne voglio sapere."
+
+### u042543
+[Guarda Marazhai negli occhi] "La mia offerta è ancora valida. Considereresti di cambiare schieramento?"
+
+### u042544
+[Attacca] "Risponderai di tutto ciò che hai causato!"
+
+### u042545
+[Attacca] "In nome del Dio-Imperatore!"
+
+### u042546
+"Mi era stato detto che avrei affrontato combattenti inesperti, non i campioni dell'arena!"
+
+### u042547
+{n}Una delle Wych lascia scappare una risata acida.{/n} "Dubito che Yremeryss cambierà idea. E Sinisthoria di certo non vorrà rinunciare al suo nuovo giocattolo."
+
+### u042548
+{n}Marazhai stringe le sue lame con una forza tale da farti sentire lo stridio dei suoi guanti sulle impugnature.{/n}
+
+### u042549
+"Elantach..." {n}Yrliet si strozza, incapace di proseguire.{/n}
+
+### u042550
+{n}L'espressione tormentata negli occhi di Marazhai svanisce — sostituita dalla malevola risolutezza che hai imparato a conoscere.{/n} "La tua offerta è accettata, mon-keigh."
+
+### u042551
+{n}Marazhai lancia un'occhiata alle Wych, gli occhi colmi di un mare di rabbia impotente. Un attimo dopo, guarda te. La sua espressione cambia leggermente, un sopracciglio inarcato come se cercasse di prendere una decisione straziante.{/n}
+
+### u042552
+"Cos'hai detto, miserabile arrogante?"
+
+### u042553
+{n}Kibellah sussulta, sconvolta.{/n} "Come posso proteggervi dagli xenos se accogliete il più vile di loro nel vostro onorato seguito?"
+
+### u042554
+{n}Aebys fa scorrere le dita lungo il filo della sua lama.{/n} "I tuoi ex prigionieri. Hai la possibilità di rimediare all'errore che ti ha fatto perdere il favore del tuo Arconte."
+
+### u042555
+"I piani sono cambiati, mon-keigh." {n}Aebys snuda i denti.{/n} "Keykeross vuole dare una lezione a Tervantias. Feccia come te non ha posto nella Voragine — dovresti essere appeso alle punte dell'arena."
+
