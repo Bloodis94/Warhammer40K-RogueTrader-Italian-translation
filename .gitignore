@@ -14,3 +14,7 @@ work/compare/
 work/parts/
 work/out_proxy/
 esES.json
+
+# Prompt e istruzioni interne della pipeline (non pubblicati)
+work/ISTRUZIONI.md
+work/gender/prompts/

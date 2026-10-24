@@ -132,7 +132,7 @@
 - c145/c146: "Kabal of the Black Heart" / "Black Heart" → Kabal del Cuore Nero / Cuore Nero (glossary)
 - c146: "Bloodstained Proselytes" → Proseliti Insanguinati (glossary)
 - c146: "Obsidian Court" → Corte d'Ossidiana (glossary)
-- c137: Eogunn reso col tu verso il Rogue Trader → voi (registro in ISTRUZIONI)
+- c137: Eogunn reso col tu verso il Rogue Trader → voi (registro deferente)
 - c149: "Barone d'Ombra" → Barone dell'Ombra (Shadow Baron, glossario)
 - c151: "Barona delle Ombre della Distesa" → Baronessa dell'Ombra della Distesa (Shadow Baron, glossario)
 - c095: "Asta kasballica" → Asta kasballicana (Kasballican, glossario)

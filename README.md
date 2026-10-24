@@ -26,7 +26,7 @@ _Warhammer 40,000: Rogue Trader_ non ha una localizzazione ufficiale in italiano
 
 - **Completa**: tutte le stringhe con testo del gioco sono tradotte, comprese le espansioni presenti nel file di localizzazione.
 - **Terminologia ufficiale Games Workshop**: Ecclesiarchia, Inquisitore, Navigatore, Astropate, Tecnoprete… Le forme già "latine" restano invariate (Imperium, Administratum, Adeptus Mechanicus, Astartes, Sororitas).
-- **Glossario condiviso e coerente**: lo stesso termine ha la stessa resa in tutto il gioco ([`work/ISTRUZIONI.md`](work/ISTRUZIONI.md)).
+- **Glossario condiviso e coerente**: lo stesso termine ha la stessa resa in tutto il gioco ([`work/GLOSSARIO.md`](work/GLOSSARIO.md)).
 - **Concordanza di genere curata**:
   - il Rogue Trader è declinato al maschile o al femminile in base al personaggio che crei, tramite i tag `{mf|…|…}` del gioco;
   - un registro di **961 personaggi** fissa il genere di ciascuno, ricavato dalle prove del testo originale ([`work/GENERI.md`](work/GENERI.md)).
@@ -59,7 +59,7 @@ Il gioco non prevede l'italiano tra le lingue selezionabili. La traduzione si in
 |---|---|
 | `itIT.json` | La traduzione finale, pronta all'uso |
 | `work/out/` | La traduzione suddivisa in 224 blocchi di lavoro |
-| `work/ISTRUZIONI.md` | Glossario e regole di stile e grammatica |
+| `work/GLOSSARIO.md` | Glossario dei termini adottati |
 | `work/GENERI.md` | Registro dei generi dei personaggi |
 | `work/FIXUP.md` | Correzioni di coerenza applicate dopo la traduzione |
 | `work/doubts/`, `work/gender/` | Scelte di traduzione discusse e registro delle correzioni |
